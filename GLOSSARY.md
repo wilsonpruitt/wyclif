@@ -6,7 +6,8 @@ only by a dated decision in CONVENTIONS' decision log, never silently in a chunk
 *added* by recorded decision as new terms appear. **Tag keys:** a chunk tags a term as
 `[English]{g:latin-form}` (CONVENTIONS §11), and the key must match a Latin form in one of the rows
 below. These rows are also the source of the site's hover glossary. Where a term has two senses,
-the entry says so and each chunk's note picks one.*
+the entry says so and each chunk's note picks one. A term marked **CONTEXTUAL** holds together
+senses English splits: its English is chosen by context, under the dikaiosune rule (CONVENTIONS §6).*
 
 **Sources of the decisions.** "Pilot" = settled in `pilots/` this session. "T. p. N" = Mark
 Thakkar, "Duces caecorum," *Vivarium* 58 (2020), page N (`reference/`), which documents the
@@ -29,6 +30,7 @@ otherwise.
 | prescitus, -i | **the foreknown** | ⭐ Wyclif's technical term for those God foreknows will be damned. It is **not** "the reprobate" (*reprobi* → "the reprobate"). Explain it in a note at its first occurrence in **each work**. The English word misleads on its own and Penn explains it only once (T. p. 361 n. 12). Pilot. |
 | presciencia | foreknowledge | |
 | viator | wayfarer | One still on the road, not yet in the homeland. Loserth: "a traveller on earth". Pilot. |
+| viare; vians | to be a wayfarer; [one] on the way | The verb of *viator*; tag `g:viator`. Ruled 2026-09-28 (8 sites). |
 | via / patria | the way / the homeland | *Beatitudo patrie* → "the blessedness of the homeland". Pilot. |
 | sponsa / sponsus | bride / bridegroom | |
 | corpus Christi misticum | the mystical body of Christ | |
@@ -36,6 +38,9 @@ otherwise.
 | symbolum | creed | *Utrumque simbolum* = both creeds, Apostles' and Nicene (T. p. 368). |
 | fides formata / informis | formed faith / unformed faith | Faith formed by charity. Pilot. |
 | caritas | charity | ⛔ Never "love". *Amor* and *dilectio* → "love". The argument often turns on charity as the Holy Spirit (Lombard, *Sent.* I d.17). |
+| suffragia | suffrages | The prayers and good works shared out by the church or an order. Ruled 2026-09-28 (11 sites). |
+| litere fraternitatum | letters of fraternity | Friars' letters admitting a benefactor to the order's suffrages. Ruled 2026-09-28 (4 sites). |
+| canonizare | canonize | The same English whether pope or scripture canonizes (*Dial.* 20.31, 21.1). Ruled 2026-09-28 (6 sites). |
 
 ## B. Lordship, law, office
 
@@ -78,6 +83,12 @@ otherwise.
 | Latin | English | Note |
 |---|---|---|
 | quiditas | quiddity | Kept. Explain at first use per work ("what a thing is"). |
+| inconveniencia; inconveniens | CONTEXTUAL: an absurdity (in argument) · troubles, ill consequences (in affairs) | One word for what does not fit: the absurd consequence of a premiss, and the disorder that follows from an act. Dikaiosune rule: English by context, **C** note at first occurrence in each chunk and wherever it leans the other way (*Dial.* 22.16 troubles; 23.2, 23.16 absurdities). Ruled 2026-09-28 (3 sites). |
+| opinio | opinion | Opposed to *fides* throughout (*Dial.* 20.24–31). Ruled 2026-09-28 (11 sites). |
+| credulitas | credence | With *credere*, believe (*Dial.* 23.17–24.4). Ruled 2026-09-28. |
+| argumentum topicum | topical argument | Merely probable, not demonstrative. Ruled 2026-09-28 (4 sites). |
+| medium inductivum | a middle term that leads on | Ruled 2026-09-28 (*Dial.* 25.5). |
+| ars obligacionis | the art of obligation | The disputation genre *de obligationibus*. Ruled 2026-09-28 (2 sites). |
 | quid nominis | what the name means | Not "the name" (T. p. 365). Pilot (*Eccl.* 5.11). |
 | differencia | difference (logical *differentia*) | Pilot (*Eccl.* 1.10). |
 | subiectum / passio | subject / attribute | *Passio* in the *Posterior Analytics* sense (a proper attribute), never "passion". Pilot. |
@@ -122,6 +133,8 @@ otherwise.
 | Latin | English | ⛔ Not |
 |---|---|---|
 | sensibilis | perceptible | "sensible" (T. p. 362) |
+| insensibilis | imperceptible | Kept visibly paired with *sensibilis*. Ruled 2026-09-28 (3 sites). |
+| zizania | cockle | Douay–Rheims (Matt. 13:25). Ruled 2026-09-28. |
 | infidelitas | heathenism, unbelief | "infidelity" (T. p. 362) |
 | sciolus | knowing, wise | "smatterer" (the classical sense). Neutral in Wyclif. Pilot (*Eccl.* 5.8) |
 | philocaptus | besotted | "philo-captive" (T. p. 363) |

@@ -226,6 +226,15 @@ especially, *Polemical Works* II 419).
 (*simpliciter / secundum quid*). If a word looks like a technical term, look it up in the glossary
 before rendering it. If it isn't there, add it by recorded decision and don't improvise.
 
+**The dikaiosune rule (Wilson, 2026-09-28, from the Jeong project).** Some words hold together senses
+that English splits between two words, the way δικαιοσύνη covers both "righteousness" and "justice"
+(*inconveniencia*: the absurd consequence in argument, the disorder that follows in affairs). Don't let
+the English split decide the meaning. The glossary marks such a term **CONTEXTUAL**: choose the
+English by context each time, and write a **C** note at its first occurrence in each chunk and
+wherever the context leans toward the other sense, saying what the Latin holds together and which
+sense the English chose. The rule is for real two-sense words only, not a licence to vary a fixed
+rendering.
+
 ## 7. Error class 2 — the connectives that carry the argument (T. p. 365)
 
 ⛔ **An argument-bearing connective is never omitted and never turned into filler.**
@@ -354,5 +363,7 @@ side-notes · Notes · Transcription notes (plate readings, collation, the edito
 | 2026-09-28 | CONVENTIONS and GLOSSARY frozen on pilot review | Wilson |
 | 2026-09-28 | GLOSSARY: 15 terms added from wave 1 after a census (*sentencia* teaching, *evidencia* evidence, *reditus* revenue(s), …) | Wilson |
 | 2026-09-28 | GLOSSARY: 9 terms added from *Dialogus* batch A, after a census (*ex fide* and *limitare* split by use) | Wilson |
+| 2026-09-28 | §6: the dikaiosune rule for two-sense words (CONTEXTUAL entries); first case *inconveniencia* | Wilson |
+| 2026-09-28 | GLOSSARY: 12 terms added from wave 2 after a census (*opinio*, *suffragia*, *canonizare*, *litere fraternitatum*, …) | Wilson |
 | 2026-09-28 | §2: an unnumbered section takes a short Latin tag for `<cap>` (`wyc-dialogus-epil-a`), and parts of a split section a hyphenated letter | Opus (M3), mechanical |
 | 2026-09-28 | §3.3 refined in M2 against measurement: non-word attribution (OCR confusions, glue, singletons); R3a/R3b/R5a/R6a/DEL/INS/THIN/HEAD; §3.4 crop sheets + decisions file. Principle unchanged | Opus (M2) · **confirmed by Wilson 2026-09-28** |
