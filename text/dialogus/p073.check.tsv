@@ -1,9 +1,11 @@
 pos	rule	forms	support	voters	resolution
 9	R3a	latinworks22wycl=uel | 11663460bsb=uel | dialogussivespec00wycl=uel | fordham=uel | iohanniswycliff00wyclgoog=ue | iohanniswycliffe05wycl=uel		6	accept
 76	R2	latinworks22wycl=humilis | 11663460bsb=humilis | dialogussivespec00wycl=humilis | fordham=humilis | iohanniswycliff00wyclgoog=humilis | iohanniswycliffe05wycl=immilis		6	accept
+106	R3a	latinworks22wycl=christi | 11663460bsb=christi | dialogussivespec00wycl=christi | fordham=christi | iohanniswycliff00wyclgoog=chrisii | iohanniswycliffe05wycl=christi		6	accept
 149	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept
 179	INS	a	4	6	accept
 196	R3a	latinworks22wycl=septiformia | 11663460bsb=septiformia | dialogussivespec00wycl=septiformia | fordham=septiformia | iohanniswycliff00wyclgoog=septis | iohanniswycliffe05wycl=septiformia		6	accept
 198	HEAD	^CAPITULUM			plate
+218	R3a	latinworks22wycl=nec | 11663460bsb=nec | dialogussivespec00wycl=nec | fordham=nec | iohanniswycliff00wyclgoog=nec | iohanniswycliffe05wycl=ncc		6	accept
 220	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
 223	R2	latinworks22wycl=accidens | 11663460bsb=goaccidens | dialogussivespec00wycl=accidens | fordham=accidens | iohanniswycliff00wyclgoog=goaccidens | iohanniswycliffe05wycl=accidens		6	accept

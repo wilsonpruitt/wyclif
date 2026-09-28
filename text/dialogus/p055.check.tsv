@@ -5,10 +5,10 @@ pos	rule	forms	support	voters	resolution
 66	R2	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ex		6	accept
 105	R2	latinworks22wycl=istam | 11663460bsb=istam | dialogussivespec00wycl=istam | fordham=istam | iohanniswycliff00wyclgoog=istara | iohanniswycliffe05wycl=istam		6	accept
 112	R2	latinworks22wycl=contrarie | 11663460bsb=contrarie | dialogussivespec00wycl=contrarie | fordham=contrarie | iohanniswycliff00wyclgoog=conp | iohanniswycliffe05wycl=contrarie		6	accept
-116	R2	latinworks22wycl=papae | 11663460bsb=papz | dialogussivespec00wycl=papae | fordham=pap | iohanniswycliff00wyclgoog=papse | iohanniswycliffe05wycl=papae		6	accept
+116	R3	latinworks22wycl=papae | 11663460bsb=papz | dialogussivespec00wycl=papae | fordham=pap | iohanniswycliff00wyclgoog=papse | iohanniswycliffe05wycl=papae		6	plate
 121	R2	latinworks22wycl=non | 11663460bsb=∅ | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=non | iohanniswycliffe05wycl=non		6	accept
 124	R2	latinworks22wycl=istam | 11663460bsb=∅ | dialogussivespec00wycl=istam | fordham=istam | iohanniswycliff00wyclgoog=istam | iohanniswycliffe05wycl=istam		6	accept
-128	R2	latinworks22wycl=racio | 11663460bsb=∅ | dialogussivespec00wycl=racio | fordham=racio | iohanniswycliff00wyclgoog=racio | iohanniswycliffe05wycl=rac		6	accept
+128	R3a	latinworks22wycl=racio | 11663460bsb=∅ | dialogussivespec00wycl=racio | fordham=racio | iohanniswycliff00wyclgoog=racio | iohanniswycliffe05wycl=rac		6	accept
 146	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept
 161	R3a	latinworks22wycl=que | 11663460bsb=que | dialogussivespec00wycl=que | fordham=que | iohanniswycliff00wyclgoog=ioque | iohanniswycliffe05wycl=que		6	accept
 164	R2	latinworks22wycl=patule | 11663460bsb=patule | dialogussivespec00wycl=patule | fordham=patule | iohanniswycliff00wyclgoog=pamle | iohanniswycliffe05wycl=patule		6	accept

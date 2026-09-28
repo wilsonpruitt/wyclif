@@ -1,7 +1,8 @@
 pos	rule	forms	support	voters	resolution
-0	HEAD	CAPITULUM			plate
+0	HEAD	CAPITULUM			plate: CAPITULUM 19m.
 22	R2	latinworks22wycl=fratrum | 11663460bsb=fratrum | dialogussivespec00wycl=fratrum | fordham=fratrum | iohanniswycliff00wyclgoog=fratnim | iohanniswycliffe05wycl=fratrum		6	accept
 71	R2	latinworks22wycl=in | 11663460bsb=toin | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=in		6	accept
-130	R3	latinworks22wycl=cunam | 11663460bsb=curiam | dialogussivespec00wycl=cunam | fordham=curiam | iohanniswycliff00wyclgoog=cunam | iohanniswycliffe05wycl=curiam		6	plate
+130	PLATE	latinworks22wycl=cunam | 11663460bsb=curiam | dialogussivespec00wycl=cunam | fordham=curiam | iohanniswycliff00wyclgoog=cunam | iohanniswycliffe05wycl=curiam		6	accept
 139	R2	latinworks22wycl=mfence | 11663460bsb=in | dialogussivespec00wycl=mfence | fordham=in | iohanniswycliff00wyclgoog=mfencc | iohanniswycliffe05wycl=in		6	accept
+200	R3a	latinworks22wycl=enim | 11663460bsb=enim | dialogussivespec00wycl=enim | fordham=enim | iohanniswycliff00wyclgoog=enim | iohanniswycliffe05wycl=cnim		6	accept
 230	R2	latinworks22wycl=specialiter | 11663460bsb=tariam | dialogussivespec00wycl=specialiter | fordham=specialiter | iohanniswycliff00wyclgoog=specialiter | iohanniswycliffe05wycl=specialiter		6	accept

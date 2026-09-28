@@ -8,12 +8,10 @@ pos	rule	forms	support	voters	resolution
 60	R2	latinworks22wycl=pocius | 11663460bsb=pocius | dialogussivespec00wycl=∅ | fordham=pocius | iohanniswycliff00wyclgoog=pocius | iohanniswycliffe05wycl=pocius		6	accept
 104	R2	latinworks22wycl=uel | 11663460bsb=yel | dialogussivespec00wycl=uel | fordham=uel | iohanniswycliff00wyclgoog=yel | iohanniswycliffe05wycl=ucl		6	accept
 114	R2	latinworks22wycl=sunt | 11663460bsb=sunt | dialogussivespec00wycl=sunt | fordham=sunt | iohanniswycliff00wyclgoog=gunt | iohanniswycliffe05wycl=gunt		6	accept
+116	R3b	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=ct		6	accept
 117	R3b	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=iu		6	accept
 118	R3b	latinworks22wycl=die | 11663460bsb=die | dialogussivespec00wycl=die | fordham=die | iohanniswycliff00wyclgoog=dic | iohanniswycliffe05wycl=dic		6	accept
 124	R2	latinworks22wycl=tanta | 11663460bsb=tanta | dialogussivespec00wycl=tanta | fordham=tanta | iohanniswycliff00wyclgoog=tnta | iohanniswycliffe05wycl=anla		6	accept
 175	R2	latinworks22wycl=n | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=in		6	accept
-184	DEL	latinworks22wycl=simony | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
-219	DEL	latinworks22wycl=priests | 11663460bsb=∅ | dialogussivespec00wycl=precucari | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
-220	R2	latinworks22wycl=predicari | 11663460bsb=predicari | dialogussivespec00wycl=∅ | fordham=predicari | iohanniswycliff00wyclgoog=predicari | iohanniswycliffe05wycl=predicari		6	accept
-229	R3a	latinworks22wycl=persecuntur | 11663460bsb=dicium | dialogussivespec00wycl=persecuntur | fordham=persecuntur | iohanniswycliff00wyclgoog=persccuntur | iohanniswycliffe05wycl=pcrsecuntur		6	accept
-237	R3a	latinworks22wycl=indicium | dialogussivespec00wycl=indicium | fordham=in | iohanniswycliff00wyclgoog=indicium | iohanniswycliffe05wycl=indicium		5	accept
+227	R3a	latinworks22wycl=persecuntur | 11663460bsb=dicium | dialogussivespec00wycl=persecuntur | fordham=persecuntur | iohanniswycliff00wyclgoog=persccuntur | iohanniswycliffe05wycl=pcrsecuntur		6	accept
+235	R3a	latinworks22wycl=indicium | dialogussivespec00wycl=indicium | fordham=in | iohanniswycliff00wyclgoog=indicium | iohanniswycliffe05wycl=indicium		5	accept

@@ -1,22 +1,24 @@
 pos	rule	forms	support	voters	resolution
 3	R2	latinworks22wycl=regna | 11663460bsb=regna | dialogussivespec00wycl=regna | fordham=regna | iohanniswycliff00wyclgoog=reima | iohanniswycliffe05wycl=reffna		6	accept
-9	R2	latinworks22wycl=deof | 11663460bsb=dedisse | dialogussivespec00wycl=dedisse | fordham=dedisse		4	accept
-10	DEL	latinworks22wycl=o | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅		4	accept
-11	DEL	latinworks22wycl=fcsse | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅		4	accept
-19	R2	latinworks22wycl=regi | 11663460bsb=regi | dialogussivespec00wycl=regi | fordham=regi | iohanniswycliff00wyclgoog=regi | iohanniswycliffe05wycl=resri		6	accept
-20	R3a	latinworks22wycl=dedisse | 11663460bsb=cedisse | dialogussivespec00wycl=dedisse | fordham=dedisse | iohanniswycliff00wyclgoog=ion | iohanniswycliffe05wycl=fisse		6	accept
-25	R2	latinworks22wycl=reges | 11663460bsb=airae | dialogussivespec00wycl=reges | fordham=reges | iohanniswycliff00wyclgoog=reges | iohanniswycliffe05wycl=reges		6	accept
-28	R2	latinworks22wycl=reges | 11663460bsb=reoes | dialogussivespec00wycl=trasta | fordham=reges | iohanniswycliff00wyclgoog=habilcs | iohanniswycliffe05wycl=regcs		6	accept
-29	R2	latinworks22wycl=habiles | 11663460bsb=habiles | dialogussivespec00wycl=habiles | fordham=habiles | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=habilcs		6	accept
-44	R2	latinworks22wycl=temptare | 11663460bsb=temptare5 | dialogussivespec00wycl=temptare | fordham=temptare | iohanniswycliff00wyclgoog=temptare5 | iohanniswycliffe05wycl=temptare		6	accept
-70	R2	latinworks22wycl=auferre | 11663460bsb=auferre | dialogussivespec00wycl=aufeite | fordham=auferre | iohanniswycliff00wyclgoog=aufcrre | iohanniswycliffe05wycl=auferrc		6	accept
-112	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=non		6	accept
-127	R2	latinworks22wycl=destruere | 11663460bsb=destruere | dialogussivespec00wycl=des15 | fordham=destruere | iohanniswycliff00wyclgoog=destruere | iohanniswycliffe05wycl=des15		6	accept
-128	INS?	truere	2	6	plate
-148	R3a	latinworks22wycl=tres | 11663460bsb=tres | dialogussivespec00wycl=tres | fordham=tres | iohanniswycliff00wyclgoog=i		5	accept
-149	R2	latinworks22wycl=eius | 11663460bsb=eius | dialogussivespec00wycl=eius | fordham=eius | iohanniswycliff00wyclgoog=∅		5	accept
-219	R2	latinworks22wycl=sue | 11663460bsb=sue | dialogussivespec00wycl=sue | fordham=sue | iohanniswycliff00wyclgoog=uc		5	accept
-221	R2	latinworks22wycl=regi | 11663460bsb=regi | dialogussivespec00wycl=regi | fordham=regi | iohanniswycliff00wyclgoog=tcgi		5	accept
-230	R3a	latinworks22wycl=diuine | 11663460bsb=diuine | dialogussivespec00wycl=diuine | fordham=diuine | iohanniswycliff00wyclgoog=diuine | iohanniswycliffe05wycl=diuiue		6	accept
-240	R2	latinworks22wycl=regno | 11663460bsb=yregno | dialogussivespec00wycl=regno | fordham=regno | iohanniswycliff00wyclgoog=rcgno | iohanniswycliffe05wycl=tcgno		6	accept
-258	R3a	latinworks22wycl=multi | 11663460bsb=multi | dialogussivespec00wycl=multi | fordham=multi | iohanniswycliff00wyclgoog=multi | iohanniswycliffe05wycl=mulli		6	accept
+7	R2	latinworks22wycl=regi | 11663460bsb=regi | dialogussivespec00wycl=regi | fordham=regi | iohanniswycliff00wyclgoog=regi | iohanniswycliffe05wycl=resfi		6	accept
+9	R2	latinworks22wycl=defcsse | 11663460bsb=dedisse | dialogussivespec00wycl=dedisse | fordham=dedisse | iohanniswycliff00wyclgoog=deiisse | iohanniswycliffe05wycl=deiiggg		6	accept
+11	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=et		6	accept
+17	R2	latinworks22wycl=regi | 11663460bsb=regi | dialogussivespec00wycl=regi | fordham=regi | iohanniswycliff00wyclgoog=regi | iohanniswycliffe05wycl=resri		6	accept
+18	R3a	latinworks22wycl=dedisse | 11663460bsb=cedisse | dialogussivespec00wycl=dedisse | fordham=dedisse | iohanniswycliff00wyclgoog=ion | iohanniswycliffe05wycl=fisse		6	accept
+23	R2	latinworks22wycl=reges | 11663460bsb=airae | dialogussivespec00wycl=reges | fordham=reges | iohanniswycliff00wyclgoog=reges | iohanniswycliffe05wycl=reges		6	accept
+26	R2	latinworks22wycl=reges | 11663460bsb=reoes | dialogussivespec00wycl=trasta | fordham=reges | iohanniswycliff00wyclgoog=habilcs | iohanniswycliffe05wycl=regcs		6	accept
+27	R2	latinworks22wycl=habiles | 11663460bsb=habiles | dialogussivespec00wycl=habiles | fordham=habiles | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=habilcs		6	accept
+36	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=ct		6	accept
+42	R2	latinworks22wycl=temptare | 11663460bsb=temptare5 | dialogussivespec00wycl=temptare | fordham=temptare | iohanniswycliff00wyclgoog=temptare5 | iohanniswycliffe05wycl=temptare		6	accept
+68	R2	latinworks22wycl=auferre | 11663460bsb=auferre | dialogussivespec00wycl=aufeite | fordham=auferre | iohanniswycliff00wyclgoog=aufcrre | iohanniswycliffe05wycl=auferrc		6	accept
+110	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=non		6	accept
+125	R2	latinworks22wycl=destruere | 11663460bsb=destruere | dialogussivespec00wycl=des15 | fordham=destruere | iohanniswycliff00wyclgoog=destruere | iohanniswycliffe05wycl=des15		6	accept
+126	INS?	truere	2	6	plate
+146	R3a	latinworks22wycl=tres | 11663460bsb=tres | dialogussivespec00wycl=tres | fordham=tres | iohanniswycliff00wyclgoog=i		5	accept
+147	R2	latinworks22wycl=eius | 11663460bsb=eius | dialogussivespec00wycl=eius | fordham=eius | iohanniswycliff00wyclgoog=∅		5	accept
+217	R2	latinworks22wycl=sue | 11663460bsb=sue | dialogussivespec00wycl=sue | fordham=sue | iohanniswycliff00wyclgoog=uc		5	accept
+219	R2	latinworks22wycl=regi | 11663460bsb=regi | dialogussivespec00wycl=regi | fordham=regi | iohanniswycliff00wyclgoog=tcgi		5	accept
+228	R3a	latinworks22wycl=diuine | 11663460bsb=diuine | dialogussivespec00wycl=diuine | fordham=diuine | iohanniswycliff00wyclgoog=diuine | iohanniswycliffe05wycl=diuiue		6	accept
+238	R2	latinworks22wycl=regno | 11663460bsb=yregno | dialogussivespec00wycl=regno | fordham=regno | iohanniswycliff00wyclgoog=rcgno | iohanniswycliffe05wycl=tcgno		6	accept
+239	R3a	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=ex | iohanniswycliffe05wycl=cx		6	accept
+256	R3a	latinworks22wycl=multi | 11663460bsb=multi | dialogussivespec00wycl=multi | fordham=multi | iohanniswycliff00wyclgoog=multi | iohanniswycliffe05wycl=mulli		6	accept

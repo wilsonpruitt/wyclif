@@ -408,7 +408,7 @@ def run(slug, first=None, last=None):
             rule, win, plate = decide(list(forms.values()), lex)
             sig = ' | '.join(f'{w}={f}' for w, f in forms.items())
             d = decisions.get((pg, k))
-            if d and plate:
+            if d and (plate or d['rule'].startswith('OVERRIDE')):   # OVERRIDE: plate corrects an accepted row
                 if d['forms'] == sig:
                     rd = d['reading']
                     win = '∅' if rd == '∅' else norm(rd)

@@ -1,6 +1,8 @@
 pos	rule	forms	support	voters	resolution
 13	R2	latinworks22wycl=eorum | 11663460bsb=eorum | dialogussivespec00wycl=eorum | fordham=eorum | iohanniswycliff00wyclgoog=eonim | iohanniswycliffe05wycl=eorum		6	accept
+22	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=et		6	accept
 29	R3a	latinworks22wycl=sit | 11663460bsb=sit | dialogussivespec00wycl=sit | fordham=sit | iohanniswycliff00wyclgoog=sil | iohanniswycliffe05wycl=sit		6	accept
+32	R3a	latinworks22wycl=patria | 11663460bsb=patna | dialogussivespec00wycl=patria | fordham=patria | iohanniswycliff00wyclgoog=patria | iohanniswycliffe05wycl=patria		6	accept
 57	R2	latinworks22wycl=diaboli | 11663460bsb=diaboli | dialogussivespec00wycl=diaboli | fordham=diaboli | iohanniswycliff00wyclgoog=diaixtli | iohanniswycliffe05wycl=diaboli		6	accept
 66	R2	latinworks22wycl=quam | 11663460bsb=quam | dialogussivespec00wycl=quamchurchhayethe | fordham=quam | iohanniswycliff00wyclgoog=qufn | iohanniswycliffe05wycl=quam		6	accept
 94	R2	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=esl | iohanniswycliffe05wycl=est		6	accept
@@ -16,17 +18,17 @@ pos	rule	forms	support	voters	resolution
 148	R2	latinworks22wycl=dotatus | 11663460bsb=dotatus | dialogussivespec00wycl=dotatus | fordham=dotatus | iohanniswycliff00wyclgoog=dolalus | iohanniswycliffe05wycl=dotatus		6	accept
 155	R2	latinworks22wycl=igitur | 11663460bsb=igitur | dialogussivespec00wycl=igitur | fordham=igitur | iohanniswycliff00wyclgoog=aoigilur | iohanniswycliffe05wycl=igitur		6	accept
 161	R2	latinworks22wycl=deum | 11663460bsb=deum | dialogussivespec00wycl=deum | fordham=deum | iohanniswycliff00wyclgoog=deura | iohanniswycliffe05wycl=deum		6	accept
-165	R2	latinworks22wycl=nisi | 11663460bsb=nisi | dialogussivespec00wycl=nisi | fordham=nisi | iohanniswycliff00wyclgoog=nia | iohanniswycliffe05wycl=nisi		6	accept
+165	R3a	latinworks22wycl=nisi | 11663460bsb=nisi | dialogussivespec00wycl=nisi | fordham=nisi | iohanniswycliff00wyclgoog=nia | iohanniswycliffe05wycl=nisi		6	accept
 171	R2	latinworks22wycl=propter | 11663460bsb=propter | dialogussivespec00wycl=propter | fordham=propter | iohanniswycliff00wyclgoog=f | iohanniswycliffe05wycl=propter		6	accept
 174	R3a	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=esi | iohanniswycliffe05wycl=est		6	accept
 188	R2	latinworks22wycl=assumpte | 11663460bsb=assumpte | dialogussivespec00wycl=assumpte | fordham=assumpte | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=assumpte		6	accept
-190	R4	latinworks22wycl=eccci | 11663460bsb=ecci | dialogussivespec00wycl=eccci | fordham=eccci | iohanniswycliff00wyclgoog=ecc | iohanniswycliffe05wycl=ecc		6	plate
+190	PLATE	latinworks22wycl=eccci | 11663460bsb=ecci | dialogussivespec00wycl=eccci | fordham=eccci | iohanniswycliff00wyclgoog=ecc | iohanniswycliffe05wycl=ecc		6	accept
 191	R3a	latinworks22wycl=34 | 11663460bsb=34 | dialogussivespec00wycl=34 | fordham=34 | iohanniswycliff00wyclgoog=34 | iohanniswycliffe05wycl=340		6	accept
 195	R2	latinworks22wycl=sacnficiumthecutseotbose | dialogussivespec00wycl=sacrificiumcurreoilsi | fordham=sacrificium | iohanniswycliffe05wycl=sacrificium		4	accept
 196	INS?	de	3	6	plate
 203	R2	latinworks22wycl=conspectu | 11663460bsb=conspeciu | dialogussivespec00wycl=conspectu | fordham=conspectu | iohanniswycliff00wyclgoog=conisspcclu | iohanniswycliffe05wycl=c07ispectu		6	accept
 213	R6a	latinworks22wycl=p | 11663460bsb=p | dialogussivespec00wycl=p | fordham=po | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=pi		6	accept
-214	R2	latinworks22wycl=ys | 11663460bsb=ys | dialogussivespec00wycl=us | fordham=ys | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ys		6	accept
+214	R3a	latinworks22wycl=ys | 11663460bsb=ys | dialogussivespec00wycl=us | fordham=ys | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ys		6	accept
 215	R6a	latinworks22wycl=p | 11663460bsb=p | dialogussivespec00wycl=p | fordham=po | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=p		6	accept
 216	R4	latinworks22wycl=aac | 11663460bsb=malac | dialogussivespec00wycl=aac | fordham=malac | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=malac		6	plate
 217	R3	latinworks22wycl=pi | 11663460bsb=p | dialogussivespec00wycl=p0 | fordham=po | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=po		6	plate

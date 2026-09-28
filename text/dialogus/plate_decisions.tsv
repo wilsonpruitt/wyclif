@@ -1,13 +1,12 @@
 page	pos	rule	forms	reading	note
 1	79	R3	latinworks22wycl=140 | 11663460bsb=14 | dialogussivespec00wycl=140 | fordham=14et | iohanniswycliff00wyclgoog=4 | iohanniswycliffe05wycl=14	14°	degree sign
-2	120	R3	latinworks22wycl=estis | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=estis	est	"15" is the line number
+2	120	R3	latinworks22wycl=estis | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=estis	est	15 is the line number
 3	109	HEAD	CAPITULUM	CAPITULUM 2m.	
 5	87	HEAD	CAPITULUM 3m.	CAPITULUM 3m.	
 7	85	R4	latinworks22wycl=2i | 11663460bsb=∅ | dialogussivespec00wycl=2i | fordham=21 | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	21°.	degree sign
 7	86	HEAD	CAPITULUM	CAPITULUM 4m.	
-7	87	R4	latinworks22wycl=xuiii | 11663460bsb=4m | dialogussivespec00wycl=4m | fordham=4 | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=xuiii	∅	marginal ref "Deut. xviii." leaked into the text
+7	87	R4	latinworks22wycl=xuiii | 11663460bsb=4m | dialogussivespec00wycl=4m | fordham=4 | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=xuiii	∅	"marginal ref ""Deut. xviii."" leaked into the text"
 7	95	R3	latinworks22wycl=i | 11663460bsb=18 | dialogussivespec00wycl=18 | fordham=18 | iohanniswycliff00wyclgoog=i | iohanniswycliffe05wycl=18	18°	degree sign
-8	127	R4	latinworks22wycl=sinagoga | 11663460bsb=sinaborh | dialogussivespec00wycl=sina15 | fordham=sinagoga	sinagoga	print sina-|goga, line no. 15 at the break
 8	129	R5	latinworks22wycl=pupplicare | 11663460bsb=pupplicare | fordham=pupplicare	pupplicare	print form (only 3 voters)
 8	164	DEL	latinworks22wycl=duratus | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=duratus	∅	duplicate of the second half of in-|duratus
 8	181	R3	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=n0n | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=nou	non	
@@ -18,3 +17,53 @@ page	pos	rule	forms	reading	note
 9	115	R4	latinworks22wycl=dabilis | 11663460bsb=dabitis | dialogussivespec00wycl=dabitis | fordham=dabitis | iohanniswycliff00wyclgoog=dabilis | iohanniswycliffe05wycl=dabilis	dabitis	italic t vs l: full-res zoom shows short ascender with crossbar = t
 9	132	R3	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=ei	et	
 9	167	INS?	a	a	print: captum a bestia
+11	152	R4	latinworks22wycl=eoi | dialogussivespec00wycl=eoi | fordham=eorum | iohanniswycliff00wyclgoog=eoi | iohanniswycliffe05wycl=eorun	eorum	italic
+11	164	INS?	fieri maior	fieri major	pivot lost the line end
+12	10	R3	latinworks22wycl=multis | 11663460bsb=multis | dialogussivespec00wycl=mullis | fordham=multis | iohanniswycliff00wyclgoog=muilis | iohanniswycliffe05wycl=multis	multis	
+12	122	R3	latinworks22wycl=sto | 11663460bsb=isto | dialogussivespec00wycl=sto | fordham=isto | iohanniswycliff00wyclgoog=isto	isto	
+13	0	HEAD	CAPITULUM VII.	CAPITULUM VII.	
+13	26	INS?	foueas	foveas	italic
+13	189	R4	latinworks22wycl=pa | 11663460bsb=p | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p	pᵃ	superscript a: pᵃ = prima (1 Tim.)
+14	24	R3	latinworks22wycl=tegamur | 11663460bsb=uegamur | dialogussivespec00wycl=iegamur | fordham=tegamur | iohanniswycliff00wyclgoog=legamur | iohanniswycliffe05wycl=iegamur	tegamur	italic
+14	41	R3	latinworks22wycl=dotata | 11663460bsb=dotatas | dialogussivespec00wycl=dotata | fordham=dotata | iohanniswycliff00wyclgoog=dotatasi | iohanniswycliffe05wycl=dotata	dotata	line no. 5
+14	63	R4	latinworks22wycl=pa | 11663460bsb=p | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p	pᵃ	superscript a = prima
+14	65	R3	latinworks22wycl=50 | 11663460bsb=5 | dialogussivespec00wycl=50 | fordham=5 | iohanniswycliff00wyclgoog=5 | iohanniswycliffe05wycl=50	5°	degree sign
+14	88	R3	latinworks22wycl=ut | 11663460bsb=ul | dialogussivespec00wycl=ui | fordham=ut | iohanniswycliff00wyclgoog=ul | iohanniswycliffe05wycl=ut	ut	line no. 10
+15	0	HEAD	CAPITULUM VIII.1	CAPITULUM VIII.	editor footnote 1 on heading
+17	0	HEAD	CAPITULUM 9m.	CAPITULUM 9m.	
+17	61	R3	latinworks22wycl=ion | 11663460bsb=io | dialogussivespec00wycl=ion | fordham=io | iohanniswycliff00wyclgoog=io | iohanniswycliffe05wycl=ioii	jo 11°	print: jo 11° (John xi)
+19	102	HEAD	CAPITULUM io*.	CAPITULUM 10m.	
+26	1	OVERRIDE	latinworks22wycl=hteras | 11663460bsb=tartarum | dialogussivespec00wycl=tartarum | fordham=tartarum | iohanniswycliff00wyclgoog=tartamm	literas	"page-opening slip: witnesses matched p.25 ""ad tartarum""; print p.26 opens ""ad literas fraternitatum"""
+21	91	HEAD	CAPITULUM nm.	CAPITULUM 11m.	
+23	0	HEAD	CABITULUM	CAPITULUM 12m.	
+23	73	DEL	latinworks22wycl=as | 11663460bsb=as | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	∅	"side-note ""As questions of"""
+23	129	DEL	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	∅	"side-note ""in matters of"""
+24	119	INS?	4	4°	print: In 4° vero
+25	27	HEAD	CAPITULUM	CAPITULUM 13m.	
+26	2	INS?	ideo dicunt quidam uiantes quod propter tale iudicium temerarium nec magis nec minus sed propter meritum uel demeritum quo ad deum et de multis literis episcopalibus concedentibus dies uenie est idem probabiliter senciendum et quantum ad literas	∅	page-opening slip: end of p.25 re-matched; p.25 already carries it
+26	83	R4	latinworks22wycl=suf10 | 11663460bsb=suffragiis | dialogussivespec00wycl=suf10 | fordham=suffragiis | iohanniswycliffe05wycl=sufio	suffragiis	suf-|fragiis, line no. 10 at the break
+26	210	HEAD	CAPITULUM i4m.	CAPITULUM 14m.	
+27	165	R4	latinworks22wycl=to | 11663460bsb=t | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=aochristiano | iohanniswycliffe05wycl=∅	∅	"side-note ""to Christ"""
+28	39	R3	latinworks22wycl=ncies | 11663460bsb=fides | dialogussivespec00wycl=es | fordham=fides | iohanniswycliff00wyclgoog=fiig | iohanniswycliffe05wycl=fiieg	fides	
+28	49	R4	latinworks22wycl=scnbitur | 11663460bsb=scribitur | dialogussivespec00wycl=scnbitur | fordham=scribitur | iohanniswycliff00wyclgoog=scriditur | iohanniswycliffe05wycl=scnbitur	scribitur	
+28	53	R4	latinworks22wycl=m | 11663460bsb=in | dialogussivespec00wycl=m | fordham=in | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m	in	
+29	0	HEAD	CAPITULUM	CAPITULUM 15m.	
+31	65	INS?	i6m	16m.	heading number: CAPITULUM 16m.
+32	44	R3	latinworks22wycl=i | 11663460bsb=∅ | dialogussivespec00wycl=i | fordham=1 | iohanniswycliff00wyclgoog=1 | iohanniswycliffe05wycl=i	[1]	print: cor. [1]3° (1 Cor. 13)
+32	150	R3	latinworks22wycl=2 | 11663460bsb=∅ | dialogussivespec00wycl=2 | fordham=24 | iohanniswycliff00wyclgoog=zomattti	24°	print: M. 24°
+33	0	HEAD	CAPITULUM	CAPITULUM 17m.	
+34	121	R3	latinworks22wycl=ceri | 11663460bsb=cleri | dialogussivespec00wycl=cieri | fordham=cleri | iohanniswycliffe05wycl=qqi	cleri	
+35	74	R4	latinworks22wycl=dedeiat | 11663460bsb=dederat | dialogussivespec00wycl=dedeiat | fordham=dederat | iohanniswycliff00wyclgoog=dedeiat | iohanniswycliffe05wycl=dedeiat	dederat	
+37	0	HEAD	CAPITULUM	CAPITULUM 19m.	
+37	130	R3	latinworks22wycl=cunam | 11663460bsb=curiam | dialogussivespec00wycl=cunam | fordham=curiam | iohanniswycliff00wyclgoog=cunam | iohanniswycliffe05wycl=curiam	curiam	
+40	0	R3	latinworks22wycl=a | 11663460bsb=sic | dialogussivespec00wycl=et | fordham=a | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=a	a	
+40	224	R4	latinworks22wycl=m | 11663460bsb=∅ | dialogussivespec00wycl=in | fordham=∅ | iohanniswycliff00wyclgoog=m	in	
+40	225	R4	latinworks22wycl=secuntate | 11663460bsb=∅ | dialogussivespec00wycl=secuntate | fordham=∅ | iohanniswycliff00wyclgoog=securitate	securitate.	
+40	228	INS?	in auctoritate	[In auctoritate]	editor brackets
+44	93	R4	latinworks22wycl=falb | 11663460bsb=faliaciam | dialogussivespec00wycl=falb | fordham=fallaciam | iohanniswycliff00wyclgoog=falb | iohanniswycliffe05wycl=falb	fallaciam	fal-|laciam, MS mark B.12a
+45	64	R6	latinworks22wycl=cium | 11663460bsb=∅ | dialogussivespec00wycl=cium | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=cium	∅	tail of vian-|cium, already joined
+45	121	R4	latinworks22wycl=isfructu | 11663460bsb=fructu | dialogussivespec00wycl=isfructu | fordham=fructu | iohanniswycliff00wyclgoog=isfniclu | iohanniswycliffe05wycl=isfructu	fructu	line no. 15
+45	197	R3	latinworks22wycl=t | 11663460bsb=to | dialogussivespec00wycl=t | fordham=∅ | iohanniswycliff00wyclgoog=5 | iohanniswycliffe05wycl=∅	∅	"side-note ""to Fatalism"""
+45	206	R4	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m	Mᵗ	superscript t
+45	223	R3	latinworks22wycl=cap | 11663460bsb=cap | dialogussivespec00wycl=cap | fordham=capo | iohanniswycliff00wyclgoog=cap | iohanniswycliffe05wycl=capo	cap°	
+47	190	R4	latinworks22wycl=eccci | 11663460bsb=ecci | dialogussivespec00wycl=eccci | fordham=eccci | iohanniswycliff00wyclgoog=ecc | iohanniswycliffe05wycl=ecc	eccᶜⁱ	superscript ci = Ecclesiastici

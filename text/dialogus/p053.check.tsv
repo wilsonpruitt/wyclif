@@ -10,6 +10,7 @@ pos	rule	forms	support	voters	resolution
 106	HEAD	CAPITULUM			plate
 107	R4	latinworks22wycl=i5 | 11663460bsb=menpacium | dialogussivespec00wycl=t5 | fordham=26 | iohanniswycliffe05wycl=∅		5	plate
 108	R2	latinworks22wycl=mendacium | 11663460bsb=∅ | dialogussivespec00wycl=mendacium | fordham=mendacium | iohanniswycliff00wyclgoog=mendacium | iohanniswycliffe05wycl=mendacium		6	accept
+121	R3b	latinworks22wycl=christi | 11663460bsb=christi | dialogussivespec00wycl=chnsti | fordham=christi | iohanniswycliff00wyclgoog=christi | iohanniswycliffe05wycl=chnsti		6	accept
 131	R2	latinworks22wycl=si | 11663460bsb=si | dialogussivespec00wycl=si | fordham=si | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=si		6	accept
 186	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
 194	R2	latinworks22wycl=ordinauit | 11663460bsb=ordinauit | dialogussivespec00wycl=ordinauit | fordham=ordinauit | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ordinauit		6	accept

@@ -20,6 +20,12 @@ import xml.etree.ElementTree as ET
 NUM_PREFIX = re.compile(r'^(?:10|1[oO0]|[iIl][oO0]|15|[iIl][5S]|20|2[oO0]|25|2[5S]|30|3[oO0]|35|3[5S]|5)(?=[A-Za-z])')   # line nos glued at left: 5, io, i5, 2o...
 NUM_SUFFIX = re.compile(r'(?<=[a-z.,;:])(?:10|1[oO0]|[iIl][oO0]|15|[iI][5S]|20|2[oO0]|25|30|3[oO0]|35|5|[A-D])$')   # line no. or alinea letter glued at right
 PURE_NUM = re.compile(r'^[0-9IiloOS.,*]{1,4}$')
+# apparatus vocabulary: line refs (18.), sigla (B, B1, c, D.), and the collator's pro/add./om.
+SIGLUM = re.compile(r'^(\d{1,2}\.|[BbCcDd][1l]?[,.;:]?|pro|fro|add\.?|om\.?|post|ante|inv\.?|ord\.?)$')
+
+
+def sigla_share(row):
+    return sum(bool(SIGLUM.match(w[0])) for w in row) / max(len(row), 1)
 
 
 def parse(path):
@@ -154,7 +160,10 @@ def split_leaf(leaf, W):
         alpha = sum(ch.isalpha() for w in m for ch in w[0])
         hm = st.median([w[4] - w[2] for w in m]) if m else 0
         at_edge = bool(m) and abs(m[0][1] - L) <= 2 * tol          # a real line starts at the text edge
-        if m and (alpha < 3 or (alpha < 12 and (hm < 0.72 * body_h0 or (hm < 0.85 * body_h0 and not at_edge)))):
+        from_margin = (bool(m) and m[0][1] < L - tol                # box starts out in the side-note column,
+                       and not any(len(w[0]) >= 5 and w[0].isupper() for w in m))  # unless a heading
+        if m and (alpha < 3 or (alpha < 12 and (hm < 0.72 * body_h0 or (hm < 0.85 * body_h0 and not at_edge)
+                                                or from_margin))):
             g = g + m
             m = []
         clean.append((m, g))
@@ -174,13 +183,30 @@ def split_leaf(leaf, W):
     # lines run on tighter leading than the body; everything after it
     app_start = len(main_rows)
     for i in range(3, len(main_rows)):
+        if any(len(w[0].strip('.,:;')) >= 5 and w[0].strip('.,:;').isupper() and set(w[0].strip('.,:;')) - set('MDCLXVI')
+               for w in main_rows[i]):
+            continue            # a heading or speaker (CAPITULUM, VERITAS) never opens the notes
         small2 = i + 1 < len(hts) and hts[i] < 0.8 * body_h and hts[i + 1] < 0.8 * body_h
         tight = (len(gaps[i:i + 4]) >= 3 and st.median(gaps[i:i + 4]) < 0.8 * lead
                  and hts[i] < 0.93 * body_h and gaps[i - 1] > 0.9 * lead)
+        siglaic = (sigla_share(main_rows[i]) >= 0.3 and gaps[i - 1] > 0.9 * lead
+                   and all(sigla_share(r) >= 0.2 for r in main_rows[i + 1:i + 3]))
+        if siglaic:             # few note lines at the foot: too few gaps for the leading test
+            app_start = i
+            break
         if gaps[i - 1] > 1.2 * lead or small2 or tight:
             nxt = gaps[i:i + 4]
             if nxt and st.median(nxt) < 0.85 * lead:
                 app_start = i
+                # the real break may be one or two lines lower (the widest gap): the
+                # rows before it are the page's last body lines, not notes
+                for sh in (1, 2):
+                    j = i + sh - 1
+                    if (j < len(gaps) and gaps[j] > 1.15 * lead
+                            and all(g >= 0.85 * lead for g in gaps[i:j])
+                            and st.median(gaps[j + 1:j + 4] or [0]) < 0.85 * lead):
+                        app_start = i + sh
+                        break
                 break
             if not nxt and hts[i] < 0.9 * body_h:   # a single short footnote line
                 app_start = i

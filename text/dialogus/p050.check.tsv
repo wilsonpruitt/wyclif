@@ -1,11 +1,79 @@
 pos	rule	forms	support	voters	resolution
-0	R3a	latinworks22wycl=que | 11663460bsb=que | dialogussivespec00wycl=que | fordham=que | iohanniswycliff00wyclgoog=uidetur		5	accept
-15	R2	latinworks22wycl=deum | 11663460bsb=deumc | dialogussivespec00wycl=deum | fordham=deum | iohanniswycliff00wyclgoog=deumc		5	accept
-23	R3a	latinworks22wycl=uestigia | 11663460bsb=uestigia | dialogussivespec00wycl=uestigia | fordham=uestigia | iohanniswycliff00wyclgoog=uestiga		5	accept
-33	R2	latinworks22wycl=papa | 11663460bsb=pep | dialogussivespec00wycl=∅ | fordham=papa | iohanniswycliff00wyclgoog=papa		5	accept
-78	R3a	latinworks22wycl=smt | 11663460bsb=sint | dialogussivespec00wycl=sint | fordham=sint | iohanniswycliff00wyclgoog=siut		5	accept
-82	R3a	latinworks22wycl=iuit | 11663460bsb=fuit | dialogussivespec00wycl=fuit | fordham=fuit | iohanniswycliff00wyclgoog=fuit		5	accept
-84	R4	latinworks22wycl=chnsti | dialogussivespec00wycl=chnsti | fordham=christi		3	plate
-128	R3a	latinworks22wycl=a | 11663460bsb=a | dialogussivespec00wycl=∅ | fordham=a | iohanniswycliff00wyclgoog=ai		5	accept
+0	R3a	latinworks22wycl=que | 11663460bsb=que | dialogussivespec00wycl=que | fordham=que | iohanniswycliff00wyclgoog=uidetur | iohanniswycliffe05wycl=que		6	accept
+15	R2	latinworks22wycl=deum | 11663460bsb=deumc | dialogussivespec00wycl=deum | fordham=deum | iohanniswycliff00wyclgoog=deumc | iohanniswycliffe05wycl=deum		6	accept
+16	R3b	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=cst | iohanniswycliffe05wycl=cst		6	accept
+23	R3a	latinworks22wycl=uestigia | 11663460bsb=uestigia | dialogussivespec00wycl=uestigia | fordham=uestigia | iohanniswycliff00wyclgoog=uestiga | iohanniswycliffe05wycl=uestigia		6	accept
+26	R3b	latinworks22wycl=nec | 11663460bsb=nec | dialogussivespec00wycl=nec | fordham=nec | iohanniswycliff00wyclgoog=ncc | iohanniswycliffe05wycl=ncc		6	accept
+33	R2	latinworks22wycl=papa | 11663460bsb=pep | dialogussivespec00wycl=∅ | fordham=papa | iohanniswycliff00wyclgoog=papa | iohanniswycliffe05wycl=dapa		6	accept
+41	R2	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=ex | iohanniswycliffe05wycl=gx		6	accept
+78	R3a	latinworks22wycl=smt | 11663460bsb=sint | dialogussivespec00wycl=sint | fordham=sint | iohanniswycliff00wyclgoog=siut | iohanniswycliffe05wycl=smt		6	accept
+82	R3a	latinworks22wycl=iuit | 11663460bsb=fuit | dialogussivespec00wycl=fuit | fordham=fuit | iohanniswycliff00wyclgoog=fuit | iohanniswycliffe05wycl=fuit		6	accept
+84	R3	latinworks22wycl=chnsti | dialogussivespec00wycl=chnsti | fordham=christi | iohanniswycliffe05wycl=christi		4	plate
+103	R2	latinworks22wycl=enim | 11663460bsb=enim | dialogussivespec00wycl=enim | fordham=enim | iohanniswycliff00wyclgoog=enim | iohanniswycliffe05wycl=euini		6	accept
+121	R2	latinworks22wycl=profectus | 11663460bsb=profectus | dialogussivespec00wycl=profectus | fordham=profectus | iohanniswycliff00wyclgoog=profectus | iohanniswycliffe05wycl=∅		6	accept
+128	R3a	latinworks22wycl=a | 11663460bsb=a | dialogussivespec00wycl=∅ | fordham=a | iohanniswycliff00wyclgoog=ai | iohanniswycliffe05wycl=a		6	accept
 144	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iu		5	accept
-226	R2	latinworks22wycl=exaltabitur | 11663460bsb=exaltabitur | dialogussivespec00wycl=extheiudgealtabitur | fordham=exaltabitur | iohanniswycliff00wyclgoog=exaltabitur		5	accept
+148	R2	latinworks22wycl=proficiunt | 11663460bsb=proficiunt | dialogussivespec00wycl=proficiunt | fordham=proficiunt | iohanniswycliff00wyclgoog=proficiunt | iohanniswycliffe05wycl=proncmnt		6	accept
+151	R3a	latinworks22wycl=beatitudinem | 11663460bsb=beatitudinem | dialogussivespec00wycl=beatitudinem | fordham=beatitudinem | iohanniswycliff00wyclgoog=beatitudinem | iohanniswycliffe05wycl=capitulum		6	accept
+153	R3a	latinworks22wycl=impediunt | 11663460bsb=impediunt | dialogussivespec00wycl=impediunt | fordham=impediunt | iohanniswycliff00wyclgoog=impediunt | iohanniswycliffe05wycl=quomodo		6	accept
+155	R3a	latinworks22wycl=retardant | 11663460bsb=retardant | dialogussivespec00wycl=retardant | fordham=retardant | iohanniswycliff00wyclgoog=retardant | iohanniswycliffe05wycl=cui		6	accept
+193	R2	latinworks22wycl=tales | 11663460bsb=tales | dialogussivespec00wycl=tales | fordham=tales | iohanniswycliff00wyclgoog=tales | iohanniswycliffe05wycl=∅		6	accept
+194	R2	latinworks22wycl=cupidines | 11663460bsb=cupidines | dialogussivespec00wycl=cupidines | fordham=cupidines | iohanniswycliff00wyclgoog=cupidincs | iohanniswycliffe05wycl=∅		6	accept
+195	R2	latinworks22wycl=christum | 11663460bsb=christum | dialogussivespec00wycl=christum | fordham=christum | iohanniswycliff00wyclgoog=christum | iohanniswycliffe05wycl=∅		6	accept
+196	R2	latinworks22wycl=de | 11663460bsb=de | dialogussivespec00wycl=de | fordham=de | iohanniswycliff00wyclgoog=de | iohanniswycliffe05wycl=∅		6	accept
+197	R2	latinworks22wycl=celo | 11663460bsb=celo | dialogussivespec00wycl=celo | fordham=celo | iohanniswycliff00wyclgoog=celo | iohanniswycliffe05wycl=∅		6	accept
+198	R2	latinworks22wycl=descendere | 11663460bsb=descendere | dialogussivespec00wycl=descendere | fordham=descendere | iohanniswycliff00wyclgoog=descendere | iohanniswycliffe05wycl=∅		6	accept
+199	R2	latinworks22wycl=nec | 11663460bsb=nec | dialogussivespec00wycl=nec | fordham=nec | iohanniswycliff00wyclgoog=nec | iohanniswycliffe05wycl=∅		6	accept
+200	R2	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=∅		6	accept
+201	R2	latinworks22wycl=terris | 11663460bsb=terris | dialogussivespec00wycl=terris | fordham=terris | iohanniswycliff00wyclgoog=terris | iohanniswycliffe05wycl=∅		6	accept
+202	R2	latinworks22wycl=ipsum | 11663460bsb=ipsum | dialogussivespec00wycl=ipsum | fordham=ipsum | iohanniswycliff00wyclgoog=ipsum | iohanniswycliffe05wycl=∅		6	accept
+203	R2	latinworks22wycl=talem | 11663460bsb=talem | dialogussivespec00wycl=talem | fordham=talem | iohanniswycliff00wyclgoog=talcm | iohanniswycliffe05wycl=∅		6	accept
+204	R2	latinworks22wycl=uicarium | 11663460bsb=uicarium | dialogussivespec00wycl=uicarium | fordham=uicarium | iohanniswycliff00wyclgoog=uicarium | iohanniswycliffe05wycl=∅		6	accept
+205	R2	latinworks22wycl=reseruare | 11663460bsb=reseruare | dialogussivespec00wycl=reseruare | fordham=reseruare | iohanniswycliff00wyclgoog=reseruare | iohanniswycliffe05wycl=∅		6	accept
+206	R2	latinworks22wycl=licet | 11663460bsb=licet | dialogussivespec00wycl=licet | fordham=licet | iohanniswycliff00wyclgoog=licet | iohanniswycliffe05wycl=∅		6	accept
+207	R2	latinworks22wycl=ergo | 11663460bsb=ergo | dialogussivespec00wycl=ergo | fordham=ergo | iohanniswycliff00wyclgoog=ergo | iohanniswycliffe05wycl=∅		6	accept
+208	R2	latinworks22wycl=antichristus | 11663460bsb=antichristus | dialogussivespec00wycl=antichristus | fordham=antichristus | iohanniswycliff00wyclgoog=antichristus | iohanniswycliffe05wycl=∅		6	accept
+209	R2	latinworks22wycl=uideatur | 11663460bsb=uideatur | dialogussivespec00wycl=uideatur | fordham=uideatur | iohanniswycliff00wyclgoog=uideatur | iohanniswycliffe05wycl=∅		6	accept
+210	R2	latinworks22wycl=ad | 11663460bsb=ad | dialogussivespec00wycl=ad | fordham=ad | iohanniswycliff00wyclgoog=ad | iohanniswycliffe05wycl=∅		6	accept
+211	R2	latinworks22wycl=tempus | 11663460bsb=tempus | dialogussivespec00wycl=tempus | fordham=tempus | iohanniswycliff00wyclgoog=tempus | iohanniswycliffe05wycl=∅		6	accept
+212	R2	latinworks22wycl=supra | 11663460bsb=supra | dialogussivespec00wycl=supra | fordham=supra | iohanniswycliff00wyclgoog=supra | iohanniswycliffe05wycl=∅		6	accept
+213	R2	latinworks22wycl=fideles | 11663460bsb=fideles | dialogussivespec00wycl=fideles | fordham=fideles | iohanniswycliff00wyclgoog=fideles | iohanniswycliffe05wycl=∅		6	accept
+214	R2	latinworks22wycl=christi | 11663460bsb=christi | dialogussivespec00wycl=christi | fordham=christi | iohanniswycliff00wyclgoog=christi | iohanniswycliffe05wycl=∅		6	accept
+215	R2	latinworks22wycl=tyrannice | 11663460bsb=tyrannice | dialogussivespec00wycl=tyrannice | fordham=tyrannice | iohanniswycliff00wyclgoog=tyrannice | iohanniswycliffe05wycl=∅		6	accept
+216	R2	latinworks22wycl=dominari | 11663460bsb=dominari | dialogussivespec00wycl=dominari | fordham=dominari | iohanniswycliff00wyclgoog=dominari | iohanniswycliffe05wycl=∅		6	accept
+217	R2	latinworks22wycl=tamen | 11663460bsb=tamen | dialogussivespec00wycl=tamen | fordham=tamen | iohanniswycliff00wyclgoog=tamen | iohanniswycliffe05wycl=∅		6	accept
+218	R2	latinworks22wycl=fideles | 11663460bsb=fideles | dialogussivespec00wycl=fideles | fordham=fideles | iohanniswycliff00wyclgoog=fidcles | iohanniswycliffe05wycl=∅		6	accept
+219	R2	latinworks22wycl=supponunt | 11663460bsb=supponunt | dialogussivespec00wycl=supponunt | fordham=supponunt | iohanniswycliff00wyclgoog=suppouunt | iohanniswycliffe05wycl=∅		6	accept
+220	R2	latinworks22wycl=quod | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=quod | iohanniswycliffe05wycl=∅		6	accept
+221	R2	latinworks22wycl=ante | 11663460bsb=ante | dialogussivespec00wycl=ante | fordham=ante | iohanniswycliff00wyclgoog=ante | iohanniswycliffe05wycl=∅		6	accept
+222	R2	latinworks22wycl=diem | 11663460bsb=diem | dialogussivespec00wycl=diem | fordham=diem | iohanniswycliff00wyclgoog=diem | iohanniswycliffe05wycl=∅		6	accept
+223	R2	latinworks22wycl=iudicii | 11663460bsb=iudicii | dialogussivespec00wycl=iudicii | fordham=iudicii | iohanniswycliff00wyclgoog=iudicii | iohanniswycliffe05wycl=∅		6	accept
+224	R2	latinworks22wycl=pars | 11663460bsb=pars | dialogussivespec00wycl=pars | fordham=pars | iohanniswycliff00wyclgoog=pars | iohanniswycliffe05wycl=∅		6	accept
+225	R2	latinworks22wycl=christi | 11663460bsb=christi | dialogussivespec00wycl=christi | fordham=christi | iohanniswycliff00wyclgoog=christi | iohanniswycliffe05wycl=∅		6	accept
+226	R2	latinworks22wycl=exaltabitur | 11663460bsb=exaltabitur | dialogussivespec00wycl=extheiudgealtabitur | fordham=exaltabitur | iohanniswycliff00wyclgoog=exaltabitur | iohanniswycliffe05wycl=∅		6	accept
+227	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=∅		6	accept
+228	R2	latinworks22wycl=pars | 11663460bsb=pars | dialogussivespec00wycl=pars | fordham=pars | iohanniswycliff00wyclgoog=pars | iohanniswycliffe05wycl=∅		6	accept
+229	R2	latinworks22wycl=contrana | 11663460bsb=contraria | dialogussivespec00wycl=contraria | fordham=contraria | iohanniswycliff00wyclgoog=contrana | iohanniswycliffe05wycl=∅		6	accept
+230	R2	latinworks22wycl=deprimetur | 11663460bsb=deprimetur | dialogussivespec00wycl=deprimetur | fordham=deprimetur | iohanniswycliff00wyclgoog=depnmetur | iohanniswycliffe05wycl=∅		6	accept
+231	R2	latinworks22wycl=quia | 11663460bsb=quia | dialogussivespec00wycl=quia | fordham=quia | iohanniswycliff00wyclgoog=quia | iohanniswycliffe05wycl=∅		6	accept
+232	R2	latinworks22wycl=certum | 11663460bsb=certum | dialogussivespec00wycl=certum | fordham=certum | iohanniswycliff00wyclgoog=certum | iohanniswycliffe05wycl=∅		6	accept
+233	R2	latinworks22wycl=uidetur | 11663460bsb=uidetur | dialogussivespec00wycl=uidetur | fordham=uidetur | iohanniswycliff00wyclgoog=uidetur | iohanniswycliffe05wycl=∅		6	accept
+234	R2	latinworks22wycl=quod | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=quod | iohanniswycliffe05wycl=∅		6	accept
+235	R2	latinworks22wycl=uecordia | 11663460bsb=uecordia | dialogussivespec00wycl=uecordia | fordham=uecordia | iohanniswycliff00wyclgoog=uecordia | iohanniswycliffe05wycl=∅		6	accept
+236	R2	latinworks22wycl=potencium | 11663460bsb=potencium | dialogussivespec00wycl=potencium | fordham=potencium | iohanniswycliff00wyclgoog=potencium | iohanniswycliffe05wycl=∅		6	accept
+237	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=∅		6	accept
+238	R2	latinworks22wycl=timor | 11663460bsb=timor | dialogussivespec00wycl=timor | fordham=timor | iohanniswycliff00wyclgoog=timor | iohanniswycliffe05wycl=∅		6	accept
+239	R2	latinworks22wycl=seruilis | 11663460bsb=seruilis | dialogussivespec00wycl=seruilis | fordham=seruilis | iohanniswycliff00wyclgoog=seruilis | iohanniswycliffe05wycl=∅		6	accept
+240	R2	latinworks22wycl=paciencium | 11663460bsb=paciencium | dialogussivespec00wycl=paciencium | fordham=paciencium | iohanniswycliff00wyclgoog=paciencium | iohanniswycliffe05wycl=∅		6	accept
+241	R2	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=∅		6	accept
+242	R2	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=∅		6	accept
+243	R2	latinworks22wycl=causa | 11663460bsb=causa | dialogussivespec00wycl=causa | fordham=causa | iohanniswycliff00wyclgoog=causa | iohanniswycliffe05wycl=∅		6	accept
+244	R2	latinworks22wycl=quare | 11663460bsb=quare | dialogussivespec00wycl=quare | fordham=quare | iohanniswycliff00wyclgoog=quare | iohanniswycliffe05wycl=∅		6	accept
+245	R2	latinworks22wycl=sic | 11663460bsb=sic | dialogussivespec00wycl=sic | fordham=sic | iohanniswycliff00wyclgoog=sic | iohanniswycliffe05wycl=∅		6	accept
+246	R2	latinworks22wycl=pars | 11663460bsb=pars | dialogussivespec00wycl=pars | fordham=pars | iohanniswycliff00wyclgoog=pars | iohanniswycliffe05wycl=∅		6	accept
+247	R2	latinworks22wycl=diaboli | 11663460bsb=diaboli | dialogussivespec00wycl=diaboli | fordham=diaboli | iohanniswycliff00wyclgoog=diaboli | iohanniswycliffe05wycl=∅		6	accept
+248	R2	latinworks22wycl=hodie | 11663460bsb=hodie | dialogussivespec00wycl=hodie | fordham=hodie | iohanniswycliff00wyclgoog=hodie | iohanniswycliffe05wycl=∅		6	accept
+249	R2	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=∅		6	accept
+250	R2	latinworks22wycl=angulo | 11663460bsb=angulo | dialogussivespec00wycl=angulo | fordham=angulo | iohanniswycliff00wyclgoog=angulo | iohanniswycliffe05wycl=∅		6	accept
+251	R2	latinworks22wycl=habitabilis | 11663460bsb=habitabilis | dialogussivespec00wycl=habitabilis | fordham=habitabilis | iohanniswycliff00wyclgoog=habitabilis | iohanniswycliffe05wycl=∅		6	accept
+252	R2	latinworks22wycl=exaliatur | 11663460bsb=exaltatur | dialogussivespec00wycl=exaltatur | fordham=exaltatur | iohanniswycliff00wyclgoog=exaltatur | iohanniswycliffe05wycl=∅		6	accept

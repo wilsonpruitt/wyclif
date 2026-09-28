@@ -2,6 +2,7 @@ pos	rule	forms	support	voters	resolution
 13	R3a	latinworks22wycl=legimus | 11663460bsb=legimus | dialogussivespec00wycl=lesimus | fordham=legimus | iohanniswycliff00wyclgoog=lecrimus | iohanniswycliffe05wycl=legimus		6	accept
 15	R3	latinworks22wycl=i | 11663460bsb=18 | dialogussivespec00wycl=i | fordham=18 | iohanniswycliff00wyclgoog=i | iohanniswycliffe05wycl=is		6	plate
 18	R2	latinworks22wycl=artis | 11663460bsb=∅ | dialogussivespec00wycl=artis | fordham=artis | iohanniswycliff00wyclgoog=artis | iohanniswycliffe05wycl=artis		6	accept
+20	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=et		6	accept
 22	R3b	latinworks22wycl=200 | 11663460bsb=20 | dialogussivespec00wycl=200 | fordham=20 | iohanniswycliff00wyclgoog=20 | iohanniswycliffe05wycl=20		6	accept
 28	R2	latinworks22wycl=zuzactsxx | 11663460bsb=hits | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=tuiactszz | iohanniswycliffe05wycl=zactsxx		6	accept
 29	R3a	latinworks22wycl=hiis | 11663460bsb=∅ | dialogussivespec00wycl=hiis | fordham=hiis | iohanniswycliff00wyclgoog=hiis | iohanniswycliffe05wycl=mis		6	accept
@@ -9,10 +10,12 @@ pos	rule	forms	support	voters	resolution
 90	R2	latinworks22wycl=q111 | 11663460bsb=quin | dialogussivespec00wycl=quin | fordham=quin | iohanniswycliff00wyclgoog=quin | iohanniswycliffe05wycl=quin		6	accept
 92	R3a	latinworks22wycl=e | 11663460bsb=de | dialogussivespec00wycl=de | fordham=de | iohanniswycliff00wyclgoog=de | iohanniswycliffe05wycl=de		6	accept
 99	R4	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=im		6	plate
+142	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=et		6	accept
 143	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=non		6	accept
 170	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=noh | iohanniswycliffe05wycl=nou		6	accept
 171	R2	latinworks22wycl=tamen | 11663460bsb=tamen | dialogussivespec00wycl=tamen | fordham=tamen | iohanniswycliff00wyclgoog=tamch | iohanniswycliffe05wycl=tamcu		6	accept
 180	R3	latinworks22wycl=agat | 11663460bsb=agat | dialogussivespec00wycl=aerat | fordham=agat | iohanniswycliff00wyclgoog=aerat | iohanniswycliffe05wycl=agat		6	plate
 209	R2	latinworks22wycl=iinor | 11663460bsb=m | dialogussivespec00wycl=iinor | fordham=iiiior | iohanniswycliff00wyclgoog=iiiior | iohanniswycliffe05wycl=iiup		6	accept
+210	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=ct		6	accept
 225	R3a	latinworks22wycl=domini | 11663460bsb=domini | dialogussivespec00wycl=domini | fordham=domini | iohanniswycliff00wyclgoog=dominis | iohanniswycliffe05wycl=dommio		6	accept
 268	R3a	latinworks22wycl=habere | 11663460bsb=habere | dialogussivespec00wycl=habere | fordham=habere | iohanniswycliff00wyclgoog=haberes | iohanniswycliffe05wycl=habere		6	accept

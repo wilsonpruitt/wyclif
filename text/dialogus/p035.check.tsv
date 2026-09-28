@@ -1,6 +1,7 @@
 pos	rule	forms	support	voters	resolution
 11	R3a	latinworks22wycl=multa | 11663460bsb=multa | dialogussivespec00wycl=multa | fordham=multa | iohanniswycliff00wyclgoog=mulla | iohanniswycliffe05wycl=multa		6	accept
-74	R4	latinworks22wycl=dedeiat | 11663460bsb=dederat | dialogussivespec00wycl=dedeiat | fordham=dederat | iohanniswycliff00wyclgoog=dedeiat | iohanniswycliffe05wycl=dedeiat		6	plate
+59	R3a	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=cst | iohanniswycliffe05wycl=est		6	accept
+74	PLATE	latinworks22wycl=dedeiat | 11663460bsb=dederat | dialogussivespec00wycl=dedeiat | fordham=dederat | iohanniswycliff00wyclgoog=dedeiat | iohanniswycliffe05wycl=dedeiat		6	accept
 76	R2	latinworks22wycl=christus | 11663460bsb=christus | dialogussivespec00wycl=christus | fordham=christus | iohanniswycliff00wyclgoog=clirislus | iohanniswycliffe05wycl=christus		6	accept
 115	R3a	latinworks22wycl=alios | 11663460bsb=alios | dialogussivespec00wycl=alios | fordham=alios | iohanniswycliff00wyclgoog=auos | iohanniswycliffe05wycl=alios		6	accept
 162	R2	latinworks22wycl=horrenda | 11663460bsb=∅ | dialogussivespec00wycl=horrenda | fordham=horrenda | iohanniswycliff00wyclgoog=horrenda | iohanniswycliffe05wycl=horrenda		6	accept

@@ -1,18 +1,23 @@
 pos	rule	forms	support	voters	resolution
-0	R3	latinworks22wycl=argu | 11663460bsb=roborauit | dialogussivespec00wycl=cum | fordham=roborauit		4	plate
-1	INS?	cum cesari dedit dydragma et uulgaribus graciam multiformem domum autem aut redditus non lego christum pro se aut suis discipulis habuisse sed natus fuit pauper in diuersorio et in orto extra ierusalem mortuus et sepultus a militibus tamen uoluit gloriose sepeliri	2	6	plate
+0	R3	latinworks22wycl=argu | 11663460bsb=cesari | dialogussivespec00wycl=dedit | fordham=cesari		4	plate
+1	INS?	dedit dydragma et uulgaribus graciam multiformem domum autem aut redditus non lego christum pro se aut suis discipulis habuisse sed natus fuit pauper in diuersorio et in orto extra ierusalem mortuus et sepultus a militibus tamen uoluit gloriose sepeliri	2	6	plate
 10	R2	latinworks22wycl=proprium | 11663460bsb=proprium | dialogussivespec00wycl=propnum | fordham=proprium | iohanniswycliff00wyclgoog=prodrium | iohanniswycliffe05wycl=prodrium		6	accept
 12	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=in		6	accept
-17	R3a	latinworks22wycl=refuge | 11663460bsb=habuerunt | dialogussivespec00wycl=habuerunt | fordham=habuerunt | iohanniswycliff00wyclgoog=habucrunt | iohanniswycliffe05wycl=habueruut		6	accept
-18	DEL	latinworks22wycl=haduerimt | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
-27	R2	latinworks22wycl=iuomod | 11663460bsb=quomodo | dialogussivespec00wycl=quomodo | fordham=quomodo | iohanniswycliff00wyclgoog=loodo | iohanniswycliffe05wycl=q0odo		6	accept
-28	R3	latinworks22wycl=ero | 11663460bsb=ergo | dialogussivespec00wycl=erso | fordham=ergo | iohanniswycliff00wyclgoog=crgo | iohanniswycliffe05wycl=crgo		6	plate
-29	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=uon | iohanniswycliffe05wycl=uou		6	accept
-36	R3a	latinworks22wycl=em | 11663460bsb=idem | dialogussivespec00wycl=idem | fordham=idem | iohanniswycliff00wyclgoog=tci | iohanniswycliffe05wycl=idcm		6	accept
-94	R3a	latinworks22wycl=de | 11663460bsb=de | dialogussivespec00wycl=le | fordham=de | iohanniswycliff00wyclgoog=de | iohanniswycliffe05wycl=de		6	accept
-129	R2	latinworks22wycl=quodis | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=quodis | iohanniswycliffe05wycl=quod		6	accept
-130	R3a	latinworks22wycl=rsih | 11663460bsb=si | dialogussivespec00wycl=rsi | fordham=si | iohanniswycliffe05wycl=1		5	accept
-138	R2	latinworks22wycl=m | 11663460bsb=huius | dialogussivespec00wycl=hums | fordham=huius		4	accept
-139	INS?	modi	3	6	plate
-187	R3a	latinworks22wycl=tunc | 11663460bsb=tune | dialogussivespec00wycl=tunc | fordham=tunc | iohanniswycliff00wyclgoog=tunc | iohanniswycliffe05wycl=tunc		6	accept
-198	R4	latinworks22wycl=quankatholicum | 11663460bsb=quantum | dialogussivespec00wycl=quankatholicum | fordham=quantum | iohanniswycliff00wyclgoog=quantum | iohanniswycliffe05wycl=quankatholicum		6	plate
+17	R2	latinworks22wycl=haduerimt | 11663460bsb=habuerunt | dialogussivespec00wycl=habuerunt | fordham=habuerunt | iohanniswycliff00wyclgoog=habucrunt | iohanniswycliffe05wycl=habueruut		6	accept
+26	R2	latinworks22wycl=iuomod | 11663460bsb=quomodo | dialogussivespec00wycl=quomodo | fordham=quomodo | iohanniswycliff00wyclgoog=loodo | iohanniswycliffe05wycl=q0odo		6	accept
+27	R3	latinworks22wycl=ero | 11663460bsb=ergo | dialogussivespec00wycl=erso | fordham=ergo | iohanniswycliff00wyclgoog=crgo | iohanniswycliffe05wycl=crgo		6	plate
+28	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=uon | iohanniswycliffe05wycl=uou		6	accept
+35	R3a	latinworks22wycl=em | 11663460bsb=idem | dialogussivespec00wycl=idem | fordham=idem | iohanniswycliff00wyclgoog=tci | iohanniswycliffe05wycl=idcm		6	accept
+54	R3a	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=cst		6	accept
+89	R3a	latinworks22wycl=necessaria | 11663460bsb=necessaria | dialogussivespec00wycl=necessana | fordham=necessaria | iohanniswycliff00wyclgoog=necessaria | iohanniswycliffe05wycl=neccssaria		6	accept
+93	R3a	latinworks22wycl=de | 11663460bsb=de | dialogussivespec00wycl=le | fordham=de | iohanniswycliff00wyclgoog=de | iohanniswycliffe05wycl=de		6	accept
+128	R2	latinworks22wycl=quodis | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=quodis | iohanniswycliffe05wycl=quod		6	accept
+129	R3a	latinworks22wycl=rsih | 11663460bsb=si | dialogussivespec00wycl=rsi | fordham=si | iohanniswycliffe05wycl=1		5	accept
+137	R2	latinworks22wycl=m | 11663460bsb=huius | dialogussivespec00wycl=hums | fordham=huius		4	accept
+138	INS?	modi	3	6	plate
+186	R3a	latinworks22wycl=tunc | 11663460bsb=tune | dialogussivespec00wycl=tunc | fordham=tunc | iohanniswycliff00wyclgoog=tunc | iohanniswycliffe05wycl=tunc		6	accept
+213	R3b	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=cx | iohanniswycliffe05wycl=cx		6	accept
+220	R2	latinworks22wycl=maicia | 11663460bsb=malicia | dialogussivespec00wycl=maiicia | fordham=malicia | iohanniswycliff00wyclgoog=ma | iohanniswycliffe05wycl=maii		6	accept
+229	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=non		6	accept
+235	R3a	latinworks22wycl=ertur | 11663460bsb=fertur | dialogussivespec00wycl=fertur | fordham=fertur | iohanniswycliffe05wycl=ii		5	accept
+236	R2	latinworks22wycl=emm | 11663460bsb=enim | dialogussivespec00wycl=enim | fordham=enim | iohanniswycliffe05wycl=giiii		5	accept

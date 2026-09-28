@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
-0	HEAD	CAPITULUM 9m.			plate
+0	HEAD	CAPITULUM 9m.			plate: CAPITULUM 9m.
 2	R2	latinworks22wycl=adhuc | 11663460bsb=∅ | dialogussivespec00wycl=adhuc | fordham=adhuc | iohanniswycliff00wyclgoog=adhuc | iohanniswycliffe05wycl=adhuc		6	accept
 19	R2	latinworks22wycl=legis | 11663460bsb=legis | dialogussivespec00wycl=legis | fordham=legis | iohanniswycliff00wyclgoog=leffis | iohanniswycliffe05wycl=legis		6	accept
 24	R3a	latinworks22wycl=propter | 11663460bsb=propter | dialogussivespec00wycl=propter | fordham=propter | iohanniswycliff00wyclgoog=propier | iohanniswycliffe05wycl=propter		6	accept
 27	R2	latinworks22wycl=bonorum | 11663460bsb=bonorum | dialogussivespec00wycl=bonorum | fordham=bonorum | iohanniswycliff00wyclgoog=bononim | iohanniswycliffe05wycl=bonorum		6	accept
 48	R2	latinworks22wycl=multis | 11663460bsb=multis | dialogussivespec00wycl=multis | fordham=multis | iohanniswycliff00wyclgoog=mums | iohanniswycliffe05wycl=multis		6	accept
 55	R2	latinworks22wycl=tanquam | 11663460bsb=tanquam | dialogussivespec00wycl=tanquam | fordham=tanquam | iohanniswycliff00wyclgoog=lanquara | iohanniswycliffe05wycl=tanquam		6	accept
-61	R3	latinworks22wycl=ion | 11663460bsb=io | dialogussivespec00wycl=ion | fordham=io | iohanniswycliff00wyclgoog=io | iohanniswycliffe05wycl=ioii		6	plate
+61	PLATE	latinworks22wycl=ion | 11663460bsb=io | dialogussivespec00wycl=ion | fordham=io | iohanniswycliff00wyclgoog=io | iohanniswycliffe05wycl=ioii		6	accept
 66	R2	latinworks22wycl=et | 11663460bsb=el | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
 71	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
 75	R2	latinworks22wycl=quia | 11663460bsb=guia | dialogussivespec00wycl=quia | fordham=quia | iohanniswycliff00wyclgoog=quia | iohanniswycliffe05wycl=ifici		6	accept

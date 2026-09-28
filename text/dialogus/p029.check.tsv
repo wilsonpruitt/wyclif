@@ -1,8 +1,8 @@
 pos	rule	forms	support	voters	resolution
-0	HEAD	CAPITULUM			plate
+0	HEAD	CAPITULUM			plate: CAPITULUM 15m.
 1	R2	latinworks22wycl=mendacium | 11663460bsb=menpacium | dialogussivespec00wycl=mendacium | fordham=mendacium | iohanniswycliff00wyclgoog=mendaauh | iohanniswycliffe05wycl=mendacium		6	accept
 30	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
-31	R2	latinworks22wycl=populum | 11663460bsb=populum | dialogussivespec00wycl=popu | fordham=populum | iohanniswycliff00wyclgoog=populum | iohanniswycliffe05wycl=populum		6	accept
+31	R3a	latinworks22wycl=populum | 11663460bsb=populum | dialogussivespec00wycl=popu | fordham=populum | iohanniswycliff00wyclgoog=populum | iohanniswycliffe05wycl=populum		6	accept
 44	R2	latinworks22wycl=satis | 11663460bsb=satis | dialogussivespec00wycl=satis | fordham=satis | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=satis		6	accept
 47	R3a	latinworks22wycl=quis | 11663460bsb=quis | dialogussivespec00wycl=ouis | fordham=quis | iohanniswycliff00wyclgoog=quis | iohanniswycliffe05wycl=quis		6	accept
 61	R3a	latinworks22wycl=preteritum | 11663460bsb=preteritum | dialogussivespec00wycl=preteritum | fordham=preteritum | iohanniswycliff00wyclgoog=preteriti | iohanniswycliffe05wycl=preteritum		6	accept

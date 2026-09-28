@@ -7,3 +7,4 @@ sources/ia-ocr/
 text/*/crops/
 text/*/raw/
 text/*/witnesses/
+__pycache__/

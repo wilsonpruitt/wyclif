@@ -1,5 +1,7 @@
 pos	rule	forms	support	voters	resolution
 14	R3	latinworks22wycl=iesu | 11663460bsb=iesu | dialogussivespec00wycl=tesu | fordham=iesu | iohanniswycliff00wyclgoog=tcsu | iohanniswycliffe05wycl=iesu		6	plate
+15	R3a	latinworks22wycl=christi | 11663460bsb=christi | dialogussivespec00wycl=christi | fordham=christi | iohanniswycliff00wyclgoog=chrisii | iohanniswycliffe05wycl=christi		6	accept
+27	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=et		6	accept
 55	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=hou		6	accept
 65	R3a	latinworks22wycl=pretento | 11663460bsb=preterito | dialogussivespec00wycl=preterito | fordham=preterito | iohanniswycliff00wyclgoog=prctcrito | iohanniswycliffe05wycl=preterito		6	accept
 68	R3a	latinworks22wycl=pretentum | 11663460bsb=preteritum | dialogussivespec00wycl=preteritum | fordham=preteritum | iohanniswycliff00wyclgoog=preteritum | iohanniswycliffe05wycl=preteritum		6	accept
@@ -8,13 +10,12 @@ pos	rule	forms	support	voters	resolution
 117	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=o		5	accept
 118	R2	latinworks22wycl=ncet | 11663460bsb=licet | dialogussivespec00wycl=ncet | fordham=licet | iohanniswycliff00wyclgoog=cet		5	accept
 124	R4	latinworks22wycl=quodis | 11663460bsb=quod | dialogussivespec00wycl=quodis | fordham=quod | iohanniswycliff00wyclgoog=quxl | iohanniswycliffe05wycl=quodis		6	plate
-125	R2	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=on | iohanniswycliffe05wycl=on		6	accept
+125	R3	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=on | iohanniswycliffe05wycl=on		6	plate
 133	R2	latinworks22wycl=trcter | 11663460bsb=tripliciter | dialogussivespec00wycl=tripliciter | fordham=tripliciter | iohanniswycliff00wyclgoog=triplicitcr | iohanniswycliffe05wycl=triplicitef		6	accept
 134	R2	latinworks22wycl=ptmo | 11663460bsb=primo | dialogussivespec00wycl=primo | fordham=primo | iohanniswycliff00wyclgoog=primo | iohanniswycliffe05wycl=primo		6	accept
-136	R2	latinworks22wycl=noc | 11663460bsb=hoc | dialogussivespec00wycl=hoc | fordham=hoc | iohanniswycliff00wyclgoog=hoc | iohanniswycliffe05wycl=hoc		6	accept
+136	R3a	latinworks22wycl=noc | 11663460bsb=hoc | dialogussivespec00wycl=hoc | fordham=hoc | iohanniswycliff00wyclgoog=hoc | iohanniswycliffe05wycl=hoc		6	accept
+185	R3b	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=ct		6	accept
 207	R2	latinworks22wycl=f | 11663460bsb=quod | dialogussivespec00wycl=of | fordham=quod | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=quod		6	accept
 208	DEL	latinworks22wycl=110 | 11663460bsb=∅ | dialogussivespec00wycl=qu0c | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
 210	R2	latinworks22wycl=im | 11663460bsb=qui | dialogussivespec00wycl=qui | fordham=qui | iohanniswycliff00wyclgoog=qui | iohanniswycliffe05wycl=qui		6	accept
-232	R4	latinworks22wycl=haue | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=scntcnciat | iohanniswycliffe05wycl=sentcnciat		6	plate
-233	R2	latinworks22wycl=sentenciat | 11663460bsb=sentenciat | dialogussivespec00wycl=sentenciat | fordham=sentenciat | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
-266	R3a	latinworks22wycl=cuius | 11663460bsb=cuius | dialogussivespec00wycl=cuius | fordham=cuius | iohanniswycliff00wyclgoog=cuiusd | iohanniswycliffe05wycl=cuius		6	accept
+265	R3a	latinworks22wycl=cuius | 11663460bsb=cuius | dialogussivespec00wycl=cuius | fordham=cuius | iohanniswycliff00wyclgoog=cuiusd | iohanniswycliffe05wycl=cuius		6	accept

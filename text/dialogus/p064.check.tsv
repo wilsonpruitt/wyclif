@@ -1,7 +1,8 @@
 pos	rule	forms	support	voters	resolution
 0	R3a	latinworks22wycl=talem | 11663460bsb=talem | dialogussivespec00wycl=talem | fordham=talem | iohanniswycliff00wyclgoog=sit | iohanniswycliffe05wycl=talem		6	accept
+15	R3a	latinworks22wycl=uixerint | 11663460bsb=uixerint | dialogussivespec00wycl=uixerint | fordham=uixerint | iohanniswycliff00wyclgoog=uixerint | iohanniswycliffe05wycl=uixennt		6	accept
 44	R3b	latinworks22wycl=70 | 11663460bsb=7 | dialogussivespec00wycl=70 | fordham=7 | iohanniswycliff00wyclgoog=7 | iohanniswycliffe05wycl=7		6	accept
-72	R2	latinworks22wycl=enim | 11663460bsb=enim | dialogussivespec00wycl=enitn | fordham=enim | iohanniswycliff00wyclgoog=cnim | iohanniswycliffe05wycl=enim		6	accept
+72	R3a	latinworks22wycl=enim | 11663460bsb=enim | dialogussivespec00wycl=enitn | fordham=enim | iohanniswycliff00wyclgoog=cnim | iohanniswycliffe05wycl=enim		6	accept
 152	R2	latinworks22wycl=arguitur | 11663460bsb=lull | dialogussivespec00wycl=arguitur | fordham=arguitur | iohanniswycliff00wyclgoog=arffuitur | iohanniswycliffe05wycl=arguitur		6	accept
 153	R2	latinworks22wycl=quod | 11663460bsb=∅ | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=quod | iohanniswycliffe05wycl=quod		6	accept
 157	R2	latinworks22wycl=elemosine | 11663460bsb=∅ | dialogussivespec00wycl=elemosine | fordham=elemosine | iohanniswycliff00wyclgoog=elemosine | iohanniswycliffe05wycl=elemosine		6	accept
@@ -10,10 +11,4 @@ pos	rule	forms	support	voters	resolution
 191	R2	latinworks22wycl=meritonum | 11663460bsb=mericoll | dialogussivespec00wycl=meritorium | fordham=meritorium | iohanniswycliff00wyclgoog=meritormm | iohanniswycliffe05wycl=meritormm		6	accept
 195	R3b	latinworks22wycl=elemosmam | 11663460bsb=elemosinam | dialogussivespec00wycl=elemosmam | fordham=elemosinam | iohanniswycliff00wyclgoog=elemosmam | iohanniswycliffe05wycl=elemosmam		6	accept
 241	R2	latinworks22wycl=limites | 11663460bsb=limites | dialogussivespec00wycl=limites | fordham=limites | iohanniswycliff00wyclgoog=umiles | iohanniswycliffe05wycl=limites		6	accept
-252	R3	latinworks22wycl=colligant | 11663460bsb=expendant | dialogussivespec00wycl=expendant | fordham=colligant | iohanniswycliff00wyclgoog=expendanl | iohanniswycliffe05wycl=expendant		6	plate
-254	THIN	latinworks22wycl=usus | fordham=usus		2	plate
-255	THIN	latinworks22wycl=cleri | fordham=cleri		2	plate
-256	THIN	latinworks22wycl=omnes | fordham=omnes		2	plate
-257	THIN	latinworks22wycl=redditus | fordham=redditus		2	plate
-258	THIN	latinworks22wycl=istos | fordham=istos		2	plate
-260	THIN	latinworks22wycl=fructus | fordham=fructus		2	plate
+260	R3a	latinworks22wycl=fructus | 11663460bsb=fructus | dialogussivespec00wycl=tructus | fordham=fructus | iohanniswycliff00wyclgoog=fructus | iohanniswycliffe05wycl=iructus		6	accept

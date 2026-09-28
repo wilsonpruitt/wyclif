@@ -1,4 +1,5 @@
 pos	rule	forms	support	voters	resolution
+0	R3a	latinworks22wycl=florent | 11663460bsb=a | dialogussivespec00wycl=florent | fordham=florent | iohanniswycliff00wyclgoog=florent | iohanniswycliffe05wycl=florent		6	accept
 11	R5	latinworks22wycl=tur | dialogussivespec00wycl=tur | iohanniswycliffe05wycl=tur		3	plate
 43	R2	latinworks22wycl=nec | 11663460bsb=mec | dialogussivespec00wycl=nec | fordham=nec | iohanniswycliff00wyclgoog=nec | iohanniswycliffe05wycl=nec		6	accept
 47	R3a	latinworks22wycl=facta | 11663460bsb=facta | dialogussivespec00wycl=facta | fordham=facta | iohanniswycliff00wyclgoog=facia | iohanniswycliffe05wycl=facta		6	accept
@@ -7,7 +8,7 @@ pos	rule	forms	support	voters	resolution
 113	R2	latinworks22wycl=communiter | 11663460bsb=communiter | dialogussivespec00wycl=communiter | fordham=communiter | iohanniswycliff00wyclgoog=comchrisi5arnpl | iohanniswycliffe05wycl=communiter		6	accept
 152	R3b	latinworks22wycl=dommus | 11663460bsb=dominus | dialogussivespec00wycl=dominus | fordham=dominus | iohanniswycliff00wyclgoog=dominus | iohanniswycliffe05wycl=dommus		6	accept
 156	R3a	latinworks22wycl=fiat | 11663460bsb=fiat | dialogussivespec00wycl=fiat | fordham=fiat | iohanniswycliff00wyclgoog=fiat | iohanniswycliffe05wycl=nat		6	accept
-157	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=ht		6	accept
+157	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=ht		6	accept
 208	R2	latinworks22wycl=ideo | 11663460bsb=ideo | dialogussivespec00wycl=ideo | fordham=ideo | iohanniswycliff00wyclgoog=ideo | iohanniswycliffe05wycl=fldeo		6	accept
 212	R2	latinworks22wycl=temporales | 11663460bsb=temporales | dialogussivespec00wycl=temporales | fordham=temporales | iohanniswycliff00wyclgoog=tembyfiidinspw | iohanniswycliffe05wycl=tem		6	accept
 218	R2	latinworks22wycl=dupliciter | 11663460bsb=dupliciter | dialogussivespec00wycl=dupliciter | fordham=dupliciter | iohanniswycliff00wyclgoog=duplieiasphemecod | iohanniswycliffe05wycl=dupliciter		6	accept

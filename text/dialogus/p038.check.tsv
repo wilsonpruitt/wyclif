@@ -1,6 +1,11 @@
 pos	rule	forms	support	voters	resolution
 12	R3a	latinworks22wycl=dotacioni | 11663460bsb=dotacioni | dialogussivespec00wycl=dotacioni | fordham=dotacioni | iohanniswycliff00wyclgoog=dolacioni | iohanniswycliffe05wycl=dotacioni		6	accept
+118	R3a	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=ex | iohanniswycliffe05wycl=cx		6	accept
+189	R3b	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=cst | iohanniswycliffe05wycl=cst		6	accept
 200	R2	latinworks22wycl=a | 11663460bsb=∅ | dialogussivespec00wycl=a | fordham=a | iohanniswycliff00wyclgoog=a | iohanniswycliffe05wycl=a		6	accept
 205	R6a	latinworks22wycl=b | 11663460bsb=∅ | dialogussivespec00wycl=b | fordham=b | iohanniswycliff00wyclgoog=h | iohanniswycliffe05wycl=b		6	accept
 215	R6a	latinworks22wycl=b | 11663460bsb=6 | dialogussivespec00wycl=b | fordham=b | iohanniswycliff00wyclgoog=h | iohanniswycliffe05wycl=b		6	accept
 231	INS	et	5	6	accept
+259	R3a	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=cst		6	accept
+266	R2	latinworks22wycl=nlud | 11663460bsb=illud | dialogussivespec00wycl=illud | fordham=illud | iohanniswycliff00wyclgoog=illud | iohanniswycliffe05wycl=iuud		6	accept
+268	R3a	latinworks22wycl=superfluis | 11663460bsb=superfluis | dialogussivespec00wycl=superfluis | fordham=super | iohanniswycliff00wyclgoog=superfluis | iohanniswycliffe05wycl=superfluis		6	accept

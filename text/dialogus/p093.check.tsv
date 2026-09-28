@@ -66,7 +66,7 @@ pos	rule	forms	support	voters	resolution
 175	R2	latinworks22wycl=sentenciam | 11663460bsb=sentenciam | dialogussivespec00wycl=sentenciam | fordham=sentenciam | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=sentenciam		6	accept
 176	R2	latinworks22wycl=concipere | 11663460bsb=concipere | dialogussivespec00wycl=concipere | fordham=concipere | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=concipere		6	accept
 183	R2	latinworks22wycl=ad | 11663460bsb=ad | dialogussivespec00wycl=ad | fordham=ad | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ad		6	accept
-184	R2	latinworks22wycl=noc | 11663460bsb=hoc | dialogussivespec00wycl=hoc | fordham=hoc | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=hoc		6	accept
+184	R3a	latinworks22wycl=noc | 11663460bsb=hoc | dialogussivespec00wycl=hoc | fordham=hoc | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=hoc		6	accept
 185	R2	latinworks22wycl=sit | 11663460bsb=sit | dialogussivespec00wycl=sit | fordham=sit | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=sit		6	accept
 186	R2	latinworks22wycl=racio | 11663460bsb=racio | dialogussivespec00wycl=racio | fordham=racio | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=racio		6	accept
 187	R2	latinworks22wycl=ydonea | 11663460bsb=ydonea | dialogussivespec00wycl=ydonea | fordham=ydonea | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ydonea		6	accept

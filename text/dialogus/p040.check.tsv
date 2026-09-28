@@ -1,12 +1,14 @@
 pos	rule	forms	support	voters	resolution
-0	R3	latinworks22wycl=a | 11663460bsb=sic | dialogussivespec00wycl=sic | fordham=a | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=a		6	plate
+0	PLATE	latinworks22wycl=a | 11663460bsb=sic | dialogussivespec00wycl=et | fordham=a | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=a		6	accept
 6	R3a	latinworks22wycl=superflue | 11663460bsb=superflue | dialogussivespec00wycl=superftue | fordham=superflue | iohanniswycliff00wyclgoog=superflue | iohanniswycliffe05wycl=superfiue		6	accept
 14	R3a	latinworks22wycl=istas | 11663460bsb=istas | dialogussivespec00wycl=ista | fordham=istas | iohanniswycliff00wyclgoog=istas | iohanniswycliffe05wycl=istas		6	accept
 42	R3b	latinworks22wycl=eis | 11663460bsb=eis | dialogussivespec00wycl=eis | fordham=eis | iohanniswycliff00wyclgoog=cis | iohanniswycliffe05wycl=cis		6	accept
 116	R2	latinworks22wycl=christi | 11663460bsb=christi | dialogussivespec00wycl=christiis | fordham=christi | iohanniswycliff00wyclgoog=christi | iohanniswycliffe05wycl=christiis		6	accept
 130	R3a	latinworks22wycl=arguere | 11663460bsb=arguere | dialogussivespec00wycl=arguere | fordham=arguere | iohanniswycliff00wyclgoog=arguere | iohanniswycliffe05wycl=arauere		6	accept
 222	R2	latinworks22wycl=tacintate | 11663460bsb=facilitate | dialogussivespec00wycl=∅ | fordham=facilitate | iohanniswycliff00wyclgoog=facilitate		5	accept
-224	R4	latinworks22wycl=m | 11663460bsb=∅ | dialogussivespec00wycl=in | fordham=∅ | iohanniswycliff00wyclgoog=m		5	plate
-225	R4	latinworks22wycl=secuntate | 11663460bsb=∅ | dialogussivespec00wycl=secuntate | fordham=∅ | iohanniswycliff00wyclgoog=securitate		5	plate
-227	R2	latinworks22wycl=auctontate | 11663460bsb=securitate | dialogussivespec00wycl=auctontatei | fordham=securitate | iohanniswycliff00wyclgoog=auctoritatei		5	accept
-228	INS?	in auctoritate	2	6	plate
+223	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct		5	accept
+224	PLATE	latinworks22wycl=m | 11663460bsb=∅ | dialogussivespec00wycl=in | fordham=∅ | iohanniswycliff00wyclgoog=m		5	accept
+225	PLATE	latinworks22wycl=secuntate | 11663460bsb=∅ | dialogussivespec00wycl=secuntate | fordham=∅ | iohanniswycliff00wyclgoog=securitate		5	accept
+227	R3	latinworks22wycl=auctontate | 11663460bsb=securitate | dialogussivespec00wycl=auctontatei | fordham=securitate | iohanniswycliff00wyclgoog=auctoritatei		5	plate
+228	INS?	in auctoritate	2	6	plate: [In auctoritate]
+229	R3b	latinworks22wycl=chnstus | 11663460bsb=christus | dialogussivespec00wycl=chnstus | fordham=christus | iohanniswycliff00wyclgoog=christus | iohanniswycliffe05wycl=christus		6	accept

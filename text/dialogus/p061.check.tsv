@@ -11,6 +11,8 @@ pos	rule	forms	support	voters	resolution
 16	R3a	latinworks22wycl=hanc | 11663460bsb=hance | dialogussivespec00wycl=hanc | fordham=hanc | iohanniswycliff00wyclgoog=hainc | iohanniswycliffe05wycl=hanc		6	accept
 19	R3a	latinworks22wycl=ut | 11663460bsb=ut | dialogussivespec00wycl=ut | fordham=ut | iohanniswycliff00wyclgoog=mittunt | iohanniswycliffe05wycl=ut		6	accept
 20	R2	latinworks22wycl=promittunt | 11663460bsb=promittunt | dialogussivespec00wycl=promittunt | fordham=promittunt | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=promittunt		6	accept
+29	R2	latinworks22wycl=impugnare | 11663460bsb=impugnare | dialogussivespec00wycl=imueritas | fordham=impugnare | iohanniswycliffe05wycl=impugnare		5	accept
+30	R2	latinworks22wycl=ueritas | 11663460bsb=ueritas | dialogussivespec00wycl=∅ | fordham=ueritas | iohanniswycliff00wyclgoog=ueritas | iohanniswycliffe05wycl=ueritas		6	accept
 32	R2	latinworks22wycl=mihi | 11663460bsb=mihi | dialogussivespec00wycl=mihi | fordham=mihi | iohanniswycliff00wyclgoog=railii | iohanniswycliffe05wycl=mihi		6	accept
 36	R2	latinworks22wycl=de | 11663460bsb=de | dialogussivespec00wycl=de | fordham=de | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=de		6	accept
 37	R2	latinworks22wycl=tua | 11663460bsb=tua | dialogussivespec00wycl=tua | fordham=tua | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=tua		6	accept
@@ -38,7 +40,7 @@ pos	rule	forms	support	voters	resolution
 179	R3a	latinworks22wycl=fuerit | 11663460bsb=fuerit | dialogussivespec00wycl=luent | fordham=fuerit | iohanniswycliff00wyclgoog=fuerit | iohanniswycliffe05wycl=fuerit		6	accept
 181	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=lt | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=et		6	accept
 184	R2	latinworks22wycl=argucia | 11663460bsb=argucia | dialogussivespec00wycl=argucia | fordham=argucia | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=argucia		6	accept
-187	R2	latinworks22wycl=pnmum | 11663460bsb=primum | dialogussivespec00wycl=pnraum | fordham=primum | iohanniswycliff00wyclgoog=primum | iohanniswycliffe05wycl=primum		6	accept
+187	R3a	latinworks22wycl=pnmum | 11663460bsb=primum | dialogussivespec00wycl=pnraum | fordham=primum | iohanniswycliff00wyclgoog=primum | iohanniswycliffe05wycl=primum		6	accept
 192	R2	latinworks22wycl=mnueret | 11663460bsb=innueret | dialogussivespec00wycl=mnueret | fordham=innueret | iohanniswycliff00wyclgoog=isquod | iohanniswycliffe05wycl=innueret		6	accept
 193	R2	latinworks22wycl=quod | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=quod		6	accept
 202	R2	latinworks22wycl=sciencie | 11663460bsb=sctencte | dialogussivespec00wycl=sciencie | fordham=sciencie | iohanniswycliffe05wycl=iatwai		5	accept

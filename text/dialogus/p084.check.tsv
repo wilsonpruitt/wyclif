@@ -5,5 +5,7 @@ pos	rule	forms	support	voters	resolution
 75	R3a	latinworks22wycl=illis | 11663460bsb=ilis | dialogussivespec00wycl=illis | fordham=illis | iohanniswycliff00wyclgoog=ilhs | iohanniswycliffe05wycl=iuis		6	accept
 85	R2	latinworks22wycl=sic | 11663460bsb=sic | dialogussivespec00wycl=sic | fordham=sic | iohanniswycliff00wyclgoog=gic | iohanniswycliffe05wycl=q		6	accept
 116	R2	latinworks22wycl=clerum | 11663460bsb=clerum | dialogussivespec00wycl=∅ | fordham=clerum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=clerum		6	accept
+151	R3a	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=ex | iohanniswycliffe05wycl=cx		6	accept
 152	R2	latinworks22wycl=lege | 11663460bsb=lege | dialogussivespec00wycl=lege | fordham=lege | iohanniswycliff00wyclgoog=leffe | iohanniswycliffe05wycl=lege		6	accept
-224	R3	latinworks22wycl=temps | 11663460bsb=tempotis | dialogussivespec00wycl=temporis | fordham=temporis | iohanniswycliff00wyclgoog=temp		5	plate
+224	R3	latinworks22wycl=temps | 11663460bsb=tempotis | dialogussivespec00wycl=temporis | fordham=temporis | iohanniswycliff00wyclgoog=temp | iohanniswycliffe05wycl=temporis		6	plate
+226	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=et		6	accept

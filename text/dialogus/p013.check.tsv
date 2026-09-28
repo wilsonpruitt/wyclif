@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
-0	HEAD	CAPITULUM VII.			plate
+0	HEAD	CAPITULUM VII.			plate: CAPITULUM VII.
 3	R2	latinworks22wycl=iterum | 11663460bsb=iterum | dialogussivespec00wycl=iterum | fordham=iterum | iohanniswycliff00wyclgoog=itenim | iohanniswycliffe05wycl=iterum		6	accept
 11	R2	latinworks22wycl=8 | 11663460bsb=8 | dialogussivespec00wycl=8 | fordham=8 | iohanniswycliff00wyclgoog=s | iohanniswycliffe05wycl=8		6	accept
 25	R2	latinworks22wycl=mqmfoueas | 11663460bsb=inquit | dialogussivespec00wycl=inqmt | fordham=inquit | iohanniswycliffe05wycl=miioueas		5	accept
-26	INS?	foueas	3	6	plate
+26	INS?	foueas	3	6	plate: foveas
 35	R2	latinworks22wycl=habet | 11663460bsb=habet | dialogussivespec00wycl=habet | fordham=habet | iohanniswycliff00wyclgoog=kabel | iohanniswycliffe05wycl=habet		6	accept
 36	R2	latinworks22wycl=ubi | 11663460bsb=ubt | dialogussivespec00wycl=ubi | fordham=ubi | iohanniswycliff00wyclgoog=uhi | iohanniswycliffe05wycl=ubi		6	accept
 39	R2	latinworks22wycl=reclinet | 11663460bsb=reclinet | dialogussivespec00wycl=reclinet | fordham=reclinet | iohanniswycliff00wyclgoog=recliml | iohanniswycliffe05wycl=reclinet		6	accept
@@ -23,5 +23,5 @@ pos	rule	forms	support	voters	resolution
 181	R2	latinworks22wycl=tantum | 11663460bsb=tantum | dialogussivespec00wycl=tantum | fordham=tantum | iohanniswycliff00wyclgoog=lanlum | iohanniswycliffe05wycl=tantum		6	accept
 182	R2	latinworks22wycl=uictui | 11663460bsb=uictur | dialogussivespec00wycl=zwcontentment | fordham=uictui | iohanniswycliff00wyclgoog=uictui | iohanniswycliffe05wycl=uictui		6	accept
 183	R3a	latinworks22wycl=meo | 11663460bsb=eo | dialogussivespec00wycl=meo | fordham=meo | iohanniswycliff00wyclgoog=meo | iohanniswycliffe05wycl=meo		6	accept
-189	R4	latinworks22wycl=pa | 11663460bsb=p | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p		6	plate
+189	PLATE	latinworks22wycl=pa | 11663460bsb=p | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p		6	accept
 191	R3a	latinworks22wycl=6tradentem | 11663460bsb=6tradentem | dialogussivespec00wycl=6tradentem | fordham=6 | iohanniswycliff00wyclgoog=60tradentetn | iohanniswycliffe05wycl=60tradentem		6	accept

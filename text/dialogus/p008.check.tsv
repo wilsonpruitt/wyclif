@@ -2,10 +2,16 @@ pos	rule	forms	support	voters	resolution
 0	R3a	latinworks22wycl=perpetua | 11663460bsb=perpetua | dialogussivespec00wycl=perpetua | fordham=perpetua | iohanniswycliff00wyclgoog=perpetua | iohanniswycliffe05wycl=facto		6	accept
 52	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=uon | iohanniswycliffe05wycl=uou		6	accept
 53	R2	latinworks22wycl=mirum | 11663460bsb=mirum | dialogussivespec00wycl=miruffi | fordham=mirum | iohanniswycliff00wyclgoog=mirum | iohanniswycliffe05wycl=mirum		6	accept
+61	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=ct		6	accept
+68	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=ct		6	accept
+70	R3a	latinworks22wycl=ecclesie | 11663460bsb=ecclesie | dialogussivespec00wycl=ecclesie | fordham=ecclesie | iohanniswycliff00wyclgoog=ccclesie | iohanniswycliffe05wycl=ecclcsie		6	accept
 78	R3b	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=iu		6	accept
-127	PLATE	latinworks22wycl=sinagoga | 11663460bsb=sinaborh | dialogussivespec00wycl=sina15 | fordham=sinagoga		4	accept
+80	R3b	latinworks22wycl=talis | 11663460bsb=talis | dialogussivespec00wycl=talis | fordham=talis | iohanniswycliff00wyclgoog=tahs | iohanniswycliffe05wycl=tahs		6	accept
+127	R2	latinworks22wycl=sinagoga | 11663460bsb=sinaborh | dialogussivespec00wycl=sina15 | fordham=sinagoga		4	accept
 129	PLATE	latinworks22wycl=pupplicare | 11663460bsb=pupplicare | fordham=pupplicare		3	accept
+138	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=ct		6	accept
 144	R2	latinworks22wycl=uita | 11663460bsb=uita | dialogussivespec00wycl=uita | fordham=uita | iohanniswycliff00wyclgoog=yita | iohanniswycliffe05wycl=yita		6	accept
 163	R2	latinworks22wycl=inof | 11663460bsb=induratus | dialogussivespec00wycl=induratus | fordham=induratus | iohanniswycliff00wyclgoog=inof		5	accept
 164	PLATE	latinworks22wycl=duratus | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=duratus		5	accept
+165	R3a	latinworks22wycl=nec | 11663460bsb=nec | dialogussivespec00wycl=nec | fordham=nec | iohanniswycliff00wyclgoog=ncc		5	accept
 181	PLATE	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=n0n | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=nou		6	accept

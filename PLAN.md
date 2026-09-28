@@ -117,6 +117,33 @@ The earlier estimate (8–10k/page, 100–120M) assumed reading every page image
 estimates. **Re-measure on the Dialogus** and rewrite this table, and again on the first dirty-OCR
 volume (the Dialogus's witnesses are unusually clean).
 
+⚠ **Measured 2026-09-28, full volumes** (`vote.py`, §3.3 as confirmed), and the "~3–6 per 1,000"
+above does not hold outside the Dialogus:
+
+| Volume | Pivot words | Voters (mean) | Unanimous | Plate items / 1,000 words |
+|---|---|---|---|---|
+| Dialogus | 23,120 | 6 | 89.6% | 10.3 |
+| *De ecclesia* | 136,506 | 5.9 | 86.3% | **24.1** (3,296 items) |
+| *De officio regis* | 78,074 | 6.6 | 82.2% | **20.3** (1,584 items) |
+
+About 5 items per Society page, or ~400–450 crop sheets for *De ecclesia* alone. The biggest open
+classes are R4 (no majority), THIN and R3. Before M5, check whether a sample of these is mechanical
+and could be settled by a rule, as §3.3 did for the Dialogus, rather than read on the plate.
+
+⛔ **M2 extraction defect, found and fixed in M3 (2026-09-28).** `djvu.py`'s apparatus split was
+cutting real text at the foot of the page: (a) the last body line, when the notes' tight leading
+started one line early; (b) a heading near the foot plus the lines under it; (c) the page's last
+13–22 lines, when a one-word side-note row with an inflated box sat inside the column; and
+(d) conversely, two or three note lines leaked into the text when too few gaps existed for the
+leading test. Fixes: move the cut to the widest gap within two lines; capital-word rows (CAPITULUM,
+VERITAS) never open the notes; a short row whose box starts in the margin is side-note; a sigla-density
+test for short note blocks. Dialogus: **+254 words restored** (pp. 17, 34, 38, 74, 87, 96), 3 note
+blocks removed (pp. 91–93); the established text now differs from Fordham only where Fordham omits.
+Test that caught it: diff the whole established text against Fordham (or any full witness) for
+runs of ≥3 words on one side. **Run it on every volume.** ⚠ The *De ecclesia* / *Off. reg.* rates
+above were measured on the OLD extraction; rebuild their witnesses (`witness.py` skips existing
+`.jsonl`, so delete them first) before M5.
+
 ## Deferred layers (named so they aren't forgotten; none is in scope now)
 
 - **Readers' glosses.** The editors print medieval marginal commentary in the apparatus (MS B's
