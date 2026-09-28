@@ -10,7 +10,7 @@ divisions: "cap. I, alineae A–C (of A–?)"
 latin_source: plate-read
 plates: "archive.org latinworks10wycl, leaves n38–n42 (printed p. = leaf − 37)"
 collation: "n/a (no Fordham text for this volume); read against archive.org OCR as a cross-check"
-status: pilot-draft
+status: pilot (model chunk; conventions frozen 2026-09-28)
 ---
 
 # *De ecclesia*, chapter I (a): the prologue and the definition of the church
@@ -72,15 +72,15 @@ criticised on this very paragraph by Thakkar, *Vivarium* 58 (2020), 368).
 > cognoscamus debite matrem nostram.
 
 [1] Because some, even those who seem to be something,[^1] disagree on the question of the
-quiddity of the church,[^2] and [the object of] faith is the church, which ought to be one in all
-Christians,[^3] it befits Christians to know their mother. How, I ask, would anyone honour that
+[quiddity]{g:quiditas} of the church, and [the object of] faith is the church, which ought to be one in all
+Christians,[^2] it befits Christians to know their mother. How, I ask, would anyone honour that
 primeval mother, as every Christian is bound to do under pain of damnation by the first
-commandment of the second table,[^4] unless he knew her? Or how would he know her perfectly
+commandment of the second table,[^3] unless he knew her? Or how would he know her perfectly
 except by knowing her quiddity and differences, and knowing how to tell her apart from strange
-women?[^5] Hence among all the metaphysics under the circle of the sun I do not reckon that there
+women?[^4] Hence among all the metaphysics under the circle of the sun I do not reckon that there
 is another more necessary to a Christian, nor more useful for the observance of the Christian
-religion or for the understanding of holy scripture.[^6] For by faith Christ is our father, and the
-said church, his bride, is by antonomasia our mother.[^7] Now those parents we ought to honour
+religion or for the understanding of holy scripture.[^5] For by faith Christ is our father, and the
+said church, his bride, is by antonomasia our mother.[^6] Now those parents we ought to honour
 first of all, because in acknowledging them we must, at the point of need, call upon their
 instruction, correction and aid. And when they are honoured to the full, the Christian religion is
 fully kept; and to the extent that honour to them is lacking, the keeping of the commandments is
@@ -89,17 +89,16 @@ withdraws or [2] diminishes the honour or service owed to these parents. And thi
 why this is commanded in the first commandment of the second table, as the measure and rule of all
 the others. How, then, would he be a catholic who did not know the part of the creed in which the
 faith concerning his mother is set down? For both creeds say *I believe the catholic
-church*;[^8] nor do I believe it displeases the lord bishops that the Christian faith concerning
+church*;[^7] nor do I believe it displeases the lord bishops that the Christian faith concerning
 the quiddity of the church should be treated, both because they themselves are bound above all,
 by themselves and through others, to teach the people that faith, and also because they contend
 about the liberty and prosperity, the building up and the destruction, the privileges and the
-defences of the church against heretics.[^9] But it is evident that one who treated of these
-attributes while ignorant of the subject would be speaking like a magpie,[^10] since at the
+defences of the church against heretics.[^8] But it is evident that one who treated of these [attributes]{g:passio} while ignorant of the subject would be speaking like a magpie,[^9] since at the
 beginning of the second book of the *Posterior Analytics* it is truly said that *one must know the
-question "what is it?" about the subject before its attribute is known*.[^11] And error about this
+question "what is it?" about the subject before its attribute is known*.[^10] And error about this
 order of knowing makes many err about the faith of the church. How, I ask, could I know in what
 her prosperity or building up consisted unless I knew her beforehand, since it follows: "I know
-that she is prospering; therefore I first know that she exists"?[^12] Let us, then, apply
+that she is prospering; therefore I first know that she exists"?[^11] Let us, then, apply
 diligence, so that we may duly know our mother.
 
 ## B · 2.25–3.13
@@ -116,11 +115,10 @@ diligence, so that we may duly know our mother.
 > angelis beata persistit et sue parti peregrinanti, sicut oportet, opitulatur, quia utraque una
 > erit consorcio eternitatis et nunc est una vinculo caritatis.*
 
-Now although "church" is said in many ways in scripture,[^13] I suppose that for the present
-purpose it is taken for its best-known [sense], namely the congregation of all the
-predestinate.[^14] Now that church is the *bride* of Christ, with whom the whole course of the Song
+Now although "church" is [said in many ways]{g:dicitur-multipliciter} in scripture, I suppose that for the present
+purpose it is taken for its best-known [sense], namely the congregation of all the [predestinate]{g:predestinatus}.[^12] Now that church is the *bride* of Christ, with whom the whole course of the Song
 of Songs is concerned; of whom scripture speaks in Isaiah 61:10: *As a bride he has adorned me with
-a crown*.[^15] She is also the *valiant woman* of [3] Proverbs 31:10, and the mystical *body of
+a crown*.[^13] She is also the *valiant woman* of [3] Proverbs 31:10, and the mystical *body of
 Christ* of 1 Corinthians 12. She is Jerusalem our mother, the temple of the Lord, the kingdom of
 heaven and the city of the great king, *which as a whole*, says Augustine in the *Enchiridion*, *is
 to be taken not only in the part in which she is a pilgrim on earth, praising the name of the Lord
@@ -128,7 +126,7 @@ from the rising of the sun to its going down, and, after the captivity of her ol
 new song, but also in that part which in heaven has always, since it was founded, cleaved to God,
 and has experienced no evil of its own fall. For this part persists blessed in the holy angels,
 and helps its pilgrim part, as it should; for both will be one in the fellowship of eternity, and
-are now one in the bond of charity.*[^16]
+are now one in the bond of [charity]{g:caritas}.*[^14]
 
 ## B (cont.) · 3.14–3.22
 
@@ -139,11 +137,11 @@ are now one in the bond of charity.*[^16]
 > inhabitet. Oportet dico ex necessitate supposicionis atque de congruo.
 
 This is the holy catholic church which Christians confess immediately after faith in the Holy
-Spirit, for three reasons.[^17] First, because according to Augustine she is the highest
-creature;[^18] therefore she is placed immediately after the uncreated Trinity. Second, because by
+Spirit, for three reasons.[^15] First, because according to Augustine she is the highest
+creature;[^16] therefore she is placed immediately after the uncreated Trinity. Second, because by
 the love of the Holy Spirit she is joined to Christ in perpetual marriage. And third, because, the
 Trinity being posited, it must have a temple or house which it may inhabit: "must", I say, by
-necessity of supposition and by congruity.[^19]
+necessity of supposition and by congruity.[^17]
 
 ## C · 3.23–5.13
 
@@ -173,33 +171,32 @@ necessity of supposition and by congruity.[^19]
 > ergo ex fide et signacione *quid nominis ecclesie catholice* quod ipsa est omnes predestinati
 > presentes, preteriti et futuri.
 
-Now this church, in its pilgrim part, has no one foreknown as a part of itself,[^20] just as, in
-its triumphant part, [4] it has no one wretched or in any way stained, while he is such,[^21] as
+Now this church, in its pilgrim part, has no one [foreknown]{g:prescitus} as a part of itself,[^18] just as, in
+its triumphant part, [4] it has no one wretched or in any way stained, while he is such,[^19] as
 Augustine shows in *On Christian Teaching* III.32. There, after showing that *the body of Christ
 and its head, Christ, are one person*, he rebukes Tyconius over his second rule, in which he calls
 the church the Lord's bipartite body. *He ought not*, he says, *to have called it so; for what will
 not remain with him for ever is not truly the Lord's body.* Therefore he calls those who are
-faithful for a time but foreknown to damnation a simulated church, made of hypocrites.[^22] Now
+faithful for a time but foreknown to damnation a simulated church, made of hypocrites.[^20] Now
 this opinion can be demonstrated from the scripture of John 6:54, where it is said to the Jews,
-and by the same token to every wayfarer:[^23] *Except you eat the flesh of the Son of man, and
+and by the same token to every [wayfarer]{g:viator}:[^21] *Except you eat the flesh of the Son of man, and
 drink his blood, you shall not have life in you.* But no one can be a member of the body of Christ
 unless he is a living member; therefore no one can be of that body unless he has eaten the body of
 Christ. How, I ask, can he be joined to the sinews of the head unless he has believed in the head
-with formed faith?[^24] And that is what eating is, as Augustine expounds in Homily 25.[^25] Now
-this food, contrary to bodily foods, has the power of assimilating the eater to itself[^26]
+with [formed faith]{g:fides-formata}? And that is what eating is, as Augustine expounds in Homily 25.[^22] Now
+this food, contrary to bodily foods, has the power of assimilating the eater to itself[^23]
 according to four digestions, of which Romans 8:30 speaks: namely, *predestination, calling,
-justification and glorification*.[^27] For although one who eats in this way dies in time, yet he
+justification and glorification*.[^24] For although one who eats in this way dies in time, yet he
 does not die eternally, since *Christ, the resurrection and the life, at the final judgement gives
-life to all his members*, because the roaring lion raises up his church.[^28] Now *charity*, which
+life to all his members*, because the roaring lion raises up his church.[^25] Now *charity*, which
 *never falleth away*, is the bond [5] joining the members of that body; it would therefore be
 against reason that either the bridegroom in his own person, or another by his permission, should
 tear his bride apart by an eternal division. Indeed, if it is well considered, it implies a
-contradiction,[^29] since it is said to her in Jeremiah 31:3: *I have loved thee with an
+contradiction,[^26] since it is said to her in Jeremiah 31:3: *I have loved thee with an
 everlasting love.* This, then, and not stones, is our mother, confessing her head throughout the
-world.[^30] How, I ask, would one so powerful, so knowing and so benevolent as the uncreated
-Trinity is,[^31] choose eternally for itself a bride whom it would finally repudiate? It is clear,
-therefore, from faith and from the signification [of the term], what the name "catholic church"
-means: that she is all the predestinate, present, past and future.[^32]
+world.[^27] How, I ask, would one so powerful, so knowing and so benevolent as the uncreated
+Trinity is,[^28] choose eternally for itself a bride whom it would finally repudiate? It is clear,
+therefore, from faith and from the signification [of the term], what the name "catholic church" [means]{g:quid-nominis}: that she is all the predestinate, present, past and future.[^29]
 
 ---
 
@@ -218,10 +215,7 @@ means: that she is all the predestinate, present, past and future.[^32]
 [^1]: **S.** Gal. 2:6 (Vg *ab his autem qui videbantur esse aliquid*): Paul's phrase for the
     Jerusalem leaders, turned here on the church's present authorities.
 
-[^2]: **G.** *Quiditas*, quiddity: what a thing is, the answer to "what is it?". The whole
-    chapter turns on putting this question before any other (see n. 11).
-
-[^3]: **C.** *et fides est ecclesia que deberet in christianis omnibus esse una*. Literally "and
+[^2]: **C.** *et fides est ecclesia que deberet in christianis omnibus esse una*. Literally "and
     faith is [the] church which ought to be one in all Christians". The construal is doubtful.
     (a) We take the clause to mean that the church is an object of faith, as the creed puts it
     below (2.6), and take *que* with *ecclesia* (*unam … ecclesiam*). (b) *Que* may instead go with
@@ -229,135 +223,128 @@ means: that she is all the predestinate, present, past and future.[^32]
     concerns the church". Loserth records no variant; the sentence may be disturbed. Our English keeps
     reading (a) and marks the supplied words.
 
-[^4]: **S.** The second table of the Decalogue holds the commandments toward one's neighbour. Its
+[^3]: **S.** The second table of the Decalogue holds the commandments toward one's neighbour. Its
     first is "Honour thy father and thy mother" (Exod. 20:12). Wyclif applies it to the church as
     mother, and at 2.2–3 makes it the "measure and rule" of the rest.
 
-[^5]: **G/S.** *Differencias*: differences in the logical sense (*differentiae*), the marks that
+[^4]: **G/S.** *Differencias*: differences in the logical sense (*differentiae*), the marks that
     set a species apart from others in its genus. *Mulieribus alienis*, "strange women", is the
     *mulier aliena* of Proverbs (2:16; 5:3, 20; 7:5). The false church is the woman who must not be
     mistaken for the mother.
 
-[^6]: **C.** Penn construed *non reputo quod sit alia christiano necessarior* as "none is held to
+[^5]: **C.** Penn construed *non reputo quod sit alia christiano necessarior* as "none is held to
     be more necessary than the Christian one". The syntax gives the reverse. No other metaphysics is
     more necessary *for a Christian*, and *alia* implies that the doctrine of the church's
     quiddity is itself a metaphysics (Thakkar, p. 368).
 
-[^7]: **G.** *Autonomatice*: Loserth's printed form, while he reports the MSS as *autonomastice*.
+[^6]: **G.** *Autonomatice*: Loserth's printed form, while he reports the MSS as *autonomastice*.
     Both stand for *antonomastice*, "by antonomasia": she has the name "mother" pre-eminently,
     as the one to whom it belongs by right.
 
-[^8]: **S.** Apostles' Creed: *Credo … sanctam ecclesiam catholicam*. Nicene–Constantinopolitan:
+[^7]: **S.** Apostles' Creed: *Credo … sanctam ecclesiam catholicam*. Nicene–Constantinopolitan:
     *et unam sanctam catholicam et apostolicam ecclesiam*. The Latin has *credo ecclesiam*, not
     *credo in ecclesiam*: one believes *in* God, and believes the church. Hence "I believe the
     catholic church", not "believe in" `[verify: Rufinus, *Expositio symboli* 37, as the classic
     source of the distinction]`. Thakkar (p. 368) corrects Penn's "represent a symbol everywhere!"
     here.
 
-[^9]: **C.** *tum … tum eciam*: two separate reasons why the bishops should welcome the treatise.
+[^8]: **C.** *tum … tum eciam*: two separate reasons why the bishops should welcome the treatise.
     First, they are bound to teach this faith. Second, they are themselves forever disputing the
     church's liberty, prosperity and privileges, which (the next sentence shows) are attributes
     of a subject they have not defined. *Quod tractetur fides christiana de quiditate ecclesie*
     means that the faith *about* the church's quiddity be treated. Not Penn's "that the Christian
     faith is drawn from the quiddity of the church" (Thakkar, p. 368).
 
-[^10]: **G.** The magpie is the stock image of speech without understanding: it says the words and
+[^9]: **G.** The magpie is the stock image of speech without understanding: it says the words and
     knows nothing of what they mean.
 
-[^11]: **S/G.** *Passio* here is an *attribute* in the *Posterior Analytics* sense (a property
+[^10]: **S/G.** *Passio* here is an *attribute* in the *Posterior Analytics* sense (a property
     demonstrated of a subject), not "passion". Loserth refers to *APo* I.1 and II.2. The maxim is a
     scholastic compression, not a quotation. It combines Aristotle's doctrine that learning
     presupposes knowledge of what a term means (I.1, 71a11–17) with the ordering of the questions
     "whether it is" and "what it is" before "that it holds" and "why" (II.1–2) `[verify Bekker
     lines]`.
 
-[^12]: **G.** *Cum sequatur*: "since it follows". Wyclif states the inference (*consequencia*)
+[^11]: **G.** *Cum sequatur*: "since it follows". Wyclif states the inference (*consequencia*)
     he means, in quotation form: from "I know that she prospers" to "I first know that she
     exists". *Precognoscerem*: Loserth glosses it with Aristotle's *progignōskein* (*APo* I.1,
     71a1), pre-existent knowledge.
 
-[^13]: **G.** *Dicatur multipliciter*: "is said in many ways", Aristotle's *pollachōs legetai*.
-    The remaining senses (the material church, the mixed congregation, the clergy) are set
-    aside here.
-
-[^14]: **G.** *Sumatur … pro famosiori*: "is taken for the best-known [sense]", the language of
+[^12]: **G.** *Sumatur … pro famosiori*: "is taken for the best-known [sense]", the language of
     supposition. *Congregacio omnium predestinatorum*: the definition on which the treatise rests.
     It returns as the conclusion at 5.11–13.
 
-[^15]: **S.** A conflation. Vg Isa. 61:10 reads *quasi sponsum decoratum corona, et quasi sponsam
+[^13]: **S.** A conflation. Vg Isa. 61:10 reads *quasi sponsum decoratum corona, et quasi sponsam
     ornatam monilibus suis* (DR "as a bridegroom decked with a crown, and as a bride adorned with
     her jewels"). Wyclif puts the bride where the Vulgate puts the bridegroom's crown. We translate
     his Latin (CONVENTIONS §10).
 
-[^16]: **S.** Augustine, *Enchiridion* 56 (confirmed; augustinus.it). Loserth prints the chapter as
+[^14]: **S.** Augustine, *Enchiridion* 56 (confirmed; augustinus.it). Loserth prints the chapter as
     XLVI, correcting the MSS' XLI, and refers to the Maurist edition, vol. VI, p. 217. Wyclif
     quotes closely.
 
-[^17]: **S.** In the Apostles' Creed the article on the church immediately follows *credo in
+[^15]: **S.** In the Apostles' Creed the article on the church immediately follows *credo in
     Spiritum Sanctum*. Wyclif gives three reasons for the order.
 
-[^18]: **S.** *Summa creatura*: not identified by Loserth, and not yet traced (LEDGER V-06).
+[^16]: **S.** *Summa creatura*: not identified by Loserth, and not yet traced (LEDGER V-06).
 
-[^19]: **G.** *Ex necessitate supposicionis*: by conditional necessity. *Given* that the Trinity is
+[^17]: **G.** *Ex necessitate supposicionis*: by conditional necessity. *Given* that the Trinity is
     posited as dwelling somewhere, it must have a house. *De congruo*: by fittingness, not by strict
     necessity. The double qualification limits the claim, so that the church does not become
     something God is absolutely compelled to have.
 
-[^20]: **G.** ⭐ *Prescitus*, "foreknown": Wyclif's term for those whom God foreknows will be
+[^18]: **G.** ⭐ *Prescitus*, "foreknown": Wyclif's term for those whom God foreknows will be
     damned. It is the counterpart of *predestinatus*, and it is not the same word as *reprobus*
     (though Loserth's side-note at 3.23 says "reprobate"). The claim is that no one who will finally
     be damned is a *part* of this church, whatever his office or present standing. See GLOSSARY §A.
 
-[^21]: **C/T.** *Dum est huiusmodi*: the subject of *est* is ambiguous. It could be the triumphant
+[^19]: **C/T.** *Dum est huiusmodi*: the subject of *est* is ambiguous. It could be the triumphant
     part ("while it is such") or the wretched person ("while he is such"). We follow the early
     reader of MS B, whose marginal gloss Loserth prints (apparatus to 3.24). He takes it of the
     person: the predestinate who are still wayfarers, "involved in miseries and stains", will later
     be parts of the church triumphant, but are not counted such *while* they are so involved, "and
     therefore it is said pointedly, *while he is such*".
 
-[^22]: **S.** Augustine, *De doctrina christiana* III.32.45, on Tyconius's second rule, *de Domini
+[^20]: **S.** Augustine, *De doctrina christiana* III.32.45, on Tyconius's second rule, *de Domini
     corpore bipartito*. The first rule (III.31.44) is the one on Christ and his body as one person.
     Augustine proposes that Tyconius should rather have said "the Lord's true and *simulated*
     body", which is where Wyclif's *ecclesiam similatam* comes from. Wyclif's *manebit* stands for
     Augustine's *erit* `[verify wording against the Latin]`. Loserth: *Opp.* III.1, p. 58.
 
-[^23]: **G.** *Per idem*, "by the same token": the saying to the Jews applies by parallel argument
+[^21]: **G.** *Per idem*, "by the same token": the saying to the Jews applies by parallel argument
     to every Christian (Thakkar, p. 365). *Viator*, "wayfarer": one still on the road and not yet
     in the homeland. Loserth: "a traveller on earth" (cf. *De civ. dom.* I, p. 4).
 
-[^24]: **G.** *Fides formata*: faith "formed" by charity, as opposed to the unformed faith that even
-    the damned may have. The eating of John 6 is this kind of believing.
-
-[^25]: **S.** Augustine, *Tractates on John* 25–26: *crede, et manducasti* (25.12) `[verify
+[^22]: **S.** Augustine, *Tractates on John* 25–26: *crede, et manducasti* (25.12) `[verify
     section]`. Loserth corrects the MSS' XXVI to XXV and refers to *Opp.* III.2, p. 489.
 
-[^26]: **S.** The reversal of ordinary nourishment echoes Augustine, *Confessions* VII.10.16:
+[^23]: **S.** The reversal of ordinary nourishment echoes Augustine, *Confessions* VII.10.16:
     *nec tu me in te mutabis sicut cibum carnis tuae, sed tu mutaberis in me* ("you will not change
     me into you like the food of your flesh; you will be changed into me") `[verify; our
     identification, not Loserth's]`.
 
-[^27]: **G.** *Digestiones*: Wyclif keeps the metaphor of eating going. The chain of Rom. 8:30 is
+[^24]: **G.** *Digestiones*: Wyclif keeps the metaphor of eating going. The chain of Rom. 8:30 is
     the four stages by which the food assimilates the eater. MS B's margin comments: *Christus
     (sic) digestio*.
 
-[^28]: **S.** The bestiary lion, whose cubs are born dead and are raised on the third day by their
+[^25]: **S.** The bestiary lion, whose cubs are born dead and are raised on the third day by their
     father's roar: a figure of the resurrection. The *leo rugiens* of 1 Pet. 5:8 is the devil;
     Wyclif gives the phrase to Christ. The italicised clause combines John 11:25 ("I am the
     resurrection and the life") with 6:40.
 
-[^29]: **G.** *Claudit contradictorium*: "implies a contradiction". It is stronger than *contra
+[^26]: **G.** *Claudit contradictorium*: "implies a contradiction". It is stronger than *contra
     racionem* just before, and the step up is the argument. Not only would it be unreasonable for
     Christ to lose a member of his bride; given Jer. 31:3, it is impossible.
 
-[^30]: **S/R.** *Non lapides*: the church is not the stone buildings. *Per orbem terrarum
+[^27]: **S/R.** *Non lapides*: the church is not the stone buildings. *Per orbem terrarum
     confitens* echoes the Te Deum, *Te per orbem terrarum sancta confitetur Ecclesia* ("the holy
     Church throughout all the world doth acknowledge thee").
 
-[^31]: **G.** *Sciolus*: in classical Latin a "smatterer". Wyclif uses it without contempt: power,
+[^28]: **G.** *Sciolus*: in classical Latin a "smatterer". Wyclif uses it without contempt: power,
     knowledge and goodness are the three attributes appropriated to Father, Son and Spirit. See
     GLOSSARY §D.
 
-[^32]: **G/R.** *Quid nominis*: what the name means (Thakkar, p. 365). *Ipsa est omnes predestinati*:
+[^29]: **G/R.** *Quid nominis*: what the name means (Thakkar, p. 365). *Ipsa est omnes predestinati*:
     singular verb, plural predicate. The church *is* the predestinate, not a body in which the
     predestinate hold membership, and the English keeps the identity. The definition as Hus
     restated it heads the articles condemned at Constance `[verify: Hus art. 1, *Unica est sancta
@@ -369,7 +356,7 @@ means: that she is all the predestinate, present, past and future.[^32]
   CONVENTIONS §3: line numbers; the MS folio markers (128ª–128ᶜ) and their asterisks; Loserth's
   marginal alinea letters (A–D) and the sub-letters a, b, c at 3.16–19; and pencil ticks by a
   reader of the scanned copy at 1.15, 1.18, 5.12, 5.18.
-- 1.16 *autonomatice*: as printed; apparatus "Codd. autonomastice" (n. 7).
+- 1.16 *autonomatice*: as printed; apparatus "Codd. autonomastice" (n. 6).
 - 3.4 *Enchiridion XLVI°*: Loserth's correction ("In codd. XLI. Correxi").
 - 4.12 *Johannis VI°, 54*: as printed. Clementine Vulgate John 6:54 = DR 6:54.
 - 4.21 *omelia XXVª*: Loserth's correction ("In codd. XXVI. Correxi").

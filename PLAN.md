@@ -48,17 +48,17 @@ the Bohemian Wycliffites read most. De ecclesia runs next, then the rest of Tier
 
 **M0: Phase 0.** ✅ Done 2026-09-28 (`PHASE0.md`).
 
-**M1: Pilot.** ✅ Drafted 2026-09-28 (Fable): `CONVENTIONS.md`, `GLOSSARY.md`, `LEDGER.md`, and two
+**M1: Pilot.** ✅ Done and FROZEN 2026-09-28 (Fable; Wilson's review): `CONVENTIONS.md`, `GLOSSARY.md`, `LEDGER.md`, and two
 chunks that test both text paths:
-- `pilots/wyc-ecclesia-01a.md`: *De ecclesia* I, alineae A–C (pp. 1–5), **plate-read**, 32 notes.
+- `pilots/wyc-ecclesia-01a.md`: *De ecclesia* I, alineae A–C (pp. 1–5), **plate-read**, 29 notes + glossary tags.
   This is the paragraph Thakkar uses to show Penn's errors, so the pilot can be checked directly
   against a published correction.
 - `pilots/wyc-dialogus-01.md`: *Dialogus* cap. 1 (pp. 1–3), **Fordham-collated**: 0 word errors, 1
-  structural error (a chapter heading Fordham invented), 13 notes.
+  structural error (a chapter heading Fordham invented), 12 notes + glossary tags.
 - §3 of CONVENTIONS revised the same day (Wilson's OK): the Latin is established by the three-witness
   check, not by re-reading every plate. The pilots become M2's acceptance test.
-- ⏳ **Freeze = Wilson's review.** On approval, CONVENTIONS and GLOSSARY lose "pilot draft" and are
-  changed only by dated decision. Decisions for the review are at the foot of this file.
+- ✅ **Frozen on Wilson's review, 2026-09-28.** All five decisions went to the recommended option. They
+  are recorded in CONVENTIONS' decision log, and the pilots were converted to the new note register.
 
 **M2: The three-witness pipeline (Opus: real engineering, not pattern-following).** Establishes
 the Latin by checking, not re-OCRing (CONVENTIONS §3). Build and prove it one volume at a time,
@@ -94,7 +94,8 @@ free scans = 6 witnesses), headnote cleared of `[verify]`, every ledger row clos
 tokens, nearly all translation.
 
 **M4: Site v0 (Opus).** A static build on the house pattern (look at the Arminius site before
-designing). Latin | English columns, the editor's side-notes as a navigation rail, a plate link on
+designing). Latin | English columns, the editor's side-notes as a navigation rail, hover glosses from the
+`{g:…}` tags, a plate link on
 every page, citation by work + page.line, `/rights`, the credit line for Fordham. Content: the
 Dialogus plus the De ecclesia opening. ⛔ **Deploy to wyclif.wrootpress.com only on Wilson's
 per-deploy OK** (DNS via Cloudflare, per [[reference_domains-cloudflare]]).
@@ -138,16 +139,13 @@ volume (the Dialogus's witnesses are unusually clean).
   *dominium*; not Wyclif.
 - **The apparatus in full** (a scholarly edition layer); for now it stays on the plates.
 
-## Decisions for Wilson at the pilot review
+## Decisions taken at the pilot review (2026-09-28, Wilson)
 
-1. **Scripture in English: Douay–Rheims (Challoner) wording where Wyclif quotes the Vulgate
-   exactly.** *Recommended*: it is his Bible's English, and it matches glossa.wrootpress.com. The
-   alternatives are the AV (Arminius's choice, but it translates a different text) or fresh
-   translation throughout.
-2. ***Presciti* → "the foreknown", explained per work, never "the reprobate".** *Recommended*: it
-   keeps Wyclif's distinction from *reprobi*. Loserth's own side-notes say "reprobate".
-3. ***Dominium* → "lordship"** (titles *On Civil Lordship*, *On Divine Lordship*). *Recommended*.
-4. **Note density.** The pilots run at ~1 note per 30–45 Latin words. Is that the right register
-   for the site, or should first-occurrence glossary notes move into a hover glossary so the
-   notes thin out?
-5. **The Dialogus is the first complete work and the site launch** (rather than De ecclesia).
+1. Scripture: **Douay–Rheims** (Challoner) where Wyclif quotes the Vulgate exactly.
+2. *Presciti*: **"the foreknown"**, explained per work.
+3. *Dominium*: **"lordship"**.
+4. Notes: **glossary tags + hover glossary** on the site; G notes only for passage-specific points.
+   M4's site build must render `{g:…}` tags from `GLOSSARY.md`.
+5. **The Dialogus first**, and it carries the site launch.
+
+Recorded with dates in CONVENTIONS' decision log; change any of them only there.

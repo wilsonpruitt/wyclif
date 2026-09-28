@@ -1,8 +1,11 @@
-# GLOSSARY — pilot draft, 2026-09-28 (freezes when Wilson approves the pilot)
+# GLOSSARY — FROZEN 2026-09-28 (Wilson's pilot review)
 
 *One Latin term, one English rendering, every time, across the whole corpus. A reader must be able
 to recognise the same word coming back, because Wyclif's arguments turn on it. A rendering changes
-only by a dated decision recorded here, never silently in a chunk. Where a term has two senses,
+only by a dated decision in CONVENTIONS' decision log, never silently in a chunk. Entries may be
+*added* by recorded decision as new terms appear. **Tag keys:** a chunk tags a term as
+`[English]{g:latin-form}` (CONVENTIONS §11), and the key must match a Latin form in one of the rows
+below. These rows are also the source of the site's hover glossary. Where a term has two senses,
 the entry says so and each chunk's note picks one.*
 
 **Sources of the decisions.** "Pilot" = settled in `pilots/` this session. "T. p. N" = Mark

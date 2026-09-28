@@ -1,9 +1,9 @@
-# CONVENTIONS — pilot draft, 2026-09-28 (freezes when Wilson approves the pilot)
+# CONVENTIONS — FROZEN 2026-09-28 (Wilson's pilot review)
 
 *Set by the pilots `pilots/wyc-ecclesia-01a.md` (plate-read) and `pilots/wyc-dialogus-01.md`
 (Fordham text, collated). §3 was revised the same day to the three-witness check; the pilots
 predate it and become its acceptance test (PLAN M2). These rules govern every chunk in the corpus. Change one only by a
-dated decision recorded here, never silently in a chunk.*
+dated decision recorded in the decision log at the foot of this file, never silently in a chunk.*
 
 **The standing attitude, from Thakkar:** *"Wyclif must always be approached with daggers
 drawn."* The two most recent English translations (Penn 2019, Lahey 2013) were published,
@@ -243,14 +243,22 @@ note.** Never a note keyed by catchword, and never "markers later" (Wilson's sta
 *Church in Palestine*, 796 unanchored notes).
 
 - Markdown footnotes `[^n]`, numbered from 1 in each chunk.
+- **Glossary tags, not glossary notes** (decided 2026-09-28). A term whose only need is its
+  glossary definition gets an inline tag on its first occurrence in each chunk:
+  `[quiddity]{g:quiditas}`. The key is the Latin form as it appears in its `GLOSSARY.md` row, in
+  lower case with hyphens (`fides-formata`, `vicarius-deitatis`). The site renders it as a hover
+  gloss from the glossary. **A term gets a numbered G note only when the note says something about
+  *this* passage**: a construal, an escalation, a false friend at work, a pair the argument turns
+  on. Tags go on every §A–C term the chunk uses.
 - Each note opens with a **type letter**:
   - **T**: text (reading, variant, emendation)
   - **C**: construal (a syntactic choice and its alternative)
   - **G**: glossary (a term's first occurrence in the work, or a hard rendering)
   - **S**: source (scripture, patristic, Aristotle, canon law)
   - **R**: reception and context (Hus, Constance, Lollards, the editor's era)
-- **Density:** as many as the text needs, no more. The pilots run about one note per 30–40 Latin
-  words, because first chapters carry every first-occurrence gloss. Later chunks should thin out.
+- **Density:** as many as the text needs, no more. After the tag conversion the pilots run about
+  one note per 45–50 Latin words. First chapters are dense because they carry a work's first
+  occurrences; later chunks should thin out.
 - Short, and factual first. A note says what the Latin does, then stops.
 - **A source identification is not published until it is in `LEDGER.md` with a status.** An
   identification from memory is `to-verify` until checked against a text. The editor's own
@@ -286,3 +294,16 @@ side-notes · Notes · Transcription notes (plate readings, collation, the edito
 - [ ] Every note anchored; every source identification in the ledger; no open `[verify]`.
 - [ ] The Latin's check log is complete: every R3–R6 word has a plate resolution, and `check` is
       filled in.
+
+---
+
+## Decision log
+
+| date | decision | by |
+|---|---|---|
+| 2026-09-28 | §3: the Latin is established by the three-witness check, not full plate reads | Wilson |
+| 2026-09-28 | Scripture in English: Douay–Rheims (Challoner) where Wyclif quotes the Vulgate exactly (§10) | Wilson |
+| 2026-09-28 | *Presciti* → "the foreknown", explained per work; never "the reprobate" (GLOSSARY §A) | Wilson |
+| 2026-09-28 | *Dominium* → "lordship"; titles *On Civil Lordship*, *On Divine Lordship* (GLOSSARY §B) | Wilson |
+| 2026-09-28 | Note register: glossary tags + hover glossary; G notes only for passage-specific points (§11) | Wilson |
+| 2026-09-28 | CONVENTIONS and GLOSSARY frozen on pilot review | Wilson |

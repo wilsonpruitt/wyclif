@@ -10,7 +10,7 @@ divisions: "cap. 1 (unheaded in print; cap. 2 begins 3.15)"
 latin_source: fordham-collated
 plates: "archive.org latinworks22wycl, leaves n32–n34 (printed p. = leaf − 31)"
 collation: "Fordham vs plate, every word, 1.1–3.14: 0 word discrepancies; 1 structural (Fordham supplies a chapter heading not in print); formatting only otherwise"
-status: pilot-draft
+status: pilot (model chunk; conventions frozen 2026-09-28)
 ---
 
 # *Dialogus*, chapter 1: the three parts of the church militant
@@ -108,14 +108,13 @@ would remember the more freshly the Lord who bestows that portion so freely.[^6]
 > partibus duabus superioribus; cum omnes iste tres partes debent esse unum corpus ecclesie,
 > currens hilariter in amore ad beatitudinem patrie consequendam.
 
-The second part of my church militant should be the temporal lords, who ought to be vicars of the
-Godhead. Therefore Augustine often recalls how the king is the vicar of the Godhead.[^7] But the
+The second part of my church militant should be the temporal lords, who ought to be [vicars of the Godhead]{g:vicarius-deitatis}. Therefore Augustine often recalls how the king is the vicar of the Godhead.[^7] But the
 priest, who ought to proceed according to humility and poverty, is the vicar of the humanity of the
 Lord Jesus Christ. And so these lords, according to power regulated by reason, ought virtuously to
-defend God's law. For by title of this service they hold of Christ, as chief lord, whatever they
-have.[^8] Now the third part of the church militant is the common people, who are divided in many
+defend God's law. For by title of this service they hold of Christ, as [chief lord]{g:capitalis-dominus}, whatever they
+have.[^8] Now the third part of the church militant is the [common people]{g:vulgares}, who are divided in many
 ways into workers, merchants and householders.[^9] And this third and lowest part, as a
-foundation, sustains the two other parts in the bodily necessities of life. But charity, which is
+foundation, sustains the two other parts in the bodily necessities of life. But [charity]{g:caritas}, which is
 [3] the third person in the Godhead, ought to bind these three parts together.[^10] For all these
 three ought to benefit and help one another reciprocally. Now the clergy ought to be a life to the
 other two, lower parts, and to live more spiritually than they and, as regards conduct, more
@@ -124,8 +123,7 @@ the middle part, which is the temporal lords, ought with a certain measured seve
 the outer parts, and especially, according to God's law, in the things that advance toward
 attaining blessedness.[^12] And the third part, of the common people, ought from the heart,
 according to the rule of God's law, to serve the two higher parts; since all these three parts
-ought to be one body of the church, running joyfully in love toward attaining the blessedness of
-the homeland.[^13]
+ought to be one body of the church, running joyfully in love toward attaining the blessedness of the [homeland]{g:patria}.
 
 ---
 
@@ -204,8 +202,6 @@ the homeland.[^13]
 [^12]: **T.** *[conse]quendam*: Pollard's brackets supply the syllable from B, B¹, C (apparatus to
     3.9), so his base MS evidently reads *quendam*. At 3.6 *promerendum* is printed so; B has been
     corrected by another hand to *promerendam*. The English is unaffected in both places.
-
-[^13]: **G.** *Patria*, "the homeland": heaven, as against the *via* of this life (GLOSSARY §A).
 
 ## Transcription notes
 
