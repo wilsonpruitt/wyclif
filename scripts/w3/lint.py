@@ -62,6 +62,11 @@ def lint(path, gkeys):
             errs.append(f'glossary tag {{g:{k}}} has no GLOSSARY row')
     if fm.get('status', '').strip().split()[0:1] in (['done'], ['publish']) and '[verify' in s:
         errs.append('status is done/publish but a [verify] is open')
+    # scaffold placeholders (chapters.py) must all be gone once a chunk leaves `draft`
+    if fm.get('status', '').strip() != 'draft':
+        for ph in ('[ENGLISH]', '[TITLE]', '[HEADNOTE', 'OCR DRAFT'):
+            if ph in s:
+                errs.append(f'scaffold placeholder left in: {ph}')
     latin = '\n'.join(l for l in text.splitlines() if l.startswith('>'))
     if '⟦' in latin or '⟧' in latin:
         errs.append('Latin still carries plate-pending marks ⟦ ⟧')

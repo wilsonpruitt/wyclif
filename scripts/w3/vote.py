@@ -291,6 +291,13 @@ LINE_NO = re.compile(r'^(5|10|15|20|25|30|35|40)$')
 
 
 # ---------------------------------------------------------------- main
+def unstar(w):
+    """MS folio asterisks are left out of the reading text (CONVENTIONS 3.5): 'ta*lis' -> 'talis',
+    'omnes*Viantes' -> 'omnes Viantes' (a capital after the mark starts a new word)."""
+    w = re.sub(r'\*(?=[A-Z])', ' ', w)
+    return w.replace('*', '').strip()
+
+
 def pick(decisions, pg, k, forms=None, rule=None, skip=()):
     """The plate decision for this page+position: several may share a position (a word
     and an insertion before it), so prefer the one whose voted forms match."""
@@ -354,15 +361,15 @@ def run(slug, first=None, last=None):
                     d = pick(decisions, pg, k, rule='HEAD')
                     if d and d['rule'] == 'HEAD':
                         checks.append((k, 'HEAD', htxt, '', '', 'plate: ' + d['reading']))
-                        out_tokens.append(dict(t=d['reading'], n=norm(d['reading']), hl=True, head_fixed=key))
+                        out_tokens.append(dict(t=d['reading'], n=norm(d['reading']), hl=True, head_fixed=key, leaf=t['leaf'], line=t['line']))
                         stats['PLATE'] += 1
                     else:
                         checks.append((k, 'HEAD', htxt, '', '', 'plate'))
                         queue.append((pg, k, 'HEAD', htxt, t['leaf'], t['box']))
                         stats['HEAD'] += 1
-                        out_tokens.append(dict(t=t['t'], n=t['n'], hl=True))
+                        out_tokens.append(dict(t=t['t'], n=t['n'], hl=True, leaf=t['leaf'], line=t['line']))
                 elif not any(x.get('head_fixed') == key for x in out_tokens):
-                    out_tokens.append(dict(t=t['t'], n=t['n'], hl=True))
+                    out_tokens.append(dict(t=t['t'], n=t['n'], hl=True, leaf=t['leaf'], line=t['line']))
                 continue
             # insertions before token k
             gap_forms = defaultdict(list)
@@ -441,10 +448,13 @@ def run(slug, first=None, last=None):
                 win = t['n']                         # provisional: pivot, pending the plate
             rawf = next((raws[w] for w in ['plate', 'fordham', item] + list(raws) if w in raws and norm(raws[w]) == win), t['t'])
             out_tokens.append(dict(t=rawf, n=win, it=bool(ital), para=t.get('para'), hl=t['hl'],
-                                   pending=plate))
+                                   pending=plate, leaf=t['leaf'], line=t['line'], pos=k))
         # write page
         lines, cur, cur_head = [], [], False
         for x in out_tokens:
+            x['t'] = unstar(x['t'])
+            if not x['t']:
+                continue
             if x.get('hl'):
                 if not cur_head and cur:
                     lines.append(' '.join(cur)); cur = []
@@ -465,6 +475,17 @@ def run(slug, first=None, last=None):
             lines.append(('## ' if cur_head else '') + ' '.join(cur))
         with open(f'{base}/p{pg:03d}.la.txt', 'w') as f:
             f.write(f'[p. {pg}]\n' + '\n'.join(lines) + '\n')
+        # word positions (leaf, 0-based main-text row) for citation by page.line; insertions
+        # take the position of the word before them
+        last = (page[0]['leaf'], page[0]['line'])
+        with open(f'{base}/p{pg:03d}.tok.jsonl', 'w') as f:
+            for x in out_tokens:
+                if not x['t'] or x['t'] == '∅' or (x.get('n') == '∅'):
+                    continue
+                last = (x.get('leaf', last[0]), x.get('line', last[1]))
+                for j, w in enumerate(x['t'].split()):
+                    f.write(json.dumps(dict(t=w, leaf=last[0], row=last[1], para=bool(x.get('para')) and j == 0,
+                                            head=bool(x.get('hl')), pos=x.get('pos')), ensure_ascii=False) + '\n')
         with open(f'{base}/p{pg:03d}.check.tsv', 'w') as f:
             f.write('pos\trule\tforms\tsupport\tvoters\tresolution\n')
             for c in checks:
