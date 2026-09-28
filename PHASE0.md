@@ -9,7 +9,8 @@ CONVENTIONS.md are not written yet — those are the Fable session (see "Next" b
 | Path | What | In git |
 |---|---|---|
 | `sources/wyclif_society_archive_org.csv` | Wilson's list: 39 work-volume rows, 147 archive.org scans (129 free) | yes |
-| `sources/fordham/*.md` | 18 Fordham transcriptions, `[p. N]` page markers, as received | yes |
+| `sources/fordham/*.md` | 18 Fordham transcriptions, `[p. N]` page markers, as received (a derived rendering; see finding 9) | yes |
+| `sources/fordham/data/data.json` | **source of record**: the site's structured data, extracted 2026-09-28 | yes |
 | `sources/fordham/extract_wyclif.js` | pulls the `JSON.parse('…')` blobs out of Fordham's `main.js` into `data.json`; the data.json→.md step was not supplied | yes |
 | `sources/ia-ocr/latinworksNNwycl.txt` | archive.org OCR text of all 33 Princeton volumes (~40 MB) | no — `scripts/fetch_ia_ocr.sh` |
 | `catalog/volumes.json`, `.tsv` | one row per Society volume: queue, tier, contents, English status, Fordham coverage, primary + other free scans | yes |
@@ -56,10 +57,29 @@ citations will be **work + Society page**, the scholarly convention.
    - `ente-excerpta` + *Fragmentum de annihilatione* (Fordham's `De_Annihilatione` = pp. 287–315).
    - `opus-evang-2` = Opus evangelicum III–IV, i.e. *De Antichristo* I–II.
    - `veritate` = all three volumes in one scan (1144 images).
-8. **Rights.** The Latin is PD. A faithful transcription creates no US copyright (*Feist*), so
-   Fordham's text is usable, but credit Fordham on the site and **read the Fordham site's terms
-   before launch** (URL not yet recorded — Wilson to supply). English + encoding = CC BY-NC 4.0 per
-   house policy.
+8. **Rights: settled 2026-09-28.** Source: *The Latin Works of John Wyclif*,
+   https://www.library.fordham.edu/wyclif/#/ (J. Patrick Hornbeck II and Christopher Adams; begun at
+   Georgetown CNDLS 2003, hosted by Fordham University Libraries). Its copyright page, quoted from the
+   site's `main-es2015.*.js`: *"With the exception of Wyclif's Tractatus de Trinitate, all of the
+   editions of Wyclif's writings contained on this site exist in the public domain in the United
+   States as well as in their country of original publication."* The one exception, Breck's 1962
+   *De Trinitate* (digitised by permission), is **not in our data** and is not a Wyclif Society
+   volume, so it stays out. "All rights reserved" covers **only the site design**. **Use the
+   text freely and credit the project on the site** ("Latin text of the Fordham volumes from *The
+   Latin Works of John Wyclif*, ed. J. P. Hornbeck II and C. Adams, Fordham University Libraries,
+   corrected against the Wyclif Society plates"). English + encoding = CC BY-NC 4.0 per house policy.
+9. **The source of record is now `sources/fordham/data/data.json`,** extracted by running
+   `extract_wyclif.js` on the live site's JS on 2026-09-28. It holds titles, chapters, paragraphs
+   (with `_order`, and `split` for paragraphs that run across a page) and pages. The zip's `.md`
+   files are a derived rendering. `scripts/fordham_to_md.py SLUG` regenerates them: Dialogus,
+   De compositione hominis, De dominio divino, Civ. dom. II and the XIII Quaestiones come out
+   byte-identical. The rest differ only because the zip turned `<i>` into `*` and misplaced some
+   chapter headings (e.g. De blasphemia p. 46 sits under a later "Capitulum Primum"). **Take
+   structure from data.json, never from the zip.**
+   - The live data has **no more text than the zip.** `opera-minora` has 435 page records but
+     **no paragraphs**. `de-apostasia`, `de-eucharistia` and `de-ente` are empty title
+     placeholders; `de-simonia` has one page. Fordham's page images (`pages_to_display/…jpg`) are
+     not served at any path I could find. Use the archive.org plates.
 
 ## English landscape (quick check, 2026-09-28 — firm up in the PLAN session)
 
@@ -97,6 +117,7 @@ correction in Phase 2 is on the critical path from the first item.
 
 ## Next
 
+- ~~Wilson owes the Fordham URL~~: received, rights settled (finding 8).
 - **Fable session:** write `PLAN.md` + `CONVENTIONS.md` + `GLOSSARY.md` and run the pilot on a
   chapter of De ecclesia (plate-read, no Fordham text) and a chapter of the Dialogus (Fordham text
   corrected against the plate). That tests both text paths and the core register. Notes numbered
