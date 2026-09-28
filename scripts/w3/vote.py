@@ -333,6 +333,9 @@ def run(slug, first=None, last=None):
         for r in csv.DictReader(open(dpath), delimiter='\t'):
             decisions.setdefault((int(r['page']), int(r['pos'])), []).append(r)
     stale = []
+    splits = {}
+    if os.path.exists(f'{base}/wordsplits.tsv'):
+        splits = {r['form']: r['split'] for r in csv.DictReader(open(f'{base}/wordsplits.tsv'), delimiter='\t')}
     queue, stats = [], Counter()
     hints = {w: None for w in others}
     agreed_new = set()
@@ -447,12 +450,22 @@ def run(slug, first=None, last=None):
             if win is None:
                 win = t['n']                         # provisional: pivot, pending the plate
             rawf = next((raws[w] for w in ['plate', 'fordham', item] + list(raws) if w in raws and norm(raws[w]) == win), t['t'])
+            # Fordham's surface form, but the print's letter case (Fordham capitalises editorially)
+            # and a space where punctuation glues two words ('nephariam,quod')
+            pv = raws.get(item, '')
+            if ('plate' not in raws and pv and rawf and pv[0].islower() and rawf[0].isupper()
+                    and pv[1:] == rawf[1:] and pv[0] == rawf[0].lower()):
+                rawf = pv
+            rawf = re.sub(r'(?<=[a-z])([,;:])(?=[a-z])', r'\1 ', rawf)
             out_tokens.append(dict(t=rawf, n=win, it=bool(ital), para=t.get('para'), hl=t['hl'],
                                    pending=plate, leaf=t['leaf'], line=t['line'], pos=k))
         # write page
         lines, cur, cur_head = [], [], False
         for x in out_tokens:
             x['t'] = unstar(x['t'])
+            core = x['t'].rstrip('.,;:?!')
+            if core in splits:                  # a word-division error in a witness (wordsplits.tsv)
+                x['t'] = splits[core] + x['t'][len(core):]
             if not x['t']:
                 continue
             if x.get('hl'):

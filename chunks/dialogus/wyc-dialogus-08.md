@@ -9,7 +9,7 @@ pages: "15.2–16.31"
 divisions: "cap. 8 (heading 'CAPITULUM VIII.' at 15.1)"
 latin_source: three-witness
 witnesses: [11663460bsb, dialogussivespec00wycl, fordham, iohanniswycliff00wyclgoog, iohanniswycliffe05wycl, latinworks22wycl]
-check: "440 words; 417 unanimous or majority-real; 22 settled by vote (R2 11, R3a 8, R3b 3); 1 read on the plate (see Transcription notes)"
+check: "441 words; 418 unanimous or majority-real; 22 settled by vote (R2 11, R3a 8, R3b 3); 1 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks22wycl, leaves n46–n47 (printed p. = leaf − 31)"
 status: draft
@@ -25,7 +25,7 @@ status: draft
 
 ## ¶2 · 15.6–15.18
 
-> [p. 15] Concedo quidem tibi quod Christus vixit et docuit vitam pauperem sed noluit ipsam esse perpetuam, cum dicat in apostolo allegato quod Christus sic egenus factus est ut illis inopia vos divites essetis. Superbia autem et cupiditas sacerdotum legis veteris qui Christum occiderant requirebant Christumsic vivere et docere. Sed postquam repressa sunt ista peccata dignitas sacerdotum exigit quod clerus ad priorem gloriam revertatur; in cujus signum predia quibus dotatur ecclesia vocantur patrimonium crucifixi. Christus enim virtute passionis sue et meriti adquisivit sue ecclesie omnia ista dominia, et, si, justicia posset procedere, ampliora; et cum ista sentencia concordant concessiones dominorum temporalium et vite papales patule atque leges.
+> [p. 15] Concedo quidem tibi quod Christus vixit et docuit vitam pauperem sed noluit ipsam esse perpetuam, cum dicat in apostolo allegato quod Christus sic egenus factus est ut illis inopia vos divites essetis. Superbia autem et cupiditas sacerdotum legis veteris qui Christum occiderant requirebant Christum sic vivere et docere. Sed postquam repressa sunt ista peccata dignitas sacerdotum exigit quod clerus ad priorem gloriam revertatur; in cujus signum predia quibus dotatur ecclesia vocantur patrimonium crucifixi. Christus enim virtute passionis sue et meriti adquisivit sue ecclesie omnia ista dominia, et, si, justicia posset procedere, ampliora; et cum ista sentencia concordant concessiones dominorum temporalium et vite papales patule atque leges.
 
 [ENGLISH]
 

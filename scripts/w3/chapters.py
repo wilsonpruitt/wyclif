@@ -135,10 +135,11 @@ def main(slug, force=False):
         checks[pg] = [r for r in csv.DictReader(open(p), delimiter='\t')]
     notes = [r for r in csv.DictReader(open(f'{ROOT}/sidenotes/{slug}.tsv'), delimiter='\t', quoting=csv.QUOTE_NONE)]
 
-    os.makedirs(f'{ROOT}/chunks/{slug}', exist_ok=True)
+    OUT = os.environ.get('CHUNKS_OUT', f'{ROOT}/chunks/{slug}')
+    os.makedirs(OUT, exist_ok=True)
     for cid, lab, divs, head, paras in sections:
         body = [t for p_ in paras for t in p_]
-        path = f'{ROOT}/chunks/{slug}/wyc-{slug}-{cid}.md'
+        path = f'{OUT}/wyc-{slug}-{cid}.md'
         if os.path.exists(path) and not force:
             print('keep', os.path.basename(path)); continue
         first, last = body[0], body[-1]

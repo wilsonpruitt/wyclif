@@ -157,10 +157,12 @@
 {"t": "habent", "leaf": 42, "row": 19, "para": false, "head": false, "pos": 155}
 {"t": "ipsorum.", "leaf": 42, "row": 19, "para": false, "head": false, "pos": 156}
 {"t": "Non", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 157}
-{"t": "estautem", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 158}
+{"t": "est", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 158}
+{"t": "autem", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 158}
 {"t": "ita", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 159}
 {"t": "in", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 160}
-{"t": "vobis,sed", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 161}
+{"t": "vobis,", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 161}
+{"t": "sed", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 161}
 {"t": "quicunque", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 162}
 {"t": "voluerit", "leaf": 42, "row": 20, "para": false, "head": false, "pos": 163}
 {"t": "fieri", "leaf": 42, "row": 20, "para": false, "head": false, "pos": null}
