@@ -1,0 +1,34 @@
+queue	tier	slug	year	editor	english	fordham	primary_scan	contents
+1	1	ecclesia	1886	J. Loserth	extracts only (Penn 2019; Spinka 1953)		latinworks10wycl	De ecclesia
+2	1	dialogus	1886	A. W. Pollard	none known	Dialogus.md (pp. 1-98)	latinworks22wycl	Dialogus sive Speculum ecclesie militantis
+3	1	potestate-pape	1907	J. Loserth	none known		latinworks19wycl	De potestate pape
+4	1	eucharistia	1892	J. Loserth	extracts only (Penn 2019; Spinka 1953)		latinworks13wycl	De eucharistia tractatus maior + De eucharistia et poenitentia sive de confessione
+5	1	civ-dom-1	1885	R. L. Poole (vol. I); J. Loserth (vols. II–IV)	extracts only (Penn 2019; older selections)	De_Civili_Dominio_I.md (pp. 1-299)	latinworks04wycl	De civili dominio, liber I
+6	1	officio-regis	1887	A. W. Pollard & C. Sayle	extracts only	De_Officio_Regis.md (pp. 1-281)	latinworks18wycl	De officio regis
+7	1	apostasia	1889	M. H. Dziewicki	none known		latinworks01wycl	De apostasia
+8	1	blasphemia	1893	M. H. Dziewicki	none known	De_Blasphemia.md (pp. 1-288)	latinworks02wycl	De blasphemia
+9	1	polemical-1	1883	R. Buddensieg	none known (spot-check per tract)		latinworks28wycl	Polemical works I (short tracts)
+10	1	polemical-2	1883	R. Buddensieg	none known (spot-check per tract)		latinworks29wycl	Polemical works II (short tracts, incl. De solutione Satanae, De mendaciis fratrum)
+11	1	opus-evang-1	1895	J. Loserth	none known		latinworks26wycl	Opus evangelicum I-II
+12	1	opus-evang-2	1896	J. Loserth	none known		latinworks27wycl	Opus evangelicum III-IV = De Antichristo I-II
+13	2	civ-dom-2	1900	R. L. Poole (vol. I); J. Loserth (vols. II–IV)	extracts only	De_Civili_Dominio_II.md (pp. 1-283)	latinworks05wycl	De civili dominio, liber II
+14	2	civ-dom-3a	1903	R. L. Poole (vol. I); J. Loserth (vols. II–IV)	extracts only		latinworks06wycl	De civili dominio, liber III (tome 1)
+15	2	civ-dom-3b	1904	R. L. Poole (vol. I); J. Loserth (vols. II–IV)	extracts only		latinworks07wycl	De civili dominio, liber III (tome 2)
+16	2	mandatis	1922	J. Loserth & F. D. Matthew	none known		latinworks17wycl	De mandatis divinis + De statu innocencie
+17	2	opera-minora	1913	J. Loserth	none known		latinworks25wycl	Opera minora (incl. De servitute civili et dominio seculari)
+18	2	dominio-divino	1890	R. L. Poole	none known	De_Dominio_Divino.md (pp. 1-256)	latinworks09wycl	De dominio divino libri tres + FitzRalph, De pauperie Salvatoris I-IV (NOT Wyclif; excluded)
+19	2	sermones-1	1887	J. Loserth	none known	Sermones_I.md (pp. 1-337)	latinworks30wycl	Sermones I (Sunday gospels)
+20	2	sermones-2	1888	J. Loserth	none known	Sermones_II.md (pp. 1-322)	latinworks31wycl	Sermones II
+21	2	sermones-3	1889	J. Loserth	none known		latinworks32wycl	Sermones III (epistles)
+22	2	sermones-4	1890	J. Loserth	none known		latinworks33wycl	Sermones IV (Sermones miscellanei: XL de tempore, XXIV mixti)
+23	3	incarnacione	1886	E. Harris	none known	De_Benedicta_Incarnacione.md (pp. 1-232)	latinworks03wycl	De benedicta incarnacione
+24	3	compositione	1884	R. Beer	none known	De_Composicione_Hominis.md (pp. 1-133)	latinworks08wycl	De compositione hominis
+25	3	ente-praed	1891	R. Beer	none known	De_Ente_Predicamentali.md (pp. 1-219); XIII_Quaestiones_Logicae_et_Philosophicae.md (pp. 223-305)	latinworks12wycl	De ente praedicamentali + Quaestiones XIII logicae et philosophicae
+26	3	ente-excerpta	1909	M. H. Dziewicki	none known	De_Annihilatione.md (pp. 287-315); De_Ente_Libri_Primi.md (pp. 1-48); De_Ente_Libri_Secundi.md (pp. 49-286)	latinworks11wycl	De ente librorum duorum excerpta + Fragmentum de annihilatione
+27	3	misc-phil-1	1902	M. H. Dziewicki	none known		latinworks23wycl	De actibus anime, Replicacio de universalibus, De materia et forma, etc.
+28	3	logica-1	1893	M. H. Dziewicki	none known	De_Logica_Vol_I.md (pp. 1-234)	latinworks14wycl	Tractatus de logica I
+29	3	logica-2	1896	M. H. Dziewicki	none known	De_Logica_Vol_II.md (pp. 1-227)	latinworks15wycl	Tractatus de logica II (Logicae continuatio)
+30	3	logica-3	1899	M. H. Dziewicki	none known	De_Logica_Vol_III.md (pp. 1-227)	latinworks16wycl	Tractatus de logica III (Logicae continuatio)
+31	3	misc-phil-2	1905	M. H. Dziewicki	overlaps Kenny/Spade 1985 (different edition)		latinworks24wycl	De universalibus fragmenta, notae et quaestiones variae (full De universalibus exists in English from the later Mueller ed.)
+32	4	veritate	1905–1907	R. Buddensieg	ABRIDGED English (Levy 2001, in copyright)		latinworks21wycl	De veritate sacrae scripturae I-III (one scan, 1144 images)
+33	4	simonia	1898	S. Herzberg-Fränkel & M. H. Dziewicki	FULL English exists (McVeigh 1992, in copyright) - verify		latinworks20wycl	De simonia

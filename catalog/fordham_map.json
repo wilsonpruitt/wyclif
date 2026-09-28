@@ -1,0 +1,146 @@
+{
+ "De_Annihilatione.md": {
+  "best": "latinworks11wycl",
+  "hit": 0.367,
+  "runner": "latinworks31wycl",
+  "runner_hit": 0.005,
+  "first_page": 287,
+  "last_page": 315
+ },
+ "De_Benedicta_Incarnacione.md": {
+  "best": "latinworks03wycl",
+  "hit": 0.56,
+  "runner": "latinworks14wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 232
+ },
+ "De_Blasphemia.md": {
+  "best": "latinworks02wycl",
+  "hit": 0.343,
+  "runner": "latinworks25wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 288
+ },
+ "De_Civili_Dominio_I.md": {
+  "best": "latinworks04wycl",
+  "hit": 0.545,
+  "runner": "latinworks07wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 299
+ },
+ "De_Civili_Dominio_II.md": {
+  "best": "latinworks05wycl",
+  "hit": 0.642,
+  "runner": "latinworks30wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 283
+ },
+ "De_Composicione_Hominis.md": {
+  "best": "latinworks08wycl",
+  "hit": 0.555,
+  "runner": "latinworks03wycl",
+  "runner_hit": 0.003,
+  "first_page": 1,
+  "last_page": 133
+ },
+ "De_Dominio_Divino.md": {
+  "best": "latinworks09wycl",
+  "hit": 0.667,
+  "runner": "latinworks17wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 256
+ },
+ "De_Ente_Libri_Primi.md": {
+  "best": "latinworks11wycl",
+  "hit": 0.347,
+  "runner": "latinworks24wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 48
+ },
+ "De_Ente_Libri_Secundi.md": {
+  "best": "latinworks11wycl",
+  "hit": 0.32,
+  "runner": "latinworks12wycl",
+  "runner_hit": 0.013,
+  "first_page": 49,
+  "last_page": 286
+ },
+ "De_Ente_Predicamentali.md": {
+  "best": "latinworks12wycl",
+  "hit": 0.578,
+  "runner": "latinworks11wycl",
+  "runner_hit": 0.013,
+  "first_page": 1,
+  "last_page": 219
+ },
+ "De_Logica_Vol_I.md": {
+  "best": "latinworks14wycl",
+  "hit": 0.445,
+  "runner": "latinworks23wycl",
+  "runner_hit": 0.003,
+  "first_page": 1,
+  "last_page": 234
+ },
+ "De_Logica_Vol_II.md": {
+  "best": "latinworks15wycl",
+  "hit": 0.378,
+  "runner": "latinworks16wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 227
+ },
+ "De_Logica_Vol_III.md": {
+  "best": "latinworks16wycl",
+  "hit": 0.34,
+  "runner": "latinworks33wycl",
+  "runner_hit": 0.0,
+  "first_page": 1,
+  "last_page": 227
+ },
+ "De_Officio_Regis.md": {
+  "best": "latinworks18wycl",
+  "hit": 0.458,
+  "runner": "latinworks21wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 281
+ },
+ "Dialogus.md": {
+  "best": "latinworks22wycl",
+  "hit": 0.532,
+  "runner": "latinworks10wycl",
+  "runner_hit": 0.01,
+  "first_page": 1,
+  "last_page": 98
+ },
+ "Sermones_I.md": {
+  "best": "latinworks30wycl",
+  "hit": 0.662,
+  "runner": "latinworks33wycl",
+  "runner_hit": 0.003,
+  "first_page": 1,
+  "last_page": 337
+ },
+ "Sermones_II.md": {
+  "best": "latinworks31wycl",
+  "hit": 0.685,
+  "runner": "latinworks26wycl",
+  "runner_hit": 0.005,
+  "first_page": 1,
+  "last_page": 322
+ },
+ "XIII_Quaestiones_Logicae_et_Philosophicae.md": {
+  "best": "latinworks12wycl",
+  "hit": 0.657,
+  "runner": "latinworks33wycl",
+  "runner_hit": 0.0,
+  "first_page": 223,
+  "last_page": 305
+ }
+}

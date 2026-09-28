@@ -1,0 +1,589 @@
+[
+ {
+  "queue": 1,
+  "tier": 1,
+  "slug": "ecclesia",
+  "contents": "De ecclesia",
+  "year": "1886",
+  "editor": "J. Loserth",
+  "english": "extracts only (Penn 2019; Spinka 1953)",
+  "fordham": [],
+  "primary_scan": "latinworks10wycl",
+  "primary_url": "https://archive.org/details/latinworks10wycl",
+  "other_free_scans": [
+   "iohanniswyclift00mattgoog",
+   "iohanniswycliftr00wycluoft",
+   "iohanniswycliftr04wycl",
+   "tractatusdeeccl00wycl",
+   "tractatusdeeccle00wycl"
+  ]
+ },
+ {
+  "queue": 2,
+  "tier": 1,
+  "slug": "dialogus",
+  "contents": "Dialogus sive Speculum ecclesie militantis",
+  "year": "1886",
+  "editor": "A. W. Pollard",
+  "english": "none known",
+  "fordham": [
+   "Dialogus.md (pp. 1-98)"
+  ],
+  "primary_scan": "latinworks22wycl",
+  "primary_url": "https://archive.org/details/latinworks22wycl",
+  "other_free_scans": [
+   "11663460bsb",
+   "iohanniswycliff00wyclgoog",
+   "iohanniswycliffe05wycl",
+   "dialogussivespec00wycl"
+  ]
+ },
+ {
+  "queue": 3,
+  "tier": 1,
+  "slug": "potestate-pape",
+  "contents": "De potestate pape",
+  "year": "1907",
+  "editor": "J. Loserth",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks19wycl",
+  "primary_url": "https://archive.org/details/latinworks19wycl",
+  "other_free_scans": [
+   "johanniswyclift00mattgoog",
+   "johanniswyclift01mattgoog",
+   "tractatusdepotes00wycl"
+  ]
+ },
+ {
+  "queue": 4,
+  "tier": 1,
+  "slug": "eucharistia",
+  "contents": "De eucharistia tractatus maior + De eucharistia et poenitentia sive de confessione",
+  "year": "1892",
+  "editor": "J. Loserth",
+  "english": "extracts only (Penn 2019; Spinka 1953)",
+  "fordham": [],
+  "primary_scan": "latinworks13wycl",
+  "primary_url": "https://archive.org/details/latinworks13wycl",
+  "other_free_scans": [
+   "india.history.resource.90246",
+   "iohanniswyclifd00losegoog",
+   "iohanniswyclifd01losegoog",
+   "iohanniswyclifde12wycl"
+  ]
+ },
+ {
+  "queue": 5,
+  "tier": 1,
+  "slug": "civ-dom-1",
+  "contents": "De civili dominio, liber I",
+  "year": "1885",
+  "editor": "R. L. Poole (vol. I); J. Loserth (vols. II–IV)",
+  "english": "extracts only (Penn 2019; older selections)",
+  "fordham": [
+   "De_Civili_Dominio_I.md (pp. 1-299)"
+  ],
+  "primary_scan": "latinworks04wycl",
+  "primary_url": "https://archive.org/details/latinworks04wycl",
+  "other_free_scans": [
+   "iohanniswycliffe0002wycl"
+  ]
+ },
+ {
+  "queue": 6,
+  "tier": 1,
+  "slug": "officio-regis",
+  "contents": "De officio regis",
+  "year": "1887",
+  "editor": "A. W. Pollard & C. Sayle",
+  "english": "extracts only",
+  "fordham": [
+   "De_Officio_Regis.md (pp. 1-281)"
+  ],
+  "primary_scan": "latinworks18wycl",
+  "primary_url": "https://archive.org/details/latinworks18wycl",
+  "other_free_scans": [
+   "bwb_T5-ARL-070",
+   "iohanniswyclift02wyclgoog",
+   "iohanniswycliftr08wycl",
+   "tractatusdeoffi00saylgoog",
+   "tractatusdeoffic00wycl"
+  ]
+ },
+ {
+  "queue": 7,
+  "tier": 1,
+  "slug": "apostasia",
+  "contents": "De apostasia",
+  "year": "1889",
+  "editor": "M. H. Dziewicki",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks01wycl",
+  "primary_url": "https://archive.org/details/latinworks01wycl",
+  "other_free_scans": [
+   "iohanniswyclift00wyclgoog",
+   "iohanniswycliftr09wycl"
+  ]
+ },
+ {
+  "queue": 8,
+  "tier": 1,
+  "slug": "blasphemia",
+  "contents": "De blasphemia",
+  "year": "1893",
+  "editor": "M. H. Dziewicki",
+  "english": "none known",
+  "fordham": [
+   "De_Blasphemia.md (pp. 1-288)"
+  ],
+  "primary_scan": "latinworks02wycl",
+  "primary_url": "https://archive.org/details/latinworks02wycl",
+  "other_free_scans": [
+   "ioanniswiclifde00beergoog",
+   "iohanniswyclift01wyclgoog",
+   "iohanniswycliftr13wycl",
+   "tractatusdeblasp00wycl"
+  ]
+ },
+ {
+  "queue": 9,
+  "tier": 1,
+  "slug": "polemical-1",
+  "contents": "Polemical works I (short tracts)",
+  "year": "1883",
+  "editor": "R. Buddensieg",
+  "english": "none known (spot-check per tract)",
+  "fordham": [],
+  "primary_scan": "latinworks28wycl",
+  "primary_url": "https://archive.org/details/latinworks28wycl",
+  "other_free_scans": [
+   "johnwiclifspole01wyclgoog"
+  ]
+ },
+ {
+  "queue": 10,
+  "tier": 1,
+  "slug": "polemical-2",
+  "contents": "Polemical works II (short tracts, incl. De solutione Satanae, De mendaciis fratrum)",
+  "year": "1883",
+  "editor": "R. Buddensieg",
+  "english": "none known (spot-check per tract)",
+  "fordham": [],
+  "primary_scan": "latinworks29wycl",
+  "primary_url": "https://archive.org/details/latinworks29wycl",
+  "other_free_scans": [
+   "11663456bsb",
+   "johnwiclifspole00wyclgoog",
+   "johnwiclifspole02wyclgoog",
+   "johnwiclifspolem02wycluoft",
+   "polemicalworksin02wycl"
+  ]
+ },
+ {
+  "queue": 11,
+  "tier": 1,
+  "slug": "opus-evang-1",
+  "contents": "Opus evangelicum I-II",
+  "year": "1895",
+  "editor": "J. Loserth",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks26wycl",
+  "primary_url": "https://archive.org/details/latinworks26wycl",
+  "other_free_scans": [
+   "iohanniswyclifo00wyclgoog",
+   "iohanniswyclifop150102wycl",
+   "opusevangelicum12wycl"
+  ]
+ },
+ {
+  "queue": 12,
+  "tier": 1,
+  "slug": "opus-evang-2",
+  "contents": "Opus evangelicum III-IV = De Antichristo I-II",
+  "year": "1896",
+  "editor": "J. Loserth",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks27wycl",
+  "primary_url": "https://archive.org/details/latinworks27wycl",
+  "other_free_scans": [
+   "iohanniswyclifo01wyclgoog",
+   "iohanniswyclifop150304wycl",
+   "opusevangelicum34wycl"
+  ]
+ },
+ {
+  "queue": 13,
+  "tier": 2,
+  "slug": "civ-dom-2",
+  "contents": "De civili dominio, liber II",
+  "year": "1900",
+  "editor": "R. L. Poole (vol. I); J. Loserth (vols. II–IV)",
+  "english": "extracts only",
+  "fordham": [
+   "De_Civili_Dominio_II.md (pp. 1-283)"
+  ],
+  "primary_scan": "latinworks05wycl",
+  "primary_url": "https://archive.org/details/latinworks05wycl",
+  "other_free_scans": [
+   "decivilidominio0002ioha"
+  ]
+ },
+ {
+  "queue": 14,
+  "tier": 2,
+  "slug": "civ-dom-3a",
+  "contents": "De civili dominio, liber III (tome 1)",
+  "year": "1903",
+  "editor": "R. L. Poole (vol. I); J. Loserth (vols. II–IV)",
+  "english": "extracts only",
+  "fordham": [],
+  "primary_scan": "latinworks06wycl",
+  "primary_url": "https://archive.org/details/latinworks06wycl",
+  "other_free_scans": [
+   "bwb_S0-DFL-028",
+   "iohanniswyclifd00mattgoog"
+  ]
+ },
+ {
+  "queue": 15,
+  "tier": 2,
+  "slug": "civ-dom-3b",
+  "contents": "De civili dominio, liber III (tome 2)",
+  "year": "1904",
+  "editor": "R. L. Poole (vol. I); J. Loserth (vols. II–IV)",
+  "english": "extracts only",
+  "fordham": [],
+  "primary_scan": "latinworks07wycl",
+  "primary_url": "https://archive.org/details/latinworks07wycl",
+  "other_free_scans": [
+   "decivilidominio04wycl"
+  ]
+ },
+ {
+  "queue": 16,
+  "tier": 2,
+  "slug": "mandatis",
+  "contents": "De mandatis divinis + De statu innocencie",
+  "year": "1922",
+  "editor": "J. Loserth & F. D. Matthew",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks17wycl",
+  "primary_url": "https://archive.org/details/latinworks17wycl",
+  "other_free_scans": [
+   "bwb_KV-240-864",
+   "johanniswycliftr0000drjo"
+  ]
+ },
+ {
+  "queue": 17,
+  "tier": 2,
+  "slug": "opera-minora",
+  "contents": "Opera minora (incl. De servitute civili et dominio seculari)",
+  "year": "1913",
+  "editor": "J. Loserth",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks25wycl",
+  "primary_url": "https://archive.org/details/latinworks25wycl",
+  "other_free_scans": [
+   "bwb_T5-ARL-060"
+  ]
+ },
+ {
+  "queue": 18,
+  "tier": 2,
+  "slug": "dominio-divino",
+  "contents": "De dominio divino libri tres + FitzRalph, De pauperie Salvatoris I-IV (NOT Wyclif; excluded)",
+  "year": "1890",
+  "editor": "R. L. Poole",
+  "english": "none known",
+  "fordham": [
+   "De_Dominio_Divino.md (pp. 1-256)"
+  ],
+  "primary_scan": "latinworks09wycl",
+  "primary_url": "https://archive.org/details/latinworks09wycl",
+  "other_free_scans": [
+   "iohanniswycliffede00wycl",
+   "iohanniswycliffe00wycl",
+   "iohanniswycliffe10wycl",
+   "dedominiodivinol00wycl"
+  ]
+ },
+ {
+  "queue": 19,
+  "tier": 2,
+  "slug": "sermones-1",
+  "contents": "Sermones I (Sunday gospels)",
+  "year": "1887",
+  "editor": "J. Loserth",
+  "english": "none known",
+  "fordham": [
+   "Sermones_I.md (pp. 1-337)"
+  ],
+  "primary_scan": "latinworks30wycl",
+  "primary_url": "https://archive.org/details/latinworks30wycl",
+  "other_free_scans": [
+   "iohanniswyclifs01mattgoog",
+   "iohanniswyclifse0701wycl",
+   "sermones01wycl"
+  ]
+ },
+ {
+  "queue": 20,
+  "tier": 2,
+  "slug": "sermones-2",
+  "contents": "Sermones II",
+  "year": "1888",
+  "editor": "J. Loserth",
+  "english": "none known",
+  "fordham": [
+   "Sermones_II.md (pp. 1-322)"
+  ],
+  "primary_scan": "latinworks31wycl",
+  "primary_url": "https://archive.org/details/latinworks31wycl",
+  "other_free_scans": [
+   "india.history.resource.90245",
+   "iohanniswyclifse02wycl",
+   "iohanniswyclifse0702wycl",
+   "sermones02wycl"
+  ]
+ },
+ {
+  "queue": 21,
+  "tier": 2,
+  "slug": "sermones-3",
+  "contents": "Sermones III (epistles)",
+  "year": "1889",
+  "editor": "J. Loserth",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks32wycl",
+  "primary_url": "https://archive.org/details/latinworks32wycl",
+  "other_free_scans": [
+   "iohanniswyclifse0703wycl",
+   "sermones03wycl"
+  ]
+ },
+ {
+  "queue": 22,
+  "tier": 2,
+  "slug": "sermones-4",
+  "contents": "Sermones IV (Sermones miscellanei: XL de tempore, XXIV mixti)",
+  "year": "1890",
+  "editor": "J. Loserth",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks33wycl",
+  "primary_url": "https://archive.org/details/latinworks33wycl",
+  "other_free_scans": [
+   "iohanniswyclifs00mattgoog",
+   "iohanniswyclifse0704wycl",
+   "sermones04wycl"
+  ]
+ },
+ {
+  "queue": 23,
+  "tier": 3,
+  "slug": "incarnacione",
+  "contents": "De benedicta incarnacione",
+  "year": "1886",
+  "editor": "E. Harris",
+  "english": "none known",
+  "fordham": [
+   "De_Benedicta_Incarnacione.md (pp. 1-232)"
+  ],
+  "primary_scan": "latinworks03wycl",
+  "primary_url": "https://archive.org/details/latinworks03wycl",
+  "other_free_scans": [
+   "johanniswyclift01wyclgoog",
+   "johanniswyclift03wyclgoog",
+   "johanniswycliftr00wycl",
+   "johanniswycliftr06wycl",
+   "tractatusdebened00wycl"
+  ]
+ },
+ {
+  "queue": 24,
+  "tier": 3,
+  "slug": "compositione",
+  "contents": "De compositione hominis",
+  "year": "1884",
+  "editor": "R. Beer",
+  "english": "none known",
+  "fordham": [
+   "De_Composicione_Hominis.md (pp. 1-133)"
+  ],
+  "primary_scan": "latinworks08wycl",
+  "primary_url": "https://archive.org/details/latinworks08wycl",
+  "other_free_scans": [
+   "11663458bsb",
+   "decompositioneho00wycl"
+  ]
+ },
+ {
+  "queue": 25,
+  "tier": 3,
+  "slug": "ente-praed",
+  "contents": "De ente praedicamentali + Quaestiones XIII logicae et philosophicae",
+  "year": "1891",
+  "editor": "R. Beer",
+  "english": "none known",
+  "fordham": [
+   "De_Ente_Predicamentali.md (pp. 1-219)",
+   "XIII_Quaestiones_Logicae_et_Philosophicae.md (pp. 223-305)"
+  ],
+  "primary_scan": "latinworks12wycl",
+  "primary_url": "https://archive.org/details/latinworks12wycl",
+  "other_free_scans": [
+   "joanniswiclifde00wyclgoog",
+   "joanniswiclifdee11wycl",
+   "deentepraedicame00wycl"
+  ]
+ },
+ {
+  "queue": 26,
+  "tier": 3,
+  "slug": "ente-excerpta",
+  "contents": "De ente librorum duorum excerpta + Fragmentum de annihilatione",
+  "year": "1909",
+  "editor": "M. H. Dziewicki",
+  "english": "none known",
+  "fordham": [
+   "De_Annihilatione.md (pp. 287-315)",
+   "De_Ente_Libri_Primi.md (pp. 1-48)",
+   "De_Ente_Libri_Secundi.md (pp. 49-286)"
+  ],
+  "primary_scan": "latinworks11wycl",
+  "primary_url": "https://archive.org/details/latinworks11wycl",
+  "other_free_scans": [
+   "bwb_S0-DFL-029"
+  ]
+ },
+ {
+  "queue": 27,
+  "tier": 3,
+  "slug": "misc-phil-1",
+  "contents": "De actibus anime, Replicacio de universalibus, De materia et forma, etc.",
+  "year": "1902",
+  "editor": "M. H. Dziewicki",
+  "english": "none known",
+  "fordham": [],
+  "primary_scan": "latinworks23wycl",
+  "primary_url": "https://archive.org/details/latinworks23wycl",
+  "other_free_scans": [
+   "miscellaneaphil00dziegoog",
+   "miscellaneaphilo01wycl"
+  ]
+ },
+ {
+  "queue": 28,
+  "tier": 3,
+  "slug": "logica-1",
+  "contents": "Tractatus de logica I",
+  "year": "1893",
+  "editor": "M. H. Dziewicki",
+  "english": "none known",
+  "fordham": [
+   "De_Logica_Vol_I.md (pp. 1-234)"
+  ],
+  "primary_scan": "latinworks14wycl",
+  "primary_url": "https://archive.org/details/latinworks14wycl",
+  "other_free_scans": [
+   "johanniswycliftr1401wycl",
+   "tractatusdelogic01wycl"
+  ]
+ },
+ {
+  "queue": 29,
+  "tier": 3,
+  "slug": "logica-2",
+  "contents": "Tractatus de logica II (Logicae continuatio)",
+  "year": "1896",
+  "editor": "M. H. Dziewicki",
+  "english": "none known",
+  "fordham": [
+   "De_Logica_Vol_II.md (pp. 1-227)"
+  ],
+  "primary_scan": "latinworks15wycl",
+  "primary_url": "https://archive.org/details/latinworks15wycl",
+  "other_free_scans": [
+   "11817390bsb",
+   "johanniswyclift00wyclgoog",
+   "johanniswyclift05wyclgoog",
+   "johanniswycliftr1402wycl",
+   "tractatusdelogic02wycl"
+  ]
+ },
+ {
+  "queue": 30,
+  "tier": 3,
+  "slug": "logica-3",
+  "contents": "Tractatus de logica III (Logicae continuatio)",
+  "year": "1899",
+  "editor": "M. H. Dziewicki",
+  "english": "none known",
+  "fordham": [
+   "De_Logica_Vol_III.md (pp. 1-227)"
+  ],
+  "primary_scan": "latinworks16wycl",
+  "primary_url": "https://archive.org/details/latinworks16wycl",
+  "other_free_scans": [
+   "johanniswyclift02wyclgoog",
+   "johanniswyclift04wyclgoog",
+   "johanniswycliftr1403wycl",
+   "tractatusdelogic03wycl"
+  ]
+ },
+ {
+  "queue": 31,
+  "tier": 3,
+  "slug": "misc-phil-2",
+  "contents": "De universalibus fragmenta, notae et quaestiones variae (full De universalibus exists in English from the later Mueller ed.)",
+  "year": "1905",
+  "editor": "M. H. Dziewicki",
+  "english": "overlaps Kenny/Spade 1985 (different edition)",
+  "fordham": [],
+  "primary_scan": "latinworks24wycl",
+  "primary_url": "https://archive.org/details/latinworks24wycl",
+  "other_free_scans": [
+   "johanniswyclifmi00wycl",
+   "miscellaneaphil01dziegoog",
+   "miscellaneaphilo02wycl"
+  ]
+ },
+ {
+  "queue": 32,
+  "tier": 4,
+  "slug": "veritate",
+  "contents": "De veritate sacrae scripturae I-III (one scan, 1144 images)",
+  "year": "1905–1907",
+  "editor": "R. Buddensieg",
+  "english": "ABRIDGED English (Levy 2001, in copyright)",
+  "fordham": [],
+  "primary_scan": "latinworks21wycl",
+  "primary_url": "https://archive.org/details/latinworks21wycl",
+  "other_free_scans": []
+ },
+ {
+  "queue": 33,
+  "tier": 4,
+  "slug": "simonia",
+  "contents": "De simonia",
+  "year": "1898",
+  "editor": "S. Herzberg-Fränkel & M. H. Dziewicki",
+  "english": "FULL English exists (McVeigh 1992, in copyright) - verify",
+  "fordham": [],
+  "primary_scan": "latinworks20wycl",
+  "primary_url": "https://archive.org/details/latinworks20wycl",
+  "other_free_scans": [
+   "iohanniswyclift00dziegoog",
+   "iohanniswycliftr16wycl",
+   "tractatusdesimon00wycl"
+  ]
+ }
+]
