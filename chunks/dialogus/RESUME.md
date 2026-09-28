@@ -24,6 +24,10 @@
 | 07 | translated (wave 1) | 6 | 93k | 3 |
 | 08 | translated (wave 1) | 7 | 94k | 3 |
 | 09 | translated (wave 1) | 11 | 119k | 6 |
+| 10 | translated (wave 2, lean) | 10 | 91k | 2.6 |
+| 11 | translated (wave 2, lean) | 8 | 86k | 2.3 |
+| 12 | translated (wave 2, lean) | 6 | 86k | 2.5 |
+| 13 | translated (wave 2, lean) | 11 | 87k | 2.6 |
 
 ## Owed at work close (the gate)
 
@@ -36,4 +40,5 @@
 
 ## Next
 
-Wave 2: chunks 10, 11, 12, 13 on the LEAN card (Wilson: measure cost, report before wave 3).
+Wave 2 measured: lean card ≈ 87k/chunk (wave 1 ≈ 99k). Awaiting Wilson: the *inconveniencia* split and the
+wave-2 glossary proposals (`_reports.md`), and a go (with model) for wave 3 = chunks 14–17.
