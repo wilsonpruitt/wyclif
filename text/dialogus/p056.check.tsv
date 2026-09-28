@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	CAPITULUM:			plate
+2	R2	latinworks22wycl=uideo | 11663460bsb=uideo | dialogussivespec00wycl=uideo | fordham=uideo | iohanniswycliff00wyclgoog=uitlco | iohanniswycliffe05wycl=uideo		6	accept
+31	THIN	latinworks22wycl=00		1	plate
+32	THIN	latinworks22wycl=yidetur		1	plate
+55	R2	latinworks22wycl=quod | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=qucxl | iohanniswycliffe05wycl=quod		6	accept
+72	R2	latinworks22wycl=uerba | 11663460bsb=uerba | dialogussivespec00wycl=udba | fordham=uerba | iohanniswycliff00wyclgoog=ucrba | iohanniswycliffe05wycl=uerba		6	accept
+110	INS?	a	3	6	plate
+110	INS?	ai	2	6	plate
+117	R2	latinworks22wycl=citatb | 11663460bsb=citat | dialogussivespec00wycl=citat | fordham=citat | iohanniswycliff00wyclgoog=citatb | iohanniswycliffe05wycl=citat		6	accept
+147	R2	latinworks22wycl=mmt | 11663460bsb=immittit | dialogussivespec00wycl=imrmttit | fordham=immittit | iohanniswycliff00wyclgoog=immittit | iohanniswycliffe05wycl=inimittit		6	accept
+148	R3a	latinworks22wycl=ac | 11663460bsb=ad | dialogussivespec00wycl=ad | fordham=ad | iohanniswycliff00wyclgoog=ad | iohanniswycliffe05wycl=ad		6	accept
+171	R3a	latinworks22wycl=filiusii3b | 11663460bsb=filius113b | dialogussivespec00wycl=filiusii3b | fordham=filius | iohanniswycliff00wyclgoog=filiusiisb | iohanniswycliffe05wycl=filiusii3b		6	accept
+196	R3	latinworks22wycl=io | 11663460bsb=108 | dialogussivespec00wycl=io | fordham=108 | iohanniswycliff00wyclgoog=108 | iohanniswycliffe05wycl=io		6	plate
+199	R2	latinworks22wycl=iili | 11663460bsb=iil | dialogussivespec00wycl=illi | fordham=illi | iohanniswycliff00wyclgoog=illi | iohanniswycliffe05wycl=illi		6	accept
+200	R2	latinworks22wycl=el | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=et		6	accept
+202	R2	latinworks22wycl=benedicesx | 11663460bsb=benedices | dialogussivespec00wycl=benedices | fordham=benedices | iohanniswycliff00wyclgoog=denedices | iohanniswycliffe05wycl=benedicesx		6	accept
+210	R3a	latinworks22wycl=mt | 11663460bsb=mt | dialogussivespec00wycl=mt | fordham=mt | iohanniswycliff00wyclgoog=mt | iohanniswycliffe05wycl=it		6	accept
+211	R3b	latinworks22wycl=50 | 11663460bsb=5 | dialogussivespec00wycl=50 | fordham=5 | iohanniswycliff00wyclgoog=5 | iohanniswycliffe05wycl=5		6	accept
+214	R2	latinworks22wycl=beati | 11663460bsb=deat | dialogussivespec00wycl=beati | fordham=beati | iohanniswycliff00wyclgoog=beati | iohanniswycliffe05wycl=beati		6	accept
+228	R3	latinworks22wycl=aduersus | 11663460bsb=addicere | dialogussivespec00wycl=aduersus | fordham=aduersus | iohanniswycliff00wyclgoog=addicere | iohanniswycliffe05wycl=aduersus		6	plate
+229	R3	latinworks22wycl=uos | 11663460bsb=ueritatem | dialogussivespec00wycl=uos | fordham=uos | iohanniswycliff00wyclgoog=ueritatem | iohanniswycliffe05wycl=uos		6	plate
+230	R3	latinworks22wycl=mencientes | 11663460bsb=euangelicam | dialogussivespec00wycl=mencientes | fordham=mencientes | iohanniswycliff00wyclgoog=euangelicam | iohanniswycliffe05wycl=mencientes		6	plate

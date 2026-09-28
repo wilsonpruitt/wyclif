@@ -60,38 +60,28 @@ chunks that test both text paths:
 - ✅ **Frozen on Wilson's review, 2026-09-28.** All five decisions went to the recommended option. They
   are recorded in CONVENTIONS' decision log, and the pilots were converted to the new note register.
 
-**M2: The three-witness pipeline (Opus: real engineering, not pattern-following).** Establishes
-the Latin by checking, not re-OCRing (CONVENTIONS §3). Build and prove it one volume at a time,
-Dialogus first. 8 GB machine: one volume in memory at a time; keep the derived files, delete raw
-downloads.
-1. **Witness fetch.** Per volume: hOCR (or `_djvu.xml` word coordinates) for the Princeton scan and
-   each free alternative scan, plus Fordham `data.json` where it exists. Extract the main-text column
-   per page into `text/<slug>/witnesses/<id>/pNNN.tsv` (word · line · bbox). Running heads, line
-   numbers, side-notes and apparatus are separated by position; **side-notes go straight to
-   `sidenotes/<slug>.tsv`** (this replaces the separate side-note task).
-2. **Page mapping.** Calibrate `catalog/plate_offsets.tsv` per scan: offset from
-   `_page_numbers.json`, then one visual check per scan. The Johnson reprint's leaves differ from
-   Princeton's.
-3. **Align and vote.** Word alignment per page and the R1–R6 table. Output the established
-   `text/<slug>/pNNN.la.txt` and `pNNN.check.tsv`. A lexicon built from the corpus (forms agreeing
-   across ≥2 volumes) plus a standard wordlist decides non-word vs real word.
-4. **Plate-crop queue.** Every R3–R6 word becomes a line crop (the line ± 1, from the hOCR box, via
-   the IIIF region endpoint or a local crop). They are adjudicated in batches by Opus reading the
-   crops, with each decision written back to the check log.
-5. **Tesseract** (`brew install tesseract tesseract-lang`) for the four volumes with fewer than three
-   witnesses, run in the background one volume at a time.
-6. **Lint.** Fail a chunk with an unanchored note, an open `[verify]`, an empty `latin_source` /
-   `witnesses` / `check`, an unresolved R3–R6, or folio asterisks in the Latin.
-7. ⭐ **Acceptance test before any volume runs.** The pipeline must reproduce the two pilot chunks'
-   plate-read Latin word for word (*De eccl.* 1.1–5.13, *Dial.* 1.1–3.14), italics aside. It must
-   also route *Off. reg.* 68 *Sicul* / *edifacta* to correction and 69 *wltfacere* to the plate
-   (R5), not to "correction". Every miss is a rule to fix, not a word to patch.
-8. Report the measured rates per volume (R1 %, plate reads per 1,000 words). They go into the cost
-   table below.
+**M2: The three-witness pipeline.** ✅ Built and passing its acceptance test, 2026-09-28 (Opus).
+`scripts/w3/`: `djvu.py` (layout: main column / side-notes / apparatus / running heads / chapter
+headings, from archive.org `_djvu.xml` word boxes, lines rebuilt from geometry) · `witness.py SLUG`
+(all free scans + Fordham → token streams; side-notes → `sidenotes/`) · `vote.py SLUG [p q]`
+(page-by-page alignment, the §3.3 table, established Latin `text/<slug>/pNNN.la.txt` + check logs +
+plate queue) · `crops.py` (line-strip sheets) · `accept.py` · `lint.py`. Python in `.venv`
+(spylls + Pillow); the Latin hunspell dictionary is GPL, fetched locally and never committed.
+- ✅ **Acceptance:** *De eccl.* 1.1–5.13 = 858/858 words and *Dial.* 1.1–3.14 = 457/457 against the
+  plate-read pilots (italics aside); *Off. reg.* 68 *Sicul*→*sicut* and *edifacta*→*edificata*
+  corrected by vote; 69 *wltfacere* kept as printed.
+- ✅ **Plate loop proven:** Dialogus pp. 1–10, 19 items on 3 sheets, all applied, none stale.
+- ✅ **Measured:** see CONVENTIONS §3.3 and the table below.
+- ⏳ **Open:** (a) the remaining Dialogus plate items (~215 → ~27 sheets): read them as the first
+  step of M3; (b) **Tesseract** for the four volumes with fewer than 3 witnesses, deferred until the
+  first of them is reached (Polemical Works I, queue 9); (c) **voting the side-notes** across
+  witnesses (they are single-witness OCR English now: *ciergy*, *humiiity*); (d) punctuation is
+  taken from Fordham or the pivot, not voted.
+- ⚠ The §3.3 refinements are recorded in CONVENTIONS' decision log **pending Wilson's confirmation**.
 
-**M3: The Dialogus complete (Opus).** 36 chapters + Epilogus. Latin established by M2 (Fordham + 5
-free scans = 6 witnesses), headnote cleared of `[verify]`, every ledger row closed. Est. ~0.5M
-tokens, nearly all translation.
+**M3: The Dialogus complete (Opus).** 36 chapters + Epilogus. First: finish its plate items (~27
+sheets, ~0.1M tokens). Then translate against the frozen conventions from `text/dialogus/`, with the
+headnote cleared of `[verify]` and every ledger row closed. Est. ~0.5M tokens, nearly all translation.
 
 **M4: Site v0 (Opus).** A static build on the house pattern (look at the Arminius site before
 designing). Latin | English columns, the editor's side-notes as a navigation rail, hover glosses from the

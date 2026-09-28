@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	CABITULUM			plate
+3	R2	latinworks22wycl=quod | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=qtiod | iohanniswycliffe05wycl=quod		6	accept
+6	R2	latinworks22wycl=inconueniencia | 11663460bsb=inconueniencia | dialogussivespec00wycl=inconueniencia | fordham=inconueniencia | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=inconueniencia		6	accept
+14	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=i | iohanniswycliffe05wycl=in		6	accept
+22	R2	latinworks22wycl=sacre | 11663460bsb=sacre | dialogussivespec00wycl=sacre | fordham=sacre | iohanniswycliff00wyclgoog=sacn | iohanniswycliffe05wycl=sacre		6	accept
+25	DEL	latinworks22wycl=to | 11663460bsb=∅ | dialogussivespec00wycl=to | fordham=∅ | iohanniswycliffe05wycl=∅		5	accept
+67	R2	latinworks22wycl=ymmo | 11663460bsb=ymmo | dialogussivespec00wycl=ymmo | fordham=ymmo | iohanniswycliff00wyclgoog=yimno | iohanniswycliffe05wycl=ymmo		6	accept
+73	DEL	latinworks22wycl=as | 11663460bsb=as | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	plate
+81	R2	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=stycouwii | iohanniswycliffe05wycl=est		6	accept
+128	R2	latinworks22wycl=sen | 11663460bsb=sen | dialogussivespec00wycl=sentencie | fordham=sentencie | iohanniswycliff00wyclgoog=sentencie | iohanniswycliffe05wycl=sentencie		6	accept
+129	DEL	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	plate
+130	DEL	latinworks22wycl=tencie | 11663460bsb=tencie | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+136	R2	latinworks22wycl=tamen | 11663460bsb=tamen | dialogussivespec00wycl=tamen | fordham=tamen | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=tamen		6	accept
+141	R3b	latinworks22wycl=30 | 11663460bsb=3 | dialogussivespec00wycl=30 | fordham=3 | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=3		6	accept
+145	R2	latinworks22wycl=fidei | 11663460bsb=fidei | dialogussivespec00wycl=fidei | fordham=fidei | iohanniswycliff00wyclgoog=6dei | iohanniswycliffe05wycl=fidei		6	accept
+157	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept

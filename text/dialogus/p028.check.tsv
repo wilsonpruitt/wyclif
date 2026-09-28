@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+22	R2	latinworks22wycl=illorum | 11663460bsb=illorum | dialogussivespec00wycl=illorum | fordham=illorum | iohanniswycliff00wyclgoog=illonim | iohanniswycliffe05wycl=illorum		6	accept
+31	R2	latinworks22wycl=q110 | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=q | iohanniswycliffe05wycl=quod		6	accept
+39	R3	latinworks22wycl=ncies | 11663460bsb=fides | dialogussivespec00wycl=es | fordham=fides | iohanniswycliff00wyclgoog=fiig | iohanniswycliffe05wycl=fiieg		6	plate
+49	R4	latinworks22wycl=scnbitur | 11663460bsb=scribitur | dialogussivespec00wycl=scnbitur | fordham=scribitur | iohanniswycliff00wyclgoog=scriditur | iohanniswycliffe05wycl=scnbitur		6	plate
+53	R4	latinworks22wycl=m | 11663460bsb=in | dialogussivespec00wycl=m | fordham=in | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m		6	plate
+76	R2	latinworks22wycl=leb7c | 11663460bsb=legendis | dialogussivespec00wycl=legendis | fordham=legendis | iohanniswycliff00wyclgoog=legendis | iohanniswycliffe05wycl=leb7c		6	accept
+77	DEL	latinworks22wycl=gendis | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=gendis		6	accept
+109	R3a	latinworks22wycl=qui | 11663460bsb=qui | dialogussivespec00wycl=nui | fordham=qui | iohanniswycliff00wyclgoog=qui | iohanniswycliffe05wycl=qui		6	accept
+126	R2	latinworks22wycl=scolastici | 11663460bsb=sco15 | dialogussivespec00wycl=scolastici | fordham=scolastici | iohanniswycliff00wyclgoog=scolastici | iohanniswycliffe05wycl=scolastici		6	accept
+188	R3a	latinworks22wycl=carnis | 11663460bsb=carnis | dialogussivespec00wycl=carnis | fordham=carnis | iohanniswycliff00wyclgoog=camis | iohanniswycliffe05wycl=carnis		6	accept
+197	R2	latinworks22wycl=nqn | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliffe05wycl=non		5	accept
+198	R3a	latinworks22wycl=portet | 11663460bsb=oportet | dialogussivespec00wycl=oportet | fordham=oportet | iohanniswycliffe05wycl=oportet		5	accept
+199	R3a	latinworks22wycl=e | 11663460bsb=de | dialogussivespec00wycl=de | fordham=de | iohanniswycliffe05wycl=de		5	accept

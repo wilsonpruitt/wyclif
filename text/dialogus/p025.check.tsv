@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+27	HEAD	CAPITULUM			plate
+29	R3a	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=es | iohanniswycliffe05wycl=ex		6	accept
+100	R2	latinworks22wycl=nec | 11663460bsb=nec | dialogussivespec00wycl=nec | fordham=nec | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=nec		6	accept
+101	R2	latinworks22wycl=indulgenciis | 11663460bsb=indulgenciis | dialogussivespec00wycl=indulgenciis | fordham=indulgenciis | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=indulgenciis		6	accept
+102	R2	latinworks22wycl=debemus | 11663460bsb=debemus | dialogussivespec00wycl=debemus | fordham=debemus | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=debemus		6	accept
+103	R2	latinworks22wycl=credere | 11663460bsb=credere | dialogussivespec00wycl=credere | fordham=credere | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=credere		6	accept
+109	R3a	latinworks22wycl=curia | 11663460bsb=curia | dialogussivespec00wycl=curia | fordham=curia | iohanniswycliff00wyclgoog=cuna | iohanniswycliffe05wycl=curia		6	accept
+164	R2	latinworks22wycl=ergo | 11663460bsb=aoergo | dialogussivespec00wycl=ergo | fordham=ergo | iohanniswycliff00wyclgoog=aoergo | iohanniswycliffe05wycl=ergo		6	accept
+171	R2	latinworks22wycl=domini | 11663460bsb=domini | dialogussivespec00wycl=domini | fordham=domini | iohanniswycliff00wyclgoog=flommi | iohanniswycliffe05wycl=dommi		6	accept
+178	R2	latinworks22wycl=prelatum | 11663460bsb=prelatum | dialogussivespec00wycl=prelatum | fordham=prelatum | iohanniswycliff00wyclgoog=preiatura | iohanniswycliffe05wycl=prelatum		6	accept
+204	R2	latinworks22wycl=posset | 11663460bsb=posset | dialogussivespec00wycl=posset | fordham=posset | iohanniswycliff00wyclgoog=posselainiiehasif | iohanniswycliffe05wycl=posset		6	accept
+205	R2	latinworks22wycl=filium | 11663460bsb=filium | dialogussivespec00wycl=fihum | fordham=filium | iohanniswycliff00wyclgoog=asfiliuni | iohanniswycliffe05wycl=filium		6	accept
+232	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept

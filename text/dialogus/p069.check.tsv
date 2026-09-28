@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+8	R2	latinworks22wycl=omnes | 11663460bsb=omnes | dialogussivespec00wycl=omnes | fordham=omnes | iohanniswycliff00wyclgoog=omtieaiioiitweii | iohanniswycliffe05wycl=omnes		6	accept
+49	R4	latinworks22wycl=iudas | 11663460bsb=iudas | dialogussivespec00wycl=iudas | fordham=iudas | iohanniswycliff00wyclgoog=ludas | iohanniswycliffe05wycl=ludas		6	plate
+50	R2	latinworks22wycl=enim | 11663460bsb=enim | dialogussivespec00wycl=enim | fordham=enim | iohanniswycliff00wyclgoog=enira | iohanniswycliffe05wycl=enim		6	accept
+100	R2	latinworks22wycl=elemosinantibus | 11663460bsb=elemosinantibus | dialogussivespec00wycl=elemosinantibus | fordham=elemosinantibus | iohanniswycliff00wyclgoog=elemosinandbusbinkgiuei | iohanniswycliffe05wycl=elemosmantibus		6	accept
+110	R2	latinworks22wycl=et | 11663460bsb=∅ | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=et		6	accept
+114	R3a	latinworks22wycl=mores | 11663460bsb=domini | dialogussivespec00wycl=maiores | fordham=maiores | iohanniswycliff00wyclgoog=maiores | iohanniswycliffe05wycl=maiores		6	accept
+115	R3a	latinworks22wycl=isdomini | 11663460bsb=∅ | dialogussivespec00wycl=iedomini | fordham=domini | iohanniswycliff00wyclgoog=isdomini | iohanniswycliffe05wycl=iidomini		6	accept
+126	R2	latinworks22wycl=perpetuacio | 11663460bsb=perpetuacio | dialogussivespec00wycl=perpetuacio | fordham=perpetuacio | iohanniswycliff00wyclgoog=perpeluacio | iohanniswycliffe05wycl=perpeluacio		6	accept
+149	HEAD	^CAPITULUM			plate
+178	R2	latinworks22wycl=clerus | 11663460bsb=clerus | dialogussivespec00wycl=clerus | fordham=clerus | iohanniswycliff00wyclgoog=clenis | iohanniswycliffe05wycl=clerus		6	accept
+179	R3a	latinworks22wycl=sit | 11663460bsb=sit | dialogussivespec00wycl=sit | fordham=sit | iohanniswycliff00wyclgoog=sil | iohanniswycliffe05wycl=sit		6	accept
+184	R2	latinworks22wycl=nimis | 11663460bsb=nimis | dialogussivespec00wycl=nimis | fordham=nimis | iohanniswycliff00wyclgoog=nimis | iohanniswycliffe05wycl=nunis		6	accept
+200	DEL	latinworks22wycl=r | 11663460bsb=∅ | dialogussivespec00wycl=r | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+201	DEL	latinworks22wycl=r | 11663460bsb=∅ | dialogussivespec00wycl=r | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+202	DEL	latinworks22wycl=r | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+203	DEL	latinworks22wycl=5 | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+204	DEL	latinworks22wycl=r | 11663460bsb=∅ | dialogussivespec00wycl=r | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+210	R2	latinworks22wycl=subditi | 11663460bsb=subditi | dialogussivespec00wycl=subditi | fordham=subditi | iohanniswycliff00wyclgoog=subdili | iohanniswycliffe05wycl=subdili		6	accept

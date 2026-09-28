@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+38	HEAD	CAPITULUM:			plate
+39	R2	latinworks22wycl=mendacium | 11663460bsb=28m | dialogussivespec00wycl=mendacium | fordham=mendacium | iohanniswycliff00wyclgoog=mendacium | iohanniswycliffe05wycl=mendacium		6	accept
+77	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=non | iohanniswycliffe05wycl=nou		6	accept
+86	R3a	latinworks22wycl=sit | 11663460bsb=sit | dialogussivespec00wycl=sit | fordham=sit | iohanniswycliff00wyclgoog=git | iohanniswycliffe05wycl=gii		6	accept
+87	R3a	latinworks22wycl=eque | 11663460bsb=eque | dialogussivespec00wycl=eque | fordham=eque | iohanniswycliff00wyclgoog=gqyg | iohanniswycliffe05wycl=que		6	accept
+95	R4	latinworks22wycl=sicutil | 11663460bsb=sicut | dialogussivespec00wycl=sicutil | fordham=sicut | iohanniswycliff00wyclgoog=sicutil | iohanniswycliffe05wycl=sicutii		6	plate
+107	R2	latinworks22wycl=regum | 11663460bsb=regum | dialogussivespec00wycl=regum | fordham=regum | iohanniswycliff00wyclgoog=rcgum | iohanniswycliffe05wycl=tcgum		6	accept
+122	R3b	latinworks22wycl=eemosmam | 11663460bsb=elemosinam | dialogussivespec00wycl=elemosmam | fordham=elemosinam | iohanniswycliff00wyclgoog=elemosinam | iohanniswycliffe05wycl=elcmosinam		6	accept
+132	R2	latinworks22wycl=hoc | 11663460bsb=∅ | dialogussivespec00wycl=hoc | fordham=hoc | iohanniswycliff00wyclgoog=hoc | iohanniswycliffe05wycl=hoc		6	accept
+153	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=non		6	accept
+188	R2	latinworks22wycl=kt | 11663460bsb=mt | dialogussivespec00wycl=mt | fordham=mt | iohanniswycliff00wyclgoog=mt | iohanniswycliffe05wycl=mt		6	accept
+194	R2	latinworks22wycl=crasiinum | 11663460bsb=crastinum | dialogussivespec00wycl=crasiiiun | fordham=crastinum | iohanniswycliff00wyclgoog=crasttmmy | iohanniswycliffe05wycl=crasiinum		6	accept

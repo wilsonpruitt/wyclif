@@ -76,35 +76,80 @@ Word by word, per Society page, main text only. Comparison is on a normalised fo
 *i/j*, punctuation, and ligature and OCR hyphen artefacts). ⛔ **The normalisation is only for
 comparing.** The established text keeps the printed spelling (§3.5).
 
-### 3.3 The decision table
+### 3.3 The decision table (refined in M2 against measurement, 2026-09-28; see decision log)
+
+The frozen table below was built from first principles. Running it on real witnesses (the Dialogus
+complete, *De ecclesia* 1–5, *Off. reg.* 68–69) showed three things it had not foreseen, and
+the rules were refined to meet them. The principle is unchanged: **a disagreement the evidence
+can explain mechanically is settled by the evidence; only a real doubt goes to the plate.**
+
+1. **Systematic OCR confusions recur across scans.** Ligature *fi* read as *ii*, *ff* as *tf*, *li* as
+   *h*, long-*s* as *b* and so on, so several witnesses can share the *same* non-word (*iilii*,
+   *speciah*, *bicut*). "Shared non-word = the print's" was wrong for these.
+2. **Layout errors are correlated.** Every scan is a photograph of the same page, so a side-note
+   glued to a main-text word (*hectruth*, *Lords*) or a line number read into it (*estis* = *est*
+   + 15) recurs in several witnesses at once. Character errors are independent; layout is not.
+3. **The Latin hunspell dictionary is too generous** (it accepts *iu*, *dommus*, *nou*, *st*), so
+   "real word" alone cannot decide a dispute.
+
+**Before the vote, each non-word vote is attributed to the reading it is evidence for** (`unglue`
+in `vote.py`):
+- a non-word within **two known OCR confusions** (the list in `vote.py`) of another voter's form is
+  a vote for that form, however many scans share it;
+- a non-word seen **once** that closely resembles another voter's form (similarity ≥ 0.75) is a
+  misreading of it;
+- a non-word that is another voter's form **plus ≥ 3 glued letters** is that form with a side-note
+  or line number attached.
+Targets are real forms, or a non-word the plurality shares (proper names, medieval spellings the
+dictionary lacks: *israelis*, *auffert*).
 
 | Rule | Situation | Action | Plate? |
 |---|---|---|---|
-| R1 | All witnesses agree | Accept | No |
-| R2 | One witness outvoted, and its form is a **non-word** | Accept the majority | No |
-| R3 | One witness outvoted, but **every competing form is a real word** (*humani / humane*, *sum / sim*, *quod / quid*) | Plate decides | **Yes** |
-| R4 | No majority (three-way split) | Plate decides | **Yes** |
-| R5 | All agree on a **non-word** | Plate decides; never "correct" on sight | **Yes** |
-| R6 | The majority form is itself a non-word | Plate decides | **Yes** |
+| R1 | All witnesses agree on a real word | Accept | No |
+| R5a | All ≥ 4 witnesses agree on a non-word | Accept: the print's own form (*idemptitas*, *wltfacere*) | No |
+| R5 | All agree on a non-word, only 3 witnesses | Plate | **Yes** |
+| R2 | Majority real form, every rival a non-word | Accept | No |
+| R3a | Majority real form ≥ 3, one lone real-word rival | Accept: a single outlier is OCR noise | No |
+| R3b | Majority real form ≥ 3 and ≥ 2× any rival, every real rival an OCR confusion of it | Accept (*dommus*, *nou*; *30* for *3°*) | No |
+| R6a | A non-word holds a strict majority of **all** voters, rivals only singletons | Accept: the print's form | No |
+| DEL | A strict majority of witnesses lack the pivot's word | Drop it; plate only if a real rival has ≥ 2 votes | if so |
+| INS | A strict majority of witnesses have a word the pivot lost | Insert it | No |
+| R3 | Real-word dispute with ≥ 2 votes on each side (*fide / ride*, *sto / isto*) | Plate | **Yes** |
+| R4 | No majority | Plate | **Yes** |
+| R6 | A non-word majority short of the R6a test | Plate | **Yes** |
+| THIN | Fewer than 3 witnesses aligned here | Plate | **Yes** |
+| INS? | ≥ 2 witnesses (not a majority) insert a word | Plate | **Yes** |
+| HEAD | A chapter heading (structure is checked once per heading) | Plate | **Yes** |
 
-- **Non-word vs real word** follows the house rule ([[reference_plate-read-triage]]). Corpus
-  frequency settles non-words; it is worthless for real words. A real word that reads oddly is the
-  source's until the plate says otherwise. The lexicon test is the corpus itself: a form counts as
-  real if it is attested in agreeing positions in at least two volumes, or is in a standard Latin
-  wordlist.
-- **R5 is where the print's own oddities live.** *wltfacere* (*Off. reg.* 69.4) is what the plate
-  prints: the MS spelling of *vult facere*. Phase 0 wrongly called it a Fordham error. A form that
-  looks corrupt may be the source's, and only the plate can say.
+- **Non-word vs real word** still follows the house rule ([[reference_plate-read-triage]]): a
+  non-word is evidence of an error; a real word that reads oddly is the source's until the plate
+  says otherwise, and in a real-word dispute the plate decides unless the dispute is explained
+  mechanically (R3a, R3b). The lexicon is hunspell Latin tried on classicised variants (*ci→ti*,
+  *y→i*, *e→ae*, *michi→mihi*), plus `catalog/lexicon/agreed.txt` (forms ≥ 4 independent
+  witnesses have agreed on anywhere in the corpus), minus English side-note words.
+- **The print's oddities are kept, never "corrected".** *wltfacere* (*Off. reg.* 69.4) is what the
+  plate prints: the MS spelling of *vult facere*. Phase 0 wrongly called it a Fordham error.
+
+**Measured** (Dialogus complete, 23,120 words, 6 witnesses): 89.6% unanimous; 99.0% settled
+without a plate; **10.3 plate items per 1,000 words** (~2.4 per Society page, of which ~0.3 are
+chapter headings). Numerals (*3°*/*30*) and real-word disputes are most of the rest.
 
 ### 3.4 Plate reads: the line, not the word
 
-- A plate read is a **crop of the line with the line above and below**, fetched by its hOCR box
-  (archive.org IIIF region request, or a local crop), never the whole page. The whole line is read
-  every time, because the normalisation class (the digitised text silently *corrects* the print,
-  and the corrected form reads perfectly) is found in the neighbours of the word being checked
-  ([[reference_plate-read-triage]]).
-- Every non-R1 decision is logged in `text/<slug>/pNNN.check.tsv` (position · the witnesses' forms ·
-  rule · resolution · plate y/n), and the chunk's `check` field summarises the log.
+- `scripts/w3/crops.py SLUG` cuts, for every open queue item, **the line with the line above and
+  below** from the page image, boxes the word in red, and stacks eight strips per numbered sheet
+  (`text/<slug>/crops/sheet_NNN.jpg` + `.tsv`). The whole middle line is read every time, because
+  the normalisation class (the digitised text silently *corrects* the print, and the corrected form
+  reads perfectly) lives in the neighbours of the word being checked ([[reference_plate-read-triage]]).
+- When a strip is not decisive (italic *t / l*, a degree sign), **zoom the full-resolution page**
+  on that word before deciding. ⛔ Never decide on the sense or on the Vulgate. The plate decides,
+  and the note says how (e.g. *Dial.* 9.15 *dabitis*: "short ascender with crossbar = t").
+- Readings go in `text/<slug>/plate_decisions.tsv` (page · pos · rule · forms · reading · note):
+  the print's form **exactly as printed**, `∅` for no word, the full heading text for HEAD. The next
+  `vote.py` run applies them. A decision whose voted forms no longer match is reported **stale** and
+  re-queued, so a change to the extraction can never silently misplace a decision.
+- Every non-R1 decision is logged in `text/<slug>/pNNN.check.tsv`, and the chunk's `check` field
+  summarises the log.
 
 ### 3.5 What the established text keeps
 
@@ -307,3 +352,4 @@ side-notes · Notes · Transcription notes (plate readings, collation, the edito
 | 2026-09-28 | *Dominium* → "lordship"; titles *On Civil Lordship*, *On Divine Lordship* (GLOSSARY §B) | Wilson |
 | 2026-09-28 | Note register: glossary tags + hover glossary; G notes only for passage-specific points (§11) | Wilson |
 | 2026-09-28 | CONVENTIONS and GLOSSARY frozen on pilot review | Wilson |
+| 2026-09-28 | §3.3 refined in M2 against measurement: non-word attribution (OCR confusions, glue, singletons); R3a/R3b/R5a/R6a/DEL/INS/THIN/HEAD; §3.4 crop sheets + decisions file. Principle unchanged | Opus (M2) · **pending Wilson's confirmation** |

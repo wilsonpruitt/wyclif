@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+22	R2	latinworks22wycl=per | 11663460bsb=per | dialogussivespec00wycl=per | fordham=per | iohanniswycliff00wyclgoog=ier | iohanniswycliffe05wycl=per		6	accept
+38	R2	latinworks22wycl=graueturs | 11663460bsb=grauetur | dialogussivespec00wycl=grauetur | fordham=grauetur | iohanniswycliff00wyclgoog=graueturs | iohanniswycliffe05wycl=grauetur		6	accept
+48	R2	latinworks22wycl=piaceret | 11663460bsb=placeret | dialogussivespec00wycl=∅ | fordham=placeret | iohanniswycliff00wyclgoog=placeret | iohanniswycliffe05wycl=piaceret		6	accept
+83	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=uou | iohanniswycliffe05wycl=non		6	accept
+104	R3a	latinworks22wycl=aliis | 11663460bsb=aliis | dialogussivespec00wycl=aliis | fordham=aliis | iohanniswycliff00wyclgoog=aliis | iohanniswycliffe05wycl=auis		6	accept
+111	R3b	latinworks22wycl=140 | 11663460bsb=14 | dialogussivespec00wycl=140 | fordham=14 | iohanniswycliff00wyclgoog=140 | iohanniswycliffe05wycl=140		6	accept
+116	R2	latinworks22wycl=cum | 11663460bsb=cum | dialogussivespec00wycl=cum | fordham=cum | iohanniswycliff00wyclgoog=yii | iohanniswycliffe05wycl=cum		6	accept
+122	R3a	latinworks22wycl=secura | 11663460bsb=secura | dialogussivespec00wycl=secura | fordham=secura | iohanniswycliff00wyclgoog=seciua | iohanniswycliffe05wycl=secura		6	accept
+143	R2	latinworks22wycl=a | 11663460bsb=a | dialogussivespec00wycl=a | fordham=a | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+161	R2	latinworks22wycl=euiaban | 11663460bsb=euidens | dialogussivespec00wycl=euidens | fordham=euidens | iohanniswycliff00wyclgoog=euideus | iohanniswycliffe05wycl=euiigig		6	accept
+171	R2	latinworks22wycl=deuiat | 11663460bsb=deuiat | dialogussivespec00wycl=deuiat | fordham=deuiat | iohanniswycliff00wyclgoog=dcuiat | iohanniswycliffe05wycl=guiat		6	accept
+179	R3	latinworks22wycl=egt | 11663460bsb=est | dialogussivespec00wycl=egt | fordham=est | iohanniswycliffe05wycl=∅		5	plate
+196	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=ii		6	accept
+201	R2	latinworks22wycl=numerum | 11663460bsb=numerum | dialogussivespec00wycl=numerum | fordham=numerum | iohanniswycliff00wyclgoog=numenun | iohanniswycliffe05wycl=numerum		6	accept
+204	R3a	latinworks22wycl=partus | 11663460bsb=partibus | dialogussivespec00wycl=parlibus | fordham=partibus | iohanniswycliff00wyclgoog=partibus | iohanniswycliffe05wycl=partibus		6	accept
+219	R2	latinworks22wycl=appetere | 11663460bsb=appetere | dialogussivespec00wycl=apsopetere | fordham=appetere | iohanniswycliff00wyclgoog=appetere | iohanniswycliffe05wycl=apsopetere		6	accept
+237	DEL	latinworks22wycl=is | 11663460bsb=∅ | dialogussivespec00wycl=is | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	plate
+241	R3	latinworks22wycl=fuit | 11663460bsb=fuit | dialogussivespec00wycl=luit | fordham=fuit | iohanniswycliff00wyclgoog=fuit | iohanniswycliffe05wycl=luit		6	plate
+249	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=iu		6	accept
+259	R3b	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=uou | iohanniswycliffe05wycl=uou		6	accept

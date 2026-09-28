@@ -1,0 +1,216 @@
+page	pos	rule	forms	leaf	box
+11	152	R4	latinworks22wycl=eoi | dialogussivespec00wycl=eoi | fordham=eorum | iohanniswycliff00wyclgoog=eoi | iohanniswycliffe05wycl=eorun	42	1272,2546,1348,2575
+11	164	INS?	fieri maior	42	338,2710,464,2755
+12	10	R3	latinworks22wycl=multis | 11663460bsb=multis | dialogussivespec00wycl=mullis | fordham=multis | iohanniswycliff00wyclgoog=muilis | iohanniswycliffe05wycl=multis	43	666,723,910,770
+12	122	R3	latinworks22wycl=sto | 11663460bsb=isto | dialogussivespec00wycl=sto | fordham=isto | iohanniswycliff00wyclgoog=isto	43	739,1899,860,1946
+12	182	R3	latinworks22wycl=contra | 11663460bsb=capitulum | dialogussivespec00wycl=contra | fordham=contra | iohanniswycliff00wyclgoog=capitulum | iohanniswycliffe05wycl=contra	43	665,2519,877,2568
+13	0	HEAD	CAPITULUM VII.	44	876,791,1329,841
+13	26	INS?	foueas	44	1827,1103,2007,1160
+13	189	R4	latinworks22wycl=pa | 11663460bsb=p | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p	44	1484,2717,1560,2781
+14	24	R3	latinworks22wycl=tegamur | 11663460bsb=uegamur | dialogussivespec00wycl=iegamur | fordham=tegamur | iohanniswycliff00wyclgoog=legamur | iohanniswycliffe05wycl=iegamur	45	654,928,919,992
+14	41	R3	latinworks22wycl=dotata | 11663460bsb=dotatas | dialogussivespec00wycl=dotata | fordham=dotata | iohanniswycliff00wyclgoog=dotatasi | iohanniswycliffe05wycl=dotata	45	2170,1020,2353,1068
+14	63	R4	latinworks22wycl=pa | 11663460bsb=p | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p	45	1373,1288,1468,1349
+14	65	R3	latinworks22wycl=50 | 11663460bsb=5 | dialogussivespec00wycl=50 | fordham=5 | iohanniswycliff00wyclgoog=5 | iohanniswycliffe05wycl=50	45	1629,1289,1707,1348
+14	88	R3	latinworks22wycl=ut | 11663460bsb=ul | dialogussivespec00wycl=ui | fordham=ut | iohanniswycliff00wyclgoog=ul | iohanniswycliffe05wycl=ut	45	2287,1475,2357,1515
+15	0	HEAD	CAPITULUM VIII.1	46	831,786,1284,835
+17	0	HEAD	CAPITULUM 9m.	48	877,890,1331,939
+17	61	R3	latinworks22wycl=ion | 11663460bsb=io | dialogussivespec00wycl=ion | fordham=io | iohanniswycliff00wyclgoog=io | iohanniswycliffe05wycl=ioii	48	884,1739,1068,1805
+19	102	HEAD	CAPITULUM io*.	50	916,2012,1379,2061
+20	93	INS?	a	51	656,1661,924,1725
+20	116	INS?	superbam	51	949,1933,1199,1981
+20	125	THIN	latinworks22wycl=wisdom	51	443,1980,2053,2021
+20	126	THIN	latinworks22wycl=11	51	661,2025,800,2088
+20	127	THIN	latinworks22wycl=ps	51	800,2024,916,2088
+20	128	THIN	latinworks22wycl=ue	51	916,2024,1014,2086
+20	129	THIN	latinworks22wycl=menaces	51	1014,2025,1302,2086
+20	130	THIN	latinworks22wycl=noc	51	1302,2033,1434,2086
+20	195	R3	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=iu	51	1394,2659,1481,2705
+21	91	HEAD	CAPITULUM nm.	52	926,1857,1382,1907
+23	0	HEAD	CABITULUM	54	864,745,1326,800
+23	73	DEL	latinworks22wycl=as | 11663460bsb=as | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	54	2014,1600,2081,1639
+23	129	DEL	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	54	2021,2317,2075,2360
+24	119	INS?	4	55	837,1913,973,1962
+25	27	HEAD	CAPITULUM	56	857,1119,1315,1168
+26	2	INS?	ideo dicunt quidam uiantes quod propter tale iudicium temerarium nec magis nec minus sed propter meritum uel demeritum quo ad deum et de multis literis episcopalibus concedentibus dies uenie est idem probabiliter senciendum et quantum ad literas	57	999,646,1399,704
+26	83	R4	latinworks22wycl=suf10 | 11663460bsb=suffragiis | dialogussivespec00wycl=suf10 | fordham=suffragiis | iohanniswycliffe05wycl=sufio	57	2286,1454,2474,1501
+26	210	HEAD	CAPITULUM i4m.	57	1263,3172,1724,3223
+27	165	R4	latinworks22wycl=to | 11663460bsb=t | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=aochristiano | iohanniswycliffe05wycl=∅	58	1922,2259,1977,2311
+28	39	R3	latinworks22wycl=ncies | 11663460bsb=fides | dialogussivespec00wycl=es | fordham=fides | iohanniswycliff00wyclgoog=fiig | iohanniswycliffe05wycl=fiieg	59	681,1103,851,1152
+28	49	R4	latinworks22wycl=scnbitur | 11663460bsb=scribitur | dialogussivespec00wycl=scnbitur | fordham=scribitur | iohanniswycliff00wyclgoog=scriditur | iohanniswycliffe05wycl=scnbitur	59	1003,1200,1261,1244
+28	53	R4	latinworks22wycl=m | 11663460bsb=in | dialogussivespec00wycl=m | fordham=in | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m	59	1900,1205,1985,1244
+29	0	HEAD	CAPITULUM	60	835,809,1292,860
+31	65	INS?	i6m	62	379,1705,638,1755
+32	48	R3	latinworks22wycl=i | 11663460bsb=∅ | dialogussivespec00wycl=i | fordham=1 | iohanniswycliff00wyclgoog=1 | iohanniswycliffe05wycl=i	63	1483,1099,1589,1170
+32	154	R3	latinworks22wycl=2 | 11663460bsb=∅ | dialogussivespec00wycl=2 | fordham=24 | iohanniswycliff00wyclgoog=zomattti	63	2319,2095,2352,2144
+33	0	HEAD	CAPITULUM	64	863,757,1324,809
+34	121	R3	latinworks22wycl=ceri | 11663460bsb=cleri | dialogussivespec00wycl=cieri | fordham=cleri | iohanniswycliffe05wycl=qqi	65	745,1875,884,1923
+34	218	HEAD	CAPITULUM	65	1312,3173,1770,3223
+35	74	R4	latinworks22wycl=dedeiat | 11663460bsb=dederat | dialogussivespec00wycl=dedeiat | fordham=dederat | iohanniswycliff00wyclgoog=dedeiat | iohanniswycliffe05wycl=dedeiat	66	1241,1428,1464,1477
+37	0	HEAD	CAPITULUM	68	870,842,1330,896
+37	130	R3	latinworks22wycl=cunam | 11663460bsb=curiam | dialogussivespec00wycl=cunam | fordham=curiam | iohanniswycliff00wyclgoog=cunam | iohanniswycliffe05wycl=curiam	68	317,2427,538,2459
+39	0	R3	latinworks22wycl=fluis | 11663460bsb=et | dialogussivespec00wycl=uidetur | fordham=fluis | iohanniswycliff00wyclgoog=operi | iohanniswycliffe05wycl=uerbis	70	313,677,464,726
+39	11	HEAD	CAPITULUM	70	863,1024,1333,1073
+40	0	R3	latinworks22wycl=a | 11663460bsb=sic | dialogussivespec00wycl=sic | fordham=a | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=a	71	665,677,718,717
+40	224	R4	latinworks22wycl=m | 11663460bsb=∅ | dialogussivespec00wycl=in | fordham=∅ | iohanniswycliff00wyclgoog=m	71	1054,3201,1144,3239
+40	225	R4	latinworks22wycl=secuntate | 11663460bsb=∅ | dialogussivespec00wycl=secuntate | fordham=∅ | iohanniswycliff00wyclgoog=securitate	71	1144,3196,1509,3240
+40	228	INS?	in auctoritate	71	1975,3196,2131,3252
+41	97	HEAD	CAPITULUM 2i».	72	689,2044,1150,2094
+44	93	R4	latinworks22wycl=falb | 11663460bsb=faliaciam | dialogussivespec00wycl=falb | fordham=fallaciam | iohanniswycliff00wyclgoog=falb | iohanniswycliffe05wycl=falb	75	2271,1660,2450,1706
+45	64	R6	latinworks22wycl=cium | 11663460bsb=∅ | dialogussivespec00wycl=cium | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=cium	76	372,1263,535,1310
+45	121	R4	latinworks22wycl=isfructu | 11663460bsb=fructu | dialogussivespec00wycl=isfructu | fordham=fructu | iohanniswycliff00wyclgoog=isfniclu | iohanniswycliffe05wycl=isfructu	76	309,1888,580,1944
+45	188	R4	latinworks22wycl=or | 11663460bsb=or | dialogussivespec00wycl=r | fordham=∅ | iohanniswycliffe05wycl=∅	76	2072,2960,2127,2999
+45	197	R4	latinworks22wycl=t | 11663460bsb=to | dialogussivespec00wycl=t | fordham=∅ | iohanniswycliff00wyclgoog=5 | iohanniswycliffe05wycl=∅	76	2072,3045,2128,3088
+45	206	R4	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m	76	370,3219,483,3269
+45	223	R3	latinworks22wycl=cap | 11663460bsb=cap | dialogussivespec00wycl=cap | fordham=capo | iohanniswycliff00wyclgoog=cap | iohanniswycliffe05wycl=capo	76	591,3408,708,3462
+47	190	R4	latinworks22wycl=eccci | 11663460bsb=ecci | dialogussivespec00wycl=eccci | fordham=eccci | iohanniswycliff00wyclgoog=ecc | iohanniswycliffe05wycl=ecc	78	910,2686,1062,2737
+47	196	INS?	de	78	453,2782,754,2828
+47	216	R4	latinworks22wycl=aac | 11663460bsb=malac | dialogussivespec00wycl=aac | fordham=malac | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=malac	78	800,2959,1000,3020
+47	217	R3	latinworks22wycl=pi | 11663460bsb=p | dialogussivespec00wycl=p0 | fordham=po | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=po	78	1000,2969,1104,3022
+47	249	R3	latinworks22wycl=im | 11663460bsb=∅ | dialogussivespec00wycl=guo | fordham=in | iohanniswycliff00wyclgoog=i	78	313,3307,441,3381
+47	250	R3	latinworks22wycl=suo | 11663460bsb=suo | dialogussivespec00wycl=pastorali | fordham=suo | iohanniswycliff00wyclgoog=pasiorali	78	441,3331,570,3381
+47	254	R4	latinworks22wycl=3a | 11663460bsb=3 | dialogussivespec00wycl=3a | fordham=3a | iohanniswycliff00wyclgoog=s | iohanniswycliffe05wycl=∅	78	1319,3324,1413,3384
+47	256	R3	latinworks22wycl=7a | 11663460bsb=72 | dialogussivespec00wycl=7a | fordham=7a | iohanniswycliff00wyclgoog=7 | iohanniswycliffe05wycl=i	78	1639,3327,1731,3385
+48	58	R4	latinworks22wycl=capitulo | 11663460bsb=capitu | dialogussivespec00wycl=capitu | fordham=capitulo | iohanniswycliff00wyclgoog=capitu | iohanniswycliffe05wycl=capitulo	79	2149,1146,2357,1208
+48	62	R4	latinworks22wycl=ps | 11663460bsb=ps | dialogussivespec00wycl=ps | fordham=pso | iohanniswycliff00wyclgoog=pso | iohanniswycliffe05wycl=ps	79	1138,1244,1259,1297
+48	63	R3	latinworks22wycl=io | 11663460bsb=10 | dialogussivespec00wycl=io | fordham=10 | iohanniswycliff00wyclgoog=io | iohanniswycliffe05wycl=10	79	1259,1235,1375,1282
+48	77	R3	latinworks22wycl=2do | 11663460bsb=24 | dialogussivespec00wycl=2do | fordham=2do | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=2	79	1893,1323,2010,1373
+48	89	HEAD	CAPITULUM	79	1221,1838,1675,1887
+49	171	R4	latinworks22wycl=if | 11663460bsb=el | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=aouel | iohanniswycliffe05wycl=∅	80	2042,2278,2091,2318
+50	84	R4	latinworks22wycl=chnsti | dialogussivespec00wycl=chnsti | fordham=christi	81	2051,1480,2267,1522
+51	0	HEAD	CAPITULUM	82	878,1014,1336,1068
+51	128	R4	latinworks22wycl=pa | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p	82	1271,2604,1366,2667
+51	139	R4	latinworks22wycl=contentath | dialogussivespec00wycl=contentatii | fordham=contentati | iohanniswycliff00wyclgoog=contentati | iohanniswycliffe05wycl=contentati	82	1721,2703,2001,2742
+52	15	R3	latinworks22wycl=i | 11663460bsb=18 | dialogussivespec00wycl=i | fordham=18 | iohanniswycliff00wyclgoog=i | iohanniswycliffe05wycl=is	83	1787,771,1915,817
+52	99	R4	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=im	83	1458,1668,1587,1715
+52	180	R3	latinworks22wycl=agat | 11663460bsb=agat | dialogussivespec00wycl=aerat | fordham=agat | iohanniswycliff00wyclgoog=aerat | iohanniswycliffe05wycl=agat	83	1154,2477,1304,2534
+53	24	DEL	latinworks22wycl=be | 11663460bsb=∅ | dialogussivespec00wycl=be | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	84	2040,818,2085,853
+53	106	HEAD	CAPITULUM	84	889,2106,1357,2156
+53	107	R4	latinworks22wycl=i5 | 11663460bsb=menpacium | dialogussivespec00wycl=t5 | fordham=26 | iohanniswycliffe05wycl=∅	84	280,2250,416,2301
+53	210	R3	latinworks22wycl=in | 11663460bsb=introducta | dialogussivespec00wycl=in | fordham=introducta | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=in	84	1962,3331,2051,3378
+53	211	R4	latinworks22wycl=of | 11663460bsb=∅ | dialogussivespec00wycl=f | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=of	84	2051,3334,2104,3377
+54	64	R3	latinworks22wycl=ui | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m	85	1088,1370,1173,1416
+55	29	R3	latinworks22wycl=30 | 11663460bsb=3 | dialogussivespec00wycl=30 | fordham=3 | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=30	86	934,923,1029,975
+56	0	HEAD	CAPITULUM:	87	1172,835,1632,885
+56	31	THIN	latinworks22wycl=00	87	718,1345,840,1398
+56	32	THIN	latinworks22wycl=yidetur	87	840,1344,1062,1398
+56	110	INS?	a	87	619,2243,724,2290
+56	110	INS?	ai	87	619,2243,724,2290
+56	196	R3	latinworks22wycl=io | 11663460bsb=108 | dialogussivespec00wycl=io | fordham=108 | iohanniswycliff00wyclgoog=108 | iohanniswycliffe05wycl=io	87	989,3140,1135,3189
+56	228	R3	latinworks22wycl=aduersus | 11663460bsb=addicere | dialogussivespec00wycl=aduersus | fordham=aduersus | iohanniswycliff00wyclgoog=addicere | iohanniswycliffe05wycl=aduersus	87	2233,3415,2316,3461
+56	229	R3	latinworks22wycl=uos | 11663460bsb=ueritatem | dialogussivespec00wycl=uos | fordham=uos | iohanniswycliff00wyclgoog=ueritatem | iohanniswycliffe05wycl=uos	87	819,3505,923,3551
+56	230	R3	latinworks22wycl=mencientes | 11663460bsb=euangelicam | dialogussivespec00wycl=mencientes | fordham=mencientes | iohanniswycliff00wyclgoog=euangelicam | iohanniswycliffe05wycl=mencientes	87	923,3505,1202,3551
+57	41	R3	latinworks22wycl=propfer | 11663460bsb=propler | dialogussivespec00wycl=propier | fordham=propter | iohanniswycliff00wyclgoog=ptopter | iohanniswycliffe05wycl=propter	88	495,1100,708,1161
+57	95	R3	latinworks22wycl=euangelicam | 11663460bsb=euangelicam | dialogussivespec00wycl=euan | fordham=euangelicam | iohanniswycliff00wyclgoog=euaniuwghprifs | iohanniswycliffe05wycl=euangelicam	88	1869,1639,2031,1684
+57	166	R4	latinworks22wycl=tt | 11663460bsb=∅ | dialogussivespec00wycl=l | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=i	88	2031,2358,2084,2414
+57	176	INS?	bium	88	512,2536,816,2586
+57	233	INS?	to	88	331,3168,724,3232
+58	38	HEAD	CAPITULUM:	89	1269,1344,1734,1394
+58	95	R4	latinworks22wycl=sicutil | 11663460bsb=sicut | dialogussivespec00wycl=sicutil | fordham=sicut | iohanniswycliff00wyclgoog=sicutil | iohanniswycliffe05wycl=sicutii	89	2280,2022,2510,2068
+59	11	R5	latinworks22wycl=tur | dialogussivespec00wycl=tur | iohanniswycliffe05wycl=tur	90	318,756,420,793
+60	30	R4	latinworks22wycl=elemosynas | 11663460bsb=elemosynas | dialogussivespec00wycl=elemosunas | fordham=elemosynas | iohanniswycliff00wyclgoog=elcmosynas | iohanniswycliffe05wycl=elemosunas	91	723,1012,1081,1075
+60	37	R3	latinworks22wycl=ue | 11663460bsb=ye | dialogussivespec00wycl=ue | fordham=uel | iohanniswycliff00wyclgoog=yel | iohanniswycliffe05wycl=ratifications	91	724,1103,836,1151
+60	112	R3	latinworks22wycl=29m | 11663460bsb=menpactum | dialogussivespec00wycl=mendacium | fordham=29 | iohanniswycliff00wyclgoog=mendacium | iohanniswycliffe05wycl=mendacium	91	1735,2106,2432,2159
+60	113	DEL	latinworks22wycl=imendacium | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=mendacium | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	91	799,2226,1155,2277
+60	197	R3	latinworks22wycl=elemosmis | 11663460bsb=elemosinis | dialogussivespec00wycl=elemosinis | fordham=elemosinis | iohanniswycliff00wyclgoog=elemosmis | iohanniswycliffe05wycl=elemosmis	91	733,3222,1038,3269
+61	5	R4	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=ki | iohanniswycliffe05wycl=m	92	1557,663,1682,716
+61	9	THIN	latinworks22wycl=ai | iohanniswycliff00wyclgoog=ad	92	796,755,919,806
+61	10	THIN	latinworks22wycl=iiigtiigiiuiu | iohanniswycliff00wyclgoog=distribuendum	92	919,755,1374,806
+61	139	R3	latinworks22wycl=domini | 11663460bsb=domini | dialogussivespec00wycl=do | fordham=domini | iohanniswycliff00wyclgoog=mini | iohanniswycliffe05wycl=dohehandofthe	92	1934,2191,2021,2238
+62	179	R3	latinworks22wycl=egt | 11663460bsb=est | dialogussivespec00wycl=egt | fordham=est | iohanniswycliffe05wycl=∅	93	719,2571,834,2620
+62	237	DEL	latinworks22wycl=is | 11663460bsb=∅ | dialogussivespec00wycl=is | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	93	673,3211,719,3251
+62	241	R3	latinworks22wycl=fuit | 11663460bsb=fuit | dialogussivespec00wycl=luit | fordham=fuit | iohanniswycliff00wyclgoog=fuit | iohanniswycliffe05wycl=luit	93	1136,3208,1260,3251
+63	86	HEAD	CAPITULUM	94	849,1853,1310,1905
+64	252	R3	latinworks22wycl=colligant | 11663460bsb=expendant | dialogussivespec00wycl=expendant | fordham=colligant | iohanniswycliff00wyclgoog=expendanl | iohanniswycliffe05wycl=expendant	95	754,3363,1020,3426
+64	254	THIN	latinworks22wycl=usus | fordham=usus	95	1117,3363,1268,3410
+64	255	THIN	latinworks22wycl=cleri | fordham=cleri	95	1268,3363,1418,3410
+64	256	THIN	latinworks22wycl=omnes | fordham=omnes	95	1418,3360,1630,3409
+64	257	THIN	latinworks22wycl=redditus | fordham=redditus	95	1630,3360,1881,3408
+64	258	THIN	latinworks22wycl=istos | fordham=istos	95	1881,3360,2038,3408
+64	260	THIN	latinworks22wycl=fructus | fordham=fructus	95	2171,3358,2389,3408
+65	6	R4	latinworks22wycl=to | 11663460bsb=∅ | dialogussivespec00wycl=to | fordham=∅ | iohanniswycliff00wyclgoog=istaid | iohanniswycliffe05wycl=to	96	2000,657,2054,688
+65	23	R3	latinworks22wycl=lege | 11663460bsb=lege | dialogussivespec00wycl=lesre | fordham=lege | iohanniswycliff00wyclgoog=lege | iohanniswycliffe05wycl=lee	96	1230,824,1378,880
+66	51	R4	latinworks22wycl=noc | 11663460bsb=hoc | dialogussivespec00wycl=noc | fordham=hoc | iohanniswycliff00wyclgoog=igi | iohanniswycliffe05wycl=q	97	726,1182,846,1232
+66	127	R3	latinworks22wycl=sedis | 11663460bsb=sed | dialogussivespec00wycl=sed | fordham=sed | iohanniswycliff00wyclgoog=sed | iohanniswycliffe05wycl=sedis	97	2316,1898,2477,1951
+66	136	R3	latinworks22wycl=cieri | 11663460bsb=cleri | dialogussivespec00wycl=cieri | fordham=cleri | iohanniswycliffe05wycl=clcri	97	872,2078,1011,2125
+66	209	R4	latinworks22wycl=scut | 11663460bsb=sicut | dialogussivespec00wycl=scut | fordham=sicut | iohanniswycliffe05wycl=qm	97	730,2887,887,2943
+66	245	R4	latinworks22wycl=sin | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=apostous | iohanniswycliffe05wycl=apostous	97	602,3202,1743,3243
+67	101	INS?	nus	98	425,1722,668,1784
+67	129	INS?	gelii	98	433,2079,765,2141
+68	190	R3	latinworks22wycl=dotatus | 11663460bsb=dotatus | dialogussivespec00wycl=dolatus | fordham=dotatus | iohanniswycliff00wyclgoog=dolatus | iohanniswycliffe05wycl=dolatus	99	913,2707,1149,2754
+68	257	R3	latinworks22wycl=221 | 11663460bsb=221 | dialogussivespec00wycl=22 | fordham=22i | iohanniswycliffe05wycl=22	99	820,3424,940,3481
+69	49	R4	latinworks22wycl=iudas | 11663460bsb=iudas | dialogussivespec00wycl=iudas | fordham=iudas | iohanniswycliff00wyclgoog=ludas | iohanniswycliffe05wycl=ludas	100	1477,1091,1649,1138
+69	149	HEAD	^CAPITULUM	100	831,2527,1312,2578
+70	128	INS?	truere	101	886,1989,1067,2037
+71	128	R3	latinworks22wycl=discipulum | 11663460bsb=discipulum | dialogussivespec00wycl=dis | fordham=discipulum | iohanniswycliff00wyclgoog=disbyamichrist | iohanniswycliffe05wycl=discipulum	102	1897,1916,1991,1964
+71	221	R4	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m	102	1014,2993,1141,3041
+71	229	R3	latinworks22wycl=i | 11663460bsb=3 | dialogussivespec00wycl=3a | fordham=3a | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=∅	102	790,3128,988,3154
+72	205	R3	latinworks22wycl=uentatis | 11663460bsb=ueritatis | dialogussivespec00wycl=uentatis | fordham=ueritatis | iohanniswycliff00wyclgoog=ueritatis | iohanniswycliffe05wycl=uentatis	103	1035,2813,1279,2852
+72	236	R4	latinworks22wycl=antiof | 11663460bsb=antichristi | dialogussivespec00wycl=antiof | fordham=antichristi | iohanniswycliff00wyclgoog=antiidco	103	2241,3072,2365,3119
+72	237	DEL	latinworks22wycl=christi | 11663460bsb=∅ | dialogussivespec00wycl=christi | fordham=∅ | iohanniswycliff00wyclgoog=∅	103	681,3162,930,3210
+73	198	HEAD	^CAPITULUM	104	866,3015,1352,3066
+74	45	R4	latinworks22wycl=pnuata | 11663460bsb=priuata | dialogussivespec00wycl=pnuata | fordham=priuata | iohanniswycliff00wyclgoog=pnuata | iohanniswycliffe05wycl=pnuata	105	1659,1130,1869,1184
+75	64	DEL	latinworks22wycl=as | 11663460bsb=∅ | dialogussivespec00wycl=as | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	106	2059,1314,2124,1346
+75	89	R4	latinworks22wycl=to | 11663460bsb=∅ | dialogussivespec00wycl=to | fordham=∅ | iohanniswycliff00wyclgoog=restiluere | iohanniswycliffe05wycl=∅	106	2063,1572,2117,1609
+75	129	THIN	latinworks22wycl=fidehs | iohanniswycliffe05wycl=fidehs	106	1687,2016,1877,2060
+75	130	THIN	latinworks22wycl=mmisgiebe | iohanniswycliffe05wycl=minisgiebe	106	1877,2027,2179,2068
+75	131	THIN	latinworks22wycl=tracio | iohanniswycliffe05wycl=tracio	106	360,2104,537,2152
+76	225	R4	latinworks22wycl=2m | 11663460bsb=2 | dialogussivespec00wycl=2m | fordham=2m | iohanniswycliff00wyclgoog=2 | iohanniswycliffe05wycl=2	107	1537,3176,1645,3215
+77	36	R3	latinworks22wycl=contrane | 11663460bsb=contrarie | dialogussivespec00wycl=contrane | fordham=contrarie | iohanniswycliff00wyclgoog=contrarie | iohanniswycliffe05wycl=contrane	108	1190,994,1452,1041
+77	44	R4	latinworks22wycl=antichnsti | dialogussivespec00wycl=antichnsti | fordham=antichristi | iohanniswycliff00wyclgoog=antichristi | iohanniswycliffe05wycl=antichnsti	108	1021,1086,1374,1131
+77	116	R3	latinworks22wycl=icunde | 11663460bsb=unde | dialogussivespec00wycl=unde | fordham=unde | iohanniswycliff00wyclgoog=unde | iohanniswycliffe05wycl=iunde	108	272,1888,494,1938
+78	30	R4	latinworks22wycl=si | 11663460bsb=si | dialogussivespec00wycl=gi | fordham=si | iohanniswycliff00wyclgoog=gi | iohanniswycliffe05wycl=gi	109	634,993,718,1044
+78	70	R4	latinworks22wycl=33m | 11663460bsb=∅ | dialogussivespec00wycl=33m | fordham=33 | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	109	1640,1768,2336,1821
+78	103	R3	latinworks22wycl=ia | 11663460bsb=1 | dialogussivespec00wycl=ia | fordham=1a | iohanniswycliff00wyclgoog=i | iohanniswycliffe05wycl=i	109	1739,2191,1867,2261
+78	132	R4	latinworks22wycl=cathohca | 11663460bsb=cathoica | dialogussivespec00wycl=cathohca | fordham=catholica | iohanniswycliff00wyclgoog=cathohca | iohanniswycliffe05wycl=cathohca	109	2151,2463,2318,2511
+78	196	R3	latinworks22wycl=550 | 11663460bsb=55 | dialogussivespec00wycl=550 | fordham=55 | iohanniswycliff00wyclgoog=550 | iohanniswycliffe05wycl=55	109	1564,3177,1752,3238
+79	124	R3	latinworks22wycl=propriam | dialogussivespec00wycl=pro | fordham=propriam | iohanniswycliff00wyclgoog=pro | iohanniswycliffe05wycl=propiiam	110	1884,1886,2013,1942
+79	200	R3	latinworks22wycl=mentum | dialogussivespec00wycl=mentum | fordham=meritum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=meritum	110	1643,2792,1918,2830
+79	253	R3	latinworks22wycl=secuquod | dialogussivespec00wycl=securum | fordham=secu | iohanniswycliff00wyclgoog=secu | iohanniswycliffe05wycl=sccurum	110	1851,3337,2007,3373
+80	49	R4	latinworks22wycl=u0c | 11663460bsb=ipi | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=accipicnda | iohanniswycliffe05wycl=accipicnda	111	682,1183,852,1244
+80	122	R3	latinworks22wycl=sec | 11663460bsb=sed | dialogussivespec00wycl=seci | fordham=sed | iohanniswycliff00wyclgoog=ggi | iohanniswycliffe05wycl=ggi	111	679,1990,793,2038
+80	160	HEAD	CAPITULUM	111	1230,2787,1684,2840
+81	24	INS?	tota	112	451,906,731,953
+81	112	INS?	a	112	371,1800,778,1861
+81	253	R4	latinworks22wycl=luce | 11663460bsb=luc | dialogussivespec00wycl=luce | fordham=luce | iohanniswycliff00wyclgoog=luc | iohanniswycliffe05wycl=luc	112	1415,3240,1553,3286
+81	254	R3	latinworks22wycl=n | 11663460bsb=11 | dialogussivespec00wycl=ii | fordham=11 | iohanniswycliff00wyclgoog=11 | iohanniswycliffe05wycl=ii	112	1553,3239,1675,3287
+82	37	HEAD	CAPITULUM	113	1261,1401,1713,1449
+82	118	R4	latinworks22wycl=sicb | 11663460bsb=sic | dialogussivespec00wycl=sicb | fordham=sic | iohanniswycliff00wyclgoog=sicb | iohanniswycliffe05wycl=sicb	113	2323,2344,2485,2392
+82	190	R3	latinworks22wycl=minister | 11663460bsb=ministerio | dialogussivespec00wycl=minister | fordham=ministerio | iohanniswycliff00wyclgoog=ministerioas | iohanniswycliffe05wycl=mmisterio	113	2123,3155,2412,3203
+83	0	R3	latinworks22wycl=ergo | 11663460bsb=ergo | dialogussivespec00wycl=ergo | fordham=ergo | iohanniswycliff00wyclgoog=huiusmodi | iohanniswycliffe05wycl=huiusmodi	114	316,632,473,694
+83	63	INS?	modi	114	468,1347,605,1396
+83	226	R3	latinworks22wycl=in | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=chrialus | iohanniswycliffe05wycl=i	114	1992,3057,2051,3098
+84	0	HEAD	CAPITULUM	115	1252,844,1705,893
+84	224	R3	latinworks22wycl=temps | 11663460bsb=tempotis | dialogussivespec00wycl=temporis | fordham=temporis | iohanniswycliff00wyclgoog=temp	115	2254,3255,2375,3293
+88	14	R3	latinworks22wycl=iesu | 11663460bsb=iesu | dialogussivespec00wycl=tesu | fordham=iesu | iohanniswycliff00wyclgoog=tcsu | iohanniswycliffe05wycl=iesu	119	697,843,840,900
+88	107	R3	latinworks22wycl=dmmi | 11663460bsb=domini | dialogussivespec00wycl=domini | fordham=domini | iohanniswycliff00wyclgoog=oii | iohanniswycliffe05wycl=omini	119	695,1828,908,1881
+88	124	R4	latinworks22wycl=quodis | 11663460bsb=quod | dialogussivespec00wycl=quodis | fordham=quod | iohanniswycliff00wyclgoog=quxl | iohanniswycliffe05wycl=quodis	119	2245,1919,2445,1981
+88	232	R4	latinworks22wycl=haue | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=scntcnciat | iohanniswycliffe05wycl=sentcnciat	119	519,3145,910,3179
+89	14	R4	latinworks22wycl=of | 11663460bsb=∅ | dialogussivespec00wycl=of | fordham=∅ | iohanniswycliff00wyclgoog=instiiuit | iohanniswycliffe05wycl=∅	120	2053,757,2107,796
+90	37	THIN	latinworks22wycl=anter	121	788,1007,947,1063
+90	38	THIN	latinworks22wycl=fret	121	947,1007,1096,1063
+90	46	R3	latinworks22wycl=ed | 11663460bsb=sed | dialogussivespec00wycl=ed | fordham=sed | iohanniswycliffe05wycl=∅	121	867,1096,1011,1151
+91	243	INS?	innuit	122	535,3268,650,3317
+91	286	R4	latinworks22wycl=t | 11663460bsb=16 | dialogussivespec00wycl=t | iohanniswycliff00wyclgoog=16	122	413,3723,506,3766
+91	293	R3	latinworks22wycl=pro | 11663460bsb=∅ | dialogussivespec00wycl=pro | iohanniswycliff00wyclgoog=fru | iohanniswycliffe05wycl=fro	122	1200,3726,1301,3777
+91	313	R4	latinworks22wycl=b1 | 11663460bsb=bt | dialogussivespec00wycl=b1 | iohanniswycliff00wyclgoog=b | iohanniswycliffe05wycl=b	122	745,3855,975,3897
+92	248	R4	latinworks22wycl=pltfs | 11663460bsb=plus | dialogussivespec00wycl=plits | fordham=plus | iohanniswycliff00wyclgoog=plits | iohanniswycliffe05wycl=phis	123	2213,3178,2325,3240
+92	282	THIN	latinworks22wycl=1 | 11663460bsb=i	123	704,3749,771,3789
+92	283	THIN	latinworks22wycl=sit | 11663460bsb=sit	123	771,3749,850,3798
+92	284	R3	latinworks22wycl=pro | 11663460bsb=auo | fordham=pro	123	850,3747,952,3800
+92	286	R4	latinworks22wycl=b1 | 11663460bsb=bt | dialogussivespec00wycl=b1 | iohanniswycliffe05wycl=b	123	1035,3745,1279,3785
+92	295	R4	latinworks22wycl=n | dialogussivespec00wycl=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=fro	123	2245,3750,2326,3796
+92	308	R4	latinworks22wycl=inuct | 11663460bsb=7uuc | dialogussivespec00wycl=inucu | iohanniswycliff00wyclgoog=ifwct	123	2116,3810,2323,3860
+94	118	R3	latinworks22wycl=debentis | 11663460bsb=debent | dialogussivespec00wycl=debentis | fordham=debent | iohanniswycliff00wyclgoog=debent | iohanniswycliffe05wycl=debentis	125	2133,1913,2377,1970
+94	218	R3	latinworks22wycl=stultorum | 11663460bsb=sorum | dialogussivespec00wycl=stidloriim | fordham=stultorum | iohanniswycliff00wyclgoog=stuuorum | iohanniswycliffe05wycl=siuuorum	125	1477,2994,1750,3041
+94	250	R4	latinworks22wycl=iicite | 11663460bsb=licite | dialogussivespec00wycl=iicite | fordham=licite | iohanniswycliff00wyclgoog=hcite | iohanniswycliffe05wycl=iicite	125	1422,3353,1592,3402
+95	7	R3	latinworks22wycl=uiola | 11663460bsb=mola | fordham=mola | iohanniswycliffe05wycl=uiola	126	1758,650,1927,699
+95	12	R3	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=el | fordham=et | iohanniswycliff00wyclgoog=ei | iohanniswycliffe05wycl=et	126	1023,743,1100,790
+95	242	R3	latinworks22wycl=dopeoplemum | 11663460bsb=domum | dialogussivespec00wycl=dopeopie | fordham=domum | iohanniswycliff00wyclgoog=do | iohanniswycliffe05wycl=do	126	1923,3253,2179,3314
+95	243	INS?	mum	126	533,3358,744,3399
+96	0	R3	latinworks22wycl=argu | 11663460bsb=roborauit | dialogussivespec00wycl=cum | fordham=roborauit	127	515,634,707,687
+96	1	INS?	cum cesari dedit dydragma et uulgaribus graciam multiformem domum autem aut redditus non lego christum pro se aut suis discipulis habuisse sed natus fuit pauper in diuersorio et in orto extra ierusalem mortuus et sepultus a militibus tamen uoluit gloriose sepeliri	127	707,634,857,685
+96	28	R3	latinworks22wycl=ero | 11663460bsb=ergo | dialogussivespec00wycl=erso | fordham=ergo | iohanniswycliff00wyclgoog=crgo | iohanniswycliffe05wycl=crgo	127	930,921,1085,967
+96	139	INS?	modi	127	966,2074,1272,2132
+96	198	R4	latinworks22wycl=quankatholicum | 11663460bsb=quantum | dialogussivespec00wycl=quankatholicum | fordham=quantum | iohanniswycliff00wyclgoog=quantum | iohanniswycliffe05wycl=quankatholicum	127	2169,2616,2343,2674
+98	0	R3	latinworks22wycl=heresis | dialogussivespec00wycl=lex | fordham=heresis | iohanniswycliff00wyclgoog=heresis | iohanniswycliffe05wycl=lex	129	681,644,906,693
+98	1	INS?	christi non sic constringitur loco uel tempore cum manebit perpetuo in bonis per idem enim non possit fingere quod nulla lex dei uel hominum de obseruanciis humanis haberet notabilem periodum temporalem ideo quod quatuor iste ficticie cum carent racionis euiheresis	129	906,644,1399,706

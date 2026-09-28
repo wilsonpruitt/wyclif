@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	CAPITULUM			plate
+1	R2	latinworks22wycl=mexdacium | 11663460bsb=menpacium | dialogussivespec00wycl=mendacium | iohanniswycliffe05wycl=n		4	accept
+5	R2	latinworks22wycl=minaris | 11663460bsb=minaris | dialogussivespec00wycl=minaris | fordham=minaris | iohanniswycliff00wyclgoog=nunaris | iohanniswycliffe05wycl=minaris		6	accept
+7	R2	latinworks22wycl=ruinam | 11663460bsb=ruinam | dialogussivespec00wycl=ruinam | fordham=ruinam | iohanniswycliff00wyclgoog=niinam | iohanniswycliffe05wycl=ruinam		6	accept
+28	R2	latinworks22wycl=enim | 11663460bsb=enim | dialogussivespec00wycl=enim | fordham=enim | iohanniswycliff00wyclgoog=enira | iohanniswycliffe05wycl=enim		6	accept
+38	R3a	latinworks22wycl=perfectissima | 11663460bsb=perfectissima | dialogussivespec00wycl=perfectissima | fordham=perfectissima | iohanniswycliff00wyclgoog=perrectissima | iohanniswycliffe05wycl=perfectissima		6	accept
+72	R2	latinworks22wycl=tenetur | 11663460bsb=tenetur | dialogussivespec00wycl=tenetur | fordham=tenetur | iohanniswycliff00wyclgoog=lenelur | iohanniswycliffe05wycl=tenetur		6	accept
+75	R2	latinworks22wycl=mandato | 11663460bsb=mandato | dialogussivespec00wycl=mandato | fordham=mandato | iohanniswycliff00wyclgoog=maiidalo | iohanniswycliffe05wycl=mandato		6	accept
+147	R2	latinworks22wycl=personarum | 11663460bsb=personarum | dialogussivespec00wycl=personarum | fordham=personarum | iohanniswycliff00wyclgoog=personanmi | iohanniswycliffe05wycl=∅		6	accept
+153	R2	latinworks22wycl=cnnstus | 11663460bsb=christus | dialogussivespec00wycl=cnnstus | fordham=christus | iohanniswycliffe05wycl=chnstus		5	accept
+187	R3a	latinworks22wycl=patet | 11663460bsb=patet | dialogussivespec00wycl=patet | fordham=patet | iohanniswycliff00wyclgoog=palet | iohanniswycliffe05wycl=patet		6	accept
+203	R2	latinworks22wycl=stare | 11663460bsb=stare | dialogussivespec00wycl=stare | fordham=stare | iohanniswycliff00wyclgoog=stalu | iohanniswycliffe05wycl=stare		6	accept
+204	R2	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=in		6	accept
+205	R2	latinworks22wycl=statu | 11663460bsb=statu | dialogussivespec00wycl=statu | fordham=statu | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=statu		6	accept
+219	R3a	latinworks22wycl=ordinauit | 11663460bsb=ordinauit | dialogussivespec00wycl=ordinauit | fordham=ordinauit | iohanniswycliff00wyclgoog=ordi | iohanniswycliffe05wycl=ordinauit		6	accept
+222	R2	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=eic | iohanniswycliffe05wycl=ex		6	accept
+228	R2	latinworks22wycl=clerum | 11663460bsb=clerum | dialogussivespec00wycl=clerum | fordham=clerum | iohanniswycliff00wyclgoog=lenim | iohanniswycliffe05wycl=clerum		6	accept
+235	R3b	latinworks22wycl=30 | 11663460bsb=3 | dialogussivespec00wycl=30 | fordham=3 | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=3		6	accept
+238	R2	latinworks22wycl=clerus | 11663460bsb=clerus | dialogussivespec00wycl=clerus | fordham=clerus | iohanniswycliff00wyclgoog=clents | iohanniswycliffe05wycl=clerus		6	accept

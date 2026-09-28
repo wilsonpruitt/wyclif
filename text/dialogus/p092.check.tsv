@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+8	R2	latinworks22wycl=fideliter | 11663460bsb=fideliter | dialogussivespec00wycl=fideliter | fordham=fideliter | iohanniswycliff00wyclgoog=ficklitor | iohanniswycliffe05wycl=fideliter		6	accept
+65	R3a	latinworks22wycl=a | 11663460bsb=ad | dialogussivespec00wycl=ad | fordham=ad | iohanniswycliff00wyclgoog=ad | iohanniswycliffe05wycl=ad		6	accept
+67	R2	latinworks22wycl=arguciam | 11663460bsb=arguciam | dialogussivespec00wycl=arguciam | fordham=arguciam | iohanniswycliff00wyclgoog=artniciam | iohanniswycliffe05wycl=arguciam		6	accept
+173	R2	latinworks22wycl=magis | 11663460bsb=magis | dialogussivespec00wycl=masns | fordham=magis | iohanniswycliff00wyclgoog=magis | iohanniswycliffe05wycl=magis		6	accept
+248	R4	latinworks22wycl=pltfs | 11663460bsb=plus | dialogussivespec00wycl=plits | fordham=plus | iohanniswycliff00wyclgoog=plits | iohanniswycliffe05wycl=phis		6	plate
+282	THIN	latinworks22wycl=1 | 11663460bsb=i		2	plate
+283	THIN	latinworks22wycl=sit | 11663460bsb=sit		2	plate
+284	R3	latinworks22wycl=pro | 11663460bsb=auo | fordham=pro		3	plate
+286	R4	latinworks22wycl=b1 | 11663460bsb=bt | dialogussivespec00wycl=b1 | iohanniswycliffe05wycl=b		4	plate
+288	R3a	latinworks22wycl=e | 11663460bsb=uel | iohanniswycliff00wyclgoog=uelr | iohanniswycliffe05wycl=uelro		4	accept
+289	R2	latinworks22wycl=firo | 11663460bsb=fro | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		4	accept
+291	R5a	latinworks22wycl=c | 11663460bsb=c | dialogussivespec00wycl=c | iohanniswycliff00wyclgoog=c | iohanniswycliffe05wycl=c		5	accept
+292	R6a	latinworks22wycl=d | 11663460bsb=d | dialogussivespec00wycl=n | iohanniswycliff00wyclgoog=d | iohanniswycliffe05wycl=d		5	accept
+295	R4	latinworks22wycl=n | dialogussivespec00wycl=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=fro		4	plate
+297	R5a	latinworks22wycl=c | dialogussivespec00wycl=c | iohanniswycliff00wyclgoog=c | iohanniswycliffe05wycl=c		4	accept
+298	R5a	latinworks22wycl=d | dialogussivespec00wycl=d | iohanniswycliff00wyclgoog=d | iohanniswycliffe05wycl=d		4	accept
+302	R5a	latinworks22wycl=c | 11663460bsb=c | dialogussivespec00wycl=c | iohanniswycliff00wyclgoog=c | iohanniswycliffe05wycl=c		5	accept
+303	R5a	latinworks22wycl=d | 11663460bsb=d | dialogussivespec00wycl=d | iohanniswycliff00wyclgoog=d | iohanniswycliffe05wycl=d		5	accept
+308	R4	latinworks22wycl=inuct | 11663460bsb=7uuc | dialogussivespec00wycl=inucu | iohanniswycliff00wyclgoog=ifwct		4	plate

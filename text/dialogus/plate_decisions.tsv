@@ -1,0 +1,20 @@
+page	pos	rule	forms	reading	note
+1	79	R3	latinworks22wycl=140 | 11663460bsb=14 | dialogussivespec00wycl=140 | fordham=14et | iohanniswycliff00wyclgoog=4 | iohanniswycliffe05wycl=14	14°	degree sign
+2	120	R3	latinworks22wycl=estis | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=estis	est	"15" is the line number
+3	109	HEAD	CAPITULUM	CAPITULUM 2m.	
+5	87	HEAD	CAPITULUM 3m.	CAPITULUM 3m.	
+7	85	R4	latinworks22wycl=2i | 11663460bsb=∅ | dialogussivespec00wycl=2i | fordham=21 | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	21°.	degree sign
+7	86	HEAD	CAPITULUM	CAPITULUM 4m.	
+7	87	R4	latinworks22wycl=xuiii | 11663460bsb=4m | dialogussivespec00wycl=4m | fordham=4 | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=xuiii	∅	marginal ref "Deut. xviii." leaked into the text
+7	95	R3	latinworks22wycl=i | 11663460bsb=18 | dialogussivespec00wycl=18 | fordham=18 | iohanniswycliff00wyclgoog=i | iohanniswycliffe05wycl=18	18°	degree sign
+8	127	R4	latinworks22wycl=sinagoga | 11663460bsb=sinaborh | dialogussivespec00wycl=sina15 | fordham=sinagoga	sinagoga	print sina-|goga, line no. 15 at the break
+8	129	R5	latinworks22wycl=pupplicare | 11663460bsb=pupplicare | fordham=pupplicare	pupplicare	print form (only 3 voters)
+8	164	DEL	latinworks22wycl=duratus | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=duratus	∅	duplicate of the second half of in-|duratus
+8	181	R3	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=n0n | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=nou	non	
+9	19	R3	latinworks22wycl=st | 11663460bsb=sz | fordham=si	Si	
+9	21	R3	latinworks22wycl=facio | 11663460bsb=facto | fordham=facio	facio	
+9	88	HEAD	CAPITULUM	CAPITULUM 5m.	
+9	97	R3	latinworks22wycl=440 | 11663460bsb=44 | dialogussivespec00wycl=440 | fordham=440 | iohanniswycliff00wyclgoog=44 | iohanniswycliffe05wycl=44	44°	degree sign
+9	115	R4	latinworks22wycl=dabilis | 11663460bsb=dabitis | dialogussivespec00wycl=dabitis | fordham=dabitis | iohanniswycliff00wyclgoog=dabilis | iohanniswycliffe05wycl=dabilis	dabitis	italic t vs l: full-res zoom shows short ascender with crossbar = t
+9	132	R3	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=ei	et	
+9	167	INS?	a	a	print: captum a bestia

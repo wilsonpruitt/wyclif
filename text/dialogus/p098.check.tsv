@@ -1,0 +1,7 @@
+pos	rule	forms	support	voters	resolution
+0	R3	latinworks22wycl=heresis | dialogussivespec00wycl=lex | fordham=heresis | iohanniswycliff00wyclgoog=heresis | iohanniswycliffe05wycl=lex		5	plate
+1	INS?	christi non sic constringitur loco uel tempore cum manebit perpetuo in bonis per idem enim non possit fingere quod nulla lex dei uel hominum de obseruanciis humanis haberet notabilem periodum temporalem ideo quod quatuor iste ficticie cum carent racionis euiheresis	2	5	plate
+5	R2	latinworks22wycl=scripture | dialogussivespec00wycl=scripture | fordham=scripture | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=scriptiire		5	accept
+13	R2	latinworks22wycl=quodam | dialogussivespec00wycl=quodam | fordham=quodam | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=quodam		5	accept
+22	R2	latinworks22wycl=eorum | dialogussivespec00wycl=eorum | fordham=eorum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=eorum		5	accept
+23	R2	latinworks22wycl=ut | dialogussivespec00wycl=ut | fordham=ut | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ut		5	accept

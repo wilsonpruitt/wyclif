@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+9	R2	latinworks22wycl=summum | 11663460bsb=summum | dialogussivespec00wycl=summum | fordham=summum | iohanniswycliff00wyclgoog=bummuni | iohanniswycliffe05wycl=summum		6	accept
+14	R4	latinworks22wycl=of | 11663460bsb=∅ | dialogussivespec00wycl=of | fordham=∅ | iohanniswycliff00wyclgoog=instiiuit | iohanniswycliffe05wycl=∅		6	plate
+15	R2	latinworks22wycl=instituit | 11663460bsb=instituit | dialogussivespec00wycl=instituit | fordham=instituit | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=instituit		6	accept
+23	R3b	latinworks22wycl=3 | 11663460bsb=3 | dialogussivespec00wycl=30 | fordham=3 | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=30		6	accept
+80	DEL	latinworks22wycl=r | 11663460bsb=toad | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅		5	accept
+81	DEL	latinworks22wycl=r | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅		5	accept
+82	DEL	latinworks22wycl=n | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅		5	accept
+83	R2	latinworks22wycl=ad | 11663460bsb=∅ | dialogussivespec00wycl=ad | fordham=ad | iohanniswycliff00wyclgoog=ad | iohanniswycliffe05wycl=ad		6	accept
+93	R2	latinworks22wycl=exemplatum | 11663460bsb=exemplatum | dialogussivespec00wycl=∅ | fordham=exemplatum | iohanniswycliff00wyclgoog=esemplatum | iohanniswycliffe05wycl=exemplatum		6	accept
+121	R3a	latinworks22wycl=ostendent | 11663460bsb=ostenderit | dialogussivespec00wycl=ostenderit | fordham=ostenderit | iohanniswycliff00wyclgoog=ostenderit | iohanniswycliffe05wycl=ostenderit		6	accept
+185	R2	latinworks22wycl=c | 11663460bsb=finalem | fordham=finalem | iohanniswycliffe05wycl=finalem		4	accept
+186	DEL	latinworks22wycl=nnalem | 11663460bsb=∅ | fordham=∅ | iohanniswycliffe05wycl=∅		4	accept
+196	R3a	latinworks22wycl=ius | 11663460bsb=ius | dialogussivespec00wycl=ius | fordham=ius | iohanniswycliff00wyclgoog=ius | iohanniswycliffe05wycl=lus		6	accept
+198	R3a	latinworks22wycl=faciendo | 11663460bsb=faciendo | dialogussivespec00wycl=faciendo | fordham=faciendo | iohanniswycliff00wyclgoog=faciendo | iohanniswycliffe05wycl=laciendo		6	accept
+199	R3a	latinworks22wycl=elemosinam | 11663460bsb=elemosinam | dialogussivespec00wycl=elemosinam | fordham=elemosinam | iohanniswycliff00wyclgoog=elemosinam | iohanniswycliffe05wycl=elemosmam		6	accept
+202	R3a	latinworks22wycl=ius | 11663460bsb=ius | dialogussivespec00wycl=ius | fordham=ius | iohanniswycliff00wyclgoog=lus | iohanniswycliffe05wycl=ius		6	accept
+218	R2	latinworks22wycl=tamen | 11663460bsb=tamen | dialogussivespec00wycl=tamen | fordham=tamen | iohanniswycliff00wyclgoog=taraen | iohanniswycliffe05wycl=tamen		6	accept
+255	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept
+272	R2	latinworks22wycl=deus | 11663460bsb=deus | dialogussivespec00wycl=deus | fordham=deus | iohanniswycliff00wyclgoog=dcussubieciiocod | iohanniswycliffe05wycl=deus		6	accept
+284	R2	latinworks22wycl=quod | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=quott | iohanniswycliffe05wycl=quod		6	accept
+295	R2	latinworks22wycl=ad | 11663460bsb=ad | dialogussivespec00wycl=ad | fordham=ad | iohanniswycliff00wyclgoog=ao | iohanniswycliffe05wycl=ad		6	accept

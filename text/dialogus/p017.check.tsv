@@ -1,0 +1,26 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	CAPITULUM 9m.			plate
+2	R2	latinworks22wycl=adhuc | 11663460bsb=∅ | dialogussivespec00wycl=adhuc | fordham=adhuc | iohanniswycliff00wyclgoog=adhuc | iohanniswycliffe05wycl=adhuc		6	accept
+19	R2	latinworks22wycl=legis | 11663460bsb=legis | dialogussivespec00wycl=legis | fordham=legis | iohanniswycliff00wyclgoog=leffis | iohanniswycliffe05wycl=legis		6	accept
+24	R3a	latinworks22wycl=propter | 11663460bsb=propter | dialogussivespec00wycl=propter | fordham=propter | iohanniswycliff00wyclgoog=propier | iohanniswycliffe05wycl=propter		6	accept
+27	R2	latinworks22wycl=bonorum | 11663460bsb=bonorum | dialogussivespec00wycl=bonorum | fordham=bonorum | iohanniswycliff00wyclgoog=bononim | iohanniswycliffe05wycl=bonorum		6	accept
+48	R2	latinworks22wycl=multis | 11663460bsb=multis | dialogussivespec00wycl=multis | fordham=multis | iohanniswycliff00wyclgoog=mums | iohanniswycliffe05wycl=multis		6	accept
+55	R2	latinworks22wycl=tanquam | 11663460bsb=tanquam | dialogussivespec00wycl=tanquam | fordham=tanquam | iohanniswycliff00wyclgoog=lanquara | iohanniswycliffe05wycl=tanquam		6	accept
+61	R3	latinworks22wycl=ion | 11663460bsb=io | dialogussivespec00wycl=ion | fordham=io | iohanniswycliff00wyclgoog=io | iohanniswycliffe05wycl=ioii		6	plate
+66	R2	latinworks22wycl=et | 11663460bsb=el | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
+71	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
+75	R2	latinworks22wycl=quia | 11663460bsb=guia | dialogussivespec00wycl=quia | fordham=quia | iohanniswycliff00wyclgoog=quia | iohanniswycliffe05wycl=ifici		6	accept
+83	R2	latinworks22wycl=sic | 11663460bsb=stc | dialogussivespec00wycl=sic | fordham=sic | iohanniswycliff00wyclgoog=sic | iohanniswycliffe05wycl=sic		6	accept
+84	R2	latinworks22wycl=omnes | 11663460bsb=omnes | dialogussivespec00wycl=omnes | fordham=omnes | iohanniswycliff00wyclgoog=omtus | iohanniswycliffe05wycl=omnes		6	accept
+85	R2	latinworks22wycl=credent | 11663460bsb=credent | dialogussivespec00wycl=credent | fordham=credent | iohanniswycliff00wyclgoog=credeiil | iohanniswycliffe05wycl=credent		6	accept
+86	R3a	latinworks22wycl=in | 11663460bsb=tn | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iti | iohanniswycliffe05wycl=in		6	accept
+88	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
+92	R2	latinworks22wycl=iollent | 11663460bsb=tollent | dialogussivespec00wycl=tollent | fordham=tollent | iohanniswycliff00wyclgoog=genlem | iohanniswycliffe05wycl=tollent		6	accept
+93	R2	latinworks22wycl=locum | 11663460bsb=locum | dialogussivespec00wycl=locum | fordham=locum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=locum		6	accept
+94	R2	latinworks22wycl=nostrum | 11663460bsb=nostrum | dialogussivespec00wycl=nostrum | fordham=nostrum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=nostrum		6	accept
+95	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=et		6	accept
+96	R2	latinworks22wycl=gentem | 11663460bsb=gentem | dialogussivespec00wycl=gentem | fordham=gentem | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=gentem		6	accept
+141	R2	latinworks22wycl=sunt | 11663460bsb=sunt | dialogussivespec00wycl=sunt | fordham=sunt | iohanniswycliff00wyclgoog=simt | iohanniswycliffe05wycl=sunt		6	accept
+165	R2	latinworks22wycl=ueritatis | 11663460bsb=ueritatis | dialogussivespec00wycl=ueritatis | fordham=ueritatis | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ueritatis		6	accept
+200	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
+211	R2	latinworks22wycl=competere | 11663460bsb=competere | dialogussivespec00wycl=competere | fordham=competere | iohanniswycliff00wyclgoog=corapetcre | iohanniswycliffe05wycl=competere		6	accept

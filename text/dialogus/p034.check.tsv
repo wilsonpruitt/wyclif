@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+0	R3a	latinworks22wycl=tamen | 11663460bsb=tamen | dialogussivespec00wycl=tamen | fordham=tamen | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=tamen		6	accept
+30	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept
+60	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept
+74	R2	latinworks22wycl=clerum | 11663460bsb=clerum | dialogussivespec00wycl=∅ | fordham=clerum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=clerum		6	accept
+121	R3	latinworks22wycl=ceri | 11663460bsb=cleri | dialogussivespec00wycl=cieri | fordham=cleri | iohanniswycliffe05wycl=qqi		5	plate
+152	DEL	latinworks22wycl=m | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+154	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=in		6	accept
+161	R2	latinworks22wycl=quod | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=co | iohanniswycliffe05wycl=quod		6	accept
+162	R2	latinworks22wycl=eo | 11663460bsb=eo | dialogussivespec00wycl=eo | fordham=eo | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=co		6	accept
+218	HEAD	CAPITULUM			plate

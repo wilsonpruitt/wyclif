@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+13	R2	latinworks22wycl=inseruntur | 11663460bsb=inseruntur | dialogussivespec00wycl=inseruntur | fordham=inseruntur | iohanniswycliff00wyclgoog=inbenintur | iohanniswycliffe05wycl=inseruntur		6	accept
+25	R3a	latinworks22wycl=suntbeati | 11663460bsb=suntbeati | dialogussivespec00wycl=suntbeati | fordham=suntbeati | iohanniswycliff00wyclgoog=sunt | iohanniswycliffe05wycl=suntbeati		6	accept
+29	DEL	latinworks22wycl=of | 11663460bsb=of | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+52	R3a	latinworks22wycl=fldem | 11663460bsb=fidem | dialogussivespec00wycl=fidem | fordham=fidem | iohanniswycliff00wyclgoog=idem | iohanniswycliffe05wycl=fidem		6	accept
+63	R3a	latinworks22wycl=paulo | 11663460bsb=paulo | dialogussivespec00wycl=paulo | fordham=paulo | iohanniswycliff00wyclgoog=pauio | iohanniswycliffe05wycl=paulo		6	accept
+76	R3a	latinworks22wycl=fidem | 11663460bsb=fidem | dialogussivespec00wycl=fidem | fordham=fidem | iohanniswycliff00wyclgoog=idem | iohanniswycliffe05wycl=fidem		6	accept
+93	R3a	latinworks22wycl=fidem | 11663460bsb=fidem | dialogussivespec00wycl=fidem | fordham=fidem | iohanniswycliff00wyclgoog=idem | iohanniswycliffe05wycl=fidem		6	accept
+165	R4	latinworks22wycl=to | 11663460bsb=t | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=aochristiano | iohanniswycliffe05wycl=∅		6	plate
+166	R2	latinworks22wycl=christiano | 11663460bsb=christiano | dialogussivespec00wycl=christiano | fordham=christiano | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=christiano		6	accept
+212	R3a	latinworks22wycl=est | 11663460bsb=ney | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=est		6	accept
+219	R3a	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=esi | iohanniswycliffe05wycl=est		6	accept
+231	R3a	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=en | iohanniswycliffe05wycl=ex		6	accept

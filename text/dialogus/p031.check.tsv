@@ -1,0 +1,8 @@
+pos	rule	forms	support	voters	resolution
+1	R3a	latinworks22wycl=perfectum | 11663460bsb=perfectum | dialogussivespec00wycl=perfectum | fordham=perfectum | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=perfectum		6	accept
+26	INS	dederant	4	6	accept
+65	INS?	i6m	2	6	plate
+70	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
+165	R2	latinworks22wycl=honorat | 11663460bsb=honorat | dialogussivespec00wycl=∅ | fordham=honorat | iohanniswycliff00wyclgoog=honorat | iohanniswycliffe05wycl=honorat		6	accept
+203	R3a	latinworks22wycl=tres | 11663460bsb=tres | dialogussivespec00wycl=tres | fordham=tres | iohanniswycliff00wyclgoog=trea | iohanniswycliffe05wycl=tres		6	accept
+222	R2	latinworks22wycl=uulgaribus | 11663460bsb=uulgaribus | dialogussivespec00wycl=uulgaribus | fordham=uul | iohanniswycliff00wyclgoog=uulgaribus | iohanniswycliffe05wycl=uulgaribus		6	accept

@@ -1,0 +1,6 @@
+pos	rule	forms	support	voters	resolution
+12	R3a	latinworks22wycl=dotacioni | 11663460bsb=dotacioni | dialogussivespec00wycl=dotacioni | fordham=dotacioni | iohanniswycliff00wyclgoog=dolacioni | iohanniswycliffe05wycl=dotacioni		6	accept
+200	R2	latinworks22wycl=a | 11663460bsb=∅ | dialogussivespec00wycl=a | fordham=a | iohanniswycliff00wyclgoog=a | iohanniswycliffe05wycl=a		6	accept
+205	R6a	latinworks22wycl=b | 11663460bsb=∅ | dialogussivespec00wycl=b | fordham=b | iohanniswycliff00wyclgoog=h | iohanniswycliffe05wycl=b		6	accept
+215	R6a	latinworks22wycl=b | 11663460bsb=6 | dialogussivespec00wycl=b | fordham=b | iohanniswycliff00wyclgoog=h | iohanniswycliffe05wycl=b		6	accept
+231	INS	et	5	6	accept

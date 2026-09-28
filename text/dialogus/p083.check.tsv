@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	R3	latinworks22wycl=ergo | 11663460bsb=ergo | dialogussivespec00wycl=ergo | fordham=ergo | iohanniswycliff00wyclgoog=huiusmodi | iohanniswycliffe05wycl=huiusmodi		6	plate
+23	R3a	latinworks22wycl=uocate | 11663460bsb=uocate | dialogussivespec00wycl=uocate | fordham=uocate | iohanniswycliff00wyclgoog=uocale | iohanniswycliffe05wycl=uocate		6	accept
+33	R2	latinworks22wycl=hereditario | 11663460bsb=hereditario | dialogussivespec00wycl=hereditario | fordham=hereditario | iohanniswycliff00wyclgoog=heredi5 | iohanniswycliffe05wycl=hereditario		6	accept
+56	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=gt		6	accept
+62	R3a	latinworks22wycl=cuiusmodi | 11663460bsb=ri | dialogussivespec00wycl=cuiusmodi | fordham=cuiusmodi | iohanniswycliff00wyclgoog=cuiusi | iohanniswycliffe05wycl=cuiusmodi		6	accept
+63	INS?	modi	2	6	plate
+76	DEL	latinworks22wycl=to | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=to		6	accept
+92	R2	latinworks22wycl=limitatas | 11663460bsb=limitatas | dialogussivespec00wycl=limitatas | fordham=limitatas | iohanniswycliff00wyclgoog=lirailalas | iohanniswycliffe05wycl=umitatas		6	accept
+104	R3a	latinworks22wycl=illi | 11663460bsb=illi | dialogussivespec00wycl=illi | fordham=illi | iohanniswycliff00wyclgoog=illi | iohanniswycliffe05wycl=iui		6	accept
+108	R3a	latinworks22wycl=scit | 11663460bsb=scit | dialogussivespec00wycl=scit | fordham=scit | iohanniswycliff00wyclgoog=scil | iohanniswycliffe05wycl=scit		6	accept
+131	R2	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=csi | iohanniswycliffe05wycl=est		6	accept
+155	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ei | iohanniswycliffe05wycl=et		6	accept
+170	R2	latinworks22wycl=fundamentis | 11663460bsb=fundamentis | dialogussivespec00wycl=fundamentis | fordham=fundamentis | iohanniswycliff00wyclgoog=funtheseiucusdamentis | iohanniswycliffe05wycl=fundamentis		6	accept
+177	R3a	latinworks22wycl=2 | 11663460bsb=2 | dialogussivespec00wycl=20 | fordham=2 | iohanniswycliff00wyclgoog=z | iohanniswycliffe05wycl=2		6	accept
+181	R3a	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=es | iohanniswycliffe05wycl=ex		6	accept
+200	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ei | iohanniswycliffe05wycl=et		6	accept
+226	R3	latinworks22wycl=in | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=chrialus | iohanniswycliffe05wycl=i		6	plate
+227	R2	latinworks22wycl=christus | 11663460bsb=christus | dialogussivespec00wycl=christus | fordham=christus | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=christus		6	accept
+233	R3a	latinworks22wycl=partibus | 11663460bsb=capitulum | dialogussivespec00wycl=partibus | fordham=partibus | iohanniswycliff00wyclgoog=iopanibus | iohanniswycliffe05wycl=partibus		6	accept
+237	R3a	latinworks22wycl=ministerio | dialogussivespec00wycl=ministerio | fordham=ministerio | iohanniswycliff00wyclgoog=ministerio | iohanniswycliffe05wycl=ministeria		5	accept
+241	R3a	latinworks22wycl=magnam | dialogussivespec00wycl=magnam | fordham=magnam | iohanniswycliff00wyclgoog=magi | iohanniswycliffe05wycl=magnam		5	accept

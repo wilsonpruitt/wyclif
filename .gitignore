@@ -1,4 +1,9 @@
-sources/ia-ocr/
 .DS_Store
+.venv/
+catalog/lexicon/la.*
 pilots/plates/
 sources/ia-ocr-alt/
+sources/ia-ocr/
+text/*/crops/
+text/*/raw/
+text/*/witnesses/
