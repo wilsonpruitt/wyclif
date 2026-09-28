@@ -46,3 +46,30 @@
 
 ### Cost (lean card)
 10: 91k / 2.6 min · 11: 86k / 2.3 · 12: 86k / 2.5 · 13: 87k / 2.6 — all 10 tool calls. Wave total ≈ 350k (wave 1: 90–119k each).
+
+## Wave 3 (14–17), 2026-09-28 — lean card + dikaiosune rule
+
+### Ledger rows
+| id | chunk / note | claim | status | how / next step |
+|---|---|---|---|---|
+| D14-1 | 14 / n7 | Corpus Christi office, 1st nocturn, lesson 2: accidents without a subject | editor | Pollard margin "In primo nocturno, Lectio II."; wording to-verify against the breviary |
+| D14-2 | 14 / n8 | Aug., *De serm. Dom. in monte* I.20.65: the apocryphal story of Thomas, the servant and the dog | editor / to-verify | Pollard margin "i. 65"; the Thomas identification from memory, read the text |
+| D15-1 | 15 / n8 | Cyprian "si solus Christus" = *Ad Caecilium* §14 (Ep. 63), cited through Gratian D.8 (B, B¹, C "decimo capitulo") | editor (Cyprian); to-verify (Gratian) | Friedberg D.8 c.9/c.10 |
+| D15-2 | 15 / n10 | Possidius, *Vita Augustini*: Augustine willing to give Hippo's possessions back to its citizens | to-verify | find the chapter (c. 23–24?) |
+| D15-3 | 15 / n10 | Jerome refusing possessions, life outside the cloister, clerical estates | to-verify | find the source |
+| D17-1 | 17 / n1 | "fourth commandment" = honour father and mother (Exod. 20:12) in the Augustinian count | to-verify | numbering from memory; a medieval decalogue treatise |
+
+Not a ledger row: ch. 16 n2 "these three persons" = Benedict, Gregory, Bernard (named 31.6–7), a construal read on plate n0062, reported by the agent as `verified`.
+
+### Latin doubts → action (no Latin surface fixes this wave)
+- 14: 27.18–19 *sincerius directe unite* elliptical, B/B¹ variants, unsettled (C note). 28.1–3 *appropriare … articulum fidei*, apparatus "oras dicimus" unclear on the plate (C note). 28.23 *carnis resurreccionis* genitive with existential *est*.
+- 15: 29.9 *crederit* (odd form, "will believe"). 29.9–10 double *non*, pleonastic (C). 29.12 *reseres* (C). 29.23 *pura* / MSS *privata* (T). 30.1 *modo beato* (C).
+- 16: 32.25 *legem Christo postponere*: B, C *veram legem*, B, B¹, C omit *Christo*; variant translated (T n6). 32.12 *conformiter* (B, B¹, C *conformibus*) print kept (C n4).
+- 17: 33.23–24 no expressed subject; B, C nominative (n3). 33.28 *deleccione* taken as *dileccio*, "love for the clergy" (C n5; 2 sites in the *Dialogus*, pp. 33, 57). 34.13 full stop before *Cum evidens sit* joined (C n7). 34.11 *sanacionis* (B, B¹, C *salvacionis Christi*, n6).
+- Open: ch. 14 side-note 26.28 "Mend. objects" kept from the OCR draft, not checked on a plate (close-out gate).
+
+### Glossary proposals (for ruling) — census = sites in the whole *Dialogus*
+*infidelis* unbeliever (10) · *cautela* wile (8; already "wile" in 05, 15, 16) · *apocrifa* apocrypha / apocryphal (6; applied to saints' chronicles) · *citra fidem* short of faith (4; already uniform in 10, 12, 14, 15) · *articulus fidei* article of faith (4) · *assumptum* the assumption (3) · *apostema* abscess (3) · *sacerdotes vulgares* common priests (2; 15, 16 agree) · *suffragari* to aid by intercession (2) · *fides explicita / implicita* explicit / implicit faith (2) · *neophitus* novice (1) · *Christicole* worshippers of Christ (1) · *illabi* to flow into (1).
+
+### Cost
+14: 87k / 2.4 min · 15: 95k / 2.8 · 16: 87k / 2.1 · 17: 85k / 2.0 — 6–9 tool calls. Wave total ≈ 354k.

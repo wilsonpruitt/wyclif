@@ -28,6 +28,10 @@
 | 11 | translated (wave 2, lean) | 8 | 86k | 2.3 |
 | 12 | translated (wave 2, lean) | 6 | 86k | 2.5 |
 | 13 | translated (wave 2, lean) | 11 | 87k | 2.6 |
+| 14 | translated (wave 3) | 11 | 87k | 2.4 |
+| 15 | translated (wave 3) | 10 | 95k | 2.8 |
+| 16 | translated (wave 3) | 8 | 87k | 2.1 |
+| 17 | translated (wave 3) | 7 | 85k | 2.0 |
 
 ## Owed at work close (the gate)
 
@@ -36,10 +40,11 @@
 - Tag the 9 terms ruled 2026-09-28 in chunks 01–05 (rendered there untagged, before the ruling);
   "ex fide scripture" sites follow the genitive rule.
 - Tag the 12 wave-2 terms (ruled 2026-09-28) at first occurrence in chunks 10–13; *inconveniencia* C notes already in 11, 12.
+- Plate-check ch. 14 side-note 26.28 "Mend. objects" (kept from the OCR draft).
 
 - Four-class spot check across chunks; lint all; rewrite PLAN's cost table from the measured rate.
 
 ## Next
 
-Wave 3: chunks 14, 15, 16, 17 on the lean card (≈87k/chunk measured). Wilson ruled the wave-2 glossary and the
-dikaiosune rule (CONTEXTUAL entries) on 2026-09-28; the card now carries it. Ask for the go + model first.
+Wave 3 done (≈88k/chunk). Awaiting Wilson: wave-3 glossary proposals (`_reports.md`), then go + model for
+wave 4 = chunks 18–21.
