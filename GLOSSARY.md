@@ -69,6 +69,9 @@ otherwise.
 | vulgares | the common people | The third estate. Not "the vulgar". Pilot. |
 | iconomus (= oeconomus) | householder | *Dial.* 2.21. Pilot, with a note. |
 | protestacio; protestari | declaration; to declare solemnly | ⭐ The submission formula ("if anyone can teach me this is contrary to scripture or reason, I will humbly retract"). Penn and Lahey both inverted it (T. pp. 369, 378). Render it as a retraction offer, never as defiance. |
+| lex gracie | the law of grace | The new law, opposed to *lex vetus*. Ruled 2026-09-28 (*Dial.* 10.3; 7 sites). |
+| curia romana | the Roman curia | Ruled 2026-09-28 (*Dial.* 7.8; 5 sites). |
+| heretica pravitas | heretical depravity | The heresy courts' formula; keep it recognisable. Ruled 2026-09-28 (*Dial.* 7.5, 7.8). |
 
 ## C. Logic, disputation, metaphysics
 
@@ -105,6 +108,8 @@ otherwise.
 | ampliacio | ampliation | Logical term (T. p. 364 n. 23). |
 | metaphisica | metaphysics | *Inter omnes metaphisicas* → "among all the metaphysics": he counts the doctrine of the church as one (T. p. 368). Pilot. |
 | philosophia sermocinalis / realis | the philosophy of language / the philosophy of reality | T. pp. 364–5. |
+| liberum arbitrium | free choice | The scholastic term, not "free will" (*voluntas*). Ruled 2026-09-28 (*Dial.* 4.15). |
+| ex fide | as faith teaches; with a genitive, from the faith of [scripture] | "It is of faith", on scripture's authority. *Ex fide scripture / duplicis testamenti* → "from the faith of scripture / of the twofold testament". Ruled 2026-09-28 after a census (30 sites in the *Dialogus*). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -129,3 +134,7 @@ otherwise.
 | recencius | more freshly | Pilot (*Dial.* 2.10) |
 | mulier aliena | strange woman | Proverbs' figure. Pilot |
 | mulier fortis | valiant woman | DR Prov. 31:10. Pilot |
+| indispositus; (se) indisponere | unfit; to make (oneself) unfit | "indisposed" (now "unwell"). Ruled 2026-09-28 (8 sites). |
+| limitare; limites | to assign (an office); limits | "to limit" for the verb. The noun *limites* stays "limits" (*in limitibus apostoli*). Ruled 2026-09-28 after a census (13 verb, 5 noun). |
+| prevaricator; prevaricancia | transgressor; transgression | Ruled 2026-09-28. *Basali prevaricancia* (*Dial.* 9.24) is doubtful: see its C note. |
+| carecter (sensibilis) | (perceptible) character | "reputation". The mark of orders. Ruled 2026-09-28 (*Dial.* 5.7). |
