@@ -39,6 +39,9 @@ first law: Numbers 18"), each `[ENGLISH]`, the notes, the side-notes, the transc
 1. **Terms:** GLOSSARY.md governs, one term one rendering. Tag the **first occurrence in the chunk**
    of every §A–C term: `[lordship]{g:dominium}`. The key must exist in GLOSSARY.md. A term that looks
    technical but has no row: render it sensibly, untagged, and propose it in your report.
+   **CONTEXTUAL** rows (e.g. *inconveniencia*: absurdity / troubles) hold two senses English splits:
+   choose the English by context, and write a **C** note at the first occurrence in the chunk and
+   wherever it leans to the other sense (the dikaiosune rule, CONVENTIONS §6).
    Key rulings: *caritas* charity (never love) · *dominium* lordship · *presciti* the foreknown ·
    *predestinati* the predestinate · *viator* wayfarer · *patria* homeland · *ex fide* as faith teaches
    (with a genitive: "from the faith of scripture") · *limitare* assign (noun *limites* limits) ·
