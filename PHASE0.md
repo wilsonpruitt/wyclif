@@ -41,8 +41,14 @@ citations will be **work + Society page**, the scholarly convention.
    summaries (side-notes) and the introductions are absent. That is why main text runs ~49% of each
    volume's OCR word count. The side-notes are PD English and a free navigation layer. Recover
    them from hOCR in Phase 2.
-4. **Fordham is uncorrected OCR.** Seen in one page of De officio regis: `wltfacere`, `Sicul`
-   (=sicut), `edifacta`. Every text gets a correction pass against the plates before translation.
+4. **Fordham's quality varies by file** (corrected 2026-09-28 against the plates). *De officio regis*
+   is raw OCR: on p. 68 it has `Sicul` for *Sicut* and `edifacta` for *edificata* (verified on the
+   plate). ⚠ But `wltfacere` (p. 69), which this finding first listed as an error, **is what the plate
+   prints**: the MS spelling of *vult facere*, inside a quotation of Bernard, in an edition that
+   keeps the scribes' *w* for *v* (*ewangelicum*). It was a false defect claim, and the
+   plate-read-triage rule applies: a form that looks corrupt may be the source's. *Dialogus*, by
+   contrast, is a corrected text (0 word errors in the pilot chapter). Every text is still checked
+   before translation; see the three-witness test in PLAN (pending).
 5. **The page runs are complete except for 14 gaps:** De officio regis pp. 26, 66; Sermones I pp.
    67, 100, 104, 115, 117, 151, 159, 177, 197, 209; Sermones II pp. 5, 36. Each could be a blank or
    a real drop. Check against the plates.
