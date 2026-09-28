@@ -117,6 +117,8 @@ correction in Phase 2 is on the critical path from the first item.
 
 ## Next
 
+**Superseded 2026-09-28 by `PLAN.md`** (the pilot is drafted; see M1). The list below is kept as written.
+
 - ~~Wilson owes the Fordham URL~~: received, rights settled (finding 8).
 - **Fable session:** write `PLAN.md` + `CONVENTIONS.md` + `GLOSSARY.md` and run the pilot on a
   chapter of De ecclesia (plate-read, no Fordham text) and a chapter of the Dialogus (Fordham text
