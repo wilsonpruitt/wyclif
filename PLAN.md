@@ -143,6 +143,11 @@ Test that caught it: diff the whole established text against Fordham (or any ful
 runs of ≥3 words on one side. **Run it on every volume.** ⚠ The *De ecclesia* / *Off. reg.* rates
 above were measured on the OLD extraction; rebuild their witnesses (`witness.py` skips existing
 `.jsonl`, so delete them first) before M5.
+⚠ **Numerals (found in M3 wave 1):** the extraction drops a line-final numeral (*prov. 30*,
+*concedentibus 40*) and some ordinals (*Patet 2°*). A general fix let in marginal verse numbers, so
+it was reverted. **Standing QA step: a numeral sweep against Fordham** (every numeral token present in
+one text and not the other), each hit read on the plate. The Dialogus had 11. For a volume without
+Fordham, this is a known residual gap; budget a numeral pass on the plates.
 
 ## Deferred layers (named so they aren't forgotten; none is in scope now)
 
