@@ -14,7 +14,7 @@ pos	rule	forms	support	voters	resolution
 149	R2	latinworks22wycl=eis | 11663460bsb=ets | dialogussivespec00wycl=eis | fordham=eis | iohanniswycliff00wyclgoog=eis | iohanniswycliffe05wycl=eis		6	accept
 150	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
 152	PLATE	latinworks22wycl=eoi | dialogussivespec00wycl=eoi | fordham=eorum | iohanniswycliff00wyclgoog=eoi | iohanniswycliffe05wycl=eorun		5	accept
-153	R2	latinworks22wycl=um | dialogussivespec00wycl=um | fordham=∅ | iohanniswycliff00wyclgoog=um | iohanniswycliffe05wycl=∅		5	accept
+153	PLATE	latinworks22wycl=um | dialogussivespec00wycl=um | fordham=∅ | iohanniswycliff00wyclgoog=um | iohanniswycliffe05wycl=∅		5	accept
 154	R2	latinworks22wycl=potestatem | dialogussivespec00wycl=potestatem | fordham=potestatem | iohanniswycliff00wyclgoog=poleslaiem | iohanniswycliffe05wycl=potestatem		5	accept
 158	R2	latinworks22wycl=estautem | dialogussivespec00wycl=estautem | fordham=estautem | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=estautem		5	accept
 161	R2	latinworks22wycl=uobissed | 11663460bsb=uobts | dialogussivespec00wycl=uobissed | fordham=uobissed | iohanniswycliff00wyclgoog=uobissed | iohanniswycliffe05wycl=uobissed		6	accept

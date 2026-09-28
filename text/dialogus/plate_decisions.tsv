@@ -238,3 +238,18 @@ page	pos	rule	forms	reading	note
 78	6	OVERRIDE	latinworks22wycl=fibet | 11663460bsb=ibet | dialogussivespec00wycl=hbet | fordham=∅ | iohanniswycliff00wyclgoog=hbet | iohanniswycliffe05wycl=hbet	∅	plate: tail of cuius-|libet
 79	177	OVERRIDE	latinworks22wycl=deacceptum | dialogussivespec00wycl=de | fordham=deacceptum | iohanniswycliff00wyclgoog=deofihesecond | iohanniswycliffe05wycl=de	deacceptum.	plate: de-|acceptum
 91	178	OVERRIDE	latinworks22wycl=30 | 11663460bsb=30 | dialogussivespec00wycl=30 | fordham=30a | iohanniswycliff00wyclgoog=30 | iohanniswycliffe05wycl=30	30ª	plate: superscript a
+11	153	OVERRIDE	latinworks22wycl=um | dialogussivespec00wycl=um | fordham=∅ | iohanniswycliff00wyclgoog=um | iohanniswycliffe05wycl=∅	∅	doubled OCR fragment of eorum (my sheet read of 11.152 already gives eorum); plate n42, batch wave 1
+12	33	OVERRIDE	latinworks22wycl=patet | 11663460bsb=patet | dialogussivespec00wycl=patet | fordham=patet | iohanniswycliff00wyclgoog=patet | iohanniswycliffe05wycl=patet	Patet 2°	2° lost in extraction; plate n43 (wave 1), Fordham
+13	173	OVERRIDE	latinworks22wycl=prou | 11663460bsb=prou | dialogussivespec00wycl=prou | fordham=prou | iohanniswycliff00wyclgoog=prou | iohanniswycliffe05wycl=prou	prov. 30	30 line-final, dropped by extraction; plate n44 (wave 1), Fordham
+13	191	OVERRIDE	latinworks22wycl=6tradentem | 11663460bsb=6tradentem | dialogussivespec00wycl=6tradentem | fordham=6 | iohanniswycliff00wyclgoog=60tradentetn | iohanniswycliffe05wycl=60tradentem	6° tradentem	6° traden-|tem; plate n44 (wave 1)
+25	237	OVERRIDE	latinworks22wycl=concedentibus | 11663460bsb=concedentibus | dialogussivespec00wycl=concedentibus | fordham=concedentibus | iohanniswycliff00wyclgoog=concedentibus | iohanniswycliffe05wycl=concedentibus	concedentibus 40	40 line-final, dropped; plate n56
+28	152	OVERRIDE	latinworks22wycl=cor | 11663460bsb=cor | dialogussivespec00wycl=cor | fordham=cor | iohanniswycliff00wyclgoog=cor | iohanniswycliffe05wycl=cor	cor. 13°	13° line-final, dropped; scan OCR + Fordham
+40	14	OVERRIDE	latinworks22wycl=istas | 11663460bsb=istas | dialogussivespec00wycl=ista | fordham=istas | iohanniswycliff00wyclgoog=istas | iohanniswycliffe05wycl=istas	istas 8	8 dropped; scan OCR + Fordham
+85	101	OVERRIDE	latinworks22wycl=prodesset | 11663460bsb=prodesset | dialogussivespec00wycl=prodesset | fordham=prodesset | iohanniswycliff00wyclgoog=prodesset | iohanniswycliffe05wycl=prodesset	prodesset 2°	2° dropped; scan OCR + Fordham
+30	141	OVERRIDE	latinworks22wycl=8 | 11663460bsb=8 | dialogussivespec00wycl=8 | fordham=8 | iohanniswycliff00wyclgoog=8 | iohanniswycliffe05wycl=8	8ª	plate n61: ciprianus 8ª d, c° [decimo]
+30	142	OVERRIDE	latinworks22wycl=a | 11663460bsb=∅ | dialogussivespec00wycl=a | fordham=a | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅	∅	superscript a, joined at 141
+30	143	OVERRIDE	latinworks22wycl=d | 11663460bsb=d | dialogussivespec00wycl=d | fordham=d | iohanniswycliff00wyclgoog=d | iohanniswycliffe05wycl=d	d,	plate n61
+30	144	OVERRIDE	latinworks22wycl=c | 11663460bsb=c | dialogussivespec00wycl=c | fordham=co | iohanniswycliff00wyclgoog=c | iohanniswycliffe05wycl=c	c°	plate n61
+30	145	OVERRIDE	latinworks22wycl=0 | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=o	∅	degree sign, joined at 144
+62	111	OVERRIDE	latinworks22wycl=140 | 11663460bsb=14 | dialogussivespec00wycl=140 | fordham=14 | iohanniswycliff00wyclgoog=140 | iohanniswycliffe05wycl=140	14°	plate n93: luce 14°
+78	105	OVERRIDE	latinworks22wycl=20 | 11663460bsb=2 | dialogussivespec00wycl=20 | fordham=2 | iohanniswycliff00wyclgoog=20 | iohanniswycliffe05wycl=20	[2°].	plate n109 (sheet read): [1ª] Cor. [2°].

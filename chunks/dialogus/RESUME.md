@@ -20,6 +20,10 @@
 | chunk | status | notes | tokens | min |
 |---|---|---|---|---|
 | 01–05 | translated (batch A, 5-in-1 agent) | 12/5/7/6/7 | 235k for the five | 23 |
+| 06 | translated (wave 1) | 5 | 90k | 3 |
+| 07 | translated (wave 1) | 6 | 93k | 3 |
+| 08 | translated (wave 1) | 7 | 94k | 3 |
+| 09 | translated (wave 1) | 11 | 119k | 6 |
 
 ## Owed at work close (the gate)
 
@@ -32,4 +36,4 @@
 
 ## Next
 
-Wave 1: chunks 06, 07, 08, 09.
+Wilson rules the wave-1 glossary sheet, then wave 2: chunks 10, 11, 12, 13.
