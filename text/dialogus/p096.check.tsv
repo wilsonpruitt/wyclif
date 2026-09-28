@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
-0	R3	latinworks22wycl=argu | 11663460bsb=cesari | dialogussivespec00wycl=dedit | fordham=cesari		4	plate
-1	INS?	dedit dydragma et uulgaribus graciam multiformem domum autem aut redditus non lego christum pro se aut suis discipulis habuisse sed natus fuit pauper in diuersorio et in orto extra ierusalem mortuus et sepultus a militibus tamen uoluit gloriose sepeliri	2	6	plate
+0	PLATE	latinworks22wycl=argu | 11663460bsb=cesari | dialogussivespec00wycl=dedit | fordham=cesari		4	accept
+1	INS?	dedit dydragma et uulgaribus graciam multiformem domum autem aut redditus non lego christum pro se aut suis discipulis habuisse sed natus fuit pauper in diuersorio et in orto extra ierusalem mortuus et sepultus a militibus tamen uoluit gloriose sepeliri	2	6	plate: ∅
 10	R2	latinworks22wycl=proprium | 11663460bsb=proprium | dialogussivespec00wycl=propnum | fordham=proprium | iohanniswycliff00wyclgoog=prodrium | iohanniswycliffe05wycl=prodrium		6	accept
 12	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=in		6	accept
 17	R2	latinworks22wycl=haduerimt | 11663460bsb=habuerunt | dialogussivespec00wycl=habuerunt | fordham=habuerunt | iohanniswycliff00wyclgoog=habucrunt | iohanniswycliffe05wycl=habueruut		6	accept
 26	R2	latinworks22wycl=iuomod | 11663460bsb=quomodo | dialogussivespec00wycl=quomodo | fordham=quomodo | iohanniswycliff00wyclgoog=loodo | iohanniswycliffe05wycl=q0odo		6	accept
-27	R3	latinworks22wycl=ero | 11663460bsb=ergo | dialogussivespec00wycl=erso | fordham=ergo | iohanniswycliff00wyclgoog=crgo | iohanniswycliffe05wycl=crgo		6	plate
+27	PLATE	latinworks22wycl=ero | 11663460bsb=ergo | dialogussivespec00wycl=erso | fordham=ergo | iohanniswycliff00wyclgoog=crgo | iohanniswycliffe05wycl=crgo		6	accept
 28	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=uon | iohanniswycliffe05wycl=uou		6	accept
 35	R3a	latinworks22wycl=em | 11663460bsb=idem | dialogussivespec00wycl=idem | fordham=idem | iohanniswycliff00wyclgoog=tci | iohanniswycliffe05wycl=idcm		6	accept
 54	R3a	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=cst		6	accept
@@ -14,7 +14,7 @@ pos	rule	forms	support	voters	resolution
 128	R2	latinworks22wycl=quodis | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=quodis | iohanniswycliffe05wycl=quod		6	accept
 129	R3a	latinworks22wycl=rsih | 11663460bsb=si | dialogussivespec00wycl=rsi | fordham=si | iohanniswycliffe05wycl=1		5	accept
 137	R2	latinworks22wycl=m | 11663460bsb=huius | dialogussivespec00wycl=hums | fordham=huius		4	accept
-138	INS?	modi	3	6	plate
+138	INS?	modi	3	6	plate: modi
 186	R3a	latinworks22wycl=tunc | 11663460bsb=tune | dialogussivespec00wycl=tunc | fordham=tunc | iohanniswycliff00wyclgoog=tunc | iohanniswycliffe05wycl=tunc		6	accept
 213	R3b	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=cx | iohanniswycliffe05wycl=cx		6	accept
 220	R2	latinworks22wycl=maicia | 11663460bsb=malicia | dialogussivespec00wycl=maiicia | fordham=malicia | iohanniswycliff00wyclgoog=ma | iohanniswycliffe05wycl=maii		6	accept

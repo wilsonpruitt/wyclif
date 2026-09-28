@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 54	R3a	latinworks22wycl=ac | 11663460bsb=ad | dialogussivespec00wycl=ad | fordham=ad | iohanniswycliff00wyclgoog=ad | iohanniswycliffe05wycl=ad		6	accept
-56	R3	latinworks22wycl=sue | 11663460bsb=siue | dialogussivespec00wycl=siue | fordham=siue | iohanniswycliff00wyclgoog=siuc | iohanniswycliffe05wycl=siuc		6	plate
+56	PLATE	latinworks22wycl=sue | 11663460bsb=siue | dialogussivespec00wycl=siue | fordham=siue | iohanniswycliff00wyclgoog=siuc | iohanniswycliffe05wycl=siuc		6	accept
 78	R3b	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=cx | iohanniswycliffe05wycl=cx		6	accept
 95	R3b	latinworks22wycl=30 | 11663460bsb=3 | dialogussivespec00wycl=30 | fordham=3 | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=3		6	accept
 118	R3a	latinworks22wycl=n | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=4		5	accept

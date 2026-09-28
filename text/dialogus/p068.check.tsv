@@ -17,9 +17,9 @@ pos	rule	forms	support	voters	resolution
 125	R2	latinworks22wycl=redditus | 11663460bsb=redditus | dialogussivespec00wycl=redditus | fordham=redditus | iohanniswycliff00wyclgoog=red | iohanniswycliffe05wycl=redditus		6	accept
 178	R3a	latinworks22wycl=rex | 11663460bsb=rex | dialogussivespec00wycl=rex | fordham=rex | iohanniswycliff00wyclgoog=res | iohanniswycliffe05wycl=rex		6	accept
 186	R3a	latinworks22wycl=domini | 11663460bsb=domini | dialogussivespec00wycl=domini | fordham=domini | iohanniswycliff00wyclgoog=domini | iohanniswycliffe05wycl=dommi		6	accept
-190	R3	latinworks22wycl=dotatus | 11663460bsb=dotatus | dialogussivespec00wycl=dolatus | fordham=dotatus | iohanniswycliff00wyclgoog=dolatus | iohanniswycliffe05wycl=dolatus		6	plate
+190	PLATE	latinworks22wycl=dotatus | 11663460bsb=dotatus | dialogussivespec00wycl=dolatus | fordham=dotatus | iohanniswycliff00wyclgoog=dolatus | iohanniswycliffe05wycl=dolatus		6	accept
 222	R2	latinworks22wycl=similitudine | 11663460bsb=similitudine | dialogussivespec00wycl=similitudine | fordham=similitudine | iohanniswycliff00wyclgoog=simililu | iohanniswycliffe05wycl=similitudinc		6	accept
 241	R2	latinworks22wycl=pauperiem | 11663460bsb=pauperiem | dialogussivespec00wycl=pauperiem | fordham=pauperiem | iohanniswycliff00wyclgoog=paup | iohanniswycliffe05wycl=pauperiem		6	accept
 245	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept
-257	R3	latinworks22wycl=221 | 11663460bsb=221 | dialogussivespec00wycl=22 | fordham=22i | iohanniswycliffe05wycl=22		5	plate
+257	PLATE	latinworks22wycl=221 | 11663460bsb=221 | dialogussivespec00wycl=22 | fordham=22i | iohanniswycliffe05wycl=22		5	accept
 264	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept

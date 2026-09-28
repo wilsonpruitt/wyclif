@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 3	R2	latinworks22wycl=eis | 11663460bsb=eis | dialogussivespec00wycl=eis | fordham=eis | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=eis		6	accept
 4	R2	latinworks22wycl=nisi | 11663460bsb=nisi | dialogussivespec00wycl=nisi | fordham=nisi | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=nisi		6	accept
-10	HEAD	CAPITULUM			plate
+10	HEAD	CAPITULUM			plate: CAPITULUM 20m.
 43	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=et		6	accept
 135	R2	latinworks22wycl=ut | 11663460bsb=ut | dialogussivespec00wycl=ut | fordham=ut | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ut		6	accept
 175	R2	latinworks22wycl=rituum | 11663460bsb=rituum | dialogussivespec00wycl=rituum | fordham=rituum | iohanniswycliff00wyclgoog=5rituimi | iohanniswycliffe05wycl=rituum		6	accept

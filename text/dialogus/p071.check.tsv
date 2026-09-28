@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
-9	DEL	latinworks22wycl=if | 11663460bsb=∅ | dialogussivespec00wycl=if | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	plate
+9	PLATE	latinworks22wycl=if | 11663460bsb=∅ | dialogussivespec00wycl=if | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
 15	R3a	latinworks22wycl=specialiter | 11663460bsb=specialiter | dialogussivespec00wycl=specialiter | fordham=specialiter | iohanniswycliff00wyclgoog=specialiter | iohanniswycliffe05wycl=speciahter		6	accept
 16	R2	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=fri | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=in		6	accept
 68	R3a	latinworks22wycl=satis | 11663460bsb=satis | dialogussivespec00wycl=satis | fordham=satis | iohanniswycliff00wyclgoog=batis | iohanniswycliffe05wycl=satis		6	accept
 81	R3a	latinworks22wycl=foret | 11663460bsb=foret | dialogussivespec00wycl=foret | fordham=foret | iohanniswycliff00wyclgoog=roret | iohanniswycliffe05wycl=foret		6	accept
 103	R3a	latinworks22wycl=cum | 11663460bsb=cum | dialogussivespec00wycl=cuni | fordham=cum | iohanniswycliff00wyclgoog=cum | iohanniswycliffe05wycl=cum		6	accept
 106	R3b	latinworks22wycl=140 | 11663460bsb=14 | dialogussivespec00wycl=140 | fordham=14 | iohanniswycliff00wyclgoog=14 | iohanniswycliffe05wycl=14		6	accept
-128	R3	latinworks22wycl=discipulum | 11663460bsb=discipulum | dialogussivespec00wycl=dis | fordham=discipulum | iohanniswycliff00wyclgoog=disbyamichrist | iohanniswycliffe05wycl=discipulum		6	plate
+128	PLATE	latinworks22wycl=discipulum | 11663460bsb=discipulum | dialogussivespec00wycl=dis | fordham=discipulum | iohanniswycliff00wyclgoog=disbyamichrist | iohanniswycliffe05wycl=discipulum		6	accept
 145	R2	latinworks22wycl=gladium | 11663460bsb=gladium | dialogussivespec00wycl=gladium | fordham=gladium | iohanniswycliff00wyclgoog=giadiomi | iohanniswycliffe05wycl=gladium		6	accept
 148	R2	latinworks22wycl=domini | 11663460bsb=∅ | dialogussivespec00wycl=domini | fordham=domini | iohanniswycliff00wyclgoog=domini | iohanniswycliffe05wycl=domini		6	accept
 149	R3a	latinworks22wycl=corporaliter | 11663460bsb=corporaliter | dialogussivespec00wycl=corporaliter | fordham=corporaliter | iohanniswycliff00wyclgoog=corporali | iohanniswycliffe05wycl=corporaliter		6	accept
@@ -17,9 +17,9 @@ pos	rule	forms	support	voters	resolution
 177	R3a	latinworks22wycl=christus | 11663460bsb=christus | dialogussivespec00wycl=christus | fordham=christus | iohanniswycliff00wyclgoog=christos | iohanniswycliffe05wycl=christus		6	accept
 194	R2	latinworks22wycl=sacerdotum | 11663460bsb=sacerdotum | dialogussivespec00wycl=sacerseckri9rds | fordham=sacerdotum | iohanniswycliff00wyclgoog=sacerdotum | iohanniswycliffe05wycl=sacerdotum		6	accept
 217	R2	latinworks22wycl=nisi | 11663460bsb=∅ | dialogussivespec00wycl=nisi | fordham=nisi | iohanniswycliff00wyclgoog=nisi | iohanniswycliffe05wycl=nisi		6	accept
-221	R4	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m		6	plate
+221	PLATE	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m		6	accept
 222	R3b	latinworks22wycl=40 | 11663460bsb=4 | dialogussivespec00wycl=40 | fordham=4 | iohanniswycliff00wyclgoog=4 | iohanniswycliffe05wycl=4		6	accept
 226	R2	latinworks22wycl=qua | 11663460bsb=qua | dialogussivespec00wycl=qua | fordham=qua | iohanniswycliff00wyclgoog=s | iohanniswycliffe05wycl=quarbecause		6	accept
 227	R2	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=in		6	accept
-229	R3	latinworks22wycl=i | 11663460bsb=3 | dialogussivespec00wycl=3a | fordham=3a | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=∅		6	plate
+229	PLATE	latinworks22wycl=i | 11663460bsb=3 | dialogussivespec00wycl=3a | fordham=3a | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=∅		6	accept
 286	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=el | iohanniswycliffe05wycl=et		6	accept

@@ -13,7 +13,7 @@ pos	rule	forms	support	voters	resolution
 68	R2	latinworks22wycl=auferre | 11663460bsb=auferre | dialogussivespec00wycl=aufeite | fordham=auferre | iohanniswycliff00wyclgoog=aufcrre | iohanniswycliffe05wycl=auferrc		6	accept
 110	R3a	latinworks22wycl=non | 11663460bsb=non | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=nou | iohanniswycliffe05wycl=non		6	accept
 125	R2	latinworks22wycl=destruere | 11663460bsb=destruere | dialogussivespec00wycl=des15 | fordham=destruere | iohanniswycliff00wyclgoog=destruere | iohanniswycliffe05wycl=des15		6	accept
-126	INS?	truere	2	6	plate
+126	INS?	truere	2	6	plate: ∅
 146	R3a	latinworks22wycl=tres | 11663460bsb=tres | dialogussivespec00wycl=tres | fordham=tres | iohanniswycliff00wyclgoog=i		5	accept
 147	R2	latinworks22wycl=eius | 11663460bsb=eius | dialogussivespec00wycl=eius | fordham=eius | iohanniswycliff00wyclgoog=∅		5	accept
 217	R2	latinworks22wycl=sue | 11663460bsb=sue | dialogussivespec00wycl=sue | fordham=sue | iohanniswycliff00wyclgoog=uc		5	accept

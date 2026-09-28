@@ -1,13 +1,14 @@
 pos	rule	forms	support	voters	resolution
-34	R3a	latinworks22wycl=no | 11663460bsb=∅ | dialogussivespec00wycl=no | fordham=∅ | iohanniswycliff00wyclgoog=6 | iohanniswycliffe05wycl=no		6	accept
+34	PLATE	latinworks22wycl=no | 11663460bsb=∅ | dialogussivespec00wycl=no | fordham=∅ | iohanniswycliff00wyclgoog=6 | iohanniswycliffe05wycl=no		6	accept
 62	R2	latinworks22wycl=uian | 11663460bsb=uiancium | dialogussivespec00wycl=uianoreuenif | fordham=uiancium | iohanniswycliff00wyclgoog=uiancium | iohanniswycliffe05wycl=uianoreuenifhe		6	accept
-63	DEL	latinworks22wycl=or | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
+63	PLATE	latinworks22wycl=or | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
 64	PLATE	latinworks22wycl=cium | 11663460bsb=∅ | dialogussivespec00wycl=cium | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=cium		6	accept
 121	PLATE	latinworks22wycl=isfructu | 11663460bsb=fructu | dialogussivespec00wycl=isfructu | fordham=fructu | iohanniswycliff00wyclgoog=isfniclu | iohanniswycliffe05wycl=isfructu		6	accept
 149	R2	latinworks22wycl=placet | 11663460bsb=placet | dialogussivespec00wycl=placet | fordham=placet | iohanniswycliff00wyclgoog=pacel | iohanniswycliffe05wycl=placet		6	accept
-157	R6a	latinworks22wycl=of | 11663460bsb=of | dialogussivespec00wycl=f | fordham=∅ | iohanniswycliffe05wycl=of		5	accept
+157	PLATE	latinworks22wycl=of | 11663460bsb=of | dialogussivespec00wycl=f | fordham=∅ | iohanniswycliffe05wycl=of		5	accept
+163	PLATE	latinworks22wycl=capitulum | 11663460bsb=capitulum | dialogussivespec00wycl=capitulum | fordham=capitulum | iohanniswycliff00wyclgoog=capitulum | iohanniswycliffe05wycl=capitulum		6	accept
 164	R2	latinworks22wycl=mendacium | 11663460bsb=menpacium | dialogussivespec00wycl=mendacium | fordham=mendacium | iohanniswycliff00wyclgoog=mkiidacium | iohanniswycliffe05wycl=mendacium		6	accept
-188	R2	latinworks22wycl=or | 11663460bsb=or | dialogussivespec00wycl=r | fordham=∅ | iohanniswycliffe05wycl=∅		5	accept
+188	PLATE	latinworks22wycl=or | 11663460bsb=or | dialogussivespec00wycl=r | fordham=∅ | iohanniswycliffe05wycl=∅		5	accept
 197	PLATE	latinworks22wycl=t | 11663460bsb=to | dialogussivespec00wycl=t | fordham=∅ | iohanniswycliff00wyclgoog=5 | iohanniswycliffe05wycl=∅		6	accept
 206	PLATE	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m		6	accept
 215	R3a	latinworks22wycl=ue | 11663460bsb=uel | dialogussivespec00wycl=uel | fordham=uel | iohanniswycliff00wyclgoog=uel | iohanniswycliffe05wycl=uel		6	accept

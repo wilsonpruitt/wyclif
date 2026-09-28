@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
 8	R2	latinworks22wycl=idem | 11663460bsb=idem | dialogussivespec00wycl=idem | fordham=idem | iohanniswycliff00wyclgoog=idcrti | iohanniswycliffe05wycl=idem		6	accept
-29	R3	latinworks22wycl=30 | 11663460bsb=3 | dialogussivespec00wycl=30 | fordham=3 | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=30		6	plate
+29	PLATE	latinworks22wycl=30 | 11663460bsb=3 | dialogussivespec00wycl=30 | fordham=3 | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=30		6	accept
 62	R2	latinworks22wycl=stulti | 11663460bsb=stulti | dialogussivespec00wycl=stulti | fordham=stulti | iohanniswycliff00wyclgoog=stuld | iohanniswycliffe05wycl=stulti		6	accept
 66	R2	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ex		6	accept
 105	R2	latinworks22wycl=istam | 11663460bsb=istam | dialogussivespec00wycl=istam | fordham=istam | iohanniswycliff00wyclgoog=istara | iohanniswycliffe05wycl=istam		6	accept
 112	R2	latinworks22wycl=contrarie | 11663460bsb=contrarie | dialogussivespec00wycl=contrarie | fordham=contrarie | iohanniswycliff00wyclgoog=conp | iohanniswycliffe05wycl=contrarie		6	accept
-116	R3	latinworks22wycl=papae | 11663460bsb=papz | dialogussivespec00wycl=papae | fordham=pap | iohanniswycliff00wyclgoog=papse | iohanniswycliffe05wycl=papae		6	plate
+116	PLATE	latinworks22wycl=papae | 11663460bsb=papz | dialogussivespec00wycl=papae | fordham=pap | iohanniswycliff00wyclgoog=papse | iohanniswycliffe05wycl=papae		6	accept
 121	R2	latinworks22wycl=non | 11663460bsb=∅ | dialogussivespec00wycl=non | fordham=non | iohanniswycliff00wyclgoog=non | iohanniswycliffe05wycl=non		6	accept
 124	R2	latinworks22wycl=istam | 11663460bsb=∅ | dialogussivespec00wycl=istam | fordham=istam | iohanniswycliff00wyclgoog=istam | iohanniswycliffe05wycl=istam		6	accept
 128	R3a	latinworks22wycl=racio | 11663460bsb=∅ | dialogussivespec00wycl=racio | fordham=racio | iohanniswycliff00wyclgoog=racio | iohanniswycliffe05wycl=rac		6	accept

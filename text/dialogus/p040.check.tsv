@@ -9,6 +9,6 @@ pos	rule	forms	support	voters	resolution
 223	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct		5	accept
 224	PLATE	latinworks22wycl=m | 11663460bsb=∅ | dialogussivespec00wycl=in | fordham=∅ | iohanniswycliff00wyclgoog=m		5	accept
 225	PLATE	latinworks22wycl=secuntate | 11663460bsb=∅ | dialogussivespec00wycl=secuntate | fordham=∅ | iohanniswycliff00wyclgoog=securitate		5	accept
-227	R3	latinworks22wycl=auctontate | 11663460bsb=securitate | dialogussivespec00wycl=auctontatei | fordham=securitate | iohanniswycliff00wyclgoog=auctoritatei		5	plate
-228	INS?	in auctoritate	2	6	plate: [In auctoritate]
+227	PLATE	latinworks22wycl=auctontate | 11663460bsb=securitate | dialogussivespec00wycl=auctontatei | fordham=securitate | iohanniswycliff00wyclgoog=auctoritatei		5	accept
+228	INS?	in auctoritate	2	6	plate: ∅
 229	R3b	latinworks22wycl=chnstus | 11663460bsb=christus | dialogussivespec00wycl=chnstus | fordham=christus | iohanniswycliff00wyclgoog=christus | iohanniswycliffe05wycl=christus		6	accept

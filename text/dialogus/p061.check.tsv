@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
 1	R2	latinworks22wycl=collegerunt | 11663460bsb=collegerunt | dialogussivespec00wycl=collegerunt | fordham=collegerunt | iohanniswycliff00wyclgoog=couegenint | iohanniswycliffe05wycl=collegerunt		6	accept
-5	R4	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=ki | iohanniswycliffe05wycl=m		6	plate
+5	PLATE	latinworks22wycl=m | 11663460bsb=mt | dialogussivespec00wycl=m | fordham=mt | iohanniswycliff00wyclgoog=ki | iohanniswycliffe05wycl=m		6	accept
 6	R3a	latinworks22wycl=14 | 11663460bsb=14 | dialogussivespec00wycl=14 | fordham=14 | iohanniswycliff00wyclgoog=ad | iohanniswycliffe05wycl=14		6	accept
 7	R3a	latinworks22wycl=15 | 11663460bsb=15 | dialogussivespec00wycl=15 | fordham=15 | iohanniswycliff00wyclgoog=quid | iohanniswycliffe05wycl=15		6	accept
 8	R3a	latinworks22wycl=sed | 11663460bsb=sed | dialogussivespec00wycl=sed | fordham=sed | iohanniswycliff00wyclgoog=nisi | iohanniswycliffe05wycl=sed		6	accept
-9	THIN	latinworks22wycl=ai | iohanniswycliff00wyclgoog=ad		2	plate
-10	THIN	latinworks22wycl=iiigtiigiiuiu | iohanniswycliff00wyclgoog=distribuendum		2	plate
+9	PLATE	latinworks22wycl=ai | iohanniswycliff00wyclgoog=ad		2	accept
+10	PLATE	latinworks22wycl=iiigtiigiiuiu | iohanniswycliff00wyclgoog=distribuendum		2	accept
 12	R2	latinworks22wycl=faciant | 11663460bsb=faciant | dialogussivespec00wycl=faciant | fordham=faciant | iohanniswycliff00wyclgoog=crgo | iohanniswycliffe05wycl=faciant		6	accept
 13	R2	latinworks22wycl=ergo | 11663460bsb=ergo | dialogussivespec00wycl=ergo | fordham=ergo | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=ergo		6	accept
 16	R3a	latinworks22wycl=hanc | 11663460bsb=hance | dialogussivespec00wycl=hanc | fordham=hanc | iohanniswycliff00wyclgoog=hainc | iohanniswycliffe05wycl=hanc		6	accept
@@ -30,7 +30,7 @@ pos	rule	forms	support	voters	resolution
 121	R2	latinworks22wycl=impartiri | 11663460bsb=impartiri | dialogussivespec00wycl=impartiri | fordham=impartiri | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=impartiri		6	accept
 130	R2	latinworks22wycl=nisi | 11663460bsb=nisi | dialogussivespec00wycl=nisi | fordham=nisi | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=nisi		6	accept
 131	R2	latinworks22wycl=forte | 11663460bsb=forte | dialogussivespec00wycl=forte | fordham=forte | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=forte		6	accept
-139	R3	latinworks22wycl=domini | 11663460bsb=domini | dialogussivespec00wycl=do | fordham=domini | iohanniswycliff00wyclgoog=mini | iohanniswycliffe05wycl=dohehandofthe		6	plate
+139	PLATE	latinworks22wycl=domini | 11663460bsb=domini | dialogussivespec00wycl=do | fordham=domini | iohanniswycliff00wyclgoog=mini | iohanniswycliffe05wycl=dohehandofthe		6	accept
 147	R2	latinworks22wycl=arsruitur | 11663460bsb=arguitur | dialogussivespec00wycl=arcruitur | fordham=arguitur | iohanniswycliff00wyclgoog=aoquod | iohanniswycliffe05wycl=aruitur		6	accept
 148	R2	latinworks22wycl=quod | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=quod		6	accept
 156	R2	latinworks22wycl=cum | 11663460bsb=cum | dialogussivespec00wycl=cum | fordham=cum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=cum		6	accept

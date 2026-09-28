@@ -7,7 +7,7 @@ pos	rule	forms	support	voters	resolution
 114	R3a	latinworks22wycl=mores | 11663460bsb=domini | dialogussivespec00wycl=maiores | fordham=maiores | iohanniswycliff00wyclgoog=maiores | iohanniswycliffe05wycl=maiores		6	accept
 115	R3a	latinworks22wycl=isdomini | 11663460bsb=∅ | dialogussivespec00wycl=iedomini | fordham=domini | iohanniswycliff00wyclgoog=isdomini | iohanniswycliffe05wycl=iidomini		6	accept
 126	R2	latinworks22wycl=perpetuacio | 11663460bsb=perpetuacio | dialogussivespec00wycl=perpetuacio | fordham=perpetuacio | iohanniswycliff00wyclgoog=perpeluacio | iohanniswycliffe05wycl=perpeluacio		6	accept
-149	HEAD	^CAPITULUM			plate
+149	HEAD	^CAPITULUM			plate: CAPITULUM 31°.
 178	R2	latinworks22wycl=clerus | 11663460bsb=clerus | dialogussivespec00wycl=clerus | fordham=clerus | iohanniswycliff00wyclgoog=clenis | iohanniswycliffe05wycl=clerus		6	accept
 179	R3a	latinworks22wycl=sit | 11663460bsb=sit | dialogussivespec00wycl=sit | fordham=sit | iohanniswycliff00wyclgoog=sil | iohanniswycliffe05wycl=sit		6	accept
 184	R2	latinworks22wycl=nimis | 11663460bsb=nimis | dialogussivespec00wycl=nimis | fordham=nimis | iohanniswycliff00wyclgoog=nimis | iohanniswycliffe05wycl=nunis		6	accept

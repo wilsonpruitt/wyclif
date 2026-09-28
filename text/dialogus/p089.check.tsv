@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 9	R2	latinworks22wycl=summum | 11663460bsb=summum | dialogussivespec00wycl=summum | fordham=summum | iohanniswycliff00wyclgoog=bummuni | iohanniswycliffe05wycl=summum		6	accept
-14	R4	latinworks22wycl=of | 11663460bsb=∅ | dialogussivespec00wycl=of | fordham=∅ | iohanniswycliff00wyclgoog=instiiuit | iohanniswycliffe05wycl=∅		6	plate
+14	PLATE	latinworks22wycl=of | 11663460bsb=∅ | dialogussivespec00wycl=of | fordham=∅ | iohanniswycliff00wyclgoog=instiiuit | iohanniswycliffe05wycl=∅		6	accept
 15	R2	latinworks22wycl=instituit | 11663460bsb=instituit | dialogussivespec00wycl=instituit | fordham=instituit | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=instituit		6	accept
 23	R3b	latinworks22wycl=3 | 11663460bsb=3 | dialogussivespec00wycl=30 | fordham=3 | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=30		6	accept
 80	DEL	latinworks22wycl=r | 11663460bsb=toad | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅		5	accept

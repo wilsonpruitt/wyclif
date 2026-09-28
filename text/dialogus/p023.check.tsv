@@ -4,7 +4,7 @@ pos	rule	forms	support	voters	resolution
 6	R2	latinworks22wycl=inconueniencia | 11663460bsb=inconueniencia | dialogussivespec00wycl=inconueniencia | fordham=inconueniencia | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=inconueniencia		6	accept
 14	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=i | iohanniswycliffe05wycl=in		6	accept
 22	R2	latinworks22wycl=sacre | 11663460bsb=sacre | dialogussivespec00wycl=sacre | fordham=sacre | iohanniswycliff00wyclgoog=sacn | iohanniswycliffe05wycl=sacre		6	accept
-25	DEL	latinworks22wycl=to | 11663460bsb=∅ | dialogussivespec00wycl=to | fordham=∅ | iohanniswycliffe05wycl=∅		5	plate
+25	PLATE	latinworks22wycl=to | 11663460bsb=∅ | dialogussivespec00wycl=to | fordham=∅ | iohanniswycliffe05wycl=∅		5	accept
 67	R2	latinworks22wycl=ymmo | 11663460bsb=ymmo | dialogussivespec00wycl=ymmo | fordham=ymmo | iohanniswycliff00wyclgoog=yimno | iohanniswycliffe05wycl=ymmo		6	accept
 73	PLATE	latinworks22wycl=as | 11663460bsb=as | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
 81	R2	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=stycouwii | iohanniswycliffe05wycl=est		6	accept

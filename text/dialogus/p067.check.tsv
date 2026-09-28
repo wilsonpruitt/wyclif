@@ -14,11 +14,11 @@ pos	rule	forms	support	voters	resolution
 86	R3a	latinworks22wycl=patet | 11663460bsb=patet | dialogussivespec00wycl=patet | fordham=patet | iohanniswycliff00wyclgoog=palet | iohanniswycliffe05wycl=patet		6	accept
 98	R3a	latinworks22wycl=ui | 11663460bsb=ui | dialogussivespec00wycl=ui | fordham=uio | iohanniswycliff00wyclgoog=ui | iohanniswycliffe05wycl=ui		6	accept
 100	R2	latinworks22wycl=stephanus | 11663460bsb=stephanus | dialogussivespec00wycl=stephaofalmstothe | fordham=stephanus | iohanniswycliffe05wycl=stephaofiis		5	accept
-101	INS?	nus	2	6	plate
+101	INS?	nus	2	6	plate: ∅
 114	R3a	latinworks22wycl=su | dialogussivespec00wycl=sus | fordham=su | iohanniswycliff00wyclgoog=suy | iohanniswycliffe05wycl=su		5	accept
 125	R2	latinworks22wycl=infinitum | 11663460bsb=infinitum | dialogussivespec00wycl=infinitum | fordham=infinitum | iohanniswycliff00wyclgoog=infinilum | iohanniswycliffe05wycl=infinilum		6	accept
 128	R2	latinworks22wycl=ewangelii | 11663460bsb=ewan2ins | dialogussivespec00wycl=ewan | fordham=ewangelii | iohanniswycliff00wyclgoog=ewaniilf | iohanniswycliffe05wycl=ewangelii		6	accept
-129	INS?	gelii	2	6	plate
+129	INS?	gelii	2	6	plate: ∅
 165	R3a	latinworks22wycl=abiectum | 11663460bsb=abiectum | dialogussivespec00wycl=abiectum | fordham=abiectum | iohanniswycliff00wyclgoog=abiectura | iohanniswycliffe05wycl=abiectum		6	accept
 178	R3a	latinworks22wycl=satis | 11663460bsb=satis | dialogussivespec00wycl=satis | fordham=satis | iohanniswycliff00wyclgoog=salis | iohanniswycliffe05wycl=satis		6	accept
 230	R2	latinworks22wycl=taliler | 11663460bsb=taliter | dialogussivespec00wycl=taliter | fordham=taliter | iohanniswycliff00wyclgoog=taliier | iohanniswycliffe05wycl=taliler		6	accept

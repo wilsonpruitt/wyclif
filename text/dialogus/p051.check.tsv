@@ -1,5 +1,5 @@
 pos	rule	forms	support	voters	resolution
-0	HEAD	CAPITULUM			plate
+0	HEAD	CAPITULUM			plate: CAPITULUM 25m.
 14	R2	latinworks22wycl=papam | dialogussivespec00wycl=papam | fordham=papam | iohanniswycliff00wyclgoog=papata | iohanniswycliffe05wycl=papam		5	accept
 20	R2	latinworks22wycl=enim | dialogussivespec00wycl=enim | fordham=enim | iohanniswycliff00wyclgoog=enira | iohanniswycliffe05wycl=enim		5	accept
 31	R2	latinworks22wycl=uiuerent | dialogussivespec00wycl=uiuerent | fordham=uiuerent | iohanniswycliff00wyclgoog=uiuerent | iohanniswycliffe05wycl=uiueifpessdo		5	accept
@@ -9,5 +9,5 @@ pos	rule	forms	support	voters	resolution
 108	R2	latinworks22wycl=uidetur | dialogussivespec00wycl=uidetur | fordham=uidetur | iohanniswycliff00wyclgoog=uideiut | iohanniswycliffe05wycl=uidetur		5	accept
 122	R2	latinworks22wycl=annuatim | dialogussivespec00wycl=annuatim | fordham=annuatim | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=annuatim		5	accept
 123	R2	latinworks22wycl=dum | dialogussivespec00wycl=dum | fordham=dum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=dum		5	accept
-128	R4	latinworks22wycl=pa | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p		5	plate
-139	R3	latinworks22wycl=contentath | dialogussivespec00wycl=contentatii | fordham=contentati | iohanniswycliff00wyclgoog=contentati | iohanniswycliffe05wycl=contentati		5	plate
+128	PLATE	latinworks22wycl=pa | dialogussivespec00wycl=pa | fordham=pa | iohanniswycliff00wyclgoog=p | iohanniswycliffe05wycl=p		5	accept
+139	PLATE	latinworks22wycl=contentath | dialogussivespec00wycl=contentatii | fordham=contentati | iohanniswycliff00wyclgoog=contentati | iohanniswycliffe05wycl=contentati		5	accept

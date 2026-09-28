@@ -7,10 +7,10 @@ pos	rule	forms	support	voters	resolution
 36	R2	latinworks22wycl=siman | 11663460bsb=∅ | dialogussivespec00wycl=sut1ia | fordham=simiali | iohanniswycliff00wyclgoog=simiali | iohanniswycliffe05wycl=simiali		6	accept
 125	R2	latinworks22wycl=anglie | 11663460bsb=anglie | dialogussivespec00wycl=anglie | fordham=anglie | iohanniswycliff00wyclgoog=angheik | iohanniswycliffe05wycl=anghe		6	accept
 134	R2	latinworks22wycl=spnituau | 11663460bsb=spirituali | dialogussivespec00wycl=spirituali | fordham=spirituali | iohanniswycliff00wyclgoog=spirituali | iohanniswycliffe05wycl=spirituah		6	accept
-201	R3	latinworks22wycl=chnsti | 11663460bsb=christi | dialogussivespec00wycl=chnsti | fordham=christi | iohanniswycliff00wyclgoog=chnsti | iohanniswycliffe05wycl=christi		6	plate
-205	R3	latinworks22wycl=uentatis | 11663460bsb=ueritatis | dialogussivespec00wycl=uentatis | fordham=ueritatis | iohanniswycliff00wyclgoog=ueritatis | iohanniswycliffe05wycl=uentatis		6	plate
-236	R4	latinworks22wycl=antiof | 11663460bsb=antichristi | dialogussivespec00wycl=antiof | fordham=antichristi | iohanniswycliff00wyclgoog=antiidco		5	plate
-237	DEL	latinworks22wycl=christi | 11663460bsb=∅ | dialogussivespec00wycl=christi | fordham=∅ | iohanniswycliff00wyclgoog=∅		5	plate
+201	PLATE	latinworks22wycl=chnsti | 11663460bsb=christi | dialogussivespec00wycl=chnsti | fordham=christi | iohanniswycliff00wyclgoog=chnsti | iohanniswycliffe05wycl=christi		6	accept
+205	PLATE	latinworks22wycl=uentatis | 11663460bsb=ueritatis | dialogussivespec00wycl=uentatis | fordham=ueritatis | iohanniswycliff00wyclgoog=ueritatis | iohanniswycliffe05wycl=uentatis		6	accept
+236	PLATE	latinworks22wycl=antiof | 11663460bsb=antichristi | dialogussivespec00wycl=antiof | fordham=antichristi | iohanniswycliff00wyclgoog=antiidco		5	accept
+237	PLATE	latinworks22wycl=christi | 11663460bsb=∅ | dialogussivespec00wycl=christi | fordham=∅ | iohanniswycliff00wyclgoog=∅		5	accept
 238	R2	latinworks22wycl=ideo | 11663460bsb=ideo | dialogussivespec00wycl=ideo | fordham=ideo | iohanniswycliff00wyclgoog=∅		5	accept
 244	R2	latinworks22wycl=nonadetainingthe | 11663460bsb=nonagentas | dialogussivespec00wycl=nonagentas | fordham=nonagentas		4	accept
 245	DEL	latinworks22wycl=gentas | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅		4	accept

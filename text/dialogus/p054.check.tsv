@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 1	R3a	latinworks22wycl=uniuersitatibus | 11663460bsb=uniuersitatibus | dialogussivespec00wycl=uniuersitatibus | fordham=uniuersitatibus | iohanniswycliff00wyclgoog=uniuersitatibus | iohanniswycliffe05wycl=ordinacione		6	accept
 43	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept
-64	R3	latinworks22wycl=ui | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m		6	plate
+64	PLATE	latinworks22wycl=ui | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=m | iohanniswycliffe05wycl=m		6	accept
 66	R3b	latinworks22wycl=siue | 11663460bsb=siue | dialogussivespec00wycl=siue | fordham=siue | iohanniswycliff00wyclgoog=siuc | iohanniswycliffe05wycl=siuc		6	accept
 70	R2	latinworks22wycl=humihus | 11663460bsb=humilius | dialogussivespec00wycl=numilius | fordham=humilius | iohanniswycliff00wyclgoog=humilius | iohanniswycliffe05wycl=numilius		6	accept
 73	R2	latinworks22wycl=legem | 11663460bsb=legem | dialogussivespec00wycl=iegem | fordham=legem | iohanniswycliff00wyclgoog=icgcm | iohanniswycliffe05wycl=legem		6	accept

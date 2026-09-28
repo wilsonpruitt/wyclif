@@ -3,12 +3,12 @@ pos	rule	forms	support	voters	resolution
 59	R3b	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=ct		6	accept
 66	R2	latinworks22wycl=n | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=in		6	accept
 112	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=m		6	accept
-118	R3	latinworks22wycl=debentis | 11663460bsb=debent | dialogussivespec00wycl=debentis | fordham=debent | iohanniswycliff00wyclgoog=debent | iohanniswycliffe05wycl=debentis		6	plate
+118	PLATE	latinworks22wycl=debentis | 11663460bsb=debent | dialogussivespec00wycl=debentis | fordham=debent | iohanniswycliff00wyclgoog=debent | iohanniswycliffe05wycl=debentis		6	accept
 119	R3a	latinworks22wycl=ad | 11663460bsb=ad | dialogussivespec00wycl=aci | fordham=ad | iohanniswycliff00wyclgoog=d | iohanniswycliffe05wycl=ad		6	accept
 121	R3a	latinworks22wycl=populi | 11663460bsb=populi | dialogussivespec00wycl=populi | fordham=populi | iohanniswycliff00wyclgoog=popuh | iohanniswycliffe05wycl=popuu		6	accept
 149	R2	latinworks22wycl=peccatum | 11663460bsb=peccatum | dialogussivespec00wycl=peccatum | fordham=peccatum | iohanniswycliff00wyclgoog=peccatum | iohanniswycliffe05wycl=∅		6	accept
 200	R3a	latinworks22wycl=ecclesie | 11663460bsb=ecclesie | dialogussivespec00wycl=ecclesie | fordham=ecclesie | iohanniswycliff00wyclgoog=ecclesie | iohanniswycliffe05wycl=ecclcsie		6	accept
-218	R3	latinworks22wycl=stultorum | 11663460bsb=sorum | dialogussivespec00wycl=stidloriim | fordham=stultorum | iohanniswycliff00wyclgoog=stuuorum | iohanniswycliffe05wycl=siuuorum		6	plate
+218	PLATE	latinworks22wycl=stultorum | 11663460bsb=sorum | dialogussivespec00wycl=stidloriim | fordham=stultorum | iohanniswycliff00wyclgoog=stuuorum | iohanniswycliffe05wycl=siuuorum		6	accept
 220	R2	latinworks22wycl=est | 11663460bsb=est | dialogussivespec00wycl=est | fordham=est | iohanniswycliff00wyclgoog=est | iohanniswycliffe05wycl=esl		6	accept
 243	R3a	latinworks22wycl=hanc | 11663460bsb=hance | dialogussivespec00wycl=hanc | fordham=hanc | iohanniswycliff00wyclgoog=hanc | iohanniswycliffe05wycl=hanc		6	accept
-250	R4	latinworks22wycl=iicite | 11663460bsb=licite | dialogussivespec00wycl=iicite | fordham=licite | iohanniswycliff00wyclgoog=hcite | iohanniswycliffe05wycl=iicite		6	plate
+250	PLATE	latinworks22wycl=iicite | 11663460bsb=licite | dialogussivespec00wycl=iicite | fordham=licite | iohanniswycliff00wyclgoog=hcite | iohanniswycliffe05wycl=iicite		6	accept

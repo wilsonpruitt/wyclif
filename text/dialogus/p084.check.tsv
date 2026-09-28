@@ -1,5 +1,5 @@
 pos	rule	forms	support	voters	resolution
-0	HEAD	CAPITULUM			plate
+0	HEAD	CAPITULUM			plate: CAPITULUM 36m.
 35	DEL	latinworks22wycl=the | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=tcmporale		5	accept
 36	R2	latinworks22wycl=temporale | 11663460bsb=temporale | dialogussivespec00wycl=temporale | fordham=temporale | iohanniswycliff00wyclgoog=∅		5	accept
 75	R3a	latinworks22wycl=illis | 11663460bsb=ilis | dialogussivespec00wycl=illis | fordham=illis | iohanniswycliff00wyclgoog=ilhs | iohanniswycliffe05wycl=iuis		6	accept
@@ -7,5 +7,5 @@ pos	rule	forms	support	voters	resolution
 116	R2	latinworks22wycl=clerum | 11663460bsb=clerum | dialogussivespec00wycl=∅ | fordham=clerum | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=clerum		6	accept
 151	R3a	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=ex | iohanniswycliffe05wycl=cx		6	accept
 152	R2	latinworks22wycl=lege | 11663460bsb=lege | dialogussivespec00wycl=lege | fordham=lege | iohanniswycliff00wyclgoog=leffe | iohanniswycliffe05wycl=lege		6	accept
-224	R3	latinworks22wycl=temps | 11663460bsb=tempotis | dialogussivespec00wycl=temporis | fordham=temporis | iohanniswycliff00wyclgoog=temp | iohanniswycliffe05wycl=temporis		6	plate
+224	PLATE	latinworks22wycl=temps | 11663460bsb=tempotis | dialogussivespec00wycl=temporis | fordham=temporis | iohanniswycliff00wyclgoog=temp | iohanniswycliffe05wycl=temporis		6	accept
 226	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=et		6	accept

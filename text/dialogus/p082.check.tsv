@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
 9	R2	latinworks22wycl=omnes | 11663460bsb=∅ | dialogussivespec00wycl=omnes | fordham=omnes | iohanniswycliff00wyclgoog=omnes | iohanniswycliffe05wycl=omnes		6	accept
-37	HEAD	CAPITULUM			plate
+37	HEAD	CAPITULUM			plate: CAPITULUM 35m.
 47	R2	latinworks22wycl=per | 11663460bsb=per | dialogussivespec00wycl=per | fordham=per | iohanniswycliff00wyclgoog=per | iohanniswycliffe05wycl=pct		6	accept
 54	R3a	latinworks22wycl=per | 11663460bsb=cessum | dialogussivespec00wycl=per | fordham=per | iohanniswycliff00wyclgoog=per | iohanniswycliffe05wycl=per		6	accept
 55	R2	latinworks22wycl=processum | 11663460bsb=∅ | dialogussivespec00wycl=processum | fordham=processum | iohanniswycliff00wyclgoog=proccssum | iohanniswycliffe05wycl=processum		6	accept
 71	R2	latinworks22wycl=naturalitas | 11663460bsb=naturalitas | dialogussivespec00wycl=naturalitas | fordham=naturalitas | iohanniswycliff00wyclgoog=natubm60i | iohanniswycliffe05wycl=naturahtas		6	accept
 77	R2	latinworks22wycl=fuit | 11663460bsb=fuit | dialogussivespec00wycl=fuit | fordham=fuit | iohanniswycliff00wyclgoog=fiiit | iohanniswycliffe05wycl=fuit		6	accept
-118	R4	latinworks22wycl=sicb | 11663460bsb=sic | dialogussivespec00wycl=sicb | fordham=sic | iohanniswycliff00wyclgoog=sicb | iohanniswycliffe05wycl=sicb		6	plate
+118	PLATE	latinworks22wycl=sicb | 11663460bsb=sic | dialogussivespec00wycl=sicb | fordham=sic | iohanniswycliff00wyclgoog=sicb | iohanniswycliffe05wycl=sicb		6	accept
 126	R2	latinworks22wycl=excelere | 11663460bsb=exceliere | dialogussivespec00wycl=exceliere | fordham=excellere | iohanniswycliff00wyclgoog=excel | iohanniswycliffe05wycl=excellerc		6	accept
 135	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=patcr		6	accept
 136	R2	latinworks22wycl=pater | 11663460bsb=pater | dialogussivespec00wycl=pater | fordham=pater | iohanniswycliff00wyclgoog=pater | iohanniswycliffe05wycl=∅		6	accept
@@ -15,4 +15,4 @@ pos	rule	forms	support	voters	resolution
 167	R2	latinworks22wycl=releuare | 11663460bsb=releuare | dialogussivespec00wycl=releuare | fordham=releuare | iohanniswycliff00wyclgoog=releyie | iohanniswycliffe05wycl=releuaie		6	accept
 171	R3a	latinworks22wycl=specialiter | 11663460bsb=specialiter | dialogussivespec00wycl=specialiter | fordham=specialiter | iohanniswycliff00wyclgoog=specialiter | iohanniswycliffe05wycl=speciahter		6	accept
 182	R3a	latinworks22wycl=apostoli | 11663460bsb=∅ | dialogussivespec00wycl=apostoli | fordham=apostoli | iohanniswycliff00wyclgoog=apostoli | iohanniswycliffe05wycl=apostoh		6	accept
-190	R3	latinworks22wycl=minister | 11663460bsb=ministerio | dialogussivespec00wycl=minister | fordham=ministerio | iohanniswycliff00wyclgoog=ministerioas | iohanniswycliffe05wycl=mmisterio		6	plate
+190	PLATE	latinworks22wycl=minister | 11663460bsb=ministerio | dialogussivespec00wycl=minister | fordham=ministerio | iohanniswycliff00wyclgoog=ministerioas | iohanniswycliffe05wycl=mmisterio		6	accept

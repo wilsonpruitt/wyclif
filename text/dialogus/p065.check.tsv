@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
 0	R3a	latinworks22wycl=expendant | 11663460bsb=expendant | dialogussivespec00wycl=expendant | fordham=expendant | iohanniswycliff00wyclgoog=christi | iohanniswycliffe05wycl=expendant		6	accept
-6	R2	latinworks22wycl=to | 11663460bsb=∅ | dialogussivespec00wycl=to | fordham=∅ | iohanniswycliff00wyclgoog=istaid | iohanniswycliffe05wycl=to		6	accept
+6	PLATE	latinworks22wycl=to | 11663460bsb=∅ | dialogussivespec00wycl=to | fordham=∅ | iohanniswycliff00wyclgoog=istaid | iohanniswycliffe05wycl=to		6	accept
 7	R2	latinworks22wycl=istam | 11663460bsb=istam | dialogussivespec00wycl=istam | fordham=istam | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=istam		6	accept
 9	R3a	latinworks22wycl=sed | 11663460bsb=sed | dialogussivespec00wycl=sed | fordham=sed | iohanniswycliff00wyclgoog=sed | iohanniswycliffe05wycl=bed		6	accept
-23	R3	latinworks22wycl=lege | 11663460bsb=lege | dialogussivespec00wycl=lesre | fordham=lege | iohanniswycliff00wyclgoog=lege | iohanniswycliffe05wycl=lee		6	plate
+23	PLATE	latinworks22wycl=lege | 11663460bsb=lege | dialogussivespec00wycl=lesre | fordham=lege | iohanniswycliff00wyclgoog=lege | iohanniswycliffe05wycl=lee		6	accept
 59	R2	latinworks22wycl=perpetuacionem | 11663460bsb=perpetuacionem | dialogussivespec00wycl=perpetuacionem | fordham=perpetuacionem | iohanniswycliff00wyclgoog=perpeluf | iohanniswycliffe05wycl=perpetuacionem		6	accept
 60	R2	latinworks22wycl=slue | 11663460bsb=siue | dialogussivespec00wycl=siue | fordham=siue | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=siue		6	accept
 65	R3a	latinworks22wycl=dommi | 11663460bsb=domini | dialogussivespec00wycl=domini | fordham=domini | iohanniswycliffe05wycl=domini		5	accept
@@ -12,7 +12,7 @@ pos	rule	forms	support	voters	resolution
 102	R2	latinworks22wycl=ciuitatem | 11663460bsb=ciuitatem | dialogussivespec00wycl=ciuitatem | fordham=ciuitatem | iohanniswycliff00wyclgoog=ciuitaccra | iohanniswycliffe05wycl=ciuitatem		6	accept
 104	R3a	latinworks22wycl=prosperitatem | 11663460bsb=prosperitatem | dialogussivespec00wycl=prosperitatem | fordham=prosperitatem | iohanniswycliff00wyclgoog=prosi | iohanniswycliffe05wycl=prosperitatem		6	accept
 122	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=ct		6	accept
-130	R2	latinworks22wycl=it | 11663460bsb=∅ | dialogussivespec00wycl=it | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=it		6	accept
+130	PLATE	latinworks22wycl=it | 11663460bsb=∅ | dialogussivespec00wycl=it | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=it		6	accept
 138	R2	latinworks22wycl=multiplicauerat | 11663460bsb=multiplicauerat | dialogussivespec00wycl=multiplicauerat | fordham=multiplicauerat | iohanniswycliff00wyclgoog=lpi | iohanniswycliffe05wycl=multiplicauerat		6	accept
 142	R2	latinworks22wycl=licet | 11663460bsb=∅ | dialogussivespec00wycl=licet | fordham=licet | iohanniswycliff00wyclgoog=licet | iohanniswycliffe05wycl=licet		6	accept
 143	R2	latinworks22wycl=nostris | 11663460bsb=∅ | dialogussivespec00wycl=nostris | fordham=nostris | iohanniswycliff00wyclgoog=nostris | iohanniswycliffe05wycl=nostris		6	accept

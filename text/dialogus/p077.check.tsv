@@ -1,18 +1,18 @@
 pos	rule	forms	support	voters	resolution
 9	R2	latinworks22wycl=n | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=in | iohanniswycliffe05wycl=in		6	accept
-17	R6a	latinworks22wycl=of | 11663460bsb=of | dialogussivespec00wycl=of | fordham=∅ | iohanniswycliffe05wycl=of		5	accept
-25	R3	latinworks22wycl=chnstus | 11663460bsb=christus | dialogussivespec00wycl=chnstus | fordham=christus | iohanniswycliffe05wycl=christus		5	plate
-36	R3	latinworks22wycl=contrane | 11663460bsb=contrarie | dialogussivespec00wycl=contrane | fordham=contrarie | iohanniswycliff00wyclgoog=contrarie | iohanniswycliffe05wycl=contrane		6	plate
+17	PLATE	latinworks22wycl=of | 11663460bsb=of | dialogussivespec00wycl=of | fordham=∅ | iohanniswycliffe05wycl=of		5	accept
+25	PLATE	latinworks22wycl=chnstus | 11663460bsb=christus | dialogussivespec00wycl=chnstus | fordham=christus | iohanniswycliffe05wycl=christus		5	accept
+36	PLATE	latinworks22wycl=contrane | 11663460bsb=contrarie | dialogussivespec00wycl=contrane | fordham=contrarie | iohanniswycliff00wyclgoog=contrarie | iohanniswycliffe05wycl=contrane		6	accept
 41	R2	latinworks22wycl=diaboh | 11663460bsb=atetied | dialogussivespec00wycl=diaboh | fordham=diaboli | iohanniswycliff00wyclgoog=diaboli | iohanniswycliffe05wycl=diaboli		6	accept
-44	R4	latinworks22wycl=antichnsti | dialogussivespec00wycl=antichnsti | fordham=antichristi | iohanniswycliff00wyclgoog=antichristi | iohanniswycliffe05wycl=antichnsti		5	plate
+44	PLATE	latinworks22wycl=antichnsti | dialogussivespec00wycl=antichnsti | fordham=antichristi | iohanniswycliff00wyclgoog=antichristi | iohanniswycliffe05wycl=antichnsti		5	accept
 48	R2	latinworks22wycl=nuncupatiue | 11663460bsb=nuncupatiue | dialogussivespec00wycl=nuncupatiue | fordham=nuncupatiue | iohanniswycliff00wyclgoog=nuncuingitiakfaqiipatiue | iohanniswycliffe05wycl=nuncuingit		6	accept
 50	R3a	latinworks22wycl=dominus | 11663460bsb=dominus | dialogussivespec00wycl=dominus | fordham=dominus | iohanniswycliff00wyclgoog=dominus | iohanniswycliffe05wycl=dommus		6	accept
 107	R2	latinworks22wycl=multa | 11663460bsb=multa | dialogussivespec00wycl=multa | fordham=multa | iohanniswycliff00wyclgoog=muha | iohanniswycliffe05wycl=multa		6	accept
-116	R3	latinworks22wycl=icunde | 11663460bsb=unde | dialogussivespec00wycl=unde | fordham=unde | iohanniswycliff00wyclgoog=unde | iohanniswycliffe05wycl=iunde		6	plate
+116	PLATE	latinworks22wycl=icunde | 11663460bsb=unde | dialogussivespec00wycl=unde | fordham=unde | iohanniswycliff00wyclgoog=unde | iohanniswycliffe05wycl=iunde		6	accept
 140	R2	latinworks22wycl=temporalia | 11663460bsb=temporalia | dialogussivespec00wycl=temporalia | fordham=temporalia | iohanniswycliff00wyclgoog=temeutnaiqong | iohanniswycliffe05wycl=temporaua		6	accept
 157	R3a	latinworks22wycl=tam | 11663460bsb=tam | dialogussivespec00wycl=tam | fordham=tam | iohanniswycliff00wyclgoog=lam | iohanniswycliffe05wycl=tam		6	accept
 173	R2	latinworks22wycl=missionem | 11663460bsb=missionem | dialogussivespec00wycl=missionem | fordham=missionem | iohanniswycliff00wyclgoog=inisaionem | iohanniswycliffe05wycl=missionem		6	accept
 180	R2	latinworks22wycl=religionis | 11663460bsb=religionis | dialogussivespec00wycl=religionis | fordham=religionis | iohanniswycliff00wyclgoog=religionis | iohanniswycliffe05wycl=rcugionis		6	accept
 192	R3a	latinworks22wycl=fidelis | 11663460bsb=fidelis | dialogussivespec00wycl=fidelis | fordham=fidelis | iohanniswycliff00wyclgoog=fidetis | iohanniswycliffe05wycl=fideus		6	accept
 205	R2	latinworks22wycl=fuerit | 11663460bsb=∅ | dialogussivespec00wycl=fuerit | fordham=fuerit | iohanniswycliff00wyclgoog=rueritbyscriknnd | iohanniswycliffe05wycl=fueritbyscriptureand		6	accept
-241	R4	latinworks22wycl=erauissima | 11663460bsb=gra4 | dialogussivespec00wycl=graquia | fordham=gra | iohanniswycliff00wyclgoog=graquia | iohanniswycliffe05wycl=grauissima		6	plate
+241	PLATE	latinworks22wycl=erauissima | 11663460bsb=gra4 | dialogussivespec00wycl=graquia | fordham=gra | iohanniswycliff00wyclgoog=graquia | iohanniswycliffe05wycl=grauissima		6	accept

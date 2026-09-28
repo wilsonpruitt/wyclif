@@ -7,7 +7,8 @@ pos	rule	forms	support	voters	resolution
 129	DEL	latinworks22wycl=ficium | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
 131	R2	latinworks22wycl=lege | 11663460bsb=lege | dialogussivespec00wycl=lege | fordham=lege | iohanniswycliff00wyclgoog=kge | iohanniswycliffe05wycl=lege		6	accept
 135	R2	latinworks22wycl=moysi | 11663460bsb=moysi | dialogussivespec00wycl=moysi | fordham=moysi | iohanniswycliff00wyclgoog=moysi | iohanniswycliffe05wycl=inioysi		6	accept
+178	PLATE	latinworks22wycl=30 | 11663460bsb=30 | dialogussivespec00wycl=30 | fordham=30a | iohanniswycliff00wyclgoog=30 | iohanniswycliffe05wycl=30		6	accept
 207	R2	latinworks22wycl=credimus | 11663460bsb=credimus | dialogussivespec00wycl=credimus | fordham=credimus | iohanniswycliff00wyclgoog=credimu3wtiiem | iohanniswycliffe05wycl=credimus		6	accept
 238	R3a	latinworks22wycl=uel | 11663460bsb=uel | dialogussivespec00wycl=uel | fordham=uel | iohanniswycliff00wyclgoog=ue | iohanniswycliffe05wycl=ucl		6	accept
-243	INS?	innuit	3	6	plate
+243	INS?	innuit	3	6	plate: innuit
 271	R3a	latinworks22wycl=uix | 11663460bsb=uix | dialogussivespec00wycl=uix | fordham=uix | iohanniswycliff00wyclgoog=uis | iohanniswycliffe05wycl=uix		6	accept

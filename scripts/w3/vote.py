@@ -291,6 +291,13 @@ LINE_NO = re.compile(r'^(5|10|15|20|25|30|35|40)$')
 
 
 # ---------------------------------------------------------------- main
+def pick(decisions, pg, k, forms=None, rule=None, skip=()):
+    """The plate decision for this page+position: several may share a position (a word
+    and an insertion before it), so prefer the one whose voted forms match."""
+    ds = [d for d in decisions.get((pg, k), []) if d['rule'] not in skip and (rule is None or d['rule'] == rule)]
+    return next((d for d in ds if forms is None or d['forms'] == forms), ds[0] if ds else None)
+
+
 def run(slug, first=None, last=None):
     off = offsets()[slug]
     item, offset = off['item'], int(off['offset'])
@@ -317,7 +324,7 @@ def run(slug, first=None, last=None):
     dpath = f'{base}/plate_decisions.tsv'
     if os.path.exists(dpath):
         for r in csv.DictReader(open(dpath), delimiter='\t'):
-            decisions[(int(r['page']), int(r['pos']))] = r
+            decisions.setdefault((int(r['page']), int(r['pos'])), []).append(r)
     stale = []
     queue, stats = [], Counter()
     hints = {w: None for w in others}
@@ -344,7 +351,7 @@ def run(slug, first=None, last=None):
                 if key not in head_done:
                     head_done.add(key)
                     htxt = ' '.join(x['t'] for x in page if (x['leaf'], x['line']) == key)
-                    d = decisions.get((pg, k))
+                    d = pick(decisions, pg, k, rule='HEAD')
                     if d and d['rule'] == 'HEAD':
                         checks.append((k, 'HEAD', htxt, '', '', 'plate: ' + d['reading']))
                         out_tokens.append(dict(t=d['reading'], n=norm(d['reading']), hl=True, head_fixed=key))
@@ -380,7 +387,7 @@ def run(slug, first=None, last=None):
                     checks.append((k, 'INS', form, len(sup), nvot, 'accept'))
                     stats['INS'] += 1
                 elif len(sup) >= 2:
-                    d = decisions.get((pg, k))
+                    d = pick(decisions, pg, k, forms=form)
                     if d and d['rule'] == 'INS?' and d['forms'] == form:
                         if d['reading'] != '∅':
                             for w in d['reading'].split():
@@ -407,7 +414,9 @@ def run(slug, first=None, last=None):
                         ital = v.get('it')
             rule, win, plate = decide(list(forms.values()), lex)
             sig = ' | '.join(f'{w}={f}' for w, f in forms.items())
-            d = decisions.get((pg, k))
+            d = pick(decisions, pg, k, forms=sig, skip=('HEAD', 'INS?'))
+            if os.environ.get('W3_DUMP') == str(pg):    # print every row's forms, to write an OVERRIDE
+                print(f'{pg}\t{k}\t{sig}')
             if d and (plate or d['rule'].startswith('OVERRIDE')):   # OVERRIDE: plate corrects an accepted row
                 if d['forms'] == sig:
                     rd = d['reading']

@@ -1,6 +1,8 @@
 pos	rule	forms	support	voters	resolution
 0	R3a	latinworks22wycl=florent | 11663460bsb=a | dialogussivespec00wycl=florent | fordham=florent | iohanniswycliff00wyclgoog=florent | iohanniswycliffe05wycl=florent		6	accept
-11	R5	latinworks22wycl=tur | dialogussivespec00wycl=tur | iohanniswycliffe05wycl=tur		3	plate
+9	PLATE	latinworks22wycl=uide | dialogussivespec00wycl=uide | iohanniswycliffe05wycl=uide		3	accept
+10	PLATE	latinworks22wycl=it | dialogussivespec00wycl=it | iohanniswycliffe05wycl=it		3	accept
+11	PLATE	latinworks22wycl=tur | dialogussivespec00wycl=tur | iohanniswycliffe05wycl=tur		3	accept
 43	R2	latinworks22wycl=nec | 11663460bsb=mec | dialogussivespec00wycl=nec | fordham=nec | iohanniswycliff00wyclgoog=nec | iohanniswycliffe05wycl=nec		6	accept
 47	R3a	latinworks22wycl=facta | 11663460bsb=facta | dialogussivespec00wycl=facta | fordham=facta | iohanniswycliff00wyclgoog=facia | iohanniswycliffe05wycl=facta		6	accept
 50	R2	latinworks22wycl=quam | 11663460bsb=quam | dialogussivespec00wycl=quam | fordham=quam | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=quam		6	accept

@@ -9,19 +9,19 @@ pos	rule	forms	support	voters	resolution
 38	R2	latinworks22wycl=laudes | 11663460bsb=laudes | dialogussivespec00wycl=laudes | fordham=laudes | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=laudes		6	accept
 48	R2	latinworks22wycl=estimant | 11663460bsb=estimant | dialogussivespec00wycl=estimant | fordham=estimant | iohanniswycliff00wyclgoog=estimant | iohanniswycliffe05wycl=estibm56b		6	accept
 55	R3a	latinworks22wycl=40r | 11663460bsb=4r | dialogussivespec00wycl=40r | fordham=40r | iohanniswycliff00wyclgoog=40 | iohanniswycliffe05wycl=4		6	accept
-58	R4	latinworks22wycl=capitulo | 11663460bsb=capitu | dialogussivespec00wycl=capitu | fordham=capitulo | iohanniswycliff00wyclgoog=capitu | iohanniswycliffe05wycl=capitulo		6	plate
+58	PLATE	latinworks22wycl=capitulo | 11663460bsb=capitu | dialogussivespec00wycl=capitu | fordham=capitulo | iohanniswycliff00wyclgoog=capitu | iohanniswycliffe05wycl=capitulo		6	accept
 62	R2	latinworks22wycl=ps | 11663460bsb=ps | dialogussivespec00wycl=ps | fordham=pso | iohanniswycliff00wyclgoog=pso | iohanniswycliffe05wycl=ps		6	accept
-63	R3	latinworks22wycl=io | 11663460bsb=10 | dialogussivespec00wycl=io | fordham=10 | iohanniswycliff00wyclgoog=io | iohanniswycliffe05wycl=10		6	plate
+63	PLATE	latinworks22wycl=io | 11663460bsb=10 | dialogussivespec00wycl=io | fordham=10 | iohanniswycliff00wyclgoog=io | iohanniswycliffe05wycl=10		6	accept
 65	R2	latinworks22wycl=fiai | 11663460bsb=fiat | dialogussivespec00wycl=fiat | fordham=fiat | iohanniswycliff00wyclgoog=fiat | iohanniswycliffe05wycl=ifa		6	accept
 67	R2	latinworks22wycl=eius | 11663460bsb=gus | dialogussivespec00wycl=eius | fordham=eius | iohanniswycliff00wyclgoog=eius | iohanniswycliffe05wycl=eius		6	accept
 70	R3b	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=ct		6	accept
 73	R3b	latinworks22wycl=eorum | 11663460bsb=eorum | dialogussivespec00wycl=eorum | fordham=eorum | iohanniswycliff00wyclgoog=corum | iohanniswycliffe05wycl=corum		6	accept
-77	R3	latinworks22wycl=2do | 11663460bsb=24 | dialogussivespec00wycl=2do | fordham=2do | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=2		6	plate
+77	PLATE	latinworks22wycl=2do | 11663460bsb=24 | dialogussivespec00wycl=2do | fordham=2do | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=2		6	accept
 79	R2	latinworks22wycl=maledicam | 11663460bsb=maded2cam | dialogussivespec00wycl=maledicam | fordham=maledicam | iohanniswycliffe05wycl=nialedica7n		5	accept
 81	R2	latinworks22wycl=uesris | 11663460bsb=uesirts | dialogussivespec00wycl=ueslris | fordham=uestris | iohanniswycliffe05wycl=ucstris		5	accept
 84	R2	latinworks22wycl=talis | 11663460bsb=talis | dialogussivespec00wycl=talis | fordham=talis | iohanniswycliff00wyclgoog=talis | iohanniswycliffe05wycl=tans		6	accept
 86	R2	latinworks22wycl=libera | 11663460bsb=libera | dialogussivespec00wycl=libera | fordham=libera | iohanniswycliff00wyclgoog=libera | iohanniswycliffe05wycl=udera		6	accept
-89	HEAD	CAPITULUM			plate
+89	HEAD	CAPITULUM			plate: CAPITULUM 24m.
 90	R2	latinworks22wycl=mendacium | 11663460bsb=24m | dialogussivespec00wycl=mendacium | fordham=mendacium | iohanniswycliff00wyclgoog=mendacium | iohanniswycliffe05wycl=mendacium		6	accept
 98	R3a	latinworks22wycl=110 | 11663460bsb=quod | dialogussivespec00wycl=quod | fordham=quod | iohanniswycliff00wyclgoog=quod | iohanniswycliffe05wycl=quod		6	accept
 106	R3a	latinworks22wycl=ecclesie | 11663460bsb=ecclesie | dialogussivespec00wycl=ecclesie | fordham=ecclesie | iohanniswycliff00wyclgoog=ecclesie | iohanniswycliffe05wycl=ecclcsie		6	accept

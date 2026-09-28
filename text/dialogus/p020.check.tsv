@@ -2,10 +2,10 @@ pos	rule	forms	support	voters	resolution
 49	R2	latinworks22wycl=uiuaciori | 11663460bsb=yiuaciori | dialogussivespec00wycl=uiuaciori | fordham=uiuaciori | iohanniswycliff00wyclgoog=uiuaciori | iohanniswycliffe05wycl=yiuaciori		6	accept
 57	R3a	latinworks22wycl=illa | 11663460bsb=ilq | dialogussivespec00wycl=illa | fordham=illa | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=iii		6	accept
 85	R3a	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | fordham=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=in		6	accept
-92	INS?	a	3	6	plate
+92	INS?	a	3	6	plate: a
 92	R3a	latinworks22wycl=religione | 11663460bsb=religione | dialogussivespec00wycl=religione | fordham=religione | iohanniswycliff00wyclgoog=religione | iohanniswycliffe05wycl=religioue		6	accept
 108	R2	latinworks22wycl=patule | 11663460bsb=patule | dialogussivespec00wycl=patule | fordham=patule | iohanniswycliff00wyclgoog=∅		5	accept
-115	INS?	superbam	2	6	plate
+115	INS?	superbam	2	6	plate: superbam
 124	R3a	latinworks22wycl=11 | 11663460bsb=quia | dialogussivespec00wycl=quia | fordham=quia | iohanniswycliff00wyclgoog=quia | iohanniswycliffe05wycl=quia		6	accept
 125	R3a	latinworks22wycl=ps | 11663460bsb=ipsi | dialogussivespec00wycl=ipsi | fordham=ipsi | iohanniswycliff00wyclgoog=ipsi | iohanniswycliffe05wycl=ipsi		6	accept
 126	R3a	latinworks22wycl=ue | 11663460bsb=uel | dialogussivespec00wycl=uel | fordham=uel | iohanniswycliff00wyclgoog=uel | iohanniswycliffe05wycl=uel		6	accept
@@ -19,6 +19,6 @@ pos	rule	forms	support	voters	resolution
 187	R3a	latinworks22wycl=fidelibus | 11663460bsb=fidelibus | dialogussivespec00wycl=fidelibus | fordham=romana | iohanniswycliff00wyclgoog=fidelibus | iohanniswycliffe05wycl=fidelibus		6	accept
 190	R3a	latinworks22wycl=actu | 11663460bsb=actu | dialogussivespec00wycl=actu | fordham=contra | iohanniswycliff00wyclgoog=actu | iohanniswycliffe05wycl=actu		6	accept
 191	R3a	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=ct | iohanniswycliffe05wycl=i		6	accept
-193	R3	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=iu		5	plate
+193	PLATE	latinworks22wycl=in | 11663460bsb=in | dialogussivespec00wycl=in | iohanniswycliff00wyclgoog=iu | iohanniswycliffe05wycl=iu		5	accept
 197	R3a	latinworks22wycl=aliis | 11663460bsb=aliis | dialogussivespec00wycl=aliis | iohanniswycliff00wyclgoog=aliis | iohanniswycliffe05wycl=auis		5	accept
 231	R2	latinworks22wycl=opinionem | 11663460bsb=∅ | dialogussivespec00wycl=opinionem | iohanniswycliff00wyclgoog=opiniouem | iohanniswycliffe05wycl=opinioncm		5	accept

@@ -8,7 +8,7 @@ pos	rule	forms	support	voters	resolution
 41	R2	latinworks22wycl=ex | 11663460bsb=ex | dialogussivespec00wycl=ex | fordham=ex | iohanniswycliff00wyclgoog=ex | iohanniswycliffe05wycl=gx		6	accept
 78	R3a	latinworks22wycl=smt | 11663460bsb=sint | dialogussivespec00wycl=sint | fordham=sint | iohanniswycliff00wyclgoog=siut | iohanniswycliffe05wycl=smt		6	accept
 82	R3a	latinworks22wycl=iuit | 11663460bsb=fuit | dialogussivespec00wycl=fuit | fordham=fuit | iohanniswycliff00wyclgoog=fuit | iohanniswycliffe05wycl=fuit		6	accept
-84	R3	latinworks22wycl=chnsti | dialogussivespec00wycl=chnsti | fordham=christi | iohanniswycliffe05wycl=christi		4	plate
+84	PLATE	latinworks22wycl=chnsti | dialogussivespec00wycl=chnsti | fordham=christi | iohanniswycliffe05wycl=christi		4	accept
 103	R2	latinworks22wycl=enim | 11663460bsb=enim | dialogussivespec00wycl=enim | fordham=enim | iohanniswycliff00wyclgoog=enim | iohanniswycliffe05wycl=euini		6	accept
 121	R2	latinworks22wycl=profectus | 11663460bsb=profectus | dialogussivespec00wycl=profectus | fordham=profectus | iohanniswycliff00wyclgoog=profectus | iohanniswycliffe05wycl=∅		6	accept
 128	R3a	latinworks22wycl=a | 11663460bsb=a | dialogussivespec00wycl=∅ | fordham=a | iohanniswycliff00wyclgoog=ai | iohanniswycliffe05wycl=a		6	accept
