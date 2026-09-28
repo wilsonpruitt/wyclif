@@ -36,4 +36,4 @@
 
 ## Next
 
-Wilson rules the wave-1 glossary sheet, then wave 2: chunks 10, 11, 12, 13.
+Wave 2: chunks 10, 11, 12, 13 on the LEAN card (Wilson: measure cost, report before wave 3).

@@ -6,6 +6,16 @@ only when the card sends you there. Work in `~/wyclif`. Wyclif is approached wit
 the two most recent English translations were "worse than useless" because of four error
 classes (below). Your English must survive a hostile reader with the Latin open.
 
+## Work lean (cost is per tool call: each call re-sends your whole context)
+
+Aim for **about 10 tool calls** in all:
+1. One call reading CARD + GLOSSARY + your scaffold together (`cat` them).
+2. **One** `bible.py` call with every scripture reference you need (it takes many refs).
+3. Plates **only** for a Latin doubt or a side-note you cannot fix by the OCR rules below.
+   Not to "check" the side-notes generally.
+4. Write the finished chunk in **one** Write of the whole file (Latin blocks copied unchanged).
+5. Lint once; fix; done. Draft in your head, not in the file.
+
 ## The job
 
 The Latin in your scaffold is **established and frozen**. Fill: `[TITLE]` (short, lower case: "the
@@ -32,7 +42,8 @@ first law: Numbers 18"), each `[ENGLISH]`, the notes, the side-notes, the transc
    Key rulings: *caritas* charity (never love) · *dominium* lordship · *presciti* the foreknown ·
    *predestinati* the predestinate · *viator* wayfarer · *patria* homeland · *ex fide* as faith teaches
    (with a genitive: "from the faith of scripture") · *limitare* assign (noun *limites* limits) ·
-   *indispositus* unfit · *liberum arbitrium* free choice · *sensibilis* perceptible.
+   *indispositus* unfit · *liberum arbitrium* free choice · *sensibilis* perceptible · *sentencia* teaching ·
+   *evidencia* evidence · *reditus* revenue(s) · *conversacio* manner of life (the rest: GLOSSARY).
 2. **Connectives carry the argument.** ⛔ Never omit one, never turn one into filler.
 
    | Latin | English | Never |

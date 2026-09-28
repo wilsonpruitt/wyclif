@@ -110,6 +110,12 @@ otherwise.
 | philosophia sermocinalis / realis | the philosophy of language / the philosophy of reality | T. pp. 364–5. |
 | liberum arbitrium | free choice | The scholastic term, not "free will" (*voluntas*). Ruled 2026-09-28 (*Dial.* 4.15). |
 | ex fide | as faith teaches; with a genitive, from the faith of [scripture] | "It is of faith", on scripture's authority. *Ex fide scripture / duplicis testamenti* → "from the faith of scripture / of the twofold testament". Ruled 2026-09-28 after a census (30 sites in the *Dialogus*). |
+| sentencia | teaching | The position taught, incl. Falsehood's (*tua sentencia*, "your teaching"). Not "sentence". Ruled 2026-09-28 (51 sites in the *Dialogus*). |
+| evidencia | evidence | "Proof" only where it names a demonstration, with a note. Ruled 2026-09-28 (41 sites). |
+| repplicacio | rejoinder | A disputation term. Ruled 2026-09-28. |
+| concessio | grant | Of property or privilege. Ruled 2026-09-28 (5 sites). |
+| exproprietarii | the propertyless | The friars who profess to own nothing. Ruled 2026-09-28 (6 sites). |
+| reditus | revenue(s) | Ruled 2026-09-28 (23 sites). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -138,3 +144,12 @@ otherwise.
 | limitare; limites | to assign (an office); limits | "to limit" for the verb. The noun *limites* stays "limits" (*in limitibus apostoli*). Ruled 2026-09-28 after a census (13 verb, 5 noun). |
 | prevaricator; prevaricancia | transgressor; transgression | Ruled 2026-09-28. *Basali prevaricancia* (*Dial.* 9.24) is doubtful: see its C note. |
 | carecter (sensibilis) | (perceptible) character | "reputation". The mark of orders. Ruled 2026-09-28 (*Dial.* 5.7). |
+| conversacio | manner of life | "conversation". Ruled 2026-09-28 (6 sites). |
+| mendicacio; mendicare; mendicitas | begging; to beg; beggary | Kept apart; *mendicitas* is DR's "beggary" (Prov. 30:8). Ruled 2026-09-28. |
+| penalitas | hardship | "penalty". Ruled 2026-09-28. |
+| gratitudo | kindness (received) | "gratitude". Ruled 2026-09-28. |
+| habere conscienciam super | to be troubled in conscience over | Ruled 2026-09-28 (5 sites). |
+| prioritas; majoritas | priority; greatness | Paired with *prior / major* in the argument (*Dial.* 12.4–8). Ruled 2026-09-28. |
+| prevaricari | to transgress | The verb of *prevaricator*. Ruled 2026-09-28. |
+| servitivus | serviceable | Ruled 2026-09-28. |
+| precipui sacerdotes | leading priests | Kept apart from *principes sacerdotum*, "chief priests". Ruled 2026-09-28. |
