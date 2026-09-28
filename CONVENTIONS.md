@@ -1,7 +1,8 @@
 # CONVENTIONS — pilot draft, 2026-09-28 (freezes when Wilson approves the pilot)
 
 *Set by the pilots `pilots/wyc-ecclesia-01a.md` (plate-read) and `pilots/wyc-dialogus-01.md`
-(Fordham text, collated). These rules govern every chunk in the corpus. Change one only by a
+(Fordham text, collated). §3 was revised the same day to the three-witness check; the pilots
+predate it and become its acceptance test (PLAN M2). These rules govern every chunk in the corpus. Change one only by a
 dated decision recorded here, never silently in a chunk.*
 
 **The standing attitude, from Thakkar:** *"Wyclif must always be approached with daggers
@@ -29,23 +30,86 @@ class, and every chunk is checked against all four before it is marked done.
   is cited in the literature, and it is stable across every scan. Archive.org item digits are never
   a citation (PHASE0 finding on `latinworksNN`).
 - **Front matter, minimum:** `chunk_id · work_la · work_en · volume_slug · editor · year ·
-  pages (from.line–to.line) · divisions · latin_source · plates · collation · status`.
-- `latin_source` is one of `plate-read` or `fordham-collated`. **It is never blank.**
+  pages (from.line–to.line) · divisions · latin_source · witnesses · check · italics · plates ·
+  status`.
+- `latin_source` is `three-witness` (the normal method, §3) or `plate-read` (the pilots, and the
+  fallback). **It is never blank.**
+- `witnesses` lists the text witnesses used, by archive.org id plus `fordham` or `tesseract`
+  where used. `check` gives the counts from §3's decision table: words accepted without a plate,
+  words settled by vote, words sent to the plate, and what the plate said. `italics` is `plate`,
+  `fordham` or `none` (§3.6).
 - `plates` gives the archive.org item and leaf range. `catalog/plate_offsets.tsv` holds each
   volume's calibrated leaf↔page offset.
 
-## 3. The Latin: copy-text and transcription
+## 3. The Latin: copy-text, and how it is established (revised 2026-09-28)
 
-- **Copy-text = the Society edition's printed text**, read from the plate.
-- **Fordham text is accepted only after full collation against the plate**, word by word, every
-  chunk. No sampling ([[feedback_exhaustive-over-cheap-passes]]). Record the result in `collation`:
-  the count of Fordham≠plate discrepancies, each listed in the transcription notes. Fordham's quality
-  varies by file: *Dialogus* cap. 1 had zero word errors, while *De officio regis* shows raw OCR
-  (`wltfacere`, `Sicul`). A clean first chapter does not license skipping the next one.
-- **Spelling as printed**, medieval forms included (*eciam, racio, ymmo, quiditas, ypocritis*), and
-  the editor's *u/v, i/j* as printed. Degree-sign ordinals (*LXI°*) are kept.
-- **Italics as printed.** The editors italicise quotations. Keep them: they show where Wyclif
-  stops speaking and his authority starts.
+**Copy-text = the Society edition's printed text.** We don't re-OCR it. We **check** it: several
+independent transcriptions of the same printed page vote word by word, and only the words they
+cannot settle go to the page image. Every word is compared, so this is an exhaustive check, not a
+sample ([[feedback_exhaustive-over-cheap-passes]]). What it saves is looking at the image where
+three witnesses already agree.
+
+*Why:* measured 2026-09-28 on 22,302 triple-aligned words of *De officio regis* (Fordham + the
+Princeton OCR + the Boston College 1966-reprint OCR). All three agreed on 93.7%. On 6.0% one witness
+was outvoted by the other two, and in every sampled case the majority matched the print. 0.35% was a
+three-way split. The Fordham file there is raw OCR, but its errors are not the scans' errors.
+
+### 3.1 Witnesses
+
+- **At least three independent witnesses per chunk.** Independent means a different scan, or a
+  transcription not made from the same OCR. Two OCRs of one scan count as one witness.
+- Sources, in order of use: the **Princeton scan's OCR** (`latinworksNN`, the primary scan); **other
+  free archive.org scans** of the same volume (`catalog/volumes.json` → `other_free_scans`; the 1966
+  Johnson reprint is a photo-reprint of the same setting, so its page and line breaks match, but it
+  is a separate scan with its own OCR); **Fordham**, where it exists. Fordham is **a witness, not the
+  copy-text**. Its files range from corrected (*Dialogus*) to raw OCR (*De officio regis*).
+- **Fewer than three available** (Polemical Works I, *Civ. dom.* III tome 2, *Opera minora*,
+  *De veritate*): add a **local Tesseract OCR** (Latin model) of the Princeton plates as the third.
+  It is free CPU work, run one volume at a time.
+- Use the **hOCR** (word boxes), not the plain `_djvu.txt`. The boxes let the main-text column be
+  separated from running heads, line numbers, side-notes and apparatus, and give each line's position
+  on the page for §3.4.
+
+### 3.2 Alignment
+
+Word by word, per Society page, main text only. Comparison is on a normalised form (case, *u/v*,
+*i/j*, punctuation, and ligature and OCR hyphen artefacts). ⛔ **The normalisation is only for
+comparing.** The established text keeps the printed spelling (§3.5).
+
+### 3.3 The decision table
+
+| Rule | Situation | Action | Plate? |
+|---|---|---|---|
+| R1 | All witnesses agree | Accept | No |
+| R2 | One witness outvoted, and its form is a **non-word** | Accept the majority | No |
+| R3 | One witness outvoted, but **every competing form is a real word** (*humani / humane*, *sum / sim*, *quod / quid*) | Plate decides | **Yes** |
+| R4 | No majority (three-way split) | Plate decides | **Yes** |
+| R5 | All agree on a **non-word** | Plate decides; never "correct" on sight | **Yes** |
+| R6 | The majority form is itself a non-word | Plate decides | **Yes** |
+
+- **Non-word vs real word** follows the house rule ([[reference_plate-read-triage]]). Corpus
+  frequency settles non-words; it is worthless for real words. A real word that reads oddly is the
+  source's until the plate says otherwise. The lexicon test is the corpus itself: a form counts as
+  real if it is attested in agreeing positions in at least two volumes, or is in a standard Latin
+  wordlist.
+- **R5 is where the print's own oddities live.** *wltfacere* (*Off. reg.* 69.4) is what the plate
+  prints: the MS spelling of *vult facere*. Phase 0 wrongly called it a Fordham error. A form that
+  looks corrupt may be the source's, and only the plate can say.
+
+### 3.4 Plate reads: the line, not the word
+
+- A plate read is a **crop of the line with the line above and below**, fetched by its hOCR box
+  (archive.org IIIF region request, or a local crop), never the whole page. The whole line is read
+  every time, because the normalisation class (the digitised text silently *corrects* the print,
+  and the corrected form reads perfectly) is found in the neighbours of the word being checked
+  ([[reference_plate-read-triage]]).
+- Every non-R1 decision is logged in `text/<slug>/pNNN.check.tsv` (position · the witnesses' forms ·
+  rule · resolution · plate y/n), and the chunk's `check` field summarises the log.
+
+### 3.5 What the established text keeps
+
+- **Spelling as printed**, medieval forms included (*eciam, racio, ymmo, quiditas, ypocritis,
+  wlt*), and the editor's *u/v, i/j* as printed. Degree-sign ordinals (*LXI°*) are kept.
 - **Editor's brackets kept** (*[conse]quendam*). The editor's own emendations ("Correxi") are
   accepted as the text and recorded in the transcription notes.
 - **Left out of the reading text:** line numbers, MS folio markers and their asterisks, the
@@ -54,6 +118,28 @@ class, and every chunk is checked against all four before it is marked done.
   the same word.
 - ⛔ **Never correct the printed Latin silently, and never put our own emendation into the Latin
   block.** See §5.
+
+### 3.6 What OCR cannot supply: italics and structure
+
+- **Italics.** The editors italicise quotations, and that shows where Wyclif stops speaking and his
+  authority starts. OCR does not carry italics. Take them from Fordham where it exists (its data
+  has `<i>` tags); otherwise mark `italics: none`. The translator then identifies quoted matter
+  from the sense and the editor's source notes, and marks it in the **English**. Italics in the
+  Latin block are added from the plate only when a chunk is otherwise being read there.
+- **Structure** (paragraphs, chapter headings, the editor's alinea letters) comes from the hOCR
+  layout (indentation, centred capitals, the margin column), checked against the plate at each
+  chapter opening. ⛔ Never from the Fordham `##` headings.
+
+### 3.7 The sense check stays
+
+The vote establishes what the page prints; it cannot tell whether the print makes sense. The
+translator still reads the Latin with daggers drawn (§5). If the established text makes nonsense,
+read the plate and the apparatus, and budget for it.
+
+### 3.8 Plate-read (fallback)
+
+Where hOCR is unusable for a page (a bad scan, or a table or diagram in *De logica*), read the
+plate for that page and set `latin_source: plate-read` for that chunk.
 
 ## 4. The editor's layers: side-notes, sources, apparatus
 
@@ -198,3 +284,5 @@ side-notes · Notes · Transcription notes (plate readings, collation, the edito
 - [ ] Every word with a classical/medieval gap looked up (§8).
 - [ ] Every sentence construed; doubtful ones carry a **C** note.
 - [ ] Every note anchored; every source identification in the ledger; no open `[verify]`.
+- [ ] The Latin's check log is complete: every R3–R6 word has a plate resolution, and `check` is
+      filled in.

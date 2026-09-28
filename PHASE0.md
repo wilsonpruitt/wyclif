@@ -48,7 +48,7 @@ citations will be **work + Society page**, the scholarly convention.
    keeps the scribes' *w* for *v* (*ewangelicum*). It was a false defect claim, and the
    plate-read-triage rule applies: a form that looks corrupt may be the source's. *Dialogus*, by
    contrast, is a corrected text (0 word errors in the pilot chapter). Every text is still checked
-   before translation; see the three-witness test in PLAN (pending).
+   before translation; the Latin is now established by the three-witness check (CONVENTIONS §3).
 5. **The page runs are complete except for 14 gaps:** De officio regis pp. 26, 66; Sermones I pp.
    67, 100, 104, 115, 117, 151, 159, 177, 197, 209; Sermones II pp. 5, 36. Each could be a blank or
    a real drop. Check against the plates.
