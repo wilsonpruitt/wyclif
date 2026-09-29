@@ -466,9 +466,9 @@ def render_static(chunks, page_to):
             f'<!doctype html><meta charset="utf-8"><title>Page {p}</title><link rel="canonical" href="{SITE}/{WORK}/{target}">'
             f'<meta http-equiv="refresh" content="0; url=../../{target}"><a href="../../{target}">Pollard p. {p}</a>')
     urls = ['', f'{WORK}/'] + [f"{WORK}/{c['slug']}/" for c in chunks] + ['glossary/', 'about/', 'rights/']
-    json.dump({'redirects': [{'source': '/cap/:n', 'destination': f'/{WORK}/cap/:n', 'permanent': True},
-                             {'source': '/epilogus/:x', 'destination': f'/{WORK}/epilogus/:x', 'permanent': True},
-                             {'source': '/p/:n', 'destination': f'/{WORK}/p/:n', 'permanent': True}]},
+    json.dump({'redirects': [{'source': '/cap/(.*)', 'destination': f'/{WORK}/cap/$1', 'permanent': True},
+                             {'source': '/epilogus/(.*)', 'destination': f'/{WORK}/epilogus/$1', 'permanent': True},
+                             {'source': '/p/(.*)', 'destination': f'/{WORK}/p/$1', 'permanent': True}]},
               open(os.path.join(OUT, 'vercel.json'), 'w'), indent=1)
     open(os.path.join(OUT, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
         ''.join(f'<url><loc>{SITE}/{u}</loc></url>' for u in urls) + '</urlset>\n')
