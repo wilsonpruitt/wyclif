@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 0	R3a	latinworks22wycl=anime | 11663460bsb=anime | dialogussivespec00wycl=anime | fordham=anime | iohanniswycliff00wyclgoog=militat | iohanniswycliffe05wycl=anime		6	accept
 7	R3a	latinworks22wycl=prospentatem | 11663460bsb=prosperitatem | dialogussivespec00wycl=prosperitatem | fordham=prosperitatem | iohanniswycliff00wyclgoog=prose | iohanniswycliffe05wycl=prosperitatem		6	accept
-20	R6a	latinworks22wycl=t | 11663460bsb=∅ | dialogussivespec00wycl=t | fordham=∅ | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=t		6	accept
+20	PLATE	latinworks22wycl=t | 11663460bsb=∅ | dialogussivespec00wycl=t | fordham=∅ | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=t		6	accept
 56	R2	latinworks22wycl=et | 11663460bsb=∅ | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=et		6	accept
 57	R2	latinworks22wycl=prosperitatem | 11663460bsb=prosperitatem | dialogussivespec00wycl=prosfulearthlypeace | fordham=prosperitatem | iohanniswycliff00wyclgoog=prosfuimnkiyp		5	accept
 66	R3a	latinworks22wycl=consoulsequens | 11663460bsb=consequens | dialogussivespec00wycl=consequens | fordham=consequens | iohanniswycliff00wyclgoog=con | iohanniswycliffe05wycl=consequens		6	accept
@@ -16,7 +16,7 @@ pos	rule	forms	support	voters	resolution
 170	R2	latinworks22wycl=dotacio | 11663460bsb=∅ | dialogussivespec00wycl=dotacio | fordham=dotacio | iohanniswycliff00wyclgoog=dotacio | iohanniswycliffe05wycl=dotacio		6	accept
 173	R2	latinworks22wycl=potest | 11663460bsb=∅ | dialogussivespec00wycl=potest | fordham=potest | iohanniswycliff00wyclgoog=potest | iohanniswycliffe05wycl=potest		6	accept
 177	R2	latinworks22wycl=uel | 11663460bsb=∅ | dialogussivespec00wycl=uel | fordham=uel | iohanniswycliff00wyclgoog=uel | iohanniswycliffe05wycl=uel		6	accept
-187	DEL	latinworks22wycl=t | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=t		6	accept
+187	PLATE	latinworks22wycl=t | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=t		6	accept
 206	R3a	latinworks22wycl=sit | 11663460bsb=sit | dialogussivespec00wycl=sit | fordham=sit | iohanniswycliff00wyclgoog=sil | iohanniswycliffe05wycl=sit		6	accept
 208	R3a	latinworks22wycl=iuxta | 11663460bsb=iuxta | dialogussivespec00wycl=iuxta | fordham=iuxta | iohanniswycliff00wyclgoog=iuxta | iohanniswycliffe05wycl=luxta		6	accept
 209	R2	latinworks22wycl=etatem | 11663460bsb=etatem | dialogussivespec00wycl=etatem | fordham=etatem | iohanniswycliff00wyclgoog=elalem | iohanniswycliffe05wycl=etatem		6	accept

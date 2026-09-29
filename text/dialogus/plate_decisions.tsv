@@ -266,3 +266,5 @@ page	pos	rule	forms	reading	note
 74	15	OVERRIDE	latinworks22wycl=perecte | 11663460bsb=per | dialogussivespec00wycl=perecte | fordham=perfecte | iohanniswycliff00wyclgoog=per | iohanniswycliffe05wycl=per	perfecte	plate n0105; ch. 32
 74	173	OVERRIDE	latinworks22wycl=chnstus | 11663460bsb=christus | dialogussivespec00wycl=chnstus | fordham=christus | iohanniswycliff00wyclgoog=chnstus | iohanniswycliffe05wycl=chnstus	Christus	plate n0105: Christus; ch. 32
 78	54	OVERRIDE	latinworks22wycl=seruato | 11663460bsb=seruato | dialogussivespec00wycl=seruato | fordham=seruato | iohanniswycliff00wyclgoog=seruato | iohanniswycliffe05wycl=seruato	Et servato	plate n0109: Et dropped; ch. 32
+87	20	OVERRIDE	latinworks22wycl=t | 11663460bsb=∅ | dialogussivespec00wycl=t | fordham=∅ | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=t	†	plate n0118: Pollard's crux after racionabiliter; epil-a n5
+87	187	OVERRIDE	latinworks22wycl=t | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=t	†	plate n0118: Pollard's crux after tantum quantum; epil-a n9

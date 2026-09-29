@@ -52,6 +52,11 @@
 | 31 | translated (wave 7) | 19 | 118k | 4.7 |
 | 32 | translated (wave 7) | 19 | 124k | 4.8 |
 | 33 | translated (wave 7) | 10 | 99k | 3.0 |
+| 34 | translated (wave 8) | 8 | 95k | 2.2 |
+| 35 | translated (wave 8) | 10 | 93k | 2.3 |
+| 36 | translated (wave 8) | 9 | 99k | 3.2 |
+| epil-a | translated (wave 8) | 32 | 135k | 5.3 |
+| epil-b | translated (wave 8) | 31 | 138k | 6.4 |
 
 ## Owed at work close (the gate)
 
@@ -63,9 +68,14 @@
 - Ch. 18 Isa. 1:23: D–R wording missing (bible.py gave none); supply it.
 - Plate-check ch. 14 side-note 26.28 "Mend. objects" (kept from the OCR draft).
 
+- ⚠ Majority-error sweep: 74.22 *Chnstus* passed by majority (4 of 6 witnesses share the OCR confusion). Run a
+  non-word check of the established text against the lexicon (every word not in `catalog/lexicon/agreed.txt`
+  and not a proper name), plate-check the survivors.
+- Merge the 12 unresolved Latin doubts in `_reports.md` (waves 5–8) into the transcription notes review.
 - Four-class spot check across chunks; lint all; rewrite PLAN's cost table from the measured rate.
 
 ## Next
 
-Wave 7 done (≈120k/chunk; long chapters). Final wave 8 = 34, 35, 36, epil-a, epil-b (5 agents). Ask Wilson go + model;
-size the chunks first (word counts) for the estimate.
+**Translation complete: 38/38 chunks `translated` (2026-09-28).** Next is the close-out gate above (ledger merge +
+verification pass, glossary tagging of rulings in 01–38, majority-error sweep, four-class spot check, lint all, PLAN
+cost table). Ask Wilson before starting it: it is its own token run.

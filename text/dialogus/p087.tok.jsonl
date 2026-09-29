@@ -18,7 +18,7 @@
 {"t": "quanto", "leaf": 118, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "superstites", "leaf": 118, "row": 2, "para": false, "head": false, "pos": 18}
 {"t": "racionabiliter", "leaf": 118, "row": 2, "para": false, "head": false, "pos": 19}
-{"t": "t", "leaf": 118, "row": 2, "para": false, "head": false, "pos": 20}
+{"t": "†", "leaf": 118, "row": 2, "para": false, "head": false, "pos": 20}
 {"t": "peccatum", "leaf": 118, "row": 2, "para": false, "head": false, "pos": 21}
 {"t": "legi", "leaf": 118, "row": 2, "para": false, "head": false, "pos": 22}
 {"t": "dei", "leaf": 118, "row": 2, "para": false, "head": false, "pos": 23}
@@ -185,6 +185,7 @@
 {"t": "non", "leaf": 118, "row": 22, "para": false, "head": false, "pos": 184}
 {"t": "tantum", "leaf": 118, "row": 22, "para": false, "head": false, "pos": 185}
 {"t": "quantum", "leaf": 118, "row": 22, "para": false, "head": false, "pos": 186}
+{"t": "†", "leaf": 118, "row": 22, "para": false, "head": false, "pos": 187}
 {"t": "sic", "leaf": 118, "row": 22, "para": false, "head": false, "pos": 188}
 {"t": "non", "leaf": 118, "row": 23, "para": false, "head": false, "pos": 189}
 {"t": "potest", "leaf": 118, "row": 23, "para": false, "head": false, "pos": 190}

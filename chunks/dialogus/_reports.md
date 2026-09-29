@@ -193,3 +193,39 @@ Unidentified (ch. 27): the Jeremiah allusion at 57.30; *dictum est diffuse alibi
 
 ### Cost — the chapters get long here
 30: 141k / 5.5 min (1,582 words, 14 calls) · 31: 118k / 4.7 (1,168) · 32: 124k / 4.8 (1,078) · 33: 99k / 3.0 (569). Wave total ≈ 482k.
+
+## Wave 8 (34–36, epil-a, epil-b), 2026-09-28 — FINAL; glossary ruled by coordinator (delegated)
+
+### Ledger rows (epilogue ids standardised: DEA = epil-a, DEB = epil-b; chunk citations renamed to match)
+| id | chunk / note | claim | status | how / next step |
+|---|---|---|---|---|
+| D35-1 | 35 / n4 | *medietatem imperii* (83.2) = the Donation of Constantine | to-verify | with D08-2, D24-1, D31-4 |
+| D35-2 | 35 / n4 | *patrimonium crucifixi* plays on "patrimony of St Peter" | to-verify | with D08-1 |
+| DEA-1 | epil-a / n8 | the devil sent Pilate's wife's dream | to-verify | commentary tradition |
+| DEA-2 | epil-a / n10 | the king revokes grants made in his minority | to-verify | English law |
+| DEA-3 | epil-a / n12 | Aristotle, *Eth.* VI.2, Agathon | to-verify | read text |
+| DEA-4 | epil-a / n14–15 | Magna Carta c.1, coronation oath, excommunications, Becket | to-verify | sources |
+| DEA-5 | epil-a / n16 | Solomon / Abiathar, 1 Kings 2:27 | editor | Pollard margin (print "3 Reg. 3°"; the story is ch. 2) |
+| DEA-6 | epil-a / n18 | mortmain licence | to-verify | statute (with D09-1, D29-1) |
+| DEA-7 | epil-a / n28 | *Metaph.* X.1, the measure of a genus | to-verify | read text |
+| DEA-8 | epil-a / n32 | Averroes: truth self-consonant; truth rubbed, fragrant | to-verify | find loci |
+| DEB-1 | epil-b / n9 | *stultorum infinitus est numerus* = Eccl. 1:15 | editor | Pollard margin |
+| DEB-2 | epil-b / n10 | "Tersites numerum auxit…", *de bello clavo* | to-verify | florilegia / verse collections |
+
+### Latin doubts → action
+- 87.3, 87.23: Pollard's cruces (†). The extraction had "t" at 87.3 and nothing at 87.23. **Fixed** (OVERRIDE †, plate n0118); epil-a synced, notes rewritten.
+- Unsettled, noted: 90.14 *concitor* (*conditor*?), 92.27 *Quia aut* (*autem*?), 93.25 *sunt ydonei* (Pollard *[non sunt?]*), 94.28 *de bello clavo*.
+- MS variants translated with T notes: 85.17 *onerosos* (B, B¹, C), 92.32 C, D *sunt*, 97.2 C, D *quadruplex*. Print kept, variant noted: 81.1, 81.7, 83.5, 83.19, 84.28, 97.30.
+- epil-b: Pollard's "Tithes" moved back into the 97.15 side-note. epil-a: margin ref repaired to 1 Kings ii. 27 (89.3).
+
+### Glossary — ruled by the coordinator (delegated), for Wilson's overturn
+- *predicamentum*: "category", never "predicament" (misleads); epil-a 92.1 conformed ("one [member of the] category"; n28 explains).
+- *infidelis*: split by construction: noun "unbeliever" / with a dative "faithless (to)".
+- *magisterium* "rule / the teaching office" and *indebitare se* "make oneself a debtor": PROVISIONAL (sense doubtful; C notes).
+- Routine: *temporales domini* temporal lords (already uniform ×13; kept apart from *mundani domini* worldly lords) · *brachium seculare* the secular arm (already ×17) · *milicia / milites* knighthood / knights · *laboratores* labourers · *tercia pars ecclesie* the third part of the church · *prepositi* superiors · *ius patronatus* right of patronage · *prescripcio* prescription · *sacramentalia* sacramentals · *secularitas* worldliness · *sequela* what follows · *practizare* put into practice · *sophisticare* (trans.) counterfeit · *monita* admonitions · *discoli* froward (D–R).
+
+### Cost
+34: 95k / 2.2 min · 35: 93k / 2.3 · 36: 99k / 3.2 · epil-a: 135k / 5.3 (1,838 words, 15 calls) · epil-b: 138k / 6.4 (1,469 words, 16 calls). Wave total ≈ 560k.
+
+## *Dialogus* translation complete — agent cost, all waves
+batch A (01–05) 235k · w1 396k · w2 351k · w3 354k · w4 364k · w5 400k · w6 405k · w7 482k · w8 560k = **≈ 3.55M tokens** for 38 chunks (≈ 93k/chunk; coordinator not counted). Waves 2–8 on the lean card: ≈ 2.92M, over the 2.0–2.5M target because cap. 30–32 and the epilogues run 1,000–1,860 words.

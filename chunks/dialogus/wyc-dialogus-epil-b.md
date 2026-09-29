@@ -12,97 +12,123 @@ witnesses: [11663460bsb, dialogussivespec00wycl, fordham, iohanniswycliff00wyclg
 check: "1469 words; 1299 unanimous or majority-real; 160 settled by vote (DEL 1, R2 118, R3a 39, R3b 2); 10 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks22wycl, leaves n123–n129 (printed p. = leaf − 31)"
-status: draft
+status: translated
 ---
 
-# *Dialogus*, Epilogus, part 2: [TITLE]
+# *Dialogus*, Epilogus, part 2: the third argument, and the four feigned answers
 
-## ¶1 · 92.31–93.6
+## The third argument of the adversaries · 92.31–93.6
 
 > [p. 92] Tercio principaliter arguunt adversarii legis dei, videntes quod auctoritatis legis dei expertes, per racionem sophisticam palliatam: Manifestum est, inquiunt, quod ista sentencia est contraria racioni, quia innuit, quod clerici, qui de lege [p. 93] dei sunt ad contemplacionem et oracionem pro vivis et mortuis deputati, ad mendicacionem vel aliam vitam imperfectam sunt necessitati. Sed quis dubitat quin ista sentencia tantum contra racionem et honorem domini rempublicam perturbaret, quia numerum suppreme partis ecclesie diminuit et miliciam que plus insolencie attendit, contra legem domini accendit. Sed quis dubitat quin ista sentencia
 
-[ENGLISH]
+Thirdly and principally the adversaries of [God's law]{g:lex-dei} argue, seeing that [they are] devoid of the authority of God's law, by a sophistical argument cloaked over:[^1] "It is manifest," they say, "that this [teaching]{g:sentencia} is contrary to reason, because it implies that the [clerics]{g:clerus}, who by God's [93] law are appointed to contemplation and to prayer for the living and the dead, are forced to [begging]{g:mendicacio} or to some other imperfect life. Now who doubts that this teaching, so much against reason and the Lord's honour, would disturb the commonwealth, because it diminishes the number of the supreme part of the [church]{g:ecclesia} and inflames against the Lord's law the knighthood, which attends more to insolence?[^2] Now who doubts that this teaching
 
-## ¶2 · 93.7–96.16
+## The answer; other arguments of fools · 93.7–96.16
 
 > [p. 93] foret contraria racioni? Hic dictum est sepius, quod deo teste nisi evidencia scripture, quantum concipimus, moveret directe pro illa sentencia, nunquam laboraremus incurrendo tantam indignacionem a multis et maioribus tam intente. Nam quantum concipimus in toto corpore scripture illa secta quadruplex, que tantum dominatur in seculari dominio, non fundatur nec vita nec regula quam tantum magnificant; que si docta fuerit, vel nostra sentencia racioni contraria vel scripture, parati sumus secundum quod exigit racio ipsam humiliter revocare. Dementes quidem essemus et plene demoniaci si [dum] tantum fatigati in carne laboremus in illa sentencia, non crederemus ipsam esse catholicam ac meritoriam toti militanti ecclesie ac vitulaminibus in ipsa crescentibus, que ewangelium vocat zyzania, prodesse. Sepe autem diximus, quod non sufficiunt omnes istam sentenciam concipere vel arguere contra illam, cum tantum ad hoc sit racio ydonea vel scriptura. Ideo tres maneries hominum quantum ad artem suam attinet sunt ydonei in materia ista arguere, primo decretiste qui pure legibus papalibus innituntur, quia quid in materia ista dixerunt non valet sed est contempnendum, constat enim de quanto racioni consonat vel scripture. Secunda maneries hominum loquencium in ista materia sunt legiste, quia lex imperialis a fidelibus non accipitur in ista materia nisi de quanto consonat racioni. Tercia maneries hominum subtiliorum loquencium in ista materia sunt iuriste regnorum, qui licet sepius prepolleant racione non valet tamen ipsorum loquela in ista materia, nisi de quanto [p. 94] sagittent racione que consona est scripture. Et quicunque vivax sagittam talem proiecerit, ipsa est cum humilitate et reverencia admittenda, quia, ut sepe protestatum est, quicunque, eciam dyabolus, allegaverit fideliter fidem scripture pro sua sentencia, acceptarem illam humiliter pro auctoritate. Et quantum ad racionem factam, dictum est superius, ut a quibusdam didici, sicut scriptura sacra est verissima, sic est compendiosissima et utilissima et miro modo sicut includit in se sciencias trivias et sermocinales, scilicet gramaticam, logicam, et rhetoricam, sic includit sciencias quadrivias reales scilicet arismetricam, musicam, geometricam et astronomiam, de quanto illarum noticia expedit ad beatitudinem adquirendam. Et sic mirabili compendiositate autor scripture, docens quomodo et de quibus clerici debent vivere, docet sufficienter in quo numero et qua proporcione debent ad residuum populi se habere. Si enim non haberent redditus, vel ad officium quod pertinet clero Christi, non forent in tanto numero et tam onerosi ecclesie ut sunt modo. Ideo peccatum ecclesie exigit ut dotent illos et ditent contra legem dominicam, ut tot discolis oneretur. Servet igitur duplex pars ecclesie legem Christi in cleri dotacione et erit in suo numero mensurato. Et patet quod adversarius legis dei defecit in ista tercia racione, quia sicud clerus proporcione debita sincere sequens Christum prodesset ecclesie, sic vocatus clerus condicionis opposite, quantumcunque monstruosus fuerit, viatoribus foret contrarius, quia de illis verificaretur dictum sapientis; stultorum infinitus est numerus. Et hoc metricum de bello clavo: Tersites numerum auxit, non vires auxit Achivis. Intendant ergo clerici aliis artibus mechanicis, qui volunt hanc servare regulam Jesu Christi, sicut possunt licite secundum legem domini. Et hoc evidencius audeo affirmare, quod foret eis utilius, vel aliter minus malum, quia de numero talium scandalisancium [p. 95] dicit Christus, quod expedit ei ut suspendatur mola asinaria circa collum eius et demergatur in profundum maris; nec video quomodo clerus foret proporcionalis pro residuo ecclesie militantis, nisi ad modum vivendi Christi per prudentes ecclesie sit astrictus. Et hinc Christus parabolice docet suos milites, ut in diebus novissimis compellant intrare. Teneamus ergo legem domini et ipse cum hoc non potest eis defficere, quin doceat viam ad patriam, proporcionem [et] numerum parcium ecclesie et quidquid aliud est necessarium ad salutem. Et patet quod simulata contemplacio et indigna oracio officeret populo Christi. Videamus ergo si clerus qui vivit tam seculariter sit contemplacioni et oracioni deditus, vel servicio mamonis et alterius dyaboli ad alia crimina populum incitantis. Et hoc nedum se extendit ad clericos seculares sed ad nostros religiosos, tam possessionatos quam exproprietarios, cum omnibus aliis deest fundacio in ingressu pariter et progressu. Et patet, cum lex dei sit inculpabilis, quod eius observacio numerum cleri in debita proporcione constitueret, et brachium militare ex dei gracia in predicacione fideli paucorum sacerdotum in vita recta instrueret, et multas militum insolencias et tyrannides [nunc] regnantes destrueret, quia mirabile quod corpus ecclesie, evacuatis istis spongiositatibus ipsum infirmantibus, pristinam sanitatem non reciperet. Quotlibet enim membrum istius ecclesie foret tunc validius ad reliquum adiuvandum. Videamus ergo quomodo in tempore Christi ex ordinacione sua tacita milicia est adducta, cum nec fuit milicie nec vulgaribus onerosus, sed utramque illarum parcium secundum racionis exigenciam roboravit, cum Cesari dedit dydragma et vulgaribus graciam multiformem. domum autem aut redditus non lego Christum pro se aut suis discipulis habuisse, sed natus fuit pauper in diversorio et in orto extra Ierusalem mortuus et sepultus a militibus, tamen voluit gloriose sepeliri. [p. 96] Alie vero sunt raciones stultorum que militant contra caput proprium, ut in penthateuco legitur quod sacerdotes habuerunt civitates refugii et pascua pro suis bestiis nutriendis, quomodo ergo non haberent in lege gracie ampliora? Et idem confirmatur de sacerdotibus Machabeis qui in tempore suo fuerant plus incliti et plus regibus generosi. Ad istud dictum est diffuse alibi quod sacerdotes habuerunt pro tempore legis veteris possessiones moderatas, ut competebat suo statui. Quia absit fideli credere, quod deus ordinasset tantum numerum Levitarum pro occidendis bestiis et figuraliter ymolandis, nisi daret eis necessaria ad hoc opus. De quatuor autem civitatibus refugii non lego quod fuerunt seculares domini aut quod redditus de fugitivis receperant, licet ille civitates fuerant illis ad ministerialem custodiam deputate. Et, cum idem sit deus nunc qui tunc, patet quod [si] iam foret necessarium redire ad ymolacionem figuralem
 
-[ENGLISH]
+be contrary to reason?" Here it has been said quite often that, God being witness, unless the [evidence]{g:evidencia} of scripture, so far as we conceive, moved [us] directly in favour of that teaching, we would never labour so intently, incurring such indignation from many, and from greater men. For, so far as we conceive, in the whole body of scripture that fourfold [sect]{g:secta}, which so [lords it]{g:dominari} in secular [lordship]{g:dominium}, is not grounded, neither its life nor the rule which they so magnify; and if that should be taught, or if our teaching [should be shown] contrary to reason or to scripture, we are ready, as reason requires, humbly to revoke it.[^3] We should be mad indeed, and wholly possessed by demons, if, [while] we labour so wearied in the flesh in that teaching, we did not believe it to be catholic and meritorious, and to profit the whole [church militant]{g:ecclesia-militans} and the bastard slips growing in it, which the gospel calls [cockle]{g:zizania}.[^4] And we have often said that not all are sufficient to conceive this teaching or to argue against it, since only reason or scripture is fit for this. Therefore three kinds of men, so far as concerns their art, are fit to argue in this matter:[^5] first the decretists, who rest purely on the papal laws, because what they have said in this matter is of no force but is to be despised; for it is evident [that it holds only] so far as it accords with reason or scripture. The second kind of men speaking in this matter are the civil lawyers, because the imperial law is not accepted by the faithful in this matter except so far as it accords with reason. The third kind, of subtler men speaking in this matter, are the lawyers of the [kingdoms]{g:regnum}, who, although they quite often excel in reason, yet their speech has no force in this matter except so far as they [94] shoot with reason that accords with scripture. And whoever, being quick, has shot such an arrow, it is to be admitted with humility and reverence, because, as has often been [solemnly declared]{g:protestari}, if anyone, even the devil, faithfully alleges the faith of scripture for his teaching, I would humbly accept it as authority. And as to the argument made, it was said above, as I have learned from certain men, that as holy scripture is most true, so it is most compendious and most useful, and in a wonderful way, as it includes in itself the sciences of the trivium, those of language, namely grammar, logic, and rhetoric, so it includes the sciences of the quadrivium, those of reality, namely arithmetic, music, geometry, and astronomy, so far as knowledge of them helps toward acquiring blessedness.[^6] And so, with wonderful compendiousness, the author of scripture, in teaching how and on what the clerics ought to live, teaches sufficiently in what number and in what proportion they ought to stand toward the rest of the people. For if they did not have [revenues]{g:reditus}, or [had them only] for the office that belongs to Christ's clergy, they would not be in so great a number and so burdensome to the church as they are now.[^7] Therefore it is the church's sin that requires that they endow them and [enrich]{g:ditare} them against the Lord's law, so that it is burdened with so many froward men. Let the twofold part of the church therefore keep the law of Christ in the [endowment]{g:dotacio} of the clergy, and it will be in its measured number.[^8] And it is clear that the adversary of God's law has failed in this third argument, because, as a clergy sincerely following Christ in due proportion would profit the church, so a so-called clergy of the opposite condition, however monstrous it may be, would be contrary to [wayfarers]{g:viator}, since of them the saying of the wise man would be verified: "The number of fools is infinite."[^9] And this verse *de bello clavo*: "Thersites increased the number, not the strength, of the Achaeans."[^10] Let the clerics therefore who wish to keep this rule of Jesus Christ attend to other, mechanical arts, as they lawfully can according to the Lord's law. And this I dare affirm the more evidently, that it would be more useful to them, or otherwise less evil, because of the number of such as give scandal [95] Christ says that "it were better for him that a millstone should be hanged about his neck, and that he should be drowned in the depth of the sea"; nor do I see how the clergy would be proportionate to the rest of the church militant unless it is bound to Christ's manner of living by the prudent of the church.[^11] And hence Christ in a parable teaches his knights that in the last days they should compel [them] to come in.[^12] Let us therefore hold to the Lord's law, and with this he cannot fail them, but he will teach the way to the [homeland]{g:patria}, the proportion [and] number of the parts of the church, and whatever else is necessary for salvation.[^13] And it is clear that feigned contemplation and unworthy prayer would harm Christ's people. Let us see then whether the clergy that lives so secularly is given to contemplation and prayer, or to the [service]{g:servicium} of mammon and of another devil inciting the people to other crimes. And this extends not only to the secular clerics but to our [religious]{g:religiosi}, both [possessioners]{g:possessionati} and [propertyless]{g:exproprietarii}, since in them, as in all the others, foundation is lacking in their entry and in their progress alike.[^14] And it is clear, since God's law is blameless, that its observance would set the number of the clergy in due proportion, and by God's grace would instruct the military arm in right living through the faithful preaching of a few [priests]{g:sacerdos}, and would destroy many insolences and tyrannies of the knights [now] reigning;[^15] for it would be a marvel if the body of the church, once emptied of these spongy growths that weaken it, did not recover its former health. For any member you please of this church would then be stronger to help the rest. Let us see then how in Christ's time, by his tacit [ordinance]{g:ordinacio}, the knighthood was brought in, since he was burdensome neither to the knighthood nor to [the common people]{g:vulgares}, but strengthened both of those parts as reason required, since he gave Caesar the didrachma and the common people manifold grace.[^16] But I do not read that Christ had a house or revenues for himself or his disciples; rather he was born poor in an inn, and died outside Jerusalem and was buried in a garden, at the hands of soldiers; yet he willed to be buried gloriously.[^17] [96] But there are other arguments of fools which fight against their own head: as it is read in the Pentateuch that the priests had cities of refuge and pastures for feeding their beasts; how then should they not have more ample things under [the law of grace]{g:lex-gracie}?[^18] And the same is confirmed from the Maccabean priests, who in their time had been more renowned and more noble than kings. To this it has been said at length elsewhere that the priests, for the time of the old law, had moderate possessions, as befitted their state. For far be it from a believer to believe that God had ordained so great a number of Levites for killing beasts and sacrificing them figuratively, unless he gave them what was necessary for this work. And of the four cities of refuge I do not read that they were secular lords, or that they received revenues from the fugitives, although those cities had been assigned to them for a ministerial keeping.[^19] And, since God is the same now as then, it is clear that, [if] it were now necessary to return to the figurative sacrifice
 
-## ¶3 · 96.17–98.4
+## The answer continued; the four feigned responses · 96.17–98.4
 
 > [p. 96] huius modi bestiarum, deus ordinaret illis necessaria ad hoc opus. Sed Christus, qui est agnus dei, finiens has figuras, resurgens a mortuis iam non moritur, ideo racio fideles necessitat quod cessent media necessaria ad hoc opus. Fundent sacerdotes nostri, si poterint, quod debent modo intendere labori tali inportabili figurali, et tunc possunt de lege domini ad hoc opus necessaria vendicare. Et quantum ad Machabeos proporcionabiliter creditur, quod extincta regalia, secundum Ieremie vaticinium, sacerdotes illi a lege domini ex superbia declinarunt, et sic crevit eorum malicia quousque occiderant Christum. Et utinam papa cum satelitibus non faciat proporcionabile regibus terre; modo fertur enim quod subpeditavit Cesarem, et minatur multa media per que destrueret alios reges terre, ac si intenderet suscitare falsam promissionem dyaboli, quam promisit Christo se dare omnia regna mundi, si cadens ipsum adoraverit. Sed deus conservet secundum regulam ordinacionis sue ecclesie militanti hec pauca pro Christo dixerim, paratus (si oporteat) revocare facta, racione istud non esse [p. 97] katholicum declarante. Sed communiter ad istud obiectum quadruplicem sunt quatuor responsiones ficte a patre mendacii. Prima fingit, quod si hunc dimittis, non eris amicus Cesaris, quia tanta connexio est inter glebam et ius patronatus, quia ipsa perdita periit ius patronatus. Et per idem quocunque redditu in manum mortuam illud auferens perderet totum suum dominium. Sed ista signa falsa non exterrerent fideles a practica legis dei. Scimus quidem, quod ius est res spiritualis independens a terra, in tantum ergo quomodocunque illa terra destructa fuerit vel consumpta ius stabit penitus inconcussum. Ideo sicud ius papale propter talem contricionem non leditur, sic nec ius domini secularis. Caveat tamen ne expetat de illo patronatu lucrum temporale cum mixto titulo symonie, quia tale ius foret sibi in scandalum. Secunda responsio fingit quod quecunque allegata de lege veteri non concludunt, cum maior pars eorum et specialiter iam cessavit. Sed noscat istam responsionem, quomodo decalogus et lex de decimis fundatur in veteri testamento. Et Christus, summus legislator et optimus interpres eius possibilis, interpretatus est stricte, quod sacerdotes sui careant tali dominio. Tercia responsio fingit, quod deus intenderat ecclesiam suam tantum carere tali dominio in Iudea quia cognovit quod gens illa fuit indurati cordis. Sed hec falsa ficcio imponit ceteris apostolis delictum notabile ex negligencia qui morati fuerant extra ipsam. Quarta responsio fingit, quod deus voluit legem strictam pauperiem, sed ipso mortuo, sepulcrum suum, ut propheta cecinit, fuit gloriosum. Sed constat quod lex Christi non sic constringitur loco vel tempore, cum manebit perpetuo in bonis, per idem enim non possit fingere quod nulla lex dei vel hominum de observanciis humanis haberet notabilem periodum temporalem, ideo quod quatuor iste ficticie, [cum] carent racionis evidencia vel scripture, sunt cum suis similibus propter periculum [p. 98] heresis contempnende. Interpretacio enim falsa scripture est manifeste heretica. Hec pauca dixerim sub quodam epilogo, ut facilius a populo videantur et veritates eorum ut falsitates facilius cognoscantur.
 
-[ENGLISH]
+of beasts of this kind, God would ordain for them what was necessary for this work. But Christ, who is the Lamb of God, ending these figures, "rising again from the dead, dieth now no more"; therefore reason compels the faithful [to hold] that the means necessary for this work should cease.[^20] Let our priests ground, if they can, that they ought now to attend to such unbearable figurative labour, and then they may claim from the Lord's law what is necessary for this work. And as to the Maccabees, it is believed, in proportion, that once the kingship was extinguished, according to Jeremiah's prophecy, those priests turned aside from the Lord's law out of pride, and so their malice grew until they had killed Christ.[^21] And would that the [pope]{g:papa} with his satellites may not do the proportionate thing to the kings of the earth; for it is now reported that he has trodden the emperor underfoot, and he threatens many means by which he would destroy the other kings of the earth, as if he intended to revive the devil's false promise, by which he promised Christ to give him all the kingdoms of the world if, falling down, he would adore him.[^22] But may God preserve [it], according to the rule of his ordinance, for the church militant. These few things I would say for Christ, ready (if need be) to revoke what has been said, should reason declare it not to be [97] catholic.[^23] But commonly to this fourfold [objection]{g:objectum} there are four responses, feigned by the father of lies.[^24] The first feigns that "if thou release this man, thou wilt not be Caesar's friend,"[^25] because there is so great a connection between the [glebe]{g:gleba} and the [right]{g:ius} of patronage that, the glebe lost, the right of patronage perished. And by the same token anyone taking it away into [the dead hand]{g:manus-mortua}, with any revenue whatever, would lose his whole lordship.[^26] But these false signs would not frighten the faithful away from the practice of God's law. For we know indeed that a right is a spiritual thing, independent of the land, so much so that, however that land may have been destroyed or consumed, the right will stand wholly unshaken. Therefore, as the papal right is not harmed by such a crushing, so neither is the right of the secular lord.[^27] Let him beware, however, not to seek temporal gain from that patronage under a title mixed with [simony]{g:simonia}, because such a right would be to him a scandal. The second response feigns that whatever is alleged from the old law [infers]{g:concludere} nothing, since the greater part of it, and especially [so], has now ceased. But let [whoever gives] this response note how the decalogue and the law of [tithes]{g:decime} are grounded in the old testament.[^28] And Christ, the supreme lawgiver and its best possible interpreter, interpreted strictly that his priests should lack such lordship. The third response feigns that God had intended his church to lack such lordship only in Judea, because he knew that that nation was of hardened heart. But this false fiction imputes to the other apostles, who had stayed outside it, a notable offence of negligence. The fourth response feigns that God willed a strict law, poverty, but when he was dead his sepulchre, as the prophet sang, was glorious.[^29] But it is evident that [the law of Christ]{g:lex-christi} is not so constrained by place or time, since it will remain perpetually among the good; for by the same token could one not feign that no law of God or of men concerning human observances had any notable period of time?[^30] Therefore these four fictions, [since] they lack the evidence of reason or of scripture, are, with their like, to be despised because of the danger of [98] heresy. For a false interpretation of scripture is manifestly heretical. These few things I would say by way of a kind of epilogue, so that they may be more easily seen by the people, and their truths, as their falsehoods, more easily recognized.[^31]
 
-## ¶4 · 98.5–98.5
+## The close · 98.5–98.5
 
 > [p. 98] Finis dyalogi completur ut deus glorificetur, etc.
 
-[ENGLISH]
+The end of the dialogue is completed, that God may be glorified, etc.
 
 ## Pollard's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/dialogus/raw/leaves/ or archive.org/download/latinworks22wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 92.8: Ci») the
-- 92.9: mo/e cin heUch
-- 92.21: hladS0fetheeimhe
-- 92.22: nofplt^svicar nor chnsts. C. 27 b.
-- 92.31: Thirdargument
-- 92.33: The ciergy, instead of . ..... . . . . . , ,
-- 93.0: prayer and contemplation, must , 1 take to begging-
-- 93.4: Thejr ™meher and that of the knighth(jod (niore
-- 93.7: increase.
-- 93.11: Answer— I wouid not expose myself °
-- 93.12: *°J °JJJut^h
-- 93.13: i^petnie,<andUre
-- 93.14: JocXnetobe
-- 93.15: 15 chnrchand^eTCn
-- 93.16: reprobate-
-- 93.16: B1. 162 b. t0 the
-- 93.22: it can oniy be proved or dis- , .,, -II.., proved by reason or scripture.
-- 93.26: And by these the doctrines of canon, civii, and common lawyers,
-- 93.28: D. 80 a. must be tested-
-- 94.7: Scripture contains in itself all knowiedge (even of the sciences)
-- 94.9: tionful salva'
-- 94.13: Its rule as to the way clergy are to Hve invoives rule as to their number, which their great ^ ~i r revenues now make excessive.
-- 94.25: No number of mock priests can 1 . . _ . profit the D. 80 b.
-- 95.3: Disendowment is the only means of dulylimitingthe number of the ciergy.
-- 95.17: ^s-ertya"ce would ad->u.st thc numbers of the x A •
-- 95.19: cher|nignhdthoodrtn
-- 95.26: to which and to the people Christ inHisiifeshowed Himself favourable' since He gave tnbute to 0 ' x tr
-- 96.1: other faise ments — (i) the pnests of hdd the
-- 96.2: refuge
-- 96.3: ?heirPcattiee f°r
-- 96.4: beanprSs were
-- 96.5: thanekmgndld
-- 96.10: Answer— (i) the priests had chargeofthe cities of refuge, but not as lords.
-- 96.15: PHests have not the old sacrinces A 1 ' * to perform hence do not need so L -I J largeaprovision.^yj^g
-- 96.18: D. sod.
-- 96.23: (ii) As to the B1. 162 d. Maccabeans, ^ ..... , when the king-
-- 96.25: destroyed the priests degenerated from pride till at last they kiiied Christ as the pope and his * 1
-- 96.28: threateeninreto kdi earthiykmgs.
-- 97.1: Four funher objections —
-- 97.2: giebe
-- 97.2: 0)o^th^e ri§ht of Patro"age, and so the ° 7 n
-- 97.4: wouidrioseWer
-- 97.7: Answer— right i* thing spiritual a
-- 97.8: ^^J^ jj!at
-- 97.13: Oniy, patronage must not be used simoniacaliy.
-- 97.15: fu) TheOidLaw
-- 97.16: This isrefutedby the existence of Jii
-- 97.18: a"^c]b^5:hrist
-- 97.21: (m) The ruie of poverty only extended to Judea Ihen the A
-- 97.23: ^g^J6^ h°{
-- 97.24: not
-- 97.24: negUgenthi
-- 97.25: ^jj"^ syltem. O) Christ fuifilled the law of ° ^ G poverty, but oniy for His hfe— r r 1 * ° Christ's ^w is npt thus hmited °
-- 97.29: 20 b. and
+- 92.31: Third argument—
+- 92.33: The clergy, instead of prayer and contemplation, must take to begging.
+- 93.5: Their number would be less, and that of the knighthood (more given to insolence) increase.
+- 93.11: Answer—I would not expose myself to so much anger did not the evidence of scripture impel me, and did I not believe my doctrine to be profitable to the church and even to the reprobate.
+- 93.22: It can only be proved or disproved by reason or scripture.
+- 93.26: And by these the doctrines of canon, civil, and common lawyers, must be tested.
+- 94.7: Scripture contains in itself all knowledge (even of the sciences) helpful to salvation.
+- 94.13: Its rule as to the way clergy are to live involves a rule as to their number, which their great revenues now make excessive.
+- 94.25: No number of mock priests can profit the church.
+- 95.3: Disendowment is the only means of duly limiting the number of the clergy.
+- 95.17: Observance of Christ's law would adjust the numbers of the clergy and reform the knighthood,
+- 95.26: to which and to the people Christ in His life showed Himself favourable, since He gave tribute to Cæsar and many blessings to the people.
+- 96.1: Other false arguments—(i) the priests held the cities of refuge and pasture for their cattle. (ii) the Maccabean priests were more splendid than kings.
+- 96.10: Answer—(i) the priests had charge of the cities of refuge, but not as lords.
+- 96.15: Priests have not the old sacrifices to perform, hence do not need so large a provision.
+- 96.23: (ii) As to the Maccabeans, when the kingdom was destroyed the priests degenerated from pride till at last they killed Christ, as the pope and his satellites are threatening to kill earthly kings.
+- 97.1: Four further objections—(i) With the glebe would go the right of patronage, and so the secular power would lose.
+- 97.7: Answer—right is a thing spiritual and cannot be affected by what may happen to a piece of land.
+- 97.13: Only, patronage must not be used simoniacally.
+- 97.15: (ii) The Old Law is not binding—This is refuted by the existence of the Decalogue and of Tithes, and by Christ's teaching.
+- 97.21: (iii) The rule of poverty only extended to Judea—Then the Apostles who taught out of Judea were negligent in not founding the other system.
+- 97.26: (iv) Christ fulfilled the law of poverty, but only for His life—Christ's law is not thus limited by time and space.
 
 ## Notes
+
+[^1]: **T/C.** *Videntes quod auctoritatis legis dei expertes*: the clause has no verb; C, D read *sunt expertes*, which gives the sense translated ("seeing that they are devoid"). C, D also read *ludentes* for *videntes* (Pollard's apparatus, 92.31–32).
+
+[^2]: **T/C.** "The supreme part of the church" is the clergy, the first of the three parts. *Accendit* ("inflames"), with *contra legem domini* taken with it; B¹ reads *adaugeret*, "would increase", the sense of Pollard's side-note (93.5).
+
+[^3]: **C.** *Dominatur* is pejorative: "lords it". *Que si docta fuerit*: *que* most naturally resumes the grounding of the sect ("if that should be taught", i.e. shown from scripture); the whole sentence is the submission formula (*revocare*), a retraction offer, not defiance.
+
+[^4]: **S.** *Vitulamina*, the "bastard slips" of Wis. 4:3 (Douay–Rheims), identified with the cockle of Matt. 13:25. Pollard's side-note (93.11) glosses them as "the reprobate".
+
+[^5]: **T/C.** Printed *sunt ydonei*, "are fit", restricted by *quantum ad artem suam attinet*. Pollard's apparatus (93.25) queries *[non sunt?]*, "are not fit", which suits the three *quia* clauses better. We translate the print and flag it. *Constat enim de quanto*: literally "for it is evident to what extent"; the words [that it holds only] are supplied.
+
+[^6]: **G.** *Sciencias trivias et sermocinales ... quadrivias reales*: rendered to keep the pair of GLOSSARY's *philosophia sermocinalis / realis* (language / reality) visible.
+
+[^7]: **C.** *Vel ad officium quod pertinet clero Christi* is elliptical; the supplied words give the likelier sense (revenues limited to the office of Christ's clergy). Alternatively *vel* = "even": "if they had no revenues even for the office".
+
+[^8]: **C/T.** "The twofold part of the church" is the lay estates, knights and commons, over against the clergy. The subject of *erit* is left open in the print (the clergy, or the church); C, D read *mensurata*, making it the church: "it will be measured in its number".
+
+[^9]: **S.** Eccl. 1:15, Pollard's margin (LEDGER DEB-1). *Monstruosus*: monstrous in size, i.e. swollen in number.
+
+[^10]: **S/T.** The line (Thersites, the worthless Greek of *Iliad* 2) is not identified; nor is *de bello clavo*, clear on the plate (94.28), perhaps a title or a corruption of one (LEDGER DEB-2). B¹ reads *in* for *et* and *sersites* for *tersites*.
+
+[^11]: **S.** Matt. 18:6, Douay–Rheims; Wyclif has *circa collum*, "about the neck", for the Vulgate's *in collo*.
+
+[^12]: **S.** Luke 14:23 (*compelle intrare*), applied to the *milites* ("knights"), whom Christ's parable charges with compelling the clergy to his manner of living.
+
+[^13]: **T.** *[Et]* is Pollard's supplement. B¹ reads *quando* for *quin*.
+
+[^14]: **C.** *Cum omnibus aliis deest fundacio* is compressed: taken as "since in them, as in all the others, foundation is lacking"; alternatively "since, along with all the others, they lack foundation". The foundation meant is scripture's.
+
+[^15]: **T.** *[Nunc]* is Pollard's emendation; B¹, C, D all read *non*.
+
+[^16]: **C/S.** *Milicia est adducta*: "was brought in", i.e. drawn into Christ's order; the sense is uncertain. The didrachma: Matt. 17:23–26.
+
+[^17]: **C/S.** "In an inn": Luke 2:7 (*in diversorio*). *In orto*: the garden of John 19:41. *A militibus* is taken with *mortuus* (put to death by soldiers); the order allows "buried by soldiers". The glorious burial is Isa. 11:10, cited at 97.27. C, D invert *gloriose voluit*.
+
+[^18]: **S.** Num. 35:2–6: the Levites' cities with their suburbs for cattle, six of them cities of refuge. *Militant contra caput proprium*: arguments that fight against their own head, i.e. defeat themselves.
+
+[^19]: **S.** Wyclif says four cities of refuge; Num. 35:6 has six.
+
+[^20]: **S.** John 1:29; Rom. 6:9, Douay–Rheims (Wyclif *a mortuis*, the Vulgate *ex mortuis*).
+
+[^21]: **C/S.** *Proporcionabiliter*, "in proportion", i.e. by analogy; it prepares *faciat proporcionabile* below. Jeremiah's prophecy is not specified; perhaps Jer. 22:30, that none of Jechonias's seed would sit on David's throne.
+
+[^22]: **S.** Matt. 4:8–9. *Subpeditavit Cesarem*: the event reported is not identified.
+
+[^23]: **C.** The print runs *conservet ... ecclesie militanti hec pauca ... dixerim* together; we divide it into a prayer and the submission formula. *Revocare facta*: "revoke what has been said" (literally "things done/made"). *Racione ... declarante* is conditional: "should reason declare".
+
+[^24]: **T.** *Quadruplicem* agrees with nothing; C, D read *quadruplex*, agreeing with *obiectum*, which is translated. "The father of lies": John 8:44.
+
+[^25]: **S.** John 19:12; Wyclif *eris*, "wilt be", for the Vulgate's *es*, "art".
+
+[^26]: **C.** *Quocunque redditu ... illud auferens*: *illud* is taken as the glebe (or the right) carried into mortmain; *quocunque redditu* as "with any revenue whatever". The syntax is loose.
+
+[^27]: **G/C.** *Ius* here in the subjective sense, "right". *Contricionem*: the crushing (destruction) of the land, not contrition.
+
+[^28]: **C.** *Et specialiter* stands without a complement; [so] is supplied. *Noscat istam responsionem* has no expressed subject: "let [whoever gives] this response note".
+
+[^29]: **C/S.** *Legem strictam pauperiem*: *pauperiem* stands in apposition to *legem* ("a strict law, poverty"). "As the prophet sang": Isa. 11:10 (*et erit sepulchrum ejus gloriosum*, "and his sepulchre shall be glorious").
+
+[^30]: **C/T.** *Per idem enim non possit fingere* is read as a question ("could one not feign?"), which the argument needs. C, D add *antichristus* before *fingere*: "could not Antichrist feign".
+
+[^31]: **C.** *Veritates eorum ut falsitates*: taken as "their truths, as [also] their falsehoods"; *ut* may stand for *et*.
 
 ## Transcription notes
 
@@ -117,4 +143,6 @@ status: draft
   - 96: *∅* (page-opening slip: end of p.95 re-matched) [INS?]
   - 96: *ergo* [R3]
   - 96: *modi* (print: huius modi) [INS?]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference Eccl. i. 15. (94.27); reference ^d?f Tithes6 (97.17).
+- **Omitted per §3.5 / kept in the English** (margin matter): reference Eccl. i. 15. (94.27). The draft's "reference ^d?f Tithes6 (97.17)" is not a reference but part of the side-note at 97.15, restored there from the plate.
+- **MS folio marks omitted per §3.5:** D. 79 d. (92.32); B¹. 162 b. (93.16); D. 80 a. (93.28); C. 28 a. (93.31); D. 80 b. (94.26); B¹. 162 c. (95.6); C. 28 b. (95.11); D. 80 c. (95.25); D. 80 d. (96.18); C. 29 a. (96.20); B¹. 162 d. (96.23); D. 81 a. (97.11); C. 29 b. (97.29).
+- **Side-notes** corrected against the plates (leaves n0123–n0128), split notes joined; notes at 92.8–92.22 lie outside this range and were dropped.

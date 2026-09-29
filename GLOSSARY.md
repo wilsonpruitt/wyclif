@@ -39,7 +39,7 @@ otherwise.
 | fides formata / informis | formed faith / unformed faith | Faith formed by charity. Pilot. |
 | fides explicita / implicita | explicit faith / implicit faith | The scholastic pair (*Dial.* 28.16–17). Ruled 2026-09-28. |
 | articulus fidei | article of faith | Ruled 2026-09-28 (4 sites). |
-| infidelis | unbeliever | Pairs with *infidelitas*, unbelief. Ruled 2026-09-28 (10 sites). |
+| infidelis | unbeliever; with a dative, faithless (to) | Two senses by construction. Pairs with *infidelitas*, unbelief. Ruled 2026-09-28 (10 sites). |
 | apocrifa; apocrifus | apocrypha; apocryphal | Wyclif applies it to the saints' chronicles as well as to books outside the canon. Ruled 2026-09-28 (6 sites). |
 | sacerdotes vulgares | common priests | The adjective; kept apart from *vulgares*, "the common people". Ruled 2026-09-28 (2 sites). |
 | neophitus | novice | 1 Tim. 3:6. Ruled 2026-09-28. |
@@ -87,6 +87,16 @@ otherwise.
 | sacerdos / presbiter | priest / presbyter | ⚠ Kept distinct: Wyclif's argument on orders needs the difference visible. |
 | clerus; clericus | the clergy; cleric | |
 | clerus cesareus | the caesarean clergy | Wyclif's term for clergy in secular office. |
+| temporales domini | temporal lords | Kept apart from *mundani domini*, worldly lords. Ruled 2026-09-28 (coordinator, delegated) (22 sites). |
+| brachium seculare | the secular arm | Ruled 2026-09-28 (coordinator, delegated) (7 sites). |
+| milicia; milites | knighthood; knights | The second estate; Pollard's word. Ruled 2026-09-28 (coordinator, delegated). |
+| laboratores | labourers | The third estate. Ruled 2026-09-28 (coordinator, delegated). |
+| tercia pars ecclesie | the third part of the church | The commons (*Dial.* 85.15, 85.22). Ruled 2026-09-28 (coordinator, delegated). |
+| prepositi | superiors | Heads of houses; kept apart from *prelatus*. Ruled 2026-09-28 (coordinator, delegated). |
+| ius patronatus | right of patronage | Ruled 2026-09-28 (coordinator, delegated). |
+| prescripcio | prescription | The legal title by long use. Ruled 2026-09-28 (coordinator, delegated). |
+| sacramentalia | sacramentals | Ruled 2026-09-28 (coordinator, delegated). |
+| secularitas | worldliness | Kept apart from *secularis*, a secular. Ruled 2026-09-28 (coordinator, delegated). |
 | simonia | simony | Ruled 2026-09-28 (coordinator, delegated) (3 sites). |
 | beneficium ecclesiasticum | ecclesiastical benefice | Ruled 2026-09-28 (coordinator, delegated). |
 | patronus | patron | Of a benefice. Ruled 2026-09-28 (coordinator, delegated) (13 sites). |
@@ -137,6 +147,10 @@ otherwise.
 | ars obligacionis | the art of obligation | The disputation genre *de obligationibus*. Ruled 2026-09-28 (2 sites). |
 | assumptum | the assumption | The premiss taken for the argument. Ruled 2026-09-28 (3 sites). |
 | sentenciare | to pronounce | The verb of *sentencia*. Ruled 2026-09-28 (2 sites). |
+| predicamentum | category | The Aristotelian category; never "predicament" (*Dial.* 92.1: the standard member of a category). Ruled 2026-09-28 (coordinator, delegated). |
+| sequela | what follows | Ruled 2026-09-28 (coordinator, delegated). |
+| practizare | to put into practice | Ruled 2026-09-28 (coordinator, delegated) (4 sites). |
+| sophisticare (transitive) | to counterfeit | Kept apart from *sophisticari*, to play the sophist. Ruled 2026-09-28 (coordinator, delegated). |
 | respectus; respectivus | relation; relational | Ruled 2026-09-28 (coordinator, delegated). |
 | racio (against *substancia*) | aspect | This technical sense only; *racio* elsewhere by context. Ruled 2026-09-28 (coordinator, delegated). |
 | locus a simili | the topic from likeness | Wyclif's jibe *a simiali similitudine*: "from apish likeness". Ruled 2026-09-28 (coordinator, delegated) (6 sites). |
@@ -206,6 +220,10 @@ otherwise.
 | cohabitacio | joint dwelling | Ruled 2026-09-28 (coordinator, delegated). |
 | idiota | unlearned man | Not "idiot". Ruled 2026-09-28 (coordinator, delegated). |
 | deacceptus | disowned | Ruled 2026-09-28 (coordinator, delegated). |
+| monita | admonitions | Ruled 2026-09-28 (coordinator, delegated). |
+| indebitare se | to make oneself a debtor | Sense doubtful; C note (*Dial.* 85.15). Ruled 2026-09-28 (coordinator, delegated). |
+| discoli | froward | Douay–Rheims (1 Pet. 2:18). Ruled 2026-09-28 (coordinator, delegated). |
+| magisterium | rule; of teaching, the teaching office | Provisional; by context, C note (*Dial.* 83.15). Ruled 2026-09-28 (coordinator, delegated). |
 | subtiliare | to lighten | Provisional; the sense (lighten rents / refine) is doubtful; C note (*Dial.* 67.19, 68.11). Ruled 2026-09-28 (coordinator, delegated). |
 | infidelitas | heathenism, unbelief | "infidelity" (T. p. 362) |
 | sciolus | knowing, wise | "smatterer" (the classical sense). Neutral in Wyclif. Pilot (*Eccl.* 5.8) |
