@@ -365,5 +365,6 @@ side-notes · Notes · Transcription notes (plate readings, collation, the edito
 | 2026-09-28 | GLOSSARY: 9 terms added from *Dialogus* batch A, after a census (*ex fide* and *limitare* split by use) | Wilson |
 | 2026-09-28 | §6: the dikaiosune rule for two-sense words (CONTEXTUAL entries); first case *inconveniencia* | Wilson |
 | 2026-09-28 | GLOSSARY: 12 terms added from wave 2 after a census (*opinio*, *suffragia*, *canonizare*, *litere fraternitatum*, …) | Wilson |
+| 2026-09-28 | GLOSSARY: 13 terms added from wave 3 after a census (*infidelis*, *cautela*, *apocrifa*, *citra fidem*, …) | Wilson |
 | 2026-09-28 | §2: an unnumbered section takes a short Latin tag for `<cap>` (`wyc-dialogus-epil-a`), and parts of a split section a hyphenated letter | Opus (M3), mechanical |
 | 2026-09-28 | §3.3 refined in M2 against measurement: non-word attribution (OCR confusions, glue, singletons); R3a/R3b/R5a/R6a/DEL/INS/THIN/HEAD; §3.4 crop sheets + decisions file. Principle unchanged | Opus (M2) · **confirmed by Wilson 2026-09-28** |

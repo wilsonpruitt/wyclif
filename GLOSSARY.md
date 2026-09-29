@@ -37,8 +37,16 @@ otherwise.
 | mater nostra | our mother | Church as mother is the governing figure of *De ecclesia* I. |
 | symbolum | creed | *Utrumque simbolum* = both creeds, Apostles' and Nicene (T. p. 368). |
 | fides formata / informis | formed faith / unformed faith | Faith formed by charity. Pilot. |
+| fides explicita / implicita | explicit faith / implicit faith | The scholastic pair (*Dial.* 28.16–17). Ruled 2026-09-28. |
+| articulus fidei | article of faith | Ruled 2026-09-28 (4 sites). |
+| infidelis | unbeliever | Pairs with *infidelitas*, unbelief. Ruled 2026-09-28 (10 sites). |
+| apocrifa; apocrifus | apocrypha; apocryphal | Wyclif applies it to the saints' chronicles as well as to books outside the canon. Ruled 2026-09-28 (6 sites). |
+| sacerdotes vulgares | common priests | The adjective; kept apart from *vulgares*, "the common people". Ruled 2026-09-28 (2 sites). |
+| neophitus | novice | 1 Tim. 3:6. Ruled 2026-09-28. |
+| Christicole | worshippers of Christ | Ruled 2026-09-28. |
 | caritas | charity | ⛔ Never "love". *Amor* and *dilectio* → "love". The argument often turns on charity as the Holy Spirit (Lombard, *Sent.* I d.17). |
 | suffragia | suffrages | The prayers and good works shared out by the church or an order. Ruled 2026-09-28 (11 sites). |
+| suffragari | to aid by intercession | The verb of *suffragia*. Ruled 2026-09-28 (2 sites). |
 | litere fraternitatum | letters of fraternity | Friars' letters admitting a benefactor to the order's suffrages. Ruled 2026-09-28 (4 sites). |
 | canonizare | canonize | The same English whether pope or scripture canonizes (*Dial.* 20.31, 21.1). Ruled 2026-09-28 (6 sites). |
 
@@ -89,6 +97,7 @@ otherwise.
 | argumentum topicum | topical argument | Merely probable, not demonstrative. Ruled 2026-09-28 (4 sites). |
 | medium inductivum | a middle term that leads on | Ruled 2026-09-28 (*Dial.* 25.5). |
 | ars obligacionis | the art of obligation | The disputation genre *de obligationibus*. Ruled 2026-09-28 (2 sites). |
+| assumptum | the assumption | The premiss taken for the argument. Ruled 2026-09-28 (3 sites). |
 | quid nominis | what the name means | Not "the name" (T. p. 365). Pilot (*Eccl.* 5.11). |
 | differencia | difference (logical *differentia*) | Pilot (*Eccl.* 1.10). |
 | subiectum / passio | subject / attribute | *Passio* in the *Posterior Analytics* sense (a proper attribute), never "passion". Pilot. |
@@ -121,6 +130,7 @@ otherwise.
 | philosophia sermocinalis / realis | the philosophy of language / the philosophy of reality | T. pp. 364–5. |
 | liberum arbitrium | free choice | The scholastic term, not "free will" (*voluntas*). Ruled 2026-09-28 (*Dial.* 4.15). |
 | ex fide | as faith teaches; with a genitive, from the faith of [scripture] | "It is of faith", on scripture's authority. *Ex fide scripture / duplicis testamenti* → "from the faith of scripture / of the twofold testament". Ruled 2026-09-28 after a census (30 sites in the *Dialogus*). |
+| citra fidem | short of faith | The contrast with *ex fide*: held on evidence, not as faith teaches. Ruled 2026-09-28 (4 sites). |
 | sentencia | teaching | The position taught, incl. Falsehood's (*tua sentencia*, "your teaching"). Not "sentence". Ruled 2026-09-28 (51 sites in the *Dialogus*). |
 | evidencia | evidence | "Proof" only where it names a demonstration, with a note. Ruled 2026-09-28 (41 sites). |
 | repplicacio | rejoinder | A disputation term. Ruled 2026-09-28. |
@@ -135,6 +145,9 @@ otherwise.
 | sensibilis | perceptible | "sensible" (T. p. 362) |
 | insensibilis | imperceptible | Kept visibly paired with *sensibilis*. Ruled 2026-09-28 (3 sites). |
 | zizania | cockle | Douay–Rheims (Matt. 13:25). Ruled 2026-09-28. |
+| cautela | wile | Not "caution"; *cautela diaboli*, the devil's wile. Ruled 2026-09-28 (8 sites). |
+| apostema | abscess | A recurring medical figure. Ruled 2026-09-28 (3 sites). |
+| illabi | to flow into | Ruled 2026-09-28. |
 | infidelitas | heathenism, unbelief | "infidelity" (T. p. 362) |
 | sciolus | knowing, wise | "smatterer" (the classical sense). Neutral in Wyclif. Pilot (*Eccl.* 5.8) |
 | philocaptus | besotted | "philo-captive" (T. p. 363) |

@@ -39,12 +39,11 @@
   read the sources; statuses to `verified` / `untraced`).
 - Tag the 9 terms ruled 2026-09-28 in chunks 01–05 (rendered there untagged, before the ruling);
   "ex fide scripture" sites follow the genitive rule.
-- Tag the 12 wave-2 terms (ruled 2026-09-28) at first occurrence in chunks 10–13; *inconveniencia* C notes already in 11, 12.
+- Tag the 12 wave-2 terms and 13 wave-3 terms (ruled 2026-09-28) at first occurrence in chunks 10–17; *inconveniencia* C notes already in 11, 12.
 - Plate-check ch. 14 side-note 26.28 "Mend. objects" (kept from the OCR draft).
 
 - Four-class spot check across chunks; lint all; rewrite PLAN's cost table from the measured rate.
 
 ## Next
 
-Wave 3 done (≈88k/chunk). Awaiting Wilson: wave-3 glossary proposals (`_reports.md`), then go + model for
-wave 4 = chunks 18–21.
+Wave 4 (18–21) launched 2026-09-28 on Wilson's go. After it: log, commit, report cost, ask before wave 5 (22–25).
