@@ -59,7 +59,7 @@ otherwise.
 | dominium civile / naturale / evangelicum | civil / natural / evangelical lordship | |
 | regnum | kingdom | Every sense: the political state as well as the kingdom of God and scripture's kingdoms. Not "realm". Wilson, Ruled 2026-09-28 (27 sites). |
 | dominacio | exercise of lordship | Kept apart from *dominium*. Ruled 2026-09-28 (6 sites). |
-| ordinacio | ordinance | Ruled 2026-09-28 (22 sites). |
+| ordinacio; ordinancia | ordinance; of the sacrament, ordination | Two senses by referent (not CONTEXTUAL): the sacrament (*clericorum ordinacio*, *Dial.* 50.21) is "ordination"; everywhere else "ordinance". Ruled 2026-09-28 (22 sites). |
 | consuetudo | custom | Ruled 2026-09-28 (28 sites). |
 | autorizare | authorize | Ruled 2026-09-28 (6 sites). |
 | familia | household | A great man's retinue. Ruled 2026-09-28. |
@@ -81,6 +81,13 @@ otherwise.
 | sacerdos / presbiter | priest / presbyter | ⚠ Kept distinct: Wyclif's argument on orders needs the difference visible. |
 | clerus; clericus | the clergy; cleric | |
 | clerus cesareus | the caesarean clergy | Wyclif's term for clergy in secular office. |
+| prelatus / sacerdos cesarius | caesarean prelate / priest | Extends *clerus cesareus*. Ruled 2026-09-28 (22 sites, *cesar-*). |
+| papa | pope | Ruled 2026-09-28 (34 sites). |
+| indulgencie | indulgences | Ruled 2026-09-28 (7 sites). |
+| oratores | bedesmen | Those bound or paid to pray for a benefactor; Pollard's side-note word. Not "those who pray". Ruled 2026-09-28 (5 sites). |
+| pencio annua | yearly pension | Ruled 2026-09-28 (3 sites). |
+| commercium; commercari | trade; to trade | Ruled 2026-09-28 (21 sites). |
+| conducentes | those who hire them | Ruled 2026-09-28. |
 | episcopus; dominus episcopus | bishop; the lord bishop | *Dominis episcopis* → "the lord bishops". The courtesy is his, possibly barbed; don't sharpen it. Pilot. |
 | religio privata; secta | private religion; sect | His name for the religious orders. Keep "sect". |
 | religiosi | the religious | Members of the orders. Ruled 2026-09-28 (8 sites). |
@@ -110,6 +117,9 @@ otherwise.
 | ars obligacionis | the art of obligation | The disputation genre *de obligationibus*. Ruled 2026-09-28 (2 sites). |
 | assumptum | the assumption | The premiss taken for the argument. Ruled 2026-09-28 (3 sites). |
 | sentenciare | to pronounce | The verb of *sentencia*. Ruled 2026-09-28 (2 sites). |
+| fallacia | fallacy | Ruled 2026-09-28. |
+| sophisticari | to play the sophist | Ruled 2026-09-28 (6 sites). |
+| insinuativus | implied | Paired with *expressus*, express. Ruled 2026-09-28. |
 | occasionaliter | by occasion | Occasion, not cause. Ruled 2026-09-28. |
 | quid nominis | what the name means | Not "the name" (T. p. 365). Pilot (*Eccl.* 5.11). |
 | differencia | difference (logical *differentia*) | Pilot (*Eccl.* 1.10). |
@@ -162,8 +172,11 @@ otherwise.
 | apostema | abscess | A recurring medical figure. Ruled 2026-09-28 (3 sites). |
 | illabi | to flow into | Ruled 2026-09-28. |
 | sub divo | in the open air | The refrain of cap. 21. Ruled 2026-09-28 (10 sites). |
-| vecors; vecorditer | faint-hearted; faint-heartedly | The medieval sense, not classical "senseless". Ruled 2026-09-28 (5 sites). |
+| vecors; vecorditer; vecordia | faint-hearted; faint-heartedly; faint-heartedness | The medieval sense, not classical "senseless". Ruled 2026-09-28 (5 sites). |
 | affectare | to desire | Kept apart from *affeccio*, affection. Ruled 2026-09-28 (3 sites). |
+| ingratus | displeasing (to God) | *Ingratus deo*: unpleasing to God. "Ungrateful" only where a person is ungrateful to someone. Ruled 2026-09-28 (5 sites). |
+| perplexus | perplexed | The moral-theology sense: bound to sin whichever way one turns. Ruled 2026-09-28. |
+| cataracta | trapdoor | "Floodgate" in a C note where the Genesis image is live. Ruled 2026-09-28. |
 | infidelitas | heathenism, unbelief | "infidelity" (T. p. 362) |
 | sciolus | knowing, wise | "smatterer" (the classical sense). Neutral in Wyclif. Pilot (*Eccl.* 5.8) |
 | philocaptus | besotted | "philo-captive" (T. p. 363) |

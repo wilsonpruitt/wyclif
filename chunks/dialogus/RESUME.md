@@ -14,6 +14,10 @@
 - Priced by **pace**, not a token cap: record tokens and minutes per chunk below.
 - **Register rulings go to Wilson as they arise, before they spread** (the Sermones lesson), with a
   census of the term's sites.
+- **From wave 6 (Wilson, 2026-09-28): the coordinator rules glossary proposals itself** (census + dikaiosune
+  rule; referent split vs CONTEXTUAL), commits the rows before the next wave, and reports them after the
+  wave for overturn. Only a genuinely doubtful register question still goes to Wilson first. Token
+  go-aheads per wave are unchanged.
 
 ## Status
 
@@ -55,5 +59,4 @@
 
 ## Next
 
-Wave 5 done (≈100k/chunk; longer chapters). Awaiting Wilson: *ordinacio*, *oratores*, *ingratus* + routine
-wave-5 glossary, then go + model for wave 6 = chunks 26–29.
+Wave 6: chunks 26–29 (≈100k/chunk). Ask Wilson for the go + model.
