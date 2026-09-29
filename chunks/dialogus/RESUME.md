@@ -76,9 +76,8 @@
 
 ## Next
 
-**Translation complete: 38/38 chunks `translated` (2026-09-28).** Next is the close-out gate above (ledger merge +
-verification pass, glossary tagging of rulings in 01–38, majority-error sweep, four-class spot check, lint all, PLAN
-cost table). Ask Wilson before starting it: it is its own token run.
-Estimate 400–700k (mostly the ledger verification: fetch and read sources). Suggested split: glossary tagging
-and lint are mechanical (Sonnet); ledger verification, the majority-error sweep's plate checks and the spot
-check want Opus. Wilson chose (2026-09-29) to run close-out in a fresh session.
+**M3 CLOSED OUT 2026-09-29** (all commits local, not pushed). Done: ledger merged + verified, glossary tagging,
+majority-error sweep + Latin doubts on the plates, targeted four-class review (02, 04, 31, epil-a), *sed*/*autem*
+check of the other 34 chunks (`_connectives/RESULTS.md`), PLAN cost table rewritten (measured ~49k/page).
+⬜ Wilson's rulings: `RULINGS-PENDING.md` (glossary mismatches, 6 Latin calls, review §C note items) and the 6 doubtful
+connectives in `_connectives/RESULTS.md`. Then M4 (site v0) — and re-cost M5 against the measured rate first.
