@@ -195,9 +195,11 @@ def build():
     files = sorted((f for f in os.listdir(CHUNKS) if re.match(r'wyc-dialogus-[\w-]+\.md$', f)), key=order_key)
     if len(files) != 38:
         sys.exit(f'expected 38 chunks, found {len(files)}')
-    if os.path.exists(OUT):
-        shutil.rmtree(OUT)
-    os.makedirs(OUT)
+    os.makedirs(OUT, exist_ok=True)
+    for name in os.listdir(OUT):                                    # clear the output, keep the Vercel link
+        if name != '.vercel':
+            p = os.path.join(OUT, name)
+            shutil.rmtree(p) if os.path.isdir(p) else os.remove(p)
     chunks, speaker, page_to = [], None, {}
     for f in files:
         fm, title, sections, sidenotes, notes, trans = parse(os.path.join(CHUNKS, f))
