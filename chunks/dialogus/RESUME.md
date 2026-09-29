@@ -60,20 +60,19 @@
 
 ## Owed at work close (the gate)
 
-- Merge `_batch-A.md` + `_reports.md` ledger rows into LEDGER.md; ledger-verification pass (fetch and
-  read the sources; statuses to `verified` / `untraced`).
+- ✅ (2026-09-29) Ledger merged (64 rows) and verified in 3 Opus batches (`_verify/batch1–3.md`): Dialogus rows now 49 verified · 11 editor · 6 untraced (notes hedge); 15 notes corrected, incl. sigla B/B¹ reversed in ch. 1 and a wrong 1381 dating in ch. 26.
 - ✅ (2026-09-29, ~225 tags, 01–38) Tag the 9 terms ruled 2026-09-28 in chunks 01–05 (rendered there untagged, before the ruling);
   "ex fide scripture" sites follow the genitive rule.
 - ✅ Tag the wave-2/3/4 terms (ruled 2026-09-28) at first occurrence in chunks 10–21; *inconveniencia* C notes already in 11, 12.
 - ✅ Ch. 18 Isa. 1:23: DR wording supplied (2026-09-29). Cause: bible.py read "Isa"/"Isaiah" as I Samuel; regex fixed. ⚠ Other Isaiah DR quotations in 01–38 may carry 1 Samuel wording: spot-check.
 - ✅ Ch. 14 side-note 26.28 plate-checked: "*Mend.* objects:" (2026-09-29).
 
-- ⚠ Majority-error sweep: 74.22 *Chnstus* passed by majority (4 of 6 witnesses share the OCR confusion). Run a
+- ✅ (2026-09-29) Majority-error sweep done (`_sweep/RESULTS.md`): ⚠ `agreed.txt` itself contains *chnstus*, so the sweep used Hunspell only; 514 non-words → 37 candidates → 1 fix (29.26 *[vi]dentur*). Original item: 74.22 *Chnstus* passed by majority (4 of 6 witnesses share the OCR confusion). Run a
   non-word check of the established text against the lexicon (every word not in `catalog/lexicon/agreed.txt`
   and not a proper name), plate-check the survivors.
-- Merge the 12 unresolved Latin doubts in `_reports.md` (waves 5–8) into the transcription notes review.
+- ✅ (2026-09-29) Plate-read: 22 closed; ⬜ Wilson rules LD-02, 07, 09, 11, 17, 19 (see `_sweep/RESULTS.md`); LD-20 source-open. Original item: Merge the 12 unresolved Latin doubts in `_reports.md` (waves 5–8) into the transcription notes review.
   → Collected, unresolved, in `chunks/dialogus/LATIN-DOUBTS.md` (20 open rows + 8 lower-priority variants); plate-check each, then merge.
-- Four-class spot check across chunks; lint all; rewrite PLAN's cost table from the measured rate.
+- ⬜ Four-class check — costed EXHAUSTIVE (all 38 chunks, ~1.8–2.2M Opus), awaiting Wilson's go. Then: lint all (clean as of 2026-09-29); ⬜ ten glossary mismatches from the tagging pass await Wilson (list in session report). Original item: Four-class spot check across chunks; lint all; rewrite PLAN's cost table from the measured rate.
 
 ## Next
 
