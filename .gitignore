@@ -8,3 +8,4 @@ text/*/crops/
 text/*/raw/
 text/*/witnesses/
 __pycache__/
+.env

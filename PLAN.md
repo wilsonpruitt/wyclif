@@ -120,6 +120,26 @@ estimate below. Why it is higher:
   a further ~50%), est. ~20–25k/chunk, checks moved to the existing verification passes. ▶ Pilot (3) vs (1)
   on 2–3 De ecclesia chunks before M5 and re-cost from the result.
 - ⚠ Agent token counts as reported may include cheap cached reads; the billed cost may be below the figure.
+
+**PILOT RESULT (2026-09-29, `scripts/pilot/translate_api.py`, `chunks/dialogus/_pilot/`).** Option (3) run on
+Dialogus ch. 2, 14, 30 (~10 Society pages; the same untranslated scaffolds the agents had, plus the corrected
+side-notes and the page-foot apparatus extracted from the djvu layout with `djvu.py`). Opus 5.5, effort high,
+card+glossary cached (15.3k prefix, read at 0.05× after the first call):
+
+| ch. | agent method (tokens) | one API call (tokens) | billed |
+|---|---|---|---|
+| 2 | ~93k (47k batched) | 36.6k | $0.44 |
+| 14 | 87k | 43.4k | $0.51 |
+| 30 | 141k | 86.0k | $1.28 |
+
+≈ **16.6k tokens and $0.22 per Society page** for translation, against ~36k/page by agents; 63% of it is output
+(the model's reasoning at effort high). **Quality, blind A/B review against the reviewed chunks: the API version
+was equal or better in all three** (errors 0 vs 0; weak points 2 vs 13; its lead grows with the Latin's
+difficulty). Caveats: it had today's refined card and glossary, which the original translators did not; three
+chunks only; the Latin was already established (a dirtier text will raise more Latin doubts).
+**Projection for Tier 1 (~4,400 pp.):** translation ≈ 73M tokens ≈ $1,000; the Batch API halves that (~$500).
+Verification passes are extra and could be scripted the same way. ▶ **Adopt for M5**; first measure effort `medium`
+(output is the bill) on the same three chunks against this baseline, and run M5 volumes through the Batch API.
 - The notes are a large share of the output (source identifications, variants, construal), and the ledger
   then has to be verified by reading sources (~9k per row).
 - The *Dialogus* witnesses are clean; *De ecclesia* and *Off. reg.* send 2× the plate items per 1,000 words.

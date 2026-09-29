@@ -1,0 +1,3 @@
+{"chunk": "02", "model": "claude-opus-5-5", "effort": "high", "seconds": 157, "input": 3734, "cache_write": 15336, "cache_read": 0, "output": 17577, "stop": "end_turn", "dollars": 0.443, "total_tokens": 36647}
+{"chunk": "14", "model": "claude-opus-5-5", "effort": "high", "seconds": 216, "input": 3412, "cache_write": 0, "cache_read": 15336, "output": 24690, "stop": "end_turn", "dollars": 0.511, "total_tokens": 43438}
+{"chunk": "30", "model": "claude-opus-5-5", "effort": "high", "seconds": 536, "input": 8469, "cache_write": 0, "cache_read": 15336, "output": 62200, "stop": "end_turn", "dollars": 1.281, "total_tokens": 86005}
