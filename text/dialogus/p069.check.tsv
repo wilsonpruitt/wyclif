@@ -5,7 +5,7 @@ pos	rule	forms	support	voters	resolution
 100	R2	latinworks22wycl=elemosinantibus | 11663460bsb=elemosinantibus | dialogussivespec00wycl=elemosinantibus | fordham=elemosinantibus | iohanniswycliff00wyclgoog=elemosinandbusbinkgiuei | iohanniswycliffe05wycl=elemosmantibus		6	accept
 110	R2	latinworks22wycl=et | 11663460bsb=∅ | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=et | iohanniswycliffe05wycl=et		6	accept
 114	R3a	latinworks22wycl=mores | 11663460bsb=domini | dialogussivespec00wycl=maiores | fordham=maiores | iohanniswycliff00wyclgoog=maiores | iohanniswycliffe05wycl=maiores		6	accept
-115	R3a	latinworks22wycl=isdomini | 11663460bsb=∅ | dialogussivespec00wycl=iedomini | fordham=domini | iohanniswycliff00wyclgoog=isdomini | iohanniswycliffe05wycl=iidomini		6	accept
+115	PLATE	latinworks22wycl=isdomini | 11663460bsb=∅ | dialogussivespec00wycl=iedomini | fordham=domini | iohanniswycliff00wyclgoog=isdomini | iohanniswycliffe05wycl=iidomini		6	accept
 126	R2	latinworks22wycl=perpetuacio | 11663460bsb=perpetuacio | dialogussivespec00wycl=perpetuacio | fordham=perpetuacio | iohanniswycliff00wyclgoog=perpeluacio | iohanniswycliffe05wycl=perpeluacio		6	accept
 149	HEAD	^CAPITULUM			plate: CAPITULUM 31°.
 178	R2	latinworks22wycl=clerus | 11663460bsb=clerus | dialogussivespec00wycl=clerus | fordham=clerus | iohanniswycliff00wyclgoog=clenis | iohanniswycliffe05wycl=clerus		6	accept

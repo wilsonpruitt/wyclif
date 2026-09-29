@@ -48,6 +48,10 @@
 | 27 | translated (wave 6) | 14 | 98k | 2.8 |
 | 28 | translated (wave 6) | 10 | 97k | 2.4 |
 | 29 | translated (wave 6) | 12 | 108k | 2.9 |
+| 30 | translated (wave 7) | 24 | 141k | 5.5 |
+| 31 | translated (wave 7) | 19 | 118k | 4.7 |
+| 32 | translated (wave 7) | 19 | 124k | 4.8 |
+| 33 | translated (wave 7) | 10 | 99k | 3.0 |
 
 ## Owed at work close (the gate)
 
@@ -63,4 +67,5 @@
 
 ## Next
 
-Wave 6 done (≈101k/chunk). Glossary ruled (delegated) and reported. Ask Wilson go + model for wave 7 = chunks 30–33.
+Wave 7 done (≈120k/chunk; long chapters). Final wave 8 = 34, 35, 36, epil-a, epil-b (5 agents). Ask Wilson go + model;
+size the chunks first (word counts) for the estimate.

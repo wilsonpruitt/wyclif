@@ -87,6 +87,15 @@ otherwise.
 | sacerdos / presbiter | priest / presbyter | ⚠ Kept distinct: Wyclif's argument on orders needs the difference visible. |
 | clerus; clericus | the clergy; cleric | |
 | clerus cesareus | the caesarean clergy | Wyclif's term for clergy in secular office. |
+| simonia | simony | Ruled 2026-09-28 (coordinator, delegated) (3 sites). |
+| beneficium ecclesiasticum | ecclesiastical benefice | Ruled 2026-09-28 (coordinator, delegated). |
+| patronus | patron | Of a benefice. Ruled 2026-09-28 (coordinator, delegated) (13 sites). |
+| procurator; procuratrix | proctor | Pollard's word. Ruled 2026-09-28 (coordinator, delegated). |
+| gleba | glebe | Ruled 2026-09-28 (coordinator, delegated) (12 sites). |
+| mortificacio | amortization | Land put into mortmain; with *manus mortua*. Ruled 2026-09-28 (coordinator, delegated) (2 sites). |
+| legalitas | legal standing | Ruled 2026-09-28 (coordinator, delegated). |
+| castra caynitica | Caim's castles | The friars' houses; the Wycliffite English name (CAIM = the four mendicant orders' initials). Ruled 2026-09-28 (coordinator, delegated). |
+| commutacio; commutare | exchange; to exchange | The argument on true and false trade turns on it (*Dial.* cap. 33). Ruled 2026-09-28 (coordinator, delegated) (8 sites). |
 | secularis (noun) | a secular | English keeps Latin's range (secular cleric or layman); a C note where the referent matters. Ruled 2026-09-28 (coordinator, delegated) (80 sites, *secular-*). |
 | censura | censure | Ruled 2026-09-28 (coordinator, delegated) (4 sites). |
 | citare; citacio | to cite; citation | Summons to a church court. Ruled 2026-09-28 (coordinator, delegated) (12 sites). |
@@ -128,6 +137,10 @@ otherwise.
 | ars obligacionis | the art of obligation | The disputation genre *de obligationibus*. Ruled 2026-09-28 (2 sites). |
 | assumptum | the assumption | The premiss taken for the argument. Ruled 2026-09-28 (3 sites). |
 | sentenciare | to pronounce | The verb of *sentencia*. Ruled 2026-09-28 (2 sites). |
+| respectus; respectivus | relation; relational | Ruled 2026-09-28 (coordinator, delegated). |
+| racio (against *substancia*) | aspect | This technical sense only; *racio* elsewhere by context. Ruled 2026-09-28 (coordinator, delegated). |
+| locus a simili | the topic from likeness | Wyclif's jibe *a simiali similitudine*: "from apish likeness". Ruled 2026-09-28 (coordinator, delegated) (6 sites). |
+| sinderisis | synderesis | Ruled 2026-09-28 (coordinator, delegated). |
 | fallacia | fallacy | Ruled 2026-09-28. |
 | sophisticari | to play the sophist | Ruled 2026-09-28 (6 sites). |
 | insinuativus | implied | Paired with *expressus*, express. Ruled 2026-09-28. |
@@ -147,10 +160,10 @@ otherwise.
 | sequitur | it follows | Introduces a stated inference, often quoted in the next words. Pilot (*Eccl.* 2.21). |
 | propositio copulativa / disiunctiva | conjunction / disjunction | Not "copulative proposition" (T. p. 365). |
 | claudit contradictionem / contradictorium | it implies a contradiction | Stronger than "is against reason". Keep the escalation visible. Pilot (*Eccl.* 5.4). |
-| instancia | objection | ⛔ Not "instance" (T. p. 373). |
+| instancia; objectum | objection | ⛔ Not "instance" (T. p. 373). |
 | tollere (instanciam, argumentum) | to dispose of, demolish | T. p. 373. |
 | redarguere | to refute | T. p. 365. |
-| proponere | to propose | |
+| proponere | to propose | Against *postponere* (put after), "put forward" may keep the pair visible, with a note (*Dial.* 74.25–26). |
 | concludere | to infer | "Conclude" only when a conclusion is literally drawn (T. p. 365). |
 | descripcio | definition | Not "description" (T. p. 363). |
 | glosare | to gloss | Interpret so as to remove the difficulty (T. p. 366). |
@@ -167,7 +180,7 @@ otherwise.
 | citra fidem | short of faith | The contrast with *ex fide*: held on evidence, not as faith teaches. Ruled 2026-09-28 (4 sites). |
 | sentencia | teaching | The position taught, incl. Falsehood's (*tua sentencia*, "your teaching"). Not "sentence". Ruled 2026-09-28 (51 sites in the *Dialogus*). |
 | evidencia | evidence | "Proof" only where it names a demonstration, with a note. Ruled 2026-09-28 (41 sites). |
-| repplicacio; repplicare | rejoinder; to rejoin | A disputation term. Ruled 2026-09-28. |
+| repplicacio; repplicare | rejoinder; to rejoin · of a grant, renewal | Two senses by referent: the disputation move / the re-grant of a charter or privilege (*Dial.* 70.24). | A disputation term. Ruled 2026-09-28. |
 | concessio | grant | Of property or privilege. Ruled 2026-09-28 (5 sites). |
 | exproprietarii | the propertyless | The friars who profess to own nothing. Ruled 2026-09-28 (6 sites). |
 | reditus | revenue(s) | Ruled 2026-09-28 (23 sites). |
@@ -192,6 +205,8 @@ otherwise.
 | solvere (oaths, charters) | to dissolve | Not "pay" in this use. Ruled 2026-09-28 (coordinator, delegated). |
 | cohabitacio | joint dwelling | Ruled 2026-09-28 (coordinator, delegated). |
 | idiota | unlearned man | Not "idiot". Ruled 2026-09-28 (coordinator, delegated). |
+| deacceptus | disowned | Ruled 2026-09-28 (coordinator, delegated). |
+| subtiliare | to lighten | Provisional; the sense (lighten rents / refine) is doubtful; C note (*Dial.* 67.19, 68.11). Ruled 2026-09-28 (coordinator, delegated). |
 | infidelitas | heathenism, unbelief | "infidelity" (T. p. 362) |
 | sciolus | knowing, wise | "smatterer" (the classical sense). Neutral in Wyclif. Pilot (*Eccl.* 5.8) |
 | philocaptus | besotted | "philo-captive" (T. p. 363) |

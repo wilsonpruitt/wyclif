@@ -15,7 +15,8 @@ pos	rule	forms	support	voters	resolution
 98	R3a	latinworks22wycl=ui | 11663460bsb=ui | dialogussivespec00wycl=ui | fordham=uio | iohanniswycliff00wyclgoog=ui | iohanniswycliffe05wycl=ui		6	accept
 100	R2	latinworks22wycl=stephanus | 11663460bsb=stephanus | dialogussivespec00wycl=stephaofalmstothe | fordham=stephanus | iohanniswycliffe05wycl=stephaofiis		5	accept
 101	INS?	nus	2	6	plate: ∅
-114	R3a	latinworks22wycl=su | dialogussivespec00wycl=sus | fordham=su | iohanniswycliff00wyclgoog=suy | iohanniswycliffe05wycl=su		5	accept
+114	PLATE	latinworks22wycl=su | dialogussivespec00wycl=sus | fordham=su | iohanniswycliff00wyclgoog=suy | iohanniswycliffe05wycl=su		5	accept
+115	PLATE	latinworks22wycl=periores | dialogussivespec00wycl=periores | fordham=periores | iohanniswycliff00wyclgoog=isperiores | iohanniswycliffe05wycl=periores		5	accept
 125	R2	latinworks22wycl=infinitum | 11663460bsb=infinitum | dialogussivespec00wycl=infinitum | fordham=infinitum | iohanniswycliff00wyclgoog=infinilum | iohanniswycliffe05wycl=infinilum		6	accept
 128	R2	latinworks22wycl=ewangelii | 11663460bsb=ewan2ins | dialogussivespec00wycl=ewan | fordham=ewangelii | iohanniswycliff00wyclgoog=ewaniilf | iohanniswycliffe05wycl=ewangelii		6	accept
 129	INS?	gelii	2	6	plate: ∅

@@ -153,7 +153,7 @@ page	pos	rule	forms	reading	note
 71	229	R3	latinworks22wycl=i | 11663460bsb=3 | dialogussivespec00wycl=3a | fordham=3a | iohanniswycliff00wyclgoog=3 | iohanniswycliffe05wycl=∅	3ª	
 72	201	R3	latinworks22wycl=chnsti | 11663460bsb=christi | dialogussivespec00wycl=chnsti | fordham=christi | iohanniswycliff00wyclgoog=chnsti | iohanniswycliffe05wycl=christi	Christi	
 72	205	R3	latinworks22wycl=uentatis | 11663460bsb=ueritatis | dialogussivespec00wycl=uentatis | fordham=ueritatis | iohanniswycliff00wyclgoog=ueritatis | iohanniswycliffe05wycl=uentatis	veritatis	
-72	236	R4	latinworks22wycl=antiof | 11663460bsb=antichristi | dialogussivespec00wycl=antiof | fordham=antichristi | iohanniswycliff00wyclgoog=antiidco	antichristi	anti-|christi
+72	236	R4	latinworks22wycl=antiof | 11663460bsb=antichristi | dialogussivespec00wycl=antiof | fordham=antichristi | iohanniswycliff00wyclgoog=antiidco	antichristi.	anti-|christi; full stop on plate n0103 (ch. 31)
 72	237	DEL	latinworks22wycl=christi | 11663460bsb=∅ | dialogussivespec00wycl=christi | fordham=∅ | iohanniswycliff00wyclgoog=∅	∅	tail of anti-|christi; joined at 236
 73	198	HEAD	^CAPITULUM	CAPITULUM 32°.	editor footnote 1 on heading
 74	45	R4	latinworks22wycl=pnuata | 11663460bsb=priuata | dialogussivespec00wycl=pnuata | fordham=priuata | iohanniswycliff00wyclgoog=pnuata | iohanniswycliffe05wycl=pnuata	privata	
@@ -258,3 +258,11 @@ page	pos	rule	forms	reading	note
 44	94	OVERRIDE	latinworks22wycl=laciam | 11663460bsb=∅ | dialogussivespec00wycl=laciam | fordham=∅ | iohanniswycliff00wyclgoog=laciam | iohanniswycliffe05wycl=laciam	∅	plate n0075: fal-|laciam, second half doubled; ch. 22 note 5
 49	28	OVERRIDE	latinworks22wycl=penaexindeeueniat | 11663460bsb=penaexindeeueniat | dialogussivespec00wycl=penaexindeeueniat | fordham=penaexindeeueniat | iohanniswycliff00wyclgoog=penaexindeeueniat | iohanniswycliffe05wycl=penaexindeeueniat	pena exinde eveniat	plate n0080: three words, glued in every witness; ch. 24
 52	209	OVERRIDE	latinworks22wycl=iinor | 11663460bsb=m | dialogussivespec00wycl=iinor | fordham=iiiior | iohanniswycliff00wyclgoog=iiiior | iohanniswycliffe05wycl=iiup	4or	plate n0083: IIIIor; ch. 25 T note
+64	195	OVERRIDE	latinworks22wycl=elemosmam | 11663460bsb=elemosinam | dialogussivespec00wycl=elemosmam | fordham=elemosinam | iohanniswycliff00wyclgoog=elemosmam | iohanniswycliffe05wycl=elemosmam	elemosinam	plate n0095; ch. 30 n5
+65	274	OVERRIDE	latinworks22wycl=fecerunt | 11663460bsb=fecerunt | dialogussivespec00wycl=fecerunt | fordham=fecerunt | iohanniswycliff00wyclgoog=fecerunt | iohanniswycliffe05wycl=fecerunt	fecerunt. Si	plate n0096: Si at line end, dropped at the page turn; ch. 30 n10
+67	114	OVERRIDE	latinworks22wycl=su | dialogussivespec00wycl=sus | fordham=su | iohanniswycliff00wyclgoog=suy | iohanniswycliffe05wycl=su	∅	plate n0098: su-|periores, one word; ch. 30 n17
+67	115	OVERRIDE	latinworks22wycl=periores | dialogussivespec00wycl=periores | fordham=periores | iohanniswycliff00wyclgoog=isperiores | iohanniswycliffe05wycl=periores	superiores	plate n0098; ch. 30 n17
+69	115	OVERRIDE	latinworks22wycl=isdomini | 11663460bsb=∅ | dialogussivespec00wycl=iedomini | fordham=domini | iohanniswycliff00wyclgoog=isdomini | iohanniswycliffe05wycl=iidomini	domini	plate n0100: maiores | domini, no is; ch. 30 n24
+74	15	OVERRIDE	latinworks22wycl=perecte | 11663460bsb=per | dialogussivespec00wycl=perecte | fordham=perfecte | iohanniswycliff00wyclgoog=per | iohanniswycliffe05wycl=per	perfecte	plate n0105; ch. 32
+74	173	OVERRIDE	latinworks22wycl=chnstus | 11663460bsb=christus | dialogussivespec00wycl=chnstus | fordham=christus | iohanniswycliff00wyclgoog=chnstus | iohanniswycliffe05wycl=chnstus	Christus	plate n0105: Christus; ch. 32
+78	54	OVERRIDE	latinworks22wycl=seruato | 11663460bsb=seruato | dialogussivespec00wycl=seruato | fordham=seruato | iohanniswycliff00wyclgoog=seruato | iohanniswycliffe05wycl=seruato	Et servato	plate n0109: Et dropped; ch. 32

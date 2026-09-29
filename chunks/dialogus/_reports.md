@@ -159,3 +159,37 @@ Unidentified (ch. 27): the Jeremiah allusion at 57.30; *dictum est diffuse alibi
 
 ### Cost
 26: 102k / 3.0 min · 27: 98k / 2.8 · 28: 97k / 2.4 · 29: 108k / 2.9 (722 words, longest). Wave total ≈ 405k.
+
+## Wave 7 (30–33), 2026-09-28 — glossary ruled by coordinator (delegated)
+
+### Ledger rows
+| id | chunk / note | claim | status | how / next step |
+|---|---|---|---|---|
+| D30-1 | 30 / n6 | *castra caynitica* = "Caim's castles", CAIM the initials of the four mendicant orders | to-verify | Wyclif's English works |
+| D30-2 | 30 / n20 | an English king seized a bishop's goods for keeping royal office instead of residing | to-verify | unidentified: Edward III vs Wykeham (1376) or Stratford (1340–1) |
+| D30-3 | 30 / n22 | John XXII, *Cum inter nonnullos* (1323), against the absolute poverty of Christ | to-verify | Extravagantes |
+| D31-1 | 31 / n2 | Ireland to Henry II; Spain to Henry of Trastámara | editor | Pollard side-note 70.1 |
+| D31-2 | 31 / n12 | "Augustine": king = vicar of the Godhead, priest = vicar of Christ's humanity | to-verify | Ps.-Aug. (Ambrosiaster), *Quaest. VNT* q.35/91 |
+| D31-3 | 31 / n14 | English Constantine = Constantine the Great, British-born in legend | to-verify | Geoffrey of Monmouth |
+| D31-4 | 31 / n15 | "half the empire" = the Donation of Constantine | to-verify | with D08-2, D24-1 |
+| D31-5 | 31 / n16 | King John's tribute of 1,000 marks, withheld from 1366 | to-verify | chronicles / Rot. Parl. |
+| D32-1 | 32 / n7 | Augustine asks Hippo to take back estates: Possidius, *Vita Aug.* 23 | editor | Pollard margin 75.20 (with D15-2) |
+| D32-2 | 32 / n15 | *clerus* from κλῆρος "lot" (Jerome, Ep. 52.5) | to-verify | read Ep. 52.5 |
+
+### Latin doubts → action — 9 plate fixes (the B¹-only stretch, pp. 63–73, is the weakest Latin so far)
+- 64.24 *elemosmam* → *elemosinam* · 65.33 *Si* restored at the page turn · 67.14–15 *su" periores* → *superiores* · 69.14 stray *is* removed (all ch. 30; OVERRIDE).
+- 72.29 full stop after *antichristi* (R4 decision revised; ch. 31).
+- 74.2–3 *per* → *perfecte* · 74.22 *Chnstus* → *Christus* · 78.8 *Et* restored before *servato* (ch. 32; OVERRIDE).
+- ⚠ *Chnstus* passed by MAJORITY (4 of 6 witnesses share the OCR confusion). Swept the whole *Dialogus* for chnst / uentat / apostoh / pnuat / cathoh / rnm: no other survivors.
+- Notes in 30, 31, 32 rewritten from "Latin left frozen" to "fixed from the plate". Printed-and-confirmed oddities kept with notes: *simealis* 65.21, *asinina* 66.10, *evidet* 67.3, *regni mundi* 71.30, *nonagentas* 72.30 (= *nongentas*), *[1ª] Cor. [2°]* 78.14.
+
+### Glossary — ruled by the coordinator (delegated), for Wilson's overturn
+- *repplicacio*: split by referent: "rejoinder" (disputation) / "renewal" (of a grant, 70.24).
+- *objectum*: "objection", sharing the English of *instancia* (no opposition between them; tags keep them apart; *instancia* has 0 sites in the *Dialogus*).
+- *castra caynitica*: "Caim's castles", the Wycliffite English name (Pollard's side-note); ch. 30 "Cainite castles" conformed.
+- *racio* against *substancia*: "aspect" (that technical sense only).
+- *subtiliare*: "to lighten", PROVISIONAL (sense doubtful; C note).
+- Routine: *simonia* simony · *beneficium ecclesiasticum* ecclesiastical benefice · *patronus* patron · *procurator* proctor · *gleba* glebe · *mortificacio* amortization · *legalitas* legal standing · *commutacio* exchange · *respectus / respectivus* relation / relational · *locus a simili* topic from likeness · *sinderisis* synderesis · *deacceptus* disowned · *proponere* row notes "put forward" against *postponere*.
+
+### Cost — the chapters get long here
+30: 141k / 5.5 min (1,582 words, 14 calls) · 31: 118k / 4.7 (1,168) · 32: 124k / 4.8 (1,078) · 33: 99k / 3.0 (569). Wave total ≈ 482k.
