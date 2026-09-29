@@ -98,7 +98,29 @@ fresh-session review against the §14 four-class check before the rest of the vo
 **Re-pilot before starting De logica**, in a Fable session, to extend the glossary's §C. The
 existing entries were made on theology.
 
-## Cost (rough; revised 2026-09-28 for the three-witness check; re-measure after M3)
+## Cost — MEASURED on the *Dialogus* (M3, 2026-09-29); the estimate below it is superseded
+
+*Dialogus*: 98 Society pages, 23,601 Latin words, 38 chunks. Agent tokens (coordinator not counted):
+
+| Stage | Tokens | Per page |
+|---|---|---|
+| Translation (38 chunks, one Opus agent each) | 3.55M | ~36k |
+| Close-out: ledger verification (3 batches), tagging, plate pass, targeted review, connective check | 1.29M | ~13k |
+| **Total** | **~4.85M** | **~49k** (~205 per Latin word) |
+
+At that rate: **Tier 1 (~4,400 pp.) ≈ 215M; whole corpus (~12,000 pp.) ≈ 590M.** That is ~10× the
+estimate below. Why it is higher:
+- Each chunk agent re-reads the card, glossary and scaffold (~35–40k fixed per chunk); short chunks pay
+  it on few pages. Longer chunks (2–3 chapters) amortise it — the obvious lever to test on M5's first volume.
+- The notes are a large share of the output (source identifications, variants, construal), and the ledger
+  then has to be verified by reading sources (~9k per row).
+- The *Dialogus* witnesses are clean; *De ecclesia* and *Off. reg.* send 2× the plate items per 1,000 words.
+Close-out lessons that cut cost next time: verify ledger rows as they are written, per wave, not at the
+end; run the *sed*/*autem* and split-tag checks per wave (they are cheap and found real errors: 9/207
+connectives, 4 broken tags); a four-class review of the long, dense chunks only (short chunks were clean).
+⚠ `catalog/lexicon/agreed.txt` holds majority errors (*chnstus*): the non-word sweep must use Hunspell only.
+
+### Superseded estimate (2026-09-28)
 
 The Latin is no longer established by reading every page image. The vote settles ~99.6% of words
 from text alone (measured on *Off. reg.*); the plate is read as line crops for the rest (~3–6 per
