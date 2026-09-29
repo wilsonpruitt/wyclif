@@ -63,7 +63,7 @@ But because certain men who seem to be something [Gal. 2:6] weigh this evidence 
 
 ## Notes
 
-[^1]: **T/R.** At *elemosine* (63.20) Pollard notes that everything from here to the end of the chapter is wholly omitted in his base codex and supplied from B¹ (dated 1387). The title Silvester received from Caesar is the endowment of the church by the Donation of Constantine.
+[^1]: **T/R.** At *elemosine* (63.20) Pollard notes that everything from here to the end of the chapter is wholly omitted in his base codex and supplied from B¹ (Vienna 1387, a hand of about 1400; Pollard p. xxii). The title Silvester received from Caesar is the endowment of the church by the Donation of Constantine.
 
 [^2]: **C/T.** The subject of *caderet*, *posset* and *perpetraverat* is taken as the clergy (*clerus*, 63.13). *Quin ... cadebat*: "could not maintain that it had not fallen", i.e. could not deny that it had. B, C omit *propter* (63.19; B¹ has it added in the margin by another hand). B, B¹, C omit *autem* (63.16).
 

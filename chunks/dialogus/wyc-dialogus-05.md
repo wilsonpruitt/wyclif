@@ -93,8 +93,9 @@ hands to it, through the [secular arm]{g:brachium-seculare} or from elsewhere.[^
 [^6]: **S.** Matt. 4:8–10, the third temptation in Matthew's order: the devil shows Christ "all the
     kingdoms of the world, and the glory of them", and Christ refuses.
 
-[^7]: **R.** *Pauperes et pauci fideles sacerdotes*: the phrase anticipates the "poor priests",
-    the preachers associated with Wyclif (LEDGER D05-1). *Per seculare brachium*: the secular arm,
+[^7]: **R.** *Pauperes et pauci fideles sacerdotes*: Pollard reads this as a reference to Wyclif's "poor
+    priests", already at work and already resisted when the *Dialogus* was written (pp. xiv–xv; his index
+    enters the passage under "Poor Priests") (LEDGER D05-1). *Per seculare brachium*: the secular arm,
     which in canon law carried out the church's sentences on heretics, is here asked to help the
     faithful priests (LEDGER D05-2).
 

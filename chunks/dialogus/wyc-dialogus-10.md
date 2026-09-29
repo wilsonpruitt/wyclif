@@ -69,7 +69,7 @@ men piously ask that they be not believed in this because they themselves, who m
 [^5]: **C.** *Ipsi vel mendaces*: *vel* taken as "even, perhaps": "they, who may be liars". Pollard's
     side-note reads it as "their own erring wisdom". B, B¹, C read *hec* for *hoc* here and at 20.17.
 
-[^6]: **S.** The words are given as Augustine's; the place is not identified (LEDGER D10-1).
+[^6]: **S.** Augustine, *En. in Ps.* 66.1: *Si ego dico, nemo credat: si Christus dicit, vae qui non credit* ("If I say it, let no one believe it; if Christ says it, woe to him who does not believe"), quoted freely (LEDGER D10-1).
 
 [^7]: **C/T.** *Cum honore suo rependendo*: "with his honour to be repaid", *suo* referring to God;
     we take the gerundive loosely as an ablative of attendant circumstance. B reads *sibi* for *suo*;

@@ -27,7 +27,7 @@ objections to disendowment; 34–36 conclude (pp. vi–vii). Truth speaks as God
 chapters, and "after Chapter 3 Veritas is Wyclif, and Wyclif only" (p. vi).
 
 **The text.** Pollard prints the only English manuscript, Ashburnham XXVII C, and collates three
-Vienna manuscripts (ÖNB 1387, 3930, 4505; his sigla B, B¹, C `[verify which is which]`). Ten
+Vienna manuscripts (ÖNB 3930, 1387 and 4505, his sigla B, B¹ and C respectively; pp. xxii–xxiii). Ten
 copies survive in all, nine of them made by Bohemian scribes. Our Latin is Pollard's printed
 text, checked word by word against six witnesses (the Fordham transcription and the OCR of five
 scans), with the words they could not settle read on the plates. In the printed scripture references the
@@ -145,9 +145,13 @@ ought to be one body of the church, running joyfully in love toward attaining th
     Old Testament proof in the next chapters rests mainly on Num. 18:20 and Deut. 18:1, the
     Levites' having no inheritance but the Lord (p. vii). *Recencius*: "more freshly".
 
-[^7]: **S/T.** "Augustine" is not identified by Pollard. The same attribution comes in *De officio
-    regis* (13.8–9: *dicit Augustinus quod rex habet ymaginem dei sed episcopus ymaginem Cristi*),
-    unidentified there too. Identification pending (LEDGER V-13). The apparatus to 2.13 shows the
+[^7]: **S/T.** "Augustine" is not identified by Pollard. It is the *Quaestiones Veteris et Novi Testamenti* of
+    Ambrosiaster, which circulated as Augustine's: the king *habens imperium Dei quasi vicarius ejus; quia
+    omnis rex Dei habet imaginem* (q. 106, PL 35:2319; also q. 91, *Rex enim adoratur in terris quasi vicarius
+    Dei*, PL 35:2284). Gratian took q. 106 into the *Decretum* under Augustine's name (C.33 q.5 c.13). The
+    same attribution in *De officio regis* (13.8–9: *dicit Augustinus quod rex habet ymaginem dei sed
+    episcopus ymaginem Cristi*) is q. 35, *Dei enim imaginem habet rex, sicut et episcopus Christi* (PL
+    35:2234) (LEDGER V-13). The apparatus to 2.13 shows the
     sentence omitted in some MSS (printed "om. B, B, C¹", apparently a misprint). B reads
     *divinitatis* for the first *deitatis*, and has in its margin *Sacerdos vicarius Christi, Dominus
     vicarius divinitatis*. See GLOSSARY §B, *vicarius deitatis*.

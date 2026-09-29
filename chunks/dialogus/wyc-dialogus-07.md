@@ -82,8 +82,10 @@ learning this wholesome faith and study these [apocrypha]{g:apocrifus}, which le
     Prov. 30:8; B¹, C read *cum* for *tamen*. 1 Tim. 6:7–8: Wyclif adds *inde* and has *igitur* for
     the Vulgate's *autem* ("But having food…"); *possumus* and *simus* as Vulgate.
 
-[^4]: **S/R.** John 10:35, "the scripture cannot be broken". *Pertinaciter*: stubborn persistence
-    against scripture is what makes an error heresy in the canonists' definition (LEDGER D07-1).
+[^4]: **S/R.** John 10:35, "the scripture cannot be broken". *Pertinaciter*: stubborn persistence against
+    scripture is what makes an error heresy in the canonists' definition, from Augustine: those who hold a
+    false opinion *nulla pertinaci animositate* are not heretics, those who *resistunt contumaciter* become so
+    (Gratian C.24 q.3 cc.29, 31) (LEDGER D07-1).
     The singular *sit hereticus induratus* takes pope and sect together.
 
 [^5]: **S.** 1 Pet. 5:2–4. Wyclif has *in clero* for *in cleris* and *ut … percipiatis* ("that …
