@@ -1,6 +1,6 @@
 # WORKFLOW — one volume, from scans to site (from M5 on)
 
-*The score for every volume after the Dialogus. Built from what the Dialogus measured (PLAN § Cost,
+*The score for every volume after the Dialogus. Current volume: see `M5-RESUME.md`. Built from what the Dialogus measured (PLAN § Cost,
 2026-09-29). Runs on the Claude Code plan, not the API (no API budget); `scripts/pilot/translate_api.py`
 stays as the priced alternative. Hard stop before each volume: state the estimate, ask "which model, and go?"*
 
