@@ -31,7 +31,7 @@ otherwise.
 | presciencia | foreknowledge | |
 | viator | wayfarer | One still on the road, not yet in the homeland. Loserth: "a traveller on earth". Pilot. |
 | viare; vians | to be a wayfarer; [one] on the way | The verb of *viator*; tag `g:viator`. Ruled 2026-09-28 (8 sites). |
-| via / patria | the way / the homeland | *Beatitudo patrie* → "the blessedness of the homeland". Pilot. |
+| via / patria | the way / the homeland | *Beatitudo patrie* → "the blessedness of the homeland". Pilot. The earthly sense (one's native country) is also "homeland"; a note where it matters (*Dial.* 54.2). |
 | sponsa / sponsus | bride / bridegroom | |
 | corpus Christi misticum | the mystical body of Christ | |
 | mater nostra | our mother | Church as mother is the governing figure of *De ecclesia* I. |
@@ -73,6 +73,12 @@ otherwise.
 | deitas / divinitas | the Godhead / divinity | Kept distinct; B reads *divinitatis* at *Dial.* 2.13. |
 | potencia regulata racione | power regulated by reason | Pilot. |
 | elemosina | alms | |
+| elemosinare; elemosinatus | to give alms to; almsman | The almsman is the beneficiary of an endowment. Ruled 2026-09-28 (coordinator, delegated) (2 sites). |
+| manus mortua | the dead hand | Mortmain; kept literal because Truth's pun turns on it (*Dial.* 60.18, 61.14–17). Ruled 2026-09-28 (coordinator, delegated) (3 sites). |
+| ditare | to enrich | Kept apart from *dotare*, endow. Ruled 2026-09-28 (coordinator, delegated) (21 sites). |
+| appropriare; appropriacio | to appropriate; appropriation | Canon law: a parish church annexed to a college or house. Ruled 2026-09-28 (coordinator, delegated) (4 sites). |
+| affeccio proprietaria | proprietary affection | Ruled 2026-09-28 (coordinator, delegated). |
+
 | decime; pars decima | tithes; the tenth part | |
 | dotacio | endowment | |
 | temporalia | temporal goods | |
@@ -81,6 +87,11 @@ otherwise.
 | sacerdos / presbiter | priest / presbyter | ⚠ Kept distinct: Wyclif's argument on orders needs the difference visible. |
 | clerus; clericus | the clergy; cleric | |
 | clerus cesareus | the caesarean clergy | Wyclif's term for clergy in secular office. |
+| secularis (noun) | a secular | English keeps Latin's range (secular cleric or layman); a C note where the referent matters. Ruled 2026-09-28 (coordinator, delegated) (80 sites, *secular-*). |
+| censura | censure | Ruled 2026-09-28 (coordinator, delegated) (4 sites). |
+| citare; citacio | to cite; citation | Summons to a church court. Ruled 2026-09-28 (coordinator, delegated) (12 sites). |
+| suspendere; suspencio | to suspend; suspension | Note the pun on hanging where live (*Dial.* 57.10–16). Ruled 2026-09-28 (coordinator, delegated). |
+| graduacio; graduati | graduation; graduates | Academic. Ruled 2026-09-28 (coordinator, delegated) (4 sites). |
 | prelatus / sacerdos cesarius | caesarean prelate / priest | Extends *clerus cesareus*. Ruled 2026-09-28 (22 sites, *cesar-*). |
 | papa | pope | Ruled 2026-09-28 (34 sites). |
 | indulgencie | indulgences | Ruled 2026-09-28 (7 sites). |
@@ -143,7 +154,7 @@ otherwise.
 | concludere | to infer | "Conclude" only when a conclusion is literally drawn (T. p. 365). |
 | descripcio | definition | Not "description" (T. p. 363). |
 | glosare | to gloss | Interpret so as to remove the difficulty (T. p. 366). |
-| argucie | stratagems, quibbles | T. p. 367. |
+| argucie; argucia | stratagems, quibbles; a quibble | T. p. 367. |
 | sophisma | sophism | A proposition that can apparently be proved and disproved (T. p. 360 n. 10). |
 | successivum / permanens | successive entity / permanent entity | T. p. 368 n. 31. |
 | ens / esse / essencia | a being / being (existence) / essence | ⚠ *Esse* is ambiguous; note when it matters. |
@@ -156,7 +167,7 @@ otherwise.
 | citra fidem | short of faith | The contrast with *ex fide*: held on evidence, not as faith teaches. Ruled 2026-09-28 (4 sites). |
 | sentencia | teaching | The position taught, incl. Falsehood's (*tua sentencia*, "your teaching"). Not "sentence". Ruled 2026-09-28 (51 sites in the *Dialogus*). |
 | evidencia | evidence | "Proof" only where it names a demonstration, with a note. Ruled 2026-09-28 (41 sites). |
-| repplicacio | rejoinder | A disputation term. Ruled 2026-09-28. |
+| repplicacio; repplicare | rejoinder; to rejoin | A disputation term. Ruled 2026-09-28. |
 | concessio | grant | Of property or privilege. Ruled 2026-09-28 (5 sites). |
 | exproprietarii | the propertyless | The friars who profess to own nothing. Ruled 2026-09-28 (6 sites). |
 | reditus | revenue(s) | Ruled 2026-09-28 (23 sites). |
@@ -166,7 +177,7 @@ otherwise.
 | Latin | English | ⛔ Not |
 |---|---|---|
 | sensibilis | perceptible | "sensible" (T. p. 362) |
-| insensibilis | imperceptible | Kept visibly paired with *sensibilis*. Ruled 2026-09-28 (3 sites). |
+| insensibilis | imperceptible; of a thing that cannot feel, without sensation | Two senses by referent: what cannot be perceived / what cannot perceive (*lapis insensibilis*, *Dial.* 56.3). Kept visibly paired with *sensibilis*. Ruled 2026-09-28 (3 sites). |
 | zizania | cockle | Douay–Rheims (Matt. 13:25). Ruled 2026-09-28. |
 | cautela | wile | Not "caution"; *cautela diaboli*, the devil's wile. Ruled 2026-09-28 (8 sites). |
 | apostema | abscess | A recurring medical figure. Ruled 2026-09-28 (3 sites). |
@@ -177,6 +188,10 @@ otherwise.
 | ingratus | displeasing (to God) | *Ingratus deo*: unpleasing to God. "Ungrateful" only where a person is ungrateful to someone. Ruled 2026-09-28 (5 sites). |
 | perplexus | perplexed | The moral-theology sense: bound to sin whichever way one turns. Ruled 2026-09-28. |
 | cataracta | trapdoor | "Floodgate" in a C note where the Genesis image is live. Ruled 2026-09-28. |
+| globus | band | Derogatory collective (*globus reprobus*, *globos claustralium*). Ruled 2026-09-28 (coordinator, delegated) (2 sites). |
+| solvere (oaths, charters) | to dissolve | Not "pay" in this use. Ruled 2026-09-28 (coordinator, delegated). |
+| cohabitacio | joint dwelling | Ruled 2026-09-28 (coordinator, delegated). |
+| idiota | unlearned man | Not "idiot". Ruled 2026-09-28 (coordinator, delegated). |
 | infidelitas | heathenism, unbelief | "infidelity" (T. p. 362) |
 | sciolus | knowing, wise | "smatterer" (the classical sense). Neutral in Wyclif. Pilot (*Eccl.* 5.8) |
 | philocaptus | besotted | "philo-captive" (T. p. 363) |

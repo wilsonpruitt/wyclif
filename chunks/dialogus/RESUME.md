@@ -44,6 +44,10 @@
 | 23 | translated (wave 5) | 13 | 111k | 4.1 |
 | 24 | translated (wave 5) | 12 | 101k | 3.0 |
 | 25 | translated (wave 5) | 11 | 94k | 2.2 |
+| 26 | translated (wave 6) | 11 | 102k | 3.0 |
+| 27 | translated (wave 6) | 14 | 98k | 2.8 |
+| 28 | translated (wave 6) | 10 | 97k | 2.4 |
+| 29 | translated (wave 6) | 12 | 108k | 2.9 |
 
 ## Owed at work close (the gate)
 
@@ -59,4 +63,4 @@
 
 ## Next
 
-Wave 6: chunks 26–29 (≈100k/chunk). Ask Wilson for the go + model.
+Wave 6 done (≈101k/chunk). Glossary ruled (delegated) and reported. Ask Wilson go + model for wave 7 = chunks 30–33.

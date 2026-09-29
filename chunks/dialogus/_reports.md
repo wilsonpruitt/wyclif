@@ -132,3 +132,30 @@ Routine: *papa* pope (34) · *commercari / commercium* to trade / trade (21) · 
 
 ### Cost
 22: 94k / 2.4 min · 23: 111k / 4.1 (14 calls) · 24: 101k / 3.0 (12) · 25: 94k / 2.2. Wave total ≈ 400k (longer chapters: 476–670 words).
+
+## Wave 6 (26–29), 2026-09-28 — glossary ruled by coordinator (delegated)
+
+### Ledger rows
+| id | chunk / note | claim | status | how / next step |
+|---|---|---|---|---|
+| D26-1 | 26 / n2 | Falsehood's eucharistic "heresy" (53.19–20) = the controversy in which Wyclif's teaching was condemned at Oxford, 1381 | to-verify | Blackfriars/Oxford condemnation source |
+| D29-1 | 29 / n1 | *in manum mortuam* = mortmain; land to the church only by licence (Statute of Mortmain 1279) | to-verify | statute text (with D09-1) |
+
+Unidentified (ch. 27): the Jeremiah allusion at 57.30; *dictum est diffuse alibi* at 56.25.
+
+### Latin doubts → action
+- 56.6 *hoc videtur*: the plate has *Et hoc videtur*; the line is single-witness (THIN) and the first plate read missed *Et*. **Fixed** by revising that decision; ch. 27 synced, note 2 rewritten.
+- 26: 54.20 *domini* gen. sg. / nom. pl. unsettled (n6). 55.24 *prediligit* (B, B¹, C *non prediligit*) print kept (n11).
+- 27: 57.4 *corporia* = *corporea*, concessive (T). 57.32 *sapientem*: B¹ *sapiente* translated (T).
+- 28: 59.30 *communitus* "commonly" (C). 59.26–60.3 bracketed passage, absent in B, B¹, C (T).
+- 29: 60.21 *concessa* agreement (C). 61.14 construal + B¹/C *nisi* (C). 63.9 *tollit* supplied (C).
+
+### Glossary — ruled by the coordinator (delegated 2026-09-28), for Wilson's overturn
+- *insensibilis*: split **by referent**: "imperceptible" (cannot be perceived) / "without sensation" (cannot perceive: *lapis insensibilis* 56.3).
+- *globus*: "band" (ch. 13 "reprobate band"; ch. 28 "throngs" conformed to "bands").
+- *secularis* (noun): "a secular", English keeping the Latin's range (cleric or layman); C note where it matters. Already "seculars" in earlier chunks.
+- *patria* earthly sense: also "homeland" (ch. 26 already), note where it matters.
+- *manus mortua* the dead hand (literal; the pun) · *ditare* enrich vs *dotare* endow · *appropriare / -acio* appropriate / appropriation · *affeccio proprietaria* proprietary affection · *elemosinare* give alms to · *elemosinatus* almsman · *censura* censure · *citare / citacio* cite / citation · *suspendere / suspencio* suspend / suspension · *graduacio / graduati* graduation / graduates · *solvere* (oaths, charters) dissolve · *cohabitacio* joint dwelling · *idiota* unlearned man · *repplicare* → *repplicacio* row · *argucia* → *argucie* row.
+
+### Cost
+26: 102k / 3.0 min · 27: 98k / 2.8 · 28: 97k / 2.4 · 29: 108k / 2.9 (722 words, longest). Wave total ≈ 405k.
