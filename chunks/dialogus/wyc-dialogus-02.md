@@ -36,8 +36,8 @@ whoever is unfit to live this life is unfit to be made a [cleric]{g:clericus}.
 
 And the second part of the [church]{g:ecclesia} ought to exercise lordship in a secular manner and
 be wealthy in [temporal goods]{g:temporalia}, because this is the instrument necessary to the office
-which I have assigned to this part of the church. For in this way the [Godhead]{g:deitas} constrains
-men, by giving them abundance of things, and in a manner mixes in coercive power.[^2]
+which I have assigned to this part of the church. For in this way the [Godhead]{g:deitas} [coerces]{g:cohercere}
+men, by giving them abundance of things, and in a manner mixes in [coactive]{g:coactivus} power.[^2]
 
 ## Truth · 4.8–5.11
 

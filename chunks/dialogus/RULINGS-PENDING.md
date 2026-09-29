@@ -30,3 +30,13 @@ Left for ruling or a note pass (need new C notes or glossary rows, so not applie
 - #4 (04, 7.12 *Secundum testimonium*) and #10 (31, *ut loquitur ironice*), #23 (epil-a anacoluthon): C notes to add.
 - #5 (04 n2) and #19 (epil-a 88.12, n13): notes to recast so English and note agree.
 - #11 (31, 72.15 *ordinasse*) tense; #16 (epil-a 87.20 *quod convincerent*); #25 (epil-a *genus* "stock"/"kind").
+
+## D. RULED 2026-09-29 (Wilson: "yes" to the recommendations; glossary items by the coordinator under the wave-6 delegation — for overturn)
+- Glossary: *milites Christi/antichristi* = "soldiers" (estate stays "knights"); *reditus* ch. 9 stays "return" (CONTEXTUAL exception, n5);
+  *practizare contra* = "practise against"; *ex fide* + adjective like the genitive, not the formula when governed by a verb/participle;
+  *sequitur* non-inference and liturgical *servicium* untagged; *infidelis cleri* → "faithless clergy" (ch. 30).
+  NEW rows: *coactivus / cohercere* (coactive / coerce; ch. 2 conformed); §D *intendere* (thesis) = "maintain" (epil-a ×2).
+- Latin: LD-19 Pollard's *[non sunt?]* ADOPTED, bracketed "[not] fit", n5 rewritten. LD-02, 07, 09, 11, 17: print kept, notes stand.
+- Review §C: #4, #5 (ch. 4 n1, n2), #10 (ch. 31 irony + n11), #11, #16, #19, #23 (n20), #25 applied.
+- Connectives: 5 doubtful kept; ch. 12 *Sed hoc nimis perturbaret* → "Now" (minor of the reductio).
+- Still open: LD-20 *de bello clavo* (source); items A9–A10 left untagged by design.

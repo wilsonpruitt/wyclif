@@ -66,7 +66,7 @@ otherwise.
 | magnates | magnates | Ruled 2026-09-28. |
 | capitalis dominus; tenere de | chief lord; to hold of | Feudal tenure language, kept literal: the lords "hold of Christ as chief lord". Pilot (Dialogus 2.19). |
 | titulus | title | As in title to property. |
-| servicium | service | Pair with *dominium* (T. p. 363 n. 19 on the definitions). |
+| servicium | service | Pair with *dominium* (T. p. 363 n. 19 on the definitions). Liturgical *servicia ecclesie*, "services of the church", is untagged. Ruled 2026-09-29 (coordinator, delegated, close-out). |
 | ius | right / law | ⚠ Two senses (subjective right vs. body of law). The chunk's note picks one wherever it matters. |
 | lex dei / lex Christi / lex evangelica | God's law / the law of Christ / the gospel law | |
 | vicarius deitatis / vicarius humanitatis Christi | vicar of the Godhead / vicar of Christ's humanity | King and priest respectively (*Dial.* 2.14–16; *Off. reg.* 13, 137). Pilot. |
@@ -89,7 +89,8 @@ otherwise.
 | clerus cesareus | the caesarean clergy | Wyclif's term for clergy in secular office. |
 | temporales domini | temporal lords | Kept apart from *mundani domini*, worldly lords. Ruled 2026-09-28 (coordinator, delegated) (22 sites). |
 | brachium seculare | the secular arm | Ruled 2026-09-28 (coordinator, delegated) (7 sites). |
-| milicia; milites | knighthood; knights | The second estate; Pollard's word. Ruled 2026-09-28 (coordinator, delegated). |
+| milicia; milites | knighthood; knights | The second estate; Pollard's word. Ruled 2026-09-28 (coordinator, delegated). *Milites Christi / antichristi* (the Pauline figure, 2 Tim. 2:3 DR "good soldier of Christ Jesus") → "soldiers"; the estate stays "knights". Ruled 2026-09-29 (coordinator, delegated, close-out). |
+| coactivus; cohercere, cohersitivus | coactive; coerce, coercive | Kept apart: *potencia coactiva* "coactive power" (the ruler's), *cohercere* "coerce". Ruled 2026-09-29 (coordinator, delegated, close-out). |
 | laboratores | labourers | The third estate. Ruled 2026-09-28 (coordinator, delegated). |
 | tercia pars ecclesie | the third part of the church | The commons (*Dial.* 85.15, 85.22). Ruled 2026-09-28 (coordinator, delegated). |
 | prepositi | superiors | Heads of houses; kept apart from *prelatus*. Ruled 2026-09-28 (coordinator, delegated). |
@@ -149,7 +150,7 @@ otherwise.
 | sentenciare | to pronounce | The verb of *sentencia*. Ruled 2026-09-28 (2 sites). |
 | predicamentum | category | The Aristotelian category; never "predicament" (*Dial.* 92.1: the standard member of a category). Ruled 2026-09-28 (coordinator, delegated). |
 | sequela | what follows | Ruled 2026-09-28 (coordinator, delegated). |
-| practizare | to put into practice | Ruled 2026-09-28 (coordinator, delegated) (4 sites). |
+| practizare | to put into practice | Ruled 2026-09-28 (coordinator, delegated) (4 sites). With *contra* + person, "practise against" (plot), *Dial.* ch. 17. Ruled 2026-09-29 (coordinator, delegated, close-out). |
 | sophisticare (transitive) | to counterfeit | Kept apart from *sophisticari*, to play the sophist. Ruled 2026-09-28 (coordinator, delegated). |
 | respectus; respectivus | relation; relational | Ruled 2026-09-28 (coordinator, delegated). |
 | racio (against *substancia*) | aspect | This technical sense only; *racio* elsewhere by context. Ruled 2026-09-28 (coordinator, delegated). |
@@ -171,7 +172,7 @@ otherwise.
 | contingens ad utrumlibet | contingent either way | T. p. 364. |
 | consequencia | inference | ⛔ Not "consequence" (T. p. 361 n. 13). |
 | consequens / antecedens | consequent / antecedent | |
-| sequitur | it follows | Introduces a stated inference, often quoted in the next words. Pilot (*Eccl.* 2.21). |
+| sequitur | it follows | Introduces a stated inference, often quoted in the next words. Pilot (*Eccl.* 2.21). Not tagged where it is not an inference ("the third law follows", *Dial.* ch. 5). Ruled 2026-09-29 (coordinator, delegated, close-out). |
 | propositio copulativa / disiunctiva | conjunction / disjunction | Not "copulative proposition" (T. p. 365). |
 | claudit contradictionem / contradictorium | it implies a contradiction | Stronger than "is against reason". Keep the escalation visible. Pilot (*Eccl.* 5.4). |
 | instancia; objectum | objection | ⛔ Not "instance" (T. p. 373). |
@@ -190,14 +191,14 @@ otherwise.
 | metaphisica | metaphysics | *Inter omnes metaphisicas* → "among all the metaphysics": he counts the doctrine of the church as one (T. p. 368). Pilot. |
 | philosophia sermocinalis / realis | the philosophy of language / the philosophy of reality | T. pp. 364–5. |
 | liberum arbitrium | free choice | The scholastic term, not "free will" (*voluntas*). Ruled 2026-09-28 (*Dial.* 4.15). |
-| ex fide | as faith teaches; with a genitive, from the faith of [scripture] | "It is of faith", on scripture's authority. *Ex fide scripture / duplicis testamenti* → "from the faith of scripture / of the twofold testament". Ruled 2026-09-28 after a census (30 sites in the *Dialogus*). |
+| ex fide | as faith teaches; with a genitive, from the faith of [scripture] | "It is of faith", on scripture's authority. *Ex fide scripture / duplicis testamenti* → "from the faith of scripture / of the twofold testament". Ruled 2026-09-28 after a census (30 sites in the *Dialogus*). An adjective works like the genitive: *ex fide catholica* → "from the catholic faith". Not the formula when a verb or participle governs *ex* (*racio capta ex fide* → "reason drawn from faith", epil-a). Ruled 2026-09-29 (coordinator, delegated, close-out). |
 | citra fidem | short of faith | The contrast with *ex fide*: held on evidence, not as faith teaches. Ruled 2026-09-28 (4 sites). |
 | sentencia | teaching | The position taught, incl. Falsehood's (*tua sentencia*, "your teaching"). Not "sentence". Ruled 2026-09-28 (51 sites in the *Dialogus*). |
 | evidencia | evidence | "Proof" only where it names a demonstration, with a note. Ruled 2026-09-28 (41 sites). |
 | repplicacio; repplicare | rejoinder; to rejoin · of a grant, renewal | Two senses by referent: the disputation move / the re-grant of a charter or privilege (*Dial.* 70.24). | A disputation term. Ruled 2026-09-28. |
 | concessio | grant | Of property or privilege. Ruled 2026-09-28 (5 sites). |
 | exproprietarii | the propertyless | The friars who profess to own nothing. Ruled 2026-09-28 (6 sites). |
-| reditus | revenue(s) | Ruled 2026-09-28 (23 sites). |
+| reditus | revenue(s) | Ruled 2026-09-28 (23 sites). Exception: *Dial.* 18 (ch. 9 n5), *reditus* = the clergy's "return" (to wealth), on *revertatur* 15.9 / *redire* 15.21; the note gives "revenue" as the alternative. Ruled 2026-09-29 (coordinator, delegated, close-out). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -256,3 +257,4 @@ otherwise.
 | prevaricari | to transgress | The verb of *prevaricator*. Ruled 2026-09-28. |
 | servitivus | serviceable | Ruled 2026-09-28. |
 | precipui sacerdotes | leading priests | Kept apart from *principes sacerdotum*, "chief priests". Ruled 2026-09-28. |
+| intendere (a thesis) | maintain | Scholastic "hold, argue for": *intendimus quod* → "we maintain that" (epil-a 86.4, 90.19). "Intend" only for purpose. Ruled 2026-09-29 (coordinator, delegated, close-out). |

@@ -73,12 +73,16 @@ of conscience, for acting in the way Christ requires.[^6]
 
 [^1]: **S.** Deut. 18:1–2. Wyclif has *cum reliquo populo israel* for the Vulgate's *cum reliquo
     Israel*, and *oblaciones* without the Vulgate's *ejus* ("his oblations"; B, C *oblaciones eius*).
-    Otherwise as the Vulgate, and in DR's wording.
+    Otherwise as the Vulgate, and in DR's wording. *Secundum testimonium legis veteris*: taken as the
+    ordinal, "the second testimony", which suits the chapter's sequence (ch. 3 gave the "first law");
+    *secundum* could also be the preposition, "according to the testimony of the old law, it is written".
 
 [^2]: **C/R.** *Capitaliter*: "in chief", the tenure word of *capitali domino* (2.19). Christ alone
     is chief lord there; here the clergy make themselves holders in chief. *A suis fratribus et
     dominis … ocupari*: we take *a* as "from", the "possession of their brethren" of Deut. 18:2
-    taken over; read as an agent ("occupied by their brethren") it gives no sense. *Ex concessione
+    taken over. Read as an agent ("to be occupied, i.e. held as tenants, by their brethren and lords")
+    it also makes sense beside *capitaliter*: the clergy hold in chief and the laity occupy under them,
+    an inversion of 2.19. *Ex concessione
     stulta cesaris*: the emperor's endowment of the church, which the *Dialogus* later calls *ista
     stulta donacio* (p. 18) and lays at Constantine's door (p. 72) (LEDGER D04-1). B¹ omits *cesaris*; B, C *stabiliunt*.
 
