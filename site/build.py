@@ -13,6 +13,9 @@ SITE = 'https://wyclif.wrootpress.com'
 PLATE = 'https://archive.org/details/latinworks22wycl/page/n{leaf}/mode/1up'
 LEAF_OFFSET = 31
 
+import hashlib
+ASSET_V = hashlib.sha1(b''.join(open(os.path.join(ROOT, 'site', 'static', n), 'rb').read() for n in ('style.css', 'site.js'))).hexdigest()[:8]
+
 # Pollard's four movements (intro pp. vi–vii), then the Epilogue.
 MOVEMENTS = [('The case from scripture', 1, 10), ('Falsehood appeals to authority', 11, 23),
              ('Practical objections', 24, 33), ('Conclusion', 34, 36)]
@@ -76,6 +79,8 @@ def scrub(t):
 def inline(s, gl, lang='en'):
     s = scrub(s)
     s = s.replace('\\*', '\x00')
+    if lang == 'en':
+        s = curly(s)
     s = re.sub(r'\bB1\b', 'B¹', s)                        # Pollard's siglum, written both ways in the chunks
     s = html.escape(s, quote=False)
 
@@ -101,6 +106,21 @@ def inline(s, gl, lang='en'):
 def la_html(s, gl):
     s = inline(s, gl, 'la')
     return re.sub(r'\b(MENDACIUM|VERITAS)\.', lambda m: f'<span class="who-la">{m.group(1).lower()}.</span>', s)
+
+
+def curly(s):
+    s = re.sub(r"(\w)'(\w)", '\\1’\\2', s)
+    return re.sub(r"(?<=s)'(?=[\s,.;:)]|$)", '’', s)
+
+
+def cap1(s):
+    s = curly(s)
+    return s[:1].upper() + s[1:]
+
+
+def short_title(c):
+    t = re.sub(r'^\*Dialogus\*,\s*(?:chapter \d+|Epilog(?:us|ue),? part \w+)\s*[:.]\s*', '', c['title'])
+    return cap1(re.sub(r'[*]', '', t))
 
 
 def plate(page):
@@ -180,13 +200,13 @@ def page(title, body, depth, desc='', canonical=''):
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title><meta name="description" content="{html.escape(desc)}">
 {f'<link rel="canonical" href="{SITE}/{canonical}">' if canonical is not None else ''}
-{FONTS}<link rel="icon" href="{up}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{up}style.css"></head>
+{FONTS}<link rel="icon" href="{up}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{up}style.css?v={ASSET_V}"></head>
 <body>
 <header class="top"><a class="home" href="{up}">Wyclif, <i>Dialogus</i></a>
 <nav><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
 <main>{body}</main>
 <footer><p>Latin: Pollard’s edition (1886), public domain. English, notes and encoding: Wroot Press, <a href="{up}rights/">CC BY-NC 4.0</a>. A working draft.</p></footer>
-<script src="{up}site.js" defer></script>
+<script src="{up}site.js?v={ASSET_V}" defer></script>
 </body></html>'''
 
 
@@ -328,7 +348,7 @@ def render_index(chunks):
                            (('falsehood', w['falsehood']), ('truth', w['truth']), (None, w[None])) if v)
             n = c['fm']['chunk_id'].split('-')[-1]
             short = n.upper()[-1] if 'epil' in c['f'] else str(int(n))
-            title = re.sub(r'[*]', '', re.sub(r'^\*Dialogus\*,\s*', '', c['title']))
+            title = short_title(c)
             cols.append(f'<a class="col" href="{c["slug"]}/" style="--h:{tot / maxw:.3f}" '
                         f'title="{html.escape(label(c))}: {html.escape(title)} ({tot:,} words)">'
                         f'<span class="bar">{segs}</span><span class="cn">{short}</span></a>')
@@ -337,13 +357,14 @@ def render_index(chunks):
     for t, cs in groups:
         toc.append(f'<h3>{t}</h3><ol class="toc">' + ''.join(
             f'<li><a href="{c["slug"]}/"><span class="toc-n">{label(c)}</span> '
-            f'{html.escape(re.sub(r"[*]", "", re.sub(r"^.*?:\s*", "", c["title"], count=1)))}</a></li>' for c in cs) + '</ol>')
+            f'<span>{html.escape(short_title(c))}</span></a></li>' for c in cs) + '</ol>')
     body = f'''<section class="hero">
 <h1 class="title"><span class="t-la">Dialogus</span><span class="t-sub">sive Speculum Ecclesie Militantis</span></h1>
 <p class="lede">John Wyclif’s dialogue between Truth and Falsehood on whether the church should own property,
 written in 1379. The Latin of Alfred Pollard’s edition, with a new English translation and notes.</p>
 <figure class="strip" aria-label="The Dialogus chapter by chapter">
 <div class="mvs">{"".join(strip)}</div>
+<p class="mv-legend">In Pollard’s divisions: the case from scripture (1–10), Falsehood’s appeals to authority (11–23), practical objections (24–33), conclusion (34–36), Epilogue.</p>
 <figcaption>Each column is a chapter, as tall as it is long. <span class="key truth">Truth</span> speaks in russet, the colour of
 the undyed gowns of Wyclif’s poor priests, and <span class="key falsehood">Falsehood</span> in gilt, the endowed church’s gold.
 <span class="key author">Grey</span> is Wyclif in his own voice, in the prologue and the Epilogue. Falsehood gets a few lines at a time,
