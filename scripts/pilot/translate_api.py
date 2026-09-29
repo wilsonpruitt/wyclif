@@ -81,7 +81,7 @@ def main(ns):
     system = [{'type': 'text', 'text': PREAMBLE + '\n\n<card>\n' + open(os.path.join(ROOT, 'chunks/dialogus/CARD.md')).read()
                + '\n</card>\n\n<glossary>\n' + open(os.path.join(ROOT, 'GLOSSARY.md')).read() + '\n</glossary>',
                'cache_control': {'type': 'ephemeral'}}]
-    client = anthropic.Anthropic()
+    client = anthropic.Anthropic(max_retries=6)                     # 529 overloaded / 5xx: back off and retry
     for n in ns:
         t0 = time.time()
         with client.beta.messages.stream(
@@ -94,7 +94,7 @@ def main(ns):
         if msg.stop_reason != 'end_turn':
             print(f'{n}: stop_reason={msg.stop_reason}', getattr(msg, 'stop_details', None))
         text = ''.join(b.text for b in msg.content if b.type == 'text')
-        open(os.path.join(OUT, f'wyc-dialogus-{n}.api.md'), 'w').write(text)
+        open(os.path.join(OUT, f'wyc-dialogus-{n}.api' + ('' if EFFORT == 'high' else f'-{EFFORT}') + '.md'), 'w').write(text)
         u = msg.usage
         row = dict(chunk=n, model=msg.model, effort=EFFORT, seconds=round(time.time() - t0),
                    input=u.input_tokens, cache_write=u.cache_creation_input_tokens or 0,

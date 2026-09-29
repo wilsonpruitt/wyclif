@@ -138,8 +138,17 @@ was equal or better in all three** (errors 0 vs 0; weak points 2 vs 13; its lead
 difficulty). Caveats: it had today's refined card and glossary, which the original translators did not; three
 chunks only; the Latin was already established (a dirtier text will raise more Latin doubts).
 **Projection for Tier 1 (~4,400 pp.):** translation ≈ 73M tokens ≈ $1,000; the Batch API halves that (~$500).
-Verification passes are extra and could be scripted the same way. ▶ **Adopt for M5**; first measure effort `medium`
-(output is the bill) on the same three chunks against this baseline, and run M5 volumes through the Batch API.
+Verification passes are extra and could be scripted the same way. ▶ **Adopt for M5** at effort **high**, through the Batch API.
+
+**Effort `medium` measured (2026-09-29, same three chunks, blind review vs `high`):** $1.37 vs $2.23 (−39%; ch. 2
+$0.34, ch. 14 $0.34, ch. 30 $0.69). Quality: `high` 1 error / 3 weak / 12 style, `medium` 1 / 9 / 15; the gap is almost
+all in ch. 30, the long dense chapter (7 weak vs 1). `medium` also misreported more variants in its notes and once
+dropped the front matter. **Keep `high`**: the Batch API's 50% costs no quality, `medium`'s 39% does. (API errors seen:
+one `timeout_error`, one `overloaded_error` on ch. 30; the script now retries 6×.)
+**Funding (Wilson, 2026-09-29): no API budget for a full run.** The dollar figures here price the method; the
+translation itself runs on the Claude Code plan, where the lesson that transfers is the single-pass shape: give the
+agent card + filtered glossary + scaffold + apparatus INLINE and have it write the chunk once (few turns), several
+chunks per agent.
 - The notes are a large share of the output (source identifications, variants, construal), and the ledger
   then has to be verified by reading sources (~9k per row).
 - The *Dialogus* witnesses are clean; *De ecclesia* and *Off. reg.* send 2× the plate items per 1,000 words.
