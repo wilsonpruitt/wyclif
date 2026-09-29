@@ -12,77 +12,71 @@ witnesses: [11663460bsb, dialogussivespec00wycl, fordham, iohanniswycliff00wyclg
 check: "670 words; 574 unanimous or majority-real; 79 settled by vote (DEL 1, R2 44, R3a 29, R3b 4, R6a 1); 17 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks22wycl, leaves n76–n79 (printed p. = leaf − 31)"
-status: draft
+status: translated
 ---
 
-# *Dialogus*, chapter 23: [TITLE]
+# *Dialogus*, chapter 23: the worth of prayer
 
-## ¶1 · 45.21–47.12
+## Falsehood and Truth · 45.21–47.12
 
 > [p. 45] MENDACIUM. Videtur quod precipitanter in voraginem heresis te profundas; innuis enim quod non valet oracio pro vivis vel mortuis, eo quod secundum tuum antiquum errorem omnia que evenient est necessarium evenire. Sed quid est expressius contra fidem scripture? Cum Christus Mᵗ 6° docet Christianos orare; et quantum ad vindictam vel penam oracione hominis impetrandam dicet jacobus ultimo cap° Helias homo erat similis nobis passibilis, et oracione oravit ut non plueret super terram, et non pluit annis tribus et mensibus sex, et rursum oravit et celum dedit [p. 46] pluviam et terra dedit fructum suum. Aliter enim subducta spe orandi hominis scriptura pro majori parte deficeret et viator regulariter desperaret. VERITAS. Non erubescis inevidenter concludere blasfemiam dum consequencie colorem aliquem nescias stabilire. Concedo enim tibi quod omnia que evenient de necessitate evenient; ideo necesse est homines orare, et dignis oracionibus tam sibi quam aliis suffragari; et sic concedo quamlibet partem scripture et specialiter illud M 6° de oracione dominica et aliis sonantibus ad efficaciam deprecandi, ut dictum est de jacobo et similibus autoritatibus in scriptura. Verumtamen nunquam didicisti quod oracio hominis taliter debet vendi, nec quod viator magnificet suam oracionem, sed quod deus voluit oracionis nostre efficaciam esse nobis incognitam, ne cum oracione pompatice mercaremur. Nam ut fidem capimus quod de quanto quis (orans discrete pro aliquo) est plus dilectus a domino de tanto est oracio sua prestancior. Sed quis dubitat quin omnis predestinatus quasi infinitum plus diligitur a deo quam prescitus, cum deus eternaliter vult quod primus beatificetur et secundus perpetuo condempnetur. Ideo sicut amor dei quo viator diligitur est nobis incognitus, sic et valor sue oracionis. Erubescat igitur viator valorem sue oracionis super alios commendare. Et tamen in isto claustrales nimis decipiunt dominos divites et pauperes, suam oracionem et meritum stolide commendantes. Unde inventa est una subdola ficcio in qua stolidi amplius seducantur, scilicet quod sacerdotes, et specialiter claustrales virtute ordinis, etiam presciti, in virtute ecclesie suis oracionibus inenarrabiliter promerentur. Et ad [p. 47] hoc sophisticantur evidencie patris mendacii. Si autem ordo vel secta promovet sacerdotes ut eorum oracio plus a domino sit audita, secta Christi et ordo quem ipse imprimit, ut viator sit sacerdos in patria infinitum plus promovet quam secta sine Christi licencia introducta vel carectar sensibilis humano ingenio machinatus. Similiter omnes tales presciti, pape vel claustrales, sunt manifesti diaboli de ecclesia malignancium, quomodo ergo virtute ecclesie Christi quam inficiunt, suis oracionibus sic prodessent? Numquid credimus deus necessitatur per talia apostemata tanquam media infundere lumen gracie in vasa sua predestinata, in que, ut ex fide supponitur, est illapsus?
 
-[ENGLISH]
+FALSEHOOD. It seems that you are plunging yourself headlong into the whirlpool of heresy; for you imply that prayer does not avail for the living or the dead, because, according to your old error, all things that will come about must of necessity come about. But what is more expressly against the faith of scripture? Since Christ in Matthew 6 teaches Christians to pray; and as to vengeance or punishment to be obtained by a man's prayer, James says in the last chapter: "Elias was a man passible like unto us: and with prayer he prayed that it might not rain upon the earth. And it rained not for three years and six months. And he prayed again. And the heaven gave [46] rain: and the earth brought forth her fruit."[^1] For otherwise, with the hope of a man's praying withdrawn, scripture would for the greater part fail, and the [wayfarer]{g:viator} would as a rule despair. TRUTH. Do you not blush to [infer]{g:concludere} blasphemy without evidence, when you cannot establish any colour of [inference]{g:consequencia}?[^2] For I grant you that all things that will come about will come about of necessity; therefore it is necessary that men pray, and with worthy prayers [aid by intercession]{g:suffragari} both themselves and others; and so I grant every part of scripture, and especially that [passage] in Matthew 6 on the Lord's Prayer, and the others that sound to the efficacy of entreaty, as was said of James and like authorities in scripture. Nevertheless you have never learned that a man's prayer ought to be sold in such a way, nor that the wayfarer should magnify his own prayer, but that God willed the efficacy of our prayer to be unknown to us, lest we should traffic in prayer with pomp. For, as we take on faith, the more anyone (praying with discretion for another) is loved by the Lord, the more excellent is his prayer. Now who doubts that every [predestinate]{g:predestinatus} [person] is loved by God as it were infinitely more than [one of the foreknown]{g:prescitus}, since God eternally wills that the first be beatified and the second perpetually condemned? Therefore, as the love of God with which the wayfarer is loved is unknown to us, so also is the worth of his prayer. Let the wayfarer blush, then, to commend the worth of his prayer above others. And yet in this the [cloisterers]{g:claustrales} greatly deceive [lords]{g:dominus}, rich and poor, stupidly commending their prayer and merit.[^3] Hence a crafty fiction has been invented by which the stupid may be seduced the more: namely, that priests, and especially cloisterers by virtue of their order, even the foreknown, merit unspeakably by their prayers in virtue of the [church]{g:ecclesia}. And to [47] this end the [evidences]{g:evidencia} of the father of lies play the sophist.[^4] But if an order or [sect]{g:secta} advances priests so that their prayer is heard more by the Lord, the sect of Christ, and the order which he himself imprints so that the wayfarer is a priest in the [homeland]{g:patria}, advances infinitely more than a sect brought in without Christ's leave, or a [perceptible]{g:sensibilis} [character]{g:carecter} contrived by human ingenuity.[^5] Likewise all such foreknown men, popes or cloisterers, are manifest devils of "the church of the malignant";[^6] how then, by virtue of the church of Christ, which they infect, should they profit [others] by their prayers in this way? Do we believe that God is necessitated to pour the light of grace, through such [abscesses]{g:apostema} as means, into his predestinate vessels, into which, it is supposed [as faith teaches]{g:ex-fide}, he has [flowed]{g:illabi}?
 
-## ¶2 · 47.13–48.11
+## Truth · 47.13–48.11
 
 > [p. 47] Similiter talis claustralis ex declinacione a lege domini est sibi valde ingratus, et ut sic indispositus ad orandum. Unde proverb 28° sic scribitur: qui declinat aurem suam ne audiat legem, oracio ejus fiet execrabilis. Similiter ut hic supponitur, justorum sunt omnia et specialiter pauperum spiritu, quantumcunque sint abhominabiles apud mundum: sed clerus dotatus defraudat hos pauperes de sua substancia; igitur propter istam injuriam necesse est deum oracionem illorum repellere, nisi quis blasfemet quod deo ingratus, propter hoc quod est mundo dicior sive excellencior, est pocius in precibus exauditus. Unde in confirmacione istius assumpte sentencie eccᶜⁱ 34° scribitur: qui offert sacrificium de substancia pauperum, quasi qui victimat filium in conspectu patris. Talia sunt multa testimonia in scriptura, ut prov p°, ys. p°, Malac p°, cum aliis. Ex quibus motus fuit beatus gregorius dicere pro prelatis indignis: Cuncti liquido novimus cum is qui displicet ad intercedendum mittitur irati animus proculdubio ad deterius provocatur, ut patet in suo Et in canone 3ª questio 7ª si quis in [p. 48] gravibus. Unde augustinus alludens iste sentencie dicit quod observans debite mandata domini quicquid fecerit vel quicquid dixerit laudat deum. Et per consequens prevaricator e contrario nocet sibi et infert malum ecclesie militanti. Si inquit vinolencia te ingurgites quantaslibet laudes reseret lingua tua, vita tua blasfemat. Propter talia multi estimant quod plures oratores de hiis sectis 4or sunt in capitulo scarioth de quo ps° 10° dicitur fiat oracio ejus in peccatum, et in capitulo eorum de quibus Malachie 2ᵈᵒ dicitur maledicam benediccionibus vestris. Ideo a talis oracionibus libera nos domine.
 
-[ENGLISH]
+TRUTH. Likewise such a cloisterer, by turning aside from the law of the Lord, is very displeasing to him, and as such [unfit]{g:indispositus} to pray.[^7] Hence in Proverbs 28 it is written thus: "He that turneth away his ear from hearing the law, his prayer shall become an abomination."[^8] Likewise, as is supposed here, all things are the just's, and especially the poor in spirit's, however abominable they may be in the world's eyes; but the endowed [clergy]{g:clerus} defraud these poor of their substance; therefore, because of this injury, God must of necessity repel their prayer, unless someone blasphemes that one displeasing to God is rather heard in his prayers because he is richer or more excellent in the world.[^9] Hence, in confirmation of this [assumed]{g:assumptum} [teaching]{g:sentencia}, it is written in Ecclesiasticus 34: "He that offereth sacrifice of the goods of the poor, is as one that sacrificeth the son in the presence of the father."[^10] Such are many testimonies in scripture, as Proverbs 1, Isaiah 1, Malachi 1, with others. Moved by these, blessed Gregory said concerning unworthy [prelates]{g:prelatus}: "We all plainly know that when one who displeases is sent to intercede, the mind of the angry one is without doubt provoked to worse," as is clear in his Pastoral [Rule]; and in the canon [law], [Causa] 3, question 7, "Si quis in [48] gravibus."[^11] Hence Augustine, alluding to this teaching, says that one who duly observes the Lord's commandments praises God in whatever he does or whatever he says. And by consequence the [transgressor]{g:prevaricator}, on the contrary, harms himself and brings evil on the [church militant]{g:ecclesia-militans}. "If," he says, "you gorge yourself with drunkenness, whatever praises your tongue may utter, your life blasphemes."[^12] Because of such things many reckon that many who pray, of these four sects, are in the chapter of Iscariot, of whom it is said in Psalm 108, "May his prayer be turned to sin," and in the chapter of those of whom it is said in Malachi 2, "I will curse your blessings."[^13] Therefore from such prayers deliver us, O Lord.
 
 ## Pollard's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/dialogus/raw/leaves/ or archive.org/download/latinworks22wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 45.4: man knows how far God ac- r 1 ^ cepts his prayers.
-- 45.7: B. 12 b. even if he is
-- 45.7: doomed to Heaven or Heii.
-- 45.9: He may thus be selling devil's prayers.
-- 45.14: Even if the seller's prayers . have merit he cannot tell they
-- 45.16: C. 14 a. avaii the
-- 45.16: jjii God aione can assign the fruits merit-
-- 45.21: Mend. objects :
-- 45.22: You make prayer, for dead Hving, of no effect, and revert Fataiism.
-- 45.27: famesv. 17. Against the P " authority of « . r
-- 45.28: Christ and S. James.
+- 45.21: *Mend.* objects:
+- 45.22: You make prayer, for dead or living, of no effect, and revert to Fatalism.
+- 45.27: Against the authority of Christ and S. James.
 - 46.2: Tempting men to despair.
-- 46.4: Ver. answers
-- 46.7: Men pray by the same necessity m m mm m as they do other
-- 46.11: But where have you learnt that they shouid pray for hire ?
-- 46.14: God hides from us the efficacy of our prayers to 110 b. prevent such
-- 46.16: ThTefficacy prayer variesas God s love to the 1 ' supphant. B1. 156
-- 46.21: Andastheiove is unknown, so is .... — , the efficacy.
-- 46.26: Afictionhas been invented that the prayer even of foredoomed priests and monks is 01 1 ■
-- 46.29: be?nidoffered the Church.
-- 47.2: Butiftheprayers any sect have r of
-- 47.4: ',sect of
-- 47.6: How can foredoomed popes or monks, members of the devil s r r '
-- 47.8: ^J^Jof Christ?
-- 47.9: their
-- 47.14: God is deaf to the prayers of
-- 47.16: xxmii. 9.
-- 47.19: And therefore to those of the
-- 47.20: 20 ciergy who
-- 47.20: disobey the law 0 r r J of poverty.
-- 47.22: Theh-weaith wiii not win God's r r eaF' but wiU , bnng them under
-- 47.25: cus xxxiv. SeSudedthe^6
-- 47.31: carf'iob
-- 48.1: Augustine teiis us that as the good man praises God by his every
-- 48.3: of theSckedises
-- 48.4: b'as"
-- 48.4: phemy
-- 48.8: cix. 7.
-- 48.9: God deliver us Mal. ii. 2. from prayers that bnngacurse.
-- 48.13: Mend. objects:
-- 48.14: fo^the^Pop^and ciergy shouid be C. suppressed. r Robbed of their lands they would perish, leaving no one to grant 1 ° *
-- 48.18: o"daineetcS' Must christ descend from everihe
-- 48.21: needs counsei ?
-- 48.22: Youwouidnot dare argue so before the Pope.
-- 48.24: Ver. answers
-- 48.26: if 1 shrank it would be but n from bodiiy fear.
+- 46.4: *Ver.* answers:
+- 46.7: Men pray by the same necessity as they do other things.
+- 46.11: But where have you learnt that they should pray for hire?
+- 46.14: God hides from us the efficacy of our prayers to prevent such sales.
+- 46.16: The efficacy of prayer varies as God's love to the suppliant.
+- 46.21: And as the love is unknown, so is the efficacy.
+- 46.26: A fiction has been invented that the prayer even of foredoomed priests and monks is of untold value, as being offered by the Church.
+- 47.2: But if the prayers of any sect have special efficacy, it will be those of the 'sect of Christ.'
+- 47.6: How can foredoomed popes or monks, members of the devil's church, have the virtue of Christ's Church for their prayers?
+- 47.14: God is deaf to the prayers of the disobedient.
+- 47.19: And therefore to those of the clergy who disobey the law of poverty.
+- 47.22: Their wealth will not win God's ear, but will bring them under the curse of those who offer to Him of what they have defrauded the poor.
+- 48.1: Augustine tells us that as the good man praises God by his every act, so the praises of the wicked turn to blasphemy.
+- 48.9: God deliver us from prayers that bring a curse.
 
 ## Notes
+
+[^1]: **S.** Jas. 5:17–18, in Douay–Rheims. Wyclif's *annis tribus et mensibus sex* for the Vulgate's *annos tres, et menses sex* does not change the sense. The future *dicet* is printed; rendered "says".
+
+[^2]: **C/T.** *Consequencie colorem*: any plausible show of a valid inference from "all things come about of necessity" to "prayer does not avail". For *erubescis inevidenter* B, C read *evidenter videris* (B corrected from *potes*), B¹ *evidenter potes* with *videris* in the margin: "you are not seen to infer blasphemy evidently".
+
+[^3]: **C.** *Dominos divites et pauperes*: taken as one object, "lords, rich and poor". It could be three: "lords, the rich, and the poor". B, B¹, C read *suas oraciones*; at 46.24 they read *Unde* for *Et tamen*.
+
+[^4]: **R.** The father of lies is the devil (John 8:44, "he is a liar, and the father thereof"), and the phrase glances at the speaker Mendacium, Falsehood. *Sophisticantur*, deponent: "play the sophist", argue speciously.
+
+[^5]: **T/G.** *Carectar* is printed; B, B¹, C read *caracter*, translated. The perceptible character is the mark imprinted in ordination, set against the order "which he himself imprints".
+
+[^6]: **S.** Ps. 25:5 (Vulgate), *odivi ecclesiam malignantium*; DR "the assembly of the malignant". "Church" is kept for *ecclesia* because the clause is set against "the church of Christ" that follows.
+
+[^7]: **C/T.** *Est sibi valde ingratus*: *sibi* is taken of the Lord just named and *ingratus* as "displeasing"; "very ungrateful to him" is possible. So too *deo ingratus* at 47.21, where B, B¹, C read *deo sit gratus*: "blasphemes that [such a man] is pleasing to God". B, B¹, C omit *talis* at 47.13.
+
+[^8]: **S.** Prov. 28:9. Wyclif has *aurem suam* and *fiet* for the Vulgate's *aures suas* and *erit*: translated from his Latin, otherwise DR.
+
+[^9]: **S.** *Justorum sunt omnia*: the maxim that all things belong to the just, which Wyclif draws from Augustine, Ep. 93 (from memory) (LEDGER D23-1).
+
+[^10]: **S.** Ecclus. 34:24 (Pollard's xxxiv. 20). Wyclif has *de substancia* for *ex substantia* and omits *sui* after *patris*; hence "the father", not DR's "his father". Pollard refers the three chapter-references to Prov. 1:28, Isa. 1:11–15, Mal. 1:7–8 (LEDGER D23-2).
+
+[^11]: **S.** Gregory, *Regula pastoralis* I.10, as Pollard's margin gives it (LEDGER D23-3); "Rule" is supplied for *in suo pastorali*. B, C omit *patet*. "In the canon": Gratian's *Decretum*, C. 3 q. 7, cited by its incipit *Si quis in gravibus*, left in Latin (LEDGER D23-4).
+
+[^12]: **S.** Augustine, both the paraphrase and the quotation: *Enarrationes in Psalmos* 148.2 (from memory) (LEDGER D23-5). B, C read *violencia* for *vinolencia*.
+
+[^13]: **T/S.** The print has *ps° 10°*; B, B¹, C read *108*, the Vulgate psalm (Ps. 108:7; Pollard's Ps. cix. 7), translated. It is the psalm Acts 1:20 applies to Judas Iscariot. *Capitulum* is both a chapter of scripture and the chapter of a religious house. *Plures oratores* could be "most who pray". The four sects are Wyclif's usual count of the orders (LEDGER D23-6). The closing words take the form of the litany's petitions (*A … libera nos, Domine*); B¹, C read *talibus* for *talis*.
 
 ## Transcription notes
 
@@ -104,4 +98,6 @@ status: draft
   - 45: *∅* (English side-note word leaked into the column (layout error shared across scans)) [OVERRIDE]
   - 47: *p°,* (plate) [OVERRIDE]
   - 47: *p°,* (plate) [OVERRIDE]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference Matt. vi. (45.26); reference Prov. the disobedient. (47.15); reference Ecclesiasti- (47.24); reference Prov. i. 28. poor* (47.26); reference Malachi (47.28); reference Greg. Reg. (47.30).
+- **Omitted per §3.5 / kept in the English** (margin matter): references Matt. vi. 5–14 (45.26), James v. 17 (45.27), Prov. xxviii. 9 (47.15), Ecclesiasticus xxxiv. 20 (47.24), Prov. i. 28 (47.26), Isaiah i. 11–15 (47.27), Malachi i. 7, 8 (47.28), Greg. Reg. Past. Lib. i. cap. 10 (47.29), Ps. cix. 7 (48.8), Mal. ii. 2 (48.9).
+- **MS folio marks omitted per §3.5:** B. 12 c. (46.5), 110 b. (46.15), B¹. 156 a. (46.18), C. 14 b. (47.1), B. 12 d. (47.3), B. 13 a. (47.28), B¹. 156 b. (48.6), 111. (48.7).
+- **Pollard's apparatus** read on plates n76–n79; variants that bear on the sense are in the notes.

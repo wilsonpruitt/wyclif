@@ -1,6 +1,7 @@
 pos	rule	forms	support	voters	resolution
 17	R3a	latinworks22wycl=sentenciam | 11663460bsb=sentenciam | dialogussivespec00wycl=sentenciam | fordham=sentenciam | iohanniswycliff00wyclgoog=i | iohanniswycliffe05wycl=sentenciam		6	accept
 26	R2	latinworks22wycl=uel | 11663460bsb=uel | dialogussivespec00wycl=uel | fordham=uel | iohanniswycliff00wyclgoog=ueuonesiynf | iohanniswycliffe05wycl=uel		6	accept
+28	PLATE	latinworks22wycl=penaexindeeueniat | 11663460bsb=penaexindeeueniat | dialogussivespec00wycl=penaexindeeueniat | fordham=penaexindeeueniat | iohanniswycliff00wyclgoog=penaexindeeueniat | iohanniswycliffe05wycl=penaexindeeueniat		6	accept
 40	R2	latinworks22wycl=et | 11663460bsb=et | dialogussivespec00wycl=et | fordham=et | iohanniswycliff00wyclgoog=t | iohanniswycliffe05wycl=et		6	accept
 62	DEL	latinworks22wycl=if | 11663460bsb=∅ | dialogussivespec00wycl=∅ | fordham=∅ | iohanniswycliff00wyclgoog=∅ | iohanniswycliffe05wycl=∅		6	accept
 71	R2	latinworks22wycl=bf | 11663460bsb=a | dialogussivespec00wycl=∅ | fordham=a | iohanniswycliff00wyclgoog=a | iohanniswycliffe05wycl=a		6	accept

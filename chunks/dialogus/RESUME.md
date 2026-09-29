@@ -36,6 +36,10 @@
 | 19 | translated (wave 4) | 11 | 91k | 2.7 |
 | 20 | translated (wave 4) | 12 | 87k | 1.9 |
 | 21 | translated (wave 4) | 13 | 95k | 2.6 |
+| 22 | translated (wave 5) | 10 | 94k | 2.4 |
+| 23 | translated (wave 5) | 13 | 111k | 4.1 |
+| 24 | translated (wave 5) | 12 | 101k | 3.0 |
+| 25 | translated (wave 5) | 11 | 94k | 2.2 |
 
 ## Owed at work close (the gate)
 
@@ -51,4 +55,5 @@
 
 ## Next
 
-Wave 5 (22–25) launched 2026-09-28 on Wilson's go. After it: log, commit, report cost, ask before wave 6 (26–29).
+Wave 5 done (≈100k/chunk; longer chapters). Awaiting Wilson: *ordinacio*, *oratores*, *ingratus* + routine
+wave-5 glossary, then go + model for wave 6 = chunks 26–29.

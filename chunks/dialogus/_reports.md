@@ -100,3 +100,35 @@ Not a ledger row: ch. 16 n2 "these three persons" = Benedict, Gregory, Bernard (
 
 ### Cost
 18: 91k / 2.7 min (12 calls) · 19: 91k / 2.7 · 20: 87k / 1.9 · 21: 95k / 2.6. Wave total ≈ 364k.
+
+## Wave 5 (22–25), 2026-09-28
+
+### Ledger rows
+| id | chunk / note | claim | status | how / next step |
+|---|---|---|---|---|
+| D23-1 | 23 / n9 | *justorum sunt omnia* ← Augustine, Ep. 93 | to-verify | check Ep. 93.12 |
+| D23-2 | 23 / n10 | Prov. 1:28, Isa. 1:11–15, Mal. 1:7–8 | editor | Pollard margin 47.26–28 |
+| D23-3 | 23 / n11 | Gregory, *Reg. past.* I.10 | editor | Pollard margin 47.29 |
+| D23-4 | 23 / n11 | Gratian C.3 q.7, *Si quis in gravibus* | to-verify | locate canon |
+| D23-5 | 23 / n12 | Augustine, *En. in Ps.* 148.2 (paraphrase + *vinolencia*) | to-verify | from memory |
+| D23-6 | 23 / n13 | "four sects" = Wyclif's usual count of the orders | to-verify | with D19-1 |
+| D24-1 | 24 / n5 | *dotacione ecclesie presumpta per cesarem* (49.17) = Constantine's endowment | to-verify | with D08-2 |
+
+### Latin doubts → action
+- 44.12–13 *fallaciam laciam*: hyphen half doubled. **Fixed** (OVERRIDE ∅, plate n0075); ch. 22 synced, note 5 rewritten.
+- 49.4 *penaexindeeveniat*: glued in every witness. **Fixed** (OVERRIDE, plate n0080); ch. 24 synced, note 4 rewritten.
+- 52.24 *iinor*: plate *IIIIor*. **Fixed** to *4or* (the established form, cf. 48 *sectis 4or*; OVERRIDE, plate n0083); ch. 25 synced, note 8 rewritten.
+- 48.8 *ps° 10°*: the print really has 10 (all witnesses); B, B¹, C *108* translated, T note 13. Not a dropped numeral.
+- 22: 45.16 *defendere* "to warrant" (B corr., B¹, C *refundere*) print kept, T note 10 (agent asks review). 43.28 *ne* (B¹, C *credis quod*) T n2.
+- 23: 47.5 *carectar* = *caracter*. 48.10 *talis* kept. Agent 23 took 14 calls / 111k (longest chunk yet, 670 words).
+- 24: 49.29 *in patria* (B, B¹ *papa*), 50.30 *habitabilis* (B, B¹, C *ab illis*): print kept, T notes.
+- 25: 52.3 *senefectiore*: B¹ *scenofactorie* "tentmaking" translated (T/S). All 18 side-notes rebuilt from plates (OCR draft unusable).
+
+### Glossary proposals — census = sites in the whole *Dialogus*
+⚠ *ordinacio* (22): "ordinance" (49.18; row) but ch. 24 "the ordination of clerics" (50.21, the sacrament) — SPLIT by referent.
+⚠ *oratores* (5): ch. 23 "many who pray" (*plures oratores*), ch. 25 "bedesmen" (*proprii oratores*; Pollard's side-note word) — SPLIT.
+⚠ *ingratus* (5): ch. 23 "displeasing (to God)", alt. "ungrateful".
+Routine: *papa* pope (34) · *commercari / commercium* to trade / trade (21) · *cesarius* (prelate/priest) caesarean (22; extends *clerus cesareus*) · *indulgencie* indulgences (7) · *sophisticari* play the sophist (6) · *pencio annua* yearly pension (3) · *ordinancia* spelling → *ordinacio* row (3) · *vecordia* → *vecors* row · *fallacia* fallacy · *insinuativus* implied (pairs with *expressus*) · *perplexus* perplexed (moral sense) · *cataracta* trapdoor (1; "floodgate" in C note) · *conducentes* those who hire them.
+
+### Cost
+22: 94k / 2.4 min · 23: 111k / 4.1 (14 calls) · 24: 101k / 3.0 (12) · 25: 94k / 2.2. Wave total ≈ 400k (longer chapters: 476–670 words).
