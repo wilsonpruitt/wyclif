@@ -43,7 +43,7 @@
   read the sources; statuses to `verified` / `untraced`).
 - Tag the 9 terms ruled 2026-09-28 in chunks 01–05 (rendered there untagged, before the ruling);
   "ex fide scripture" sites follow the genitive rule.
-- Tag the 12 wave-2 terms and 13 wave-3 terms (ruled 2026-09-28) at first occurrence in chunks 10–17; *inconveniencia* C notes already in 11, 12.
+- Tag the wave-2/3/4 terms (ruled 2026-09-28) at first occurrence in chunks 10–21; *inconveniencia* C notes already in 11, 12.
 - Ch. 18 Isa. 1:23: D–R wording missing (bible.py gave none); supply it.
 - Plate-check ch. 14 side-note 26.28 "Mend. objects" (kept from the OCR draft).
 
@@ -51,5 +51,4 @@
 
 ## Next
 
-Wave 4 done (≈91k/chunk). Awaiting Wilson: *regnum* split (realm vs kingdom) + wave-4 glossary proposals, then
-go + model for wave 5 = chunks 22–25.
+Wave 5 (22–25) launched 2026-09-28 on Wilson's go. After it: log, commit, report cost, ask before wave 6 (26–29).

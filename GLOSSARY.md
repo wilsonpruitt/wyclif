@@ -57,6 +57,13 @@ otherwise.
 | dominium | **lordship** | Not "dominion". Titles: *De civili dominio* → *On Civil Lordship*; *De dominio divino* → *On Divine Lordship*. |
 | dominus; dominari | lord; to exercise lordship / to lord it | Pick by context (neutral vs. pejorative) and note the pejorative. |
 | dominium civile / naturale / evangelicum | civil / natural / evangelical lordship | |
+| regnum | kingdom | Every sense: the political state as well as the kingdom of God and scripture's kingdoms. Not "realm". Wilson, Ruled 2026-09-28 (27 sites). |
+| dominacio | exercise of lordship | Kept apart from *dominium*. Ruled 2026-09-28 (6 sites). |
+| ordinacio | ordinance | Ruled 2026-09-28 (22 sites). |
+| consuetudo | custom | Ruled 2026-09-28 (28 sites). |
+| autorizare | authorize | Ruled 2026-09-28 (6 sites). |
+| familia | household | A great man's retinue. Ruled 2026-09-28. |
+| magnates | magnates | Ruled 2026-09-28. |
 | capitalis dominus; tenere de | chief lord; to hold of | Feudal tenure language, kept literal: the lords "hold of Christ as chief lord". Pilot (Dialogus 2.19). |
 | titulus | title | As in title to property. |
 | servicium | service | Pair with *dominium* (T. p. 363 n. 19 on the definitions). |
@@ -76,6 +83,10 @@ otherwise.
 | clerus cesareus | the caesarean clergy | Wyclif's term for clergy in secular office. |
 | episcopus; dominus episcopus | bishop; the lord bishop | *Dominis episcopis* → "the lord bishops". The courtesy is his, possibly barbed; don't sharpen it. Pilot. |
 | religio privata; secta | private religion; sect | His name for the religious orders. Keep "sect". |
+| religiosi | the religious | Members of the orders. Ruled 2026-09-28 (8 sites). |
+| claustrales | cloisterers | Ruled 2026-09-28 (20 sites). |
+| doctrina | doctrine | Kept apart from *sentencia*, teaching. Ruled 2026-09-28 (12 sites). |
+| thema | theme | The scripture text of a sermon. Ruled 2026-09-28 (2 sites). |
 | frater | friar (of the mendicants) / brother | By context. |
 | possessionati | the possessioners | Endowed religious. |
 | satrapa | satrap | Derogatory: church-court officials wielding delegated power (T. p. 378 n. 58). Keep the word; note it at first occurrence per work. |
@@ -98,6 +109,8 @@ otherwise.
 | medium inductivum | a middle term that leads on | Ruled 2026-09-28 (*Dial.* 25.5). |
 | ars obligacionis | the art of obligation | The disputation genre *de obligationibus*. Ruled 2026-09-28 (2 sites). |
 | assumptum | the assumption | The premiss taken for the argument. Ruled 2026-09-28 (3 sites). |
+| sentenciare | to pronounce | The verb of *sentencia*. Ruled 2026-09-28 (2 sites). |
+| occasionaliter | by occasion | Occasion, not cause. Ruled 2026-09-28. |
 | quid nominis | what the name means | Not "the name" (T. p. 365). Pilot (*Eccl.* 5.11). |
 | differencia | difference (logical *differentia*) | Pilot (*Eccl.* 1.10). |
 | subiectum / passio | subject / attribute | *Passio* in the *Posterior Analytics* sense (a proper attribute), never "passion". Pilot. |
@@ -148,6 +161,9 @@ otherwise.
 | cautela | wile | Not "caution"; *cautela diaboli*, the devil's wile. Ruled 2026-09-28 (8 sites). |
 | apostema | abscess | A recurring medical figure. Ruled 2026-09-28 (3 sites). |
 | illabi | to flow into | Ruled 2026-09-28. |
+| sub divo | in the open air | The refrain of cap. 21. Ruled 2026-09-28 (10 sites). |
+| vecors; vecorditer | faint-hearted; faint-heartedly | The medieval sense, not classical "senseless". Ruled 2026-09-28 (5 sites). |
+| affectare | to desire | Kept apart from *affeccio*, affection. Ruled 2026-09-28 (3 sites). |
 | infidelitas | heathenism, unbelief | "infidelity" (T. p. 362) |
 | sciolus | knowing, wise | "smatterer" (the classical sense). Neutral in Wyclif. Pilot (*Eccl.* 5.8) |
 | philocaptus | besotted | "philo-captive" (T. p. 363) |
