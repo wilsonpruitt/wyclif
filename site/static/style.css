@@ -182,3 +182,34 @@ body.no-latin .passage { grid-template-columns: 10rem minmax(0, 1fr); }
   border: 1px solid var(--rule); border-radius: 2px; padding: 0.2rem 0.7rem; cursor: pointer; }
 .latin-toggle:hover { border-color: var(--ink); }
 .who-la { font-variant: small-caps; font-feature-settings: "smcp"; letter-spacing: 0.06em; font-size: 1.1em; color: var(--ink); }
+
+/* ---------- home: the Society edition as a shelf ---------- */
+.shelf { margin: 3.5rem 0 0; }
+.spines { display: flex; gap: 2px; height: clamp(11rem, 30vw, 19rem); align-items: stretch;
+  border-bottom: 3px solid var(--ink); padding-bottom: 0; }
+.spine { flex-basis: 0; min-width: 0; display: flex; justify-content: center; align-items: flex-end; overflow: hidden;
+  background: var(--paper-2); border: 1px solid var(--rule); border-bottom: 0; color: var(--ink-2); text-decoration: none; }
+.spine.read { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+.spine.read:hover, .spine.read:focus-visible { background: var(--truth-band); border-color: var(--truth-band); }
+.sp-t { writing-mode: vertical-rl; transform: rotate(180deg); white-space: nowrap; font-size: clamp(0.62rem, 0.9vw, 0.78rem);
+  padding: 0.6rem 0; line-height: 1; font-style: italic; }
+.shelf figcaption { max-width: 40rem; margin-top: 1.4rem; color: var(--ink-2); font-size: 0.95rem; }
+
+.now, .catalogue { max-width: 72rem; margin: 4.5rem auto 0; }
+.now h2, .catalogue h2 { font-size: 1.6rem; margin: 0 0 1.2rem; }
+.work-card { display: block; max-width: 40rem; padding: 1.2rem 1.4rem; border-left: 4px solid var(--truth-band);
+  background: var(--paper-2); text-decoration: none; }
+.work-card:hover { background: var(--rule); }
+.wc-t { display: block; font-size: 1.35rem; line-height: 1.25; }
+.wc-d { display: block; margin-top: 0.5rem; color: var(--ink-2); }
+.vols { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+.vols th { text-align: left; font-weight: 400; font-style: italic; color: var(--ink-2); padding: 0 1rem 0.5rem 0; border-bottom: 1px solid var(--rule); }
+.vols td { padding: 0.45rem 1rem 0.45rem 0; border-bottom: 1px solid var(--rule); vertical-align: baseline; }
+.vols .v-y { font-variant-numeric: lining-nums; color: var(--ink-2); white-space: nowrap; }
+.vols .v-e, .vols .v-s { color: var(--ink-2); }
+.vols tr.read td { color: var(--ink); }
+@media (max-width: 900px) {
+  .sp-t { display: none; }
+  .spines { height: 9rem; gap: 1px; }
+  .vols .v-e { display: none; }
+}

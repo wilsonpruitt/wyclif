@@ -8,6 +8,8 @@ import html, json, os, re, shutil, sys
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 OUT = os.path.join(ROOT, 'site', 'dist')
+WORK = 'dialogus'                                               # the one translated work so far
+WOUT = os.path.join(OUT, WORK)
 CHUNKS = os.path.join(ROOT, 'chunks', 'dialogus')
 SITE = 'https://wyclif.wrootpress.com'
 PLATE = 'https://archive.org/details/latinworks22wycl/page/n{leaf}/mode/1up'
@@ -202,10 +204,10 @@ def page(title, body, depth, desc='', canonical=''):
 {f'<link rel="canonical" href="{SITE}/{canonical}">' if canonical is not None else ''}
 {FONTS}<link rel="icon" href="{up}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{up}style.css?v={ASSET_V}"></head>
 <body>
-<header class="top"><a class="home" href="{up}">Wyclif, <i>Dialogus</i></a>
-<nav><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
+<header class="top"><a class="home" href="{up}">Wyclif’s Latin works</a>
+<nav><a href="{up}dialogus/"><i>Dialogus</i></a><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
 <main>{body}</main>
-<footer><p>Latin: Pollard’s edition (1886), public domain. English, notes and encoding: Wroot Press, <a href="{up}rights/">CC BY-NC 4.0</a>. A working draft.</p></footer>
+<footer><p>Latin: the Wyclif Society edition (1883–1922), public domain. English, notes and encoding: Wroot Press, <a href="{up}rights/">CC BY-NC 4.0</a>. A working draft.</p></footer>
 <script src="{up}site.js?v={ASSET_V}" defer></script>
 </body></html>'''
 
@@ -234,7 +236,8 @@ def build():
 
     for i, c in enumerate(chunks):
         render_chunk(c, i, chunks, gl, page_to)
-    render_index(chunks)
+    render_work(chunks)
+    render_home(chunks)
     render_glossary(gl_rows)
     render_static(chunks, page_to)
     print(f'built {len(chunks)} chunks, {len(page_to)} page anchors -> {OUT}')
@@ -248,7 +251,7 @@ def label(c):
 
 
 def render_chunk(c, i, chunks, gl, page_to):
-    depth = 2
+    depth = 3
     words = {'truth': 0, 'falsehood': 0, None: 0}
     speaker = c['start_speaker']
     rows = []
@@ -308,17 +311,17 @@ def render_chunk(c, i, chunks, gl, page_to):
     pn = '<nav class="pn">' + (f'<a rel="prev" href="../../{prev_["slug"]}/">{label(prev_)}</a>' if prev_ else '<span></span>') + \
          (f'<a rel="next" href="../../{next_["slug"]}/">{label(next_)}</a>' if next_ else '') + '</nav>'
     heading = re.sub(r'^\*Dialogus\*,\s*(?:chapter \d+|Epilog(?:us|ue),? part \w+)\s*[:.]\s*', '', c['title'])
-    body = (f'<article class="chapter"><header class="ch-head"><p class="ch-n">{label(c)}</p>'
+    body = (f'<article class="chapter"><header class="ch-head"><p class="ch-n"><a href="../../"><i>Dialogus</i></a>, {label(c)[0].lower() + label(c)[1:]}</p>'
             f'<h1>{inline(heading[0].upper() + heading[1:], gl)}</h1>'
             f'<p class="ch-pages">Pollard pp. {c["fm"]["pages"]}</p></header>'
             f'<div class="cols-head" aria-hidden="true"><span></span><span>Latin</span><span>English</span></div>'
             + ''.join(rows) +
             (f'<section class="notes"><h2>Notes</h2><ol>{notes}</ol>{trans}</section>' if notes else '') +
             pn + '</article>')
-    d = os.path.join(OUT, c['slug'])
+    d = os.path.join(WOUT, c['slug'])
     os.makedirs(d, exist_ok=True)
     desc = f'{label(c)} of Wyclif’s Dialogus (1379), Latin and English: {re.sub(r"[*]", "", heading)}.'
-    open(os.path.join(d, 'index.html'), 'w').write(page(f'{label(c)}: {re.sub(r"[*]", "", heading)} · Wyclif, Dialogus', body, depth, desc, c['slug'] + '/'))
+    open(os.path.join(d, 'index.html'), 'w').write(page(f'{label(c)}: {re.sub(r"[*]", "", heading)} · Wyclif, Dialogus', body, depth, desc, f"{WORK}/{c['slug']}/"))
 
 
 def trans_html(text, gl):
@@ -335,7 +338,7 @@ def trans_html(text, gl):
     return '<ul>' + ''.join(out) + '</ul>'
 
 
-def render_index(chunks):
+def render_work(chunks):
     maxw = max(sum(c['words'].values()) for c in chunks)
     groups = [(t, [c for c in chunks if 'epil' not in c['f'] and a <= int(c['fm']['chunk_id'].split('-')[-1]) <= b]) for t, a, b in MOVEMENTS]
     groups.append(('Epilogue', [c for c in chunks if 'epil' in c['f']]))
@@ -371,8 +374,66 @@ the undyed gowns of Wyclif’s poor priests, and <span class="key falsehood">Fal
 and in a dozen chapters none at all; Truth answers at length. After the third chapter, Pollard notes, “Veritas is Wyclif, and Wyclif only.”</figcaption>
 </figure></section>
 <section class="contents"><h2>Contents</h2>{"".join(toc)}</section>'''
-    open(os.path.join(OUT, 'index.html'), 'w').write(page('Wyclif, Dialogus: Latin and English', body, 0,
+    os.makedirs(WOUT, exist_ok=True)
+    open(os.path.join(WOUT, 'index.html'), 'w').write(page('Dialogus: Latin and English · Wyclif', body, 1,
         'John Wyclif’s Dialogus sive Speculum Ecclesie Militantis (1379): the Latin of Pollard’s edition with a new English translation and notes.', ''))
+
+
+# Display titles for the shelf, from the title pages (catalog/volumes.json keeps the working notes).
+SHELF_TITLES = {
+    'polemical-1': 'Polemical Works I', 'polemical-2': 'Polemical Works II', 'compositione': 'De compositione hominis',
+    'civ-dom-1': 'De civili dominio I', 'ecclesia': 'De ecclesia', 'dialogus': 'Dialogus', 'incarnacione': 'De benedicta incarnacione',
+    'sermones-1': 'Sermones I', 'officio-regis': 'De officio regis', 'sermones-2': 'Sermones II', 'apostasia': 'De apostasia',
+    'sermones-3': 'Sermones III', 'dominio-divino': 'De dominio divino', 'sermones-4': 'Sermones IV', 'ente-praed': 'De ente praedicamentali',
+    'eucharistia': 'De eucharistia', 'blasphemia': 'De blasphemia', 'logica-1': 'De logica I', 'opus-evang-1': 'Opus evangelicum I–II',
+    'opus-evang-2': 'Opus evangelicum III–IV', 'logica-2': 'De logica II', 'simonia': 'De simonia', 'logica-3': 'De logica III',
+    'civ-dom-2': 'De civili dominio II', 'misc-phil-1': 'Miscellanea philosophica I', 'civ-dom-3a': 'De civili dominio III, part 1',
+    'civ-dom-3b': 'De civili dominio III, part 2', 'misc-phil-2': 'Miscellanea philosophica II', 'veritate': 'De veritate sacrae scripturae I–III',
+    'potestate-pape': 'De potestate pape', 'ente-excerpta': 'De ente librorum duorum', 'opera-minora': 'Opera minora', 'mandatis': 'De mandatis divinis',
+}
+READ_NOW = {'dialogus': 'dialogus/'}
+
+
+def render_home(chunks):
+    vols = json.load(open(os.path.join(ROOT, 'catalog', 'volumes.json')))
+    leaves = {k: int(v) for k, v in json.load(open(os.path.join(ROOT, 'catalog', 'leaves.json'))).items()}
+    vols.sort(key=lambda v: (int(v['year'][:4]), v['queue']))
+    total = sum(leaves[v['slug']] for v in vols)
+    spines, rows = [], []
+    for v in vols:
+        s, n = v['slug'], leaves[v['slug']]
+        if s.startswith('civ-dom'):                                  # the catalogue lists all four volumes' editors together
+            v['editor'] = 'R. L. Poole' if s == 'civ-dom-1' else 'J. Loserth'
+        title = SHELF_TITLES[s]
+        href = READ_NOW.get(s)
+        inner = f'<span class="sp-t">{html.escape(title)}</span>'
+        tip = f'{title}, ed. {v["editor"]}, {v["year"]}' + (' (Latin and English)' if href else '')
+        spines.append(f'<a class="spine read" href="{href}" style="flex-grow:{n}" title="{html.escape(tip)}">{inner}</a>' if href else
+                      f'<span class="spine" style="flex-grow:{n}" title="{html.escape(tip)}">{inner}</span>')
+        status = f'<a href="{href}">Latin and English</a>' if href else 'Latin only, for now'
+        rows.append(f'<tr{" class=read" if href else ""}><td class="v-y">{v["year"]}</td><td class="v-t"><i>{html.escape(title)}</i></td>'
+                    f'<td class="v-e">{html.escape(v["editor"])}</td><td class="v-s">{status}</td></tr>')
+    d_words = sum(sum(c['words'].values()) for c in chunks)
+    body = f"""<section class="hero">
+<h1 class="title"><span class="t-la">Wyclif</span><span class="t-sub">The Latin works, in English</span></h1>
+<p class="lede">John Wyclif (c. 1330–1384) wrote in Latin. The Wyclif Society printed his Latin works in {len(vols)} volumes
+between 1883 and 1922, and most of them have never been translated into English in full. This site sets the Society’s
+Latin beside a new English translation, one work at a time.</p>
+<figure class="shelf" aria-label="The Wyclif Society edition as a shelf of {len(vols)} volumes">
+<div class="spines">{''.join(spines)}</div>
+<figcaption>The Society’s edition on one shelf, in order of publication, each volume as thick as it is long
+(about {round(total, -3):,} scanned pages in all). The dark spine can be read here now: the <a href="dialogus/"><i>Dialogus</i></a>,
+Pollard’s edition of 1886.</figcaption>
+</figure></section>
+<section class="now"><h2>Read now</h2>
+<a class="work-card" href="dialogus/"><span class="wc-t"><i>Dialogus sive Speculum Ecclesie Militantis</i></span>
+<span class="wc-d">Truth and Falsehood argue over whether the church should own property. Written in 1379; 36 chapters and an
+Epilogue, about {d_words // 1000 * 1000:,} words of English.</span></a></section>
+<section class="catalogue"><h2>The Wyclif Society edition</h2>
+<table class="vols"><thead><tr><th>Year</th><th>Volume</th><th>Editor</th><th>On this site</th></tr></thead><tbody>{''.join(rows)}</tbody></table>
+</section>"""
+    open(os.path.join(OUT, 'index.html'), 'w').write(page('Wyclif’s Latin works, in English', body, 0,
+        'The Latin works of John Wyclif, as the Wyclif Society printed them (1883–1922), with a new English translation, work by work.', ''))
 
 
 def render_glossary(rows):
@@ -387,7 +448,7 @@ def render_glossary(rows):
             'Wyclif’s arguments turn on his words coming back, so the translation keeps them recognisable. '
             'In the text, a dotted underline marks a glossary term; hover over it or focus it to see the Latin.</p>' + ''.join(out) + '</article>')
     d = os.path.join(OUT, 'glossary'); os.makedirs(d)
-    open(os.path.join(d, 'index.html'), 'w').write(page('Glossary · Wyclif, Dialogus', body, 1, 'The fixed English renderings of Wyclif’s key terms.', 'glossary/'))
+    open(os.path.join(d, 'index.html'), 'w').write(page('Glossary · Wyclif’s Latin works', body, 1, 'The fixed English renderings of Wyclif’s key terms.', 'glossary/'))
 
 
 def render_static(chunks, page_to):
@@ -396,15 +457,19 @@ def render_static(chunks, page_to):
         if name.endswith('.html'):
             d = os.path.join(OUT, name[:-5]); os.makedirs(d)
             title, _, body = open(os.path.join(src, name)).read().partition('\n')
-            open(os.path.join(d, 'index.html'), 'w').write(page(title + ' · Wyclif, Dialogus', body, 1, title, name[:-5] + '/'))
+            open(os.path.join(d, 'index.html'), 'w').write(page(title + ' · Wyclif’s Latin works', body, 1, title, name[:-5] + '/'))
         else:
             shutil.copy(os.path.join(src, name), OUT)
     for p, target in page_to.items():                                   # /p/27/ -> the chapter, at page 27
-        d = os.path.join(OUT, 'p', str(p)); os.makedirs(d)
+        d = os.path.join(WOUT, 'p', str(p)); os.makedirs(d)
         open(os.path.join(d, 'index.html'), 'w').write(
-            f'<!doctype html><meta charset="utf-8"><title>Page {p}</title><link rel="canonical" href="{SITE}/{target}">'
+            f'<!doctype html><meta charset="utf-8"><title>Page {p}</title><link rel="canonical" href="{SITE}/{WORK}/{target}">'
             f'<meta http-equiv="refresh" content="0; url=../../{target}"><a href="../../{target}">Pollard p. {p}</a>')
-    urls = [''] + [c['slug'] + '/' for c in chunks] + ['glossary/', 'about/', 'rights/']
+    urls = ['', f'{WORK}/'] + [f"{WORK}/{c['slug']}/" for c in chunks] + ['glossary/', 'about/', 'rights/']
+    json.dump({'redirects': [{'source': '/cap/:n', 'destination': f'/{WORK}/cap/:n', 'permanent': True},
+                             {'source': '/epilogus/:x', 'destination': f'/{WORK}/epilogus/:x', 'permanent': True},
+                             {'source': '/p/:n', 'destination': f'/{WORK}/p/:n', 'permanent': True}]},
+              open(os.path.join(OUT, 'vercel.json'), 'w'), indent=1)
     open(os.path.join(OUT, 'sitemap.xml'), 'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' +
         ''.join(f'<url><loc>{SITE}/{u}</loc></url>' for u in urls) + '</urlset>\n')
     open(os.path.join(OUT, 'robots.txt'), 'w').write(f'User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n')
