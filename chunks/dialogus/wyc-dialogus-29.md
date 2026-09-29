@@ -82,8 +82,8 @@ TRUTH. It seems to me that no more evident arrow has come out of your quiver. Bu
   - 60: *Mendacium.* (speaker, small caps) [DEL]
   - 60: *elemosinis* [R3]
   - 61: *Mᵗ* (superscript t) [R4]
-  - 61: *ad quid nisi ad* (pivot line garbled: two tokens for five words) [THIN]
-  - 61: *distribuendum* [THIN]
+  - 61: *ad quid nisi ad* (pivot line garbled: two tokens for five words) — plate-confirmed 2026-09-29
+  - 61: *distribuendum* — plate-confirmed 2026-09-29
   - 61: *domini* (do-|mini) [R3]
   - 62: *est* [R3]
   - 62: *∅* (side-note "is") [DEL]
