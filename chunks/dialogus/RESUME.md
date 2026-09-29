@@ -79,3 +79,6 @@
 **Translation complete: 38/38 chunks `translated` (2026-09-28).** Next is the close-out gate above (ledger merge +
 verification pass, glossary tagging of rulings in 01–38, majority-error sweep, four-class spot check, lint all, PLAN
 cost table). Ask Wilson before starting it: it is its own token run.
+Estimate 400–700k (mostly the ledger verification: fetch and read sources). Suggested split: glossary tagging
+and lint are mechanical (Sonnet); ledger verification, the majority-error sweep's plate checks and the spot
+check want Opus. Wilson chose (2026-09-29) to run close-out in a fresh session.
