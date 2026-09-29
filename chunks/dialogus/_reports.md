@@ -73,3 +73,30 @@ Not a ledger row: ch. 16 n2 "these three persons" = Benedict, Gregory, Bernard (
 
 ### Cost
 14: 87k / 2.4 min · 15: 95k / 2.8 · 16: 87k / 2.1 · 17: 85k / 2.0 — 6–9 tool calls. Wave total ≈ 354k.
+
+## Wave 4 (18–21), 2026-09-28
+
+### Ledger rows
+| id | chunk / note | claim | status | how / next step |
+|---|---|---|---|---|
+| D19-1 | 19 / n1 | *quatuor sectas cleri* = endowed secular clergy, monks, canons, friars | to-verify | his later polemical works |
+| D19-2 | 19 / n1 | *quatuor sectas fratrum* = Franciscans, Dominicans, Carmelites, Austin friars | to-verify | standard identification |
+| D20-1 | 20 / n1 | black canons = Augustinian, white = Premonstratensian; *boni homines* = the English Bonshommes | to-verify | a standard orders reference |
+| D20-2 | 20 / n5 | *istas 8 species* = the eight kinds of religious listed at 39.4–8 | to-verify | count the list / earlier eightfold list |
+| D20-3 | 20 / n6 | John 8:46 | editor | Pollard margin; text via bible.py |
+| D20-4 | 20 / n7 | the church's three parts = the three estates | to-verify | Wyclif's own statement in the *Dialogus* (cap. 1; ch. 18 n3 cites chunks 01–02) |
+| D21-1 | 21 / n1 | *Regula quam fecit papa gregorius*: Gregory I (Dial. II, life of Benedict), credited by Wyclif with the monks' rule | to-verify | Wyclif on Gregory/Benedict elsewhere |
+
+### Latin doubts → action (no Latin surface fixes this wave)
+- 18: 35.8–9 *catholica quia fides*, verb supplied "[it is]" (C). 35.11 *inficere* "taint", alt. *inficiari* "deny" (C). 35.15 *dei* (B, B¹, C *ei*) print kept (T). Isa. 1:23: bible.py gave no D–R text, Latin quoted only (check at close-out).
+- 19: 37.13 *similando* = *simulando* (plate: B *asimulando*, B¹ C *asimilando*). 38.8 *proderint*: C *prodiderint* translated. 38.24 *sicitato*: B, B¹, C *febricitato* translated. 38.17 *inconstanter* (MSS *constanter*) print kept. 37.29 *autoritati* kept.
+- 20: 40.2 *istas 8*: Latin already has the numeral (wave-1 fix); plate prints *8°*. 40.19 *difficultans ac illibertans*: B, B¹, C *-antibus* translated (n8). 40.28 *[in auctoritate]*, Pollard's supplement (n10).
+- 21: 43.16 *nudarent*: B, B¹, C *nudarentur* translated (T). 42.21 *fide[m]* Pollard's emendation, MSS variant in T note. 43.13 *ista evidencia* odd (C). Agent filled the chunk by script, not one Write; Latin diffed against HEAD, unchanged. Notes denser than card target (13 in 551 words; heavy apparatus).
+- Coordinator: ch. 18 had put three MS folio marks (36.1 C. 11 a., 36.16 B. 9 d., 36.23 B¹. 154 c.) among the side-notes; moved to its transcription notes per §3.5.
+
+### Glossary proposals (for ruling) — census = sites in the whole *Dialogus*
+⚠ *regnum* (27 sites, 16 pp.): ch. 18 "realm(s)" ×5, ch. 19 "kingdoms" (political) ×2 — SPLIT.
+*ordinacio* ordinance (22; ch. 03, 20 agree) · *claustrales* cloisterers (20; ch. 21) · *consuetudo* custom (28) · *doctrina* doctrine (12; kept apart from *sentencia*) · *sub divo* in the open air (10) · *religiosi* the religious (8) · *dominacio* exercise of lordship (6; apart from *dominium*) · *autorizare* authorize (6) · *vecors / vecorditer* faint-hearted(ly) (5; medieval sense) · *affectare* to desire (3; apart from *affeccio*) · *sentenciare* to pronounce (2) · *thema* theme, the sermon text (2) · *familia* household (1) · *occasionaliter* by occasion (1) · *magnates* magnates (1). *Secta Christi* "sect of Christ": the *secta* row (§B) already says "keep sect"; no new row.
+
+### Cost
+18: 91k / 2.7 min (12 calls) · 19: 91k / 2.7 · 20: 87k / 1.9 · 21: 95k / 2.6. Wave total ≈ 364k.

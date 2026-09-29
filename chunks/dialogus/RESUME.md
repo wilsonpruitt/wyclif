@@ -32,6 +32,10 @@
 | 15 | translated (wave 3) | 10 | 95k | 2.8 |
 | 16 | translated (wave 3) | 8 | 87k | 2.1 |
 | 17 | translated (wave 3) | 7 | 85k | 2.0 |
+| 18 | translated (wave 4) | 11 | 91k | 2.7 |
+| 19 | translated (wave 4) | 11 | 91k | 2.7 |
+| 20 | translated (wave 4) | 12 | 87k | 1.9 |
+| 21 | translated (wave 4) | 13 | 95k | 2.6 |
 
 ## Owed at work close (the gate)
 
@@ -40,10 +44,12 @@
 - Tag the 9 terms ruled 2026-09-28 in chunks 01–05 (rendered there untagged, before the ruling);
   "ex fide scripture" sites follow the genitive rule.
 - Tag the 12 wave-2 terms and 13 wave-3 terms (ruled 2026-09-28) at first occurrence in chunks 10–17; *inconveniencia* C notes already in 11, 12.
+- Ch. 18 Isa. 1:23: D–R wording missing (bible.py gave none); supply it.
 - Plate-check ch. 14 side-note 26.28 "Mend. objects" (kept from the OCR draft).
 
 - Four-class spot check across chunks; lint all; rewrite PLAN's cost table from the measured rate.
 
 ## Next
 
-Wave 4 (18–21) launched 2026-09-28 on Wilson's go. After it: log, commit, report cost, ask before wave 5 (22–25).
+Wave 4 done (≈91k/chunk). Awaiting Wilson: *regnum* split (realm vs kingdom) + wave-4 glossary proposals, then
+go + model for wave 5 = chunks 22–25.
