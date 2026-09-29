@@ -90,7 +90,7 @@ every page, citation by work + page.line, `/rights`, the credit line for Fordham
 Dialogus plus the De ecclesia opening. ⛔ **Deploy to wyclif.wrootpress.com only on Wilson's
 per-deploy OK** (DNS via Cloudflare, per [[reference_domains-cloudflare]]).
 
-**M5: Tier 1 in queue order (Opus),** one volume at a time. **Stop before each volume** with its
+**M5: Tier 1 in queue order (Opus),** one volume at a time, by **`WORKFLOW.md`** (the single-pass brief workflow, 2026-09-29). **Stop before each volume** with its
 token estimate and ask "which model, and go?" (hard stop 6). The first chunk of each volume gets a
 fresh-session review against the §14 four-class check before the rest of the volume runs.
 
