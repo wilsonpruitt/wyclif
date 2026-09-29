@@ -64,7 +64,12 @@ TRUTH. I perceive that you have, as if it were inborn, the cunning to set falseh
 
 [^9]: **C.** *Iste persone* is taken as the church's multitude of Falsehood's speech (29.2), which "exalts" the prelates to blessedness. B, B¹, C read *illum* for *istum*.
 
-[^10]: **S.** Possidius, *Vita Augustini*; Jerome's refusal of possessions (LEDGER D15-2, D15-3). B, B¹, C read *quod* for *quando*.
+[^10]: **S.** Possidius, *Vita Augustini* 23 (PL 32:53): Augustine told his people he was ready to give up the
+    church's possessions to them, *sed nunquam id laici suscipere voluerunt*; Wyclif tells the story again in
+    the Epilogue (p. 88), where Pollard's margin gives "Vita Aug. c 23" (LEDGER D15-2). For Jerome no single
+    source has been found; compare his letters to Nepotian (Ep. 52.5: the cleric whose portion is the Lord can
+    have *nihil extra Dominum*, PL 22:531) and to Paulinus (Ep. 58.5: *si … monachus, … quid facis in
+    urbibus?*, PL 22:582–583) (LEDGER D15-3). B, B¹, C read *quod* for *quando*.
 
 ## Transcription notes
 

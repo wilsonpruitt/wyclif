@@ -54,7 +54,7 @@ TRUTH. Once this [teaching]{g:sentencia} moved me, but he who separated me from 
 
 [^1]: **T/C.** *Secularis*: most likely "a secular [cleric]", as against the religious, since the colleges Falsehood defends were founded for seculars; it could also mean "a layman". For *fidem* (53.17) B, B¹, C read *legem*; for *universitatibus collegia* (53.18) B, B¹, C read *universalibus collegiis*; for *ecclesiis* (53.19) they read *elemosinis*, "alms", and *stabiliti* for *stabilita*.
 
-[^2]: **T/R.** For *in fine temporum* (53.20) B, B¹, C read *fratrum temporibus*, "in the friars' times". The eucharistic "heresy" Falsehood cites is the controversy in which Wyclif's own teaching was condemned at Oxford in 1381 (LEDGER D26-1); Truth turns the charge back at 54.23–25.
+[^2]: **T/R.** For *in fine temporum* (53.20) B, B¹, C read *fratrum temporibus*, "in the friars' times". The eucharistic "heresy" Falsehood cites: Pollard (intro p. vi) calls the phrase "very Wyclifite language" in Falsehood's mouth, and at 54.23–25 Truth names as heresy the doctrine of the host as an *accidens … sine subjecto* taught by the new sects. Read in character, Falsehood would mean Wyclif's own eucharistic teaching, already in dispute when the *Dialogus* was written (1379, Pollard pp. xix–xx); its condemnation at Oxford by Chancellor Berton's council came later, in 1380 or 1381 (Pollard p. xix n. 1 doubts the usual 1381) (LEDGER D26-1).
 
 [^3]: **S/T.** Gal. 1:15 recast: the Vulgate has *qui me segregavit ex utero matris meae*, "who separated me from my mother's womb"; Wyclif puts *affecionis proprietarie*, "proprietary affection", in place of the mother. B, B¹, C omit *et dei* (53.25).
 

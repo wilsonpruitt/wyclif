@@ -43,7 +43,11 @@ TRUTH. The faith and religion of Christ must be spoken publicly, for if God will
 
 ## Notes
 
-[^1]: **R.** *Monachis tam nigris quam albis*: the black monks (Benedictines) and the white monks (Cistercians). *Regula quam fecit papa gregorius*: presumably Gregory I, whose *Dialogues* II is the life of Benedict; Wyclif ascribes the monks' rule to him again at 42.26 (LEDGER D21-1).
+[^1]: **R.** *Monachis tam nigris quam albis*: the black monks (Benedictines) and the white monks
+    (Cistercians). *Regula quam fecit papa gregorius*: Gregory I (so Pollard's index), whose *Dialogues* II is
+    the life of Benedict. Wyclif says elsewhere that the monks' patron is Benedict *et regula, quam ex eius
+    sentencia beatus Gregorius compilavit* (*De Christo et suo adversario Antichristo* c. 2), and he ascribes
+    the monks' rule to Gregory again at 42.26 (LEDGER D21-1).
 
 [^2]: **R/T.** *Utrumque brachium ecclesie*: the spiritual and the secular arm, glossed by Wyclif himself as priests and secular lords. B, B¹, C add *cum spremento*, "with contempt", after *derideret* (41.19).
 
