@@ -74,8 +74,7 @@ TRUTH. Likewise such a cloisterer, by turning aside from the law of the Lord, is
 
 [^10]: **S.** Ecclus. 34:24 (Pollard's xxxiv. 20). Wyclif has *de substancia* for *ex substantia* and omits *sui* after *patris*; hence "the father", not DR's "his father". Pollard refers the three chapter-references to Prov. 1:28, Isa. 1:11–15, Mal. 1:7–8 (LEDGER D23-2).
 
-[^11]: **S.** Gregory, *Regula pastoralis* I.10, as Pollard's margin gives it (LEDGER D23-3); "Rule" is supplied for *in suo pastorali*. B, C omit *patet*. uncti enim liquido novimus …* (PL 187:694A); Wyclif's *si
-    quis in gravibus* gives the incipit loosely and is left in Latin (LEDGER D23-4).
+[^11]: **S.** Gregory, *Regula pastoralis* I.10, as Pollard's margin gives it (LEDGER D23-3); "Rule" is supplied for *in suo pastorali*. B, C omit *patet*. "In the canon": Gratian's *Decretum*, C. 3 q. 7 c. 5, which begins *In gravibus peccatis quis positus* and goes on with the same sentence of Gregory, *Cuncti enim liquido novimus …* (PL 187:694A); Wyclif's *si quis in gravibus* gives the incipit loosely and is left in Latin (LEDGER D23-4).
 
 [^12]: **S.** Augustine, *Enarrationes in Psalmos* 146.2 (PL 37:1899–1900): the paraphrase gives the argument
     of the section (right eating and drinking praise God, *et cibus tuus et potus tuus laudat Deum*), and the
@@ -83,7 +82,7 @@ TRUTH. Likewise such a cloisterer, by turning aside from the law of the Lord, is
     sonet, vita blasphemat*. *En. in Ps.* 148.2 makes the same point (*Non cesset bene vivere, et semper
     laudat Deum*, PL 37:1938) (LEDGER D23-5). B, C read *violencia* for *vinolencia*.
 
-[^13]: **T/S.** The print has *ps° 10°*; B, B¹, C read *108*, the Vulgate psalm (Ps. 108:7; Pollard's Ps. cix. 7), translated. It is the psalm Acts 1:20 applies to Judas Iscariot. *Capitulum* is both a chapter of scripture and the chapter of a religious house. *Plures oratores*: "many bedesmen" (GLOSSARY *oratores*); *plures* could be "most".  The closing words take the form of the litany's petitions (*A … libera nos, Domine*); B¹, C read *talibus* for *talis*.
+[^13]: **T/S.** The print has *ps° 10°*; B, B¹, C read *108*, the Vulgate psalm (Ps. 108:7; Pollard's Ps. cix. 7), translated. It is the psalm Acts 1:20 applies to Judas Iscariot. *Capitulum* is both a chapter of scripture and the chapter of a religious house. *Plures oratores*: "many bedesmen" (GLOSSARY *oratores*); *plures* could be "most". Pollard's index takes *hiis sectis 4or* as the four orders of friars ("Friars, the four sects of", 48, 6); Wyclif's usual "four sects" elsewhere are the Caesarean clergy, monks, canons and friars (*De quattuor sectis novellis* c. 1; *De Christo et suo adversario Antichristo* c. 2, *ut sepe dictum est*) (LEDGER D23-6). The closing words take the form of the litany's petitions (*A … libera nos, Domine*); B¹, C read *talibus* for *talis*.
 
 ## Transcription notes
 
