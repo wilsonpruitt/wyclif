@@ -19,3 +19,14 @@
 - LD-07 *senefectiore*, LD-11 *sapientem*: print clear; agent: no emendation, keep notes translating from B¹.
 - LD-17 *concitor*: agent: keep.
 - LD-20 *de bello clavo*: source question, still open.
+
+## C. From the targeted four-class review (02, 04, 31, epil-a; `_review/REVIEW-targeted.md`)
+Applied 2026-09-29: the 3 errors (#8 *idem … ac si* + n10, #9 split tag, #21 *non*-scope) and 11 weak/style fixes
+(#1 #2 #6 #7 #14 #15 #17 #18 #20 #22 #24). Split-tag sweep of all 38 chunks: 3 more fixed (26, 27).
+Left for ruling or a note pass (need new C notes or glossary rows, so not applied mechanically):
+- #3 GLOSSARY row proposed: *coactivus* coactive · *cohercere, cohersitivus* coerce, coercive (02 vs 31 disagree now).
+- #12/#13 GLOSSARY §D row proposed: *intendere* (thesis sense) = "maintain", not "intend" (epil-a 86.4, 90.19; likely elsewhere).
+- #14 GLOSSARY *ex fide* row: add "not when a verb/participle governs *ex* (*capta ex fide* = drawn from faith)".
+- #4 (04, 7.12 *Secundum testimonium*) and #10 (31, *ut loquitur ironice*), #23 (epil-a anacoluthon): C notes to add.
+- #5 (04 n2) and #19 (epil-a 88.12, n13): notes to recast so English and note agree.
+- #11 (31, 72.15 *ordinasse*) tense; #16 (epil-a 87.20 *quod convincerent*); #25 (epil-a *genus* "stock"/"kind").

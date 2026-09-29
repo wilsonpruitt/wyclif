@@ -22,7 +22,7 @@ status: translated
 > [p. 3] VERITAS. Correspondenter ad vitas et officia istarum trium parcium ordinavi illis regulas vivendi, ne in suis officiis confundantur. Clerum autem, qui debet esse supremus et celo propinquissimus, ordinavi a causis mundialibus et mundi sollicitudinibus maxime sequestratum, et sic non dominaret seculariter sed deberet esse pauper, similis statui innocencie instar mei. Et sic debuit docere duas partes alias mundum deserere tam opere quam sermone. Et ista vita similis aquiline est ad similitudinem vite angelice contemplativa [p. 4] perfeccior quam activa. Et qui est indispositus hanc vitam vivere est indispositus clericari.
 
 TRUTH. Correspondingly to the lives and offices of these three parts I have ordained rules of living
-for them, lest they be confounded in their offices. Now the [clergy]{g:clerus}, which ought to be
+for them, lest they be confounded in their offices. And the [clergy]{g:clerus}, which ought to be
 highest and nearest to heaven, I ordained to be set apart most of all from worldly affairs and the
 cares of the world; and so it should not [exercise lordship]{g:dominari} in a secular manner, but
 ought to be poor, like the state of innocence, after my pattern. And so it was to teach the two
@@ -34,7 +34,7 @@ whoever is unfit to live this life is unfit to be made a [cleric]{g:clericus}.
 
 > [p. 4] Secunda autem pars ecclesie debet dominari seculariter et esse in temporalibus opulenta, quia hoc est instrumentum necessarium suo officio quod isti parti ecclesie limitavi. Sic enim deitas cohercet homines dando illis rerum affluenciam, et immiscet quodammodo potentiam coactivam.
 
-Now the second part of the [church]{g:ecclesia} ought to exercise lordship in a secular manner and
+And the second part of the [church]{g:ecclesia} ought to exercise lordship in a secular manner and
 be wealthy in [temporal goods]{g:temporalia}, because this is the instrument necessary to the office
 which I have assigned to this part of the church. For in this way the [Godhead]{g:deitas} constrains
 men, by giving them abundance of things, and in a manner mixes in coercive power.[^2]
