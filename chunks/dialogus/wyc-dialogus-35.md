@@ -31,7 +31,7 @@ dangerous.[^2] But, seizing a time for seducing the people, the devil moved Caes
 as he himself excelled the other secular lords, so his [priest]{g:sacerdos}, whom he calls the
 Roman pontiff, ought to excel all other priests. And then he is said to be called [pope]{g:papa}
 and most holy father; and this sin can be urged by a hypocrisy contrived by the devil: Caesar and
-the other secular lords are oppressed in mind by secular lordship, but it would be a spiritual work
+the other secular lords are oppressed in mind by secular lordship; now it would be a spiritual work
 of mercy to relieve those so oppressed; therefore the pope ought specially to help his lord Caesar
 by bearing the burden of earthly lordship. For so the apostles chose seven deacons, who excused
 them from the ministry of tables and set them free for the preaching of the gospel, and for prayer
