@@ -110,8 +110,16 @@ existing entries were made on theology.
 
 At that rate: **Tier 1 (~4,400 pp.) ≈ 215M; whole corpus (~12,000 pp.) ≈ 590M.** That is ~10× the
 estimate below. Why it is higher:
-- Each chunk agent re-reads the card, glossary and scaffold (~35–40k fixed per chunk); short chunks pay
-  it on few pages. Longer chunks (2–3 chapters) amortise it — the obvious lever to test on M5's first volume.
+- NOT the context files: measured 2026-09-29, card ~2k + glossary ~6k + scaffold 3–9k = ~11–17k tokens per
+  chunk, against ~93k spent. The cost is the agent LOOP: every turn (read, bible.py, edit) re-sends the whole
+  growing context plus the harness's instructions, so 15–20 turns pay for it 15–20 times. Evidence: batch A
+  (5 chapters, one agent) cost ~47k/chunk, half the one-agent-per-chunk rate, and reviewed clean.
+- Levers, in order: (1) 3–5 chunks per agent (measured ~2×); (2) fewer turns: inline card + glossary FILTERED
+  to the chunk's rows (58–102 of 219 measured) + scaffold with scripture pre-computed, one final write;
+  (3) translation as ONE API call per chunk (Messages API, card+glossary as a cached prefix, Batch API for
+  a further ~50%), est. ~20–25k/chunk, checks moved to the existing verification passes. ▶ Pilot (3) vs (1)
+  on 2–3 De ecclesia chunks before M5 and re-cost from the result.
+- ⚠ Agent token counts as reported may include cheap cached reads; the billed cost may be below the figure.
 - The notes are a large share of the output (source identifications, variants, construal), and the ledger
   then has to be verified by reading sources (~9k per row).
 - The *Dialogus* witnesses are clean; *De ecclesia* and *Off. reg.* send 2× the plate items per 1,000 words.
