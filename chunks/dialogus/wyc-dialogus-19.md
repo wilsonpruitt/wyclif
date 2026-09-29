@@ -23,7 +23,7 @@ status: translated
 
 FALSEHOOD. It seems that by implication you accuse in this all four [sects]{g:secta} of [the clergy]{g:clerus};[^1]
 but who would dare to lay this on [the Roman curia]{g:curia-romana}, and especially on the sects of
-the [friars]{g:frater}, since then, in governing [lords]{g:dominus}, ladies and kingdoms, they would
+the [friars]{g:frater}, since then, in governing [lords]{g:dominus}, ladies and [kingdoms]{g:regnum}, they would
 be their traitors, and heretics by consent? But who would dare so to accuse the wisdom of this
 clergy? For if [the law of Christ]{g:lex-christi} in holy scripture said so, it is likely that so
 many and such great saints among the friars would make this known to lords, [bishops]{g:episcopus}
@@ -40,7 +40,7 @@ TRUTH. In this matter answer must be made by the sects and parties that you atta
 know how to excuse the Roman curia in this, nor the friars or the other sects, but I still live in
 the faith of the Lord Jesus Christ that he taught his clergy to live so. Yet if, per impossibile, I
 should be taught the contrary, I am willing humbly to consent to catholic truth, and above all if I
-should be taught by the pope or by the superiors of the church, such as [prelates]{g:prelatus}. But I
+should be taught by the [pope]{g:papa} or by the superiors of the [church]{g:ecclesia}, such as [prelates]{g:prelatus}. But I
 know that their [manner of life]{g:conversacio} and deed is not to be held by catholics as faith,
 since they can be infected with the stain of avarice, as worldly men are. For covetousness infected
 the first apostate, the human race, and many others who have fallen. And as for the four sects of
@@ -61,7 +61,7 @@ scripture they reject this lordship of the clergy, and in so many ways keep it s
 whom in conscience they should publish it, who doubts that they are "a double minded man",
 inconstantly holding with the falsehood which he believes will prevail for a little while, like a
 reed?[^9] And since the deed teaches more than words, it seems from the profession of their order
-that their works, [teaching] that this exercise of lordship is unlawful, are more to be believed than
+that their works, [teaching] that this [exercise of lordship]{g:dominacio} is unlawful, are more to be believed than
 their double words, to which they are hired for a temporal price. For a fevered man is more to
 believe a doctor, about the wholesomeness of herbs, who tells him that herb a is most wholesome and
 herb b deadly, if he fled herb a as poison and eagerly tasted herb b as a wholesome meal: more, I say,

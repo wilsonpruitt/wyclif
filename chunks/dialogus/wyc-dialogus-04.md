@@ -24,15 +24,15 @@ status: translated
 TRUTH. The second testimony of the old law is written in Deut. 18, in these words: "The
 [priests]{g:sacerdos} and Levites, and all that are of the same tribe, shall have no part nor
 inheritance with the rest of the people of Israel, because they shall eat the sacrifices of the
-Lord, and the oblations, and they shall receive nothing else of the possession of their brethren:
+Lord, and the oblations, and they shall receive nothing else of the possession of their [brethren]{g:frater}:
 for the Lord himself is their inheritance, as he hath said to them."[^1] From this law, with the
 interpretation of the lawgiver, the Lord Jesus Christ, together with the deed of the so-called Roman
 [church]{g:ecclesia}, it is expressly clear to the faithful how expressly the modern priests are
 contrary to [God's law]{g:lex-dei}. For where God commands the negative, that the priests and Levites
-shall not have part and inheritance with the rest of the people, the [clergy]{g:clerus} with the pope,
-by Caesar's foolish grant, establishes for itself as a perpetual [8] law that priests and Levites
+shall not have part and inheritance with the rest of the people, the [clergy]{g:clerus} with the [pope]{g:papa},
+by Caesar's foolish [grant]{g:concessio}, establishes for itself as a perpetual [8] law that priests and Levites
 shall have in chief a perpetual inheritance, which throughout all Christendom is to be occupied from
-their brethren and lords.[^2] Hence, since this violent and so unnatural thing, forbidden by God, is
+their brethren and [lords]{g:dominus}.[^2] Hence, since this violent and so unnatural thing, forbidden by God, is
 abominable to God and to the angels and to the [church militant]{g:ecclesia-militans}, no wonder if
 those who live among them are indignant at this so abominable [lordship]{g:dominium}.[^3] And
 therefore, no wonder, the said [clerics]{g:clericus} are compelled to seize arms and fight more
@@ -50,7 +50,7 @@ and that there remains no man on earth who could prove this of those very highes
 church; for their deeds, with their life, sufficiently indicate this to be true. And consequently,
 before Christ, the highest judge, our God, who beholds every human work before it is done, this is
 proved clearer than daylight. And [9] by his proof and judgement the believer must abide, rather
-than by a Pilate's judgement. For Christ, as faith teaches, said to the faithless Jews in John 10:
+than by a Pilate's judgement. For Christ, [as faith teaches]{g:ex-fide}, said to the faithless Jews in John 10:
 "If I do not the works of my Father, believe me not. But if I do, though you will not believe me,
 believe the works."[^5] Now if Christ, God and man, as faith teaches, left to the Jews the judgement
 to be made from his works, who is this Antichrist who will not be judged by men from works so patent

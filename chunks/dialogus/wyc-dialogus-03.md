@@ -21,7 +21,7 @@ status: translated
 
 > [p. 5] VERITAS. Quia autem vellem quod ista lex et cleri specialiter esset recencius memorata, feci illam scribi sepius in duplici testamento. Et sicut nemo potest excusari quin noscat in gradum qui sibi pertineat legem dei, sic nemo potest excusari quin noscat quodammodo matrem suam. Sicut enim oportet servire deo qui est caput ecclesie, sic oportet honorare matrem ecclesiam, que est principaliter conjux sua. Sed sicut habemus de Christo tam secundum divinitatem suam quam humanitatem hic parvam noticiam, sic habemus hic de ecclesia parvam noticiam et confusam. Unde ignorancia [p. 6] legis Christi et partis ecclesie que hic vivit facit communiter membra diaboli et eciam filios ecclesie contra ipsam culpabiliter rebellare. Cum tamen ex primo mandato secunde tabule omnis fidelis debet ad sanacionem hujus matris modo quo deus voluerit laborare, nam numerorum 18 scribitur Dixit Dominus ad aaron in terra eorum nichil possidebitis nec habetis partem inter eos; ego pars et hereditas tua in medio filiorum israel. Filiis autem levi dedi omnes decimas israelis in possessionem pro ministerio quo serviunt mihi in tabernaculo federis et sequitur legitimum sempiternum erit in generacionibus vestris. Nichil aliud possidebunt, decimarum oblacione contenti quas in usus eorum et necessaria separavi. Ex quibus verbis notaret fidelis quod hec non dicit imperator vel papa sed hec dicit dominus tanquam fidem. Nec dubium quin verba ista dominus dirigat ad primam partem ecclesie, scilicet clerum suum, nec est color dicere quod hec verba directa fuerunt clero legis veteris et non nobis; cum debemus nunc vivere spiritualius sicut Christus. Quare ergo virtute istius legis vendicamus nunc decimas, et primam partem negativam hujus legis deserimus. Revera hoc testatur contra nos quod degeneramus a clero Christi in lege sua duplici terrenis possessionibus ocupati. Si ergo illi sunt maledicti qui declinant a mandatis domini manifestum videtur quod clerus qui tam pertinaciter in temporali [p. 7] dominio obviat legi dei est hereticus maledictus. Et sic creditur quod, si consencientes et agentes sunt pariter heretici maledicti, magna pars militancium est divino judicio hereticus maledictus. Et ex illo convincunt ulterius, cum talis apud deum sit indispositus ad convincendum alios super heretica pravitate juxta illa jo 8 qui sine peccato est vestrum mittat in illam lapidem, curia romana est nimis indisposita ad convincendum alios super heretica pravitate. Istud tamen presumit temere, quia est ad sensum misticum castellum quod est contra Christi apostolos ut dicitur M. 21°.
 
-TRUTH. And because I wished that this law, and the clergy's especially, should be remembered the
+TRUTH. And because I wished that this law, and the [clergy]{g:clerus}'s especially, should be remembered the
 more freshly, I had it written more than once in the twofold testament. And as no one can be excused
 from knowing [God's law]{g:lex-dei} in the degree that pertains to him, so no one can be excused from
 knowing, in some manner, his mother.[^1] For as one must serve God, who is the head of the
@@ -35,12 +35,12 @@ in the way God wills;[^2] for in Numbers 18 it is written: "And the Lord said to
 possess nothing in their land, neither have you a portion among them: I am thy portion and
 inheritance in the midst of the children of Israel. And I have given to the sons of Levi all the
 [tithes]{g:decime} of Israel for a possession, for the ministry wherewith they serve me in the
-tabernacle of the covenant"; and it follows: "It shall be an everlasting ordinance in your
+tabernacle of the covenant"; and [it follows]{g:sequitur}: "It shall be an everlasting ordinance in your
 generations. They shall not possess any other thing, but be content with the oblation or tithes,
 which I have separated for their uses and necessities."[^3] From these words the believer should note
-that it is not the emperor or the pope who says this, but the Lord says it, as [a matter of] faith.
+that it is not the emperor or the [pope]{g:papa} who says this, but the Lord says it, as [a matter of] faith.
 Nor is there any doubt that the Lord directs these words to the first part of the church, namely his
-[clergy]{g:clerus}; nor is there any colour for saying that these words were directed to the clergy of
+clergy; nor is there any colour for saying that these words were directed to the clergy of
 the old law and not to us, since we ought now to live more spiritually, like Christ. Why then do we
 now claim the tithes by virtue of this law, and abandon the first, negative part of this law?[^4] In
 truth this testifies against us that we have degenerated from the clergy of Christ in his twofold
@@ -49,8 +49,8 @@ commandments of the Lord, it seems manifest that the clergy which so obstinately
 [lordship]{g:dominium}, withstands God's law is an accursed heretic. And so it is believed that, if
 those who consent and those who act are alike accursed heretics, a great part of the [church]
 militant is, by divine judgement, an accursed heretic.[^5] And from this they prove further: since
-such a one is, before God, unfit to convict others of heretical depravity, according to that in John
-8, "He that is without sin among you, let him cast a stone at her," the Roman curia is all too unfit
+such a one is, before God, unfit to convict others of [heretical depravity]{g:heretica-pravitas}, according to that in John
+8, "He that is without sin among you, let him cast a stone at her," the [Roman curia]{g:curia-romana} is all too unfit
 to convict others of heretical depravity.[^6] Yet it presumes this rashly, because in the mystical
 sense it is the village that is over against Christ's apostles, as is said in Matt. 21.[^7]
 

@@ -30,7 +30,7 @@ became poor, that through his poverty you might be rich."[^1] And the whole gosp
 agreement to the same effect, from the birth of Christ, which took place in an inn, to his penal and
 poor death, which took place on the cross. Where, then, is greater [unbelief]{g:infidelitas} than
 for [prelates]{g:prelatus} and other [priests]{g:sacerdos} so blindly to desert the holy faith? Nor
-do the endowed [presbyters]{g:presbiter} alone desert it, but also the propertyless, blasphemously
+do the [endowed]{g:dotacio} [presbyters]{g:presbiter} alone desert it, but also the [propertyless]{g:exproprietarii}, blasphemously
 imputing to Christ that they were taught by him to beg in this way.[^2] For Christ was the poorest
 of men, since his poverty resounded in the perfection of the virtues, and in every perfection of
 this kind he was highest; and yet, short of this begging, he kept himself in the mean, according to
@@ -38,7 +38,7 @@ what the Wisdom of Solomon teaches, Prov. 30: "Give me neither beggary, nor rich
 necessaries of life." And this moved the apostle, 1 Tim. 6, delivering [14] generally to priests as a
 rule this faith: "We brought nothing," he says, "into this world: and certainly we can carry nothing
 out of it. Having therefore food and wherewith to be covered, with these we are content."[^3] And
-here it seems to the faithful, if they dared to bring it out, that the pope and his whole
+here it seems to the faithful, if they dared to bring it out, that the [pope]{g:papa} and his whole
 [sect]{g:secta}, endowed with temporal [lordship]{g:dominium}, is a hardened heretic, because
 stubbornly contrary to scripture, which cannot be broken; now who is a heretic but such a one?[^4]
 Hence Peter, in 1 Peter 5, commands: "Feed the flock of God which is among you, taking care of it,
@@ -46,12 +46,12 @@ not by constraint but willingly, according to God: not for filthy lucre's sake b
 neither as [lording it]{g:dominari} over the [clergy]{g:clerus} but being made a pattern of the flock
 from the heart; that when the prince of pastors shall appear, you may receive a never fading crown
 of glory."[^5] But as the life of the pope and of his [caesarean clergy]{g:clerus-cesareus} has
-lulled this teaching of Peter to sleep, so the decretal letters have lulled this faith to sleep.
+lulled this [teaching]{g:sentencia} of Peter to sleep, so the decretal letters have lulled this faith to sleep.
 Therefore it seems evident that prelates who are [ignorant of]{g:ignorare} this faith, as much in
 deed as in word, are faithless antichrists.[^6] And since, [as faith teaches]{g:ex-fide}, it is
 plain to the faithful that in this single word of Peter there is a more wholesome teaching than in
 all the decretal letters or papal bulls, it is clear that [clerics]{g:clericus} foolishly leave off
-learning this wholesome faith and study these apocrypha, which lead astray.
+learning this wholesome faith and study these [apocrypha]{g:apocrifus}, which lead astray.
 
 ## Pollard's side-notes (PD, verbatim; not our translation)
 

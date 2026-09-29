@@ -49,7 +49,7 @@ English translation has been traced.
 
 [1] Since sameness is the mother of tedium, and graceful alternation delights the mind,[^1] and the
 Latin tongue spreads more regularly and more widely, it has seemed good to some that the catholic
-teaching gathered for the faithful in the vernacular should be opened up more commonly in
+[teaching]{g:sentencia} gathered for the faithful in the vernacular should be opened up more commonly in
 Latin.[^2] For useful truth enlightens the minds of the faithful the more, the more widely it is
 spread. And since many delight in the speech of dialogue, they are moved by God to bring in two
 persons, namely Truth and Falsehood, who speak in turn on this matter by way of disputation. And
@@ -64,12 +64,12 @@ mediation of Christ's grace, establish it.
 TRUTH. Since I am God, the maker of every creature, and will judge all men at the final judgement,
 whether to blessedness or to eternal punishment,[^4] reason requires that all men be ruled by my
 law, both in their consciences and in all their outward works. For this is the reason why Christ
-had become incarnate and had lived for thirty years and more with his brethren: that by his gentle
+had become incarnate and had lived for thirty years and more with his [brethren]{g:frater}: that by his gentle
 [2] sermons catholic truth might shine the more. And the end of so worthy and so constant a labour
-is that the men who are Christ's church may be blessed. Now I divided my church militant into three
-parts, of which the first should be my clergy, who are called priests of Christ, and who should
+is that the men who are Christ's [church]{g:ecclesia} may be blessed. Now I divided my [church militant]{g:ecclesia-militans} into three
+parts, of which the first should be my [clergy]{g:clerus}, who are called [priests]{g:sacerdos} of Christ, and who should
 follow me more closely in their manner of life, after the pattern of the apostles.[^5] And so, to
-hearten them in humility, they should live on alms, as I did. For by this they would be more mindful
+hearten them in humility, they should live on [alms]{g:elemosina}, as I did. For by this they would be more mindful
 of me, since I am God, who claim the tenth part as my own. For he who lives on the Lord's portion
 would remember the more freshly the Lord who bestows that portion so freely.[^6]
 
@@ -77,12 +77,12 @@ would remember the more freshly the Lord who bestows that portion so freely.[^6]
 
 > [p. 2] Secunda pars mee militantis ecclesie forent domini temporales, qui debent esse vicarii deitatis. Ideo sepe meminit augustinus quomodo rex est vicarius deitatis. Sacerdos autem qui secundum humilitatem et pauperiem debet procedere est vicarius humanitatis domini jhu Christi. Et sic secundum potentiam regulatam racione debent hii domini virtuose defendere legem dei. Nam titulo istius servicii tenent de Christo tanquam capitali domino quicquid habent. Tercia autem pars militantis ecclesie sunt vulgares qui in operarios, mercantes et iconomos multipliciter sunt divisi. Ista autem tercia pars et infima ut fundamentum sustinet duas partes alias in corporalibus necessariis vite. Sed caritas que est [p. 3] tercia persona in divinis debet connectere has tres partes. Omnes enim iste tres debent sibi ipsis prodesse reciproce et juvare. Clerus autem debet esse vita aliis duabus partibus inferioribus, et vivere ipsis spiritualius ac quo ad mores mundius; et sic tam vita quam verbis docere eos viam ad beatitudinem promerendum. Media autem pars que est domini temporales debet quadam austeritate modesta juvare partes alterutras extremales, et specialiter secundum legem dei in his que promovent ad beatitudinem [conse]quendam. Tercia vero pars vulgarium debet ex animo secundum regulam legis dei servire partibus duabus superioribus; cum omnes iste tres partes debent esse unum corpus ecclesie, currens hilariter in amore ad beatitudinem patrie consequendam.
 
-The second part of my church militant should be the temporal lords, who ought to be [vicars of the Godhead]{g:vicarius-deitatis}. Therefore Augustine often recalls how the king is the vicar of the Godhead.[^7] But the
-priest, who ought to proceed according to humility and poverty, is the vicar of the humanity of the
-Lord Jesus Christ. And so these lords, according to power regulated by reason, ought virtuously to
-defend God's law. For by title of this service they hold of Christ, as [chief lord]{g:capitalis-dominus}, whatever they
+The second part of my church militant should be the [temporal lords]{g:temporales-domini}, who ought to be [vicars of the Godhead]{g:vicarius-deitatis}. Therefore Augustine often recalls how the king is the vicar of the [Godhead]{g:deitas}.[^7] But the
+priest, who ought to proceed according to humility and poverty, is the [vicar of the humanity]{g:vicarius-humanitatis-christi} of the
+Lord Jesus Christ. And so these [lords]{g:dominus}, according to power regulated by reason, ought virtuously to
+defend [God's law]{g:lex-dei}. For by [title]{g:titulus} of this service they [hold of]{g:tenere-de} Christ, as [chief lord]{g:capitalis-dominus}, whatever they
 have.[^8] Now the third part of the church militant is the [common people]{g:vulgares}, who are divided in many
-ways into workers, merchants and householders.[^9] And this third and lowest part, as a
+ways into workers, merchants and [householders]{g:iconomus}.[^9] And this third and lowest part, as a
 foundation, sustains the two other parts in the bodily necessities of life. But [charity]{g:caritas}, which is
 [3] the third person in the Godhead, ought to bind these three parts together.[^10] For all these
 three ought to benefit and help one another reciprocally. Now the clergy ought to be a life to the

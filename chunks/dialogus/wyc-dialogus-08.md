@@ -22,7 +22,7 @@ status: translated
 > [p. 15] MENDACIUM. Nimis patenter reseras conversacionem, quam increpas prelatorum; sed audi partem alteram in responsionibus et repplicacionibus, et tunc potes magis evidenter procedere.
 
 FALSEHOOD. Too openly you lay bare the manner of life of the [prelates]{g:prelatus}, which you
-rebuke; but hear the other side in answers and rejoinders, and then you can proceed more clearly.
+rebuke; but hear the other side in answers and [rejoinders]{g:repplicacio}, and then you can proceed more clearly.
 
 ## Falsehood · 15.6–15.18
 
@@ -34,9 +34,9 @@ perpetual, since he says, in the apostle already cited, that Christ was made nee
 [priests]{g:sacerdos} of the old law, who had killed Christ, required Christ to live and teach so.
 But after these sins were repressed, the dignity of priests demands that the [clergy]{g:clerus}
 return to its former glory; in token of which the estates with which the [church]{g:ecclesia} is
-endowed are called "the patrimony of the crucified".[^2] For Christ, by virtue of his passion and
+[endowed]{g:dotacio} are called "the patrimony of the crucified".[^2] For Christ, by virtue of his passion and
 merit, acquired for his church all these [lordships]{g:dominium}, and, if justice could take its
-course, greater ones; and with this view agree the grants of the temporal [lords]{g:dominus} and
+course, greater ones; and with this [teaching]{g:sentencia} agree the [grants]{g:concessio} of the temporal [lords]{g:dominus} and
 the manifest lives and laws of the popes.[^3]
 
 ## Truth · 15.19–16.31
@@ -44,13 +44,13 @@ the manifest lives and laws of the popes.[^3]
 > [p. 15] VERITAS. Video quod fraudulenter misceas quedam vera cum falsis. Concipis quidem veritatem fidei quod Christus tam in vita quam doctrina docuit pauperiem observari. Sed quod consequenter addis, hanc Christi sentenciam durare ad tempus modicum et postea clerum suum redire ad seculum amplius quam vixerunt legis veteris sacerdotes, infideliter garrulas et contrarie racioni. Si enim Christus tam diu et [p. 16] tam dure reprobavit hoc peccatum in sacerdotibus legis veteris, quomodo sacerdotem legis gracie nove movet redire ad dictam avariciam sicut canis redit ad vomitum? Jam enim plus ditantur et gloriantur in seculo clerici et precipui sacerdotes quam ditabantur vel gloriabantur in seculo scribe pharisei vel principes sacerdotum. Ideo, cum tanta sit racio perpetuacionis hujus legis Christi ut patet de statu innocencie et statu glorie, patet quod ista lex Christi debet precipue in novissimis temporibus observari; tunc enim diabolus plus temptat homines ad avariciam. Ideo est magis necessarium in clero, qui debet esse speculum populi, apponere medicinam. Que ergo racio, cum hodie tantum dominatur cupiditas quare Christi pauperies tantum deprimitur et antichristi rabies tantum extollitur? Numquid racio concordat quod hec lex Christi in racione exemplari eterna sit per trecentos annos tantummodo observata et lex antichristiana contraria in temporibus tam periculosis sit perpetuata. Idem enim est sic dicere et extollere diabolum supra Christum, ac si infidelis annueret quod lex Christi tam necessaria et salubris durabit ad horam sub colore divini beneplaciti, sed lex antichristi plena veneno atque mortifera duret perpetuo ut excitet homines ad peccandum. Sed quis Christianus talem blasfemam responsiunculam tolleraret? Ulterius novit catholicus quomodo sunt due diviciarum maneries, scilicet divicie temporales et divicie celestes et spirituales. Et prime divicie vix cum virtutibus moderate ducunt ad celestes divicias, que sunt vere, de quibus loquitur apostolus Christi supra. Ideo haberes conscienciam super ista loquela heretica, quam innuis super fide scripture apostoli. Oportet enim per penalitatem et pauperiem hic in via mereri celestes divicias et beatitudinem in patria.
 
 TRUTH. I see that you craftily mix certain true things with false. You do indeed grasp the truth
-of faith, that Christ, as much in life as in teaching, taught that poverty was to be observed. But
+of faith, that Christ, as much in life as in [doctrine]{g:doctrina}, taught that poverty was to be observed. But
 what you add next, that this judgement of Christ lasts for a short time, and that afterwards his
 clergy returns to the world more fully than the priests of the old law lived [in it], you prattle
 in unbelief and contrary to reason. For if Christ so long and [16] so harshly reproved this sin in
 the priests of the old law, how does he move a priest of the new [law of grace]{g:lex-gracie} to
 return to the said avarice, as a dog returns to its vomit?[^4] For [clerics]{g:clericus}, and
-the leading priests, are now more enriched and glorified in the world than the scribes, Pharisees
+the leading priests, are now more [enriched]{g:ditare} and glorified in the world than the scribes, Pharisees
 or chief priests were enriched or glorified in the world. Therefore, since the reason for the
 perpetuation of this [law of Christ]{g:lex-christi} is so great, as is clear from the state of
 innocence and the state of glory, it is clear that this law of Christ ought to be observed
@@ -60,7 +60,7 @@ reason is there, then, since greed so [lords it]{g:dominari} today, why Christ's
 much put down and Antichrist's rage so much exalted? Does reason agree that this law of Christ,
 eternal in its exemplar reason, should have been observed for three hundred years only, and the
 contrary antichristian law be perpetuated in times so perilous?[^5] For to say this is the same as
-to exalt the devil above Christ, as if an unbeliever were to grant that the law of Christ, so
+to exalt the devil above Christ, as if an [unbeliever]{g:infidelis} were to grant that the law of Christ, so
 necessary and wholesome, will last for a time, under colour of the divine good pleasure, but that
 the law of Antichrist, full of poison and deadly, should last for ever, to stir men up to
 sin.[^6] But what Christian would tolerate such a blasphemous little answer? Further, the catholic

@@ -65,13 +65,14 @@
 - Tag the 9 terms ruled 2026-09-28 in chunks 01–05 (rendered there untagged, before the ruling);
   "ex fide scripture" sites follow the genitive rule.
 - Tag the wave-2/3/4 terms (ruled 2026-09-28) at first occurrence in chunks 10–21; *inconveniencia* C notes already in 11, 12.
-- Ch. 18 Isa. 1:23: D–R wording missing (bible.py gave none); supply it.
-- Plate-check ch. 14 side-note 26.28 "Mend. objects" (kept from the OCR draft).
+- ✅ Ch. 18 Isa. 1:23: DR wording supplied (2026-09-29). Cause: bible.py read "Isa"/"Isaiah" as I Samuel; regex fixed. ⚠ Other Isaiah DR quotations in 01–38 may carry 1 Samuel wording: spot-check.
+- ✅ Ch. 14 side-note 26.28 plate-checked: "*Mend.* objects:" (2026-09-29).
 
 - ⚠ Majority-error sweep: 74.22 *Chnstus* passed by majority (4 of 6 witnesses share the OCR confusion). Run a
   non-word check of the established text against the lexicon (every word not in `catalog/lexicon/agreed.txt`
   and not a proper name), plate-check the survivors.
 - Merge the 12 unresolved Latin doubts in `_reports.md` (waves 5–8) into the transcription notes review.
+  → Collected, unresolved, in `chunks/dialogus/LATIN-DOUBTS.md` (20 open rows + 8 lower-priority variants); plate-check each, then merge.
 - Four-class spot check across chunks; lint all; rewrite PLAN's cost table from the measured rate.
 
 ## Next

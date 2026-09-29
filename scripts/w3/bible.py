@@ -33,7 +33,7 @@ def book(s, books):
     s = s.strip().rstrip('.').lower()
     if s in KINGS:
         return KINGS[s]
-    m = re.match(r'^(i{1,3}|[123])\s*(.*)$', s)
+    m = re.match(r'^(i{1,3}(?=\s)|[123])\s*(.*)$', s)
     pre, rest = (ORD[m.group(1)] + ' ', m.group(2)) if m and m.group(2) else ('', s)
     rest = ALIAS.get(rest, rest)
     for b in books:

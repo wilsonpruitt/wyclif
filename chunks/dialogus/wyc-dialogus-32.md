@@ -21,7 +21,7 @@ status: translated
 
 > [p. 73] MENDACIUM. Sed demum recensius arguunt populares quod gleba et ecclesia adeo connectuntur quod non possunt separari ab invicem, sicut nec substancia et passio vel accidens quod philosophi vocant inseparabile. Relinquat ergo sic opinans oblaciones et decimas vel acceptet simul [p. 74] dotatas ecclesias, sicut sancti priores secundum leges ecclesie acceptarunt; nam contra istud remurmurans cum debet perfecte restituere quod injuste tenuit, debet valorem tocius glebe sue reddere dominis, quia aliter iuxta ficticium suum foret propter injuste tentum debitum condempnandus. Quare ergo non posset dici quod quelibet privata persona ecclesiastica sit procuratrix et non domina secularis, sed ipsa tota ecclesia militans mater nostra super omnibus bonis collatis ecclesie dominatur? Talia sunt multa sophismata antichristi per que conturbat multos simplices sacerdotes.
 
-FALSEHOOD. But at last, and more freshly, the people argue that the glebe and the [church]{g:ecclesia}
+FALSEHOOD. But at last, and more freshly, the people argue that the [glebe]{g:gleba} and the [church]{g:ecclesia}
 are so joined that they cannot be separated from one another, just as neither can a substance and
 its [attribute]{g:passio}, or the accident that philosophers call inseparable.[^1] Let him who holds
 this [opinion]{g:opinio}, therefore, give up offerings and [tithes]{g:decime}, or else accept along
@@ -29,7 +29,7 @@ with them [74] [endowed]{g:dotacio} churches, as the holy men before us accepted
 the laws of the church; for one who murmurs against this, since he must perfectly restore what he
 held unjustly, must render the value of his whole glebe to the [lords]{g:dominus}, because otherwise,
 by his own fiction, he would be condemned for a debt unjustly held.[^2] Why then could it not be said
-that every private ecclesiastical person is a proctor and not a secular lord, but that the whole
+that every private ecclesiastical person is a [proctor]{g:procurator} and not a secular lord, but that the whole
 [church militant]{g:ecclesia-militans} itself, [our mother]{g:mater-nostra},
 [exercises lordship]{g:dominari} over all the goods conferred on the church?[^3] Such are many
 [sophisms]{g:sophisma} of Antichrist, by which he throws many simple [priests]{g:sacerdos} into
@@ -43,11 +43,11 @@ TRUTH. But here the faithful man says steadfastly, according to the [doctrine]{g
 taught in deed as well as in word, that [the clergy]{g:clerus} ought altogether to live a poor and
 [propertyless]{g:exproprietarii} life, as heir of the heavenly [kingdom]{g:regnum}, near to the life
 of innocence, as Christ [was]. For by this, that the clergy so lives of the Lord's portion, it differs
-[perceptibly]{g:sensibilis} from a secular lord.[^5] And as to the first objection, it is clear that,
+[perceptibly]{g:sensibilis} from a secular lord.[^5] And as to the first [objection]{g:objectum}, it is clear that,
 whether we call "church" the building itself, or the faithful who frequent it on feast days, or the
 rule of the rector governing the people, the church and the glebe differ perceptibly enough. Nor has
 Antichrist the power so to join these to one another that the one cannot be separated from the other,
-since Christ and his apostles bore the cure more excellently than our superiors, although they lacked
+since Christ and his apostles bore the cure more excellently than our [superiors]{g:prepositi}, although they lacked
 such a glebe. Therefore this saying is a manifest lie of Antichrist, where he wants to put the glebe
 forward as the more perfect [subject]{g:subiectum}, and to put the spiritual cure after it as an
 imperfect accident;[^6] since it is known to the faithful man, who is not [besotted]{g:philocaptus}
@@ -61,7 +61,7 @@ and that, according to Antichrist's [ordinance]{g:ordinacio}, affection for
 [curate]{g:curatus} who culpably keeps back this glebe must make restitution to God by contrition,
 since God is the [chief lord]{g:capitalis-dominus}; and, when opportunity arises, he must make
 satisfaction to the needy subjects whom he defrauded before. Yet I do not see that by any law he must
-restore this to the patron, the secular lord, since by divine law such patronage cannot be founded,
+restore this to the [patron]{g:patronus}, the secular lord, since by divine law such patronage cannot be founded,
 and by human law such a patron conferred the glebe itself on that curate. And if the curate has
 received the fruit of this glebe, rejecting worldly exercise of lordship in his mind, faithful
 ministration can excuse him before God and men. Yet this seems [true]: that a faithful curate, when he
@@ -80,7 +80,7 @@ so the followers of these patrons have accepted the glebe of temporal goods the 
 And so in these patrons, and in the law of the eternal ordinance of "the ancient of days", this
 renunciation has been made ancient;[^10] and not only in these patrons and in the
 [friars]{g:frater}, although it was practised sophistically all along, but many rectors have had by
-God's prompting a hidden synderesis, as those who read either law of the Lord have conceived [it]
+God's prompting a hidden [synderesis]{g:sinderisis}, as those who read either law of the Lord have conceived [it]
 from that law, more openly or more obscurely.[^11] But the manner of so possessing temporal goods, in
 a secular way and as if by inheritance, is more culpable than the use of them; and so a man can
 virtuously accept offerings and tithes in measure, provided that he minister faithfully to the church
@@ -117,7 +117,7 @@ content with the threefold bond of love.[^17] Let the faithful man therefore see
 the faith of scripture, and hold that securely, and whatever remains, let him leave it aside.
 Therefore certain faithful men religiously maintain that no human tradition is to be accepted,
 whether papal, or imperial, or other provincial, except in so far as it is founded in the law of the
-Lord. It is clear from this that the law of Christ is of the greatest weight, [78] because, being
+Lord. It is clear from this that the [law of Christ]{g:lex-christi} is of the greatest weight, [78] because, being
 God's, it is the most sufficient and most complete director of every man. Therefore the clergy, which
 ought to know that law, degenerates too far, that clergy which attends to human traditions or
 [customs]{g:consuetudo} not founded in God's laws.[^18] Or if they are founded implicitly in God's

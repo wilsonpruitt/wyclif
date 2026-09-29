@@ -27,36 +27,36 @@ scripture, but rather provokes his fellows and contends; but we have no such
 Therefore, setting aside all the traditions of men that are called laws, and the sayings of later
 writers, which are founded neither in the faith of scripture nor in reasons, it seems that in the
 end the catholic truth is to be spoken with silence.[^3] But first, to make clear what has been said
-of the [trade]{g:commercium} of [priests]{g:sacerdos} and of simony, together with the other trades
+of the [trade]{g:commercium} of [priests]{g:sacerdos} and of [simony]{g:simonia}, together with the other trades
 in use today, we must see what it is to buy and to sell. And it seems that this, taken analogically,
-is voluntarily to exchange one thing for another; and I understand the terms analogically in the way
+is voluntarily to [exchange]{g:commutacio} one thing for another; and I understand the terms analogically in the way
 in which God is said to sell blessedness, and one who merits it [by congruity]{g:de-congruo} to buy
 it. And in this way God seems to speak in Isaiah 55: "Come, buy wine and milk without money, and
 without any price."[^4] And so, understanding trade as common to buying and selling, it seems that
 buying is for the person buying to make [79] something be his own, and selling is for the person
 selling to make what is his own be the buying person's. And so God analogically sells blessedness,
 because he makes it belong to the person who merits by congruity; and the one who merits buys
-blessedness, because he makes it his own by exchange with the [Lord]{g:dominus}. And so exchange can
+blessedness, because he makes it his own by [exchange]{g:commutare} with the [Lord]{g:dominus}. And so exchange can
 be understood in two ways: in the first way, properly, for an exchange of substance as regards the
 ownership of a possession, in the way in which one buying an ox exchanges silver or some other price
 for it (and in this way Isaiah seems to speak of exchange in the authority set forth, since God
 cannot be changed, nor is anything of the substance or nature of the one buying blessedness lost by
 the buyer);[^5] in the second way, more loosely, for an exchange of anything whatever, of substance
-or of aspect, in the way in which relations and other truths are called things; and so the blessed
+or of aspect, in the way in which [relations]{g:respectus} and other truths are called things; and so the blessed
 one, although he has God as the substance of his blessedness, nevertheless has a relational
 blessedness proper to himself. And so he exchanges his merit, [had] from God's grace, for it.[^6]
 And so trade seems to be twofold: the first true, reasonably approved by God as the principal
 seller; the second is fantastic or false trade, and that is done by the devil as chief trader, and
-in that way all simoniacal or unlawful trading is called trade disowned by the Lord.[^7] With these
-premised, it seems to me that a priest may lawfully [trade]{g:commercari} with his bodily labour and
+in that way all simoniacal or unlawful [trading]{g:commercari} is called trade disowned by the Lord.[^7] With these
+premised, it seems to me that a priest may lawfully trade with his bodily labour and
 with [perceptible]{g:sensibilis} wages; but that he should sell his prayer or merit is contrary to
 reason, because the worth of his prayer or merit is above his possession, in the hand of God. And so
-all who sell ecclesiastical benefices, or [letters of fraternity]{g:litere-fraternitatum} or of
+all who sell [ecclesiastical benefices]{g:beneficium-ecclesiasticum}, or [letters of fraternity]{g:litere-fraternitatum} or of
 merit,[^8] seem to trade with the devil and to blaspheme against God, since they pretend to sell what
 is proper to God. Therefore, lest a priest fall into this blasphemy, it seems safe that [80] he say
 at the outset that he wishes to accept food and covering purely by [title]{g:titulus} of
 [alms]{g:elemosina}, and in return to labour in the priestly office as much as God will have
-accepted. And so it seems that the [pope]{g:papa} or other patron conferring an ecclesiastical
+accepted. And so it seems that the [pope]{g:papa} or other [patron]{g:patronus} conferring an ecclesiastical
 benefice ought, purely by title of alms, to [assign]{g:limitare} [it] to the express spiritual office
 of the [curate]{g:curatus}; and at the outset to agree that the alms to be received is not his, but
 God's and the people's, who are to be revered; therefore, with no bodily recompense to be rendered to

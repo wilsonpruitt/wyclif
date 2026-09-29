@@ -23,7 +23,7 @@ status: translated
 
 [TRUTH.] Further, for a further exposition of the heretical objection which you press,[^1] it is to
 be noted that, as the avaricious chief [priests]{g:sacerdos} and Pharisees of the old law killed
-Christ's humanity for fear of losing their temporal goods, so the richer chief priests in the time of
+Christ's humanity for fear of losing their [temporal goods]{g:temporalia}, so the richer chief priests in the time of
 [the law of grace]{g:lex-gracie} [have killed] Christ's [divinity]{g:divinitas}, because they have
 extinguished the truth of [the gospel law]{g:lex-evangelica} as far as they were able. Therefore, as
 it seems to many, since they have received a greater kindness from Christ, they have sinned the more,
@@ -38,12 +38,12 @@ ungrateful; and not only do they persecute Christ in his members with a greater 
 despise the preaching of the gospel truth as the thing most hateful to them. The cause of which
 seems to be that they know [from the catholic faith]{g:ex-fide} that they ought to follow Christ in
 their conduct; and the gospel, together with their life, teaches that they are exceedingly contrary
-to the life and teaching of Christ. Therefore they hate that this should be made plain to the
+to the life and [doctrine]{g:doctrina} of Christ. Therefore they hate that this should be made plain to the
 people. And so, as for the glory which you pretend ought now to belong to Christ's priests, it is
 clear that you call shame glory, since you urge that, in a more perilous state, [the
 clergy]{g:clerus} should forsake the spiritual arms with which it ought to [18] overcome the devil,
 the flesh and the world; and besides this you lay to Christ's charge a manifest blasphemy: that he,
-as though ignorant of this return, or neglectful of the manner of life of his church, passed this
+as though ignorant of this return, or neglectful of the manner of life of his [church]{g:ecclesia}, passed this
 return over.[^5] And as for the naming of "the patrimony of the crucified", it is clear that you
 multiply blasphemies against the clergy;[^6] for it is a great sin to transgress the Lord's
 commandment in this way, but a greater blasphemy to lay to Christ's charge that he approves and
@@ -54,7 +54,7 @@ far more abjectly, since it says that Christ was crucified on the tree so that h
 afterwards [lord it]{g:dominari} in this way. But what greater blasphemy than to lay such a fault on
 Christ? And consequently it is the highest blasphemy [to say] that Christ's clergy, by virtue of this
 poor and humble passion, ought thus to lord it over the whole world.[^7] And as for the charters and
-grants of the secular lords, it is clear that the clergy should blush to rest on so culpable a
+[grants]{g:concessio} of the secular [lords]{g:dominus}, it is clear that the clergy should blush to rest on so culpable a
 foundation. For the emperor and the other lords were in this led astray by the king of pride.[^8]
 Therefore let them, lulled asleep in the slumber of this crime, awake, and let them recognise this
 principle, clearly demonstrable among catholics: that a human grant is of no force in anything
@@ -66,10 +66,10 @@ lordship is unlawful and consequently to be rejected by catholics, or, third, sh
 leave for it. And by as much as the clergy or the secular [19] lords linger the longer in this
 crime, by so much do they harden themselves devilishly in the greatest sin. And as for the papal
 laws and lives, it is clear that [this] is a confirmation of the crime, as before. For what are
-these evidences worth unless they have been proved by reasons or by scripture? Now, since in Christ
+these [evidences]{g:evidencia} worth unless they have been proved by reasons or by scripture? Now, since in Christ
 there is not "It is and It is not", it is clear that it is impossible by either of these to
 establish these papal traditions or the laws of men.[^10] And I would wish that the clergy, murmuring
-against this expropriation, and even the pope, would answer this reasoning effectively.[^11] And it
+against this expropriation, and even the [pope]{g:papa}, would answer this reasoning effectively.[^11] And it
 is certain that no fruitful answer remains except the restoration of a thing so long unjustly
 withheld; and this, with contrition, can by God's grace please the chief lord.
 

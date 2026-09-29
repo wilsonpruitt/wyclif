@@ -48,7 +48,7 @@ about the gain of temporal goods; and so I will all these three parts of the chu
 their office, as much in the spiritual as in the temporal, so far as reason requires. And as in the
 uncreated Trinity there is the highest concord, so I will there to be in these three parts of the
 church a concord of love, strife being driven out according to the rules of virtue, since the church
-is a body of free choice, which is to be ruled by the influences of Christ its head. Let the body of
+is a body of [free choice]{g:liberum-arbitrium}, which is to be ruled by the influences of Christ its head. Let the body of
 the church therefore dispose itself, and especially its highest part, which according to Augustine
 ought to be mountains, so as to be fitted to the influences of this head; and then it will be well
 ruled according to the grace of Jesus Christ.[^3] For as the lower part, in which the growths of the

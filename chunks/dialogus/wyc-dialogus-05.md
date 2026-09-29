@@ -31,28 +31,28 @@ he may return a blessing upon his house. The priests shall not eat of any thing 
 itself or caught by a beast, whether it be fowl or cattle."[^1] There are many such commandments of
 the Lord, as is clear to him who will rest faithfully in these three. Now in these many ceremonies
 are touched on; but all of them, their base being passed beyond, are doubled into another sense.[^2]
-And since Christ, as faith teaches, is the best interpreter of the law, [10] it is clear that, as he
+And since Christ, [as faith teaches]{g:ex-fide}, is the best interpreter of the law, [10] it is clear that, as he
 who came not to destroy the law but to fulfil it taught that it ought to be kept as much in deed as
-in word, so it is to be kept by the priests of the law of grace;[^3] nor does this saying admit any
+in word, so it is to be kept by the priests of the [law of grace]{g:lex-gracie};[^3] nor does this saying admit any
 excuse but this wicked one: that these priests whom you see offend against this commandment of God
 are not priests of Christ or part of him; therefore these laws do not concern them, since they are
 rather priests of Baal or Belial; therefore they are bound to follow Antichrist, and consequently to
 oppose the Lord Jesus Christ in their life.[^4] And so, if the Lord's law is to be believed, it is
 clear that such transgressors, with their abettors, are manifest heretics. Nor do we believe that
-Antichrist has dispensed from these laws, or suspended them for as long as it pleased him.[^5] It is
+Antichrist has dispensed from these laws, or [suspended]{g:suspendere} them for as long as it pleased him.[^5] It is
 clear that these words are frivolous, and to be condemned on the day of the final judgement. For
 since there is as great a reason, or a greater, for the observance of these laws now, while greed
 grows strong, as there was in the time of the Old Testament, it is clear that it would be necessary
 for priests now to keep these laws against the avarice both of themselves and of the people, as it
 was in the time when greed did not burn so hot. And this sin seems to grow strong from a special
 wile of the devil, who envies Christ, who in the third temptation refused to [exercise
-lordship]{g:dominari} in this way.[^6] For by this simony has entered the more strongly, frugality is
+lordship]{g:dominari} in this way.[^6] For by this [simony]{g:simonia} has entered the more strongly, frugality is
 suspended, and the preaching of the gospel, with the other ministries enjoined by Christ, is
 forbidden to these priests by the devil. And by this the unqualified aspire to the higher grades of
 the priesthood and hinder the word of God from being preached among the people; and those who long
 for it they persecute as heretics, and this persecution is a manifest token of their own heresy;
 [11] nor are the poor and few faithful priests sufficient to resist, unless God quickly lays helping
-hands to it, through the secular arm or from elsewhere.[^7]
+hands to it, through the [secular arm]{g:brachium-seculare} or from elsewhere.[^7]
 
 ## Pollard's side-notes (PD, verbatim; not our translation)
 
