@@ -6,7 +6,8 @@ For the primary scan and every other free archive.org scan of the volume: downlo
 _djvu.xml, split each leaf into main text / margin / apparatus (djvu.py), join
 line-end hyphens, and write text/<slug>/witnesses/<id>.jsonl, one token per line:
     {"t": raw, "leaf": n, "line": k, "box": [l,t,r,b], "para": bool, "head": bool}
-Side-notes of the PRIMARY scan go to sidenotes/<slug>.tsv (leaf, y, text).
+Side-notes of the PRIMARY scan go to sidenotes/<slug>.tsv (leaf, y, text); its page-foot apparatus
+to text/<slug>/apparatus.json ({leaf: text}), which brief.py hands to the translator.
 Fordham (where it exists) is written as witnesses/fordham.jsonl with "pg" (printed
 page) and "it" (italic) instead of leaf/box.
 The XML is deleted after parsing (8 GB machine; it can be re-fetched).
@@ -35,9 +36,11 @@ def fetch(ident, dest):
 def stream_from_scan(path):
     leaves = list(djvu.parse(path))
     W = djvu.measure(leaves)
-    out, notes = [], []
+    out, notes, app = [], [], {}
     for lf in leaves:
         sp = djvu.split_leaf(lf, W)
+        if sp['apparatus']:
+            app[lf['leaf']] = '\n'.join(' '.join(w[0] for w in ln) for ln in sp['apparatus'])
         L = sp['band'][0]
         Wl = sp['band'][1] - sp['band'][0]
         prev_line = None
@@ -54,7 +57,7 @@ def stream_from_scan(path):
             txt = ' '.join(w[0] for w in g)
             if sum(c.isalpha() for c in txt) >= 3:
                 notes.append((lf['leaf'], int(sum(w[4] for w in g) / len(g)), g[0][1], txt))
-    return join_hyphens(merge_digits(out)), notes, W
+    return join_hyphens(merge_digits(out)), notes, W, app
 
 
 def merge_digits(toks):
@@ -137,7 +140,7 @@ def main(slug):
             print('have', ident); continue
         xml = fetch(ident, f'{base}/raw/{ident}_djvu.xml')
         try:
-            toks, notes, W = stream_from_scan(xml)
+            toks, notes, W, app = stream_from_scan(xml)
         except Exception as e:                      # a scan without usable XML
             print('SKIP', ident, e); continue
         with open(outp, 'w') as f:
@@ -148,6 +151,8 @@ def main(slug):
                 f.write('leaf\ty\tx\ttext\n')
                 for n in notes:
                     f.write('\t'.join(str(x) for x in n) + '\n')
+            with open(f'{base}/apparatus.json', 'w') as f:        # the editor's page-foot apparatus, by leaf (briefs use it)
+                json.dump(app, f, ensure_ascii=False, indent=0)
         os.remove(xml)
         print(f'{ident}: {len(toks)} tokens, measure {W}')
     fs = fordham_stream(slug)
