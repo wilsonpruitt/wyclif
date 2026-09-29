@@ -93,8 +93,9 @@ the devil.[^10]
     another hand.
 
 [^4]: **R.** *Medietatem imperii*, "half the empire", alludes to the Donation of Constantine
-    (LEDGER D35-1). *Patrimonium crucifixi* turns the name "patrimony of St Peter" for the papal
-    lands onto the crucified Christ (LEDGER D35-2). B¹, C read *Petri* for *a petro* (83.1).
+    (LEDGER D35-1). *Patrimonium crucifixi*, a current name for church goods held for the poor
+    (ch. 8 n2), is here given to papal lordship "as if by hereditary right", beside the usual name
+    "patrimony of St Peter" for the papal lands (LEDGER D35-2). B¹, C read *Petri* for *a petro* (83.1).
 
 [^5]: **C.** *Officia specialia … sacramenta et sacramentalia ministrandi*: the gerund with its
     objects is taken as a genitive on *officia* ("offices of ministering sacraments"), and *que

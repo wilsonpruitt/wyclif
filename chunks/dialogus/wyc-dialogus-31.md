@@ -75,7 +75,7 @@ TRUTH. This [quibble]{g:argucia} would not hold except by the [topic from apish 
 
 [^11]: **S/C.** Matt. 4:8–9. Wyclif's *omnia regni mundi* departs from the Vulgate's *omnia regna mundi* ("all the kingdoms of the world"); translated as printed. The closing inference is the opponents' ("therefore the pope …"). *Suus vicarius*: most naturally Christ's vicar; it can also be read as the devil's, which sharpens the irony. *Dominari* is pejorative here.
 
-[^12]: **S.** The king as vicar of the Godhead and the priest as vicar of Christ's humanity: attributed to Augustine; the source is probably Ps.-Augustine (Ambrosiaster), *Quaestiones Veteris et Novi Testamenti* (LEDGER D31-2).
+[^12]: **S.** The king as vicar of the Godhead and the priest as vicar of Christ's humanity, "as Augustine teaches in many a place": as in ch. 1 (n7), the "Augustine" is the *Quaestiones Veteris et Novi Testamenti* of Ambrosiaster, which circulated as Augustine's: *Dei enim imaginem habet rex, sicut et episcopus Christi* (q. 35, PL 35:2234); the king *habens imperium Dei quasi vicarius ejus* (q. 106, PL 35:2319; also q. 91, *Rex enim adoratur in terris quasi vicarius Dei*, PL 35:2284). Gratian took q. 106 into the *Decretum* under Augustine's name (C.33 q.5 c.13). Ambrosiaster pairs the king with God and the bishop with Christ; "vicar of Christ's humanity" is Wyclif's sharpening of it (LEDGER D31-2).
 
 [^13]: **C.** *Accipere a clero*: "take from the clergy", i.e. take back the secular arm's own lordship; Pollard's side-note (72.1) renders "receive".
 
@@ -83,7 +83,7 @@ TRUTH. This [quibble]{g:argucia} would not hold except by the [topic from apish 
 
 [^15]: **R.** *Accepcio medietatis imperii*: the Donation of Constantine (LEDGER D31-4).
 
-[^16]: **T/R.** *Nonagentas* is read as *nongentas*, "nine hundred"; *nonaginta* would be "ninety". The tribute promised by King John was 1,000 marks yearly, withheld by England from 1366 (LEDGER D31-5). *Ihm* (72.34) = *Ihesum*.
+[^16]: **T/R.** *Nonagentas* is read as *nongentas*, "nine hundred"; *nonaginta* would be "ninety". King John's concession of 1213 promised 1,000 marks yearly (700 for England, 300 for Ireland), so Wyclif's figure is loose. Payment had lapsed since about 1333; when Urban V demanded the arrears in 1366, Parliament refused and repudiated the tribute (LEDGER D31-5). *Ihm* (72.34) = *Ihesum*.
 
 [^17]: **C.** *Culpam suam de defendendo legem dei*: their fault concerning the defence of God's law, i.e. their failure to defend it.
 
