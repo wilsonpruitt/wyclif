@@ -68,10 +68,15 @@ class Lexicon:
             r = w in ('a', 'e', 'o', 'i')
         elif w in ENGLISH:
             r = False
-        elif w in self.agreed:
+        elif any(self.d.lookup(v) for v in self.variants(w) if v):
             r = True
+        elif w in self.agreed:
+            # agreed.txt holds shared misreadings too (chnstus, ahquis): not one when a known OCR
+            # confusion turns it into a dictionary word
+            r = not any(self.d.lookup(v) for p_, o_ in CONFUSIONS for i in [w.find(o_)] if i >= 0
+                        for v in self.variants(w[:i] + p_ + w[i + len(o_):]) if v)
         else:
-            r = any(self.d.lookup(v) for v in self.variants(w) if v)
+            r = False
         self.cache[w] = r
         return r
 
@@ -330,6 +335,25 @@ def decide(forms, lex):
 LINE_NO = re.compile(r'^(5|10|15|20|25|30|35|40)$')
 
 
+def ocr_suspect(w, lex):
+    """A non-word the scans agree on (R5a/R6a) that one known OCR confusion turns into a dictionary
+    word: a shared misreading, not the print's spelling, until the plate says otherwise (the
+    majority-error class, WORKFLOW stage 4).  Hunspell only: agreed.txt holds these very errors."""
+    if not w or w == '∅' or len(w) < 3 or w.isdigit():
+        return False
+    def dict_word(g):
+        return any(lex.d.lookup(v) for v in lex.variants(g) if v)
+    if dict_word(w):
+        return False
+    for p_, o_ in CONFUSIONS:
+        i = w.find(o_)
+        while i >= 0:
+            if dict_word(w[:i] + p_ + w[i + len(o_):]):
+                return True
+            i = w.find(o_, i + 1)
+    return False
+
+
 # ---------------------------------------------------------------- main
 def unstar(w):
     """MS folio asterisks are left out of the reading text (CONVENTIONS 3.5): 'ta*lis' -> 'talis',
@@ -355,6 +379,7 @@ def run(slug, first=None, last=None):
     # heading lines in the pivot, by (leaf, line), for structure
     head_lines = {(t['leaf'], t['line']) for t in raw_pivot if t.get('head')}
     pivot = prep(raw_pivot)
+    form_count = Counter(t['n'] for t in pivot)      # recurring forms are spellings, not misreadings
     for t in pivot:
         t['pg'] = t['leaf'] - offset
         t['hl'] = (t['leaf'], t['line']) in head_lines
@@ -494,6 +519,9 @@ def run(slug, first=None, last=None):
                     if wid == 'fordham':
                         ital = v.get('it')
             rule, win, plate = decide(list(forms.values()), lex)
+            if (rule in ('R5a', 'R6a') and form_count[win] < 4 and not t['t'][:1].isupper()
+                    and not re.fullmatch(r'[ivxlcdmu]+', win) and ocr_suspect(win, lex)):
+                rule, plate = 'NW', True       # every scan shares one misreading: ahquis, luxta, pnncipio
             sig = ' | '.join(f'{w}={f}' for w, f in forms.items())
             d = pick(decisions, pg, k, forms=sig, skip=('HEAD', 'INS?'))
             if os.environ.get('W3_DUMP') == str(pg):    # print every row's forms, to write an OVERRIDE
@@ -607,7 +635,7 @@ def run(slug, first=None, last=None):
     open(p, 'w').write('\n'.join(sorted(old | agreed_new)) + '\n')
     words = sum(stats[r] for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'R3', 'R4', 'R5', 'R6', 'THIN', 'DEL', 'PLATE'))
     print(f'{slug} pp.{first}-{last}: {stats["pages"]} pages, mean voters {stats["voters"] / max(1, stats["pages"]):.1f}, {words} pivot words')
-    for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP'):
+    for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP', 'NW'):
         print(f'  {r:5} {stats[r]:6}  {100 * stats[r] / max(1, words):5.2f}%')
     print(f'  plate queue: {len(queue)}  ({1000 * len(queue) / max(1, words):.1f} per 1,000 words); '
           f'plate decisions applied: {stats["PLATE"]}; stale: {len(stale)}')
