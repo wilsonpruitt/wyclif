@@ -20,6 +20,9 @@ import xml.etree.ElementTree as ET
 NUM_PREFIX = re.compile(r'^(?:10|1[oO0]|[iIl][oO0]|15|[iIl][5S]|20|2[oO0]|25|2[5S]|30|3[oO0]|35|3[5S]|5)(?=[A-Za-z])')   # line nos glued at left: 5, io, i5, 2o...
 NUM_SUFFIX = re.compile(r'(?<=[a-z.,;:])(?:10|1[oO0]|[iIl][oO0]|15|[iI][5S]|20|2[oO0]|25|30|3[oO0]|35|5|[A-D])$')   # line no. or alinea letter glued at right
 PURE_NUM = re.compile(r'^[0-9IiloOS.,*]{1,4}$')
+# a token after which a numeral is a reference, not a line number: a roman/ordinal chapter or a citation word
+CITE = re.compile(r'^(?:[IVXLCivxlc]+[°º0"^a]*|\d+[°º]|\d+,|cap|capitulo|q|qu|dist|art|articulo|pag|lib|tom|c|'
+                  r'psalmo|ps|prov|gen|apoc|luce|marci|matthei|johannis|ioh|rom|cor|heb|act|isaie|eccl)[.,;:)]*$', re.I)
 # apparatus vocabulary: line refs (18.), sigla (B, B1, c, D.), and the collator's pro/add./om.
 SIGLUM = re.compile(r'^(\d{1,2}\.|[BbCcDd][1l]?[,.;:]?|pro|fro|add\.?|om\.?|post|ante|inv\.?|ord\.?)$')
 
@@ -114,6 +117,18 @@ def regroup(lines):
         cur.append(w)
         base = st.median([x[4] for x in cur])
     rows.append(cur)
+    # a word or two whose box sits ~0.55h off its line's baseline becomes a row of its own; fold it
+    # back when it is that close and fills a horizontal gap in the neighbouring row (De ecclesia p. 395)
+    merged = []
+    for r in rows:
+        if merged:
+            p = merged[-1]
+            near = st.median([w[4] for w in r]) - st.median([w[4] for w in p]) < 0.8 * h
+            clear = all(min(a[3], b[3]) <= max(a[1], b[1]) for a in r for b in p)
+            if near and clear:
+                p.extend(r); continue
+        merged.append(r)
+    rows = merged
     out = []
     for r in rows:
         r.sort(key=lambda w: w[1])
@@ -168,6 +183,22 @@ def split_leaf(leaf, W):
             m = []
         clean.append((m, g))
     rows = clean
+    # an interloper row (show-through, a side-note scrap) sitting between two body lines halves one gap
+    # into two, which the tight-leading test below reads as the notes starting (De ecclesia pp. 290, 445 …).
+    # Only junk moves: small type or mostly punctuation; a row of real words is never dropped here.
+    mi = [k for k, (m, _) in enumerate(rows) if m]
+    yk = [st.median([w[4] for w in rows[k][0]]) for k in mi]
+    gk = sorted(b - a for a, b in zip(yk, yk[1:]))
+    lead0 = gk[int(0.6 * (len(gk) - 1))] if gk else 0
+    for n in range(1, len(mi) - 1):
+        up, down = yk[n] - yk[n - 1], yk[n + 1] - yk[n]
+        m, g = rows[mi[n]]
+        chars = ''.join(w[0] for w in m)
+        junk = (st.median([w[4] - w[2] for w in m]) < 0.75 * body_h0
+                or sum(c.isalpha() for c in chars) < 0.5 * len(chars)
+                or not any(sum(c.isalpha() for c in w[0]) >= 3 for w in m))     # 'r f r ' 1 ''
+        if junk and lead0 and up < 0.65 * lead0 and down < 0.65 * lead0 and 0.85 * lead0 <= up + down <= 1.2 * lead0:
+            rows[mi[n]] = ([], g + m)
     margin = [g for _, g in rows if g]
     main_rows = [m for m, _ in rows if m]
     if not main_rows:
@@ -188,11 +219,16 @@ def split_leaf(leaf, W):
             continue            # a heading or speaker (CAPITULUM, VERITAS) never opens the notes
         small2 = i + 1 < len(hts) and hts[i] < 0.8 * body_h and hts[i + 1] < 0.8 * body_h
         tight = (len(gaps[i:i + 4]) >= 3 and st.median(gaps[i:i + 4]) < 0.8 * lead
-                 and hts[i] < 0.93 * body_h and gaps[i - 1] > 0.9 * lead)
+                 and hts[i] < 0.93 * body_h and gaps[i - 1] > 0.9 * lead
+                 and st.median(hts[i:i + 3]) < 0.85 * body_h)   # notes are small type; skewed body lines are not
         siglaic = (sigla_share(main_rows[i]) >= 0.3 and gaps[i - 1] > 0.9 * lead
                    and all(sigla_share(r) >= 0.2 for r in main_rows[i + 1:i + 3]))
         if siglaic:             # few note lines at the foot: too few gaps for the leading test
             app_start = i
+            break
+        if (gaps[i - 1] > 1.2 * lead and hts[i] < 0.8 * body_h
+                and st.median(hts[i:]) < 0.85 * body_h):
+            app_start = i       # a wide gap, then small type to the foot (the sources block runs a little larger)
             break
         if gaps[i - 1] > 1.2 * lead or small2 or tight:
             nxt = gaps[i:i + 4]
@@ -202,6 +238,8 @@ def split_leaf(leaf, W):
                 # rows before it are the page's last body lines, not notes
                 for sh in (1, 2):
                     j = i + sh - 1
+                    if hts[i] < 0.8 * body_h and gaps[i - 1] > 1.2 * lead:
+                        break           # small type opening after a wide gap is the first note line
                     if (j < len(gaps) and gaps[j] > 1.15 * lead
                             and all(g >= 0.85 * lead for g in gaps[i:j])
                             and st.median(gaps[j + 1:j + 4] or [0]) < 0.85 * lead):
@@ -262,7 +300,9 @@ def main_tokens(leaf_split, L=None):
                     continue                                # line number / alinea letter
                 txt = NUM_PREFIX.sub('', txt)
             if w[3] > R + 12:                               # protrudes into the right margin
-                if PURE_NUM.match(txt) or re.fullmatch(r'[a-dA-D][.,]?', txt):
+                cited = (kept and CITE.match(kept[-1]['t']) and re.search(r'\d', txt)
+                         and not re.fullmatch(r'(5|10|15|20|25|30|35|40)', txt.strip('.,;:')))
+                if (PURE_NUM.match(txt) and not cited) or re.fullmatch(r'[a-dA-D][.,]?', txt):
                     continue
                 txt = NUM_SUFFIX.sub('', txt) or txt
             # editorial footnote superscripts: small numerals, alone or glued to a word
@@ -278,10 +318,25 @@ def main_tokens(leaf_split, L=None):
         for x in kept:                                     # pencil tick after a hyphen: "prete-/"
             x['t'] = re.sub(r'-[/\\|\'`"]+$', '-', x['t'])
         # eol = last token with a letter (a pencil mark after "prete-" must not block the join)
+        # ... but a line-final numeral after a citation is text, not a line number ('Matthei XXII°, 38')
         for k in range(len(kept) - 1, -1, -1):
             if any(c.isalpha() for c in kept[k]['t']):
-                kept[k]['eol'] = True
+                tail, prev = [], kept[k]['t']
+                for x in kept[k + 1:]:
+                    t, inband = x['t'], x['box'][2] <= R + 12
+                    lineno = re.fullmatch(r'(5|10|15|20|25|30|35|40)', t.strip('.,;:')) is not None
+                    if not re.search(r'\d', t):
+                        break
+                    ordinal = re.fullmatch(r'\d{1,2}[°º][.,;:]?', t) is not None          # 'Patet 2°'
+                    if (inband and (CITE.match(prev) or ordinal)) or (not lineno and CITE.match(prev)):
+                        tail.append(x); prev = t
+                    else:
+                        break
+                kept[k]['eol'] = not tail
+                if tail:
+                    tail[-1]['eol'] = True
                 del kept[k + 1:]
+                kept += tail
                 break
         toks += kept
     return toks

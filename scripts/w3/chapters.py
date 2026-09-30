@@ -113,7 +113,7 @@ def main(slug, force=False):
         for cid, lab, divs, hd, bd in parts:
             ps = paras_of(bd)
             span_pages = bd[-1]['page'] - bd[0]['page'] + 1
-            k = -(-span_pages // 7) if span_pages > 8 else 1      # CONVENTIONS §1: split long ones at ¶
+            k = -(-span_pages // 5) if span_pages > 6 else 1      # CONVENTIONS §1: split long ones at ¶ (≤5 pp, Wilson 2026-09-30)
             if k == 1 or len(ps) < 2:
                 sections.append((cid, lab, divs, hd, ps)); continue
             total = sum(len(x) for x in ps); groups, acc, g = [], 0, []

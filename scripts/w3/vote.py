@@ -110,6 +110,43 @@ def anchor_index(stream):
     return idx
 
 
+NOTE_WORDS = {'cap', 'codd', 'marg', 'deest', 'recte', 'corr', 'opp', 'comp', 'cf', 'ibid', 'decr', 'pag', 'tom'}
+
+
+def tail_run(stream, end, head):
+    """Words a witness has between the pivot page's last match and the next page's opening words:
+    the pivot OCR's lost last lines (De ecclesia pp. 42, 451, 563).  None if the next page's head
+    is not found within reach, so the run is never unbounded."""
+    if len(head) < 4:
+        return None
+    for j in range(end, min(len(stream) - 4, end + 200)):
+        if sum(stream[j + q]['n'] == head[q] for q in range(4)) >= 3:
+            return [x for x in stream[end:j] if not LINE_NO.match(x['n'])]
+    return None
+
+
+def tail_vote(tails, nwit, lex):
+    """A page-end run is accepted when a majority of the other witnesses carry it (fuzzy: OCR
+    differs across scans) and it does not read as apparatus.  Returns the best-read witness run."""
+    tails = {w: xs for w, xs in tails.items() if xs and len(xs) >= 3}
+    if not tails:
+        return None
+    s = {w: ' '.join(x['n'] for x in xs) for w, xs in tails.items()}
+    best = None
+    for w in tails:
+        sup = [v for v in tails if difflib.SequenceMatcher(None, s[w], s[v]).ratio() >= 0.75]
+        if best is None or len(sup) > len(best):
+            best = sup
+    if len(best) < 2 or len(best) * 2 <= nwit:
+        return None
+    rep = max(best, key=lambda w: sum(lex.real(x['n']) for x in tails[w]))
+    if any(x['n'] in NOTE_WORDS for x in tails[rep]):
+        return None
+    if sum(bool(re.match(r'^[AB][,1₁ij]?[:.;]?$', x['t'])) for x in tails[rep]) >= 2:
+        return None                             # 'A: quilt. A,: qualiter' — the apparatus
+    return tails[rep], len(best)
+
+
 def locate(page, stream, idx, hint):
     """Estimated start of `page` in `stream` from rare-word anchors."""
     cands = []
@@ -343,7 +380,8 @@ def run(slug, first=None, last=None):
         page = [t for t in pivot if t['pg'] == pg]
         if not page:
             continue
-        per_wit = {}
+        per_wit, tails = {}, {}
+        nxt_head = [t['n'] for t in pivot if t['pg'] == pg + 1 and not t['hl']][:4]
         for wid, (s, idx) in others.items():
             st_ = locate(page, s, idx, hints[wid])
             if st_ is None:
@@ -353,6 +391,7 @@ def run(slug, first=None, last=None):
                 continue
             hints[wid] = end
             per_wit[wid] = (votes, ins)
+            tails[wid] = tail_run(s, end, nxt_head)
         out_tokens, checks = [], []
         head_done = set()
         for k, t in enumerate(page):
@@ -379,6 +418,35 @@ def run(slug, first=None, last=None):
             raw_ins = {wid: [x for x in ins[k] if not LINE_NO.match(x['n'])]
                        for wid, (votes, ins) in per_wit.items() if ins.get(k)}
             firsts = [xs[0]['n'] for xs in raw_ins.values() if xs]
+            # a run of lines the pivot OCR skipped mid-page (De ecclesia p. 42): the other scans agree
+            # only fuzzily, so the exact-form vote below never carries it; taken, and read on the plate
+            gv = tail_vote(raw_ins, len(per_wit), lex)
+            if gv:
+                # most long 'insertions' are alignment noise: the pivot has the words close by
+                # (or on the neighbouring page: the alignment window's slack reaches into both)
+                rn = [x['n'] for x in gv[0]]
+                near = ([t2['n'] for t2 in pivot if t2['pg'] == pg - 1][-(len(rn) + 80):]
+                        + [x['n'] for x in page[max(0, k - len(rn) - 10):k + len(rn) + 10]]
+                        + [t2['n'] for t2 in pivot if t2['pg'] == pg + 1][:len(rn) + 80])
+                cover = sum(b.size for b in difflib.SequenceMatcher(None, rn, near, autojunk=False).get_matching_blocks() if b.size >= 3)
+                if cover > 0.3 * len(rn):
+                    gv = None
+            if gv:
+                run_, nsup = gv
+                form = ' '.join(x['t'] for x in run_)
+                d = pick(decisions, pg, k, rule='GAP')
+                if d and d['rule'] == 'GAP':
+                    words = [] if d['reading'] == '∅' else d['reading'].split()
+                    checks.append((k, 'GAP', form, nsup, 1 + len(per_wit), 'plate: ' + d['reading']))
+                    stats['PLATE'] += 1
+                else:
+                    words = [x['t'] for x in run_]
+                    checks.append((k, 'GAP', form, nsup, 1 + len(per_wit), 'plate'))
+                    queue.append((pg, k, 'GAP', form, t['leaf'], t['box']))
+                    stats['GAP'] += 1
+                for w in words:
+                    out_tokens.append(dict(t=w, n=norm(w), ins=True))
+                raw_ins = {}
             for wid, xs in raw_ins.items():
                 if not xs:
                     continue
@@ -459,6 +527,27 @@ def run(slug, first=None, last=None):
             rawf = re.sub(r'(?<=[a-z])([,;:])(?=[a-z])', r'\1 ', rawf)
             out_tokens.append(dict(t=rawf, n=win, it=bool(ital), para=t.get('para'), hl=t['hl'],
                                    pending=plate, leaf=t['leaf'], line=t['line'], pos=k))
+        # the pivot's lost last lines, carried by the other scans: taken, and always read on the plate
+        tv = tail_vote(tails, len(per_wit), lex)
+        if tv:
+            run_, nsup = tv
+            k, last_t = len(page), page[-1]
+            form = ' '.join(x['t'] for x in run_)
+            d = pick(decisions, pg, k, rule='TAIL')
+            if d and d['rule'] == 'TAIL':
+                words = [] if d['reading'] == '∅' else d['reading'].split()
+                checks.append((k, 'TAIL', form, nsup, 1 + len(per_wit), 'plate: ' + d['reading']))
+                stats['PLATE'] += 1
+            else:
+                words = [x['t'] for x in run_]
+                l, t_, r_, b = last_t['box']
+                nl = -(-len(run_) // 8)                     # ~8 words to a line
+                box = [0, t_, 10 ** 5, b + int(1.8 * nl * (b - t_))]
+                checks.append((k, 'TAIL', form, nsup, 1 + len(per_wit), 'plate'))
+                queue.append((pg, k, 'TAIL', form, last_t['leaf'], box))
+                stats['TAIL'] += 1
+            for w in words:
+                out_tokens.append(dict(t=w, n=norm(w), ins=True))
         # write page
         lines, cur, cur_head = [], [], False
         for x in out_tokens:
@@ -515,7 +604,7 @@ def run(slug, first=None, last=None):
     open(p, 'w').write('\n'.join(sorted(old | agreed_new)) + '\n')
     words = sum(stats[r] for r in ('R1', 'R2', 'R3a', 'R3b', 'R5a', 'R6a', 'R3', 'R4', 'R5', 'R6', 'THIN', 'DEL', 'PLATE'))
     print(f'{slug} pp.{first}-{last}: {stats["pages"]} pages, mean voters {stats["voters"] / max(1, stats["pages"]):.1f}, {words} pivot words')
-    for r in ('R1', 'R2', 'R3a', 'R3b', 'R5a', 'R6a', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD'):
+    for r in ('R1', 'R2', 'R3a', 'R3b', 'R5a', 'R6a', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP'):
         print(f'  {r:5} {stats[r]:6}  {100 * stats[r] / max(1, words):5.2f}%')
     print(f'  plate queue: {len(queue)}  ({1000 * len(queue) / max(1, words):.1f} per 1,000 words); '
           f'plate decisions applied: {stats["PLATE"]}; stale: {len(stale)}')
