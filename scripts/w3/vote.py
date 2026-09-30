@@ -321,6 +321,9 @@ def decide(forms, lex):
         return ('R3', rf if cr > cr2 else None, True)
     if cn >= 2 and cr == 0 and len(fake) == 1:
         return ('R6', nf, True)
+    # R4a: one real form, every other form a known OCR confusion of it (speciah/speciab -> speciali)
+    if rf and cr2 == 0 and fake and all(confusable(f, rf) for f in fake):
+        return ('R4a', rf, False)
     return ('R4', rf or nf, True)
 
 
@@ -602,9 +605,9 @@ def run(slug, first=None, last=None):
     p = f'{ROOT}/catalog/lexicon/agreed.txt'
     old = set(open(p).read().split()) if os.path.exists(p) else set()
     open(p, 'w').write('\n'.join(sorted(old | agreed_new)) + '\n')
-    words = sum(stats[r] for r in ('R1', 'R2', 'R3a', 'R3b', 'R5a', 'R6a', 'R3', 'R4', 'R5', 'R6', 'THIN', 'DEL', 'PLATE'))
+    words = sum(stats[r] for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'R3', 'R4', 'R5', 'R6', 'THIN', 'DEL', 'PLATE'))
     print(f'{slug} pp.{first}-{last}: {stats["pages"]} pages, mean voters {stats["voters"] / max(1, stats["pages"]):.1f}, {words} pivot words')
-    for r in ('R1', 'R2', 'R3a', 'R3b', 'R5a', 'R6a', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP'):
+    for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP'):
         print(f'  {r:5} {stats[r]:6}  {100 * stats[r] / max(1, words):5.2f}%')
     print(f'  plate queue: {len(queue)}  ({1000 * len(queue) / max(1, words):.1f} per 1,000 words); '
           f'plate decisions applied: {stats["PLATE"]}; stale: {len(stale)}')

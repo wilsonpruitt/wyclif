@@ -112,6 +112,7 @@ dictionary lacks: *israelis*, *auffert*).
 | R3a | Majority real form ≥ 3, one lone real-word rival | Accept: a single outlier is OCR noise | No |
 | R3b | Majority real form ≥ 3 and ≥ 2× any rival, every real rival an OCR confusion of it | Accept (*dommus*, *nou*; *30* for *3°*) | No |
 | R6a | A non-word holds a strict majority of **all** voters, rivals only singletons | Accept: the print's form | No |
+| R4a | No majority, but exactly one real form and every other form a known OCR confusion of it (≤ 2) | Accept (*speciah / speciab* → *speciali*) | No |
 | DEL | A strict majority of witnesses lack the pivot's word | Drop it; plate only if a real rival has ≥ 2 votes | if so |
 | INS | A strict majority of witnesses have a word the pivot lost | Insert it | No |
 | R3 | Real-word dispute with ≥ 2 votes on each side (*fide / ride*, *sto / isto*) | Plate | **Yes** |
@@ -120,6 +121,7 @@ dictionary lacks: *israelis*, *auffert*).
 | THIN | Fewer than 3 witnesses aligned here | Plate | **Yes** |
 | INS? | ≥ 2 witnesses (not a majority) insert a word | Plate | **Yes** |
 | HEAD | A chapter heading (structure is checked once per heading) | Plate | **Yes** |
+| TAIL / GAP | The pivot OCR lost whole lines (page foot / mid-page) that a majority of the other scans carry, agreeing fuzzily; not apparatus, not on a neighbouring page | Insert the best-read witness's run | **Yes** |
 
 - **Non-word vs real word** still follows the house rule ([[reference_plate-read-triage]]): a
   non-word is evidence of an error; a real word that reads oddly is the source's until the plate
@@ -374,3 +376,4 @@ side-notes · Notes · Transcription notes (plate readings, collation, the edito
 | 2026-09-28 | GLOSSARY: wave-8 terms (*predicamentum* category, *infidelis* split by construction, *temporales domini* temporal lords, …; see `chunks/dialogus/_reports.md`) | Opus (coordinator, delegated) |
 | 2026-09-28 | §2: an unnumbered section takes a short Latin tag for `<cap>` (`wyc-dialogus-epil-a`), and parts of a split section a hyphenated letter | Opus (M3), mechanical |
 | 2026-09-28 | §3.3 refined in M2 against measurement: non-word attribution (OCR confusions, glue, singletons); R3a/R3b/R5a/R6a/DEL/INS/THIN/HEAD; §3.4 crop sheets + decisions file. Principle unchanged | Opus (M2) · **confirmed by Wilson 2026-09-28** |
+| 2026-09-30 | §3.3 for M5 (*De ecclesia*): R4a (one real form, the rest its OCR confusions: 411 settled, sample all correct) and TAIL/GAP (lines the pivot OCR lost, carried by the other scans, always plate-read); the vote runs over the body only (`last_page`, index excluded). Plate queue 3,271 → 1,895. Principle unchanged: a real-word dispute still goes to the plate | Opus (M5), mechanical — for Wilson to confirm |
