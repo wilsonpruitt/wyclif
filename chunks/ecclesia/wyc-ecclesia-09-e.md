@@ -55,26 +55,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 198.17: lias passcd winter.
-- 199.9: Exampie oi St. 'Ihoinas. . . . .
-- 199.20: " ^ oc?iocted
-- 199.21: privi-
-- 199.21: leges could be T .
-- 200.1: -iOO
-- 200.4: The predestinate liolds privi- .. . ... k-c in a inore excellent way, ....
-- 200.10: yei a privilege may be ot somc 1 1 . . avail to the foreknown. .
-- 200.21: Privileges ihat arc abuscd , . . . ., , . ., . sbould be changed in . x7 . ., . r , . . form.
-- 200.33: 19. C. LXIII.
-- 201.4: We cannoi recognise Ihe members oi the Church.
-- 201.10: Hcnce the ruic that we are to f . . . . , love our cnemics. 1 .
-- 201.20: Exposition of Matthew XXIV, ' ~
-- 201.29: Those in the lield arc the . .. r , _ . _ cicrgy;
-- 202.8: those at b engaged io
-- 202.21: thosein c bed, those wlio n are free frora active duties. '
+- 199.9: Example of St. Thomas.
+- 199.20: 6. It is objected that on our showing privileges could be held only in grace.
+- 200.4: The predestinate holds privilege in a more excellent way,
+- 200.10: yet a privilege may be of some avail to the foreknown.
+- 200.21: Privileges that are abused should be changed in form.
+- 201.4: We cannot recognise the members of the Church.
+- 201.10: Hence the rule that we are to love our enemies.
+- 201.20: Exposition of Matthew XXIV,
+- 201.29: Those in the field are the clergy;
+- 202.8: those at the mill, the laity engaged in active life;
+- 202.21: those in the bed, those who are tree from active duties.
 
 ## Notes
 

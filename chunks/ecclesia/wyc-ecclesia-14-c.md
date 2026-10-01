@@ -49,30 +49,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 306.1: i7id E
-- 306.9: so unless civii rule was thc , , , , . . , . , object of his ]0 crucifixion thc • ,,• , ,• • j • • i ciergy havc not receive it.
-- 306.15: it is a mere F thVtluch ruie
-- 306.17: not^p^vifeg^ but common , T j j • • • -i •• j iasv.
-- 306.33: marg. : Ficcio.
-- 307.3: Christ did not conlradict liim- . seif, and he taught his
-- 307.5: 5 aposties to livc
-- 307.5: without pro- : . . . . .. , . . . perty,
-- 307.20: 20 and t0 distribute
-- 307.20: spiritual alms. ...
-- 308.1: \j2h F
-- 308.22: There siiouid G no distinction ... ot secuiar and regular, but all . . . • . the ciergy should live only .... .... on aims.
-- 309.8: Reiigion itseif, alms, has 1 » .. . . .
-- 309.9: been perverted,
-- 309.19: and pride has taken the place .. . . ....
-- 309.20: 20 of serviceabie
-- 309.21: humility. ... . • i • i •
-- 310.1: How ecclesiasti- 172' cal rulegrewup. . . .
-- 310.14: St. Thomas died to main- ..... ... , . . . , tain the right rebuking kings ... . . ... ....... _ and enforcing discinline in the , „ . . clergy.
-- 310.30: Objection: All things be- . .. . . . . long to Christ and ne has givcn . ■ t-> • • •• . aii to ins vicars.
+- 306.15: It is a mere fiction to say that such rule by the clergy is not a privilege, but common law.
+- 307.3: Christ did not contradict himself, and he taught his apostles to live without properly,
+- 307.20: and to distribute spiritual alms.
+- 308.22: There should be no distinction of secular and regular, but all the clergy should live only on alms.
+- 309.8: Religion itself, like alms, has been perverted,
+- 309.19: and pride has taken the place of serviceable humility.
+- 310.1: How ecclesiastical rule grew up.
+- 310.14: St. Thomas died to maintain the right of rebuking kings and enforcing discipline in the clergy.
 
 ## Notes
 

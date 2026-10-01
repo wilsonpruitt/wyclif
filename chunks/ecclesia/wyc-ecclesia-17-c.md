@@ -43,25 +43,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 394.10: in denying previous existence of the Church we reject an articie of the Creed. r , . . .
-- 395.23: St. Paul,s
-- 395.24: , teaches euxamP'c that
-- 395.25: „,7e,,must enugntcn our i . brethren-
-- 396.9: Thewhoie F of the blest and . . iheir biiss are perfected by _ . ..... mutuai aid,'
-- 396.15: and each through the , ... head is sensibie of the help , . . . . . or defauit of 184* others. , '. ... . . ,
-- 397.1: The O. T. Church had , , . ... . fait» and hope: Christ brought ... , ... , TTr . charity.
-- 397.26: Men may be calledChnstians ... . , . . . in three ways;
-- 398.1: a) in figure, as 184*0 theO.T.Samts,
-- 398.8: b) in fact, as 'inNhe^time ot erace;
-- 398.12: c) m fruit, as 184'' all mcmbcrs of _ . theChurchaftcrhabebunt thc day of judg- ,
-- 398.14: ment.
-- 398.17: 2. We said that
-- 398.19: CarJSartWofSthne0t ChurclK
-- 398.27: He trics to
+- 395.23: St. Paul's example teaches us that we must enlighten our brethren.
+- 396.9: The whole body of the blest and their bliss are perfected by mutual aid,
+- 396.15: and each through the head is sensible of the help or default of others.
+- 397.1: The O. T. Church had faith and hope: Christ brought charity.
+- 397.26: Men may be called Christians in three ways;
+- 398.1: a) in figure, as the O. T. Saints;
+- 398.8: b) in fact, as those who live in the time of grace;
+- 398.12: c) in fruit, as all members of the Church after the day of judgment.
+- 398.17: 2. We said that by our opponent's definition Christ was not a part of the Church.
 
 ## Notes
 

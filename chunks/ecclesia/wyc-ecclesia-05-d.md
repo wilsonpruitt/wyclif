@@ -31,25 +31,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 104.4: At the day of judgment the .. . . . parts ot these two bodies (of .. Christ and the devil) will be . .... j , , , , hnaiiy separated. . . r. .
-- 104.18: Ch^rch^caiinot M
-- 104.19: because^its pirts are s!:£ar.atc 10
-- 104.23: Answer All the parts . have a common point of union in the head.
-- 105.22: Locai distance does not inter- . . • • j. 1 ..... ,
-- 105.23: i43" fere with this
-- 105.26: Not oniy is there a conti- .... , , ... nuous body but every part is in , ,. . touch with every other, , . . ... , ,
-- 105.34: since eachhelps
-- 105.34: all, r
-- 106.8: and tiicrefore is with it, since . things that afiect each other ' must be together. .,
-- 106.18: Every thing that is is eternal, as weil in its causation as in . . ....... its quidity.
-- 107.12: Aiifuturethings will happen of , . , ., . , ., . necessity, and nothing can be . ...... anniuilated.
-- 107.23: The grace and is the common term uniting all the members of the Church. f 1
-- 108.2: ciuist in aii things loved the _ mcan,
-- 108.18: which Aristotle lias shown to bc the seat of virtue.
+- 104.18: Objection: The Church cannot be one body because its parts are separate in space.
+- 104.23: Answer: All the parts have a common point of union in the head.
+- 105.22: Local distance does not interfere with this union.
+- 105.26: Not only is there a continuous body but every part is in touch with every other,
+- 105.34: since each helps all,
+- 106.8: and therefore is with it, since things that affect each other must be together.
+- 106.18: Every thing that is is eternal, as well in its Causation as in its quidity.
+- 107.12: All future things will happen of necessity, and nothing can be annihilated.
+- 107.23: The grace and love of Christ is the common term uniting all the members of the Church.
+- 108.2: Christ in all things loved the mean,
 
 ## Notes
 

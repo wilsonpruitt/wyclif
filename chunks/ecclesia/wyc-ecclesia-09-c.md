@@ -31,25 +31,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 190.1: i qo
-- 190.13: it is said that, il this bc true, . * ... ■ «• aii temporai privileges are ■ ... abolished. i3
-- 190.27: B»t wc aiiow such privileges , . ... as heip ihe clergy in thcir ...... r . „ duties.
-- 191.5: it is wrong to take away an- ...... ... . . . cientpriviiegcs;
-- 191.17: md tne oidest and greatest 1 ' priviiege is poverly grantcd . . by ciirist.
-- 191.31: sic donare.
-- 192.1: 11 this wrons has bcen committcd (hy endowmcnt) it . . should be sei
-- 192.20: it is wrong tlie clergy to . . . . . n . .... rcceive cndowmcnts as for the . . . . _ . . laity to give
-- 192.32: ordinacioni.
-- 193.1: i55c ignorance is
-- 193.2: excuse.
-- 193.31: 11 is argued thai endow- .. . ........ meni is consistent . .
-- 194.2: with evangclical povcrty; nnd, sincc il brings somc good, must be a gain to thc Clmrcli.
-- 194.13: The lirst assumption is doubtful.
-- 194.26: liven if we grant it, the gain is lcss than thc loss.
+- 190.27: But we allow such privileges as help the clergy in their duties.
+- 191.5: It is wrong to take away ancient privileges;
+- 191.17: and the oldest and greatest privilege is poverty granted by Christ.
+- 192.1: If this wrong has been committed (by endowment) it should be set right.
+- 192.20: It is wrong for the clergy to receive endowments as for the laity to give them.
+- 193.1: Ignorance is not always an excuse.
+- 193.31: It is argued that endowment is consistent
+- 194.2: with evangelical poverty; and, since it brings some good, must be a gain to the Church.
+- 194.13: The first assumption is doubtful,
 
 ## Notes
 

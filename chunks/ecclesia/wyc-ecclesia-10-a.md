@@ -37,15 +37,7 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 204.16: To sum up: rulcrs have the power of givinK pnvilcgcs so tar . . . as they are confirmed by God. ' . '
-- 205.1: A i bjb
-- 205.3: Westminster privileges granted by Ed-
-- 205.5: gar> . , . .
-- 206.1: i5jb A
+- 205.3: Westminster privileges granted by Edgar,
 - 206.12: and St. Edward.
 
 ## Notes

@@ -49,25 +49,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 42.1: ( )bjection : i33d All respect lor thc clcrgy would pcrish.
-- 43.3: What mcn are to think of their . . . . „. . . pricsts.
-- 43.24: xhe pastor is hfmsei/by good WthVchmxh.°
-- 44.8: Canonizaiion not a certain , , . , proof of sancti-
-- 45.10: miracies
-- 45.11: prove sanctity. . .
-- 45.23: Saints do not work miracles, . . thoughihey may be the occasion . . r . _, .. , .. -
-- 45.25: 25 of them.
-- 46.1: A general trust 111 Ihe praycrs . r . . . of ihe Saints would hc bettcr . . .... than individuai honours to . . . them. 134
-- 46.23: Prelates punish more severely . . breakingofiheirplus laws ihan of r . ... ....... Chrisfs.
-- 46.33: desunt.
-- 47.5: 5 Christi etc.
-- 47.7: Objection: This wonld . .. . . ...... disabic tiic ciergy from enfor- .... cing tneir dues.
-- 47.14: a Answer. It would be . , better if dues were less entor- .....
-- 47.16: ccd
+- 42.15: Distinction between explicit and implicit faith.
+- 43.3: Whiat men are to think of their priests.
+- 43.24: The pastor is bound to show himself by good works a part of the Church.
+- 44.8: Canonization not a certain proof of sanctity.
+- 45.10: Nor do miracles prove sanctity.
+- 45.23: Saints do not work miracles, though they may be the occasion of them.
+- 46.1: A general trust in the prayers of the Saints would be better than individual honours to them.
+- 46.23: Prelates punish more severely breaking of their laws than of Christ's.
 
 ## Notes
 

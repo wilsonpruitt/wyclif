@@ -55,26 +55,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 376.1: and a coiiegc 181" so buyinE ounht ... ... ,. ,. to bc supprcss-
-- 376.7: judgmcnt of Am rosc.
-- 376.26: These words P Kms mayusc clUwCredceam rC captivcs,
-- 377.1: p ,8ib or to dofend
-- 377.1: llie rcalm, 0 ' *_ .
-- 377.5: or to avoid oppressive 0 r _ _ taxation.
-- 377.14: Now the clergy prey upon tlie ... poor.
-- 378.5: ObKction: 7. Men may . . transfer their rights to otlier ..... men; why not to a socicty? . ....
-- 378.16: Ani-wer: They may. to a j _j j * ■ . • ... ••\> civii sociJty that 'hcjid^property0 cierical1 com-
-- 379.3: : sV^victor
-- 379.28: secdar^power secuta/hands.
-- 379.33: ut putam.
-- 380.6: Faisencss of thc \krgVmay "heirrcndo\v-'
-- 380.12: Examplc of Paul and A11- 6 & ^ . gustine.
-- 380.17: au orders couid wfthoufendowthTrefore reii^quish it.
-- 380.31: So may ihc S
+- 377.1: or to defend the realm,
+- 377.5: or to avoid oppressive taxation.
+- 377.14: Now the clergy prey upon the poor.
+- 378.5: Objection: 7. Men may transfer their rights to other men; why not to a society?
+- 378.16: Answer: They may, to a civil society that has the right to hoid property, but not to a Clerical community.
+- 379.3: Hugh of St. Victor
+- 379.28: declares that secular power must rest in secular hands.
+- 380.6: Falseness of the rule that the clergy may not part with their endowments.
+- 380.12: Example of Paul and Augustine.
+- 380.17: All orders could exist as well without endowment and may therefore relinquish it.
 
 ## Notes
 

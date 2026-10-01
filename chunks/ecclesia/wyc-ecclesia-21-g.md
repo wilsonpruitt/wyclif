@@ -49,43 +49,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 515.1: CAP. XXI.] DE ECCLESIA. 5 1
-- 515.1: 199" attendimus
-- 515.2: in oculis U Sic
-- 515.3: r 0 . whether the
-- 515.4: pliciter 5 solvendum
-- 515.6: 1 1 . interrupted
-- 515.7: recipiente
-- 515.7: * the words ot
-- 515.8: conficiendi
-- 515.9: episcopi Dicitur iocaracter sacramentalium,
-- 515.12: 1 " know how and
-- 515.13: quando 11 1 _ lmpnnts the caracterem
-- 515.14: . character.
-- 515.15: ecclesie et
-- 515.15: r . . better to do
-- 515.16: i3 Ex istis
-- 515.16: r 1 . minor orders
-- 515.17: celebracio
-- 515.17: * . . warrant in
-- 515.18: male. Nam
-- 515.19: apostolos ascensionem 20 conos, nec illas ritus ille Christi ordinis 25 ficere et modo. ista officia Ideo
-- 515.30: ... , . seem to be a
-- 515.30: sie non , , , . . .. , , , r Church;yet the io de clencis
-- 515.32: , • rr 1 • • ri i- honestly judgc ecclesie autem
-- 515.34: posito questus
-- 515.35: i. A in marg. : Tercia stcrium.
-- 516.9: and shouid whholifreason.
-- 516.13: it is a
-- 516.15: 1ive in poverty- i5
-- 516.26: This is proved Te^amemis St-fa"^
-- 517.6: The morai laws of the O. T. ...... ....... . are binding,
-- 517.15: and we assert them tor our . ..... . tithes.
-- 517.28: T|1C f th o^Hostten^f11'
+- 516.9: and should not be distrusted without reason.
+- 516.13: It is a "character" of the clergy to live in poverty.
+- 516.26: This is proved by the Old Testament as interpreted by Christ's acts.
+- 517.6: The moral laws of the O. T. are binding,
+- 517.15: and we assert them for our tithes.
 
 ## Notes
 

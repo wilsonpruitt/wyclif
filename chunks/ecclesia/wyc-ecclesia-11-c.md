@@ -49,30 +49,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 238.1: Christ chastises 1G2* H those whom he ......
-- 238.2: loves.
-- 239.6: To sum up:
-- 239.7: havc aii
-- 239.7: liberiy that is . . . 1 . . g°od for themstlves and for r . . ,
-- 239.9: 162'' others.
-- 240.1: Objeciions: 162" * 1. lt is said that . r . . the law wouid express these . . Mmitations, if they werc intended.
-- 240.12: Answer: It does in a , , , . . . , . . , way express
-- 240.28: iGic b
-- 241.1: K 162° Tiic Church
-- 241.1: should help ihe * . ... iniured, not those who do ' , .. wrong.
-- 241.15: a man is more bound to , . ,. , . . . ~. . .
-- 241.16: an in-
-- 241.17: jurv to God th.m , , . • • 1 . ,. . to Himself.
-- 241.25: Augustine teaches the dntv 0 r ofpunisbing the wicked. ^ K '
-- 242.1: n',2r K
-- 242.5: The performance ol this .... . . duty would dn much 10 set the Church right.
-- 242.17: \CiA
-- 242.19: Objection: 2. It cannot he . ..... luiown who are fit to be pro- . . . . ...... tected by the privilege. ... . .. .. . .
-- 242.24: Answer: acts^as^n2 aimsgiving.
+- 238.1: Christ chastises those whom he loves.
+- 239.6: To sum up: The fugitives should have all liberty that is good tor themselves and for others.
+- 240.1: Objections: 1. It is said that the law would express these limitations, if they were intended.
+- 240.12: Answer: It does in a way express them.
+- 241.1: The Church should help the injured, not those who do wrong.
+- 241.15: A man is more bound to revenge an injury to God than to himself.
+- 241.25: Augustine teaches the duty of punishing the wicked.
+- 242.5: The performance of this duty would do much to set the Church right.
 
 ## Notes
 

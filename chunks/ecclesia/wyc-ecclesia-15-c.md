@@ -31,25 +31,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 336.1: or that thc i clergy cease to . . . be such by dcserving . . . ..... punishment.
-- 336.25: These endowments were ..... . . .. . first madc after the coming of . . . _ Augustinc.
-- 337.4: and may have 'lac' conditions ■ • . attached to thcm; sucli as r f r ' 1 ' forfeiture by contempt. .... . .
-- 337.14: Thc customs of the realm show .. . - . . . . . that such conditions were . . attached;
-- 337.22: so our princes may on suf- ... . . licient occasion withdraw alms. ... , .
-- 338.11: Suchacondition is reasonabie,
-- 338.14: for wiihout it ^dimafeTis i3
-- 338.16: to§mngby endowments.
-- 338.21: n he nad rP°o^seers^onrs of ,7tV wouM^nJt be KEnlianfda,"
-- 339.1: since a fourth part of the , . , . ...... realm wouid be ""der the Pope, ' , ... , . ,.
-- 339.9: who is said to bc the only , , .. . , ,. ruler tiie cieigy should . . ... . , ,. acknowledge.
-- 339.21: So the royai power would r^. , ,. . . be maimed.
-- 340.1: Customs i76b proving thc „ . . ... King's rights,
-- 340.9: acquiesced in b> ihe dcrgy.
-- 340.17: Again, we King-Vduty is to take trom . ... . • false clergymen atherChSrch.°
+- 336.25: These endowments were first made after the coming of Augustine.
+- 337.4: and may have had conditions attached to them; such as forfeiture by contempt.
+- 337.14: The customs of the realm show that such conditions were attached;
+- 337.22: so our princes may on sufficient occasion withdraw alms.
+- 338.11: Such a condition is reasonable,
+- 338.14: for without it the King would damage his kingdom by giving endowments.
+- 338.21: If he had no power over the possessions of the clergy he would not be King of all England,
+- 339.1: since a fourth part of the realm would be under the Pope,
+- 339.9: who is said to be the only ruler the clergy should acknowledge.
+- 339.21: So the royal power would be maimed.
+- 340.1: Customs proving the King's rights,
+- 340.9: acquiesced in by the clergy.
 
 ## Notes
 

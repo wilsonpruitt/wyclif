@@ -25,22 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 412.18: This is true bm the error lies in . , asscrting that thc Church . , bepan at the dcath of Christ. . . . . ...
-- 412.29: The Chnrch cannot have . . ... . . .... begun in the three days.
-- 413.5: Myopponent says tnat his . .. . . dcffnition does not app'y to . the Cnurch in the three days. , _ . . ...
-- 413.11: This is an early desertion ... _ . of a definition which, he , ■, ...... c , deciares, wiii stand for ever. r , .
-- 413.21: My opponent urges that the . . ... whoie may continue while the ... . . . parts vary.
-- 413.32: 21. Cf. pag 1 14, 1. 1 3.
-- 414.4: The Church does not con- ... ... ... , sist of successive parts, ... , ,. , . .
-- 414.16: since lt loses none, but goes j, on increasmg 186 till it has .. , . 1, • gathcred in aii thc clcct.
-- 415.9: A 6- Ouropponent
-- 415.10: theforeknown when 1 1 baptized are members ot 1 r . ,the the Church, b) prede- _ . stinate erring from the fanli are not members, . .
-- 415.15: 3 c; as neither
-- 415.15: were tne Saints, ' whiie in error.
+- 412.18: This is true but the error lies in asserting that the Church began at the death of Christ.
+- 412.29: The Church cannot have begun in the three days.
+- 413.5: My opponent says that his definition does not apply to the Church in the three days.
+- 413.11: This is an early desertion of a definition which, he declares, will stand for ever.
+- 413.21: 5. My opponent urges that the whole may continue while the parts vary.
+- 414.4: The Church does not consist of successive parts,
+- 414.16: since it loses none, but goes on increasing till it has gathered in all the elect,
 
 ## Notes
 

@@ -43,36 +43,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 359.6: The doctors
-- 359.8: i. that Siivester did not sin at . r ^ . r aii in accepting cndowment;
-- 359.14: for if it lawfui to receivc alms, they may be kePt without . . ... . . sin.
-- 360.3: Answcr: This is a mere .... bcgging ot thc question. . ... , .
-- 360.13: Christ bade B ""fuffor th"6 ' morrow,
-- 360.27: What business have we with i ■ , j -it r~u '. providing iooo yevance?a
-- 361.1: An act may be forbidden by j, , , ,. t- ■ .
-- 361.2: i7qb a «enerai pre-
-- 361.2: cept as much as . . , . by a speciai prohibition. ... ....
-- 361.19: C The form of
-- 361.19: the gift to . ...
-- 361.20: 20 Siivester she-ws
-- 361.20: that it was tainted with worldliness, r ' & . h '
-- 362.2: and makes it impossible to ... free Siivester from blame. ......
-- 362.8: His acceptance became the . occasion of schism. ......
-- 362.28: it is objected 'aisoTnUieTr wrmngs, 3o
-- 363.1: i7Qc but we accept
-- 363.2: the writings of t t • • ••
-- 363.2: and Pcter
-- 363.3: althoueh thev . . ,. sinned.
-- 363.13: objectiom 2. Silvester did , , right in accepting a gift for ... .... the poor and an hoth right and wrong. ... . 1 .
-- 363.24: Answer: The same act i ■ . i ■ • . . ■ . ■ c •
-- 363.25: 25 may be now
-- 363.26: riehWrong.n°W
-- 363.30: 3o Moreover we do
-- 363.31: "siivester did*
+- 359.6: The doctors object:
+- 359.8: 1. that Silvester did not sin at all in accepting endowment;
+- 359.14: for if it lawful to receive alms, they may be kept without sin.
+- 360.3: Answer: This is a mere begging of the question.
+- 360.13: Christ bade us not to be careful for the morrow;
+- 360.27: What business have we with providing 1000 years in advance?
+- 361.1: An act may be forbidden by a general precept as much as by a special prohibition.
+- 361.19: The form of the gift to Silvester shews that it was tainted with worldliness,
+- 362.2: and makes it impossible to free Silvester from blame.
+- 362.8: His acceptance became the occasion of schism.
+- 362.28: It is objected that men err also in their writings,
+- 363.1: but we accept the writings of David and Peter although they sinned.
 
 ## Notes
 

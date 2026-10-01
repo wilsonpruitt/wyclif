@@ -49,24 +49,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 287.1: H n'>9b
-- 287.21: Th ose who live without pro- ... .... . perty give aims
-- 287.22: best. . . . .. . ,
-- 287.29: The wonh of alms does not ,. .. tt 1 1 • £• 1 1
-- 287.30: 3o depend on their
-- 287.31: amount. , ,. . . ,. . ,
-- 288.4: or the miscr would be . _ , . , , juMified by a lafge bequest. , , , . . , , . .
-- 288.12: if,.,r
-- 288.20: b) We ougin K give 10 the r . 1 . . , 1 M .... , ciergy what enables them to . . minister spiritually; . . . ....
-- 288.27: aii beyond sliould be eiven • j ■ to the poor.
-- 289.16: 3- Objectlon: Perpetual alms . 01 x ^ Prol|t n10^ t>ecausc tnev make ,hc elergy secure to perform their duty.
-- 289.23: Answer: This is a mere .... , . . , . , , . assumption, temporarv alms ...... ,. , . . . wouid enabie Ihem much . , . r better to do ,,,e'r Juty. , r . r t 1 • t
-- 290.1: in the primitivc 160 Church thcre were no foundations, but immcdiate 169 distribution. .... . .
-- 290.20: Quarreis and wars would end if thc Church kept Chrisfs &. . & • m • pnviiege of povcrty. ....
+- 287.21: Those who live without property give alms best.
+- 287.29: The worth of alms does not depend on their amount.
+- 288.4: or the miser would be justified by a large bequest.
+- 288.20: b) We ought to give to the clergy what enables them to minister spiritually;
+- 288.27: all beyond should be given to the poor.
+- 289.16: 3. Objection: Perpetual alms profit most, because they make the clergy secure to perform their duty.
+- 289.23: Answer: This is a mere assumption, temporary alms would enable them much better to do their duty.
+- 290.1: In the primitive Church there were no foundations, but immediate distribution.
 
 ## Notes
 

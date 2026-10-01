@@ -37,34 +37,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 368.15: There is no ?lVest"rewoujd 180" iaVrefusing. '"
-- 369.1: H 1 8ob St. Leonard's
-- 369.2: example is . .. . ...... better than Silvester's. r i i" / • i \ •!■
-- 369.15: xiie doctor slivester was bound toaccept , ,• , • i • • restitution from Constantine. , ... r, , • ■ i _ ■ . ,
-- 369.24: This impiies
-- 369.25: 25 lutfon on Con-
-- 369.26: s antine s part>
-- 369.29: and a duty in the Pope to bear , .. „,
-- 369.30: 3o civii sway.
-- 369.34: r Constantmt.
-- 369.34: 3o. I'. : bona dccst.
-- 370.15: Ohieciion: i5 5. If perpetual , ... aims are wrong our colleges . ... oughtwbe
-- 370.30: Answer: K An act may be . r , . . good, yet touched with venial . .. . . ,
-- 370.32: sin.
-- 371.1: Example of Archbishoplslip r J ... and Ms coiiege,
-- 371.19: dissoived by Archbishop • r ■ i i i- n i
-- 371.20: 20 Langham.
-- 371.25: beglad
-- 371.26: to see all appro- ... r . priations and endowments , . ...... .. come to an cnd.
-- 372.1: i. Thc cierRy i8oc L
-- 372.2: ^a^Chrrst^^tripliciter. ordered.
-- 372.7: 2.Tiiccxcessive "gy wouid
-- 372.27: 3. There wouid biinesssand0si-" a
-- 372.29: thTcfergyTnd amongTelafty. 3o
+- 369.1: St. Leonard's example is better than Silvester's.
+- 369.15: The doctor argues that Silvester was bound to accept restitution from Constantine.
+- 369.24: This implies imperfect restitution on Constantine's part,
+- 369.29: and a duty in the Pope to bear civil sway.
+- 370.15: Objection: 5. If perpetual alms are wrong our colleges ought to be dissolved.
+- 370.30: Answer: An act may be good, yet touched with venial sin.
+- 371.1: Example of Archbishop Islip and his college,
+- 371.19: dissolved by Archbishop Langham.
+- 371.25: I should be glad to see all appropriations and endowments come to an end.
+- 372.1: 1. The clergy 1 would then live as Christ t ordered.
 
 ## Notes
 

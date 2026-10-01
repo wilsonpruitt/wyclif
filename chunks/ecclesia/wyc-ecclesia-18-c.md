@@ -31,22 +31,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 422.19: s.My opponem grants that the . . Churcii is throushout cites Augustine.
-- 422.26: j8yb
-- 423.5: Why does he A^SSe Th« triSSK"S.d °ne Ctarch?
-- 423.24: Tlie milnant .Cliur=h^ circumscribed r 1 . anv-uui, as to place-
-- 424.4: o- My opponent allows that the Churcii hassubstance and parts.
-- 424.11: in denying that the devil is 1 o j head of his membcrs, he goes against holy doctors. 7 o > ?
-- 424.24: iscariot is the tvpe of fore- ... kriown bishops, as Peter is of ' . . . thepredestinate.
-- 425.15: remarks that it . . . was avaricc tnat led the /^l ■ ■ r • rc • , , , •, Priests to
-- 425.18: conspireagainst ., . ., ■ , ,...„,. Christ;
-- 426.1: i8;ci
-- 426.20: id 10 bring
-- 426.21: thattheyUln fcared.
+- 422.19: 8. My opponent grants that the Church is spread throughout the world, and cites Augustine.
+- 423.5: Why does he not admit with Augustine that militant are triumphant and one Church?
+- 423.24: The militant Church is circumscribed as to place.
+- 424.4: g. My opponent allows that the Church has substance and parts.
+- 424.11: In denying that the devil is head of his members, he goes against holy doctors.
+- 424.24: Iscariot is the type of foreknown bishops, as Peter is of the predestinate.
+- 425.15: Augustine remarks that it was avarice that led the High Priests to conspire against Christ;
+- 426.20: and to bring about the ruin that they feared.
 
 ## Notes
 

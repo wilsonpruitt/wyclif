@@ -25,27 +25,19 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 22.1: One head may i3o be subordinate . . to another.
-- 22.9: The Church lias two heads, ... Chrisfs divinity and his huma- , , . . .,.
-- 22.11: nity;
-- 22.15: as there arc two Paracletes, .'«•■, ... ,
-- 22.17: and yct one.
-- 23.1: No iocai Church is the great uni- . . versai Church.
-- 23.27: The saints are 0nwl™C™urch "ot heads-
-- 23.29: esse eius.
-- 24.1: i3i" S
-- 24.5: DitTercntvinucs were specially . ... , ,. di.spiaved m ditlerent patri- ... , . . . . archs,
-- 24.8: i3ib
-- 24.19: yetnoneofthem presumed to call . . himseif head of the Church. . .
-- 25.1: T 1 3 We shouid
-- 25.2: know, ... . a wliat is the ^church* b.ourignorance as to what (joa 1 r has Preedd.esti"
-- 25.8: c. to believe ourselves pre- . . . _ , . destinedwithout venturing to . . r . ,. , . assert u.
-- 25.24: objection: Our
-- 25.25: 25 "ifat Pope Bo"?[3!° tace intended-
+- 22.9: The Church has two heads, Christ's divinity and his humanity;
+- 22.15: as there are two Paracletes,
+- 22.17: and yet one.
+- 23.1: No local Church is the great universal Church.
+- 23.21: Gregory.
+- 23.22: What the Church is.
+- 23.27: The Saints are only members of holy Church, not heads.
+- 24.3: Gregory.
+- 24.5: Different virtues were specially displayed in different patriarchs,
+- 24.19: yet none of them presumed to call himself head of the Church.
+- 25.1: We should know,
+- 25.2: a. what is the quidity of the Church; b. our ignorance as to what God has predestined;
+- 25.8: c. to believe ourselves predestined without venturing to assert it.
 
 ## Notes
 

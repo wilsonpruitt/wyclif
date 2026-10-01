@@ -37,22 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 460.1: Faise teaching °" common.1 's
-- 460.17: it is even said
-- 460.18: ponsasessSnsrlre
-- 460.20: miradcs at°iust.
-- 461.9: Friars shouid oppose sucli *
-- 461.10: 10 teaching,
-- 461.14: 01- it may be turned against ' t them.
-- 462.22: 1 say that possession was r . . , ... ,. more needed in the primitive .... ..... , „ Church than now. , , r . ... . .
-- 462.31: Simon Magus ThaeseWteachcrs"
-- 463.5: whose teaching if reccivcd .... ... wouid stop ail almstothepoor. , , . ... . , , ,
-- 464.1: There should 192° S contention for high placc in . . , the Church,
-- 464.14: sincc we cannot tell whcther D cven ihe hi.nhest i5 are members.
+- 461.9: Friars should oppose such teaching,
+- 461.14: or it may be turned against them.
+- 462.22: I say that possession was more needed in the primitive Church than now.
+- 462.31: Simon Magus was wiser than these teachers,
+- 463.5: whose teaching if received would stop all alms to the poor.
+- 464.1: There should be no contention for high place in the Church,
+- 464.14: since we cannot tell whether even the highest are members.
 
 ## Notes
 

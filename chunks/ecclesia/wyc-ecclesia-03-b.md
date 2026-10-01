@@ -37,23 +37,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 51.8: Hypocrites apply Scnpturc ° 1 . faiseiy in their own support. J 1 ' 1 m .
-- 52.10: The hypocrite says : . . ~, . . a. These are counsels, not •.•—.«« commands: as it thecounselsof ... ... . . christ were not to be followcd. . . . ' . r . ...
-- 52.16: b. He says that but for his care ..... , . . the Church would be de- , . ... frauded;
-- 52.24: but the care would be better . . , . _ , . bestowed on spiritual things. . . .
-- 53.16: F c. He deciares
-- 53.16: that he acts for . . . \ . good of the wrong doer: . . . . .
-- 53.25: is a better
-- 53.26: ^dangerousw'5' neai t0 evi '
-- 53.31: st. Gregory teaches ... . . , . . . ....
-- 54.1: i35c F
-- 54.5: that we must carc only ior the ., ctcmai intcrests of thc wrong doer;
-- 54.15: otherwise we i5 hurt ourselves ... . more than him.
-- 54.19: i3bd
+- 51.8: Hypocrites apply Scripture falsely in their own support.
+- 52.10: The hypocrite says: a. These are counsels, not commands; as if the counsels of Christ were not to be followed.
+- 52.16: b. He says that but for his care the Church would be defrauded;
+- 52.24: but the care would be better bestowed on spiritual things.
+- 53.16: c. He declares that he acts for the good of the wrong doer:
+- 53.25: This is a better excuse but it is dangerously near to evil.
+- 53.31: St. Gregory teaches
+- 54.5: that we must care only for the eternal interests of the wrong doer;
+- 54.15: otherwise we hurt ourselves more than him.
 
 ## Notes
 

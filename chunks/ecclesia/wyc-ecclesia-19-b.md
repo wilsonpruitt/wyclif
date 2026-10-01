@@ -37,29 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 445.3: Various senses in which the . r . "stamp" is spoken of. r r . . - r . ,
-- 445.16: The "stamp" ot 'ilTa^white*16 sn°e"v rTamet foreknown TeMt°flhe an Jmporai the
-- 445.22: 3 mllrking
-- 445.23: for ^ffj"^0™1
-- 445.31: some 0fnces
-- 445.32: Treteinporai!1
-- 446.1: some eternai. igo" D
-- 446.21: aii the biessed
-- 446.22: WmartyrsirandS' priests.
-- 447.1: iqob
-- 447.22: God flts the creature for w r j .the power given to him, 1 .... .
-- 447.29: but, it may be, only for the ...... .
-- 447.30: 3o benciit of
-- 448.1: iooe F
-- 448.14: The foreknown ^actmu^n"1 o Tacraments wit.oiers.t
-- 449.1: G- igo1
-- 449.4: Aiithc Htigation in ecclesiastical . causes ougbt tO CCQSC.
-- 449.16: H 2 Tne ciergy
-- 449.16: sliould not act . as jndges.
+- 445.31: Some offices in the Church are temporal.
+- 446.1: some eternal.
+- 446.21: All the blessed will be virgins, martyrs and priests.
+- 447.22: God fits the creature for the power given to him,
+- 447.29: but, it may be, only for the benefit of others,
+- 448.14: The foreknown even when in actual sin minister the sacraments with profit to others.
+- 449.4: All the litigation in ecclesiastical causes ought to cease.
 
 ## Notes
 

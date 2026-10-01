@@ -37,21 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 157.14: Layrnlers must, however, be re- . . . rn ...... .. r minded of their duties to the ...... ... ,. . cimrch.
-- 157.26: Di^ression on eventwhlch has Engiand^and in R°me-
-- 158.1: Three postu- 1 A lates: i. The . quidity of the 5oc Cliurch as al- . . readyexpiained.
-- 158.30: 2. That we lurfitillfiilsshood!
-- 159.1: A i5oc
-- 159.6: i5od
-- 159.10: Somc doctors saythatitisright . .. . io give faise opimonsin sucli . ... a case,
-- 159.20: 20 for the sake of
-- 159.20: one's own repu- . . tation,
-- 159.24: or to maimain "lc privilegcs of ...... i-i thc Churcii.
-- 160.2: This would make lying a virtuc,
+- 157.26: Digression on the shameful event which has lately happened in England and in Rome.
+- 158.1: Three postulates: 1. The quidity of the Church as already explained.
+- 158.30: 2. That we abjure all falsehood.
+- 159.10: Some doctors say that it is right to give false opinions in such a case,
+- 159.20: for the sake of one's OWN reputation,
+- 159.24: or to maintain the privileges of the Church.
+- 160.2: This would make lying a virtue,
 - 160.19: and God a liar.
 
 ## Notes

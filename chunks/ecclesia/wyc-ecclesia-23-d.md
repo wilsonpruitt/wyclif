@@ -37,24 +37,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 558.1: Three kinds 204" satisfaction : . „ . , , 1. Where one doeshissepa- , ... . ,.. „ rate share. 2. Where one . . . . • r • j heipsanother to do his ... ,-. , • • • • part. 3. Where one , „, .
-- 558.6: satisiies entirely for . ... . , , • • , another.
-- 558.22: Christ made £ta$S&£$sed joiniXswohr0k.illius
-- 559.14: Astothesecond argument one
-- 559.15: 1 man's sin
-- 559.15: cannot cause anoiner's damnation without ■* 7 r r r fauitofhis own.
-- 560.6: As 10 the third aTommnan^sebt 1'u'rc'fromouV debts to God,
-- 560.17: which increases the more
-- 561.5: pardon ot sin for money . . . wouid impiy that God sells .. . . ... righteousness,
-- 561.10: i. e. himself.
-- 561.15: 1 5 God cannot
-- 561.15: remit sin ... . without satisfaction. .... ,.
-- 561.19: Certainiy tnen cannot,
-- 561.27: and he cannot be a Christian - . if he ciaims such a power.
+- 559.14: As to the second argument one man's sin cannot cause another's damnation without fault of his own.
+- 560.6: As to the third argument a debt to man is different in nature from our debts to God,
+- 560.17: which increases the more we pay.
+- 561.5: The pardon of sin for money would imply that God sells righteousness,
+- 561.10: 1. e. himself.
+- 561.15: God cannot remit sin without satisfaction.
 
 ## Notes
 

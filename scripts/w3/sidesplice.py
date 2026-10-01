@@ -28,6 +28,7 @@ def merge(slug):
     reads = [r for p in sorted(glob.glob(f'{base}/sidenotes.reads.part*.tsv')) for r in rd(p)]
     by_id = defaultdict(list)
     for r in reads:
+        r['line'] = (r.get('line') or '').split('.')[-1]       # `5` or `139.5`
         by_id[r['id']].append(r)
     out = []
     for i, r in enumerate(ocr, 1):
@@ -43,6 +44,10 @@ def merge(slug):
     for r in reads:
         if r['id'] in ('+', 'M') and r['text'].strip() not in ('∅', 'ok', ''):
             out.append((int(r['page']), int(r['line']), tidy(r['text']), 'plate'))
+    # a note the re-OCR cut at a line-break: its unread first half is dropped where the plate
+    # read gives the whole note at the same page.line
+    plate = {(o[0], o[1]): o[2] for o in out if o[3] == 'plate'}
+    out = [o for o in out if not (o[3] == 'ocr' and (o[0], o[1]) in plate and plate[(o[0], o[1])].startswith(o[2]))]
     out.sort()
     with open(f'{base}/sidenotes.fixed.tsv', 'w') as f:
         f.write('page\tline\ttext\tsrc\n')

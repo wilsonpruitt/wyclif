@@ -31,29 +31,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 88.12: The Popc and his college arc 1 chief in dignity if they follow . r r ... Christ;
-- 88.17: oiherwi^c they are a nest ot . .. ... . heretics.
-- 88.31: Objectiondrawn P gioss.
-- 89.3: -j^eCh" : h times"hevisib~ie
-- 89.5: 5 c0" "0odma'ndd
-- 89.6: evi1-
-- 89.15: b church^is^not
-- 89.16: be°ftheChurch.
-- 89.19: c- Mcn's diffcrent relations to _
-- 89.20: 20 tne Church.
-- 90.9: baveanifficfent the^Churchf infperfect onc.
-- 90.16: Knowledge EOing beyond ' bestatefihereUr
-- 91.1: 40* kno4iedg<; we
-- 91.2: hachUrchhe
-- 91.10: is it difficult for us to 1 1 _ know thedivine
-- 91.26: WhiCh isthat we the^Church?
-- 92.7: Objectipn: ^ ciuircifrs^commonly under- .. , ., • • , ... , stood of the Pope and Car- .. ,-. . • . ,,. .. • ... dmais.
-- 92.15: whv may not i5 Church" mean thbody0ot°thaeny taithfui.
-- 92.19: Answcr: various used scs
+- 88.31: Objection drawn from the gloss.
+- 89.3: Answer: a. The Church means sometimes the visible Church mixed of good and evil.
+- 89.15: b. To be in the Church is not be of the Church.
+- 89.19: c. Men's different relations to the Church,
+- 90.9: The faithful have a sufficient knowledge of the Church, although an imperfect one.
+- 90.16: Knowledge not going beyond belief fits our state here.
+- 91.1: and such a knowledge we have of the Church.
+- 91.10: Nor is it difficult for us to know the divine will,
+- 91.26: which is that we should serve the Church,
 
 ## Notes
 

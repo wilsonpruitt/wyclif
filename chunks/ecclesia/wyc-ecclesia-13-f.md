@@ -43,25 +43,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 294.1: i70b N
-- 294.11: This faise o b-ccurilv hindcrs Chrisrs pricsts trom warning the peopic.
-- 295.17: , Tnc most dangerous he- * 1 _ resy is common among the 1 piergy and in three degrees: 1 * r
-- 295.24: 1. cierks aspire to office in the ... . .
-- 295.25: 25 Church for
-- 295.25: worldly ends ; r ... . .
-- 296.7: sp«nd moncy Wrhoard'it-0r
-- 297.12: 3. PHests receive the 0 ' cndowmcntsbut do not repay 1 1 _ them with service. 1 '
-- 298.22: it is hereticai R infringe the . . ... . ,. . nriviieges of the Koman Church . . rr . r . . ~. and lawbrcakersdothis. . ... . . r ,
-- 299.1: r i7oJ
-- 299.10: A 171' Two doubts to
-- 299.11: 1. Whether the endowmcnt of . . , . „ . . the Roman Church is con- .... . ..... . . . sistent with the
-- 299.13: faith. . . . . . .
-- 299.22: Probabiy in its first intention ... . it was dirccted to help the ... . . .-, . . . . ciergy to minister more 11 1 1 • •
-- 299.25: 25 effectuaiiy;
+- 294.11: This false security hinders Christ's priests from warning the people.
+- 295.17: The most dangerous heresy is common among the clergy and in three degrees:
+- 295.24: 1. Clerks aspire to office in the Church for worldly ends;
+- 296.7: 2. The clergy spend money wrongfully or hoard it;
+- 297.12: 3, Priests receive the endowments but do not repay them with service.
+- 298.22: It is heretical to infringe the privileges of the Roman Church and lawbreakers do this.
 
 ## Notes
 

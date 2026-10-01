@@ -31,20 +31,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 326.1: and competent 174^ v to raake him . ... ... yield up his kingdom. .... ... ,
-- 326.12: So [\>c cliief rule in England . ........ . . . was claimed ior Grcgory XI. .... ,. . .
-- 326.22: Such.ch l X are msane.
-- 326.25: Supreme power might as well 1 1 . 1 / .. be claimed for every triar, . ...
-- 326.32: ui simpie priest; 1 . ...
-- 327.7: who indeed on t|ic thcory ..... . . . . wouid be chief lord of a" our 1 • , r • igoods.
-- 327.19: Moreover on !'!e donation°ot'
-- 327.21: impossible^and eretica ■
-- 328.7: And if that were put aside 110tbing 10 the same cflcct wouid be found in scnpture. . 1 .
-- 328.27: A second doubt is whctlicr thc king may withr draw Cliurch tcmporaliies on account of abuse, or whcn tlic clerfjy are 111 contcmpt.
+- 326.32: or simple priest;
+- 327.7: who indeed on the theory would be chief lord of all our goods.
+- 327.19: Moreover on the same theory the donation of Constantine was impossible and heretical.
+- 328.7: And if that were put aside nothing to the same effect would be found in scripture.
 
 ## Notes
 

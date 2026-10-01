@@ -49,30 +49,19 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 116.2: i. Wc have 144 ^'itoftafm agafnst out^adversanes
-- 116.7: that the Church is a monster, . _ . . . having a thousand hcads,and , . that shc is a virgin and a . . . . . conupt synagoguc, and . . ... , . ChrisfsChurch.
-- 116.19: The difficuity as to heads .... . . rests on an equivocation. , . a head may belong to the . .... Church without being the head . ....... of the Church.
-- 117.9: B The ciiurch
-- 117.9: is a virgin, pol- 1 luted now by sms ot her 0 ' 1 ° members, but to be punhed 1 1 /
-- 117.12: i44d f°r finai giory.
-- 117.19: Evei7 svnagogue that is a _ 1 ' part of Hoiy Church is a 001 Church.
-- 117.26: Ittl*at°ciiri^d w°uU be at once son, tather and husband of the Church. 1 r
-- 118.1: Thcrc is no 144" B rcason why . ....... such reiations should not cxist ... spiritually;
-- 118.13: as the Church is truly all the . * , . things that is called in . . . . . Scripture. i5
-- 119.1: Some say that
-- 119.2: ^ the Catiiolic 1 . , . ,. . _ . .
-- 119.2: Church (as an universal) has ... . no reai existence. ,. , .
-- 119.12: if the Church is nothing it cannot be good.
-- 119.17: Any locai church may be . r • • something and so a thousand ; * . * ' somethings may make up one '
-- 119.20: 20 wbich, in spite
-- 119.20: of all it does and is> we are to call notlung.
-- 119.26: By similar reasomng we 1 mis,nt conclude a housu or a r corporation has no continuous ' ' 7 ' e)Sistence> since the parts vary. . . .
-- 120.3: Objection : If a whole is . . _ aii that its parts are, man is at . . _ . _ .. once the bodv of Christ and • ... the body of the
-- 120.14: Answer: Mankind is di- .... .. . vided into two, i5 and in a sense . they both God for their . ■ _ . ..... head, but oniv iaS one is the body . „ . ,-• oftheLord.
+- 116.2: 1. We have to solve the difficulties that we have raised against our adversaries
+- 116.7: that the Church is a monster, having a thousand heads, and that she is a virgin and a corrupt synagogue, and Christ's Church.
+- 116.19: The difficulty as to heads rests on an equivocation. A head may belong to the Church without being the head of the Church.
+- 117.9: 2. The Church is a virgin, polluted now by sins of her members, but to be purified for final glory.
+- 117.19: 3. Every synagogue that is a part of Holy Church is a Church.
+- 117.26: It is objected that Christ would be at once son, father ind husband of the Church.
+- 118.1: There is no reason why such relations should not exist spiritually;
+- 118.13: as the Church is truly all the things that she is called in Scripture.
+- 119.1: Some say that the Catholic Church (as an universal) has no real existence.
+- 119.12: If the Church is nothing it cannot be good.
+- 119.17: Any local church may be something and so a thousand somethings may make up one which, in spite of all it does and is, we are to call nothing.
+- 119.26: By similar reasoning we might conclude a house or a corporation has no continuous existence, since the parts vary.
+- 120.3: Objection: If a whole is all that its parts are, man is at once the body of Christ and the body of the devil.
 
 ## Notes
 

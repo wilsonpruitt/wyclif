@@ -31,19 +31,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 570.9: it foiiows a man is not the ... • j 1 •• better for indulgences.
-- 570.28: The power ascribed to the , . i _ Pope is infinite. %
-- 571.8: He shouid use is guilty of the death 6f those , x. r •
-- 571.10: 206" Whom he might
-- 572.7: with fuli use of his power he . . . might restore tht. goiden age
-- 572.21: if the Pope excuse a part . . ot penance he can excuse all. r ....
-- 573.18: To say that the remission . must aiways be partial . , . 111 . derosates from thedivinepower. ... i t-v • !•
-- 574.1: The Pope 2o6b arbSrary Vafue io certain alms. , . . . ■
-- 574.23: if each indulgence can . . remit a part, succession c must . . . r ■ - j remitthewhoie.
+- 570.28: The power ascribed to the Pope is infinite.
+- 571.8: He should use it freely or he is guilty of the death of those whom he might save.
+- 572.7: with full use of his power he might restore the golden age.
+- 572.21: If the Pope can excuse a part of penance he can excuse all.
+- 573.18: To say that the remission must always be partial derogates from the divine power.
+- 574.1: The Pope cannot assign arbitrary value to certain alms.
+- 574.23: If each indulgence can remit a part, a succession must remit the whole.
 
 ## Notes
 

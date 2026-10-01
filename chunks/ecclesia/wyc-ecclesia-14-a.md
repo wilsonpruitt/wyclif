@@ -37,27 +37,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 299.1: r i7oJ
-- 299.10: A 171' Two doubts to
-- 299.11: 1. Whether the endowmcnt of . . , . „ . . the Roman Church is con- .... . ..... . . . sistent with the
-- 299.13: faith. . . . . . .
-- 299.22: Probabiy in its first intention ... . it was dirccted to help the ... . . .-, . . . . ciergy to minister more 11 1 1 • •
-- 299.25: 25 effectuaiiy;
-- 300.1: and otherwise it is certainly . .... not consistent witli Chrisfs ...... . . . ... . . . religion.
-- 300.7: Modern prelates say tliat r Christwas over tne world and they miicr it Ins nghis (as r vicars). io
-- 300.18: This is a great licrcsy t ,
-- 300.21: i. as contrary to Chrisfs . ... teaching;
-- 301.1: B He and his
-- 301.2: apostles refused . . , , ... 11 •
-- 301.2: 171 aii civii power.
-- 301.15: it is nsainst the canons. . .....
-- 302.3: if Christ couid not rulc civillv, .... how can his seivants do so? . .
-- 302.26: Christ couid rule either ln 7 . his godhead or his manhood : .... not as to his godhead, which cannot hc involved m active
-- 302.30: lifc; ?o
+- 299.10: Two doubts to be solved: 1. Whether the endowment of the Roman Church is consistent with the faith.
+- 299.22: Probably in its first intention it was directed to help the clergy to minister more effectually;
+- 300.1: and otherwise it is certainly not consistent with Christ's religion,
+- 300.7: Modern prelates say that Christ was ruler over the world and they inherit his rights (as vicars).
+- 300.18: This is a great heresy:
+- 300.21: I. as contrary to Christ's teaching;
+- 301.1: He and his apostles refused all civil power.
+- 301.15: 2. It is against the canons.
 
 ## Notes
 

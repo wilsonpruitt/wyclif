@@ -37,35 +37,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 25.1: T 1 3 We shouid
-- 25.2: know, ... . a wliat is the ^church* b.ourignorance as to what (joa 1 r has Preedd.esti"
-- 25.8: c. to believe ourselves pre- . . . _ , . destinedwithout venturing to . . r . ,. , . assert u.
-- 25.24: objection: Our
-- 25.25: 25 "ifat Pope Bo"?[3!° tace intended-
-- 26.1: He meant to i3ic claim the obc- . . dicncc oi aii princes to the r . . ... Popc.
-- 26.8: Answer: tribute^such1" 'the Pope.t0
-- 26.20: it is urged i. that ^'succesMvo15 vicars make up • 1 m one Head. This denics the headship of . . . Christ,
-- 27.1: A and of each in-
-- 27.1: dividual pope. r . . . . ■ c
-- 27.5: B 2. that each
-- 27.5: Vicar of Christ ... . „, . . .... is bv panicipation Christ. But , .1. ... ,, there wouid be a thousand r . . heads. b. the vicar could not assert . . .
-- 27.10: 10 that hcwas
-- 27.10: Christ , . . .
-- 27.14: c.evervmcmber of Christ would ... 1 • • . be a head.
-- 27.24: 3. tnat we speak
-- 27.25: 25 church of whfch
-- 27.26: eac head*!6
-- 27.27: would be Churcii
-- 27.27: always
-- 27.28: ^^f^J^j11'
-- 28.1: i3r' B
-- 28.8: and there would C be as many . . .... churches a's there were po- . ... .
-- 28.10: pes.
-- 28.22: Nor is it cenain that a Pope is . 1 . ... head of his contemporaries, for . . he may he reprobate. 1 1 ' . . . h
+- 25.24: Objection: Our exposition is not what Pope Boniface intended.
+- 26.1: He meant to claim the obedience of all princes to the Pope.
+- 26.8: Answer: We must not attribute such blasphemy to the Pope.
+- 26.20: It is urged 1. that Christ and his successive vicars make up one Head.
+- 26.23: This denies the headship of Christ,
+- 27.1: and of each individual pope.
+- 27.5: 2. that each Vicar of Christ is by participation Christ. But a. there would be a thousand heads.
+- 27.9: b. the vicar could not assert that he was Christ
+- 27.14: c. every member of Christ would be a head.
+- 27.24: 3. that we speak of the militant Church of which each pope is head.
+- 27.27: But the Church would be always changing its individuality,
 
 ## Notes
 

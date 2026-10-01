@@ -43,28 +43,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 348.1: i-j^ o
-- 348.24: objection: 2. The clergy, as . .... superior to iiie laity, should . . judge itseif.
-- 349.1: Answer: Tlie assumplion " ... . ... is faise ; aii parts of the . r ■ Church owe mutual help. 1 ....
-- 349.17: As to the pattern of the 1 _ 1 , ceiestiai hierarcnyj 'l 's a'_ ... . . . ready forsaken when the clergy . .
-- 349.20: 20 are wicked.
-- 349.31: deest.
-- 350.12: objcction: lf the clergy ..... * . cannot have dominion, . ... . . .... neither can tiiey serve civillv. ..... .
-- 350.18: This does follow. ,
-- 351.4: They are subject not as ...... . .... dergy, but as almsmen and . liegemen.
-- 351.12: R 3. The iahy
-- 351.12: ought to act , . . . . , . . . oniy in defauit ot the spirilual authonties.
-- 351.20: Answer: True; but the r . ... 1 , . V
-- 351.21: 20 King is not to
-- 351.22: wait for the . . . , . . , - . . ,. Pope's action , lor many , . r • r • reasons;
-- 352.1: 1. becansethe l R curia is venal ; . ...
-- 352.4: 2. Pope and Cardinals are in . .. .. kague with our enemies; ..... . 3. they are blinded by r . . °. avarice; 4. they are too far away; . ...
-- 352.12: 5. the Roman pontitf has no r r , , ° .„r . . , . . 1 ,. . f , suchjurisdiction in England. . . .... ,. .
-- 352.27: How far such jurisdiction can . be trusted wc may see in the , ... . . . . • • , case of Gregory XI. , . .
+- 348.24: Objection: 2. The clergy, as superior to the laity, should judge itself.
+- 349.1: Answer: The assumption is false; all parts of the Church owe mutual help.
+- 349.17: As to the pattern of the celestial hierarchy, it is already forsaken when the clergy are wicked.
+- 350.12: Objection: If the clergy cannot have dominion, neither can they serve Civilly.
+- 350.18: This does not follow.
+- 351.4: They are subject not as clergy, but as almsmen and liegemen.
+- 351.12: 3. The laity ought to act only in default of the spiritual authorities.
+- 351.20: Answer: True; but the King is not to wait for the Pope's action, for many reasons;
+- 352.1: 1. because the curia is venal;
+- 352.4: 2, Pope and Cardinals are in league with our enemies; 3. they are blinded by avarice;
+- 352.8: 4. they are too far away;
+- 352.12: 5. the Roman pontiff has no such jurisdiction in England.
 
 ## Notes
 

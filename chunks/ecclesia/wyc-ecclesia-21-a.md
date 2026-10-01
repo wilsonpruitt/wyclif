@@ -31,34 +31,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 491.2: in6b My opponent
-- 491.3: says all my ... , . ..... arguments fail in matter and . . . . - . , form, but he will not meet . ,
-- 491.5: 5 them.
-- 491.13: He savs ui.it
-- 491.14: cannot"simply" take away ... .. ,. , , . , ,.
-- 491.15: i5 goods from a
-- 491.16: delinquent . . ciergy; and by "simply" he ,. . , • • ■ • , -tmeans: a) the authority 0 , ,. . N r . ,. . . must be original; - . ,. , , ,
-- 491.25: 23 bj the taking
-- 491.26: compicte.
-- 491.28: a) According 10 ,n's on'y r • • • , • • God can do anything ,. . . , . , .,
-- 491.30: 3o simpiy,
-- 492.1: hj61' A
-- 492.2: and no one can liavo made ... r • i i gifts to the
-- 492.10: io,6c
-- 492.11: P) Godt ook 2 B
-- 492.12: di"ciples,mbute not aitogether.
-- 492.23: Even God. can froameraanhsmce everyJhfn^and dcstroy man.
-- 493.4: Ruiers may take "secuncfum quid", as the . . . , , goods were g,ven'
-- 493.19: jndeed we may co?0gica|the that^ail^taklng fro ^rigiu.01 By
-- 493.28: My opponem says that a , 1 , priest may paPtron whom he damneci.0 be
-- 494.5: This wouid hc
-- 494.6: devil. '
-- 494.10: igG'1
-- 494.13: He aiiepes the Bonaventura, w 0 htm.Sainst
+- 491.2: My opponent says all my arguments fail in matter and form, but he will not meet them.
+- 491.13: He says that the King cannot"simply" take away goods from a delinquent clergy; and by "simply" he means: a) the authority must be original;
+- 491.25: b) the taking must be complete.
+- 491.28: α) According to this only God can do anything simply,
+- 492.2: and no one can have made gifts to the Church.
+- 492.11: β) God took Christ from the disciples, but not altogether.
+- 492.23: Even God can take nothing from man since he must take everything and destroy man.
+- 493.4: Rulers may take away "secundum quid", as the goods were given;
+- 493.19: indeed we may come to the logical conclusion, that all taking from the clergy is right.
+- 493.28: My opponent says that a priest may pray for a patron whom he knows to be damned.
+- 494.5: This would be praying for a devil.
 
 ## Notes
 

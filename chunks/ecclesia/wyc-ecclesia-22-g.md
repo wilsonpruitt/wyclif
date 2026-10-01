@@ -31,22 +31,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 538.3: Wemaysee "T deceived|Id
-- 538.8: as to perpetual
-- 538.9: alms'
-- 538.14: andastofuner-et ai ceremonies. t5
-- 538.21: Falseworks Kood1 Vtrks profitthem.
-- 539.6: Hence the foiiy of those wlio .. . care more for solemn rites ... . . ttian true prayers. ... • i •
-- 539.30: contraire.
-- 540.5: Cyprian teiis ought noMo who^have 'gone before'
-- 540.26: Yet the Church 'carefor^he0 dcad'
-- 541.13: ||idtl,° PMiMxil.
-- 542.3: dead^maybe doneiway7r0"e
-- 542.29: as by too much care for show- 3o
+- 538.14: and as to funeral ceremonies.
+- 538.21: False works injure the dead as good works profit them.
+- 539.6: Hence the folly of those who care more for solemn rites than true prayers.
+- 540.5: Cyprian tells us that we ought not to mourn for those who have gone before.
+- 540.26: Yet the Church teaches us to care for the dead,
+- 541.13: and to pray for all the faithful.
+- 542.3: Burial of the dead may be done in a wrong way,
 
 ## Notes
 

@@ -55,22 +55,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 212.1: bm wc must not punish it . . . wc cannot do it i58b in lovc. * * ,
-- 212.21: in the Lord's praver "debts means usins".
-- 213.1: F ib8b
-- 213.11: G Moncy debts
-- 213.11: may be claimcd ..... . . . . from thosc who c,an pay. • .... ... ....
-- 214.4: As to thc Sab- 3 H batical vcar wc . ought to bc moic mcrciful . of o. T., . . . .
-- 214.23: our ciergy especiaiiy,
+- 212.1: but we must not punish if we cannot do it in love.
+- 212.21: In the Lord's prayer "debts" means "sins".
+- 213.11: Money debts may be claimed from those who can pay.
+- 214.4: As to the Sabbatical year we ought to be more merciful than the Fathers of O. T.,
+- 214.23: our clergy especially;
 - 214.32: but it is not so.
-- 215.3: Kventhe reguiar clergv disherits . many men in perpetuity. , . . «... . .
-- 216.1: i58dl
-- 216.12: naiiiior oi riehes. • . • . , • ,
-- 216.27: Thisprivilege K would allow a .... ...... hostiic aimv to be liarbourcd. 1 . , ....
+- 215.3: Even the regular clergy disherits many men in perpetuity.
+- 216.12: Danger of riches.
 
 ## Notes
 

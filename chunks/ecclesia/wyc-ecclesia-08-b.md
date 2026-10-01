@@ -31,18 +31,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 160.2: This would make lying a virtuc,
-- 160.19: and God a liar.
-- 161.1: C i5i"
-- 161.26: So the wliole Christian faith wouid fail m pieccs.
-- 162.6: No worse D doctrine was ... cver propounded ihan this, . ... that we onfiht to lie to thc . . . Kins's Council.
-- 162.20: No case can bc lmagined m J . . which it is lawfnl to lic. ...
-- 162.23: i5ib
-- 163.1: Thc faise doctrinc is supported by faisc quotation.
+- 161.26: So the whole Christian faith would fall to pieces.
+- 162.6: No worse doctrine was ever propounded than this, that we ought to lie to the King's Council.
+- 162.20: No case can be imagined in which it is lawful to lie.
+- 163.1: The false doctrine is supported by false quotation.
 
 ## Notes
 

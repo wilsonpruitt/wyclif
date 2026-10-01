@@ -55,26 +55,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 268.1: Evii customs i66° should be . , rooted out at once. . r
-- 268.12: Tmtn isofmore WcIustorn*n
-- 268.21: and makes it an
-- 268.23: pica.
-- 269.1: N 1 it is mere
-- 269.1: idolatry to suppose a building to be the . . . Church, the spouse ot Christ.
-- 269.12: Forevery crime satislaction must he made;
-- 269.31: so it is wrons 1° encourage ... . . . debtors not to make amcnds, ... ... ....
-- 270.1: i&tf
-- 270.6: as the satisiaclion mav ■ r • • j tii j have to be made
-- 270.16: 5. The last charge against . . . . . us rests on an absurd dream, ..... .
-- 270.26: which may occurred and . ~ , . .... have been instigated by . . . . the devii.
-- 270.33: eundem.
-- 271.3: a great crime was commitied, .... but others worse have . . 1 1 r • taken piace there, and all .... ,1. ,-rr -i ought to bc punished. .... ii-
-- 272.10: justice shonld the hornsof
-- 272.22: Another story ot a dream. \ o
+- 268.1: Evil customs should be rooted out at once.
+- 268.12: Truth is of more weight than custom,
+- 268.21: and makes it an insufficient plea.
+- 269.1: It is mere idolatry to suppose a building to be the Church, the spouse of Christ.
+- 269.12: For every crime satisfaction must be made;
+- 269.31: so it is wrong to encourage debtors not to make amends,
+- 270.6: as the satisfaction may have to be made in hell.
+- 270.16: 5. The last charge against us rests on an absurd dream,
+- 270.26: which may have occurred and have been instigated by the devil.
+- 271.3: A great crime was committed, but others worse have taken place there, and all ought to be punished.
+- 272.10: Justice should be done, even at the horns of the altar.
 
 ## Notes
 

@@ -25,27 +25,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 342.4: This forfeiturc """ed by'ihe
-- 342.13: 2. By thc same dccrctal the . . .... rv,>~ «»King loses his privilege of rulc . . , • if he is siothful iucorrection. ..... . . ■
-- 343.8: L 3. The King is
-- 343.8: bound to see . . that his subjects are not deprived . . ... of spirituai
-- 343.31: clemosine.
-- 344.1: Doubie merit j-f/1 l ofalms; . > , , . a) cssentiai, from thecharity . . . oi ihe givcr; b) accidenlal, . . . from iiic fruit of the gift. ....... ., ..
-- 344.32: 8.— 32. Hus I. c.
-- 345.3: Just ruie is a more excellent . 1 . priviicge than SO called mira- .
-- 345.5: 5 cuious powers.
-- 345.24: The gift ot aims is a less good , . , . .....
-- 345.25: 20 than the sup-
-- 345.26: pression ot' .... . abuses;
-- 347.15: O Objection:
-- 347.15: 1. We have 110 . ... : right to speak neighbour.
-- 347.21: Answ^r: We deal m ,1 • . „. . general terms which apply ..... . . only to ihose who dcserve . . them.
-- 348.1: i-j^ o
-- 348.24: objection: 2. The clergy, as . .... superior to iiie laity, should . . judge itseif.
+- 342.13: 2. By the same decretal the King loses his privilege of rule if he is slothful in correction.
+- 343.8: 3. The King is bound to see that his subjects are not deprived of spiritual aid.
+- 344.1: Double merit of alms; a) essential, from the charity of the giver; b) accidental, from the fruit of the gift.
+- 345.3: Just rule is a more excellent privilege than so called miraculous powers.
+- 345.24: The gift of alms is a less good than the suppression of abuses;
+- 346.4: and so Augustine teaches.
+- 347.15: Objection: 1. We have no right to speak ill of our neighbour.
+- 347.21: Answer: We deal in general terms which apply only to those who deserve them.
 
 ## Notes
 

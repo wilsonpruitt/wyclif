@@ -55,26 +55,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 380.6: Faisencss of thc \krgVmay "heirrcndo\v-'
-- 380.12: Examplc of Paul and A11- 6 & ^ . gustine.
-- 380.17: au orders couid wfthoufendowthTrefore reii^quish it.
-- 380.31: So may ihc S
-- 381.5: s andshould, if
-- 381.5: lie thinks the . ..... ' Church wiii be the beiter for . . . . . his action.
-- 381.11: The Church left Chrisfs . . , . r . .
-- 381.12: 181" priviiege for
-- 381.12: Caesar's; it has ..... ..... now the right to leave Caesar's. 5 . 1 .
-- 381.27: Wc make so bad use of alms . . . , . , . . . that pairons should with- . ... Jraw them and restore iheni to ..... , , ..
-- 382.8: Objection: 8. It f» good 10 . , ,- ■ give tcmporai gilts for spiri- . . tuai, and thc more is given . . the morc is received. ... . , . . ,. . , ,,.
-- 382.15: Answer: i5 The rich man . ,. shonid usc his wealth so as to ...... ,. ,. . . . obtain biessed-sibi
-- 382.24: but this does not mcan that . ...... he is to givc up his duties to the . . .... ciergy.
-- 383.14: AJpnS msaynfse'3 duiy to reign rather than to 1 r enter imo religion. 1 _ ^
-- 384.1: TheKingshouidquantum 182'' ChOTcrhp?o°a£dyiiowOVus!d!tuam and correcl . . . what wrong.
-- 384.21: The ciergy "ron^suc^an enquiry.
+- 380.31: So may the Pope,
+- 381.5: and should, if he thinks the Church will be the better for his action.
+- 381.11: The Church left Christ's privilege for Caesar's; it has now the right to leave Caesar's.
+- 381.27: We make so bad use of alms that patrons should withdraw them and restore them to the true Church.
+- 382.8: Objection: 8. It is good to give temporal gilts for spiritual, and the more is given the more is received.
+- 382.15: Answer: The rich man should use his wealth so as to obtain blessedness;
+- 382.24: but this does not mean that he is to give up his duties to the clergy.
+- 383.14: A King may see that it is his duty to reign rather than to enter into religion.
+- 384.1: The King should enquire into Church property; how got and how used, and correct what is wrong.
+- 384.21: The clergy have no exemption from such an enquiry.
 
 ## Notes
 

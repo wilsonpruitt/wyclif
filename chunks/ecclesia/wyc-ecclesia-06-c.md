@@ -31,20 +31,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 123.12: Thc Church of the O T. . , , wouidhavebeen lieadless, since , ' , . ~, . , , • tChrist was not then its head. . , , , . , .
-- 123.25: 25 Christ before
-- 123.26: His incarnation r . , r. . was not intrinsically head of r . ... . the Church,
-- 123.29: but he was always head by , . , . . . _ . predestination.
-- 124.4: in the incama- 143 tion hc made . second nuptiais, raising a part . . . . ..... of the Church to be Queen. . . . .
-- 124.22: At the last vent the Lamb . . wiil make marriage consum- . . mate and the whole Church b wiii be crowned as Queen. r . .
-- 125.4: Soiomon's queens, concu- ° 1 " .bines and virgins hgure 7 . . the three states that compose ° . the Church.
-- 126.1: A sood bishop 146* remains after . . . death patron of his (local) ... ..... Church.
-- 126.14: a difticuity: Whcther before . . the incarnation the Word was . _. . . . the man Chnst Jcsus. Yes ; for ..... . he was so both ideally and . . . . . .... potentiaiiy.
-- 126.24: Confirmation: In the three , . . _ . days the body to which he was - , afterwardsunited was his. ,. . , , - .,,
+- 123.29: but he was always head by predestination.
+- 124.4: In the incarnation he made second nuptials, raising a part of the Church to be Queen.
+- 124.22: At the last advent the Lamb will make marriage consummate and the whole Church will be crowned as Queen.
+- 125.4: Solomon's queens, concubines and virgins figure the three states that compose the Church.
+- 126.1: A good bishop remains after death patron of his (local) Church.
 
 ## Notes
 

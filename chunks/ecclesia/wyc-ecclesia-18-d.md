@@ -31,18 +31,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 426.1: i8;ci
-- 426.20: id 10 bring
-- 426.21: thattheyUln fcared.
-- 427.18: Avarice makes our clergy . . .... dread the ibss of endowmentb . . . , _ . more than the sin of a war ....... . with France.
-- 428.8: An abuse of this kind can ■.•••■ be best remcdied by remov- . . , . . mg the thing
-- 429.18: The friars, wlio profess poverty, ,. . r . .... negiect to preach the . , . . . ....
-- 429.20: 20 truth.
-- 430.20: We ought N to be silent for ■ ■ fear of otfend'mies^of the K°srel'
+- 427.18: Avarice makes our clergy dread the loss of endowments more than the sin of a war with France.
+- 428.8: An abuse of this kind can be best remedied by removing the thing abused.
+- 429.18: The friars, who profess poverty, neglect to preach the truth.
+- 430.20: We ought not to be silent for fear of offending the enemies of the gospel.
 
 ## Notes
 

@@ -43,17 +43,9 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 503.31: ministrandi.
-- 504.1: io7d l
-- 505.19: Thesc quotations enable r 0 0 ... us to esiimate our opponent's power of lying.
-- 505.28: Bonaventura dicts^himsetf;
-- 505.30: 3o oraNeged?ly
-- 506.1: in cithercasc ho is valuclcss as ..... . , au authority.
-- 506.31: ig8b
+- 505.19: These quotations enable us to estimate our Opponent's power of lying.
+- 505.28: Bonaventura either contradicts himself; or is falsely alleged.
+- 506.1: In either case he is valueless as an authority.
 
 ## Notes
 

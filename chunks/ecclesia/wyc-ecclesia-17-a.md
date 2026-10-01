@@ -37,19 +37,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 388.2: We must go ,82" A tlirough the ten ..... . ... argumentsgiven inChap.V. with . . our opponenfs answer. . . . . ....
-- 388.11: i.Ouropponent denies our right 10 conciude from his pre- . . . ... , misses that the O. T. fathers wiii not bc saved. .
-- 388.20: Answer: On his own . . nominaiist the- ,83* ories it must _ . . be so.
-- 389.5: Augustine did not say that the r ..... . Church existed before it was . . . the cimrch;
-- 390.12: but lie teaches
-- 390.12: that . , r ...
-- 390.13: a) ihe Christian relicion is best . r . . , , and safest; throuU^both ,5 testaments ; . . . . . . ...
-- 390.17: cjitexistedfrom the beginnmg _ of the worid.
-- 390.23: The Christian rehgion is an- ~ . other name for the Church. r
+- 388.2: We must go through the ten arguments given in Chap. V. with our opponent's answer.
+- 388.11: 1. Our opponent denies our right to conclude from his premisses that the O. T. fathers will not be saved.
+- 388.20: Answer: On his own nominalist theories it must be so.
+- 389.5: Augustine did not say that the Church existed before it was the Church;
 
 ## Notes
 

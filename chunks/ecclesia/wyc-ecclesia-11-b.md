@@ -25,31 +25,20 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 233.1: El aii priviieges , mUSt be and „ £ • J • ■ J- I •• «01 reasonabic
-- 233.2: not injurious, ......
-- 233.11: 3 and this con-
-- 233.11: dition imist aiways bc understood, 1 ° 1 . . however thc words ot" the N . . privilege run.
-- 233.26: By virtue of this very privilege ... .......... . . . . many fugitives should be ....... . punished;
-- 233.31: marg. : Nota.
-- 234.1: sincc it wouid i6ib P bc lo Iheir ad- .. .. vantage.
-- 234.7: If the King had a wrong pur- ... . . posc his mistake should n n 1 ' b& bc conccted.
-- 234.14: ti«0wicked "i^to support them. i5
-- 234.24: The monks cannot have ... . . . r . . . ,. . , quiet.ifthey Jisturbedby ,. . .. sin.
-- 235.4: Redress cannot be had witl,in .... r
-- 235.5: 5 the Sanctnarv;
-- 235.5: <i) because it is . . not a proper court of justice; ....... r .
-- 235.10: bj to hoid triais disturb the
-- 235.13: 3 <-j to use a
-- 235.13: churcli as a ° court ot' >aw is to violate lt.
-- 236.1: i6id G
-- 236.10: Whoever sins inortally m a 1 ° Church steals its protcction.
-- 236.26: Church dignitanes should , . ... ' . . . , not aiiow fairs etc. to be held . . .. . ., . . in Churchyards; , . , , . , . . .
-- 237.8: nor the King's court to sit in 1 1 .... ,1,e 1,ouse of ,1,e
-- 237.16: a tfrivilege to ,1,em to be \ 1 & _ ... encouraged in their sm.
+- 233.1: All privileges must be reasonable and not injurious,
+- 233.11: and this condition must always be understood, however the words of the privilege run,
+- 233.26: By virtue of this very privilege many fugitives should be punished;
+- 234.1: since it would be to their advantage.
+- 234.7: If the King had a wrong purpose his mistake should be corrected.
+- 234.14: Not to punish the wicked is to support them.
+- 234.24: The monks cannot have quiet, if they are disturbed by sin.
+- 235.4: Redress cannot be had within the Sanctuary; a) because it is not a proper court of justice;
+- 235.10: b) to hold trials there would disturb the monks;
+- 235.13: c) to use a church as a court of law is to violate it.
+- 236.10: Whoever sins mortally in a Church steals its protection.
+- 236.26: Church dignitaries should not allow fairs etc. to be held in Churchyards;
+- 237.8: nor the King's court to sit in the house of the Lord.
+- 237.15: As to the fugitives it is not a privilege to them to be encouraged in their sin.
 
 ## Notes
 

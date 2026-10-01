@@ -31,35 +31,20 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 254.1: i64b C
-- 254.24: it is thercfore useless to put . . . . cases in which 2? God issupposed • to do so;
-- 255.1: if>4c and what God
-- 255.1: cannot do the 1 . Pope cannot
-- 255.8: nor can secular
-- 255.8: 'ords. .... .
-- 255.13: i (Wyciif) am the real ad\o- . . cate of ciiurch privileges. .
-- 255.19: 3. it is said that the realm,
-- 255.20: 20 through par-
-- 255.20: liament, has ° . .... consented and injured; Answer: .... .. . . „
-- 255.23: if,.).'1 .We may do in-
-- 255.24: } man a) in helping ., . . . . .... inm to sin,
-- 255.27: \>) in not punishing him ... torsin,
-- 255.31: f\ Ml" niore taking money » ' '
-- 256.1: abet him in liis
-- 256.27: There is implithat Vea dto sin, resuh ^snoUnten e . 3o
-- 257.3: Hcncc aii grants shotild v . ' be conditional on wonhiness in tlie grantee.
-- 257.18: Even God"s promlsi;s are thus conditional. mJ 0 r '
-- 258.1: Hence Wyclifs 165" E warnings that . the ciergv may forfeit fheir . . 1 r .... priviiegcs.
-- 258.8: 3. it isobjected F a) the king's grant should ° 1 . r . ... he interpreted io mercifully; . ... . .
-- 258.14: and that b) a privilege ,, , • , , is not proved t5 to be evil by an occasionai wrong. ... , . .
-- 258.23: a) Answer: assumption, but
-- 258.24: mterpre-
-- 258.25: tation must be wise.
-- 258.33: Conclusio.
+- 254.24: It is therefore useless to put cases in which God is supposed to do so;
+- 255.1: and what God cannot do the Pope cannot do rightly,
+- 255.8: nor can secular lords.
+- 255.13: I (Wyclif) am the real advocate of Church privileges.
+- 255.19: 3. It is said that the realm, through parliament, has consented and is therefore not injured; Answer: We may do injury to a willing man a) in helping him to sin,
+- 255.27: b) in not punishing him for sin,
+- 255.31: c) still more in taking money to
+- 256.1: abet him in his sin
+- 256.27: There is implicit sin In acts that lead to sin, even when that result is not intended.
+- 257.3: Hence all grants shoald be conditional on worthiness in the grantee.
+- 257.18: Even God's promises are thus conditional.
+- 258.1: Hence Wyclif's warnings that the clergy may forfeit their privileges.
+- 258.8: 3. It is objected that a) the king's grant should be interpreted mercifully;
+- 258.14: and that b) a privilege is not proved to be evil by an occasional wrong.
 
 ## Notes
 

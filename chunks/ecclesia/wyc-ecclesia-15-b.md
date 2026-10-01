@@ -49,31 +49,19 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 332.3: Reccni cxamplcs of tcm- . . r -nt poralticsseized.
-- 332.20: Thrce conciudown by a 1. addcimiiion ofheresy;
-- 332.25: 2. dcniai of thc King's riglit to dcprivc
-- 333.1: iyS0 D 'tcmporaities;
-- 333.2: 3. denial ot such right both . . , . . . in past and future. r
-- 333.5: in answer we suppose , .. , , a) that ciergy includes all men . .. . in orders;
-- 333.19: bj that it is possible for tlie .
-- 333.20: 20 ciergy to sin
-- 333.20: grossly, 1 o •
-- 333.29: . . . Multi ^ . _ _ ... ' 0 Pauci
-- 334.1: i7sc D
-- 334.2: as is cvident of the falsc Pope ... , and his supporc) that the 3 E English Kings lr . b . beiieve thcy have thc riglit , • • thus dcnied.
-- 334.15: On the doctor's i5 supposition the . Kings have acted wrong- . . fully;
-- 334.28: ?nd contrarv to the Cathoiic -1 o ... faith;
-- 335.5: and arc therefore °bslinatc ........ , . . .,11 heretics wim ought not to be . prayed for.
-- 335.13: it is a mere evasion to say . . that the deprt-
-- 335.15: 1 quaiified;
-- 335.23: or that the profit by them, sincc the right- . . . .
-- 335.25: 25 eous possess aii
-- 336.1: or that thc i clergy cease to . . . be such by dcserving . . . ..... punishment.
-- 336.25: These endowments were ..... . . .. . first madc after the coming of . . . _ Augustinc.
+- 332.20: Three conclusions laid down by a doctor: 1. a definition of heresy;
+- 332.25: 2. denial of the King's right to deprive
+- 333.1: of temporalties;
+- 333.2: 3. denial of such right both in past and future.
+- 333.5: In answer we suppose a) that clergy includes all men in orders;
+- 333.19: b) that it is possible for the clergy to sin grossly,
+- 334.2: as is evident of the false Pope and his supporters; c) that the English Kings believe they have the right thus denied.
+- 334.15: On the doctor's supposition the Kings have acted wrongfully;
+- 334.28: end contrary to the Catholic faith;
+- 335.5: and are therefore obstinate heretics who ought not to be prayed for.
+- 335.13: It is a mere evasion to say that the deprivation was qualified;
+- 335.23: or that the clergy still profit by them, since the righteous possess all things;
+- 336.1: or that the clergy cease to be such by deserving punishment.
 
 ## Notes
 

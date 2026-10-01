@@ -49,25 +49,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 168.1: s i J H
-- 168.4: Oniy a crcaiurc can havc privi- .
-- 168.5: icgc;
-- 168.9: a true privilege must rcally . 1 ... ... benefit the
-- 168.19: Consequeniiy tliere is no pri- ..... viicgc cxccpt what is granted .. .... T . , by Christ.
-- 169.5: The highest privilegc is to 0 1 . . be aiiowed to iollow Christ ill . .. . . . . poverty.
-- 169.28: Instancc ot tlie mother of Ze- 1 . . . r,- , bedee's
-- 170.1: i?iuk
-- 170.21: p acyistobe desired 111 labour, not in
-- 171.1: Mid:1,
-- 171.5: Chrisfs treatment of liis ...... ... . discipies' am. bition. .....
-- 171.23: refused their request but , r • 11 . . * . granted that they should , .
-- 171.25: 25 jrink his cup.
-- 172.3: Two kinds o martyrdom. ......
-- 172.8: l.csson of humility.
+- 168.4: Only a creature can have privilege;
+- 168.9: a true privilege must really benefit the grantee:
+- 168.19: Consequently there is no privilege except what is granted by Christ.
+- 169.5: The highest privilege is to be allowed to follow Christ in poverty.
+- 169.28: Instance of the mother of Zebedee's children.
+- 170.21: Primacy is to be desired in labour, not in honour.
+- 171.5: Christ's treatment of bis disciples' ambition.
+- 171.23: He refused their request but granted that they should drink his cup.
+- 172.3: Two kinds of martyrdom.
+- 172.8: Lesson of humility.
 
 ## Notes
 

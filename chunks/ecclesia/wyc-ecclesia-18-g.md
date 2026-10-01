@@ -37,17 +37,9 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 438.7: Augustine theChurchh begfnning^of fhatTconsists heaVeniy and i8o,b eanhly'
-- 438.32: factus.
-- 439.1: V i8Qb
-- 439.21: In Scripture etc. the Church 7 * means the predestinatc. *
-- 440.5: Insufficient argument from . ..... . the crcation of Eve. . ...... .. , ,.
-- 441.7: The Church was from the . . first in grace, but received a ..... . r . . . new giory at the crucifixion. . . .... r . .
-- 441.27: whether the hoid^oVders "nd °ffchurch.,he
+- 439.21: In Scripture etc. the Church means the predestinate.
+- 440.5: Insufficient argument from the creation of Eve.
+- 441.7: The Church was from the first in grace, but received a new glory at the crucifixion.
 
 ## Notes
 

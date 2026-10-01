@@ -37,18 +37,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 498.6: God's mercy
-- 498.7: fixing^thdr nptTnUsseningBo/^f \ t flftcr wft r ds •••• in
-- 498.19: St. Thomas thSe°damneci 2o '°oburbaTn
-- 499.12: My opponenfs arguments arc frivoious.
-- 499.27: He aiieges thc Bonavenlura "stamp" of Pnestho° •
-- 500.3: But Bona\wotUfoarms'eofS '"tVordc?*,35
-- 500.19: and favours a contrary v.ew.
-- 500.26: Bonaventura-s TvnSaSio°nTn
+- 499.12: My opponent's arguments are frivolous.
+- 499.27: He alleges the authority of Bonaventura as to the "stamp" of priesthood.
+- 500.3: But Bonaventura rejects two forms of his theory as to orders,
+- 500.19: and favours a contrary view.
+- 500.26: Bonaventura's opinions shown by quotations.
 
 ## Notes
 

@@ -43,29 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 453.9: 1 gi1* in which case
-- 453.10: all laws shew .... . .
-- 453.10: 10 that he siiouid
-- 453.11: not be paid. , rr . , , .
-- 453.15: The reai queslion is who . . . . . ... shouid withdraw the . . . stipend? say the patron. ... -ii r 1 I
-- 454.1: Some prctcnd 19, consfderhuman
-- 454.9: oihers, thatthe clmrricint scts • ■ i *
-- 454.15: Eccicsiasticai
-- 454.16: xvitne^ses^swear c°annot8kiiowy
-- 454.20: Once a man bccauseCUhe'did the W°rk"
-- 455.2: iqic
-- 455.5: Doubts as tothe legitimacy of r . ........ . r. , .. ordinations.
-- 456.1: Unfitness may igi« u co so far as to , . . . . , prevent minisiration or . , . ,. oniy so far that a man ministers . ... r • i to his own damnation. ... . , ■ • • «■ • •
-- 456.20: it does not min" faUhTat hwhe"hef the" qialffiedj
-- 456.31: ir>id
-- 457.1: N iqi „or shouId he
-- 457.26: Christ mav
-- 457.28: priest>
-- 457.30: 3ovcl
+- 454.1: Some pretend f we have only to, consider human 1 law.
+- 454.9: Others, that the claimant acts for the Church.
+- 454.15: Ecclesiastical judges make witnesses swear to things they cannot know.
+- 454.20: Once a man was curate because he did the work.
+- 455.5: Doubts as to the legitimacy of ordinations.
+- 456.1: Unfitness may go so far as to prevent ministration or only so far that a man ministers to his own damnation.
+- 456.20: It does not affect the layman's faith that he cannot tell whether the priest is qualified;
 
 ## Notes
 

@@ -25,26 +25,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 568.5: We do not know that these , . , . f merits have not been assigned; . . . . . .
-- 568.20: as indeed they probably have _ . been by God.
-- 568.25: God has prcor- L dained who is to prcfit by them, so the r 7 „ Pope's decree is superfluous. * ~ ,
-- 569.4: The Pope cannot judge . . . ..... . worthiness^in therefore either
-- 569.13: 2o5d a) his indui-
-- 569.13: gences take , * 1 _ effect without worthiness in . the recipient;
-- 569.16: *^rJ^ "i^y1 according to his worthiness; . . D
-- 569.21: ^thiscondition is lmplied in the 1 induigence.
-- 569.24: is bias-
-- 569.24: phemous b) and 11
-- 569.25: 25 make in,du1'
-- 569.25: gences useless. 1 1
-- 569.29: » So thc con-
-- 569.29: ditional clause ~ ... . .... , ,. buiis makes them merely i i_ i • • i ii i superiiuous.
-- 570.9: it foiiows a man is not the ... • j 1 •• better for indulgences.
-- 570.28: The power ascribed to the , . i _ Pope is infinite. %
+- 568.25: God has preordained who is to profit by them, so the Pope's decree is superfluous.
+- 569.4: The Pope cannot judge worthiness in God's sight; therefore either
+- 569.13: a) his indulgences take effect without worthiness in the recipient;
+- 569.16: b) the recipient profits simply according to his worthiness;
+- 569.21: c) this condition is implied in the indulgence.
+- 569.24: a) is blasphemous b) and c) make indulgences useless.
+- 569.29: So the conditional clause in bulls makes them merely superfluous.
+- 570.9: It follows that a man is not the better for soliciting indulgences.
 
 ## Notes
 

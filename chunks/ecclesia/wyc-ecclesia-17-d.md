@@ -43,25 +43,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 398.1: a) in figure, as 184*0 theO.T.Samts,
-- 398.8: b) in fact, as 'inNhe^time ot erace;
-- 398.12: c) m fruit, as 184'' all mcmbcrs of _ . theChurchaftcrhabebunt thc day of judg- ,
-- 398.14: ment.
-- 398.17: 2. We said that
-- 398.19: CarJSartWofSthne0t ChurclK
-- 398.27: He trics to
-- 399.4: but by a paraiiei whicn does not
-- 399.5: hold.
-- 400.1: iS^ G-
-- 400.15: The doctor i84cH gives three ° r reasons why Chnst was a christian,
-- 400.24: none of which l
-- 402.5: Our opponent contradicts , i j j nimseif;
-- 402.25: and according '^h^ were°n
-- 402.28: Incarnation.
+- 398.27: He tries to prove that Christ is a christian,
+- 399.4: but by a parallel which does not hold.
+- 400.15: The doctor gives three reasons why Christ was a christian,
+- 400.24: none of which are valid.
+- 402.5: Our opponent contradicts himself;
 
 ## Notes
 

@@ -25,31 +25,20 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 580.10: The otiier three agree that their * . . vaiue depends on their being rightiy given.
-- 580.18: St. Thomas says that it . *. j.p^nds on the araount of ... mcrit appiied to
-- 580.20: tliem. ..
-- 580.28: This does not account for r 1 ... different arbitrarily D . ,. assigned to in- 3o dulgences. .
-- 581.18: The Pope's general in- . duigences cannot be given ... • , , .«■!_
-- 581.20: 20 with regard to
-- 581.20: the capacity ol . . the recipient.
-- 582.1: lf penaities are 207"
-- 582.2: tZyCmusiUstin bc to pay.
-- 582.16: if the Pope destroys . ... punishment, he must destroy ° . ... sin.
-- 582.23: Absurdities in the laws about n . ... , , • ,• • ■ induigences.
-- 582.33: debet Paulo.
-- 583.14: X Wyciifs finai
-- 583.14: conclusions: . ....
-- 583.17: t- God aione grants indul- 1 _ gences and oniy t0 tnose wnom ne has made worthy.
-- 583.22: 2. Each receiyes according to his 1 J . . worthiness.
-- 583.27: 3. No bisnop's indulgence 1 . . . profits save as the recipient is 7 1 worthy.
-- 584.1: 4. And so as the bishop's ... ? , . . instruction has 2°7C fitted him. V . . . .. .
-- 584.6: 5. Priests no power to .... pive mduigence for a specified . ..... - , time uniess by revelation.
-- 584.17: 6. Chrisfs raay not give _ . _ . ... induigences of days or years. ...
-- 584.23: 7. The bishops 7 Y should be 1 . carefui to teach this to their _ fiocks.
+- 580.10: The other three agree that their value depends on their being rightly given.
+- 580.18: St. Thomas says that it depends on the amount of merit applied to them.
+- 580.28: This does not account for different values arbitrarily assigned to indulgences.
+- 581.18: The Pope's general indulgences cannot be given with regard to the capacity of the recipient.
+- 582.1: If penalties are only commuted, they must still be to pay.
+- 582.16: If the Pope destroys punishment, he must destroy sin.
+- 582.23: Absurdities in the laws about indulgences.
+- 583.14: Wyclif's final conclusions:
+- 583.17: 1. God alone grants indulgences and only to those whom be has made worthy.
+- 583.22: 2. Each receives according to his worthiness,
+- 583.27: 3. No bishop's indulgence profits save as the recipient is worthy.
+- 584.1: 4. And so far as the bishop's instruction has fitted him.
+- 584.6: 5. Priests have no power to give indulgence for a specified time unless by revelation.
+- 584.17: 6. Christ's vicar may not give indulgences of days or years.
 
 ## Notes
 

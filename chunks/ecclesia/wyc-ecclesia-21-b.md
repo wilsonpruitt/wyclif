@@ -37,29 +37,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 494.5: This wouid hc
-- 494.6: devil. '
-- 494.10: igG'1
-- 494.13: He aiiepes the Bonaventura, w 0 htm.Sainst
-- 495.1: iq6d
-- 495.25: 25 namnation is
-- 495.25: used in two j. . . - , . . . , . senses and mav t>e only to pain , . , ... .... , . in punjatory.
-- 495.30: pag. 1021.
-- 496.13: Argument from 2 E Augustme^; 197"
-- 496.23: from the prayinsrCfor aii the departed.
-- 496.30: pag. 1021.
-- 497.1: a- Voiuntary atonement is . . . . . better than involuntary; . . so the suffrages of the pious . j atone more than the pains 1 x .
-- 497.5: 5 of neu.
-- 497.14: 5. God acccpts the atonement.
-- 497.17: Answer: The profit is . . r . . . . to the Church, not to the . . . damned.
-- 497.21: The doctor argues that , . ........ God's mercy extends to the j • -ii j r> i • t wtrr damned.
-- 498.6: God's mercy
-- 498.7: fixing^thdr nptTnUsseningBo/^f \ t flftcr wft r ds •••• in
-- 498.19: St. Thomas thSe°damneci 2o '°oburbaTn
+- 494.13: He alleges the authority of Bonaventura, who is against him.
+- 495.25: Damnation is used in two senses and may be only to pain in purgatory,
+- 496.13: Argument from a saying of Augustine's;
+- 496.23: from the Church's praying for all the departed.
+- 497.1: 4. Voluntary atonement is better than involuntary; so the suffrages of the pious atone more than the pains of hell.
+- 497.14: 5. God accepts the atonement.
+- 497.17: Answer: The profit is to the Church, not to the damned.
+- 497.21: The doctor argues that God's mercy extends to the damned.
+- 498.6: God's mercy works in fixing their punishment, not in lessening it afterwards.
+- 498.19: St. Thomas also declares the damned to be beyond our aid.
 
 ## Notes
 

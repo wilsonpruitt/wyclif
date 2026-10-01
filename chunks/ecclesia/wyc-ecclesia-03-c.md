@@ -25,28 +25,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 54.1: i35c F
-- 54.5: that we must carc only ior the ., ctcmai intcrests of thc wrong doer;
-- 54.15: otherwise we i5 hurt ourselves ... . more than him.
-- 54.19: i3bd
-- 55.8: Litigation would be sup- , . ...... , pressed if the Pope asked ru- ..... . . ... icrs to withdraw the pay ot those ... ... . . . who negiectedto minister. ■ .. ...
-- 55.18: The oniy needful rule being . . . . . . . . .. that men shouid be appointed for . . . ... ...... fitness and deposed if they de- ..... , . . serve it.
-- 55.28: Wickedncss of priests troubles .... . the Church.
-- 56.1: Trouble-will i35d H ceasc until we . , _ , return to the primitive order.
-- 56.8: St Paulprophe"lovers of them- i36a selves"who carc • . • . « j, • • j .ia for wcaitii I0
-- 56.11: priesfly duty;
-- 56.16: "corruptcrs of who Vrest^it' to "havlngascafed who^prociatm mcmb^ers^of die 2o
-- 56.21: brmgUrforthUtno
-- 57.5: Objection: Christ ls said by St.Thomastobe the hcad of ail * ' '
-- 57.7: men.
-- 57.14: In °ne sense tlns is true as . . to his deity
-- 57.20: 20 and as to his
-- 57.21: humanity. . e .
-- 58.11: But St. Thomas docs not say that the whoic liuman race is . ... . the mystical body ofChrist, but . the pan that is predestinate.
+- 55.8: Litigation would be suppressed if the Pope asked rulers to withdraw the pay of those who neglected to minister.
+- 55.18: The only needful rule being that men should be appointed for fitness and deposed if they deserve it.
+- 55.28: Wickedness of priests troubles the Church.
+- 56.1: 'Trouble will not cease until we return to the primitive order.
+- 56.8: St Paul prophesied of "lovers of themselves" who care for wealth and not for their priestly duty;
+- 56.16: "corrupters of the word", who wrest it to defend lying; "having a seared conscience", who proclaim themselves members of the Church but bring forth no fruit.
+- 57.5: Objection: Christ is said by St. Thomas to be the head of all men.
+- 57.14: In one sense this Is true as to his deity
+- 57.20: and as to his humanity.
+- 58.11: But St. Thomas does not say that the whole human race is the mystical body of Christ, but the part that is predestinate.
 
 ## Notes
 

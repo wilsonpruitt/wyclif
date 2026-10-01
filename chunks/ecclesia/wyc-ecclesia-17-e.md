@@ -37,23 +37,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 402.5: Our opponent contradicts , i j j nimseif;
-- 402.25: and according '^h^ were°n
-- 402.28: Incarnation.
-- 403.10: 10 Other absurd
-- 403.10: conclusions. . . .
-- 403.25: Appiication of his definition ,?rr . . * . _ to tiie three days; 1 ■ t_ i" • i- • •
-- 404.6: durinc which time, it leads _ , . . . . us to beiieve, the Church . . . . . . ceased to exist.
-- 404.27: 3. We are 3 L
-- 404.28: attackins apress°iont
-- 405.1: but our opponenfs crror - , . . . . , . . ,.a is scnous,
-- 405.15: since he confuses taith with , .. ... the tning believed. ... r
-- 406.12: The terms M "genus" and . _ . "species" are i85 not applicable . . . . . to faith.
-- 406.25: The subject in which faith ... , .... exists is the body of the . . . , . Church.
+- 402.25: and according to his definition there were Christians before the Incarnation.
+- 403.10: Other absurd conclusions.
+- 403.25: Application of his definition to the three days;
+- 404.6: during which time, it leads us to believe, the Church ceased to exist.
+- 404.27: 3. We are accused of attacking mere faults of expression;
+- 405.1: but our opponent's error is serious,
+- 405.15: since he confuses faith with the thing believed.
+- 406.12: The terms "genus" and "species" are not applicable to faith.
+- 406.25: The subject in which faith exists is the body of the Church.
 
 ## Notes
 

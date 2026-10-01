@@ -25,26 +25,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 6.10: h<God.se lo
-- 6.29: Church°is widowed.
-- 7.1: 28'' Church is
-- 7.2: distributed t-. i-i * • *\ r-w-t * . through the whole world. .
-- 7.12: Theiiead ot 'the Church is , • 1 f • n % Christ.
-- 7.19: Sccond conclusion. „ . . . ... . jiie cathoiic ^one^and n°ot'y
+- 6.29: The whole Church is widowed.
+- 7.1: The Church is distributed through the whole world.
+- 7.4: Augustine.
+- 7.12: The Head of the Church is Christ.
+- 7.19: Second conclusion. The Catholic Church is only One and not many.
 - 7.27: The three parts of the Church.
-- 8.6: The three parts mto which thc consecrated liost is broken parts of the .... Church.
-- 8.22: Christ, as man, visited all. . , . ..... . .
-- 8.29: cum nature.
-- 9.11: Peter's privileg^ binding lo,0>inS r,;m.ai,ns
-- 9.12: ngut-
-- 9.13: >y exercised.
-- 9.21: The begetting the Church.
-- 10.4: The unity of the Church r . ' . proved out oi nany passagcs of scripture.
-- 10.10: l2if
+- 8.6: The three parts into which the consecrated host is broken signify the three parts of the Church.
+- 8.18: Mark this.
+- 8.22: Christ, as man, visited all.
+- 9.11: Peter's privilege of binding and loosing remains where it is rightly exercised.
+- 9.21: The begetting of children to the Church.
+- 10.4: The unity of the Church proved out of many passages of scripture.
 
 ## Notes
 

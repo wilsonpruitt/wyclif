@@ -49,21 +49,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 574.1: The Pope 2o6b arbSrary Vafue io certain alms. , . . . ■
-- 574.23: if each indulgence can . . remit a part, succession c must . . . r ■ - j remitthewhoie.
-- 575.1: p 2o6b Our cases are
-- 575.1: said to be fanciful, but all this papal power is a mere fancy.
-- 575.14: Every priest should have
-- 575.15: ■ power of in-
-- 575.15: dulgence.
-- 575.25: Formerly the Pope did not claim this ex~ cessive power.
-- 576.1: The power of 2o6e
-- 576.2: pMes^hepow^rlicenciam of mduigence.
-- 576.19: The laity Q 8toethedclSM
+- 575.1: Our cases are said to be fanciful, but all this papal power is a mere fancy.
+- 575.14: Every priest should have power of indulgence.
+- 575.25: Formerly the Pope did not claim this excessive power.
+- 576.1: The power of absolution implies the power of indulgence.
 
 ## Notes
 

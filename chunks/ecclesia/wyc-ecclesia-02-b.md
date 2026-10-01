@@ -55,26 +55,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 28.1: i3r' B
-- 28.8: and there would C be as many . . .... churches a's there were po- . ... .
-- 28.10: pes.
-- 28.22: Nor is it cenain that a Pope is . 1 . ... head of his contemporaries, for . . he may he reprobate. 1 1 ' . . . h
-- 29.12: rt may be said tamanentin sInan'soCobe-S 'thePope^aV0 hrists asent-
-- 29.22: The Church unfversal^and so would con- ■ 1 1 1 .• .
-- 29.24: the de-
-- 29.29: popc knows member of 'the Cl,urJl-
-- 30.12: Thcrc wcrc e E clnirclics bcfore . . .... ihe incarnation lliat had no pope . ... , r . ... at their head;
-- 30.18: thcrefore thc Church, that D . . . .. contams them, is under no ..... . „._.... pope.
-- 31.13: The betier opinion is Ihat ihe , . . ' i'opc n hcad of a local Church.
+- 28.8: and there would be as many churches as there were popes.
+- 28.22: Nor is it certain that a Pope is head of his contemporaries, for he may be reprobate.
+- 29.12: It may be said that Christ is immanent in second causes and so obedience is due to the Pope as Christ's agent.
+- 29.22: The Church would not be universal, and sO would contradict the decretal.
+- 29.29: No pope knows whether he is a member of the Church.
+- 30.12: There were churches before the Incarnation that had no pope at their head;
+- 30.18: therefore the Church, that contains them, is under no pope.
+- 31.13: The better opinion is that the Pope is head of a local Church.
 - 31.23: Note this.
-- 31.27: No popc shouid assert tliat sub- . r . c ... , . iection to him is needlul to sal- , , , ..... . vaiion;
-- 32.1: Nor evcn de- 2 F clare tliat he « » is . ^ predestinate.
-- 32.9: God ean give crace otherwise i j j r » i than ihrougii io
-- 32.18: Thc ciimch dom Cnow Vhan "a\v,%ctieevcn th<to the^chiefi" n^dfui^fo s"a°vation.
+- 31.27: No pope should assert that subjection to him is needful to salvation;
+- 32.1: Nor even declare that he is predestinate,
 
 ## Notes
 

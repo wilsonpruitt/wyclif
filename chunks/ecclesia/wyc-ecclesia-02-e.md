@@ -37,19 +37,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 38.12: who wijl doubtIcss reject this • ,. . . . . , . iaisc scnse of tlic dccrctal. , . . ... , . . , k. ... , .
-- 38.25: objection: Subjects will . i-i_i--.fi have to consuit Scripture before . t • • j-\ obeying the Answer: Theydo so^ l°
-- 39.24: St Jerome on ,ne sword sent .. . 1 ys> • •
-- 39.25: 25 by Christ.
-- 40.1: i33c M
-- 41.13: The life and teaching of , . . ii- •
-- 41.14: are the
-- 41.15: giass, by which . r . f • 1 1 iheretics may be discerned. . . ~. . . . .
-- 42.1: ( )bjection : i33d All respect lor thc clcrgy would pcrish.
+- 38.25: Objection: Subjects will have to consult Scripture before obeying the Pope. Answer:
+- 38.29: They ought to do so.
+- 39.24: St. Jerome on the sword sent by Christ.
+- 41.13: The life and teaching of Christ are the glass, by which heretics may be discerned.
+- 42.1: Objection: All respect for the clergy would perish.
 
 ## Notes
 

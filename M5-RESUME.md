@@ -3,7 +3,22 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
-## Status 2026-09-30 (end of the first M5 session) — READ THIS FIRST
+## Status 2026-10-01 — side-note pass DONE (stage 5b)
+- Method changed from "one plate agent per ~10 chapters": the margin column cut alone is clean modern
+  type, so `sideocr.py` re-OCRs every note with tesseract (free) and places it at page.line;
+  `sidesheets.py` cuts plate sheets only for notes a marker fires on (non-word, conf < 70, glyph,
+  short) + `missed` places; `sidesplice.py` merges the reads and writes every scaffold's section.
+  Control (`--spot 40`): 16/16 unflagged notes exact, line included.
+- 1,383 re-OCR'd → 524 bands / 136 sheets → 4 **Sonnet** agents (`sidenotes.reads.part01–04.tsv`) +
+  coordinator `part99` (α/β at 491.28/492.11, joins at 155.6, 417.24, 542.29). Result:
+  **1,293 notes, 407 read on the plate**, in `text/ecclesia/sidenotes.fixed.tsv`; lint clean.
+- **Cost: ≈ 0.55M** (127–145K per agent) against the 1M estimate.
+- ⚠ Note ids in the reads are row numbers of `sidenotes.ocr.tsv`: never re-run `sideocr.py` without
+  re-reading. Known residual class: a note tesseract split at a gap with no marker on either half
+  (3 found by the lower-case-continuation check, fixed in part99).
+- **Next:** item 2 below (CARD.md), then 01-a translated and reviewed in a fresh session.
+
+## Status 2026-09-30 (end of the first M5 session)
 
 **Done (stages 1–5a):** Latin established and plate-read; 159 scaffolds cut. All committed locally on `main`
 (nothing pushed; the Vercel project is not git-connected).

@@ -43,19 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 137.1: 17« in many cases
-- 137.1: the same words ' . . may be afiirmed or denied ^ ' , . .. .. . accordingto tne scnsc in wliich . • i • • they are used.
-- 138.9: Objection: Difficulties in .... ....... the doctrine of predestination. »•■»#■
-- 138.17: ^ Answer: in Bradwardine's doctrine ... . of God's uncliangeable- . ... ,••,.• , ,-,• ness in love or hale. & . . . ...
-- 139.5: Predestination is God's chief r r ... gift, and from 'Is nature it . .... . ..... cannot be given at all . ... . uniess carried to fullilment. r . . .. .
-- 139.20: The predestinate may sin . . ... .. mortaliy,
-- 140.8: but they have in thcm tlie . . * • • grace of finai 2 perseverance. . .
-- 140.22: Grace is^ not quaiity by which man is pleasing A ~ to God.
-- 141.5: a predestinate man sinnine j f*. j- j u mortally, forfeits bis domin- • • . . . ,. ^ j0n for the
+- 138.9: Objection: Difficulties in the doctrine of predestination.
+- 138.17: Answer: It is involved in Bradwardine's doctrine of God's unchangeableness in love or hate.
+- 139.5: Predestination is God's chief gift, and from its nature it cannot be given at all unless carried to fulfilment.
+- 139.20: The predestinate may sin mortally,
+- 140.8: but they have in them the grace of final perseverance.
+- 140.22: Grace is not a thing but a quality by which man is pleasing to God.
+- 141.5: A predestinate man sinning mortally, forfeits his dominion for the time.
 
 ## Notes
 

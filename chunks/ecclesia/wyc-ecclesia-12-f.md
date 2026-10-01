@@ -37,17 +37,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 272.10: justice shonld the hornsof
-- 272.22: Another story ot a dream. \ o
-- 273.10: io Let the dreams
-- 273.11: be lrue» sli" ... . . . justice shouid be enforced in the abbey.
-- 273.17: More devotion js the rjg|]t way \ . . ^ for the convent to defend its priviieges.
-- 274.17: They ought not to excommuni- , . r ... .... cate the household of their r . . , . r . . . patron.
-- 274.26: Temporary alms are better .... , . i. than perpetuai.
+- 272.22: Another story of a dream.
+- 273.10: Let the dreams be true, still justice should be enforced in the abbey.
+- 273.17: More devotion is the right way for the convent to defend its privileges.
+- 274.17: They ought not to excommunicate the household of their patron.
 
 ## Notes
 

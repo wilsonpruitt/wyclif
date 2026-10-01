@@ -25,34 +25,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 484.1: i93h L
-- 484.3: Verse 21. M
-- 484.4: atvaid ofnP°ersecution.
-- 484.29: Verse 22. spiendidiy I95« II
-- 484.31: %ToicS
-- 484.34: 34. A: mebra.
-- 485.11: Verse 23. Christ will sit 1 1 r in the gate at the day of 7 judgment.
-- 485.30: Verse 24. The linen garment is evangelical
-- 486.1: icpcM
-- 486.21: ig5J
-- 486.26: She gives preaching to the heathen. . .
-- 487.1: N ig5d
-- 487.5: Verse 25. She gains in ....... . . . . ... giory by the grafting in of , — . tiie Gentiies.
-- 487.24: O Verse 26. 25 is^uiPofttie
-- 487.26: thC
-- 487.26: wlsdF™he°rf,
-- 488.1: irp'1 O
-- 488.11: Verse 27. and is not given to idlencss.
-- 488.19: i. Praise of 196" P mairon.
-- 488.21: Versc 28. attesteiTby afl
-- 488.23: thbyCChrist!d
-- 489.5: Verse 20. Thc many .... • - . . daughters are the toreknown ... . who are outwardly mem- 1 .... T , , . TrI ,. . bers ot the Church. . , . , . , .
-- 489.21: yerse 3o. is of no avaii.
-- 490.6: Vcrse 3i. Her labour in , . . _ , life shaii be rewarded by , , ... r\ ' r est in heaven.
+- 484.29: Verse 22. She is splendidly clothed, having put on Christ.
+- 485.11: Verse 23. Christ will sit in the gate at the day of judgment,
+- 485.30: Verse 24. The linen garment is evangelical teaching.
+- 486.26: She gives the girdle in preaching to the heathen.
+- 487.5: Verse 25. She gains in glory by the grafting in of the Gentiles.
+- 487.24: Verse 26. The Church is full of the wisdom of the Father,
+- 488.11: Verse 27. and is not given to idleness.
+- 488.19: 3. Praise of the matron.
+- 488.21: Verse 28. Her praise is attested by all the elect and by Christ.
+- 489.5: Verse 20. The many daughters are the foreknown who are outwardly members of the Church.
+- 489.21: Verse 30. Outward grace is of no avail.
 
 ## Notes
 

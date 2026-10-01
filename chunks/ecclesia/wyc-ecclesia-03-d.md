@@ -31,26 +31,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 58.11: But St. Thomas docs not say that the whoic liuman race is . ... . the mystical body ofChrist, but . the pan that is predestinate.
-- 59.1: K i 36b
-- 59.3: Objectors give three proofs of r» • i- i- t ■"!->• i •
-- 59.4: opinions: '' words1-1'8
-- 59.8: 2. St.John's words; /-,, •
-- 59.10: 3 aii men are
-- 59.10: bclicvcrs sincc aii beiieve about Aii these arguments rest on a doubie use of language. , , ......
-- 59.26: Four jises of the ^r t0 save,: 1. To some sal- *
-- 59.28: 1 36c vaL'i°tn^f°sf^dred
-- 60.5: Othersreceiveitmembra but fall away. . . ... , _ ,. . Atiiirdsortaitcr falling away „, return. The fourth class , , . rcceive and hold
-- 60.9: to it.
-- 60.11: Christ is specially the saviour ., . . - , ,. . . . , of the third and fourth ciass.
-- 60.16: Answer to
-- 60.17: jectiorf^Christ is a suflicient •• • • • • j- • .• • propitiation for have^naturaiiy may avail them- 2o seivcs ot n,
-- 60.26: hut they need SCCOIChrist,th in
-- 60.32: 32. Cf. p. 4. 1. 23.
+- 59.3: Objectors give three proofs of their opinions: 1. St. Paul's words;
+- 59.8: 2, St. John's words;
+- 59.10: 3. All men are believers since all believe about God. All these arguments rest on a double use of language.
+- 59.26: Four uses of the word to save:
+- 59.27: I. To some salvation is offered but refused.
+- 60.5: Others receive it but fall away. A third sort after falling away return. The fourth class receive and hold to it.
 
 ## Notes
 

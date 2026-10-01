@@ -25,30 +25,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 542.3: dead^maybe doneiway7r0"e
-- 542.29: as by too much care for show- 3o
-- 543.7: Soiemn buriai in no'y places . ..... . may do good or harm.
-- 543.30: non licet.
-- 544.1: As to grief for 202* the dead we .. . ... . »* „ mustdistinguish affection and
-- 544.4: judgment.
-- 544.19: Naturai grief con°roiiedbeby reason.
-- 545.2: i. The ciergy should thus 1 . . . ^teach about
-- 545.18: Thcy must not let tne desire of „_ . . . ,» gain outweigh the desire to . , r . , . , . .
-- 545.20: 20 beneht souis.
-- 545.23: 2- aii rites approved by the 1 ° Church agree with this rule. r rr D
-- 546.6: Reasons for various . . . , observances.
-- 546.32: decretali.
-- 547.3: 3. itwouidbe better to aim whoiiy at a virtuous life and °, ' f r r
-- 547.5: 5 give up these
-- 547.5: ceremonies, 1 , .
-- 547.10: which bring in gilds and other P ^ ... causes^ mis-
-- 547.32: 28. B : eciam dcest.
-- 548.1: 2o3b V
-- 548.2: Theexampic of Simon Mac- .... . . cabeus cannot outweigh Ihat of Christ.
+- 542.29: as by too much care for show.
+- 543.7: Solemn burial in holy places may do good or harm.
+- 544.1: As to grief for the dead we must distinguish between natural affection and deliberate judgment.
+- 544.19: Natural grief should be controlled by reason.
+- 545.2: 1. The clergy should thus teach about funeral rites.
+- 545.18: They must not let the desire of gain outweigh the desire to benefit souls.
+- 545.23: 2. All rites approved by the Church agree with this rule.
+- 546.6: Reasons for various observances.
+- 547.3: 3. It would be better to aim wholly at a virtuous life and give up these ceremonies,
+- 547.10: which bring in gilds and other causes of mischief.
+- 548.2: The example of Simon Maccabeus cannot outweigh that of Christ.
 
 ## Notes
 

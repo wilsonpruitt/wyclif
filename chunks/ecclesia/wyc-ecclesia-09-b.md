@@ -43,25 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 186.15: The Roman collegc niay beB the synagogue oi Satan and not thc hcad of the Churcli. ....
-- 187.1: The Church ouglu not to ....... . , . . havc left ihe state(ofpoverty) , , ... . , . , . • ... .. appointcd by Clirist- •n- j ii- i- •
-- 187.18: Silvester may havc acted Irom 1 Pious motives.
-- 187.29: The ciergy should gladly . . ' r-, ,
-- 187.30: .->o leavc laymcn to
-- 187.30: ministcr to tlic ... . . .
-- 187.31: poor
-- 188.1: and dcvotc i54u E themselves 10 ' ' . ' 1 . , J prcaciiing.
-- 189.9: The removal of cndowmem may .... ..... ... be a restoration ot primitive . priviiege,
-- 189.17: worth much morc, than thc ° ' r "'§Ht °f gaiiows
-- 189.25: G The aposties
-- 189.26: choice.
-- 190.1: i qo
-- 190.13: it is said that, il this bc true, . * ... ■ «• aii temporai privileges are ■ ... abolished. i3
-- 190.27: B»t wc aiiow such privileges , . ... as heip ihe clergy in thcir ...... r . „ duties.
+- 187.1: The Church ought not to have left the state (of poverty) appointed by Christ.
+- 187.18: Silvester may have acted from pious motives.
+- 187.29: The clergy should gladly leave laymen to minister to the poor
+- 188.1: and devote themselves to preaching.
+- 189.9: The removal of endowment may be a restoration of primitive privilege,
+- 189.17: worth much more, than the right of gallows etc.
+- 189.25: The apostles were poor by choice.
+- 190.13: It is said that, if this be true, all temporal privileges are abolished.
 
 ## Notes
 

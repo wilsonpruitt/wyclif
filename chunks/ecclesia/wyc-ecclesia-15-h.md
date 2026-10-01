@@ -31,23 +31,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 356.1: The King 178' X should cno,uire 1 v into this.
-- 356.17: Some of the clergy suggest , . . that they have an civilVowers;
-- 357.10: and their head is the Pope. . 1 ;
-- 357.14: The court ot Rome is a nest ... . . . , , ... . of mjschievous
-- 357.27: |ias invented tripTe^sbelter:
-- 357.30: ,. that it is above all human i' . , r • ■ . 1 • • judgmems;
-- 358.3: 2. that everv Christian is . . bound to obey all commands . . . . oftheCuria;
-- 358.9: 3. that the Curia has the r J , , . riRht ot ruimg othcr churches. . . .... .
-- 358.19: God in mercy haGregory x[fy 2o
-- 358.27: and we trust he %of these^faise' pontiffs.
-- 359.6: The doctors
-- 359.8: i. that Siivester did not sin at . r ^ . r aii in accepting cndowment;
-- 359.14: for if it lawfui to receivc alms, they may be kePt without . . ... . . sin.
+- 356.17: Some of the clergy suggest that they have a right above all civil powers;
+- 357.10: and their head is the Pope.
+- 357.14: The court of Rome is a nest of mischievous foxes.
+- 357.27: It has invented for itself a triple shelter:
+- 357.30: 1. that it is above all human judgments;
+- 358.3: 2. that every Christian is bound to obey all commands of the Curia;
+- 358.9: 3. that the Curia has the right of ruling other churches.
+- 358.19: God in mercy has taken away Gregory XI;
+- 358.27: and we trust he will be the last of these false pontiffs.
 
 ## Notes
 

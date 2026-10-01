@@ -37,27 +37,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 108.2: ciuist in aii things loved the _ mcan,
-- 108.18: which Aristotle lias shown to bc the seat of virtue.
-- 109.18: Unity may be supernatural, ... ,. ...... naturai or vir-
-- 109.30: passiva
-- 110.1: 4<* objcction: 143° If there is but . r . . . one Church there should 0 ' . . . be but one way ot membership, . . . bm we on eanii have not the . . . same form as thc blessed. ... . .
-- 110.9: Answer: We have the . \. r / sameform: God's prede- . ... stination.
-- 110.18: Moreover faith and charity n are . . m. • ihe same, oniy '43 that in lieaven . . . m ■ they lose their imperfection. . . ...
-- 111.1: I I I
-- 111.1: Differenceof opinion as to .... . ...
-- 111.2: 2 what Faith is.
-- 111.8: ^at^have^faith ftnevenabymorta1
-- 111.10: sin-
-- 111.21: may rightfy^exthem^for^rf
-- 111.24: thechrist.°f
-- 112.10: Erroneous de- S fmition 01 the Church as the 144 multitude of ' n ' . Christians who keep whole the true taith.
-- 112.20: This definition excludes the n ^ . . o. T. Saints
-- 112.31: ahfmserfSt
+- 108.18: which Aristotle has shown to be the seat of virtue.
+- 109.18: Unity may be supernatural, natural or virtual.
+- 110.1: 4th objection: If there is but one Church there should be but one way of membership, but we on earth have not the same form as the blessed.
+- 110.9: Answer: We have the same form: God's predestination.
+- 110.18: Moreover faith and charity are the same, only that in heaven they lose their imperfection.
+- 111.1: Difference of opinion as to what Faith is.
+- 111.8: All the predestinate have faith and cannot lose iteven by mortal sin.
+- 111.21: The Church may rightly excommunicate them for sin, but cannot cut them off from the body of Christ.
 
 ## Notes
 

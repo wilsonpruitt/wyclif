@@ -43,23 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 178.1: Christ, who e S gives poveriy, is . far greater than '53" Cacsar, who .... gives riches.
-- 178.31: aii privileges come from ... .... . . . Chrisi dircctiy or in trectly.
-- 179.1: [53° Those ooming
-- 179.2: greatest.
-- 179.15: Baptist, than whom none 1 1 wasgreater,was vcry poor. 1 a
-- 179.31: it is futile to say that thc statc of . . poverty was morc pcrfect, ... . but is so no
-- 180.1: Poveny is t ncarer to thc . state of innocence.
-- 180.10: Hence rniers m may relicve the ' . cierfiy oi nseicss wealth. r_ ' ,
-- 181.1: T i53d
-- 181.6: Opinions of Gregory " s
-- 182.1: i53J v
-- 182.7: Objection: vilcgc is gene- n ...... raiiyunderstood ot worldly 1 n ... . . tlungs.
-- 182.14: if so, it is thc fault ot the B pcopio who usc i5 thc word. ^ .
+- 178.1: Christ, who gives poverty, is far greater than Caesar, who gives riches.
+- 178.31: All privileges come from Christ directly or indirectly.
+- 179.1: Those coming directly are the greatest.
+- 179.15: Baptist, than whom none was greater, was very poor.
+- 179.31: It is futile to say that the state of poverty was more perfect, but is so no longer.
+- 180.1: Poverty is nearer to the state of innocence.
+- 180.10: Hence rulers may relieve the clergy of useless wealth.
+- 181.6: Opinions of Gregory
 
 ## Notes
 

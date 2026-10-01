@@ -31,14 +31,8 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 156.3: Thc Prdates' privilege ot im- . prisoning excommunicatcd persons shouid i5ob be taken away, ... . . . r .
-- 156.23: or aiiowed oniy attcr Iay tnal. ' t
-- 157.14: Layrnlers must, however, be re- . . . rn ...... .. r minded of their duties to the ...... ... ,. . cimrch.
-- 157.26: Di^ression on eventwhlch has Engiand^and in R°me-
+- 156.23: or allowed only after lay trial.
+- 157.14: Lay rulers must, however, be reminded of their duties to the Church.
 
 ## Notes
 

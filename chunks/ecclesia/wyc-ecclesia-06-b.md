@@ -43,21 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 120.3: Objection : If a whole is . . _ aii that its parts are, man is at . . _ . _ .. once the bodv of Christ and • ... the body of the
-- 120.14: Answer: Mankind is di- .... .. . vided into two, i5 and in a sense . they both God for their . ■ _ . ..... head, but oniv iaS one is the body . „ . ,-• oftheLord.
-- 121.16: Mt*"k'cijuj.shnot
-- 121.29: Manlcind does whatever each
-- 121.30: 3o ofitsparts does,
-- 122.1: but it is not thc body of thc . * Lord or the body of the ... devil.
-- 122.5: A wbole is^ not its parts. it is a siandcr on ihe Clnirch io say that the rcprobate torm ... part of her.
-- 123.12: Thc Church of the O T. . , , wouidhavebeen lieadless, since , ' , . ~, . , , • tChrist was not then its head. . , , , . , .
-- 123.25: 25 Christ before
-- 123.26: His incarnation r . , r. . was not intrinsically head of r . ... . the Church,
-- 123.29: but he was always head by , . , . . . _ . predestination.
+- 120.14: Answer: Mankind is divided into two, and in a sense they both have God for their head, but only one is the body of the Lord.
+- 121.16: Mankind is not the Church.
+- 121.29: Mankind does whatever each of its parts does,
+- 122.1: but it is not the body of the Lord or the body of the devil.
+- 122.5: A whole is not its part, but its parts.
+- 122.7: It is a slander on the Church 10 say that the reprobate form part of her.
+- 123.12: 4. The Church of the O. T. would have been headless, since Christ was not then its head.
+- 123.25: Christ before his incarnation was not intrinsically head of the Church,
 
 ## Notes
 

@@ -37,22 +37,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 130.18: A cure is wanted for the . . . . . . , ... . eviis of extortion which in- . fest the ciiurch.
-- 131.9: see that ought to
-- 131.9: pay
-- 131.10: dues oniy to those who claim 1 ,,,em rightly.
-- 131.23: objection: If Christ was a . . . . son of the Church he was f . , «... r .
-- 131.25: 2d oider than his
-- 131.26: mother. ... .. r ,. ...
-- 131.29: Answer:
-- 131.30: 3o ih^ Synagogue!
-- 132.9: wiiicb he icftfor the "Church of ' . . the Gcntiies".
-- 132.30: Chrisfs humanity is the . . . . . ... . . form (i. e. the organic prin- - . , cipie) of the Church.
-- 133.26: Christ and every one of QSed 1 his members make up one Church.
+- 130.18: A cure is wanted for the evils of extortion which infest the Church.
+- 131.9: We ought to see that we pay dues only to those who claim them rightly.
+- 131.23: Objection: If Christ was a son of the Church he was older than his mother.
+- 131.29: Answer: His mother was the Synagogue,
+- 132.9: which he left for the "Church of the Gentiles''.
+- 132.30: Christ's humanity is the form (i. e. the organic principle) of the Church.
 
 ## Notes
 

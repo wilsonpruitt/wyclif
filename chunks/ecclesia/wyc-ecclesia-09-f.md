@@ -25,17 +25,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 202.8: those at b engaged io
-- 202.21: thosein c bed, those wlio n are free frora active duties. '
-- 203.12: A christian is bound to lake 1 _ _ U»e sure way.
-- 203.17: Giying.temporal alms is sure; 1 alms uncertain, 1
-- 203.23: since it ieads to quarrcls, . - . ...... . . .
-- 203.27: an^ in ^uces take dcric'11 oflicc. r
-- 204.16: To sum up: rulcrs have the power of givinK pnvilcgcs so tar . . . as they are confirmed by God. ' . '
+- 203.12: A christian is bound: to take the sure way.
+- 203.17: Giving temporal alms is sure; giving perpetual alms uncertain,
+- 203.23: since it leads to quarrels,
+- 203.27: and induces unfit men to take clerical office.
+- 204.16: To sum up: rulers have the power of giving privileges so far as they are confirmed by God.
 
 ## Notes
 

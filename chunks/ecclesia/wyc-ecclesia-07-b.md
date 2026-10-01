@@ -31,21 +31,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 146.1: 2. The King»s ia8c D subjects obey him everyllnng contrary to
-- 146.3: law.
-- 146.29: This command E trary^to theTaw 01 God'
-- 147.1: 4.81' law pro-
-- 147.1: vides no refuge T 0 . . for debtors or criminals. m° . 7 . .
-- 147.25: it is said that
-- 147.25: 49 Westminster ,. ... .
-- 147.26: a priviiege to shelter all ... . . criminals.
-- 148.1: Such a priviicge 140" F does not go . . . 1 p ; . . beyond the explicit intentions . . . • oi the granfer,
-- 148.8: or thc grant wotild be inval- . 1 . . . id as injnrious to Ood and the 5 } K . ... kingdom. io
-- 148.25: Ail royai grants G must be for the , . . . . .... . good of the people, .... . . . . .
+- 146.29: This command was not so contrary to the law of God.
+- 147.1: God's Jaw provides no refuge for debtors or criminals.
+- 147.25: It is said that Westminster has a privilege to shelter all criminals,
+- 148.1: Such a privilege does not go beyond the explicit intentions of the granter,
+- 148.8: or the grant would be invalid as injurious to God and the kingdom.
 
 ## Notes
 

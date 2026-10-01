@@ -31,28 +31,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 148.1: Such a priviicge 140" F does not go . . . 1 p ; . . beyond the explicit intentions . . . • oi the granfer,
-- 148.8: or thc grant wotild be inval- . 1 . . . id as injnrious to Ood and the 5 } K . ... kingdom. io
-- 148.25: Ail royai grants G must be for the , . . . . .... . good of the people, .... . . . . .
-- 149.1: G 140'' but the grant
-- 149.1: claimed would be simpiy a license to sin. ........
-- 149.15: Therefore the iFgr^nted must be taken con- • • 1 • j- • . • ditionally.
-- 149.24: 3. He who cannot cialmtts
-- 150.1: i^t,1' H
-- 150.10: Thcsc lu^itives were offenders ..... . ' , . . against thc law of God and thc ...... . . . Church;
-- 150.18: and the man slain was the . . „ . , ... tirst to fight in thc Church. . .... . . r . . ...
-- 151.1: There can be no greater dis-
-- 151.2: than
-- 151.2: to withdraw oncseif from thc
-- 151.3: law. ..... . .... . , ..
-- 151.24: The realm cannot stand if thc . . , n . 1 -i • ■ cimrch protects sedition. , ■ . ■ . ,
-- 152.1: The refugees 149° K liad renounced , ,,. . , r . , ,. . their aiicgiancc.
-- 152.14: it is an offence to excommuni- . . . . . . .... ..... catc thc King's withouT^careful
-- 152.27: Pcrsons l authority arc ... . , not to be condcmned for . . . . . .... wrong donc by their subordi- .... . , , . . r nates without 3o tlicir conscnt. . . , .... .
+- 148.25: All royal grants must be for the good of the people,
+- 149.1: but the grant claimed would be simply a license to sin.
+- 149.15: Therefore the privilege even if granted must be taken conditionally.
+- 149.24: 3. He who breaks the law cannot claim its help.
+- 150.10: These fugitives were offenders against the law of God and the Church;
+- 150.18: and the man slain was the first to fight in the Church.
+- 151.1: There can be no greater disobedience than to withdraw oneself from the law.
+- 151.24: The realm cannot stand if the Church protects sedition,
+- 152.1: The refugees had renounced their allegiance.
 
 ## Notes
 

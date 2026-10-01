@@ -43,21 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 32.1: Nor evcn de- 2 F clare tliat he « » is . ^ predestinate.
-- 32.9: God ean give crace otherwise i j j r » i than ihrougii io
-- 32.18: Thc ciimch dom Cnow Vhan "a\v,%ctieevcn th<to the^chiefi" n^dfui^fo s"a°vation.
-- 33.1: Such subjection
-- 33.1: ) would bind mcn o .... . , . . 2 io do impossibi-
-- 33.10: Christians are none the less .... rii i such in the interval between ...... i itwo Popes.
-- 34.7: Th the^Pope6 depends 6n how to God.
-- 35.8: The eariy Chnstians were not ...... . , _ , thus subject to
-- 35.32: 29. Act. IV, 11, 12.
-- 36.5: St. Paui teaches lliat it does not . . mattcr througii whom Faith is . received.
-- 36.25: Those who thus set thcmselves above the apostles, imply that ' \ r they are Christ.
+- 32.9: God can give grace otherwise than through him.
+- 32.18: The Church is in greater freedom now than under the old Jaw, yet even then obedience to the chief priest was not needful to salvation.
+- 33.1: Such subjection would bind men to do impossibilities.
+- 33.10: Christians are none the less such in the interval between two Popes.
+- 34.7: The influence of the Pope depends on how far he is pleasing to God.
+- 35.8: The early Christians were not thus subject to the Pope.
+- 36.5: St. Paul teaches that it does not matter through whom Faith is received.
 
 ## Notes
 

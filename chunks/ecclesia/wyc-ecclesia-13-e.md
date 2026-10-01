@@ -43,20 +43,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 290.1: in the primitivc 160 Church thcre were no foundations, but immcdiate 169 distribution. .... . .
-- 290.20: Quarreis and wars would end if thc Church kept Chrisfs &. . & • m • pnviiege of povcrty. ....
-- 291.1: i6ga
-- 291.11: The Church is disordered when the ciergy cncroaches x 1 uPon, the w0|"k and reward 1 ' assigned byGod to the laity. r * 1 _ '
-- 292.2: Aii thc evils in ihe Church ..... spring 1'rom
-- 292.18: Thc security that comes of ' cndowments is a falsc onc. r r ' /
-- 293.1: N Thc true secur-
-- 293.1: ity depends on ...... . ... . . the promise of Christ who , , commanded l,s not (0 °e ..... . . carefui for these
-- 294.1: i70b N
-- 294.11: This faise o b-ccurilv hindcrs Chrisrs pricsts trom warning the peopic.
+- 290.20: Quarrels and wars would end if the Church kept Christ's privilege of poverty.
+- 291.11: The Church is disordered when the clergy encroaches upon the work and reward assigned by God to the laity.
+- 292.2: All the evils in the Church spring from worldliness.
+- 292.18: The security that comes of endowments is a false one.
+- 293.1: The true security depends on the promise of Christ who commanded us not to be careful for these things.
 
 ## Notes
 

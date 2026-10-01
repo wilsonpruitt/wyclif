@@ -37,23 +37,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 532.2: 2oibK
-- 532.12: l repiy that in the intention is for the man if . , • • he is capable.
-- 532.18: oratur.
-- 532.19: aii prayers Ctheddh°ne^viV
-- 532.21: tyofthlsufiquoad
-- 533.14: Prayers siiouid for thc"souis ih purgatory and . . .. the speciai intention would ....... . ... profit no less.
-- 533.24: As to the example I say .. . . _ . . .
-- 533.25: 20 that Trajan
-- 533.25: was predestined _ . . . , . . to be saved by tne intercession ,. , . . „ . , , • of Gregory.
-- 534.4: Men may bo wc"jud'ge To °b" OUtSlde'
-- 534.18: it may berighttus. aIkrwhataGod wiil not
-- 535.3: Prayer may profit those for .. whose intention it was not made. ... ,.. .
-- 535.26: pun!shes°the damned , . . . ., mercifuiiy,
+- 533.14: Prayers should be said generally for the souls in purgatory and the special intention would profit no less.
+- 533.24: As to the example I say that Trajan was predestined to be saved by the intercession of Gregory.
+- 534.4: Men may be Catholics whom we judge to be outside.
+- 534.18: It may be right for a man to ask what God will not grant.
 
 ## Notes
 

@@ -37,25 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 441.7: The Church was from the . . first in grace, but received a ..... . r . . . new giory at the crucifixion. . . .... r . .
-- 441.27: whether the hoid^oVders "nd °ffchurch.,he
-- 442.1: iSq"1
-- 442.18: None such is officerVthe ^^'duty^oF wXnrth! Church.
-- 442.26: God uses the B
-- 442.27: W1Cgoodd.f°r
-- 443.1: i8r)d
-- 443.26: The ditficuity is whether jhe ... . . toreknown have (carac™?) of orders. ... ..... . ,. .
-- 444.6: Predcstinate and foreknown ..... , • j i lm: havc the stamp in dilfercnt .... ... , ways.
-- 445.3: Various senses in which the . r . "stamp" is spoken of. r r . . - r . ,
-- 445.16: The "stamp" ot 'ilTa^white*16 sn°e"v rTamet foreknown TeMt°flhe an Jmporai the
-- 445.22: 3 mllrking
-- 445.23: for ^ffj"^0™1
-- 445.31: some 0fnces
-- 445.32: Treteinporai!1
+- 441.27: Whether the foreknown hold orders and offices in the Church.
+- 442.18: None such is a part or officer of the Church, but he has a duty of ministering within the Church.
+- 442.26: God uses the wicked for good.
+- 443.26: The difficulty is whether the foreknown have "stamp" (caracter) of orders.
+- 444.6: Predestinate and foreknown have the stamp in different ways.
+- 445.3: Various senses in which the "stamp" is spoken of.
+- 445.16: The "stamp" of the predestinate is a white stone with a new name: of the foreknown the mark of the beast; and there is the temporal "stamp" marking for a temporal office.
 
 ## Notes
 

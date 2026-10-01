@@ -31,31 +31,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 60.5: Othersreceiveitmembra but fall away. . . ... , _ ,. . Atiiirdsortaitcr falling away „, return. The fourth class , , . rcceive and hold
-- 60.9: to it.
-- 60.11: Christ is specially the saviour ., . . - , ,. . . . , of the third and fourth ciass.
-- 60.16: Answer to
-- 60.17: jectiorf^Christ is a suflicient •• • • • • j- • .• • propitiation for have^naturaiiy may avail them- 2o seivcs ot n,
-- 60.26: hut they need SCCOIChrist,th in
-- 60.32: 32. Cf. p. 4. 1. 23.
-- 61.2: which those have not who ..... . . . are in the Church but not . r , ,. .
-- 61.4: 0f it.
-- 61.14: These the Church cannot ... . digest,
-- 62.1: i36dO
-- 62.4: ice they want 6 charity. °
-- 62.34: 33. II Joh. 9.
-- 63.4: Three classes who are not , ... . . . .
-- 63.5: 5 members of tiie
-- 63.6: Church n . . . . . , • • • i. imideis 2- Pricsts who . • , , ,• • maUeprofession for the sake of ... ... ... weaith. 3. Thosc who - . . . „. have tasted of divine grace but ,. , ..
-- 63.10: 3 lacu imai perse-
-- 63.10: vcrnncc.
-- 63.22: aii men are not believers in the , . ~ ,. Scripture sense.
-- 64.11: Why thc dove Q symbol
-- 64.12: thc Hoiy Spirit.
+- 60.11: Christ is specially the saviour of the third and fourth class.
+- 60.16: Answer to the second objection: Christ is a Sufficient propitiation for all men, who have naturally free will and may avail themselves of it;
+- 60.26: but they need a second birth in Christ,
+- 61.2: which those have not who are in the Church but not of it.
+- 61.14: These the Church cannot digest,
+- 62.4: since they want the warmth of charity.
+- 63.4: Three classes who are not members of the Church 1. Infidels 2. Priests who make profession for the sake of wealth. 3. Those who have tasted of divine grace but lack final perseverance.
+- 63.22: All men are not believers in the Scripture sense.
 
 ## Notes
 

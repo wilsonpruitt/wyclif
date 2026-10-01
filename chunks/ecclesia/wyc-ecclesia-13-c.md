@@ -37,33 +37,21 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 283.1: 1684 it is objected
-- 283.1: that tliere wcre ... perpemai foundation under . the o. T.
-- 283.11: Answer: These wcre ... . . . ordained by
-- 283.21: b wno couid and
-- 283.22: 1 them;raW
-- 283.28: and do not authorise ..... human foundations exempt . . .. fromreguiation.
-- 284.6: Thc clergy the O. T. was . _ ° limited as to wliat it might ..... receive.
-- 284.22: Much more ciergyV Christ set an example . . .. ... .. . . v of unworid-
-- 285.13: 2. it is objected that tlie more !• 1 !■ .a) nle a|llls> t|lc
-- 285.15: iS 8rcharitv,ie
-- 285.19: that a]ms "none beuer'0 1 c"ergy!
-- 285.30: Answer: atas^are riginiy dllccted>
-- 286.2: but merit docs not dipcnd whoiiv on thc amoum giveri . but on thc spint I giver.
-- 286.13: Aims nmst be s,vcn ... .
-- 286.15: 1. to thc poor, i5 2. as a servicc to God,
-- 286.18: 3. wiihout thought ot r r ' woridiy reward.
-- 286.29: The founder of perpetual alms . . usually faiis in all three points
-- 287.1: H n'>9b
-- 287.21: Th ose who live without pro- ... .... . perty give aims
-- 287.22: best. . . . .. . ,
-- 287.29: The wonh of alms does not ,. .. tt 1 1 • £• 1 1
-- 287.30: 3o depend on their
-- 287.31: amount. , ,. . . ,. . ,
+- 283.1: It is objected that there were perpetual foundation under the O. T.
+- 283.11: Answer: These were ordained by God,
+- 283.21: who could and did withdraw them;
+- 283.28: and do not authorise human foundations exempt from regulation.
+- 284.6: The clergy of the O. T. was limited as to what it might receive.
+- 284.22: Much more should the clergy of Christ set an example of unworldliness.
+- 285.13: 2. It is objected a) that the more the alms, the greater the charity,
+- 285.19: b) that alms can be given to none better than to the clergy.
+- 285.30: Answer: a) True, if the alms are rightly directed;
+- 286.2: but merit does not depend wholly on the amount given but on the spirit of the giver.
+- 286.13: Alms must be given
+- 286.15: 1. to the poor,
+- 286.16: 2. as a service to God,
+- 286.18: 3. without thought of worldly reward.
+- 286.29: The founder of perpetual alms usually fails in all three points.
 
 ## Notes
 

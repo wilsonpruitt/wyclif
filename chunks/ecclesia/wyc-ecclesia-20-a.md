@@ -31,25 +31,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 471.4: Preiates should be removable ... ...... r .. . . for bad behaviour. . T . ...
-- 471.14: This discussion should lead to ... . . . knowiedge of Scripture, .... . . . especiaiiy the Apocalypse, the , , • ■ r- 1 f j !• -i 1 • • . Song ot the Church (Prov. ... , .... .. ... , . xxxi) and the Canticles. , . _ . . .. T, . .
-- 472.11: a short expoSong°of tbe vlrtuous woman. , ,.a r ,
-- 472.21: it is in three a) teffing of ttae therchurch0t b) of its office . . . . , , c) of its praise.
-- 473.1: iq3* Verse 10.
-- 473.1: By thc virluous . woman we understand tlie . . . . Church.
-- 473.11: ciu-ist i.as part inthemaking . . 5 . of his spouse, as Adam of ..... . Eve.
-- 474.19: The Church is £l *?»eKf^.s=e»
-- 474.21: destinationTof her members,
-- 475.4: which m.ikcs 'lcr 'ove t0 tllc r . .. . . . , r i-i ■ ■
-- 475.5: end.
-- 475.23: 3 iu4b
-- 475.24: Verse «. I «e nusband's , . ~ ,. , . , .
-- 475.25: 35 trust in his
-- 475.31: A: desidcria.
+- 471.14: This discussion should lead to knowledge of Scripture, especially the Apocalypse, the Song of the Church (Prov. XXXI) and the Canticles.
+- 472.11: A short exposition of the Song of the virtuous woman.
+- 472.21: It is in three parts: a) telling of the marriage of the Church b) of its office c) of its praise.
+- 473.1: Verse Io. By the virtuous woman we understand the Church.
+- 473.11: Christ has part in the making of his spouse, as Adam of Eve.
+- 474.19: The Church is fit to espouse Christ because of the predestination of her members,
+- 475.4: which makes her love to the end.
+- 475.24: Verse II. The husband's trust in his spouse.
 
 ## Notes
 

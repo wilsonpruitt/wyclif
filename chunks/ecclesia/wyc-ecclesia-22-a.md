@@ -31,23 +31,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 517.6: The morai laws of the O. T. ...... ....... . are binding,
-- 517.15: and we assert them tor our . ..... . tithes.
-- 517.28: T|1C f th o^Hostten^f11'
-- 518.1: What the igoc A teaching of . , -. .. ..... ... Hostiensis He rrecnesS'two cpposed views; . . . .... „ . .,
-- 518.10: a) of the theologanis, . b) ot the canonists, . , . ,. . . ,
-- 519.1: :qc)r
-- 519.6: 99" and deciares
-- 519.6: himselt unable ... .. ,. _, TT to decide;
+- 517.28: The fourth false quotation, of Hostiensis.
+- 518.1: What the teaching of Hostiensis really is. He recites two opposed views;
+- 518.10: a) of the theologanis, b) of the canonists,
+- 519.6: and declares himself unable to decide;
 - 519.11: but leans to the theologians.
-- 519.26: The doctor is 1 "h^vc "laughed at him'
-- 520.4: 1 have ihe nrecedcnt of ... , . j . r> i EMjah;
-- 520.15: and, like Eiijah, i5 I challenge my . opponent to shew the . ... Divine sanction for his teaching, . . , ....
-- 520.23: for God never approves hes.
+- 519.26: The doctor is angry because I have laughed at him.
+- 520.4: I have the precedent of Elijah;
 
 ## Notes
 

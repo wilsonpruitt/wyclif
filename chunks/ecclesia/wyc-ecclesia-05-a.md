@@ -55,35 +55,21 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 92.7: Objectipn: ^ ciuircifrs^commonly under- .. , ., • • , ... , stood of the Pope and Car- .. ,-. . • . ,,. .. • ... dmais.
-- 92.15: whv may not i5 Church" mean thbody0ot°thaeny taithfui.
-- 92.19: Answcr: various used scs
-- 93.1: commoniy in too low a r 0 , 7 . scnse
-- 93.10: asofllniversities. ' 1
-- 93.13: i4lh
-- 93.14: .'Many d° not know how creat 1 r ' tne Church is.
-- 93.20: And somcmadmen thinl; tnat 1 °"'y thc'r. subjects are 111 the ' 1 _
-- 93.22: faitl1-
-- 93.29: ^e mcan the Churcli truly 1
-- 93.30: 3o universai
-- 94.1: i4ib
-- 94.4: CardinaUPemay "t^hCTrtfle1 rigtitiy.
-- 94.10: can be'itshead-
-- 94.16: tooffera model, ot spintual and ' Becuiar rule.
-- 94.22: TtoerufePoniyS spirituaiiy.
-- 95.2: i4lCa T,h(? ?mperor's
-- 95.2: mdependent oyhe
-- 95.15: i5 Preiatesdemand
-- 95.15: nndue honours. ..... . . .
-- 96.1: be^heacf ofufe 141 meanine'the thaMTui^eMiis
-- 96.4: ruie.
-- 96.20: Xne^Church D
-- 96.21: militant^and is notonifbody S'are s^arate?8
-- 96.26: Scptratlonis bar to umty.
+- 92.7: Objection: The Roman Church is commonly understood of the Pope and Cardinals.
+- 92.15: Why may not "the whole Church" mean the whole of any body of the faithful.
+- 92.19: Answer: Whole is used in various senses
+- 93.1: and commonly in too low a sense
+- 93.10: as of Universities.
+- 93.14: Many do not know how great the Church is.
+- 93.20: And some madmen think that only their subjects are in the faith.
+- 93.29: We mean the Church truly universal
+- 94.4: which Pope and Cardinals may represent if they rule rightly.
+- 94.10: But only Christ can be its head;
+- 94.16: to offer a model, of spiritual and secular rule.
+- 94.22: The Pope has to rule only spiritually.
+- 95.2: The emperor's rule is independent of the pope.
+- 95.15: Prelates demand undue honours.
+- 96.1: The Pope may be head of the Church, as meaning the militant Church that is under his rule.
 
 ## Notes
 

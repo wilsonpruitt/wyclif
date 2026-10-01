@@ -37,25 +37,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 152.1: The refugees 149° K liad renounced , ,,. . , r . , ,. . their aiicgiancc.
-- 152.14: it is an offence to excommuni- . . . . . . .... ..... catc thc King's withouT^careful
-- 152.27: Pcrsons l authority arc ... . , not to be condcmned for . . . . . .... wrong donc by their subordi- .... . , , . . r nates without 3o tlicir conscnt. . . , .... .
-- 153.10: Excommunication is unjust . i. if inflicted from spitc, ..... r-. i
-- 153.12: 2 2. from avarice
-- 153.15: 3 3. if undeserved
-- 153.25: unjust cscom. m^"rse thanS
-- 154.15: Men want to .5 know why the * wicked cicrny ,5Q« are not excom- ... . . . municated.
-- 155.6: b The ruies as to
-- 155.6: relations with r ' r ° . b . excommunicated persons are .
-- 155.8: bad.
-- 155.28: 0 No such re-
-- 155.29: "us exceptSa s a"ime.' 1C
-- 156.3: Thc Prdates' privilege ot im- . prisoning excommunicatcd persons shouid i5ob be taken away, ... . . . r .
-- 156.23: or aiiowed oniy attcr Iay tnal. ' t
+- 152.14: It is an offence to excommunicate the King's servants without careful enquiry.
+- 152.27: Persons in authority are not to be condemned for wrong done by their subordinates without their consent.
+- 153.10: Excommunication is unjust: 1. if inflicted from spite, 2. from avarice;
+- 153.15: 3. if undeserved.
+- 153.25: Unjust excommunication is worse than murder.
+- 154.15: Men want to know why the wicked clergy are not excommunicated.
+- 155.6: The rules as to relations with excommunicated persons are bad.
+- 155.28: No such relation is dangerous except a share in the crime.
+- 156.3: The Prelates' privilege of imprisoning excommunicated persons should be taken away,
 
 ## Notes
 

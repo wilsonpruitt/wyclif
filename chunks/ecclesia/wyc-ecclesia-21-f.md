@@ -55,32 +55,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 510.9: b) as a rank GoTtodeHcs for ministering ... . j»_ sacramentaiiy;
-- 510.22: and snch orders are m e s
-- 510.27: c;asthe sensibie 3 Q
-- 510.28: ordfn^on1 by the bishop.
-- 511.4: i gS'1
-- 511.5: God gives the Bsacrament unless hindered cll • i ..... . . ,. . by unworthiness >n the recipient. j. ttj * i_ m.' i"
-- 511.18: The purpose of ordination is
-- 511.20: 20 'nnworthy
-- 511.21: Preten ers<
-- 511.26: as outward
-- 511.27: confe^red^by biuTare finafly one, so spirituai ord ers arc such
-- 511.30: 3o p0wers as are
-- 511.31: gradually or at j. - ., • . ,0ncc Riven by
-- 512.1: k,h"R
-- 512.2: who aiso fiivcs a power which . .... • • t-v makes the ministration of . the ordained elfcctual. _ . . ........
-- 512.11: This variety characters is * . . . . dcciared in Scnpturc.
-- 513.6: Every cieric has a duty ..... ~ assigned by God according . ..... r~ .. . . to his degree,
+- 510.27: c) as the sensible sacrament of ordination by the bishop.
+- 511.5: God gives the grace of the sacrament unless hindered by unworthiness in the recipient.
+- 511.18: The purpose of formal ordination is to exclude unworthy pretenders.
+- 511.26: As outward orders are conferred by several rites, but are finally one, so spiritual orders are such powers as are gradually or at once given by God;
+- 512.2: who also gives a power which makes the ministration of the ordained effectual.
+- 512.11: This variety of characters is declared in Scripture.
+- 513.6: Every cleric has a duty assigned by God according to his degree,
 - 513.12: and this is what I call his "character".
-- 513.22: Thereare seven theyaii combine to make one .... . . . . order.
-- 514.1: Ordination to the priesthood power of perforraing ministrations.
-- 514.20: As the various combined m one, so the grace of each sacrament with the rest.
-- 514.31: We are apt to attend loo much to the outward sign.
+- 513.22: There are seven orders, but they all combine to make one order.
+- 514.1: Ordination to the priesthood confers the power of performing all spiritual ministrations.
+- 514.20: As the various orders are combined in one, so the grace of each sacrament combines with the rest.
+- 514.31: We are apt to attend too much to the outward sign.
 
 ## Notes
 

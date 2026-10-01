@@ -55,27 +55,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 126.1: A sood bishop 146* remains after . . . death patron of his (local) ... ..... Church.
-- 126.14: a difticuity: Whcther before . . the incarnation the Word was . _. . . . the man Chnst Jcsus. Yes ; for ..... . he was so both ideally and . . . . . .... potentiaiiy.
-- 126.24: Confirmation: In the three , . . _ . days the body to which he was - , afterwardsunited was his. ,. . , , - .,,
-- 127.1: L Coniiimation :
-- 127.1: Otherwise the . Church must have been headiess.
-- 127.10: Repiy. The fathers of , , o. T. believed in the incarnation,
-- 127.19: so far that Chnst would ' , °
-- 127.20: 20 be man in due
-- 128.1: We must be 146 carefu! to dis- . . tinguish between potential . . .. . . . and actuai being. . ..... .
-- 128.10: Christ assumcd the human _,. . ..... body with the soul. He had . the soui in ihe three days but not in D. T. times. j ~, • • .
-- 128.18: The Church would not be . D . , headiess, for the word was 1 ... »aiways its head, but m another ... . way since the incarnation. ... . ' .
-- 129.12: w? ^houid" not know t0, w|i°m to pay nonour r r or even debt-
-- 129.18: as to ho^ouring musffudge
-- 129.20: 20 li^ks. "
-- 129.25: 25 frevaiiing
-- 129.25: abuses. r 7 r
-- 130.18: A cure is wanted for the . . . . . . , ... . eviis of extortion which in- . fest the ciiurch.
+- 126.14: A difficulty: Whether before the incarnation the Word was the man Christ Jesus. Yes; for he was so both ideally and potentially.
+- 126.24: Confirmation: In the three days the body to which he was afterwards united was his.
+- 127.1: Confirmation: Otherwise the Church must have been headless.
+- 127.10: Reply. The fathers of the O. T. believed in the incarnation,
+- 127.19: so far that Christ would be man in due time.
+- 128.1: We must be careful to distinguish between potential and actual being.
+- 128.10: Christ assumed the human body with the soul. He had the soul in the three days but not in O. T. times.
+- 128.18: The Church would not be headless, for the word was always its head, but in another way since the incarnation.
+- 129.12: Objection: We should not know to whom to pay honour or even debt.
+- 129.18: Answer: As to honouring prelates we must judge them by their works.
+- 129.25: Prevailing abuses.
 
 ## Notes
 

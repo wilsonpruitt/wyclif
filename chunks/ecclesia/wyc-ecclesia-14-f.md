@@ -31,20 +31,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 318.3: non assero.
-- 318.4: who was very mild in his ex- . .... t . .. pressions.
-- 318.27: au ceremonies should likewise . \ be grounded in Scripture. 111*1
-- 319.11: Scriptural authonties for .. r . . ..... . f the true iaw of endowment . ... , . r
-- 319.30: Objection: Rule is a per- c /-1 • 1 -i 1 • fection and so belongs to the 1 c ..... more perfect Part 01 ,llt: ... • r j- /~<i • • cimrch.
-- 321.1: Extravagant rights of rulc ... , , , are often claimed for .... . .. priests.
-- 321.12: aii civii rule smacks of sin. . ,. ,
-- 322.5: Silvester accepted alms, ... . . . not civii authorily, . . .
-- 322.15: which wouid i5 have been in- . . consistent witli liis orders. ... .
-- 322.25: Christ bade cler^y be subject to princes.
+- 318.27: All ceremonies should likewise be grounded in Scripture.
+- 319.11: Scriptural authorities for the true law of endowment
+- 319.30: Objection: 3. Rule is a perfection and so belongs to the more perfect part of the Church.
+- 321.1: Extravagant rights of rule are often claimed for priests.
+- 321.12: All civil rule smacks of sin.
 
 ## Notes
 

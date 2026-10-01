@@ -35,20 +35,9 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 1.1: Fol.
-- 1.2: Cliurch patn0,i<i be
-- 1.2: may
-- 1.3: recognized by the fatthful 1 ' How jt may be known.
-- 2.6: Belief in thc Catholic Church , ...... is an anicie in both crceds. 1 7 p . .
-- 2.25: itshebestUknown whoare predescimrch iTthe S1ciirist0t
-- 3.14: H cTrnins' the""
-- 3.15: SmeSateiy°on
-- 3.16: a tSe^jloWSpirit
-- 3.23: Ncheurch'con°ly
+- 1.2: The Catholic Church may be recognized by the faithful How it may be known.
+- 2.6: Belief in the Catholic Church is an article in both creeds.
+- 2.25: The Church in its best known sense means all who are predestinate. This Church is the spouse of Christ.
 
 ## Notes
 

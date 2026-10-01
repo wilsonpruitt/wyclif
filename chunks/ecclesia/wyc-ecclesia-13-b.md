@@ -55,23 +55,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 278.15: Many perpetual i5 aims are givcn .... ... ... without conditions as to the ... ....... . . character of the grantee. , , . „.
-- 279.1: C Suchconditions
-- 279.1: must be always . . understood, but would be .... . ... . . . .... better cxpress-
-- 279.28: Temporary prob^biyendure thos^clned perpetuai.
-- 280.11: Thc «ivcr's cxample would ,. ., ... . ... bc toifowcd and thc succession . 1 j • r of gifts kept up.
-- 280.27: An heir is bound to , . , . approve of his ancestor's gifts. . . . . .
-- 281.1: Di68bEt
-- 281.9: cod ordains all good works ... ... . to be done of free will. .... . . . . . . .
-- 281.16: (I must not be meanPthat lords should cease . . . their payments to tlie Cliurch.)
-- 282.1: The i'opc has io8c E no power to . . . . enforce paymcnts from tlic .
-- 282.3: Kinfi,
-- 282.16: but the King 1'ound to con- .... . .. rr ii.iuc iiis anccstorsams,
-- 282.26: though he maj Viirv tticir application.
+- 279.1: Such conditions must be always understood, but would be better expressed.
+- 279.28: Temporary alms would probably endure longer than those called perpetual.
+- 280.11: The giver's example would be followed and the succession of gifts kept up.
+- 280.27: An heir is not bound to approve of his ancestor's gifts.
+- 281.9: God ordains all good works to be done of free will.
+- 281.16: (I must not be supposed to mean that lords should cease their payments to the Church.)
+- 282.1: The Pope has no power to enforce payments from the King,
+- 282.16: but the King is bound to continue his ancestor's alms,
+- 282.26: though he may vary their application.
 
 ## Notes
 

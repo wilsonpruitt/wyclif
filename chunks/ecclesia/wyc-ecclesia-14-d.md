@@ -49,24 +49,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 310.1: How ecclesiasti- 172' cal rulegrewup. . . .
-- 310.14: St. Thomas died to main- ..... ... , . . . , tain the right rebuking kings ... . . ... ....... _ and enforcing discinline in the , „ . . clergy.
-- 310.30: Objection: All things be- . .. . . . . long to Christ and ne has givcn . ■ t-> • • •• . aii to ins vicars.
-- 311.1: Answer: 11 1S true that .N . . . i- / i tiie righteous have all things, r-. ,„„ . . but to use them service.
-- 311.26: Objection: i- All tnings are . , . . . , . Chrisfs,
-- 312.1: tnj* i
-- 312.7: tiicrcforc his chicf followers . . ° . ..... have a special riyht to posses- , . . ...
-- 312.9: sion.
-- 312.14: Answer: This also is truc: ,3
-- 313.4: but that speciai possession . . .... ... . .
-- 313.5: 5 binds them aii
-- 313.5: the more lo use . ~ . . r... and not to abuse. ... , .
-- 313.30: Obiection: botli king and Popefshouid be thc same. • •■1 • , . ■
-- 314.10: Answer: io Christ had r ... rights which he did not give lo . ... . . Peter.
+- 310.30: Objection: All things belong to Christ and he has given all to his vicars.
+- 311.1: Answer: It is true that the righteous have all things, but to use them in Christ's service.
+- 311.26: Objection: 1. All things are Christ's,
+- 312.7: therefore his chief followers have a special right to possession.
+- 312.14: Answer: This also is true;
+- 313.4: but that special possession binds them all the more to use and not to abuse.
+- 313.30: Objection: 2. Christ was both king and priest, so the Popes should be the same.
+- 314.10: Answer: Christ had rights which he did not give to Peter.
 
 ## Notes
 

@@ -37,25 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 224.3: 2. a waster of fields, . .
-- 224.6: 3. an cscaped slave, , . . .... .. .
-- 224.9: nomicide.
-- 224.14: The 5"- excep- e Q lion applies 10 _ , _ _ _ iheWesiminster i5
-- 225.1: Q lt')0"
-- 225.5: should cimrch regard to the cnme, not to " ' the place where it was com- 1 miited.
-- 225.27: i6ob
-- 226.3: Thc civii withdraws . . from sanctuary tliose guilty of , homicide, aduitery and rape. ......
-- 226.12: aii oiiendcrs are so far unlit ... . . to be shicided by the Church; . . B ... a) because hc a who has . brokcn a law cannot claim the . . . . benefit of it;
-- 226.21: b) Chrisfs b is an adversarv . . . to thc sinner-
-- 226.30: c) in remaining c wicked the , . .... refugee abuses the privilege . . . and so torfeits
-- 227.1: R The privilege is
-- 227.2: twofold: to the ... ... f ., . . . , . . .... . . inhabitants of the place and f. .... ...... . to the fugitive, who forieits it, - .. . .... ,. , , ... .. if he is un-
-- 227.18: i6oc
-- 227.20: The real use of the privilege. . . . .
+- 224.14: The 5th exception applies to the Westminster case.
+- 225.5: The Church should have regard to the crime, not to the place where it was committed.
+- 226.3: The civil law withdraws from sanctuary those guilty of homicide, adultery and rape.
+- 226.12: All offenders are so far unfit to be shielded by the Church; a) because he who has broken a law cannot claim the benefit of it;
+- 226.21: b) Christ's law is an adversary to the sinner;
+- 226.30: c) in remaining wicked the refugee abuses the privilege and so forfeits it.
+- 227.1: The privilege is twofold: to the inhabitants of the place and to the fugitive, who forfeits it, if he is ungrateful.
 
 ## Notes
 

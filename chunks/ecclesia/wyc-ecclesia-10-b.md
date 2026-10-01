@@ -37,26 +37,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 207.1: Bb it is argued that - thcsc fjrants c . « . 1 ^7' may reasonably
-- 207.2: bc madc: . , . 1. because ali that tcnds to i .. „ . . . .. mercy isiawfui;
-- 207.16: - bj ihc parabie ol thc wicked ' servant, which shows ihat debt shouid be forSiven; , . ,. • o • •
-- 207.31: C 5 by the
-- 207.32: Sabbathicalyear . of the oid Law.
-- 208.5: Christ aiso teaclics us to be ... . . mercifui;
-- 209.3: and we are to follow the New Testamem rather than the . , .
-- 209.5: 5 Old.
-- 209.18: The duty of forgiveness does ..... .. , , . nothing to support a mischiev- , ., , . ., . ., .
-- 209.20: 20 ous priviiege.
-- 210.5: otherwisc aii offences ought to be forgiven-. i58 out of sanctuary . as weii as in.
-- 210.17: Remissiqn is of two kinds: ., „ . , , . ... , . . . a) of the spiritual debt; and . . .. .... . . . , , , this must be left
-- 210.25: b) of the material debt; ... _ . . , . . ... which a man may forgive yet ... . .. „ , leave to be cxactcd bv tlic •
-- 210.28: law.
-- 210.31: 23. Cap. XV.
-- 211.4: Forgiveness does not bar 1 _ 1 request for pumshment; 1 #
+- 207.1: It is argued that these grants may reasonably be made: 1. because all that tends to mercy is lawful;
+- 207.16: 2. by the parable of the wicked servant, which shows that debt should be forgiven;
+- 207.31: 3. by the Sabbathical year of the old Law.
+- 208.5: Christ also teaches us to be merciful;
+- 209.3: and we are to follow the New Testament rather than the Old.
+- 209.18: The duty of forgiveness does nothing to support a mischievous privilege.
+- 210.5: Otherwise all offences ought to be forgiven: out of sanctuary as well as in.
+- 210.17: Remission is of two kinds: a) of the spiritual debt: and this must be left to God;
+- 210.25: b) of the material debt; which a man may forgive yet leave to be exacted by the law.
+- 211.4: Forgiveness does not bar a request for punishment;
 
 ## Notes
 

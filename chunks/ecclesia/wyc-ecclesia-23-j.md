@@ -25,26 +25,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 576.1: The power of 2o6e
-- 576.2: pMes^hepow^rlicenciam of mduigence.
-- 576.19: The laity Q 8toethedclSM
-- 577.5: God may pardon ratner _ . . . . the instance of a layman . . _ thanofa wicked
-- 577.31: If remission depends ou ... . , , worthmess, bulls are super- ..... . . . . fiuous.
-- 578.13: Even Peter could bind and ioose oniy in Goa's wiii, i5
-- 578.28: which he knew
-- 578.29: inspiration.
-- 579.1: R 207" St. ihomas
-- 579.1: . enumerates ' ... four opinions as to tlie value of induigences.
-- 579.5: The first makes them a pious r fraud,
-- 579.12: and te^to be
-- 580.10: The otiier three agree that their * . . vaiue depends on their being rightiy given.
-- 580.18: St. Thomas says that it . *. j.p^nds on the araount of ... mcrit appiied to
-- 580.20: tliem. ..
-- 580.28: This does not account for r 1 ... different arbitrarily D . ,. assigned to in- 3o dulgences. .
+- 576.19: The laity may give indulgence to the clergy.
+- 577.5: God may pardon rather at the instance of a layman than of a wicked prelate.
+- 577.31: If remission depends on worthiness, bulls are superfluous.
+- 578.13: Even Peter could bind and loose only in accordance with Goa's will,
+- 578.28: which he knew by divine inspiration.
+- 579.1: St. Thomas enumerates four opinions as to the value of indulgences.
+- 579.5: The first makes them a pious fraud,
+- 579.12: and is to be rejected.
 
 ## Notes
 

@@ -37,26 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 584.1: 4. And so as the bishop's ... ? , . . instruction has 2°7C fitted him. V . . . .. .
-- 584.6: 5. Priests no power to .... pive mduigence for a specified . ..... - , time uniess by revelation.
-- 584.17: 6. Chrisfs raay not give _ . _ . ... induigences of days or years. ...
-- 584.23: 7. The bishops 7 Y should be 1 . carefui to teach this to their _ fiocks.
-- 585.1: Y 8. Priests
-- 585.1: (unless by 0 .
-- 585.2: 2070 speciai reve-
-- 585.3: lation) ought r , not to give unconditional absoiution.
-- 585.18: sacrament ot penance ts r needfui though useless 1 1 '
-- 585.20: 207d without con-
-- 585.20: tntion. ' r
-- 586.1: Sin lasis as 2oid long as •iT • punishment.
-- 586.18: For aii sin there is an appointed . ,. . . ~ punishment, with which God , ... cannot dispense.
-- 586.31: Howthebiessed gain reward for . .• ..... themseives and others, ..... , .
-- 587.1: Z 207'1 and ihe souis
-- 587.1: iti purgatory for , . ■ r themselves.
+- 584.23: 7. The bishops should be careful to teach this to their flocks.
+- 585.1: 8. Priests (unless by special revelation) ought not to give unconditional absolution.
+- 585.18: The sacrament of penance is needful though useless without contrition.
+- 586.1: Sin lasts as long as punishment.
+- 586.18: For all sin there is an appointed punishment, with which God cannot dispense.
+- 586.31: How the blessed gain reward for themselves and others,
+- 587.1: and the souls in purgatory for themselves.
 
 ## Notes
 

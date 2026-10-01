@@ -31,28 +31,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 506.1: in cithercasc ho is valuclcss as ..... . , au authority.
-- 506.31: ig8b
-- 507.1: Again my opponentquotes J ..... st. Thomas wno 's a's° . ... . . adverse to him.
-- 507.20: Tiiese doctors are alleged . . against me, but 1 do not admit ■ 1 1 ■• ■ • their authority.
-- 508.7: The "stamp" or character is . not a thiog, bui a rclation. , * Evcry rank has lts character. .....
-- 508.21: Yot three sacramcnts: . ... baptism, and orders imprint thc ...... rr . . , . .... . character in a spccial way. r , . .
-- 509.1: 3 nifficuhies as
-- 509.2: t0 tnC Srad°s Ob • ¥-1
-- 509.2: 9° of orders.
-- 509.13: Either aii orders are .... . r .... idcnticai, or
-- 509.15: =. there are . . ,. , r ,
-- 509.15: numerous orders speci- . .... ficaiiy distinct.
-- 509.25: 2 i think
-- 509.26: orders mav be , .. ... ... . taken in tfiree a) as trie position which . . ,. . . . ~ . God assigns to MC "nB
-- 510.9: b) as a rank GoTtodeHcs for ministering ... . j»_ sacramentaiiy;
-- 510.22: and snch orders are m e s
-- 510.27: c;asthe sensibie 3 Q
-- 510.28: ordfn^on1 by the bishop.
+- 507.1: Again my opponent quotes St. Thomas who is also adverse to him.
+- 507.20: These doctors are alleged against me, but I do not admit their authority.
+- 508.7: The "stamp" or character is not a thing, but a relation. Every rank has its character.
+- 508.21: Yet three sacraments: baptism, confirmation and orders imprint the character in a special way.
+- 509.1: Difficulties as to the grades of orders.
+- 509.13: Either all orders are identical, or there are numerous orders specifically distinct.
+- 509.25: I think orders may be taken in three senses; a) as the position which God assigns to each thing.
+- 510.9: b) as a rank assigned by God to clerics for ministering sacramentally;
+- 510.22: and such orders are in the soul.
 
 ## Notes
 

@@ -43,31 +43,19 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 112.10: Erroneous de- S fmition 01 the Church as the 144 multitude of ' n ' . Christians who keep whole the true taith.
-- 112.20: This definition excludes the n ^ . . o. T. Saints
-- 112.31: ahfmserfSt
-- 113.4: so thathewouid not be the head of the Church.
-- 113.13: 3 The mass of
-- 113.13: Christians * x . .
-- 113.14: iS never keeps
-- 113.14: thc faith quite whoie.
-- 113.26: T The aposties
-- 113.27: would be out , . . n , r . ~, . of the Church, with all who , ,. , . ., . lived before
-- 113.29: , general Coun- ,-, , , . - . .. . ...
-- 113.29: ciis had deciarcd the faith. . XT r • 1 , .
-- 114.13: birtli would and aiways making a new Church.
-- 114.23: The Church would mclude ^ * r all the toreknown m present grace and exclude r aii predestirate who were tn ^ error.
-- 114.31: There wouid be no Church /. . 1 .... ,. . r _ . triumphant.
-- 115.1: The Cathoiic Church would 1 ....
-- 115.2: 44b be nothing.
-- 115.5: opinions
-- 115.5: really tollow fromthepremisses.
-- 115.13: There wouid be no single 7 rr 0 ' h5?^ *gh™e
-- 115.23: WJU^ cjh)"e'chan that attributes Scnpture assigns to her.
+- 112.10: Erroneous definition of the Church as the multitude of Christians who keep whole the true faith.
+- 112.20: This definition excludes the O. T. Saints
+- 112.31: and Christ himself,
+- 113.4: so that he would not be the head of the Church.
+- 113.13: The mass of Christians never keeps the faith quite whole.
+- 113.26: The apostles would be out of the Church, with all who lived before general Councils had declared the faith.
+- 114.13: Death and birth would be always making a new Church.
+- 114.23: The Church would include all the foreknown in present grace and exclude all predestinate who were in error.
+- 114.31: There would be no Church triumphant.
+- 115.1: The Catholic Church would be nothing.
+- 115.5: These opinions really follow from the premisses.
+- 115.13: There would be no single head to the Church.
+- 115.23: The Church would lose all the attributes that Scripture assigns to her.
 
 ## Notes
 

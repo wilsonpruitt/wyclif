@@ -31,31 +31,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 164.18: i5ic
-- 164.21: Augustinc does not praise the , . ..... r Epyptian midwives for lying. , .. ... . .
-- 165.14: aiiow lying on behalf of the . . .... .... . churcn wouid make her advo- ..... . . .c , catcssuspected;
-- 165.35: 16. A: sint in casu.
-- 166.1: i5ic F
-- 166.10: i5id
-- 166.20: and ihrow doubt 011 all 1 t _ r , her rights and prmlcges. . .... .
-- 167.1: G 1 5id
-- 167.9: Christ spoke trutli withuut . .. ....
-- 167.10: 10 regard to his
-- 167.11: reputalion.
-- 167.18: aii iaws made for the bcnefit . ..... . of the cimrch mny be called 1 ... . ...
-- 167.20: 20 priviieges, as
-- 167.21: being in some • r -i degree private laws. . .
-- 167.29: xhe universal
-- 167.30: 3o awcharity! ' '
-- 168.1: s i J H
-- 168.4: Oniy a crcaiurc can havc privi- .
-- 168.5: icgc;
-- 168.9: a true privilege must rcally . 1 ... ... benefit the
-- 168.19: Consequeniiy tliere is no pri- ..... viicgc cxccpt what is granted .. .... T . , by Christ.
+- 164.21: Augustine does not praise the Egyptian midwives for lying.
+- 165.14: To allow lying on behalf of the Church would make her advocates suspected;
+- 166.20: and throw doubt on all her rights and privileges.
+- 167.9: Christ spoke truth without regard to his reputation.
+- 167.18: All laws made for the benefit of the Church may be called privileges, as being in some degree private laws.
+- 167.29: The universal law is that of charity.
 
 ## Notes
 

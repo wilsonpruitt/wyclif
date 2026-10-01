@@ -31,35 +31,21 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 528.1: We pray for tlic foreUnown . ..... . . whiie aiive, but diilerenMrom pravmg for the ... ., ... . ... damned.
-- 528.18: it is argued that our . . . .. prayers must cease if wc may .. , . , , not pray for the damned. ... , ,
-- 529.4: Disiinctions in prayer:
-- 529.7: f. general or dislinct ;
-- 529.12: 2. absolute or conditioned :
+- 528.18: It is argued that our prayers must cease if we may not pray for the damned.
+- 529.4: Distinctions In prayer:
+- 529.7: 1. general or distinct;
+- 529.12: 2. absolute or conditioned;
 - 529.20: 3. for bliss or for less good.
-- 529.27: We may pray for good less than bliss on behalf of the forelinown :
-- 529.33: an oracionem. .
-- 530.1: butifwe heiWpriyeVstunc u°elessb.C
-- 530.7: Wc do best pray generaiiy conditionaiiy.
-- 530.23: The Church
-- 530.24: SS^tethir eSa! oniy z5 for the eiect.
-- 531.1: 2oia
-- 531.6: K It is said that
-- 531.6: \ve may pray . . . generaiiy but with a special .... . . . intention for a friend, who . . may bedamned.
-- 531.15: The cxample of Gregory and
-- 531.16: u cited,
-- 531.18: 2oib
-- 531.23: urged
-- 531.23: that even the deviis profit by Chrisfs merit. .......
-- 532.2: 2oibK
-- 532.12: l repiy that in the intention is for the man if . , • • he is capable.
-- 532.18: oratur.
-- 532.19: aii prayers Ctheddh°ne^viV
-- 532.21: tyofthlsufiquoad
+- 529.27: We may pray for good less than bliss on behalf of the foreknown;
+- 530.1: but if we knew they were in hell our prayers would be useless.
+- 530.3: would be useless. C S
+- 530.7: We do best to pray generally and conditionally.
+- 530.23: The Church prays for all men, but her prayers are effectual only for the elect.
+- 531.6: It is said that we may pray generally but with a special intention for a friend, who may be damned.
+- 531.15: The example of Gregory and Trajan is cited,
+- 531.23: and it is urged that even the devils profit by Christ's merit.
+- 532.12: I reply that in the case put the intention is for the man if he is capable.
+- 532.19: All prayers are conditioned by the divine will and the capacity of the subject.
 
 ## Notes
 

@@ -31,22 +31,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 550.1: Such indul- 203 gences are re- . . . .... servcd to prelates under cer- , ,. . . . . IT , tain limitations.
-- 550.24: So mucii time otmany mean" ofsoemuch^m! ^"'so^much^ timerinnpnuSrg0aftory'
-- 550.31: episcoporum.
-- 551.1: 2o3c Theiaitermean-
-- 551.1: ing is ravoured 1 . . . .
-- 551.6: The opinion rests on an • ... invention which supposes a) a store ot supererogatoi y ments;
-- 551.13: b) that the store is inexhaustible A ' and is at the disposal ot the 1 , *
-- 551.15: i5 Pope;
-- 551.20: c) that whenthe over a share m such merit, he . . . gives an indulgcnce.
-- 552.1: st.Thomassays 2o3cB thatindulgcnces ..... ... ,. are not simpiy remissions 01 . temporai penance but avail ■ in purgatory. 2o3d
-- 554.1: 2o3d B
-- 554.6: Bonaventura's 3 C opinion. . . j
+- 550.24: So much time of indulgence may mean a) the equivalent of so much temporal penance; b) so much shortening of time in Purgatory.
+- 551.1: The latter meaning is favoured by the decretists.
+- 551.6: The opinion rests on an invention which supposes a) a store oft supererogatory merits;
+- 551.13: b) that the store is inexhaustible and is at the disposal of the Pope;
+- 551.20: c) that when the Pope makes over a share in such merit, he gives an indulgence,
+- 552.1: St. Thomas says that indulgences are not simply remissions of temporal penance but avail in purgatory.
+- 554.6: Bonaventura's opinion.
 
 ## Notes
 

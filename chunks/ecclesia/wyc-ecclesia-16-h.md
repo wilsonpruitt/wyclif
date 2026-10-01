@@ -43,17 +43,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 384.1: TheKingshouidquantum 182'' ChOTcrhp?o°a£dyiiowOVus!d!tuam and correcl . . . what wrong.
-- 384.21: The ciergy "ron^suc^an enquiry.
-- 385.7: it is vain to plead that the . . . gifts were made without con- ' . ditions.
-- 385.15: Vain too is the fiction that all * . . true taking away is from Kke by like;
-- 386.15: or that every gift or with- . . 1 _ / drawai of gifts ncedsthePope's ... sanction.
-- 387.11: If this were true the laity . ,. . . . ~ . . might withdraw all Rifts that had ... ... , not been sanctioned by the . .... .. . . Pope, whiie the clergy would be
-- 387.15: i5 out 6f aii con-
+- 385.7: It is vain to plead that the gifts were made without conditions.
+- 385.15: Vain too is the fiction that all true taking away is from like by like;
+- 386.15: or that every gift or withdrawal of gifts needs the Pope's sanction.
+- 387.11: If this were true the laity might withdraw all gifts that had not been sanctioned by the Pope, while the clergy would be out of all control.
 
 ## Notes
 

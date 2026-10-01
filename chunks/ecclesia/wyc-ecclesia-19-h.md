@@ -25,17 +25,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 469.2: wrongly from , . . . . . not knowmg who is prc- ... . destinate.
-- 469.20: 20 are mP^]y un"
-- 469.31: marg. : Casus.
-- 470.1: i93c Y
-- 470.13: Fourfold diviChristians.
-- 471.4: Preiates should be removable ... ...... r .. . . for bad behaviour. . T . ...
-- 471.14: This discussion should lead to ... . . . knowiedge of Scripture, .... . . . especiaiiy the Apocalypse, the , , • ■ r- 1 f j !• -i 1 • • . Song ot the Church (Prov. ... , .... .. ... , . xxxi) and the Canticles. , . _ . . .. T, . .
+- 469.1: Judges decide wrongly from not knowing who is predestinate.
+- 469.19: Augustine said that civil laws are mostly unjust,
+- 470.13: Fourfold division of Christians.
+- 471.4: Prelates should be removable for bad behaviour.
 
 ## Notes
 

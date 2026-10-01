@@ -49,26 +49,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 76.8: There arc prelatcs who say , ... _ tiiatthcsafcty of the Church is ... . ,. . . due to thcm.
-- 76.25: They shouid a F coiiMder tliat no . . . officc can make a member of . . . . . ciirist;
-- 76.31: and refiectwhether their life is - , , , , , , conformed to that of their . . : . . . . . Head.
-- 77.1: c They shouid
-- 77.2: relv on humblc od . ....... . . ministry.not on worldly splen- • j. i dour.
-- 77.9: a- Objeciion: It is impossible . . . know who is a mcmber of . ... , , the ciiurch,
-- 77.16: and this discrcdits tlie ... . . .... Sacraments.
-- 77.20: Answer: ^ foreknown "bws ofmthe hurc
-- 78.12: Hut in that scnsc the ailirmation . ... does not affect our proposition. .
-- 78.30: i3gb
-- 79.4: christ cannot
-- 79.5: 5 spouse^nor^any
-- 79.6: of hermembers ; . . i;i ■ ■ • c 4 • •L-i
-- 80.1: Otherwise i3ith Christ would . 1 1 not be truly married to tlic . .... . / Church.
-- 80.23: i3gc
-- 80.32: 5. Objection: Tliis opinion is r 1 •. - . . .• • t not supported the canon^iaw.
+- 76.25: They should consider that no office can make a member of Christ;
+- 76.31: and reflect whether their life is conformed to that of their Head.
+- 77.1: They should rely on humble ministry, not on worldly splendour.
+- 77.9: 4. Objection: It is impossible to know who is a member of the Church,
+- 77.16: and this discredits the Sacraments.
+- 77.20: Answer: In one sense the foreknown may be members of the Church.
+- 78.12: But in that sense the affirmation does not affect Our proposition.
+- 79.4: Christ cannot cease to love his spouse nor any of her members;
+- 80.1: Otherwise Christ would not be truly married to the Church.
 
 ## Notes
 

@@ -25,19 +25,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 340.1: Customs i76b proving thc „ . . ... King's rights,
-- 340.9: acquiesced in b> ihe dcrgy.
-- 340.17: Again, we King-Vduty is to take trom . ... . • false clergymen atherChSrch.°
-- 341.1: it is objected that heresy .... . ■ • • does not come . within the ...... . . , . Kin»'s cogmsance :
-- 341.12: but the King is bound to guard . . against aii dangers to the . . ,.«,■<■ • ■ • kingdom.
-- 341.23: Confirmation: '• The decretals . . . . . , .... say that abuse ot a privilege , ... . ... , .
-- 341.25: 2o forfeits it.
-- 342.4: This forfeiturc """ed by'ihe
-- 342.13: 2. By thc same dccrctal the . . .... rv,>~ «»King loses his privilege of rulc . . , • if he is siothful iucorrection. ..... . . ■
+- 340.17: Again, we assert that the King's duty is to take from false clergymen and restore to the Church.
+- 341.1: It is objected that heresy does not come within the King's cognisance;
+- 341.12: but the King is bound to guard against all dangers to the kingdom.
+- 341.23: Confirmation: 1. The decretals say that abuse of a privilege forfeits it.
+- 342.4: This forfeiture; must be enforced by the King.
 
 ## Notes
 

@@ -37,27 +37,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 72.1: Thc true i Cluirch obevs . . _ . oniy the orainancc of God. .. ..
-- 72.11: The foreknown as well as the . .7 .... ... prcdestinatc niay hold cccle- . . . . . - . siasticai oiiice.
-- 73.10: 10 Three ways ot
-- 73.11: beingamember . , , . 0t ciirist; predestination, rreparation, concorporation.
-- 74.6: That oniy is a part ol the Lord's body which will remain with Him for cvcr. .
-- 74.27: The predcstinatc cannot . . ., ., , ,. . ccaseto besuch.
-- 74.31: Crisostomus.
-- 75.2: 38c The foreknown
-- 75.3: cannot continue . . . • r" i • m graCc.
-- 75.7: st. Paui *ays that nothing can , • , i . ]•• i • t • t separate usTrom the love of God. j ii • •
-- 75.16: |t is ohjccted toUKforeUnovvn Jjm° £ chaVity;
-- 75.22: but tne fore. £"£7 "f Cnrisfs bcr^ences.X"
-- 75.30: . . . _ consumata
-- 75.30: ^ sccundum
-- 76.8: There arc prelatcs who say , ... _ tiiatthcsafcty of the Church is ... . ,. . . due to thcm.
-- 76.25: They shouid a F coiiMder tliat no . . . officc can make a member of . . . . . ciirist;
-- 76.31: and refiectwhether their life is - , , , , , , conformed to that of their . . : . . . . . Head.
+- 72.11: The foreknown as well as the predestinate may hold ecclesiastical office.
+- 73.10: Three ways of being a member of Christ; by predestination, by preparation, by concorporation.
+- 74.6: That only is a part of the Lord's body which will remain with Him for ever.
+- 74.27: The predestinate cannot cease to be such.
+- 75.2: The foreknown cannot continue in grace.
+- 75.7: St. Paul says that nothing can separate us from the love of God.
+- 75.16: It is objected that this applies to the foreknown who is for the time in charity;
+- 75.22: but the foreknown are not parts of Christ's body, but excrescences.
+- 76.8: There are prelates who say that the safety of the Church is due to them.
 
 ## Notes
 

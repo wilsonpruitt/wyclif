@@ -25,11 +25,7 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 490.6: Vcrse 3i. Her labour in , . . _ , life shaii be rewarded by , , ... r\ ' r est in heaven.
+- 490.6: Verse 31. Her labour in life shall be rewarded by rest in heaven.
 
 ## Notes
 

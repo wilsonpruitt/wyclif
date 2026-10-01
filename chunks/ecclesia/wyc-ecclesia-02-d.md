@@ -25,16 +25,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 36.5: St. Paui teaches lliat it does not . . mattcr througii whom Faith is . received.
-- 36.25: Those who thus set thcmselves above the apostles, imply that ' \ r they are Christ.
-- 37.11: Concerning the Catholic Church . . . . . r . „ r .. a Christian has on'y to believe n . ,. , 1 1 • that it is the wholeibody of . .... the predestined.
-- 37.26: God is to be prae?ec1iofnrofhe Urban VI>
-- 38.12: who wijl doubtIcss reject this • ,. . . . . , . iaisc scnse of tlic dccrctal. , . . ... , . . , k. ... , .
-- 38.25: objection: Subjects will . i-i_i--.fi have to consuit Scripture before . t • • j-\ obeying the Answer: Theydo so^ l°
+- 36.25: Those who thus set themselves above the apostles, imply that they are Christ.
+- 37.11: Concerning the Catholic Church a Christian has only to believe that it is the whole body of the predestined.
+- 37.26: God is to be praised for the election of Urban VI,
+- 38.12: who will doubtless reject this false sense of the decretal.
 
 ## Notes
 

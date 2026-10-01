@@ -49,21 +49,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 476.12: Theofficeofthe Church.
-- 476.14: Verse 12. AeJredSunatldotata ii a7herChurbch.t0
-- 477.26: Verse i3 specilies the . . . work of the Chnrch, in fjiv- ■ ... ing a law both for our outward . , -ii and inward life. . .
-- 477.35: 2S. B : opata cst.
-- 478.4: Both laws requirc obser- «... vnnce.
-- 478.19: Versc 14. 3 F TlikeCaUshki.1S
-- 478.31: eveunt.
-- 479.1: igqc
-- 479.11: G Verse iS.
-- 479.13: geopiesfand porVion""* the law 0 od-
-- 480.16: Vcrsc .6. 5 H The lield tliat . rr. . .... ■ j „„■ *.„ she bnys is thc Heaven.°
+- 476.12: The office of the Church.
+- 476.14: Verse 12. All the works of the predestinate are profitable to the Church.
+- 477.26: Verse 13 specifies the work of the Church, in giving a law both for our outward and inward life.
+- 478.4: Both laws require observance.
+- 478.19: Verse 14. The Church is like a ship.
+- 479.11: Verse 15. The Church gives the "prey" of converted peoples, and distributes ''a portion" of the law of God.
 
 ## Notes
 

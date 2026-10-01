@@ -37,27 +37,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 84.1: iWL
-- 84.11: or thc cuuvchsed vvould not he \ 1 » DD without spot or wrinkle.
-- 84.25: Hence it is presumphon to 0 assert oneseifto he amemberof^ r ' 1 \ the Church.
-- 85.4: Vct this is done by prelates, ~ ° _ . .
-- 85.5: 5 whose lives are
-- 85.5: most unlike 70 . . Christ's.
-- 85.22: „Jne Roman Cliurch may be 1 7 r r u?e<| as a name of the Cathohc n ' r Church, inciu-
-- 85.24: a" lne . . . . . .
-- 85.25: 1 faithfui.
-- 86.10: i±oh
-- 86.17: it cannot be only the Pope . . .. ... r ... . . ... and' the Cuna;
-- 87.10: 10 since .Jerome>
-- 87.10: description of * ' ° churcha^Hes tnem on|yby contrast; 1 ' 3 r
-- 87.28: but must bethe wnole Church militant.
-- 88.12: The Popc and his college arc 1 chief in dignity if they follow . r r ... Christ;
-- 88.17: oiherwi^c they are a nest ot . .. ... . heretics.
-- 88.31: Objectiondrawn P gioss.
+- 84.25: Hence it is presumption to assert oneself to be a member of the Church.
+- 85.4: Yet this is done by prelates, whose lives are most unlike Christ's.
+- 85.22: The Roman Church may be used as a name of the Catholic Church, including all the faithful.
+- 86.17: It cannot be only the Pope and the Curia;
+- 87.10: since Jerome's description of the Roman Church applies to them only by contrast;
+- 87.28: but must be the whole Church militant.
+- 88.12: The Pope and his college are chief in dignity if they follow Christ;
+- 88.17: otherwise they are a nest of heretics.
 
 ## Notes
 

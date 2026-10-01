@@ -25,21 +25,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 66.3: it is dangerous lor any one to . 1 1 r ''dience1 of°alf" ciiristians.
-- 67.11: Thus thc Saints hesitated to call 1 r ... themseives members ot thc x 11 , Chnrch.
-- 68.1: Chrisfs vicar 3y' S must not ask . . . . ... ... . a submission which Christ ., . . . . ... cannot ask.
-- 68.25: a bishopric should bc desi- . . .,. redforthework, not for the . .... . _ . . dignity.
-- 69.5: objcction:
-- 69.6: 1 wouid havTa
-- 69.7: ^atioV^the5" number of the 1 • • .• • . biessed.
-- 69.16: the; Churcn^has suc0f number°n thoumass°t
-- 69.24: one naif is
-- 69.25: 25 angeisPaSnd one
-- 69.26: ot men"
+- 66.3: It is dangerous for any one to claim the obedience of all Christians.
+- 67.11: Thus the Saints hesitated to call themselves members of the Church.
+- 68.1: Christ's vicar must not ask a submission which Christ cannot ask.
+- 68.25: A bishopric should be desired for the work, not for the dignity.
 
 ## Notes
 

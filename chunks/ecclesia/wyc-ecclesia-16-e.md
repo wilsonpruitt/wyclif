@@ -49,32 +49,20 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 372.1: i. Thc cierRy i8oc L
-- 372.2: ^a^Chrrst^^tripliciter. ordered.
-- 372.7: 2.Tiiccxcessive "gy wouid
-- 372.27: 3. There wouid biinesssand0si-" a
-- 372.29: thTcfergyTnd amongTelafty. 3o
-- 373.5: M i- The laity
-- 373.5: would be more ... . . .... carefui in giving
-- 373.8: .<,. and the alms ^dis^ributed"6'
-- 373.17: N 6. The earth
-- 373.18: would be more / . . s r fruitful.
-- 373.32: Evil of appropriations, .. .. .
-- 374.1: wbich injure 181 both univer- ... . . . siiics and parishcs, .
-- 374.12: so that thc numbers at Oxford have lallen greatly. '
-- 375.1: N i8ia
-- 375.3: Objection: 6 Wny may not ecciesiastics accept what r ..... .
-- 375.5: 5 they may buy?
-- 375.10: Exampie.
-- 375.21: Answer: In the case sup- . . r ....... r ,. poscd the coi'e8c ought to i, r • 1 1 i- • inottobuv;
-- 375.32: i8ib
-- 376.1: and a coiiegc 181" so buyinE ounht ... ... ,. ,. to bc supprcss-
-- 376.7: judgmcnt of Am rosc.
-- 376.26: These words P Kms mayusc clUwCredceam rC captivcs,
+- 372.7: 2. The excessive number of clergy would be lessened.
+- 372.27: 3. There would be less worldliness and simony among the clergy and less fighting among the laity.
+- 373.5: 4. The laity would be more careful in giving alms,
+- 373.8: 5. and the alms would be better distributed.
+- 373.17: 6. The earth would be more fruitful.
+- 373.32: Evil of appropriations,
+- 374.1: which injure both universities and parishes,
+- 374.12: so that the numbers at Oxford have fallen greatly.
+- 375.3: Objection: 6. Why may not ecclesiastics accept what they may buy?
+- 375.10: Example.
+- 375.21: Answer: In the case supposed the college ought to give, not to buy;
+- 376.1: and a college so buying ought to be suppressed.
+- 376.7: Judgment of Ambrose.
+- 376.26: These words show that the King may use church treasure to redeem captives,
 
 ## Notes
 

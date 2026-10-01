@@ -55,26 +55,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 435.3: and so has no parts, .7 . . ... . .
-- 435.15: 3 and no head;
-- 435.24: nkewise no
-- 435.25: 25 co^poration
-- 435.25: could be or do , • anything;
-- 435.30: 5 nor couid any
-- 435.31: °"hebChurch.0t
-- 436.12: a muiiitudc oufsenseteUs
-- 436.19: u is impossible 7 S a ™bS>han 2o
-- 436.21: unhy Mkerte ma$ aVouid objectt0andenont
-- 436.31: and couid have neither^sin
-- 437.9: Thuswe shouid Bi brought to 1 ..... the wonderfui conclusion that aimostaii things are nothing. .
-- 437.17: The faithful must beware . , , ... . 0f the heresy that there was ... , . . r . no Church until the deatli , . , ... . ,
-- 437.20: 2o 0f Christ.
-- 438.7: Augustine theChurchh begfnning^of fhatTconsists heaVeniy and i8o,b eanhly'
-- 438.32: factus.
+- 435.30: nor could any one be in or of the Church.
+- 436.12: A multitude has parts as our sense tells us.
+- 436.19: It is impossible to believe that a convent is an indivisible unity (like the quidity of man); it would have to be an object and not an object
+- 436.31: and could have neither sin nor grace.
+- 437.9: Thus we should be brought to the wonderful conclusion that almost all things are nothing.
+- 437.17: The faithful must beware of the heresy that there was no Church until the death of Christ.
+- 438.7: Augustine teaches that the Church is from the beginning of the world and that it consists of two parts, heavenly and earthly.
 
 ## Notes
 

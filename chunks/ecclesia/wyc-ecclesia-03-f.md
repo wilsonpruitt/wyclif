@@ -25,15 +25,9 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 64.11: Why thc dove Q symbol
-- 64.12: thc Hoiy Spirit.
-- 65.4: The dove is aiso a Church.
-- 65.19: How the Hoiy through the creature. . . .
-- 66.3: it is dangerous lor any one to . 1 1 r ''dience1 of°alf" ciiristians.
+- 64.11: Why the dove is a symbol of the Holy Spirit.
+- 65.4: The dove is also a type of the Church.
+- 65.19: How the Holy Spirit acts through the creature.
 
 ## Notes
 

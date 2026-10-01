@@ -43,21 +43,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 182.1: i53J v
-- 182.7: Objection: vilcgc is gene- n ...... raiiyunderstood ot worldly 1 n ... . . tlungs.
-- 182.14: if so, it is thc fault ot the B pcopio who usc i5 thc word. ^ .
-- 183.5: *t might as weii be said that law ' O .
-- 183.6: possession apply only to . ..... earihiy goods.
-- 183.12: Sudl is not the ianguage ot the primitive Church. r 7 r r
-- 184.1: The Churcli ouglit not to . ,. . . . , insist on earthiy privileges such . . .... ,is excmptions and cndowments.
-- 184.6: Excmptions bad in kind, . . although ihcy may sometimes . . scrvc a good purpose. . ......
-- 184.27: Good prdates ouglit not to bc hampered by tlicm. . ........ ...
-- 185.9: Piivjleges of wearing mitre etc- are °/,e11 a snare of the r D devil-
-- 186.15: The Roman collegc niay beB the synagogue oi Satan and not thc hcad of the Churcli. ....
+- 182.7: Objection: Privilege is generally understood of worldly things.
+- 182.14: If so, it is the fault of the people who use the word.
+- 183.5: It might as well be said that law and possession apply only to earthly goods.
+- 183.12: Such is not the language of the primitive Church.
+- 184.1: The Church ought not to insist on earthly privileges such as exemptions and endowments.
+- 184.6: Exemptions are bad in kind, although they may sometimes serve a good purpose.
+- 184.27: Good prelates ought not to be hampered by them.
+- 185.9: Privileges of wearing mitre etc. are often a snare of the devil.
+- 186.15: The Roman college may be the synagogue of Satan and not the head of the Church.
 
 ## Notes
 

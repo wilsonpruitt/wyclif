@@ -25,39 +25,22 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 227.1: R The privilege is
-- 227.2: twofold: to the ... ... f ., . . . , . . .... . . inhabitants of the place and f. .... ...... . to the fugitive, who forieits it, - .. . .... ,. , , ... .. if he is un-
-- 227.18: i6oc
-- 227.20: The real use of the privilege. . . . .
-- 228.1: iGoc A
-- 228.2: The interpretation ot it lies , , ° with thc King,
-- 228.12: who is to be guided by sound theoioi^v.
-- 229.1: A 1 6oe
-- 229.5: B We must con-
-- 229.6: sider the pur- . . ..... ... . poses of the Charter, .... . .
-- 229.10: 10 which are:
-- 229.11: a) respect to . „ . . . , n . . . ... the reiics of St. Peter, . » . . .. .. . .. .
-- 229.15: £>J quiet for the
-- 229.17: c) honour to the Church in .... . which the King is spccially . .. . . . prayed for.
-- 229.23: Monks of the royal foundation ........ . . . ... are bound to obey the King; ....... .
-- 229.25: 25 so must be
-- 229.25: their guests or . . . . . . fugitives.
-- 229.31: Crime cannot free from the ..... . . r duty of obedtence. .. .. . .
-- 230.1: i6od
-- 230.7: Forgiveness good so iar as r v ' 1 ' lt K-nd* to true mercy, . .
-- 230.12: und vilePe of' pri torgivcness to Westminster,
-- 230.23: out of regard lor the royal , . . grant.
-- 230.28: No priyilege trarv to comnion law. . .....
-- 231.10: Hence fugitives arc not made 1 . . aitogether free ot dcbt or ot punishment,
-- 231.17: sincc tnis wouu bc mischievous. 1 _ ...
-- 232.1: itji" D
-- 232.3: it is contrarv to chariiy to . . cncouranc a man not to pay ...... .... . . his dcbts. b
-- 232.18: i6ib
-- 232.33: i3. ibid c. XV I.
+- 227.20: The real use of the privilege.
+- 228.2: The interpretation of it lies with the King,
+- 228.12: who is to be guided by sound theology.
+- 229.5: We must consider the purposes of the Charter,
+- 229.10: which are: a) respect to the relics of St. Peter,
+- 229.15: b) quiet for the monks,
+- 229.17: c) honour to the Church in which the King Is Specially prayed for.
+- 229.23: Monks of the royal foundation are bound to obey the King; so must be their guests or fugitives.
+- 229.31: Crime cannot free from the duty of obedience.
+- 230.7: Forgiveness is good so far as it tends to true mercy,
+- 230.12: and a special privilege of forgiveness should be left to Westminster,
+- 230.23: out of regard for the royal grant.
+- 230.28: No privilege may be contrary to common law.
+- 231.10: Hence fugitives are not made altogether free of debt or of punishment,
+- 231.17: since this would be mischievous.
+- 232.3: It is contrary to charily to encourage a man not to pay his debts.
 
 ## Notes
 

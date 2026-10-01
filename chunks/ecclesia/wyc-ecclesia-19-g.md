@@ -31,24 +31,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 464.1: There should 192° S contention for high placc in . . , the Church,
-- 464.14: sincc we cannot tell whcther D cven ihe hi.nhest i5 are members.
-- 465.5: 5 Excessive trust
-- 465.5: in miracles. . . r
-- 465.14: EvM of reiic worship. ,. . ' . . . ,
-- 466.10: Thc devii has menyto1,rypwon crio? seynsiMenS
-- 466.13: signs.
-- 467.14: Ghrisfs priests should care . .
-- 467.15: 1 3 oniy to do scr-
-- 467.16: vice to the ... . .. . . ... . Church.
-- 467.27: Baptism does desttoy^onginal foreknown.
-- 468.13: The prom of righteouTness foreknown is ,5
-- 468.16: lessen^hlir punishment,
-- 468.26: and gain a quaiified right to temporal uuu"llu r ... g00ds-
+- 465.5: Excessive trust in miracles.
+- 465.14: Evil of relic worship.
+- 466.10: The devil has always drawn men to hypocrisy by means of sensible signs.
+- 467.14: Christ's priests should care only to do service to the Church.
+- 467.27: Baptism does not altogether destroy original Sin in the foreknown.
+- 468.13: The profit of present righteousness to the foreknown is that they lessen their punishment,
+- 468.26: and gain a qualified right to temporal goods.
 
 ## Notes
 

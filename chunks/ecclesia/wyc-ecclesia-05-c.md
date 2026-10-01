@@ -37,29 +37,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 100.1: cimrohV(»nta1nsi,er,,i ,42» morCwheat.tlian
-- 100.13: A Chnstian H must know how to squai-e the circle.
-- 100.27: be°a circie' with centre and everycircumference nowhere. & r '
-- 101.1: IOI
-- 101.3: Hc has combined . . the four elcments on 1 1 . man and has assumed the . , square thus made. ' . . . ' ' •
-- 101.20: 20 Tllc; Christian
-- 101.20: should lose himgelflo™ God
-- 102.7: 3rd objection: If the predesti- ... r nate form onc bodv, so must , . thc foreknown.
-- 102.13: Answer: The foreknown , .... do form one body . T .
-- 102.24: of which tiie devil is the liead. '
-- 103.6: a body may be . composed
-- 103.7: either of material or ... .. . . . formai parts.
-- 103.19: T|)e body of the devil is 1 0 r
-- 103.20: 20 unitej by an
-- 103.20: outward form (God's foreknowledge) and an inwari detormity tthe sin r feJg|1j.^peni"
-- 104.4: At the day of judgment the .. . . . parts ot these two bodies (of .. Christ and the devil) will be . .... j , , , , hnaiiy separated. . . r. .
-- 104.18: Ch^rch^caiinot M
-- 104.19: because^its pirts are s!:£ar.atc 10
-- 104.23: Answer All the parts . have a common point of union in the head.
+- 100.13: A Christian must know how to square the circle.
+- 100.27: God is said to be a circle with its centre everywhere and its circumference nowhere.
+- 101.3: He has combined the four elements on man and has assumed the square thus made.
+- 101.20: The Christian should lose himself in God by love.
+- 102.7: 3rd objection: If the predestinate form one body, so must the foreknown.
+- 102.13: Answer: The foreknown do form one body
+- 102.24: of which the devil is the head.
+- 103.6: A body may be composed either of material or formal parts.
+- 103.19: The body of the devil is united by an outward form (God's foreknowledge) and an inward deformity (the sin of final impenitence).
+- 104.4: At the day of judgment the parts of these two bodies (of Christ and the devil) will be finally separated.
 
 ## Notes
 

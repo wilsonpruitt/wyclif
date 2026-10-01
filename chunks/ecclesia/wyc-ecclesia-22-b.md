@@ -31,21 +31,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 520.4: 1 have ihe nrecedcnt of ... , . j . r> i EMjah;
-- 520.15: and, like Eiijah, i5 I challenge my . opponent to shew the . ... Divine sanction for his teaching, . . , ....
-- 520.23: for God never approves hes.
-- 521.11: The objection oi Hugucius is . . - . . . . ot no weight.
-- 522.7: Hosticnsis duigenccs cannot absolve . . . . in purgatory,
-- 522.23: since tiie nowcr of the keys . . , . , .... , extends oniy to the , militant ...... ...... Church.
-- 523.1: C2oo»in
-- 523.3: The fifth and 'ast false ... . . aiiegation is of Augustine.
-- 523.11: 2oob
-- 524.1: The decrctai 2oob °for athosees?ainr when drunk.
-- 524.18: Aueustine asks if wc arc to . i • • pray for the damned, why ....... • not for the
+- 520.15: and, like Elijah, I challenge my opponent to shew the Divine sanction for his teaching,
+- 520.23: for God never approves lies.
+- 521.11: The objection of Hugucius is of no weight.
+- 522.7: Hostiensis tells us that indulgences cannot absolve in purgatory,
+- 522.23: since the power of the keys extends only to the militant Church.
+- 523.3: The fifth and last false allegation is of Augustine.
+- 524.1: The decretal forbids praying for suicides, and even for those slain when drunk.
 
 ## Notes
 

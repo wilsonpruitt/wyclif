@@ -25,21 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 3.14: H cTrnins' the""
-- 3.15: SmeSateiy°on
-- 3.16: a tSe^jloWSpirit
-- 3.23: Ncheurch'con°ly
-- 4.15: The virtue of i3 the sacramental
-- 4.16: tood.
-- 5.14: First conciusion- No Pope .... snouid presumc that he is the . . HeaJ oftnis Church. r ' J
-- 5.23: 1 No one can nmow whether , c- . • • 1 • . ,. jhe is predesti-
-- 5.30: eternam.
-- 6.10: h<God.se lo
-- 6.29: Church°is widowed.
+- 3.14: How faith concerning the Church follows immediately on faith concerning the Holy Spirit.
+- 3.23: Note. This Holy Church contains none who are reprobate.
+- 4.15: The virtue of the sacramental food.
+- 5.14: First conclusion. No Pope should presume that he is the Head of this Church.
+- 5.23: No one can know whether he is predestinate.
+- 5.27: Augustine.
+- 6.10: The House of God.
 
 ## Notes
 

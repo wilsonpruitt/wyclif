@@ -25,17 +25,9 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 549.2: induigence to sinners belongs ..... . .. . to God aione.
-- 549.15: The canonists have given it " 1 _
-- 549.16: o3c another sense:
-- 549.16: °' remission of . 1 .... ... punishment.
-- 550.1: Such indul- 203 gences are re- . . . .... servcd to prelates under cer- , ,. . . . . IT , tain limitations.
-- 550.24: So mucii time otmany mean" ofsoemuch^m! ^"'so^much^ timerinnpnuSrg0aftory'
-- 550.31: episcoporum.
+- 549.2: Indulgence to sinners belongs to God alone.
+- 549.15: The canonists have given it another sense: of remission of punishment.
+- 550.1: Such indulgences are reserved to prelates under certain limitations.
 
 ## Notes
 

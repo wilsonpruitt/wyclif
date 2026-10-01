@@ -25,28 +25,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 480.16: Vcrsc .6. 5 H The lield tliat . rr. . .... ■ j „„■ *.„ she bnys is thc Heaven.°
-- 481.6: yerse 17. Tne Church requires strength to 11 t r contend with spintual 0 r r _ r enemies.
-- 481.24: I Verse 18.
-- 481.24: "| |") g telStC 1S
-- 481.25: 25 puriiied by a
-- 481.25: good con- ., . . science.
-- 481.31: '5o. A A, : pungit.
-- 482.12: Verseio K
-- 482.13: ofuJd* indu'rry.
-- 482.33: fecerit.
-- 483.7: iq5b
-- 483.20: Verse 20. Her readiness to heip ttiose
-- 484.1: i93h L
-- 484.3: Verse 21. M
-- 484.4: atvaid ofnP°ersecution.
-- 484.29: Verse 22. spiendidiy I95« II
-- 484.31: %ToicS
-- 484.34: 34. A: mebra.
+- 480.16: Verse 16. The field that she buys is the Kingdom of Heaven.
+- 481.6: Verse 17. The Church requires strength to contend with spiritual enemies.
+- 481.24: Verse 18. The taste is purified by a good conscience.
+- 482.12: Verse 19 tells of the Church's sedulous industry.
+- 483.20: Verse 20. Her readiness to help those in need.
+- 484.3: Verse 21. She is not afraid of persecution.
 
 ## Notes
 

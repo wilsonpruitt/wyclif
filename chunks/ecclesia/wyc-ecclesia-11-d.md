@@ -43,31 +43,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 242.1: n',2r K
-- 242.5: The performance ol this .... . . duty would dn much 10 set the Church right.
-- 242.17: \CiA
-- 242.19: Objection: 2. It cannot he . ..... luiown who are fit to be pro- . . . . ...... tected by the privilege. ... . .. .. . .
-- 242.24: Answer: acts^as^n2 aimsgiving.
-- 243.14: Debtors shouid not be • » ,. x
-- 243.15: 1 protected,
-- 243.15: except those . lii- • who cannot Pav through . c • ■ • • . • • ,. ■ misfortune.
-- 243.22: M The priviie.ee
-- 243.23: was not in- .... . . tended for debtors. VXT - . .
-- 244.1: iG3"M
-- 244.16: The period 3 N immumty . shouid be limited, as m 1 D other Churches, to 40 days. _
-- 244.25: Two poims in wlnch Yvcstminster excceds other Lhnrches. 1 *
-- 245.7: Coroner's office as to lugitives . . . in sanctuary.
-- 245.13: Liberties given to the fuguive. . . . , , ,,
-- 245.26: Third pdncipai argumcnt ..... . .
-- 245.27: 1 against us.
-- 245.27: <<) All law is ... . ... . priviiege.
-- 245.30: k) Secular lords cannot appoint .... cimrcn privileges, which r . rest with God.
-- 246.1: c) Aii wcakness or sin is a privi- - ..... ....... lefic since it 1° brings good to . the Church. Answcr: . . .... a) Such use of thc word privi- .« . . lcge is an cquivocation. .... . ... . .
-- 246.26: Law is common in two senses ; of obiigation and assertion.
+- 242.19: Objection: 2. It cannot be known who are fit to be protected by the privilege.
+- 242.24: Answer: We must judge by acts, as in almsgiving.
+- 243.14: Debtors should not be protected, except those who cannot pay through misfortune.
+- 243.22: The privilege was not intended for debtors.
+- 244.16: The period of immunity should be limited, as in other Churches, to 40 days.
+- 244.25: Two points in which Westminster exceeds other Churches.
+- 245.7: Coroner's office as to fugitives in sanctuary,
+- 245.13: Liberties given to the fugitive.
+- 245.26: Third principal argument against us. a) All law is privilege.
+- 245.30: b) Secular lords cannot appoint Church privileges, which rest with God.
+- 246.1: c) All weakness or sin is a privilege since it brings good to the Church. Answer: a) Such use of the word privilege is an equivocation.
 
 ## Notes
 

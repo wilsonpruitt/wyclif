@@ -43,26 +43,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 142.3: As commanded 148* A
-- 142.4: grve ou/honTst opinion on the vju r\ • j c l * . case laid bcfore
-- 143.5: Th« question is whether lt was r 1 lawful to take certain prison- 0 1 ers °ut °f sanctuary at 0 _ • Westminster.
-- 143.14: Taking thecase stated as true, .. ... . . . . it was lawtui for three reasons:
-- 143.18: r. God's law as eiven Ex. . . xxi, i4.
-- 143.31: 2. The precedent of 1T- . . . Soiomon with Joah.
-- 144.1: i48b B
-- 144.13: 3. because danger to ihe . . reaim.
-- 144.23: o. T. precedents are vahd, T. or there is no authonty for, ° ' 1 r tithes.
-- 145.1: in this case there are the 1 . . same grounds for action as in 0 7 1 r ^ .* Joab's.
-- 145.10: 3. it is unsafe to wait until . . .... treason ^com-
-- 145.19: 4- Soiomon's act is approvea 1 _
-- 145.20: 20 by Scripture.
-- 146.1: 2. The King»s ia8c D subjects obey him everyllnng contrary to
-- 146.3: law.
-- 146.29: This command E trary^to theTaw 01 God'
+- 142.3: As commanded by the king, we give our honest opinion on the case laid before us.
+- 143.5: The question is whether it was lawful to take certain prisoners out of sanctuary at Westminster.
+- 143.14: Taking the case stated as true, it was lawful for three reasons:
+- 143.18: 1. God's law as given Ex. XXI, 14.
+- 143.31: 2. The precedent of Solomon with Joab,
+- 144.13: 3. because of danger to the realm.
+- 144.23: O. T. precedents are valid, or there is no authority for, tithes.
+- 145.1: 2. In this case there are the same grounds for action as in Joab's.
+- 145.10: 3. It is unsafe to wait until treason is completed.
+- 145.19: 4. Solomon's act is approved by Scripture.
+- 146.1: 2. The King's subjects should obey him in everything not contrary to God's Jaw.
 
 ## Notes
 

@@ -79,33 +79,20 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 554.1: 2o3d B
-- 554.6: Bonaventura's 3 C opinion. . . j
-- 555.1: C 204" The commuta-
-- 555.1: tion of punish- t ment is due to tlie satisfaction c ... * . . made by Christ.
-- 555.9: induigences are to be dispensed 1 c
-- 555.10: 10 oniy bybishops.
-- 555.18: °i''eirn£e"l;!'|,'s
-- 555.19: t°^"^ dl\ed bvvjc!prhrist s
-- 556.4: ficticie.
-- 556.5: 1 proposetogive !o its6favour; 2. Arguments jgainst u,
-- 556.9: 3. My own judgment.
-- 556.11: in its favour:
-- 556.13: ^Oneman may faction for anolher. r , .... i • r • *
-- 556.22: b) Christ gave power of blloosfng.n
-- 556.30: c) The [>oPe's 204'' c
-- 556.31: heVeefa^wit cathoiic.
-- 557.3: We beHeve made satisfaction for all his raembers.
-- 557.10: Since cne man's s'n may 'iurI . . .... another, one may atone for another.
-- 557.21: Even men let one man acquit ' another's debt. mucn more will
-- 557.23: God-
-- 558.1: Three kinds 204" satisfaction : . „ . , , 1. Where one doeshissepa- , ... . ,.. „ rate share. 2. Where one . . . . • r • j heipsanother to do his ... ,-. , • • • • part. 3. Where one , „, .
-- 558.6: satisiies entirely for . ... . , , • • , another.
-- 558.22: Christ made £ta$S&£$sed joiniXswohr0k.illius
+- 555.1: The commutation of punishment is due to the satisfaction made by Christ.
+- 555.9: Indulgences are to be dispensed only by bishops.
+- 555.18: Other decretists maintain this opinion of a treasure doled out by Christ's vicar.
+- 556.5: I propose to give 1. Arguments in its favour; 2. Arguments against it; 3. My own judgment.
+- 556.9: 3, My own judgment.
+- 556.11: In its favour:
+- 556.13: a) One man may make satisfaction for another.
+- 556.22: b) Christ gave to Peter full power of binding and loosing.
+- 556.30: c) The Pope's acts shew that he declares it catholic.
+- 557.3: We believe that Christ made satisfaction for all his members.
+- 557.10: Since one man's sin may hurt another, one may atone for another.
+- 557.21: Even men let one man acquit another's debt, much more will God
+- 558.1: Three kinds of satisfaction: 1. Where one does his separate share. 2. Where one helps another to do his part. 3. Where one satisfies entirely for another.
+- 558.22: Christ made satisfaction, but to the profit only of those who join in his work.
 
 ## Notes
 

@@ -25,21 +25,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 172.3: Two kinds o martyrdom. ......
-- 172.8: l.csson of humility.
-- 173.11: TheChnrchhas iCge exccpt what is founded in „ •!• . Scripture.
-- 174.1: Corruptions of i=.2<> p thc Church. . ....
-- 174.27: A case as privilcgc. ■
-- 175.1: Qi52Jsito
-- 175.21: The Westminstcr privi- ,. . . . r ..... . lege is a faise
-- 175.23: one. .... . ....
-- 176.19: Divcstment all temporal . possession woula be the ' _ sreatest privilege thc Cliurcli r _ couid have.
-- 177.1: R i S3h
-- 177.5: Poveriy i* the rnost perfect TrT , .. •• • • state, therefore it is a privilege . , . . . to be piaoed in
+- 173.11: The Church has no true privilege except what is founded in Scripture.
+- 174.1: Corruptions of the Church.
+- 174.27: A case as to privilege.
+- 175.21: The Westminster privilege is a false one.
+- 176.19: Divestment of all temporal possession would be the greatest privilege the Church could have.
+- 177.5: Poverty is the most perfect state, therefore it is a privilege to be placed in it.
 
 ## Notes
 

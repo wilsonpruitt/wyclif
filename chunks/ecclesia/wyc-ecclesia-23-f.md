@@ -49,29 +49,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 564.11: The meriis liis Saints are t mgs past,
-- 564.22: and so beyond our power.
-- 565.1: God has rewarded the . . 1 . .
-- 565.2: accoramerits.
-- 565.9: To distribute
-- 565.10: io would be to
-- 565.10: diminish the rewards.
-- 565.21: Merits would not suffice to the Saint himself but for . God's grace.
-- 565.26: I The power
-- 565.26: claimed makos the Pope judge of ali souls, even in purga tory and .... ... heaven;
-- 566.10: much more in ,o
-- 566.30: aii powers are 3o 0ha^0ideftNno0 toUthePPoPeer.
-- 566.35: 32. huius in codd.
-- 567.2: Anunduepower is claimed for 1 ,„• • ,, . . ^ the actuai Pope "over his T , prcdeccssors.
-- 567.10: The Pope might mt^ts^to^him-
-- 567.26: and wouid have demons at his . service.
-- 568.5: We do not know that these , . , . f merits have not been assigned; . . . . . .
-- 568.20: as indeed they probably have _ . been by God.
-- 568.25: God has prcor- L dained who is to prcfit by them, so the r 7 „ Pope's decree is superfluous. * ~ ,
+- 565.1: God has rewarded the Saints according to their merits.
+- 565.9: To distribute the merits would be to diminish the rewards.
+- 565.21: Merits would not suffice to the Saint himself but for God's grace.
+- 565.26: The power claimed makes the Pope judge of all souls, even in purgatory and heaven;
+- 566.10: much more in hell.
+- 566.30: All powers are of God, who has left no such power to the Pope.
+- 567.2: An undue power is claimed for the actual Pope over his predecessors.
+- 567.10: The Pope might appropriate all merits to himself;
+- 567.26: and would have demons at his service.
+- 568.5: We do not know that these merits have not been assigned;
+- 568.20: as indeed they probably have been by God.
 
 ## Notes
 

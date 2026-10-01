@@ -31,21 +31,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 194.2: with evangclical povcrty; nnd, sincc il brings somc good, must be a gain to thc Clmrcli.
-- 194.13: The lirst assumption is doubtful.
-- 194.26: liven if we grant it, the gain is lcss than thc loss.
-- 195.1: The example of Silvester and ... ,. .... other Saints is insuflicient. ... ... . , ,
-- 195.16: Our only safe model in all . . . things is Chrisi
-- 195.27: if we foiiow saints in pos- ...... sesbing proPcr,y> we must , . . . foiiow them in our use of it. r . .
+- 194.26: Even if we grant it, the gain is less than the loss.
+- 195.1: The example of Silvester and other Saints is insufficient.
+- 195.16: Our only safe model in all things is Christ.
+- 195.27: If we follow saints in possessing properly, we must follow them in our use of it.
 - 196.14: They despised the world.
-- 196.28: Weshouidshow by our works , . _ . ..... that we do so.
-- 197.2: How the Cimrch is God s . . r . vineyard.
-- 197.27: spring time ol tlie early Church
-- 198.17: lias passcd winter.
+- 196.28: We should show by our works that we do so.
+- 197.2: How the Church is God's vineyard.
+- 197.27: The spring time of the early Church
+- 198.17: has passed into winter,
 
 ## Notes
 

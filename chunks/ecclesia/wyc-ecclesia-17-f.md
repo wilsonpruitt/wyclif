@@ -43,26 +43,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 407.1: M i85b Further, our
-- 407.2: °PPonent says • i • • r /->!•• that the mass of Christians ~ . . do not hoid the faith defectively.
-- 407.9: Answer: Sl" dTfectfve!"1
-- 407.16: How we believe 1S lh<" qu'-:,tlon'
-- 407.25: as to what is devils are at one biessed.
-- 408.1: i85b N
-- 408.12: Faith is tiic ot believing, or o the disposition to believe.
-- 408.28: Three senses of Church : . . a) aii who are nominally r _ Christians,
-- 409.4: bj ,11 who are
-- 409.15: cj ai! the Prethttsfse^ t SSSM bdicf'
-- 409.20: A man mav be cCXLlt J?*£ *hcich theuv!cddis
-- 410.3: in the first two forlkno\\nmay bth™eChtrch,0
-- 410.12: but in thc third
-- 410.13: prtdestinateare memfrers, and . . ■ , . • • r •«. i oniy they.
-- 410.30: 4. My opponent 4 P
-- 410.31: 3o. Cf. p. 1 1 3, 1. 27.
+- 407.1: Further, our opponent says that the mass of Christians do not hold the faith defectively.
+- 407.9: Answer: Sin makes faith defective.
+- 407.16: How we believe is the question;
+- 407.25: as to what is believed the devils are at one with the blessed.
+- 408.12: Faith is the act of believing, or the disposition to believe.
+- 408.28: Three senses of Church: a) all who are nominally Christians,
+- 409.4: b) all who are in present righteousness,
+- 409.15: c) all the predestinate. In this last sense the Church is an article of belief.
+- 409.20: A man may be in or out of the Church, according to the sense in which the word is used.
+- 410.3: In the first two senses the foreknown may be members of the Church,
+- 410.12: but in the third sense all the predestinate are members, and only they.
 
 ## Notes
 

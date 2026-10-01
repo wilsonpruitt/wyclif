@@ -31,36 +31,20 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 352.1: 1. becansethe l R curia is venal ; . ...
-- 352.4: 2. Pope and Cardinals are in . .. .. kague with our enemies; ..... . 3. they are blinded by r . . °. avarice; 4. they are too far away; . ...
-- 352.12: 5. the Roman pontitf has no r r , , ° .„r . . , . . 1 ,. . f , suchjurisdiction in England. . . .... ,. .
-- 352.27: How far such jurisdiction can . be trusted wc may see in the , ... . . . . • • , case of Gregory XI. , . .
-- 353.1: S who approved
-- 353.1: four cardinal ... . , . , , ,. , heresies.
-- 353.7: Many say it is of faith that the , ,. „ ,. . , Pope can bind or loose as he . , ,. . wiii;
-- 353.13: but ihis is a
-- 353.26: otherwise he Teaim^pay^im6
-- 353.28: revenue-
-- 353.28: a" lts
-- 354.2: This is evidcnt
-- 354.3: for .... „ ....
-- 354.3: 1. his predeces- 178 sor did get r J .... , ... 1000 marks from John; . ,. . „
-- 354.7: 1. the supreme lordship of the . .. woHd isciaimed
-- 354.13: 3. any limitation of his powers . ,. r wouid be tatai to the original . . . ciaim. i5
-- 354.23: Assertion of the bishop of . . Rochester.
-- 355.1: Ti>e Pope's buii was directly ... . . . opposed to
-- 355.9: 1 >. in ordecing
-- 355.9: ,ne arrest of . .... i ,i i the King/s s»bject without . ... . . . . conviction ot heresy; , ....
-- 355.15: 2 2. in asserting
-- 355.15: ,ne authority . . . . iiof aii charters;
-- 355.25: 25 3. above aii in
-- 355.25: declaring that ... ... the King may not punish a , . . .... ciergyman however delin- . . . quent.
-- 356.1: The King 178' X should cno,uire 1 v into this.
-- 356.17: Some of the clergy suggest , . . that they have an civilVowers;
+- 352.27: How far such jurisdiction can be trusted we may see in the case of Gregory XI.
+- 353.1: who approved four cardinal heresies.
+- 353.7: Many say it is of faith that the Pope can bind or loose as he will;
+- 353.13: but this is a heresy.
+- 353.26: Otherwise he might make the realm pay him all its revenue.
+- 354.2: This is evident for 1. his predecessor did get 1000 marks from John;
+- 354.7: 2. the supreme lordship of the world is claimed for him;
+- 354.13: 3, any limitation of his powers would be fatal to the original claim.
+- 354.23: Assertion of the bishop of Rochester.
+- 355.1: The Pope's bull was directly opposed to English law,
+- 355.9: 1. in ordering the arrest of the King's subject without conviction of heresy;
+- 355.15: 2. IN asserting the authority of all charters;
+- 355.25: 3. above all in declaring that the King may not punish a clergyman however delinquent.
+- 356.1: The King should enquire into this.
 
 ## Notes
 

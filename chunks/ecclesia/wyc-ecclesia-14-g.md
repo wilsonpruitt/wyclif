@@ -55,28 +55,20 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 322.5: Silvester accepted alms, ... . . . not civii authorily, . . .
-- 322.15: which wouid i5 have been in- . . consistent witli liis orders. ... .
-- 322.25: Christ bade cler^y be subject to princes.
-- 323.11: Priesihood is nobler than ..... ... «vii ruie,
-- 323.15: but with a nobleness that v 1 ' 1 k depends on service, not on .... . . position.
-- 323.32: nec habet-
-- 324.4: Nor docs follow ... ... tluu priesthood includes tlie . ... ... - . . risiu to rule
-- 324.24: That the Emperor is blessed ... ,. by thc Pope ib does not make . .... . .. . _ . the Pope an
-- 324.34: or by the same rule hc would 1 1 tr be married.
-- 325.11: Lmpcror havc
-- 325.12: P.rimacy
-- 325.12: but 111 dillorcnt 1 1 ways-
-- 325.22: According to the claims made . . /. . i«\ • .... for the ciergy cvcry pricst • • > a wouid be civiiiy above tlic King; .... .. 0. . .
-- 326.1: and competent 174^ v to raake him . ... ... yield up his kingdom. .... ... ,
-- 326.12: So [\>c cliief rule in England . ........ . . . was claimed ior Grcgory XI. .... ,. . .
-- 326.22: Such.ch l X are msane.
-- 326.25: Supreme power might as well 1 1 . 1 / .. be claimed for every triar, . ...
-- 326.32: ui simpie priest; 1 . ...
+- 322.5: Silvester accepted alms, not civil authority,
+- 322.15: which would have been inconsistent with his orders.
+- 322.25: Christ bade his clergy be subject to princes.
+- 323.11: Priesthood is nobler than civil rule,
+- 323.15: but with a nobleness that depends on service, not on position,
+- 324.4: Nor does it follow that priesthood includes the right to rule.
+- 324.24: That the Emperor is blessed by the Pope does not make the Pope an Emperor,
+- 324.34: or by the same rule he would be married.
+- 325.11: Pope and Emperor have each a primacy but in different ways.
+- 325.22: According to the claims made for the clergy every priest would be civilly above the King;
+- 326.1: and competent to make him yield up his kingdom.
+- 326.12: So the chief rule in England was claimed for Gregory XI.
+- 326.22: Such claims are insane.
+- 326.25: Supreme power might as well be claimed for every friar,
 
 ## Notes
 

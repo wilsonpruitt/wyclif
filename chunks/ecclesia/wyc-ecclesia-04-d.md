@@ -55,32 +55,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 80.1: Otherwise i3ith Christ would . 1 1 not be truly married to tlic . .... . / Church.
-- 80.23: i3gc
-- 80.32: 5. Objection: Tliis opinion is r 1 •. - . . .• • t not supported the canon^iaw.
-- 81.11: An doctorsand
-- 81.12: saiptort°t?up"
-- 81.16: who^saysStthat wfth^Abef.
-- 81.20: Th?sbwoui°d «can^Adam^lnd
-- 81.22: Eve'
-- 81.26: TheChnrch
-- 81.27: 1 u^Td^o^f? of
-- 81.28: ?o mdude" m-S
-- 81.29: sels'
-- 82.11: fir«etoW]eada
-- 82.12: Pfnfdignity'he° aSplacefrSt
-- 82.27: perientur.
-- 83.1: iZcf
-- 83.17: xhe Saints test-
-- 83.18: 'but^one^holy5 mother Cnurcn>
-- 83.21: of winch none ,nat is *°re" ... . , .,, known is a member,
-- 84.1: iWL
-- 84.11: or thc cuuvchsed vvould not he \ 1 » DD without spot or wrinkle.
-- 84.25: Hence it is presumphon to 0 assert oneseifto he amemberof^ r ' 1 \ the Church.
+- 80.32: 5. Objection: This opinion is not supported by doctors or the canon law.
+- 81.11: Answer: All doctors and saints do support it;
+- 81.16: as Augustine, who says that the Church began with Abel.
+- 81.20: Objection: This would exclude the angels and Adam and Eve.
+- 81.26: Answer: The Church sometimes is used only of men, sometimes to include angels.
+- 82.11: Abel was the first to lead a perfect life, so in dignity he has the first place.
+- 83.17: The Saints testify that there is but one holy mother Church,
+- 83.21: of which none that is foreknown is a member,
+- 84.11: or the Church would not be without spot or wrinkle.
 
 ## Notes
 

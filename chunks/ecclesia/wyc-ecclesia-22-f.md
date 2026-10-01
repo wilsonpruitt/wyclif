@@ -31,21 +31,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 535.3: Prayer may profit those for .. whose intention it was not made. ... ,.. .
-- 535.26: pun!shes°the damned , . . . ., mercifuiiy,
-- 536.5: buthe abhoired there would be an end to the . . _ . . punishment of the damned. . ...
-- 536.32: i 1. pag. 637.
-- 537.1: N 201" Christians wili
-- 537.1: ^e Pun's'led ■ • i • • more severeiv than others. ,
-- 538.3: Wemaysee "T deceived|Id
-- 538.8: as to perpetual
-- 538.9: alms'
-- 538.14: andastofuner-et ai ceremonies. t5
-- 538.21: Falseworks Kood1 Vtrks profitthem.
+- 535.3: Prayer may profit those for whose intention it was not made.
+- 535.25: Augustine says that God punishes the damned mercifully,
+- 536.5: but he abhorred the notion that there would be an end to the punishment of the damned.
+- 537.1: Christians will be punished more severely than others.
+- 538.3: We may see how the world is deceived,
+- 538.8: as to perpetual alms,
 
 ## Notes
 

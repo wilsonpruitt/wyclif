@@ -25,26 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 457.1: N iqi „or shouId he
-- 457.26: Christ mav
-- 457.28: priest>
-- 457.30: 3ovcl
-- 458.1: whik we havc igino reason to . . . . . . .. suppose he ivill do so wilh ... ,, , , . , i . lay mini-
-- 458.23: Thesensible
-- 458.25: .!f thes "pinmai aCCCPhristf 0t
-- 459.1: »2* 5fet we must
-- 459.2: not ne8|ect the . i • • • • sacraments.
-- 459.5: d;mg<r is that more • attention is paid t0 the signs ... than to the things signilied. .
-- 459.19: No cieric may
-- 459.20: 20 temporaiities.
-- 460.1: Faise teaching °" common.1 's
-- 460.17: it is even said
-- 460.18: ponsasessSnsrlre
-- 460.20: miradcs at°iust.
+- 458.1: while we have no reason to suppose he will do so with lay ministrations.
+- 458.23: The sensible sacrament profits only so far as it helps to the spiritual acceptance of Christ.
+- 459.1: Yet we must not neglect the Sacraments,
+- 459.5: The danger is that more attention is paid to the signs than to the things signified.
+- 459.19: No cleric may fight tor temporalities.
+- 460.1: False teaching on this point is common.
+- 460.17: It is even said that temporal possessions are as needful now as was the power of miracles at first.
 
 ## Notes
 

@@ -25,25 +25,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 390.12: but lie teaches
-- 390.12: that . , r ...
-- 390.13: a) ihe Christian relicion is best . r . . , , and safest; throuU^both ,5 testaments ; . . . . . . ...
-- 390.17: cjitexistedfrom the beginnmg _ of the worid.
-- 390.23: The Christian rehgion is an- ~ . other name for the Church. r
-- 391.17: The name is accidental ; the , . , essentiai is that the Church is . , • .,. , . . . joined to her
-- 391.25: 25 and cannot
-- 391.26: exelTpt^byfamng away m-
-- 392.1: Thc namc of ,83" "Church" used . . throiighmit the
-- 392.15: Parabie of the ,5 labourcrs in the ...... ° . vineyard.
-- 393.1: The Church does not exist . . oniy for the eleventh hour.
-- 393.33: The Church which existed in .... . . . . ..
-- 393.34: 3 the first ages as
-- 393.34: militant is now triumphant.
-- 394.10: in denying previous existence of the Church we reject an articie of the Creed. r , . . .
+- 390.12: but he teaches that a) the Christian religion is best and safest; b) it lasts through both testaments;
+- 390.17: c) it existed from the beginning of the world.
+- 390.23: The Christian religion is another name for the Church.
+- 391.17: The name is accidental; the essential is that the Church is joined to her head,
+- 391.25: and cannot cease to be, except by falling away from him.
+- 392.1: The name of "Church" used throughout the O. T.
+- 392.15: Parable of the labourers in the vineyard,
+- 393.1: The Church does not exist only for the eleventh hour.
+- 393.33: The Church which existed in the first ages as militant is now triumphant,
+- 394.10: In denying the previous existence of the Church we reject an article of the Creed.
 
 ## Notes
 

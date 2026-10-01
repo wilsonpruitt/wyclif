@@ -25,31 +25,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 258.1: Hence Wyclifs 165" E warnings that . the ciergv may forfeit fheir . . 1 r .... priviiegcs.
-- 258.8: 3. it isobjected F a) the king's grant should ° 1 . r . ... he interpreted io mercifully; . ... . .
-- 258.14: and that b) a privilege ,, , • , , is not proved t5 to be evil by an occasionai wrong. ... , . .
-- 258.23: a) Answer: assumption, but
-- 258.24: mterpre-
-- 258.25: tation must be wise.
-- 258.33: Conclusio.
-- 259.1: a stamte or privilege may r -n- • • need to be suspended. .
-- 259.18: instance of the law made by ' Darius.
-- 259.30: 28. B: insania.
-- 260.4: The priviiege must in cach ... . . .. . case be used in accordance with ..... . ,. God's law;
-- 260.19: nor may ruiers grant what is iiijm-ioiis 10 their subjecls . . . .... * • or to individual i65c rights. ... . .
-- 261.3: The concession of privileges . .... depends as much on ihe 1 * ..... grantee as the §riintcr» ■ ■ ■ ■
-- 261.27: Wc must beware of false ....... . ... r . . . mercy,
-- 262.1: against which [65! H wc arc warncd ... . . t 1 »T by St. Ambrose.
-- 262.29: 1. ib. c. XXXIII.
-- 263.3: A prince who interrupts the .... . ... . . course of justice is suilty of .. • -i • r • • j j wrong.
-- 263.24: I b) That a judge
-- 263.24: is to do wrong . .
-- 263.25: 25 in obedience to
-- 263.26: law is contrary ,..,.,/• . . ... to the cathoiic faith-
+- 258.23: Answer: a) We grant the assumption, but the interpretation must be wise.
+- 259.1: A statute or privilege may need to be suspended.
+- 259.18: Instance of the law made by Darius.
+- 260.4: The privilege must in each case be used in accordance with God's law;
+- 260.19: nor may rulers grant what is injurious to their subjects or to individual rights.
+- 261.3: The concession of privileges depends as much on the grantee as the granter.
+- 261.27: We must beware of false mercy,
+- 262.1: against which we are warned by St. Ambrose.
+- 263.3: A prince who interrupts the course of justice is guilty of wrong.
+- 263.24: b) That a judge is to do wrong in obedience to law is contrary to the catholic faith.
 
 ## Notes
 

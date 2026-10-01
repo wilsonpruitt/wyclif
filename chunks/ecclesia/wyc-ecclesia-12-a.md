@@ -37,25 +37,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 250.1: aithough God i634 S uses it tor good, cvcn to the wickcd. 1 ' 1 '
-- 250.18: Objections: ,64* A [. Wc are charg- , • i • • , • ed with wishing to , . „ . . r~ . _,. . ovcrthrow thc privileges of the ... . , , . .. .. cimrch. Answer: . ... .... This chargc is
-- 251.1: Falsehood may consist iii act _T •,r,rr¥ 1 • • 1 ■ 1 ■• or in word,
-- 251.14: Those who say l'ley arc priests . . . ,~ . . . .
-- 251.15: i5 should hve in
-- 251.16: povcrty ; . . . . ...
-- 251.21: cfan;m 'L^cufar horrfbic !s,ii'c. llOod.
-- 251.27: false : XVI, q. II.
-- 252.1: \Ve mubt not ,f}, lel fear of . ~ ... . • . detraction keep us from our . , »»»■*■« duty.
-- 252.26: We dctest nomicide at Wcstminstcr or clsewlierc.
-- 253.8: 2. We are charged with 1 . ° 1 derogatingfrom the power of . . . the r-ope.
-- 253.18: Godcannottake anything from , . ...... ... the righteous without com- . r . . ,. _
-- 253.20: 20 pensation.
-- 254.1: i64b C
-- 254.24: it is thercfore useless to put . . . . cases in which 2? God issupposed • to do so;
+- 250.18: Objections: 1. We are charged with wishing to overthrow the privileges of the Church. Answer: This charge is false.
+- 251.1: Falsehood may consist in act or in word.
+- 251.14: Those who say they are priests should live in poverty;
+- 251.21: and if they claim secular rule it is a horrible falsehood.
+- 252.1: We must not let fear of detraction keep us from our duty.
+- 252.26: We detest homicide at Westminster or elsewhere.
+- 253.8: 2. We are charged with derogating from the power of the Pope.
+- 253.18: God cannot take anything from the righteous without compensation.
 
 ## Notes
 

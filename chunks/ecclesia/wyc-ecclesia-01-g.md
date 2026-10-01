@@ -25,20 +25,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 20.6: oihcrs say that Church^but \hing {?. c°!sa oniy a concepi);
-- 20.11: Others, that the Church will not j • t- 1 • •<. jexist untii the dayof,udgment-
-- 20.32: aii the elect are one person and ... . . that is the Church. ...
-- 21.14: jf a Christiai. oTthe Oiurch he would be , , . ii-^ 1 ■ above Christ.
-- 21.27: Objection made byArmachanus : rv r\ •! a ,,i 1 . . ■
-- 22.1: One head may i3o be subordinate . . to another.
-- 22.9: The Church lias two heads, ... Chrisfs divinity and his huma- , , . . .,.
-- 22.11: nity;
-- 22.15: as there arc two Paracletes, .'«•■, ... ,
-- 22.17: and yct one.
+- 20.32: All the elect are one person and that is the Church.
+- 21.2: Gregory.
+- 21.14: If a Christian could be head of the Church he would be above Christ.
+- 21.27: Objection made by Armachanus;
+- 22.1: One head may be subordinate to another.
 
 ## Notes
 

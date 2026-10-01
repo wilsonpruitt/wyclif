@@ -37,19 +37,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 133.26: Christ and every one of QSed 1 his members make up one Church.
-- 134.16: We must stand rightiy 147" what is unity .. . ... ~ of perton.
-- 134.30: 18. Cf. above pag. 109.
-- 135.4: fhe prcdesti"nify^sard to bc Chrl!,t-
-- 135.25: 3 To gain this
-- 135.26: unity with ... , ., .... . Chnst we must throw away . rc • • ,. aii woridiy affections. ., ., . ...... , .
-- 136.9: This oneness 147" S with nis mem- .... bers does not take from . 1 r Christ's separatc pcrsonality *• . . as head.
-- 137.1: 17« in many cases
-- 137.1: the same words ' . . may be afiirmed or denied ^ ' , . .. .. . accordingto tne scnsc in wliich . • i • • they are used.
+- 133.26: Christ and every one of his members make up one Church,
+- 134.16: We must be careful to understand rightly what is unity of person.
+- 135.4: The predestinate may be truly said to be Christ.
+- 135.25: To gain this unity with Christ we must throw awa all worldly affections.
+- 136.9: This oneness with his members does not take from Christ's separate personality as head.
+- 137.1: In many cases the same words may be affirmed or denied according to the sense in which they are used,
 
 ## Notes
 

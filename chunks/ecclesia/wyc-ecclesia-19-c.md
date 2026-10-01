@@ -61,28 +61,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 449.1: G- igo1
-- 449.4: Aiithc Htigation in ecclesiastical . causes ougbt tO CCQSC.
-- 449.16: H 2 Tne ciergy
-- 449.16: sliould not act . as jndges.
-- 450.3: it is a mcre tpha.tc?he d«3
-- 450.5: ^siiiXfornecessaria thcir dut,M'
-- 450.17: Nonecan I
-- 450.18: riSrImonv o/ but membeers 0f the Church,
-- 451.1: Iiqodex but the judge
-- 451.1: cannot know . — ... .... who is such.
-- 451.6: Since the ground of just ~ 1 * judgments cannot be r rr rcached, itwere better to give 1 UP sucn triais.
-- 452.11: A ciaimant K
-- 452.12: forfeltedhls ^ministtrinl
-- 453.9: 1 gi1* in which case
-- 453.10: all laws shew .... . .
-- 453.10: 10 that he siiouid
-- 453.11: not be paid. , rr . , , .
-- 453.15: The reai queslion is who . . . . . ... shouid withdraw the . . . stipend? say the patron. ... -ii r 1 I
+- 449.16: The clergy should not act as judges.
+- 450.3: It is a mere pretence to say that the clergy need temporal possessions for their duties .
+- 450.17: None can rightly hold the patrimony of 1 the Crucified but members of the Church,
+- 451.1: but the judge cannot know who is such,
+- 451.6: Since the ground of just judgments cannot be reached, it were better to give up such trials.
+- 452.11: A claimant may have forfeited his right to dues by not ministering,
+- 453.9: in which case all laws shew that he should not be paid.
+- 453.15: The real question is who should withdraw the stipend? I say the patron.
 
 ## Notes
 

@@ -31,26 +31,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 302.3: if Christ couid not rulc civillv, .... how can his seivants do so? . .
-- 302.26: Christ couid rule either ln 7 . his godhead or his manhood : .... not as to his godhead, which cannot hc involved m active
-- 302.30: lifc; ?o
-- 303.1: 171° not as to his
-- 303.1: manliood, since ., .. „ ... T . -,rT-,7-„ , r, . he is one with his spouse, the , , church, with whom all would , , , be shared.
-- 303.32: if the preiatcs are rieht, Con- . „ . . . stantinc and aii later emperors ... . . wcre hcretics,
-- 304.4: sjnce they D nanded ovcr a _ " part of what t was duc and _ 1 kept back tiic
-- 305.1: D and the Popes
-- 305.1: have by consent ' ... . . shared in tiicir
-- 305.11: E Christ did not
-- 305.12: die for worldlv j • r^x. ,, r^, ■ . gain, butaif ceive from him his passion ;
-- 306.1: i7id E
-- 306.9: so unless civii rule was thc , , , , . . , . , object of his ]0 crucifixion thc • ,,• , ,• • j • • i ciergy havc not receive it.
-- 306.15: it is a mere F thVtluch ruie
-- 306.17: not^p^vifeg^ but common , T j j • • • -i •• j iasv.
-- 306.33: marg. : Ficcio.
+- 302.3: If Christ could not rule civilly, how can his servants do so?
+- 302.26: Christ could not rule either in his godhead or his manhood: not as to his godhead, which cannot be involved in active life;
+- 303.1: not as to his manhood, since he is one with his spouse, the Church, with whom all would be shared.
+- 303.32: If the prelates are right, Constantine and all later emperors were heretics,
+- 304.4: since they only handed over a part of what was due and kept back the rest.
+- 305.1: and the Popes have by consent shared in their sin.
+- 305.11: Christ did not die for worldly gain, but all the clergy receive from him was won by his passion;
+- 306.9: so unless civil rule was the object of his crucifixion the clergy have not received it.
 
 ## Notes
 

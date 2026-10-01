@@ -49,22 +49,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 274.17: They ought not to excommuni- , . r ... .... cate the household of their r . . , . r . . . patron.
-- 274.26: Temporary alms are better .... , . i. than perpetuai.
-- 275.1: A Definition of
-- 275.12: Let us suppose perpetual alms .. . . .. . inthemseivesto be good ; . . .
-- 275.26: s,jn temporary arc better, since • . r 1 11 • they have Christ's sanc- , , . , tion,
-- 276.18: and were practised in the . . .. . . . ..... primitive church. ... ■ ...
-- 276.24: 1. Temporary alms are more ... . . . . , in God's way of working, .. r ..... and are so tar, bcttcr. . — • •
-- 277.18: 2. Temporary alms implv .... 1 • more humility.
-- 277.24: Man's power over thincs is , temporary" and he cannof cive , . ......i, , ,
-- 277.26: ih,S" rights that he
-- 277.26: does not .. .. . possess.
-- 278.15: Many perpetual i5 aims are givcn .... ... ... without conditions as to the ... ....... . . character of the grantee. , , . „.
+- 274.26: Temporary alms are better than perpetual.
+- 275.1: Definition of each.
+- 275.12: Let us suppose perpetual alms in themselves to be good;
+- 275.26: still temporary are better, since they have Christ's sanction,
+- 276.18: and were practised in the primitive church.
+- 276.24: 1. Temporary alms are more in God's way of working, and are so far, better.
+- 277.18: 2. Temporary alms imply more humility.
+- 277.24: Man's power over things is temporary and he cannot give rights that he does not possess.
+- 278.15: Many perpetual alms are given without conditions as to the character of the grantee.
 
 ## Notes
 

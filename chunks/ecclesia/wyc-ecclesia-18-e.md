@@ -31,26 +31,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 431.1: Ni88''No»
-- 431.25: i0. My opponenscrip°turaitn "c^urci0' but ^sed^igura" tive|y-
-- 432.0: i88b O
-- 432.3: Stiii they are used and are therefore appHcable. . . . .
-- 433.14: My opponent uses terms that 0 r _ ai"c,n°t warranted by Scnpture. 1
-- 433.33: 3l. A A, : uberiori.
-- 434.5: n would bc litiing work for , r _ . . the doctor to shew what n ... language is ligurative and what literal;
-- 434.11: e. g. as to wheiher the . . . . Church is a person. . ...
-- 434.29: if the Church is only ' . . . . ..... tigurativeiy 3o something, it is .... literaiiynothing,
-- 435.3: and so has no parts, .7 . . ... . .
-- 435.15: 3 and no head;
-- 435.24: nkewise no
-- 435.25: 25 co^poration
-- 435.25: could be or do , • anything;
-- 435.30: 5 nor couid any
-- 435.31: °"hebChurch.0t
+- 431.25: 10. My opponent allows the Scriptural names of the Church but says they are used figuratively.
+- 432.3: Still they are used and are therefore applicable.
+- 433.14: My opponent uses terms that are not warranted by Scripture.
+- 434.5: It would be a fitting work for the doctor to shew what language is figurative and what literal;
+- 434.11: e. g. as to whether the Church is a person.
+- 434.29: If the Church is only figuratively something, it is literally nothing,
+- 435.3: and so has no parts,
+- 435.15: and no head;
+- 435.24: likewise no religious corporation could be or do anything;
 
 ## Notes
 

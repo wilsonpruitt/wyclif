@@ -37,23 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 418.1: c) _the Saints B
-- 418.2: bod^ofch^tet ,StheachurPch°f
-- 418.4: ""manfand1" triumphant.
-- 418.17: There are miiuam cCch the^rYumphan" b^otthmakde°aS .86
-- 418.21: diference.
-- 419.1: Description of ihe Church ... _ , ., _, , given by Cardinal John: _ ,. . .....
-- 419.6: a) it is the assembly of all ...... . the faithfui, anc' nas two . „ parts, miiitant and triumphant; ... ...
-- 419.26: bj in tiie mihtant Clmrch . .... „ . . . . there are wicked, but in 7 . . ihe triumphant only the good. 2 J
-- 420.27: Hence we see differences between ' . . , miiitant and trinmphant are . , , . , . , , ... , not essentiai, 3o ut accidentai,
-- 421.8: and as spirits pass ,o gi°ry . ... they become part of the 7i .,...„,.'. . , Church triumphant. . .
-- 421.15: The spirit is the same pcrson . ... as the man.
-- 422.19: s.My opponem grants that the . . Churcii is throushout cites Augustine.
-- 422.26: j8yb
+- 418.17: There are defects in the militant Church that are not in the triumphant, but this does not make a specific difference.
+- 419.1: Description of the Church given by Cardinal John:
+- 419.6: a) it is the assembly of all the faithful, and has two parts, militant and triumphant;
+- 419.26: b) in the militant Church there are wicked, but in the triumphant only the good.
+- 420.27: Hence we see that the differences between militant and triumphant are not essential, but accidental,
+- 421.8: and as spirits pass to glory they become part of the Church triumphant.
+- 421.15: The spirit is the same person as the man.
 
 ## Notes
 

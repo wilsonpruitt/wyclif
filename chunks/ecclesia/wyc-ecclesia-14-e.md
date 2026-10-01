@@ -43,22 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 314.10: Answer: io Christ had r ... rights which he did not give lo . ... . . Peter.
-- 315.7: The spirituai sword is for- o i ii i mally committed to the .... , .. ....... priest,
-- 315.18: with an indirect control of the ...... secuiar sword, which is in thc ... ... . rr . . hands of the laity. , . ...
-- 315.26: The powers which were in ... Christ the vine are divided .... .... . between the branches. . ....... . .
-- 316.11: If it is asked wliere in Scnp- _ 1 ' mre rule is forbidden to the ° cicrgy, we repiy by askmg where 1 r tt is aiiowed.
-- 317.1: Ni73hin
-- 317.2: Three texts that miglit do if . ... they couid be taken ironi- . .....
-- 317.4: i73' cally.
-- 317.27: opinion of Gandano!
-- 318.3: non assero.
-- 318.4: who was very mild in his ex- . .... t . .. pressions.
-- 318.27: au ceremonies should likewise . \ be grounded in Scripture. 111*1
+- 315.7: The spiritual sword is formally committed to the priest,
+- 315.18: with an indirect control of the secular sword, which is in the hands of the laity.
+- 315.26: The powers which were in Christ the vine are divided between the branches.
+- 316.11: If it is asked where in Scripture rule is forbidden to the clergy, we reply by asking where it is allowed.
+- 317.2: Three texts that might do if they could be taken ironically.
+- 317.27: Opinion of Henry de Gandano.
+- 318.4: who was very mild in his expressions,
 
 ## Notes
 

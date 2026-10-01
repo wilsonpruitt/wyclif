@@ -37,25 +37,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 17.1: I .10 Sixth conclu-
-- 17.1: sion. n0 christian thSat°b*isShaid evenchurch!°caI
-- 17.18: i3ob
-- 17.19: None of the apostles called . . . . i-i • • 1 •
-- 17.20: 20 himself head or
-- 17.20: spouse of the . . . Church.
-- 17.26: a Head must be predestinate, .... rn .. . . . .
-- 18.6: which no one can know him- , , ■ » seif 10 be.
-- 18.21: Augustine wicked "maii1 is not hL? wifei*
-- 19.10: i3oc
-- 19.18: Seventh conciusion- Tne PoPe' , rr • iie is predestinate and does .... . . . his pastorai office, is head of ... ._..'. . .,. so mueh of the Church, as is . . .... under his government. • • t • t
-- 19.31: deny tiiat 'omrch;
-- 20.6: oihcrs say that Church^but \hing {?. c°!sa oniy a concepi);
-- 20.11: Others, that the Church will not j • t- 1 • •<. jexist untii the dayof,udgment-
-- 20.32: aii the elect are one person and ... . . that is the Church. ...
+- 17.1: Sixth conclusion. No Christian should assert that he is head even of a local Church.
+- 17.19: None of the apostles called himself head or spouse of the Church.
+- 17.26: A Head must be predestinate,
+- 18.6: which no one can know himself to be.
+- 18.21: Augustine says that a wicked man is not the head of his wife.
+- 19.18: Seventh conclusion. The Pope, if he is predestinate and does his pastoral office, is head of so much of the Church, as is under his government.
+- 19.31: Some deny that there is a Church;
+- 20.6: Others say that there is a Church, but that it is not a thing (i. e. is only a concept);
+- 20.11: Others, that the Church will not exist until the day of judgment.
 
 ## Notes
 

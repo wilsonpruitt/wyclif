@@ -43,24 +43,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 328.7: And if that were put aside 110tbing 10 the same cflcct wouid be found in scnpture. . 1 .
-- 328.27: A second doubt is whctlicr thc king may withr draw Cliurch tcmporaliies on account of abuse, or whcn tlic clerfjy are 111 contcmpt.
-- 329.9: Many think he niay, and that ' .... ihe ciergy should tell the 1 1 , 1 . uing so.
-- 330.13: Three fuiile B rcasons for not , , . . waming: 1. The king i5 would takc ...... , . ■■.«" ■ away our tempora . .
-- 330.20: 2. The matter 175'' has been decid- . ed in ihe 1'apal Court. , . . . .... •. •.. .
-- 330.30: 3. The reaim
-- 330.31: v/hi^thecTergyregnura ls siIent'
-- 331.7: Such a scriou:,. quesiion ousiu ... . . . . , ... , . to be settied.
-- 331.17: History .>t tiie question. .... . . . Wiiiiam i. rearranged . . . • i • •,, many foundations or trans- ... .
-- 331.20: C terrcd them.
-- 331.33: suppression of the Tcn,P|ars-
-- 332.3: Reccni cxamplcs of tcm- . . r -nt poralticsseized.
-- 332.20: Thrce conciudown by a 1. addcimiiion ofheresy;
-- 332.25: 2. dcniai of thc King's riglit to dcprivc
+- 328.27: A second doubt is whether the king may withdraw Church temporalties on account of abuse, or when the clergy are in contempt.
+- 329.9: Many think he may, and that the clergy should tell the king so.
+- 330.13: Three futile reasons for not warning:
+- 330.15: 1. The king would take away our temporalties.
+- 330.20: 2. The matter has been decided in the Papal Court.
+- 330.30: 3. The realm goes on well while the clergy is silent.
+- 331.7: Such a serious, question ought to be settled.
+- 331.17: History of the question. William I. rearranged many foundations or transferred them.
+- 331.33: Suppression of the Templars.
+- 332.3: Recent examples of temporalties seized.
 
 ## Notes
 

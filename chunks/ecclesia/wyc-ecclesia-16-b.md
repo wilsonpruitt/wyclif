@@ -31,29 +31,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 363.1: i7Qc but we accept
-- 363.2: the writings of t t • • ••
-- 363.2: and Pcter
-- 363.3: althoueh thev . . ,. sinned.
-- 363.13: objectiom 2. Silvester did , , right in accepting a gift for ... .... the poor and an hoth right and wrong. ... . 1 .
-- 363.24: Answer: The same act i ■ . i ■ • . . ■ . ■ c •
-- 363.25: 25 may be now
-- 363.26: riehWrong.n°W
-- 363.30: 3o Moreover we do
-- 363.31: "siivester did*
-- 364.1: and evcn if i7Qc d right on the * , ... • whoie, the act might be . . . accompanied
-- 364.4: s'n- r.-i i • •
-- 364.7: Objection: E 3. Silvcstcr b . . rnisht receivc a gift for him- . . ? . ,. ... scif withont sin why not for . .r ... , ,. , others? io
-- 364.15: Answer i5 Sin accompanies aii activc life ;
-- 364.29: and, aithough '^per^oVm^cfvH^ 3o
-- 365.1: iyi)'1
-- 365.2: yet such acts may be ... . damnabie in a
-- 365.7: Civil dominion is more incon- . . . sisient with priesthood than i , , , ... is fornication.
-- 365.22: an evangelical ...... , . dominion over all things but - . no civii dominion. , .. ... . ...
+- 363.13: Objection: 2. Silvester did right in accepting a gift for the poor and an act cannot be both right and wrong.
+- 363.24: Answer: The same act may be now right and now wrong.
+- 363.30: Moreover we do not allow that Silvester did right.
+- 364.1: and even if right on the whole, the act might be accompanied by sin.
+- 364.7: Objection: 3. Silvester might receive a gift for himself without sin; why not for others?
+- 364.15: Answer: Sin accompanies all active life;
+- 364.29: and, although lords may rightly perform civil acts,
+- 365.2: yet such acts may be damnable in a priest.
 
 ## Notes
 

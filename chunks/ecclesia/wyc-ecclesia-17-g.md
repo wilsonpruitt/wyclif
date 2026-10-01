@@ -25,18 +25,8 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 410.3: in the first two forlkno\\nmay bth™eChtrch,0
-- 410.12: but in thc third
-- 410.13: prtdestinateare memfrers, and . . ■ , . • • r •«. i oniy they.
-- 410.30: 4. My opponent 4 P
-- 410.31: 3o. Cf. p. 1 1 3, 1. 27.
-- 411.4: that there were mwhfcrfchriit "u^ties.'1
-- 412.18: This is true bm the error lies in . , asscrting that thc Church . , bepan at the dcath of Christ. . . . . ...
-- 412.29: The Chnrch cannot have . . ... . . .... begun in the three days.
+- 410.30: 4. My opponent says
+- 411.4: that there were general councils in which Christ conferred with his apostles.
 
 ## Notes
 

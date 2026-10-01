@@ -43,21 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 47.5: 5 Christi etc.
-- 47.7: Objection: This wonld . .. . . ...... disabic tiic ciergy from enfor- .... cing tneir dues.
-- 47.14: a Answer. It would be . , better if dues were less entor- .....
-- 47.16: ccd
-- 48.7: Our pretence good motives 1 must bc testcd by our acts and by Scripture.
-- 49.1: 5 i34d Expianation ot
-- 49.22: How we may ,Upffestshareer worid|y-
-- 49.27: by eagerness to obtain wcalth; r
-- 50.8: by carc to kccp
-- 50.28: by grief for c D
-- 51.8: Hypocrites apply Scnpturc ° 1 . faiseiy in their own support. J 1 ' 1 m .
+- 47.7: Objection: This would disable the clergy from enforcing their dues.
+- 47.14: Answer. It would be better if dues were less enforced
+- 48.7: Our pretence of good motives must be tested by our acts and by Scripture.
+- 49.1: Explanation of Ezekiel's vision.
+- 49.22: How we may judge whether priests are worldly:
+- 49.27: by eagerness to obtain wealth;
+- 50.8: by care to keep
+- 50.28: by grief for its loss.
 
 ## Notes
 

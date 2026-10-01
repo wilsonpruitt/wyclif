@@ -43,23 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 561.5: pardon ot sin for money . . . wouid impiy that God sells .. . . ... righteousness,
-- 561.10: i. e. himself.
-- 561.15: 1 5 God cannot
-- 561.15: remit sin ... . without satisfaction. .... ,.
-- 561.19: Certainiy tnen cannot,
-- 561.27: and he cannot be a Christian - . if he ciaims such a power.
-- 562.5: fur et latro.
-- 562.5: To havcPeter's p0mu\VfoHoTS humiiltyand service.
-- 562.23: The head theChS iS divinity;
-- 563.3: G- 2c>4d
-- 563.12: In things doubt ful the only authority is Scripture.
-- 563.26: The Pope and Curia err, and . Uieir buiis are often talsified.
-- 564.11: The meriis liis Saints are t mgs past,
+- 561.19: Certainly then the Pope cannot,
+- 561.27: and he cannot be a Christian if he claims such a power.
+- 562.5: To have Peter's power the popes must follow Peter in humility and service.
+- 562.23: The head of the Church is Christ's divinity;
+- 563.3: and Christ has left his testament to guide us.
+- 563.12: In things doubtful the only authority is Scripture.
+- 563.26: The Pope and Curia err, and their bulls are often falsified.
+- 564.11: The merits of Christ and his Saints are things past,
 - 564.22: and so beyond our power.
 
 ## Notes

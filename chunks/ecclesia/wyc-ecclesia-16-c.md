@@ -25,22 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 365.1: iyi)'1
-- 365.2: yet such acts may be ... . damnabie in a
-- 365.7: Civil dominion is more incon- . . . sisient with priesthood than i , , , ... is fornication.
-- 365.22: an evangelical ...... , . dominion over all things but - . no civii dominion. , .. ... . ...
-- 366.1: i7Qd
-- 366.6: a man may be reputed Christ's ' vicar and yet be a devil, as is 1 1 .... not incredibie of Gregory XI. . r ...
-- 366.18: i8oa
-- 367.1: Objection: .4- Silvester • _t couid not retuse Constan- & . . ° ,. . tine's aims without mortal ... . 1 o-i
-- 367.4: sin.
-- 367.10: Answer: A man may so ... ,. . invoive himseit tnat ne cannot . -ii ■ • excape sin.
-- 367.19: H Examples.
-- 368.15: There is no ?lVest"rewoujd 180" iaVrefusing. '"
+- 365.7: Civil dominion is more inconsistent with priesthood than is fornication.
+- 365.21: God gave Peter an evangelical dominion over all things but no civil dominion.
+- 366.6: A man may be reputed Christ's vicar and yet be a devil, as is not incredible of Gregory XI.
+- 367.1: Objection: 4. Silvester could not refuse Constantine's alms without mortal sin.
+- 367.10: Answer: A man may so involve himself that he cannot excape sin.
+- 367.19: Examples.
+- 368.15: There is no evidence that Silvester would have sinned in refusing.
 
 ## Notes
 

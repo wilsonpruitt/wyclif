@@ -31,21 +31,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 220.1: i5ribM
-- 220.26: Wc maintain that the king &. cannot give a privilcge to rob or detain wronglully.
+- 220.26: We maintain that the king cannot give a privilege to rob or detain wrongfully.
 - 221.17: Another case.
-- 222.4: At least criminals ought * . . . . to be excommunicated and ... . . after fony days imprisoned. .
-- 222.35: 35. B: in predas.
-- 223.5: 3r<> chief argument : Such pri- _ 1 , viieges have no foundation in Scripture.
-- 223.24: iixceptions made in Canon . ■ r . ... , „ . Law to rigm of sanc uary-
-- 224.3: 2. a waster of fields, . .
-- 224.6: 3. an cscaped slave, , . . .... .. .
-- 224.9: nomicide.
-- 224.14: The 5"- excep- e Q lion applies 10 _ , _ _ _ iheWesiminster i5
+- 222.4: At least the criminals ought to be excommunicated and after forty days imprisoned.
+- 223.5: 3rd chief argument: Such privileges have no foundation in Scripture.
+- 223.24: Exceptions made in Canon Law to right of sanctuary:
+- 224.1: 1. a public thief,
+- 224.3: 2. a waster of fields,
+- 224.6: 3. an escaped slave,
+- 224.9: 4. a wilful homicide.
 
 ## Notes
 

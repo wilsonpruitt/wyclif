@@ -37,29 +37,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 69.5: objcction:
-- 69.6: 1 wouid havTa
-- 69.7: ^atioV^the5" number of the 1 • • .• • . biessed.
-- 69.16: the; Churcn^has suc0f number°n thoumass°t
-- 69.24: one naif is
-- 69.25: 25 angeisPaSnd one
-- 69.26: ot men"
-- 70.1: 2. Objcciion: ,3$« If wc arc right, . .... aii things past wouid bc present to God. .
-- 70.8: Answer: All the Saints 1 ' agree that they arc so prcsent. ' ' °
-- 70.17: Ail the wicked make one generation;
-- 71.9: and so do ail the righteous.
-- 71.20: C 3. objection:
-- 71.21: are humaniy are^fte^cers of the Cliurch. \ ■ r\ 1 • • • •
-- 71.29: Answer: We must distin- ■i> -tr 1 t
-- 71.30: 3o guish between
-- 71.31: e«^parentthe
-- 71.32: vcra pretensa
-- 72.1: Thc true i Cluirch obevs . . _ . oniy the orainancc of God. .. ..
-- 72.11: The foreknown as well as the . .7 .... ... prcdestinatc niay hold cccle- . . . . . - . siasticai oiiice.
+- 69.5: Objection: 1. The Church would have a quantitative relation to the number of the blessed.
+- 69.16: Answer: The Church has such a relation of number, though not of mass;
+- 69.24: one half is composed of angels and one of men.
+- 70.1: 2. Objection: If we are right, all things past and future would be present to God.
+- 70.8: Answer: All the Saints agree that they are sO present.
+- 70.17: All the wicked make one generation;
+- 71.9: and so do all the righteous.
+- 71.20: 3. Objection: As lay rulers are humanly appointed, so are the officers of the Church.
+- 71.29: Answer: We must distinguish between the true and the
+- 71.30: We must distinguish between the true and the apparent Church.
+- 72.1: The true Church obeys only the orainance of God.
 
 ## Notes
 

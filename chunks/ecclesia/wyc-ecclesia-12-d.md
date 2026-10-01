@@ -49,43 +49,20 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 263.3: A prince who interrupts the .... . ... . . course of justice is suilty of .. • -i • r • • j j wrong.
-- 263.24: I b) That a judge
-- 263.24: is to do wrong . .
-- 263.25: 25 in obedience to
-- 263.26: law is contrary ,..,.,/• . . ... to the cathoiic faith-
-- 264.1: Wc must 66* distinguish ...... between occasion tiven and ... .... occasion taken.
-- 264.24: The existence of othcr false ,. , . ., . . . priviieges cannot protect , . , . , . . ., .. , . , this one.
-- 264.33: Th^pdviie^e
-- 265.1: Ki66"ct beenapprov-
-- 265.1: ed by great r . authonties.
-- 265.9: , .Aiiswer: lt is not certain
-- 265.10: 10 that it.was.
-- 265.10: appioved ni the 1 7 sense now Put
-- 265.11: upon lt ;
-- 265.19: and the needof remedy is not ... . ,. . feit tili mischief
-- 265.24: it is foolish to confuse a j, ,. .... , . _ _
-- 265.25: iiit/' material build-
-- 265.26: ing with lioly _ . Church.
-- 266.7: The Duke's wish was to preservc cvciy rcasonable pn- . ... viiegc.
-- 266.16: He wouid have tolerated even J 1 J insuit to the kinp, but not ° .... . f danger to the
-- 266.27: it is a sign of irreli^ion to . ., ., . . . ~ love scandal.
-- 267.4: M Whai reiigion
-- 267.4: is there in ... ... .........
-- 267.5: 5 defending
-- 267.5: scoundrels, or in keeping a hired housc for . . .. . . . . ihieves,
-- 267.9: 3 or in saving
-- 267.9: scoundrels from ...... . . .
-- 267.10: 10 the punishment
-- 267.11: . that might . r . . .. amend them,
-- 267.14: or can the king give unjust ... . .
-- 267.15: i5 privileges?
-- 267.25: it the king had to punish within ......... r the monastery there would Be ... . . the less crime there. ..... . . .
-- 267.34: deest. .
+- 264.1: We must distinguish between occasion given and occasion taken.
+- 264.24: The existence of other false privileges cannot protect this one.
+- 264.33: 4. Objection: The privilege
+- 265.1: has been approved by great authorities.
+- 265.9: Answer: It is not certain that it was approved in the sense now put upon it;
+- 265.19: and the need of remedy is not felt till mischief arises.
+- 265.24: It is foolish to confuse a material building with holy Church.
+- 266.7: The Duke's wish was to preserve every reasonable privilege.
+- 266.16: He would have tolerated even insult to the king, but not danger to the kingdom.
+- 266.27: It is a sign of irreligion to love scandal.
+- 267.4: What religion is there in defending scoundrels, or in keeping a hired house for thieves,
+- 267.9: or in saying scoundrels from the punishment that might amend them,
+- 267.14: or can the king give unjust privileges?
+- 267.25: If the king had to punish within the monastery there would be the Jess crime there.
 
 ## Notes
 

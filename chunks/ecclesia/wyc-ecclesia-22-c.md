@@ -31,20 +31,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 524.1: The decrctai 2oob °for athosees?ainr when drunk.
-- 524.18: Aueustine asks if wc arc to . i • • pray for the damned, why ....... • not for the
-- 525.1: E 2oob
-- 526.1: We ought not 2oo° wha°t weyknow GodgMnt.n0t
-- 526.32: AUright G
-- 526.33: ptheyefuifi"mcn0tr of God's wiii,
-- 527.1: and are reaiiy thanksgivings. ., - ....
-- 527.10: God distributes our suftrages r as "e sees
-- 528.1: We pray for tlic foreUnown . ..... . . whiie aiive, but diilerenMrom pravmg for the ... ., ... . ... damned.
-- 528.18: it is argued that our . . . .. prayers must cease if wc may .. , . , , not pray for the damned. ... , ,
+- 524.18: Augustine asks if we are to pray for the damned, why not for the devil?
+- 526.1: We ought not to pray for what we know God will not grant.
+- 526.32: All right prayers are for the fulfilment of God's will,
+- 527.1: and are really thanksgivings.
+- 527.10: God distributes our suffrages as he sees fit.
+- 528.1: We pray for the foreknown while alive, but this is quite different from praying for the damned.
 
 ## Notes
 

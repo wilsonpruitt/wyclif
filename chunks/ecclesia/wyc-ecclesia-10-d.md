@@ -49,23 +49,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 216.1: i58dl
-- 216.12: naiiiior oi riehes. • . • . , • ,
-- 216.27: Thisprivilege K would allow a .... ...... hostiic aimv to be liarbourcd. 1 . , ....
+- 216.27: This privilege would allow a hostile army to be harboured.
 - 217.22: Such a danger is not purely fanciful.
-- 218.1: To give snch i5n* L pnvilcge is be- . '. . .... yond thc Kuir's power; . .
-- 218.24: since such a rerusc tor cri- 1 ' n ^ r r mmais wouid ruin the rcalm : . . . .
-- 218.28: i5gb
-- 219.14: and cause inin&vfduais.
-- 219.29: Difficuit case for tlic support- . r . ...
-- 219.30: 3o ers of tne
-- 219.31: inv"-
-- 220.1: i5ribM
-- 220.26: Wc maintain that the king &. cannot give a privilcge to rob or detain wronglully.
+- 218.1: To give such a privilege is beyond the King's power;
+- 218.24: since such a refuge for criminals would ruin the realm;
+- 219.14: and cause injustice to individuals.
+- 219.29: Difficult case for the supporters of the privilege.
 
 ## Notes
 

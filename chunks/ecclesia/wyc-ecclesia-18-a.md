@@ -25,29 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 415.9: A 6- Ouropponent
-- 415.10: theforeknown when 1 1 baptized are members ot 1 r . ,the the Church, b) prede- _ . stinate erring from the fanli are not members, . .
-- 415.15: 3 c; as neither
-- 415.15: were tne Saints, ' whiie in error.
-- 416.1: He aiieges the i86b authonty of . . .... St. Thomas,
-- 416.6: hutSt Thomas was using .... , "ChurcirMnour second sense . ... (see p. 409).
-- 416.21: Authonties show that the ... r predestinate are members even . when in error.
-- 417.12: My opponent says
-- 417.13: ; a) there is a dirlerence in ... . naturc between the Church . . . , . . .
-- 417.15: 1 miiitant and
-- 417.16: triumphant; . . . b) they differ intinitely in t-rr ... . essenciai perfection ; . .. . c) they do not form one , , , . Church.
-- 417.24: But
-- 417.25: a) since both are the Church, . . n r . ' they are aiike bj those who now make up ... . , . . the miiitant will be the . . . ... triumphant Church. , . . .
-- 417.31: tres errores.
-- 418.1: c) _the Saints B
-- 418.2: bod^ofch^tet ,StheachurPch°f
-- 418.4: ""manfand1" triumphant.
-- 418.17: There are miiuam cCch the^rYumphan" b^otthmakde°aS .86
-- 418.21: diference.
+- 415.9: 6. Our opponent says a) the foreknown when baptized are members of the Church, b) the predestinate erring from the faith are not members, c) as neither were the Saints, while in error.
+- 416.1: He alleges the authority of St. Thomas,
+- 416.6: but St. Thomas was using "Church" in our second sense (see p. 409).
+- 416.21: Authorities to show that the predestinate are members even when in error.
+- 417.12: My opponent says a) there is a difference in nature between the Church militant and triumphant; b) they differ infinitely in essencial perfection; c) they do not form one Church.
+- 417.24: But a) since both are the Church, they are alike in nature; b) those who now make up the militant will be the triumphant Church.
+- 418.1: c) the Saints testify that the body of Christ is made up of the Church militant, dormant, and triumphant.
 
 ## Notes
 

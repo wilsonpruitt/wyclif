@@ -91,28 +91,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 96.1: be^heacf ofufe 141 meanine'the thaMTui^eMiis
-- 96.4: ruie.
-- 96.20: Xne^Church D
-- 96.21: militant^and is notonifbody S'are s^arate?8
-- 96.26: Scptratlonis bar to umty.
-- 97.1: i4.id The souls of the
-- 97.1: blessed are m- T 1 1 . corporate in Chnsfs body.
-- 97.19: A mathematicai digression. 1 '
-- 97.31: manet.
-- 98.23: Men judge each F other wrongly becanse their minds arc tixed ... on human law.
-- 98.31: The study of SCmai;erthemld wiser.
-- 98.35: Iria dicta.
-- 99.1: Some think that Chrisfs Church .. .. . ,.
-- 99.2: 42" united as to
-- 99.2: tima and space, ... . whereas the true members r , of Christ are scattered. . ... . . .
-- 100.1: cimrohV(»nta1nsi,er,,i ,42» morCwheat.tlian
-- 100.13: A Chnstian H must know how to squai-e the circle.
-- 100.27: be°a circie' with centre and everycircumference nowhere. & r '
+- 96.20: Objection: The Church dormant, militant and triumphant is not one body, since these parts are separate.
+- 96.26: Answer: Separation is no bar to unity.
+- 97.1: The souls of the blessed are incorporate in Christ's body.
+- 97.19: A mathematical digression,
+- 98.23: Men judge each other wrongly because their minds are fixed on human law.
+- 98.31: The study of Scripture would make them wiser.
+- 99.1: Some think that Christ's Church is united as to time and space, whereas the true members of Christ are scattered.
+- 100.1: The visible Church contains more tares than wheat.
 
 ## Notes
 

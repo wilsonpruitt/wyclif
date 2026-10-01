@@ -43,24 +43,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 246.1: c) Aii wcakness or sin is a privi- - ..... ....... lefic since it 1° brings good to . the Church. Answcr: . . .... a) Such use of thc word privi- .« . . lcge is an cquivocation. .... . ... . .
-- 246.26: Law is common in two senses ; of obiigation and assertion.
-- 247.17: A law may be common as to a ... . .
-- 247.18: yet a pri-
-- 247.18: vilege 111 respect ... .. of the wiioie.
-- 248.1: b) It is true that i6'jc the highest . . . , ..... privileges are tlie fiitt of God .... . , ,■ . ».T
-- 248.3: oniy,
-- 248.13: yet uie ruier may so employ , , . .... earthiy pnvileges as to make . . .. . the Church apt lo reccive higher gifts.
-- 248.21: Rites or privileges instituted - cc • ' l' • -i ■• im* by Christ are to bobTerved'y
-- 248.30: it53J
-- 249.16: S cj sin is not a
-- 249.17: Pnv^ese;
-- 250.1: aithough God i634 S uses it tor good, cvcn to the wickcd. 1 ' 1 '
-- 250.18: Objections: ,64* A [. Wc are charg- , • i • • , • ed with wishing to , . „ . . r~ . _,. . ovcrthrow thc privileges of the ... . , , . .. .. cimrch. Answer: . ... .... This chargc is
+- 246.26: Law is common in two senses; of obligation and assertion.
+- 247.17: A law may be common as to a part, yet a privilege in respect of the whole.
+- 248.1: b) It is true that the highest privileges are the gift of God only,
+- 248.13: yet the ruler may so employ earthly privileges as to make the Church apt to receive higher gifts.
+- 248.21: Rites or privileges instituted by Christ are to be specially observed.
+- 250.1: although God uses it for good, even to the wicked.
 
 ## Notes
 

@@ -43,23 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 10.4: The unity of the Church r . ' . proved out oi nany passagcs of scripture.
-- 10.10: l2if
-- 11.21: Third conciujsion. Ouiside ... .... <he Hoiy Cathojic Church there . i-i i- ... is no saivation or remission of
-- 11.24: sins.
-- 12.1: i2c/ i
-- 12.5: cimrcii is Noali's ark. ...... .
-- 12.8: The rcprobatc c are as limbs cut . . , . oii from ihc
-- 12.18: and Bedc.
-- 13.1: Fourth conciusion. Both J . . . swords or powers belong to r the Church.
-- 14.1: i >m,j K
-- 14.4: whfch anSecclesiastic judgment or correction. °
-- 14.17: Fifth conclusiolito thePope is necessary ton _ , . .... Salvation.
-- 14.26: As, wherever *is the Roman* wherwer is one of the taithful, , . , ,• there too is the Roman Church.
+- 11.21: Third conclusion. Outside the Holy Catholic Church there is no salvation or remission of sins.
+- 12.5: Church is like Noah's ark.
+- 12.8: The reprobate are as limbs cut off from the body.
+- 12.12: So says Augustine
+- 12.18: and Bede.
+- 13.1: Fourth conclusion. Both swords or powers belong to the Church.
+- 14.4: Eight cases in which an ecclesiastic is subject to secular judgment or correction.
 
 ## Notes
 

@@ -31,18 +31,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 14.1: i >m,j K
-- 14.4: whfch anSecclesiastic judgment or correction. °
-- 14.17: Fifth conclusiolito thePope is necessary ton _ , . .... Salvation.
-- 14.26: As, wherever *is the Roman* wherwer is one of the taithful, , . , ,• there too is the Roman Church.
-- 15.11: name at Oxford. .
-- 15.23: For three reasonsthe Church . . . . ofChrist is cailcd the Romish , _ - r . . , i , . r . .. ,. Church.
-- 16.1: i3o"M
-- 16.19: We must useSocal mimes for thc cimrcii.
+- 14.17: Fifth conclusion. Submission to the Pope is necessary to Salvation.
+- 14.26: As, wherever the Pope is, there is the Roman Church: so wherever is one of the faithful, there too is the Roman Church.
+- 15.11: Local name at Oxford.
+- 15.23: For three reasons the Church of Christ is called the Romish Church.
+- 16.19: We must be careful how we use local names for the Church.
 
 ## Notes
 
