@@ -49,6 +49,7 @@ otherwise.
 | suffragari | to aid by intercession | The verb of *suffragia*. Ruled 2026-09-28 (2 sites). |
 | litere fraternitatum | letters of fraternity | Friars' letters admitting a benefactor to the order's suffrages. Ruled 2026-09-28 (4 sites). |
 | canonizare | canonize | The same English whether pope or scripture canonizes (*Dial.* 20.31, 21.1). Ruled 2026-09-28 (6 sites). |
+| viantes | those on the road | The participle beside *viator* (wayfarer); kept distinct so the reader sees which word Wyclif used. Ruled 2026-10-01 (≈22 sites in *De ecclesia*; first *Eccl.* 10.12). |
 
 ## B. Lordship, law, office
 
@@ -134,6 +135,8 @@ otherwise.
 | lex gracie | the law of grace | The new law, opposed to *lex vetus*. Ruled 2026-09-28 (*Dial.* 10.3; 7 sites). |
 | curia romana | the Roman curia | Ruled 2026-09-28 (*Dial.* 7.8; 5 sites). |
 | heretica pravitas | heretical depravity | The heresy courts' formula; keep it recognisable. Ruled 2026-09-28 (*Dial.* 7.5, 7.8). |
+| plenitudo potestatis | plenitude of power | The canonists' term for papal power. Ruled 2026-10-01 (6 sites in *De ecclesia*; first 13.6). |
+| bigamia | bigamy | Canon-law sense: a second marriage (successive, or to a widow), a bar to orders; a **C** note at the first occurrence in each chunk says so. Ruled 2026-10-01 (3 sites; first *Eccl.* 11.6). |
 
 ## C. Logic, disputation, metaphysics
 
@@ -202,6 +205,7 @@ otherwise.
 | concessio | grant | Of property or privilege. Ruled 2026-09-28 (5 sites). |
 | exproprietarii | the propertyless | The friars who profess to own nothing. Ruled 2026-09-28 (6 sites). |
 | reditus | revenue(s) | Ruled 2026-09-28 (23 sites). Exception: *Dial.* 18 (ch. 9 n5), *reditus* = the clergy's "return" (to wealth), on *revertatur* 15.9 / *redire* 15.21; the note gives "revenue" as the alternative. Ruled 2026-09-29 (coordinator, delegated, close-out). |
+| formido (*sine / cum formidine*) | misgiving | The scholastic "fear of the opposite" that qualifies assent; "fear" only where it is plainly the emotion. Ruled 2026-10-01 (19 sites in *De ecclesia*; first 5.24). |
 
 ## D. False friends and ordinary words that mislead
 

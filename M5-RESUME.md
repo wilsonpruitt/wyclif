@@ -3,6 +3,20 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-01 (evening) — brief 01-b–01-d DONE; Latin clean-up DECISION PENDING
+- Brief 01-b/c/d: one Opus agent, **164K** (on estimate); lint clean. Ledger: Sonnet verifier (135K) read
+  14 rows in the local PL; all verified except E01c-7 (Amalarius), E01c-5 (*Unam sanctam*, not local), E01c-6
+  (Aristotle), E01d-6. E01d-1 corrected: *De corr. Donat.* (Ep. 185) 9.42, not Ep. 93 (coordinator re-read).
+- GLOSSARY ruled: *viantes* "those on the road", *plenitudo potestatis*, *bigamia* (C note), *formido* "misgiving".
+- ⚠ **The frozen Latin is not clean.** In these 3 chunks: 15 OCR scars corrected in the chunk Latin against
+  the plates (14.5 *ecclesiasticus* LOST at the break *qui-|bus*; side-note English *like* in the Latin;
+  `.'` for `?`; alinea letters; `3o`/`3i`; `%`; `■`). NOT yet propagated to `text/ecclesia/pNNN.la.txt`.
+  Volume-wide: ~200 character scars in the scaffold Latin, and `nonwords.tsv` singletons (1,644) are ~20%
+  garbles (*Lhnsti*, *omcio* p. 450) that the suspect filter never sent to the plates ≈ 400 more.
+  **Wilson to decide:** one Latin clean-up pass (~600 items, ≈ 1.1M at the plate-pass rate) before the next
+  brief, vs. per-wave plate checks (≈ 15 crops per brief, coordinator).
+- Not done mechanically: the *sed/autem* check (agent's own report only).
+
 ## Status 2026-10-01 (later) — 01-a REVIEWED
 - Fixed in 01-a: 1.17 *Illos autem* back to "Now" (the pilot's; 1.19 stays "And"); *suffragium* "aid"
   (pilot), untagged: the *suffragia* row is the church's shared-out prayers, not a parent's help;
