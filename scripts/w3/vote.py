@@ -205,6 +205,15 @@ def align_page(page, stream, start):
     for g in list(ins):
         if g <= first_eq and g == 0 or g >= last_eq and g == len(page):
             del ins[g]
+    # votes outside the anchored stretch (first to last match of >= 3 words) are unknown: before it the
+    # window's slack pairs the previous page's last words with this page's first (p. 297 'dat' for
+    # 'recipiunt', pp. 341, 373), after it the next page's first words
+    anchors = [b for b in sm.get_matching_blocks() if b.size >= 3]
+    if anchors:
+        for k in range(0, anchors[0].a):
+            votes[k] = 'EDGE'
+        for k in range(anchors[-1].a + anchors[-1].size, len(page)):
+            votes[k] = 'EDGE'
     frac = matched / max(1, len(page))
     end = lo + (sm.get_matching_blocks()[-2].b + sm.get_matching_blocks()[-2].size
                 if len(sm.get_matching_blocks()) > 1 else 0)
@@ -362,6 +371,10 @@ def unstar(w):
     return w.replace('*', '').strip()
 
 
+def pivot_part(sig):
+    return sig.split(' | ')[0]
+
+
 def pick(decisions, pg, k, forms=None, rule=None, skip=()):
     """The plate decision for this page+position: several may share a position (a word
     and an insertion before it), so prefer the one whose voted forms match."""
@@ -505,10 +518,14 @@ def run(slug, first=None, last=None):
                         queue.append((pg, k, 'INS?', form, t['leaf'], t['box']))
                         stats['INS?'] += 1
             forms = {item: t['n']}
+            edge_n = 0
             raws = {item: t['t']}
             ital = None
             for wid, (votes, ins) in per_wit.items():
                 v = votes[k]
+                if v == 'EDGE':
+                    edge_n += 1
+                    continue
                 if v is None:
                     continue
                 if v == '∅':
@@ -519,15 +536,17 @@ def run(slug, first=None, last=None):
                     if wid == 'fordham':
                         ital = v.get('it')
             rule, win, plate = decide(list(forms.values()), lex)
+            if rule == 'THIN' and edge_n and lex.real(t['n']) and all(f == t['n'] for f in forms.values()):
+                rule, win, plate = 'EDGE', t['n'], False     # page edge, unaligned scans: the pivot's real word
             if (rule in ('R5a', 'R6a') and form_count[win] < 4 and not t['t'][:1].isupper()
                     and not re.fullmatch(r'[ivxlcdmu]+', win) and ocr_suspect(win, lex)):
                 rule, plate = 'NW', True       # every scan shares one misreading: ahquis, luxta, pnncipio
             sig = ' | '.join(f'{w}={f}' for w, f in forms.items())
-            d = pick(decisions, pg, k, forms=sig, skip=('HEAD', 'INS?'))
+            d = pick(decisions, pg, k, forms=sig, skip=('HEAD', 'INS?', 'GAP', 'TAIL'))
             if os.environ.get('W3_DUMP') == str(pg):    # print every row's forms, to write an OVERRIDE
                 print(f'{pg}\t{k}\t{sig}')
-            if d and (plate or d['rule'].startswith('OVERRIDE')):   # OVERRIDE: plate corrects an accepted row
-                if d['forms'] == sig:
+            if d:   # a plate reading is the print at that box, queued now or not (OVERRIDE: corrects an accepted row)
+                if pivot_part(d['forms']) == pivot_part(sig):     # the box read is the pivot's token
                     rd = d['reading']
                     win = '∅' if rd == '∅' else norm(rd)
                     raws = {'plate': rd}
@@ -633,9 +652,9 @@ def run(slug, first=None, last=None):
     p = f'{ROOT}/catalog/lexicon/agreed.txt'
     old = set(open(p).read().split()) if os.path.exists(p) else set()
     open(p, 'w').write('\n'.join(sorted(old | agreed_new)) + '\n')
-    words = sum(stats[r] for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'R3', 'R4', 'R5', 'R6', 'THIN', 'DEL', 'PLATE'))
+    words = sum(stats[r] for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'EDGE', 'R3', 'R4', 'R5', 'R6', 'THIN', 'DEL', 'PLATE'))
     print(f'{slug} pp.{first}-{last}: {stats["pages"]} pages, mean voters {stats["voters"] / max(1, stats["pages"]):.1f}, {words} pivot words')
-    for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP', 'NW'):
+    for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'EDGE', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP', 'NW'):
         print(f'  {r:5} {stats[r]:6}  {100 * stats[r] / max(1, words):5.2f}%')
     print(f'  plate queue: {len(queue)}  ({1000 * len(queue) / max(1, words):.1f} per 1,000 words); '
           f'plate decisions applied: {stats["PLATE"]}; stale: {len(stale)}')

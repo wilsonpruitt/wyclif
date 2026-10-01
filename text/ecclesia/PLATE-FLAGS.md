@@ -1,0 +1,3 @@
+- p.239 pos 94 VIⁱ, p.243 pos 166 Edwardi IIIⁱ: superscript read as ordinal i at strip resolution; possibly a footnote figure (agent 5). Check at translation.
+- p.188 pos 0: page join around *placioni* (agent 3: main token 'donari' spurious, reading 'et'). Check at translation.
+- p.93 pos 206 *limi avi*: t not printed (limi[t]avi); recorded as printed. p.48 pos 206-214: footnote text, ∅.
