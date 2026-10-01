@@ -999,7 +999,7 @@ page	pos	rule	forms	reading	note
 296	10	R3	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=ghristi	Christi	
 296	20	R3	latinworks10wycl=ia | iohanniswyclift00mattgoog=1 | iohanniswycliftr00wycluoft=1 | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=ia | tractatusdeeccle00wycl=1	Iª	
 296	148	NW	latinworks10wycl=diocesis | iohanniswyclift00mattgoog=diocesis | iohanniswycliftr00wycluoft=diocesis | iohanniswycliftr04wycl=diocesis | tractatusdeeccl00wycl=diocesis | tractatusdeeccle00wycl=diocesis	diocesis	
-297	3	GAP	episcopus ijo^et qui recipiunt	et qui recipiunt	print p.297 l.1 'P 170c et qui recipiunt ab eo'; episcopus ends p.296, 170c folio mark; NB main pos 0-2 'et qui dat' are not on this page (repeat of p.296 end)
+297	3	GAP	episcopus ijo^et qui recipiunt	∅	coordinator: the main scan already has et qui recipiunt at pos 0-2 (the other scans voted p.296's dat there; OVERRIDE in part99)
 297	78	R4	latinworks10wycl=eradus | iohanniswycliftr00wycluoft=radus | iohanniswycliftr04wycl=sradus | tractatusdeeccl00wycl=sradus | tractatusdeeccle00wycl=eradus	gradus	
 297	106	R4	latinworks10wycl=outsic | iohanniswyclift00mattgoog=ioutsic | iohanniswycliftr00wycluoft=iioutsic | iohanniswycliftr04wycl=iyoutsic | tractatusdeeccle00wycl=1ollutsic	ut sic	main token covers 170d ut * sic; folio mark and * dropped
 298	7	R4	latinworks10wycl=excommunicatus | iohanniswycliftr00wycluoft=exiyo | tractatusdeeccl00wycl=exi70dq | tractatusdeeccle00wycl=exi70dq	excommunicatus	ex-/communicatus; main token holds whole word
@@ -1119,3 +1119,4 @@ page	pos	rule	forms	reading	note
 328	189	HEAD	CAP. XV.	CAP. XV.	
 329	134	INS?	iii	III°	print 'Jone III° / et Matthei'; main lacks III° after Jone
 330	31	THIN	latinworks10wycl=non | tractatusdeeccle00wycl=non	non	
+297	2	OVERRIDE	latinworks10wycl=rccipiunt | iohanniswyclift00mattgoog=dai | iohanniswycliftr00wycluoft=dat | iohanniswycliftr04wycl=dat | tractatusdeeccl00wycl=dat | tractatusdeeccle00wycl=dat	recipiunt	print: et qui recipiunt ab eo (plate, agent 6); the other scans aligned p.296 dat here
