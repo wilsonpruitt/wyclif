@@ -22,8 +22,15 @@ at the end of the M3/M4 session.*
   Post-pass fixes: one note wrongly deleted by an agent restored (181.11), stale "Omitted per §3.5"
   margin lines removed from 20 scaffolds (all were side-notes or page-foot sources); brief.py wording
   defers to the card; bible.py takes *Luc/Luce*.
-- **Next:** translate 01-a (`brief.py ecclesia 01-a`, one Opus agent), then review it in a FRESH session
-  against the four classes; card changes land before stage 7.
+- **01-a translated (2026-10-01):** one Opus agent, ≈ 95K tokens, 7 tool calls; 13 notes; lint clean.
+  Per-wave: V-03 verified, and its title corrected (*Hus und Wiclif*, as Loserth cites it; the pilot
+  had *Wiclif und Hus*); V-05 (Rufinus) not found in the local PL by phrase search, still to-verify;
+  V-04, V-07 still to-verify.
+- **Next: review 01-a in a FRESH session** against the four classes, then card changes, then briefs of
+  3–5 chunks (from 01-b). For the reviewer: (1) the agent made *Illos autem parentes* (1.17) and
+  *Illis autem cultis* "And" where the pilot had "Now": minor premiss or continuative? (2) the C note
+  n2 on *et fides est ecclesia que …* (1.2–4), plate not checked; (3) *suffragium* → "suffrage"
+  under the *suffragia* row (singular is fine, coordinator's view).
 
 ## Status 2026-09-30 (end of the first M5 session)
 
