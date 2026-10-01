@@ -178,7 +178,7 @@ def main(slug, force=False):
                f'{len(plate)} read on the plate (see Transcription notes)"',
                'italics: none', f'plates: "archive.org {item}, leaves n{leaves[0]}–n{leaves[-1]} (printed p. = leaf − {offset})"',
                'status: draft', '---', '', f"# *{meta['label']}*, {lab}: [TITLE]", '']
-        if cid == '01':
+        if cid in ('01', '01-a'):
             out += ['## Headnote', '', f"[HEADNOTE: see {meta.get('pilot', 'pilots/wyc-dialogus-01.md')}]", '']
         for k, par in enumerate(paras, 1):
             a, b = par[0], par[-1]
