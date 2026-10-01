@@ -3,6 +3,16 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 (evening) — brief 4 (02-e, 02-f, 03-a) DONE: chapter 2 translated
+- Opus brief 150K; one Sonnet agent (112K) read 4 plate words AND verified 6 rows in the local PL (combine the
+  two jobs from now on). Jerome on Micah: Loserth's 1281 = 1221; *dicamus scriptum* is Jerome's. *Moralia* XXXI
+  = PL 76:583D–585C. *austerna* (49.18) is printed and is Wyclif's own paraphrase: *austrina* kept as our
+  emendation (T note). *speculo*, *meriti* are the print (OCR had *specu*, *menti*).
+- tokenfix: 10 more (alinea L, M; *sumiter*, *hn*, *chnsticolis*, side-note *of*). Drift 0 over 15 chunks.
+- GLOSSARY: *confuse/confusus* "indistinct" (never "confused"), *obedienciarius*, *elemosinarius*, *viacio*,
+  *citra Christum*.
+- **Next:** brief 5 = 03-b … (chapter 3).
+
 ## Status 2026-10-02 (later) — brief 3 (02-a–02-d) DONE
 - Opus brief 170K. Ledger: E02b-1 = E01h-4 (verified); E02d-1 verified by the coordinator (Aug. *Serm.* 292.6,
   PL 38:1323); the rest are *Unam sanctam*/tradition rows (not local) or editor.

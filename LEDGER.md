@@ -136,3 +136,18 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E02c-4 | ecclesia-02-c / n11 | Boniface VIII: *intrabit ut vulpes …* tradition | to-verify | from memory |
 | E02d-1 | ecclesia-02-d / n1 | Augustine on Matt. 24:5: *Sermo* 292, *in natali Ioannis Baptistae* (Opp. V.2, 1172) | verified | PL 38:1323, §6: *Multi venient in nomine meo dicentes, Ego sum Christus … nullum audivimus dicentem* (coordinator, 2026-10-02) |
 | E02d-2 | ecclesia-02-d / n5 | Urban VI elected 8 April 1378; crowned Easter Sunday, 18 April | editor | Loserth "Easter-Sunday"; the date 18 April is the agent's, to-verify |
+| E02e-1 | ecclesia-02-e / n3 | Theban legion; Bordier, *Dissertation critique…* (Amsterdam 1705) | editor | Loserth 39.9 |
+| E02e-2 | ecclesia-02-e / n6 | Jerome, *Comm. in Michaeam* II on Mic. 7:5–7 | verified | PL 25:1221C–1222B; Loserth's 1281 = 1221, his 1180 wrong; *dicamus scriptum de haereticis* is Jerome's |
+| E02e-3 | ecclesia-02-e / n7 | *ast uxor nati dicitur esse nurus*, a school pentameter | to-verify | source unidentified |
+| E02e-4 | ecclesia-02-e / n8 | *Tulit me mater mea …* = Gospel of the Hebrews in Jerome on Mic. 7:6 | verified | PL 25:1221D–1222A, *Modo tulit me mater mea, sanctus Spiritus …* |
+| E02f-1 | ecclesia-02-f / n2 | Augustine, *De Trin.* XIII.2.5–3.6 | verified | PL 42:1016–1017; two senses (*quae* / *qua creditur*), not three |
+| E02f-2 | ecclesia-02-f / n6 | *libro sexto, tractatu de mendacio* = *De veritate S. Scripture* (B *quinto*) | to-verify | Loserth's conjecture |
+| E02f-3 | ecclesia-02-f / n9 | *X* 5.39.21 *A nobis* (form ours) | editor | Loserth 44.16 |
+| E02f-4 | ecclesia-02-f / n12 | *libro sexto, sexto capitulo*: the signs of Antichrist (B *quinto*) | untraced | unidentified |
+| E02f-5 | ecclesia-02-f / n18 | Hus, *De eccl.* fol. 199a ff.; Kenmerton in Walsingham II, 307 | editor | Loserth p. 47 |
+| E03a-1 | ecclesia-03-a / n2 | *lib. VI, cap. …* (lacuna in the text) | untraced | unidentified |
+| E03a-2 | ecclesia-03-a / n3 | *Decretum* C.8 q.1 c.19 (form ours) | editor | Loserth 47.24 |
+| E03a-3 | ecclesia-03-a / n3 | Augustine, *In Ioh. tr.* 46.5 on John 10:12 | verified | PL 35:1729, *temporalia commoda consectantes* |
+| E03a-4 | ecclesia-03-a / nn5, 10, 11, 13 | Gregory, *Moralia* XXXI | verified | PL 76:583D–585C, §§19–21 (Migne capp. XII–XIII); *austerna* clause is Wyclif's paraphrase of 584B |
+| E03a-5 | ecclesia-03-a / n9 | Augustine, *Conf.* XIII.9.10, *pondus meum amor meus* | verified | PL 32:849 |
+| E03a-6 | ecclesia-03-a / n12 | the maxim *dolor amissi et amor habiti …* | untraced | unidentified |
