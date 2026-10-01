@@ -379,7 +379,10 @@ def pick(decisions, pg, k, forms=None, rule=None, skip=()):
     """The plate decision for this page+position: several may share a position (a word
     and an insertion before it), so prefer the one whose voted forms match."""
     ds = [d for d in decisions.get((pg, k), []) if d['rule'] not in skip and (rule is None or d['rule'] == rule)]
-    ds.sort(key=lambda d: not d['rule'].startswith('OVERRIDE'))     # a coordinator's OVERRIDE is the later word
+    if forms is not None:      # a coordinator's OVERRIDE on the same pivot token is the later word
+        ov = [d for d in ds if d['rule'].startswith('OVERRIDE') and pivot_part(d['forms']) == pivot_part(forms)]
+        if ov:
+            return ov[-1]
     return next((d for d in ds if forms is None or d['forms'] == forms), ds[0] if ds else None)
 
 
