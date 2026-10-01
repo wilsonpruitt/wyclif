@@ -1279,4 +1279,164 @@ page	pos	rule	forms	reading	note
 372	198	INS?	phcis	∅	plicis is the tail of multi-/plicis, already whole at pos 197; print: plicis quod taliter
 372	237	R4	latinworks10wycl=terc | iohanniswyclift00mattgoog=tercioo | iohanniswycliftr00wycluoft=terc | iohanniswycliftr04wycl=terc | tractatusdeeccl00wycl=terc | tractatusdeeccle00wycl=tercio	Tercio	e at the edge is the margin alinea letter
 373	0	R3	latinworks10wycl=i80apro | iohanniswyclift00mattgoog=plus | iohanniswycliftr00wycluoft=tanta | iohanniswycliftr04wycl=multitudo | tractatusdeeccl00wycl=aspiraret | tractatusdeeccle00wycl=tanta	pro	180d folio mark and L alinea letter are not text
+5	219	THIN	latinworks10wycl=domiun	domum	
+8	1	THIN	latinworks10wycl=dcest	deest	
+13	3	THIN	latinworks10wycl=eiusdera	eiusdem	
+20	261	THIN	latinworks10wycl=iudicu	iudicii	
+25	0	THIN	latinworks10wycl=ib	∅	box holds only the folio mark 131b; Oportet is pos 1
+30	0	THIN	latinworks10wycl=itcm	Item	
+31	0	THIN	latinworks10wycl=i2non	non	132a folio mark glued; reading is non
+32	2	THIN	latinworks10wycl=scpe | iohanniswycliftr00wycluoft=scpe	sepe	
+35	6	NW	latinworks10wycl=rcsponsioni | iohanniswyclift00mattgoog=rcsponsioni | iohanniswycliftr00wycluoft=rcsponsioni | iohanniswycliftr04wycl=rcsponsioni | tractatusdeeccle00wycl=responsioni	responsioni	clear e in print
+38	240	THIN	latinworks10wycl=obei33cdieneia	obediencia	obe- here, 133c diencia at top of p.39; main token holds whole word
+46	0	THIN	latinworks10wycl=diligendura	diligendum	
+46	2	THIN	latinworks10wycl=icsum	Jesum	
+46	5	THIN	latinworks10wycl=uidcturn	videtur	134b folio mark glued
+46	8	THIN	latinworks10wycl=ndes	fides	
+46	9	THIN	latinworks10wycl=coniusa | iohanniswycliftr00wycluoft=coniusa	confusa	
+53	3	THIN	latinworks10wycl=mnndo | tractatusdeeccle00wycl=mundo	mundo	
+56	2	THIN	latinworks10wycl=confidcntcr	confidenter	
+56	3	THIN	latinworks10wycl=nrcnoftico	prenostico	
+60	5	R4	latinworks10wycl=humanoi | iohanniswyclift00mattgoog=humanoi36x | iohanniswycliftr04wycl=huraanoi36m	humano	136 folio mark glued
+61	0	THIN	latinworks10wycl=ni36csolide	solide	alinea N and 136c folio mark glued
+63	0	THIN	latinworks10wycl=36d07z	non	136d folio mark glued; italic non
+67	3	THIN	latinworks10wycl=neino	nemo	
+75	8	R3	latinworks10wycl=iia | iohanniswyclift00mattgoog=138199 | iohanniswycliftr00wycluoft=ii | iohanniswycliftr04wycl=ii | tractatusdeeccle00wycl=iia	IIª	
+80	2	R5	latinworks10wycl=uidctur | iohanniswyclift00mattgoog=uidctur | iohanniswycliftr00wycluoft=uidctur	videtur	
+80	4	R3	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus	Christus	
+80	15	R3	latinworks10wycl=dilict | iohanniswyclift00mattgoog=diliget | iohanniswycliftr00wycluoft=dilieet	diliget	
+85	0	THIN	latinworks10wycl=0anierahrum	membrum	alinea M and 140a folio mark glued
+99	1	THIN	latinworks10wycl=sccundo | iohanniswyclift00mattgoog=sccundo	secundo	
+103	220	THIN	latinworks10wycl=eleraentum | tractatusdeeccl00wycl=eleraentum	elementum	ele- here, mentum at top of p.104; main token holds whole word
+104	0	THIN	latinworks10wycl=raixti	mixti	
+104	215	THIN	latinworks10wycl=sei42dcundum	secundum	se- here, 142d cundum on p.105; main token holds whole word
+109	229	THIN	latinworks10wycl=suaruiti	suarum	sua- here, rum at top of p.110; main token holds whole word
+121	0	THIN	latinworks10wycl=ttferit	erit	145b folio mark glued
+121	2	THIN	latinworks10wycl=etermim	eternum	
+121	4	THIN	latinworks10wycl=diccndnm	dicendum	
+123	0	THIN	latinworks10wycl=i45c	∅	box holds only the folio mark 145c; Sed is pos 1
+125	0	THIN	latinworks10wycl=i43debent	debent	145c folio mark glued
+128	260	THIN	latinworks10wycl=peri46bnaansit	permansit	per- here, 146b mansit at top of p.129; main token holds whole word
+130	1	THIN	latinworks10wycl=nirais | tractatusdeeccle00wycl=nirais	nimis	
+135	2	THIN	latinworks10wycl=xxiua | tractatusdeeccle00wycl=xxiua	XXIVª	
+135	3	THIN	latinworks10wycl=q | tractatusdeeccle00wycl=q	q	
+135	5	THIN	latinworks10wycl=qiiodcunque | tractatusdeeccle00wycl=quodcunque	Quodcunque	
+136	1	THIN	latinworks10wycl=diccndum	dicendum	
+145	0	THIN	latinworks10wycl=i48cnec	Nec	148c folio mark glued
+149	252	THIN	latinworks10wycl=ct	et	
+150	218	THIN	latinworks10wycl=subteri40fugia	subterfugia	subter- here, 149c fugia at top of p.151; main token holds whole word
+153	224	THIN	latinworks10wycl=incoias	incolas	
+155	239	THIN	latinworks10wycl=excoramunicat	excommunicat	ex- here, communicat at top of p.156; main token holds whole word
+158	2	THIN	latinworks10wycl=sunponendo | iohanniswycliftr04wycl=sunponendo	supponendo	
+161	254	THIN	latinworks10wycl=deccpissc | iohanniswycliftr04wycl=deccpissc	decepisse	
+164	2	THIN	latinworks10wycl=tcxtu | tractatusdeeccl00wycl=tcxtu	textu	
+164	4	THIN	latinworks10wycl=heati | tractatusdeeccl00wycl=beati	beati	
+164	6	THIN	latinworks10wycl=inucni | tractatusdeeccl00wycl=inueni	inveni	v as printed
+164	7	THIN	latinworks10wycl=sici5ib | tractatusdeeccl00wycl=sici5ie	sic	151b folio mark and alinea E glued
+167	0	THIN	latinworks10wycl=legiatam	∅	coordinator: second half of privilegiatam, held whole at p.166 pos 233 (hyphen convention)
+169	0	THIN	latinworks10wycl=52enim	enim	152a folio mark glued
+170	2	THIN	latinworks10wycl=conccssit	concessit	
+172	2	THIN	latinworks10wycl=rcgnum	regnum	
+172	5	THIN	latinworks10wycl=armis52en	armis	152c folio mark glued
+172	8	THIN	latinworks10wycl=priuilcgium	privilegium	
+172	10	THIN	latinworks10wycl=oi | iohanniswycliftr04wycl=oi	∅	box is English side-note word of (Two kinds of martyrdom)
+173	234	THIN	latinworks10wycl=rn	in	
+174	222	THIN	latinworks10wycl=prepoloci | iohanniswyclift00mattgoog=prepoloci	preposito loci	prepo- here, 152d sito loci at top of p.175; main token covers both words
+176	2	THIN	latinworks10wycl=amittcre	amittere	
+176	3	THIN	latinworks10wycl=qni | tractatusdeeccl00wycl=qni	qui	
+178	1	THIN	latinworks10wycl=nroporcionaliter	proporcionaliter	
+178	4	THIN	latinworks10wycl=cst	est	
+178	5	THIN	latinworks10wycl=potcncior	potencior	
+178	6	THIN	latinworks10wycl=prudeneior	prudencior	
+178	10	THIN	latinworks10wycl=suc | iohanniswycliftr00wycluoft=suc	sue	
+178	11	THIN	latinworks10wycl=ecclesie | iohanniswycliftr00wycluoft=ecclesic	ecclesie	
+178	12	THIN	latinworks10wycl=tribucret | iohanniswycliftr00wycluoft=tribueret	tribueret	
+179	251	R4	latinworks10wycl=cciam | iohanniswyclift00mattgoog=cciam | iohanniswycliftr00wycluoft=eciam | iohanniswycliftr04wycl=eciara	eciam	
+179	255	THIN	latinworks10wycl=scripturc	scripture	
+182	0	THIN	latinworks10wycl=religionc	Religione	
+182	9	R3	latinworks10wycl=pociora | iohanniswycliftr00wycluoft=pociora | tractatusdeeccle00wycl=potior	pociora	
+184	19	R3	latinworks10wycl=cum | iohanniswycliftr00wycluoft=cuni | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cuni | tractatusdeeccle00wycl=cum	cum	clear m
+185	0	THIN	latinworks10wycl=i54bpropter	propter	154b folio mark glued
+186	6	R3	latinworks10wycl=taliai34cc | iohanniswyclift00mattgoog=talia | iohanniswycliftr00wycluoft=tdliaidc | tractatusdeeccle00wycl=taliai54c	talia	154c folio mark glued
+186	242	THIN	latinworks10wycl=prii54uilegia	privilegia	pri- here, 154d vilegia on next page; main token holds whole word
+187	6	R3	latinworks10wycl=llia | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia	illa	
+188	3	THIN	latinworks10wycl=tideles | tractatusdeeccle00wycl=tideles	fideles	
+188	6	THIN	latinworks10wycl=lllud | tractatusdeeccle00wycl=mud	illud	
+190	3	THIN	latinworks10wycl=ct | tractatusdeeccl00wycl=ct	et	
+190	6	THIN	latinworks10wycl=ecclcsiam | tractatusdeeccl00wycl=ecclesiam	ecclesiam	155a folio mark follows
+191	210	THIN	latinworks10wycl=dominacioneni	dominacionem	domina- here, cionem at top of p.192; main token holds whole word
+192	3	THIN	latinworks10wycl=ordinc	ordine	
+192	8	THIN	latinworks10wycl=accipere | iohanniswyclift00mattgoog=acdpere	accipere	
+192	9	THIN	latinworks10wycl=patct | iohanniswyclift00mattgoog=patet	patet	
+192	10	THIN	latinworks10wycl=uuod | iohanniswyclift00mattgoog=quod	quod	
+192	230	THIN	latinworks10wycl=dco	Deo	
+192	231	THIN	latinworks10wycl=ohsequium	obsequium	
+193	231	THIN	latinworks10wycl=ccsarea | iohanniswyclift00mattgoog=ccsarea	cesarea	
+194	2	THIN	latinworks10wycl=cx	ex	
+195	3	THIN	latinworks10wycl=fuissct	fuisset	
+195	238	THIN	latinworks10wycl=sacerdotcs	sacerdotes	
+199	202	R5	latinworks10wycl=cst | iohanniswyclift00mattgoog=cst | tractatusdeeccl00wycl=cst	est	
+200	0	THIN	latinworks10wycl=idco	Ideo	
+200	241	THIN	latinworks10wycl=priuilcgiare | iohanniswyclift00mattgoog=priuilcgiare	privilegiare	
+205	195	THIN	latinworks10wycl=cciam	eciam	
+205	198	THIN	latinworks10wycl=itostros	nostros	
+212	224	THIN	latinworks10wycl=utzo	ut	30 is the line number glued
+215	209	THIN	latinworks10wycl=ilagellatur	flagellatur	
+219	0	THIN	latinworks10wycl=5gbquin	quin	alinea L and 159b folio mark glued
+219	2	THIN	latinworks10wycl=ideni	idem	
+223	0	THIN	latinworks10wycl=cdillatas	illatas	alinea O and 159d folio mark glued
+223	213	THIN	latinworks10wycl=habebutit	habebunt	asterisk mark follows
+235	0	THIN	latinworks10wycl=6iprecipue	precipue	161c folio mark glued
+239	245	THIN	latinworks10wycl=sutfragium	suffragium	
+240	2	THIN	latinworks10wycl=exnrimeret	exprimeret	
+240	5	THIN	latinworks10wycl=onpositum	oppositum	
+241	2	THIN	latinworks10wycl=priuileeia	privilegia	
+244	0	THIN	latinworks10wycl=patcr	pater	
+248	2	THIN	latinworks10wycl=ncgatiuum	negativum	
+252	1	THIN	latinworks10wycl=leee | iohanniswycliftr04wycl=leee	lege	
+254	2	THIN	latinworks10wycl=auferr	aufert	
+257	0	THIN	latinworks10wycl=condicionera	condicionem	164d folio mark glued
+261	3	THIN	latinworks10wycl=xxiii1 | tractatusdeeccle00wycl=xxiiia	XXIIIª	
+266	1	THIN	latinworks10wycl=omaes	omnes	
+268	12	R4	latinworks10wycl=uiii1 | iohanniswyclift00mattgoog=uiim | iohanniswycliftr00wycluoft=uiii | tractatusdeeccl00wycl=uii	VIIIª	
+269	225	THIN	latinworks10wycl=mris	iuris	
+270	2	THIN	latinworks10wycl=dimittitw	dimittitur	
+272	2	THIN	latinworks10wycl=ahsenciam | iohanniswycliftr04wycl=ahsenciam	absenciam	
+277	0	THIN	latinworks10wycl=i67dper | tractatusdeeccle00wycl=i67dper	per	alinea B and 167d folio mark glued
+277	259	THIN	latinworks10wycl=ct | tractatusdeeccl00wycl=ct	et	
+278	2	THIN	latinworks10wycl=potcstatem	potestatem	
+279	0	THIN	latinworks10wycl=i68quam	quam	alinea C and 168a folio mark glued
+280	1	THIN	latinworks10wycl=pcrpctuare	perpetuare	
+282	0	THIN	latinworks10wycl=pensioneni	pensionem	
+294	234	THIN	latinworks10wycl=ociuni	ocium	
+296	1	THIN	latinworks10wycl=cnim	enim	
+298	221	THIN	latinworks10wycl=111 | tractatusdeeccl00wycl=iii	III°	degree sign visible
+300	1	THIN	latinworks10wycl=christuni | iohanniswycliftr00wycluoft=christuni	Christum	
+300	15	R4	latinworks10wycl=cnristt | iohanniswycliftr00wycluoft=lnristi | iohanniswycliftr04wycl=lhristi | tractatusdeeccl00wycl=chnsti	Christi	
+303	243	THIN	latinworks10wycl=ecdesie	ecclesie	
+307	225	THIN	latinworks10wycl=cxcellenciam	excellenciam	excel- / lenciam on next line; main token holds whole word
+309	0	THIN	latinworks10wycl=gri72histi	isti	alinea G and 172b folio mark glued
+318	2	THIN	latinworks10wycl=cecidissc	cecidisse	
+318	4	THIN	latinworks10wycl=ccclesia	ecclesia	
+319	0	THIN	latinworks10wycl=i73cmultum | tractatusdeeccle00wycl=i73cmultum	multum	173c folio mark glued
+323	0	THIN	latinworks10wycl=z	que	174a folio mark glued; italic que
+326	237	THIN	latinworks10wycl=cssencialiter	essencialiter	
+326	240	THIN	latinworks10wycl=seculai74risdominii	secularis dominii	secula- here, 174d ris dominii at top of p.327; main token covers both words
+328	3	THIN	latinworks10wycl=mancant | tractatusdeeccl00wycl=maneant	maneant	
+331	0	THIN	latinworks10wycl=i75best	est	175b folio mark glued
+331	260	THIN	latinworks10wycl=intcrim	interim	
+334	1	THIN	latinworks10wycl=pscudopapa	pseudopapa	
+339	0	THIN	latinworks10wycl=i76breeno	regno	176b folio mark glued
+344	16	NW	latinworks10wycl=postenus | iohanniswycliftr00wycluoft=posterms | iohanniswycliftr04wycl=postenus | tractatusdeeccl00wycl=postenus | tractatusdeeccle00wycl=postenus	posterius	clear ri in print
+346	1	R5	latinworks10wycl=ct | iohanniswycliftr04wycl=ct | tractatusdeeccl00wycl=ct	et	
+346	225	THIN	latinworks10wycl=perfciat | iohanniswycliftr00wycluoft=perfciat	perficiat	
+349	0	THIN	latinworks10wycl=i77c	∅	box holds only the folio mark 177c; Ad is pos 1
+353	0	THIN	latinworks10wycl=i78acatholicas | tractatusdeeccle00wycl=i78acatholicas	catholicas	178a folio mark glued
+355	0	THIN	latinworks10wycl=78bregis	regis	178b folio mark glued
+362	2	THIN	latinworks10wycl=cuis	quis	
+363	14	R4	latinworks10wycl=etdauid | iohanniswycliftr00wycluoft=etdauid | iohanniswycliftr04wycl=etdauid | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et	et	David is in the English side-note (writings of David and Peter), not the Latin line
+371	0	THIN	latinworks10wycl=i80cexemplo | tractatusdeeccle00wycl=i80cexemplo	exemplo	180c folio mark glued
+371	217	THIN	latinworks10wycl=ct	et	
+373	50	R4	latinworks10wycl=elemosine | iohanniswyclift00mattgoog=elemooes | iohanniswycliftr00wycluoft=elemosines | iohanniswycliftr04wycl=elemosines | tractatusdeeccl00wycl=elemosines | tractatusdeeccle00wycl=elemosine	elemosine	the following 5. is the side-note numeral
+373	91	INS?	enim	enim	print has Dici-/tur enim quod; 3 in margin is a numeral
 297	2	OVERRIDE	latinworks10wycl=rccipiunt | iohanniswyclift00mattgoog=dai | iohanniswycliftr00wycluoft=dat | iohanniswycliftr04wycl=dat | tractatusdeeccl00wycl=dat | tractatusdeeccle00wycl=dat	recipiunt	print: et qui recipiunt ab eo (plate, agent 6); the other scans aligned p.296 dat here
