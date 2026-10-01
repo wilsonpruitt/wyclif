@@ -380,6 +380,27 @@ def scar_fix(w, lex):
     capitals inside a word (numerUS), & or a stop inside a word (separa&bit, nich.il). A rule fires only when its
     result is a dictionary word or a numeral; `.'` (a stop or a question mark: p. 7) is left for the plate."""
     hun = lambda x: any(lex.d.lookup(v) for v in lex.variants(x.lower()) if v)
+    # second sweep (brief 2): stray marks, ® for °, j for i inside a word, margin/folio numerals glued into a word,
+    # words glued across a stop or a capital (diciturPsal.XLIV0)
+    w = re.sub(r'[»«■}{>|_]', '', w).replace('®', '°')
+    w = re.sub(r'^([IVXLC]+)[0](?=[.,;:)]*$)', r'\1°', w)
+    if re.search(r'[a-z]j', w):
+        v = re.sub(r'(?<=[a-z])j', 'i', w)
+        if hun(v.strip('.,;:?!()')) or lex.real(v.strip('.,;:?!()').lower()):
+            w = v
+    core = w.strip('.,;:?!()')
+    if re.search(r'[A-Za-z]', core) and re.search(r'\d', core):
+        v = re.sub(r'^[il1]?\d+[o0"\'«ªᵃ]*(?=[A-Za-z])', '', w)                 # 2sed, i36quatuor, i3o"fuit
+        v = re.sub(r'(?<=[a-z])[il1]?\d+[o0"\'«]*(?=[a-z])', '', v)            # mar2tirum, autonoi34«matice
+        vc = v.strip('.,;:?!()')
+        if v != w and len(vc) >= 3 and vc.isalpha() and (hun(vc) or lex.real(vc.lower())):   # only digits removed
+            return v
+    if re.search(r'[a-z][A-Z]|[a-z]\.[A-Za-z]|[a-z]\(', core) and ' ' not in w:
+        parts = re.sub(r'(?<=[a-z])(?=[A-Z])|(?<=[a-z]\.)(?=[A-Za-z])|(?<=[a-z])(?=\()', ' ', w).split()
+        ok = lambda p: (hun(p.strip('.,;:?!()')) or p.endswith('.') or re.fullmatch(r'\(?[IVXLC]+[0°]?[.,;:)]*', p))
+        merged = re.sub(r'[^A-Za-z]', '', core).lower()
+        if len(parts) > 1 and all(ok(p) for p in parts) and not lex.real(merged) and not hun(merged):   # inVocare stays one word
+            return ' '.join(re.sub(r'^(\(?[IVXLC]+)0', r'\1°', p) for p in parts)
     m = re.fullmatch(r'([IVXLC]+)%([.,;:)]*)', w)
     if m:
         return m.group(1) + 'ª' + m.group(2)
@@ -450,6 +471,11 @@ def run(slug, first=None, last=None):
             decisions.setdefault((int(r['page']), int(r['pos'])), []).append(r)
     stale = []
     splits = {}
+    # tokenfix.tsv (page, printed, fixed, note): one-off scars no rule reaches and no position can carry (2026-10-01)
+    tokenfix = {}
+    if os.path.exists(f'{base}/tokenfix.tsv'):
+        for r in csv.DictReader(open(f'{base}/tokenfix.tsv'), delimiter='\t', quoting=csv.QUOTE_NONE):
+            tokenfix[(int(r['page']), r['printed'])] = r['fixed']
     if os.path.exists(f'{base}/wordsplits.tsv'):
         splits = {r['form']: r['split'] for r in csv.DictReader(open(f'{base}/wordsplits.tsv'), delimiter='\t')}
     queue, stats = [], Counter()
@@ -666,6 +692,7 @@ def run(slug, first=None, last=None):
             x['t'] = re.sub(r'^([IVXLC]{2,}|[IVX])[0"](?=[,.;:)]*$)', r'\1°', x['t'])
             if prev_t and re.fullmatch(r'[IVXLC]+[°ª],', prev_t) and re.fullmatch(r'[iIl][.,;:)]*', x['t']):
                 x['t'] = '1' + x['t'][1:]
+            x['t'] = tokenfix.get((pg, x['t']), x['t'])      # coordinator's per-page token fixes (tokenfix.tsv)
             x['t'] = scar_fix(x['t'], lex)
             prev_t = x['t']
             core = x['t'].rstrip('.,;:?!')

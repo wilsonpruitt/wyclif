@@ -16,6 +16,8 @@ Nothing here edits the Latin. Each row is a proposal with its evidence; the clas
   W2    step 2, no scan has it, but >=2 scans reach the same dictionary word by one known OCR confusion, and the
         established form is not the majority reading. ⚠ about half right (2026-10-01): send W2 to the plates
   LEFT-eng a scan's 'real' reading is English: a side-note word in the Latin, for the plates
+  LEFT-odd / LEFT-j  (added after brief 2) digits or marks inside a word; a j inside a word. The first sweep
+        skipped every non-letter token: never filter on isalpha() alone again.
   LEFT  neither: for the plates (LEFT-nw: rare non-word; LEFT-punct / LEFT-ord / LEFT-A: a mark rules cannot settle)
   PRINT every scan reads the same non-word: the print's own spelling or abbreviation; no plate
   FREQ  a non-word that recurs (>= 3 times): the print's own spelling, by the plate-read triage rule; no plate
@@ -133,6 +135,10 @@ def main(slug):
                 add('S-eng', '∅', "a word of this page's English side-note"); continue
             # ---- step 2: the other scans
             w = core.lower()
+            if not done and core and not re.fullmatch(r"[A-Za-zæœ]+|[0-9]+°?|[IVXLCDM]+[°ªⁱᵘᵐᵗᵒˢᵛᵈ]*|[A-Za-z]+-", core):
+                add('LEFT-odd', '', 'digits or marks inside a word (a glued folio/margin numeral, a broken hyphen)'); continue
+            if not done and re.search(r'[a-z]j', core):
+                add('LEFT-j', core.replace('j', 'i'), 'j inside a word: this edition prints i'); continue
             if done or len(w) < 3 or not w.isalpha() or real(w):
                 continue
             forms = [f for f in checks.get(pos, []) if f and f != '∅']

@@ -3,6 +3,20 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 2 (01-e–01-h) DONE: chapter 1 translated
+- Opus brief 164K; Sonnet ledger verifier 116K (11 rows read in local PL; Wyclif's own *Moralia* refs often wrong:
+  XXVIII.11 is XVIII.35.56; XIX.9/IV.9 untraced). Notes corrected.
+- The agent found scars the first sweep missed: `scars.py` skipped every non-letter token (folio/margin numerals
+  glued into words, `j` for `i`, stray marks). Second sweep: vote.py `scar_fix` extended; NEW
+  `text/ecclesia/tokenfix.tsv` (page, printed, fixed): one-off fixes applied by the vote's writer, no position
+  needed; scan-confirmed glued words (*caputvel*) added there. Rules that misfired and were fixed: split on a
+  stray capital (*inVocare*) now needs the joined form to be a non-word; digit-strip needs >= 3 letters left.
+- Chapter 1 (01-a–01-h) Latin now equals the established text (`relatin.py --also … --dry` shows 0 drift).
+- GLOSSARY ruled: *capitaneus* captain, *matrix ecclesia* mother church (C note), *capitas* headship,
+  *obicitur per*. **For Wilson:** *color* (*non est color*) — "colour" (plausible ground), or another word?
+- Residue in the Latin: ~30 LEFT-odd tokens the rules cannot settle (`scars.tsv`); 20.4 *Per*, 20.7 *regina Sed*.
+- **Next:** brief 3 (02-a …).
+
 ## Status 2026-10-01 (night) — Latin scar pass DONE (WORKFLOW 4b)
 - Root cause: vote.py's Lexicon trusts `agreed.txt`, which holds shared garbles (*omcio*, *lhnsti*). Not
   changed for *De ecclesia* (it would reshuffle settled votes); fix it before the next volume.

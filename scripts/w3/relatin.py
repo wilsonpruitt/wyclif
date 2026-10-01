@@ -1,6 +1,7 @@
 """Refresh the Latin of UNTRANSLATED scaffolds from the current established text, touching nothing else.
 
-    .venv/bin/python scripts/w3/relatin.py SLUG [--dry]
+    .venv/bin/python scripts/w3/relatin.py SLUG [--dry] [--also 01-e,01-f]   (--also: translated chunks too; then
+    reconcile their notes by hand)
 
 Why (2026-10-01): after the scar pass changed pNNN.la.txt, the scaffolds still held the old Latin. chapters.py
 --force would rebuild every scaffold and lose what was added since (the side-note splice, hand fixes). So: build
@@ -27,7 +28,7 @@ def blocks(text):
     return out
 
 
-def main(slug, dry=False):
+def main(slug, dry=False, also=()):
     live = f'{ROOT}/chunks/{slug}'
     tmp = tempfile.mkdtemp(prefix='relatin-')
     keep = f'{tmp}/keep'
@@ -43,7 +44,7 @@ def main(slug, dry=False):
     for p in sorted(glob.glob(f'{live}/wyc-{slug}-*.md')):
         name = os.path.basename(p)
         old = open(p).read()
-        if not re.search(r'^status: draft$', old, re.M) or name not in fresh:
+        if (not re.search(r'^status: draft$', old, re.M) and not any(a in name for a in also)) or name not in fresh:
             continue
         ob, nb = blocks(old), blocks(fresh[name])
         if list(ob) != list(nb) or any(len(ob[h]) != len(nb[h]) for h in ob):
@@ -65,4 +66,5 @@ def main(slug, dry=False):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1], '--dry' in sys.argv)
+    also = sys.argv[sys.argv.index('--also') + 1].split(',') if '--also' in sys.argv else ()
+    main(sys.argv[1], '--dry' in sys.argv, also)

@@ -109,3 +109,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E01d-4 | ecclesia-01-d / n19 | Bernard, *De consideratione* IV.3.7 (Wyclif says book II) | verified | PL 182:776B–C, IV.3 §7: *Uterque ergo Ecclesiae … gladius* |
 | E01d-5 | ecclesia-01-d / n20 | Decr. C.23 q.5 c.20 *Principes*; Isidore, *Sententiae* III.51.4 | verified | Gratian PL 187:1223C–1224A (inscribed *lib. III Sent. … c. 55*); Isidore PL 83:723B |
 | E01d-6 | ecclesia-01-d / n22 | Johannes de Deo, canonist at Bologna | editor | Loserth, citing *Trialogus* ed. Lechler p. 251 |
+| E01e-1 | ecclesia-01-e / n1 | 5th conclusion = last sentence of *Unam sanctam* (*Extrav. comm.* 1.8.1, our form), *humanae creaturae* | editor | wording to-verify (bull not in local PL) |
+| E01e-2 | ecclesia-01-e / n5 | *Bellus Mons* = Beaumont palace, north suburb of Oxford | editor | Loserth, after Wood |
+| E01e-3 | ecclesia-01-e / n6 | Gratian D.22 c.2 *Sacrosancta* | verified | PL 187:123A: names Rome, Antioch, Alexandria; Constantinople in the dictum and cc. 3–4; Jerusalem not there |
+| E01e-4 | ecclesia-01-e / n12 | *derelictum* also in Hus, *De eccl.*, Opp. I fol. 208 | editor | Loserth p. 16 |
+| E01f-1 | ecclesia-01-f / n9 | Augustine, *Sermo* 9, §§3 and 11 (Loserth's "9" = §11) | verified | PL 38:77, 83–84 |
+| E01f-2 | ecclesia-01-f / n10 | *Dole … precipucium*, abridged from *Sermo* 9.11 | verified | PL 38:83–84: *Dole; sed ipsum noli imitari … eunt ambo per praeceps* |
+| E01g-1 | ecclesia-01-g / n4 | Gregory, *Moralia* XXIII.1.2 | verified | PL 76:251C–D |
+| E01g-2 | ecclesia-01-g / n4 | quotation wording; Gregory *cum sancta Ecclesia* | verified | PL 76:251C–D; Wyclif *cum sua* |
+| E01g-3 | ecclesia-01-g / n5 | *Mor.* XIX.9 and IV.9 (Wyclif) | untraced | not at those places; doctrine at XIX.14.22, PL 76:110C |
+| E01g-4 | ecclesia-01-g / n6 | *decretalis* = *Unam sanctam*, two heads "like a monster" | editor | as E01c-5; wording to-verify |
+| E01g-5 | ecclesia-01-g / n8 | FitzRalph, *Summa de quaestionibus Armenorum* VII.6 | editor | person Loserth p. 21; book/chapter to-verify |
+| E01h-1 | ecclesia-01-h / n3 | *Moralia* XIX.12 (Maurist; Wyclif cap. 8) | verified | PL 76:108A |
+| E01h-2 | ecclesia-01-h / n4 | *Universe quippe … adolescentule vocantur* | verified | PL 76:108B, wording identical |
+| E01h-3 | ecclesia-01-h / n5 | lion and lioness = *Mor.* XVIII.35.56 (Wyclif XXVIII.11 wrong) | verified | PL 76:68C–69A (coordinator re-read 68D) |
+| E01h-4 | ecclesia-01-h / n9, n10 | Gregory, *Hom. in Ev.* I.19 (vineyard, Matt. 20); the "mouth" = *Mor.* XVIII.35.56 | verified | PL 76:1154B; 76:68D. Job as "mouth" untraced |
+| E01h-5 | ecclesia-01-h / n11 | *Moralia* IV: patriarchs' virtues | to-verify | nearest found: Preface 6.13, PL 75:524B–C (lacks David, Elijah); Book IV not searched in full |
+| E01h-6 | ecclesia-01-h / n18 | Hus, *De eccl.* capp. 1–3 draws on cap. 1 | editor | Loserth p. 25 |

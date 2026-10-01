@@ -25,7 +25,7 @@ status: draft
 
 ## ¶2 · 586.18–586.30
 
-> [p. 586] Videtur ulterius quod pro quolibet peccato in quo decedit predestinatus Deus statuit certam penam, cum quo non poterit illo peccato supposito dispensare_ Nam per jdem posset dispensare cum quolibet peccato in purgatorio vel in inferno, et dimittere homini peccatum sine hoc quod voluerit converti ad dominum, sine amore faciendo ipsum beatum, cum nulla pena essencialiter consequeretur peccatum sed foret tantum per accidens arbitraria quoad Deum. Sicut ergo pena essencialis est per se iusta, sic est tanta iusticia in pena accidentali, sed meritum ecclesie facit esse aliud peccatum totale in purgatorio quam foret merito illo dimisso.
+> [p. 586] Videtur ulterius quod pro quolibet peccato in quo decedit predestinatus Deus statuit certam penam, cum quo non poterit illo peccato supposito dispensare Nam per jdem posset dispensare cum quolibet peccato in purgatorio vel in inferno, et dimittere homini peccatum sine hoc quod voluerit converti ad dominum, sine amore faciendo ipsum beatum, cum nulla pena essencialiter consequeretur peccatum sed foret tantum per accidens arbitraria quoad Deum. Sicut ergo pena essencialis est per se iusta, sic est tanta iusticia in pena accidentali, sed meritum ecclesie facit esse aliud peccatum totale in purgatorio quam foret merito illo dimisso.
 
 [ENGLISH]
 

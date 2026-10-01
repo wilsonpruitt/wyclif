@@ -31,7 +31,7 @@ status: draft
 
 ## ¶3 · 556.5–556.8
 
-> [p. 556] In ista materia sic procedam: Primo fundabo vel colorabo possibilitatem et probabilitatem illius sentencie, secundo obiciam multipliciter contra illam et tercio dicam qujd videtur mjhi probabiliter sustinendum.
+> [p. 556] In ista materia sic procedam: Primo fundabo vel colorabo possibilitatem et probabilitatem illius sentencie, secundo obiciam multipliciter contra illam et tercio dicam quid videtur mihi probabiliter sustinendum.
 
 [ENGLISH]
 

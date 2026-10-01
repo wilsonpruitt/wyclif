@@ -29,6 +29,8 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    readings as OVERRIDE rows → merge into `plate_decisions.tsv` → `vote.py` (stale must be 0) →
    `relatin.py SLUG` (Latin of DRAFT chunks only). Add confirmed pairs to `catalog/lexicon/ocr_artifacts.tsv`.
    Measured on *De ecclesia*: ~230 by rule, 142 on the plates, 224K tokens.
+   One-off fixes no rule reaches and no position can carry: `text/SLUG/tokenfix.tsv` (page, printed, fixed),
+   applied by the vote's writer. After any Latin change, `relatin.py SLUG --also <translated> --dry` must show 0.
 5. **Scaffolds + side-notes.** `.venv/bin/python scripts/w3/chapters.py SLUG` → `chunks/SLUG/wyc-SLUG-NN.md`.
    Then ONE plate agent per ~10 chapters corrects the OCR side-notes against the plates (it is image work;
    kept out of translation, where it cost extra round trips).
