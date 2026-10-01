@@ -3,6 +3,16 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-01 (later) — 01-a REVIEWED
+- Fixed in 01-a: 1.17 *Illos autem* back to "Now" (the pilot's; 1.19 stays "And"); *suffragium* "aid"
+  (pilot), untagged: the *suffragia* row is the church's shared-out prayers, not a parent's help;
+  2.15 maxim de-quoted (n9 says it is not a quotation); n7 Rufinus verified, §36 not 37 (V-05);
+  n8 adds the *contra hereticos* construal; n13 says XLVI (plate-checked) ≠ modern 56.
+  n2 plate-checked: print as scaffold, note stands. Card: plate path (`n0038.jpg`), "now" rule clarified.
+- Open: side-note 1.2 runs two notes together ("…faithful How it may be known."); density 13 notes /
+  477 words (card: 1 per 70–100); GLOSSARY proposal *suffragium* (a person's help) "aid", §D.
+- **Next:** commit; then briefs of 3–5 chunks from 01-b.
+
 ## Status 2026-10-01 — side-note pass DONE (stage 5b)
 - Method changed from "one plate agent per ~10 chapters": the margin column cut alone is clean modern
   type, so `sideocr.py` re-OCRs every note with tesseract (free) and places it at page.line;

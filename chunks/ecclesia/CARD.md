@@ -42,7 +42,7 @@ notes and the transcription notes; set `status: translated`; lint; report.
   (The pilot headed its paragraphs with Loserth's alinea letters A, B, C; the scaffolds do not
   carry them, so leave the ¶ numbers.)
 - **Never alter the Latin.** A word that looks wrong: read the apparatus for that line first; then,
-  if still doubtful, the plate (`text/ecclesia/raw/leaves/nLEAF.jpg`, LEAF = page + 37). A variant
+  if still doubtful, the plate (`text/ecclesia/raw/leaves/nLEAF.jpg`, LEAF = page + 37 padded to four digits: p. 1 = `n0038.jpg`). A variant
   that gives the sense → translate it + **T** note citing the siglum; a compelling emendation →
   translate it + **T** note "(our emendation)"; neither → translate the print and flag it. Never
   smooth nonsense into sense. Report every such case. Open flags for this volume:
@@ -87,7 +87,9 @@ notes and the transcription notes; set `status: translated`; lint; report.
    | ymmo | indeed, rather (correcting upward) | (omitted) |
    | patet; constat | it is clear; it is evident | |
 
-   "Now" is reserved for the minor premiss.
+   "Now" is reserved for the minor premiss, or the step that brings a new premiss to bear (*Illos
+   autem parentes debemus …*, 1.17). An *autem* that only extends the same step is "and" (*Illis autem
+   cultis …*, 1.19).
 3. **Ordinary words with a medieval sense:** GLOSSARY §D; look up any word whose classical and
    Wyclifite senses may differ, and propose additions.
 4. **Syntax:** construe before rendering (main verb, subject, what every relative and genitive

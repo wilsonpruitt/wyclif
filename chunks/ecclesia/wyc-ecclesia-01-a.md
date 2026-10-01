@@ -57,10 +57,10 @@ from [strange women]{g:mulier-aliena}?[^4] Hence among all the [metaphysics]{g:m
 circle of the sun I do not reckon that there is another more necessary to a Christian, nor more
 useful for the observance of the Christian religion or for the understanding of holy scripture.[^5]
 For, [as faith teaches]{g:ex-fide}, Christ is our father, and the said church, his
-[bride]{g:sponsa}, is [by antonomasia]{g:autonomatice} [our mother]{g:mater-nostra}.[^6] And those
+[bride]{g:sponsa}, is [by antonomasia]{g:autonomatice} [our mother]{g:mater-nostra}.[^6] Now those
 parents we ought to honour first of all, because in acknowledging them we must,
 [at the point of need]{g:in-necessitatis-articulo}, call upon their instruction, correction and
-[suffrage]{g:suffragia}. And when they are honoured to the full, the Christian religion is fully
+aid. And when they are honoured to the full, the Christian religion is fully
 kept; and to the extent that honour to them is lacking, the keeping of the commandments is lacking,
 since it is not possible for a Christian to transgress except to the extent that he withdraws or [2]
 diminishes the honour or service owed to these parents. And this is the reason why this is commanded
@@ -73,8 +73,8 @@ themselves and through others, to teach the people that faith, and also because 
 the liberty and prosperity, the building up and the destruction, the privileges and the defences of
 the church against heretics.[^8] But it is evident that one who treated of these
 [attributes]{g:passio} while ignorant of the [subject]{g:subiectum} would be speaking like a magpie,
-since at the beginning of the second book of the *Posterior Analytics* it is truly said that "one
-must know the question 'what is it?' about the subject before its attribute is known".[^9] And error
+since at the beginning of the second book of the *Posterior Analytics* it is truly said that one
+must know the question "what is it?" about the subject before its attribute is known.[^9] And error
 in this order of knowing makes many err about the faith of the church. How, I ask, could I know in
 what her prosperity or building up consisted unless I knew her beforehand, since it follows: "I know
 that she is prospering; therefore I first know that she exists"?[^10] Let us, then, apply diligence,
@@ -140,8 +140,9 @@ are now one in the bond of [charity]{g:caritas}."[^13]
 [^7]: **S.** Apostles' Creed: *Credo … sanctam ecclesiam catholicam*. Nicene–Constantinopolitan:
     *et unam sanctam catholicam et apostolicam ecclesiam*. The Latin has *credo ecclesiam*, not
     *credo in ecclesiam*: one believes *in* God, and believes the church. Hence "I believe the
-    catholic church", not "believe in" `[verify: Rufinus, *Expositio symboli* 37, as the classic
-    source of the distinction]` (LEDGER V-05). Thakkar (p. 368) corrects Penn's "represent a symbol
+    catholic church", not "believe in". The classic statement is Rufinus, *Commentarius in symbolum
+    apostolorum* 36 (PL 21:373A–B): *in praepositio non additur … sed sanctam Ecclesiam credendam
+    esse, non ut Deum, sed ut Ecclesiam Deo congregatam* (LEDGER V-05). Thakkar (p. 368) corrects Penn's "represent a symbol
     everywhere!" here.
 
 [^8]: **C.** *Tum … tum eciam*: two separate reasons why the bishops should welcome the treatise.
@@ -149,7 +150,9 @@ are now one in the bond of [charity]{g:caritas}."[^13]
     church's liberty, prosperity and privileges, which (the next sentence shows) are attributes of a
     subject they have not defined. *Quod tractetur fides christiana de quiditate ecclesie* means that
     the faith *about* the church's quiddity be treated. Not Penn's "that the Christian faith is drawn
-    from the quiddity of the church" (Thakkar, p. 368).
+    from the quiddity of the church" (Thakkar, p. 368). *Contra hereticos* is taken with
+    *defensionibus* ("defences … against heretics"); it could go with *contendunt* ("they contend
+    against heretics about …"), but it stands at the far end of the list.
 
 [^9]: **S.** Loserth refers to *APo* I.1 and II.2. The maxim is a scholastic compression, not a
     quotation. It combines Aristotle's doctrine that learning presupposes knowledge of what a term
@@ -172,7 +175,8 @@ are now one in the bond of [charity]{g:caritas}."[^13]
     Latin (CONVENTIONS §10). For the valiant woman, DR Prov. 31:10: "Who shall find a valiant woman?"
 
 [^13]: **S/R.** Augustine, *Enchiridion* 56 (LEDGER V-02). Loserth prints the chapter as XLVI,
-    correcting the MSS' XLI, and refers to the Maurist edition, vol. VI, p. 217. Wyclif quotes
+    correcting the MSS' XLI (plate checked), and refers to the Maurist edition, vol. VI, p. 217;
+    neither number is the modern 56 (15.56). Wyclif quotes
     closely. B's margin at 3.10: *Nota quod angeli sunt pars ecclesie*, "note that the angels are a
     part of the church".
 
