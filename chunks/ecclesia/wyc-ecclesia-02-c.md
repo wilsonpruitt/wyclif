@@ -71,7 +71,7 @@ deeds answer to his words and his name, by living more like the life of Christ. 
 to the [froward]{g:discoli} and to tyrants, but especially to the lord pope; just as he ought to be
 spiritually subject and obedient to his church, and so more obedient, and more subject in servitude,
 than any of his subjects.[^10] It is confirmed [from the faith of scripture]{g:ex fide}, Acts 10, about
-Cornelius, whose prayers God accepted before the conversation with Pope Peter, who came to him on foot
+Cornelius, whose prayers God summoned [to himself] before the conversation with Pope Peter, who came to him on foot
 and lodged in the house of a tanner; whose definition was this: "God is not a respecter of persons. But
 in every nation, he that feareth him and worketh justice is acceptable to him."[^11] Nor is there doubt
 that, if God had sent another, Cornelius would have been saved equally, as is clear of the eunuch
@@ -176,8 +176,10 @@ to his church only through him.[^17]
     words and name" (the name of *papa*, father). B reads *vi oracionis* (34.10) and *obieccione*
     (34.14).
 
-[^11]: **T/S.** *Accersivit* (AB *accercivit*), "summoned", hardly construes of prayers; we translate
-    A₁'s correction *acceptavit*, "accepted" (cf. Acts 10:4, "are ascended for a memorial"). *Papa
+[^11]: **T/S.** *Accersivit* (AB *accercivit*), "summoned": the print, translated as it stands (the
+    house rule, 2026-10-02: Loserth's text unless it will not construe; A₁ alone never outweighs it). God
+    calls the prayers up to himself (cf. Acts 10:4, "are ascended for a memorial"). A₁ reads *acceptavit*,
+    "accepted". *Papa
     Petro*: Wyclif's barb, the "pope" who came on foot. *Corriarii*: the tanner Simon (Acts 10:6). Acts
     10:34–35 (DR; Loserth), without the opening *In veritate comperi quia*; *diffinicio*, Peter's
     "definition".

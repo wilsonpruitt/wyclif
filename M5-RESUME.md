@@ -3,6 +3,13 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Rulings 2026-10-02 (Wilson: "recommendations yes") — logged in CONVENTIONS, card updated
+*color* → "colour" (C note per chunk); **Loserth's printed text governs** (A₁ never alone; 02-c 34.20, 02-d 38.1
+returned to the print); our emendations stand; Clement 37.21 open; verifier MAY fetch Friedberg's *CIC* from
+archive.org for *Unam sanctam* rows (do it in the next verifier run: E01c-5, E01e-1, E01g-4, E02a-2 …);
+delegated glossary rulings confirmed; "now" rule confirmed; vote.py stops trusting `agreed.txt` from
+*De officio regis* on (not this volume).
+
 ## Status 2026-10-02 (evening) — brief 4 (02-e, 02-f, 03-a) DONE: chapter 2 translated
 - Opus brief 150K; one Sonnet agent (112K) read 4 plate words AND verified 6 rows in the local PL (combine the
   two jobs from now on). Jerome on Micah: Loserth's 1281 = 1221; *dicamus scriptum* is Jerome's. *Moralia* XXXI

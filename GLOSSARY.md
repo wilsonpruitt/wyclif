@@ -220,6 +220,7 @@ otherwise.
 | confuse / confusus (*fides, noticia*) | indistinct(ly) | The scholastic *cognitio confusa*: known in the whole, not in its parts; never "confused". Ruled 2026-10-02 (42.19, 46.2, 46.6). |
 | viacio | wayfaring | The state of the *viator*. Ruled 2026-10-02 (42.30). |
 | citra Christum | short of Christ | As *citra fidem*. Ruled 2026-10-02 (45.8). |
+| color (*non est color*) | colour (a plausible ground) | The period sense, as in "colour of title"; never "pretext". A **C** note at the first occurrence in each chunk. Ruled 2026-10-02 (Wilson; *Eccl.* 21.18, 23.5, 23.7). |
 
 ## D. False friends and ordinary words that mislead
 

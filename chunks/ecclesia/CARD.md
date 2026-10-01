@@ -45,7 +45,10 @@ notes and the transcription notes; set `status: translated`; lint; report.
   if still doubtful, the plate (`text/ecclesia/raw/leaves/nLEAF.jpg`, LEAF = page + 37 padded to four digits: p. 1 = `n0038.jpg`). A variant
   that gives the sense → translate it + **T** note citing the siglum; a compelling emendation →
   translate it + **T** note "(our emendation)"; neither → translate the print and flag it. Never
-  smooth nonsense into sense. Report every such case. Open flags for this volume:
+  smooth nonsense into sense. Report every such case. **Loserth's printed text governs** (ruled
+  2026-10-02): translate it, his own emendations included, unless it will not construe; a manuscript
+  reading is chosen only then, and **A₁ alone never outweighs the print**; every departure gets a T note
+  giving both readings. Open flags for this volume:
   `text/ecclesia/PLATE-FLAGS.md` (read it if your pages are listed there).
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is
   implicit). Supplied words in `[brackets]`, sparingly. Quotations in quotation marks: Loserth

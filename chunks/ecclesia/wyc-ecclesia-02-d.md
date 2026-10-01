@@ -44,8 +44,8 @@ evangelical life move them more evidently to believe.[^4]
 
 But blessed be the lord of [our mother]{g:mater nostra}, who in these days has provided for our young
 maiden, [a pilgrim]{g:peregrinari}, a catholic head, an evangelical man, Urban VI,[^5] who, in setting
-right the present church, so that it may live in conformity with the law of Christ, [38] begins in due
-order with himself and his household.[^6] Therefore one must believe from his works that he is head of
+right the present church, so that it may live in conformity with the law of Christ, [38] is set in due
+order, beginning with himself and his household.[^6] Therefore one must believe from his works that he is head of
 our church, since mediately or immediately he infuses the motion of tending upward to the body of
 Christ, where the eagles also will be gathered; and in deed he teaches, mediately or immediately, to
 spurn worldly things and to savour heavenly things with relish.[^7] And this faith about our head, so
@@ -95,9 +95,9 @@ these things the catholic sense of the decretal can be gathered.[^10]
     Prignano, archbishop of Bari) was elected on 8 April 1378 and crowned on Easter Sunday, 18 April
     (Loserth's note; LEDGER E02d-2). A and B's margins: *Nota de Urbano VI*.
 
-[^6]: **T.** We translate the MSS' *orditur*, "begins", which Loserth emends to *ordinatur* (38.1; his
-    note "In codd. orditur"); *ordinatur ordinate a se ipso* ("is ordered in order by himself") barely
-    construes. *Ordinate*: "in due order": reform begins at home.
+[^6]: **T/C.** *Ordinatur*: Loserth's emendation, translated as printed (the house rule, 2026-10-02:
+    his text unless it will not construe): "is set in due order", *a se ipso* "beginning with himself". The
+    MSS have *orditur*, "begins" (his note "In codd. orditur"), which gives nearly the same sense. *Ordinate*: "in due order": reform begins at home.
 
 [^7]: **S/R.** *Ubi congregabuntur et aquile*: Luke 17:37 (Loserth; also Matt. 24:28), DR "thither
     will the eagles also be gathered together"; Wyclif makes *corpus* the body of Christ. B *influit
@@ -128,5 +128,5 @@ these things the catholic sense of the decretal can be gathered.[^10]
   - 37: *ecclesia* (133b is the folio mark) [R4]
   - 37: *una* (following a is side-note text) [R4]
   - 37: *meriti* [R3]
-- 38.1 *ordinatur*: Loserth's emendation; the MSS' *orditur* translated (n. 6).
+- 38.1 *ordinatur*: Loserth's emendation, translated; the MSS' *orditur* in n. 6.
 - 37.27 *nostre*: A₁; AB *nostri*. 38.21 *sibi tamen*: Loserth's correction (MSS *sibi tam*).

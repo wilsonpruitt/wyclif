@@ -129,7 +129,7 @@ shakes off all fear.[^18]
     Loserth gives; XXVIII.10–11 has no lion (LEDGER E01h-3). *Beatum Petrum et alias particulares ecclesias*: Peter is counted as a particular
     church. 1 Cor. 12:12 is a reference, not a quotation.
 
-[^6]: **C/T.** *Caput universalis sed particularis*: we supply "[only]": no one should claim
+[^6]: **C/T.** *Non est color*: "there is no colour", no plausible ground (GLOSSARY *color*). *Caput universalis sed particularis*: we supply "[only]": no one should claim
     headship of the universal church, only of a particular one. Latin has no article, so the two
     inferences pass from "a head belonging to that church" and from "head of a part" to "the head of
     that church"; these are the *fallacie* named next. A reads at 23.7–8 *Nec si hoc est caput illius
