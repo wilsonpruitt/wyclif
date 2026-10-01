@@ -2200,3 +2200,18 @@ page	pos	rule	forms	reading	note
 517	211	OVERRIDE	latinworks10wycl=a | tractatusdeeccle00wycl=a	∅	apparatus line "27. Cap. XXII. A: cap. XXI." leaked into the text (agent 12)
 517	212	OVERRIDE	latinworks10wycl=cap | tractatusdeeccle00wycl=cap	∅	apparatus line "27. Cap. XXII. A: cap. XXI." leaked into the text (agent 12)
 517	213	OVERRIDE	latinworks10wycl=xxi | tractatusdeeccle00wycl=xxi	∅	apparatus line "27. Cap. XXII. A: cap. XXI." leaked into the text (agent 12)
+60	45	OVERRIDE	latinworks10wycl=i | iohanniswyclift00mattgoog=tercii | iohanniswycliftr04wycl=1 | tractatusdeeccl00wycl=tercn | tractatusdeeccle00wycl=tercn	∅	Tercii printed whole; scan split i|ercn
+60	46	OVERRIDE	latinworks10wycl=ercn | iohanniswyclift00mattgoog=∅ | iohanniswycliftr04wycl=ercu | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	Tercii	print: Tercii vero (agent 13)
+132	225	OVERRIDE	latinworks10wycl=huma | iohanniswyclift00mattgoog=humanitatem | iohanniswycliftr00wycluoft=humanitatem | iohanniswycliftr04wycl=huma | tractatusdeeccl00wycl=humanitatem | tractatusdeeccle00wycl=humanitatem	humanitatem	print: huma-/nitatem (agent 13); scan split
+132	226	OVERRIDE	latinworks10wycl=p | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=p | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	margin mark
+132	227	OVERRIDE	latinworks10wycl=nitatem | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=nitateni | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	joined at 225
+265	5	OVERRIDE	latinworks10wycl=reghas | iohanniswyclift00mattgoog=regiibecaapprounum | iohanniswycliftr00wycluoft=reghasbccnapprounum | iohanniswycliftr04wycl=reghasbeenapprounum | tractatusdeeccl00wycl=reghasbcenapproumiin | tractatusdeeccle00wycl=regnum	regnum	print: reg-/num (agent 13); scan split, side-note "has" glued
+265	6	OVERRIDE	latinworks10wycl=num | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	joined at 5
+338	116	OVERRIDE	latinworks10wycl=subi | iohanniswyclift00mattgoog=subintdligi | iohanniswycliftr00wycluoft=submtelligi | iohanniswycliftr04wycl=subuitelhgi	subintelligi	print: subintelligi (agent 13); scan cut it in five
+338	117	OVERRIDE	latinworks10wycl=n | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅	∅	joined at 116
+338	118	OVERRIDE	latinworks10wycl=te | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅	∅	joined at 116
+338	119	OVERRIDE	latinworks10wycl=lli | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅	∅	joined at 116
+338	120	OVERRIDE	latinworks10wycl=gi | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅	∅	joined at 116
+388	25	OVERRIDE	latinworks10wycl=u | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=u | tractatusdeeccle00wycl=u	Vⁱ	print: in fine Vⁱ capituli (agent 13)
+388	26	OVERRIDE	latinworks10wycl=1 | iohanniswyclift00mattgoog=capituli | iohanniswycliftr00wycluoft=capituli | iohanniswycliftr04wycl=capituli | tractatusdeeccl00wycl=capitun | tractatusdeeccle00wycl=capituli	∅	scan split; capituli at 27
+388	27	OVERRIDE	latinworks10wycl=capituh | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	capituli	print: capituli
