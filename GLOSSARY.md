@@ -180,6 +180,9 @@ otherwise.
 | redarguere | to refute | T. p. 365. |
 | proponere | to propose | Against *postponere* (put after), "put forward" may keep the pair visible, with a note (*Dial.* 74.25–26). |
 | concludere | to infer | "Conclude" only when a conclusion is literally drawn (T. p. 365). |
+| instatur; obicitur | it is objected | The disputation's objection formulae (*Eccl.*). Ruled 2026-10-01 (Wilson, with the *De ecclesia* card). |
+| dicitur (opening an answer) | the answer is | Elsewhere "it is said" (*Hic dicitur quod …*, *Eccl.* 26.8: "To this the answer is that …"). Ruled 2026-10-01 (Wilson). |
+| respondetur | the reply is | Ruled 2026-10-01 (Wilson). |
 | descripcio | definition | Not "description" (T. p. 363). |
 | glosare | to gloss | Interpret so as to remove the difficulty (T. p. 366). |
 | argucie; argucia | stratagems, quibbles; a quibble | T. p. 367. |

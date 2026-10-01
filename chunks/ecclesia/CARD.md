@@ -51,7 +51,7 @@ notes and the transcription notes; set `status: translated`; lint; report.
   implicit). Supplied words in `[brackets]`, sparingly. Quotations in quotation marks: Loserth
   italicises quotations, but the scaffold does not carry italics (`italics: none`), so find quoted
   matter by sense and by the source references at the page foot.
-- **Formulae of the disputation**, rendered the same way throughout: *instatur* "it is objected" ·
+- **Formulae of the disputation** (GLOSSARY §C, ruled 2026-10-01), rendered the same way throughout: *instatur* "it is objected" ·
   *obicitur* "it is objected" · *arguitur* "it is argued" (with *per*: GLOSSARY) · *dicitur* "it is
   said" (in an answer: "the answer is") · *respondetur* "the reply is" · *conclusio* "conclusion" ·
   *antecedens / consequens* "antecedent / consequent" · *consequencia* "inference", ⛔ never
