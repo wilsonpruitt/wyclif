@@ -379,6 +379,7 @@ def pick(decisions, pg, k, forms=None, rule=None, skip=()):
     """The plate decision for this page+position: several may share a position (a word
     and an insertion before it), so prefer the one whose voted forms match."""
     ds = [d for d in decisions.get((pg, k), []) if d['rule'] not in skip and (rule is None or d['rule'] == rule)]
+    ds.sort(key=lambda d: not d['rule'].startswith('OVERRIDE'))     # a coordinator's OVERRIDE is the later word
     return next((d for d in ds if forms is None or d['forms'] == forms), ds[0] if ds else None)
 
 
@@ -548,6 +549,12 @@ def run(slug, first=None, last=None):
             if d:   # a plate reading is the print at that box, queued now or not (OVERRIDE: corrects an accepted row)
                 if pivot_part(d['forms']) == pivot_part(sig):     # the box read is the pivot's token
                     rd = d['reading']
+                    if rd != '∅':     # the plate gives the word; the pivot's punctuation around it stands
+                        lead = re.match(r'^[(\[]+', t['t']); trail = re.search(r'[.,;:?!)\]]+$', t['t'])
+                        if lead and not rd.startswith(lead.group()):
+                            rd = lead.group() + rd
+                        if trail and not re.search(r'[.,;:?!)\]]$', rd):
+                            rd = rd + trail.group()
                     win = '∅' if rd == '∅' else norm(rd)
                     raws = {'plate': rd}
                     rule, plate = 'PLATE', False
