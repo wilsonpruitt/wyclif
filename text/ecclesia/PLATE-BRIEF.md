@@ -37,6 +37,11 @@ emend, or judge the sense.
 - Old-style arabic `1` and capital `I` look alike (*q. 1* vs *q. I*): decide on height, zoom the leaf.
 - Glued folio marks (`130b`), line numbers, margin letters (a b c), or English side-note words: the
   reading is the Latin word alone; a standalone English word is `∅`.
+- Bold argument numerals in the margin (from ~p. 109) and alinea letters at either edge (a–f, E, F, R, M)
+  glue onto words (`4una`, `christusb`, `instatc`): the reading is the Latin word alone.
+- Other superscripts as Unicode modifier letters: `XXIIIⁱ`, `CCCCᵗᵒˢ`, `Vᵘᵐ`.
+- `forms` may not show the main scan's own token: check `text/ecclesia/pNNN.check.tsv` (read-only) when a
+  row involves a hyphen or an insertion.
 - Text from the footnote block picked up by one scan: `∅` (notes are not the reading text).
 
 **Output:** append rows to the file named in your task (NOT `plate_decisions.tsv` itself), TSV with
