@@ -45,4 +45,3 @@ status: draft
   - 21: *unam* [R3]
   - 20: *iudicii* [THIN]
   - 20: *V°, 32.* (print has verse 32 after chapter (confirmed on leaf n0057)) [OVERRIDE-VERSE]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference Gregory. (21.2).

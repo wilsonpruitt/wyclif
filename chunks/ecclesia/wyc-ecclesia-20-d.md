@@ -63,4 +63,3 @@ status: draft
   - 488: *filii* (italic) [OVERRIDE-MARK]
   - 489: *et* (196ª folio mark dropped; et (italic) is missing from output) [OVERRIDE-MARK]
   - 485: *31* (verse 31 split 3|1 by the scan (agent 11)) [OVERRIDE]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference 2. II. Cor. VI, 11. (488.32).

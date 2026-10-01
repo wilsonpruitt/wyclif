@@ -53,4 +53,3 @@ status: draft
   - 24: *Christus* [R3]
   - 24: *Christus* [R3]
   - 25: *Rom. XI°* (token spans 'Rom. XI°' (tight space); degree sign present) [R4]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference Gregory. What the Church ls- (23.21); reference Gregory. (24.3).

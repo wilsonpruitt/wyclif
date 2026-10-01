@@ -57,4 +57,3 @@ status: draft
   - 8: *deest* [THIN]
   - 007: *∅* ('ales' already inside neighbour 15 Tales) [DELX]
   - 7: *XXIV°,* [OVERRIDE-VERSE]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference Augustine. (7.4); reference Mark this. (8.18).

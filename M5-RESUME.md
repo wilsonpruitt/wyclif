@@ -16,7 +16,14 @@ at the end of the M3/M4 session.*
 - ⚠ Note ids in the reads are row numbers of `sidenotes.ocr.tsv`: never re-run `sideocr.py` without
   re-reading. Known residual class: a note tesseract split at a gap with no marker on either half
   (3 found by the lower-case-continuation check, fixed in part99).
-- **Next:** item 2 below (CARD.md), then 01-a translated and reviewed in a fresh session.
+- **Card done (2026-10-01):** `chunks/ecclesia/CARD.md`. Disputation formulae (*instatur* / *obicitur*
+  "it is objected", *dicitur* "it is said" / "the answer is", *respondetur* "the reply is") are card
+  defaults for the 01-a review to confirm. 01-a/01-b start from the pilot's English (GLOSSARY governs).
+  Post-pass fixes: one note wrongly deleted by an agent restored (181.11), stale "Omitted per §3.5"
+  margin lines removed from 20 scaffolds (all were side-notes or page-foot sources); brief.py wording
+  defers to the card; bible.py takes *Luc/Luce*.
+- **Next:** translate 01-a (`brief.py ecclesia 01-a`, one Opus agent), then review it in a FRESH session
+  against the four classes; card changes land before stage 7.
 
 ## Status 2026-09-30 (end of the first M5 session)
 

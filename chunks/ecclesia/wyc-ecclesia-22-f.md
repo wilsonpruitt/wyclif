@@ -48,4 +48,3 @@ status: draft
   - 537: *XIIIª* [R4]
   - 538: *Vᵗⁱ* (print: Vti). ; punctuation dropped per superscript rule) [R4]
   - 535: *finiant,* (print: ante finiant, (was DEL-accepted) (agent 12)) [OVERRIDE]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference 25 Augustine says (535.25).

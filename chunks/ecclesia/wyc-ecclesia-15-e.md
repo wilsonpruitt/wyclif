@@ -61,4 +61,3 @@ status: draft
   - 344: *posterius* (clear ri in print) [NW]
   - 346: *et* [R5]
   - 346: *perficiat* [THIN]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference and so Augustinc lc<iclicS( • • . (346.4).

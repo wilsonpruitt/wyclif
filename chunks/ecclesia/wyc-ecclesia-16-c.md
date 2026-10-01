@@ -51,4 +51,3 @@ status: draft
   - 368: *dinate* (second half of inor-/dinate (pos 7)) [NW]
   - 368: *Christus* [R3]
   - 368: *XXII°* (print: Luce XXII°).) [R3]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference F God gave Peter (365.21).

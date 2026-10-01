@@ -63,4 +63,3 @@ status: draft
   - 535: *semper* (201c is the glued folio mark) [THIN]
   - 533: *Traianum* (Traianum split 1|raianum (agent 12)) [OVERRIDE]
   - 533: *∅* (joined at 197 (agent 12)) [OVERRIDE]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference 25 Augustine says (535.25).

@@ -38,7 +38,6 @@ status: draft
 - 529.20: 3. for bliss or for less good.
 - 529.27: We may pray for good less than bliss on behalf of the foreknown;
 - 530.1: but if we knew they were in hell our prayers would be useless.
-- 530.3: would be useless. C S
 - 530.7: We do best to pray generally and conditionally.
 - 530.23: The Church prays for all men, but her prayers are effectual only for the elect.
 - 531.6: It is said that we may pray generally but with a special intention for a friend, who may be damned.

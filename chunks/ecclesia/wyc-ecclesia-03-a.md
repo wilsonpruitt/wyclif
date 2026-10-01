@@ -75,4 +75,3 @@ status: draft
   - 50: *∅* ('its' is side-note text (by grief for its loss); line starts Et) [R4]
   - 50: *indicat* (30 is the line number) [R3]
   - 51: *habiti* (135a is the folio mark) [R3]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference EzekiePs vision. . ... (49.1).

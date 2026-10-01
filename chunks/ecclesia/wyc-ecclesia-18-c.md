@@ -57,4 +57,3 @@ status: draft
   - 426: *II°* (print has Johannis II°). before Ideo) [INS?]
   - 426: *II°* (print has Johannis II°). before Ideo) [INS?]
   - 426: *II°* [R3]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference I Augustinc (425.15).

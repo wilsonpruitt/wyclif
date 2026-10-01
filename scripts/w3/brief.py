@@ -19,10 +19,10 @@ You translate these {n} chunk(s) of Wyclif's *{work}* in a single pass. Everythi
 the working card, the glossary rows these chunks use, and for each chunk its scaffold and the editor's
 apparatus for its pages. Work so as to use few tool calls:
 
-1. Read this brief once (it is the only file you need to read).
+1. Read this brief once (it is the only file you need to read, unless the card names one for your chunk).
 2. For each chunk, write the COMPLETE chunk file ONCE with the Write tool to its path (given in the chunk's
    header below): the scaffold with `status: translated`, the title, the English after every Latin block,
-   headings renamed per the card, the side-notes corrected, Notes, and Transcription notes, in the card's
+   headings and side-notes as the card says, Notes, and Transcription notes, in the card's
    layout. Never alter the Latin. Do not make a series of small edits.
 3. Use the apparatus given here for variants (the card's rule: a variant that gives the sense is translated
    with a T note citing the siglum; otherwise translate the print and flag it). Open a plate image only if a
@@ -101,7 +101,7 @@ def main(slug, nums):
     out = os.path.join(ROOT, 'chunks', slug, '_briefs', f'{slug}-{nums[0]}-{nums[-1]}.md')
     open(out, 'w').write(body)
     print(f'{out}\n  ~{len(body) // 4 // 1000}k tokens; glossary rows {kept}; chunks {", ".join(nums)}')
-    print(f'\nAgent prompt:\n  Read {out} and follow it exactly. It is your only input file.')
+    print(f'\nAgent prompt:\n  Read {out} and follow it exactly. It is your input; read another file only where it says so.')
 
 
 FROM_GIT = '--from-git-scaffold' in sys.argv

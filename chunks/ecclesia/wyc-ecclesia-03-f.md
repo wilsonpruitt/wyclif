@@ -43,4 +43,3 @@ status: draft
   - 65: *placitant* (leading 4 is the margin number) [R4]
   - 66: *sunt* (137c is the folio mark) [R4]
   - 65: *XI°,* (no verse; boxed edge mark is the s of sic) [OVERRIDE-VERSE]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference 18. Rom. VIII, 26. (65.32).

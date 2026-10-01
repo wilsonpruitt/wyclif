@@ -45,9 +45,14 @@ def merge(slug):
         if r['id'] in ('+', 'M') and r['text'].strip() not in ('∅', 'ok', ''):
             out.append((int(r['page']), int(r['line']), tidy(r['text']), 'plate'))
     # a note the re-OCR cut at a line-break: its unread first half is dropped where the plate
-    # read gives the whole note at the same page.line
-    plate = {(o[0], o[1]): o[2] for o in out if o[3] == 'plate'}
-    out = [o for o in out if not (o[3] == 'ocr' and (o[0], o[1]) in plate and plate[(o[0], o[1])].startswith(o[2]))]
+    # read gives the whole note at the same page.line; likewise an unread tail (trailing specks
+    # stripped) that a plate-read note within three lines already contains
+    plate = [o for o in out if o[3] == 'plate']
+    def covered(o):
+        core = re.sub(r'(\s+\S{1,2})+$', '', o[2])
+        return any(p[0] == o[0] and 0 <= o[1] - p[1] <= 3 and (p[2].startswith(o[2]) or core in p[2])
+                   for p in plate)
+    out = [o for o in out if not (o[3] == 'ocr' and covered(o))]
     out.sort()
     with open(f'{base}/sidenotes.fixed.tsv', 'w') as f:
         f.write('page\tline\ttext\tsrc\n')

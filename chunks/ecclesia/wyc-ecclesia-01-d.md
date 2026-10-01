@@ -77,4 +77,3 @@ status: draft
   - 14: *seculari* (secu-/lari hyphenated; 'correction' is side-note text) [R4]
   - 13: *eiusdem* [THIN]
   - 14: *coactiva.* (hyphenated coac-/tiva.; tiva. absent from output, so whole word) [OVERRIDE-MARK]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference So says Augustine , , ...... (12.12).

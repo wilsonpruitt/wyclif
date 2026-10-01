@@ -44,4 +44,3 @@ status: draft
   - 471: *melius* [R3]
   - 471: *in* [R3]
   - 471: *iudicatur* [NW]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference Xiq3bet Judges decide (469.1); reference Augustine said that civil laws 1 (469.19).

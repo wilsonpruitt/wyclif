@@ -48,4 +48,3 @@ status: draft
   - 6: *pertinet* (first word of line, italic) [R3]
   - 6: *Christi* [R3]
   - 5: *domum* [THIN]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference Augustine (5.27).

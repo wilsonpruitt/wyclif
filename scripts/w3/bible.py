@@ -13,7 +13,7 @@ RAW = os.path.expanduser('~/douay-glossa/raw')
 ALIAS = {'ps': 'Psalms', 'psalm': 'Psalms', 'prov': 'Proverbs', 'eccl': 'Ecclesiastes', 'eccles': 'Ecclesiastes',
          'ecclus': 'Sirach', 'ecclesiasticus': 'Sirach', 'sir': 'Sirach', 'cant': 'Song of Solomon',
          'isa': 'Isaiah', 'is': 'Isaiah', 'jer': 'Jeremiah', 'ezek': 'Ezekiel', 'dan': 'Daniel', 'mal': 'Malachi',
-         'matt': 'Matthew', 'mt': 'Matthew', 'mk': 'Mark', 'lk': 'Luke', 'jn': 'John', 'rom': 'Romans',
+         'matt': 'Matthew', 'mt': 'Matthew', 'mk': 'Mark', 'lk': 'Luke', 'luc': 'Luke', 'luce': 'Luke', 'jn': 'John', 'rom': 'Romans',
          'gal': 'Galatians', 'eph': 'Ephesians', 'phil': 'Philippians', 'col': 'Colossians', 'heb': 'Hebrews',
          'jas': 'James', 'rev': 'Revelation of John', 'apoc': 'Revelation of John', 'gen': 'Genesis',
          'exod': 'Exodus', 'ex': 'Exodus', 'lev': 'Leviticus', 'num': 'Numbers', 'deut': 'Deuteronomy',

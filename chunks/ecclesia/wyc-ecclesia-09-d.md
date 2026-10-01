@@ -71,4 +71,3 @@ status: draft
   - 198: *II°* ('into' is the English side-note) [R4]
   - 195: *fuisset* [THIN]
   - 195: *sacerdotes* [THIN]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference 12. Matth. X, 25. (196.31).

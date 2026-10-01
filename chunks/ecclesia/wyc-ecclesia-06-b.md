@@ -70,4 +70,3 @@ status: draft
   - 121: *erit* (145b folio mark glued) [THIN]
   - 121: *eternum* [THIN]
   - 121: *dicendum* [THIN]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference ut Exod. XXI, 17. (122.32); reference 22. Rom. VIII, 17. (122.32).

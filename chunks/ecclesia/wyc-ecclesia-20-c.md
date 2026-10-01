@@ -45,4 +45,3 @@ status: draft
   - 484: *timebit* [R4]
   - 484: *30* (Rom. VIII°, 30: x-height 0 after 3) [R3]
   - 484: *III°* [R4]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference 5. Cf. Aug. 1. c. pag. 1 85. (481.31).

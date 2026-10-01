@@ -49,4 +49,3 @@ status: draft
   - 364: *licite* [R3]
   - 365: *licitum* [R3]
   - 365: *Christi* [R3]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference F God gave Peter (365.21).

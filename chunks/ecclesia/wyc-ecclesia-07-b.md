@@ -54,4 +54,3 @@ status: draft
   - 148: *8* (print: Ecclesiastici X°, 8 scribitur) [DEL]
   - 148: *Cum* (round C, not g) [R4]
   - 147: *XX°,* [OVERRIDE-VERSE]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference 8. Deut. XIX, 10. (147.31).

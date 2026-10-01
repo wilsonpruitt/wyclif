@@ -51,6 +51,7 @@ status: draft
 - 180.1: Poverty is nearer to the state of innocence.
 - 180.10: Hence rulers may relieve the clergy of useless wealth.
 - 181.6: Opinions of Gregory
+- 181.11: and Augustine.
 
 ## Notes
 
@@ -79,4 +80,3 @@ status: draft
   - 179: *scripture* [THIN]
   - 182: *Religione* [THIN]
   - 182: *pociora* [R3]
-- **Omitted per §3.5 / kept in the English** (margin matter): reference Augusiine. (181.11).
