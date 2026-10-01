@@ -3,6 +3,20 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 (later) — brief 3 (02-a–02-d) DONE
+- Opus brief 170K. Ledger: E02b-1 = E01h-4 (verified); E02d-1 verified by the coordinator (Aug. *Serm.* 292.6,
+  PL 38:1323); the rest are *Unam sanctam*/tradition rows (not local) or editor.
+- New leak class: Loserth's PAGE FOOT read into the Latin as paragraphs (p. 33 apparatus + English note on
+  Celestine V; p. 160 apparatus). vote.py now drops a paragraph that opens with a line number and carries
+  apparatus marks or English (only these 3 in the volume). 02-c rebuilt to its true paragraphs (notes renumbered);
+  drafts 08-a/08-b given the fresh paragraphs, their side-notes kept.
+- tokenfix.tsv: 02-a/02-b scars (glued alinea letters a/b, *opmcis*, side-note "a."). Drift check over all 12
+  translated chunks: 0. bible.py: Sap/Wis/Act aliases.
+- GLOSSARY ruled: *aggregative*, *de inesse*, *sillogismus expositorius*, *influxus/influere* (not "influence"),
+  *universitas fidelium*, *necessitas ex supposicione*.
+- Open: Clement at 37.21 (V or VII?) left open in the note; *color* ruling still with Wilson.
+- **Next:** brief 4 = 02-e, 02-f (finishes chapter 2), perhaps with 03-a.
+
 ## Status 2026-10-02 — brief 2 (01-e–01-h) DONE: chapter 1 translated
 - Opus brief 164K; Sonnet ledger verifier 116K (11 rows read in local PL; Wyclif's own *Moralia* refs often wrong:
   XXVIII.11 is XVIII.35.56; XIX.9/IV.9 untraced). Notes corrected.

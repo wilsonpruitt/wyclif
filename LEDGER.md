@@ -126,3 +126,13 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E01h-4 | ecclesia-01-h / n9, n10 | Gregory, *Hom. in Ev.* I.19 (vineyard, Matt. 20); the "mouth" = *Mor.* XVIII.35.56 | verified | PL 76:1154B; 76:68D. Job as "mouth" untraced |
 | E01h-5 | ecclesia-01-h / n11 | *Moralia* IV: patriarchs' virtues | to-verify | nearest found: Preface 6.13, PL 75:524B–C (lacks David, Elijah); Book IV not searched in full |
 | E01h-6 | ecclesia-01-h / n18 | Hus, *De eccl.* capp. 1–3 draws on cap. 1 | editor | Loserth p. 25 |
+| E02a-1 | ecclesia-02-a / n1 | *Unam sanctam*, title *De maioritate et obedientia*; *Extrav. comm.* 1.8.1 (modern form ours) | editor | Loserth 25.27, 26.15 |
+| E02a-2 | ecclesia-02-a / n3 | *Unam sanctam*: *Christus videlicet et Christi vicarius Petrus, Petrique successor* | to-verify | bull not in local PL |
+| E02b-1 | ecclesia-02-b / n5 | Gregory, *Hom. in Ev.* 19.1, *ab Abel … usque ad ultimum electum* (MSS *XXIII Moral. cap. I*; Loserth corrects to *XIX Homiliarum*) | verified | PL 76:1154B, as E01h-4 (read 2026-10-02 by the wave-2 verifier) |
+| E02b-2 | ecclesia-02-b / n14 | *septima conclusio capituli proximi* = 19.18 | editor | Loserth |
+| E02c-1 | ecclesia-02-c / n4 | Clement V, *Meruit*, *Extrav. comm.* 5.7.2 (modern form ours) | editor | Loserth 32.33 |
+| E02c-2 | ecclesia-02-c / n3 | the apostle Thomas evangelized India | to-verify | from memory (tradition: *Acta Thomae*) |
+| E02c-3 | ecclesia-02-c / n10 | Celestine V pope 5 July – Dec. 1294 | editor | Loserth's footnote reads "Dec. i" (OCR; 1 or 13?); the resignation is usually dated 13 Dec. 1294: to-verify before the note gives a day |
+| E02c-4 | ecclesia-02-c / n11 | Boniface VIII: *intrabit ut vulpes …* tradition | to-verify | from memory |
+| E02d-1 | ecclesia-02-d / n1 | Augustine on Matt. 24:5: *Sermo* 292, *in natali Ioannis Baptistae* (Opp. V.2, 1172) | verified | PL 38:1323, §6: *Multi venient in nomine meo dicentes, Ego sum Christus … nullum audivimus dicentem* (coordinator, 2026-10-02) |
+| E02d-2 | ecclesia-02-d / n5 | Urban VI elected 8 April 1378; crowned Easter Sunday, 18 April | editor | Loserth "Easter-Sunday"; the date 18 April is the agent's, to-verify |

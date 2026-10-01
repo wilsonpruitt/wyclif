@@ -675,6 +675,16 @@ def run(slug, first=None, last=None):
             if (x_ in ALINEA and a_ and a_.rstrip('*⟧')[-1:] in '.?!:' and b_.lstrip('*(⟦')[:1].isupper()
                     and not out_tokens[i].get('pending')):
                 out_tokens[i]['t'] = ''
+        # Loserth's page foot read into the text as a paragraph (p. 33: '24. 25. B: nunciaretur …', '34. Celestine V.,
+        # the predecessor …'): a paragraph that opens with a line number and carries apparatus marks or English is
+        # dropped whole (2026-10-02; a Latin paragraph never opens with an arabic line number)
+        starts = [i for i, x in enumerate(out_tokens) if i == 0 or x.get('para')] + [len(out_tokens)]
+        for s_, e_ in zip(starts, starts[1:]):
+            para = ' '.join(x['t'] for x in out_tokens[s_:e_])
+            if re.match(r'\d{1,2}\.\s', para) and (re.search(r'in marg|[Cc]odd|\b[ABD]₁?[,:]|corr\.', para) or
+                    len(re.findall(r'\b(?:the|of|was|and|from|to)\b', para)) >= 2):
+                for x in out_tokens[s_:e_]:
+                    x['t'] = ''
         # write page
         lines, cur, cur_head = [], [], False
         prev_t = ''

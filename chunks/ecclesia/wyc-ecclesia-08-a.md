@@ -5,11 +5,11 @@ work_en: On the Church
 volume_slug: ecclesia
 editor: Johann Loserth
 year: 1886
-pages: "157.26–160.31"
+pages: "157.26–160.24"
 divisions: "cap. 8 (heading 'CAP. VIII.' at 157.25); part 1 of 6, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [iohanniswyclift00mattgoog, iohanniswycliftr00wycluoft, iohanniswycliftr04wycl, latinworks10wycl, tractatusdeeccl00wycl, tractatusdeeccle00wycl]
-check: "746 words; 706 unanimous or majority-real; 33 settled by vote (R2 22, R3a 11); 7 read on the plate (see Transcription notes)"
+check: "686 words; 646 unanimous or majority-real; 32 settled by vote (R2 21, R3a 11); 8 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks10wycl, leaves n194–n197 (printed p. = leaf − 37)"
 status: draft
@@ -26,12 +26,6 @@ status: draft
 ## ¶2 · 160.13–160.24
 
 > [p. 160] Item, cum omnis virtus sit de genere tertii boni maximi, descendens desursum a patre luminum qua virtute nemo abuti potest (ut sepe meminit beatus Augustinus), sequitur quod omnis virtus mendacii sit a Deo, et cum omnis pater et auctor virtutis sit autonomatice virtuosus, sequitur quod Deus, pater et auctor mendacii, sit summe mendax, sicut Christus secundum humanitatem foret homo mendacissimus potens esse, et per consequens, nullus fidelis dubitat esse blasphemum, cum Manichei blasfemi dixerunt micius quod non Deus bonus, sed Deus malus sit origo et principium talis mali.
-
-[ENGLISH]
-
-## ¶3 · 160.25–160.31
-
-> [p. 160] Nec dubium quin non sit dare virtutem in homine, quin eius ydea vel exemplar sit in Deo et Deus virtute supra genus est taliter virtuosus, ut non posset exemplare iusticiam, misericordiam, patienciam, liberalitatem, et sic de et aliis, nisi ipse foret summe iustus, misericors, paciens et liberalis, et sic de principiis cuiuscunque generis virtutis. Et sic antecedenter ad virtutem mendacii
 
 [ENGLISH]
 

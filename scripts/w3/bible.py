@@ -17,7 +17,7 @@ ALIAS = {'ps': 'Psalms', 'psalm': 'Psalms', 'prov': 'Proverbs', 'eccl': 'Ecclesi
          'gal': 'Galatians', 'eph': 'Ephesians', 'phil': 'Philippians', 'col': 'Colossians', 'heb': 'Hebrews',
          'jas': 'James', 'rev': 'Revelation of John', 'apoc': 'Revelation of John', 'gen': 'Genesis',
          'exod': 'Exodus', 'ex': 'Exodus', 'lev': 'Leviticus', 'num': 'Numbers', 'deut': 'Deuteronomy',
-         'josh': 'Joshua', 'judg': 'Judges', 'tit': 'Titus', 'wisd': 'Wisdom', 'hos': 'Hosea', 'mic': 'Micah'}
+         'josh': 'Joshua', 'judg': 'Judges', 'tit': 'Titus', 'wisd': 'Wisdom', 'wis': 'Wisdom', 'sap': 'Wisdom', 'sapiencie': 'Wisdom', 'act': 'Acts', 'actus': 'Acts', 'hos': 'Hosea', 'mic': 'Micah'}
 ORD = {'1': 'I', '2': 'II', '3': 'III', 'i': 'I', 'ii': 'II', 'iii': 'III'}
 # Vulgate/Douay names for the books of Kings: 1-2 Kings = 1-2 Samuel, 3-4 Kings = 1-2 Kings
 KINGS = {'1 reg': 'I Samuel', '2 reg': 'II Samuel', '3 reg': 'I Kings', '4 reg': 'II Kings',
