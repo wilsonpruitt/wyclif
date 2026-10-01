@@ -2112,6 +2112,71 @@ page	pos	rule	forms	reading	note
 586	245	THIN	latinworks10wycl=m | iohanniswycliftr04wycl=m	in	
 587	10	NW	latinworks10wycl=nnem | iohanniswycliftr00wycluoft=tinem | iohanniswycliftr04wycl=nnem | tractatusdeeccl00wycl=nncm | tractatusdeeccle00wycl=nnem	finem	
 587	87	NW	latinworks10wycl=peiorati | iohanniswycliftr00wycluoft=peiorati | iohanniswycliftr04wycl=peiorati | tractatusdeeccl00wycl=peiorati | tractatusdeeccle00wycl=peiorati	peiorati,	
+007	16	DELX	latinworks10wycl=ales | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | tractatusdeeccle00wycl=∅	∅	'ales' already inside neighbour 15 Tales
+060	46	DELX	latinworks10wycl=ercn | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=ercu | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	'ercii' is inside neighbour 45 (print Tercii; neighbour reads Tercn)
+072	203	DELX	latinworks10wycl=brum | iohanniswyclift00mattgoog=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of mem-brum; neighbour 202 already membrum
+104	126	DELX	latinworks10wycl=ed | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=adliuc | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	Sed	print has Sed before adhuc; not in neighbours
+132	227	DELX	latinworks10wycl=nitatem | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=nitateni | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of huma-nitatem; JOIN onto 225 huma- -> humanitatem
+192	76	DELX	latinworks10wycl=tulo | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of capi-tulo; neighbour 74 already capitulo
+263	191	DELX	latinworks10wycl=quod | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: quod already at 184
+263	192	DELX	latinworks10wycl=catnolicam | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: catholicam already at 189
+265	6	DELX	latinworks10wycl=num | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of reg-num; JOIN onto 5 reg- -> regnum
+267	65	DELX	latinworks10wycl=atos | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	'atos' already inside neighbour 64 sceleratos
+272	9	DELX	latinworks10wycl=ducitur | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of in-ducitur; neighbour 8 already inducitur.
+325	94	DELX	latinworks10wycl=dum | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of mun-dum; neighbour 93 already mundum.
+338	118	DELX	latinworks10wycl=te | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅	∅	fragment of subintelligi; JOIN 116 subi + 117 n + 118 te + 119 lli + 120 gi -> subintelligi
+357	198	DELX	latinworks10wycl=tatis | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of infideli-tatis; neighbour 197 already infidelitatis
+378	38	DELX	latinworks10wycl=rales | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of tempo-rales; neighbour 36 already temporales
+386	108	DELX	latinworks10wycl=tusta | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: iusta already at 107
+388	27	DELX	latinworks10wycl=capituh | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: capituli already at 26
+400	129	DELX	latinworks10wycl=anus | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of christi-anus; neighbour 128 already christianus
+420	54	DELX	latinworks10wycl=umphans | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	'umphans' already inside neighbour 53 triumphans
+445	145	DELX	latinworks10wycl=dus | iohanniswyclift00mattgoog=dus | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of secun-dus; neighbour 144 already secundus
+448	96	DELX	latinworks10wycl=gtali | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	G is margin alinea letter; 'tali' is second half of mor-tali, neighbour 95 already mortali
+450	223	DELX	latinworks10wycl=inergo | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	'in-' (of in-corporacio, 229 already incorporacio) glued to ergo (222 present)
+466	38	DELX	latinworks10wycl=torpcntc | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: torpente already at 37
+514	168	DELX	latinworks10wycl=baptismo | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: baptismo already at 161
+551	7	DELX	latinworks10wycl=glossa | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: glossa already present (tok pos 6 second entry)
+565	14	DELX	latinworks10wycl=cent | iohanniswyclift00mattgoog=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=cent | tractatusdeeccle00wycl=∅	∅	second half of subia-cent; neighbour 13 already subiacent
+584	110	DELX	latinworks10wycl=uicar | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=uicar	∅	English side note (Christ's vicar)
+595	14	DELX	latinworks10wycl=contra | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Contra	index right column: Contra securitatem dotacionis
+595	15	DELX	latinworks10wycl=securitatem | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	securitatem	index right column
+595	16	DELX	latinworks10wycl=komane | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: Romane already at 13
+595	23	DELX	latinworks10wycl=dum | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of creden-dum?; neighbour 20 already credendum?
+595	27	DELX	latinworks10wycl=scriptura | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Scriptura	index right column: Scriptura sacra quomodo debet defendi
+595	28	DELX	latinworks10wycl=sacra | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	sacra	index right column
+595	38	DELX	latinworks10wycl=scnptura | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	scriptura	index left column 'fundatur in scriptura?'; note 35 has tract=scriptura but main=neri (right col te-neri)
+595	56	DELX	latinworks10wycl=serui | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Servi	index right column: Servi civilis condicio
+595	57	DELX	latinworks10wycl=ciuilis | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	civilis	index right column
+595	58	DELX	latinworks10wycl=condic | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	condicio	index right column; scan truncated condic
+595	79	DELX	latinworks10wycl=beati | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Beati	index right column: Beati Silvestri defectus
+595	80	DELX	latinworks10wycl=siluestri | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Silvestri	index right column; printed with v
+595	97	DELX	latinworks10wycl=sacerdos | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Sacerdos	index right column: Sacerdos quomodo se privat
+595	98	DELX	latinworks10wycl=quomodo | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	quomodo	index right column
+595	108	DELX	latinworks10wycl=tamen | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	tamen	index right column
+595	109	DELX	latinworks10wycl=quomodo | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	quomodo	index right column
+595	121	DELX	latinworks10wycl=sacerdos | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Sacerdos	index right column: Sacerdos non debet litigare
+595	122	DELX	latinworks10wycl=non | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	non	index right column
+595	123	DELX	latinworks10wycl=debet | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	debet	index right column
+595	135	DELX	latinworks10wycl=contra | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Contra	index right column: Contra sacerdotes (et) rectores
+595	136	DELX	latinworks10wycl=sacerdotes | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	sacerdotes	index right column
+595	179	DELX	latinworks10wycl=sine | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Sine	index right column: Sine sacramentis nostris
+595	180	DELX	latinworks10wycl=sacramentis | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	sacramentis	index right column
+595	241	DELX	latinworks10wycl=paruit | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of ap-paruit; neighbour 238 currently apparuit (if 238 resolves to ap-, JOIN -> apparuit)
+595	254	DELX	latinworks10wycl=argumenta | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Argumenta	index right column: Argumenta quod omnes salvabuntur
+595	255	DELX	latinworks10wycl=quod | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	quod	index right column
+595	269	DELX	latinworks10wycl=rantum | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Tantum	index right column; initial T read as r
+595	270	DELX	latinworks10wycl=in | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	in	index right column
+595	271	DELX	latinworks10wycl=tribus | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	tribus	index right column
+595	274	DELX	latinworks10wycl=mitur | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	mitur	second half of impri-mitur; first half (with 'sacramentis caracter') absent from stream
+595	280	DELX	latinworks10wycl=pro | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Pro	index right column: Pro sepultura et exequiis
+595	281	DELX	latinworks10wycl=sepultura | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	sepultura	index right column
+595	282	DELX	latinworks10wycl=et | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	et	index right column
+595	291	DELX	latinworks10wycl=uentas | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	∅	duplicate: veritas already at 290
+595	306	DELX	latinworks10wycl=missio | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	∅	second half of re-missio; neighbour 304 currently remissio (if 304 resolves to re-, JOIN -> remissio)
+595	331	DELX	latinworks10wycl=temporalium | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Temporalium	index right column: Temporalium amissio minus dolenda
+596	313	DELX	latinworks10wycl=pagc | iohanniswycliftr00wycluoft=∅ | tractatusdeeccle00wycl=∅	∅	English footnote; page already at 312
+598	136	DELX	latinworks10wycl=darius | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=darius	Darius	index: Darius 259; not in neighbours
 297	2	OVERRIDE	latinworks10wycl=rccipiunt | iohanniswyclift00mattgoog=dai | iohanniswycliftr00wycluoft=dat | iohanniswycliftr04wycl=dat | tractatusdeeccl00wycl=dat | tractatusdeeccle00wycl=dat	recipiunt	print: et qui recipiunt ab eo (plate, agent 6); the other scans aligned p.296 dat here
 374	0	OVERRIDE	latinworks10wycl=uni | tractatusdeeccl00wycl=uni	universitates	print: universitates whole on line 1 (agent 9); the scan split it uni | uersitates
 459	35	OVERRIDE	latinworks10wycl=quodthe | iohanniswycliftr00wycluoft=quodthe | iohanniswycliftr04wycl=quodthe | tractatusdeeccl00wycl=quodthc | tractatusdeeccle00wycl=quod	quod	English side-note "The" glued on (agent 10)
