@@ -1,0 +1,77 @@
+---
+chunk_id: wyc-ecclesia-15-e
+work_la: Tractatus de ecclesia
+work_en: On the Church
+volume_slug: ecclesia
+editor: Johann Loserth
+year: 1886
+pages: "342.13–348.23"
+divisions: "cap. 15 (heading 'CAP. XV.' at 328.26); part 5 of 8, split at the editor's ¶ (CONVENTIONS §1)"
+latin_source: three-witness
+witnesses: [iohanniswyclift00mattgoog, iohanniswycliftr00wycluoft, iohanniswycliftr04wycl, latinworks10wycl, tractatusdeeccl00wycl, tractatusdeeccle00wycl]
+check: "1445 words; 1286 unanimous or majority-real; 137 settled by vote (R2 79, R3a 49, R3b 1, R5a 5, R6a 3); 22 read on the plate (see Transcription notes)"
+italics: none
+plates: "archive.org latinworks10wycl, leaves n379–n385 (printed p. = leaf − 37)"
+status: draft
+---
+
+# *De ecclesia*, chapter 15, part 5: [TITLE]
+
+## ¶1 · 342.13–348.23
+
+> [p. 342] Secundo confirmatur ex hoc quod rex (in quantum huiusmodi) habet privilegium concessum a Deo et acceptum a populo ad regnandum; si ergo abutitur sua potestate in desidia correccionis, que maxime spectaret ad regis officium, quis dubitat quin secundum legem premissam rex teneretur amittere regnum suum? Unde inter alia peccata regum videtur quod omissio correccionis et auctorizacio curati inhabilis sit peccatum periculosissimum a regibus absconditum, cum ut sic sunt reges socii defensorum. Et ad illud potest adduci illud dictum Christi Matthei XXI°, 43: Auferetur a vobis regnum et dabitur genti facienti fructus eius. Non enim posset esse maior contemptus domini quam de suo patrimonio contra ipsum defendere hostem suum. Et ad hoc sunt multe concordancie legum (ut dixi in materia De Symonia); taliter enim meretur tam rex quam symoniacus ut ab eis tamquam ab hereticis dominus auferatur, ut loquitur propheta Osee V°, 6, sacerdotibus et regibus: In armentis suis vadent ad querendum dominum et non invenient: ablatus est ab eis. Talis ergo thesauri ablacio depauperaret regnum ad sui maximum detrimentum. [p. 343] Unde solebam dicere quod ablacio quedam est utrimque bona, ut Marci II°, 20, dicit Christus quod auferetur a discipulis suis sponsus, quandoque tantum alterutrum bona (ut Osee V°), quandoque vero utrimque mala, ut quando criminosi spoliant sese reciproce, semper autem est ablacio passiva bona ablatario permanente in caritativa paciencia. Tercio confirmatur ex lege debiti elemosine spiritualis. Nam rex tenetur tam ex iure Dei quam lure regni servare quantum sufficit legiis suis iusticiam et debitum opus spiritualis misericordie (ut patet superius tractatu De Privilegiis), sed precipuum opus talis misericordie regi pertinens foret castigacio coactiva ad continuandum suas elemosinas; ergo illud debet impendere. Unde qui offenduntur maxime ad verbum de ablacione temporalium vendicant quod seculares defendant elemosinas suorum progenitorum in suo robore permanentes, quod non fit (iuxta dicta XIII° cap.) nisi dum ecclesia habet profectum ex modo elemosinandi, sic quod collata remaneant in racione privilegii vel elemosine, quod extinguitur dum elemosinarii collatis elemosinis abutuntur; quamvis enim remaneat pie donantis voluntas, cum donum corporale perdit racionem elemosine per abusum, et fuisset meritum donatoris extensius, supposito quod sui elemosinarii proficerent magis ecclesie, quia in ipsis elemosinantes magis proficerent. Sic enim secundum beatum Bernardum peccatum Petri Abellardi est adhuc incertum, antequam noscatur quod homines ex sua heresi seducentur. Unde solet dici communiter quod elemosina habet perfeccionem essencialem que attenditur penes fervorem [p. 344] caritatis, secundum quam elemosinans miseretur, et perfeccionem accidentalem que capitur penes quantitatem fructus ex illa occasionata posterius. Ego autem credo quod aliud est genus elemosinandi in predestinatis et aliud in prescitis. Nam tota elemosina quam facit predestinatus limitat sibi gradum beatitudinis ad quem parcialiter proficiunt singule partes eius. Elemosina autem totalis presciti concurrit secundum se totam ad mitigandum penam perpetuam. Si domini temporales (ut elemosinati vendicant) tenentur continuare elemosinas patrum quorum sunt heredes, tunc tenentur ad omne inde sequens formaliter, quia aliter contra possibilitatem obligacionis divine forent ad contradictoria obligati, scilicet ad faciendum ipsas esse elemosinas et ad defendendum earum abusum in discolis, secundum quam racionem carent forma elemosine. Ergo cum reges Anglie tenentur servare elemosinas suorum progenitorum in sua perpetuitate, tenentur insuper ex lege spiritualis elemosine suos legios castigare, tenentur tercio ex obligacione qua tenentur facere legiis suis iusticiam et extinguere iniurias que vergunt periculosissime ad sui populi detrimentum; patet quod tenentur in casu bona sua ecclesie sancte restituere et a comtemptoribus Dei sui et regni auferre. Hoc enim fuit pactum dotacionis primeve. Ideo audenter assero, si cum istis paribus rex noster non habet potestatem ad faciendum in clero suo opus misericorditer castigandi, non habet sufficienciam super totali regno nostro politice dominandi, ymmo si bene attendimus ad scripturam sacram et dicta de privilegiis ecclesie, et sonat in privilegium regis quod habeat potenciam taliter clericos cohercendi, et clerici habent [p. 345] privilegium eo quod habent talem prepositum cui sic meritorie possunt subdi. M Illi ergo qui dicunt quod rex habet potestatem incomprehensibilem castigando leones et faciendo corporales sanaciones cum aliis que vocant miracula, laxarent porcionem sue potencie ad regulandum regnum suum in clero, cum hoc et eius actus foret excellencius et plus fundabile ex scriptura. Nonne foret excellencius castigare freneticos, peccatores et discolos scole Christi quam domare feras que non tantum nocent ecclesie? Nonne iterum foret opus maioris virtutis gignere virtutes in mente disciplinabili occasione castigacionis salubris, qua ablata ab ecclesia virtutes ab indomito subtrahuntur, quam inducere virtualiter corpoream sanitatem? Utrobique namque est rex nudum instrumentum Dei qui dans regi virtutem subautenticam principaliter operatur. Et sic (ut sepe dixi) rex nedum faceret opus maioris virtutis in castigando subditos quam faciendo quoscunque actus mirabiles corporales, sed eciam quam accumulando quotlibet temporalia cleri Christi, nam tales virtutes faciendi sanitates corporeas possunt inesse bestiis, terre nascentibus atque lapidibus sed non virtus correccionis salubris. N Et iterum adieccio temporalium communiter non est ita propinqua ultime necessitati salvacionis presentis corporee, sicut subtraccio abusi est propinqua ultime necessitati salvacionis perpetue tam corporis quam anime. Sicut enim est opus maioris misericordie auferre gladium a frenetico volente se ipsum occidere quam dare gladium persecuto ad defendendum se a volente eum occidere, quia peius foret hominem occidi sic a se ipso quam occidi ab alio, quia primum est dampnabile et secundum semper meritorium sive [p. 346] iustum; et ad hoc sunt multe leges ecclesie, ut allegavi superius XI° cap. huius ex dictis Augustini positis XXIIIª, q. IVª, Nimium, et Ipsa pietas, et Quid faciet; et illud patet Vᵗᵃ, q. Vᵗᵃ, ubi sub auctoritate Augustini scribitur: Non vos iudicetis malivolos esse, quando crimen alterius indicatis; magis quippe nocentes non indicando crimen estis, quam si fratres vestros quos indicando corrigere potestis tacendo crimen perire permittitis. Si enim frater tuus habet vulnus in corpore quod velit occultari, dum timet secari, nonne crudeliter a te siletur et misericorditer indicatur? Quanto ergo pocius debes manifestare ne deterius putrescat in corde? Et sequitur: Non omnis qui parcit amicus est, nec omnis qui verberat inimicus; meliora enim sunt vulnera amici quam fraudulenta oscula inimici; melius est cum severitate diligere quam cum lenitate decipere. Et sequitur ad propositum: Utilius esurienti panis tollitur, si de cibo securus negligat iusticiam, quam esurienti panis frangitur, ut iniusticie seductus acquiescat. Et qui freneticum ligat et qui litargicum excitat ambobus molestus ambos amat. Quis non potest amplius amare quam Deus, et tamen nos non solum docere suaviter, verum eciam salubriter terrere non cessat, ut docet Apostolus Hebreorum XII°. Fomentis lenibus quibus Deus omnes consolatur, sepe eciam mordacissimum medicamentum tribulaminis adiungit, exercet fame patriarchas, pios et religiosos, populum autem contumacem penis gravioribus agitat, non aufert ab apostolo stimulum carnis, tercio rogatus ut virtutem in infirmitate perficiat. Ex quotquot [p. 347] dictis sanctorum exponencium fidem scripture patet quod de lege caritatis et spiritualis elemosine sub pena dampnabilis consensus tenetur prepositus subiectos corripere. Unde inter omnia peccata de quibus magis timeo in superioribus regni nostri, sunt ceca pietas, falsa misericordia et consentanea omissio, sive ex negligencia sive (quod maxime horrendum est), quando venditur consensus criminis et iniuste ac proditorie per patrimonium Christi defenditur eius hostis. Unde Augustinus epistola XXXVII ad Macedonium: Misericordius opem nostram talibus subtrahimus quam impendimus. Non enim opem fert qui ad peccandum iuvat ac non pocius subvertit et opprimit. Sed contra dicta primo obicitur per hoc quod nemo debet defamare proximum et specialiter christos Dei. Illi autem qui illud obiciunt parum considerant quomodo mendax (in quantum huiusmodi) defamat se ipsum, et iterum quomodo ex verbis istis generalibus legis domini se putans defamatum indicat ut sic se esse legis Dei adversarium, et iterum parum considerat quomodo prophete veteris testamenti, Christus et leges ecclesie acutissime instant contra solum nomine sacerdotes; et racio est, quia in eorum subversione imminet maius periculum matri ecclesie. Et illud meminit decretum, LXXXIIIª dist., ubi sic scribitur: Nemo quippe in ecclesia amplius nocet quam qui perverse agens nomen vel ordinem sanctitatis vel sacerdotis habet. Delinquentem namque hunc redarguere nullus presumit, et in exemplum culpa [p. 348] vehementer extenditur, quando peccator pro reverencia ordinis honoratur. Episcopus itaque qui talium crimina non corrigit magis dicendus est canis impudicus quam episcopus. Ista, inquam, iura sanctorum ideo incorporata sunt in canone, non ut palea perpetuo taceantur, sed ut ad laudem bonorum cum modestia detegantur. Et dico cum modestia, quia contingit hominem in dicendo veritatem modum excedere, ut notatur in decretis Vª, q. Vª, Qui ambulat, ubi solvendo apparenciam repugnancie in ista materia sic scribitur: Aliud est ex caritate aliorum crimina deferre, ut quos secreta ammonicione corrigere non possumus, convictos iudicis sentencia corripiat, atque aliud est insidiando falsa obicere vel insultando vera facile exprobare. Illud vero caritatis, hoc autem est impietatis officium. Unde Proverb. XII, 6, dicitur: Verba impiorum insidiantur sanguini, os iustorum liberat eos. Et infra: Qui quod novit loquitur iudex iusticie est, qui autem mentitur testis est fraudulentus. Oportet ergo accusatorem servare integritatem veritatis et rectitudinem intencionis. Ego autem preservo me a descensu ad singularia quiescens more philosophorum in communi sentencia.
+
+[ENGLISH]
+
+## Loserth's side-notes (PD, verbatim; not our translation)
+
+<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
+     text/ecclesia/raw/leaves/ or archive.org/download/latinworks10wycl/page/nLEAF.jpg), fix the
+     page.line where a note is misplaced, and delete this comment. -->
+
+- 342.4: This forfeiturc """ed by'ihe
+- 342.13: 2. By thc same dccrctal the . . .... rv,>~ «»King loses his privilege of rulc . . , • if he is siothful iucorrection. ..... . . ■
+- 343.8: L 3. The King is
+- 343.8: bound to see . . that his subjects are not deprived . . ... of spirituai
+- 343.31: clemosine.
+- 344.1: Doubie merit j-f/1 l ofalms; . > , , . a) cssentiai, from thecharity . . . oi ihe givcr; b) accidenlal, . . . from iiic fruit of the gift. ....... ., ..
+- 344.32: 8.— 32. Hus I. c.
+- 345.3: Just ruie is a more excellent . 1 . priviicge than SO called mira- .
+- 345.5: 5 cuious powers.
+- 345.24: The gift ot aims is a less good , . , . .....
+- 345.25: 20 than the sup-
+- 345.26: pression ot' .... . abuses;
+- 347.15: O Objection:
+- 347.15: 1. We have 110 . ... : right to speak neighbour.
+- 347.21: Answ^r: We deal m ,1 • . „. . general terms which apply ..... . . only to ihose who dcserve . . them.
+- 348.1: i-j^ o
+- 348.24: objection: 2. The clergy, as . .... superior to iiie laity, should . . judge itseif.
+
+## Notes
+
+## Transcription notes
+
+- **Plate readings** (CONVENTIONS §3.4; page · reading · note):
+  - 342: *regnandum* [R4]
+  - 342: *43* (print: Matthei XXI°, 43: Auferetur; voted Auferetur twice at 172-173) [R3]
+  - 342: *detrimentum* (print detri- / mentum; main token holds the whole word) [R4]
+  - 343: *est* (1 is the margin argument numeral) [R3]
+  - 343: *II°* [R3]
+  - 343: *lege* [R4]
+  - 343: *legiis* [NW]
+  - 344: *capitur* (p clear) [R3]
+  - 344: *legiis* [NW]
+  - 345: *Illi* (M is the alinea letter) [R3]
+  - 346: *XXIIIª* [R4]
+  - 346: *IVª* [R4]
+  - 346: *Vᵗᵃ* [R4]
+  - 346: *Vᵗᵃ* [R4]
+  - 347: *dictis* (177b folio mark and N alinea letter are not text) [R3]
+  - 347: *legis* [R3]
+  - 347: *LXXXIIIª* [R4]
+  - 348: *Vª* [R4]
+  - 348: *Vª* [R4]
+  - 344: *posterius* (clear ri in print) [NW]
+  - 346: *et* [R5]
+  - 346: *perficiat* [THIN]
+- **Omitted per §3.5 / kept in the English** (margin matter): reference and so Augustinc lc<iclicS( • • . (346.4).

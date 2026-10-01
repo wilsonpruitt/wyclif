@@ -22,6 +22,9 @@ META = {  # per volume: what the scaffold cannot derive
                      short='Dial.', editor='Alfred W. Pollard', year=1886, label='Dialogus',
                      # a heading the extraction drops (a half-title read as a running head), checked on the plate
                      extra_heads=[(86, 'EPILOGUS', 'epil', 'Epilogus')]),
+    'ecclesia': dict(work_la='Tractatus de ecclesia', work_en='On the Church', short='De eccl.',
+                     editor='Johann Loserth', year=1886, label='De ecclesia',
+                     pilot='pilots/wyc-ecclesia-01a.md'),
 }
 MS_MARK = re.compile(r'^[A-D][¹1l]?\s*\.?\s*\d{1,3}\s*[a-d]\s*\.?$|^\d{2,3}\s*[a-d]?\s*\.$')
 BOOKS = ('Gen', 'Exod', 'Lev', 'Num', 'Deut', 'Josh', 'Judg', 'Ruth', 'Sam', 'Kings', 'Chron', 'Ezra',
@@ -61,6 +64,8 @@ def main(slug, force=False):
     toks = []
     for p in sorted(glob.glob(f'{base}/p*.tok.jsonl')):
         pg = int(re.search(r'p(\d+)\.tok', p).group(1))
+        if off.get('last_page') and pg > int(off['last_page']):
+            continue                    # the body only: no index or back matter
         for l in open(p):
             t = json.loads(l)
             t['pg'] = pg
@@ -71,9 +76,9 @@ def main(slug, force=False):
     i = 0
     while i < len(toks):
         t = toks[i]
-        numbered = (t['t'].upper() == 'CAPITULUM' and i + 1 < len(toks)
+        numbered = ((t['t'].upper() == 'CAPITULUM' or t['t'] == 'CAP.') and i + 1 < len(toks)
                     and re.fullmatch(r'[0-9IVXLivxl]+[°m.ᵐ]*\.?', toks[i + 1]['t']))
-        if (t['head'] and t['t'].upper().startswith('CAPITUL')) or numbered:
+        if (t['head'] and t['t'].upper().startswith(('CAPITUL', 'CAP.'))) or numbered:
             j = i + 1
             while j < len(toks) and (toks[j]['head'] or (numbered and j == i + 1)):
                 j += 1
@@ -116,15 +121,20 @@ def main(slug, force=False):
             k = -(-span_pages // 5) if span_pages > 6 else 1      # CONVENTIONS §1: split long ones at ¶ (≤5 pp, Wilson 2026-09-30)
             if k == 1 or len(ps) < 2:
                 sections.append((cid, lab, divs, hd, ps)); continue
-            total = sum(len(x) for x in ps); groups, acc, g = [], 0, []
+            # greedy at the editor's ¶: close a part before the ¶ that would take it past 5 printed pages
+            # (a single ¶ longer than that stays whole); a short tail joins the part before it
+            groups, g = [], []
             for x in ps:
-                g.append(x); acc += len(x)
-                if acc >= total * (len(groups) + 1) / k and len(groups) < k - 1:
+                if g and x[-1]['page'] - g[0][0]['page'] + 1 > 5:
                     groups.append(g); g = []
+                g.append(x)
             if g:
-                groups.append(g)
+                if groups and sum(len(y) for y in g) < 300 and g[-1][-1]['page'] - groups[-1][0][0]['page'] + 1 <= 6:
+                    groups[-1] += g
+                else:
+                    groups.append(g)
             for j, g in enumerate(groups):
-                sections.append((f'{cid}-{"abcdefgh"[j]}', f'{lab}, part {j + 1}',
+                sections.append((f'{cid}-{"abcdefghijklmnop"[j]}', f'{lab}, part {j + 1}',
                                  divs + f"; part {j + 1} of {len(groups)}, split at the editor's ¶ (CONVENTIONS §1)",
                                  hd if j == 0 else None, g))
 
@@ -169,7 +179,7 @@ def main(slug, force=False):
                'italics: none', f'plates: "archive.org {item}, leaves n{leaves[0]}–n{leaves[-1]} (printed p. = leaf − {offset})"',
                'status: draft', '---', '', f"# *{meta['label']}*, {lab}: [TITLE]", '']
         if cid == '01':
-            out += ['## Headnote', '', '[HEADNOTE: see pilots/wyc-dialogus-01.md]', '']
+            out += ['## Headnote', '', f"[HEADNOTE: see {meta.get('pilot', 'pilots/wyc-dialogus-01.md')}]", '']
         for k, par in enumerate(paras, 1):
             a, b = par[0], par[-1]
             out.append(f"## ¶{k} · {a['page']}.{a['ln']}–{b['page']}.{b['ln']}")
