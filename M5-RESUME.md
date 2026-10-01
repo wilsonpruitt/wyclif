@@ -3,7 +3,20 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
-## Status 2026-10-01 (evening) — brief 01-b–01-d DONE; Latin clean-up DECISION PENDING
+## Status 2026-10-01 (night) — Latin scar pass DONE (WORKFLOW 4b)
+- Root cause: vote.py's Lexicon trusts `agreed.txt`, which holds shared garbles (*omcio*, *lhnsti*). Not
+  changed for *De ecclesia* (it would reshuffle settled votes); fix it before the next volume.
+- New: `scars.py`, `scarqueue.py`, `relatin.py`, `pl_lexicon.py` (402K PL forms, gitignored, rebuild with one
+  command), vote.py `scar_fix` + alinea pre-pass, crops.py `--queue/--out`, `catalog/lexicon/ocr_artifacts.tsv`
+  (109 confirmed garble→print pairs, for the next volumes).
+- Result: 326 word-level changes to the established Latin (all ≤3 words; *ecclesiasticus* 14.5 and *attendimus*
+  514/515 restored). Decisions applied 2,436, stale 0. 134 draft chunks' Latin refreshed; 01-a–01-d untouched.
+  Cost: 2 Sonnet plate agents, 224K.
+- Residue (not fixed): p. 410 *two* (English, an inserted token: no position); `evenietjs` 194.1; word-split
+  rule unreliable (most "splits" are hyphenated words) — plates only.
+- **Next:** brief 2 (01-e … 01-h or similar).
+
+## Status 2026-10-01 (evening) — brief 01-b–01-d DONE; Latin clean-up DONE (see above)
 - Brief 01-b/c/d: one Opus agent, **164K** (on estimate); lint clean. Ledger: Sonnet verifier (135K) read
   14 rows in the local PL; all verified except E01c-7 (Amalarius), E01c-5 (*Unam sanctam*, not local), E01c-6
   (Aristotle), E01d-6. E01d-1 corrected: *De corr. Donat.* (Ep. 185) 9.42, not Ep. 93 (coordinator re-read).

@@ -19,7 +19,7 @@ status: draft
 
 ## ¶1 · 449.16–450.4
 
-> [p. 449] Item, iudex generaliter ignorat que sit voluntas Dei quoad partes contendentes, que occuparet temporalia vendicata; sed nullus iudex ecclesiasticus iudicare debet pro parte nisi pro qua scit Deum discernere, quia aliter foret Deo contrarius iudicando. Ergo nullus iudex ecclesiasticus iudicaret in foro cleri contencioso nisi forte quod utraque pars cessaret a lite, intendens circa officium a domino limitatum. Illi enim quibus Christus limitat non portare saculum neque peram, sed, propter preponderanciam spiritualis officii ad quod primo accelerant, neque calciamenta ferre neque hominem per viam salutare neque quomodolibet occupari unde gravius officium discipuli Christi prepediat (ut docetur Luce X°, 4), valde alieni sunt, ut circa contenciones temporalium occupentur. Salutaciones [p. 450] enim per viam sunt nimis periculose et nimis a predicacione evangelii tardative. Nec valet ficcio qua dicitur temporalia pro quibus contenditur esse Lhnsti discipulo pro suo omcio necessaria
+> [p. 449] Item, iudex generaliter ignorat que sit voluntas Dei quoad partes contendentes, que occuparet temporalia vendicata; sed nullus iudex ecclesiasticus iudicare debet pro parte nisi pro qua scit Deum discernere, quia aliter foret Deo contrarius iudicando. Ergo nullus iudex ecclesiasticus iudicaret in foro cleri contencioso nisi forte quod utraque pars cessaret a lite, intendens circa officium a domino limitatum. Illi enim quibus Christus limitat non portare saculum neque peram, sed, propter preponderanciam spiritualis officii ad quod primo accelerant, neque calciamenta ferre neque hominem per viam salutare neque quomodolibet occupari unde gravius officium discipuli Christi prepediat (ut docetur Luce X°, 4), valde alieni sunt, ut circa contenciones temporalium occupentur. Salutaciones [p. 450] enim per viam sunt nimis periculose et nimis a predicacione evangelii tardative. Nec valet ficcio qua dicitur temporalia pro quibus contenditur esse Christi discipulo pro suo officio necessaria
 
 [ENGLISH]
 
@@ -31,7 +31,7 @@ status: draft
 
 ## ¶3 · 450.17–450.28
 
-> [p. 450] Item, eo ipso quo quis est non membrum sancte matris ecclesie est indignus habere patrimonium Crucifixi titulo vel iure viri ecclesiastici, sed omnino iudex ecclesiasticus cui non sit de hoc specialis revelac ignorat si dicta persona contendens sit membrum sancte matris ecclesie, ergo ignorat si sit dignus habere patrimonium vendicatum. Assumptum patet eo quod nullius alterius ecclesie persona nisi persona sancte matris ecclesia habet titulo illius ecclesie colorem aliquid vendicandi, cum sit de civitate et corpore dyaboli, contrarius prime iusticie. Et maior patet ex hoc quod nullus iudex ecclesiasticus subducta revelacione predicta
+> [p. 450] Item, eo ipso quo quis est non membrum sancte matris ecclesie est indignus habere patrimonium Crucifixi titulo vel iure viri ecclesiastici, sed omnino iudex ecclesiasticus cui non sit de hoc specialis revelacio ignorat si dicta persona contendens sit membrum sancte matris ecclesie, ergo ignorat si sit dignus habere patrimonium vendicatum. Assumptum patet eo quod nullius alterius ecclesie persona nisi persona sancte matris ecclesia habet titulo illius ecclesie colorem aliquid vendicandi, cum sit de civitate et corpore dyaboli, contrarius prime iusticie. Et maior patet ex hoc quod nullus iudex ecclesiasticus subducta revelacione predicta
 
 [ENGLISH]
 

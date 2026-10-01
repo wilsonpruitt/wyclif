@@ -25,7 +25,7 @@ status: draft
 
 ## ¶2 · 102.7–102.12
 
-> [p. 102] Tercio arguitur contra dicta de corpore ecclesie perK hoc quod pari evidencia qua illa foret unum corpus, et congregacio prescitorum constitueret unum corpus, consequens falsum, quia nec corpus naturale nec misticum, eo quod non foret forma uniens, nisi foret peccatum, illud autem non continuat sed seiungit.
+> [p. 102] Tercio arguitur contra dicta de corpore ecclesie per hoc quod pari evidencia qua illa foret unum corpus, et congregacio prescitorum constitueret unum corpus, consequens falsum, quia nec corpus naturale nec misticum, eo quod non foret forma uniens, nisi foret peccatum, illud autem non continuat sed seiungit.
 
 [ENGLISH]
 

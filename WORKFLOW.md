@@ -21,6 +21,14 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
 4. **Majority-error sweep.** `.venv/bin/python scripts/w3/nonword.py SLUG` → `text/SLUG/nonwords.tsv`.
    Filter to OCR-confusion suspects (rn/m, ni/h, c/e, u/n, a bracket read as *j* …) and read those on the
    plates in the same pass as stage 3 or 5. Never trust `catalog/lexicon/agreed.txt` as evidence.
+4b. **Scar sweep (from 2026-10-01; De ecclesia found ~600 scars left after stage 4).** vote.py's `scar_fix`
+   now strips the character class (`%`, `3o`, quote marks, `numerUS`, alinea letters) on every run. Then:
+   `python3 scripts/w3/pl_lexicon.py` (once per machine) → `scars.py SLUG` → `scarqueue.py SLUG`
+   (rule fixes as `plate_decisions.part97.tsv`; the rest as `scar_queue.tsv`) → `crops.py SLUG --queue
+   scar_queue.tsv --out crops_scars` → one **Sonnet** agent per ~9 sheets with `crops_scars/BRIEF.md` →
+   readings as OVERRIDE rows → merge into `plate_decisions.tsv` → `vote.py` (stale must be 0) →
+   `relatin.py SLUG` (Latin of DRAFT chunks only). Add confirmed pairs to `catalog/lexicon/ocr_artifacts.tsv`.
+   Measured on *De ecclesia*: ~230 by rule, 142 on the plates, 224K tokens.
 5. **Scaffolds + side-notes.** `.venv/bin/python scripts/w3/chapters.py SLUG` → `chunks/SLUG/wyc-SLUG-NN.md`.
    Then ONE plate agent per ~10 chapters corrects the OCR side-notes against the plates (it is image work;
    kept out of translation, where it cost extra round trips).

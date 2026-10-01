@@ -31,7 +31,7 @@ status: draft
 
 ## ¶3 · 382.8–382.13
 
-> [p. 382] Octavo et ultimo arguitur per hoc quod cuilibetT domino temporali non solum est licitum sed mentonum emere hereditatem et bona eterna pro bonis temporalibus, et cum maius bonum temporale sit dignius maius bono spirituali, sequitur quod amplius et diucius dotans ecclesiam intensius meretur beatitudinem.
+> [p. 382] Octavo et ultimo arguitur per hoc quod cuilibet domino temporali non solum est licitum sed mentonum emere hereditatem et bona eterna pro bonis temporalibus, et cum maius bonum temporale sit dignius maius bono spirituali, sequitur quod amplius et diucius dotans ecclesiam intensius meretur beatitudinem.
 
 [ENGLISH]
 

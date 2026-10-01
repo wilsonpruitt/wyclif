@@ -19,7 +19,7 @@ status: draft
 
 ## ¶1 · 384.34–385.5
 
-> [p. 384] Nec cadit excusacio quod nemo luet defectumX alterius, quia oppositum est fides catholica, specialiter [p. 385] quando unus omissione vel commissione participat peccato alterius; si enim prepositus spiritualis exercitus vel capit stipendium pro militibus quos non habet vel pro indignis quos debet corrigere, quomodo non est dignum elemosinam proporcionalem ab illo subtrahere?
+> [p. 384] Nec cadit excusacio quod nemo luet defectum alterius, quia oppositum est fides catholica, specialiter [p. 385] quando unus omissione vel commissione participat peccato alterius; si enim prepositus spiritualis exercitus vel capit stipendium pro militibus quos non habet vel pro indignis quos debet corrigere, quomodo non est dignum elemosinam proporcionalem ab illo subtrahere?
 
 [ENGLISH]
 

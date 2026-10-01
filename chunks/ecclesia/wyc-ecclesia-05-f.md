@@ -31,7 +31,7 @@ status: draft
 
 ## ¶3 · 114.23–114.30
 
-> [p. 114] Sexto sequitur quod omnes presciti in gracia forent membra ecclesie catholice, et nulli predestinati dum erraverint in fide forent partes sancte matris ecclesie; qUorum primum videtur falsum de Scarioth et aliis hereticis, et secundum videtur fuisse falsum de David, Petro, Paulo et eis similibus pro tempore quo fuerunt infideles. Quorum utrumque est contra sanctorum sentencias et raciones factas superius.
+> [p. 114] Sexto sequitur quod omnes presciti in gracia forent membra ecclesie catholice, et nulli predestinati dum erraverint in fide forent partes sancte matris ecclesie; quorum primum videtur falsum de Scarioth et aliis hereticis, et secundum videtur fuisse falsum de David, Petro, Paulo et eis similibus pro tempore quo fuerunt infideles. Quorum utrumque est contra sanctorum sentencias et raciones factas superius.
 
 [ENGLISH]
 

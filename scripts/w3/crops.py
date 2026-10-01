@@ -1,6 +1,6 @@
 """Plate-crop sheets for the words the vote cannot settle (CONVENTIONS §3.4).
 
-    .venv/bin/python scripts/w3/crops.py SLUG [FIRST_PAGE LAST_PAGE] [--per 8]
+    .venv/bin/python scripts/w3/crops.py SLUG [FIRST_PAGE LAST_PAGE] [--per 8] [--queue scar_queue.tsv --out crops_scars]
 
 For each open queue item (text/<slug>/plate_queue.tsv minus plate_decisions.tsv):
 fetch the page image (cached in text/<slug>/raw/leaves/), cut a strip of the line
@@ -32,18 +32,18 @@ def leaf_image(slug, item, leaf):
     return p
 
 
-def main(slug, first=None, last=None, per=8):
+def main(slug, first=None, last=None, per=8, queue='plate_queue.tsv', outdir='crops'):
     off = {r['slug']: r for r in csv.DictReader(open(f'{ROOT}/catalog/plate_offsets.tsv'), delimiter='\t')}[slug]
     item = off['item']
-    q = list(csv.DictReader(open(f'{ROOT}/text/{slug}/plate_queue.tsv'), delimiter='\t'))
+    q = list(csv.DictReader(open(f'{ROOT}/text/{slug}/{queue}'), delimiter='\t', quoting=csv.QUOTE_NONE))
     dpath = f'{ROOT}/text/{slug}/plate_decisions.tsv'
     done = set()
     if os.path.exists(dpath):
-        done = {(r['page'], r['pos']) for r in csv.DictReader(open(dpath), delimiter='\t')}
+        done = {(r['page'], r['pos']) for r in csv.DictReader(open(dpath), delimiter='\t', quoting=csv.QUOTE_NONE)}
     q = [r for r in q if (r['page'], r['pos']) not in done]
     if first:
         q = [r for r in q if int(first) <= int(r['page']) <= int(last)]
-    out = f'{ROOT}/text/{slug}/crops'
+    out = f'{ROOT}/text/{slug}/{outdir}'
     os.makedirs(out, exist_ok=True)
     try:
         font = ImageFont.truetype('/System/Library/Fonts/Supplemental/Arial Bold.ttf', 44)
@@ -78,12 +78,17 @@ def main(slug, first=None, last=None, per=8):
         sheets += 1
         sheet.save(f'{out}/sheet_{sheets:03d}.jpg', quality=82)
         with open(f'{out}/sheet_{sheets:03d}.tsv', 'w') as f:
-            f.write('n\tpage\tpos\trule\tforms\n')
+            extra = [k for k in ('printed', 'proposed') if k in batch[0]]          # scar_queue.tsv carries these
+            f.write('n\tpage\tpos\trule\tforms' + ''.join('\t' + k for k in extra) + '\n')
             for n, r in enumerate(batch, 1):
-                f.write(f'{s // per + 1}.{n}\t{r["page"]}\t{r["pos"]}\t{r["rule"]}\t{r["forms"]}\n')
+                f.write(f'{s // per + 1}.{n}\t{r["page"]}\t{r["pos"]}\t{r["rule"]}\t{r["forms"]}' + ''.join('\t' + r[k] for k in extra) + '\n')
     print(f'{len(q)} open items -> {sheets} sheets in {out}/')
 
 
 if __name__ == '__main__':
-    args = [a for a in sys.argv[1:] if not a.startswith('--')]
-    main(*args)
+    argv = sys.argv[1:]
+    opt = {}
+    for k in ('--per', '--queue', '--out'):
+        if k in argv:
+            i = argv.index(k); opt[k[2:]] = argv[i + 1]; del argv[i:i + 2]
+    main(*argv, per=int(opt.get('per', 8)), queue=opt.get('queue', 'plate_queue.tsv'), outdir=opt.get('out', 'crops'))

@@ -19,7 +19,7 @@ status: draft
 
 ## ¶1 · 186.32–187.15
 
-> [p. 186] Sed tercio obicitur, cum privilegia quibus ChristusE dotavit ecclesiam sunt perfecciora quam terrena privilegia [p. 187] succedencia, sicut et status vivencium secundum illa privilegia est statu moderno perfeccior atque ad servandum facilior, videtur quod non licuit a privilegiis illis et statu recedere; nam nulli persone licet magis bonum sibi in eleccione postponere: ecclesia, sponsa Christi est persona, cum sit virgo ex cap. VI°, ergo non licet sibi privilegia Christi et statum evangelice paupertatis relinquere. Confirmatur primo per decretum De Consecracione, dist. Vª, Non mediocriter, ubi dicitur quod graviter peccant qui eligunt minus bonum sibi maiori bono postposito. Confirmatur secundo ex dictis libro V°, cap., ubi docetur quod oportet viantem semper meliorando procedere. Et tercio confirmatur ex hoc quod consilia Christi sunt perpetua et sponse sue indispensabilia.
+> [p. 186] Sed tercio obicitur, cum privilegia quibus Christus dotavit ecclesiam sunt perfecciora quam terrena privilegia [p. 187] succedencia, sicut et status vivencium secundum illa privilegia est statu moderno perfeccior atque ad servandum facilior, videtur quod non licuit a privilegiis illis et statu recedere; nam nulli persone licet magis bonum sibi in eleccione postponere: ecclesia, sponsa Christi est persona, cum sit virgo ex cap. VI°, ergo non licet sibi privilegia Christi et statum evangelice paupertatis relinquere. Confirmatur primo per decretum De Consecracione, dist. Vª, Non mediocriter, ubi dicitur quod graviter peccant qui eligunt minus bonum sibi maiori bono postposito. Confirmatur secundo ex dictis libro V°, cap., ubi docetur quod oportet viantem semper meliorando procedere. Et tercio confirmatur ex hoc quod consilia Christi sunt perpetua et sponse sue indispensabilia.
 
 [ENGLISH]
 
@@ -37,7 +37,7 @@ status: draft
 
 ## ¶4 · 190.13–190.16
 
-> [p. 190] Sed quarto arguitur sequi ex dictis: quod nullumH sit corporale privilegium, ymmo quod nedum licet secularibus sed debent sub pena excommunicacionis auferre bona a clericis quibus putantes se benefacere erraverunt.
+> [p. 190] Sed quarto arguitur sequi ex dictis: quod nullum sit corporale privilegium, ymmo quod nedum licet secularibus sed debent sub pena excommunicacionis auferre bona a clericis quibus putantes se benefacere erraverunt.
 
 [ENGLISH]
 

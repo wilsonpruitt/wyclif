@@ -10,3 +10,4 @@ text/*/witnesses/
 __pycache__/
 .env
 text/*/sidecrops/
+catalog/lexicon/pl_forms.txt

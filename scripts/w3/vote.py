@@ -371,6 +371,40 @@ def unstar(w):
     return w.replace('*', '').strip()
 
 
+ALINEA = set('BCDEFGHJKNOPQRSTU')
+
+
+def scar_fix(w, lex):
+    """Character scars the scans share, so the vote sees agreement and never queues them (scars.py, 2026-10-01):
+    XXIII% (ª), 3o / 5i (30 / 51), 56" (56°), a quote mark (Loserth marks quotation by italics, never by quotes),
+    capitals inside a word (numerUS), & or a stop inside a word (separa&bit, nich.il). A rule fires only when its
+    result is a dictionary word or a numeral; `.'` (a stop or a question mark: p. 7) is left for the plate."""
+    hun = lambda x: any(lex.d.lookup(v) for v in lex.variants(x.lower()) if v)
+    m = re.fullmatch(r'([IVXLC]+)%([.,;:)]*)', w)
+    if m:
+        return m.group(1) + 'ª' + m.group(2)
+    m = re.fullmatch(r'(\(?)([0-9oil]*[0-9][0-9oil]*)([.,;:)]*)', w)
+    if m and re.search(r'[oil]', m.group(2)):
+        return m.group(1) + m.group(2).translate(str.maketrans('oil', '011')) + m.group(3)
+    m = re.fullmatch(r'([0-9]+)"([.,;:)]*)', w)
+    if m:
+        return m.group(1) + '°' + m.group(2)
+    if re.search(r'["\']', w) and not w.endswith(".'") and not re.match(r'[IVXLC]+["\']', w):
+        v = re.sub(r'["\']', '', w)
+        core = v.strip('.,;:?!()[]*')
+        if not core or hun(core) or core[:1].isupper():
+            w = re.sub(r'([.,;:])\1+', r'\1', v)
+    lead, core, trail = re.match(r'^([(\[*]*)(.*?)([.,;:?!)\]*]*)$', w).groups()
+    if re.fullmatch(r'[A-Za-z]*[a-z][A-Z]', core) and core[-1] in ALINEA and hun(core[:-1]):   # glued alinea: sitH
+        return lead + core[:-1] + trail
+    if re.fullmatch(r'[A-Za-z]+', core) and re.search(r'[a-z][A-Z]', core) and hun(core.lower()):
+        return lead + core[0] + core[1:].lower() + trail
+    for ch in '&.':
+        if ch in core and re.fullmatch(r'[A-Za-z&.]+', core) and hun(core.replace(ch, '')):
+            return lead + core.replace(ch, '') + trail
+    return w
+
+
 def pivot_part(sig):
     return sig.split(' | ')[0]
 
@@ -608,6 +642,13 @@ def run(slug, first=None, last=None):
                 stats['TAIL'] += 1
             for w in words:
                 out_tokens.append(dict(t=w, n=norm(w), ins=True))
+        # Loserth's alinea letters (A, B, C ... in the margin) read into the text: a lone capital between a
+        # sentence's end and a capitalised word (scars.py, 2026-10-01; not A I V X L M, which are words or numerals)
+        for i in range(1, len(out_tokens) - 1):
+            a_, x_, b_ = out_tokens[i - 1]['t'], out_tokens[i]['t'], out_tokens[i + 1]['t']
+            if (x_ in ALINEA and a_ and a_.rstrip('*⟧')[-1:] in '.?!:' and b_.lstrip('*(⟦')[:1].isupper()
+                    and not out_tokens[i].get('pending')):
+                out_tokens[i]['t'] = ''
         # write page
         lines, cur, cur_head = [], [], False
         prev_t = ''
@@ -625,6 +666,7 @@ def run(slug, first=None, last=None):
             x['t'] = re.sub(r'^([IVXLC]{2,}|[IVX])[0"](?=[,.;:)]*$)', r'\1°', x['t'])
             if prev_t and re.fullmatch(r'[IVXLC]+[°ª],', prev_t) and re.fullmatch(r'[iIl][.,;:)]*', x['t']):
                 x['t'] = '1' + x['t'][1:]
+            x['t'] = scar_fix(x['t'], lex)
             prev_t = x['t']
             core = x['t'].rstrip('.,;:?!')
             if core in splits:                  # a word-division error in a witness (wordsplits.tsv)
