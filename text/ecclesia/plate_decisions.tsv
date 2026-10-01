@@ -2177,6 +2177,46 @@ page	pos	rule	forms	reading	note
 595	331	DELX	latinworks10wycl=temporalium | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅	Temporalium	index right column: Temporalium amissio minus dolenda
 596	313	DELX	latinworks10wycl=pagc | iohanniswycliftr00wycluoft=∅ | tractatusdeeccle00wycl=∅	∅	English footnote; page already at 312
 598	136	DELX	latinworks10wycl=darius | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=darius	Darius	index: Darius 259; not in neighbours
+3	12	OVERRIDE-MARK	latinworks10wycl=120 | output=12^.	12°.	degree sign, round
+14	20	OVERRIDE-MARK	latinworks10wycl=coacfu | output=coac^[y	coactiva.	hyphenated coac-/tiva.; tiva. absent from output, so whole word
+20	99	OVERRIDE-MARK	latinworks10wycl=iudicii | output=i^^i^jj	iudicii,	
+67	29	OVERRIDE-MARK	latinworks10wycl=huius | output=-^huius	huius	italic; no punctuation
+70	55	OVERRIDE-MARK	latinworks10wycl=xlui | output=XLVI\	XLVIª,	
+78	186	OVERRIDE-MARK	latinworks10wycl=patrie | output=patrie^ib	patrie,	25 is the line number
+105	166	OVERRIDE-MARK	latinworks10wycl=quantitatisobest | output=quantitatis-^obest,	quantitatis obest,	two printed words; * between them is the folio mark, dropped
+112	5	OVERRIDE-MARK	latinworks10wycl=xxxiii3 | output=XXXIII^	XXXIIIª	no comma; followed by ad
+112	140	OVERRIDE-MARK	latinworks10wycl=a | output=\\\a	illa	output token \\\a stands for printed illa
+112	231	OVERRIDE-MARK	latinworks10wycl=e | output=^e	de illa	box spans de illa; output has only ^e before ecclesia, illa missing
+134	112	OVERRIDE-MARK	latinworks10wycl=arefultounder | output=carefultounder-..^^-^^^^	∅	English side-note (careful to under-), not text
+203	42	OVERRIDE-MARK	latinworks10wycl=xxiie | output=XXIII'^,	XXIIIª,	
+217	62	OVERRIDE-MARK	latinworks10wycl=i39quod | output=g^quod	quod	159ª is the folio mark, dropped
+241	185	OVERRIDE-MARK	latinworks10wycl=xxxiiia | output=XXXIII^,	XXXIIIª,	
+243	163	OVERRIDE-MARK	latinworks10wycl=xxuum | output=XXV"^	XXVᵘᵐ	superscript um
+248	6	OVERRIDE-MARK	latinworks10wycl=matthei | output=Matthei\°,	Matthei X°,	token covers two words; X read as \
+294	228	OVERRIDE-MARK	latinworks10wycl=superbia | output=superbia,^	superbia,	4 is a margin numeral
+294	236	OVERRIDE-MARK	latinworks10wycl=quaoiyotuor | output=quaOiyo^tuor	quatuor	qua- at foot of p.294, tuor at head of p.295 (leaf n0332); output token holds both
+315	73	OVERRIDE-MARK	latinworks10wycl=3bnoticia | output=i-S^^noticia	noticia	glued margin mark dropped
+341	169	OVERRIDE-MARK	latinworks10wycl=yxw3 | output=XI^,	XIª, q. IIIª,	output XI^, covers XIª, q. IIIª, (pos 170 absent); box on q. IIIª,
+353	40	OVERRIDE-MARK	latinworks10wycl=xxxuiiiua | output=XXXVIII^').	XXXVIIIᵛᵃ).	superscript va
+361	91	OVERRIDE-MARK	latinworks10wycl=seculares | output=secu^lares	seculares	secu-/lares; output holds both halves
+378	132	OVERRIDE-MARK	latinworks10wycl=4ue | output=4^^^	que	glued bold 4 is margin numeral
+395	115	OVERRIDE-MARK	latinworks10wycl=111 | output=III^:	III°:	italic, degree sign
+409	189	OVERRIDE-MARK	latinworks10wycl=secundo | output=se^cundo	secundo	se-/cundo; output holds both halves
+415	139	OVERRIDE-MARK	latinworks10wycl=lla | output=II^,	IIª,	
+418	27	OVERRIDE-MARK	latinworks10wycl=enche | output=Enche^.^	Encheridion	Enche-/ridion; ridion absent from output (next token LXIV), so whole word
+418	28	OVERRIDE-MARK	latinworks10wycl=lxiuo | output=LXIV^	LXIV°	no comma; followed by cap.
+419	155	OVERRIDE-MARK	latinworks10wycl=ii1 | output=II'^	IIª	italic, superscript a
+420	221	OVERRIDE-MARK	latinworks10wycl=eccle | output=eccle^"^'sia	ecclesia	eccle-/sia; output holds both halves; 30 is the line number
+429	106	OVERRIDE-MARK	latinworks10wycl=xuiii3 | output=XVIII^	XVIIIª	no comma; followed by Operis
+445	0	OVERRIDE-MARK	latinworks10wycl=igosufficit | output=igo^Sufficit	Sufficit	190ª folio mark and margin letter dropped
+477	213	OVERRIDE-MARK	latinworks10wycl=spei9cincat | output=spei9^cincat	specificat	spe-/cificat; output holds both halves; 194ᶜ folio mark dropped
+488	152	OVERRIDE-MARK	latinworks10wycl=filti | output=fi$&	filii	italic
+489	0	OVERRIDE-MARK	latinworks10wycl=96 | output=[96"^	et	196ª folio mark dropped; et (italic) is missing from output
+498	40	OVERRIDE-MARK	latinworks10wycl=dicendum | output=Dicendum,\	Dicendum,	italic; 1 is a margin numeral
+516	211	OVERRIDE-MARK	latinworks10wycl=sediga | output=sedigQ'^!	sed	199ᶜ folio mark and 1 margin numeral dropped
+524	48	OVERRIDE-MARK	latinworks10wycl=uiiia | output=VIII\	VIIIª,	italic
+555	135	OVERRIDE-MARK	latinworks10wycl=habundanciaoul | output=habundancia'^	habundancia	italic; out is English side-note
+557	46	OVERRIDE-MARK	latinworks10wycl=portate | output=portate;^	portate;	italic
 297	2	OVERRIDE	latinworks10wycl=rccipiunt | iohanniswyclift00mattgoog=dai | iohanniswycliftr00wycluoft=dat | iohanniswycliftr04wycl=dat | tractatusdeeccl00wycl=dat | tractatusdeeccle00wycl=dat	recipiunt	print: et qui recipiunt ab eo (plate, agent 6); the other scans aligned p.296 dat here
 374	0	OVERRIDE	latinworks10wycl=uni | tractatusdeeccl00wycl=uni	universitates	print: universitates whole on line 1 (agent 9); the scan split it uni | uersitates
 459	35	OVERRIDE	latinworks10wycl=quodthe | iohanniswycliftr00wycluoft=quodthe | iohanniswycliftr04wycl=quodthe | tractatusdeeccl00wycl=quodthc | tractatusdeeccle00wycl=quod	quod	English side-note "The" glued on (agent 10)
