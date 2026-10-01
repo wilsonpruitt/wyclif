@@ -610,8 +610,22 @@ def run(slug, first=None, last=None):
                 out_tokens.append(dict(t=w, n=norm(w), ins=True))
         # write page
         lines, cur, cur_head = [], [], False
+        prev_t = ''
         for x in out_tokens:
             x['t'] = unstar(x['t'])
+            # the print's z is read as ^ \ $ (bapti^ati, cauteri\atam, Balta\ar): only in -iz-/-az- before a vowel
+            x['t'] = re.sub(r'(?<=[ia])[\^\\$](?=[aeiou])', 'z', x['t'])
+            x['t'] = re.sub(r'^[\^\\](?=(?:el|iz)[a-z])', 'z', x['t'])            # zelus, zeli, zizania
+            x['t'] = re.sub(r'^[\^\\]+(?=[a-z]{2,}[.,;:?!)]*$)', '', x['t'])     # a mark before a word (^facit)
+            # a stray mark after a whole word (fide^, Matthei^,): dropped; after a numeral it stays for the plate
+            if not re.search(r'[IVXLC][\^\\]', x['t']):
+                x['t'] = re.sub(r'(?<=[a-z])[\^\\]+(?=[.,;:?!)]*$)', '', x['t'])
+            # a degree sign read as 0 or " after a roman numeral (XLVI0, XXI"); the old-style verse 1 read as a
+            # letter right after a cited chapter ('Eccl. IX°, i' -> 1)
+            x['t'] = re.sub(r'^([IVXLC]{2,}|[IVX])[0"](?=[,.;:)]*$)', r'\1°', x['t'])
+            if prev_t and re.fullmatch(r'[IVXLC]+[°ª],', prev_t) and re.fullmatch(r'[iIl][.,;:)]*', x['t']):
+                x['t'] = '1' + x['t'][1:]
+            prev_t = x['t']
             core = x['t'].rstrip('.,;:?!')
             if core in splits:                  # a word-division error in a witness (wordsplits.tsv)
                 x['t'] = splits[core] + x['t'][len(core):]
