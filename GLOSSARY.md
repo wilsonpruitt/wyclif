@@ -173,6 +173,7 @@ otherwise.
 | contribules | countrymen | Lev. 25:17 (DR). Ruled 2026-10-02 (208.2, 214.20, 214.27). |
 | franchisia | franchise | Ruled 2026-10-02 (*Eccl.* 239.22). |
 | facinus | misdeed | Wyclif equates it with "felony" (239.13, 239.21). Ruled 2026-10-02. |
+| privilegiandus | the one to be privileged | Ruled 2026-10-02 (*Eccl.* 12). |
 
 ## C. Logic, disputation, metaphysics
 
@@ -284,6 +285,7 @@ otherwise.
 | iugum | yoke (a pair) | Ruled 2026-10-02 (*Eccl.* 202.9 ff.). |
 | ociatores | men of leisure | Ruled 2026-10-02 (201.27). |
 | irreatus (*pene*) | non-liability (to penalty) | Non-classical abstract. Ruled 2026-10-02 (*Eccl.* 239.30). |
+| subintelligere | understand as implied | Recurs through *Eccl.* 12. Ruled 2026-10-02. |
 
 ## D. False friends and ordinary words that mislead
 
@@ -343,3 +345,5 @@ otherwise.
 | servitivus | serviceable | Ruled 2026-09-28. |
 | precipui sacerdotes | leading priests | Kept apart from *principes sacerdotum*, "chief priests". Ruled 2026-09-28. |
 | intendere (a thesis) | maintain | Scholastic "hold, argue for": *intendimus quod* → "we maintain that" (epil-a 86.4, 90.19). "Intend" only for purpose. Ruled 2026-09-29 (coordinator, delegated, close-out). |
+| pietas / pie | piety / piously | Kept apart from *misericordia* "mercy". Ruled 2026-10-02 (*Eccl.* 12). |
+| irreligiositas | irreligion | Ruled 2026-10-02. |

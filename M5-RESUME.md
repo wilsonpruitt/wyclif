@@ -3,6 +3,15 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 22 (12-b, 12-c, 12-d) DONE
+- Opus 177K; Sonnet plates + sources 106K. **Dropped words again:** 258.2 *carte impossibile* lost from the Latin
+  (the agent had supplied a negative); restored, English fixed. *Ad* (258.23) restored. *ociosis*, *oblata*,
+  *promittendum* are the print.
+- *regnum* ruling (Wilson: "kingdom", never "realm") enforced: 8 English lines in 08-a, 11-a–d, 12-a fixed.
+- Verified: *Sext* reg. 27; *De vera rel.* 14.27; Anselm CDH I.21; C.23 q.4 c.22 (pseudo-Aug.), c.33 (= Ambrose
+  *In Ps. 118*). 15 tokenfixes. GLOSSARY: *subintelligere*, *privilegiandus*, *pietas*, *irreligiositas*.
+- **Next:** brief 23 = 12-e, 12-f, 13-a … .
+
 ## Status 2026-10-02 — brief 21 (11-d, 11-e, 12-a) DONE: chapter 11 translated
 - Opus 147K; Sonnet plates + sources 119K. **PLATE-FLAGS p. 245 closed:** the print has *coronarius*; *Si* (244.30)
   restored. *propriatorie*, *abicio oblati* are the print (notes stand).

@@ -454,3 +454,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E12a-6 | ecclesia-12-a / n6 | *lavare laterem* (Terence, *Phormio* 186) | to-verify | not local |
 | E12a-7 | ecclesia-12-a / n8 | the Westminster killing, 1378 | to-verify | |
 | E12a-8 | ecclesia-12-a / n12 | justice defined (Justinian, *Inst.* 1.1 pr.; Wyclif adds *divina*) | to-verify | not local |
+| E12b-1 | ecclesia-12-b / n4 | *Scienti et consentienti non fit iniuria* = *Sext* 5.12 reg. 27 | verified | Friedberg II; *Dig.* 47.10.1.5 not checked |
+| E12b-2 | ecclesia-12-b / n9 | Augustine, *De vera rel.* 14.27 (sin voluntary) | verified | PL 34; paraphrase |
+| E12b-3 | ecclesia-12-b / n10 | *liber proximus* chs. 20, 24 | untraced | |
+| E12b-4 | ecclesia-12-b / n11 | C.25 q.1 c.16 *Ideo permittente* | verified | E11a-1 |
+| E12b-5 | ecclesia-12-b / n12 | Archidiaconus (Guido de Baysio), *Rosarium* | to-verify | not local |
+| E12c-1 | ecclesia-12-c / n3 | Anselm, *Cur Deus homo* I.21 | verified | PL 158; Anselm *quamlibet parvum*, not *veniale* |
+| E12c-2 | ecclesia-12-c / n9 | C.23 q.4 c.22 *Nabuchodonosor penitenciam* | verified | Friedberg I |
+| E12c-3 | ecclesia-12-c / n9 | ascribed to Aug. *De praedest. et gratia* 15 (not Augustine's) | verified | Friedberg I n. 284 |
+| E12c-4 | ecclesia-12-c / n12 | Matt. 5:25 adversary = scripture | verified | Aug. *Serm.* 9.3, 251.8 (E07c-3) |
+| E12c-5 | ecclesia-12-c / n13 | C.23 q.4 c.33 *Est iniusta misericordia* = Ambrose, *In Ps. 118* s. 8.25 | verified | Friedberg I; PL 15 |
+| E12c-6 | ecclesia-12-c / n15 | forty days before abjuring the kingdom | to-verify | not local |
+| E12d-1 | ecclesia-12-d / n6 | serfs freed by residence in privileged towns | to-verify | |
+| E12d-2 | ecclesia-12-d / n8 | the remedy = Gloucester parliament 1378 | to-verify | |
+| E12d-3 | ecclesia-12-d / n11 | *dominus dux* = John of Gaunt | to-verify | |
+| E12d-4 | ecclesia-12-d / n12 | the fugitives = Hauley and Shakell with their hostage | to-verify | |
+| E12d-5 | ecclesia-12-d / n15 | the coronation oath's promise of justice | to-verify | |
+| E12d-6 | ecclesia-12-d / n17 | the monk killed in 1378 | to-verify | |
