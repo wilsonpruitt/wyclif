@@ -361,3 +361,16 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E09c-2 | ecclesia-09-c / n4 | C.25 q.1 c.3, Leo to Anatolius | verified | Friedberg I, 1007–08 |
 | E09c-3 | ecclesia-09-c / n7 | *X* 3.50.7 *Relatum* (Alexander III) | verified | Friedberg II, 659–60 |
 | E09c-4 | ecclesia-09-c / n10 | Aristotle, *Ethics* I.2–3 | editor | |
+| E09d-1 | ecclesia-09-d / n11 | the rule at the end of ch. 8 | verified | 08-f, pp. 181–82 |
+| E09d-2 | ecclesia-09-d / n13 | Augustine, *Enarr. in Ps.* 36 s.1, *olera prati* | verified | PL 36:357–58; the cabbage gloss is not Augustine's |
+| E09d-3 | ecclesia-09-d / n13 | the *naturales* on cabbage as a melancholic herb | untraced | |
+| E09e-1 | ecclesia-09-e / n2 | Bede on James 1:10–11: Naboth's vineyard | verified | PL 93:13A |
+| E09e-2 | ecclesia-09-e / n3 | "chapter 4 of book 6" (Wyclif's cross-reference) | untraced | |
+| E09e-3 | ecclesia-09-e / n4 | Sarum antiphon, St Thomas (Procter–Wordsworth I, ccli) | editor | not local |
+| E09e-4 | ecclesia-09-e / n8 | "end of chapter 6" = 06-g | verified (substance) | 06-g end; not verbatim |
+| E09e-5 | ecclesia-09-e / n9 | Gregory, *Privilegium omnino meretur amittere* = C.11 q.3 c.63 | verified | PL 187:862 (E07d-5); the gloss to-verify |
+| E09e-6 | ecclesia-09-e / n12 | C.23 q.4 c.15 (Gregory, *Hec autem vita*) | verified | Friedberg I ~903 (E04f-1) |
+| E09e-7 | ecclesia-09-e / n13 | *Omnis iniquus bonorum est inimicus* = Gratian, d.p.c.15, C.23 q.4 | verified | PL 187:1178C–1179A |
+| E09e-8 | ecclesia-09-e / n15 | Augustine, *Enarr.* 36 s.1, field / mill / bed | verified | PL 36:356–57 |
+| E09f-1 | ecclesia-09-f / n3 | *Quantus arrogancie tumor* = C.23 q.4 c.14 (Aug. *De bapt.* IV.12, quoting Cyprian *Ep.* 55), not Loserth's c.15 | verified | PL 187:1178; Friedberg I, 904–05 |
+| E09f-2 | ecclesia-09-f / n8 | *de qua materia patet alibi* | untraced | |

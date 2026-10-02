@@ -126,7 +126,7 @@ otherwise.
 | patronus | patron | Of a benefice. Ruled 2026-09-28 (coordinator, delegated) (13 sites). |
 | procurator; procuratrix | proctor | Pollard's word. Ruled 2026-09-28 (coordinator, delegated). |
 | gleba | glebe | Ruled 2026-09-28 (coordinator, delegated) (12 sites). |
-| mortificacio | amortization | Land put into mortmain; with *manus mortua*. Ruled 2026-09-28 (coordinator, delegated) (2 sites). |
+| mortificacio | amortization | Land put into mortmain; with *manus mortua*. Ruled 2026-09-28 (coordinator, delegated) (2 sites). Of a privilege that dies by abuse (*mortificacio privilegii*, *Eccl.* 200.17): "mortification", with a G note (2026-10-02). |
 | legalitas | legal standing | Ruled 2026-09-28 (coordinator, delegated). |
 | castra caynitica | Caim's castles | The friars' houses; the Wycliffite English name (CAIM = the four mendicant orders' initials). Ruled 2026-09-28 (coordinator, delegated). |
 | commutacio; commutare | exchange; to exchange | The argument on true and false trade turns on it (*Dial.* cap. 33). Ruled 2026-09-28 (coordinator, delegated) (8 sites). |
@@ -276,6 +276,8 @@ otherwise.
 | impetrare | obtain (by request) | Ruled 2026-10-02. |
 | indispensabilis | not to be dispensed | Ruled 2026-10-02. |
 | falsigraphus | false writer | The one who sets out false figures or texts. Ruled 2026-10-02 (*Eccl.* 9). |
+| iugum | yoke (a pair) | Ruled 2026-10-02 (*Eccl.* 202.9 ff.). |
+| ociatores | men of leisure | Ruled 2026-10-02 (201.27). |
 
 ## D. False friends and ordinary words that mislead
 

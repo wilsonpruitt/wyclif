@@ -3,6 +3,12 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 17 (09-d, 09-e, 09-f) DONE: chapter 9 translated
+- Opus 165K; Sonnet sources 96K. Loserth's c.15 clash settled: Augustine *Quantus arrogancie tumor* = C.23 q.4
+  **c.14** (*De bapt.* IV.12 quoting Cyprian); c.15 is Gregory. *Omnis iniquus bonorum est inimicus* = Gratian's own
+  dictum. 18 tokenfixes (verse numbers the OCR misread). GLOSSARY: *mortificacio privilegii*, *iugum*, *ociatores*.
+- **Next:** brief 18 = 10-a … .
+
 ## Status 2026-10-02 — brief 16 (09-a, 09-b, 09-c) DONE
 - Opus 164K; Sonnet sources 117K (Friedberg I/II: *Pudenda*, *Non mediocriter*, *Te quidem*, Leo epp. 51/52,
   *Relatum*). **Construal fixed:** 09-a C.24 q.1 c.33 — Wyclif truncates the canon; *excludi non possit* describes
