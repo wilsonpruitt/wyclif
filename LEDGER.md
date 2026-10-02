@@ -198,9 +198,24 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E04e-1 | ecclesia-04-e / n3 | "cap. III … Gregory" = this work's ch. 3 | to-verify | 03-a/03-b cite *Moralia* XXXI |
 | E04e-2 | ecclesia-04-e / n5 | Augustine, *Ep.* 187 (Wyclif cap. XI) | verified | PL 33:846, cap. XII §37: *filios Dei … congregaret* |
 | E04e-3 | ecclesia-04-e / n6 | Isidore, *Sent.* I.16.6 (MSS XVI; Loserth XIX wrong); Hugh, *De sacr.* II.2.2 | verified | PL 83:572; PL 176:416D–417A |
-| E04e-4 | ecclesia-04-e / n7 | D.21 c.3 *Quamvis* reads *nullis synodicis constitutis*; Wyclif *multis* | verified (Migne) | PL 187:119B; PL 59:159B; PL 161:1183A; variant *nonnullis* PL 13:374B. Friedberg I to read (archive.org was down) |
+| E04e-4 | ecclesia-04-e / n7 | D.21 c.3 *Quamvis* reads *nullis synodicis constitutis*; Wyclif *multis* | verified (Migne) | PL 187:119B; 59:159B; 161:1183A; variant *nonnullis* 13:374B. Friedberg I: archive.org offline 2026-10-01/02, retry |
 | E04e-5 | ecclesia-04-e / n8, n10 | ordinary gloss to D.21 c.3 and C.24 q.1 c.9 | to-verify | not local |
 | E04e-6 | ecclesia-04-e / n9–11 | C.24 q.1 cc.6, 9, 14; C.7 q.1 c.7; D.19 c.9; D.40 c.6; *De cons.* D.1 c.8 *Ecclesia* | editor | c.8 located: PL 187:1708B (Nicholas I); the rest Loserth's |
 | E04e-7 | ecclesia-04-e / n13 | D.22 c.1 *Omnes* (Nicholas II); *Liber Sextus* 5.2 | verified (Omnes) | PL 187:122C; Sext title to-verify |
 | E04e-8 | ecclesia-04-e / n15 | Canon of the mass, *Te igitur*: *adunare*; Wyclif *adiuvare* | to-verify | missal |
 | E04e-9 | ecclesia-04-e / n17 | *De pen.* D.1 c.70 and its gloss | editor | gloss to-verify |
+| E04f-1 | ecclesia-04-f / n1 | *Forte*, *Hec autem vita* = C.23 q.4 cc.11, 15 | verified (Migne) | PL 187: c.XI *Forte in populo Dei*; c.XV *Haec autem vita* (Gregory hom. 38); Friedberg not read |
+| E04f-2 | ecclesia-04-f / n2 | *Recurrat* = C.32 q.4 c.2 | verified | as E04d-4 (PL 187:1476C) |
+| E04f-3 | ecclesia-04-f / n2 | *Recurrat* opens with *In Ioh. tr.* 11.8; *Itaque sive intus … caro est caro est* = *De baptismo* I.17.26 | verified | PL 35 (tr. 11); PL 43 (7461) |
+| E04f-4 | ecclesia-04-f / n3 | *Vasis ire* = C.23 q.4 c.23 | verified (Migne) | PL 187 c.XXIII *Vasis irae* |
+| E04f-5 | ecclesia-04-f / n10 | Hugh, *De sacr.* II.2.2: the eye that sees for the whole body | verified (partial) | PL 176 (11082); the bridegroom/bride wording not found |
+| E04f-6 | ecclesia-04-f / n12 | Hus reuses ch. 4 | editor | Loserth p. 92 |
+| E05a-1 | ecclesia-05-a / n1 | *Ardmacanus* = FitzRalph, *De pauperie Salvatoris*, to Innocent VI (MS note: *ad instanciam Clementis VI*) | editor | dedication to-verify (not local) |
+| E05a-2 | ecclesia-05-a / n7 | Augustine, *Ep.* 187 §§20, 37 | verified | PL 33, *unum caput est Christus*; sense, not verbatim |
+| E05a-3 | ecclesia-05-a / n7 | FitzRalph's emperor/pope two-heads example | to-verify | not local |
+| E05a-4 | ecclesia-05-a / n10 | Gregory, *Reg. past.* II.6, wine and oil | verified | PL 77 |
+| E05a-5 | ecclesia-05-a / n10 | the Commentator = Averroes, *Phys.* III prologue (poison simile) | editor | locus to-verify (not local) |
+| E05b-1 | ecclesia-05-b / n2 | *ecclesia ab Abel* | to-verify | cf. Gregory, *Hom. in Ev.* 19.1 (PL 76:1154B, E01h-4); Aug. *Enarr.* 142.3 (E04d-2) |
+| E05b-2 | ecclesia-05-b / n3 | sequence *Rex Salomon* (Daniel, *Thes. hymnol.* V, 106); Adam of St Victor | editor | ascription to-verify |
+| E05b-3 | ecclesia-05-b / n10 | Grosseteste on Micah 7 | to-verify | not local |
+| E05b-4 | ecclesia-05-b / n11 | Bernard "above": *Super Cant.* 12 (*ubera … vino*), quoted in 03-g | verified (partial) | PL 183 (11258); no vine in Serm. 12–13 |

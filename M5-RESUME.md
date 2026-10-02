@@ -3,6 +3,14 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 (end) — brief 8 (04-f, 05-a, 05-b) DONE: chapter 4 translated
+- Opus 182K; Sonnet plates + verifier 132K. archive.org still offline: Gratian in Migne only (Friedberg I owed for
+  D.21 c.3, C.23 q.4 cc.11/15/23). *Recurrat*'s *caro est caro est* is Augustine's *De baptismo* I.17.26.
+- Plates: *iusticium*, *amare* are the print; *unio,*, *iudicio* (OCR losses) fixed. 16 tokenfixes. Drift 0 over
+  29 chunks. GLOSSARY: *iuvencula* "young girl" vs *adolescentula* "young maiden" (02-d, 05-a aligned),
+  *prepositura*, *filii imitacionis*, *suffragium sensus*, *dyameter/costa*, *dulia/latria*.
+- **Next:** brief 9 = 05-c, 05-d, … .
+
 ## Status 2026-10-02 (later still) — brief 7 (04-c, 04-d, 04-e) DONE
 - Opus 158K; Sonnet plates + verifier 163K. archive.org was DOWN (503): canon-law rows verified in Migne's Gratian
   (PL 187), not Friedberg — re-check D.21 c.3 in Friedberg I when archive.org is back (E04e-4).

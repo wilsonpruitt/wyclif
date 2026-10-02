@@ -43,7 +43,7 @@ Christians living with him that they explicitly believe him to be head of any ch
 evangelical life move them more evidently to believe.[^4]
 
 But blessed be the lord of [our mother]{g:mater nostra}, who in these days has provided for our young
-maiden, [a pilgrim]{g:peregrinari}, a catholic head, an evangelical man, Urban VI,[^5] who, in setting
+girl, [a pilgrim]{g:peregrinari}, a catholic head, an evangelical man, Urban VI,[^5] who, in setting
 right the present church, so that it may live in conformity with the law of Christ, [38] is set in due
 order, beginning with himself and his household.[^6] Therefore one must believe from his works that he is head of
 our church, since mediately or immediately he infuses the motion of tending upward to the body of
@@ -91,7 +91,8 @@ these things the catholic sense of the decretal can be gathered.[^10]
     not decide. B *de obediencia fidei* (37.20).
 
 [^5]: **T/R.** *Nostre peregrinanti iuvencule*: A₁'s *nostre*, which Loserth prints; AB *nostri*.
-    The church militant is the pilgrim young maiden (cf. *adolescentulam*, p. 9). Urban VI (Bartolomeo
+    The church militant is the pilgrim young girl (*iuvencula*, kept apart from the Song's
+    *adolescentula*, "young maiden", p. 9). Urban VI (Bartolomeo
     Prignano, archbishop of Bari) was elected on 8 April 1378 and crowned on Easter Sunday, 18 April
     (Loserth's note; LEDGER E02d-2). A and B's margins: *Nota de Urbano VI*.
 

@@ -59,6 +59,10 @@ otherwise.
 | speculator | watchman | The bishop as watchman (Ezek. 3:17). Ruled 2026-10-02 (*Eccl.* 55.16). |
 | ecclesiastici | CONTEXTUAL: clergy / those who belong to the church | Usually the clergy; where Wyclif means every member of the church (*Eccl.* 81.4) render "those who belong to the church" and write a **C** note. Ruled 2026-10-02. |
 | placitare | plead at law | Ruled 2026-10-02 (85.8). |
+| iuvencula | young girl | The church militant as Christ's young bride; kept apart from the Song's *adolescentula* "young maiden" (DR). Ruled 2026-10-02 (*Eccl.* pp. 23, 37, 94.27). |
+| adolescentula | young maiden | Song 1:2, 6:7 (DR "young maidens"). Ruled 2026-10-02. |
+| prepositura | office of superior | The abstract beside *prepositi*. Ruled 2026-10-02 (95.3). |
+| filii imitacionis | sons of imitation | Children of Abraham by imitating him, not by flesh. Ruled 2026-10-02 (89.27, 90.7). |
 
 ## B. Lordship, law, office
 
@@ -236,6 +240,9 @@ otherwise.
 | capitaliter | as head (as chief lord) | Ruled 2026-10-02 (64.33, 76.9). |
 | penaliter | in hardship | The adverb of *penalitas*. Ruled 2026-10-02 (76.29, 76.34). |
 | participium | participation | Not the grammatical participle. Ruled 2026-10-02 (85.6). |
+| suffragium sensus | aid of sense | As *suffragium* "aid"; not the church's *suffragia*. Ruled 2026-10-02 (97.22). |
+| dyameter / costa | diameter / side | The geometers' terms (the square's incommensurable diagonal). Ruled 2026-10-02 (97.21 ff.). |
+| dulia / latria | dulia / latria | Kept as the theologians' terms, glossed once per chunk. Ruled 2026-10-02 (95.17). |
 
 ## D. False friends and ordinary words that mislead
 
