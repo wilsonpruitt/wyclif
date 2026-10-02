@@ -426,3 +426,13 @@ otherwise.
 | unum per accidens | one by accident | Ruled 2026-10-02 (*Eccl.* 18, 418). |
 | legiste | legists | Civil lawyers. Ruled 2026-10-02 (*Eccl.* 18, 420.20). |
 | persona successiva | successive person | Ruled 2026-10-02 (*Eccl.* 17, 414.1). |
+| capitales (noun) | chiefs | Ruled 2026-10-02 (*Eccl.* 18, 424.30). |
+| proprietarius | proprietary | Ruled 2026-10-02 (*Eccl.* 18, 425.5, 427.15). |
+| transsumptive | transumptively | Ruled 2026-10-02 (*Eccl.* 18, 431.30). |
+| circumscriptive | circumscriptively | Ruled 2026-10-02 (*Eccl.* 18, 423.24). |
+| acephala; incapitata | acephalous; unheaded | *Incapitata* pairs with *capitatus*. Ruled 2026-10-02 (*Eccl.* 18, 435.20–23). |
+| possessionatus (adj.) | possessioned | The adjective beside the noun *possessionati* "the possessioners". Ruled 2026-10-02 (*Eccl.* 18, 434–435). |
+| pseudocardinales | pseudo-cardinals | Ruled 2026-10-02 (*Eccl.* 18, 426.32). |
+| quadriga diaboli | the devil's four-horse chariot | Ruled 2026-10-02 (*Eccl.* 18, 427.12). |
+| vetula | old woman | Ruled 2026-10-02 (*Eccl.* 18, 431–433). |
+| summi pontifices | highest pontiffs (of popes); high priests (of the Jewish priesthood) | Split by referent. Ruled 2026-10-02 (*Eccl.* 18, 424.19, 425.20). |
