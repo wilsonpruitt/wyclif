@@ -767,3 +767,14 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E19d-4 | ecclesia-19-d / n14 | Decretum C.1 q.1 c.84 | verified | PL 187 / Friedberg |
 | E19d-5 | ecclesia-19-d / n14 | Decretum C.1 q.1 c.78 | verified | PL 187 / Friedberg |
 | E19d-6 | ecclesia-19-d / n15 | Decretum C.1 q.1 c.83 (Ambrose) | verified | PL 187 / Friedberg |
+| E19e-1 | ecclesia-19-e / n2 | Augustine, *Enchiridion* 60 (codd. "l.XVIII", Loserth recte LX) | verified | PL 40 Ench. 60; codd. LXVIII (plate) |
+| E19e-2 | ecclesia-19-e / n8 | "ut tetigi XVII° cap. libri quarti": Wyclif's cross-reference to an earlier book | open | no Loserth note; not identified |
+| E19f-1 | ecclesia-19-f / n12 | Legend of John the Evangelist: branches to gold, pebbles to gems | verified | Isidore, De ortu et obitu Patrum (PL 83), John |
+| E19f-2 | ecclesia-19-f / n16 | Decretum De cons. D.4, canon *Quomodo ipsum caracterem multi lupi* | verified | page foot: cap. XLI; Friedberg D.4 c.41 |
+| E19f-3 | ecclesia-19-f / n16 | that canon's Augustinian source | verified | Aug. De bapt. V.20–21 (Friedberg inscription) |
+| E19g-1 | ecclesia-19-g / n9 | *De mirabilibus s. scripturae* II.10 on the witch of Endor | verified | PL 35 numbers it II.11 |
+| E19g-2 | ecclesia-19-g / n10 | *feretrum pape bellantis*: which pope | open | Loserth names no pope |
+| E19g-3 | ecclesia-19-g / n12 | Chrysostom on the members of the body | open | not located (PG Latin not on disk) |
+| E19g-4 | ecclesia-19-g / n13 | "ex dictis XXVII° capitulo libri V": cross-reference | open | no Loserth note; not identified |
+| E19g-5 | ecclesia-19-g / n14 | "alias illos exposui": grace/sin terms expounded elsewhere | open | cf. p. 140 (gracia predestinacionis / presentem iusticiam) |
+| E19g-6 | ecclesia-19-g / n16 | Grosseteste: the sins redeemed are defects, not acts | open | not located |

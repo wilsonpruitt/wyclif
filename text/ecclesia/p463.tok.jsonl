@@ -23,7 +23,7 @@
 {"t": "quam", "leaf": 500, "row": 3, "para": false, "head": false, "pos": 22}
 {"t": "quelibet", "leaf": 500, "row": 3, "para": false, "head": false, "pos": 23}
 {"t": "divicie", "leaf": 500, "row": 3, "para": false, "head": false, "pos": 24}
-{"t": "temporales-", "leaf": 500, "row": 3, "para": false, "head": false, "pos": 25}
+{"t": "temporales.", "leaf": 500, "row": 3, "para": false, "head": false, "pos": 25}
 {"t": "Et", "leaf": 500, "row": 3, "para": false, "head": false, "pos": 26}
 {"t": "ex", "leaf": 500, "row": 3, "para": false, "head": false, "pos": 27}
 {"t": "istis", "leaf": 500, "row": 4, "para": false, "head": false, "pos": 28}
@@ -36,7 +36,7 @@
 {"t": "in", "leaf": 500, "row": 4, "para": false, "head": false, "pos": 35}
 {"t": "populo", "leaf": 500, "row": 4, "para": false, "head": false, "pos": 36}
 {"t": "non", "leaf": 500, "row": 5, "para": false, "head": false, "pos": 37}
-{"t": "roret", "leaf": 500, "row": 5, "para": false, "head": false, "pos": 38}
+{"t": "foret", "leaf": 500, "row": 5, "para": false, "head": false, "pos": 38}
 {"t": "ut", "leaf": 500, "row": 5, "para": false, "head": false, "pos": 39}
 {"t": "sic", "leaf": 500, "row": 5, "para": false, "head": false, "pos": 40}
 {"t": "utilis", "leaf": 500, "row": 5, "para": false, "head": false, "pos": 41}
@@ -99,7 +99,9 @@
 {"t": "alienare", "leaf": 500, "row": 12, "para": false, "head": false, "pos": 98}
 {"t": "a", "leaf": 500, "row": 12, "para": false, "head": false, "pos": 99}
 {"t": "se", "leaf": 500, "row": 12, "para": false, "head": false, "pos": 100}
-{"t": "caritatemvelspiritum", "leaf": 500, "row": 12, "para": false, "head": false, "pos": 101}
+{"t": "caritatem", "leaf": 500, "row": 12, "para": false, "head": false, "pos": 101}
+{"t": "vel", "leaf": 500, "row": 12, "para": false, "head": false, "pos": 101}
+{"t": "spiritum", "leaf": 500, "row": 12, "para": false, "head": false, "pos": 101}
 {"t": "sanctum,", "leaf": 500, "row": 12, "para": false, "head": false, "pos": 102}
 {"t": "sic", "leaf": 500, "row": 13, "para": false, "head": false, "pos": 103}
 {"t": "nemo", "leaf": 500, "row": 13, "para": false, "head": false, "pos": 104}
@@ -138,7 +140,7 @@
 {"t": "potestate", "leaf": 500, "row": 17, "para": false, "head": false, "pos": 137}
 {"t": "quam", "leaf": 500, "row": 17, "para": false, "head": false, "pos": 138}
 {"t": "Joh.", "leaf": 500, "row": 17, "para": false, "head": false, "pos": 139}
-{"t": "1°,", "leaf": 500, "row": 18, "para": false, "head": false, "pos": 140}
+{"t": "I°,", "leaf": 500, "row": 18, "para": false, "head": false, "pos": 140}
 {"t": "12", "leaf": 500, "row": 18, "para": false, "head": false, "pos": 141}
 {"t": "exprimit:", "leaf": 500, "row": 18, "para": false, "head": false, "pos": 142}
 {"t": "Dedit", "leaf": 500, "row": 18, "para": false, "head": false, "pos": 143}

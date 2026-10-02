@@ -3,6 +3,26 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 40 (19-e, 19-f, 19-g) DONE
+- Opus 171K (no plates opened); Sonnet plates + sources 148K. **The Opus prompt is now saved:**
+  `chunks/ecclesia/_briefs/OPUS-PROMPT.md` (swap in the brief name and E-id prefixes). No lost words. 12 tokenfixes:
+  *nara*→*nam* (464.1, page head; *non* is in the print, so no lost word), *roret*→*foret*, *Lhnsti*, glued
+  *caritatemvelspiritum*, *1°*→*I°* ×2, stray X before *Septimo* (467), *temporales-*, *quosdam.*, *iusti-|ciam*,
+  467.29 *libri Vⁱ*.
+- ⚠ **For Wilson:** 458.23 *haberetur*. The plate shows no *non* and no line-end loss, so the print stands as it
+  is. Our English supplies "[not]" (T note: "our emendation"), because as printed the clause contradicts the reply.
+  This departs from the print, so it needs a ruling like 346.22.
+- Print confirmed: *sub non gradu*, *diminueret* (Loserth: "An diminueretur?"), *vel principaliter*, 463.4 no
+  verb (print), *Maioritas* (codd. *Minoritas*), *mortuorum defunctorum* (B lacks *mortuorum*), *preter*.
+  461.29: the print has no quotation marks, so the seculars' speech ends at *fratrem suum* by sense. Side-note
+  "tor"→"for"; 19-e n2 codd. *LXVIII*.
+- Sources: John legend = Isidore, *De ortu et obitu Patrum* (PL 83); De cons. D.4 c.41 ← Aug. *De bapt.* V.20–21;
+  *De mirab.* "II.10" = PL II.11. Open: E19e-2 and E19g-4 (book IV ch. 17 and book Vⁱ ch. 27, cf. E19a-1),
+  E19g-2 (the warring pope), E19g-3 (Chrysostom), E19g-5, E19g-6 (Grosseteste).
+- GLOSSARY: *porisma* "porism", *confundere* (supposition), *translative* "by transference", *rectiloqui*.
+- **Next:** brief 41 = 19-h, 20-a, 20-b. Built: `chunks/ecclesia/_briefs/ecclesia-19-h-20-b.md`. 11 briefs left
+  (126/159 done).
+
 ## Status 2026-10-02 — brief 39 (19-b, 19-c, 19-d) DONE
 - Opus 188K (opened 2 plates); Sonnet plates + sources 170K. Prompts saved beside the brief
   (`ecclesia-19-b-19-d.CHECK.md` = the filled template; reports `.REPORT.md`, `.CHECK-REPORT.md`).
