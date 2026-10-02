@@ -98,9 +98,9 @@
 {"t": "qui", "leaf": 494, "row": 13, "para": false, "head": false, "pos": 97}
 {"t": "sacramenta", "leaf": 494, "row": 13, "para": false, "head": false, "pos": 98}
 {"t": "consumeret", "leaf": 494, "row": 13, "para": false, "head": false, "pos": 99}
-{"t": "ut", "leaf": 494, "row": 14, "para": false, "head": false, "pos": 100}
+{"t": "(ut", "leaf": 494, "row": 14, "para": false, "head": false, "pos": 100}
 {"t": "patet", "leaf": 494, "row": 14, "para": false, "head": false, "pos": 101}
-{"t": "111°", "leaf": 494, "row": 14, "para": false, "head": false, "pos": 102}
+{"t": "III°", "leaf": 494, "row": 14, "para": false, "head": false, "pos": 102}
 {"t": "Regum", "leaf": 494, "row": 14, "para": false, "head": false, "pos": 103}
 {"t": "XII°", "leaf": 494, "row": 14, "para": false, "head": false, "pos": 104}
 {"t": "et", "leaf": 494, "row": 14, "para": false, "head": false, "pos": 105}
@@ -126,7 +126,7 @@
 {"t": "presbitero", "leaf": 494, "row": 17, "para": false, "head": false, "pos": 125}
 {"t": "citra", "leaf": 494, "row": 17, "para": false, "head": false, "pos": 126}
 {"t": "suam", "leaf": 494, "row": 17, "para": false, "head": false, "pos": 127}
-{"t": "fidem", "leaf": 494, "row": 17, "para": false, "head": false, "pos": 128}
+{"t": "fidem.", "leaf": 494, "row": 17, "para": false, "head": false, "pos": 128}
 {"t": "Ulterius", "leaf": 494, "row": 18, "para": false, "head": false, "pos": 129}
 {"t": "videtur", "leaf": 494, "row": 18, "para": false, "head": false, "pos": 130}
 {"t": "quod", "leaf": 494, "row": 18, "para": false, "head": false, "pos": 131}
@@ -140,7 +140,7 @@
 {"t": "fides", "leaf": 494, "row": 19, "para": false, "head": false, "pos": 139}
 {"t": "in", "leaf": 494, "row": 19, "para": false, "head": false, "pos": 140}
 {"t": "nostra", "leaf": 494, "row": 19, "para": false, "head": false, "pos": 141}
-{"t": "ecclesia", "leaf": 494, "row": 19, "para": false, "head": false, "pos": 142}
+{"t": "ecclesia,", "leaf": 494, "row": 19, "para": false, "head": false, "pos": 142}
 {"t": "servata", "leaf": 494, "row": 20, "para": false, "head": false, "pos": 143}
 {"t": "in", "leaf": 494, "row": 20, "para": false, "head": false, "pos": 144}
 {"t": "nobis", "leaf": 494, "row": 20, "para": false, "head": false, "pos": 145}
@@ -175,7 +175,7 @@
 {"t": "quanto", "leaf": 494, "row": 23, "para": false, "head": false, "pos": 174}
 {"t": "veritas", "leaf": 494, "row": 23, "para": false, "head": false, "pos": 175}
 {"t": "est", "leaf": 494, "row": 23, "para": false, "head": false, "pos": 176}
-{"t": "substrata", "leaf": 494, "row": 23, "para": false, "head": false, "pos": 177}
+{"t": "substrata.", "leaf": 494, "row": 23, "para": false, "head": false, "pos": 177}
 {"t": "Nec", "leaf": 494, "row": 23, "para": false, "head": false, "pos": 178}
 {"t": "tenetur", "leaf": 494, "row": 24, "para": false, "head": false, "pos": 179}
 {"t": "christianus", "leaf": 494, "row": 24, "para": false, "head": false, "pos": 180}

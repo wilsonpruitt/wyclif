@@ -3,6 +3,23 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 39 (19-b, 19-c, 19-d) DONE
+- Opus 188K (opened 2 plates); Sonnet plates + sources 170K. Prompts saved beside the brief
+  (`ecclesia-19-b-19-d.CHECK.md` = the filled template; reports `.REPORT.md`, `.CHECK-REPORT.md`).
+  **Lost word:** *ex* at the head of p. 451 (*iudex ex quacunque*). 19 tokenfixes: folio mark 190ᶜ glued
+  (*igocprius*), line numeral 5 read as *s* (*dignes*), *Iude*, *minime*, *111°*, lost ª ×3 + *Ia*→*Iª* ×2,
+  452.1 *licet* (lower case: a concession, not an incipit), 457 bracket and 3 stops.
+- Chrysostom (Op. imperf.) quotation at 446 runs through *quam habuit* (print italics); English quote moved.
+- Print confirmed: *saculum*, *matris ecclesia*, *Christo corpore*, *matre ecclesie*, *in superatis*, *creatorum*,
+  no connective at 456.3–5 or 456.19. 452.29 *Tolnensis*: Loserth's own note *recte Toletanensis*, Toledo translated.
+- ⚠ Not applied: the print starts a ¶ at 457 *Ulterius videtur* (after *fidem.*); our ¶4 runs on (structure
+  left, as for the spurious breaks). Loserth's lacuna asterisks (445.33 etc.) are dropped by unstar(), as everywhere.
+- Sources: Hom. 17 (PL 76); *De mirab.* I.3 (Abel/Zacharias/Jesse, condensed; PL *Auctor incertus*); *Fraternitatem*
+  = X 3.24.2 not Loserth's 3.28.3; C.12 q.2 c.72 = Toledo VII; "Ep. XXXVIII" ad Macedonium = Ep. 153.6.26.
+  Open: E19b-6 (*quam dixi superius*; cf. 391–393). GLOSSARY: *locus evidencie* = "topic of evidence" (not "place").
+- **Next:** brief 40 = 19-e, 19-f, 19-g. Built: `chunks/ecclesia/_briefs/ecclesia-19-e-19-g.md`. 12 briefs left (123/159 done).
+  Loop unchanged; reuse the brief-39 Opus prompt (traps list + write .REPORT.md) and fill CHECK.md the same way.
+
 ## Status 2026-10-02 — brief 38 (18-f, 18-g, 19-a) DONE — PAUSED here at Wilson's request
 - Opus 175K (opened 4 plates itself); Sonnet plates + sources 175K. **Lost words:** *nec ipsa nec* at the head
   of 18-f (435.26, OCR `iqua`), *et* at 436.32. 20 tokenfixes: glued words, margin letters X/Y glued (440),

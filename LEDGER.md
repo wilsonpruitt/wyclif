@@ -744,12 +744,12 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E19a-4 | ecclesia-19-a / n5 | Aug. *Tract. in Ioh.* 27.10 (Wyclif "Omelia XXV") | verified | PL 35 |
 | E19a-5 | ecclesia-19-a / n7 | *Tract. in Ioh.* 27.11, *corpus Christi mixtum … area* | verified | PL 35 |
 | E19a-6 | ecclesia-19-a / n8 | Second species of quality = natural capacity, Arist. *Cat.* 8 | to-verify | from memory |
-| E19b-1 | ecclesia-19-b / n3 | Gregory, *Hom. in Ev.* 17, on Luke 10:1 | to-verify | from memory |
+| E19b-1 | ecclesia-19-b / n3 | Gregory, *Hom. in Ev.* 17, on Luke 10:1 | verified | PL 76; quotations 449–451 match; content loose |
 | E19b-2 | ecclesia-19-b / n4 | *Opus imperfectum* hom. 34 (Ps.-Chrysostom) | editor | Loserth "l. c. pag. CXLV" |
-| E19b-3 | ecclesia-19-b / n6 | *De mirabilibus s. scripturae* 3 (Loserth corrects IV to III) | editor | Aug. Opp. III App. p. 5 |
-| E19b-4 | ecclesia-19-b / n6 | Author = "Augustinus Hibernicus" | to-verify | from memory |
-| E19b-5 | ecclesia-19-b / n7 | "Augustine" on Abel, Zacharias and Jesse | to-verify | Loserth gives no reference |
-| E19b-6 | ecclesia-19-b / n8 | *quam dixi superius*: internal cross-reference | to-verify | not located |
+| E19b-3 | ecclesia-19-b / n6 | *De mirabilibus s. scripturae* 3 (Loserth corrects IV to III) | verified | PL 35, lib. I cap. 3 | Aug. Opp. III App. p. 5 |
+| E19b-4 | ecclesia-19-b / n6 | Author = "Augustinus Hibernicus" | verified | modern attribution; PL 35 *Auctor incertus* |
+| E19b-5 | ecclesia-19-b / n7 | "Augustine" on Abel, Zacharias and Jesse | verified | *De mirab.* I.3 (PL 35), condensed |
+| E19b-6 | ecclesia-19-b / n8 | *quam dixi superius*: internal cross-reference | open | not located; cf. 391–393 |
 | E19b-7 | ecclesia-19-b / n14 | Decretum C.1 q.1 c.30 | editor | page foot 449 |
 | E19b-8 | ecclesia-19-b / n14 | Decretum C.15 q.8 c.5 | editor | page foot 449 |
 | E19b-9 | ecclesia-19-b / n14 | X 3.2.7 | editor | page foot 449 |
@@ -757,13 +757,13 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E19c-1 | ecclesia-19-c / n4 | Gregory, *Hom. in Ev.* 17.5 | editor | page foot 450 |
 | E19c-2 | ecclesia-19-c / n9 | *lavant lateres*: Terence, *Phormio* 186; Erasmus, *Adagia* | editor | page foot 451 |
 | E19c-3 | ecclesia-19-c / n10 | Gregory, *Hom.* 17 (codd. "Omelia nona"; Loserth XVII) | editor | page foot 451 |
-| E19c-4 | ecclesia-19-c / n11 | Decretals bk 3, *Fraternitatem*; page-foot OCR "tit. XXVIII, cap. III" | editor | conflicts with E13f-3 (X 3.24.2); check |
-| E19c-5 | ecclesia-19-c / n15 | Decretum C.12 q.2 c.72 (OCR numeral "LXXH") | editor | check numeral |
-| E19c-6 | ecclesia-19-c / n15 | Which council of Toledo | to-verify | not checked |
-| E19c-7 | ecclesia-19-c / n17 | Decretum C.11 q.3 c.44 | editor | page foot 453 |
-| E19d-1 | ecclesia-19-d / n2 | Augustine to Macedonius, "Ep. XXXVIII" | to-verify | no reference; numbering doesn't match |
-| E19d-2 | ecclesia-19-d / n9 | Decretum C.1 q.1 c.12 | editor | page foot 455 |
-| E19d-3 | ecclesia-19-d / n10 | Decretum C.9 q.1 c.3 *Sed excommunicati* | editor | page foot 456 |
-| E19d-4 | ecclesia-19-d / n14 | Decretum C.1 q.1 c.84 | editor | page foot 457 |
-| E19d-5 | ecclesia-19-d / n14 | Decretum C.1 q.1 c.78 | editor | page foot 457 |
-| E19d-6 | ecclesia-19-d / n15 | Decretum C.1 q.1 c.83 (Ambrose) | editor | page foot 457 |
+| E19c-4 | ecclesia-19-c / n11 | Decretals bk 3, *Fraternitatem* (Loserth X 3.28.3) | verified | X 3.28.3 is on burial; X 3.24.2 fits (Friedberg) |
+| E19c-5 | ecclesia-19-c / n15 | Decretum C.12 q.2 c.72 | verified | Friedberg; plate LXXII |
+| E19c-6 | ecclesia-19-c / n15 | Council: Toledo VII | verified | Gratian *in VII. Concilio Toletano* |
+| E19c-7 | ecclesia-19-c / n17 | Decretum C.11 q.3 c.44 | verified | PL 187 / Friedberg |
+| E19d-1 | ecclesia-19-d / n2 | Augustine to Macedonius, "Ep. XXXVIII" | verified | = Ep. 153.6.26 (PL 33), paraphrase; Ep. 38 is to Profuturus |
+| E19d-2 | ecclesia-19-d / n9 | Decretum C.1 q.1 c.12 | verified | PL 187 / Friedberg |
+| E19d-3 | ecclesia-19-d / n10 | Decretum C.9 q.1 c.3 *Sed excommunicati* | verified | Gratian's dictum after c.3 |
+| E19d-4 | ecclesia-19-d / n14 | Decretum C.1 q.1 c.84 | verified | PL 187 / Friedberg |
+| E19d-5 | ecclesia-19-d / n14 | Decretum C.1 q.1 c.78 | verified | PL 187 / Friedberg |
+| E19d-6 | ecclesia-19-d / n15 | Decretum C.1 q.1 c.83 (Ambrose) | verified | PL 187 / Friedberg |
