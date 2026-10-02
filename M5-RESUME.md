@@ -3,6 +3,13 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 23 (12-e, 12-f, 13-a) DONE: chapter 12 translated
+- Opus 176K; Sonnet plates + Friedberg 88K. No lost words (asked to flag). Plates: *perturbacio* doubled in our Latin
+  (dittography) — fixed; *celeberrime* is the print and a Friedberg variant. *Nisi bella* (Gratian "Gregorius") is
+  Origen. 10 tokenfixes. GLOSSARY: *vicarius Christi* (row at last), *elemosinans*, *elemosina temporalis/perpetua*,
+  *autenticus*, *manucapcio*, *satispassio*, *compossibilis*, *distribucio accomoda*.
+- **Next:** brief 24 = 13-b, 13-c, 13-d.
+
 ## Status 2026-10-02 — brief 22 (12-b, 12-c, 12-d) DONE
 - Opus 177K; Sonnet plates + sources 106K. **Dropped words again:** 258.2 *carte impossibile* lost from the Latin
   (the agent had supplied a negative); restored, English fixed. *Ad* (258.23) restored. *ociosis*, *oblata*,

@@ -73,6 +73,8 @@ otherwise.
 | expropriacio | renunciation of property | Never "expropriation" (seizure). Ruled 2026-10-02 (*Eccl.* 9). |
 | uxoratus | married | Ruled 2026-10-02. |
 | membrum | member | The card's key ruling, now a row (with *caput*). Ruled 2026-10-02. |
+| vicarius Christi | vicar of Christ | The card's ruling, now a row. Ruled 2026-10-02. |
+| elemosinans | almsgiver | The participle of *elemosinare*: the donor. Ruled 2026-10-02 (*Eccl.* 13). |
 
 ## B. Lordship, law, office
 
@@ -174,6 +176,9 @@ otherwise.
 | franchisia | franchise | Ruled 2026-10-02 (*Eccl.* 239.22). |
 | facinus | misdeed | Wyclif equates it with "felony" (239.13, 239.21). Ruled 2026-10-02. |
 | privilegiandus | the one to be privileged | Ruled 2026-10-02 (*Eccl.* 12). |
+| elemosina temporalis / perpetua | temporary alms / perpetual alms | "Temporary" keeps it apart from *temporalia*; *perpetua* answers to frankalmoign. Ruled 2026-10-02 (*Eccl.* 13). |
+| manucapcio | mainprise | Ruled 2026-10-02 (270.13). |
+| autenticus / autenticacio | authentic / authentication | The key term of *Eccl.* 13. Ruled 2026-10-02. |
 
 ## C. Logic, disputation, metaphysics
 
@@ -286,6 +291,9 @@ otherwise.
 | ociatores | men of leisure | Ruled 2026-10-02 (201.27). |
 | irreatus (*pene*) | non-liability (to penalty) | Non-classical abstract. Ruled 2026-10-02 (*Eccl.* 239.30). |
 | subintelligere | understand as implied | Recurs through *Eccl.* 12. Ruled 2026-10-02. |
+| distribucio accomoda | accommodated distribution | The logicians' term. Ruled 2026-10-02 (268.19). |
+| compossibilis | compossible | Ruled 2026-10-02 (271.13). |
+| satispassio | satispassion | Set against *satisfaccio*. Ruled 2026-10-02 (270.11). |
 
 ## D. False friends and ordinary words that mislead
 

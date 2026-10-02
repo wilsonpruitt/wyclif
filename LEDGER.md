@@ -471,3 +471,19 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E12d-4 | ecclesia-12-d / n12 | the fugitives = Hauley and Shakell with their hostage | to-verify | |
 | E12d-5 | ecclesia-12-d / n15 | the coronation oath's promise of justice | to-verify | |
 | E12d-6 | ecclesia-12-d / n17 | the monk killed in 1378 | to-verify | |
+| E12e-1 | ecclesia-12-e / n1 | D.8 c.3: Friedberg *celerrime*, MSS F G *celeberrime* | verified | Friedberg I, 13–14 |
+| E12e-2 | ecclesia-12-e / n2 | D.8 c.4 *Veritate manifestata* = Libosus of Vaga, quoted in Aug. *De bapt.* III | verified | Friedberg I, 13–14 |
+| E12e-3 | ecclesia-12-e / n7 | the dedication rite: God calls the church his bride | to-verify | not local |
+| E12e-4 | ecclesia-12-e / n10 | C.14 q.6 c.1 (Aug. to Macedonius) | verified | Friedberg I, 741–42 |
+| E12e-5 | ecclesia-12-e / n14, n24 | the Westminster prophecy; the 1378 killing; the king's knights | to-verify | |
+| E12e-6 | ecclesia-12-e / n18 | collect *Nulla ei nocebit adversitas …* | to-verify | missal |
+| E12e-7 | ecclesia-12-e / n24 | "first argument of the seventh chapter" | to-verify | 07-a |
+| E12f-1 | ecclesia-12-f / n7 | C.23 q.1 c.1 *Nisi bella* (Gratian "Gregorius"; = Origen, *Hom. in Ios.* 16.1) | verified | Friedberg I, 889–90 |
+| E12f-2 | ecclesia-12-f / n4 | the legend of St Peter consecrating Westminster | to-verify | not local |
+| E12f-3 | ecclesia-12-f / n6 | the abbey excommunicated members of the king's household | to-verify | |
+| E13a-1 | ecclesia-13-a / n1 | "the teaching I stated above" | untraced | |
+| E13a-2 | ecclesia-13-a / n2 | *elemosina perpetua* = frankalmoign | to-verify | |
+| E13a-3 | ecclesia-13-a / n7 | *XI° capitulo de privilegiis* (B XX) | to-verify | ch. 11 |
+| E13a-4 | ecclesia-13-a / n13 | *ut alias declaravi* (*De civili dominio*?) | untraced | |
+| E13a-5 | ecclesia-13-a / n14, n15 | Edgar, Edward the Confessor; William's transfers | to-verify | |
+| E13a-6 | ecclesia-13-a / n16 | "declared in the last chapter": Heli's condition | to-verify | ch. 12 |
