@@ -3,6 +3,14 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 10 (05-f, 06-a, 06-b) DONE: chapter 5 translated
+- Opus 159K; Sonnet plates + Gratian 78K. **archive.org back:** Friedberg I (BD1141951) read — D.21 c.3 reads
+  *nullis sinodicis constitutis*, no *multis* in the apparatus (coordinator re-read). E04e-4 closed.
+- Plates: *VIIIⁱ* (raised ordinal), 2 Cor. 6:**15** (old-style figures). *De cons.* D.2 c.63 incipit is Wyclif's
+  *Hoc sacramentum*. 10 tokenfixes; drift 0 over 35 chunks. GLOSSARY: *de virtute sermonis*, *capitari/capitatus*.
+- Owed to Friedberg now that it is up: C.23 q.4 cc.11/15/23 (E04f-1/4, Migne only), *Damnamus* (E06a-2, Friedberg II).
+- **Next:** brief 11 = 06-c … .
+
 ## Status 2026-10-02 — brief 9 (05-c, 05-d, 05-e) DONE
 - Opus 166K; Sonnet plates + verifier 103K. archive.org still offline (Friedberg I owed).
 - tokenfix now takes TWO-token entries ("nec essitate" → necessitate) for a split whose first half recurs on the

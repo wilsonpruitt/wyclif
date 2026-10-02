@@ -198,7 +198,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E04e-1 | ecclesia-04-e / n3 | "cap. III … Gregory" = this work's ch. 3 | to-verify | 03-a/03-b cite *Moralia* XXXI |
 | E04e-2 | ecclesia-04-e / n5 | Augustine, *Ep.* 187 (Wyclif cap. XI) | verified | PL 33:846, cap. XII §37: *filios Dei … congregaret* |
 | E04e-3 | ecclesia-04-e / n6 | Isidore, *Sent.* I.16.6 (MSS XVI; Loserth XIX wrong); Hugh, *De sacr.* II.2.2 | verified | PL 83:572; PL 176:416D–417A |
-| E04e-4 | ecclesia-04-e / n7 | D.21 c.3 *Quamvis* reads *nullis synodicis constitutis*; Wyclif *multis* | verified (Migne) | PL 187:119B; 59:159B; 161:1183A; variant *nonnullis* 13:374B. Friedberg I: archive.org offline 2026-10-01/02, retry |
+| E04e-4 | ecclesia-04-e / n7 | D.21 c.3 *Quamvis* reads *nullis synodicis constitutis*; Wyclif *multis* | verified | Friedberg I (BD1141951), D.21 c.3: *nullis sinodicis constitutis*, no *multis* in the apparatus (coordinator re-read 2026-10-02); PL 187:119B; PL 59:159B; PL 161:1183A; *nonnullis* PL 13:374B |
 | E04e-5 | ecclesia-04-e / n8, n10 | ordinary gloss to D.21 c.3 and C.24 q.1 c.9 | to-verify | not local |
 | E04e-6 | ecclesia-04-e / n9–11 | C.24 q.1 cc.6, 9, 14; C.7 q.1 c.7; D.19 c.9; D.40 c.6; *De cons.* D.1 c.8 *Ecclesia* | editor | c.8 located: PL 187:1708B (Nicholas I); the rest Loserth's |
 | E04e-7 | ecclesia-04-e / n13 | D.22 c.1 *Omnes* (Nicholas II); *Liber Sextus* 5.2 | verified (Omnes) | PL 187:122C; Sext title to-verify |
@@ -237,3 +237,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E05e-4 | ecclesia-05-e / n12 | Augustine to Boniface: David and Peter = *Ep.* 185.45–46 | verified (partial) | PL 33:812–813; Loserth's XXXIII / Opp. II 263 unconfirmed |
 | E05e-5 | ecclesia-05-e / n12 | *De octo Dulcitii quaestionibus* q. 5: David | verified | PL 40:167–169 |
 | E05e-6 | ecclesia-05-e / n15 | Isidore, *Sent.* I.19 (codd. XVI) | verified | I.16.6, PL 83:572 (E04e-3): the MSS' XVI is right |
+| E05f-1 | ecclesia-05-f / n1 | the *quidam doctor* whose definition is attacked (112.10) | untraced | |
+| E05f-2 | ecclesia-05-f / n3 | *Unam sanctam* | verified | Friedberg II, 1245–46 (E01c-5) |
+| E05f-3 | ecclesia-05-f / n15 | *in principiis … obstare*: Ovid, *Rem. am.* 91 *principiis obsta* | to-verify | not local |
+| E05f-4 | ecclesia-05-f / n15 | cf. Hus, *De eccl.* fol. 205 | editor | Loserth 115.33 |
+| E06a-1 | ecclesia-06-a / n3 | "head" a relative term: Aristotle, *Cat.* 7 | to-verify | not local |
+| E06a-2 | ecclesia-06-a / n5 | the divine nature does not generate: Lateran IV, *Damnamus* (*X* 1.1.2) | to-verify | Friedberg II (archive.org offline) |
+| E06a-3 | ecclesia-06-a / n5 | cf. Hus, *De eccl.*, Opp. I fol. 198 (OCR "iqS*") | editor | folio uncertain |
+| E06a-4 | ecclesia-06-a / n19 | Tyconius's second rule = *De doctr. chr.* III.32 | verified | PL 34:82 (V-08) |
+| E06b-1 | ecclesia-06-b / n2 | *De doctr. chr.* III.32 | verified | as E06a-4 |
+| E06b-2 | ecclesia-06-b / n2 | cf. Hus, *De eccl.* fol. 206b | editor | Loserth 120.22 |
+| E06b-3 | ecclesia-06-b / n3 | Christ and his body one person = Tyconius's first rule, III.31.44 | verified | PL 34:82 (V-08: rule 1 = §44) |
+| E06b-4 | ecclesia-06-b / n3 | Wyclif's quotation *non … sic debuit appellari … vero atque simulato* | verified | PL 34:82–83 (V-08) |
+| E06b-5 | ecclesia-06-b / n4 | *De cons.* D.2 c.63 *Hoc sacramentum pietatis* (Aug. *In Ioh.* 26); *Hunc itaque cibum* is its § 1 | verified | PL 187:1762A |
+| E06b-6 | ecclesia-06-b / n5 | *De pen.* D.4 c.8 *Si ex bono in malum deficiente* (Aug. *De corr. et gr.* 8–9) | verified | PL 187:1620A |
+| E06b-7 | ecclesia-06-b / n10 | *decretum … in fine XIII cap.* | untraced | |
+| E06b-8 | ecclesia-06-b / n12 | heresy = understanding scripture otherwise than the Spirit demands: C.24 q.3 c.27 (Jerome) | verified | PL 187:1306B |
+| E06b-9 | ecclesia-06-b / n12 | heresy to impute vice to the Roman church: perhaps D.22 c.1 | to-verify | cf. E04e-7 (PL 187:122C) |

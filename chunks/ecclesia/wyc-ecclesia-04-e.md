@@ -164,7 +164,8 @@ grace according to present justice.[^18]
     canon (the Gelasian decree) reads *nullis synodicis constitutis*, "by no synodal decrees", but by
     the Lord's own voice (Matt. 16:18): so Gratian in Migne (PL 187:119B), the decree itself (PL
     59:159B) and Ivo (PL 161:1183A). Wyclif has *multis*; the nearest attested reading is *nonnullis*
-    (PL 13:374B). Friedberg not yet read (LEDGER E04e-4). A₁, better, *innuit decretum* (86.8). Matt. 16:18, DR.
+    (PL 13:374B). Friedberg I, D.21 c.3 also reads *nullis sinodicis constitutis*, and his
+    apparatus records no *multis* (LEDGER E04e-4). A₁, better, *innuit decretum* (86.8). Matt. 16:18, DR.
 
 [^8]: **S/T.** The ordinary gloss to D. 21 c. 3 (LEDGER E04e-5). AA₁ *inquit et quod* (86.21).
     *Daret plenam fidem*: "would give full faith", i.e. would settle the matter for believers.
