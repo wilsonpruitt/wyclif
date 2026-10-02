@@ -742,10 +742,15 @@ def run(slug, first=None, last=None):
             x['t'] = re.sub(r'^([IVXLC]{2,}|[IVX])[0"](?=[,.;:)]*$)', r'\1°', x['t'])
             if prev_t and re.fullmatch(r'[IVXLC]+[°ª],', prev_t) and re.fullmatch(r'[iIl][.,;:)]*', x['t']):
                 x['t'] = '1' + x['t'][1:]
-            x['t'] = tokenfix.get((pg, x['t']), x['t'])      # coordinator's per-page token fixes (tokenfix.tsv)
-            x['t'] = scar_fix(x['t'], lex)
-            x['t'] = tokenfix.get((pg, x['t']), x['t'])      # and after the rules (impossibile® -> °)
-            if ' ' in x['t']:                                  # a token covering two printed words: fix each
+            t0, seen = x['t'], set()
+            while (pg, x['t']) in tokenfix and x['t'] not in seen:   # per-page token fixes (tokenfix.tsv), chained
+                seen.add(x['t'])                                     # (XXXVII -> XXXVIIª -> XXXVIIª,), never looped
+                x['t'] = tokenfix[(pg, x['t'])]
+            fixed = x['t'] != t0
+            if not fixed:                                      # a fix is final: never re-fixed (debui -> Non debui)
+                x['t'] = scar_fix(x['t'], lex)
+                x['t'] = tokenfix.get((pg, x['t']), x['t'])  # and after the rules (impossibile® -> °)
+            if ' ' in x['t'] and not fixed:                    # a token covering two printed words: fix each
                 x['t'] = ' '.join(tokenfix.get((pg, w), w) for w in x['t'].split())
             prev_t = x['t']
             core = x['t'].rstrip('.,;:?!')

@@ -3,6 +3,20 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 28 (14-h, 15-a, 15-b) DONE: chapter 14 translated
+- Opus 158K; Sonnet plates + sources + page-head sweep 139K. Lost/doubled words: *II.* (332.10), *Tercia* doubled
+  (333.1); departures by ruling 2 (print won't construe): 328.12 *Vident* (B), 331.33 *nimis*. 330.30 paragraph
+  break is spurious but left as structure (PLATE-FLAGS).
+- **Page-head sweep resolved:** of 7 candidates only p. 431 *Non* is real; p. 21 *illo* (mid-line) found on the way.
+- **vote.py tokenfix bug fixed:** a fix whose result contains the printed word was re-applied word by word
+  (*debui* → *Non Non debui*); it had already doubled *Si* at 244.30 in translated chunk 11-d. Fixes now chain
+  (XXXVII → XXXVIIª → XXXVIIª,) but never re-apply; whole-volume diff changed only pp. 244, 332, 431.
+- Verified: D.83 c.3; Bernard *De consid.* II.6.10; D.40 c.12 (*Opus imperf.* hom. 43); C.23 q.4 c.22.
+- **Owed:** mid-line lost words (21 *illo*, 332 *II.*) are found only by a word-by-word plate comparison, which
+  briefs before 26 did not get: chapters 1–13 likely hold some. Plan a lost-word pass (computation first:
+  scratchpad lost.py prototype, untested) before the site build.
+- **Next:** brief 29 = 15-c, 15-d, 15-e.
+
 ## Status 2026-10-02 — brief 27 (14-e, 14-f, 14-g) DONE
 - Opus 158K; Sonnet plates + sources 146K. **Two more lost words:** *in* at the head of p. 317 and *sed non
   assero.* at 318.3 (Henry's hedge on the Constantine poison story) — restored, English and n17 fixed. All other

@@ -553,3 +553,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E14g-2 | ecclesia-14-g / n6 | *XCVIª d.* at 323.27 = D.96 c.14 | to-verify | |
 | E14g-3 | ecclesia-14-g / n18 | the claims answer Gregory XI's bulls of 1377 | to-verify | |
 | E14g-4 | ecclesia-14-g / n19 | conclusion on lords taking from a delinquent church condemned 1377 | to-verify | |
+| E14h-1 | ecclesia-14-h / n1 | Matthew's *Dic bufo crati* = ME proverb "quoth the toad to the harrow" | to-verify | |
+| E14h-2 | ecclesia-14-h / n3 | D.96 c.14 *Constantinus* | verified | = E14g-1 |
+| E14h-3 | ecclesia-14-h / n8 | Aug. *In Ioh.* 6 (*Quo iure*) | verified | 6.25, = E14a-5 |
+| E14h-4 | ecclesia-14-h / n8 | D.8 c.1 *Quo iure* | verified | = E14a-5 |
+| E14h-5 | ecclesia-14-h / n8 | Bernard, *De consid.* II, *Esto ut alia ratione* | verified | II.6.10, PL 182.748 |
+| E15a-1 | ecclesia-15-a / n2 | C.23 q.4 c.22 *Nabuchodonosor* | verified | |
+| E15a-2 | ecclesia-15-a / n5 | *mortui vel divisi* = the Schism of 1378 | to-verify | |
+| E15a-3 | ecclesia-15-a / n7 | *Error cui non resistitur approbatur* = D.83 c.3 | verified | Innocent; cf. E11b-2 |
+| E15a-4 | ecclesia-15-a / n10 | William Bateman, Norwich (Walsingham I, 262) | editor | |
+| E15a-5 | ecclesia-15-a / n11 | John Grandisson, Exeter (Walsingham I, 309; Rot. Parl. II, 245) | editor | |
+| E15a-6 | ecclesia-15-a / n11 | Thomas de Lisle, Ely (Walsingham I, 285) | editor | |
+| E15a-7 | ecclesia-15-a / n12 | French possessioners = alien priories (Rot. Parl. III, 22b) | to-verify | identification ours |
+| E15a-8 | ecclesia-15-a / n6 | "chapter 12" = p. 265 | editor | |
+| E15b-1 | ecclesia-15-b / n2 | D.40 c.12 from *Opus imperfectum in Matth.* hom. 43 | verified | |
+| E15b-2 | ecclesia-15-b / n5 | Sergius the monk who instructed Muhammad | to-verify | |
+| E15b-3 | ecclesia-15-b / n7 | the pseudo-pope = Clement VII | to-verify | |
+| E15b-4 | ecclesia-15-b / n8 | Hus, *De ablacione bonorum temporalium* (Nuremberg 1558, I, 122ᵛ) | editor | |

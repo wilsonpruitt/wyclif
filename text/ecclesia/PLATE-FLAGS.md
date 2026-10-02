@@ -3,3 +3,5 @@
 - p.93 pos 206 *limi avi*: t not printed (limi[t]avi); recorded as printed. p.48 pos 206-214: footnote text, ∅.
 - p.294 *quaOiyo^tuor* (que quatuor?): side-note fragment inside a hyphenated word; check on the plate. p.551 *istaTheiattermeanglossa* split to *ista glossa*.
 - p.245 *coronanus*: CLOSED 2026-10-02 — the plate reads *coronarius* (coroner); corrected via tokenfix.
+- p.330 line 30–31: our Latin breaks a paragraph after *tam rex quam regnum* (mid-sentence); the print runs on. Left as structure (chunk 15-a ¶2/¶3 straddle it; the English runs across). No word is affected.
+- p.21 *illo*, p.332 *II.*, p.431 *Non* (page head), p.333 doubled *Tercia*: CLOSED 2026-10-02 via tokenfix (plate).
