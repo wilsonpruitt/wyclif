@@ -19,7 +19,7 @@
 {"t": "sui", "leaf": 475, "row": 2, "para": false, "head": false, "pos": 18}
 {"t": "casus", "leaf": 475, "row": 2, "para": false, "head": false, "pos": 19}
 {"t": "est", "leaf": 475, "row": 2, "para": false, "head": false, "pos": 20}
-{"t": "experta", "leaf": 475, "row": 2, "para": false, "head": false, "pos": 21}
+{"t": "experta;", "leaf": 475, "row": 2, "para": false, "head": false, "pos": 21}
 {"t": "hec", "leaf": 475, "row": 2, "para": false, "head": false, "pos": 22}
 {"t": "ecclesia", "leaf": 475, "row": 2, "para": false, "head": false, "pos": 23}
 {"t": "in", "leaf": 475, "row": 2, "para": false, "head": false, "pos": 24}
@@ -73,7 +73,7 @@
 {"t": "post", "leaf": 475, "row": 9, "para": false, "head": false, "pos": 72}
 {"t": "eternitatem", "leaf": 475, "row": 9, "para": false, "head": false, "pos": 73}
 {"t": "trinitatis", "leaf": 475, "row": 9, "para": false, "head": false, "pos": 74}
-{"t": "increate", "leaf": 475, "row": 9, "para": false, "head": false, "pos": 75}
+{"t": "increate,", "leaf": 475, "row": 9, "para": false, "head": false, "pos": 75}
 {"t": "hoc", "leaf": 475, "row": 9, "para": false, "head": false, "pos": 75}
 {"t": "est,", "leaf": 475, "row": 9, "para": false, "head": false, "pos": 76}
 {"t": "in", "leaf": 475, "row": 9, "para": false, "head": false, "pos": 77}

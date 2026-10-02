@@ -109,7 +109,7 @@
 {"t": "simplex", "leaf": 473, "row": 14, "para": false, "head": false, "pos": 108}
 {"t": "pars", "leaf": 473, "row": 14, "para": false, "head": false, "pos": 109}
 {"t": "talis", "leaf": 473, "row": 14, "para": false, "head": false, "pos": 110}
-{"t": "multitudinis", "leaf": 473, "row": 14, "para": false, "head": false, "pos": 111}
+{"t": "multitudinis,", "leaf": 473, "row": 14, "para": false, "head": false, "pos": 111}
 {"t": "sicut", "leaf": 473, "row": 15, "para": false, "head": false, "pos": 112}
 {"t": "nec", "leaf": 473, "row": 15, "para": false, "head": false, "pos": 113}
 {"t": "videtur", "leaf": 473, "row": 15, "para": false, "head": false, "pos": 114}
@@ -146,7 +146,7 @@
 {"t": "faciens", "leaf": 473, "row": 19, "para": false, "head": false, "pos": 145}
 {"t": "substanciam", "leaf": 473, "row": 19, "para": false, "head": false, "pos": 146}
 {"t": "esse", "leaf": 473, "row": 19, "para": false, "head": false, "pos": 147}
-{"t": "aliquid", "leaf": 473, "row": 19, "para": false, "head": false, "pos": 148}
+{"t": "aliquid,", "leaf": 473, "row": 19, "para": false, "head": false, "pos": 148}
 {"t": "et", "leaf": 473, "row": 19, "para": false, "head": false, "pos": 148}
 {"t": "per", "leaf": 473, "row": 19, "para": false, "head": false, "pos": 149}
 {"t": "idem", "leaf": 473, "row": 19, "para": false, "head": false, "pos": 150}
@@ -173,7 +173,7 @@
 {"t": "quod", "leaf": 473, "row": 22, "para": false, "head": false, "pos": 171}
 {"t": "conventus", "leaf": 473, "row": 22, "para": false, "head": false, "pos": 172}
 {"t": "tam", "leaf": 473, "row": 22, "para": false, "head": false, "pos": 173}
-{"t": "sensibilis", "leaf": 473, "row": 22, "para": false, "head": false, "pos": 174}
+{"t": "sensibilis,", "leaf": 473, "row": 22, "para": false, "head": false, "pos": 174}
 {"t": "tam", "leaf": 473, "row": 22, "para": false, "head": false, "pos": null}
 {"t": "edax", "leaf": 473, "row": 22, "para": false, "head": false, "pos": null}
 {"t": "et", "leaf": 473, "row": 23, "para": false, "head": false, "pos": 175}
@@ -242,6 +242,7 @@
 {"t": "accidens", "leaf": 473, "row": 31, "para": false, "head": false, "pos": 237}
 {"t": "sibi", "leaf": 473, "row": 31, "para": false, "head": false, "pos": 237}
 {"t": "inesset", "leaf": 473, "row": 31, "para": false, "head": false, "pos": 238}
+{"t": "et", "leaf": 473, "row": 31, "para": false, "head": false, "pos": 238}
 {"t": "a", "leaf": 473, "row": 31, "para": false, "head": false, "pos": 239}
 {"t": "pari", "leaf": 473, "row": 31, "para": false, "head": false, "pos": 240}
 {"t": "nulla", "leaf": 473, "row": 31, "para": false, "head": false, "pos": 241}

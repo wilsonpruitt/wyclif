@@ -3,6 +3,19 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 38 (18-f, 18-g, 19-a) DONE — PAUSED here at Wilson's request
+- Opus 175K (opened 4 plates itself); Sonnet plates + sources 175K. **Lost words:** *nec ipsa nec* at the head
+  of 18-f (435.26, OCR `iqua`), *et* at 436.32. 20 tokenfixes: glued words, margin letters X/Y glued (440),
+  *Iude/Iudas* (OCR *l*), *25—27°:*, and 7 lost punctuation marks (436 ×3, 438 ×2, 440, 441).
+- Print confirmed: 438.15 *nulla nostra* (Loserth: recte *natura*), *cesivam*, *caveant*, 441.2 *primus Adam*,
+  *in assimili*, *abuntuntur* (A's margin, sic).
+- Sources: Boethius (paraphrase, *subsistentia*), Ench. 15.56/15.61, *Chorus novae Ierusalem* in PL 141 (Fulbert),
+  De dono pers. (Wyclif's quotation reverses Augustine), C.11 q.3 c.60 (Wyclif quotes Gratian, not Gregory),
+  Tract. 27.10–11. Open: E19a-1 (which book is "liber V"; check Thomson), E19a-6.
+- **Next:** brief 39 = 19-b, 19-c, 19-d. Built: `chunks/ecclesia/_briefs/ecclesia-19-b-19-d.md`. 13 briefs left
+  (120/159 done). Loop unchanged; add to the Opus prompt the traps list used for briefs 36–38 (incipits, line-end
+  short-word losses, Loserth's enumerator numerals, grep GLOSSARY before proposing).
+
 ## Status 2026-10-02 — brief 37 (18-c, 18-d, 18-e) DONE
 - Opus 161K; Sonnet plates + sources 191K. No lost words. 19 tokenfixes: *nonam* (OCR *novam*; side-note "g." = 9),
   426 *II° II°* → *II°).* (doubling + lost bracket), *XXVII°*, *exproprietarie* (again), strays *that*/*not*,
