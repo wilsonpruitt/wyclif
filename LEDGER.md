@@ -778,3 +778,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E19g-4 | ecclesia-19-g / n13 | "ex dictis XXVII° capitulo libri V": cross-reference | open | no Loserth note; not identified |
 | E19g-5 | ecclesia-19-g / n14 | "alias illos exposui": grace/sin terms expounded elsewhere | open | cf. p. 140 (gracia predestinacionis / presentem iusticiam) |
 | E19g-6 | ecclesia-19-g / n16 | Grosseteste: the sins redeemed are defects, not acts | open | not located |
+| E19h-1 | ecclesia-19-h / n4 | Sentence is in the letter to Macedonius (*Quaedam inter eos iura … civilia*), not Ep. 185; Opp. II p. 534 | verified | PL 33 Ep. 153 c. 6 |
+| E19h-2 | ecclesia-19-h / n4 | letter to Macedonius = Ep. 153 (cf. E19d-1) | verified | PL 33 (TEI 7300) Ep. 153 |
+| E19h-3 | ecclesia-19-h / n6 | Augustine, In Ioh. tr. 11, on John 3:1 | verified | PL 35 tr. 11 |
+| E19h-4 | ecclesia-19-h / n8 | "ut dixi superius": good born of the wicked; sacraments from wicked ministers | verified | loose; cf. 448, 464 |
+| E20a-1 | ecclesia-20-a / n6 | "in omni genere … primum" as measure: Aristotle, Metaph. X.1 | open | no Latin Aristotle on disk; standard doctrine |
+| E20a-2 | ecclesia-20-a / n8 | *raciones exemplares / seminales* are Augustine's terms | verified | De Gen. ad litt. VI; De div. qq. 83 q.46 |
+| E20a-3 | ecclesia-20-a / n9, n15 | Augustine, Sermo 37 on Prov. 31 | verified | PL 38 Sermo 37 |
+| E20a-4 | ecclesia-20-a / n12 | Augustine's Old Latin Prov. 31:10 *preciosior … que eiuscemodi est* | verified | PL 38 Sermo 37 (wording altered) |
+| E20a-5 | ecclesia-20-a / n13 | "Donato" = Donatus the schismatic | verified | context 475.7–8 |
+| E20a-6 | ecclesia-20-a / n15 | Augustine *Prescius confidit, falli non potest qui confidit* | verified | PL 38 Sermo 37 |
+| E20b-1 | ecclesia-20-b / n2, n4, n7 | Augustine, Sermo 37 on Prov. 31:11–12; Loserth corrected to *quia non querit* | verified | PL 38 Sermo 37 |
+| E20b-2 | ecclesia-20-b / n8 | "ut dixi superius": Christ used no civil property | verified | cf. p. 303 |
+| E20b-3 | ecclesia-20-b / n9–10 | Augustine l.c. on wool and flax (*Quidquid carne operamur …*) | verified | PL 38 Sermo 37 |
+| E20b-4 | ecclesia-20-b / n11 | Aristotle NE I.8, X.6–7, VI.13 | open | no Latin Aristotle on disk; standard doctrine |
+| E20b-5 | ecclesia-20-b / n14 | Augustine on riches as praises (Ps. 112) | verified | PL 38 Sermo 37 |
+| E20b-6 | ecclesia-20-b / n15 | Augustine on night as the time of persecution | verified | PL 38 Sermo 37 (noctes = tribulationes) |
+| E20b-7 | ecclesia-20-b / n19 | Augustine, *Non timeat … condicionem* | verified | PL 38 Sermo 37 (nec timeat conditionem) |

@@ -1,4 +1,5 @@
-{"t": "iudiciis", "leaf": 506, "row": 0, "para": true, "head": false, "pos": 0}
+{"t": "et", "leaf": 506, "row": 0, "para": true, "head": false, "pos": 0}
+{"t": "iudiciis", "leaf": 506, "row": 0, "para": false, "head": false, "pos": 0}
 {"t": "prime", "leaf": 506, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "iusticie.", "leaf": 506, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "Si", "leaf": 506, "row": 0, "para": false, "head": false, "pos": 3}
@@ -127,7 +128,6 @@
 {"t": "vel", "leaf": 506, "row": 17, "para": false, "head": false, "pos": 126}
 {"t": "perpetuo", "leaf": 506, "row": 17, "para": false, "head": false, "pos": 127}
 {"t": "precavendum.", "leaf": 506, "row": 17, "para": false, "head": false, "pos": 128}
-{"t": "Y", "leaf": 506, "row": 18, "para": false, "head": false, "pos": 129}
 {"t": "Et", "leaf": 506, "row": 18, "para": false, "head": false, "pos": 130}
 {"t": "ex", "leaf": 506, "row": 18, "para": false, "head": false, "pos": 131}
 {"t": "istis", "leaf": 506, "row": 18, "para": false, "head": false, "pos": 132}

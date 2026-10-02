@@ -3,6 +3,26 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 41 (19-h, 20-a, 20-b) DONE: chapter 19 translated
+- Opus 203K (opened 10 plates, mostly to read italics); Sonnet plates + sources 163K. Prompt =
+  `_briefs/OPUS-PROMPT.md`. **Lost word:** *et* at the head of p. 469 (*et iudiciis*); the English bracket and T
+  note were removed. 11 tokenfixes: alinea Y (469), *111°*, folio mark 193° (471), doubled *iugium* (472
+  *con-|iugium*), *tortem*, *Johannis 1°*, *congerunter*, *ducta*→*docta*, 471.14 *roret*→*foret* (the English
+  was recast: "the fruit … would be the knowledge"), 478.18 *suarum,*→*suarum.*
+- Print confirmed: *perpetuo*, *sponso ecclesie*, *a dextra sensibile* (B *ad extra*, not adopted), *prudenciam
+  regulari*, *nemo debet*. 19-h note: Bohemian gloss *czynye*.
+- ⚠ Not applied (structure left, as at 457): the established text breaks ¶ at 476.14/15 (*fertiliter / dotata*),
+  but the print does not. Alinea-letter paragraphing is inconsistent (breaks at B/F/H, none at Y/D/E/G): a
+  convention question for Wilson, flagged only. Apparatus items the notes don't carry: 475.19, 479.8 (codd. CXXII),
+  479.22, 480.1, 480.29. Optional.
+- Sources: Ep. 153 c. 6 (Macedonius); In Ioh. tr. 11; Sermo 37 (PL 38) covers all of Loserth's Prov. 31 citations
+  plus night = tribulation and *nec timeat conditionem*; *rationes seminales* (De Gen. ad litt. VI) and
+  *exemplares* (q. 46). Open: E20a-1, E20b-4 (Aristotle; no Latin text on disk).
+- GLOSSARY: *habilis/habilitas*, *perplexitas*, *raciones exemplares/seminales*, *affidacio* "affiance",
+  *institor* "merchant".
+- **Next:** brief 42 = 20-c, 20-d, 20-e. Built: `chunks/ecclesia/_briefs/ecclesia-20-c-20-e.md`. 10 briefs left
+  (129/159 done). Still awaiting Wilson's ruling on 458.23 "[not]" (brief 40).
+
 ## Status 2026-10-02 — brief 40 (19-e, 19-f, 19-g) DONE
 - Opus 171K (no plates opened); Sonnet plates + sources 148K. **The Opus prompt is now saved:**
   `chunks/ecclesia/_briefs/OPUS-PROMPT.md` (swap in the brief name and E-id prefixes). No lost words. 12 tokenfixes:
