@@ -293,7 +293,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E07b-2 | ecclesia-07-b / n7 | he who can amend and neglects shares the crime = Gratian D.86 c.3 (John VIII) | verified | PL 187:406 |
 | E07b-3 | ecclesia-07-b / n8 | *alias ostensum est* (monastery privilege = corruption) | untraced | earlier Wyclif |
 | E07c-1 | ecclesia-07-c / n1 | Augustine, *Ep.* 153.20: *non remittetur peccatum nisi restituatur ablatum* | verified | PL 33:662; Wyclif *dimittitur* |
-| E07c-2 | ecclesia-07-c / n4 | *Frustra invocat legis auxilium qui offendit in eam* | to-verify | civil law maxim |
+| E07c-2 | ecclesia-07-c / n4 | *Frustra invocat legis auxilium* (the canonists' maxim) | verified | *X* 3.49.10 etc. (Friedberg II); wording Wyclif's |
 | E07c-3 | ecclesia-07-c / n5 | Augustine: the adversary = God's word/law: *Sermo* 9.3; *Sermo* 251.8 | verified | PL 38:76; PL 38:1171 (column less certain) |
 | E07c-4 | ecclesia-07-c / n7 | disobeying princes "a kind of sacrilege" | to-verify | nearest Gratian C.17 q.4, PL 187:1071A–B; try *Cod.* 9.29 |
 | E07c-5 | ecclesia-07-c / n10 | Gregory: whoever loves the king loves his law | untraced | |
@@ -391,3 +391,22 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E10c-5 | ecclesia-10-c / n13 | *libri sexti* = book 6 of Wyclif's *Summa*? | to-verify | |
 | E10c-6 | ecclesia-10-c / n15, n17 | Gregory, *Moralia* XXI.4.8 | verified | PL 76 (col. not read) |
 | E10c-7 | ecclesia-10-c / n8 | *ut alias dixi* | untraced | |
+| E10d-1 | ecclesia-10-d / n3 | cardinals robbed in Durham: Walsingham I, 151 | editor | not local |
+| E10d-2 | ecclesia-10-d / n3 | the 1317 attack on the two legates | to-verify | not local |
+| E10d-3 | ecclesia-10-d / n5 | *libro III° cap°.* (number missing) | untraced | |
+| E10d-4 | ecclesia-10-d / n8 | the coronation-oath clause on doing justice | to-verify | not local |
+| E10d-5 | ecclesia-10-d / n12 | Wyclif's thesis condemned by Gregory XI (1377) | to-verify | |
+| E10e-1 | ecclesia-10-e / n4, n7 | the writ for taking an excommunicate after 40 days | to-verify | cf. E07d-4 |
+| E10e-2 | ecclesia-10-e / n10 | second conclusion of ch. 8 = p. 173 | editor | Loserth |
+| E10e-3 | ecclesia-10-e / n10 | ch. 7 on cities of refuge = p. 147 | editor | Loserth |
+| E10e-4 | ecclesia-10-e / n12 | *Inter alia* = *X* 3.49.6 | verified | Friedberg II ~656 (E07a-4) |
+| E10e-5 | ecclesia-10-e / n13 | *De homicidio* = *X* 5.12.1 (Exod. 21:14) | verified | Friedberg II ~791 |
+| E10f-1 | ecclesia-10-f / n1 | fifth case = *X* 3.49.10 | verified | Friedberg II ~658 (E07a-4) |
+| E10f-2 | ecclesia-10-f / n1, n7 | *frustra legis auxilium invocet qui committit in legem* | verified | *X* 3.49.10 (Friedberg II, 658); also *X* 1.6.23, 5.19.14, 5.39.45 |
+| E10f-3 | ecclesia-10-f / n2 | C.17 q.4 c.9 *Reum ad ecclesiam fugientem* | verified | Friedberg I ~818 |
+| E10f-4 | ecclesia-10-f / n2, n5 | the gloss on *X* 3.49.10 | editor | not local |
+| E10f-5 | ecclesia-10-f / n2 | Huguccio (Savigny V, 425) | editor | not local |
+| E10f-6 | ecclesia-10-f / n5 | D.38 c.10 *Qui ea* (Gregory, *Moralia*) | verified | Friedberg I, 144 |
+| E10f-7 | ecclesia-10-f / n6 | *collacio tercia* of the *Authenticum*: which novel | to-verify | not local |
+| E10f-8 | ecclesia-10-f / n6 | C.23 q.4 = p. 201 | editor | Loserth |
+| E10f-9 | ecclesia-10-f / n9 | *privilegium … amittere qui permissa abutitur potestate* | verified | C.11 q.3 c.63, PL 187:862 (E07d-5) |

@@ -3,6 +3,12 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 19 (10-d, 10-e, 10-f) DONE: chapter 10 translated
+- Opus 157K; Sonnet sources 86K: C.17 q.4 c.9, D.38 c.10, *X* 5.12.1, and the maxim *frustra legis auxilium* =
+  *X* 3.49.10 (closes E07c-2 too). Plate: *sedacionem* print. 7 tokenfixes.
+- GLOSSARY: *sentencia* CONTEXTUAL (teaching / judicial sentence, C note); *limitare* "limit" where it restricts.
+- **Next:** brief 20 = 11-a, 11-b … .
+
 ## Status 2026-10-02 — brief 18 (10-a, 10-b, 10-c) DONE
 - Opus 185K; Sonnet plates + sources 110K. *Excommunicatorum* = C.23 q.5 c.47; *De serm. Dom.* II.8.28 (Wyclif "c. 10").
   Plates: *apostoliter*, *caritatem ignoscere* print; *a terrenis* (OCR *o*) fixed. 9 tokenfixes.

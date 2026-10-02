@@ -49,7 +49,7 @@ From these things it is gathered, the truth of the information being supposed, t
 
 [^3]: **T/C/S.** *Docto*: ablative absolute, "it having been shown". *Singulariter*: singly, as a particular grant. D *ecclesie privilegiate* (149.20–21). *Pulsare*: urge.  Matt. 10:36, DR "a man's enemies shall be they of his own household", alluded; Wyclif's paraphrase translated.
 
-[^4]: **T/C/G.** A margin *Tercia responsio* (149.24). *Tercio principaliter*: the third principal argument (the first two, 07-a). *Frustra invocat legis auxilium …*: a legal maxim, its source to be checked (LEDGER E07c-2). *Sed dicti fugitivi*: the minor premiss. *Legis suffragio*: "the aid of law", as in GLOSSARY *suffragium sensus*; not the church's suffrages.
+[^4]: **T/C/G.** A margin *Tercia responsio* (149.24). *Tercio principaliter*: the third principal argument (the first two, 07-a). *Frustra invocat legis auxilium …*: the canonists' maxim, in Friedberg *frustra legis auxilium invocet qui committit in legem* (*X* 3.49.10, II, 658; also *X* 1.6.23, 5.19.14, 5.39.45); Wyclif's *offendit in eam* is his own wording (LEDGER E07c-2). *Sed dicti fugitivi*: the minor premiss. *Legis suffragio*: "the aid of law", as in GLOSSARY *suffragium sensus*; not the church's suffrages.
 
 [^5]: **S/R.** Matt. 5:25 as DR; Wyclif has *adversarius tuus tradat te* for the Vulgate's *tradat te adversarius*, hence "thy adversary". A margins *Augustinus* (150.2) and *Lex Dei est noster adversarius*. Loserth (150.2) refers to Augustine, Sermo 9 (*De decem chordis*) c. 3 (Opp. V, 49), PL 38:76 (*Sermo Dei adversarius tuus est*), and *Sermo* 251.8, PL 38:1171 (*Sermo Legis*) (LEDGER E07c-3). B *detradendum* (150.5). *Hic in via*: here in this life (GLOSSARY *via / patria*).
 
