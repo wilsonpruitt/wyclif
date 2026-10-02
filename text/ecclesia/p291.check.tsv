@@ -9,6 +9,7 @@ pos	rule	forms	support	voters	resolution
 112	R3a	latinworks10wycl=eorum | iohanniswyclift00mattgoog=eorum | iohanniswycliftr00wycluoft=eorum | iohanniswycliftr04wycl=eorum | tractatusdeeccl00wycl=corum | tractatusdeeccle00wycl=eorum		6	accept
 158	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=cnim | iohanniswycliftr00wycluoft=enira | iohanniswycliftr04wycl=enira | tractatusdeeccl00wycl=enim | tractatusdeeccle00wycl=enim		6	accept
 161	R2	latinworks10wycl=uermem | iohanniswyclift00mattgoog=uermem | iohanniswycliftr00wycluoft=uerraera | iohanniswycliftr04wycl=uermeni | tractatusdeeccl00wycl=ucrmem | tractatusdeeccle00wycl=uermem		6	accept
+164	GLUE2	qui.consumeret		4	keep consumeret
 172	R2	latinworks10wycl=eorum | iohanniswyclift00mattgoog=eorum | iohanniswycliftr00wycluoft=eorura | iohanniswycliftr04wycl=eorum | tractatusdeeccl00wycl=eorum | tractatusdeeccle00wycl=eorum		6	accept
 193	R3a	latinworks10wycl=xiu | iohanniswycliftr00wycluoft=xiu | iohanniswycliftr04wycl=xiu | tractatusdeeccl00wycl=iy | tractatusdeeccle00wycl=xiu		5	accept
 195	R2	latinworks10wycl=autem | iohanniswyclift00mattgoog=autem | iohanniswycliftr00wycluoft=autera | iohanniswycliftr04wycl=autem | tractatusdeeccl00wycl=autem | tractatusdeeccle00wycl=autem		6	accept

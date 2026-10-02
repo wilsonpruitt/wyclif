@@ -523,3 +523,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E14a-5 | ecclesia-14-a / n11 | D.8 c.1 *Quo iure* = Aug. *Tract. in Ioh.* 6.25 | verified | Loserth 301.16 |
 | E14a-6 | ecclesia-14-a / n11 | *reticeamus* (print) vs *recitemus* | verified | Friedberg and PL 35 read *recitemus* |
 | E14a-7 | ecclesia-14-a / n12 | D.96 c.14 *Constantinus* | editor | Loserth 301.28 |
+| E14b-1 | ecclesia-14-b / n3 | *dominus Ardmacanus* = FitzRalph, *De pauperie Salvatoris* | to-verify | |
+| E14b-2 | ecclesia-14-b / n4 | Aug. *De doctr. christ.* IV: necessary things said more plainly | untraced | not in IV; cf. II.9.14, III.26.37 |
+| E14b-3 | ecclesia-14-b / n7 | Gregory, *Moralia* XXIII.1.2 (print XXXIII) | verified | |
+| E14b-4 | ecclesia-14-b / n15 | Aug. Ep. 153.6.20 *non remittitur peccatum nisi restituatur ablatum* | verified | Loserth 304 foot |
+| E14b-5 | ecclesia-14-b / n16 | *materia De Privilegiis* = *De eccl.* chs. 8–9 | to-verify | |
+| E14b-6 | ecclesia-14-b / n17 | second Macedonius quotation, Ep. 153.21 | verified | |
+| E14b-7 | ecclesia-14-b / n18 | Westminster sanctuary affair, Aug. 1378 | to-verify | |
+| E14c-1 | ecclesia-14-c / n8 | *ut dixi proximo capitulo* = p. 296 ff. | editor | Loserth 308.8 |
+| E14c-2 | ecclesia-14-c / n17 | the antipope = Robert of Geneva (Clement VII) | editor | Loserth 309.26 |
+| E14d-1 | ecclesia-14-d / n2 | Aug. Ep. 153 quoting Prov. 17:6 LXX | verified | 153.26, PL 33.665; letter per Loserth 311.4 |
+| E14d-2 | ecclesia-14-d / n2 | *Romanorum VIII* = 8:32 | to-verify | |
+| E14d-3 | ecclesia-14-d / n5 | *in fine proximi capituli* = p. 297 | editor | Loserth 311.18 |
+| E14d-4 | ecclesia-14-d / n12 | C.12 q.1 c.5 *Clericus* | verified | Loserth 313.17 |
+| E14d-5 | ecclesia-14-d / n16 | Bernard, *De consid.* IV.3.7, two swords | verified | PL 182.776 |
+| E14d-6 | ecclesia-14-d / n16 | *iura canonica*: *Unam sanctam*, Extrav. comm. 1.8.1 | to-verify | |
+| E14d-7 | ecclesia-14-d / n19 | Aug. *In Ioh.* tr. 5, power of baptism | verified | 5.7, 9, 11; Loserth 314.18 |
+| E14d-8 | ecclesia-14-d / n19 | Wyclif's *Omelia VIª* | untraced | |

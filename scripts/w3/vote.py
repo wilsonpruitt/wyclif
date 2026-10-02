@@ -562,6 +562,29 @@ def run(slug, first=None, last=None):
                         key, xs = g, [dict(xs[0], n=g, t=g)]
                 gap_forms[key].append((wid, xs))
             nvot = 1 + len(per_wit)
+            # the scans agree a word is there but each garbles it differently, so no exact form has a
+            # majority (De ecclesia 291.25: pivot 'qui.consumeret', others consumcret/consuraeret/consumcrct):
+            # cluster single-word insertions by similarity; a majority cluster yields its real-word form
+            weak = [(w, xs[0]) for f, sup in gap_forms.items() if len(sup) < 2 for w, xs in sup if len(xs) == 1]
+            if len(weak) * 2 > nvot:
+                best = max(([y for y in weak if difflib.SequenceMatcher(None, c['n'], y[1]['n']).ratio() >= 0.75]
+                            for _, c in weak), key=len)
+                if len(best) * 2 > nvot:
+                    reals = Counter(x['n'] for _, x in best if lex.real(x['n']))
+                    if reals:
+                        n0 = reals.most_common(1)[0][0]
+                        x0 = next(x for _, x in best if x['n'] == n0)
+                        out_tokens.append(dict(t=x0['t'], n=n0, it=x0.get('it', False), ins=True))
+                        checks.append((k, 'INS~', ' | '.join(x['t'] for _, x in best), len(best), nvot, 'accept ' + n0))
+                        stats['INS~'] += 1
+                    else:
+                        form = ' | '.join(x['t'] for _, x in best)
+                        checks.append((k, 'INS~', form, len(best), nvot, 'plate'))
+                        queue.append((pg, k, 'INS~', form, t['leaf'], t['box']))
+                        stats['INS~?'] += 1
+                    used = {w for w, _ in best}
+                    for f in [f for f, s in gap_forms.items() if len(s) < 2 and s[0][0] in used]:
+                        del gap_forms[f]
             for form, sup in gap_forms.items():
                 if len(sup) * 2 > nvot:
                     rep = next((x for w, x in sup if w == 'fordham'), sup[0][1])
@@ -647,6 +670,17 @@ def run(slug, first=None, last=None):
             rawf = re.sub(r'(?<=[a-z])([,;:])(?=[a-z])', r'\1 ', rawf)
             out_tokens.append(dict(t=rawf, n=win, it=bool(ital), para=t.get('para'), hl=t['hl'],
                                    pending=plate, leaf=t['leaf'], line=t['line'], pos=k))
+            # the pivot glued two words with punctuation ('qui.consumeret', 291.25) and the scans, which split
+            # them, out-vote it with the first word alone: the second word was lost. Keep it.
+            mg = re.fullmatch(r'([(\[]*[A-Za-z]+)[.,;:]([A-Za-z]{3,}[.,;:?!)\]]*)', t['t'])
+            if (mg and rule != 'PLATE' and win == norm(mg.group(1)) and win != t['n']
+                    and (lex.real(norm(mg.group(2))) or any(lex.d.lookup(v) for v in lex.variants(norm(mg.group(2))) if v))
+                    and not (k + 1 < len(page) and page[k + 1]['n'] == norm(mg.group(2)))
+                    and sum(1 for _, ins_ in per_wit.values() if ins_.get(k + 1) and ins_[k + 1][0]['n'] == norm(mg.group(2))) * 2
+                        <= len(forms)):       # else the INS vote at k+1 carries it
+                out_tokens.append(dict(t=mg.group(2), n=norm(mg.group(2)), ins=True, leaf=t['leaf'], line=t['line'], pos=k))
+                checks.append((k, 'GLUE2', t['t'], '', len(forms), 'keep ' + mg.group(2)))
+                stats['GLUE2'] += 1
         # the pivot's lost last lines, carried by the other scans: taken, and always read on the plate
         tv = tail_vote(tails, len(per_wit), lex)
         if tv:

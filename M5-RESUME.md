@@ -3,6 +3,19 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 26 (14-b, 14-c, 14-d) DONE
+- Opus 157K; Sonnet plates + sources 151K. First brief built with the standing rules in brief.py: note format
+  came back clean. No lost words on 302–315 (every line-end hyphen and page edge checked); the suspected gaps
+  (309.8–17, 314.24–27) and the doubled *Augustinus recitat super Joh.* (314.16–18) are the print.
+- **vote.py GLUE2 rule:** *consumeret* (291.25) was lost because the pivot glued *qui.consumeret* and the
+  scans, which split it, out-voted it with *qui* alone. The rule keeps the glued second word; run over the
+  whole volume it fires once (291.25), so the mechanism was a one-off. Its tokenfix row is retired.
+- Ruling 2 applied: 302.27 punctuation and 304.19 *mala oblata* stand in the Latin; notes give the sense.
+- Verified: Aug. Ep. 153.20, .21, .26; Gregory *Mor.* XXIII.1.2 (Wyclif XXXIII); C.12 q.1 c.5; Bernard
+  *De consid.* IV.3.7; Aug. *In Ioh.* 5.7–11. *De doctr. christ.* IV untraced. 22 tokenfixes.
+  GLOSSARY: *nolicio*, *dispensator*, *clericatus*, *in capite*.
+- **Next:** brief 27 = 14-e, 14-f, 14-g (14-h with 15-a after).
+
 ## Status 2026-10-02 — brief 25 (13-e, 13-f, 14-a) DONE: chapter 13 translated
 - Opus 149K; Sonnet plates + sources 136K. **Lost word again:** *consumeret* (291.25, hyphenated *con-|sumeret*
   across a line) — restored by tokenfix pair. Line-end hyphens are a third loss mechanism (after page heads and

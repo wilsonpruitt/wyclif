@@ -38,7 +38,7 @@
 {"t": "ipsum", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 36}
 {"t": "in", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 36}
 {"t": "premium", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 37}
-{"t": "sempiternum,", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 38}
+{"t": "sempiternum;", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 38}
 {"t": "tantum", "leaf": 345, "row": 5, "para": false, "head": false, "pos": 39}
 {"t": "autem", "leaf": 345, "row": 5, "para": false, "head": false, "pos": 40}
 {"t": "non", "leaf": 345, "row": 5, "para": false, "head": false, "pos": 41}
@@ -151,7 +151,6 @@
 {"t": "maioritas", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 148}
 {"t": "quoad", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 149}
 {"t": "Deum.", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 150}
-{"t": "be", "leaf": 345, "row": 21, "para": false, "head": false, "pos": 151}
 {"t": "Sic", "leaf": 345, "row": 21, "para": false, "head": false, "pos": 152}
 {"t": "ergo", "leaf": 345, "row": 21, "para": false, "head": false, "pos": 153}
 {"t": "non", "leaf": 345, "row": 21, "para": false, "head": false, "pos": 154}
@@ -175,7 +174,7 @@
 {"t": "omnes", "leaf": 345, "row": 23, "para": false, "head": false, "pos": 172}
 {"t": "debemus", "leaf": 345, "row": 23, "para": false, "head": false, "pos": 173}
 {"t": "vivere", "leaf": 345, "row": 23, "para": false, "head": false, "pos": 174}
-{"t": "expropnetane", "leaf": 345, "row": 24, "para": false, "head": false, "pos": 175}
+{"t": "exproprietarie", "leaf": 345, "row": 24, "para": false, "head": false, "pos": 175}
 {"t": "de", "leaf": 345, "row": 24, "para": false, "head": false, "pos": 176}
 {"t": "elemosinis", "leaf": 345, "row": 24, "para": false, "head": false, "pos": 177}
 {"t": "laicorum", "leaf": 345, "row": 24, "para": false, "head": false, "pos": 178}
@@ -219,7 +218,8 @@
 {"t": "vel", "leaf": 345, "row": 30, "para": false, "head": false, "pos": 216}
 {"t": "corporalis", "leaf": 345, "row": 30, "para": false, "head": false, "pos": 217}
 {"t": "domini", "leaf": 345, "row": 30, "para": false, "head": false, "pos": 218}
-{"t": "secundum-mensuram", "leaf": 345, "row": 30, "para": false, "head": false, "pos": 219}
+{"t": "secundum", "leaf": 345, "row": 30, "para": false, "head": false, "pos": 219}
+{"t": "mensuram", "leaf": 345, "row": 30, "para": false, "head": false, "pos": 219}
 {"t": "donacionis", "leaf": 345, "row": 31, "para": false, "head": false, "pos": 220}
 {"t": "Christi;", "leaf": 345, "row": 31, "para": false, "head": false, "pos": 221}
 {"t": "illi", "leaf": 345, "row": 31, "para": false, "head": false, "pos": 222}
