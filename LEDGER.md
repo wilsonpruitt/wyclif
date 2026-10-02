@@ -325,3 +325,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E08c-5 | ecclesia-08-c / n5 | *De civ. Dei* XIV.13 | verified | PL 41:422 |
 | E08c-6 | ecclesia-08-c / n13 | privilege = private law: Isidore, *Etym.* V.18 / D.3 c.3 | verified | as E07d-3 |
 | E08c-7 | ecclesia-08-c / n15 | *uti / frui* | verified | *De doctr. chr.* I.3–4, PL 34:20 |
+| E08d-1 | ecclesia-08-d / n11 | Ps.-Chrysostom, *Opus imperf.* hom. 35 (Montfaucon CLII E) | editor | not local |
+| E08d-2 | ecclesia-08-d / n11 | FitzRalph, *Defensio curatorum* (Goldast, *Monarchia* II.ii, 1403) | editor | not local |
+| E08d-3 | ecclesia-08-d / n12 | *honor fugientem se sequitur* | untraced | analogue *Vita Bernardi* III, PL 185:304A |
+| E08d-4 | ecclesia-08-d / n13 | *Desiderium primatus …* in the same homily | to-verify | not local |
+| E08d-5 | ecclesia-08-d / n17 | the doctors on twofold martyrdom (*affeccione / passione*) | untraced | |
+| E08e-1 | ecclesia-08-e / n2 | *Opus imperf.* hom. 35 (CLIII C) | editor | not local |
+| E08e-2 | ecclesia-08-e / n4 | Augustine, *De doctr. chr.* II.42.63 | verified | PL 34:65; *scripturam sacram* is Wyclif's |
+| E08e-3 | ecclesia-08-e / n4 | Augustine's "fourth letter to Volusianus" | untraced | not in *Ep.* 132, 135, 137 (PL 33) |
+| E08e-4 | ecclesia-08-e / n8, n14 | *Decretum* C.11 q.3 c.63 | verified | PL 187:862 (E07d-5) |
+| E08e-5 | ecclesia-08-e / n10 | "the case which lately befell" = Westminster | to-verify | context |
+| E08e-6 | ecclesia-08-e / n19 | *Sext* 5.12.3 *Exiit* | verified | Friedberg II; *perfectissimus* is Wyclif's |
+| E08e-7 | ecclesia-08-e / n21 | Gregory, *Moralia* XXXI.13 (Loserth "ch. 12" for ch. 3) | verified | PL 76:583D–585C (E03a-4) |
+| E08f-1 | ecclesia-08-f / n7 | *maliciam venenosam*: the "poison poured into the church" at the Donation | to-verify | |
+| E08f-2 | ecclesia-08-f / n16 | Gregory passage cited at pp. 52–54 = *Moralia* XXXI | verified | E03b-1 |
+| E08f-3 | ecclesia-08-f / n17 | *De vera rel.* 92 | verified | PL 34:163 |
+| E08f-4 | ecclesia-08-f / n18 | ch. 6, sixth argument = pp. 136–138 | editor | |
+| E08f-5 | ecclesia-08-f / n19 | *De vera rel.* 93 *perfecta iusticia* | verified | PL 34:163–64 |

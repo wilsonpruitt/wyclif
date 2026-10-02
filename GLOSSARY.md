@@ -154,7 +154,7 @@ otherwise.
 | heretica pravitas | heretical depravity | The heresy courts' formula; keep it recognisable. Ruled 2026-09-28 (*Dial.* 7.5, 7.8). |
 | plenitudo potestatis | plenitude of power | The canonists' term for papal power. Ruled 2026-10-01 (6 sites in *De ecclesia*; first 13.6). |
 | bigamia | bigamy | Canon-law sense: a second marriage (successive, or to a widow), a bar to orders; a **C** note at the first occurrence in each chunk says so. Ruled 2026-10-01 (3 sites; first *Eccl.* 11.6). |
-| habitudo | condition | A person's present state, set against predestination (Richard of St Victor). Ruled 2026-10-02 (*Eccl.* 72.24). |
+| habitudo | condition | A person's present state, set against predestination (Richard of St Victor). *Habitudo ad*: "condition toward", a relation (180). Ruled 2026-10-02 (*Eccl.* 72.24). |
 | humidum radicale / fluens | radical / flowing moisture | The physicians' terms. Ruled 2026-10-02 (75.19). |
 | de virtute sermonis | in the proper sense of the words | Wyclif's recurring formula for the literal force of an expression. Ruled 2026-10-02 (*Eccl.* 115.6, 115.8). |
 | distrahens | diminishing qualifier | The logicians' *determinacio distrahens*, which takes away from what it qualifies ("a dead man"). Ruled 2026-10-02 (*Eccl.* 128.3). |
@@ -162,6 +162,7 @@ otherwise.
 | ficticia | fiction | A feigned ground in an objection (*Nec valet ficticia*). Ruled 2026-10-02 (145.19). |
 | gracia preveniens / comitans / concomitans / consumans | prevenient / accompanying / concomitant / consummating grace | Ruled 2026-10-02 (06-g). |
 | allegare / allegacio | allege / allegation | To cite as an authority; implies nothing about truth (the period sense). Ruled 2026-10-02 (*Eccl.* 162–165; as earlier chunks). |
+| insolubilia | insolubles | The logicians' paradoxes of self-reference. Ruled 2026-10-02 (*Eccl.* 175.11). |
 
 ## C. Logic, disputation, metaphysics
 
@@ -228,7 +229,7 @@ otherwise.
 | evidencia | evidence | "Proof" only where it names a demonstration, with a note. Ruled 2026-09-28 (41 sites). |
 | repplicacio; repplicare | rejoinder; to rejoin · of a grant, renewal | Two senses by referent: the disputation move / the re-grant of a charter or privilege (*Dial.* 70.24). | A disputation term. Ruled 2026-09-28. |
 | concessio | grant | Of property or privilege. Ruled 2026-09-28 (5 sites). |
-| exproprietarii | the propertyless | The friars who profess to own nothing. Ruled 2026-09-28 (6 sites). |
+| exproprietarii / exproprietarie | the propertyless / without property | The friars who profess to own nothing. Ruled 2026-09-28 (6 sites); the adverb 2026-10-02 (*Eccl.* 169.6). |
 | reditus | revenue(s) | Ruled 2026-09-28 (23 sites). Exception: *Dial.* 18 (ch. 9 n5), *reditus* = the clergy's "return" (to wealth), on *revertatur* 15.9 / *redire* 15.21; the note gives "revenue" as the alternative. Ruled 2026-09-29 (coordinator, delegated, close-out). |
 | formido (*sine / cum formidine*) | misgiving | The scholastic "fear of the opposite" that qualifies assent; "fear" only where it is plainly the emotion. Ruled 2026-10-01 (19 sites in *De ecclesia*; first 5.24). |
 | capitas | headship | Non-classical abstract of *caput* (*officium capitatis*). Ruled 2026-10-01 (*Eccl.* 18.19; B *capitis*). |
@@ -262,6 +263,7 @@ otherwise.
 | ingratitudo | ingratitude | Toward a person. Ruled 2026-10-02 (156.8). |
 | indoles | promise | The natural promise of a thing (the midwives' argument, *Eccl.* 163.18, 164.1–12; Comestor reads *de dolo*). Ruled 2026-10-02. |
 | colorare | give colour to | The verb beside *color*. Ruled 2026-10-02 (163.2). |
+| minoritas | lesser standing | Beside *maioritas* "greatness". Ruled 2026-10-02 (172.22). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -279,7 +281,7 @@ otherwise.
 | ingratus | displeasing (to God) | *Ingratus deo*: unpleasing to God. "Ungrateful" only where a person is ungrateful to someone. Ruled 2026-09-28 (5 sites). |
 | perplexus | perplexed | The moral-theology sense: bound to sin whichever way one turns. Ruled 2026-09-28. |
 | cataracta | trapdoor | "Floodgate" in a C note where the Genesis image is live. Ruled 2026-09-28. |
-| globus | band | Derogatory collective (*globus reprobus*, *globos claustralium*). Ruled 2026-09-28 (coordinator, delegated) (2 sites). |
+| globus | band | Derogatory collective (*globus reprobus*, *globos claustralium*). Ruled 2026-09-28 (coordinator, delegated) (2 sites). Of things (*globus temporalium*): "mass", untagged with a note (2026-10-02). |
 | solvere (oaths, charters) | to dissolve | Not "pay" in this use. Ruled 2026-09-28 (coordinator, delegated). |
 | cohabitacio | joint dwelling | Ruled 2026-09-28 (coordinator, delegated). |
 | idiota | unlearned man | Not "idiot". Ruled 2026-09-28 (coordinator, delegated). |

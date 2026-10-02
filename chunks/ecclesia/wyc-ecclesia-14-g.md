@@ -43,7 +43,7 @@ status: draft
 
 ## ¶5 · 326.12–326.26
 
-> [p. 326] Nec moveat quod Gregorius XI fuerit in genere secularis dominii capitalis dominus regni nostri, ex hoc quod potuit catholicare omnes cartas religiosorum possessionatorum in Anglia, quo facto fuissent exempti aiurisdiccione regali. Item, potuit arrestare per bullas suas quemcunque hominem legium regis nostri eciam infra regnum nostrum, non petita licencia a rege, et tercio (quod maximum est) ipse potest hereticare quod domini temporales possunt auferre temporalia ab ecclesia delinquente, et per consequens catholicare eius oppositum. Ista, inquiunt quidam, fecit de facto satis legitime. Sed deliramenta sunt ista, quia sic rex Anglie teneret de utroque archiepiscopo in capite, non econtra; sicut enim papa se habet ad cesarem, sic archiepiscopus noster se habet ad regem quoad illud genus dominii.
+> [p. 326] Nec moveat quod Gregorius XI fuerit in genere secularis dominii capitalis dominus regni nostri, ex hoc quod potuit catholicare omnes cartas religiosorum possessionatorum in Anglia, quo facto fuissent exempti a iurisdiccione regali. Item, potuit arrestare per bullas suas quemcunque hominem legium regis nostri eciam infra regnum nostrum, non petita licencia a rege, et tercio (quod maximum est) ipse potest hereticare quod domini temporales possunt auferre temporalia ab ecclesia delinquente, et per consequens catholicare eius oppositum. Ista, inquiunt quidam, fecit de facto satis legitime. Sed deliramenta sunt ista, quia sic rex Anglie teneret de utroque archiepiscopo in capite, non econtra; sicut enim papa se habet ad cesarem, sic archiepiscopus noster se habet ad regem quoad illud genus dominii.
 
 [ENGLISH]
 

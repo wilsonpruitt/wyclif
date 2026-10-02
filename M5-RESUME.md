@@ -3,6 +3,15 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 15 (08-d, 08-e, 08-f) DONE: chapter 8 translated
+- Opus 175K; Sonnet sources 98K. Lower-case margin letters (a–f) glue onto words from ~p. 170: a rule would hit
+  genuine medieval forms (*Isaie*, *regalie*, *abbathie*), so 30 curated tokenfixes instead (incl. pp. 186–581, two
+  of them the preposition *a*: *a iurisdiccione*, *clericorum a laycis*).
+- Open crux: 182.4 *ciresorum* (print confirmed, apparatus silent): untranslated in brackets; conjectures
+  *cesareorum* / *cirographorum* in the note. Untraced: the "fourth letter to Volusianus"; *honor fugientem*.
+- GLOSSARY: *minoritas*, *insolubilia*, *exproprietarie*, *globus* (things) "mass", *habitudo ad*.
+- **Next:** brief 16 = 09-a … .
+
 ## Status 2026-10-02 — brief 14 (08-a, 08-b, 08-c) DONE
 - Opus 146K (told to keep OCR scars out of the chunks: no cleanup needed); Sonnet plates + sources 107K.
 - The midwives' lie verified throughout (Aug. *Enarr.* 5, *Contra mend.*, *Quaest. in Hept.*; Comestor *De dolo*;
