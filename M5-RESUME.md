@@ -3,6 +3,20 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 43 (21-a, 21-b, 21-c) DONE
+- **Wilson's rulings 2026-10-02:** 458.23 "[not]" KEPT (our emendation, T note). Paragraphing: "as we see fit"
+  — the established ¶ structure stays; print breaks missing from pNNN (493.28, 497.21, 499.27, 501.8) and the
+  spurious ones (457, 476.14, 498.7) are left; fix one only where it hurts the reading.
+- Opus 175K (no plates); Sonnet 170K. 13 tokenfixes: *rectiiicacione*, *huismodi*, *Marci 11°*, *conclus*,
+  *ludas*, *mitigac*, *larguit*, *io:*→*10:*, *2in*, *?odist.*; plate: 492 *faceret?*→*faceret,*, 494 *diei*→*die*
+  (apparatus numeral read as *i*), 495 *ppositum:*→*oppositum:*. Leaf n0538 (p. 501) is MISSING locally (checker
+  used archive.org latinworks10wycl n538).
+- Print confirmed: *qualitativam*, *meritum domini*, *ignorancia est percepta*, *obiectum quadruplicem*, *inferior*.
+- Sources: Ench. 110; C.13 q.2 c.23 *Tempus*; Loserth 496.1 = Thomas d.46 **q.2** (Wyclif: *prima*). Open: E21a-3/4
+  (William of Auxerre, Hostiensis), E21b-9 (Arius), E21b-10, E21b-14.
+- GLOSSARY: *signacio/significacio*, *dampnacio*, *taxacio*, *sophista*, *commentum*, *signaculum*, *laicatus*.
+- **Next:** brief 44 = 21-d, 21-e, 21-f (built). 8 briefs left (135/159).
+
 ## Status 2026-10-02 — brief 42 (20-c, 20-d, 20-e) DONE: chapter 20 translated
 - Opus 189K (no plates); Sonnet 166K. Wilson said "go for the rest": briefs 43–51 run straight through
   (local commits; still no push/deploy). No lost words. 8 tokenfixes: stray stops (*bene.*, *portis.*), stray

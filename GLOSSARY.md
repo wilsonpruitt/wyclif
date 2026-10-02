@@ -463,3 +463,10 @@ otherwise.
 | preconium | commendation | Ruled 2026-10-02 (*Eccl.* 20, 488.20). |
 | excrescencia | increase | Ruled 2026-10-02 (*Eccl.* 20, 485.28). |
 | beatitudo essencialis / accidentalis | essential / accidental blessedness | The scholastic pair; follows *beatitudo* "blessedness". Ruled 2026-10-02 (*Eccl.* 20, 490.15). |
+| signacio / significacio | signification | B treats them as one word (492.9–10, 493.1). Ruled 2026-10-02 (*Eccl.* 21, 491). |
+| dampnacio | damnation | Thomas's broad/strict senses turn on it; Douay "condemnation" kept in Luke 23:40. Ruled 2026-10-02 (*Eccl.* 21, 495.24). |
+| taxacio (pene) | assessment | Ruled 2026-10-02 (*Eccl.* 21, 498.8). |
+| sophista | sophist | Kept apart from *sophisma*. Ruled 2026-10-02 (*Eccl.* 21, 495.15). |
+| commentum (mendacii) | fabrication | Wyclif numbers the opponent's fabrications. Ruled 2026-10-02 (*Eccl.* 21, 498.31). |
+| signaculum | seal | Ruled 2026-10-02 (*Eccl.* 21, 500.21). |
+| laicatus | the lay state | Ruled 2026-10-02 (*Eccl.* 21, 502.7). |

@@ -12,6 +12,8 @@ Traps to watch (each one has bitten recent briefs):
 - Incipits and case: a capital after a comma may be a concession or a continuation rather than a new sentence. A word that is lower case in the print stays lower case.
 - Line-end and page-head/foot short-word losses (a, et, ex, nec, sua …): wherever a sentence does not construe at a line or page boundary, flag the page.line and the suspected lost word.
 - Loserth's enumerator numerals and ordinals: ª/º lost after roman numerals (I → Iª, 111° → IIIº), line numerals read as letters (5 → s), folio marks glued into words (e.g. 190ᶜ → "igoc"). List each one as a scar.
+- OCR f read as r or t (roret/foret, tortem/fortem): if a word construes better with f, list it as a scar.
+- Stray English words or margin letters (*the*, *N*, *Y*) and leftover brackets from folio marks: list as scars.
 - Before proposing any glossary row, grep /Users/wilsonpruitt/wyclif/GLOSSARY.md for the lemma. If a row already exists, follow it; the earlier frozen row wins. Propose only genuinely new terms.
 - Print italics mark where a quotation ends. Close the English quotation where the print's italics end, not where the sense seems to end.
 

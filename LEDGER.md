@@ -813,3 +813,28 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E20d-7 | ecclesia-20-d / n17 | Augustine, *Et modo … in paupertate vivimus* | verified | Sermo 37.25 |
 | E20d-8 | ecclesia-20-d / n19 | Augustine: daughters = foreknown heretics; *spine habent florem sine fructu* | verified | Sermo 37.27 |
 | E20d-9 | ecclesia-20-d / n21 | *cap. Multe* = Decretum C.1 q.1 c.38 | verified | Friedberg C.1 q.1 c.38 Multae; content does not fit (noted) |
+| E21a-1 | ecclesia-21-a / n2 | "how far is Lincoln?" / "a sack full of plums": proverbial non-answer | to-verify | no source given |
+| E21a-2 | ecclesia-21-a / n10 | Prepositivus = Praepositinus, chancellor of Paris 1207 ("of Cremona" ours) | editor | page foot 493.31 |
+| E21a-3 | ecclesia-21-a / n10 | Altissidorensis = William of Auxerre, *Summa aurea* | open | Loserth 493.31 foot: Franklin p. 51 only |
+| E21a-4 | ecclesia-21-a / n10 | Hostiensis "in Summa" = Henry of Segusio, *Summa aurea* | open | no Loserth foot |
+| E21a-5 | ecclesia-21-a / n10 | Bonaventure, *In IV Sent.* d. 46 | editor | page foot 494.16 |
+| E21a-6 | ecclesia-21-a / n11 | earlier "dogma": church privileges defended by lies | to-verify | internal cross-reference |
+| E21b-1 | ecclesia-21-b / n1 | Bonaventure, *In IV Sent.* d. 46 a. 1 q. 1 | editor | page foot 494.16 |
+| E21b-2 | ecclesia-21-b / n6 | Augustine, *Enchiridion* 110 (codd. CXII) | verified | PL 40 Ench. 110 (paraphrase via Bonaventure) |
+| E21b-3 | ecclesia-21-b / n6 | Bonaventure, ibid., p. 1019 | editor | page foot 495.21 |
+| E21b-4 | ecclesia-21-b / n6 | *in inferno nulla est redemptio* is liturgical | verified | PL: Remigius, Enarr. in Ps. |
+| E21b-5 | ecclesia-21-b / n7, n15 | Thomas, *In IV Sent.* d. 46 q. 2, p. 707 (Wyclif: *questione prima*) | verified | foot 496.1: d.46 q.2, p. 707; Wyclif says q.1 |
+| E21b-6 | ecclesia-21-b / n8 | Hostiensis, *Summa aurea* bk 5, *De penitentiis et remissionibus* | to-verify | Wyclif's citation |
+| E21b-7 | ecclesia-21-b / n8 | Decretum C.13 q.2 c.23 *Tempus* | verified | Friedberg C.13 q.2 c.23 Tempus |
+| E21b-8 | ecclesia-21-b / n8 | the Gloss: the pope dispenses against God | to-verify | not located |
+| E21b-9 | ecclesia-21-b / n9 | Augustine on Arius's punishment growing with his followers | open | not located in PL |
+| E21b-10 | ecclesia-21-b / n10 | *Impossibile est multorum preces non exaudiri* | open | nearest Ps.-Aug. Ad fratres in eremo |
+| E21b-11 | ecclesia-21-b / n11 | Bonaventure, ibid., p. 1021 | editor | page foot 497.8 |
+| E21b-12 | ecclesia-21-b / n12 | *Deus non bis punit in id ipsum* from Nahum 1:9 | verified | Cassiodorus Exp. Ps.; Gratian D.81 |
+| E21b-13 | ecclesia-21-b / n13, n14 | Bonaventure's second question, pp. 1021–1022 | editor | page foot 497.21–22, 498.6 |
+| E21b-14 | ecclesia-21-b / n15 | Thomas assigns the third opinion to William of Auxerre | open | no Loserth foot |
+| E21c-1 | ecclesia-21-c / n4 | *vicus scolarum* = Oxford's School Street | to-verify | from memory |
+| E21c-2 | ecclesia-21-c / n5 | *Qui valet ille potest …*: grammarians' memory verse | to-verify | not identified |
+| E21c-3 | ecclesia-21-c / n6, n7 | Bonaventure, *In IV Sent.* d. 24 p. 2 a. 1 q. 1 (Opp. IV 650) | editor | page foot 499.30, 500.6 |
+| E21c-4 | ecclesia-21-c / n6 | Wyclif's supposition defining the cleric, cap. 19, p. 441 | editor | page foot 499.27 |
+| E21c-5 | ecclesia-21-c / n12 | *magister … in litera* = Lombard, *Sent.* IV d. 24 | verified | PL 192 Sent. IV d.24 c.1, c.10 (substance only) |
