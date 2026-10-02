@@ -412,3 +412,10 @@ otherwise.
 | dotes (docium) beatorum | the dowries of the blessed | Ruled 2026-10-02 (*Eccl.* 17, 396.6). |
 | christianus in figura / in effectu / in fructu | Christian in figure / in effect / in fruit | Ruled 2026-10-02 (*Eccl.* 17, 397–398). |
 | Jesuani | Jesuans | Ruled 2026-10-02 (*Eccl.* 17, 400.11). |
+| diffinicio | definition | Beside *descripcio* (also "definition", frozen row governs): where the two stand together a C note gives the Latin. Ruled 2026-10-02 (*Eccl.* 17, 403.25). |
+| humidum naturale | natural moisture | Synonym of *humidum radicale* (row above); G note at use. Ruled 2026-10-02 (*Eccl.* 17, 410.2). |
+| color rethoricus | rhetorical colour | The figure of speech, distinct from *color* "plausible ground". Ruled 2026-10-02 (*Eccl.* 17, 405.3). |
+| argumentum ad hominem | argument to the man | Ruled 2026-10-02 (*Eccl.* 17, 405.13). |
+| habitus fidei | habit of faith | Ruled 2026-10-02 (*Eccl.* 17, 407–408). |
+| pars quantitativa | quantitative part | Ruled 2026-10-02 (*Eccl.* 17, 406–407). |
+| ecclesia nuncupativa | the church in name only | Ruled 2026-10-02 (*Eccl.* 17, 408.27). |

@@ -10,7 +10,6 @@
 {"t": "secundum", "leaf": 447, "row": 1, "para": false, "head": false, "pos": 9}
 {"t": "humidum", "leaf": 447, "row": 1, "para": false, "head": false, "pos": 10}
 {"t": "naturale.", "leaf": 447, "row": 1, "para": false, "head": false, "pos": 11}
-{"t": "two", "leaf": 447, "row": 1, "para": false, "head": false, "pos": null}
 {"t": "Istis", "leaf": 447, "row": 2, "para": true, "head": false, "pos": 12}
 {"t": "premissis", "leaf": 447, "row": 2, "para": false, "head": false, "pos": 13}
 {"t": "dicitur", "leaf": 447, "row": 2, "para": false, "head": false, "pos": 14}
@@ -75,7 +74,8 @@
 {"t": "quia", "leaf": 447, "row": 9, "para": false, "head": false, "pos": 73}
 {"t": "cum", "leaf": 447, "row": 10, "para": false, "head": false, "pos": 74}
 {"t": "illa", "leaf": 447, "row": 10, "para": false, "head": false, "pos": 75}
-{"t": "fidestat", "leaf": 447, "row": 10, "para": false, "head": false, "pos": 76}
+{"t": "fide", "leaf": 447, "row": 10, "para": false, "head": false, "pos": 76}
+{"t": "stat", "leaf": 447, "row": 10, "para": false, "head": false, "pos": 76}
 {"t": "hominem", "leaf": 447, "row": 10, "para": false, "head": false, "pos": 77}
 {"t": "dampnari", "leaf": 447, "row": 10, "para": false, "head": false, "pos": 78}
 {"t": "perpetuo;", "leaf": 447, "row": 10, "para": false, "head": false, "pos": 79}
@@ -99,7 +99,7 @@
 {"t": "ad", "leaf": 447, "row": 13, "para": false, "head": false, "pos": 97}
 {"t": "tempus", "leaf": 447, "row": 13, "para": false, "head": false, "pos": 98}
 {"t": "iniustus", "leaf": 447, "row": 13, "para": false, "head": false, "pos": 99}
-{"t": "tuent", "leaf": 447, "row": 13, "para": false, "head": false, "pos": 100}
+{"t": "fuerit", "leaf": 447, "row": 13, "para": false, "head": false, "pos": 100}
 {"t": "vel", "leaf": 447, "row": 13, "para": false, "head": false, "pos": 101}
 {"t": "eciam", "leaf": 447, "row": 14, "para": false, "head": false, "pos": 102}
 {"t": "infidelis.", "leaf": 447, "row": 14, "para": false, "head": false, "pos": 103}

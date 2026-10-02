@@ -3,6 +3,20 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 35 (17-e, 17-f, 17-g) DONE
+- Opus 159K; Sonnet plates + sources 145K. Wifi dropped mid-brief: the Opus report was saved to
+  `_briefs/ecclesia-17-e-17-g.REPORT.md` and committed before processing (do this whenever a session may die).
+- **Lost word:** *generalitatem* at a line-end hyphen, 411.29 (*ad generalitatem concilii*); "[the generality]"
+  and its T note dropped. 19 tokenfixes incl. *fuerit* (OCR *tuent*), *infusorum* (OCR *inlusorum*; the
+  *illisorum* note replaced), *O* (zero), *31:*, strays *act*/*2*/*two*, 412 *in* and *scripture,* (17-h, draft).
+- Print confirmed: 404.13 elliptical ("[is not]" kept), 412.2–4 parenthesis is Loserth's text (not B's gloss
+  intruded), *XIª*, *ex tibi dubio*, *cap° X*, *quoniam* (Augustine *quam*, emendation kept). 409.1/2 ¶ break is
+  spurious in the p-file (print runs on); left as structure, chunk ¶ boundary.
+- Sources: Ep. 196 §12 (*ministerium* for *mysterium*), Retract. 1.13.3 (Wyclif "XXII"), De Trin. 13.2.5,
+  Clem. 1.1.un. (doctrine is Clementine though Wyclif names *Firmiter*), De doctr. 3.32.45, D.15 c.2; Tract. 49.27
+  probable. Open: E17g-1 (Johannes Teutonicus gloss).
+- **Next:** brief 36 = 17-h, 18-a, 18-b. Built: `chunks/ecclesia/_briefs/ecclesia-17-h-18-b.md`.
+
 ## Status 2026-10-02 — brief 34 (17-b, 17-c, 17-d) DONE
 - Opus 151K; Sonnet plates + sources 159K. **Lost word:** *a* at line end 392.4 (*quia a domino allegatus*).
   13 tokenfixes: *illa*, *doctores et*, *Christi/Christus* (G→C), *sunt*, strays *the*/*to.*, *1:*, 394 *IV°, 1:*
@@ -15,9 +29,6 @@ at the end of the M3/M4 session.*
 - Sources verified: Enarr. Ps. 142.3 (paraphrase), Quaest. VNT q. 3, q. 47, De doctr. 3.32, Greg. Hom. 19,
   Tract. Ioh. 124.5, Isidore 7.2.2, 16.3.1, Jerome on Israel. Untraced: Chrysostom (E17b-2). Open: E17c-2, E17d-8/9.
 - **Next:** brief 35 = 17-e, 17-f, 17-g. Built: `chunks/ecclesia/_briefs/ecclesia-17-e-17-g.md`.
-  ▶ **Brief 35 TRANSLATED and committed (`4f59e8a`), NOT yet processed.** The Opus report is saved at
-  `chunks/ecclesia/_briefs/ecclesia-17-e-17-g.REPORT.md`. Resume at loop step 2 (tokenfixes, LEDGER, GLOSSARY
-  from that file), then step 3 (Sonnet check, pp. 402.25–412), step 4, then build brief 36 = 17-h, 18-a, 18-b.
 
 ## Status 2026-10-02 — brief 33 (16-g, 16-h, 17-a) DONE: chapter 16 translated
 - Opus 162K; Sonnet plates + sources 147K. **Lost words:** *quantum* at the head of p. 384 (English "how much of

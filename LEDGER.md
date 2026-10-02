@@ -672,3 +672,18 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E17d-7 | ecclesia-17-d / n12 | *Opus imperfectum* hom. 52 | editor | Loserth 401.22: p. CCXVIII |
 | E17d-8 | ecclesia-17-d / n12 | *Opus imperfectum* is not Chrysostom's | to-verify | from memory |
 | E17d-9 | ecclesia-17-d / n13 | Porphyry, *Isagoge*, on the senses of *genus* | to-verify | from memory |
+| E17e-1 | ecclesia-17-e / n2 | Ep. "XLII" = Aug. ad Asellicum (Opp. II 734) | editor | Loserth 402.33 |
+| E17e-2 | ecclesia-17-e / n2 | = Ep. 196 modern; wording | verified | PL 33, Ep. 196 §12; paraphrase |
+| E17e-3 | ecclesia-17-e / n7 | Retract. I (Opp. I 29); cf. Eccl. 113.14 | editor | Loserth 404 |
+| E17e-4 | ecclesia-17-e / n7 | = Retract. 1.13.3 | verified | PL 32 603 |
+| E17e-5 | ecclesia-17-e / n12 | De Trin. XIII (Opp. VIII 932, 929) | editor | Loserth 405.12, 405.22 |
+| E17e-6 | ecclesia-17-e / n12 | quotation = De Trin. 13.2.5 | verified | PL 42; loose quotation, Aug. *quam* |
+| E17f-1 | ecclesia-17-f / n9 | "Firmiter" = X 1.1.1, not Clementines | verified | Friedberg X 1.1.1 |
+| E17f-2 | ecclesia-17-f / n9 | faith infused in baptism = Clem. 1.1.un. *Fidei catholicae* | verified | Friedberg Clem. 1.1.un. |
+| E17f-3 | ecclesia-17-f / n10 | cf. De civ. dom. p. 288 | editor | Loserth 408.31 |
+| E17f-4 | ecclesia-17-f / n12 | Tyconius rule 2 = De doctr. 3.32.45 | verified | PL 34 |
+| E17f-5 | ecclesia-17-f / n13 | "Ephes. VI" = Eph 5:30–32 | editor | Loserth 409.18 |
+| E17f-6 | ecclesia-17-f / n18 | Aug. "super Johannis Omelia XLIX" (Tract. 45.12?) | probable | Tract. 49.27; not word for word |
+| E17g-1 | ecclesia-17-g / n3 | Joh. Teutonicus gloss, D.17 c. *Generalia*, general council | to-verify | Glossa ord. |
+| E17g-2 | ecclesia-17-g / n6 | "Dist. XV vel XVI. Omnibus non extat" | editor | Loserth 412.2 |
+| E17g-3 | ecclesia-17-g / n6 | four councils as four gospels = D.15 c.2 *Sicut sancti evangelii* | verified | Friedberg D.15 c.2 |
