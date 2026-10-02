@@ -3,6 +3,14 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 9 (05-c, 05-d, 05-e) DONE
+- Opus 166K; Sonnet plates + verifier 103K. archive.org still offline (Friedberg I owed).
+- tokenfix now takes TWO-token entries ("nec essitate" → necessitate) for a split whose first half recurs on the
+  page. Plates: *caritatis*, *discontinuacio* (OCR), *personaliter* (print). Bernard's eight unities verified
+  (*De consid.* V.8.18); *unitas principalis* = *Serm. de div.* 80. Drift 0 over 32 chunks.
+- GLOSSARY: *conclusio*, *terminus communis* "common term".
+- **Next:** brief 10 = 05-f, 06-a, … .
+
 ## Status 2026-10-02 (end) — brief 8 (04-f, 05-a, 05-b) DONE: chapter 4 translated
 - Opus 182K; Sonnet plates + verifier 132K. archive.org still offline: Gratian in Migne only (Friedberg I owed for
   D.21 c.3, C.23 q.4 cc.11/15/23). *Recurrat*'s *caro est caro est* is Augustine's *De baptismo* I.17.26.

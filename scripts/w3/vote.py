@@ -685,6 +685,12 @@ def run(slug, first=None, last=None):
                     len(re.findall(r'\b(?:the|of|was|and|from|to)\b', para)) >= 2):
                 for x in out_tokens[s_:e_]:
                     x['t'] = ''
+        # tokenfix entries naming TWO consecutive tokens ('nec essitate' -> necessitate), for a split word whose
+        # first half recurs on the page (2026-10-02)
+        for i in range(len(out_tokens) - 1):
+            pair = (pg, out_tokens[i]['t'] + ' ' + out_tokens[i + 1]['t'])
+            if pair in tokenfix:
+                out_tokens[i]['t'], out_tokens[i + 1]['t'] = tokenfix[pair], ''
         # write page
         lines, cur, cur_head = [], [], False
         prev_t = ''

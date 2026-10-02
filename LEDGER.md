@@ -219,3 +219,21 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E05b-2 | ecclesia-05-b / n3 | sequence *Rex Salomon* (Daniel, *Thes. hymnol.* V, 106); Adam of St Victor | editor | ascription to-verify |
 | E05b-3 | ecclesia-05-b / n10 | Grosseteste on Micah 7 | to-verify | not local |
 | E05b-4 | ecclesia-05-b / n11 | Bernard "above": *Super Cant.* 12 (*ubera … vino*), quoted in 03-g | verified (partial) | PL 183 (11258); no vine in Serm. 12–13 |
+| E05c-1 | ecclesia-05-c / n1 | Aristotle, *Cat.* 7: squaring the circle knowable, not yet known | to-verify | not local |
+| E05c-2 | ecclesia-05-c / n3 | "one of the 24 prophets" = *Liber XXIV philosophorum* prop. 2 | to-verify | not local |
+| E05c-3 | ecclesia-05-c / n5 | John of Howden (d. 1275); the verse's poem | editor | poem to-verify |
+| E05c-4 | ecclesia-05-c / n12 | Augustine, *De natura boni*: passage not extant there (lacuna in codd.) | editor | Loserth |
+| E05c-5 | ecclesia-05-c / n14 | *De doctr. chr.* III.32, Tyconius's second rule | verified | PL 34:82 (as V-08, E04b-2) |
+| E05c-6 | ecclesia-05-c / n16 | heat gathers like, separates unlike (*De gen. et corr.* II.2) | to-verify | not local |
+| E05c-7 | ecclesia-05-c / n17 | "cap. XLIII tercii libri" | untraced | work not identified |
+| E05c-8 | ecclesia-05-c / n18 | Gregory, *Moralia* IV.11 (codd. IX) | verified | PL 75:647B–C; Wyclif omits *isdem*, adds *inquit* |
+| E05d-1 | ecclesia-05-d / n2 | *Categories* 6, the common boundary | editor | Loserth 104.27 |
+| E05d-2 | ecclesia-05-d / n8 | *Physics* VII.1, mover and moved together | editor | Bekker 243 |
+| E05d-3 | ecclesia-05-d / n14 | Wis. 18:15 as in the introit *Dum medium silentium* | to-verify | missal |
+| E05d-4 | ecclesia-05-d / n15 | the inn "between two streets", the two animals | untraced | |
+| E05e-1 | ecclesia-05-e / n1 | *Eth. Nic.* II.7, 1107 | editor | |
+| E05e-2 | ecclesia-05-e / n4 | Bernard, *De consid.* V.8.18: the eight unities | verified | PL 182:799C–D, near verbatim |
+| E05e-3 | ecclesia-05-e / n6 | Bernard, *Serm. de div.* 80, *unitas principalis* | verified | PL 183:698D–699A |
+| E05e-4 | ecclesia-05-e / n12 | Augustine to Boniface: David and Peter = *Ep.* 185.45–46 | verified (partial) | PL 33:812–813; Loserth's XXXIII / Opp. II 263 unconfirmed |
+| E05e-5 | ecclesia-05-e / n12 | *De octo Dulcitii quaestionibus* q. 5: David | verified | PL 40:167–169 |
+| E05e-6 | ecclesia-05-e / n15 | Isidore, *Sent.* I.19 (codd. XVI) | verified | I.16.6, PL 83:572 (E04e-3): the MSS' XVI is right |
