@@ -3,6 +3,21 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 27 (14-e, 14-f, 14-g) DONE
+- Opus 158K; Sonnet plates + sources 146K. **Two more lost words:** *in* at the head of p. 317 and *sed non
+  assero.* at 318.3 (Henry's hedge on the Constantine poison story) — restored, English and n17 fixed. All other
+  flagged gaps (315.7–8, 318.22–24, 320.1, 325.9–10) are the print. 16 tokenfixes.
+- GLOSSARY clash fixed: *locus a simili* = "the topic from likeness" (frozen 09-28 row wins over my 10-02 row);
+  09-d, 14-f conformed. New rows: *ritus*, *civilitas*, *ydiota*, *catholicare/hereticare*.
+- Verified: *De doctr. christ.* II.42.63; Bernard *De consid.* II.6.10–11; Hugh *De sacr.* II.2.3/4/7; D.96 c.14.
+  The *venenum* legend is not in the PL.
+- **Page-head sweep (scratchpad heads.py; witnesses' word just before each page's first words):** candidate
+  lost words at the heads of pp. 21, 184, 341, 342, 393, 431 (*Ni88biVo7z* before *debui*), 497 (*pena*?).
+  Most are probably apparatus/running-head noise; read them on the plates with brief 28's check. Cause to
+  examine: vote.py `align_page` deletes insertions at gap 0 as window slack, so a pivot-lost page-head word
+  can never be voted in.
+- **Next:** brief 28 = 14-h, 15-a, 15-b.
+
 ## Status 2026-10-02 — brief 26 (14-b, 14-c, 14-d) DONE
 - Opus 157K; Sonnet plates + sources 151K. First brief built with the standing rules in brief.py: note format
   came back clean. No lost words on 302–315 (every line-end hyphen and page edge checked); the suspected gaps

@@ -540,3 +540,16 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E14d-6 | ecclesia-14-d / n16 | *iura canonica*: *Unam sanctam*, Extrav. comm. 1.8.1 | to-verify | |
 | E14d-7 | ecclesia-14-d / n19 | Aug. *In Ioh.* tr. 5, power of baptism | verified | 5.7, 9, 11; Loserth 314.18 |
 | E14d-8 | ecclesia-14-d / n19 | Wyclif's *Omelia VIª* | untraced | |
+| E14e-1 | ecclesia-14-e / n6 | Bernard, *De consid.* IV.3.7 | verified | = E14d-5 |
+| E14e-2 | ecclesia-14-e / n8 | Aug. *De doctr. christ.* 2.42.63 *si utile est, ibi invenitur* | verified | |
+| E14e-3 | ecclesia-14-e / n11 | Bernard, *De consid.* 2.6.10–11, apostles forbidden lordship | verified | |
+| E14e-4 | ecclesia-14-e / n16 | Henry of Ghent, *Quodl.* 6 q. 23 | to-verify | |
+| E14e-5 | ecclesia-14-e / n16 | the *venenum* voice at Constantine's donation | untraced | not in PL |
+| E14e-6 | ecclesia-14-e / n18 | Hugh of St Victor, *De sacr.* 2.2.3, 2.2.7 | verified | two powers = 2.2.4 |
+| E14f-1 | ecclesia-14-f / n9 | "Nicholas Putanensis" on Romans (A's margin) | untraced | |
+| E14f-2 | ecclesia-14-f / n15 | Aug. *In Ioh.* 6.25–26, *iure imperatoris* | verified | = E14a-5 |
+| E14f-3 | ecclesia-14-f / n16 | Aug. "Ep. 37" = Ep. 153.26 | verified | = E14d-1 |
+| E14g-1 | ecclesia-14-g / n1 | D.96 c.14 *Constantinus* | verified | |
+| E14g-2 | ecclesia-14-g / n6 | *XCVIª d.* at 323.27 = D.96 c.14 | to-verify | |
+| E14g-3 | ecclesia-14-g / n18 | the claims answer Gregory XI's bulls of 1377 | to-verify | |
+| E14g-4 | ecclesia-14-g / n19 | conclusion on lords taking from a delinquent church condemned 1377 | to-verify | |

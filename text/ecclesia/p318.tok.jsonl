@@ -12,7 +12,9 @@
 {"t": "sua", "leaf": 355, "row": 1, "para": false, "head": false, "pos": 11}
 {"t": "dotavit", "leaf": 355, "row": 1, "para": false, "head": false, "pos": 12}
 {"t": "ecclesiam,", "leaf": 355, "row": 1, "para": false, "head": false, "pos": 13}
-{"t": "sed", "leaf": 355, "row": 1, "para": false, "head": false, "pos": 14}
+{"t": "sed", "leaf": 355, "row": 1, "para": false, "head": false, "pos": 13}
+{"t": "non", "leaf": 355, "row": 1, "para": false, "head": false, "pos": 13}
+{"t": "assero.", "leaf": 355, "row": 1, "para": false, "head": false, "pos": 13}
 {"t": "Iste", "leaf": 355, "row": 2, "para": true, "head": false, "pos": 15}
 {"t": "autem", "leaf": 355, "row": 2, "para": false, "head": false, "pos": 16}
 {"t": "doctor", "leaf": 355, "row": 2, "para": false, "head": false, "pos": 17}

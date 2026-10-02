@@ -1,4 +1,4 @@
-{"t": "que?", "leaf": 360, "row": 0, "para": false, "head": false, "pos": 0}
+{"t": "que", "leaf": 360, "row": 0, "para": false, "head": false, "pos": 0}
 {"t": "sunt", "leaf": 360, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "cesaris", "leaf": 360, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "cesari", "leaf": 360, "row": 0, "para": false, "head": false, "pos": 3}
@@ -142,8 +142,8 @@
 {"t": "Christus", "leaf": 360, "row": 18, "para": false, "head": false, "pos": 141}
 {"t": "Matthei", "leaf": 360, "row": 18, "para": false, "head": false, "pos": 142}
 {"t": "XI°,", "leaf": 360, "row": 18, "para": false, "head": false, "pos": 143}
-{"t": "11", "leaf": 360, "row": 18, "para": false, "head": false, "pos": 144}
-{"t": "quod", "leaf": 360, "row": 19, "para": false, "head": false, "pos": 146}
+{"t": "11,", "leaf": 360, "row": 18, "para": false, "head": false, "pos": 144}
+{"t": "quod", "leaf": 360, "row": 18, "para": false, "head": false, "pos": 144}
 {"t": "inter", "leaf": 360, "row": 19, "para": false, "head": false, "pos": 147}
 {"t": "natos", "leaf": 360, "row": 19, "para": false, "head": false, "pos": 148}
 {"t": "mulierum", "leaf": 360, "row": 19, "para": false, "head": false, "pos": 149}
@@ -163,8 +163,8 @@
 {"t": "est", "leaf": 360, "row": 21, "para": false, "head": false, "pos": 163}
 {"t": "quoad", "leaf": 360, "row": 21, "para": false, "head": false, "pos": 164}
 {"t": "Deum", "leaf": 360, "row": 21, "para": false, "head": false, "pos": 165}
-{"t": "maior(", "leaf": 360, "row": 21, "para": false, "head": false, "pos": 166}
-{"t": "ut", "leaf": 360, "row": 22, "para": false, "head": false, "pos": 167}
+{"t": "maior", "leaf": 360, "row": 21, "para": false, "head": false, "pos": 166}
+{"t": "(ut", "leaf": 360, "row": 21, "para": false, "head": false, "pos": 166}
 {"t": "patet", "leaf": 360, "row": 22, "para": false, "head": false, "pos": 168}
 {"t": "Luce", "leaf": 360, "row": 22, "para": false, "head": false, "pos": 169}
 {"t": "XXII°,", "leaf": 360, "row": 22, "para": false, "head": false, "pos": 170}

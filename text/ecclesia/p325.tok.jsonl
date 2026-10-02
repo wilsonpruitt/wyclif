@@ -76,7 +76,6 @@
 {"t": "ecclesie", "leaf": 362, "row": 9, "para": false, "head": false, "pos": 75}
 {"t": "quoad", "leaf": 362, "row": 9, "para": false, "head": false, "pos": 76}
 {"t": "Deum.", "leaf": 362, "row": 9, "para": false, "head": false, "pos": 77}
-{"t": "V", "leaf": 362, "row": 10, "para": false, "head": false, "pos": 78}
 {"t": "Sed", "leaf": 362, "row": 10, "para": false, "head": false, "pos": 79}
 {"t": "ille", "leaf": 362, "row": 10, "para": false, "head": false, "pos": 80}
 {"t": "in", "leaf": 362, "row": 10, "para": false, "head": false, "pos": 81}
@@ -240,8 +239,8 @@
 {"t": "aliqua", "leaf": 362, "row": 31, "para": false, "head": false, "pos": 240}
 {"t": "dominacio", "leaf": 362, "row": 31, "para": false, "head": false, "pos": 241}
 {"t": "principis", "leaf": 362, "row": 31, "para": false, "head": false, "pos": 242}
-{"t": "secularis", "leaf": 362, "row": 32, "para": false, "head": false, "pos": 243}
-{"t": "Et", "leaf": 362, "row": 32, "para": false, "head": false, "pos": 244}
+{"t": "secularis.", "leaf": 362, "row": 32, "para": false, "head": false, "pos": 243}
+{"t": "Et", "leaf": 362, "row": 32, "para": false, "head": false, "pos": 243}
 {"t": "potest", "leaf": 362, "row": 32, "para": false, "head": false, "pos": 245}
 {"t": "hoc", "leaf": 362, "row": 32, "para": false, "head": false, "pos": 246}
 {"t": "confirmari,", "leaf": 362, "row": 32, "para": false, "head": false, "pos": 247}
