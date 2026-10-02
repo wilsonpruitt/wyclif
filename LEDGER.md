@@ -709,24 +709,24 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E18b-9 | ecclesia-18-b / n17 | Wyclif's own *De anima* | to-verify | |
 | E18b-10 | ecclesia-18-b / n18 | Anselm, *Ep. de incarn. Verbi* c. 7 | verified | PL 158, ch. 6 (Migne) |
 | E18b-11 | ecclesia-18-b / n18 | Bernard, *In vig. Nat. Dom.* serm. 3 | verified | PL 183, §8 |
-| E18c-1 | ecclesia-18-c / n1 | Aug. *De civ. Dei* 18.50 and 22.28 | to-verify | Loserth gives none |
+| E18c-1 | ecclesia-18-c / n1 | Aug. *De civ. Dei* 18.50 and 22.28 | verified | PL 41, 18.50; 22.28 does not fit |
 | E18c-2 | ecclesia-18-c / n3 | Aug. *Enchiridion* 64 | verified | PL 40 (brief 36, E18b-1) |
 | E18c-3 | ecclesia-18-c / n3 | Ambrosiaster, *Quaest. VNT* 47 | verified | PL 35 2247–8 (E17c-1) |
-| E18c-4 | ecclesia-18-c / n7 | Gregory, *Hom. in Ev.* 1.16.1 | editor | Loserth: Opp. I 1492 |
+| E18c-4 | ecclesia-18-c / n7 | Gregory, *Hom. in Ev.* 1.16.1 | verified | PL 76 |
 | E18c-5 | ecclesia-18-c / n11, n14 | Aug. *Tract. in Ioh.* 49.27 | verified | PL 35 (E18a-7) |
-| E18d-1 | ecclesia-18-d / n6 | Jerome, *In Osee* 2, on 9:14 | editor | Loserth corrects from it |
-| E18d-2 | ecclesia-18-d / n8 | Hugh, *De sacr.* 2.2.7 | to-verify | PL 176 |
-| E18d-3 | ecclesia-18-d / n9 | Jerome, *In Ioelem* on 1:5 | to-verify | |
+| E18d-1 | ecclesia-18-d / n6 | Jerome, *In Osee* 2, on 9:14 | verified | PL 25; Loserth corrections confirmed |
+| E18d-2 | ecclesia-18-d / n8 | Hugh, *De sacr.* 2.2.7 | verified | PL 176; paraphrase |
+| E18d-3 | ecclesia-18-d / n9 | Jerome, *In Ioelem* on 1:5 | verified | PL 25 |
 | E18d-4 | ecclesia-18-d / n10 | *Op. imperf.* hom. 31 | editor | Loserth p. CXXX |
-| E18d-5 | ecclesia-18-d / n11 | Aug. *Enarr. in Ps.* 30, II, s. 3 | editor | Loserth: Opp. IV.1 162 |
+| E18d-5 | ecclesia-18-d / n11 | Aug. *Enarr. in Ps.* 30, II, s. 3 | verified | PL 36 |
 | E18d-6 | ecclesia-18-d / n12 | Gregory, *Reg. past.* 1.2 | editor | |
 | E18d-7 | ecclesia-18-d / n12 | Gregory, *Hom. in Ev.* 1.17.14 | editor | Loserth 1503 |
 | E18d-8 | ecclesia-18-d / n12 | *Op. imperf.* hom. 18, rather 28 | editor | Loserth p. CXIX |
-| E18d-9 | ecclesia-18-d / n13 | *Op. imperf.* hom. 49 | to-verify | |
-| E18d-10 | ecclesia-18-d / n13 | C.11 q.3 c.86 | editor | modern form ours |
-| E18d-11 | ecclesia-18-d / n16 | Aug. *Tract. in Ioh.* 27 | editor | Loserth: Opp. III.2 505 |
-| E18e-1 | ecclesia-18-e / n1 | Aug. *Tract. in Ioh.* 27 (cont.) | editor | as E18d-11 |
+| E18d-9 | ecclesia-18-d / n13 | *Op. imperf.* hom. 49 | untraced | PG 56 not on disk; Friedberg gives hom. 25 |
+| E18d-10 | ecclesia-18-d / n13 | C.11 q.3 c.86 | verified | Friedberg I |
+| E18d-11 | ecclesia-18-d / n16 | Aug. *Tract. in Ioh.* 27 | verified | PL 35 |
+| E18e-1 | ecclesia-18-e / n1 | Aug. *Tract. in Ioh.* 27 (cont.) | verified | PL 35 |
 | E18e-2 | ecclesia-18-e / n3 | Gregory, *Hom. in Ev.* 1.18.5 | editor | |
-| E18e-3 | ecclesia-18-e / n6 | Aug. *De verbis Domini*, serm. 50 | editor | Loserth page unclear in OCR |
-| E18e-4 | ecclesia-18-e / n7 | Jerome, *In Osee* 1, on 2:19 | editor | Loserth: Migne VI 881 |
-| E18e-5 | ecclesia-18-e / n10 | "ut dicit Gregorius" = *Hom.* 1.16.1 | to-verify | our identification |
+| E18e-3 | ecclesia-18-e / n6 | Aug. *De verbis Domini*, serm. 50 | verified | PL 38, Sermo 138.9 |
+| E18e-4 | ecclesia-18-e / n7 | Jerome, *In Osee* 1, on 2:19 | verified | PL 25 |
+| E18e-5 | ecclesia-18-e / n10 | "ut dicit Gregorius" = *Hom.* 1.16.1 | verified | PL 76 |

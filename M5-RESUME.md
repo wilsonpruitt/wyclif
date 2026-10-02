@@ -3,6 +3,19 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 37 (18-c, 18-d, 18-e) DONE
+- Opus 161K; Sonnet plates + sources 191K. No lost words. 19 tokenfixes: *nonam* (OCR *novam*; side-note "g." = 9),
+  426 *II° II°* → *II°).* (doubling + lost bracket), *XXVII°*, *exproprietarie* (again), strays *that*/*not*,
+  roman *I°* for arabic 1 (428, 429), lost ª, punctuation (423, 432 ×2).
+- ⚠ **Loserth's small enumerator numerals** at line ends (430.11/15/18, 432.7–8, 433.8–11, 434.31–435.33) are
+  in the print but in no chunk; *nimisl* was one glued on. Not text; left out (decision: treat as apparatus).
+- Print confirmed: *ineque*, *VI°, 7:* (6 of 67 not printed), *doctole* (A₁ *doctorem*), *cognoscent*, doubled
+  *est* 432.4, *improprie*, *proprie vere et proprie*. GLOSSARY *fucus* = "disguise" (18-d conformed).
+- Sources: Civ. Dei 18.50 (22.28 doesn't fit), Hugh 2.2.7 (paraphrase), Jerome In Ioel. 1:5, In Osee 9:14, 2:19,
+  Greg. Hom. 16.1, C.11 q.3 c.86, Sermo 138.9 (= *De verbis Domini* 50; Loserth p. 675), Enarr. Ps. 30, Tract. 27.
+  Untraced: Op. imperf. hom. 49 (Friedberg says 25).
+- **Next:** brief 38 = 18-f, 18-g, 19-a. Built: `chunks/ecclesia/_briefs/ecclesia-18-f-19-a.md`.
+
 ## Status 2026-10-02 — brief 36 (17-h, 18-a, 18-b) DONE: chapter 17 translated
 - Opus 173K (opened plates itself for 5 spots and found 418.2 *et* lost); Sonnet plates + sources 185K.
   16 tokenfixes: *Sed*, *raciunculam*, *quinque*, *responsio*, *convocacio*, *in* (111), strays, margin numeral
