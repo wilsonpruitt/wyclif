@@ -15,7 +15,13 @@ at the end of the M3/M4 session.*
 - **Owed:** mid-line lost words (21 *illo*, 332 *II.*) are found only by a word-by-word plate comparison, which
   briefs before 26 did not get: chapters 1–13 likely hold some. Plan a lost-word pass (computation first:
   scratchpad lost.py prototype, untested) before the site build.
-- **Next:** brief 29 = 15-c, 15-d, 15-e.
+- **Next:** brief 29 = 15-c, 15-d, 15-e. Built: `chunks/ecclesia/_briefs/ecclesia-15-c-15-e.md`.
+- **Per-brief loop (a fresh session starts here):** (1) one Opus agent: "Read <brief> and follow it exactly …
+  pay attention to its Standing rules"; (2) process its report: scar tokens → tokenfix, LEDGER rows, GLOSSARY
+  rows (append at file end, §D), normalise anything off-format; (3) one Sonnet agent from
+  `chunks/ecclesia/_briefs/CHECK-TEMPLATE.md`; (4) apply, run the pipeline, commit (template's last section).
+  Then `brief.py ecclesia` for the next three chunks. Measured ~300K tokens per brief, both agents.
+- Sweep scripts now in the repo: `scripts/w3/heads.py` (page heads, noisy), `scripts/w3/lost.py` (prototype).
 
 ## Status 2026-10-02 — brief 27 (14-e, 14-f, 14-g) DONE
 - Opus 158K; Sonnet plates + sources 146K. **Two more lost words:** *in* at the head of p. 317 and *sed non
