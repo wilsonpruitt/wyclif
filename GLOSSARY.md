@@ -63,6 +63,9 @@ otherwise.
 | adolescentula | young maiden | Song 1:2, 6:7 (DR "young maidens"). Ruled 2026-10-02. |
 | prepositura | office of superior | The abstract beside *prepositi*. Ruled 2026-10-02 (95.3). |
 | filii imitacionis | sons of imitation | Children of Abraham by imitating him, not by flesh. Ruled 2026-10-02 (89.27, 90.7). |
+| regalia | regality | The king's royal right. Ruled 2026-10-02 (*Eccl.* 148.3, 151.12, 152.12). |
+| forisfacere | commit forfeiture | Ruled 2026-10-02 (152.13). |
+| ecclesia laycalis / secularis | the lay church / the secular church | Ruled 2026-10-02 (154.15, 156.3). |
 
 ## B. Lordship, law, office
 
@@ -198,7 +201,7 @@ otherwise.
 | sequitur | it follows | Introduces a stated inference, often quoted in the next words. Pilot (*Eccl.* 2.21). Not tagged where it is not an inference ("the third law follows", *Dial.* ch. 5). Ruled 2026-09-29 (coordinator, delegated, close-out). |
 | propositio copulativa / disiunctiva | conjunction / disjunction | Not "copulative proposition" (T. p. 365). |
 | claudit contradictionem / contradictorium | it implies a contradiction | Stronger than "is against reason". Keep the escalation visible. Pilot (*Eccl.* 5.4). |
-| instancia; objectum | objection | ⛔ Not "instance" (T. p. 373). |
+| instancia; objectum | objection | ⛔ Not "instance" (T. p. 373). Also "urgency" (*ad instanciam*, at someone's urging, *Eccl.* 154.16), with a **C** note (2026-10-02). |
 | tollere (instanciam, argumentum) | to dispose of, demolish | T. p. 373. |
 | redarguere | to refute | T. p. 365. |
 | proponere | to propose | Against *postponere* (put after), "put forward" may keep the pair visible, with a note (*Dial.* 74.25–26). |
@@ -253,6 +256,8 @@ otherwise.
 | capitari / capitatus | to be headed / headed | The verb beside *capitas*. Ruled 2026-10-02 (116.21, 117.2–3). |
 | tyriaca | theriac | The medieval antidote to poison; a recurring medical figure, with *apostema*. Ruled 2026-10-02 (130.21, 131.1). |
 | inobedienciarius | disobedient man | The negative of *obedienciarius*. Ruled 2026-10-02 (146.11). |
+| suffragium (*legis, privilegii*) | aid | As *suffragium* "aid" (01-a) and *suffragium sensus*. Ruled 2026-10-02 (149.29, 152.8). |
+| ingratitudo | ingratitude | Toward a person. Ruled 2026-10-02 (156.8). |
 
 ## D. False friends and ordinary words that mislead
 

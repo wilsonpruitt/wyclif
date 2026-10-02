@@ -3,6 +3,15 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 13 (07-b … 07-e) DONE: chapter 7 translated (MS D)
+- Opus 159K; Sonnet sources 89K. Verified: Aug. *Ep.* 153.20; *Serm.* 9.3, 251.8; *X* 3.40.10 (pollution);
+  Isidore *Etym.* V.18 = D.3 c.3; C.11 q.3 c.63; D.86 c.3. 07-d n5 had misread a hypothetical (spittle) — fixed;
+  the English was right.
+- Side-notes: "Jaw" → "law" (32.18, 146.1, 147.1) in sidenotes.fixed.tsv and the chunks. 10 tokenfixes (pairs for
+  line-divided words). GLOSSARY: *regalia*, *forisfacere*, *ecclesia laycalis*, *suffragium* (law) "aid",
+  *ingratitudo*; *instancia* also "urgency".
+- **Next:** brief 14 = 08-a … .
+
 ## Status 2026-10-02 — brief 12 (06-f, 06-g, 07-a) DONE: chapter 6 translated
 - Opus 166K; Sonnet sources 114K (Friedberg I + II now reachable; C.23 q.4 cc.11/15/23 re-checked there).
 - Printed misnumbered references (Eph. "V°, 27", "XXXIIIª") now given in modern form in the English, the printed

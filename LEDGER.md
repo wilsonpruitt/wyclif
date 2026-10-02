@@ -289,3 +289,18 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E07a-3 | ecclesia-07-a / n2 | *comes de Dene* = count of Denia | to-verify | |
 | E07a-4 | ecclesia-07-a / n10 | classes excluded from sanctuary | verified (partial) | *X* 3.49.6, 3.49.10, Friedberg II ~656–658; no source gives four |
 | E07a-5 | ecclesia-07-a / n13 | a person presumed good until the contrary is proved | to-verify | |
+| E07b-1 | ecclesia-07-b / n5 | a prince's general grant does not reach a special case | to-verify | civil/canon law |
+| E07b-2 | ecclesia-07-b / n7 | he who can amend and neglects shares the crime = Gratian D.86 c.3 (John VIII) | verified | PL 187:406 |
+| E07b-3 | ecclesia-07-b / n8 | *alias ostensum est* (monastery privilege = corruption) | untraced | earlier Wyclif |
+| E07c-1 | ecclesia-07-c / n1 | Augustine, *Ep.* 153.20: *non remittetur peccatum nisi restituatur ablatum* | verified | PL 33:662; Wyclif *dimittitur* |
+| E07c-2 | ecclesia-07-c / n4 | *Frustra invocat legis auxilium qui offendit in eam* | to-verify | civil law maxim |
+| E07c-3 | ecclesia-07-c / n5 | Augustine: the adversary = God's word/law: *Sermo* 9.3; *Sermo* 251.8 | verified | PL 38:76; PL 38:1171 (column less certain) |
+| E07c-4 | ecclesia-07-c / n7 | disobeying princes "a kind of sacrilege" | to-verify | nearest Gratian C.17 q.4, PL 187:1071A–B; try *Cod.* 9.29 |
+| E07c-5 | ecclesia-07-c / n10 | Gregory: whoever loves the king loves his law | untraced | |
+| E07d-1 | ecclesia-07-d / n1 | excommunications after the Westminster killing | to-verify | historical |
+| E07d-2 | ecclesia-07-d / n5 | blood or semen pollutes a church | verified | *X* 3.40.10, Friedberg II, 636; no canon on spittle |
+| E07d-3 | ecclesia-07-d / n10 | privilege = *lex privata* | verified | Isidore *Etym.* V.18.1, PL 82:202A–B; Gratian D.3 c.3, PL 187:34B |
+| E07d-4 | ecclesia-07-d / n14 | signification after 40 days; writ *de excommunicato capiendo* | to-verify | English law |
+| E07d-5 | ecclesia-07-d / n14 | *Privilegium omnino meretur amittere …* = C.11 q.3 c.63 (Gregory) | verified | PL 187:862 (also D.74, 364B) |
+| E07e-1 | ecclesia-07-e / n2 | adapts *optima legum interpres consuetudo* (*Dig.* 1.3.37) | to-verify | not local |
+| E07e-2 | ecclesia-07-e / n5 | A's Czech margin and Loserth's Latin rendering | editor | Loserth p. 157 |

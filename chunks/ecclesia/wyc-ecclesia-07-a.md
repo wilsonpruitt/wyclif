@@ -53,7 +53,7 @@ The fourth fiction, by which it is said that Solomon judged unlawfully in the ma
 - 145.1: 2. In this case there are the same grounds for action as in Joab's.
 - 145.10: 3. It is unsafe to wait until treason is completed.
 - 145.19: 4. Solomon's act is approved by Scripture.
-- 146.1: 2. The King's subjects should obey him in everything not contrary to God's Jaw.
+- 146.1: 2. The King's subjects should obey him in everything not contrary to God's law.
 
 ## Notes
 

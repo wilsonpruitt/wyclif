@@ -122,7 +122,7 @@ to his church only through him.[^17]
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
 - 32.9: God can give grace otherwise than through him.
-- 32.18: The Church is in greater freedom now than under the old Jaw, yet even then obedience to the chief priest was not needful to salvation.
+- 32.18: The Church is in greater freedom now than under the old law, yet even then obedience to the chief priest was not needful to salvation.
 - 33.1: Such subjection would bind men to do impossibilities.
 - 33.10: Christians are none the less such in the interval between two Popes.
 - 34.7: The influence of the Pope depends on how far he is pleasing to God.
