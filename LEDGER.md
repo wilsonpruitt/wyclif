@@ -168,3 +168,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E03e-3 | ecclesia-03-e / n12 | John Damascene, *De fide orth.* (Loserth 4.11): natural knowledge of God | editor | probably I.1/I.3; PG, not local |
 | E03e-4 | ecclesia-03-e / n13 | Augustine: *credere in* = believing by loving | verified | *In Ioh. tr.* 29.6, PL 35:1631 |
 | E03e-5 | ecclesia-03-e / n14 | Augustine, *In Ioh. tr.* 12.12, *Novit dominus …* | verified | PL 35 (7323.xml) |
+| E03f-1 | ecclesia-03-f / n1–3 | Augustine, *In Ioh. tr.* 5.7 (power of baptism: *potuit … et noluit*; Wyclif *non potuit*) and 6.4 (*oscula columbarum*) | verified | PL 35:1417; 35:1427 |
+| E03f-2 | ecclesia-03-f / n7 | *Quinto … ex dictis beati Augustini* | to-verify | unidentified |
+| E03g-1 | ecclesia-03-g / n1 | *Faustinus* = *tr.* 6.25; *Ep.* 187.37 for *unum corpus … unum caput* | verified | PL 35:1436; PL 33:846 |
+| E03g-2 | ecclesia-03-g / n2, n4 | Bernard, *Super Cant.* 12.11, 13.9 (*minime audet*) | verified | PL 183:832B–833D; 838D–839A |
+| E03g-3 | ecclesia-03-g / n8 | Guido de Baysio (the Archdeacon), *Rosarium* on D.44 | editor | not local |
+| E03g-4 | ecclesia-03-g / n8 | *Decretum* C.8 q.1 c.19 *Sunt in ecclesia* (form ours); "allegatum … in principio huius capituli" | editor | the earlier citation to-verify (03-a n3 cites C.8 q.1 c.19) |
+| E03g-5 | ecclesia-03-g / n9 | Augustine, *Civ. Dei* XIX.19, *nomen est operis, non honoris* | verified | PL 41:647 |
+| E03g-6 | ecclesia-03-g / n9 | *libro sexto, tractatu de heresi* | untraced | |
+| E04a-1 | ecclesia-04-a / n3 | Augustine, *Enchiridion* 29 | verified | PL 40:246 |
+| E04a-2 | ecclesia-04-a / n5 | Aquinas, *ST* III q.8 a.3 (Wyclif "conclusione octava") | editor | not local |
+| E04a-3 | ecclesia-04-a / n6–7 | *Opus imperfectum in Matth.*, hom. 46 as printed (MSS XXIX; Loserth hom. 45, Montfaucon VI, cxciii E) | editor | where the quotation ends: to-verify (PG 56; not local) |
+| E04a-4 | ecclesia-04-a / n8 | the two cities: Augustine, *Civ. Dei* XIV.28 (also I.35); Gregory untraced | verified | PL 41:436; 41:46 |
+| E04b-1 | ecclesia-04-b / n2, n5 | Richard of St Victor, *De pot. lig. et solv.* 19–20 | verified | PL 196:1172A–1173A; ends *concorporatus fuit* |
+| E04b-2 | ecclesia-04-b / n6 | Augustine, *De doctr. christ.* III.32.45, the *Ypocrite* sentence | verified | PL 34:82 |
+| E04b-3 | ecclesia-04-b / n7 | *Opus imperfectum*, hom. 9 (Montfaucon VI, lxi E) | editor | not local |
+| E04b-4 | ecclesia-04-b / n8–9 | *ut patet cap. X*; *ut dixi superius* | to-verify | John 10, or this book's ch. 10? |
+| E04b-5 | ecclesia-04-b / n14 | *de necessitate salutis* echoes *Unam sanctam* | verified | Friedberg II, 1245–46 (as E01e-1) |

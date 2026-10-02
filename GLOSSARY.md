@@ -144,6 +144,8 @@ otherwise.
 | heretica pravitas | heretical depravity | The heresy courts' formula; keep it recognisable. Ruled 2026-09-28 (*Dial.* 7.5, 7.8). |
 | plenitudo potestatis | plenitude of power | The canonists' term for papal power. Ruled 2026-10-01 (6 sites in *De ecclesia*; first 13.6). |
 | bigamia | bigamy | Canon-law sense: a second marriage (successive, or to a widow), a bar to orders; a **C** note at the first occurrence in each chunk says so. Ruled 2026-10-01 (3 sites; first *Eccl.* 11.6). |
+| habitudo | condition | A person's present state, set against predestination (Richard of St Victor). Ruled 2026-10-02 (*Eccl.* 72.24). |
+| humidum radicale / fluens | radical / flowing moisture | The physicians' terms. Ruled 2026-10-02 (75.19). |
 
 ## C. Logic, disputation, metaphysics
 
@@ -228,6 +230,8 @@ otherwise.
 | vocatus (*vocata bona, vocata ecclesia*) | so-called | Ruled 2026-10-02 (55.6, 62.7). |
 | libertas arbitrii | freedom of choice | Beside *liberum arbitrium*. Ruled 2026-10-02 (60.18). |
 | digestio | digestion | The recurring figure of the four digestions (Rom. 8:30). Ruled 2026-10-02 (60.29 ff.). |
+| concorporacio | concorporation | Incorporation into one body (Loserth's own English). Ruled 2026-10-02 (73.11). |
+| capitaliter | as head (as chief lord) | Ruled 2026-10-02 (64.33, 76.9). |
 
 ## D. False friends and ordinary words that mislead
 

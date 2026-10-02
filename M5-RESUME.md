@@ -3,6 +3,15 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 (late) — brief 6 (03-f, 03-g, 04-a, 04-b) DONE: chapter 3 translated
+- Opus 167K (told not to search the PL: 16 tool calls); Sonnet plates + verifier 153K (8 rows verified).
+- Under the "print governs" ruling the print is kept where a source differs, with the source in the note:
+  *seculum* (Aug. *oscula*), *audeat* (Bernard *minime audet*), *non potuit* (Aug. *potuit … et noluit*),
+  *conformiter* (MSS and Richard *conformitatis*). Faustinus is Augustine's, not a slip.
+- tokenfix: 12 more; drift 0 over 23 translated chunks. GLOSSARY: *habitudo*, *humidum radicale*,
+  *concorporacio*, *capitaliter*.
+- **Next:** brief 7 = 04-c … (chapter 4).
+
 ## Status 2026-10-02 (night) — brief 5 (03-b–03-e) DONE
 - Opus brief 205K (the costliest yet: 3,000 words, 26 tool calls); Sonnet verifier 114K, first run with
   Friedberg's *CIC* II (archive.org BD1141952, `_djvu.txt`): all *Unam sanctam* rows verified (II, 1245–46);
