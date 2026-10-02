@@ -615,3 +615,16 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E15h-2 | ecclesia-15-h / n9 | Gregory XI d. 27 March 1378; Urban VI's breach with the cardinals | checked | no error found (Sonnet, memory) |
 | E15h-3 | ecclesia-15-h / n10 | eleven generations transgressing the decalogue: Aug. *De civ. Dei* 15.20 | verified | PL 41, *De civ.* 15.20 |
 | E15h-4 | ecclesia-15-h / n14 | A's Czech gloss after *scriptura sacra* (359.4) | editor | p. 359 foot |
+| E16a-1 | ecclesia-16-a / n11 | D.96 c.14 *Constantinus* | verified | Loserth 361 foot *c. XIV*; Friedberg |
+| E16a-2 | ecclesia-16-a / n13 | D.95 c.5 *Olim* | verified | Friedberg |
+| E16a-3 | ecclesia-16-a / n13 | the *Olim* saying is Jerome on Titus 1:5 | verified | Friedberg inscription *Ieronimus supra epistolam ad Titum* |
+| E16a-4 | ecclesia-16-a / n14 | the Greeks' letter to John XXII and its closing clause | to-verify | no source in Loserth |
+| E16a-5 | ecclesia-16-a / n15 | *si quid utile est, in scriptura sacra invenitur* ≈ Aug. *De doctr. christ.* 2.42.63 | verified | paraphrase of *De doctr. christ.* 2.42.63 (PL 34); note says cf. |
+| E16a-6 | ecclesia-16-a / n16 | "epistola VIII ad Jeronymum" = Aug. Ep. 82 (codd. *nona*) | probable | by content (Ep. 82.3); Loserth *Opp. II, pag. 45*; codd. *nona* |
+| E16c-1 | ecclesia-16-c / n1 | Nicholas the deacon shared his wife (patristic story) | verified | Aug. *De haer.* 5 (PL 42) |
+| E16c-2 | ecclesia-16-c / n2 | *clerus*/*sors* pun = Jerome Ep. 52.5 | verified | PL 22 |
+| E16c-3 | ecclesia-16-c / n6 | Gregory XI: nephew Raymond's marriage to the heiress of "Bolonia", brother's ransom, the killings | to-verify | print *Bolonie*; Boulogne likely (Raymond de Turenne m. Marie of Boulogne, memory) |
+| E16c-4 | ecclesia-16-c / n6 | Aug. Sermo 9 *De decem chordis* | editor | Loserth 366 foot |
+| E16c-5 | ecclesia-16-c / n8 | Aug. *De natura et gratia* 66 | editor | Loserth 367 foot |
+| E16c-6 | ecclesia-16-c / n8 | Aug. *De perfectione iustitiae hominis* | editor | Loserth 367 foot |
+| E16c-7 | ecclesia-16-c / n12 | Constantine healed of leprosy at baptism by Silvester | to-verify | *Actus Silvestri* / *Constitutum* |

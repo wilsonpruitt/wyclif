@@ -3,6 +3,44 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 31 (16-a, 16-b, 16-c) DONE — HANDOFF to a fresh session
+- Opus 143K; Sonnet plates + sources 130K. **Lost words:** *sua,* and *, 34,* at 360.13–14 (*sufficit diei
+  malicia sua, Matthei VI°, 34,*); English now "its own evil". 16 tokenfixes (glued words, alinea B, folio
+  mark 180a inside *inor-|dinate*, stray *us*, punctuation).
+- Print confirmed, no departure: 362.20 *cum approbabili:* (no noun; "[argument]" supplied), 362.30 no verb,
+  *Jeronynum*, *asumptum*, *sucessionem*, 368.13 *in reduplicacionem*. Print spells *Bolonie* (366.17).
+- Sources: D.95 c.5 *Olim* = Jerome on Titus (Friedberg); *De doctr. christ.* 2.42.63 is a paraphrase (cf.);
+  Ep. 82 probable by content; Jerome Ep. 52.5; Nicholas = Aug. *De haer.* 5. Open: E16a-4, E16c-3, E16c-7.
+- GLOSSARY: *elemosinatus* = "almsman" (09-28 row governs; row 362's "one given alms" conformed).
+- Session total for briefs 29–31 ≈ 860K tokens (Opus ~140–160K + Sonnet ~130–150K per brief).
+
+### Per-brief loop (a fresh session starts HERE)
+1. **Opus agent** (background): "Read chunks/ecclesia/_briefs/<brief>.md and follow it exactly … Standing rules
+   … do not commit … give each scar token exactly as it appears including attached punctuation."
+2. **Process its report:** look each scar up in `text/ecclesia/pNNN.tok.jsonl` (python, by token text, with
+   neighbours and count) → rows in `text/ecclesia/tokenfix.tsv` (`page⇥token⇥fix⇥reason`; empty fix = delete;
+   hyphen split = first half → whole word, second half → empty). Apply only clear ones; leave doubtful
+   spellings for the plate check. Run `.venv/bin/python scripts/w3/vote.py ecclesia` and grep `pNNN.la.txt` to
+   confirm each took. LEDGER rows (`| E16d-1 | ecclesia-16-d / n3 | claim | status | how |`) and GLOSSARY rows
+   (append at file end; grep first for clashes, the earlier frozen row wins) appended.
+3. **Sonnet agent** from `chunks/ecclesia/_briefs/CHECK-TEMPLATE.md` (fill: pages, already-fixed list, the
+   Opus Latin doubts as plate items, `to-verify` rows as source items). Friedberg OCR may still be in the old
+   session scratchpad; otherwise it re-fetches.
+4. **Apply:** tokenfix rows → English + note fixes (python exact-string replace, assert count 1) → LEDGER
+   statuses → `vote.py ecclesia` → `relatin.py ecclesia --also 16-d,16-e,16-f` → `relatin.py ecclesia --dry`
+   (0) → `lint.py chunks/ecclesia/wyc-*.md` (0) → **grep the chunks for every old token (must be 0)** →
+   M5-RESUME entry → `brief.py ecclesia <next three ids>` → commit (local main; no push).
+- ⚠ Traps (all bit this session): token keys include attached punctuation; `--also` takes ids, not paths
+  (paths silently do nothing); **pair keys match RAW tokens before unstar()** (`XXIII*,`); single-token
+  keys are matched after unstar. Run scripts with `.venv/bin/python` (vote.py needs spylls).
+- Common plate finds worth listing every time: ª/º lost after roman numerals, words lost at line ends
+  (349 *a*, 360 *sua,*), alinea letters glued or stray, folio marks inside hyphenated words.
+
+- **Next:** brief 32 = 16-d, 16-e, 16-f. Built: `chunks/ecclesia/_briefs/ecclesia-16-d-16-f.md`. Then 16-g, 16-h
+  (+17-a) finish chapter 16.
+- **Still owed:** the lost-word pass over chapters 1–13 (computation first, `scripts/w3/lost.py` prototype)
+  before the site build. Open questions for Wilson: the two print departures (346.22 *nos*; 356.13 B no *si*).
+
 ## Status 2026-10-02 — brief 30 (15-f, 15-g, 15-h) DONE: chapter 15 translated
 - Opus 134K; Sonnet plates + sources 142K. **One lost word:** *a* at a line end, 349.20 (*racio a similitudine*).
   16 tokenfixes: 4 hyphen/truncation, 3 alinea letters, lost ª/º after numerals (349.14, 352.28, 356.32),
