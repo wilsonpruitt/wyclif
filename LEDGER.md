@@ -593,3 +593,25 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E15e-11 | ecclesia-15-e / n29 | C.5 q.5 c.5 *Qui ambulat* | editor | |
 | E15e-12 | ecclesia-15-e / n11, n15, n17, n24 | Hus parallels 343.15, 343.30, 345.3, 345.24 (fol. 133), 347.4–11 | editor | Loserth, feet of pp. 343–347 |
 | E15e-13 | ecclesia-15-e / n28 | *palea* plays on the *paleae* of the Decretum | to-verify | reader's judgment |
+| E15f-1 | ecclesia-15-f / n2 | ordinary gloss on D.96 c.10 *Duo sunt* | editor | p. 349 foot, l. 10 |
+| E15f-2 | ecclesia-15-f / n3 | D.40 c.6 *Si papa* (OCR "Cap. tUtt") | verified | Friedberg; Loserth gives no ref (n13 is De Liguribus), so ours |
+| E15f-3 | ecclesia-15-f / n3 | C.23 q.5 c.43 *De Liguribus* | editor | foot-note 13 *Cap. XLIII*; Friedberg |
+| E15f-4 | ecclesia-15-f / n4 | C.23 q.5 c.20 *Principes* | verified | foot-note 15 *Cap. XX*; Friedberg |
+| E15f-5 | ecclesia-15-f / n5 | Ps.-Dionysius, *Cel. Hier.* 3: purging and illuminating | to-verify | |
+| E15f-6 | ecclesia-15-f / n7 | Grosseteste: higher angel illuminated by a lower | to-verify | |
+| E15f-7 | ecclesia-15-f / n18 | D.96 c.14 *Constantinus* | verified | Friedberg; c.13 also begins *Constantinus*, noted |
+| E15g-1 | ecclesia-15-g / n2 | Urban VI elected April 1378, Clement VII Sept. 1378; England for Urban | checked | no error found (Sonnet, memory) |
+| E15g-2 | ecclesia-15-g / n4 | Gregory XI's 1377 condemnation; the "four truths"/"four heresies" | to-verify | |
+| E15g-3 | ecclesia-15-g / n5 | Ambrose "epistola XXXVIII" on Gal. 3:13 | to-verify | Maurist Ep. 38 does not fit; Ep. 21 §25 closest; Wyclif's numbering unknown |
+| E15g-4 | ecclesia-15-g / n6 | Wyclif's condemned conclusion on binding and loosing | to-verify | |
+| E15g-5 | ecclesia-15-g / n7 | "papal laws" that Peter's successors could err (D.40 c.6?) | to-verify | |
+| E15g-6 | ecclesia-15-g / n10 | King John's 1213 surrender and 1000-mark render | checked | no error found (Sonnet, memory) |
+| E15g-7 | ecclesia-15-g / n12 | bishop of Rochester = Thomas Brinton OSB; which parliament | checked | Brinton OSB, Rochester 1373–89; parliament still open |
+| E15g-8 | ecclesia-15-g / n13–14 | condemned conclusion: lords may take a delinquent church's temporals | to-verify | |
+| E15g-9 | ecclesia-15-g / n15 | the 1377 bulls ordering arrest | to-verify | |
+| E15g-10 | ecclesia-15-g / n16 | condemned conclusion on charters "humanly devised" | to-verify | |
+| E15g-11 | ecclesia-15-g / n17 | C.23 q.4 *Due sunt* (or D.96 c.10 *Duo sunt*?) | verified | Gratian d.p.c.23 *Duae sunt necessitates* (Boethius, *Cons.* V pr. 6) |
+| E15h-1 | ecclesia-15-h / n7 | *de necessitate salutis* echoes *Unam sanctam* (Extrav. comm. 1.8.1) | to-verify | |
+| E15h-2 | ecclesia-15-h / n9 | Gregory XI d. 27 March 1378; Urban VI's breach with the cardinals | checked | no error found (Sonnet, memory) |
+| E15h-3 | ecclesia-15-h / n10 | eleven generations transgressing the decalogue: Aug. *De civ. Dei* 15.20 | verified | PL 41, *De civ.* 15.20 |
+| E15h-4 | ecclesia-15-h / n14 | A's Czech gloss after *scriptura sacra* (359.4) | editor | p. 359 foot |

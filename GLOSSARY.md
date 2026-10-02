@@ -383,3 +383,9 @@ otherwise.
 | salvacio | salvation | Covers bodily and eternal; Wyclif pairs the senses. Ruled 2026-10-02 (*Eccl.* 15, 345.24–26). |
 | virtus | power (faculty) / virtue (moral habit) | Split by sense. Ruled 2026-10-02 (*Eccl.* 15, 345). |
 | legii | lieges | Ruled 2026-10-02 (*Eccl.* 15, 343–344). |
+| redempcio (of a sentence) | redemption | Buying off a penalty; kept apart from *redempcio temporalium*. C note at first use. Ruled 2026-10-02 (*Eccl.* 15, 352.1). |
+| signa (of an argument) | stages | Ruled 2026-10-02 (*Eccl.* 15, 351.19). |
+| oculata fide | with our own eyes | Ruled 2026-10-02 (*Eccl.* 15, 352.27). |
+| susurrones | whisperers | As DR Rom. 1:29. Ruled 2026-10-02 (*Eccl.* 15, 356.13). |
+| pseudoprepositi | false superiors | Ruled 2026-10-02 (*Eccl.* 15, 358.24). |
+| dii subterranei | gods beneath the earth | Ruled 2026-10-02 (*Eccl.* 15, 357.30). |

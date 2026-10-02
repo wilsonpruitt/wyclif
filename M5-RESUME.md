@@ -3,6 +3,17 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 30 (15-f, 15-g, 15-h) DONE: chapter 15 translated
+- Opus 134K; Sonnet plates + sources 142K. **One lost word:** *a* at a line end, 349.20 (*racio a similitudine*).
+  16 tokenfixes: 4 hyphen/truncation, 3 alinea letters, lost ª/º after numerals (349.14, 352.28, 356.32),
+  *deliquent* → *deliquerit* (355.27, plate). *ecclesiasticie* (349) is the PRINT's misprint, fixed by ruling 2.
+- Departure: 356.13 B's reading (no *si*) translated, T note. 352.23 *papa* (dative) and 358.14 *extere* are print.
+- Sources: 15-f n3 corrected (Loserth's foot-note 13 IS *De Liguribus*; *Si papa* is ours); 15-g n17 *Due sunt* =
+  Gratian's dictum after C.23 q.4 c.23 (Boethius); Ambrose "Ep. 38" doesn't match Maurist Ep. 38 (Ep. 21 §25 closest).
+- ⚠ **Pair keys match the RAW pivot tokens, before unstar():** *XXIII,* was raw `XXIII*,`, so the key is
+  `faceret, XXIII*,`. If a fix doesn't take, print the raw pair in vote.py's pair loop (temporary debug line).
+- **Next:** brief 31 = 16-a, 16-b, 16-c. Built: `chunks/ecclesia/_briefs/ecclesia-16-a-16-c.md`. Loop: brief 28 entry.
+
 ## Status 2026-10-02 — brief 29 (15-c, 15-d, 15-e) DONE
 - Opus 161K; Sonnet plates + sources 152K. Full plate pass pp. 336–348: **no lost or doubled words**; 9 tokenfixes
   (incl. *no* = line number 20 at 338.20; *Privilegium:* incipit at 341.23; *XXXVIIª* at 347.10).

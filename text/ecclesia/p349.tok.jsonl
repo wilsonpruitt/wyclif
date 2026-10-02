@@ -101,7 +101,7 @@
 {"t": "si", "leaf": 386, "row": 12, "para": false, "head": false, "pos": 101}
 {"t": "scisma", "leaf": 386, "row": 13, "para": false, "head": false, "pos": 102}
 {"t": "faceret,", "leaf": 386, "row": 13, "para": false, "head": false, "pos": 103}
-{"t": "XXIII,", "leaf": 386, "row": 13, "para": false, "head": false, "pos": 104}
+{"t": "XXIIIª,", "leaf": 386, "row": 13, "para": false, "head": false, "pos": 103}
 {"t": "q.", "leaf": 386, "row": 13, "para": false, "head": false, "pos": 105}
 {"t": "V,", "leaf": 386, "row": 13, "para": false, "head": false, "pos": 106}
 {"t": "De", "leaf": 386, "row": 13, "para": false, "head": false, "pos": 107}
@@ -129,7 +129,7 @@
 {"t": "quomodo", "leaf": 386, "row": 16, "para": false, "head": false, "pos": 129}
 {"t": "quidam", "leaf": 386, "row": 16, "para": false, "head": false, "pos": 130}
 {"t": "innituntur", "leaf": 386, "row": 16, "para": false, "head": false, "pos": 131}
-{"t": "exemp", "leaf": 386, "row": 16, "para": false, "head": false, "pos": 132}
+{"t": "exemplo", "leaf": 386, "row": 16, "para": false, "head": false, "pos": 132}
 {"t": "de", "leaf": 386, "row": 17, "para": false, "head": false, "pos": 133}
 {"t": "celesti", "leaf": 386, "row": 17, "para": false, "head": false, "pos": 134}
 {"t": "ierarchia,", "leaf": 386, "row": 17, "para": false, "head": false, "pos": 135}
@@ -153,7 +153,8 @@
 {"t": "celesti,", "leaf": 386, "row": 19, "para": false, "head": false, "pos": 153}
 {"t": "procederet", "leaf": 386, "row": 19, "para": false, "head": false, "pos": 154}
 {"t": "racio", "leaf": 386, "row": 19, "para": false, "head": false, "pos": 155}
-{"t": "similitudine", "leaf": 386, "row": 20, "para": false, "head": false, "pos": 156}
+{"t": "a", "leaf": 386, "row": 19, "para": false, "head": false, "pos": 155}
+{"t": "similitudine", "leaf": 386, "row": 19, "para": false, "head": false, "pos": 155}
 {"t": "quod", "leaf": 386, "row": 20, "para": false, "head": false, "pos": 157}
 {"t": "clerici", "leaf": 386, "row": 20, "para": false, "head": false, "pos": 158}
 {"t": "non", "leaf": 386, "row": 20, "para": false, "head": false, "pos": 159}
@@ -194,7 +195,7 @@
 {"t": "quod", "leaf": 386, "row": 25, "para": false, "head": false, "pos": 194}
 {"t": "pervertitur", "leaf": 386, "row": 25, "para": false, "head": false, "pos": 195}
 {"t": "ordo", "leaf": 386, "row": 25, "para": false, "head": false, "pos": 196}
-{"t": "ecclesiasticie", "leaf": 386, "row": 25, "para": false, "head": false, "pos": 197}
+{"t": "ecclesiastice", "leaf": 386, "row": 25, "para": false, "head": false, "pos": 197}
 {"t": "ierarchie;", "leaf": 386, "row": 25, "para": false, "head": false, "pos": 198}
 {"t": "ordo", "leaf": 386, "row": 26, "para": false, "head": false, "pos": 199}
 {"t": "dico", "leaf": 386, "row": 26, "para": false, "head": false, "pos": 200}
