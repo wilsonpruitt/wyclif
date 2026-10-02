@@ -410,3 +410,26 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E10f-7 | ecclesia-10-f / n6 | *collacio tercia* of the *Authenticum*: which novel | to-verify | not local |
 | E10f-8 | ecclesia-10-f / n6 | C.23 q.4 = p. 201 | editor | Loserth |
 | E10f-9 | ecclesia-10-f / n9 | *privilegium … amittere qui permissa abutitur potestate* | verified | C.11 q.3 c.63, PL 187:862 (E07d-5) |
+| E11a-1 | ecclesia-11-a / n2 | C.25 q.1 c.16 (Leo) and Gratian's dictum after it (§§1–4); *X* 5.39.31 | verified | Friedberg I, 1010–12; II, 901–02 |
+| E11a-2 | ecclesia-11-a / n4 | D.20 c.3; C.25 q.1 c.6 *Sunt quidam* (Urban) | verified | Friedberg I, 66; 1008 |
+| E11a-3 | ecclesia-11-a / n4 | the five degrees are the canon's words (ascribed to Innocent I) | verified | Friedberg I, 66 |
+| E11a-4 | ecclesia-11-a / n5 | Aristotle, *Phys.* II.3 | editor | |
+| E11a-5 | ecclesia-11-a / n6 | the bull "of Nicholas III" to Westminster | to-verify | as E10a-4 |
+| E11a-6 | ecclesia-11-a / n7 | Gregory: more benefits, greater obligation | to-verify | PL 76 (*Hom. in Ev.* 9?) |
+| E11a-7 | ecclesia-11-a / n10 | the canonists: a privilege must be contrary to common law | to-verify | |
+| E11a-8 | ecclesia-11-a / n11 | C.25 q.2 c.10 (Gregory): *consacerdotibus* / editions *cum sacerdotibus* | verified | Friedberg I, 1014 |
+| E11a-9 | ecclesia-11-a / n14 | C.25 q.1 c.8 *Omne quod*; Wyclif quotes §1 | verified | Friedberg I, 1009 |
+| E11b-1 | ecclesia-11-b / n3 | *EN* V, equity (Loserth c. 14) | editor | |
+| E11b-2 | ecclesia-11-b / n6 | D.83 c.3 *Error cui non resistitur* | verified | Friedberg I, 293 |
+| E11b-3 | ecclesia-11-b / n9 | *Sext* 3.23.2 *Decet* (Gregory X, Lyons II) | verified | Friedberg II, 1061; no psalm cited |
+| E11b-4 | ecclesia-11-b / n10 | the gloss on *Sedicionem*; Hostiensis | to-verify | not local |
+| E11c-1 | ecclesia-11-c / n1 | Gregory, *Moralia* XXI.4.8 | verified | PL 76:193A–B |
+| E11c-2 | ecclesia-11-c / n2, n3 | C.23 q.4 c.24 *Ipsa pietas* (Augustine to Boniface) | verified | Friedberg I, 909–10 |
+| E11c-3 | ecclesia-11-c / n2 | C.5 q.5 cc.1–2 (print q.4 wrong) | verified | Friedberg I, 549 |
+| E11c-4 | ecclesia-11-c / n4 | C.23 q.4 c.25 *Quid faciet* | verified | Friedberg I, 910–11 |
+| E11c-5 | ecclesia-11-c / n7 | "book 6, cap. 25" | untraced | |
+| E11c-6 | ecclesia-11-c / n8 | *immunis* (Isidore) | verified (partial) | PL 82:350, 382A, 524B; not *ab in et munium* |
+| E11c-7 | ecclesia-11-c / n11 | *De his qui ad ecclesias confugiunt*, *lex finalis* (Cod. 1.12); Loserth *X* 3.49.6 | editor | Code not local |
+| E11c-8 | ecclesia-11-c / n13 | C.23 q.4 c.50 | verified | Friedberg I, 926 |
+| E11c-9 | ecclesia-11-c / n15 | *X* 3.19.8 *Quum universorum* | verified | Friedberg II, 524 |
+| E11c-10 | ecclesia-11-c / n17 | C.23 q.4 c.52: *non* = pre-Correctores reading | verified | Friedberg I, 927–28 |

@@ -3,6 +3,13 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 20 (11-a, 11-b, 11-c) DONE
+- Opus 176K; Sonnet sources 185K (14 canons in Friedberg). Finds: Wyclif's "C.25 q.1 c.16" text is Gratian's
+  dictum; 11-c C.23 q.4 c.52 *non* = the pre-Correctores reading; C.5 q.5 and C.23 now in the English (modern refs).
+  *debitori* (231.11) translated "[their creditor]". GLOSSARY: *suffragari* "to aid" (non-prayer), *franchisia*,
+  *facinus*, *irreatus*. 7 tokenfixes.
+- **Next:** brief 21 = 11-d, 11-e … .
+
 ## Status 2026-10-02 — brief 19 (10-d, 10-e, 10-f) DONE: chapter 10 translated
 - Opus 157K; Sonnet sources 86K: C.17 q.4 c.9, D.38 c.10, *X* 5.12.1, and the maxim *frustra legis auxilium* =
   *X* 3.49.10 (closes E07c-2 too). Plate: *sedacionem* print. 7 tokenfixes.

@@ -46,7 +46,7 @@ otherwise.
 | Christicole | worshippers of Christ | Ruled 2026-09-28. |
 | caritas | charity | ⛔ Never "love". *Amor* and *dilectio* → "love". The argument often turns on charity as the Holy Spirit (Lombard, *Sent.* I d.17). |
 | suffragia | suffrages | The prayers and good works shared out by the church or an order. Ruled 2026-09-28 (11 sites). |
-| suffragari | to aid by intercession | The verb of *suffragia*. Ruled 2026-09-28 (2 sites). |
+| suffragari | to aid by intercession | The verb of *suffragia*. Ruled 2026-09-28 (2 sites). Where privileges or law, not prayers, do the aiding: "to aid" (*Eccl.* 241.1; cf. *suffragium* "aid"), 2026-10-02. |
 | litere fraternitatum | letters of fraternity | Friars' letters admitting a benefactor to the order's suffrages. Ruled 2026-09-28 (4 sites). |
 | canonizare | canonize | The same English whether pope or scripture canonizes (*Dial.* 20.31, 21.1). Ruled 2026-09-28 (6 sites). |
 | viantes | those on the road | The participle beside *viator* (wayfarer); kept distinct so the reader sees which word Wyclif used. Ruled 2026-10-01 (≈22 sites in *De ecclesia*; first *Eccl.* 10.12). |
@@ -171,6 +171,8 @@ otherwise.
 | insolubilia | insolubles | The logicians' paradoxes of self-reference. Ruled 2026-10-02 (*Eccl.* 175.11). |
 | perquisitum | acquisition | Property acquired, not inherited (the legal term). Ruled 2026-10-02 (*Eccl.* 215.4). |
 | contribules | countrymen | Lev. 25:17 (DR). Ruled 2026-10-02 (208.2, 214.20, 214.27). |
+| franchisia | franchise | Ruled 2026-10-02 (*Eccl.* 239.22). |
+| facinus | misdeed | Wyclif equates it with "felony" (239.13, 239.21). Ruled 2026-10-02. |
 
 ## C. Logic, disputation, metaphysics
 
@@ -281,6 +283,7 @@ otherwise.
 | falsigraphus | false writer | The one who sets out false figures or texts. Ruled 2026-10-02 (*Eccl.* 9). |
 | iugum | yoke (a pair) | Ruled 2026-10-02 (*Eccl.* 202.9 ff.). |
 | ociatores | men of leisure | Ruled 2026-10-02 (201.27). |
+| irreatus (*pene*) | non-liability (to penalty) | Non-classical abstract. Ruled 2026-10-02 (*Eccl.* 239.30). |
 
 ## D. False friends and ordinary words that mislead
 
