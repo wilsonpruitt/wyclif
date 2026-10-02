@@ -66,6 +66,7 @@ otherwise.
 | regalia | regality | The king's royal right. Ruled 2026-10-02 (*Eccl.* 148.3, 151.12, 152.12). |
 | forisfacere | commit forfeiture | Ruled 2026-10-02 (152.13). |
 | ecclesia laycalis / secularis | the lay church / the secular church | Ruled 2026-10-02 (154.15, 156.3). |
+| orator | CONTEXTUAL: bedesman / advocate | Plural *oratores* "bedesmen" (Dialogus ruling); of one who pleads the church's cause (*orator ecclesie*, *Eccl.* 165.25, 166.4) "advocate", with a **C** note. Ruled 2026-10-02. |
 
 ## B. Lordship, law, office
 
@@ -160,6 +161,7 @@ otherwise.
 | locus a maiori / a simili | the topic from the greater / from the like | The dialectical topics. Ruled 2026-10-02 (*Eccl.* 144.27). |
 | ficticia | fiction | A feigned ground in an objection (*Nec valet ficticia*). Ruled 2026-10-02 (145.19). |
 | gracia preveniens / comitans / concomitans / consumans | prevenient / accompanying / concomitant / consummating grace | Ruled 2026-10-02 (06-g). |
+| allegare / allegacio | allege / allegation | To cite as an authority; implies nothing about truth (the period sense). Ruled 2026-10-02 (*Eccl.* 162–165; as earlier chunks). |
 
 ## C. Logic, disputation, metaphysics
 
@@ -258,6 +260,8 @@ otherwise.
 | inobedienciarius | disobedient man | The negative of *obedienciarius*. Ruled 2026-10-02 (146.11). |
 | suffragium (*legis, privilegii*) | aid | As *suffragium* "aid" (01-a) and *suffragium sensus*. Ruled 2026-10-02 (149.29, 152.8). |
 | ingratitudo | ingratitude | Toward a person. Ruled 2026-10-02 (156.8). |
+| indoles | promise | The natural promise of a thing (the midwives' argument, *Eccl.* 163.18, 164.1–12; Comestor reads *de dolo*). Ruled 2026-10-02. |
+| colorare | give colour to | The verb beside *color*. Ruled 2026-10-02 (163.2). |
 
 ## D. False friends and ordinary words that mislead
 

@@ -304,3 +304,24 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E07d-5 | ecclesia-07-d / n14 | *Privilegium omnino meretur amittere …* = C.11 q.3 c.63 (Gregory) | verified | PL 187:862 (also D.74, 364B) |
 | E07e-1 | ecclesia-07-e / n2 | adapts *optima legum interpres consuetudo* (*Dig.* 1.3.37) | to-verify | not local |
 | E07e-2 | ecclesia-07-e / n5 | A's Czech margin and Loserth's Latin rendering | editor | Loserth p. 157 |
+| E08a-1 | ecclesia-08-a / n1 | the *infamis casus* = the Westminster sanctuary violation, Aug. 1378 | to-verify | |
+| E08a-2 | ecclesia-08-a / n2 | *iuxta dicta XVⁱ cap.*: which work | untraced | no ch. 15 precedes |
+| E08a-3 | ecclesia-08-a / n3 | *Phys.* II.2, 194a | editor | |
+| E08a-4 | ecclesia-08-a / n4 | "supra pag. 1": honour father and mother | editor | 01-a |
+| E08a-5 | ecclesia-08-a / n7 | doctors heard before the council, Gloucester parliament, Oct. 1378 | to-verify | |
+| E08a-6 | ecclesia-08-a / n9 | *tractatus De mendacio*: Augustine's or Wyclif's | to-verify | |
+| E08a-7 | ecclesia-08-a / n10 | virtue: *Trialogus* III.1 (Lechler 128); *EN* II.6, 1106b36 | editor | |
+| E08a-8 | ecclesia-08-a / n11 | Wyclif's "Eth. IV c. IV" = *EN* IV.7, 1127a28–30 | to-verify | not local |
+| E08a-9 | ecclesia-08-a / n12 | Augustine, *De lib. arb.* II.19.50 (virtues, great goods), quoted in *Retract.* | verified | PL 32:1267–68; 597 |
+| E08b-1 | ecclesia-08-b / n7 | *metam redargucionis*: the sophist's goals (*Soph. el.*) | to-verify | not local |
+| E08b-2 | ecclesia-08-b / n10; 08-c / n1, n9 | Augustine, *Enarr. in Ps.* 5: *non re, sed indole laudantur* | verified | PL 36:85 (has *non*) |
+| E08b-3 | ecclesia-08-b / n11 | Augustine on the midwives' lie | verified | *Contra mend.* 15.31–32, PL 40:539–40; *De mend.* PL 40:491–92; *Quaest. in Hept.* II.1, PL 34:597 |
+| E08b-4 | ecclesia-08-b / n12 | Comestor, *Hist. schol.* Exod. 3, *De dolo obstetricum* | verified | PL 198:1142B–1143A |
+| E08b-5 | ecclesia-08-b / n12 | Gregory, *Moralia* XVIII.3, the midwives | verified | PL 76:41A–B |
+| E08c-1 | ecclesia-08-c / n2 | Aquinas, *ST* II-II q.110 (article; *indole*?) | editor | not local |
+| E08c-2 | ecclesia-08-c / n4 | gloss *indolem vocat profectum* in Wyclif's Augustine | untraced | |
+| E08c-3 | ecclesia-08-c / n5 | *necessarium atque felix* (Gregory) = the Exsultet | to-verify | missal |
+| E08c-4 | ecclesia-08-c / n5 | Augustine calls Adam's sin *expediens* | untraced | *Civ.* XIV.13 says *utile* (PL 41:422) |
+| E08c-5 | ecclesia-08-c / n5 | *De civ. Dei* XIV.13 | verified | PL 41:422 |
+| E08c-6 | ecclesia-08-c / n13 | privilege = private law: Isidore, *Etym.* V.18 / D.3 c.3 | verified | as E07d-3 |
+| E08c-7 | ecclesia-08-c / n15 | *uti / frui* | verified | *De doctr. chr.* I.3–4, PL 34:20 |

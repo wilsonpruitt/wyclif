@@ -3,6 +3,14 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 14 (08-a, 08-b, 08-c) DONE
+- Opus 146K (told to keep OCR scars out of the chunks: no cleanup needed); Sonnet plates + sources 107K.
+- The midwives' lie verified throughout (Aug. *Enarr.* 5, *Contra mend.*, *Quaest. in Hept.*; Comestor *De dolo*;
+  Gregory *Mor.* XVIII.3). Plates: *tertii*, *cateclismus* print; *proficiencium* (OCR) fixed. 7 tokenfixes.
+- GLOSSARY: *orator* CONTEXTUAL (bedesman / advocate), *allegare* "allege" (= cite), *indoles* "promise",
+  *colorare*.
+- **Next:** brief 15 = 08-d, 08-e (+ 08-f?).
+
 ## Status 2026-10-02 — brief 13 (07-b … 07-e) DONE: chapter 7 translated (MS D)
 - Opus 159K; Sonnet sources 89K. Verified: Aug. *Ep.* 153.20; *Serm.* 9.3, 251.8; *X* 3.40.10 (pollution);
   Isidore *Etym.* V.18 = D.3 c.3; C.11 q.3 c.63; D.86 c.3. 07-d n5 had misread a hypothetical (spittle) — fixed;
