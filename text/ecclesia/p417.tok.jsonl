@@ -77,7 +77,7 @@
 {"t": "militantis", "leaf": 454, "row": 12, "para": false, "head": false, "pos": 76}
 {"t": "et", "leaf": 454, "row": 12, "para": false, "head": false, "pos": 77}
 {"t": "ecclesie", "leaf": 454, "row": 12, "para": false, "head": false, "pos": 78}
-{"t": "triumphantis", "leaf": 454, "row": 12, "para": false, "head": false, "pos": 79}
+{"t": "triumphantis;", "leaf": 454, "row": 12, "para": false, "head": false, "pos": 79}
 {"t": "secundo", "leaf": 454, "row": 13, "para": false, "head": false, "pos": 80}
 {"t": "dicitur", "leaf": 454, "row": 13, "para": false, "head": false, "pos": 81}
 {"t": "quod", "leaf": 454, "row": 13, "para": false, "head": false, "pos": 82}
@@ -121,7 +121,7 @@
 {"t": "sentencia", "leaf": 454, "row": 18, "para": false, "head": false, "pos": 120}
 {"t": "Augustini,", "leaf": 454, "row": 18, "para": false, "head": false, "pos": 121}
 {"t": "Epistola", "leaf": 454, "row": 18, "para": false, "head": false, "pos": 122}
-{"t": "XXXII,", "leaf": 454, "row": 18, "para": false, "head": false, "pos": 123}
+{"t": "XXXIIª,", "leaf": 454, "row": 18, "para": false, "head": false, "pos": 123}
 {"t": "ad", "leaf": 454, "row": 18, "para": false, "head": false, "pos": 124}
 {"t": "Bonifacium,", "leaf": 454, "row": 18, "para": false, "head": false, "pos": 125}
 {"t": "ubi", "leaf": 454, "row": 19, "para": false, "head": false, "pos": 126}

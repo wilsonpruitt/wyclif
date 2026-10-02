@@ -3,6 +3,19 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 36 (17-h, 18-a, 18-b) DONE: chapter 17 translated
+- Opus 173K (opened plates itself for 5 spots and found 418.2 *et* lost); Sonnet plates + sources 185K.
+  16 tokenfixes: *Sed*, *raciunculam*, *quinque*, *responsio*, *convocacio*, *in* (111), strays, margin numeral
+  glued (*Iprecipitat.*), lost ª ×2 (415 *XIIIª*, 417 *XXXIIª*), 418 *cap.,*, 417 *triumphantis;*.
+- Print confirmed: 415.18 *prima tamen suadetur est* (elliptical), 417.20 *triumphantem* (sense wants
+  *militantem*; print translated, C note), 418.20 *fit*, *persone*, *speciem*, *obiectibus*. 419.15 *determinante*
+  emended to *in eternitate* (Tract. 124.5 supports it; B omits *in tempore peregrinacionis*).
+- Sources: Ench. 56–57 (church in angels), Ep. 98.5, Ep. 185 §§38–40, Tract. 49.27 (codd. right, Loserth's 45
+  wrong), Richard of St Victor c. 20, C.33 q.3 D.1 c.70, Hugh, Anselm (Migne ch. 6), Bernard §8. Open: E18a-2/3
+  (Aquinas In III Sent., not on disk), E18b-9 (Wyclif De anima).
+- GLOSSARY: *secundum presentem iusticiam* = "according to present justice" (11 chunks; 18-a conformed).
+- **Next:** brief 37 = 18-c, 18-d, 18-e. Built: `chunks/ecclesia/_briefs/ecclesia-18-c-18-e.md`.
+
 ## Status 2026-10-02 — brief 35 (17-e, 17-f, 17-g) DONE
 - Opus 159K; Sonnet plates + sources 145K. Wifi dropped mid-brief: the Opus report was saved to
   `_briefs/ecclesia-17-e-17-g.REPORT.md` and committed before processing (do this whenever a session may die).
