@@ -3,6 +3,16 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 12 (06-f, 06-g, 07-a) DONE: chapter 6 translated
+- Opus 166K; Sonnet sources 114K (Friedberg I + II now reachable; C.23 q.4 cc.11/15/23 re-checked there).
+- Printed misnumbered references (Eph. "V°, 27", "XXXIIIª") now given in modern form in the English, the printed
+  figure in the Transcription notes (card: modern references in the English).
+- *leges patrie* kept "laws of the homeland" + note, per the Dialogus *via / patria* ruling (Wilson may want an
+  exception for the legal idiom "laws of the land").
+- Sanctuary: *X* 3.49.6, 3.49.10 give three excluded classes; Wyclif's "four" not found. 10 tokenfixes.
+  GLOSSARY: *locus a maiori*, *ficticia*, *inobedienciarius*, *gracia preveniens* …
+- **Next:** brief 13 = 07-b … (chapter 7, MS D).
+
 ## Status 2026-10-02 — brief 11 (06-c, 06-d, 06-e) DONE
 - Opus 171K; Sonnet plates + verifier 107K. 131.12 *debitor* (Loserth's own suggestion) accepted over the print
   *creditor*, which gives no sense (ruling 2). Plates: *Paulum*, *aliquam*, *creditor* are the print.

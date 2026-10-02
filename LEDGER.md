@@ -204,10 +204,10 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E04e-7 | ecclesia-04-e / n13 | D.22 c.1 *Omnes* (Nicholas II); *Liber Sextus* 5.2 | verified (Omnes) | PL 187:122C; Sext title to-verify |
 | E04e-8 | ecclesia-04-e / n15 | Canon of the mass, *Te igitur*: *adunare*; Wyclif *adiuvare* | to-verify | missal |
 | E04e-9 | ecclesia-04-e / n17 | *De pen.* D.1 c.70 and its gloss | editor | gloss to-verify |
-| E04f-1 | ecclesia-04-f / n1 | *Forte*, *Hec autem vita* = C.23 q.4 cc.11, 15 | verified (Migne) | PL 187: c.XI *Forte in populo Dei*; c.XV *Haec autem vita* (Gregory hom. 38); Friedberg not read |
+| E04f-1 | ecclesia-04-f / n1 | *Forte*, *Hec autem vita* = C.23 q.4 cc.11, 15 | verified | PL 187; Friedberg I ~901–904 |
 | E04f-2 | ecclesia-04-f / n2 | *Recurrat* = C.32 q.4 c.2 | verified | as E04d-4 (PL 187:1476C) |
 | E04f-3 | ecclesia-04-f / n2 | *Recurrat* opens with *In Ioh. tr.* 11.8; *Itaque sive intus … caro est caro est* = *De baptismo* I.17.26 | verified | PL 35 (tr. 11); PL 43 (7461) |
-| E04f-4 | ecclesia-04-f / n3 | *Vasis ire* = C.23 q.4 c.23 | verified (Migne) | PL 187 c.XXIII *Vasis irae* |
+| E04f-4 | ecclesia-04-f / n3 | *Vasis ire* = C.23 q.4 c.23 | verified | PL 187; Friedberg I ~907–908 |
 | E04f-5 | ecclesia-04-f / n10 | Hugh, *De sacr.* II.2.2: the eye that sees for the whole body | verified (partial) | PL 176 (11082); the bridegroom/bride wording not found |
 | E04f-6 | ecclesia-04-f / n12 | Hus reuses ch. 4 | editor | Loserth p. 92 |
 | E05a-1 | ecclesia-05-a / n1 | *Ardmacanus* = FitzRalph, *De pauperie Salvatoris*, to Innocent VI (MS note: *ad instanciam Clementis VI*) | editor | dedication to-verify (not local) |
@@ -272,3 +272,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E06e-4 | ecclesia-06-e / n8 | doctors expounding Matt. 19:5 of Christ | untraced | |
 | E06e-5 | ecclesia-06-e / n9 | antiphon *quod fuit permansit, et quod non erat assumpsit* | to-verify | breviary |
 | E06e-6 | ecclesia-06-e / n17 | C.27 q.1 c.41 *Nuptiarum*, from Augustine *De bono viduitatis* 10.13 | verified | PL 187:1388B–1390A; PL 40:438 |
+| E06f-1 | ecclesia-06-f / n4 | Bernard's eight unities = *De consid.* V.8.18 | verified | PL 182:799C–D (E05e-2) |
+| E06f-2 | ecclesia-06-f / n6 | C.24 q.1 c.6 *Quodcumque* (Aug. *In Ioh.* 50: Peter signifies the church); C.7 q.1 c.7 *Scire debes* (Cyprian) | verified | PL 187:1267A–B, 746B; Friedberg I ~968, ~326 |
+| E06f-3 | ecclesia-06-f / n11 | Augustine, *De vera religione* §91 (Wyclif "XCI") | verified (loose) | PL 34:163 |
+| E06f-4 | ecclesia-06-f / n14 | *in materia De Ideis* = Wyclif's *De ideis* (*Summa de ente*) | to-verify | not local |
+| E06g-1 | ecclesia-06-g / n1 | *De cons.* D.2 c.36 *Quia passus*, inscribed *Item Augustinus* | verified | PL 187:1746C–1747A; Friedberg I ~1340 n. 455 |
+| E06g-2 | ecclesia-06-g / n1 | Augustine, *In Ioh.* tract. 26 | verified | PL 35:1612–1615 (tract. 27 unread) |
+| E06g-3 | ecclesia-06-g / n2 | the ordinary gloss on the canon | to-verify | not local |
+| E06g-4 | ecclesia-06-g / n2 | *ut dicam alibi* = *De eucharistia* | to-verify | not local |
+| E06g-5 | ecclesia-06-g / n6 | doctor profundus = Bradwardine, *De causa Dei* I.23 corollary (MSS XXXII) | editor | not local |
+| E06g-6 | ecclesia-06-g / n9 | C.23 q.4 c.23 *Vasis ire* (print *XXXIIIª*) | verified | Migne PL 187 (E04f-4) |
+| E06g-7 | ecclesia-06-g / n10 | cf. Hus, *De eccl.*, Opp. I, 200 | editor | Loserth |
+| E06g-8 | ecclesia-06-g / n15 | *De cons.* D.1 c.8 *Ecclesia* | verified | PL 187:1708B (E04e-6) |
+| E07a-1 | ecclesia-07-a / n1 | the 1378 Westminster sanctuary case; autumn 1378 parliament | to-verify | |
+| E07a-2 | ecclesia-07-a / n2 | *Eulogium* continuation (Haule killed; Shakell); Rolls of Parliament III | editor | Loserth p. 142 |
+| E07a-3 | ecclesia-07-a / n2 | *comes de Dene* = count of Denia | to-verify | |
+| E07a-4 | ecclesia-07-a / n10 | classes excluded from sanctuary | verified (partial) | *X* 3.49.6, 3.49.10, Friedberg II ~656–658; no source gives four |
+| E07a-5 | ecclesia-07-a / n13 | a person presumed good until the contrary is proved | to-verify | |
