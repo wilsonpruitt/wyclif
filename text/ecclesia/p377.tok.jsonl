@@ -1,7 +1,7 @@
 {"t": "legitime", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 0}
-{"t": "militarunt:", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 1}
+{"t": "militarunt;", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "et", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 2}
-{"t": "nro", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 3}
+{"t": "pro", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 3}
 {"t": "iterata", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "defensione", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 5}
 {"t": "regni", "leaf": 414, "row": 0, "para": false, "head": false, "pos": 6}
@@ -40,7 +40,7 @@
 {"t": "pauperiem", "leaf": 414, "row": 5, "para": false, "head": false, "pos": 39}
 {"t": "sit", "leaf": 414, "row": 5, "para": false, "head": false, "pos": 40}
 {"t": "reductus.", "leaf": 414, "row": 5, "para": false, "head": false, "pos": 41}
-{"t": "Rac", "leaf": 414, "row": 5, "para": false, "head": false, "pos": 42}
+{"t": "Racio", "leaf": 414, "row": 5, "para": false, "head": false, "pos": 42}
 {"t": "beati", "leaf": 414, "row": 6, "para": false, "head": false, "pos": 43}
 {"t": "Ambrosii", "leaf": 414, "row": 6, "para": false, "head": false, "pos": 44}
 {"t": "stat", "leaf": 414, "row": 6, "para": false, "head": false, "pos": 45}
@@ -218,8 +218,8 @@
 {"t": "alludit", "leaf": 414, "row": 29, "para": false, "head": false, "pos": 216}
 {"t": "Matthei", "leaf": 414, "row": 29, "para": false, "head": false, "pos": 217}
 {"t": "XXIV,", "leaf": 414, "row": 29, "para": false, "head": false, "pos": 218}
-{"t": "15", "leaf": 414, "row": 29, "para": false, "head": false, "pos": 219}
-{"t": "Cum", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 220}
+{"t": "15:", "leaf": 414, "row": 29, "para": false, "head": false, "pos": 219}
+{"t": "Cum,", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 220}
 {"t": "inquit,", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 221}
 {"t": "videritis", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 222}
 {"t": "abhominacionem", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 223}

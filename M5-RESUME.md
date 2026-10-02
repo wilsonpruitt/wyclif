@@ -3,6 +3,22 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 32 (16-d, 16-e, 16-f) DONE
+- Opus 152K; Sonnet plates + sources 167K. **Lost word:** *a* at line end 369.15 (*predictam a cesare*); "[from]"
+  and its T note removed. 19 tokenfixes: *exproprietarie*, *esse?* (? = line number 25), *e vestimentis* (e =
+  margin letter), *iocalia* (not *localia*), *Racio*, *pro*, *III°*, *terrenorum*, strays f/ji/of, punctuation
+  (377.1 `;`, 377.29 *15: Cum,*, 379.3 *infert:*), 375 *collegium* lower case.
+- Print confirmed (no departure): 370.15 *per deducens* (no noun), 370.26 apposition, 371.5–9, 374.14 *tria*,
+  377.10 *Nabugodonosor*, 378.14 *tam perseverans*, 379.15 *individua clericalia* (Hugh reads *judicia
+  saecularia*; noted). 376 has a spurious ¶ break after *superflua sed* (chunk boundary only; left).
+- Sources: E16d-3 = C.23 q.4 c.22 (Aug., Nebuchadnezzar); C.12 q.2 c.70/71 verified; Hugh *De sacr.* 2.2.3/2.2.7
+  quote bounds checked (PL 176 417C–420C); E16d-2 *venenum* voice untraced (commonplace). Open: E16d-1, -4, -6,
+  -7, E16f-3. Lechler page in 16-d n10 corrected 204 → 294 (Loserth's foot).
+- Side-notes fixed: 372.1 (stray 1, t), 378.16 *hoid*. Print italicises quotations; chunks keep "italics: none"
+  as in all earlier chunks (house convention, not changed).
+- **Next:** brief 33 = 16-g, 16-h, 17-a (finishes ch. 16). Built: `chunks/ecclesia/_briefs/ecclesia-16-g-17-a.md`.
+  Loop unchanged (brief 31 entry).
+
 ## Status 2026-10-02 — brief 31 (16-a, 16-b, 16-c) DONE — HANDOFF to a fresh session
 - Opus 143K; Sonnet plates + sources 130K. **Lost words:** *sua,* and *, 34,* at 360.13–14 (*sufficit diei
   malicia sua, Matthei VI°, 34,*); English now "its own evil". 16 tokenfixes (glued words, alinea B, folio

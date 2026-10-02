@@ -18,7 +18,7 @@
 {"t": "utrumque", "leaf": 416, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "terminum", "leaf": 416, "row": 2, "para": false, "head": false, "pos": 18}
 {"t": "sic", "leaf": 416, "row": 2, "para": false, "head": false, "pos": 19}
-{"t": "infert", "leaf": 416, "row": 2, "para": false, "head": false, "pos": 20}
+{"t": "infert:", "leaf": 416, "row": 2, "para": false, "head": false, "pos": 20}
 {"t": "Clericus", "leaf": 416, "row": 3, "para": false, "head": false, "pos": 21}
 {"t": "nisi", "leaf": 416, "row": 3, "para": false, "head": false, "pos": 22}
 {"t": "Deum", "leaf": 416, "row": 3, "para": false, "head": false, "pos": 23}
@@ -185,7 +185,6 @@
 {"t": "negare", "leaf": 416, "row": 25, "para": false, "head": false, "pos": 184}
 {"t": "non", "leaf": 416, "row": 26, "para": false, "head": false, "pos": 185}
 {"t": "potest.", "leaf": 416, "row": 26, "para": false, "head": false, "pos": 186}
-{"t": "ji", "leaf": 416, "row": 27, "para": false, "head": false, "pos": 187}
 {"t": "Iste", "leaf": 416, "row": 27, "para": false, "head": false, "pos": 188}
 {"t": "profundus", "leaf": 416, "row": 27, "para": false, "head": false, "pos": 189}
 {"t": "doctor", "leaf": 416, "row": 27, "para": false, "head": false, "pos": 190}

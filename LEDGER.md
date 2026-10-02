@@ -628,3 +628,17 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E16c-5 | ecclesia-16-c / n8 | Aug. *De natura et gratia* 66 | editor | Loserth 367 foot |
 | E16c-6 | ecclesia-16-c / n8 | Aug. *De perfectione iustitiae hominis* | editor | Loserth 367 foot |
 | E16c-7 | ecclesia-16-c / n12 | Constantine healed of leprosy at baptism by Silvester | to-verify | *Actus Silvestri* / *Constitutum* |
+| E16d-1 | ecclesia-16-d / n1 | St Leonard of Noblac refused a bishopric offered by the Frankish king | to-verify | from memory |
+| E16d-2 | ecclesia-16-d / n2 | Angel's voice at the donation (*hodie diffusum est venenum*) | untraced | not in PL TEI; commonplace (Jacopo della Lana *diffusum*); note says so |
+| E16d-3 | ecclesia-16-d / n3 | Decree "with Augustine" on Nebuchadnezzar's salvation = C.23 q.4 c.22 | verified | Friedberg; PL 187 1182D |
+| E16d-4 | ecclesia-16-d / n5 | Thomas the apostle gave the king's money to the poor (*Acts of Thomas*) | to-verify | from memory |
+| E16d-5 | ecclesia-16-d / n5 | Laurence distributed the church's treasure (Ambrose, *De off.* 2.28) | verified | PL 16 (6974.xml) *Hos thesauros demonstravit Laurentius* |
+| E16d-6 | ecclesia-16-d / n7 | Lord of Winchester = William of Wykeham; New College 1379 | to-verify | from memory |
+| E16d-7 | ecclesia-16-d / n10 | Islip founded Canterbury Hall; Langham expelled the seculars; Wyclif warden | to-verify | Loserth cites Lechler I 204, 303 |
+| E16d-8 | ecclesia-16-d / n10 | *Gloria episcopi* = C.12 q.2 c.71, from Jerome | verified | Loserth 371; modern form ours |
+| E16e-1 | ecclesia-16-e / n2 | Aug. *De doctr. christ.* 2.42.63 | verified | wording matches; *regimen rei publice* is Wyclif's gloss |
+| E16e-2 | ecclesia-16-e / n8 | FitzRalph, *Defensio curatorum*, numbers at Oxford | editor | Loserth 374 |
+| E16e-3 | ecclesia-16-e / n13 | Ambrose, *De off.* 2.28 = C.12 q.2 c.70 | verified | Loserth 376; modern form ours |
+| E16f-1 | ecclesia-16-f / n4 | *Felix quem faciunt aliena pericula cautum*, proverb; cf. Plautus | editor | Loserth 377 |
+| E16f-2 | ecclesia-16-f / n8 | Hugh of St Victor, *De sacr.* 2.2.3 and 2.2.7 | verified | PL 176 417C–D, 420A–C; quote bounds checked |
+| E16f-3 | ecclesia-16-f / n10 | Augustine asked his citizens to take back possessions given him | to-verify | from memory (Possidius / sermons) |

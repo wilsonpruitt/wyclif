@@ -393,3 +393,9 @@ otherwise.
 | calumpnia (ponere / capere) | challenge (to lay a challenge against / to be open to challenge) | The disputant's formal objection to a premiss. Ruled 2026-10-02 (*Eccl.* 16, 363.18, 363.24, 367.11). |
 | usufructus | usufruct | Beside *dominacio evangelica*. Ruled 2026-10-02 (*Eccl.* 16, 365.23). |
 | Romanus pontifex | Roman pontiff | Kept apart from *papa* "pope". Ruled 2026-10-02 (*Eccl.* 16, 366.29). |
+| clerimonia | learning | The clergy's lettered state (ME "clergy"). Ruled 2026-10-02 (*Eccl.* 16, 373–374). |
+| cantaria | chantry | Ruled 2026-10-02 (*Eccl.* 16, 16-d/16-e). |
+| collegiatus | collegiate | Ruled 2026-10-02 (*Eccl.* 16, 16-d/16-e). |
+| dominabilia | the things held in lordship | Ruled 2026-10-02 (*Eccl.* 16, 378.6). |
+| potencia absoluta | absolute power | Ruled 2026-10-02 (*Eccl.* 16, 375). |
+| presbiteri conducticii | hired presbyters | Ruled 2026-10-02 (*Eccl.* 16, 374). |

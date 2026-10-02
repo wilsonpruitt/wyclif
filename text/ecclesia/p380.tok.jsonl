@@ -33,7 +33,6 @@
 {"t": "cognata", "leaf": 417, "row": 4, "para": false, "head": false, "pos": 32}
 {"t": "secularis", "leaf": 417, "row": 4, "para": false, "head": false, "pos": 33}
 {"t": "possessio.", "leaf": 417, "row": 4, "para": false, "head": false, "pos": 34}
-{"t": "of", "leaf": 417, "row": 4, "para": false, "head": false, "pos": null}
 {"t": "Item,", "leaf": 417, "row": 5, "para": true, "head": false, "pos": 35}
 {"t": "non", "leaf": 417, "row": 5, "para": false, "head": false, "pos": 36}
 {"t": "dubium", "leaf": 417, "row": 5, "para": false, "head": false, "pos": 37}
@@ -41,8 +40,7 @@
 {"t": "clero", "leaf": 417, "row": 5, "para": false, "head": false, "pos": 39}
 {"t": "potest", "leaf": 417, "row": 5, "para": false, "head": false, "pos": 40}
 {"t": "nocere", "leaf": 417, "row": 5, "para": false, "head": false, "pos": 41}
-{"t": "terre-2", "leaf": 417, "row": 5, "para": false, "head": false, "pos": 42}
-{"t": "norum", "leaf": 417, "row": 6, "para": false, "head": false, "pos": 43}
+{"t": "terrenorum", "leaf": 417, "row": 5, "para": false, "head": false, "pos": 42}
 {"t": "habicio,", "leaf": 417, "row": 6, "para": false, "head": false, "pos": 44}
 {"t": "si", "leaf": 417, "row": 6, "para": false, "head": false, "pos": 45}
 {"t": "ergo", "leaf": 417, "row": 6, "para": false, "head": false, "pos": 46}
