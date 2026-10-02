@@ -504,3 +504,22 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E13d-1 | ecclesia-13-d / n6 | Gratian D.22 c.1 applied to Christ's privilege of poverty | to-verify | = E04e-7 |
 | E13d-2 | ecclesia-13-d / n13 | Sergius III, Gregorovius III 242 (Loserth) | to-verify | |
 | E13d-3 | ecclesia-13-d / n13 | *hodie* = 1378, *duos pseudomonachos* = Urban VI, Clement VII | to-verify | |
+| E13e-1 | ecclesia-13-e / n10 | the Commentator (Averroes), star added to the heaven (*De caelo* II?) | to-verify | |
+| E13f-1 | ecclesia-13-f / n9 | C.1 q.1 c.28 *Fertur* (Gregory I) | editor | Loserth 295.28 |
+| E13f-2 | ecclesia-13-f / n10 | C.1 q.1 c.5 *Quisquis* | editor | Loserth 296.3 |
+| E13f-3 | ecclesia-13-f / n11 | X 3.24.2 *Fraternitatem* | editor | Loserth 296.11 |
+| E13f-4 | ecclesia-13-f / n12 | C.16 q.7 c.3 *Pervenit ad nos* (Gregory VII, not I) | verified | Loserth 296.19 |
+| E13f-5 | ecclesia-13-f / n12 | Hus repeats the misattribution (*Opp.* I, 194) | editor | Loserth 296.19 |
+| E13f-6 | ecclesia-13-f / n15 | *libro VI°, cap. XX–XXIII*: which book of the *Summa* | untraced | |
+| E13f-7 | ecclesia-13-f / n16 | C.4 q.1 c.2 *Quod autem* (Nicholas I) | editor | Loserth 298.3–4 |
+| E13f-8 | ecclesia-13-f / n17 | gloss on C.4 q.1 c.2: every excommunicate a heretic | to-verify | |
+| E13f-9 | ecclesia-13-f / n17 | *Ipsa pietas* (C.23 q.4), *Illi* (C.24 q.3): capitula | verified | C.23 q.4 c.24; C.24 q.3 c.25 |
+| E13f-10 | ecclesia-13-f / n19 | Roman church's privilege, cf. D.22 c.1 *Omnes* | to-verify | cf. E04e-7 |
+| E13f-11 | ecclesia-13-f / n21 | X 2.24.4 *Ego episcopus* (Wyclif: book III) | editor | Loserth 298.30 |
+| E14a-1 | ecclesia-14-a / n5 | *ius poli* / *ius fori*, Augustine's pair | verified | *Sermo* 355.4.5, PL 39.1572 |
+| E14a-2 | ecclesia-14-a / n7 | Bede, *In Lucam* II (*Quid me propter divicias*) | verified | PL 92.460, book III (Wyclif: II) |
+| E14a-3 | ecclesia-14-a / n8 | Jerome on Matt. 8:20 | verified | PL 26.52–53; Bede borrows it |
+| E14a-4 | ecclesia-14-a / n9 | *de Evangelista*: which evangelist offered possession | untraced | |
+| E14a-5 | ecclesia-14-a / n11 | D.8 c.1 *Quo iure* = Aug. *Tract. in Ioh.* 6.25 | verified | Loserth 301.16 |
+| E14a-6 | ecclesia-14-a / n11 | *reticeamus* (print) vs *recitemus* | verified | Friedberg and PL 35 read *recitemus* |
+| E14a-7 | ecclesia-14-a / n12 | D.96 c.14 *Constantinus* | editor | Loserth 301.28 |

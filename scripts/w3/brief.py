@@ -33,6 +33,19 @@ apparatus for its pages. Work so as to use few tool calls:
 5. Run `cd {root} && .venv/bin/python scripts/w3/lint.py {paths}` once and fix what it reports.
 6. Final message: per chunk, the ledger rows (table: id | chunk / note | claim | status | how / next step),
    glossary proposals, Latin doubts, and a one-line note of anything the coordinator must decide.
+
+Standing rules (from the *De ecclesia* briefs, 2026-10-02):
+- Do NOT search the Patrologia or other sources; a separate checker verifies them afterwards. Give the
+  editor's reference, the modern form in the English, and "to be checked" with a fresh LEDGER id per item
+  (never reuse an id).
+- Notes open with their bold class codes, `**S/C.**`, never bare letters mid-note. No process words in
+  the notes ("the report", "the coordinator", "brief").
+- OCR scars (stray English or margin letters, line numbers read as words, glued or broken words,
+  numerals read as letters) stay out of the chunk: translate the print's word and list each scar in your
+  final message only (page.line, token, likely print reading). The coordinator fixes the Latin.
+- Flag every place the established Latin may have LOST a word (it does not construe, especially at a page
+  head or foot) or DOUBLED one: page.line and the suspicion. Translate the print as it stands; supply a
+  missing word only in brackets with a T note. The editor's print governs; list any departure.
 """
 
 

@@ -3,6 +3,18 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 25 (13-e, 13-f, 14-a) DONE: chapter 13 translated
+- Opus 149K; Sonnet plates + sources 136K. **Lost word again:** *consumeret* (291.25, hyphenated *con-|sumeret*
+  across a line) — restored by tokenfix pair. Line-end hyphens are a third loss mechanism (after page heads and
+  dittography); a sweep for relative/subordinate clauses lacking a verb would catch more. The other flagged
+  gaps (297.3, 298.19) are the print. *penun* = *periuri* (plate).
+- The agent wrote bare note codes (`S `, `T ` mid-note): normalised to `**S/T.**` by script. brief.py now
+  carries the standing rules (no source search, house note format, scars to the report only, lost-word flags).
+- Verified: D.8 c.1 and Aug. *Tr. in Ioh.* 6.25 read *recitemus* (print *reticeamus*, kept); Bede *In Luc.* III
+  (Wyclif: II) borrowing Jerome *In Matth.* I; *ius poli* = Aug. *Sermo* 355; C.23 q.4 c.24, C.24 q.3 c.25.
+  12 tokenfixes. GLOSSARY: *elemosinator*, *elemosinacio*, *ius poli / ius fori*, *mundialis*.
+- **Next:** brief 26 = 14-b, 14-c, 14-d.
+
 ## Status 2026-10-02 — brief 24 (13-b, 13-c, 13-d) DONE
 - Opus 168K; Sonnet plates + sources 123K. **Lost word again:** *Et* at 281.1 (page head) — restored by tokenfix pair.
   The four flagged suspects were the print: *ditarius*; *tenentur* (281.21, translated from A A₁); *maior* twice

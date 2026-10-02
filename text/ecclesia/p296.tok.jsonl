@@ -160,7 +160,8 @@
 {"t": "videlicet", "leaf": 333, "row": 23, "para": false, "head": false, "pos": 159}
 {"t": "sive", "leaf": 333, "row": 23, "para": false, "head": false, "pos": 160}
 {"t": "servitorum", "leaf": 333, "row": 23, "para": false, "head": false, "pos": 161}
-{"t": "vel(", "leaf": 333, "row": 23, "para": false, "head": false, "pos": 162}
+{"t": "vel", "leaf": 333, "row": 23, "para": false, "head": false, "pos": 162}
+{"t": "(", "leaf": 333, "row": 23, "para": false, "head": false, "pos": 162}
 {"t": "quod", "leaf": 333, "row": 23, "para": false, "head": false, "pos": 163}
 {"t": "gravius", "leaf": 333, "row": 24, "para": false, "head": false, "pos": 164}
 {"t": "est)", "leaf": 333, "row": 24, "para": false, "head": false, "pos": 165}
