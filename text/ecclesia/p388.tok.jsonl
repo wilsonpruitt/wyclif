@@ -75,9 +75,9 @@
 {"t": "verum", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 74}
 {"t": "et", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 75}
 {"t": "consequens", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 76}
-{"t": "falsum", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 77}
-{"t": "vel,", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 78}
-{"t": "inquit", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 79}
+{"t": "falsum,", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 77}
+{"t": "vel,", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 77}
+{"t": "inquit,", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 79}
 {"t": "ante", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 80}
 {"t": "incarnacionem", "leaf": 425, "row": 11, "para": false, "head": false, "pos": 81}
 {"t": "erat", "leaf": 425, "row": 12, "para": false, "head": false, "pos": 82}
@@ -168,12 +168,12 @@
 {"t": "patrum", "leaf": 425, "row": 22, "para": false, "head": false, "pos": 167}
 {"t": "veteris", "leaf": 425, "row": 22, "para": false, "head": false, "pos": 168}
 {"t": "testamenti", "leaf": 425, "row": 22, "para": false, "head": false, "pos": 169}
-{"t": "salvabitur", "leaf": 425, "row": 22, "para": false, "head": false, "pos": 170}
+{"t": "salvabitur;", "leaf": 425, "row": 22, "para": false, "head": false, "pos": 170}
 {"t": "consequens", "leaf": 425, "row": 23, "para": false, "head": false, "pos": 171}
 {"t": "falsum", "leaf": 425, "row": 23, "para": false, "head": false, "pos": 172}
 {"t": "secundum", "leaf": 425, "row": 23, "para": false, "head": false, "pos": 173}
 {"t": "istam", "leaf": 425, "row": 23, "para": false, "head": false, "pos": 174}
-{"t": "scolam.", "leaf": 425, "row": 23, "para": false, "head": false, "pos": 175}
+{"t": "scolam,", "leaf": 425, "row": 23, "para": false, "head": false, "pos": 175}
 {"t": "quia", "leaf": 425, "row": 23, "para": false, "head": false, "pos": 176}
 {"t": "nec", "leaf": 425, "row": 23, "para": false, "head": false, "pos": 177}
 {"t": "est", "leaf": 425, "row": 24, "para": false, "head": false, "pos": 178}

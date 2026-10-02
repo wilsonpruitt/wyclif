@@ -1,5 +1,6 @@
-{"t": "de", "leaf": 421, "row": 0, "para": true, "head": false, "pos": 0}
-{"t": "bonis", "leaf": 421, "row": 0, "para": false, "head": false, "pos": 1}
+{"t": "quantum", "leaf": 421, "row": 0, "para": true, "head": false, "pos": 0}
+{"t": "de", "leaf": 421, "row": 0, "para": false, "head": false, "pos": 0}
+{"t": "bonis", "leaf": 421, "row": 0, "para": false, "head": false, "pos": 0}
 {"t": "regni,", "leaf": 421, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "qua", "leaf": 421, "row": 0, "para": false, "head": false, "pos": 3}
 {"t": "condicione", "leaf": 421, "row": 0, "para": false, "head": false, "pos": 4}
@@ -104,7 +105,7 @@
 {"t": "utilior", "leaf": 421, "row": 14, "para": false, "head": false, "pos": 102}
 {"t": "et", "leaf": 421, "row": 14, "para": false, "head": false, "pos": 103}
 {"t": "quoad", "leaf": 421, "row": 14, "para": false, "head": false, "pos": 104}
-{"t": "exigenciam,", "leaf": 421, "row": 14, "para": false, "head": false, "pos": 105}
+{"t": "exigenciam", "leaf": 421, "row": 14, "para": false, "head": false, "pos": 105}
 {"t": "iudicis", "leaf": 421, "row": 15, "para": false, "head": false, "pos": 106}
 {"t": "preponderancior,", "leaf": 421, "row": 15, "para": false, "head": false, "pos": 107}
 {"t": "quomodo", "leaf": 421, "row": 15, "para": false, "head": false, "pos": 108}
@@ -138,7 +139,6 @@
 {"t": "est", "leaf": 421, "row": 19, "para": false, "head": false, "pos": 136}
 {"t": "stipendium", "leaf": 421, "row": 19, "para": false, "head": false, "pos": 137}
 {"t": "reddere.", "leaf": 421, "row": 19, "para": false, "head": false, "pos": 138}
-{"t": "have", "leaf": 421, "row": 20, "para": false, "head": false, "pos": 139}
 {"t": "Nec", "leaf": 421, "row": 20, "para": false, "head": false, "pos": 140}
 {"t": "valet", "leaf": 421, "row": 20, "para": false, "head": false, "pos": 141}
 {"t": "fingere", "leaf": 421, "row": 20, "para": false, "head": false, "pos": 142}
@@ -175,7 +175,7 @@
 {"t": "regna", "leaf": 421, "row": 24, "para": false, "head": false, "pos": 173}
 {"t": "mundi,", "leaf": 421, "row": 24, "para": false, "head": false, "pos": 174}
 {"t": "quia", "leaf": 421, "row": 24, "para": false, "head": false, "pos": 175}
-{"t": "al", "leaf": 421, "row": 24, "para": false, "head": false, "pos": 176}
+{"t": "alio", "leaf": 421, "row": 24, "para": false, "head": false, "pos": 176}
 {"t": "modo", "leaf": 421, "row": 25, "para": false, "head": false, "pos": 177}
 {"t": "et", "leaf": 421, "row": 25, "para": false, "head": false, "pos": 178}
 {"t": "alio", "leaf": 421, "row": 25, "para": false, "head": false, "pos": 179}

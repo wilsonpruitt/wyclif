@@ -642,3 +642,12 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E16f-1 | ecclesia-16-f / n4 | *Felix quem faciunt aliena pericula cautum*, proverb; cf. Plautus | editor | Loserth 377 |
 | E16f-2 | ecclesia-16-f / n8 | Hugh of St Victor, *De sacr.* 2.2.3 and 2.2.7 | verified | PL 176 417C–D, 420A–C; quote bounds checked |
 | E16f-3 | ecclesia-16-f / n10 | Augustine asked his citizens to take back possessions given him | to-verify | from memory (Possidius / sermons) |
+| E16g-1 | ecclesia-16-g / n2, n8 | *unius non apostoli* = Silvester; *Cesar* = Constantine | to-verify | our inference from ch. 16 usage |
+| E16g-2 | ecclesia-16-g / n3 | *Deus malus … Deum bonum* alludes to the Manichees' two gods | verified | standard reference |
+| E16g-3 | ecclesia-16-g / n4 | Condemning "the laws of our kingdom" before the curia = delation of Wyclif's conclusions, Gregory XI's bulls 1377 | to-verify | our inference |
+| E16h-1 | ecclesia-16-h / n4 | Augustine's "37th" letter to Macedonius = Ep. 153.6.20 | verified | by content; Wyclif's number unmatched (Gratian: LIV) |
+| E16h-2 | ecclesia-16-h / n4 | *Si res* = C.14 q.6 c.1 | verified | Loserth; modern form ours |
+| E16h-3 | ecclesia-16-h / n5 | *Commentator* = Averroes on those who deny that creatures act | to-verify | from memory; not located in a quick search |
+| E17a-1 | ecclesia-17-a / n1 | The ten arguments at the end of ch. 5 (cf. p. 112.18) | editor | Loserth 388 |
+| E17a-2 | ecclesia-17-a / n6 | Aug. *De doctr. christ.* 3.6.10 | verified | Loserth: Opp. III.1, 48; modern section to check |
+| E17a-3 | ecclesia-17-a / n8 | Aug. *Retract.* 1.13.3, on *De vera religione* 10.19 | verified | Loserth: Opp. I, 19; section to check |

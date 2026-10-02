@@ -3,6 +3,20 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 33 (16-g, 16-h, 17-a) DONE: chapter 16 translated
+- Opus 162K; Sonnet plates + sources 147K. **Lost words:** *quantum* at the head of p. 384 (English "how much of
+  the goods"), *a* at line end 385.17 (*auferat a quolibet*). 16 tokenfixes: *,5priorem* (line number glued),
+  *abutentes* (print's *abutententes*, ruling 2), *meritorium*, *alio modo*, strays *have*/*Y*, punctuation
+  (381 mark ⁜ read as colon, 384, 387 speck, 388 ×4).
+- ⚠ Pair key needed the raw `falsum^ vel,` (caret in the raw token). Debug: copy vote.py INTO scripts/w3 (ROOT is
+  relative to the script) with a print in the pair loop; delete after.
+- Print confirmed: 382.12 *maius bono*, 383.1 *cleri* (text, not catchword), 385.22 no *in*, 387.1 no predicate
+  ("[is groundless]" kept, 16-h n8), *emuncta*, 389.19 *fuit*. Apparatus 384.14/.31 is *Prima/Secunda ficcio*,
+  not *liccio*; 388.6 A A₁ *contricacione*.
+- Sources: Ep. 153.6.20 by content (Wyclif's "XXXVII" unmatched; Gratian LIV); C.14 q.6 c.1; *De doctr. christ.*
+  3.6.10; *Retract.* 1.13.3. Open: E16g-1, E16g-3, E16h-3 (Averroes untraced).
+- **Next:** brief 34 = 17-b, 17-c, 17-d. Built: `chunks/ecclesia/_briefs/ecclesia-17-b-17-d.md`.
+
 ## Status 2026-10-02 — brief 32 (16-d, 16-e, 16-f) DONE
 - Opus 152K; Sonnet plates + sources 167K. **Lost word:** *a* at line end 369.15 (*predictam a cesare*); "[from]"
   and its T note removed. 19 tokenfixes: *exproprietarie*, *esse?* (? = line number 25), *e vestimentis* (e =
