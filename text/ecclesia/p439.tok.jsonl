@@ -69,9 +69,10 @@
 {"t": "innotescet,", "leaf": 476, "row": 8, "para": false, "head": false, "pos": 68}
 {"t": "cum", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 69}
 {"t": "ei", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 70}
-{"t": "coniunctifuerimus", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 71}
+{"t": "coniuncti", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 71}
+{"t": "fuerimus", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 71}
 {"t": "in", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 72}
-{"t": "Jine", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 73}
+{"t": "fine", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 73}
 {"t": "ad", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 74}
 {"t": "habendam", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 75}
 {"t": "beatitudinem", "leaf": 476, "row": 9, "para": false, "head": false, "pos": 76}
@@ -181,8 +182,7 @@
 {"t": "ut", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 180}
 {"t": "Ephes.", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 181}
 {"t": "V°,", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 182}
-{"t": "25—", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 183}
-{"t": "27°:", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 184}
+{"t": "25—27°:", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 183}
 {"t": "Viri", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 185}
 {"t": "diligite", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 186}
 {"t": "uxores", "leaf": 476, "row": 23, "para": false, "head": false, "pos": 187}
@@ -221,7 +221,8 @@
 {"t": "aliquid", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 220}
 {"t": "huiusmodi,", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 221}
 {"t": "sed", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 222}
-{"t": "utsit", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 223}
+{"t": "ut", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 223}
+{"t": "sit", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 223}
 {"t": "sancta", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 224}
 {"t": "et", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 224}
 {"t": "immaculata.", "leaf": 476, "row": 28, "para": false, "head": false, "pos": 225}

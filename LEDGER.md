@@ -730,3 +730,17 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E18e-3 | ecclesia-18-e / n6 | Aug. *De verbis Domini*, serm. 50 | verified | PL 38, Sermo 138.9 |
 | E18e-4 | ecclesia-18-e / n7 | Jerome, *In Osee* 1, on 2:19 | verified | PL 25 |
 | E18e-5 | ecclesia-18-e / n10 | "ut dicit Gregorius" = *Hom.* 1.16.1 | verified | PL 76 |
+| E18f-1 | ecclesia-18-f / n6 | Person = *racionalis nature individua substancia*, Boethius *Contra Eutychen* 3 | to-verify | from memory |
+| E18f-2 | ecclesia-18-f / n8 | Aug. *Ench.* 15.56; Loserth's corrections (LXIV→LVI, *conditori*, *persistit*) | editor | Loserth 437.24–438.4 |
+| E18f-3 | ecclesia-18-f / n11 | Stanza of *Chorus novae Ierusalem*, Sarum Breviary | editor | Loserth 438.19 |
+| E18f-4 | ecclesia-18-f / n11 | Hymn attributed to Fulbert of Chartres | to-verify | from memory |
+| E18g-1 | ecclesia-18-g / n3 | Aug. *Ench.* 15.61 (codd. LXIX, Loserth LXI) | editor | Loserth 439.7 |
+| E18g-2 | ecclesia-18-g / n4 | Aug. *De dono perseverantiae* 6 | editor | Loserth: Opp. X 826 |
+| E18g-3 | ecclesia-18-g / n4 | *Multi … possunt non habere sed nullus amittere* is Wyclif's compression | to-verify | check De dono 6 |
+| E18g-4 | ecclesia-18-g / n11 | *Ench.* 15.56 again at 441.6 | editor | Loserth 441.6 |
+| E19a-1 | ecclesia-19-a / n2 | "XXVI° capitulo libri Vⁱ": Wyclif's own work | to-verify | which book |
+| E19a-2 | ecclesia-19-a / n3 | C.11 q.3 c.60 (OCR "I.X") | editor | modern form ours; canon number to check |
+| E19a-3 | ecclesia-19-a / n3 | Canon from Gregory, *Hom. in Ev.* 26.5 | to-verify | from memory |
+| E19a-4 | ecclesia-19-a / n5 | Aug. *Tract. in Ioh.* 27.10 (Wyclif "Omelia XXV") | editor | Loserth 442.26 |
+| E19a-5 | ecclesia-19-a / n7 | *Tract. in Ioh.* 27.11, *corpus Christi mixtum … area* | editor | Loserth 443.22; section ours |
+| E19a-6 | ecclesia-19-a / n8 | Second species of quality = natural capacity, Arist. *Cat.* 8 | to-verify | from memory |

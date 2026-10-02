@@ -342,7 +342,7 @@ otherwise.
 | indispositus; (se) indisponere | unfit; to make (oneself) unfit | "indisposed" (now "unwell"). Ruled 2026-09-28 (8 sites). |
 | limitare; limites | to assign (an office); limits | "to limit" for the verb (i.e. never "to assign" where it means to restrict, as beside *restringere*, *Eccl.* 217.10, 2026-10-02). The noun *limites* stays "limits" (*in limitibus apostoli*). Ruled 2026-09-28 after a census (13 verb, 5 noun). |
 | prevaricator; prevaricancia | transgressor; transgression | Ruled 2026-09-28. *Basali prevaricancia* (*Dial.* 9.24) is doubtful: see its C note. |
-| carecter (sensibilis) | (perceptible) character | "reputation". The mark of orders. Ruled 2026-09-28 (*Dial.* 5.7). |
+| carecter, caracter (sensibilis) | (perceptible) character | "reputation". The mark of orders. Ruled 2026-09-28 (*Dial.* 5.7). |
 | conversacio | manner of life | "conversation". Ruled 2026-09-28 (6 sites). |
 | mendicacio; mendicare; mendicitas | begging; to beg; beggary | Kept apart; *mendicitas* is DR's "beggary" (Prov. 30:8). Ruled 2026-09-28. |
 | penalitas | hardship | "penalty". Ruled 2026-09-28. |
@@ -436,3 +436,10 @@ otherwise.
 | quadriga diaboli | the devil's four-horse chariot | Ruled 2026-10-02 (*Eccl.* 18, 427.12). |
 | vetula | old woman | Ruled 2026-10-02 (*Eccl.* 18, 431–433). |
 | summi pontifices | highest pontiffs (of popes); high priests (of the Jewish priesthood) | Split by referent. Ruled 2026-10-02 (*Eccl.* 18, 424.19, 425.20). |
+| equivoce | equivocally | Ruled 2026-10-02 (*Eccl.* 19, 444; as in 05-a, 06-b, 06-f). |
+| limitacio (ad officium) | assignment | Follows *limitare* "to assign" (row above); where it means restriction, "limitation". Ruled 2026-10-02 (*Eccl.* 19, 445). |
+| gracia gratificans | grace that makes pleasing | Ruled 2026-10-02 (*Eccl.* 18, 441.8). |
+| deputacio | deputation | Ruled 2026-10-02 (*Eccl.* 19, 443.34). |
+| responsalis | the respondent | Ruled 2026-10-02 (*Eccl.* 19, 445.24). |
+| termini magistrales | masters' terms | Ruled 2026-10-02 (*Eccl.* 19, 445.23). |
+| continuacio | continuity | Ruled 2026-10-02 (*Eccl.* 18, 436.19). |
