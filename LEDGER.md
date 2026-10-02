@@ -795,3 +795,21 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E20b-5 | ecclesia-20-b / n14 | Augustine on riches as praises (Ps. 112) | verified | PL 38 Sermo 37 |
 | E20b-6 | ecclesia-20-b / n15 | Augustine on night as the time of persecution | verified | PL 38 Sermo 37 (noctes = tribulationes) |
 | E20b-7 | ecclesia-20-b / n19 | Augustine, *Non timeat … condicionem* | verified | PL 38 Sermo 37 (nec timeat conditionem) |
+| E20c-1 | ecclesia-20-c / n4 | From 481.10 the text follows Augustine, Sermo 37 on Prov. 31 | verified | PL 38 Sermo 37 |
+| E20c-2 | ecclesia-20-c / n2 | Augustine: the field is the kingdom of heaven (480.18) | verified | Sermo 37.8–9 (partial: field; regnum celorum is Wyclif) |
+| E20c-3 | ecclesia-20-c / n6 | Augustine, *Quibus … est palatum … non est celum carum* (481.25) | verified | Sermo 37.10 |
+| E20c-4 | ecclesia-20-c / n10 | Augustine on the spindle (482.17–483.6) | verified | Sermo 37.13 |
+| E20c-5 | ecclesia-20-c / n13 | Augustine, *Da domine, quia dedi* (483.25) | verified | Sermo 37.13 |
+| E20c-6 | ecclesia-20-c / n13 | Augustine, *Habens plenum sacellum* (483.29) | verified | Sermo 37.14 |
+| E20c-7 | ecclesia-20-c / n14 | Augustine, *Quomodo timeret dominus* (484.5); quotation closed at *matrone* | verified | Sermo 37.15; print italics run through glorificavit |
+| E20c-8 | ecclesia-20-c / n15 | Photinians: Christ only man; Manichees: no true human nature | verified | Sermo 37.17 |
+| E20c-9 | ecclesia-20-c / n16 | Augustine: the wicked put on Christ by sacrament only (De bapt. 5.24.34?) | verified | Sermo 37.16 (not De bapt.) |
+| E20d-1 | ecclesia-20-d / n2 | Augustine, *Non decebat matronam tanti viri* (484.31) | verified | Sermo 37.18 |
+| E20d-2 | ecclesia-20-d / n3 | *civitatem duplicem*: Augustine's two cities | open | standard; not checked |
+| E20d-3 | ecclesia-20-d / n6 | "ut recitat Augustinus": the preacher's temporal wage (486.6–8) | verified | Sermo 37.20 |
+| E20d-4 | ecclesia-20-d / n10 | Augustine: strength = martyrdom, beauty = virginity (487.9–11) | verified | Sermo 37.22 (partial; virginity is Wyclif) |
+| E20d-5 | ecclesia-20-d / n13 | Augustine, *Prestet nobis … aperiamus os nostrum* (487.30–34) | verified | Sermo 37.23 |
+| E20d-6 | ecclesia-20-d / n14 | Augustine, *Ordinem posuit lingue sue*; closed at *in suo ordine* | verified | Sermo 37.23; italics close at creaturam |
+| E20d-7 | ecclesia-20-d / n17 | Augustine, *Et modo … in paupertate vivimus* | verified | Sermo 37.25 |
+| E20d-8 | ecclesia-20-d / n19 | Augustine: daughters = foreknown heretics; *spine habent florem sine fructu* | verified | Sermo 37.27 |
+| E20d-9 | ecclesia-20-d / n21 | *cap. Multe* = Decretum C.1 q.1 c.38 | verified | Friedberg C.1 q.1 c.38 Multae; content does not fit (noted) |

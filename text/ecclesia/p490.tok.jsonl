@@ -54,7 +54,7 @@
 {"t": "laudent", "leaf": 527, "row": 7, "para": false, "head": false, "pos": 53}
 {"t": "eam", "leaf": 527, "row": 7, "para": false, "head": false, "pos": 54}
 {"t": "in", "leaf": 527, "row": 7, "para": false, "head": false, "pos": 55}
-{"t": "portis.", "leaf": 527, "row": 7, "para": false, "head": false, "pos": 56}
+{"t": "portis", "leaf": 527, "row": 7, "para": false, "head": false, "pos": 56}
 {"t": "opera", "leaf": 527, "row": 7, "para": false, "head": false, "pos": 57}
 {"t": "sua.", "leaf": 527, "row": 7, "para": false, "head": false, "pos": 58}
 {"t": "Quia", "leaf": 527, "row": 7, "para": false, "head": false, "pos": 59}
@@ -144,7 +144,8 @@
 {"t": "communionis", "leaf": 527, "row": 18, "para": false, "head": false, "pos": 143}
 {"t": "reciproce", "leaf": 527, "row": 19, "para": false, "head": false, "pos": 144}
 {"t": "promerendo,", "leaf": 527, "row": 19, "para": false, "head": false, "pos": 145}
-{"t": "etdant", "leaf": 527, "row": 19, "para": false, "head": false, "pos": 145}
+{"t": "et", "leaf": 527, "row": 19, "para": false, "head": false, "pos": 145}
+{"t": "dant", "leaf": 527, "row": 19, "para": false, "head": false, "pos": 145}
 {"t": "beatitudinem", "leaf": 527, "row": 19, "para": false, "head": false, "pos": 146}
 {"t": "accidentalem", "leaf": 527, "row": 19, "para": false, "head": false, "pos": 147}
 {"t": "in", "leaf": 527, "row": 20, "para": false, "head": false, "pos": 148}

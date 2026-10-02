@@ -459,3 +459,7 @@ otherwise.
 | raciones exemplares / seminales | exemplary reasons / seminal reasons | Augustine's terms; "seminal reasons" already used at 06-d. Ruled 2026-10-02 (*Eccl.* 20, 473.18). |
 | affidacio | affiance | Betrothal by plighted trust; keeps the play on *confidit*. Ruled 2026-10-02 (*Eccl.* 20, 475.22). |
 | institor | merchant | After Douay "merchant's ship" (Prov. 31:14); *mercantes* = "traders". Ruled 2026-10-02 (*Eccl.* 20, 478.20). |
+| predicacio secundum causam | predication by cause | One of Wyclif's modes of predication. Ruled 2026-10-02 (*Eccl.* 20, 481.14). |
+| preconium | commendation | Ruled 2026-10-02 (*Eccl.* 20, 488.20). |
+| excrescencia | increase | Ruled 2026-10-02 (*Eccl.* 20, 485.28). |
+| beatitudo essencialis / accidentalis | essential / accidental blessedness | The scholastic pair; follows *beatitudo* "blessedness". Ruled 2026-10-02 (*Eccl.* 20, 490.15). |

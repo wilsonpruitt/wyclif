@@ -3,6 +3,21 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 42 (20-c, 20-d, 20-e) DONE: chapter 20 translated
+- Opus 189K (no plates); Sonnet 166K. Wilson said "go for the rest": briefs 43–51 run straight through
+  (local commits; still no push/deploy). No lost words. 8 tokenfixes: stray stops (*bene.*, *portis.*), stray
+  *the* and *N* (486), *etdant*, *Canticorum IIª 4*→*II°, 4*, 489.1 *[et* (folio-mark remnant), *Jacobi IIª*.
+- **Quotation ends from the print's italics:** 484 Augustine runs through *glorificavit* (Rom. 8:30 inside);
+  488 *Ordinem … posuit* closes at *creaturam*. GLOSSARY *illabi* = "flow into" (frozen row): 20-c/20-d conformed.
+- Print confirmed: *Matthei VI°* (codd. V), *infima*, *resistente toto corpore*, 486 *Huius coniugis* (no loss),
+  *gracia … declinant*, *ociosum* (Loserth: recte *ociosa*), 490.8–10, 490.33–34 (the fragmentary last
+  sentence is the print; AA₁ lack it). *secte* kept as "sect" (frozen row).
+- Sources: all Augustine items = Sermo 37 (PL 38) §§8–27, incl. E20c-9 (37.16, not De bapt.) and Photinians (37.17).
+  *Cap. Multe* = C.1 q.1 c.38 confirmed, but its content doesn't fit beauty/number (noted). Open: E20d-2.
+- GLOSSARY: *predicacio secundum causam*, *preconium*, *excrescencia*, *beatitudo essencialis/accidentalis*.
+- **Next:** brief 43 = 21-a, 21-b, 21-c (built). 9 briefs left (132/159). Planned groups: 21-d/e/f, 21-g/22-a/b,
+  22-c/d/e, 22-f/g/h, 23-a/b/c, 23-d/e/f, 23-g/h/i, 23-j/k/l.
+
 ## Status 2026-10-02 — brief 41 (19-h, 20-a, 20-b) DONE: chapter 19 translated
 - Opus 203K (opened 10 plates, mostly to read italics); Sonnet plates + sources 163K. Prompt =
   `_briefs/OPUS-PROMPT.md`. **Lost word:** *et* at the head of p. 469 (*et iudiciis*); the English bracket and T
