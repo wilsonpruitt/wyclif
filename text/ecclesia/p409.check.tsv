@@ -1,0 +1,43 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=85presentem		1	accept
+7	R2	latinworks10wycl=ecclesia | iohanniswyclift00mattgoog=ecdeua | iohanniswycliftr00wycluoft=ecclesia | iohanniswycliftr04wycl=ecclesia | tractatusdeeccl00wycl=ecdesia | tractatusdeeccle00wycl=ecclesia		6	accept
+12	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=ia | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+14	R3a	latinworks10wycl=iila | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=iua | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+15	R2	latinworks10wycl=autem | iohanniswyclift00mattgoog=autem | iohanniswycliftr00wycluoft=autem | iohanniswycliftr04wycl=autera | tractatusdeeccl00wycl=autero | tractatusdeeccle00wycl=autem		6	accept
+16	R2	latinworks10wycl=ecclesia | iohanniswyclift00mattgoog=ecclen | iohanniswycliftr00wycluoft=ecclesia | iohanniswycliftr04wycl=ecclesia | tractatusdeeccl00wycl=ecclesia | tractatusdeeccle00wycl=ecclesia		6	accept
+25	R2	latinworks10wycl=2 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=2 | tractatusdeeccle00wycl=nee		5	accept
+26	R2	latinworks10wycl=nec | iohanniswyclift00mattgoog=nec | iohanniswycliftr00wycluoft=nec | iohanniswycliftr04wycl=nec | tractatusdeeccl00wycl=nec | tractatusdeeccle00wycl=∅		6	accept
+49	R2	latinworks10wycl=m | iohanniswyclift00mattgoog=tn | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+56	R2	latinworks10wycl=ecclesia | iohanniswyclift00mattgoog=eccusis | iohanniswycliftr00wycluoft=ecclesia | iohanniswycliftr04wycl=ecclesia | tractatusdeeccl00wycl=ecclesia | tractatusdeeccle00wycl=ecclesia		6	accept
+65	R2	latinworks10wycl=etpalea | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=etpalea | iohanniswycliftr04wycl=etpalea | tractatusdeeccl00wycl=etpalea | tractatusdeeccle00wycl=etpalea		6	accept
+66	R2	latinworks10wycl=frumentum | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=frumentum | iohanniswycliftr04wycl=frumentum | tractatusdeeccl00wycl=frumentum | tractatusdeeccle00wycl=frumentum		6	accept
+73	R2	latinworks10wycl=celorum | iohanniswyclift00mattgoog=celonim | iohanniswycliftr00wycluoft=celorum | iohanniswycliftr04wycl=celorum | tractatusdeeccl00wycl=celorum | tractatusdeeccle00wycl=celorum		6	accept
+79	R3a	latinworks10wycl=quinque | iohanniswyclift00mattgoog=quidque | iohanniswycliftr00wycluoft=quinque | iohanniswycliftr04wycl=quinque | tractatusdeeccl00wycl=quinque | tractatusdeeccle00wycl=quinque		6	accept
+88	R2	latinworks10wycl=ecclesiam | iohanniswyclift00mattgoog=ecdeam | iohanniswycliftr00wycluoft=ecclesiam | iohanniswycliftr04wycl=ecclesiam | tractatusdeeccl00wycl=ecclesiam | tractatusdeeccle00wycl=ecclesiam		6	accept
+92	R2	latinworks10wycl=corpus | iohanniswyclift00mattgoog=corpus | iohanniswycliftr00wycluoft=corpus | iohanniswycliftr04wycl=corpus | tractatusdeeccl00wycl=coiyus | tractatusdeeccle00wycl=corpus		6	accept
+93	R3a	latinworks10wycl=domini | iohanniswyclift00mattgoog=damini | iohanniswycliftr00wycluoft=domini | iohanniswycliftr04wycl=domini | tractatusdeeccl00wycl=domini | tractatusdeeccle00wycl=domini		6	accept
+97	R2	latinworks10wycl=111 | iohanniswyclift00mattgoog=111 | iohanniswycliftr00wycluoft=111 | iohanniswycliftr04wycl=111 | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=iii		6	accept
+102	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=noo | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+110	R2	latinworks10wycl=eius | iohanniswyclift00mattgoog=dui | iohanniswycliftr00wycluoft=eius | iohanniswycliftr04wycl=eius | tractatusdeeccl00wycl=eius | tractatusdeeccle00wycl=eius		6	accept
+122	R3a	latinworks10wycl=gracia | iohanniswyclift00mattgoog=gracia | iohanniswycliftr00wycluoft=eracia | iohanniswycliftr04wycl=gracia | tractatusdeeccl00wycl=gracia | tractatusdeeccle00wycl=gracia		6	accept
+125	R4a	latinworks10wycl=msticiam | iohanniswyclift00mattgoog=iustictam | iohanniswycliftr00wycluoft=msticiam | iohanniswycliftr04wycl=iusticiam | tractatusdeeccl00wycl=msticiam | tractatusdeeccle00wycl=iusticiam		6	accept
+150	R3a	latinworks10wycl=sit | iohanniswyclift00mattgoog=lit | iohanniswycliftr00wycluoft=sit | iohanniswycliftr04wycl=sit | tractatusdeeccl00wycl=sit | tractatusdeeccle00wycl=sit		6	accept
+152	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+158	PLATE	latinworks10wycl=lesse | iohanniswyclift00mattgoog=lesse | iohanniswycliftr00wycluoft=lesse | iohanniswycliftr04wycl=esse | tractatusdeeccl00wycl=lesse | tractatusdeeccle00wycl=esse		6	accept
+162	R2	latinworks10wycl=modo | iohanniswyclift00mattgoog=modo | iohanniswycliftr00wycluoft=modo | iohanniswycliftr04wycl=raodo | tractatusdeeccl00wycl=modo | tractatusdeeccle00wycl=modo		6	accept
+166	R2	latinworks10wycl=ustcam | iohanniswyclift00mattgoog=lusticiam | iohanniswycliftr00wycluoft=msticiam | iohanniswycliftr04wycl=msticiam | tractatusdeeccl00wycl=uisticiam | tractatusdeeccle00wycl=iusticiam		6	accept
+179	R2	latinworks10wycl=presciti | iohanniswyclift00mattgoog=presaa | iohanniswycliftr00wycluoft=presciti | iohanniswycliftr04wycl=presciti | tractatusdeeccl00wycl=presciti | tractatusdeeccle00wycl=presciti		6	accept
+189	PLATE	latinworks10wycl=secundo | iohanniswyclift00mattgoog=cundo | iohanniswycliftr00wycluoft=secundo | iohanniswycliftr04wycl=secundo | tractatusdeeccl00wycl=secundo | tractatusdeeccle00wycl=secundo		6	accept
+193	R2	latinworks10wycl=tamen | iohanniswyclift00mattgoog=tamen | iohanniswycliftr00wycluoft=tamen | iohanniswycliftr04wycl=taraen | tractatusdeeccl00wycl=tamen | tractatusdeeccle00wycl=tamen		6	accept
+201	R3a	latinworks10wycl=ex | iohanniswyclift00mattgoog=es | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=ex | tractatusdeeccl00wycl=ex | tractatusdeeccle00wycl=ex		6	accept
+208	R2	latinworks10wycl=ex | iohanniswyclift00mattgoog=corporit | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=ex | tractatusdeeccl00wycl=ex | tractatusdeeccle00wycl=ex		6	accept
+209	R2	latinworks10wycl=diuersitate | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=diuersitate | iohanniswycliftr04wycl=diuersitate | tractatusdeeccl00wycl=diuersitate | tractatusdeeccle00wycl=diuersitate		6	accept
+210	R2	latinworks10wycl=corporis | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=corporis | iohanniswycliftr04wycl=corporis | tractatusdeeccl00wycl=corporis | tractatusdeeccle00wycl=corporis		6	accept
+211	R2	latinworks10wycl=chnst | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=christi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+212	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+213	R2	latinworks10wycl=corporis | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=corporis | iohanniswycliftr04wycl=corporis | tractatusdeeccl00wycl=corporis | tractatusdeeccle00wycl=corporis		6	accept
+218	R2	latinworks10wycl=omnes | iohanniswyclift00mattgoog=omoet | iohanniswycliftr00wycluoft=omnes | iohanniswycliftr04wycl=omnes | tractatusdeeccl00wycl=omnes | tractatusdeeccle00wycl=omnes		6	accept
+227	R2	latinworks10wycl=ecciesa | iohanniswyclift00mattgoog=soecdetia | iohanniswycliftr00wycluoft=ecclesia | iohanniswycliftr04wycl=ecclesia | tractatusdeeccl00wycl=ecclesia | tractatusdeeccle00wycl=ecclesia		6	accept
+232	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=io | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+234	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+241	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=ill | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=iua | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept

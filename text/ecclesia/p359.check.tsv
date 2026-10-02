@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=ecclesia | tractatusdeeccl00wycl=ecclesia		2	accept
+13	R2	latinworks10wycl=bonorum | iohanniswyclift00mattgoog=bononim | iohanniswycliftr00wycluoft=bonorum | iohanniswycliftr04wycl=bonorum | tractatusdeeccl00wycl=bonorum | tractatusdeeccle00wycl=bonorum		6	accept
+16	R2	latinworks10wycl=quam | iohanniswyclift00mattgoog=quam | iohanniswycliftr00wycluoft=quam | iohanniswycliftr04wycl=quara | tractatusdeeccl00wycl=quam | tractatusdeeccle00wycl=quara		6	accept
+20	R2	latinworks10wycl=est | iohanniswyclift00mattgoog=eit | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=cst | tractatusdeeccle00wycl=est		6	accept
+21	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+28	HEAD	GAP. XVI.			plate: CAP. XVI.
+30	PLATE	latinworks10wycl=9 | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=179 | tractatusdeeccl00wycl=10 | tractatusdeeccle00wycl=170		6	accept
+57	R4a	latinworks10wycl=successonbus | iohanniswyclift00mattgoog=successoribus | iohanniswycliftr00wycluoft=successoribus | iohanniswycliftr04wycl=successonbus | tractatusdeeccl00wycl=succestosonbus | tractatusdeeccle00wycl=successonbus		6	accept
+77	R2	latinworks10wycl=est | iohanniswyclift00mattgoog=esl | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=est | tractatusdeeccle00wycl=est		6	accept
+78	R2	latinworks10wycl=mihi | iohanniswyclift00mattgoog=milu | iohanniswycliftr00wycluoft=mihi | iohanniswycliftr04wycl=mihi | tractatusdeeccl00wycl=mihi | tractatusdeeccle00wycl=mihi		6	accept
+92	R2	latinworks10wycl=indieenciis | iohanniswyclift00mattgoog=ladigenciis | iohanniswycliftr00wycluoft=indigenciis | iohanniswycliftr04wycl=indigenciis | tractatusdeeccl00wycl=indieenciis | tractatusdeeccle00wycl=indigenciis		6	accept
+94	R2	latinworks10wycl=uite | iohanniswyclift00mattgoog=utlc | iohanniswycliftr00wycluoft=uite | iohanniswycliftr04wycl=uite | tractatusdeeccl00wycl=uite | tractatusdeeccle00wycl=uite		6	accept
+163	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=ia | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept

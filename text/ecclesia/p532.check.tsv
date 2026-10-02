@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+14	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+64	R2	latinworks10wycl=denm | iohanniswyclift00mattgoog=deum | iohanniswycliftr00wycluoft=deum | iohanniswycliftr04wycl=deiim | tractatusdeeccl00wycl=deiun | tractatusdeeccle00wycl=deum		6	accept
+89	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=iu | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=hi | tractatusdeeccle00wycl=m		6	accept
+99	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=noo | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+105	PLATE	latinworks10wycl=mcapaci | iohanniswyclift00mattgoog=incapacitate | iohanniswycliftr00wycluoft=incapacitate | iohanniswycliftr04wycl=mcapaci | tractatusdeeccl00wycl=mcapaci | tractatusdeeccle00wycl=incapacitatesed		6	accept
+106	R2	latinworks10wycl=tate | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=tate | tractatusdeeccl00wycl=tate | tractatusdeeccle00wycl=∅		6	accept
+107	R2	latinworks10wycl=sed | iohanniswyclift00mattgoog=sed | iohanniswycliftr00wycluoft=sed | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=sed | tractatusdeeccle00wycl=∅		6	accept
+139	INS	oratur	4	6	accept
+139	R6a	latinworks10wycl=are | iohanniswyclift00mattgoog=oratun | iohanniswycliftr00wycluoft=are | iohanniswycliftr04wycl=are | tractatusdeeccl00wycl=are | tractatusdeeccle00wycl=are		6	accept
+152	INS	quoad	4	6	accept
+155	R2	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=n | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=ln | tractatusdeeccle00wycl=in		6	accept
+223	R5a	latinworks10wycl=aput | iohanniswyclift00mattgoog=aput | iohanniswycliftr00wycluoft=aput | iohanniswycliftr04wycl=aput | tractatusdeeccl00wycl=aput | tractatusdeeccle00wycl=aput		6	accept
+226	PLATE	latinworks10wycl=orac | iohanniswyclift00mattgoog=oracio | iohanniswycliftr00wycluoft=orac | iohanniswycliftr04wycl=orac | tractatusdeeccl00wycl=orac | tractatusdeeccle00wycl=orac		6	accept

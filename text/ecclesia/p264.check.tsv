@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=intcr		1	accept
+1	INS?	casuales patet quod tunc contingeret ut per maiorem partem duracionis date legis iudicaretur secundum ipsam iniustum iudicium et tunc foret indubie lex iniusta et nunquam permittenda quoad terciam difficultatem super qua clamant scolastici oportet distinguere sicut facit apostolus inter	2	6	plate: ∅
+5	R2	latinworks10wycl=accentam | iohanniswyclift00mattgoog=acceptam | iohanniswycliftr00wycluoft=acceptam | iohanniswycliftr04wycl=accentam | tractatusdeeccl00wycl=acceptam | tractatusdeeccle00wycl=acceptam		6	accept
+10	R2	latinworks10wycl=iniunam | iohanniswyclift00mattgoog=iniuriam | iohanniswycliftr00wycluoft=mmnam | iohanniswycliftr04wycl=inmriam | tractatusdeeccl00wycl=miuriam | tractatusdeeccle00wycl=lniunam		6	accept
+14	INS?	a	2	6	plate: a
+17	PLATE	latinworks10wycl=lniuriam | iohanniswyclift00mattgoog=miunam | iohanniswycliftr00wycluoft=inmriam | iohanniswycliftr04wycl=imuriam | tractatusdeeccl00wycl=miunam | tractatusdeeccle00wycl=lniunam		6	accept
+23	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cuni | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+26	R3a	latinworks10wycl=iniuria | iohanniswyclift00mattgoog=iniuriay | iohanniswycliftr00wycluoft=iniuria | iohanniswycliftr04wycl=iniuria | tractatusdeeccl00wycl=iniuria | tractatusdeeccle00wycl=iniuria		6	accept
+37	R3a	latinworks10wycl=illum | iohanniswyclift00mattgoog=illum | iohanniswycliftr00wycluoft=illum | iohanniswycliftr04wycl=illum | tractatusdeeccl00wycl=illum | tractatusdeeccle00wycl=ilium		6	accept
+40	R2	latinworks10wycl=fuerit | iohanniswyclift00mattgoog=fuerit | iohanniswycliftr00wycluoft=fuerit | iohanniswycliftr04wycl=fuerit | tractatusdeeccl00wycl=fuerit | tractatusdeeccle00wycl=merit		6	accept
+115	R2	latinworks10wycl=deum | iohanniswyclift00mattgoog=deum | iohanniswycliftr00wycluoft=deum | iohanniswycliftr04wycl=deura | tractatusdeeccl00wycl=deum | tractatusdeeccle00wycl=deum		6	accept
+117	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enira | tractatusdeeccl00wycl=enim | tractatusdeeccle00wycl=enim		6	accept
+121	R2	latinworks10wycl=locum | iohanniswyclift00mattgoog=locuni | iohanniswycliftr00wycluoft=locum | iohanniswycliftr04wycl=locura | tractatusdeeccl00wycl=locum | tractatusdeeccle00wycl=locum		6	accept
+145	PLATE	latinworks10wycl=tunc | iohanniswyclift00mattgoog=tuncl | iohanniswycliftr00wycluoft=tuncl | iohanniswycliftr04wycl=tuncl | tractatusdeeccl00wycl=tunc | tractatusdeeccle00wycl=tuncl		6	accept
+153	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+166	R2	latinworks10wycl=immaculata | iohanniswyclift00mattgoog=immaculata | iohanniswycliftr00wycluoft=immaculata | iohanniswycliftr04wycl=iraraaculata | tractatusdeeccl00wycl=immaculata | tractatusdeeccle00wycl=immaculata		6	accept
+175	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=m | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=in		6	accept
+176	R2	latinworks10wycl=angha | iohanniswyclift00mattgoog=angua | iohanniswycliftr00wycluoft=auglia | iohanniswycliftr04wycl=augha | tractatusdeeccl00wycl=anglia | tractatusdeeccle00wycl=angha		6	accept
+179	R6a	latinworks10wycl=pnuilegia | iohanniswyclift00mattgoog=priuilcgia | iohanniswycliftr00wycluoft=pnuilegia | iohanniswycliftr04wycl=priuuegia | tractatusdeeccl00wycl=pnuilegia | tractatusdeeccle00wycl=priunegia		6	accept
+181	PLATE	latinworks10wycl=miqua | iohanniswyclift00mattgoog=miqua | iohanniswycliftr00wycluoft=miqua | iohanniswycliftr04wycl=miqua | tractatusdeeccl00wycl=miqua | tractatusdeeccle00wycl=miqua		6	accept
+186	PLATE	latinworks10wycl=priuilegn | iohanniswyclift00mattgoog=priuilcgn | iohanniswycliftr00wycluoft=priuilegii | iohanniswycliftr04wycl=pnuilegu | tractatusdeeccl00wycl=priuilegii | tractatusdeeccle00wycl=priuilegii		6	accept
+192	R4a	latinworks10wycl=multiplicare | iohanniswyclift00mattgoog=multiplicare | iohanniswycliftr00wycluoft=multipiicare | iohanniswycliftr04wycl=raultiplicare | tractatusdeeccl00wycl=multipiicare | tractatusdeeccle00wycl=multipiicare		6	accept
+197	R2	latinworks10wycl=ymmo | iohanniswyclift00mattgoog=ymmo | iohanniswycliftr00wycluoft=ymmo | iohanniswycliftr04wycl=ymrao | tractatusdeeccl00wycl=ymmo | tractatusdeeccle00wycl=ymmo		6	accept
+209	R3a	latinworks10wycl=illi | iohanniswyclift00mattgoog=illi | iohanniswycliftr00wycluoft=illi | iohanniswycliftr04wycl=iui | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=illi		6	accept
+213	R2	latinworks10wycl=quam | iohanniswyclift00mattgoog=quam | iohanniswycliftr00wycluoft=quam | iohanniswycliftr04wycl=quara | tractatusdeeccl00wycl=quam | tractatusdeeccle00wycl=quam		6	accept
+218	R2	latinworks10wycl=manu | iohanniswyclift00mattgoog=manu | iohanniswycliftr00wycluoft=manu | iohanniswycliftr04wycl=raanu | tractatusdeeccl00wycl=manu | tractatusdeeccle00wycl=manu		6	accept
+222	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=nou | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+232	R3a	latinworks10wycl=quamk | iohanniswyclift00mattgoog=quamk | iohanniswycliftr00wycluoft=quamk | iohanniswycliftr04wycl=quarak | tractatusdeeccl00wycl=quamk | tractatusdeeccle00wycl=quam		6	accept
+234	R2	latinworks10wycl=multi | iohanniswyclift00mattgoog=multi | iohanniswycliftr00wycluoft=multi | iohanniswycliftr04wycl=muki | tractatusdeeccl00wycl=multi | tractatusdeeccle00wycl=multi		6	accept

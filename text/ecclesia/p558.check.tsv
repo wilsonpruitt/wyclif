@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+8	R2	latinworks10wycl=do | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=do | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=do | tractatusdeeccle00wycl=do		6	accept
+20	INS	et	4	6	accept
+20	R3a	latinworks10wycl=tercio | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=tercio | iohanniswycliftr04wycl=tercio | tractatusdeeccl00wycl=tercio | tractatusdeeccle00wycl=tercio		6	accept
+28	R2	latinworks10wycl=toto | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=toto | iohanniswycliftr04wycl=toto | tractatusdeeccl00wycl=toto | tractatusdeeccle00wycl=toto		6	accept
+34	R3a	latinworks10wycl=assumpcione | iohanniswyclift00mattgoog=assumpciones | iohanniswycliftr00wycluoft=assumpcione | iohanniswycliftr04wycl=assumpcione | tractatusdeeccl00wycl=assumpcione | tractatusdeeccle00wycl=assumpcione		6	accept
+47	R3a	latinworks10wycl=genens | iohanniswyclift00mattgoog=generis | iohanniswycliftr00wycluoft=generis | iohanniswycliftr04wycl=generis | tractatusdeeccl00wycl=generis | tractatusdeeccle00wycl=generis		6	accept
+51	R2	latinworks10wycl=secugdi | iohanniswyclift00mattgoog=secundi | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=secundi | tractatusdeeccl00wycl=secundi | tractatusdeeccle00wycl=secundi		6	accept
+57	R3b	latinworks10wycl=alia | iohanniswyclift00mattgoog=alia | iohanniswycliftr00wycluoft=aha | iohanniswycliftr04wycl=aha | tractatusdeeccl00wycl=alia | tractatusdeeccle00wycl=alia		6	accept
+98	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+151	INS	sed	4	6	accept
+151	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+153	R3a	latinworks10wycl=quod | iohanniswyclift00mattgoog=quod | iohanniswycliftr00wycluoft=quod | iohanniswycliftr04wycl=quod | tractatusdeeccl00wycl=quoa | tractatusdeeccle00wycl=quod		6	accept
+155	R4a	latinworks10wycl=satisfecit | iohanniswyclift00mattgoog=satisfecit | iohanniswycliftr00wycluoft=satisrecit | iohanniswycliftr04wycl=satislecit | tractatusdeeccl00wycl=satisrecit | tractatusdeeccle00wycl=satisrecit		6	accept
+158	INS?	illius	3	6	plate: illius
+158	INS?	ilhus	2	6	plate: ∅
+173	R2	latinworks10wycl=tu | iohanniswyclift00mattgoog=tu | iohanniswycliftr00wycluoft=tii | iohanniswycliftr04wycl=7ii | tractatusdeeccl00wycl=tn | tractatusdeeccle00wycl=tu		6	accept
+191	R2	latinworks10wycl=sed | iohanniswyclift00mattgoog=std | iohanniswycliftr00wycluoft=sed | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=sed | tractatusdeeccle00wycl=sed		6	accept
+210	EDGE	latinworks10wycl=fuit | tractatusdeeccle00wycl=fuit		2	accept

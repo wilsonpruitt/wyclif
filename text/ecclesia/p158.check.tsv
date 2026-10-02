@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=ista | iohanniswycliftr04wycl=ista		2	accept
+1	EDGE	latinworks10wycl=primo | iohanniswycliftr04wycl=primo		2	accept
+2	PLATE	latinworks10wycl=sunponendo | iohanniswycliftr04wycl=sunponendo		2	accept
+13	R2	latinworks10wycl=de | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=de		6	accept
+20	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=lila | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=llla | tractatusdeeccle00wycl=ilia		6	accept
+23	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=cbristi | iohanniswycliftr00wycluoft=christi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=ghristi		6	accept
+48	PLATE	latinworks10wycl=xu | iohanniswyclift00mattgoog=xu | iohanniswycliftr00wycluoft=xu | iohanniswycliftr04wycl=xu | tractatusdeeccl00wycl=xu1 | tractatusdeeccle00wycl=xu1		6	accept
+85	R2	latinworks10wycl=omnes | iohanniswyclift00mattgoog=oranes | iohanniswycliftr00wycluoft=omnes | iohanniswycliftr04wycl=omnes | tractatusdeeccl00wycl=omnes | tractatusdeeccle00wycl=omnes		6	accept
+107	R2	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=gum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+115	PLATE	latinworks10wycl=11 | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=ii | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii		6	accept
+179	R2	latinworks10wycl=patrem | iohanniswyclift00mattgoog=patremas | iohanniswycliftr00wycluoft=patrem | iohanniswycliftr04wycl=patremas | tractatusdeeccl00wycl=patrem | tractatusdeeccle00wycl=patreni		6	accept
+223	R3a	latinworks10wycl=mendacii | iohanniswyclift00mattgoog=mendadi | iohanniswycliftr00wycluoft=mendacii | iohanniswycliftr04wycl=mendacn | tractatusdeeccl00wycl=mendacii | tractatusdeeccle00wycl=mendacii		6	accept

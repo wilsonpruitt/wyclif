@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+5	R2	latinworks10wycl=regum | iohanniswyclift00mattgoog=regum | iohanniswycliftr00wycluoft=regum | iohanniswycliftr04wycl=resrum | tractatusdeeccl00wycl=regum | tractatusdeeccle00wycl=regum		6	accept
+8	R2	latinworks10wycl=regna | iohanniswyclift00mattgoog=rqpia | iohanniswycliftr00wycluoft=regna | iohanniswycliftr04wycl=regua | tractatusdeeccl00wycl=regna | tractatusdeeccle00wycl=regna		6	accept
+14	R4a	latinworks10wycl=mris | iohanniswyclift00mattgoog=iuris | iohanniswycliftr00wycluoft=mris | iohanniswycliftr04wycl=mns | tractatusdeeccl00wycl=mns | tractatusdeeccle00wycl=mris		6	accept
+15	R2	latinworks10wycl=regis | iohanniswyclift00mattgoog=ttgitf | iohanniswycliftr00wycluoft=regis | iohanniswycliftr04wycl=regis | tractatusdeeccl00wycl=regis | tractatusdeeccle00wycl=regis		6	accept
+65	R3a	latinworks10wycl=sepe | iohanniswyclift00mattgoog=sepe | iohanniswycliftr00wycluoft=sepe | iohanniswycliftr04wycl=sene | tractatusdeeccl00wycl=sepe | tractatusdeeccle00wycl=sepe		6	accept
+67	R2	latinworks10wycl=capitutis | iohanniswycliftr00wycluoft=a | iohanniswycliftr04wycl=a | tractatusdeeccl00wycl=a | tractatusdeeccle00wycl=a		5	accept
+68	INS	capitulis	4	6	accept
+69	R4a	latinworks10wycl=inuitis | iohanniswycliftr00wycluoft=muitis | iohanniswycliftr04wycl=muitis | tractatusdeeccl00wycl=muitis | tractatusdeeccle00wycl=inuitis		5	accept
+97	R2	latinworks10wycl=tcmporalium | iohanniswyclift00mattgoog=temporalium | iohanniswycliftr00wycluoft=temporalium | iohanniswycliftr04wycl=temporabura | tractatusdeeccl00wycl=temporalium | tractatusdeeccle00wycl=temporalium		6	accept
+108	R2	latinworks10wycl=cur | iohanniswyclift00mattgoog=cur | iohanniswycliftr00wycluoft=cur | iohanniswycliftr04wycl=cur | tractatusdeeccl00wycl=gur | tractatusdeeccle00wycl=cur		6	accept
+109	R3a	latinworks10wycl=ergo | iohanniswyclift00mattgoog=ei | iohanniswycliftr00wycluoft=ergo | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=ergo | tractatusdeeccle00wycl=ergo		6	accept
+121	R2	latinworks10wycl=principaliter | iohanniswyclift00mattgoog=prindpaliter | iohanniswycliftr00wycluoft=principaliter | iohanniswycliftr04wycl=urincinahter | tractatusdeeccl00wycl=principaliter | tractatusdeeccle00wycl=principaliter		6	accept
+126	PLATE	latinworks10wycl=atquei | iohanniswyclift00mattgoog=atquei | iohanniswycliftr00wycluoft=atque | iohanniswycliftr04wycl=atquei | tractatusdeeccl00wycl=atquei | tractatusdeeccle00wycl=atquei		6	accept
+131	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=in		6	accept
+138	R4a	latinworks10wycl=clencis | iohanniswyclift00mattgoog=dcricis | iohanniswycliftr00wycluoft=clericis | iohanniswycliftr04wycl=clencis | tractatusdeeccl00wycl=clencis | tractatusdeeccle00wycl=clencis		6	accept
+144	R3a	latinworks10wycl=ecclesie | iohanniswyclift00mattgoog=ecclcsie | iohanniswycliftr00wycluoft=ecclesie | iohanniswycliftr04wycl=ccclesie | tractatusdeeccl00wycl=ecclesie | tractatusdeeccle00wycl=ecclesie		6	accept
+147	R3a	latinworks10wycl=foret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=roret | iohanniswycliftr04wycl=foret | tractatusdeeccl00wycl=foret | tractatusdeeccle00wycl=foret		6	accept
+153	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+180	R2	latinworks10wycl=omnis | iohanniswyclift00mattgoog=omnis | iohanniswycliftr00wycluoft=omnis | iohanniswycliftr04wycl=oranis | tractatusdeeccl00wycl=omnis | tractatusdeeccle00wycl=omnis		6	accept
+192	PLATE	latinworks10wycl=xiii | iohanniswyclift00mattgoog=xiii | iohanniswycliftr00wycluoft=xiii | iohanniswycliftr04wycl=xiii | tractatusdeeccl00wycl=xiii1 | tractatusdeeccle00wycl=xiii1		6	accept
+195	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+196	R2	latinworks10wycl=omnis | iohanniswyclift00mattgoog=omnis | iohanniswycliftr00wycluoft=omnis | iohanniswycliftr04wycl=oranis | tractatusdeeccl00wycl=omnis | tractatusdeeccle00wycl=omnis		6	accept
+213	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+216	R3a	latinworks10wycl=tam | iohanniswyclift00mattgoog=tam | iohanniswycliftr00wycluoft=tam | iohanniswycliftr04wycl=tara | tractatusdeeccl00wycl=tam		5	accept
+221	R3a	latinworks10wycl=regem | iohanniswyclift00mattgoog=regem | iohanniswycliftr00wycluoft=regem | iohanniswycliftr04wycl=regeni | tractatusdeeccl00wycl=regem | tractatusdeeccle00wycl=regem		6	accept
+230	R2	latinworks10wycl=pertinaci | iohanniswyclift00mattgoog=perdnad | iohanniswycliftr00wycluoft=pertinaci | iohanniswycliftr04wycl=pcrtinaci | tractatusdeeccl00wycl=pertinaci | tractatusdeeccle00wycl=pertinaci		6	accept

@@ -1,0 +1,26 @@
+page	pos	rule	forms	reading	note
+7	59	OVERRIDE-VERSE	latinworks10wycl=xxiu | output=XXIV°, cum	XXIV°,	
+20	164	OVERRIDE-VERSE	latinworks10wycl=u | output=V°, Immo	V°, 32.	print has verse 32 after chapter (confirmed on leaf n0057)
+34	149	OVERRIDE-VERSE	latinworks10wycl=x | output=X°, de	X°,	
+65	204	OVERRIDE-VERSE	latinworks10wycl=xi | output=XI°, sic	XI°,	no verse; boxed edge mark is the s of sic
+75	49	OVERRIDE-VERSE	latinworks10wycl=uiii | output=VIII°, ubi	VIII°, 35,	print has verse 35 after chapter
+135	146	OVERRIDE-VERSE	latinworks10wycl=xxu | output=XXV°, et	XXV°,	
+147	27	OVERRIDE-VERSE	latinworks10wycl=xx | output=XX°, ubi	XX°,	
+201	146	OVERRIDE-VERSE	latinworks10wycl=xxiu | output=XXIV°, loquens	XXIV°, 40,	print has verse 40 after chapter (old-style 4)
+226	157	OVERRIDE-VERSE	latinworks10wycl=u | output=V°, necesse	V°, 25,	print has verse 25 at line end; following b is an alinea letter
+263	119	OVERRIDE-VERSE	latinworks10wycl=xuiii | output=XVIII°, castigatis	XVIII°,	line-final; next line starts castigatis, no verse
+273	9	OVERRIDE-VERSE	latinworks10wycl=u | output=V°, et	V°,	
+283	182	OVERRIDE-VERSE	latinworks10wycl=xui | output=XVI°, de	XVI°,	
+293	118	OVERRIDE-VERSE	latinworks10wycl=x | output=X°, suis	X°,	line-final; next line starts suis, no verse
+294	181	OVERRIDE-VERSE	latinworks10wycl=xii | output=XII°, ubi	XII°,	no verse; the 3 at line end is a margin numeral
+301	60	OVERRIDE-VERSE	latinworks10wycl=xxii | output=XXII°, ubi	XXII°,	
+303	12	OVERRIDE-VERSE	latinworks10wycl=xix | output=XIX°, Scio	XIX°, 25:	print has verse 25 followed by colon
+308	193	OVERRIDE-VERSE	latinworks10wycl=x | output=X°, nec	X°,	line-final; next line starts nec, no verse
+311	19	OVERRIDE-VERSE	latinworks10wycl=uiii | output=VIII°, et	VIII°,	
+353	35	OVERRIDE-VERSE	latinworks10wycl=iii | output=III°, et	III°,	line-final; next line starts et, no verse
+372	64	OVERRIDE-VERSE	latinworks10wycl=xii | output=XII°, in	XII°,	
+444	178	OVERRIDE-VERSE	latinworks10wycl=x | output=X°, ubi	X°,	
+448	112	OVERRIDE-VERSE	latinworks10wycl=xxiii | output=XXIII°, Cayphas,	XXIII°,	
+448	115	OVERRIDE-VERSE	latinworks10wycl=xi | output=XI°, prophetarunt,	XI°,	
+520	218	OVERRIDE-VERSE	latinworks10wycl=xxii | output=XXII°, ex	XXII°,	
+540	218	OVERRIDE-VERSE	latinworks10wycl=xii | output=XII°, et	XII°,	

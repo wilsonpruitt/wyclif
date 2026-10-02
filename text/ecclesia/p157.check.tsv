@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=out		1	accept
+1	EDGE	latinworks10wycl=patet | tractatusdeeccle00wycl=patet		2	accept
+2	PLATE	latinworks10wycl=ia | tractatusdeeccle00wycl=ia		2	accept
+11	R2	latinworks10wycl=prospere | iohanniswyclift00mattgoog=pixmperey | iohanniswycliftr00wycluoft=prospere | iohanniswycliftr04wycl=prospere | tractatusdeeccl00wycl=prospere | tractatusdeeccle00wycl=prospere		6	accept
+34	PLATE	latinworks10wycl=cccct0s | iohanniswyclift00mattgoog=ccco | iohanniswycliftr00wycluoft=cccg | iohanniswycliftr04wycl=cccc | tractatusdeeccl00wycl=cccci0s | tractatusdeeccle00wycl=cccct0s		6	accept
+40	R5a	latinworks10wycl=gen | iohanniswyclift00mattgoog=gen | iohanniswycliftr00wycluoft=gen | iohanniswycliftr04wycl=gen | tractatusdeeccl00wycl=gen | tractatusdeeccle00wycl=gen		6	accept
+41	R2	latinworks10wycl=xu | iohanniswyclift00mattgoog=xu | iohanniswycliftr00wycluoft=xu | iohanniswycliftr04wycl=xu | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=xu		6	accept
+54	R2	latinworks10wycl=nisi | iohanniswyclift00mattgoog=nia | iohanniswycliftr00wycluoft=nisi | iohanniswycliftr04wycl=nisi | tractatusdeeccl00wycl=nisi | tractatusdeeccle00wycl=nisi		6	accept
+61	PLATE	latinworks10wycl=otim | iohanniswyclift00mattgoog=olim | iohanniswycliftr00wycluoft=ohm | iohanniswycliftr04wycl=oum | tractatusdeeccl00wycl=olim | tractatusdeeccle00wycl=olim		6	accept
+62	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+65	R2	latinworks10wycl=anima | iohanniswyclift00mattgoog=anima | iohanniswycliftr00wycluoft=anima | iohanniswycliftr04wycl=aniraa | tractatusdeeccl00wycl=anima | tractatusdeeccle00wycl=anima		6	accept
+74	R2	latinworks10wycl=unum | iohanniswyclift00mattgoog=unum | iohanniswycliftr00wycluoft=unum | iohanniswycliftr04wycl=unura | tractatusdeeccl00wycl=unura | tractatusdeeccle00wycl=unum		6	accept
+81	R2	latinworks10wycl=mutua | iohanniswyclift00mattgoog=mutua | iohanniswycliftr00wycluoft=mutua | iohanniswycliftr04wycl=rautua | tractatusdeeccl00wycl=mutua | tractatusdeeccle00wycl=mutua		6	accept
+82	R3a	latinworks10wycl=obseruancia | iohanniswyclift00mattgoog=obseruanda | iohanniswycliftr00wycluoft=obseruancia | iohanniswycliftr04wycl=obseruancia | tractatusdeeccl00wycl=obseruancia | tractatusdeeccle00wycl=obseruancia		6	accept
+84	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christl | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+86	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enira | tractatusdeeccl00wycl=cnim | tractatusdeeccle00wycl=enim		6	accept
+97	PLATE	latinworks10wycl=peioratus | iohanniswyclift00mattgoog=pcioratus | iohanniswycliftr00wycluoft=peioratus | iohanniswycliftr04wycl=peioratus | tractatusdeeccl00wycl=peioratus | tractatusdeeccle00wycl=peioratus		6	accept
+99	R2	latinworks10wycl=tamen | iohanniswyclift00mattgoog=tamen | iohanniswycliftr00wycluoft=tamen | iohanniswycliftr04wycl=taraen | tractatusdeeccl00wycl=tamen | tractatusdeeccle00wycl=tamen		6	accept
+106	R2	latinworks10wycl=locum | iohanniswyclift00mattgoog=locum | iohanniswycliftr00wycluoft=locum | iohanniswycliftr04wycl=locura | tractatusdeeccl00wycl=locum | tractatusdeeccle00wycl=locum		6	accept
+108	R2	latinworks10wycl=msufhcienti | iohanniswyclift00mattgoog=insufficicnti | iohanniswycliftr00wycluoft=insufficienti | iohanniswycliftr04wycl=insutncienti | tractatusdeeccl00wycl=insufficienti | tractatusdeeccle00wycl=lnsulncienti		6	accept
+115	R2	latinworks10wycl=cupidinem | iohanniswyclift00mattgoog=cupidmem | iohanniswycliftr00wycluoft=cupidmem | iohanniswycliftr04wycl=cupidmera | tractatusdeeccl00wycl=cupidinem | tractatusdeeccle00wycl=cupidinem		6	accept
+116	R4a	latinworks10wycl=temporahum | iohanniswyclift00mattgoog=temporahum | iohanniswycliftr00wycluoft=temporahum | iohanniswycliftr04wycl=temporalmm | tractatusdeeccl00wycl=temporalium | tractatusdeeccle00wycl=temporahum		6	accept
+126	R3a	latinworks10wycl=alia | iohanniswyclift00mattgoog=alia | iohanniswycliftr00wycluoft=aha | iohanniswycliftr04wycl=aua | tractatusdeeccl00wycl=alia | tractatusdeeccle00wycl=alia		6	accept
+133	PLATE	latinworks10wycl=culpa | iohanniswyclift00mattgoog=oculpa | iohanniswycliftr00wycluoft=oculpa | iohanniswycliftr04wycl=oculpa | tractatusdeeccl00wycl=occulpa | tractatusdeeccle00wycl=culpa		6	accept
+161	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus		6	accept
+166	R2	latinworks10wycl=omnia | iohanniswyclift00mattgoog=omnia | iohanniswycliftr00wycluoft=omnia | iohanniswycliftr04wycl=orania | tractatusdeeccl00wycl=omnia | tractatusdeeccle00wycl=omnia		6	accept
+170	R3a	latinworks10wycl=sensum | iohanniswyclift00mattgoog=sensum | iohanniswycliftr00wycluoft=sensum | iohanniswycliftr04wycl=sensura | tractatusdeeccl00wycl=sensum | tractatusdeeccle00wycl=sensum		6	accept
+173	HEAD	CAP. VIII.			plate: CAP. VIII.
+185	R2	latinworks10wycl=matre | iohanniswyclift00mattgoog=matrc | iohanniswycliftr00wycluoft=matre | iohanniswycliftr04wycl=raatre | tractatusdeeccl00wycl=matre | tractatusdeeccle00wycl=matre		6	accept
+188	R2	latinworks10wycl=nimis | iohanniswyclift00mattgoog=nimis | iohanniswycliftr00wycluoft=nimis | iohanniswycliftr04wycl=nirais | tractatusdeeccl00wycl=nimis | tractatusdeeccle00wycl=nimis		6	accept
+199	R2	latinworks10wycl=roma | iohanniswyclift00mattgoog=roma | iohanniswycliftr00wycluoft=roma | iohanniswycliftr04wycl=roraa | tractatusdeeccl00wycl=roma | tractatusdeeccle00wycl=roma		6	accept
+203	R2	latinworks10wycl=fidei | iohanniswyclift00mattgoog=fidd | iohanniswycliftr00wycluoft=fidei | iohanniswycliftr04wycl=fidei | tractatusdeeccl00wycl=fidei | tractatusdeeccle00wycl=fidei		6	accept

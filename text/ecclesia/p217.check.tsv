@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=aliquis | tractatusdeeccl00wycl=aliquis		2	accept
+7	R2	latinworks10wycl=uel | iohanniswyclift00mattgoog=td | iohanniswycliftr04wycl=uel | tractatusdeeccl00wycl=uel | tractatusdeeccle00wycl=uel		5	accept
+10	R3a	latinworks10wycl=illum | iohanniswyclift00mattgoog=illum | iohanniswycliftr04wycl=illum | tractatusdeeccl00wycl=illiim | tractatusdeeccle00wycl=ilium		5	accept
+15	R3a	latinworks10wycl=sed | iohanniswyclift00mattgoog=sed | iohanniswycliftr04wycl=scd | tractatusdeeccl00wycl=sol | tractatusdeeccle00wycl=sed		5	accept
+45	R3a	latinworks10wycl=casu | iohanniswyclift00mattgoog=caso | iohanniswycliftr04wycl=casu | tractatusdeeccl00wycl=casu | tractatusdeeccle00wycl=casu		5	accept
+60	R3a	latinworks10wycl=ingeniosus | iohanniswyclift00mattgoog=ingeniosos | iohanniswycliftr04wycl=ingeniosus | tractatusdeeccl00wycl=ingeniosus | tractatusdeeccle00wycl=ingeniosus		5	accept
+61	PLATE	latinworks10wycl=legista | iohanniswyclift00mattgoog=legista | iohanniswycliftr04wycl=legista | tractatusdeeccl00wycl=legista | tractatusdeeccle00wycl=legista		5	accept
+62	PLATE	latinworks10wycl=i39quod | iohanniswyclift00mattgoog=i59quod | iohanniswycliftr04wycl=gquod | tractatusdeeccl00wycl=gquod | tractatusdeeccle00wycl=gaquod		5	accept
+87	R5a	latinworks10wycl=aput | iohanniswyclift00mattgoog=aput | iohanniswycliftr04wycl=aput | tractatusdeeccl00wycl=aput | tractatusdeeccle00wycl=aput		5	accept
+91	R2	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr04wycl=nam | tractatusdeeccl00wycl=xam | tractatusdeeccle00wycl=nam		5	accept
+134	PLATE	latinworks10wycl=impetrauerit | iohanniswyclift00mattgoog=imaopctraucrit | iohanniswycliftr04wycl=impctrauerit | tractatusdeeccl00wycl=imaopetrauerit | tractatusdeeccle00wycl=imaopetrauerit		5	accept
+148	R2	latinworks10wycl=nec | iohanniswyclift00mattgoog=nec | iohanniswycliftr04wycl=nec | tractatusdeeccl00wycl=xcc | tractatusdeeccle00wycl=nee		5	accept
+186	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=∅ | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		5	accept
+190	R2	latinworks10wycl=francie | iohanniswyclift00mattgoog=frandcy | iohanniswycliftr04wycl=francie | tractatusdeeccl00wycl=francie | tractatusdeeccle00wycl=francie		5	accept
+224	R2	latinworks10wycl=corruptela | iohanniswyclift00mattgoog=comiptela | iohanniswycliftr04wycl=corruptela | tractatusdeeccl00wycl=corruptela | tractatusdeeccle00wycl=corruptela		5	accept

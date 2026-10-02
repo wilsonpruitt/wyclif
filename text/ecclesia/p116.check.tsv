@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	GAP. VI.			plate: CAP. VI.
+2	R5a	latinworks10wycl=to | iohanniswycliftr00wycluoft=to | tractatusdeeccl00wycl=to | tractatusdeeccle00wycl=to		4	accept
+3	R2	latinworks10wycl=sed | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=sed | tractatusdeeccle00wycl=sed		4	accept
+16	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=nini | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=miradsi | tractatusdeeccl00wycl=enim | tractatusdeeccle00wycl=enim		6	accept
+23	PLATE	latinworks10wycl=mille | iohanniswyclift00mattgoog=iixiue | iohanniswycliftr00wycluoft=ydile | iohanniswycliftr04wycl=ixiq | tractatusdeeccl00wycl=me | tractatusdeeccle00wycl=miue		6	accept
+28	R2	latinworks10wycl=aliis | iohanniswyclift00mattgoog=alib | iohanniswycliftr00wycluoft=ahis | iohanniswycliftr04wycl=ahis | tractatusdeeccl00wycl=aliis | tractatusdeeccle00wycl=aliis		6	accept
+41	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+55	R4a	latinworks10wycl=lstius | iohanniswyclift00mattgoog=istms | iohanniswycliftr00wycluoft=istms | iohanniswycliftr04wycl=istms | tractatusdeeccl00wycl=lstius | tractatusdeeccle00wycl=istius		6	accept
+85	R2	latinworks10wycl=tamen | iohanniswyclift00mattgoog=tamen | iohanniswycliftr00wycluoft=tamen | iohanniswycliftr04wycl=taraen | tractatusdeeccl00wycl=tamen | tractatusdeeccle00wycl=tamen		6	accept
+90	R2	latinworks10wycl=istorum | iohanniswyclift00mattgoog=istonim | iohanniswycliftr00wycluoft=istorum | iohanniswycliftr04wycl=istorum | tractatusdeeccl00wycl=istorum | tractatusdeeccle00wycl=istorum		6	accept
+102	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+109	R2	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=gum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=gum		6	accept
+136	R2	latinworks10wycl=membrum | iohanniswyclift00mattgoog=membrum | iohanniswycliftr00wycluoft=niembrum | iohanniswycliftr04wycl=raerabruni | tractatusdeeccl00wycl=membrum | tractatusdeeccle00wycl=membrum		6	accept
+137	R2	latinworks10wycl=illius | iohanniswyclift00mattgoog=iuiusy | iohanniswycliftr00wycluoft=illius | iohanniswycliftr04wycl=illius | tractatusdeeccl00wycl=illius | tractatusdeeccle00wycl=illius		6	accept
+160	R4a	latinworks10wycl=in | iohanniswyclift00mattgoog=m | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=m		6	accept
+174	R2	latinworks10wycl=1i10 | iohanniswyclift00mattgoog=iuo | iohanniswycliftr00wycluoft=illo | iohanniswycliftr04wycl=illo | tractatusdeeccl00wycl=1ii0 | tractatusdeeccle00wycl=illo		6	accept
+180	R2	latinworks10wycl=membris | iohanniswyclift00mattgoog=membris | iohanniswycliftr00wycluoft=membris | iohanniswycliftr04wycl=raerabris | tractatusdeeccl00wycl=membris | tractatusdeeccle00wycl=membris		6	accept
+192	PLATE	latinworks10wycl=est | iohanniswyclift00mattgoog=estas | iohanniswycliftr00wycluoft=estas | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=est | tractatusdeeccle00wycl=est		6	accept
+220	R2	latinworks10wycl=matre | iohanniswyclift00mattgoog=matre | iohanniswycliftr00wycluoft=matre | iohanniswycliftr04wycl=raatre | tractatusdeeccl00wycl=matre | tractatusdeeccle00wycl=matre		6	accept
+231	R2	latinworks10wycl=gicam | iohanniswyclift00mattgoog=logicam | iohanniswycliftr04wycl=logicam | tractatusdeeccl00wycl=logicam | tractatusdeeccle00wycl=gicam		5	accept

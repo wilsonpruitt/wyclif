@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=dotacione		1	accept
+1	EDGE	latinworks10wycl=et		1	accept
+2	PLATE	latinworks10wycl=cx		1	accept
+53	R5a	latinworks10wycl=romana | iohanniswyclift00mattgoog=romana | iohanniswycliftr00wycluoft=romana | iohanniswycliftr04wycl=romana | tractatusdeeccl00wycl=romana | tractatusdeeccle00wycl=romana		6	accept
+66	R2	latinworks10wycl=cuiti | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+78	INS?	as	3	6	plate: ∅
+160	R2	latinworks10wycl=celum | iohanniswyclift00mattgoog=celura | iohanniswycliftr00wycluoft=celura | iohanniswycliftr04wycl=celum | tractatusdeeccl00wycl=celum | tractatusdeeccle00wycl=celum		6	accept
+203	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fuit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fiiit | tractatusdeeccl00wycl=fuit | tractatusdeeccle00wycl=fuit		6	accept
+205	R3a	latinworks10wycl=ex | iohanniswyclift00mattgoog=ex | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=cx | tractatusdeeccl00wycl=e | tractatusdeeccle00wycl=ex		6	accept
+229	R2	latinworks10wycl=omnino | iohanniswyclift00mattgoog=omnino | iohanniswycliftr00wycluoft=omnino | iohanniswycliftr04wycl=omnino | tractatusdeeccl00wycl=omnino | tractatusdeeccle00wycl=omni110		6	accept

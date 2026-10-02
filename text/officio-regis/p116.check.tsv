@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+13	R5a	latinworks18wycl=comunissima | fordham=comunissima | iohanniswycliftr08wycl=comunissima | tractatusdeoffi00saylgoog=comunissima | tractatusdeoffic00wycl=comunissima		5	accept
+16	DEL	latinworks18wycl=1 | fordham=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		5	accept
+24	R3	latinworks18wycl=ia | fordham=ia | iohanniswycliftr08wycl=i | tractatusdeoffi00saylgoog=icor | tractatusdeoffic00wycl=icor		5	plate
+25	R2	latinworks18wycl=cor | fordham=cor | iohanniswycliftr08wycl=cor | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		5	accept
+27	R4	latinworks18wycl=adhuci | fordham=adhuc | iohanniswycliftr08wycl=adiuci | tractatusdeoffi00saylgoog=adhuci | tractatusdeoffic00wycl=adhua		5	plate
+29	R2	latinworks18wycl=excellenciorem | fordham=excellenciorem | iohanniswycliftr08wycl=excellenciorem | tractatusdeoffi00saylgoog=excdknciorcm | tractatusdeoffic00wycl=excellenciorem		5	accept
+42	R3a	latinworks18wycl=sunt | fordham=sent | iohanniswycliftr08wycl=sunt | tractatusdeoffi00saylgoog=sunt | tractatusdeoffic00wycl=sunt		5	accept
+70	R3a	latinworks18wycl=impositis | fordham=impositis | iohanniswycliftr08wycl=impositis | tractatusdeoffi00saylgoog=i | tractatusdeoffic00wycl=impositis		5	accept
+71	R2	latinworks18wycl=tunc | fordham=tunc | iohanniswycliftr08wycl=tuuc | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=tunc		5	accept
+78	R2	latinworks18wycl=discipuli | fordham=discipuli | iohanniswycliftr08wycl=inssimiersip | tractatusdeoffi00saylgoog=emineuciam | tractatusdeoffic00wycl=p		5	accept
+79	R2	latinworks18wycl=eminenciam | fordham=eminenciam | iohanniswycliftr08wycl=emincnciam | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=eininenciam		5	accept
+91	R3a	latinworks18wycl=nec | fordham=nec | iohanniswycliftr08wycl=ncc | tractatusdeoffi00saylgoog=nec | tractatusdeoffic00wycl=nec		5	accept
+98	R3	latinworks18wycl=purey | fordham=pure | iohanniswycliftr08wycl=purey | tractatusdeoffi00saylgoog=puret | tractatusdeoffic00wycl=pure		5	plate
+124	R3a	latinworks18wycl=defectus | fordham=defectus | iohanniswycliftr08wycl=de15 | tractatusdeoffi00saylgoog=defectos | tractatusdeoffic00wycl=defectus		5	accept
+131	R3a	latinworks18wycl=totus | fordham=totes | iohanniswycliftr08wycl=totus | tractatusdeoffi00saylgoog=lotus | tractatusdeoffic00wycl=totus		5	accept
+134	R3a	latinworks18wycl=in | fordham=in | iohanniswycliftr08wycl=in | tractatusdeoffi00saylgoog=iu | tractatusdeoffic00wycl=in		5	accept
+135	R3a	latinworks18wycl=remissione | fordham=remissione | iohanniswycliftr08wycl=remissione | tractatusdeoffi00saylgoog=remissione | tractatusdeoffic00wycl=remissioue		5	accept
+142	R2	latinworks18wycl=enim | fordham=enim | iohanniswycliftr08wycl=crcderet | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=enim		5	accept
+143	R2	latinworks18wycl=crederet | fordham=crederet | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=crederet | tractatusdeoffic00wycl=crcderct		5	accept
+158	R4	latinworks18wycl=therehgionofthe | fordham=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=thereligionofthe		4	plate
+159	DEL	latinworks18wycl=o | fordham=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		4	accept
+160	DEL	latinworks18wycl=r | fordham=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		4	accept
+161	DEL	latinworks18wycl=o | fordham=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		4	accept
+192	R3a	latinworks18wycl=ut | fordham=tit | iohanniswycliftr08wycl=ut | tractatusdeoffi00saylgoog=nt | tractatusdeoffic00wycl=ut		5	accept
+193	R5a	latinworks18wycl=epieikeia | fordham=epieikeia | iohanniswycliftr08wycl=epieikeia | tractatusdeoffi00saylgoog=epieikeia | tractatusdeoffic00wycl=epieikeia		5	accept
+207	R5a	latinworks18wycl=religiosiarche | fordham=religiosiarche | iohanniswycliftr08wycl=religiosiarche | tractatusdeoffi00saylgoog=religiosiarche | tractatusdeoffic00wycl=religiosiarche		5	accept
+213	R2	latinworks18wycl=excellerent | fordham=excellerent | iohanniswycliftr08wycl=exthismakesmanycellerent | tractatusdeoffic00wycl=excellerent		4	accept
+223	R4	latinworks18wycl=ordmum | fordham=ordinum | iohanniswycliftr08wycl=ordmum | tractatusdeoffi00saylgoog=ordinum | tractatusdeoffic00wycl=ordmum		5	plate
+234	R2	latinworks18wycl=suos | fordham=suos | iohanniswycliftr08wycl=guos | tractatusdeoffi00saylgoog=suos | tractatusdeoffic00wycl=guqs		5	accept
+243	R3	latinworks18wycl=utiter | fordham=qui | tractatusdeoffi00saylgoog=1		3	plate
+252	R2	latinworks18wycl=dispensacio | fordham=dispensacio | tractatusdeoffi00saylgoog=bmfortmep		3	accept
+253	R2	latinworks18wycl=est | fordham=est | tractatusdeoffi00saylgoog=∅		3	accept
+254	R2	latinworks18wycl=adeo | fordham=adeo | tractatusdeoffi00saylgoog=∅		3	accept

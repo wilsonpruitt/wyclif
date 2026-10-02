@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=205in		1	accept
+1	EDGE	latinworks10wycl=talibus | iohanniswycliftr00wycluoft=talibus		2	accept
+2	EDGE	latinworks10wycl=dependet | iohanniswycliftr00wycluoft=dependet		2	accept
+3	EDGE	latinworks10wycl=ordinaciodeieterna | iohanniswycliftr00wycluoft=ordinaciodeieterna		2	accept
+32	R2	latinworks10wycl=hoc | iohanniswyclift00mattgoog=hoc | iohanniswycliftr00wycluoft=hoc | iohanniswycliftr04wycl=hoc | tractatusdeeccl00wycl=noc | tractatusdeeccle00wycl=hoc		6	accept
+38	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+64	PLATE	latinworks10wycl=archana | iohanniswyclift00mattgoog=archana | iohanniswycliftr00wycluoft=archana | iohanniswycliftr04wycl=archana | tractatusdeeccl00wycl=archana | tractatusdeeccle00wycl=archana		6	accept
+113	R5a	latinworks10wycl=aput | iohanniswyclift00mattgoog=aput | iohanniswycliftr00wycluoft=aput | iohanniswycliftr04wycl=aput | tractatusdeeccl00wycl=aput | tractatusdeeccle00wycl=aput		6	accept
+119	PLATE	latinworks10wycl=eeneraliter | iohanniswyclift00mattgoog=generaliter | iohanniswycliftr00wycluoft=eeneraliter | iohanniswycliftr04wycl=generaliter | tractatusdeeccl00wycl=generaliter | tractatusdeeccle00wycl=eeneraliter		6	accept
+120	R2	latinworks10wycl=intellieit | iohanniswyclift00mattgoog=intelligit | iohanniswycliftr00wycluoft=intelliffit | iohanniswycliftr04wycl=intelliffit | tractatusdeeccl00wycl=intelligit | tractatusdeeccle00wycl=intelligit		6	accept
+136	R3a	latinworks10wycl=illum | iohanniswyclift00mattgoog=illum | iohanniswycliftr00wycluoft=illum | iohanniswycliftr04wycl=illum | tractatusdeeccl00wycl=illum | tractatusdeeccle00wycl=ilium		6	accept
+146	R3a	latinworks10wycl=se | iohanniswyclift00mattgoog=le | iohanniswycliftr00wycluoft=se | iohanniswycliftr04wycl=se | tractatusdeeccl00wycl=se | tractatusdeeccle00wycl=se		6	accept
+152	R2	latinworks10wycl=deum | iohanniswyclift00mattgoog=deum | iohanniswycliftr00wycluoft=deuml | iohanniswycliftr04wycl=deuml | tractatusdeeccl00wycl=deum | tractatusdeeccle00wycl=deumlhis0ditin		6	accept
+213	R2	latinworks10wycl=errantes | iohanniswyclift00mattgoog=errantei | iohanniswycliftr00wycluoft=oerrantes | iohanniswycliftr04wycl=errantes | tractatusdeeccl00wycl=oerrantes | tractatusdeeccle00wycl=errantes		6	accept
+217	R4a	latinworks10wycl=quihbet | iohanniswyclift00mattgoog=quiubet | iohanniswycliftr00wycluoft=quihbet | iohanniswycliftr04wycl=quilibet | tractatusdeeccl00wycl=quihbet | tractatusdeeccle00wycl=quilibet		6	accept
+218	PLATE	latinworks10wycl=fidehsin | iohanniswyclift00mattgoog=fidelis | iohanniswycliftr00wycluoft=hdelisin | iohanniswycliftr04wycl=fidelisin | tractatusdeeccl00wycl=hdelisin | tractatusdeeccle00wycl=ndehsin		6	accept
+219	PLATE	latinworks10wycl=naberet | iohanniswyclift00mattgoog=haberet | iohanniswycliftr00wycluoft=naberet | iohanniswycliftr04wycl=haberet | tractatusdeeccl00wycl=haberet | tractatusdeeccle00wycl=naberet		6	accept

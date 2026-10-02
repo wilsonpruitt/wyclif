@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+2	PLATE	latinworks10wycl=ii | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii		3	accept
+4	R5a	latinworks10wycl=u | iohanniswyclift00mattgoog=u | tractatusdeeccl00wycl=u | tractatusdeeccle00wycl=u		4	accept
+9	R3a	latinworks10wycl=locum | iohanniswyclift00mattgoog=locum | iohanniswycliftr00wycluoft=locum | tractatusdeeccl00wycl=locum | tractatusdeeccle00wycl=cum		5	accept
+14	R2	latinworks10wycl=locum | iohanniswyclift00mattgoog=locum | iohanniswycliftr00wycluoft=lociim | iohanniswycliftr04wycl=lociim | tractatusdeeccl00wycl=locum | tractatusdeeccle00wycl=locum		6	accept
+64	PLATE	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=ghristi | tractatusdeeccle00wycl=christi		6	accept
+92	R2	latinworks10wycl=que | iohanniswyclift00mattgoog=que | iohanniswycliftr00wycluoft=que | iohanniswycliftr04wycl=qiie | tractatusdeeccl00wycl=que | tractatusdeeccle00wycl=que		6	accept
+118	R3a	latinworks10wycl=nro | iohanniswyclift00mattgoog=pro | iohanniswycliftr00wycluoft=pro | iohanniswycliftr04wycl=pro | tractatusdeeccl00wycl=pro | tractatusdeeccle00wycl=pro		6	accept
+120	R3a	latinworks10wycl=debito | iohanniswyclift00mattgoog=debitoso | iohanniswycliftr00wycluoft=debito | iohanniswycliftr04wycl=debito | tractatusdeeccl00wycl=debito | tractatusdeeccle00wycl=debitor		6	accept
+152	R3a	latinworks10wycl=plus | iohanniswyclift00mattgoog=pius | iohanniswycliftr00wycluoft=plus | iohanniswycliftr04wycl=plus | tractatusdeeccl00wycl=plus | tractatusdeeccle00wycl=plus		6	accept

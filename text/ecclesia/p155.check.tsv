@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=oet		1	accept
+1	INS?	multiphciter regulariter ac solempniter obseruati recoleremus siquidem quod propter preponderann ciam ritus phariseici legi dei destructe sunt ierusalem et iudea ut patet matthei xu et luce xix recoleremus eciam quomodo priuilegium est lex priuata ad commodum priuilegiati concessa a principe	2	6	plate: ∅
+13	R2	latinworks10wycl=ab | iohanniswyclift00mattgoog=ab | iohanniswycliftr00wycluoft=ab | iohanniswycliftr04wycl=ab | tractatusdeeccl00wycl=ab | tractatusdeeccle00wycl=∅		6	accept
+20	R2	latinworks10wycl=christum | iohanniswyclift00mattgoog=christum | iohanniswycliftr00wycluoft=ghristum | iohanniswycliftr04wycl=christum | tractatusdeeccl00wycl=ghristum | tractatusdeeccle00wycl=christum		6	accept
+112	R3b	latinworks10wycl=aliena | iohanniswyclift00mattgoog=aliena | iohanniswycliftr00wycluoft=ahena | iohanniswycliftr04wycl=ahena | tractatusdeeccl00wycl=aliena | tractatusdeeccle00wycl=aliena		6	accept
+153	R2	latinworks10wycl=multa | iohanniswyclift00mattgoog=multa | iohanniswycliftr00wycluoft=multa | iohanniswycliftr04wycl=muka | tractatusdeeccl00wycl=multa | tractatusdeeccle00wycl=multa		6	accept
+201	R3a	latinworks10wycl=excommunicatus | iohanniswyclift00mattgoog=excommunicatus | iohanniswycliftr00wycluoft=excommunicatus | iohanniswycliftr04wycl=excommunicatus | tractatusdeeccl00wycl=excommunicatus | tractatusdeeccle00wycl=excommunicato		6	accept
+202	R2	latinworks10wycl=fuerit | iohanniswyclift00mattgoog=fuerit | iohanniswycliftr00wycluoft=fuerit | iohanniswycliftr04wycl=fuerit | tractatusdeeccl00wycl=fuent | tractatusdeeccle00wycl=merit		6	accept
+217	R3a	latinworks10wycl=nisi | iohanniswyclift00mattgoog=mu | iohanniswycliftr00wycluoft=nisi | iohanniswycliftr04wycl=nisi | tractatusdeeccl00wycl=nisi | tractatusdeeccle00wycl=nisi		6	accept
+239	PLATE	latinworks10wycl=excoramunicat		1	accept

@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+9	R2	latinworks10wycl=sentenciarum | iohanniswyclift00mattgoog=sentendanun | iohanniswycliftr00wycluoft=sentenciarum | iohanniswycliftr04wycl=sentenciarum | tractatusdeeccl00wycl=sentenciarum | tractatusdeeccle00wycl=sentenciarum		6	accept
+41	R3b	latinworks10wycl=fide | iohanniswyclift00mattgoog=fide | iohanniswycliftr00wycluoft=fide | iohanniswycliftr04wycl=ride | tractatusdeeccl00wycl=fide | tractatusdeeccle00wycl=ride		6	accept
+55	R2	latinworks10wycl=suffragia | iohanniswyclift00mattgoog=sufitnigia | iohanniswycliftr00wycluoft=suffragia | iohanniswycliftr04wycl=suffragia | tractatusdeeccl00wycl=suffragia | tractatusdeeccle00wycl=suffragia		6	accept
+85	INS?	the	2	6	plate: ∅
+92	R2	latinworks10wycl=iu | iohanniswyclift00mattgoog=iu | iohanniswycliftr00wycluoft=iu | iohanniswycliftr04wycl=1u | tractatusdeeccl00wycl=iu | tractatusdeeccle00wycl=1u		6	accept
+95	R2	latinworks10wycl=ettectualiter | iohanniswyclift00mattgoog=effectualiter | iohanniswycliftr00wycluoft=etiectualiter | iohanniswycliftr04wycl=lualiter | tractatusdeeccl00wycl=etfectiuiliter | tractatusdeeccle00wycl=enectualiter		6	accept
+97	PLATE	latinworks10wycl=hac | iohanniswyclift00mattgoog=hac | iohanniswycliftr00wycluoft=nac | iohanniswycliftr04wycl=nac | tractatusdeeccl00wycl=hac | tractatusdeeccle00wycl=nac		6	accept
+102	R4a	latinworks10wycl=distinccionem | iohanniswyclift00mattgoog=distincdonemxlui | iohanniswycliftr00wycluoft=distmccionem | iohanniswycliftr04wycl=distmccionem | tractatusdeeccl00wycl=distinccionem | tractatusdeeccle00wycl=distmccionem		6	accept
+103	PLATE	latinworks10wycl=xluiam | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=xlui | iohanniswycliftr04wycl=xlui | tractatusdeeccl00wycl=xluiam | tractatusdeeccle00wycl=xluiam		6	accept
+108	R2	latinworks10wycl=forma | iohanniswyclift00mattgoog=forma | iohanniswycliftr00wycluoft=forma | iohanniswycliftr04wycl=forraa | tractatusdeeccl00wycl=forma | tractatusdeeccle00wycl=forma		6	accept
+110	R3a	latinworks10wycl=inquit | iohanniswyclift00mattgoog=inquity | iohanniswycliftr00wycluoft=inquit | iohanniswycliftr04wycl=inquit | tractatusdeeccl00wycl=iniuit | tractatusdeeccle00wycl=inquit		6	accept
+117	R2	latinworks10wycl=danipnatis | iohanniswyclift00mattgoog=damp | iohanniswycliftr00wycluoft=dainpnatis | iohanniswycliftr04wycl=dampnatis | tractatusdeeccl00wycl=dampnatis | tractatusdeeccle00wycl=dampnatis		6	accept
+119	R2	latinworks10wycl=faciendo | iohanniswyclift00mattgoog=fsdendo | iohanniswycliftr00wycluoft=faciendo | iohanniswycliftr04wycl=faciendo | tractatusdeeccl00wycl=faciendo | tractatusdeeccle00wycl=faciendo		6	accept
+124	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+137	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=nono | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+175	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=nonh | iohanniswycliftr00wycluoft=fion3 | iohanniswycliftr04wycl=tion | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept

@@ -1,0 +1,36 @@
+pos	rule	forms	support	voters	resolution
+3	R2	latinworks18wycl=temptator | fordham=temptator | iohanniswycliftr08wycl=teinpialor | tractatusdeoffi00saylgoog=temptator | tractatusdeoffic00wycl=temptator		5	accept
+44	R3	latinworks18wycl=sft | fordham=sit | iohanniswycliftr08wycl=git | tractatusdeoffi00saylgoog=sit | tractatusdeoffic00wycl=git		5	plate
+54	R3	latinworks18wycl=uofact | fordham=uocato | iohanniswycliftr08wycl=uotact | tractatusdeoffi00saylgoog=uoto | tractatusdeoffic00wycl=uoato		5	plate
+62	THIN	latinworks18wycl=xms | fordham=quis		2	plate
+63	THIN	latinworks18wycl=et | fordham=et		2	plate
+64	THIN	latinworks18wycl=cred | fordham=credo		2	plate
+65	THIN	latinworks18wycl=qud | fordham=quod		2	plate
+89	R5a	latinworks18wycl=dominatiuam | fordham=dominatiuam | iohanniswycliftr08wycl=dommatiuam | tractatusdeoffi00saylgoog=dommatiuam | tractatusdeoffic00wycl=dominatiuam		5	accept
+95	R4	latinworks18wycl=hedemonio | fordham=demonio | iohanniswycliftr08wycl=hedemonio | tractatusdeoffi00saylgoog=hedemonio | tractatusdeoffic00wycl=demonio		5	plate
+97	R4	latinworks18wycl=phanseice | fordham=pharisaice | iohanniswycliftr08wycl=phanseice | tractatusdeoffi00saylgoog=phariseice | tractatusdeoffic00wycl=pnanseice		5	plate
+98	R3	latinworks18wycl=iaciendo | fordham=faciendo | iohanniswycliftr08wycl=laciendo | tractatusdeoffi00saylgoog=faciendo | tractatusdeoffic00wycl=laciendo		5	plate
+106	R5a	latinworks18wycl=proselitum | fordham=proselitum | iohanniswycliftr08wycl=proselitum | tractatusdeoffi00saylgoog=proselitum | tractatusdeoffic00wycl=proselitum		5	accept
+110	R4	latinworks18wycl=beatum | fordham=beatum | iohanniswycliftr08wycl=bcatum | tractatusdeoffi00saylgoog=bcatum | tractatusdeoffic00wycl=bcatum		5	plate
+125	R2	latinworks18wycl=seductus | fordham=seductus | iohanniswycliftr08wycl=seductus | tractatusdeoffi00saylgoog=segiq | tractatusdeoffic00wycl=seductus		5	accept
+134	R2	latinworks18wycl=ahgrmm | fordham=lignum | iohanniswycliftr08wycl=hgnum | tractatusdeoffic00wycl=ahgmxm		4	accept
+135	R3	latinworks18wycl=et | fordham=et | iohanniswycliftr08wycl=ct | tractatusdeoffic00wycl=ct		4	plate
+136	R6a	latinworks18wycl=iructum | fordham=fructum | iohanniswycliftr08wycl=iructum | tractatusdeoffic00wycl=iructum		4	accept
+137	R3a	latinworks18wycl=et | fordham=et | iohanniswycliftr08wycl=et | tractatusdeoffic00wycl=ct		4	accept
+138	R2	latinworks18wycl=contmue | fordham=continue | iohanniswycliftr08wycl=continue | tractatusdeoffic00wycl=conliiiue		4	accept
+151	R2	latinworks18wycl=to | fordham=∅ | iohanniswycliftr08wycl=to | tractatusdeoffi00saylgoog=q | tractatusdeoffic00wycl=giqi		5	accept
+152	R2	latinworks18wycl=sic | fordham=sic | iohanniswycliftr08wycl=gi | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		5	accept
+153	DEL	latinworks18wycl=1 | fordham=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		5	accept
+154	R5a	latinworks18wycl=indisposicior | fordham=indisposicior | iohanniswycliftr08wycl=indisposicior | tractatusdeoffi00saylgoog=indisposicior | tractatusdeoffic00wycl=indisposicior		5	accept
+164	R5a	latinworks18wycl=comendat | fordham=comendat | iohanniswycliftr08wycl=comendat | tractatusdeoffi00saylgoog=comendat | tractatusdeoffic00wycl=comcndat		5	accept
+174	R5a	latinworks18wycl=comendando | fordham=comendando | iohanniswycliftr08wycl=comendando | tractatusdeoffi00saylgoog=comendando | tractatusdeoffic00wycl=comendando		5	accept
+181	HEAD	CAPITULUM VI.			plate
+183	R2	latinworks18wycl=to | fordham=∅ | iohanniswycliftr08wycl=to | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=to		5	accept
+193	R5a	latinworks18wycl=lurediccionis | fordham=iurediccionis | iohanniswycliftr08wycl=lurediccionis | tractatusdeoffi00saylgoog=mrediccionis | tractatusdeoffic00wycl=lurediccioms		5	accept
+194	R4	latinworks18wycl=regahs | fordham=regalis | iohanniswycliftr08wycl=regalis | tractatusdeoffi00saylgoog=regahs | tractatusdeoffic00wycl=regahs		5	plate
+201	R3	latinworks18wycl=et | fordham=et | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=ct | tractatusdeoffic00wycl=ct		5	plate
+206	R5a	latinworks18wycl=iurediccio | fordham=iurediccio | iohanniswycliftr08wycl=iurediccio | tractatusdeoffi00saylgoog=iurediccio | tractatusdeoffic00wycl=lurediccio		5	accept
+220	R5a	latinworks18wycl=habitualis | fordham=habitualis | iohanniswycliftr08wycl=habitualis | tractatusdeoffi00saylgoog=habitualis | tractatusdeoffic00wycl=habitualis		5	accept
+246	R5a	latinworks18wycl=iurediccio | fordham=iurediccio | iohanniswycliftr08wycl=iurediccio | tractatusdeoffi00saylgoog=iurediccio | tractatusdeoffic00wycl=iurediccio		5	accept
+253	R2	latinworks18wycl=a | fordham=a | iohanniswycliftr08wycl=a | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=a		5	accept
+259	R5a	latinworks18wycl=iurediccionis | fordham=iurediccionis | iohanniswycliftr08wycl=iurediccionis | tractatusdeoffi00saylgoog=iurediccionis | tractatusdeoffic00wycl=iurediccionis		5	accept

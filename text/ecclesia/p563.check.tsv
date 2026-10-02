@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+6	GAP	et ipsa deitas est caput ecclesie. Christus autem humanitus rehquit testamentum suum m terris per	4	6	plate: et ipsa deitas est caput ecclesie. Christus autem humanitus reliquit testamentum suum in terris per
+47	R3a	latinworks10wycl=ille | iohanniswyclift00mattgoog=ille | iohanniswycliftr00wycluoft=iue | iohanniswycliftr04wycl=ille | tractatusdeeccl00wycl=mille | tractatusdeeccle00wycl=ille		6	accept
+57	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+60	R3a	latinworks10wycl=ille | iohanniswyclift00mattgoog=ille | iohanniswycliftr00wycluoft=iue | iohanniswycliftr04wycl=ille | tractatusdeeccl00wycl=ille | tractatusdeeccle00wycl=ille		6	accept
+82	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=ia | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+85	PLATE	latinworks10wycl=205non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=205non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=205non | tractatusdeeccle00wycl=205ftnon		6	accept
+102	R3a	latinworks10wycl=ab | iohanniswyclift00mattgoog=ab | iohanniswycliftr00wycluoft=ab | iohanniswycliftr04wycl=ab | tractatusdeeccl00wycl=ah | tractatusdeeccle00wycl=ab		6	accept
+134	R2	latinworks10wycl=nisi | iohanniswyclift00mattgoog=nia | iohanniswycliftr00wycluoft=nisi | iohanniswycliftr04wycl=nisi | tractatusdeeccl00wycl=nisi | tractatusdeeccle00wycl=nisi		6	accept
+142	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=ia | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+148	R2	latinworks10wycl=ut | iohanniswyclift00mattgoog=ul | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		6	accept
+194	R3b	latinworks10wycl=papalium | iohanniswyclift00mattgoog=papalium | iohanniswycliftr00wycluoft=papahum | iohanniswycliftr04wycl=papahum | tractatusdeeccl00wycl=papalium | tractatusdeeccle00wycl=papalium		6	accept
+202	R3a	latinworks10wycl=bullas | iohanniswyclift00mattgoog=bullat | iohanniswycliftr00wycluoft=buuas | iohanniswycliftr04wycl=buuas | tractatusdeeccl00wycl=bullas | tractatusdeeccle00wycl=bullas		6	accept
+207	R2	latinworks10wycl=scripture | iohanniswyclift00mattgoog=serip | iohanniswycliftr00wycluoft=scripture | iohanniswycliftr04wycl=scripture | tractatusdeeccl00wycl=scripture | tractatusdeeccle00wycl=scripture		6	accept

@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=sequitur		1	accept
+1	PLATE	latinworks10wycl=cuidenter		1	accept
+2	PLATE	latinworks10wycl=opposituni		1	accept
+3	EDGE	latinworks10wycl=propter		1	accept
+4	EDGE	latinworks10wycl=fallaciam		1	accept
+5	PLATE	latinworks10wycl=secunduni		1	accept
+6	PLATE	latinworks10wycl=qui		1	accept
+7	PLATE	latinworks10wycl=d		1	accept
+16	PLATE	latinworks10wycl=facere | iohanniswyclift00mattgoog=facere | iohanniswycliftr00wycluoft=tacere | iohanniswycliftr04wycl=tacere | tractatusdeeccl00wycl=tacere | tractatusdeeccle00wycl=facere		6	accept
+20	R2	latinworks10wycl=malum | iohanniswyclift00mattgoog=malum | iohanniswycliftr00wycluoft=malura | iohanniswycliftr04wycl=malum | tractatusdeeccl00wycl=malum | tractatusdeeccle00wycl=malum		6	accept
+25	R3a	latinworks10wycl=dominus | iohanniswyclift00mattgoog=dominus | iohanniswycliftr00wycluoft=dommus | iohanniswycliftr04wycl=dominus | tractatusdeeccl00wycl=dominus | tractatusdeeccle00wycl=dominus		6	accept
+35	PLATE	latinworks10wycl=habets | iohanniswyclift00mattgoog=habets | iohanniswycliftr00wycluoft=habets | iohanniswycliftr04wycl=habet | tractatusdeeccl00wycl=habet | tractatusdeeccle00wycl=habet		6	accept
+73	R2	latinworks10wycl=tali | iohanniswyclift00mattgoog=tali | iohanniswycliftr00wycluoft=tahauctore | iohanniswycliftr04wycl=tali | tractatusdeeccl00wycl=tali | tractatusdeeccle00wycl=tali		6	accept
+74	R2	latinworks10wycl=auctore | iohanniswyclift00mattgoog=auctore | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=auctore | tractatusdeeccl00wycl=auctore | tractatusdeeccle00wycl=auctore		6	accept
+87	R2	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=lnristus | iohanniswycliftr04wycl=lhnstus | tractatusdeeccl00wycl=cnnstus | tractatusdeeccle00wycl=chnstus		6	accept
+94	R5a	latinworks10wycl=marci | iohanniswyclift00mattgoog=marci | iohanniswycliftr00wycluoft=marci | iohanniswycliftr04wycl=marci | tractatusdeeccl00wycl=marci | tractatusdeeccle00wycl=marci		6	accept
+95	R2	latinworks10wycl=11 | iohanniswyclift00mattgoog=11 | iohanniswycliftr00wycluoft=if | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=11 | tractatusdeeccle00wycl=11		6	accept
+174	R3a	latinworks10wycl=homine | iohanniswyclift00mattgoog=honiine | iohanniswycliftr00wycluoft=homine | iohanniswycliftr04wycl=homine | tractatusdeeccl00wycl=homine | tractatusdeeccle00wycl=nomine		6	accept
+185	INS?	sic	3	6	plate: sic
+185	PLATE	latinworks10wycl=faceret | iohanniswyclift00mattgoog=sic | iohanniswycliftr00wycluoft=faceret | iohanniswycliftr04wycl=faceret | tractatusdeeccl00wycl=faceret | tractatusdeeccle00wycl=sic		6	accept
+207	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept

@@ -1,0 +1,9 @@
+n	page	pos	rule	forms	printed	proposed
+1.1	5	203	LEFT-ord	latinworks10wycl=	CXXXI""'	
+1.2	7	14	LEFT-punct	latinworks10wycl=	ecclesie.'	ecclesie.
+1.3	14	49	S-split	latinworks10wycl=intrusor | iohanniswyclift00mattgoog=iimor | iohanniswycliftr00wycluoft=intrusor | iohanniswycliftr04wycl=intrusor | tractatusdeeccl00wycl=intrusor | tractatusdeeccle00wycl=intrusor	intrusor,	in trusor,
+1.4	15	126	LEFT-nw	latinworks10wycl=mprofecto | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=mprofecto | iohanniswycliftr04wycl=mprofecto | tractatusdeeccl00wycl=mprofccto | tractatusdeeccle00wycl=mprofecto	MProfecto	
+1.5	15	179	W2	latinworks10wycl=sub | iohanniswyclift00mattgoog=isub | iohanniswycliftr00wycluoft=isud | iohanniswycliftr04wycl=isub | tractatusdeeccl00wycl=lsub | tractatusdeeccle00wycl=lsub	lsub	isus
+1.6	27	91	LEFT-nw	latinworks10wycl=onolite | iohanniswyclift00mattgoog=onolite | iohanniswycliftr00wycluoft=cnolite | iohanniswycliftr04wycl=cnolite | tractatusdeeccl00wycl=onolite | tractatusdeeccle00wycl=nolite	oNolite	
+1.7	29	142	LEFT-nw	latinworks10wycl=aquod | iohanniswyclift00mattgoog=aquod | iohanniswycliftr00wycluoft=aquod | iohanniswycliftr04wycl=aquod | tractatusdeeccl00wycl=aquod | tractatusdeeccle00wycl=quod	aquod	
+1.8	49	218	LEFT-nw	latinworks10wycl=aunde | iohanniswyclift00mattgoog=aunde | iohanniswycliftr00wycluoft=aunde | iohanniswycliftr04wycl=aunde | tractatusdeeccl00wycl=unde | tractatusdeeccle00wycl=aunde	aUnde	

@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=amitlere | tractatusdeeccle00wycl=amitlere		2	accept
+1	EDGE	latinworks10wycl=res | tractatusdeeccle00wycl=res		2	accept
+2	EDGE	latinworks10wycl=cum | tractatusdeeccle00wycl=cum		2	accept
+3	PLATE	latinworks10wycl=mnndo | tractatusdeeccle00wycl=mundo		2	accept
+27	R2	latinworks10wycl=certum | iohanniswyclift00mattgoog=certum | iohanniswycliftr00wycluoft=gertum | iohanniswycliftr04wycl=gertura | tractatusdeeccl00wycl=certum | tractatusdeeccle00wycl=certum		6	accept
+28	R2	latinworks10wycl=est | iohanniswyclift00mattgoog=est | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=esl | tractatusdeeccle00wycl=est		6	accept
+40	R3a	latinworks10wycl=ueritas | iohanniswyclift00mattgoog=peritas | iohanniswycliftr00wycluoft=ueritas | iohanniswycliftr04wycl=ueritas | tractatusdeeccl00wycl=ueritas | tractatusdeeccle00wycl=ueritas		6	accept
+50	R3a	latinworks10wycl=meus | iohanniswyclift00mattgoog=meus | iohanniswycliftr00wycluoft=meus | iohanniswycliftr04wycl=meus | tractatusdeeccl00wycl=meus | tractatusdeeccle00wycl=metis		6	accept
+67	R2	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=ciim | tractatusdeeccle00wycl=cum		6	accept
+98	R2	latinworks10wycl=christo | iohanniswyclift00mattgoog=christo | iohanniswycliftr00wycluoft=ghristo | iohanniswycliftr04wycl=ghristo | tractatusdeeccl00wycl=christo | tractatusdeeccle00wycl=christo		6	accept
+126	R4a	latinworks10wycl=mstrumenta | iohanniswyclift00mattgoog=instrumenta | iohanniswycliftr00wycluoft=mstrumenta | iohanniswycliftr04wycl=mstrumenta | tractatusdeeccl00wycl=instrumenta | tractatusdeeccle00wycl=mstrumenta		6	accept
+172	R5a	latinworks10wycl=lste | iohanniswyclift00mattgoog=sslste | iohanniswycliftr00wycluoft=lste | iohanniswycliftr04wycl=lste | tractatusdeeccl00wycl=lste | tractatusdeeccle00wycl=lste		6	accept
+180	PLATE	latinworks10wycl=sicutriris | iohanniswyclift00mattgoog=sicutthit | iohanniswycliftr00wycluoft=sicutihis | iohanniswycliftr04wycl=sicutihis | tractatusdeeccl00wycl=sicut | tractatusdeeccle00wycl=sicutxhis		6	accept
+209	PLATE	latinworks10wycl=uoraginem | iohanniswyclift00mattgoog=uoraginem | iohanniswycliftr00wycluoft=souoraginem | iohanniswycliftr04wycl=souoraginem | tractatusdeeccl00wycl=uoraginem | tractatusdeeccle00wycl=souoraginem		6	accept
+220	R2	latinworks10wycl=plus | iohanniswyclift00mattgoog=ihus | iohanniswycliftr00wycluoft=plus | iohanniswycliftr04wycl=plus | tractatusdeeccl00wycl=plus | tractatusdeeccle00wycl=plus		6	accept
+223	R2	latinworks10wycl=debemus | iohanniswyclift00mattgoog=debewiii5 | iohanniswycliftr00wycluoft=debemus | iohanniswycliftr04wycl=debemus | tractatusdeeccl00wycl=dcbcmus | tractatusdeeccle00wycl=debemus		6	accept

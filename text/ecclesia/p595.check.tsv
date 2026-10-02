@@ -1,0 +1,165 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks10wycl=spoliator		1	plate
+1	THIN	latinworks10wycl=tenetur		1	plate
+7	R3	latinworks10wycl=christi | iohanniswycliftr04wycl=christi | tractatusdeeccle00wycl=ghristi		3	plate
+13	R3	latinworks10wycl=15 | iohanniswycliftr04wycl=romane | tractatusdeeccle00wycl=romane		3	plate
+14	DEL	latinworks10wycl=contra | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+15	DEL	latinworks10wycl=securitatem | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+16	DEL	latinworks10wycl=komane | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+21	DEL	latinworks10wycl=170 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+22	DEL	latinworks10wycl=b | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+23	DEL	latinworks10wycl=dum | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+26	DEL	latinworks10wycl=44 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+27	DEL	latinworks10wycl=scriptura | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+28	DEL	latinworks10wycl=sacra | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+35	THIN	latinworks10wycl=neri | tractatusdeeccle00wycl=scriptura		2	plate
+36	THIN	latinworks10wycl=47 | tractatusdeeccle00wycl=∅		2	plate
+37	R2	latinworks10wycl=i | iohanniswycliftr04wycl=i | tractatusdeeccle00wycl=∅		3	accept
+38	DEL	latinworks10wycl=scnptura | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+39	R2	latinworks10wycl=22 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=22		3	accept
+40	R4	latinworks10wycl=i48d | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=148		3	plate
+44	R2	latinworks10wycl=22 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=22		3	accept
+45	THIN	latinworks10wycl=i48d | iohanniswycliftr04wycl=∅		2	plate
+46	THIN	latinworks10wycl=146 | iohanniswycliftr04wycl=∅		2	plate
+47	THIN	latinworks10wycl=147 | iohanniswycliftr04wycl=∅		2	plate
+48	THIN	latinworks10wycl=sacerdotes | iohanniswycliftr04wycl=∅		2	plate
+51	R2	latinworks10wycl=quid | iohanniswycliftr04wycl=qiiid | tractatusdeeccle00wycl=quid		3	accept
+54	R4	latinworks10wycl=i | iohanniswycliftr04wycl=iss | tractatusdeeccle00wycl=i58a		3	plate
+55	DEL	latinworks10wycl=210 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+56	DEL	latinworks10wycl=serui | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+57	DEL	latinworks10wycl=ciuilis | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+58	DEL	latinworks10wycl=condic | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+64	THIN	latinworks10wycl=annoscp		1	plate
+65	THIN	latinworks10wycl=saluacio		1	plate
+66	THIN	latinworks10wycl=constantini		1	plate
+67	THIN	latinworks10wycl=timo		1	plate
+77	R2	latinworks10wycl=i | iohanniswycliftr04wycl=i | tractatusdeeccle00wycl=∅		3	accept
+78	DEL	latinworks10wycl=214 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+79	DEL	latinworks10wycl=beati | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+80	DEL	latinworks10wycl=siluestri | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+84	R3	latinworks10wycl=io | iohanniswycliftr04wycl=40 | tractatusdeeccle00wycl=40066		3	plate
+85	R3	latinworks10wycl=066 | iohanniswycliftr04wycl=166 | tractatusdeeccle00wycl=a		3	plate
+87	THIN	latinworks10wycl=fi7ii		1	plate
+88	THIN	latinworks10wycl=spiritus		1	plate
+89	THIN	latinworks10wycl=hominis		1	plate
+97	DEL	latinworks10wycl=sacerdos | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+98	DEL	latinworks10wycl=quomodo | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+104	R2	latinworks10wycl=42 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=42		3	accept
+105	R2	latinworks10wycl=168 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=168		3	accept
+106	R6	latinworks10wycl=d | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=d		3	plate
+107	DEL	latinworks10wycl=984 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+108	DEL	latinworks10wycl=tamen | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+109	DEL	latinworks10wycl=quomodo | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+119	R2	latinworks10wycl=176 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=176		3	accept
+120	R4	latinworks10wycl=341342 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=d		3	plate
+121	DEL	latinworks10wycl=sacerdos | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+122	DEL	latinworks10wycl=non | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+123	DEL	latinworks10wycl=debet | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+130	R2	latinworks10wycl=5i | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=5i		3	accept
+131	DEL	latinworks10wycl=177 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+132	DEL	latinworks10wycl=d | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+133	DEL	latinworks10wycl=350 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+134	DEL	latinworks10wycl=351 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+135	DEL	latinworks10wycl=contra | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+136	DEL	latinworks10wycl=sacerdotes | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+148	THIN	latinworks10wycl=5 | iohanniswycliftr04wycl=5i		2	plate
+149	THIN	latinworks10wycl=qualem | iohanniswycliftr04wycl=∅		2	plate
+150	THIN	latinworks10wycl=spem | iohanniswycliftr04wycl=∅		2	plate
+151	THIN	latinworks10wycl=178 | iohanniswycliftr04wycl=∅		2	plate
+152	THIN	latinworks10wycl=355 | iohanniswycliftr04wycl=∅		2	plate
+153	THIN	latinworks10wycl=356 | iohanniswycliftr04wycl=∅		2	plate
+154	THIN	latinworks10wycl=deum | iohanniswycliftr04wycl=∅		2	plate
+160	THIN	latinworks10wycl=m | iohanniswycliftr04wycl=loi		2	plate
+161	THIN	latinworks10wycl=o | iohanniswycliftr04wycl=∅		2	plate
+162	THIN	latinworks10wycl=sacerdos | iohanniswycliftr04wycl=∅		2	plate
+163	THIN	latinworks10wycl=malus | iohanniswycliftr04wycl=∅		2	plate
+169	THIN	latinworks10wycl=102 | iohanniswycliftr04wycl=ig		2	plate
+170	THIN	latinworks10wycl=utrum | iohanniswycliftr04wycl=∅		2	plate
+171	THIN	latinworks10wycl=omnis | iohanniswycliftr04wycl=∅		2	plate
+172	THIN	latinworks10wycl=qui | iohanniswycliftr04wycl=∅		2	plate
+179	DEL	latinworks10wycl=sine | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+180	DEL	latinworks10wycl=sacramentis | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+185	THIN	latinworks10wycl=1921		1	plate
+186	THIN	latinworks10wycl=4154		1	plate
+187	THIN	latinworks10wycl=bili		1	plate
+188	THIN	latinworks10wycl=seruatur		1	plate
+189	THIN	latinworks10wycl=fides		1	plate
+194	THIN	latinworks10wycl=adolescentulis | tractatusdeeccle00wycl=adolescentulis		2	plate
+195	THIN	latinworks10wycl=salo | tractatusdeeccle00wycl=salomonis		2	plate
+196	THIN	latinworks10wycl=stultum | tractatusdeeccle00wycl=∅		2	plate
+197	THIN	latinworks10wycl=est | tractatusdeeccle00wycl=∅		2	plate
+198	THIN	latinworks10wycl=laicum | tractatusdeeccle00wycl=∅		2	plate
+199	THIN	latinworks10wycl=monis | tractatusdeeccle00wycl=∅		2	plate
+201	THIN	latinworks10wycl=io3d | iohanniswycliftr04wycl=io		2	plate
+202	THIN	latinworks10wycl=472 | iohanniswycliftr04wycl=∅		2	plate
+203	THIN	latinworks10wycl=porrigens | iohanniswycliftr04wycl=∅		2	plate
+204	THIN	latinworks10wycl=sibi | iohanniswycliftr04wycl=∅		2	plate
+205	THIN	latinworks10wycl=s | iohanniswycliftr04wycl=∅		2	plate
+206	THIN	latinworks10wycl=de | iohanniswycliftr04wycl=∅		2	plate
+207	THIN	latinworks10wycl=samuele | iohanniswycliftr04wycl=∅		2	plate
+208	THIN	latinworks10wycl=an | iohanniswycliftr04wycl=∅		2	plate
+209	THIN	latinworks10wycl=ipse | iohanniswycliftr04wycl=∅		2	plate
+213	THIN	latinworks10wycl=1 | tractatusdeeccle00wycl=1		2	plate
+214	THIN	latinworks10wycl=2sb		1	plate
+215	THIN	latinworks10wycl=4		1	plate
+216	THIN	latinworks10wycl=dabolus		1	plate
+217	THIN	latinworks10wycl=decipit		1	plate
+224	THIN	latinworks10wycl=fi3i | tractatusdeeccle00wycl=i34b		2	plate
+225	THIN	latinworks10wycl=m | tractatusdeeccle00wycl=∅		2	plate
+226	THIN	latinworks10wycl=44 | tractatusdeeccle00wycl=∅		2	plate
+227	THIN	latinworks10wycl=45 | tractatusdeeccle00wycl=∅		2	plate
+228	THIN	latinworks10wycl=4g | tractatusdeeccle00wycl=∅		2	plate
+229	THIN	latinworks10wycl=suffragia | tractatusdeeccle00wycl=∅		2	plate
+230	THIN	latinworks10wycl=pro | tractatusdeeccle00wycl=∅		2	plate
+231	THIN	latinworks10wycl=mortuis | tractatusdeeccle00wycl=∅		2	plate
+238	R3	latinworks10wycl=ap | iohanniswycliftr04wycl=apparuit | tractatusdeeccle00wycl=apparuit		3	plate
+239	DEL	latinworks10wycl=19q | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+240	DEL	latinworks10wycl=d | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+241	DEL	latinworks10wycl=paruit | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+243	THIN	latinworks10wycl=i37i | tractatusdeeccle00wycl=i37b		2	plate
+244	THIN	latinworks10wycl=64 | tractatusdeeccle00wycl=∅		2	plate
+245	THIN	latinworks10wycl=65 | tractatusdeeccle00wycl=∅		2	plate
+246	THIN	latinworks10wycl=de | tractatusdeeccle00wycl=∅		2	plate
+247	THIN	latinworks10wycl=cadem | tractatusdeeccle00wycl=∅		2	plate
+248	THIN	latinworks10wycl=materiam | tractatusdeeccle00wycl=∅		2	plate
+254	DEL	latinworks10wycl=argumenta | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+255	DEL	latinworks10wycl=quod | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+258	R4	latinworks10wycl=ioi45d | iohanniswycliftr04wycl=ig | tractatusdeeccle00wycl=19		3	plate
+259	R3	latinworks10wycl=125 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=145		3	plate
+260	R4	latinworks10wycl=cionibus | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=d		3	plate
+262	R3	latinworks10wycl=ct | iohanniswycliftr04wycl=et | tractatusdeeccle00wycl=et		3	plate
+267	DEL	latinworks10wycl=20 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+268	DEL	latinworks10wycl=117 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+269	DEL	latinworks10wycl=rantum | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+270	DEL	latinworks10wycl=in | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+271	DEL	latinworks10wycl=tribus | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+272	DEL	latinworks10wycl=132 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+273	DEL	latinworks10wycl=133 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+274	DEL	latinworks10wycl=mitur | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+278	R4	latinworks10wycl=i53b | iohanniswycliftr04wycl=i | tractatusdeeccle00wycl=i53b		3	plate
+279	DEL	latinworks10wycl=177 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+280	DEL	latinworks10wycl=pro | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+281	DEL	latinworks10wycl=sepultura | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+282	DEL	latinworks10wycl=et | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+290	R3	latinworks10wycl=20 | iohanniswycliftr04wycl=ueritas | tractatusdeeccle00wycl=ueritas		3	plate
+291	DEL	latinworks10wycl=uentas | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+294	THIN	latinworks10wycl=i52d | iohanniswycliftr04wycl=i		2	plate
+295	THIN	latinworks10wycl=173 | iohanniswycliftr04wycl=∅		2	plate
+296	THIN	latinworks10wycl=quomodo | iohanniswycliftr04wycl=∅		2	plate
+297	THIN	latinworks10wycl=contingit | iohanniswycliftr04wycl=∅		2	plate
+304	R3	latinworks10wycl=re | iohanniswycliftr04wycl=remissio | tractatusdeeccle00wycl=remissiopro		3	plate
+305	DEL	latinworks10wycl=20 | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+306	DEL	latinworks10wycl=missio | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+307	R2	latinworks10wycl=pro | iohanniswycliftr04wycl=pro | tractatusdeeccle00wycl=∅		3	accept
+318	R4	latinworks10wycl=i5s | iohanniswycliftr04wycl=i5s | tractatusdeeccle00wycl=i		3	plate
+319	R4	latinworks10wycl=2i | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=c		3	plate
+324	R3	latinworks10wycl=saccrdos | iohanniswycliftr04wycl=sacerdos | tractatusdeeccle00wycl=42		3	plate
+331	DEL	latinworks10wycl=temporalium | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+332	DEL	latinworks10wycl=amiss | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+334	THIN	latinworks10wycl=37 | tractatusdeeccle00wycl=37		2	plate
+335	THIN	latinworks10wycl=6 | tractatusdeeccle00wycl=164		2	plate
+337	THIN	latinworks10wycl=251		1	plate
+338	THIN	latinworks10wycl=amissio		1	plate
+339	THIN	latinworks10wycl=uirtutis		1	plate
+340	THIN	latinworks10wycl=contra		1	plate
+341	THIN	latinworks10wycl=tradiciones		1	plate

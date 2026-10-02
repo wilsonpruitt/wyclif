@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+10	PLATE	latinworks10wycl=xuia | iohanniswyclift00mattgoog=xui | iohanniswycliftr00wycluoft=xui | iohanniswycliftr04wycl=xui | tractatusdeeccl00wycl=xuia | tractatusdeeccle00wycl=xuia		6	accept
+15	R3a	latinworks10wycl=fuerunt | iohanniswyclift00mattgoog=fuerant | iohanniswycliftr00wycluoft=fuerunt | iohanniswycliftr04wycl=fuerunt | tractatusdeeccl00wycl=fuerunt | tractatusdeeccle00wycl=fuerunt		6	accept
+47	PLATE	latinworks10wycl=ghristus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=christus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=ghristus		6	accept
+90	R3b	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=ilia | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+105	R3a	latinworks10wycl=dulce | iohanniswycliftr00wycluoft=dulcedine | tractatusdeeccl00wycl=dulcedine | tractatusdeeccle00wycl=dulcedine		4	accept
+106	DEL	latinworks10wycl=q | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		4	accept
+107	PLATE	latinworks10wycl=dine | iohanniswyclift00mattgoog=dine | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+111	PLATE	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=ghristi | tractatusdeeccle00wycl=christi		6	accept
+136	R4a	latinworks10wycl=matns | iohanniswyclift00mattgoog=matns | iohanniswycliftr00wycluoft=matris | iohanniswycliftr04wycl=matris | tractatusdeeccl00wycl=matns | tractatusdeeccle00wycl=matns		6	accept
+141	PLATE	latinworks10wycl=tundata | iohanniswyclift00mattgoog=fundata | iohanniswycliftr00wycluoft=tundata | iohanniswycliftr04wycl=lundata | tractatusdeeccl00wycl=tundata | tractatusdeeccle00wycl=lundata		6	accept
+143	PLATE	latinworks10wycl=nde | iohanniswyclift00mattgoog=fide | iohanniswycliftr00wycluoft=ride | iohanniswycliftr04wycl=hde | tractatusdeeccl00wycl=hde | tractatusdeeccle00wycl=hde		6	accept
+146	R4a	latinworks10wycl=mnuit | iohanniswyclift00mattgoog=innuit | iohanniswycliftr00wycluoft=mnuit | iohanniswycliftr04wycl=mnuit | tractatusdeeccl00wycl=mnuit | tractatusdeeccle00wycl=innuit		6	accept
+147	R4a	latinworks10wycl=mterempcionem | iohanniswyclift00mattgoog=interempcionem | iohanniswycliftr00wycluoft=mterempcionem | iohanniswycliftr04wycl=mterempcionem | tractatusdeeccl00wycl=lnterempcionem | tractatusdeeccle00wycl=interempcionem		6	accept
+148	PLATE	latinworks10wycl=meriti | iohanniswyclift00mattgoog=menti | iohanniswycliftr00wycluoft=meriti | iohanniswycliftr04wycl=meriti | tractatusdeeccl00wycl=menti | tractatusdeeccle00wycl=menti		6	accept
+149	R6a	latinworks10wycl=matns | iohanniswyclift00mattgoog=matns | iohanniswycliftr00wycluoft=matris | iohanniswycliftr04wycl=matns | tractatusdeeccl00wycl=matns | tractatusdeeccle00wycl=matns		6	accept
+154	R3a	latinworks10wycl=patrum | iohanniswyclift00mattgoog=patram | iohanniswycliftr00wycluoft=patrum | iohanniswycliftr04wycl=patrum | tractatusdeeccl00wycl=patrura | tractatusdeeccle00wycl=patrum		6	accept
+208	R2	latinworks10wycl=ita | iohanniswyclift00mattgoog=ila | iohanniswycliftr00wycluoft=ita | iohanniswycliftr04wycl=ita | tractatusdeeccl00wycl=ita | tractatusdeeccle00wycl=ita		6	accept
+212	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=nou | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		5	accept
+214	PLATE	latinworks10wycl=mcepit | iohanniswycliftr00wycluoft=mcepit | tractatusdeeccl00wycl=mcepit | tractatusdeeccle00wycl=incepit		4	accept
+216	R6a	latinworks10wycl=m | iohanniswycliftr00wycluoft=m | tractatusdeeccl00wycl=m | tractatusdeeccle00wycl=in		4	accept
+217	PLATE	latinworks10wycl=tnduo | tractatusdeeccl00wycl=tnduo | tractatusdeeccle00wycl=tnduo		3	accept

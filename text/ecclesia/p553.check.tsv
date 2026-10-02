@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=203dpro		1	accept
+11	R2	latinworks10wycl=nudam | iohanniswycliftr00wycluoft=nudam | iohanniswycliftr04wycl=nudam | tractatusdeeccl00wycl=nudatn | tractatusdeeccle00wycl=nudam		5	accept
+37	R3a	latinworks10wycl=quod | iohanniswycliftr00wycluoft=qiiod | iohanniswycliftr04wycl=quod | tractatusdeeccl00wycl=quod | tractatusdeeccle00wycl=quod		5	accept
+99	R3a	latinworks10wycl=eis | iohanniswycliftr00wycluoft=eis | iohanniswycliftr04wycl=eis | tractatusdeeccl00wycl=cis | tractatusdeeccle00wycl=els		5	accept
+102	PLATE	latinworks10wycl=meritorum | iohanniswycliftr00wycluoft=ibmeritorum | iohanniswycliftr04wycl=ibmeritorum | tractatusdeeccl00wycl=meritorum | tractatusdeeccle00wycl=ibmeritorum		5	accept
+110	R2	latinworks10wycl=nunc | iohanniswycliftr00wycluoft=nunc | iohanniswycliftr04wycl=nunc | tractatusdeeccl00wycl=nitnc | tractatusdeeccle00wycl=nunc		5	accept
+126	R4a	latinworks10wycl=efiicacia | iohanniswycliftr00wycluoft=efficacia | iohanniswycliftr04wycl=efficacia | tractatusdeeccl00wycl=efiicacia | tractatusdeeccle00wycl=efiicacia		5	accept
+132	PLATE	latinworks10wycl=sua | iohanniswycliftr00wycluoft=siia | iohanniswycliftr04wycl=sua | tractatusdeeccl00wycl=sita | tractatusdeeccle00wycl=sua		5	accept
+138	R3a	latinworks10wycl=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=eum | tractatusdeeccle00wycl=cum		5	accept
+195	PLATE	latinworks10wycl=1 | iohanniswycliftr00wycluoft=p | iohanniswycliftr04wycl=p | tractatusdeeccl00wycl=ei | tractatusdeeccle00wycl=1		5	accept
+196	R2	latinworks10wycl=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=et		5	accept
+211	R4a	latinworks10wycl=ca | iohanniswycliftr00wycluoft=ca | iohanniswycliftr04wycl=ca | tractatusdeeccl00wycl=ea | tractatusdeeccle00wycl=ea		5	accept

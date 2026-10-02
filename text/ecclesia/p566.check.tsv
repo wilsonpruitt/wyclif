@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+49	R2	latinworks10wycl=animam | iohanniswyclift00mattgoog=animam | iohanniswycliftr00wycluoft=animaffi | iohanniswycliftr04wycl=animam | tractatusdeeccl00wycl=animam | tractatusdeeccle00wycl=animam		6	accept
+53	PLATE	latinworks10wycl=ii | iohanniswyclift00mattgoog=11 | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii		6	accept
+57	R2	latinworks10wycl=euidencius | iohanniswyclift00mattgoog=euidencius | iohanniswycliftr00wycluoft=euidencius | iohanniswycliftr04wycl=euidencius | tractatusdeeccl00wycl=euidencius | tractatusdeeccle00wycl=euidencessequeretur		6	accept
+58	R2	latinworks10wycl=sequeretur | iohanniswyclift00mattgoog=sequeretur | iohanniswycliftr00wycluoft=sequeretur | iohanniswycliftr04wycl=sequeretur | tractatusdeeccl00wycl=sequeretur | tractatusdeeccle00wycl=∅		6	accept
+82	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+88	R3a	latinworks10wycl=illi | iohanniswyclift00mattgoog=illi | iohanniswycliftr00wycluoft=ilii | iohanniswycliftr04wycl=illi | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=illi		6	accept
+200	PLATE	latinworks10wycl=primoa | iohanniswyclift00mattgoog=primoa | iohanniswycliftr00wycluoft=primoa | iohanniswycliftr04wycl=primoa | tractatusdeeccl00wycl=primoa | tractatusdeeccle00wycl=primo		6	accept
+208	INS?	1	2	6	plate: 1

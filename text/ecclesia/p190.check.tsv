@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=facilitcr		1	accept
+1	PLATE	latinworks10wycl=proficicndi		1	accept
+2	EDGE	latinworks10wycl=sibi | tractatusdeeccl00wycl=sibi		2	accept
+3	PLATE	latinworks10wycl=ct | tractatusdeeccl00wycl=ct		2	accept
+4	EDGE	latinworks10wycl=aliis | tractatusdeeccl00wycl=aliis		2	accept
+5	EDGE	latinworks10wycl=glorificando | tractatusdeeccl00wycl=glorificando		2	accept
+6	PLATE	latinworks10wycl=ecclcsiam | tractatusdeeccl00wycl=ecclesiam		2	accept
+24	R2	latinworks10wycl=supcrat | iohanniswyclift00mattgoog=supcrnt | iohanniswycliftr00wycluoft=superat | iohanniswycliftr04wycl=superat | tractatusdeeccl00wycl=superat | tractatusdeeccle00wycl=superat		6	accept
+56	R3a	latinworks10wycl=fut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		6	accept
+58	PLATE	latinworks10wycl=i | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=1 | tractatusdeeccl00wycl=1 | tractatusdeeccle00wycl=1		6	accept
+63	PLATE	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=ghristus | tractatusdeeccle00wycl=christus		6	accept
+93	R3a	latinworks10wycl=nnllumh | iohanniswyclift00mattgoog=nullumh | iohanniswycliftr00wycluoft=nuuumh | iohanniswycliftr04wycl=nullumh | tractatusdeeccl00wycl=nullumh | tractatusdeeccle00wycl=nullum		6	accept
+96	R2	latinworks10wycl=pnuilcguim | iohanniswyclift00mattgoog=pnuilcgium | iohanniswycliftr00wycluoft=pnuilegmm | iohanniswycliftr04wycl=pnuuegmm | tractatusdeeccl00wycl=pnuilegium | tractatusdeeccle00wycl=priuilegium		6	accept
+97	PLATE	latinworks10wycl=ummo | iohanniswyclift00mattgoog=ymmo | iohanniswycliftr00wycluoft=ymmo | iohanniswycliftr04wycl=ummo | tractatusdeeccl00wycl=ummo | tractatusdeeccle00wycl=ummo		6	accept
+100	R4a	latinworks10wycl=hcct | iohanniswyclift00mattgoog=licct | iohanniswycliftr00wycluoft=hcet | iohanniswycliftr04wycl=hcet | tractatusdeeccl00wycl=hcet | tractatusdeeccle00wycl=licet		6	accept
+107	R2	latinworks10wycl=auferre | iohanniswyclift00mattgoog=aufcrre | iohanniswycliftr00wycluoft=aurerre | iohanniswycliftr04wycl=auterre | tractatusdeeccl00wycl=auierre | tractatusdeeccle00wycl=aurerre		6	accept
+114	R2	latinworks10wycl=benefacere | iohanniswyclift00mattgoog=bcncfacerc | iohanniswycliftr00wycluoft=benefacere | iohanniswycliftr04wycl=benefacere | tractatusdeeccl00wycl=benefacere | tractatusdeeccle00wycl=benefacere		6	accept
+145	PLATE	latinworks10wycl=assunt | iohanniswyclift00mattgoog=assunt | iohanniswycliftr00wycluoft=assunt | iohanniswycliftr04wycl=assunt | tractatusdeeccl00wycl=assunt | tractatusdeeccle00wycl=assunt		6	accept
+154	R2	latinworks10wycl=communius | iohanniswyclift00mattgoog=coramunius | iohanniswycliftr00wycluoft=communius | iohanniswycliftr04wycl=coramunius | tractatusdeeccl00wycl=communius | tractatusdeeccle00wycl=communius		6	accept
+171	R2	latinworks10wycl=declinantes | iohanniswyclift00mattgoog=declinantcs | iohanniswycliftr00wycluoft=declinantes | iohanniswycliftr04wycl=liechnantes | tractatusdeeccl00wycl=dcclinantes | tractatusdeeccle00wycl=declinantes		6	accept
+177	R2	latinworks10wycl=conceditur | iohanniswyclift00mattgoog=conceditur | iohanniswycliftr00wycluoft=gonceditur | iohanniswycliftr04wycl=conceditur | tractatusdeeccl00wycl=gonceditur | tractatusdeeccle00wycl=conceditur		6	accept
+197	R6a	latinworks10wycl=iiin | iohanniswyclift00mattgoog=iii | iohanniswycliftr00wycluoft=iif | iohanniswycliftr04wycl=111 | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=1110		6	accept
+198	R2	latinworks10wycl=rcgum | iohanniswyclift00mattgoog=rcgum | iohanniswycliftr00wycluoft=regum | iohanniswycliftr04wycl=kcgum | tractatusdeeccl00wycl=regum | tractatusdeeccle00wycl=regum		6	accept
+199	R2	latinworks10wycl=xuli | iohanniswyclift00mattgoog=xuii | iohanniswycliftr00wycluoft=xuii | iohanniswycliftr04wycl=uh | tractatusdeeccl00wycl=xuii | tractatusdeeccle00wycl=xull		6	accept
+203	R3a	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fuit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=tuit | tractatusdeeccle00wycl=ruit		6	accept
+207	PLATE	latinworks10wycl=lt | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=ht | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=ht | tractatusdeeccle00wycl=iit		6	accept

@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=ct		1	accept
+1	PLATE	latinworks10wycl=patct | iohanniswycliftr04wycl=patct		2	accept
+43	PLATE	latinworks10wycl=iii | iohanniswyclift00mattgoog=111 | iohanniswycliftr00wycluoft=111 | iohanniswycliftr04wycl=111 | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=iii		6	accept
+44	PLATE	latinworks10wycl=i | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=1 | tractatusdeeccle00wycl=1		6	accept
+53	R2	latinworks10wycl=iii | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=111 | iohanniswycliftr04wycl=111 | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=iii		6	accept
+59	R2	latinworks10wycl=sum | iohanniswyclift00mattgoog=sum | iohanniswycliftr00wycluoft=sum | iohanniswycliftr04wycl=suyn | tractatusdeeccl00wycl=sum | tractatusdeeccle00wycl=sum		6	accept
+61	R5a	latinworks10wycl=abraham | iohanniswyclift00mattgoog=abraham | iohanniswycliftr00wycluoft=abraham | iohanniswycliftr04wycl=abraham | tractatusdeeccl00wycl=abraham | tractatusdeeccle00wycl=abraham		6	accept
+92	R3a	latinworks10wycl=genus | iohanniswyclift00mattgoog=genus | iohanniswycliftr00wycluoft=genus | iohanniswycliftr04wycl=genus | tractatusdeeccl00wycl=senus | tractatusdeeccle00wycl=genus		6	accept
+96	R3b	latinworks10wycl=illi | iohanniswyclift00mattgoog=illi | iohanniswycliftr00wycluoft=iui | iohanniswycliftr04wycl=iui | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=illi		6	accept
+115	R5a	latinworks10wycl=abraham | iohanniswyclift00mattgoog=abraham | iohanniswycliftr00wycluoft=abraham | iohanniswycliftr04wycl=abraham | tractatusdeeccl00wycl=abraham | tractatusdeeccle00wycl=abraham		6	accept
+118	R5a	latinworks10wycl=sara | iohanniswyclift00mattgoog=sara | iohanniswycliftr00wycluoft=sara | iohanniswycliftr04wycl=sara | tractatusdeeccl00wycl=sara | tractatusdeeccle00wycl=sara		6	accept
+137	PLATE	latinworks10wycl=rebeca | iohanniswyclift00mattgoog=rcbeca | iohanniswycliftr00wycluoft=rebeca | iohanniswycliftr04wycl=rebeca | tractatusdeeccl00wycl=uebeca | tractatusdeeccle00wycl=rebeca		6	accept
+170	R5a	latinworks10wycl=sara | iohanniswyclift00mattgoog=sara | iohanniswycliftr00wycluoft=sara | iohanniswycliftr04wycl=sara | tractatusdeeccl00wycl=sara | tractatusdeeccle00wycl=sara		6	accept
+185	R5a	latinworks10wycl=rebeca | iohanniswyclift00mattgoog=rebeca | iohanniswycliftr00wycluoft=rebeca | iohanniswycliftr04wycl=rebeca | tractatusdeeccl00wycl=rebeca | tractatusdeeccle00wycl=rebeca		6	accept
+210	R5a	latinworks10wycl=iesu | iohanniswyclift00mattgoog=iesu | iohanniswycliftr00wycluoft=iesu | iohanniswycliftr04wycl=iesu | tractatusdeeccl00wycl=iesu | tractatusdeeccle00wycl=iesu		6	accept

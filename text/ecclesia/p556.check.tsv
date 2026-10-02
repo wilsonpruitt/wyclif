@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=quomodo		1	accept
+1	PLATE	latinworks10wycl=u		1	accept
+18	R2	latinworks10wycl=in | iohanniswyclift00mattgoog=ta | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+21	INS	ficticie	4	6	accept
+21	R2	latinworks10wycl=in | iohanniswyclift00mattgoog=fictide | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+43	R2	latinworks10wycl=qi | iohanniswyclift00mattgoog=quid | iohanniswycliftr00wycluoft=quid | iohanniswycliftr04wycl=quid | tractatusdeeccl00wycl=quid | tractatusdeeccle00wycl=quid		6	accept
+52	R2	latinworks10wycl=arguo | iohanniswyclift00mattgoog=arguo | iohanniswycliftr00wycluoft=areuo | iohanniswycliftr04wycl=areuo | tractatusdeeccl00wycl=arguo | tractatusdeeccle00wycl=arguo		6	accept
+56	INS	de sua	5	6	accept
+76	R2	latinworks10wycl=deus | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=deus | iohanniswycliftr04wycl=deus | tractatusdeeccl00wycl=deus | tractatusdeeccle00wycl=deus		6	accept
+104	R3a	latinworks10wycl=32 | iohanniswyclift00mattgoog=33 | iohanniswycliftr00wycluoft=32 | iohanniswycliftr04wycl=32 | tractatusdeeccl00wycl=32 | tractatusdeeccle00wycl=32		6	accept
+105	R3a	latinworks10wycl=ut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=iit | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		6	accept
+108	R4a	latinworks10wycl=fides | iohanniswyclift00mattgoog=fidts | iohanniswycliftr00wycluoft=iides | iohanniswycliftr04wycl=iides | tractatusdeeccl00wycl=iides | tractatusdeeccle00wycl=fides		6	accept
+145	R2	latinworks10wycl=xui | iohanniswyclift00mattgoog=xup | iohanniswycliftr00wycluoft=xui | iohanniswycliftr04wycl=xui | tractatusdeeccl00wycl=xui | tractatusdeeccle00wycl=xui		6	accept
+150	PLATE	latinworks10wycl=etb | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=etb | tractatusdeeccl00wycl=etb | tractatusdeeccle00wycl=etb		6	accept
+153	R3a	latinworks10wycl=uicario | iohanniswyclift00mattgoog=uicario | iohanniswycliftr00wycluoft=uicario | iohanniswycliftr04wycl=uicario | tractatusdeeccl00wycl=uicano | tractatusdeeccle00wycl=uicario		6	accept

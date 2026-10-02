@@ -1,0 +1,40 @@
+pos	rule	forms	support	voters	resolution
+0	R3a	latinworks18wycl=ualde | bwb_T5-ARL-070=ualde | fordham=ualde | iohanniswyclift02wyclgoog=ualde | iohanniswycliftr08wycl=plene | tractatusdeoffi00saylgoog=ualde | tractatusdeoffic00wycl=quantum		7	accept
+12	R3a	latinworks18wycl=suo | bwb_T5-ARL-070=suo | fordham=suo | iohanniswyclift02wyclgoog=suo | iohanniswycliftr08wycl=suo | tractatusdeoffi00saylgoog=suo | tractatusdeoffic00wycl=su		7	accept
+18	R2	latinworks18wycl=nocent | bwb_T5-ARL-070=∅ | fordham=nocent | iohanniswyclift02wyclgoog=noeenl | iohanniswycliftr08wycl=nocent | tractatusdeoffi00saylgoog=nocent | tractatusdeoffic00wycl=nocent		7	accept
+19	R2	latinworks18wycl=sibi | bwb_T5-ARL-070=∅ | fordham=sibi | iohanniswyclift02wyclgoog=sibi | iohanniswycliftr08wycl=sibi | tractatusdeoffi00saylgoog=sibi | tractatusdeoffic00wycl=sibi		7	accept
+22	THIN	latinworks18wycl=fraudulently | tractatusdeoffic00wycl=fraudulently		2	plate
+23	THIN	latinworks18wycl=ppu0		1	plate
+24	THIN	latinworks18wycl=llna		1	plate
+25	THIN	latinworks18wycl=leremie | iohanniswyclift02wyclgoog=leremie		2	plate
+27	R2	latinworks18wycl=maledictus | bwb_T5-ARL-070=maledictus | fordham=maledictus | iohanniswyclift02wyclgoog=makdklus | tractatusdeoffic00wycl=makdictus		5	accept
+28	R6a	latinworks18wycl=quifacit | bwb_T5-ARL-070=quifacit | fordham=quifacit | iohanniswyclift02wyclgoog=guiacil | iohanniswycliftr08wycl=quifacit | tractatusdeoffi00saylgoog=quifacit | tractatusdeoffic00wycl=quifacit		7	accept
+30	R6a	latinworks18wycl=deifraudulenter | bwb_T5-ARL-070=det | fordham=deifraudulenter | iohanniswyclift02wyclgoog=dtirauduhnkr | iohanniswycliftr08wycl=deifraudulenier | tractatusdeoffi00saylgoog=deifraudulenter | tractatusdeoffic00wycl=deifraudulenter		7	accept
+53	R5a	latinworks18wycl=pauperimus | bwb_T5-ARL-070=pauperimus | fordham=pauperimus | iohanniswyclift02wyclgoog=pauperimus | iohanniswycliftr08wycl=pauperimus | tractatusdeoffi00saylgoog=pauperimus | tractatusdeoffic00wycl=pauperimus		7	accept
+56	R2	latinworks18wycl=ministracione | bwb_T5-ARL-070=ministracione | fordham=ministracione | iohanniswyclift02wyclgoog=minislracione | iohanniswycliftr08wycl=minislracione | tractatusdeoffi00saylgoog=ministracione | tractatusdeoffic00wycl=ministracione		7	accept
+58	R5a	latinworks18wycl=humilimus | bwb_T5-ARL-070=humilimus | fordham=humilimus | iohanniswyclift02wyclgoog=liumilimus | iohanniswycliftr08wycl=humilimus | tractatusdeoffi00saylgoog=humilimus | tractatusdeoffic00wycl=humilimus		7	accept
+59	R2	latinworks18wycl=et | bwb_T5-ARL-070=et | fordham=et | iohanniswyclift02wyclgoog=el | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=et | tractatusdeoffic00wycl=et		7	accept
+61	R3a	latinworks18wycl=tota | bwb_T5-ARL-070=tota | fordham=tota | iohanniswyclift02wyclgoog=lota | iohanniswycliftr08wycl=tota | tractatusdeoffi00saylgoog=tota | tractatusdeoffic00wycl=tota		7	accept
+66	R2	latinworks18wycl=autem | bwb_T5-ARL-070=autem | fordham=autem | iohanniswyclift02wyclgoog=autcra | iohanniswycliftr08wycl=autem | tractatusdeoffi00saylgoog=autem | tractatusdeoffic00wycl=autem		7	accept
+69	R5a	latinworks18wycl=liberime | bwb_T5-ARL-070=liberime | fordham=liberime | iohanniswyclift02wyclgoog=liberime | iohanniswycliftr08wycl=liberime | tractatusdeoffi00saylgoog=liberime | tractatusdeoffic00wycl=liberime		7	accept
+95	R2	latinworks18wycl=uel | bwb_T5-ARL-070=uel | fordham=uel | iohanniswyclift02wyclgoog=r | iohanniswycliftr08wycl=uel | tractatusdeoffi00saylgoog=uel | tractatusdeoffic00wycl=uel		7	accept
+107	R2	latinworks18wycl=a | bwb_T5-ARL-070=a | fordham=a | iohanniswyclift02wyclgoog=a | iohanniswycliftr08wycl=a | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=a		7	accept
+130	R3a	latinworks18wycl=frustrari | bwb_T5-ARL-070=frustrari | fordham=frustrari | iohanniswyclift02wyclgoog=frustraris | iohanniswycliftr08wycl=frustrari | tractatusdeoffi00saylgoog=frustrari | tractatusdeoffic00wycl=frustrari		7	accept
+134	DEL	latinworks18wycl=3 | bwb_T5-ARL-070=∅ | fordham=∅ | iohanniswyclift02wyclgoog=crisio | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		7	accept
+135	R6a	latinworks18wycl=cristo | bwb_T5-ARL-070=cristo | fordham=cristo | iohanniswyclift02wyclgoog=∅ | iohanniswycliftr08wycl=cristo | tractatusdeoffi00saylgoog=cristo | tractatusdeoffic00wycl=cristo		7	accept
+149	R2	latinworks18wycl=uel | bwb_T5-ARL-070=uel | fordham=uel | iohanniswyclift02wyclgoog=uef | iohanniswycliftr08wycl=uel | tractatusdeoffi00saylgoog=uel | tractatusdeoffic00wycl=uel		7	accept
+160	R2	latinworks18wycl=pro | bwb_T5-ARL-070=pro | fordham=pro | iohanniswyclift02wyclgoog=pra | iohanniswycliftr08wycl=pro | tractatusdeoffi00saylgoog=pro | tractatusdeoffic00wycl=pro		7	accept
+175	R5a	latinworks18wycl=extingwere | bwb_T5-ARL-070=extingwere | fordham=extingwere | iohanniswyclift02wyclgoog=extingwere | iohanniswycliftr08wycl=extingwere | tractatusdeoffi00saylgoog=extingwere | tractatusdeoffic00wycl=extingwere		7	accept
+176	R2	latinworks18wycl=et | bwb_T5-ARL-070=et | fordham=et | iohanniswyclift02wyclgoog=et | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=t | tractatusdeoffic00wycl=et		7	accept
+179	R3b	latinworks18wycl=in | bwb_T5-ARL-070=in | fordham=in | iohanniswyclift02wyclgoog=in | iohanniswycliftr08wycl=in | tractatusdeoffi00saylgoog=iu | tractatusdeoffic00wycl=iu		7	accept
+180	R2	latinworks18wycl=toto | bwb_T5-ARL-070=toto | fordham=toto | iohanniswyclift02wyclgoog=tolo | iohanniswycliftr08wycl=tolo | tractatusdeoffi00saylgoog=toto | tractatusdeoffic00wycl=tolo		7	accept
+183	R2	latinworks18wycl=in | bwb_T5-ARL-070=in | fordham=in | iohanniswyclift02wyclgoog=irt | iohanniswycliftr08wycl=in | tractatusdeoffi00saylgoog=in | tractatusdeoffic00wycl=in		7	accept
+197	R3a	latinworks18wycl=et | bwb_T5-ARL-070=et | fordham=et | iohanniswyclift02wyclgoog=et | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=et | tractatusdeoffic00wycl=ct		7	accept
+205	DEL	latinworks18wycl=5 | bwb_T5-ARL-070=∅ | fordham=∅ | iohanniswyclift02wyclgoog=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		6	accept
+211	R3a	latinworks18wycl=asserit | bwb_T5-ARL-070=asserit | fordham=asserit | iohanniswyclift02wyclgoog=asseru | iohanniswycliftr08wycl=asserit | tractatusdeoffi00saylgoog=asserits | tractatusdeoffic00wycl=asserit		7	accept
+221	R5a	latinworks18wycl=imperatiuior | bwb_T5-ARL-070=imperatiuior | fordham=imperatiuior | iohanniswyclift02wyclgoog=impcratiuior | iohanniswycliftr08wycl=imperatiuior | tractatusdeoffi00saylgoog=imperatiuior | tractatusdeoffic00wycl=impcratiuior		7	accept
+223	R5a	latinworks18wycl=dominatiuior | bwb_T5-ARL-070=dominatiuior | fordham=dominatiuior | iohanniswyclift02wyclgoog=dominaliuior | iohanniswycliftr08wycl=dominatiuior | tractatusdeoffi00saylgoog=dominatiuior | tractatusdeoffic00wycl=dominatiuior		7	accept
+226	R5a	latinworks18wycl=phalsigrafus | bwb_T5-ARL-070=phalsigrafus | fordham=phalsigrafus | iohanniswyclift02wyclgoog=phalsigrafus | iohanniswycliftr08wycl=phalsigrafus | tractatusdeoffi00saylgoog=phalsigrafus | tractatusdeoffic00wycl=phalsigrafus		7	accept
+252	DEL	latinworks18wycl=6 | bwb_T5-ARL-070=∅ | fordham=∅ | iohanniswyclift02wyclgoog=b | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		7	accept
+255	R5a	latinworks18wycl=cristo | bwb_T5-ARL-070=cristo | fordham=cristo | iohanniswyclift02wyclgoog=crislo | iohanniswycliftr08wycl=cristo | tractatusdeoffi00saylgoog=cristo | tractatusdeoffic00wycl=cristo		7	accept
+282	R3a	latinworks18wycl=atque | bwb_T5-ARL-070=atque | fordham=atque | iohanniswyclift02wyclgoog=alque | iohanniswycliftr08wycl=atque | tractatusdeoffi00saylgoog=atque | tractatusdeoffic00wycl=atque		7	accept

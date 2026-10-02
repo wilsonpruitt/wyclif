@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+8	INS?	powerlicenciam	2	6	plate: licenciam
+8	R2	latinworks10wycl=indulgendi | iohanniswyclift00mattgoog=indulgendi | iohanniswycliftr00wycluoft=indulgendi | iohanniswycliftr04wycl=indulgendi | tractatusdeeccl00wycl=powerlicenciam | tractatusdeeccle00wycl=indulgendi		6	accept
+14	INS	tunc	4	6	accept
+19	R4a	latinworks10wycl=licenciam | iohanniswyclift00mattgoog=licenciam | iohanniswycliftr00wycluoft=hcenciam | iohanniswycliftr04wycl=hcenciam | tractatusdeeccl00wycl=hcenciam | tractatusdeeccle00wycl=hcenciamsimiliter		6	accept
+20	R2	latinworks10wycl=similiter | iohanniswyclift00mattgoog=similiter | iohanniswycliftr00wycluoft=simihter | iohanniswycliftr04wycl=simihter | tractatusdeeccl00wycl=similiter | tractatusdeeccle00wycl=∅		6	accept
+53	R3a	latinworks10wycl=racio | iohanniswyclift00mattgoog=facio | iohanniswycliftr00wycluoft=racio | iohanniswycliftr04wycl=racio | tractatusdeeccl00wycl=racio | tractatusdeeccle00wycl=racio		6	accept
+84	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+122	R3a	latinworks10wycl=may | iohanniswyclift00mattgoog=nay | iohanniswycliftr00wycluoft=may | iohanniswycliftr04wycl=may | tractatusdeeccl00wycl=may | tractatusdeeccle00wycl=∅		6	accept
+131	PLATE	latinworks10wycl=populo | iohanniswyclift00mattgoog=popu | iohanniswycliftr00wycluoft=popu | iohanniswycliftr04wycl=popu | tractatusdeeccl00wycl=popu | tractatusdeeccle00wycl=populo		6	accept
+153	R5a	latinworks10wycl=rom | iohanniswyclift00mattgoog=rom | iohanniswycliftr00wycluoft=rom | iohanniswycliftr04wycl=rom | tractatusdeeccl00wycl=rom | tractatusdeeccle00wycl=rom		6	accept
+159	R5a	latinworks10wycl=latinis | iohanniswyclift00mattgoog=latinis | iohanniswycliftr00wycluoft=latinis | iohanniswycliftr04wycl=latinis | tractatusdeeccl00wycl=latinis | tractatusdeeccle00wycl=latinis		6	accept
+211	INS	12	4	6	accept
+243	PLATE	latinworks10wycl=possitcompetere | iohanniswycliftr00wycluoft=possitcompetere		2	accept

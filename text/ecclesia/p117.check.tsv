@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=matri | tractatusdeeccl00wycl=matri | tractatusdeeccle00wycl=matri		3	accept
+3	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enim | tractatusdeeccl00wycl=cnini | tractatusdeeccle00wycl=enim		6	accept
+4	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=mm | tractatusdeeccle00wycl=non		6	accept
+35	R3a	latinworks10wycl=sic | iohanniswyclift00mattgoog=ac | iohanniswycliftr00wycluoft=sic | iohanniswycliftr04wycl=sic | tractatusdeeccl00wycl=sic | tractatusdeeccle00wycl=sic		6	accept
+71	PLATE	latinworks10wycl=estuirgo | iohanniswyclift00mattgoog=estuirgoy | iohanniswycliftr00wycluoft=estuirgo | iohanniswycliftr04wycl=est | tractatusdeeccle00wycl=estiouirgo		5	accept
+75	R2	latinworks10wycl=uinnnis | iohanniswyclift00mattgoog=uirginis | iohanniswycliftr00wycluoft=uirginis | iohanniswycliftr04wycl=uirginis | tractatusdeeccl00wycl=uirginis | tractatusdeeccle00wycl=uirginis		6	accept
+76	R5a	latinworks10wycl=iesu | iohanniswyclift00mattgoog=iesu | iohanniswycliftr00wycluoft=iesu | iohanniswycliftr04wycl=iesu | tractatusdeeccl00wycl=iesu | tractatusdeeccle00wycl=iesu		6	accept
+77	PLATE	latinworks10wycl=christi | iohanniswyclift00mattgoog=chnsti | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=ghristi | tractatusdeeccle00wycl=christi		6	accept
+96	R2	latinworks10wycl=fornicando | iohanniswyclift00mattgoog=fomicandofor | iohanniswycliftr00wycluoft=fornicando | iohanniswycliftr04wycl=fornicando | tractatusdeeccl00wycl=fornicandor | tractatusdeeccle00wycl=fornicando		6	accept
+108	R2	latinworks10wycl=corrupta | iohanniswyclift00mattgoog=comipta | iohanniswycliftr00wycluoft=corrupta | iohanniswycliftr04wycl=corrupta | tractatusdeeccl00wycl=corrupta | tractatusdeeccle00wycl=corrupta		6	accept
+135	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus		6	accept
+146	PLATE	latinworks10wycl=quodomnis | iohanniswyclift00mattgoog=quod | iohanniswycliftr00wycluoft=quodomnis | iohanniswycliftr04wycl=quodomnis | tractatusdeeccl00wycl=quodomnis | tractatusdeeccle00wycl=quodomnis		6	accept
+182	R3a	latinworks10wycl=dicta | iohanniswyclift00mattgoog=dicta | iohanniswycliftr00wycluoft=dicta | iohanniswycliftr04wycl=dicta | tractatusdeeccl00wycl=dieta | tractatusdeeccle00wycl=dicta		6	accept
+195	R2	latinworks10wycl=uerbi | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=uerbi | iohanniswycliftr04wycl=uerbi | tractatusdeeccl00wycl=ucrbi | tractatusdeeccle00wycl=uerbi		6	accept
+197	R2	latinworks10wycl=filium | iohanniswyclift00mattgoog=filiumy | iohanniswycliftr00wycluoft=filium | iohanniswycliftr04wycl=fiuura | tractatusdeeccl00wycl=filium | tractatusdeeccle00wycl=filium		6	accept
+208	R2	latinworks10wycl=quam | iohanniswyclift00mattgoog=quam | iohanniswycliftr00wycluoft=quam | iohanniswycliftr04wycl=quam | tractatusdeeccl00wycl=quara | tractatusdeeccle00wycl=quam		6	accept
+222	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cura | tractatusdeeccle00wycl=cum		6	accept
+223	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=sochristus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus		6	accept
+227	R2	latinworks10wycl=ecclesiam | iohanniswyclift00mattgoog=ecdesiam | iohanniswycliftr00wycluoft=ecclesiam | iohanniswycliftr04wycl=ecclesiam | tractatusdeeccl00wycl=ccclcsiara | tractatusdeeccle00wycl=ecclesiam		6	accept

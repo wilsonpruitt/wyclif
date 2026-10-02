@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=fuerit		1	accept
+1	EDGE	latinworks10wycl=quod		1	accept
+2	EDGE	latinworks10wycl=tali		1	accept
+7	R4a	latinworks10wycl=iudicari | iohanniswycliftr00wycluoft=mdicari | tractatusdeeccl00wycl=ludican | tractatusdeeccle00wycl=ludican		4	accept
+9	R2	latinworks10wycl=illo | iohanniswyclift00mattgoog=illo | iohanniswycliftr00wycluoft=lilo | tractatusdeeccl00wycl=1ii0 | tractatusdeeccle00wycl=lllo		5	accept
+26	R3a	latinworks10wycl=illum | iohanniswyclift00mattgoog=illum | iohanniswycliftr00wycluoft=illum | iohanniswycliftr04wycl=illum | tractatusdeeccl00wycl=illum | tractatusdeeccle00wycl=ilium		6	accept
+34	R3a	latinworks10wycl=iura | iohanniswyclift00mattgoog=iuras | iohanniswycliftr00wycluoft=iura | iohanniswycliftr04wycl=iura | tractatusdeeccl00wycl=iura | tractatusdeeccle00wycl=iura		6	accept
+52	R2	latinworks10wycl=xxxuiii3 | iohanniswyclift00mattgoog=xxxuiil | iohanniswycliftr00wycluoft=xxxuiii | iohanniswycliftr04wycl=xxxuiii | tractatusdeeccl00wycl=xxxuiiia | tractatusdeeccle00wycl=xxxuiiia		6	accept
+55	INS?	the	3	6	plate: ∅
+66	PLATE	latinworks10wycl=ture | iohanniswyclift00mattgoog=lure | iohanniswycliftr00wycluoft=mre | iohanniswycliftr04wycl=mre | tractatusdeeccl00wycl=mre | tractatusdeeccle00wycl=mre		6	accept
+75	R2	latinworks10wycl=omissionem | iohanniswyclift00mattgoog=omissionem | iohanniswycliftr00wycluoft=omissionem | iohanniswycliftr04wycl=oraissionera | tractatusdeeccl00wycl=omissionem | tractatusdeeccle00wycl=omissionem		6	accept
+98	R3a	latinworks10wycl=item | iohanniswyclift00mattgoog=itcm | iohanniswycliftr00wycluoft=itcm | iohanniswycliftr04wycl=itera | tractatusdeeccl00wycl=item | tractatusdeeccle00wycl=item		6	accept
+103	R3a	latinworks10wycl=absolutum | iohanniswyclift00mattgoog=absolutums | iohanniswycliftr00wycluoft=absolutum | iohanniswycliftr04wycl=absolutura | tractatusdeeccl00wycl=absolutum | tractatusdeeccle00wycl=absolutum		6	accept
+104	R4a	latinworks10wycl=iuramentum | iohanniswyclift00mattgoog=iuramentum | iohanniswycliftr00wycluoft=luramentum | iohanniswycliftr04wycl=luraraentum | tractatusdeeccl00wycl=luramentum | tractatusdeeccle00wycl=luramentum		6	accept
+111	R2	latinworks10wycl=iuramenti | iohanniswyclift00mattgoog=iuramenti | iohanniswycliftr00wycluoft=mramenti | iohanniswycliftr04wycl=mraraenti | tractatusdeeccl00wycl=uiramenti | tractatusdeeccle00wycl=mramenti		6	accept
+112	R2	latinworks10wycl=ueritatem | iohanniswyclift00mattgoog=ucntatcm | iohanniswycliftr00wycluoft=ueritatem | iohanniswycliftr04wycl=ueritateni | tractatusdeeccl00wycl=uentatem | tractatusdeeccle00wycl=ueritatem		6	accept
+116	R2	latinworks10wycl=plurimum | iohanniswyclift00mattgoog=plunmum | iohanniswycliftr00wycluoft=plurimum | iohanniswycliftr04wycl=piurmiura | tractatusdeeccl00wycl=plunmum | tractatusdeeccle00wycl=plurimum		6	accept
+119	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+135	R3a	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nara | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		6	accept
+142	R2	latinworks10wycl=mater | iohanniswyclift00mattgoog=matcr | iohanniswycliftr00wycluoft=mater | iohanniswycliftr04wycl=niatcr | tractatusdeeccl00wycl=mater | tractatusdeeccle00wycl=mater		6	accept
+155	R2	latinworks10wycl=ministerii | iohanniswyclift00mattgoog=ministerii | iohanniswycliftr00wycluoft=mmisteru | iohanniswycliftr04wycl=mmisteni | tractatusdeeccl00wycl=mimstern | tractatusdeeccle00wycl=ministerii		6	accept
+160	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fuit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=ftiit | tractatusdeeccle00wycl=fuit		6	accept
+178	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept

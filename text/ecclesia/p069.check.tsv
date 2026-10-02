@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=sicut		1	accept
+6	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=el | tractatusdeeccle00wycl=et		6	accept
+19	HEAD	CAP. IV.			plate: CAP. IV.
+29	R2	latinworks10wycl=obicitur | iohanniswyclift00mattgoog=bicitur | iohanniswycliftr00wycluoft=obicitur | iohanniswycliftr04wycl=obicitur | tractatusdeeccl00wycl=bicitur | tractatusdeeccle00wycl=obicitur		6	accept
+128	R3a	latinworks10wycl=hinc | iohanniswyclift00mattgoog=hinc | iohanniswycliftr00wycluoft=hinc | iohanniswycliftr04wycl=hinc | tractatusdeeccl00wycl=hinc | tractatusdeeccle00wycl=tunc		6	accept
+144	R2	latinworks10wycl=sui | iohanniswyclift00mattgoog=soi | iohanniswycliftr00wycluoft=sui | iohanniswycliftr04wycl=sui | tractatusdeeccl00wycl=sui | tractatusdeeccle00wycl=sui		6	accept
+166	PLATE	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=ghristi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+186	R3b	latinworks10wycl=alia | iohanniswyclift00mattgoog=alia | iohanniswycliftr00wycluoft=aha | iohanniswycliftr04wycl=aha | tractatusdeeccl00wycl=alia | tractatusdeeccle00wycl=alia		6	accept

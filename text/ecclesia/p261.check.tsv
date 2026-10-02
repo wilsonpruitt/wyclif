@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=sanctum | tractatusdeeccle00wycl=sanctum		2	accept
+1	EDGE	latinworks10wycl=quia | tractatusdeeccle00wycl=quia		2	accept
+2	EDGE	latinworks10wycl=decret | tractatusdeeccle00wycl=decret		2	accept
+3	PLATE	latinworks10wycl=xxiii1 | tractatusdeeccle00wycl=xxiiia		2	accept
+4	R5a	latinworks10wycl=q | iohanniswycliftr00wycluoft=q | iohanniswycliftr04wycl=q | tractatusdeeccl00wycl=q | tractatusdeeccle00wycl=q		5	accept
+13	R5a	latinworks10wycl=h | iohanniswyclift00mattgoog=h | iohanniswycliftr00wycluoft=h | iohanniswycliftr04wycl=h | tractatusdeeccl00wycl=h | tractatusdeeccle00wycl=h		6	accept
+19	R2	latinworks10wycl=nriuileiorum | iohanniswyclift00mattgoog=priuilcgionim | iohanniswycliftr00wycluoft=priuileiorura | iohanniswycliftr04wycl=priuileiorura | tractatusdeeccl00wycl=priuilegiorum | tractatusdeeccle00wycl=priuilesiorum		6	accept
+21	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=iinii | tractatusdeeccle00wycl=non		6	accept
+22	R2	latinworks10wycl=minus | iohanniswyclift00mattgoog=minus | iohanniswycliftr00wycluoft=mnius | iohanniswycliftr04wycl=rainus | tractatusdeeccl00wycl=minus | tractatusdeeccle00wycl=minus		6	accept
+26	R2	latinworks10wycl=qui | iohanniswyclift00mattgoog=qui | iohanniswycliftr00wycluoft=qui | iohanniswycliftr04wycl=qui | tractatusdeeccl00wycl=uui | tractatusdeeccle00wycl=qui		6	accept
+29	R3a	latinworks10wycl=quam | iohanniswyclift00mattgoog=quam | iohanniswycliftr00wycluoft=quam | iohanniswycliftr04wycl=quara | tractatusdeeccl00wycl=uuam | tractatusdeeccle00wycl=quam		6	accept
+35	R2	latinworks10wycl=hoc | iohanniswyclift00mattgoog=hoc | iohanniswycliftr00wycluoft=hoc | iohanniswycliftr04wycl=hoc | tractatusdeeccl00wycl=noc | tractatusdeeccle00wycl=hoc		6	accept
+38	R3a	latinworks10wycl=foret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=toret | iohanniswycliftr04wycl=roret | tractatusdeeccl00wycl=foret | tractatusdeeccle00wycl=foret		6	accept
+40	R2	latinworks10wycl=priuilegium | iohanniswyclift00mattgoog=priuilcgium | iohanniswycliftr00wycluoft=priuilegmm | iohanniswycliftr04wycl=pnuuegmm | tractatusdeeccl00wycl=pnuilegium | tractatusdeeccle00wycl=priuilegium		6	accept
+52	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cuni | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+53	R3a	latinworks10wycl=ergo | iohanniswyclift00mattgoog=crgo | iohanniswycliftr00wycluoft=ergo | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=ereo | tractatusdeeccle00wycl=ergo		6	accept
+68	R2	latinworks10wycl=ymmo | iohanniswyclift00mattgoog=ymmo | iohanniswycliftr00wycluoft=ymmo | iohanniswycliftr04wycl=yramo | tractatusdeeccl00wycl=ummo | tractatusdeeccle00wycl=yramo		6	accept
+88	R2	latinworks10wycl=quam | iohanniswyclift00mattgoog=quam | iohanniswycliftr00wycluoft=quam | iohanniswycliftr04wycl=quara | tractatusdeeccl00wycl=quam | tractatusdeeccle00wycl=quam		6	accept
+120	R2	latinworks10wycl=dominorum | iohanniswyclift00mattgoog=dominorum | iohanniswycliftr00wycluoft=dominorum | iohanniswycliftr04wycl=dorainorura | tractatusdeeccl00wycl=dominorum | tractatusdeeccle00wycl=dominorum		6	accept
+124	R3a	latinworks10wycl=foret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=foret | iohanniswycliftr04wycl=toret | tractatusdeeccl00wycl=loret | tractatusdeeccle00wycl=foret		6	accept
+131	R2	latinworks10wycl=eodem | iohanniswyclift00mattgoog=codcm | iohanniswycliftr00wycluoft=eodem | iohanniswycliftr04wycl=eodera | tractatusdeeccl00wycl=eodem | tractatusdeeccle00wycl=eodem		6	accept
+155	R2	latinworks10wycl=medium | iohanniswyclift00mattgoog=medium | iohanniswycliftr00wycluoft=medium | iohanniswycliftr04wycl=raediura | tractatusdeeccl00wycl=medium | tractatusdeeccle00wycl=medium		6	accept
+169	R5a	latinworks10wycl=u | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=u | tractatusdeeccle00wycl=u		6	accept
+195	PLATE	latinworks10wycl=pnuuegu | iohanniswyclift00mattgoog=priuilegii | iohanniswycliftr00wycluoft=priuilegu | iohanniswycliftr04wycl=pnuilegu | tractatusdeeccl00wycl=pnuilegn | tractatusdeeccle00wycl=priuilegii		6	accept
+196	R2	latinworks10wycl=pnncipum | iohanniswyclift00mattgoog=principum | iohanniswycliftr00wycluoft=prmcipum | iohanniswycliftr04wycl=pnncipura | tractatusdeeccl00wycl=pnncipum | tractatusdeeccle00wycl=principum		6	accept
+201	R4a	latinworks10wycl=rugitiuis | iohanniswyclift00mattgoog=fugiduis | iohanniswycliftr00wycluoft=rugitiuis | iohanniswycliftr04wycl=rugitiuis | tractatusdeeccl00wycl=fugitiuis | tractatusdeeccle00wycl=fugitiuis		6	accept
+204	R2	latinworks10wycl=dixi | iohanniswyclift00mattgoog=dixi | iohanniswycliftr00wycluoft=dixi | iohanniswycliftr04wycl=dixi | tractatusdeeccl00wycl=ilixi | tractatusdeeccle00wycl=dixi		6	accept
+215	R2	latinworks10wycl=autem | iohanniswyclift00mattgoog=autem | iohanniswycliftr00wycluoft=autem | iohanniswycliftr04wycl=autera | tractatusdeeccl00wycl=autem | tractatusdeeccle00wycl=autem		6	accept
+217	R3a	latinworks10wycl=decretum | iohanniswyclift00mattgoog=decretum | iohanniswycliftr00wycluoft=decretum | iohanniswycliftr04wycl=decretura | tractatusdeeccl00wycl=decretum | tractatusdeeccle00wycl=decretum		6	accept

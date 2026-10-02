@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+1	INS?	aliquando accipitur pro remittere uel condonare in de penitcnciis ct	2	6	plate: ∅
+5	R3a	latinworks10wycl=principio | iohanniswyclift00mattgoog=princip | iohanniswycliftr00wycluoft=princip | tractatusdeeccl00wycl=princip | tractatusdeeccle00wycl=princip		5	accept
+11	R4a	latinworks10wycl=mdulgencias | iohanniswyclift00mattgoog=indulgencias | iohanniswycliftr00wycluoft=mdulgencias | iohanniswycliftr04wycl=mdulgencias | tractatusdeeccl00wycl=mdulgencias | tractatusdeeccle00wycl=indulgencias		6	accept
+48	R3a	latinworks10wycl=indulgencia | iohanniswyclift00mattgoog=indulgenda | iohanniswycliftr00wycluoft=indulgencia | iohanniswycliftr04wycl=indulgencia | tractatusdeeccl00wycl=indulgencia | tractatusdeeccle00wycl=indulgencia		6	accept
+134	R4a	latinworks10wycl=fiunt | iohanniswyclift00mattgoog=iiunt | iohanniswycliftr00wycluoft=iiunt | iohanniswycliftr04wycl=iiunt | tractatusdeeccl00wycl=fiunt | tractatusdeeccle00wycl=iiunt		6	accept
+158	INS?	time	2	6	plate: ∅
+171	R2	latinworks10wycl=indulgencie | iohanniswyclift00mattgoog=indulimgncie | iohanniswycliftr00wycluoft=indulpro | iohanniswycliftr04wycl=indultemg | tractatusdeeccl00wycl=indulgencie | tractatusdeeccle00wycl=indulgencie		6	accept
+172	R3a	latinworks10wycl=pro | iohanniswyclift00mattgoog=pro | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=po | tractatusdeeccl00wycl=pro | tractatusdeeccle00wycl=pro		6	accept
+185	R3b	latinworks10wycl=pacieris | iohanniswyclift00mattgoog=pacieris | iohanniswycliftr00wycluoft=pacieris | iohanniswycliftr04wycl=paciens | tractatusdeeccl00wycl=pacieris | tractatusdeeccle00wycl=paciens		6	accept
+190	R2	latinworks10wycl=intelligi | iohanniswyclift00mattgoog=intelligi | iohanniswycliftr00wycluoft=uitelhgi | iohanniswycliftr04wycl=mtelhgi | tractatusdeeccl00wycl=intelligi | tractatusdeeccle00wycl=inteihgi		6	accept

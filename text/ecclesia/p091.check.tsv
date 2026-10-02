@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=et		1	accept
+1	INS?	uel populo conuersante nobiscum utrum sit membrum matris nostre sic quod uidendo ipsum uideamus parcialiter matrem nostram dico quod ego ignoro sed reputo uel suppono ex modo conuersandi sic uel sic nec est inconueniens sed consonum statui uie quod ignoremus	3	6	plate: ∅
+10	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+48	R2	latinworks10wycl=ecclesie | iohanniswyclift00mattgoog=ecdesie | iohanniswycliftr00wycluoft=ecclesie | iohanniswycliftr04wycl=ecclesie | tractatusdeeccl00wycl=ccclcsic | tractatusdeeccle00wycl=ecclesie		6	accept
+49	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=kt | tractatusdeeccle00wycl=et		6	accept
+67	R5a	latinworks10wycl=r | iohanniswyclift00mattgoog=r | iohanniswycliftr00wycluoft=r | iohanniswycliftr04wycl=r | tractatusdeeccl00wycl=r | tractatusdeeccle00wycl=r		6	accept
+75	PLATE	latinworks10wycl=exnor | iohanniswyclift00mattgoog=cxlli | iohanniswycliftr00wycluoft=exnor | iohanniswycliftr04wycl=exnor | tractatusdeeccl00wycl=exnlrs | tractatusdeeccle00wycl=ex		6	accept
+79	R3a	latinworks10wycl=factum | iohanniswyclift00mattgoog=factum | iohanniswycliftr00wycluoft=factum | iohanniswycliftr04wycl=factum | tractatusdeeccl00wycl=tactum | tractatusdeeccle00wycl=factum		6	accept
+96	R2	latinworks10wycl=effectu | iohanniswyclift00mattgoog=effectu | iohanniswycliftr00wycluoft=effectu | iohanniswycliftr04wycl=effectu | tractatusdeeccl00wycl=ertcctu | tractatusdeeccle00wycl=effectu		6	accept
+123	R5a	latinworks10wycl=hugo | iohanniswyclift00mattgoog=hugo | iohanniswycliftr00wycluoft=hugo | iohanniswycliftr04wycl=hugo | tractatusdeeccl00wycl=hugo | tractatusdeeccle00wycl=hugo		6	accept
+124	R2	latinworks10wycl=de | iohanniswyclift00mattgoog=z | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=de | tractatusdeeccle00wycl=de		6	accept
+126	R2	latinworks10wycl=libro | iohanniswyclift00mattgoog=libro | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=libro | tractatusdeeccl00wycl=libro | tractatusdeeccle00wycl=libro		6	accept
+127	R3a	latinworks10wycl=11 | iohanniswyclift00mattgoog=11 | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=11 | tractatusdeeccle00wycl=ii		6	accept
+129	PLATE	latinworks10wycl=iia | iohanniswyclift00mattgoog=11 | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=iia | tractatusdeeccle00wycl=iia		6	accept
+133	R3a	latinworks10wycl=textu | iohanniswyclift00mattgoog=texta | iohanniswycliftr00wycluoft=textu | iohanniswycliftr04wycl=textu | tractatusdeeccl00wycl=textu | tractatusdeeccle00wycl=textu		6	accept
+134	R2	latinworks10wycl=4tapostoli | iohanniswyclift00mattgoog=apostoli | iohanniswycliftr00wycluoft=irapostoh | iohanniswycliftr04wycl=iiapostoli | tractatusdeeccl00wycl=141apostoli | tractatusdeeccle00wycl=i4iaapostoli		6	accept
+135	PLATE	latinworks10wycl=ia | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=ia | tractatusdeeccle00wycl=ia		6	accept
+136	R2	latinworks10wycl=cor | iohanniswyclift00mattgoog=cor | iohanniswycliftr00wycluoft=gor | iohanniswycliftr04wycl=cor | tractatusdeeccl00wycl=cor | tractatusdeeccle00wycl=cor		6	accept
+137	R2	latinworks10wycl=xii | iohanniswyclift00mattgoog=xip | iohanniswycliftr00wycluoft=xif | iohanniswycliftr04wycl=xii | tractatusdeeccl00wycl=xii | tractatusdeeccle00wycl=xii		6	accept
+186	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=t | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+230	R3a	latinworks10wycl=autem | iohanniswyclift00mattgoog=autem | iohanniswycliftr00wycluoft=aurem | iohanniswycliftr04wycl=autem | tractatusdeeccl00wycl=autcm | tractatusdeeccle00wycl=autem		6	accept

@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=sua | tractatusdeeccl00wycl=sua		2	accept
+1	PLATE	latinworks10wycl=ct | tractatusdeeccl00wycl=ct		2	accept
+2	INS?	concessit et ex imperiali potestate statuit et confirmauit ut usque in finem mundi dona sua et	3	6	plate: ∅
+2	EDGE	latinworks10wycl=priuilegia | tractatusdeeccl00wycl=priuilegia		2	accept
+3	PLATE	latinworks10wycl=mancant | tractatusdeeccl00wycl=maneant		2	accept
+23	R5a	latinworks10wycl=ccsaris | iohanniswyclift00mattgoog=cesarisy | iohanniswycliftr00wycluoft=cesaris | iohanniswycliftr04wycl=cesaris | tractatusdeeccl00wycl=cesaris | tractatusdeeccle00wycl=cesaris		6	accept
+40	R2	latinworks10wycl=beati | iohanniswyclift00mattgoog=beati | iohanniswycliftr00wycluoft=beati | iohanniswycliftr04wycl=beati | tractatusdeeccl00wycl=beati | tractatusdeeccle00wycl=bead		6	accept
+57	R3a	latinworks10wycl=aliam | iohanniswyclift00mattgoog=aliam | iohanniswycliftr00wycluoft=aliam | iohanniswycliftr04wycl=aliam | tractatusdeeccl00wycl=aliam | tractatusdeeccle00wycl=ah		6	accept
+59	R2	latinworks10wycl=scriptura | iohanniswyclift00mattgoog=scriptunu | iohanniswycliftr00wycluoft=scriptura | iohanniswycliftr04wycl=scriptura | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=scnptura		6	accept
+60	R2	latinworks10wycl=n | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=in		6	accept
+62	R2	latinworks10wycl=iniinitas | iohanniswyclift00mattgoog=infinitas | iohanniswycliftr00wycluoft=infinitas | iohanniswycliftr04wycl=infinitas | tractatusdeeccl00wycl=innnitas | tractatusdeeccle00wycl=lnnnitas		6	accept
+64	PLATE	latinworks10wycl=antichristinas | iohanniswyclift00mattgoog=woaidbtfomidantidirisdnas | iohanniswycliftr00wycluoft=antichristinas | iohanniswycliftr04wycl=antichnstmas | tractatusdeeccl00wycl=antichnstinas | tractatusdeeccle00wycl=antichnstinas		6	accept
+71	R2	latinworks10wycl=euangclii | iohanniswyclift00mattgoog=euangefii | iohanniswycliftr00wycluoft=euangelii | iohanniswycliftr04wycl=euangehi | tractatusdeeccl00wycl=euangeln | tractatusdeeccle00wycl=euangeln		6	accept
+75	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=cbristi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+85	R2	latinworks10wycl=si | iohanniswyclift00mattgoog=d | iohanniswycliftr00wycluoft=si | iohanniswycliftr04wycl=si | tractatusdeeccl00wycl=si | tractatusdeeccle00wycl=si		6	accept
+95	R5a	latinworks10wycl=cesare | iohanniswyclift00mattgoog=cesare | iohanniswycliftr00wycluoft=cesare | iohanniswycliftr04wycl=cesare | tractatusdeeccl00wycl=cesare | tractatusdeeccle00wycl=cesare		6	accept
+120	R2	latinworks10wycl=qucrunt | iohanniswyclift00mattgoog=qummt | iohanniswycliftr00wycluoft=querunt | iohanniswycliftr04wycl=querunt | tractatusdeeccl00wycl=querunt | tractatusdeeccle00wycl=querunt		6	accept
+130	R5a	latinworks10wycl=petrus | iohanniswyclift00mattgoog=petrus | iohanniswycliftr00wycluoft=petrus | iohanniswycliftr04wycl=petrus | tractatusdeeccl00wycl=petrus | tractatusdeeccle00wycl=petrus		6	accept
+135	R2	latinworks10wycl=ciuiliter | iohanniswyclift00mattgoog=duifiter | iohanniswycliftr00wycluoft=ciuiliter | iohanniswycliftr04wycl=ciuihter | tractatusdeeccl00wycl=ciuiliter | tractatusdeeccle00wycl=ciuiliter		6	accept
+143	R5a	latinworks10wycl=cesaris | iohanniswyclift00mattgoog=cesaris | iohanniswycliftr00wycluoft=cesaris | iohanniswycliftr04wycl=cesaris | tractatusdeeccl00wycl=cesaris | tractatusdeeccle00wycl=cesaris		6	accept
+147	R2	latinworks10wycl=idem | iohanniswyclift00mattgoog=idem | iohanniswycliftr00wycluoft=idem | iohanniswycliftr04wycl=idera | tractatusdeeccl00wycl=idem | tractatusdeeccle00wycl=idem		6	accept
+155	PLATE	latinworks10wycl=uia | iohanniswyclift00mattgoog=ul | iohanniswycliftr00wycluoft=ui | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=uia | tractatusdeeccle00wycl=uia		6	accept
+160	PLATE	latinworks10wycl=uiii3 | iohanniswyclift00mattgoog=uiii | iohanniswycliftr00wycluoft=uiii | iohanniswycliftr04wycl=uiii | tractatusdeeccl00wycl=uiiia | tractatusdeeccle00wycl=uiiia		6	accept
+170	R2	latinworks10wycl=papam | iohanniswyclift00mattgoog=papam | iohanniswycliftr00wycluoft=papam | iohanniswycliftr04wycl=papara | tractatusdeeccl00wycl=papam | tractatusdeeccle00wycl=papam		6	accept
+174	R3a	latinworks10wycl=ut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=nt | tractatusdeeccle00wycl=ut		6	accept
+189	HEAD	CAP. XV.			plate: CAP. XV.

@@ -1,0 +1,161 @@
+page	pos	rule	forms	reading	note
+280	161	R4	latinworks10wycl=iii | iohanniswyclift00mattgoog=iii | iohanniswycliftr00wycluoft=111 | iohanniswycliftr04wycl=111 | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=iii	III°	
+280	169	R3	latinworks10wycl=deus | iohanniswyclift00mattgoog=deus | iohanniswycliftr00wycluoft=deiis | iohanniswycliftr04wycl=dens | tractatusdeeccl00wycl=dens | tractatusdeeccle00wycl=deus	Deus	
+281	12	R3	latinworks10wycl=140 | iohanniswyclift00mattgoog=14 | iohanniswycliftr00wycluoft=14 | iohanniswycliftr04wycl=14 | tractatusdeeccl00wycl=140 | tractatusdeeccle00wycl=140	14°	
+281	74	R3	latinworks10wycl=m | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=in	in	
+281	85	R3	latinworks10wycl=mentonum | iohanniswyclift00mattgoog=meritorium | iohanniswycliftr00wycluoft=meritonum | iohanniswycliftr04wycl=meritonum | tractatusdeeccl00wycl=meritonum | tractatusdeeccle00wycl=mentonum	meritorium	
+282	10	R3	latinworks10wycl=cnristi | iohanniswyclift00mattgoog=cbriid | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=ghnsti	Christi	
+282	116	R4	latinworks10wycl=obligacione | iohanniswyclift00mattgoog=ouigadoney | iohanniswycliftr00wycluoft=obugacione | iohanniswycliftr04wycl=obhgacione | tractatusdeeccl00wycl=obhgacione | tractatusdeeccle00wycl=obhgacione	obligacione	
+282	119	NW	latinworks10wycl=paternali | iohanniswyclift00mattgoog=pateraali | iohanniswycliftr00wycluoft=paternah | iohanniswycliftr04wycl=paternah | tractatusdeeccl00wycl=paternah | tractatusdeeccle00wycl=paternali	paternali	
+283	22	NW	latinworks10wycl=auctontatis | iohanniswyclift00mattgoog=auctontatis | iohanniswycliftr00wycluoft=auctontatis | iohanniswycliftr04wycl=auctontatis | tractatusdeeccl00wycl=auctontatis | tractatusdeeccle00wycl=auctoritatis	auctoritatis	
+283	49	R4	latinworks10wycl=iii | iohanniswyclift00mattgoog=iii | iohanniswycliftr00wycluoft=111 | iohanniswycliftr04wycl=111 | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=iii	III°	
+283	93	R4	latinworks10wycl=utroabique | iohanniswyclift00mattgoog=utroabiqucy | iohanniswycliftr00wycluoft=utroabique | iohanniswycliftr04wycl=utrobique | tractatusdeeccl00wycl=utrobique | tractatusdeeccle00wycl=utroabique	utrobique	utro-/bique; main token holds whole word (a = alinea letter)
+283	190	R3	latinworks10wycl=ii | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=ii | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=11 | tractatusdeeccle00wycl=ii	II°	
+283	209	R4	latinworks10wycl=puniti | iohanniswyclift00mattgoog=sopuniti | iohanniswycliftr00wycluoft=sopuniti | iohanniswycliftr04wycl=sopuniti | tractatusdeeccl00wycl=puniti | tractatusdeeccle00wycl=puniti	puniti	30 is the line number
+284	51	R3	latinworks10wycl=solicitudine | iohanniswyclift00mattgoog=toiidtucene | iohanniswycliftr00wycluoft=sohcitudme | iohanniswycliftr04wycl=sohcitudine | tractatusdeeccl00wycl=sohcitudine | tractatusdeeccle00wycl=sohcitudine	solicitudine	
+284	183	R3	latinworks10wycl=christi | iohanniswyclift00mattgoog=cfaristi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=ghristi | tractatusdeeccle00wycl=christi	Christi	
+284	209	R3	latinworks10wycl=1 | iohanniswyclift00mattgoog=1 | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=1 | tractatusdeeccle00wycl=1	1	x-height old-style 1, not capital I
+285	17	R3	latinworks10wycl=esi | iohanniswyclift00mattgoog=est | iohanniswycliftr00wycluoft=esi | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=esi | tractatusdeeccle00wycl=est	est	
+285	29	R3	latinworks10wycl=dixitque | iohanniswyclift00mattgoog=dixit | iohanniswycliftr00wycluoft=dixitque | iohanniswycliftr04wycl=dixitque | tractatusdeeccl00wycl=dixit | tractatusdeeccle00wycl=dixitque	Dixitque	Dixit-/que; main token holds whole word
+285	145	R3	latinworks10wycl=ghristi | iohanniswyclift00mattgoog=cbristi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi	Christi	
+286	202	INS?	of	∅	'of' is the English side-note; main already has de at 202
+287	2	R3	latinworks10wycl=deraum | iohanniswycliftr00wycluoft=organum | iohanniswycliftr04wycl=organum | tractatusdeeccl00wycl=demura | tractatusdeeccle00wycl=demum	demum	
+288	134	R4	latinworks10wycl=seculares | iohanniswyclift00mattgoog=secularcsk | iohanniswycliftr00wycluoft=secularesk | iohanniswycliftr04wycl=secularesk | tractatusdeeccl00wycl=secularesk | tractatusdeeccle00wycl=seculares	seculares	K is margin letter
+288	202	R4	latinworks10wycl=xxiia | iohanniswyclift00mattgoog=xxii | iohanniswycliftr00wycluoft=xxii | iohanniswycliftr04wycl=xxii | tractatusdeeccl00wycl=xxiia | tractatusdeeccle00wycl=xxiia	XXIIª	
+289	157	R3	latinworks10wycl=chnstianus | iohanniswyclift00mattgoog=christianus | iohanniswycliftr00wycluoft=chnstianus | iohanniswycliftr04wycl=christianus | tractatusdeeccl00wycl=cbristianus | tractatusdeeccle00wycl=christianus	christianus	
+289	162	R4	latinworks10wycl=tempora2tlibus | iohanniswyclift00mattgoog=tefnpora33libus | iohanniswycliftr00wycluoft=tempora2libus | iohanniswycliftr04wycl=tempora3hbus | tractatusdeeccl00wycl=tempora2hbus | tractatusdeeccle00wycl=temporahbus	temporalibus	tempora-/libus; main token holds whole word (25 line number)
+289	172	R3	latinworks10wycl=perreccior | iohanniswyclift00mattgoog=perfeccior | iohanniswycliftr00wycluoft=perfeccior | iohanniswycliftr04wycl=perfeccior | tractatusdeeccl00wycl=perleccior | tractatusdeeccle00wycl=perreccior	perfeccior	
+290	142	R3	latinworks10wycl=inter | iohanniswyclift00mattgoog=interao | iohanniswycliftr00wycluoft=intero | iohanniswycliftr04wycl=inter | tractatusdeeccl00wycl=inter | tractatusdeeccle00wycl=inter	inter	20 is the line number
+290	156	R3	latinworks10wycl=christus | iohanniswyclift00mattgoog=qiristus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=chnstus | tractatusdeeccl00wycl=chnstus | tractatusdeeccle00wycl=chnstus	Christus	
+291	13	R3	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghrlsti | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=ghristi	Christi	
+292	30	R3	latinworks10wycl=clen | iohanniswyclift00mattgoog=deri | iohanniswycliftr00wycluoft=cleri | iohanniswycliftr04wycl=cleri | tractatusdeeccl00wycl=clen | tractatusdeeccle00wycl=clen	cleri	
+292	127	R3	latinworks10wycl=pus | iohanniswyclift00mattgoog=plus | iohanniswycliftr00wycluoft=pius | iohanniswycliftr04wycl=plus | tractatusdeeccl00wycl=pus | tractatusdeeccle00wycl=plus	plus	
+293	0	R3	latinworks10wycl=quid | iohanniswyclift00mattgoog=et | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=sed | tractatusdeeccle00wycl=quid	quid	170a folio mark
+293	115	R3	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=christi | iohanniswycliftr04wycl=ghristi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=ghristi	Christi	
+294	133	R3	latinworks10wycl=ad | iohanniswyclift00mattgoog=adso | iohanniswycliftr00wycluoft=ado | iohanniswycliftr04wycl=ad | tractatusdeeccl00wycl=ad | tractatusdeeccle00wycl=ad	ad	20 is the line number
+295	100	R3	latinworks10wycl=ioc | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=170 | iohanniswycliftr04wycl=iio | tractatusdeeccl00wycl=lyo | tractatusdeeccle00wycl=i70c	∅	170c is a folio mark
+295	152	R3	latinworks10wycl=1 | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=1 | tractatusdeeccle00wycl=1	1	x-height old-style 1
+295	221	NW	latinworks10wycl=elo | iohanniswyclift00mattgoog=elo | iohanniswycliftr00wycluoft=elo | iohanniswycliftr04wycl=elo | tractatusdeeccl00wycl=elo | tractatusdeeccle00wycl=elo	zelo	italic z clear
+296	10	R3	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=ghristi	Christi	
+296	20	R3	latinworks10wycl=ia | iohanniswyclift00mattgoog=1 | iohanniswycliftr00wycluoft=1 | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=ia | tractatusdeeccle00wycl=1	Iª	
+296	148	NW	latinworks10wycl=diocesis | iohanniswyclift00mattgoog=diocesis | iohanniswycliftr00wycluoft=diocesis | iohanniswycliftr04wycl=diocesis | tractatusdeeccl00wycl=diocesis | tractatusdeeccle00wycl=diocesis	diocesis	
+297	3	GAP	episcopus ijo^et qui recipiunt	∅	coordinator: the main scan already has et qui recipiunt at pos 0-2 (the other scans voted p.296's dat there; OVERRIDE in part99)
+297	78	R4	latinworks10wycl=eradus | iohanniswycliftr00wycluoft=radus | iohanniswycliftr04wycl=sradus | tractatusdeeccl00wycl=sradus | tractatusdeeccle00wycl=eradus	gradus	
+297	106	R4	latinworks10wycl=outsic | iohanniswyclift00mattgoog=ioutsic | iohanniswycliftr00wycluoft=iioutsic | iohanniswycliftr04wycl=iyoutsic | tractatusdeeccle00wycl=1ollutsic	ut sic	main token covers 170d ut * sic; folio mark and * dropped
+298	7	R4	latinworks10wycl=excommunicatus | iohanniswycliftr00wycluoft=exiyo | tractatusdeeccl00wycl=exi70dq | tractatusdeeccle00wycl=exi70dq	excommunicatus	ex-/communicatus; main token holds whole word
+298	8	INS?	communicatus	∅	print ex-/communicatus; main already holds excommunicatus whole at pos 7
+298	21	R4	latinworks10wycl=iua | iohanniswyclift00mattgoog=iu | iohanniswycliftr00wycluoft=iu | iohanniswycliftr04wycl=iu | tractatusdeeccl00wycl=iua | tractatusdeeccle00wycl=iua	IVª	
+298	123	R4	latinworks10wycl=xxiiia | iohanniswyclift00mattgoog=xxiiis | iohanniswycliftr00wycluoft=xxiii | iohanniswycliftr04wycl=xxiii | tractatusdeeccl00wycl=xxiiia | tractatusdeeccle00wycl=xxiiia	XXIIIª	
+298	125	R4	latinworks10wycl=iua | iohanniswyclift00mattgoog=iu | iohanniswycliftr00wycluoft=iu | iohanniswycliftr04wycl=iu | tractatusdeeccl00wycl=iua | tractatusdeeccle00wycl=iua	IVª	
+298	175	R3	latinworks10wycl=omcio | iohanniswyclift00mattgoog=officio | iohanniswycliftr00wycluoft=oincio | iohanniswycliftr04wycl=orhcio | tractatusdeeccl00wycl=oihcio | tractatusdeeccle00wycl=officio	officio	
+298	178	R3	latinworks10wycl=m | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=in	in	
+298	179	R3	latinworks10wycl=enectu | iohanniswyclift00mattgoog=effectu | iohanniswycliftr00wycluoft=enectu | iohanniswycliftr04wycl=eriectu | tractatusdeeccl00wycl=ettectu | tractatusdeeccle00wycl=efiectu	effectu	
+298	187	R4	latinworks10wycl=hdem | iohanniswyclift00mattgoog=ndcmas | iohanniswycliftr00wycluoft=ndem | iohanniswycliftr04wycl=ndeni | tractatusdeeccl00wycl=hdem | tractatusdeeccle00wycl=ndem	fidem	25 is the line number
+298	189	R4	latinworks10wycl=christo | iohanniswyclift00mattgoog=christo | iohanniswycliftr00wycluoft=ghristo | iohanniswycliftr04wycl=ghristo | tractatusdeeccl00wycl=ghristo | tractatusdeeccle00wycl=christo	Christo	
+299	0	R4	latinworks10wycl=lurando | iohanniswyclift00mattgoog=quia | iohanniswycliftr00wycluoft=lurando | iohanniswycliftr04wycl=lurando | tractatusdeeccl00wycl=quia | tractatusdeeccle00wycl=lurando	Iurando	italic capital I; 170d folio mark
+299	55	HEAD	CAP. XIV.	CAP. XIV.	
+300	5	R3	latinworks10wycl=credoiyr | iohanniswyclift00mattgoog=credoiia | iohanniswycliftr00wycluoft=credoiyia | iohanniswycliftr04wycl=credoiira | tractatusdeeccl00wycl=credor | tractatusdeeccle00wycl=credo	credo	171a folio mark and A margin letter
+300	14	R3	latinworks10wycl=clcri | iohanniswyclift00mattgoog=deri | iohanniswycliftr00wycluoft=cleri | iohanniswycliftr04wycl=clcri | tractatusdeeccl00wycl=cleri | tractatusdeeccle00wycl=cleri	cleri	
+300	47	R4	latinworks10wycl=ruierquoci | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=ruieiqqi | iohanniswycliftr04wycl=ruicrquqi | tractatusdeeccl00wycl=iuiciguoi	quod	'ruler' is English side-note
+300	63	R3	latinworks10wycl=clim | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=1 | iohanniswycliftr04wycl=iyi | tractatusdeeccl00wycl=cura | tractatusdeeccle00wycl=cura	cum	
+300	168	NW	latinworks10wycl=filius | iohanniswyclift00mattgoog=iilius | iohanniswycliftr00wycluoft=iilius | iohanniswycliftr04wycl=iilius | tractatusdeeccl00wycl=iilius | tractatusdeeccle00wycl=iilius	filius	italic f clear
+300	184	NW	latinworks10wycl=lib | iohanniswyclift00mattgoog=lib | iohanniswycliftr00wycluoft=hb | iohanniswycliftr04wycl=lib | tractatusdeeccl00wycl=lib | tractatusdeeccle00wycl=lib	lib	
+300	185	R3	latinworks10wycl=11 | iohanniswyclift00mattgoog=iii | iohanniswycliftr00wycluoft=ii | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii	II°	
+301	90	R3	latinworks10wycl=ia | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=i1 | tractatusdeeccle00wycl=ia	Iª	
+301	209	R3	latinworks10wycl=xcuia | iohanniswyclift00mattgoog=xcui | iohanniswycliftr00wycluoft=xgui | iohanniswycliftr04wycl=xcup | tractatusdeeccl00wycl=xcuia | tractatusdeeccle00wycl=xcuia	XCVIª	
+302	0	R3	latinworks10wycl=christi | iohanniswyclift00mattgoog=ab | iohanniswycliftr00wycluoft=ab | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi	Christi	
+302	16	R4	latinworks10wycl=ciuihter | iohanniswyclift00mattgoog=atiuter | iohanniswycliftr00wycluoft=ciuuiter | iohanniswycliftr04wycl=ciuihter | tractatusdeeccl00wycl=ciuihter | tractatusdeeccle00wycl=ciuiliter	civiliter	
+302	28	R4	latinworks10wycl=iia | iohanniswyclift00mattgoog=ii | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=iia | tractatusdeeccle00wycl=iia	IIª	
+302	43	R4	latinworks10wycl=thumotheo | iohanniswyclift00mattgoog=thymotheo | iohanniswycliftr00wycluoft=thymotheo | iohanniswycliftr04wycl=thymotheo | tractatusdeeccl00wycl=thumotheo | tractatusdeeccle00wycl=thumotheo	Thymotheo	Thy-/motheo; main token holds whole word; print has y
+303	13	R4	latinworks10wycl=sc | iohanniswyclift00mattgoog=25 | iohanniswycliftr00wycluoft=sc | tractatusdeeccle00wycl=bao	Scio	italic Scio; side-note text follows
+303	29	R4	latinworks10wycl=quam | iohanniswyclift00mattgoog=quam | iohanniswycliftr00wycluoft=squam | iohanniswycliftr04wycl=squam | tractatusdeeccl00wycl=iquam | tractatusdeeccle00wycl=squam	quam	5 is the line number
+304	21	NW	latinworks10wycl=oniy | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=oniy | iohanniswycliftr04wycl=oniy | tractatusdeeccl00wycl=oniy | tractatusdeeccle00wycl=only	∅	only is the English side-note
+305	0	R3	latinworks10wycl=i7idhuiussit | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=specialiter | tractatusdeeccle00wycl=gracia	huius sit	main token covers 171d huius sit; folio mark dropped
+305	228	NW	latinworks10wycl=accessorie | iohanniswyclift00mattgoog=accessorie | iohanniswycliftr00wycluoft=accessorie | iohanniswycliftr04wycl=accessorie | tractatusdeeccl00wycl=accessorie | tractatusdeeccle00wycl=accessorie	accessorie	
+306	8	INS?	communicat	∅	print ex-/communicat; main already holds excommunicat whole at pos 7
+306	30	NW	latinworks10wycl=accessorie | iohanniswyclift00mattgoog=accessorie | iohanniswycliftr00wycluoft=accessorie | iohanniswycliftr04wycl=accessorie | tractatusdeeccl00wycl=accessorie | tractatusdeeccle00wycl=accessorie	accessorie	
+306	49	R3	latinworks10wycl=deas | iohanniswyclift00mattgoog=deus | iohanniswycliftr00wycluoft=deus | iohanniswycliftr04wycl=deiis | tractatusdeeccl00wycl=deus | tractatusdeeccle00wycl=deas	Deus	
+306	72	R3	latinworks10wycl=clen | iohanniswyclift00mattgoog=deri | iohanniswycliftr00wycluoft=cleri | tractatusdeeccl00wycl=cleri | tractatusdeeccle00wycl=clen	cleri	
+306	75	R4	latinworks10wycl=ilhcita | iohanniswyclift00mattgoog=ud | iohanniswycliftr00wycluoft=ihicita | tractatusdeeccl00wycl=nhcita | tractatusdeeccle00wycl=llhcita	illicita	
+306	133	R3	latinworks10wycl=pnuilegn | iohanniswyclift00mattgoog=priuilegii | iohanniswycliftr00wycluoft=priuilegii | iohanniswycliftr04wycl=priuilegu | tractatusdeeccl00wycl=priuilegii | tractatusdeeccle00wycl=pnuilegn	privilegii	
+307	19	R3	latinworks10wycl=ergo | iohanniswyclift00mattgoog=erco | iohanniswycliftr00wycluoft=ereo | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=ergo | tractatusdeeccle00wycl=ergo	ergo	
+307	44	R4	latinworks10wycl=nimis | iohanniswyclift00mattgoog=nimis | iohanniswycliftr00wycluoft=nunis | iohanniswycliftr04wycl=nunis | tractatusdeeccl00wycl=mmts | tractatusdeeccle00wycl=nirais	nimis	
+309	100	R4	latinworks10wycl=i3et | iohanniswyclift00mattgoog=i3et | iohanniswycliftr00wycluoft=i3et | iohanniswycliftr04wycl=5et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=5et	et	15 is the line number
+309	182	R4	latinworks10wycl=i72cnonne | iohanniswyclift00mattgoog=i72nonne | iohanniswycliftr00wycluoft=lyononne | iohanniswycliftr04wycl=iy2nonne | tractatusdeeccl00wycl=xonne | tractatusdeeccle00wycl=iy2cnonne	Nonne	172c folio mark
+310	11	R3	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nara | tractatusdeeccl00wycl=inam | tractatusdeeccle00wycl=inarn	Nam	
+310	94	R4	latinworks10wycl=canof | iohanniswycliftr04wycl=cantuanensis | tractatusdeeccl00wycl=canof	Can-	Can-/tuariensis; main token holds first half
+310	95	R6	latinworks10wycl=tuanensis | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=tuanensis	tuariensis	second half of Can-/tuariensis
+310	96	R5	latinworks10wycl=obut | iohanniswycliftr04wycl=obut | tractatusdeeccl00wycl=obnt	obiit	
+310	134	R3	latinworks10wycl=ii | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii	II°	
+310	220	R3	latinworks10wycl=uicarns | iohanniswyclift00mattgoog=uicanis | iohanniswycliftr00wycluoft=uicarns | iohanniswycliftr04wycl=uicanis | tractatusdeeccl00wycl=uicarns | tractatusdeeccle00wycl=uicariis	vicariis	
+311	0	R3	latinworks10wycl=i72c | iohanniswyclift00mattgoog=intellectu | iohanniswycliftr00wycluoft=affectu | iohanniswycliftr04wycl=affectu | tractatusdeeccle00wycl=i72c	∅	172c is a folio mark
+311	50	INS?	a	a	print has 'usurpant a' at line end before cesare; main lacks this a
+311	173	R3	latinworks10wycl=arguo | iohanniswyclift00mattgoog=arcuo | iohanniswycliftr00wycluoft=areuo | iohanniswycliftr04wycl=arguo | tractatusdeeccl00wycl=areuo | tractatusdeeccle00wycl=areuo	arguo	
+312	32	R3	latinworks10wycl=ii | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=11	II°	
+312	62	R3	latinworks10wycl=chnstus | iohanniswyclift00mattgoog=chnstus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=ghnstus | tractatusdeeccle00wycl=lhnstus	Christus	
+313	34	NW	latinworks10wycl=patnmon | iohanniswyclift00mattgoog=patrimon | iohanniswycliftr00wycluoft=patrimon | iohanniswycliftr04wycl=patnmon | tractatusdeeccl00wycl=patrimomo | tractatusdeeccle00wycl=patrimon	patrimonio	
+313	42	R4	latinworks10wycl=filn | iohanniswyclift00mattgoog=filii | iohanniswycliftr00wycluoft=nhi | iohanniswycliftr04wycl=filn | tractatusdeeccl00wycl=hln | tractatusdeeccle00wycl=fihi	filii	
+313	123	R3	latinworks10wycl=ia | iohanniswyclift00mattgoog=1 | iohanniswycliftr00wycluoft=1 | iohanniswycliftr04wycl=h | tractatusdeeccl00wycl=ia | tractatusdeeccle00wycl=ia	Iª	
+313	234	R3	latinworks10wycl=uicanis | iohanniswyclift00mattgoog=uicanis | iohanniswycliftr00wycluoft=uicariis | iohanniswycliftr04wycl=uicarns | tractatusdeeccl00wycl=uicarns | tractatusdeeccle00wycl=uicarns	vicariis	
+314	56	R3	latinworks10wycl=ii | iohanniswyclift00mattgoog=11 | iohanniswycliftr00wycluoft=ii | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=11 | tractatusdeeccle00wycl=ii	II°	
+314	72	R3	latinworks10wycl=neeo | iohanniswyclift00mattgoog=nego | iohanniswycliftr00wycluoft=nego | iohanniswycliftr04wycl=nego | tractatusdeeccl00wycl=neo | tractatusdeeccle00wycl=nego	nego	
+314	115	R3	latinworks10wycl=uia | iohanniswyclift00mattgoog=up | iohanniswycliftr00wycluoft=ui | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=uia | tractatusdeeccle00wycl=uia	VIª	
+314	122	R4	latinworks10wycl=ua | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=ua | tractatusdeeccle00wycl=ua	Vª	
+315	16	R3	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cura | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum	cum	
+315	138	R3	latinworks10wycl=cladium | iohanniswyclift00mattgoog=gladium | iohanniswycliftr00wycluoft=sladiura | iohanniswycliftr04wycl=ffladium | tractatusdeeccl00wycl=oaladium | tractatusdeeccle00wycl=gladium	gladium	20 is the line number
+315	153	R3	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=ghristus | tractatusdeeccle00wycl=christus	Christus	
+315	190	R3	latinworks10wycl=genens | iohanniswyclift00mattgoog=genens | iohanniswycliftr00wycluoft=generis | iohanniswycliftr04wycl=generis | tractatusdeeccl00wycl=genens | tractatusdeeccle00wycl=generis	generis	
+315	207	R3	latinworks10wycl=uicane | iohanniswyclift00mattgoog=uicarie | iohanniswycliftr00wycluoft=uicarie | iohanniswycliftr04wycl=uicarie | tractatusdeeccl00wycl=uicane | tractatusdeeccle00wycl=uicane	vicarie	
+316	3	R3	latinworks10wycl=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=ghristus	Christus	
+316	79	R4	latinworks10wycl=interroeo | iohanniswyclift00mattgoog=interrogo | iohanniswycliftr00wycluoft=interrogo | iohanniswycliftr04wycl=interroeo | tractatusdeeccl00wycl=interroeo | tractatusdeeccle00wycl=interrogo	interrogo	
+316	84	R4	latinworks10wycl=questionem | iohanniswyclift00mattgoog=cirartqiiestionem | iohanniswycliftr00wycluoft=werepiyquestionem | iohanniswycliftr04wycl=werepiyquestionem | tractatusdeeccl00wycl=werepiyquestionem | tractatusdeeccle00wycl=questionem	questionem	English side-note words glued in other scans
+316	106	R4	latinworks10wycl=ii | iohanniswyclift00mattgoog=ip | iohanniswycliftr00wycluoft=ip | iohanniswycliftr04wycl=ip | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii	II°	
+317	140	R3	latinworks10wycl=ia | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=ia | tractatusdeeccle00wycl=ia	Iª	
+317	198	R4	latinworks10wycl=xxiii3 | iohanniswyclift00mattgoog=xxiii | iohanniswycliftr00wycluoft=xxiii | iohanniswycliftr04wycl=xxiii | tractatusdeeccl00wycl=xxiii3 | tractatusdeeccle00wycl=xxiii3	XXIIIª	
+318	15	INS?	uery	∅	'very' is the English side-note; main already has Iste at 15
+318	41	R3	latinworks10wycl=11 | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii	II°	
+318	45	R3	latinworks10wycl=11 | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=11 | tractatusdeeccle00wycl=ii	II°	
+318	47	R3	latinworks10wycl=iii | iohanniswyclift00mattgoog=ni | iohanniswycliftr00wycluoft=111 | iohanniswycliftr04wycl=111 | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=iii	III°	
+318	198	INS?	in	∅	'in' is the English side-note (grounded in); main already has nostri at 198
+319	220	R4	latinworks10wycl=lhnsto | iohanniswyclift00mattgoog=chnsto | iohanniswycliftr00wycluoft=christo | iohanniswycliftr04wycl=lhnsto | tractatusdeeccl00wycl=lnristo | tractatusdeeccle00wycl=lhnsto	Christo	
+319	225	NW	latinworks10wycl=perieccion | iohanniswyclift00mattgoog=perfeccion | iohanniswycliftr00wycluoft=perieccion | iohanniswycliftr04wycl=perreccion | tractatusdeeccl00wycl=peneccion | tractatusdeeccle00wycl=perreccion	perfecciori	print perfecciori; ff ligature
+319	232	R3	latinworks10wycl=mtundi | iohanniswyclift00mattgoog=infundi | iohanniswycliftr00wycluoft=uitundi | iohanniswycliftr04wycl=mtundi | tractatusdeeccl00wycl=mtundi | tractatusdeeccle00wycl=intundi	infundi	
+320	200	NW	latinworks10wycl=subieccior | iohanniswyclift00mattgoog=subieccior | iohanniswycliftr00wycluoft=subieccior | iohanniswycliftr04wycl=subieccior | tractatusdeeccl00wycl=subieccior | tractatusdeeccle00wycl=subieccior	subieccior	
+321	0	R3	latinworks10wycl=73asuper | iohanniswyclift00mattgoog=esst | iohanniswycliftr00wycluoft=suo | iohanniswycliftr04wycl=subiectum | tractatusdeeccl00wycl=quia | tractatusdeeccle00wycl=suo	super	173d folio mark
+321	72	R4	latinworks10wycl=laucos | iohanniswyclift00mattgoog=i74laycos | iohanniswycliftr00wycluoft=iilaycos | iohanniswycliftr04wycl=laucos | tractatusdeeccl00wycl=i74mlaycos | tractatusdeeccle00wycl=i74alaycos	laycos	print has y; 174a folio mark
+321	143	R3	latinworks10wycl=uia | iohanniswyclift00mattgoog=ui | iohanniswycliftr00wycluoft=ui | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=uia | tractatusdeeccle00wycl=uia	VIª	
+321	226	R3	latinworks10wycl=sini | iohanniswyclift00mattgoog=sint | iohanniswycliftr00wycluoft=sint | iohanniswycliftr04wycl=sini | tractatusdeeccl00wycl=sint | tractatusdeeccle00wycl=sint	sint	
+322	0	R3	latinworks10wycl=euenit | iohanniswyclift00mattgoog=xxxuii | iohanniswycliftr00wycluoft=xxxuii | iohanniswycliftr04wycl=euenit | tractatusdeeccl00wycl=euenit | tractatusdeeccle00wycl=euenit	evenit	
+322	38	NW	latinworks10wycl=accir | iohanniswyclift00mattgoog=acdr | iohanniswycliftr00wycluoft=accir | iohanniswycliftr04wycl=accir | tractatusdeeccl00wycl=accinit | tractatusdeeccle00wycl=accir	acci-	acci-/pit; main token holds first half (R is margin letter)
+322	39	NW	latinworks10wycl=pit | iohanniswyclift00mattgoog=pit | iohanniswycliftr00wycluoft=pit | iohanniswycliftr04wycl=pit | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=nit	pit	second half of acci-/pit
+322	162	R3	latinworks10wycl=xcuia | iohanniswyclift00mattgoog=xcui | iohanniswycliftr00wycluoft=xcui | iohanniswycliftr04wycl=xgui | tractatusdeeccl00wycl=xcuia | tractatusdeeccle00wycl=xguia	XCVIª	
+322	196	R3	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=christus | iohanniswycliftr04wycl=ghristus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=ghristus	Christus	
+323	32	R3	latinworks10wycl=ii | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=11 | tractatusdeeccle00wycl=11	II°	
+323	33	R3	latinworks10wycl=18 | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=18 | tractatusdeeccle00wycl=18	18	old-style 1 at x-height + 8
+323	144	R3	latinworks10wycl=r | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=i	11	leaf zoom: old-style 11 after XI°
+323	209	R3	latinworks10wycl=xcup | iohanniswyclift00mattgoog=xcup | iohanniswycliftr00wycluoft=xcui | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=xcuia | tractatusdeeccle00wycl=xcuia	XCVIª	
+324	21	INS?	it	∅	'it' is the English side-note (Nor does it); main already has Istis at 21
+324	23	R3	latinworks10wycl=natet | iohanniswyclift00mattgoog=patet | iohanniswycliftr00wycluoft=patet | iohanniswycliftr04wycl=uatet | tractatusdeeccl00wycl=natet | tractatusdeeccle00wycl=patet	patet	
+324	107	R3	latinworks10wycl=subiectum | iohanniswyclift00mattgoog=subiectum | iohanniswycliftr00wycluoft=subiectum | iohanniswycliftr04wycl=subiectura | tractatusdeeccl00wycl=subiectura | tractatusdeeccle00wycl=subiectum	subiectum	
+325	31	R4	latinworks10wycl=i74chabeat | iohanniswyclift00mattgoog=i74habeat | iohanniswycliftr00wycluoft=i74habeat | iohanniswycliftr04wycl=lyhabeat | tractatusdeeccl00wycl=i74habeat | tractatusdeeccle00wycl=i74chabeat	habeat	174c folio mark
+325	175	NW	latinworks10wycl=supenor | iohanniswyclift00mattgoog=supenor | iohanniswycliftr00wycluoft=supenor | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=supenor | tractatusdeeccle00wycl=superior	superior	
+325	248	R3	latinworks10wycl=cum | iohanniswyclift00mattgoog=cura | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum	cum	
+326	76	INS?	xi	XI	print 'Gregorius XI. fuerit'; main lacks XI between Gregorius and fuerit
+326	80	NW	latinworks10wycl=dominn | iohanniswycliftr00wycluoft=domuin | iohanniswycliftr04wycl=domuin | tractatusdeeccl00wycl=capitalis | tractatusdeeccle00wycl=domimi	dominii	
+326	81	NW	latinworks10wycl=capitahs | iohanniswycliftr00wycluoft=capitahs | iohanniswycliftr04wycl=capitahs | tractatusdeeccl00wycl=dominus | tractatusdeeccle00wycl=capitahs	capitalis	
+326	82	R3	latinworks10wycl=dommus | iohanniswycliftr00wycluoft=dommus | tractatusdeeccl00wycl=regni	dominus	
+326	83	R4	latinworks10wycl=retnn | iohanniswycliftr00wycluoft=reeni | tractatusdeeccl00wycl=nostri	regni	
+326	84	R3	latinworks10wycl=nostn | iohanniswycliftr00wycluoft=nostri | tractatusdeeccl00wycl=ex	nostri	
+326	109	NW	latinworks10wycl=legium | iohanniswyclift00mattgoog=legium | iohanniswycliftr00wycluoft=legium | iohanniswycliftr04wycl=legium | tractatusdeeccl00wycl=legium | tractatusdeeccle00wycl=legium	legium	
+326	123	R4	latinworks10wycl=quod | iohanniswyclift00mattgoog=quods | iohanniswycliftr00wycluoft=quod | iohanniswycliftr04wycl=quods | tractatusdeeccl00wycl=quods | tractatusdeeccle00wycl=quod	quod	print (quod; 3 is a margin argument numeral
+326	128	NW	latinworks10wycl=hereticare | iohanniswyclift00mattgoog=hereticare | iohanniswycliftr00wycluoft=hereticare | iohanniswycliftr04wycl=hereticare | tractatusdeeccl00wycl=hereticare | tractatusdeeccle00wycl=hereticare	hereticare	
+327	0	R3	latinworks10wycl=crgo | iohanniswyclift00mattgoog=eorum | iohanniswycliftr00wycluoft=professionem | iohanniswycliftr04wycl=contraprofessionem | tractatusdeeccl00wycl=professionem | tractatusdeeccle00wycl=eorum	ergo	print p.327 l.1 '174d ris dominii; ergo'
+327	103	R4	latinworks10wycl=idcstruere | iohanniswyclift00mattgoog=i3dcstrucre | iohanniswycliftr00wycluoft=isdcstrucre | iohanniswycliftr04wycl=odestruere | tractatusdeeccl00wycl=odestruere | tractatusdeeccle00wycl=destruere	destruere	15 is the line number
+327	153	R3	latinworks10wycl=xcuia | iohanniswyclift00mattgoog=xcui | iohanniswycliftr00wycluoft=xcui | iohanniswycliftr04wycl=xcui | tractatusdeeccl00wycl=kcuia | tractatusdeeccle00wycl=xcuia	XCVIª	
+328	1	R4	latinworks10wycl=ct | iohanniswyclift00mattgoog=ct | iohanniswycliftr00wycluoft=largitate | iohanniswycliftr04wycl=largitate | tractatusdeeccl00wycl=ct | tractatusdeeccle00wycl=largitate	et	
+328	2	INS?	concessit et ex imperiali potestate statuit et confirmauit ut usque in finem mundi dona sua et	∅	print p.328 begins 'sua et privilegia'; the inserted run is the end of p.327
+328	155	R3	latinworks10wycl=uia | iohanniswyclift00mattgoog=ul | iohanniswycliftr00wycluoft=ui | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=uia | tractatusdeeccle00wycl=uia	VIª	
+328	160	R4	latinworks10wycl=uiii3 | iohanniswyclift00mattgoog=uiii | iohanniswycliftr00wycluoft=uiii | iohanniswycliftr04wycl=uiii | tractatusdeeccl00wycl=uiiia | tractatusdeeccle00wycl=uiiia	VIIIª	
+328	189	HEAD	CAP. XV.	CAP. XV.	
+329	134	INS?	iii	III°	print 'Jone III° / et Matthei'; main lacks III° after Jone
+330	31	THIN	latinworks10wycl=non | tractatusdeeccle00wycl=non	non	

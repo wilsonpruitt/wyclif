@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+2	R4	latinworks10wycl=59 | iohanniswycliftr04wycl=sg | tractatusdeeccl00wycl=5g		3	plate
+11	R4	latinworks10wycl=5g | iohanniswycliftr04wycl=59 | tractatusdeeccl00wycl=5g		3	plate
+12	R3	latinworks10wycl=85 | iohanniswycliftr04wycl=is | tractatusdeeccl00wycl=i85d		3	plate
+13	R2	latinworks10wycl=d | iohanniswycliftr04wycl=presciti | tractatusdeeccl00wycl=presciti		3	accept
+14	R3	latinworks10wycl=ct | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et		3	plate
+23	R3	latinworks10wycl=62 | iohanniswycliftr04wycl=186 | tractatusdeeccl00wycl=62		3	plate
+25	R3	latinworks10wycl=410439 | iohanniswycliftr04wycl=41g | tractatusdeeccl00wycl=a		3	plate
+28	R2	latinworks10wycl=65 | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=65		3	accept
+29	R2	latinworks10wycl=191 | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=191		3	accept
+30	R6	latinworks10wycl=d | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=d		3	plate
+38	R2	latinworks10wycl=76 | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=76		3	accept
+39	R2	latinworks10wycl=202 | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=202		3	accept
+40	R6	latinworks10wycl=d | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=d		3	plate
+47	THIN	latinworks10wycl=chrisli | tractatusdeeccl00wycl=christi		2	plate
+48	THIN	latinworks10wycl=76 | tractatusdeeccl00wycl=76		2	plate
+49	THIN	latinworks10wycl=202 | tractatusdeeccl00wycl=202		2	plate
+50	R5	latinworks10wycl=d | iohanniswycliftr04wycl=d | tractatusdeeccl00wycl=d		3	plate

@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+3	R3a	latinworks10wycl=magis | iohanniswycliftr00wycluoft=maeis | iohanniswycliftr04wycl=magis | tractatusdeeccl00wycl=magis | tractatusdeeccle00wycl=magis		5	accept
+7	INS?	suo	2	6	plate: suo
+10	R2	latinworks10wycl=christus | iohanniswycliftr00wycluoft=lhristus | iohanniswycliftr04wycl=lhnstus | tractatusdeeccl00wycl=chnstus | tractatusdeeccle00wycl=christus		5	accept
+30	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=iri | tractatusdeeccle00wycl=in		6	accept
+31	R3a	latinworks10wycl=causis | iohanniswyclift00mattgoog=canris | iohanniswycliftr00wycluoft=causis | iohanniswycliftr04wycl=causis | tractatusdeeccl00wycl=causis | tractatusdeeccle00wycl=causis		6	accept
+35	R2	latinworks10wycl=in | iohanniswyclift00mattgoog=tn | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+49	R3a	latinworks10wycl=i | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		5	accept
+50	DEL	latinworks10wycl=ii | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+56	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=lhnsti | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=chnsti | tractatusdeeccle00wycl=chnsti		6	accept
+57	R2	latinworks10wycl=dicebantur | iohanniswyclift00mattgoog=fiodiantur | iohanniswycliftr00wycluoft=dicebantur | iohanniswycliftr04wycl=dicebantur | tractatusdeeccl00wycl=dicebantur | tractatusdeeccle00wycl=dicebantur		6	accept
+60	PLATE	latinworks10wycl=populi | iohanniswyclift00mattgoog=popuh | iohanniswycliftr00wycluoft=popuh | iohanniswycliftr04wycl=popuh | tractatusdeeccl00wycl=popuh | tractatusdeeccle00wycl=popuh		6	accept
+77	R2	latinworks10wycl=sunt | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=sunt | iohanniswycliftr04wycl=sunt | tractatusdeeccl00wycl=sunt | tractatusdeeccle00wycl=sunt		6	accept
+78	R2	latinworks10wycl=cum | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+86	INS	habebunt	4	6	accept
+107	R2	latinworks10wycl=raciuncula | iohanniswyclift00mattgoog=raduncuh | iohanniswycliftr00wycluoft=raciuncula | iohanniswycliftr04wycl=raciuncula | tractatusdeeccl00wycl=raciuncula | tractatusdeeccle00wycl=raciuncula		6	accept
+110	INS?	that	2	6	plate: ∅
+110	R2	latinworks10wycl=secunda | iohanniswyclift00mattgoog=secunda | iohanniswycliftr00wycluoft=that | iohanniswycliftr04wycl=secunda | tractatusdeeccl00wycl=secunda | tractatusdeeccle00wycl=secunda		6	accept
+116	R2	latinworks10wycl=nentsudefimtonconsequenciarn | iohanniswyclift00mattgoog=cttustsxkmiconsequendam | iohanniswycliftr00wycluoft=consequenciam | iohanniswycliftr04wycl=consequenciara | tractatusdeeccl00wycl=consequenciam | tractatusdeeccle00wycl=consequenciam		6	accept
+125	R3b	latinworks10wycl=christianorum | iohanniswyclift00mattgoog=christianorum | iohanniswycliftr00wycluoft=christianorum | iohanniswycliftr04wycl=christianorum | tractatusdeeccl00wycl=chnstianorum | tractatusdeeccle00wycl=chnstianorum		6	accept
+127	R2	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=christus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=lhnstus | tractatusdeeccle00wycl=christus		6	accept
+130	R3b	latinworks10wycl=christianus | iohanniswyclift00mattgoog=christianusy | iohanniswycliftr00wycluoft=christianus | iohanniswycliftr04wycl=christianus | tractatusdeeccl00wycl=chnstianus | tractatusdeeccle00wycl=chnstianus		6	accept
+137	R2	latinworks10wycl=membrum | iohanniswyclift00mattgoog=membrum | iohanniswycliftr00wycluoft=membrum | iohanniswycliftr04wycl=raerabrura | tractatusdeeccl00wycl=membrum | tractatusdeeccle00wycl=membrum		6	accept
+178	R3a	latinworks10wycl=etz | iohanniswyclift00mattgoog=etas | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+183	R3a	latinworks10wycl=ut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=iit | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		6	accept
+186	INS	to	4	6	accept
+193	R2	latinworks10wycl=simili | iohanniswyclift00mattgoog=simili | iohanniswycliftr00wycluoft=simih | iohanniswycliftr04wycl=siraih | tractatusdeeccl00wycl=simili | tractatusdeeccle00wycl=simili		6	accept
+195	R3a	latinworks10wycl=fuerit | iohanniswyclift00mattgoog=fuerit | iohanniswycliftr00wycluoft=tuerit | iohanniswycliftr04wycl=fuerit | tractatusdeeccl00wycl=tuent | tractatusdeeccle00wycl=merit		6	accept
+196	R2	latinworks10wycl=similitudo | iohanniswyclift00mattgoog=similitudo | iohanniswycliftr00wycluoft=simihtudo | iohanniswycliftr04wycl=siraihtudo | tractatusdeeccl00wycl=simihtudo | tractatusdeeccle00wycl=simuitudo		6	accept
+197	R2	latinworks10wycl=insufficiens | iohanniswyclift00mattgoog=insufficiens | iohanniswycliftr00wycluoft=insutriciens | iohanniswycliftr04wycl=insurhciens | tractatusdeeccl00wycl=lnsuihciens | tractatusdeeccle00wycl=lnsulnciens		6	accept
+201	R3a	latinworks10wycl=intentum | iohanniswyclift00mattgoog=intentumi | iohanniswycliftr00wycluoft=intentum | iohanniswycliftr04wycl=intentura | tractatusdeeccl00wycl=intentum | tractatusdeeccle00wycl=internum		6	accept
+203	R2	latinworks10wycl=omnis | iohanniswyclift00mattgoog=omnis | iohanniswycliftr00wycluoft=omnis | iohanniswycliftr04wycl=oranis | tractatusdeeccl00wycl=omnis | tractatusdeeccle00wycl=omnis		6	accept
+207	R3a	latinworks10wycl=omne | iohanniswyclift00mattgoog=omne | iohanniswycliftr00wycluoft=omne | iohanniswycliftr04wycl=orane | tractatusdeeccl00wycl=omne | tractatusdeeccle00wycl=omne		6	accept
+222	R2	latinworks10wycl=similis | iohanniswyclift00mattgoog=similis | iohanniswycliftr00wycluoft=simihs | iohanniswycliftr04wycl=siraihs | tractatusdeeccl00wycl=similis | tractatusdeeccle00wycl=similis		6	accept

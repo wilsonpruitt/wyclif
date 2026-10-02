@@ -1,0 +1,38 @@
+pos	rule	forms	support	voters	resolution
+7	R3a	latinworks10wycl=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus		5	accept
+16	R5a	latinworks10wycl=iesus | iohanniswyclift00mattgoog=iesns | iohanniswycliftr00wycluoft=iesus | iohanniswycliftr04wycl=iesus | tractatusdeeccl00wycl=iesus | tractatusdeeccle00wycl=iesus		6	accept
+17	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=christos | iohanniswycliftr00wycluoft=christus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus		6	accept
+19	R2	latinworks10wycl=sit | iohanniswyclift00mattgoog=ot | iohanniswycliftr00wycluoft=sit | iohanniswycliftr04wycl=sit | tractatusdeeccl00wycl=sit | tractatusdeeccle00wycl=sit		6	accept
+28	R2	latinworks10wycl=colligitur | iohanniswyclift00mattgoog=colligitor | iohanniswycliftr00wycluoft=collieitur | iohanniswycliftr04wycl=colhgitur | tractatusdeeccl00wycl=colligitur | tractatusdeeccle00wycl=collieitur		6	accept
+29	R2	latinworks10wycl=ex | iohanniswyclift00mattgoog=ez | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=ex | tractatusdeeccl00wycl=ex | tractatusdeeccle00wycl=ex		6	accept
+33	R2	latinworks10wycl=sentencia | iohanniswyclift00mattgoog=sen5 | iohanniswycliftr00wycluoft=sentencia | iohanniswycliftr04wycl=sentencia | tractatusdeeccl00wycl=sentencia | tractatusdeeccle00wycl=sentencia		6	accept
+35	R2	latinworks10wycl=sibi | iohanniswyclift00mattgoog=siln | iohanniswycliftr00wycluoft=sibi | iohanniswycliftr04wycl=sibi | tractatusdeeccl00wycl=sibi | tractatusdeeccle00wycl=sibi		6	accept
+37	R3a	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nani | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		6	accept
+54	R3a	latinworks10wycl=alia | iohanniswyclift00mattgoog=alia | iohanniswycliftr00wycluoft=alia | iohanniswycliftr04wycl=aha | tractatusdeeccl00wycl=alia | tractatusdeeccle00wycl=alia		6	accept
+55	R2	latinworks10wycl=conclusio | iohanniswyclift00mattgoog=coodusio | iohanniswycliftr00wycluoft=conclusio | iohanniswycliftr04wycl=conclusio | tractatusdeeccl00wycl=conclusio | tractatusdeeccle00wycl=conclusio		6	accept
+56	R3a	latinworks10wycl=gloriosa | iohanniswyclift00mattgoog=gloriosi | iohanniswycliftr00wycluoft=gloriosa | iohanniswycliftr04wycl=gloriosa | tractatusdeeccl00wycl=gloriosa | tractatusdeeccle00wycl=gloriosa		6	accept
+65	PLATE	latinworks10wycl=christi | iohanniswyclift00mattgoog=ghrisd | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+71	INS	a	4	6	accept
+72	R2	latinworks10wycl=eius | iohanniswyclift00mattgoog=dus | iohanniswycliftr00wycluoft=eius | iohanniswycliftr04wycl=eius | tractatusdeeccl00wycl=eius | tractatusdeeccle00wycl=eius		6	accept
+74	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fiiit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=fuit | tractatusdeeccle00wycl=fuit		6	accept
+77	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christiy | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+101	R2	latinworks10wycl=esse | iohanniswyclift00mattgoog=tutf | iohanniswycliftr00wycluoft=esse | iohanniswycliftr04wycl=esse | tractatusdeeccl00wycl=esse | tractatusdeeccle00wycl=esse		6	accept
+103	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fiiit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=fuit | tractatusdeeccle00wycl=fuit		6	accept
+104	R2	latinworks10wycl=synagoga | iohanniswyclift00mattgoog=synagc | iohanniswycliftr00wycluoft=synagoga | iohanniswycliftr04wycl=synagoga | tractatusdeeccl00wycl=synagoga | tractatusdeeccle00wycl=synagoga		6	accept
+106	PLATE	latinworks10wycl=pen | iohanniswyclift00mattgoog=per | iohanniswycliftr00wycluoft=pens | iohanniswycliftr04wycl=per | tractatusdeeccl00wycl=per | tractatusdeeccle00wycl=peri		6	accept
+109	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=aiit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=fuit | tractatusdeeccle00wycl=fuit		6	accept
+115	R2	latinworks10wycl=cepit | iohanniswyclift00mattgoog=cqit | iohanniswycliftr00wycluoft=cepit | iohanniswycliftr04wycl=cepit | tractatusdeeccl00wycl=cepit | tractatusdeeccle00wycl=cepit		6	accept
+118	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christiy | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+123	R2	latinworks10wycl=sunagoga | iohanniswyclift00mattgoog=synagoga | iohanniswycliftr00wycluoft=synagoga | iohanniswycliftr04wycl=synagoga | tractatusdeeccl00wycl=sunagoga		5	accept
+141	R3a	latinworks10wycl=illud | iohanniswyclift00mattgoog=illud | iohanniswycliftr00wycluoft=illud | iohanniswycliftr04wycl=ihud | tractatusdeeccl00wycl=illud | tractatusdeeccle00wycl=illud		6	accept
+143	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fiiit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=fuit | tractatusdeeccle00wycl=fuit		6	accept
+145	R2	latinworks10wycl=incarnacionem | iohanniswyclift00mattgoog=incarso | iohanniswycliftr00wycluoft=incarnacionem | iohanniswycliftr04wycl=incarnacionem | tractatusdeeccl00wycl=incarnacionem | tractatusdeeccle00wycl=incarnacionem		6	accept
+147	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fiiit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=fuit | tractatusdeeccle00wycl=fuit		6	accept
+161	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fiiit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=fuit | tractatusdeeccle00wycl=fuit		6	accept
+162	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus		6	accept
+170	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=cbristus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus		6	accept
+198	PLATE	latinworks10wycl=fuerant | iohanniswyclift00mattgoog=fuerant | iohanniswycliftr00wycluoft=fuerant | iohanniswycliftr04wycl=luerant | tractatusdeeccl00wycl=luerant | tractatusdeeccle00wycl=fuerant		6	accept
+201	R2	latinworks10wycl=discipuli | iohanniswyclift00mattgoog=disapuh | iohanniswycliftr00wycluoft=discipuh | iohanniswycliftr04wycl=discipuh | tractatusdeeccl00wycl=discipuli | tractatusdeeccle00wycl=discipuli		6	accept
+202	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=cbnsti | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+218	R2	latinworks10wycl=incarnacionem | iohanniswyclift00mattgoog=incamaciodcm | iohanniswycliftr00wycluoft=incarnacionem | iohanniswycliftr04wycl=incarnacionem | tractatusdeeccl00wycl=incarnacionem | tractatusdeeccle00wycl=incarnacionem		6	accept
+241	PLATE	latinworks10wycl=xliia | tractatusdeeccl00wycl=xliia | tractatusdeeccle00wycl=xliia		3	accept

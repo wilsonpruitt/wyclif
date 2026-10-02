@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+8	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=mlnon | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=noil		6	accept
+11	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=iua | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=llla | tractatusdeeccle00wycl=ilia		6	accept
+17	R3a	latinworks10wycl=aci | iohanniswyclift00mattgoog=ad | iohanniswycliftr00wycluoft=ad | iohanniswycliftr04wycl=ad | tractatusdeeccl00wycl=ad | tractatusdeeccle00wycl=ad		6	accept
+36	R3a	latinworks10wycl=fit | iohanniswyclift00mattgoog=it | iohanniswycliftr00wycluoft=fit | iohanniswycliftr04wycl=fit | tractatusdeeccl00wycl=fit | tractatusdeeccle00wycl=fit		6	accept
+49	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=iila | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+128	R2	latinworks10wycl=extinguit | iohanniswyclift00mattgoog=beextinguit | iohanniswycliftr00wycluoft=extinguit | iohanniswycliftr04wycl=heextineuit | tractatusdeeccl00wycl=heextineuit | tractatusdeeccle00wycl=extinguit		6	accept
+137	R3a	latinworks10wycl=meque | iohanniswyclift00mattgoog=ineque | iohanniswycliftr00wycluoft=ineque | iohanniswycliftr04wycl=ineque | tractatusdeeccl00wycl=ineque | tractatusdeeccle00wycl=ineque		6	accept
+172	R2	latinworks10wycl=impuenant | iohanniswyclift00mattgoog=impugnant | iohanniswycliftr00wycluoft=impugnant | iohanniswycliftr04wycl=impugnant | tractatusdeeccl00wycl=impuenant | tractatusdeeccle00wycl=impugnant		6	accept
+177	R2	latinworks10wycl=de | iohanniswyclift00mattgoog=de | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=ie | tractatusdeeccl00wycl=ie | tractatusdeeccle00wycl=de		6	accept
+188	PLATE	latinworks10wycl=dyocesi | iohanniswyclift00mattgoog=dyocesi | iohanniswycliftr00wycluoft=dyocesi | iohanniswycliftr04wycl=dyocesi | tractatusdeeccl00wycl=dyocesi | tractatusdeeccle00wycl=dyocesi		6	accept
+202	R5a	latinworks10wycl=petrus | iohanniswyclift00mattgoog=peirus | iohanniswycliftr00wycluoft=petrus | iohanniswycliftr04wycl=petrus | tractatusdeeccl00wycl=petrus | tractatusdeeccle00wycl=petrus		6	accept
+203	PLATE	latinworks10wycl=diocesanus | iohanniswyclift00mattgoog=diocesanus | iohanniswycliftr00wycluoft=diocesanus | iohanniswycliftr04wycl=diocesanus | tractatusdeeccl00wycl=diocesanus | tractatusdeeccle00wycl=diocesanus		6	accept
+224	R2	latinworks10wycl=uagante | iohanniswyclift00mattgoog=ua30 | iohanniswycliftr00wycluoft=uagante | iohanniswycliftr04wycl=uagante | tractatusdeeccl00wycl=uagante | tractatusdeeccle00wycl=uagante		6	accept
+230	R3a	latinworks10wycl=deteriorato | iohanniswyclift00mattgoog=deteriorato | iohanniswycliftr00wycluoft=deteriorato | iohanniswycliftr04wycl=deteriorato | tractatusdeeccl00wycl=deteriorato | tractatusdeeccle00wycl=deteriorate		6	accept

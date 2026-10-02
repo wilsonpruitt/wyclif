@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+20	R2	latinworks10wycl=meretur | iohanniswyclift00mattgoog=meretur | iohanniswycliftr00wycluoft=meretur | iohanniswycliftr04wycl=raeretur | tractatusdeeccl00wycl=meretur | tractatusdeeccle00wycl=raeretur		6	accept
+40	PLATE	latinworks10wycl=dicendum | iohanniswyclift00mattgoog=dicendum | iohanniswycliftr00wycluoft=dicendumi | iohanniswycliftr04wycl=dicendiimi | tractatusdeeccl00wycl=diccndum | tractatusdeeccle00wycl=dicendumi		6	accept
+46	PLATE	latinworks10wycl=duplicitcr | tractatusdeeccl00wycl=duplicitcr		2	accept
+47	PLATE	latinworks10wycl=intclligi | tractatusdeeccl00wycl=potest		2	accept
+60	R2	latinworks10wycl=mihgacw | iohanniswyclift00mattgoog=mitigacio | iohanniswycliftr00wycluoft=mitigacio | iohanniswycliftr04wycl=mitigacio | tractatusdeeccl00wycl=mitigacio | tractatusdeeccle00wycl=mitigacio		6	accept
+61	INS	in	5	6	accept
+63	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+83	R2	latinworks10wycl=ct | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+84	R2	latinworks10wycl=infliccionem | iohanniswyclift00mattgoog=infliccionem | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=infliccionem | tractatusdeeccl00wycl=infliccionem | tractatusdeeccle00wycl=infiiccionem		6	accept
+86	R2	latinworks10wycl=hoc | iohanniswyclift00mattgoog=hoc | iohanniswycliftr00wycluoft=infliccionemf | iohanniswycliftr04wycl=hoc | tractatusdeeccl00wycl=hoc | tractatusdeeccle00wycl=hoc		6	accept
+103	R3a	latinworks10wycl=fictum | iohanniswyclift00mattgoog=fictum | iohanniswycliftr00wycluoft=fictum | iohanniswycliftr04wycl=fictura | tractatusdeeccl00wycl=fictum | tractatusdeeccle00wycl=flctum		6	accept
+123	R2	latinworks10wycl=inferno | iohanniswyclift00mattgoog=infemout | iohanniswycliftr00wycluoft=inferno | iohanniswycliftr04wycl=inferno | tractatusdeeccl00wycl=inferno | tractatusdeeccle00wycl=inferno		6	accept
+124	R2	latinworks10wycl=ut | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		6	accept
+132	PLATE	latinworks10wycl=ubi | iohanniswyclift00mattgoog=ubi | iohanniswycliftr00wycluoft=fubi | iohanniswycliftr04wycl=fubi | tractatusdeeccl00wycl=fubi | tractatusdeeccle00wycl=ubi		6	accept
+153	R2	latinworks10wycl=confortacionem | iohanniswyclift00mattgoog=confortacionem | iohanniswycliftr00wycluoft=confortacionem | iohanniswycliftr04wycl=confortacionerapacientis | tractatusdeeccl00wycl=confortacionem | tractatusdeeccle00wycl=confortacionem		6	accept
+154	R2	latinworks10wycl=pacientis | iohanniswyclift00mattgoog=pacientis | iohanniswycliftr00wycluoft=pacientis | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=pacientis | tractatusdeeccle00wycl=pacientis		6	accept
+179	R3a	latinworks10wycl=ut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=iit | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		6	accept
+209	R3a	latinworks10wycl=ad | iohanniswyclift00mattgoog=ad | iohanniswycliftr00wycluoft=ad | iohanniswycliftr04wycl=od | tractatusdeeccl00wycl=ad | tractatusdeeccle00wycl=ad		6	accept
+219	R2	latinworks10wycl=commentum | iohanniswyclift00mattgoog=comracntum | iohanniswycliftr00wycluoft=commentum | iohanniswycliftr04wycl=comnientum | tractatusdeeccl00wycl=commentum | tractatusdeeccle00wycl=commentum		6	accept
+224	PLATE	latinworks10wycl=adducig7btorum | tractatusdeeccle00wycl=adducig7btorum		2	accept

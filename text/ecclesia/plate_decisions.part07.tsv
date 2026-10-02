@@ -1,0 +1,161 @@
+page	pos	rule	forms	reading	note
+330	32	THIN	latinworks10wycl=fueris | tractatusdeeccle00wycl=fueris	fueris	
+330	33	THIN	latinworks10wycl=cutus | tractatusdeeccle00wycl=locutus	locutus	whole word printed at line start; main dropped lo
+330	151	R3	latinworks10wycl=111 | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=iu | iohanniswycliftr04wycl=iu | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in	in	
+330	223	INS?	regnum	regnum	print: regnum processit; regnum opens the line
+331	150	NW	latinworks10wycl=pnnium | iohanniswyclift00mattgoog=pnmum | iohanniswycliftr00wycluoft=pnmum | iohanniswycliftr04wycl=pnmum | tractatusdeeccl00wycl=pnmum | tractatusdeeccle00wycl=pnmum	primum	
+331	229	NW	latinworks10wycl=hereticare | iohanniswyclift00mattgoog=hercticare | iohanniswycliftr00wycluoft=hereticare | iohanniswycliftr04wycl=hereticare | tractatusdeeccl00wycl=hereticare | tractatusdeeccle00wycl=hereticare	hereticare	
+331	255	NW	latinworks10wycl=hercticaret | iohanniswyclift00mattgoog=hereticaret | iohanniswycliftr00wycluoft=hereticaret | iohanniswycliftr04wycl=hereticaret | tractatusdeeccl00wycl=hereticaret | tractatusdeeccle00wycl=hereticaret	hereticaret	
+332	27	THIN	latinworks10wycl=w	Willelmi	letterspaced name; main split into letters
+332	28	THIN	latinworks10wycl=i	∅	i is part of Willelmi (pos 27)
+332	29	THIN	latinworks10wycl=11	∅	ll is part of Willelmi (pos 27)
+332	30	THIN	latinworks10wycl=e	∅	e is part of Willelmi (pos 27)
+332	31	THIN	latinworks10wycl=1	∅	l is part of Willelmi (pos 27)
+332	32	THIN	latinworks10wycl=m	∅	m is part of Willelmi (pos 27)
+332	33	THIN	latinworks10wycl=i	∅	i is part of Willelmi (pos 27)
+332	34	THIN	latinworks10wycl=b	Bathman	letterspaced name; main split into letters
+332	35	THIN	latinworks10wycl=a	∅	a is part of Bathman (pos 34)
+332	36	THIN	latinworks10wycl=t	∅	t is part of Bathman (pos 34)
+332	37	THIN	latinworks10wycl=h	∅	h is part of Bathman (pos 34)
+332	38	THIN	latinworks10wycl=m	∅	m is part of Bathman (pos 34)
+332	39	THIN	latinworks10wycl=a	∅	a is part of Bathman (pos 34)
+332	40	THIN	latinworks10wycl=n	∅	n is part of Bathman (pos 34)
+332	41	THIN	latinworks10wycl=n	Norwycensis	letterspaced name; main split into letters
+332	42	THIN	latinworks10wycl=o	∅	o is part of Norwycensis (pos 41)
+332	43	THIN	latinworks10wycl=r	∅	r is part of Norwycensis (pos 41)
+332	44	THIN	latinworks10wycl=w	∅	w is part of Norwycensis (pos 41)
+332	45	THIN	latinworks10wycl=y	∅	y is part of Norwycensis (pos 41)
+332	46	THIN	latinworks10wycl=c	∅	c is part of Norwycensis (pos 41)
+332	47	THIN	latinworks10wycl=e	∅	e is part of Norwycensis (pos 41)
+332	48	THIN	latinworks10wycl=n	∅	n is part of Norwycensis (pos 41)
+332	49	THIN	latinworks10wycl=s	∅	s is part of Norwycensis (pos 41)
+332	50	THIN	latinworks10wycl=i	∅	i is part of Norwycensis (pos 41)
+332	51	THIN	latinworks10wycl=s	∅	s is part of Norwycensis (pos 41)
+332	159	R4	latinworks10wycl=gracia2d | iohanniswyclift00mattgoog=gracia2d | iohanniswycliftr00wycluoft=gracia | iohanniswycliftr04wycl=gracia2d | tractatusdeeccl00wycl=gracia | tractatusdeeccle00wycl=gracia2d	gracia	2 and D are margin numeral and alinea letter
+333	25	R3	latinworks10wycl=iuturum | iohanniswyclift00mattgoog=futurum | iohanniswycliftr00wycluoft=futurum | iohanniswycliftr04wycl=ruturum | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=tuturum	futurum	
+334	16	R3	latinworks10wycl=proiectus | iohanniswycliftr00wycluoft=profcctus | iohanniswycliftr04wycl=profectus | tractatusdeeccl00wycl=profectus | tractatusdeeccle00wycl=prorectus	profectus	print: torii profectus conturbant
+334	200	INS?	to	∅	"to" is the English side-note (contrary to)
+335	0	R3	latinworks10wycl=ahstulit | iohanniswyclift00mattgoog=eciam | iohanniswycliftr00wycluoft=usque | iohanniswycliftr04wycl=usque | tractatusdeeccl00wycl=eciam | tractatusdeeccle00wycl=usque	abstulit	175d folio mark and E alinea letter are not text
+335	7	R4	latinworks10wycl=3tercio | iohanniswyclift00mattgoog=tercio | iohanniswycliftr00wycluoft=3tercio | iohanniswycliftr04wycl=tercio | tractatusdeeccl00wycl=3tercio | tractatusdeeccle00wycl=3tercio	tercio	3 is the margin argument numeral
+335	18	R3	latinworks10wycl=1 | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=1 | tractatusdeeccl00wycl=i | tractatusdeeccle00wycl=1	I°	capital I with degree sign: I°, Cor.
+336	75	NW	latinworks10wycl=dub | iohanniswyclift00mattgoog=dub | iohanniswycliftr00wycluoft=dub | iohanniswycliftr04wycl=dub | tractatusdeeccl00wycl=dub | tractatusdeeccle00wycl=dub	dubio	print: ex dubio; 10 after it is the line number
+336	162	R3	latinworks10wycl=et | iohanniswyclift00mattgoog=etie | iohanniswycliftr00wycluoft=etiyg | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=eti | tractatusdeeccle00wycl=etr6a	et	176a folio mark follows
+337	98	R3	latinworks10wycl=reois | iohanniswyclift00mattgoog=regis | iohanniswycliftr00wycluoft=reeis | iohanniswycliftr04wycl=regis | tractatusdeeccl00wycl=reis | tractatusdeeccle00wycl=regis	regis	
+337	154	R4	latinworks10wycl=lmnnnente | iohanniswyclift00mattgoog=imniinente | iohanniswycliftr00wycluoft=imnimente | iohanniswycliftr04wycl=minimente | tractatusdeeccl00wycl=lmminente | tractatusdeeccle00wycl=lmmmente	imminente	
+338	33	R3	latinworks10wycl=bona | iohanniswyclift00mattgoog=bonas | iohanniswycliftr00wycluoft=bona | iohanniswycliftr04wycl=bonas | tractatusdeeccl00wycl=bona | tractatusdeeccle00wycl=bona	bona	5 after it is the line number
+338	83	R3	latinworks10wycl=sui | iohanniswyclift00mattgoog=sui | iohanniswycliftr00wycluoft=sui | iohanniswycliftr04wycl=su | tractatusdeeccl00wycl=su | tractatusdeeccle00wycl=sir	sui	
+338	153	INS?	of	∅	"of" is the English side-note (possessions of); print: illa bona
+338	175	R3	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cura | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum	cum	
+339	15	R4	latinworks10wycl=anelie | iohanniswyclift00mattgoog=anelie | iohanniswycliftr00wycluoft=anglle | iohanniswycliftr04wycl=anghe | tractatusdeeccl00wycl=amnic | tractatusdeeccle00wycl=anghe	Anglie	
+339	17	R3	latinworks10wycl=lorent | iohanniswyclift00mattgoog=torent | iohanniswycliftr00wycluoft=forent | iohanniswycliftr04wycl=rorent | tractatusdeeccl00wycl=torcnt | tractatusdeeccle00wycl=forent	forent	
+339	154	R4	latinworks10wycl=oportet | iohanniswyclift00mattgoog=oportct | iohanniswycliftr00wycluoft=uportet | iohanniswycliftr04wycl=iportet | tractatusdeeccl00wycl=uportet | tractatusdeeccle00wycl=uportet	Oportet	
+339	208	NW	latinworks10wycl=cohercio | iohanniswyclift00mattgoog=cohercio | iohanniswycliftr00wycluoft=cohercio | iohanniswycliftr04wycl=cohercio | tractatusdeeccl00wycl=cohercio | tractatusdeeccle00wycl=cohercio	cohercio	
+341	0	R3	latinworks10wycl=iy6cad | iohanniswyclift00mattgoog=ueris | iohanniswycliftr00wycluoft=restituenda | tractatusdeeccl00wycl=dominis | tractatusdeeccle00wycl=bona	ad	176c is the folio mark, I the alinea letter
+341	104	R3	latinworks10wycl=toret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=roret | iohanniswycliftr04wycl=foret | tractatusdeeccl00wycl=loret | tractatusdeeccle00wycl=foret	foret	
+341	152	NW	latinworks10wycl=lib | iohanniswyclift00mattgoog=lib | iohanniswycliftr00wycluoft=lib | iohanniswycliftr04wycl=lib | tractatusdeeccl00wycl=lib | tractatusdeeccle00wycl=lib	lib	print: Registro lib. XI°
+342	30	R3	latinworks10wycl=eleruosinarii | iohanniswyclift00mattgoog=demosinarii | iohanniswycliftr00wycluoft=eleniosinarii | iohanniswycliftr04wycl=eleniosinarii | tractatusdeeccl00wycl=eleniosinarii | tractatusdeeccle00wycl=elemosinarii	elemosinarii	
+342	35	R3	latinworks10wycl=uideri | iohanniswyclift00mattgoog=deri | iohanniswycliftr00wycluoft=uideri | iohanniswycliftr04wycl=uideri | tractatusdeeccl00wycl=uiden | tractatusdeeccle00wycl=uiden	videri	
+342	42	R3	latinworks10wycl=propter | iohanniswyclift00mattgoog=propters | iohanniswycliftr00wycluoft=propters | iohanniswycliftr04wycl=propters | tractatusdeeccl00wycl=propter | tractatusdeeccle00wycl=propter	propter	5 after it is the line number
+342	110	R4	latinworks10wycl=regnandum | iohanniswyclift00mattgoog=regnandum | iohanniswycliftr00wycluoft=regnandum | iohanniswycliftr04wycl=reenandum | tractatusdeeccl00wycl=reenandum | tractatusdeeccle00wycl=reenandum	regnandum	
+342	172	R3	latinworks10wycl=q | iohanniswyclift00mattgoog=auferetur | iohanniswycliftr00wycluoft=43 | iohanniswycliftr04wycl=auferetur | tractatusdeeccl00wycl=q3 | tractatusdeeccle00wycl=l3	43	print: Matthei XXI°, 43: Auferetur; voted Auferetur twice at 172-173
+342	259	R4	latinworks10wycl=detriraentum | iohanniswycliftr00wycluoft=detrilybtiientum | iohanniswycliftr04wycl=dctrilyenientum | tractatusdeeccl00wycl=detri | tractatusdeeccle00wycl=detrii76dmentum	detrimentum	print detri- / mentum; main token holds the whole word
+343	6	R3	latinworks10wycl=est | iohanniswyclift00mattgoog=lest | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=lest | tractatusdeeccle00wycl=est	est	1 is the margin argument numeral
+343	11	R3	latinworks10wycl=ii | iohanniswyclift00mattgoog=ip | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii	II°	
+343	52	R4	latinworks10wycl=lege | iohanniswyclift00mattgoog=lece | iohanniswycliftr00wycluoft=leee | iohanniswycliftr04wycl=leee | tractatusdeeccl00wycl=leee | tractatusdeeccle00wycl=lege	lege	
+343	69	NW	latinworks10wycl=legiis | iohanniswyclift00mattgoog=legns | iohanniswycliftr00wycluoft=legiis | iohanniswycliftr04wycl=legiis | tractatusdeeccl00wycl=lciiiis | tractatusdeeccle00wycl=legiis	legiis	
+344	9	R3	latinworks10wycl=canitur | iohanniswyclift00mattgoog=attenditur | iohanniswycliftr00wycluoft=canitur | iohanniswycliftr04wycl=capitur | tractatusdeeccl00wycl=capitur | tractatusdeeccle00wycl=capitur	capitur	p clear
+344	137	NW	latinworks10wycl=legiis | iohanniswyclift00mattgoog=legiis | iohanniswycliftr00wycluoft=legiis | iohanniswycliftr04wycl=legiis | tractatusdeeccl00wycl=legiis | tractatusdeeccle00wycl=legiis	legiis	
+345	12	R3	latinworks10wycl=1111 | iohanniswyclift00mattgoog=illi | iohanniswycliftr00wycluoft=illi | iohanniswycliftr04wycl=iih | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=1111	Illi	M is the alinea letter
+346	18	R4	latinworks10wycl=xxiiia | iohanniswyclift00mattgoog=xxiiis | iohanniswycliftr00wycluoft=xxiii | iohanniswycliftr04wycl=xxiii | tractatusdeeccl00wycl=xxiiia | tractatusdeeccle00wycl=xxiiia	XXIIIª	
+346	20	R4	latinworks10wycl=iua | iohanniswyclift00mattgoog=iu | iohanniswycliftr00wycluoft=iu | iohanniswycliftr04wycl=iu | tractatusdeeccl00wycl=iua | tractatusdeeccle00wycl=iua	IVª	
+346	31	R4	latinworks10wycl=uta | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=uta | tractatusdeeccle00wycl=uta	Vᵗᵃ	
+346	33	R4	latinworks10wycl=ua | iohanniswyclift00mattgoog=y | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=ua | tractatusdeeccle00wycl=uia	Vᵗᵃ	
+347	0	R3	latinworks10wycl=dictis | iohanniswyclift00mattgoog=fomentis | iohanniswycliftr00wycluoft=xii | iohanniswycliftr04wycl=xii | tractatusdeeccl00wycl=dictis | tractatusdeeccle00wycl=xii	dictis	177b folio mark and N alinea letter are not text
+347	138	R3	latinworks10wycl=legis | iohanniswyclift00mattgoog=legis | iohanniswycliftr00wycluoft=leis | iohanniswycliftr04wycl=leais | tractatusdeeccl00wycl=legis | tractatusdeeccle00wycl=legis	legis	
+347	175	R4	latinworks10wycl=lxxxiii3 | iohanniswyclift00mattgoog=lxxxiii | iohanniswycliftr00wycluoft=lxxxiii | iohanniswycliftr04wycl=lxxxiii | tractatusdeeccl00wycl=lxxxiih | tractatusdeeccle00wycl=lxxxiii3	LXXXIIIª	
+348	60	R4	latinworks10wycl=ua | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=ua | tractatusdeeccle00wycl=u	Vª	
+348	62	R4	latinworks10wycl=ua | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=ua | tractatusdeeccle00wycl=ua	Vª	
+349	14	NW	latinworks10wycl=luuare | iohanniswyclift00mattgoog=muare | iohanniswycliftr00wycluoft=muare | iohanniswycliftr04wycl=muare | tractatusdeeccl00wycl=uiuaic | tractatusdeeccle00wycl=muare	iuvare	print: corporis ecclesie iuvare
+349	24	R3	latinworks10wycl=ia | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=l | tractatusdeeccl00wycl=lor | tractatusdeeccle00wycl=ia	Iª	
+349	71	R3	latinworks10wycl=xcuia | iohanniswyclift00mattgoog=xcui | iohanniswycliftr00wycluoft=xgup | iohanniswycliftr04wycl=xcui | tractatusdeeccl00wycl=xcuia | tractatusdeeccle00wycl=xcuia	XCVIª	
+349	95	R4	latinworks10wycl=xla | iohanniswyclift00mattgoog=xl | iohanniswycliftr00wycluoft=xl | iohanniswycliftr04wycl=xl | tractatusdeeccl00wycl=xla | tractatusdeeccle00wycl=xla	XLª	
+349	125	R4	latinworks10wycl=u3 | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=ua | tractatusdeeccle00wycl=ua	Vª	
+350	29	R4	latinworks10wycl=lincolniensi | iohanniswyclift00mattgoog=lincolniensi | iohanniswycliftr00wycluoft=lincohiiensi | iohanniswycliftr04wycl=lincohiiensi | tractatusdeeccl00wycl=lincolniensi | tractatusdeeccle00wycl=lincolniensi	Lincolniensi	
+350	78	R3	latinworks10wycl=ner | iohanniswyclift00mattgoog=per | iohanniswycliftr00wycluoft=per | iohanniswycliftr04wycl=per | tractatusdeeccl00wycl=ner | tractatusdeeccle00wycl=per	per	descender p
+350	83	R4	latinworks10wycl=puniq | iohanniswyclift00mattgoog=puniq | tractatusdeeccle00wycl=punitiua	puni-	first half of puni-/tiva (tiva is pos 84); Q is the alinea letter
+350	84	R6	latinworks10wycl=tiua | iohanniswyclift00mattgoog=tiua | tractatusdeeccle00wycl=∅	tiva	second half of puni-/tiva
+350	99	R3	latinworks10wycl=dominan | iohanniswyclift00mattgoog=domi | iohanniswycliftr00wycluoft=dominari | iohanniswycliftr04wycl=dominari | tractatusdeeccl00wycl=dominan | tractatusdeeccle00wycl=dominan	dominari	print domi- / nari; main token holds the whole word
+350	106	R3	latinworks10wycl=foret | iohanniswyclift00mattgoog=foretis | iohanniswycliftr00wycluoft=foret | iohanniswycliftr04wycl=loret | tractatusdeeccl00wycl=roreto | tractatusdeeccle00wycl=loret	foret	15 after it is the line number
+350	114	R6	latinworks10wycl=not | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=not | tractatusdeeccl00wycl=not | tractatusdeeccle00wycl=∅	∅	"not" is the English side-note (This does not follow); print: dominari. Sed
+350	225	NW	latinworks10wycl=legium | iohanniswyclift00mattgoog=icgium | iohanniswycliftr00wycluoft=legium | iohanniswycliftr04wycl=legium | tractatusdeeccl00wycl=legium | tractatusdeeccle00wycl=legium	legium	30 after it is the line number
+351	10	R3	latinworks10wycl=ghristus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=ghristus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus	Christus	
+351	100	R3	latinworks10wycl=defectu | iohanniswyclift00mattgoog=defectu | iohanniswycliftr00wycluoft=deiectu | tractatusdeeccle00wycl=delectu	defectu	
+351	101	R5	latinworks10wycl=spintuahs | iohanniswycliftr00wycluoft=spirituahs | tractatusdeeccle00wycl=spintuahs	spiritualis	
+351	119	NW	latinworks10wycl=diocesanum | iohanniswyclift00mattgoog=diocesanum | iohanniswycliftr00wycluoft=dlocesanum | iohanniswycliftr04wycl=diocesanum | tractatusdeeccl00wycl=diocesanum | tractatusdeeccle00wycl=diocesanum	diocesanum	
+351	149	R3	latinworks10wycl=fut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=fut | iohanniswycliftr04wycl=fut | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=fut	ut	print: quia (ut sepe dixi)
+351	162	R3	latinworks10wycl=detectu | iohanniswyclift00mattgoog=dcfcctu | iohanniswycliftr00wycluoft=defectu | iohanniswycliftr04wycl=delectu | tractatusdeeccl00wycl=detcctu | tractatusdeeccle00wycl=deiectu	defectu	f clear
+351	170	R3	latinworks10wycl=fuent | iohanniswyclift00mattgoog=fucrit | iohanniswycliftr00wycluoft=fuerit | iohanniswycliftr04wycl=luent | tractatusdeeccl00wycl=lucnt | tractatusdeeccle00wycl=merit	fuerit	
+352	0	R3	latinworks10wycl=super | iohanniswycliftr00wycluoft=graui | iohanniswycliftr04wycl=periculo | tractatusdeeccl00wycl=graui | tractatusdeeccle00wycl=super	super	
+352	7	R3	latinworks10wycl=stat | iohanniswyclift00mattgoog=stati | iohanniswycliftr00wycluoft=stati | iohanniswycliftr04wycl=stat | tractatusdeeccl00wycl=stat | tractatusdeeccle00wycl=stati	stat	1 and R are margin numeral and alinea letter
+352	83	R3	latinworks10wycl=reni | iohanniswyclift00mattgoog=regni | iohanniswycliftr00wycluoft=regni | iohanniswycliftr04wycl=reoni | tractatusdeeccl00wycl=regni | tractatusdeeccle00wycl=reni	regni	
+352	117	R3	latinworks10wycl=xcuia | iohanniswyclift00mattgoog=xcui | iohanniswycliftr00wycluoft=xgui | iohanniswycliftr04wycl=xcui | tractatusdeeccl00wycl=xcuia | tractatusdeeccle00wycl=xguia	XCVIª	
+353	223	R4	latinworks10wycl=partem | iohanniswyclift00mattgoog=sopartem | iohanniswycliftr00wycluoft=sopartem | iohanniswycliftr04wycl=sopartem | tractatusdeeccl00wycl=partem | tractatusdeeccle00wycl=partem	partem	30 is the line number
+354	27	R4	latinworks10wycl=reeno | iohanniswyclift00mattgoog=regno | iohanniswycliftr00wycluoft=reeno | iohanniswycliftr04wycl=reeno | tractatusdeeccl00wycl=regno | tractatusdeeccle00wycl=regno	regno	
+354	31	R3	latinworks10wycl=mdle | iohanniswyclift00mattgoog=mille | iohanniswycliftr00wycluoft=miue | iohanniswycliftr04wycl=miue | tractatusdeeccl00wycl=mille | tractatusdeeccle00wycl=mille	mille	
+354	155	NW	latinworks10wycl=etu | iohanniswyclift00mattgoog=etu | iohanniswycliftr00wycluoft=etu | iohanniswycliftr04wycl=etu | tractatusdeeccl00wycl=etu | tractatusdeeccle00wycl=etu	et	V is the margin alinea letter
+355	67	NW	latinworks10wycl=consiho | iohanniswyclift00mattgoog=consilio | iohanniswycliftr00wycluoft=consiho | iohanniswycliftr04wycl=consiho | tractatusdeeccl00wycl=consiho | tractatusdeeccle00wycl=consiho	consilio	
+355	114	R3	latinworks10wycl=ahque | iohanniswyclift00mattgoog=alique | iohanniswycliftr00wycluoft=ahque | iohanniswycliftr04wycl=ahque | tractatusdeeccl00wycl=alique | tractatusdeeccle00wycl=alique	alique	
+355	138	R4	latinworks10wycl=iua | iohanniswyclift00mattgoog=iu | iohanniswycliftr00wycluoft=iu | iohanniswycliftr04wycl=iu | tractatusdeeccl00wycl=iua | tractatusdeeccle00wycl=iua	IVª	
+355	187	NW	latinworks10wycl=legium | iohanniswyclift00mattgoog=legium | iohanniswycliftr00wycluoft=legmm | iohanniswycliftr04wycl=legmm | tractatusdeeccl00wycl=legium | tractatusdeeccle00wycl=legium	legium	
+355	197	R4	latinworks10wycl=contempserit | iohanniswyclift00mattgoog=lyscontempserit | iohanniswycliftr00wycluoft=lyscontempserit | iohanniswycliftr04wycl=lyscontempserit | tractatusdeeccl00wycl=i78ccontempserit | tractatusdeeccle00wycl=i78ccontempserit	contempserit	178c is the folio mark
+356	181	R3	latinworks10wycl=11 | iohanniswyclift00mattgoog=iui | iohanniswycliftr00wycluoft=illi | iohanniswycliftr04wycl=ilh | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=illi	illi	
+356	242	R4	latinworks10wycl=gorinth | iohanniswycliftr00wycluoft=gorinth | tractatusdeeccl00wycl=corinth | tractatusdeeccle00wycl=corinth	Corinth	
+356	243	R5	latinworks10wycl=iii | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=ill	III°	
+357	42	R3	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=ghristus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus	Christus	
+357	151	NW	latinworks10wycl=toxice | iohanniswyclift00mattgoog=toxice | iohanniswycliftr00wycluoft=toxice | iohanniswycliftr04wycl=toxice | tractatusdeeccl00wycl=toxice | tractatusdeeccle00wycl=toxice	toxice	
+357	220	R3	latinworks10wycl=iactum | iohanniswyclift00mattgoog=factum | iohanniswycliftr00wycluoft=ractum | iohanniswycliftr04wycl=ractura | tractatusdeeccl00wycl=tactum | tractatusdeeccle00wycl=ractum	factum	
+358	35	NW	latinworks10wycl=uixennt | iohanniswyclift00mattgoog=yixerint | iohanniswycliftr00wycluoft=uixermt | iohanniswycliftr04wycl=uixennt | tractatusdeeccl00wycl=uixennt | tractatusdeeccle00wycl=uixennt	vixerint	
+358	134	R3	latinworks10wycl=gre | iohanniswyclift00mattgoog=gre | iohanniswycliftr00wycluoft=gregorium | iohanniswycliftr04wycl=gre | tractatusdeeccl00wycl=gregorium | tractatusdeeccle00wycl=gre	Gre-	first half of Gre-/gorium (gorium is pos 136); Z is the alinea letter
+358	136	NW	latinworks10wycl=gorium | iohanniswyclift00mattgoog=gorium | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=gorium | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=gorium	gorium	second half of Gre-/gorium
+359	28	HEAD	GAP. XVI.	CAP. XVI.	
+359	30	R3	latinworks10wycl=9 | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=179 | tractatusdeeccl00wycl=10 | tractatusdeeccle00wycl=170	∅	179a is the folio mark; line begins * Post
+360	93	R3	latinworks10wycl=yi | tractatusdeeccl00wycl=ui | tractatusdeeccle00wycl=yi	VI°	print: Matthei VI°, 34
+360	189	R5	latinworks10wycl=milleannos | iohanniswycliftr04wycl=milleannos | tractatusdeeccl00wycl=milleannos	mille annos	main token covers two printed words
+361	10	R4	latinworks10wycl=ht | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=ht | tractatusdeeccl00wycl=ht | tractatusdeeccle00wycl=et	Et	capital E; 179b is the folio mark
+361	121	R3	latinworks10wycl=xcuia | iohanniswyclift00mattgoog=xcui | iohanniswycliftr00wycluoft=xcui | iohanniswycliftr04wycl=xcui | tractatusdeeccl00wycl=xcuia | tractatusdeeccle00wycl=xcuia	XCVIª	C 1 are alinea letter and argument numeral
+362	0	R3	latinworks10wycl=affeccione | iohanniswyclift00mattgoog=insigniis | iohanniswycliftr00wycluoft=affeccione | iohanniswycliftr04wycl=affeccione | tractatusdeeccl00wycl=insigniis | tractatusdeeccle00wycl=affeccione	affeccione	
+362	50	R4	latinworks10wycl=xcua | iohanniswyclift00mattgoog=xcu | iohanniswycliftr00wycluoft=xcu | iohanniswycliftr04wycl=xcu | tractatusdeeccl00wycl=xcua | tractatusdeeccle00wycl=xcua	XCVª	
+362	184	R3	latinworks10wycl=et | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=t | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=t | tractatusdeeccle00wycl=et	Et	
+362	215	R4	latinworks10wycl=uiiia | iohanniswyclift00mattgoog=uiii | iohanniswycliftr00wycluoft=uiii | iohanniswycliftr04wycl=uiii | tractatusdeeccl00wycl=uiiia | tractatusdeeccle00wycl=uiiia	VIIIª	
+364	47	R3	latinworks10wycl=papa | iohanniswyclift00mattgoog=papa | iohanniswycliftr00wycluoft=papae | iohanniswycliftr04wycl=papae | tractatusdeeccl00wycl=papae | tractatusdeeccle00wycl=papae	papa	E is the alinea letter
+364	48	R3	latinworks10wycl=hcitc | iohanniswyclift00mattgoog=e | iohanniswycliftr00wycluoft=licite | iohanniswycliftr04wycl=hcite | tractatusdeeccl00wycl=hcite | tractatusdeeccle00wycl=hcite	licite	
+365	33	R3	latinworks10wycl=licitum | iohanniswyclift00mattgoog=licitum | iohanniswycliftr00wycluoft=licitura | iohanniswycliftr04wycl=licitura | tractatusdeeccl00wycl=licitum | tractatusdeeccle00wycl=licitum	licitum	
+365	39	R3	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=cliristi | tractatusdeeccle00wycl=ghristi	Christi	
+365	64	R3	latinworks10wycl=licitum | iohanniswyclift00mattgoog=licitum | iohanniswycliftr00wycluoft=licitura | iohanniswycliftr04wycl=licitura | tractatusdeeccl00wycl=licitum | tractatusdeeccle00wycl=licitum	licitum	print: licitum),
+365	73	R4	latinworks10wycl=utrumqueenim | iohanniswyclift00mattgoog=utnimque | iohanniswycliftr00wycluoft=utruraqueenira | iohanniswycliftr04wycl=utruraqueenira | tractatusdeeccl00wycl=utrumqueenim | tractatusdeeccle00wycl=utrumqueenim	utrumque enim	main token covers two printed words
+365	84	R3	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cura | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum	cum	
+365	152	NW	latinworks10wycl=lmitacionem | iohanniswyclift00mattgoog=imitacionera | iohanniswycliftr00wycluoft=miitacionem | iohanniswycliftr04wycl=iraitacionera | tractatusdeeccl00wycl=lmitacioncm | tractatusdeeccle00wycl=lmitacionem	imitacionem	
+366	46	NW	latinworks10wycl=aliquis | iohanniswycliftr00wycluoft=ahquis | iohanniswycliftr04wycl=ahquis | tractatusdeeccl00wycl=ahquis | tractatusdeeccle00wycl=ahquis	aliquis	
+367	23	R4	latinworks10wycl=tn | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=m | tractatusdeeccle00wycl=in	in	
+367	75	NW	latinworks10wycl=mortahter | iohanniswyclift00mattgoog=mortaliter | iohanniswycliftr00wycluoft=mortahter | iohanniswycliftr04wycl=mortahter | tractatusdeeccl00wycl=mortahter | tractatusdeeccle00wycl=mortahter	mortaliter	
+367	77	R4	latinworks10wycl=uemaliter | iohanniswyclift00mattgoog=uetiirai | iohanniswycliftr00wycluoft=ueniahter | iohanniswycliftr04wycl=uenialiter | tractatusdeeccl00wycl=ueniinuoiue | tractatusdeeccle00wycl=ueniahter	venialiter	print veni- / aliter; main token holds the whole word
+367	78	INS?	aliter	∅	aliter is the tail of veni-aliter (pos 77); print: aliter. Sic
+367	206	R4	latinworks10wycl=sosecundum | iohanniswyclift00mattgoog=30sccundum | iohanniswycliftr00wycluoft=secundum | iohanniswycliftr04wycl=sosecundum | tractatusdeeccl00wycl=sosecundum | tractatusdeeccle00wycl=secundum	secundum	30 is the line number
+368	8	NW	latinworks10wycl=dinate | iohanniswycliftr00wycluoft=dinate | iohanniswycliftr04wycl=dinate | tractatusdeeccl00wycl=dinate | tractatusdeeccle00wycl=dinate	dinate	second half of inor-/dinate (pos 7)
+368	175	R3	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=ghristus | tractatusdeeccl00wycl=ghristus | tractatusdeeccle00wycl=christus	Christus	
+368	193	R3	latinworks10wycl=xxii | iohanniswyclift00mattgoog=xxii | iohanniswycliftr00wycluoft=xxil | iohanniswycliftr04wycl=xxil | tractatusdeeccl00wycl=xxil | tractatusdeeccle00wycl=xxii	XXII°	print: Luce XXII°).
+369	0	R3	latinworks10wycl=presulatus | iohanniswyclift00mattgoog=ministerii | iohanniswycliftr00wycluoft=ministerii | iohanniswycliftr04wycl=presulatus | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=presulatus	presulatus	180b folio mark and H alinea letter are not text
+369	131	R4	latinworks10wycl=2defectum | iohanniswyclift00mattgoog=2dcfcctura | iohanniswycliftr00wycluoft=defectum | iohanniswycliftr04wycl=2defectum | tractatusdeeccl00wycl=2defectum | tractatusdeeccle00wycl=defectum	defectum	2 is the margin argument numeral
+370	89	R3	latinworks10wycl=areuitur | iohanniswyclift00mattgoog=aitur | iohanniswycliftr00wycluoft=arguitur | iohanniswycliftr04wycl=arguitur | tractatusdeeccl00wycl=areuitur | tractatusdeeccle00wycl=areuitur	arguitur	
+370	192	R3	latinworks10wycl=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cuiii | tractatusdeeccl00wycl=cuiii | tractatusdeeccle00wycl=cum	cum	
+370	208	R3	latinworks10wycl=111 | iohanniswyclift00mattgoog=m | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=in	in	
+371	78	R3	latinworks10wycl=xiia | iohanniswyclift00mattgoog=xii | iohanniswycliftr00wycluoft=xii | iohanniswycliftr04wycl=xii | tractatusdeeccl00wycl=xii1 | tractatusdeeccle00wycl=xiia	XIIª	
+371	179	R3	latinworks10wycl=foret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=foret | iohanniswycliftr04wycl=roret | tractatusdeeccl00wycl=toret | tractatusdeeccle00wycl=roret	foret	
+372	0	R3	latinworks10wycl=imprecacionis | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=imprecacionis | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=imprecacionis | tractatusdeeccle00wycl=imprecacionis	imprecacionis	
+372	6	R3	latinworks10wycl=primo | iohanniswyclift00mattgoog=primo | iohanniswycliftr00wycluoft=primo | tractatusdeeccl00wycl=tnnliciter | tractatusdeeccle00wycl=tripliciter	Primo	
+372	15	DEL	latinworks10wycl=exproprietarie | iohanniswycliftr00wycluoft=exproprietarie | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅	∅	print has exproprietarie once; it is already pos 14, pos 15 duplicates it
+372	91	R3	latinworks10wycl=11 | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=if | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=11 | tractatusdeeccle00wycl=ii	II°	
+372	111	NW	latinworks10wycl=poputo | iohanniswyclift00mattgoog=popu | iohanniswycliftr00wycluoft=popu | iohanniswycliftr04wycl=popu | tractatusdeeccl00wycl=popu | tractatusdeeccle00wycl=popu	populo	15 after it is the line number
+372	198	INS?	phcis	∅	plicis is the tail of multi-/plicis, already whole at pos 197; print: plicis quod taliter
+372	237	R4	latinworks10wycl=terc | iohanniswyclift00mattgoog=tercioo | iohanniswycliftr00wycluoft=terc | iohanniswycliftr04wycl=terc | tractatusdeeccl00wycl=terc | tractatusdeeccle00wycl=tercio	Tercio	e at the edge is the margin alinea letter
+373	0	R3	latinworks10wycl=i80apro | iohanniswyclift00mattgoog=plus | iohanniswycliftr00wycluoft=tanta | iohanniswycliftr04wycl=multitudo | tractatusdeeccl00wycl=aspiraret | tractatusdeeccle00wycl=tanta	pro	180d folio mark and L alinea letter are not text

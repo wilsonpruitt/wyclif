@@ -487,3 +487,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E13a-4 | ecclesia-13-a / n13 | *ut alias declaravi* (*De civili dominio*?) | untraced | |
 | E13a-5 | ecclesia-13-a / n14, n15 | Edgar, Edward the Confessor; William's transfers | to-verify | |
 | E13a-6 | ecclesia-13-a / n16 | "declared in the last chapter": Heli's condition | to-verify | ch. 12 |
+| E13b-1 | ecclesia-13-b / n3 | Gratian D.83 c.3 (Loserth; cf. p. 235) | to-verify | = E11b-2 |
+| E13b-2 | ecclesia-13-b / n3 | *Regem Anglie semper esse infra etatem*, maxim of English law | untraced | |
+| E13b-3 | ecclesia-13-b / n11 | Augustine, *Enarr. in Ps.* 148 (*In tuo arbitrio Deus te esse voluit*) | to-verify | |
+| E13b-4 | ecclesia-13-b / n13 | *Par in parem non habet imperium*, canonists' maxim | verified | X 1.6.20; Clem. 5.11.1 |
+| E13b-5 | ecclesia-13-b / n14 | King John's tribute of 1213 as the *obligacio regis* | to-verify | |
+| E13b-6 | ecclesia-13-b / n15 | writ *ad quod damnum* (mortmain inquiry) | to-verify | |
+| E13b-7 | ecclesia-13-b / n6 | *iuxta dicta proximo capitulo* → ch. 12 | to-verify | |
+| E13b-8 | ecclesia-13-b / n17 | *ut dixi superius* (alms withdrawn from the unruly) | untraced | |
+| E13c-1 | ecclesia-13-c / n1 | *libro III° cap. …* (gap in MSS) | untraced | |
+| E13c-6 | ecclesia-13-c / n1 | Henry of Ghent (p. 317) and Thomas on tithes | to-verify | |
+| E13c-2 | ecclesia-13-c / n1 | Lev. 6–7, Exod. 27 "perpetual" ordinances | to-verify | |
+| E13c-3 | ecclesia-13-c / n7 | Josh. 21 *et ultimo* | to-verify | |
+| E13c-4 | ecclesia-13-c / n8 | *Exodi XIX°* (Exod. 29 meant?) | editor | print XIX° uncommented; hedge kept |
+| E13c-5 | ecclesia-13-c / n16 | *iusti sunt omnia* (Wyclif's lordship of the just) | to-verify | |
+| E13d-1 | ecclesia-13-d / n6 | Gratian D.22 c.1 applied to Christ's privilege of poverty | to-verify | = E04e-7 |
+| E13d-2 | ecclesia-13-d / n13 | Sergius III, Gregorovius III 242 (Loserth) | to-verify | |
+| E13d-3 | ecclesia-13-d / n13 | *hodie* = 1378, *duos pseudomonachos* = Urban VI, Clement VII | to-verify | |

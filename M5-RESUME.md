@@ -3,6 +3,15 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 24 (13-b, 13-c, 13-d) DONE
+- Opus 168K; Sonnet plates + sources 123K. **Lost word again:** *Et* at 281.1 (page head) — restored by tokenfix pair.
+  The four flagged suspects were the print: *ditarius*; *tenentur* (281.21, translated from A A₁); *maior* twice
+  (288.9–10); 290.4–6 has no main verb (Loserth's own anacoluthon, "[gave theirs]" supplied). 281.18 *ad
+  continuandum*: the print, translated "discontinue" after Loserth's *discontinuandum (?)*, noted.
+- Verified: Aug. *En. in Ps.* 148.2 (PL 37.1938, free quotation); *par in parem* = X 1.6.20, Clem. 5.11.1.
+  14 tokenfixes. GLOSSARY: *ecclesia cesarea*, *elemosina cartalis*, *ditarius*, *pseudomonachus*.
+- **Next:** brief 25 = 13-e, 13-f, 14-a.
+
 ## Status 2026-10-02 — brief 23 (12-e, 12-f, 13-a) DONE: chapter 12 translated
 - Opus 176K; Sonnet plates + Friedberg 88K. No lost words (asked to flag). Plates: *perturbacio* doubled in our Latin
   (dittography) — fixed; *celeberrime* is the print and a Friedberg variant. *Nisi bella* (Gratian "Gregorius") is

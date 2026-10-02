@@ -1,0 +1,28 @@
+pos	rule	forms	support	voters	resolution
+20	R3a	latinworks10wycl=quin | iohanniswycliftr00wycluoft=quin | iohanniswycliftr04wycl=quin | tractatusdeeccl00wycl=411111 | tractatusdeeccle00wycl=quin		5	accept
+22	R3a	latinworks10wycl=arfectu | iohanniswycliftr00wycluoft=affectu | iohanniswycliftr04wycl=affectu | tractatusdeeccl00wycl=affectu | tractatusdeeccle00wycl=affectu		5	accept
+31	R4a	latinworks10wycl=opens | iohanniswycliftr00wycluoft=operis | iohanniswycliftr04wycl=opens | tractatusdeeccl00wycl=operis | tractatusdeeccle00wycl=opens		5	accept
+34	PLATE	latinworks10wycl=ioret | iohanniswycliftr00wycluoft=loret | iohanniswycliftr04wycl=loret | tractatusdeeccl00wycl=toret | tractatusdeeccle00wycl=loret		5	accept
+35	PLATE	latinworks10wycl=melius | iohanniswycliftr00wycluoft=menus | iohanniswycliftr04wycl=menus | tractatusdeeccl00wycl=melius | tractatusdeeccle00wycl=melius		5	accept
+36	PLATE	latinworks10wycl=m | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=ni | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=in		5	accept
+45	PLATE	latinworks10wycl=mdicatur | iohanniswycliftr00wycluoft=mdicatur | iohanniswycliftr04wycl=mdicatur | tractatusdeeccl00wycl=tudicatur		4	accept
+90	HEAD	GAP. XX.			plate: CAP. XX.
+101	R3a	latinworks10wycl=roret | iohanniswycliftr00wycluoft=loret | iohanniswycliftr04wycl=roret | tractatusdeeccl00wycl=toret | tractatusdeeccle00wycl=loret		5	accept
+104	R4a	latinworks10wycl=scnpture | iohanniswycliftr00wycluoft=scripture | iohanniswycliftr04wycl=scnpture | tractatusdeeccl00wycl=scnpture | tractatusdeeccle00wycl=scripture		5	accept
+113	R4a	latinworks10wycl=mducens | iohanniswycliftr00wycluoft=mducens | iohanniswycliftr04wycl=mducens | tractatusdeeccl00wycl=inducens | tractatusdeeccle00wycl=inducens		5	accept
+115	R4a	latinworks10wycl=m | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=m | tractatusdeeccle00wycl=in		5	accept
+118	R2	latinworks10wycl=hdehter | iohanniswycliftr00wycluoft=fidehter | iohanniswycliftr04wycl=ndehter | tractatusdeeccl00wycl=tidehter | tractatusdeeccle00wycl=fideliter		5	accept
+121	R3a	latinworks10wycl=domini | iohanniswycliftr00wycluoft=domini | iohanniswycliftr04wycl=dommi | tractatusdeeccl00wycl=domim | tractatusdeeccle00wycl=domini		5	accept
+126	PLATE	latinworks10wycl=ilh | iohanniswycliftr00wycluoft=ilh | iohanniswycliftr04wycl=ilh | tractatusdeeccl00wycl=nh | tractatusdeeccle00wycl=1ii1		5	accept
+127	R4a	latinworks10wycl=apphcetur | iohanniswycliftr00wycluoft=apphcetur | iohanniswycliftr04wycl=apphcetur | tractatusdeeccl00wycl=applicetur | tractatusdeeccle00wycl=applicetur		5	accept
+134	PLATE	latinworks10wycl=aicunt | iohanniswycliftr00wycluoft=dicunt | iohanniswycliftr04wycl=aicunt | tractatusdeeccl00wycl=aicunt | tractatusdeeccle00wycl=dicunt		5	accept
+139	R3a	latinworks10wycl=liber | iohanniswycliftr00wycluoft=hber | iohanniswycliftr04wycl=uber | tractatusdeeccl00wycl=libcr | tractatusdeeccle00wycl=liber		5	accept
+149	R2	latinworks10wycl=de | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=lc | tractatusdeeccle00wycl=de		5	accept
+155	R3a	latinworks10wycl=liber | iohanniswycliftr00wycluoft=hber | iohanniswycliftr04wycl=uber | tractatusdeeccl00wycl=liber | tractatusdeeccle00wycl=liber		5	accept
+162	R2	latinworks10wycl=cantica | iohanniswycliftr00wycluoft=cantica | iohanniswycliftr04wycl=gantica | tractatusdeeccl00wycl=cantica | tractatusdeeccle00wycl=gantica		5	accept
+165	R2	latinworks10wycl=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enira | tractatusdeeccl00wycl=cnim | tractatusdeeccle00wycl=enim		5	accept
+183	R2	latinworks10wycl=uolubilem | iohanniswycliftr00wycluoft=uolubilem | iohanniswycliftr04wycl=uouibilera | tractatusdeeccl00wycl=uolubilem | tractatusdeeccle00wycl=uolubilem		5	accept
+185	R2	latinworks10wycl=animi | iohanniswycliftr00wycluoft=animi | iohanniswycliftr04wycl=anirai | tractatusdeeccl00wycl=animi | tractatusdeeccle00wycl=animi		5	accept
+187	R3a	latinworks10wycl=multa | iohanniswycliftr00wycluoft=multa | iohanniswycliftr04wycl=multa | tractatusdeeccl00wycl=multai | tractatusdeeccle00wycl=multa		5	accept
+190	R5a	latinworks10wycl=martha | iohanniswycliftr00wycluoft=martha | iohanniswycliftr04wycl=martha | tractatusdeeccl00wycl=martha | tractatusdeeccle00wycl=martha		5	accept
+196	R5a	latinworks10wycl=marie | iohanniswycliftr00wycluoft=marie | iohanniswycliftr04wycl=marie | tractatusdeeccl00wycl=marie | tractatusdeeccle00wycl=marie		5	accept

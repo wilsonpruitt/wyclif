@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=uni | tractatusdeeccl00wycl=uni		2	accept
+1	PLATE	latinworks10wycl=uersitates | tractatusdeeccl00wycl=uersitates		2	accept
+15	R2	latinworks10wycl=familiaribus | iohanniswycliftr00wycluoft=lamiliaribus | iohanniswycliftr04wycl=lamuianbus | tractatusdeeccl00wycl=ramuiaribus | tractatusdeeccle00wycl=ianuliaribus		5	accept
+18	R2	latinworks10wycl=lnndehter | iohanniswycliftr00wycluoft=mndehter | iohanniswycliftr04wycl=infideliter | tractatusdeeccl00wycl=lnhdehter | tractatusdeeccle00wycl=inndeliter		5	accept
+19	R2	latinworks10wycl=distnbute | iohanniswycliftr00wycluoft=distnbute | iohanniswycliftr04wycl=distribute | tractatusdeeccl00wycl=dtstnbute | tractatusdeeccle00wycl=distribute		5	accept
+33	R2	latinworks10wycl=anglie | iohanniswyclift00mattgoog=angge | iohanniswycliftr00wycluoft=anglie | iohanniswycliftr04wycl=anglie | tractatusdeeccl00wycl=anglie | tractatusdeeccle00wycl=anglie		6	accept
+44	R2	latinworks10wycl=collegiatus | iohanniswyclift00mattgoog=codiatus | iohanniswycliftr00wycluoft=collegiatus | iohanniswycliftr04wycl=collegiatus | tractatusdeeccl00wycl=collegiatus | tractatusdeeccle00wycl=collegiatus		6	accept
+83	PLATE	latinworks10wycl=appronriacionis | iohanniswyclift00mattgoog=appropriacionb | iohanniswycliftr00wycluoft=appropriacionis | iohanniswycliftr04wycl=appropriacionis | tractatusdeeccl00wycl=appronriacionis | tractatusdeeccle00wycl=appronriacionis		6	accept
+97	R3a	latinworks10wycl=eciam | iohanniswyclift00mattgoog=edam | iohanniswycliftr00wycluoft=eciam | iohanniswycliftr04wycl=eciani | tractatusdeeccl00wycl=eciam | tractatusdeeccle00wycl=eciam		6	accept
+125	R3a	latinworks10wycl=laycorum | iohanniswyclift00mattgoog=uycorum | iohanniswycliftr00wycluoft=laycorum | iohanniswycliftr04wycl=laycorum | tractatusdeeccl00wycl=laycorum | tractatusdeeccle00wycl=laycorum		6	accept
+128	R2	latinworks10wycl=layci | iohanniswyclift00mattgoog=layd | iohanniswycliftr00wycluoft=layci | iohanniswycliftr04wycl=hiyci | tractatusdeeccl00wycl=layci | tractatusdeeccle00wycl=layci		6	accept
+155	R3a	latinworks10wycl=fallor | iohanniswyclift00mattgoog=fallor | iohanniswycliftr00wycluoft=fauor | iohanniswycliftr04wycl=fallor | tractatusdeeccl00wycl=fallor | tractatusdeeccle00wycl=fallor		6	accept

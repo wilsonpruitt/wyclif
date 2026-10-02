@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+23	PLATE	latinworks10wycl=dependenciam | iohanniswyclift00mattgoog=dependenciaro | iohanniswycliftr00wycluoft=dependenciam | iohanniswycliftr04wycl=dependenciam | tractatusdeeccl00wycl=dependenciam | tractatusdeeccle00wycl=dependenciam		6	accept
+39	R6a	latinworks10wycl=f | iohanniswyclift00mattgoog=f | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=f | tractatusdeeccle00wycl=f		5	accept
+50	R3a	latinworks10wycl=racione | iohanniswyclift00mattgoog=radone | iohanniswycliftr00wycluoft=racione | iohanniswycliftr04wycl=racione | tractatusdeeccl00wycl=racione | tractatusdeeccle00wycl=racione		6	accept
+52	R3a	latinworks10wycl=hominis | iohanniswyclift00mattgoog=hominis | iohanniswycliftr00wycluoft=hominis | iohanniswycliftr04wycl=horainis | tractatusdeeccl00wycl=nominis | tractatusdeeccle00wycl=hominis		6	accept
+53	R2	latinworks10wycl=ad | iohanniswyclift00mattgoog=ad | iohanniswycliftr00wycluoft=ad | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=ad | tractatusdeeccle00wycl=ad		6	accept
+54	R2	latinworks10wycl=hominem | iohanniswyclift00mattgoog=hominem | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=hominem | tractatusdeeccle00wycl=hominem		6	accept
+55	R2	latinworks10wycl=ac | iohanniswyclift00mattgoog=ac | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=ac | tractatusdeeccle00wycl=ac		6	accept
+56	R2	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=m | tractatusdeeccle00wycl=in		6	accept
+57	R2	latinworks10wycl=racone | iohanniswyclift00mattgoog=racione | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=racione | tractatusdeeccle00wycl=racione		6	accept
+58	R2	latinworks10wycl=ebiti | iohanniswyclift00mattgoog=debiti | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=debiti | tractatusdeeccle00wycl=debiti		6	accept
+59	R2	latinworks10wycl=hominis | iohanniswyclift00mattgoog=hominis | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=hominis | tractatusdeeccle00wycl=hominis		6	accept
+60	R2	latinworks10wycl=ad | iohanniswyclift00mattgoog=ad | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=ad | tractatusdeeccl00wycl=ad | tractatusdeeccle00wycl=ad		6	accept
+64	R2	latinworks10wycl=homo | iohanniswyclift00mattgoog=homo | iohanniswycliftr00wycluoft=homo | iohanniswycliftr04wycl=horao | tractatusdeeccl00wycl=homo | tractatusdeeccle00wycl=homo		6	accept
+134	PLATE	latinworks10wycl=we | iohanniswyclift00mattgoog=tanto | tractatusdeeccle00wycl=tanto		3	accept
+135	INS?	est	2	6	plate: est
+187	R2	latinworks10wycl=deum | iohanniswyclift00mattgoog=deuray | iohanniswycliftr00wycluoft=deum | iohanniswycliftr04wycl=deum | tractatusdeeccl00wycl=deum | tractatusdeeccle00wycl=deum		6	accept
+202	R2	latinworks10wycl=homo | iohanniswyclift00mattgoog=homo | iohanniswycliftr00wycluoft=homo | iohanniswycliftr04wycl=horao | tractatusdeeccl00wycl=homo | tractatusdeeccle00wycl=homo		6	accept
+223	R2	latinworks10wycl=simpliciter | iohanniswyclift00mattgoog=simpliciter | iohanniswycliftr00wycluoft=simphciter | iohanniswycliftr04wycl=siraphciter | tractatusdeeccl00wycl=simpliciter | tractatusdeeccle00wycl=simpliciter		6	accept
+235	R3a	latinworks10wycl=propria | iohanniswyclift00mattgoog=propriay | iohanniswycliftr00wycluoft=propria | iohanniswycliftr04wycl=propria | tractatusdeeccl00wycl=propria | tractatusdeeccle00wycl=propria		6	accept
+247	R2	latinworks10wycl=emendam | iohanniswyclift00mattgoog=emendam | iohanniswycliftr00wycluoft=emendam | iohanniswycliftr04wycl=eraendara | tractatusdeeccl00wycl=emendam | tractatusdeeccle00wycl=emendam		6	accept
+257	R2	latinworks10wycl=exemplis | iohanniswyclift00mattgoog=exemplis | iohanniswycliftr00wycluoft=exemphs | iohanniswycliftr04wycl=exeraphs | tractatusdeeccl00wycl=exemplis | tractatusdeeccle00wycl=exemplis		6	accept

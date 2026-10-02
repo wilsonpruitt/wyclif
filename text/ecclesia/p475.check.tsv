@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=mulierem | tractatusdeeccle00wycl=mulierem		2	accept
+9	R2	latinworks10wycl=canticorum | iohanniswycliftr00wycluoft=ganticorum | iohanniswycliftr04wycl=ganticorura | tractatusdeeccl00wycl=ganticorura | tractatusdeeccle00wycl=canticorum		5	accept
+10	R6a	latinworks10wycl=uiii | iohanniswycliftr00wycluoft=uiii | iohanniswycliftr04wycl=uin | tractatusdeeccl00wycl=yiii | tractatusdeeccle00wycl=uiii		5	accept
+13	R3a	latinworks10wycl=ut | iohanniswycliftr00wycluoft=iit | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		5	accept
+14	R2	latinworks10wycl=mors | iohanniswycliftr00wycluoft=uiors | iohanniswycliftr04wycl=mors | tractatusdeeccl00wycl=tnors | tractatusdeeccle00wycl=mors		5	accept
+30	PLATE	latinworks10wycl=rortitudinis | iohanniswycliftr00wycluoft=lortitudmis | iohanniswycliftr04wycl=lortitudmis | tractatusdeeccl00wycl=tortttudims | tractatusdeeccle00wycl=rortttudinis		5	accept
+35	R2	latinworks10wycl=finem | iohanniswycliftr00wycluoft=nnem | iohanniswycliftr04wycl=hnem | tractatusdeeccl00wycl=fincm | tractatusdeeccle00wycl=nnem		5	accept
+39	R3a	latinworks10wycl=alii | iohanniswycliftr00wycluoft=alii | iohanniswycliftr04wycl=aui | tractatusdeeccl00wycl=a | tractatusdeeccle00wycl=alii		5	accept
+68	R3a	latinworks10wycl=contrarie | iohanniswycliftr00wycluoft=contrarie | iohanniswycliftr04wycl=contrarie | tractatusdeeccl00wycl=i | tractatusdeeccle00wycl=contrarie		5	accept
+90	R2	latinworks10wycl=christo | iohanniswycliftr00wycluoft=ghristo | iohanniswycliftr04wycl=christo | tractatusdeeccl00wycl=christo | tractatusdeeccle00wycl=ghristo		5	accept
+112	R2	latinworks10wycl=suam | iohanniswycliftr00wycluoft=suam | iohanniswycliftr04wycl=suara | tractatusdeeccl00wycl=suam | tractatusdeeccle00wycl=suam		5	accept
+117	R2	latinworks10wycl=psalmo | iohanniswycliftr00wycluoft=psahqo | iohanniswycliftr04wycl=psahno | tractatusdeeccl00wycl=psalmo | tractatusdeeccle00wycl=psalmo		5	accept
+120	R3a	latinworks10wycl=a | iohanniswycliftr00wycluoft=a | iohanniswycliftr04wycl=a | tractatusdeeccl00wycl=1 | tractatusdeeccle00wycl=a		5	accept
+121	R2	latinworks10wycl=sitmmn | iohanniswycliftr00wycluoft=siimmo | iohanniswycliftr04wycl=summo | tractatusdeeccl00wycl=summo | tractatusdeeccle00wycl=swnmo		5	accept
+141	R3a	latinworks10wycl=ia | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=ia | tractatusdeeccle00wycl=ia		5	accept
+142	R2	latinworks10wycl=cor | iohanniswycliftr00wycluoft=gor | iohanniswycliftr04wycl=cor | tractatusdeeccl00wycl=cor | tractatusdeeccle00wycl=cor		5	accept
+143	R6a	latinworks10wycl=x | iohanniswycliftr00wycluoft=x | iohanniswycliftr04wycl=x | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=x		5	accept
+144	R3a	latinworks10wycl=11 | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=11 | tractatusdeeccle00wycl=11		5	accept
+147	R2	latinworks10wycl=sumus | iohanniswycliftr00wycluoft=siimus | iohanniswycliftr04wycl=sumus | tractatusdeeccl00wycl=sumus | tractatusdeeccle00wycl=sumus		5	accept
+148	R3a	latinworks10wycl=iu | iohanniswycliftr00wycluoft=iii | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		5	accept
+167	R2	latinworks10wycl=totum | iohanniswycliftr00wycluoft=totum | iohanniswycliftr04wycl=totura | tractatusdeeccl00wycl=totum | tractatusdeeccle00wycl=totum		5	accept
+172	R2	latinworks10wycl=suum | iohanniswycliftr00wycluoft=suum | iohanniswycliftr04wycl=suura | tractatusdeeccl00wycl=suum | tractatusdeeccle00wycl=suum		5	accept
+184	R3a	latinworks10wycl=dum | iohanniswycliftr00wycluoft=dum | iohanniswycliftr04wycl=dura | tractatusdeeccl00wycl=dum | tractatusdeeccle00wycl=dum		5	accept
+191	R3a	latinworks10wycl=sui | iohanniswycliftr00wycluoft=sui | iohanniswycliftr04wycl=sui | tractatusdeeccl00wycl=siti | tractatusdeeccle00wycl=sui		5	accept
+195	R2	latinworks10wycl=coniidit | iohanniswycliftr00wycluoft=coiifidit | iohanniswycliftr04wycl=coniidit | tractatusdeeccl00wycl=confuiit | tractatusdeeccle00wycl=confidit		5	accept
+197	R3a	latinworks10wycl=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=nt | tractatusdeeccle00wycl=ut		5	accept
+200	R3a	latinworks10wycl=eum | iohanniswycliftr00wycluoft=eum | iohanniswycliftr04wycl=eum | tractatusdeeccl00wycl=cuni | tractatusdeeccle00wycl=eum		5	accept
+202	R2	latinworks10wycl=prescius | iohanniswycliftr00wycluoft=prescius | iohanniswycliftr04wycl=prescius | tractatusdeeccl00wycl=prescius | tractatusdeeccle00wycl=presents		5	accept
+206	R2	latinworks10wycl=qui | iohanniswycliftr00wycluoft=qui | iohanniswycliftr04wycl=qui | tractatusdeeccl00wycl=itti | tractatusdeeccle00wycl=qui		5	accept
+207	R2	latinworks10wycl=falli | iohanniswycliftr00wycluoft=falli | iohanniswycliftr04wycl=falli | tractatusdeeccl00wycl=ialli | tractatusdeeccle00wycl=iala		5	accept
+217	R2	latinworks10wycl=ipsum | iohanniswycliftr00wycluoft=ipsum | iohanniswycliftr04wycl=ipsura | tractatusdeeccl00wycl=ipsum | tractatusdeeccle00wycl=ipsum		5	accept
+232	R2	latinworks10wycl=timor | iohanniswycliftr00wycluoft=timor | iohanniswycliftr04wycl=tiraor | tractatusdeeccl00wycl=timor | tractatusdeeccle00wycl=timor		5	accept

@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=consequencia | tractatusdeeccle00wycl=consequencia		2	accept
+15	R2	latinworks10wycl=consimilis | iohanniswyclift00mattgoog=contimiiia | iohanniswycliftr00wycluoft=consimilis | iohanniswycliftr04wycl=consimilis | tractatusdeeccl00wycl=consimilis | tractatusdeeccle00wycl=consimilis		6	accept
+36	R2	latinworks10wycl=est | iohanniswyclift00mattgoog=eit | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=est | tractatusdeeccle00wycl=est		6	accept
+43	R3a	latinworks10wycl=illum | iohanniswyclift00mattgoog=illum | iohanniswycliftr00wycluoft=illum | iohanniswycliftr04wycl=illum | tractatusdeeccl00wycl=illum | tractatusdeeccle00wycl=ilium		6	accept
+55	R3a	latinworks10wycl=facere | iohanniswyclift00mattgoog=facere | iohanniswycliftr00wycluoft=facere | iohanniswycliftr04wycl=lacere | tractatusdeeccl00wycl=facere | tractatusdeeccle00wycl=racere		6	accept
+61	R3a	latinworks10wycl=nam | iohanniswyclift00mattgoog=tofinam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nam | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=206anam		6	accept
+62	R3a	latinworks10wycl=potens | iohanniswyclift00mattgoog=potent | iohanniswycliftr00wycluoft=potens | iohanniswycliftr04wycl=potens | tractatusdeeccl00wycl=potens | tractatusdeeccle00wycl=potens		6	accept
+67	R4a	latinworks10wycl=mexcusabiliter | iohanniswyclift00mattgoog=inexcusabiliter | iohanniswycliftr00wycluoft=mexcusabiliter | iohanniswycliftr04wycl=mexcusabiliter | tractatusdeeccl00wycl=mcxcusabilitcr | tractatusdeeccle00wycl=inexcusabiliter		6	accept
+75	R2	latinworks10wycl=est | iohanniswyclift00mattgoog=ett | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=est | tractatusdeeccle00wycl=est		6	accept
+85	R2	latinworks10wycl=morte | iohanniswyclift00mattgoog=roorte | iohanniswycliftr00wycluoft=morte | iohanniswycliftr04wycl=morte | tractatusdeeccl00wycl=morte | tractatusdeeccle00wycl=morte		6	accept
+96	R2	latinworks10wycl=ualet | iohanniswyclift00mattgoog=ualet | iohanniswycliftr00wycluoft=ualet | iohanniswycliftr04wycl=ualet | tractatusdeeccl00wycl=iualct | tractatusdeeccle00wycl=ualet		6	accept
+110	R2	latinworks10wycl=fit | iohanniswyclift00mattgoog=gt | iohanniswycliftr00wycluoft=fit | iohanniswycliftr04wycl=fit | tractatusdeeccl00wycl=ht | tractatusdeeccle00wycl=fit		6	accept
+160	R3a	latinworks10wycl=diuine | iohanniswyclift00mattgoog=dirine | iohanniswycliftr00wycluoft=diuine | iohanniswycliftr04wycl=diuine | tractatusdeeccl00wycl=diuine | tractatusdeeccle00wycl=diuine		6	accept
+169	R5a	latinworks10wycl=n | iohanniswyclift00mattgoog=n | iohanniswycliftr00wycluoft=n | iohanniswycliftr04wycl=n | tractatusdeeccl00wycl=n | tractatusdeeccle00wycl=n		6	accept
+182	R3a	latinworks10wycl=deus | iohanniswyclift00mattgoog=deui | iohanniswycliftr00wycluoft=deus | iohanniswycliftr04wycl=deus | tractatusdeeccl00wycl=deus | tractatusdeeccle00wycl=deus		6	accept
+217	R3a	latinworks10wycl=claues | iohanniswyclift00mattgoog=clauet | iohanniswycliftr00wycluoft=claues | iohanniswycliftr04wycl=claues | tractatusdeeccl00wycl=claues | tractatusdeeccle00wycl=claues		6	accept
+218	R2	latinworks10wycl=ecclesie | iohanniswyclift00mattgoog=ecclettc | iohanniswycliftr00wycluoft=ecclesie | iohanniswycliftr04wycl=ecclesie | tractatusdeeccl00wycl=ecclesie | tractatusdeeccle00wycl=ecclesie		6	accept

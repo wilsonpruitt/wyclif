@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+16	R2	latinworks10wycl=ministerialiter | iohanniswyclift00mattgoog=ministeriaiiter | iohanniswycliftr00wycluoft=mmisterialiter | iohanniswycliftr04wycl=mmisterialiter | tractatusdeeccl00wycl=ministenahter | tractatusdeeccle00wycl=ministenaliter		6	accept
+28	R2	latinworks10wycl=hoc | iohanniswyclift00mattgoog=hoc | iohanniswycliftr00wycluoft=hoc | iohanniswycliftr04wycl=noc | tractatusdeeccl00wycl=hoc | tractatusdeeccle00wycl=hoc		6	accept
+112	R2	latinworks10wycl=teroa | iohanniswyclift00mattgoog=tercia | iohanniswycliftr00wycluoft=tercia | iohanniswycliftr04wycl=tercia | tractatusdeeccl00wycl=tercia | tractatusdeeccle00wycl=tercia		6	accept
+143	INS	quod	5	6	accept
+150	R3a	latinworks10wycl=quod | iohanniswyclift00mattgoog=sacramentorum | iohanniswycliftr00wycluoft=sacramentorum | iohanniswycliftr04wycl=sacramentorum | tractatusdeeccl00wycl=sacramentorum | tractatusdeeccle00wycl=sacramentorum		6	accept
+154	R3a	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=inam | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		6	accept
+155	R3a	latinworks10wycl=sacramentorum | iohanniswyclift00mattgoog=oportet | iohanniswycliftr00wycluoft=oportet | iohanniswycliftr04wycl=oportet | tractatusdeeccl00wycl=oportet | tractatusdeeccle00wycl=oportet		6	accept
+161	R3a	latinworks10wycl=oportet | iohanniswyclift00mattgoog=baptismo | iohanniswycliftr00wycluoft=baptismo | iohanniswycliftr04wycl=baptismo | tractatusdeeccl00wycl=r | tractatusdeeccle00wycl=baptismo		6	accept
+162	R3a	latinworks10wycl=flaminis | iohanniswyclift00mattgoog=flaminis | iohanniswycliftr00wycluoft=flaminis | iohanniswycliftr04wycl=flammis | tractatusdeeccl00wycl=flaminis | tractatusdeeccle00wycl=flaminis		6	accept
+168	PLATE	latinworks10wycl=baptismo | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | tractatusdeeccle00wycl=∅		4	accept
+200	INS	appreciando	4	6	accept
+200	R3a	latinworks10wycl=intendimus | iohanniswyclift00mattgoog=intendimus | iohanniswycliftr00wycluoft=intendimus | iohanniswycliftr04wycl=intendimus | tractatusdeeccl00wycl=appreciando | tractatusdeeccle00wycl=intendimus		6	accept
+206	PLATE	latinworks10wycl=appreciando | iohanniswyclift00mattgoog=∅		2	accept
+207	EDGE	latinworks10wycl=sacramenti | iohanniswyclift00mattgoog=sacramenti		2	accept
+208	EDGE	latinworks10wycl=sensibilis | iohanniswyclift00mattgoog=sensibilis		2	accept
+213	PLATE	latinworks10wycl=magis | iohanniswyclift00mattgoog=magis | iohanniswycliftr00wycluoft=magis | iohanniswycliftr04wycl=magis		4	accept

@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+13	R3a	latinworks10wycl=unde | iohanniswyclift00mattgoog=udde | iohanniswycliftr00wycluoft=unde | iohanniswycliftr04wycl=unde | tractatusdeeccl00wycl=i | tractatusdeeccle00wycl=unde		6	accept
+25	R3b	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=ilhi | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+35	R3a	latinworks10wycl=milliarium | iohanniswyclift00mattgoog=miluarium | iohanniswycliftr00wycluoft=miuiarium | iohanniswycliftr04wycl=miniarium | tractatusdeeccl00wycl=milliarium | tractatusdeeccle00wycl=milliarium		6	accept
+59	R2	latinworks10wycl=priuilesiandi | iohanniswyclift00mattgoog=priuilegiandi | iohanniswycliftr00wycluoft=priuileeiandi | iohanniswycliftr04wycl=priuilegiandi | tractatusdeeccl00wycl=priuileeiandi | tractatusdeeccle00wycl=priuilegiandi		6	accept
+65	R2	latinworks10wycl=sed | iohanniswycliftr00wycluoft=sed | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=sed | tractatusdeeccle00wycl=∅		5	accept
+71	R2	latinworks10wycl=regum | iohanniswyclift00mattgoog=regum | iohanniswycliftr00wycluoft=regum | iohanniswycliftr04wycl=regum | tractatusdeeccl00wycl=regura | tractatusdeeccle00wycl=regum		6	accept
+73	R3a	latinworks10wycl=dictum | iohanniswyclift00mattgoog=dictum | iohanniswycliftr00wycluoft=dictum | iohanniswycliftr04wycl=dictum | tractatusdeeccl00wycl=dictura | tractatusdeeccle00wycl=dictum		6	accept
+87	R3a	latinworks10wycl=nisi | iohanniswyclift00mattgoog=niu | iohanniswycliftr00wycluoft=nisi | iohanniswycliftr04wycl=nisi | tractatusdeeccl00wycl=nisi | tractatusdeeccle00wycl=nisi		6	accept
+92	R2	latinworks10wycl=potencie | iohanniswyclift00mattgoog=potcndc | iohanniswycliftr00wycluoft=potencie | iohanniswycliftr04wycl=potencie | tractatusdeeccl00wycl=potencie | tractatusdeeccle00wycl=potencie		6	accept
+94	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=ct | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=el | tractatusdeeccle00wycl=et		6	accept
+95	R2	latinworks10wycl=multo | iohanniswyclift00mattgoog=multo | iohanniswycliftr00wycluoft=multo | iohanniswycliftr04wycl=multo | tractatusdeeccl00wycl=raulto | tractatusdeeccle00wycl=multo		6	accept
+96	R2	latinworks10wycl=magis | iohanniswyclift00mattgoog=magis | iohanniswycliftr00wycluoft=magis | iohanniswycliftr04wycl=magis | tractatusdeeccl00wycl=raagis | tractatusdeeccle00wycl=magis		6	accept
+109	R2	latinworks10wycl=rex | iohanniswyclift00mattgoog=rex | iohanniswycliftr00wycluoft=rex | iohanniswycliftr04wycl=rex | tractatusdeeccl00wycl=rc | tractatusdeeccle00wycl=rex		6	accept
+130	PLATE	latinworks10wycl=necessar | iohanniswyclift00mattgoog=nccessariogodcannottakc | iohanniswycliftr00wycluoft=necessar | iohanniswycliftr04wycl=necessar | tractatusdeeccl00wycl=necessariogodcanm | tractatusdeeccle00wycl=necessar		6	accept
+136	PLATE	latinworks10wycl=ula | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=ula | tractatusdeeccl00wycl=ula | tractatusdeeccle00wycl=ilia		6	accept
+138	R3a	latinworks10wycl=inhnitum | iohanniswyclift00mattgoog=eo | iohanniswycliftr00wycluoft=mhnitum | iohanniswycliftr04wycl=mfinitum | tractatusdeeccl00wycl=inlinitum | tractatusdeeccle00wycl=infinitum		6	accept
+168	R6a	latinworks10wycl=lilli | iohanniswyclift00mattgoog=lilh | iohanniswycliftr00wycluoft=lilli | iohanniswycliftr04wycl=lilh | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=lilli		6	accept
+219	R2	latinworks10wycl=est | iohanniswyclift00mattgoog=ocsty | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=est | tractatusdeeccle00wycl=est		6	accept

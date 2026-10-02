@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=exnlicatum		1	accept
+1	PLATE	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum		2	accept
+12	R2	latinworks10wycl=dei | iohanniswyclift00mattgoog=dei | iohanniswycliftr00wycluoft=dei | iohanniswycliftr04wycl=uei | tractatusdeeccl00wycl=dei | tractatusdeeccle00wycl=dei		6	accept
+13	R2	latinworks10wycl=iniuriam | iohanniswyclift00mattgoog=iniuriam | iohanniswycliftr00wycluoft=iniuriam | iohanniswycliftr04wycl=mmnam | tractatusdeeccl00wycl=lniuriam | tractatusdeeccle00wycl=iniuriam		6	accept
+27	R2	latinworks10wycl=suum | iohanniswyclift00mattgoog=suum | iohanniswycliftr00wycluoft=suura | iohanniswycliftr04wycl=suum | tractatusdeeccl00wycl=suum | tractatusdeeccle00wycl=suum		6	accept
+37	R2	latinworks10wycl=includitur | iohanniswyclift00mattgoog=inclu5 | iohanniswycliftr00wycluoft=includitur | iohanniswycliftr04wycl=includitur | tractatusdeeccl00wycl=includitur | tractatusdeeccle00wycl=includitur		6	accept
+51	R2	latinworks10wycl=domum | iohanniswyclift00mattgoog=domum | iohanniswycliftr00wycluoft=domum | iohanniswycliftr04wycl=domum | tractatusdeeccl00wycl=domum | tractatusdeeccle00wycl=domura		6	accept
+60	R2	latinworks10wycl=regnorum | iohanniswyclift00mattgoog=regnorum | iohanniswycliftr00wycluoft=reffuorum | iohanniswycliftr04wycl=regiiorum | tractatusdeeccl00wycl=regnorum | tractatusdeeccle00wycl=regnorum		6	accept
+66	R2	latinworks10wycl=hoc | iohanniswyclift00mattgoog=hoc | iohanniswycliftr00wycluoft=hoc | iohanniswycliftr04wycl=noc | tractatusdeeccl00wycl=hoc | tractatusdeeccle00wycl=hoc		6	accept
+74	R5a	latinworks10wycl=x | iohanniswyclift00mattgoog=x | iohanniswycliftr00wycluoft=x | iohanniswycliftr04wycl=x | tractatusdeeccl00wycl=x | tractatusdeeccle00wycl=x		6	accept
+75	PLATE	latinworks10wycl=8 | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=8 | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		6	accept
+90	PLATE	latinworks10wycl=gum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=gum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=gum		6	accept
+167	R3a	latinworks10wycl=proditorem | iohanniswyclift00mattgoog=pro | iohanniswycliftr00wycluoft=proditorem | iohanniswycliftr04wycl=proditorem | tractatusdeeccl00wycl=proditorem | tractatusdeeccle00wycl=proditorem		6	accept
+191	R4a	latinworks10wycl=misencordie | iohanniswyclift00mattgoog=misericordie | iohanniswycliftr00wycluoft=niisericordie | iohanniswycliftr04wycl=tnisericordie | tractatusdeeccl00wycl=misencordie | tractatusdeeccle00wycl=misencordie		6	accept
+195	PLATE	latinworks10wycl=rn | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=111		6	accept
+204	R2	latinworks10wycl=uel | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=uel | iohanniswycliftr04wycl=uel | tractatusdeeccl00wycl=uel | tractatusdeeccle00wycl=uel		6	accept

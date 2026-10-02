@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=de		1	accept
+1	PLATE	latinworks10wycl=pscudopapa		1	accept
+15	R2	latinworks10wycl=meritorn | iohanniswycliftr00wycluoft=meritorii | iohanniswycliftr04wycl=meritoni | tractatusdeeccl00wycl=meritoni | tractatusdeeccle00wycl=meritorn		5	accept
+16	PLATE	latinworks10wycl=proiectus | iohanniswycliftr00wycluoft=profcctus | iohanniswycliftr04wycl=profectus | tractatusdeeccl00wycl=profectus | tractatusdeeccle00wycl=prorectus		5	accept
+27	R2	latinworks10wycl=memorata | iohanniswyclift00mattgoog=memmita | iohanniswycliftr00wycluoft=memorata | iohanniswycliftr04wycl=memorata | tractatusdeeccl00wycl=memorata | tractatusdeeccle00wycl=memorata		6	accept
+34	R3a	latinworks10wycl=defendendum | iohanniswyclift00mattgoog=defendendum | iohanniswycliftr00wycluoft=defendenduni | iohanniswycliftr04wycl=delendendum | tractatusdeeccl00wycl=defendendum | tractatusdeeccle00wycl=detendendum		6	accept
+114	R4a	latinworks10wycl=doctoris | iohanniswyclift00mattgoog=doctoris | iohanniswycliftr00wycluoft=doctons | iohanniswycliftr04wycl=doctons | tractatusdeeccl00wycl=doctons | tractatusdeeccle00wycl=doctons		6	accept
+115	R3a	latinworks10wycl=hrgo | iohanniswyclift00mattgoog=ereo | iohanniswycliftr00wycluoft=ergo | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=rgo | tractatusdeeccle00wycl=ergo		6	accept
+117	R2	latinworks10wycl=noc | iohanniswyclift00mattgoog=hoc | iohanniswycliftr00wycluoft=hoc | iohanniswycliftr04wycl=hoc | tractatusdeeccl00wycl=noc | tractatusdeeccle00wycl=hoc		6	accept
+119	R4a	latinworks10wycl=qualiter | iohanniswyclift00mattgoog=qualiter | iohanniswycliftr00wycluoft=quahter | iohanniswycliftr04wycl=quahter | tractatusdeeccl00wycl=quahter | tractatusdeeccle00wycl=quahter		6	accept
+123	R3a	latinworks10wycl=facere | iohanniswyclift00mattgoog=facere | iohanniswycliftr00wycluoft=facere | iohanniswycliftr04wycl=tacere | tractatusdeeccl00wycl=racere | tractatusdeeccle00wycl=racere		6	accept
+124	R2	latinworks10wycl=ex | iohanniswyclift00mattgoog=ex | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=ex | tractatusdeeccl00wycl=x | tractatusdeeccle00wycl=ex		6	accept
+139	R2	latinworks10wycl=dei | iohanniswyclift00mattgoog=dd | iohanniswycliftr00wycluoft=dei | iohanniswycliftr04wycl=dei | tractatusdeeccl00wycl=dei | tractatusdeeccle00wycl=dei		6	accept
+200	INS?	to	3	6	plate: ∅
+202	R2	latinworks10wycl=eciam | iohanniswyclift00mattgoog=eciam | iohanniswycliftr00wycluoft=eciam | iohanniswycliftr04wycl=eciara | tractatusdeeccl00wycl=eciam | tractatusdeeccle00wycl=eciam		6	accept
+206	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cuni | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept

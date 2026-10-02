@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+5	R3a	latinworks10wycl=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		5	accept
+8	R3a	latinworks10wycl=m | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=in		5	accept
+10	R3a	latinworks10wycl=ubi | iohanniswycliftr00wycluoft=ubi | iohanniswycliftr04wycl=udi | tractatusdeeccl00wycl=ubi | tractatusdeeccle00wycl=ubi		5	accept
+18	R3a	latinworks10wycl=rn | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		5	accept
+22	R3a	latinworks10wycl=m | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=in		5	accept
+27	R4a	latinworks10wycl=chnstiani | iohanniswycliftr00wycluoft=christiani | iohanniswycliftr04wycl=chnstiani | tractatusdeeccl00wycl=chnstiani | tractatusdeeccle00wycl=christiani		5	accept
+38	R3a	latinworks10wycl=feruore | iohanniswyclift00mattgoog=feruores | iohanniswycliftr00wycluoft=feruore | iohanniswycliftr04wycl=feruore | tractatusdeeccl00wycl=feruore | tractatusdeeccle00wycl=feruore		6	accept
+39	R2	latinworks10wycl=caritatis | iohanniswyclift00mattgoog=carititity | iohanniswycliftr00wycluoft=caritatis | iohanniswycliftr04wycl=caritatis | tractatusdeeccl00wycl=caritatis | tractatusdeeccle00wycl=caritatis		6	accept
+40	R2	latinworks10wycl=ex | iohanniswyclift00mattgoog=ez | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=ex | tractatusdeeccl00wycl=ex | tractatusdeeccle00wycl=ex		6	accept
+42	R2	latinworks10wycl=prudencia | iohanniswyclift00mattgoog=pmdenda | iohanniswycliftr00wycluoft=prudencia | iohanniswycliftr04wycl=prudencia | tractatusdeeccl00wycl=prudencia | tractatusdeeccle00wycl=prudencia		6	accept
+65	R2	latinworks10wycl=ecclesia | iohanniswyclift00mattgoog=ecdeda | iohanniswycliftr00wycluoft=ecclesia | iohanniswycliftr04wycl=ecclesia | tractatusdeeccl00wycl=ecclesia | tractatusdeeccle00wycl=ecclesia		6	accept
+66	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=iua | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+72	R2	latinworks10wycl=ecclesia | iohanniswyclift00mattgoog=ecdeda | iohanniswycliftr00wycluoft=ecclesia | iohanniswycliftr04wycl=ecclesia | tractatusdeeccl00wycl=ecclesia | tractatusdeeccle00wycl=ecclesia		6	accept
+74	R2	latinworks10wycl=sic | iohanniswyclift00mattgoog=dc | iohanniswycliftr00wycluoft=sic | iohanniswycliftr04wycl=sic | tractatusdeeccl00wycl=sic | tractatusdeeccle00wycl=sic		6	accept
+83	R6a	latinworks10wycl=l | iohanniswycliftr00wycluoft=l | iohanniswycliftr04wycl=l | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=l		5	accept
+96	R2	latinworks10wycl=aliis | iohanniswyclift00mattgoog=dtis | iohanniswycliftr00wycluoft=ahis | iohanniswycliftr04wycl=aliis | tractatusdeeccl00wycl=aliis | tractatusdeeccle00wycl=aliis		6	accept
+98	R2	latinworks10wycl=diuisionibus | iohanniswyclift00mattgoog=diddonibus | iohanniswycliftr00wycluoft=diuisionibus | iohanniswycliftr04wycl=diuisionibus | tractatusdeeccl00wycl=diuisionibus | tractatusdeeccle00wycl=diuisionibus		6	accept
+100	R2	latinworks10wycl=ecclesia | iohanniswyclift00mattgoog=ecdeda | iohanniswycliftr00wycluoft=ecclesia | iohanniswycliftr04wycl=ecclesia | tractatusdeeccl00wycl=ecclesia | tractatusdeeccle00wycl=ecclesia		6	accept
+106	R3a	latinworks10wycl=cleri | iohanniswyclift00mattgoog=deri | iohanniswycliftr00wycluoft=cleri | iohanniswycliftr04wycl=cleri | tractatusdeeccl00wycl=cleri | tractatusdeeccle00wycl=cleri		6	accept
+119	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=hon | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=hon | tractatusdeeccle00wycl=non		6	accept
+130	R3a	latinworks10wycl=precminenciam | iohanniswyclift00mattgoog=preeminendam | iohanniswycliftr00wycluoft=preeminenciam | iohanniswycliftr04wycl=preeminenciam | tractatusdeeccl00wycl=preeminenciam | tractatusdeeccle00wycl=preeminenciam		6	accept
+133	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=lion | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+135	R3a	latinworks10wycl=contencio | iohanniswyclift00mattgoog=contendo | iohanniswycliftr00wycluoft=contencio | iohanniswycliftr04wycl=contencio | tractatusdeeccl00wycl=contencio | tractatusdeeccle00wycl=contencio		6	accept
+142	PLATE	latinworks10wycl=inter | iohanniswyclift00mattgoog=interao | iohanniswycliftr00wycluoft=intero | iohanniswycliftr04wycl=inter | tractatusdeeccl00wycl=inter | tractatusdeeccle00wycl=inter		6	accept
+143	R2	latinworks10wycl=rema | iohanniswyclift00mattgoog=regna | iohanniswycliftr00wycluoft=regna | iohanniswycliftr04wycl=rcgua | tractatusdeeccl00wycl=regna | tractatusdeeccle00wycl=regna		6	accept
+147	R2	latinworks10wycl=sectarum | iohanniswyclift00mattgoog=sectsnim | iohanniswycliftr00wycluoft=sectarum | iohanniswycliftr04wycl=sectarum | tractatusdeeccl00wycl=sectarum | tractatusdeeccle00wycl=sectarum		6	accept
+154	R4a	latinworks10wycl=pnuuegiorum | iohanniswyclift00mattgoog=priuilegionim | iohanniswycliftr00wycluoft=priuilegiorum | iohanniswycliftr04wycl=pnuilegiorum | tractatusdeeccl00wycl=priuilegtorum | tractatusdeeccle00wycl=pnuilegiorum		6	accept
+156	PLATE	latinworks10wycl=christus | iohanniswyclift00mattgoog=qiristus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=chnstus | tractatusdeeccl00wycl=chnstus | tractatusdeeccle00wycl=chnstus		6	accept
+209	R2	latinworks10wycl=contemptus | iohanniswyclift00mattgoog=con30 | iohanniswycliftr00wycluoft=contemptus | iohanniswycliftr04wycl=contemptus | tractatusdeeccl00wycl=contcmptus | tractatusdeeccle00wycl=contemptus		6	accept

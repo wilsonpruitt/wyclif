@@ -1,0 +1,32 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=reinaneat		1	accept
+1	INS?	haberet in se ciuilitatem nec emeret uel caperet in se siue papa siue alius summum dominium seculare sed regens laycos et dominaciones suas spiritualiter recipere posset titulo elemosine fructum possessionis uel potestatis terrene sic tamen quod seculare dominium remaneat	2	6	plate: ∅
+1	R5a	latinworks10wycl=aput | iohanniswyclift00mattgoog=aput | iohanniswycliftr00wycluoft=aput | tractatusdeeccl00wycl=aput | tractatusdeeccle00wycl=aput		5	accept
+5	R2	latinworks10wycl=sicut | iohanniswyclift00mattgoog=ucut | iohanniswycliftr00wycluoft=sicut | tractatusdeeccl00wycl=sicut | tractatusdeeccle00wycl=sicut		5	accept
+20	R2	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=∅		6	accept
+35	INS	of	4	6	accept
+35	R2	latinworks10wycl=item | iohanniswyclift00mattgoog=iteniy | iohanniswycliftr00wycluoft=item | iohanniswycliftr04wycl=item | tractatusdeeccl00wycl=item | tractatusdeeccle00wycl=item		6	accept
+36	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=nou | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+42	R3a	latinworks10wycl=terre2 | iohanniswyclift00mattgoog=terrea | iohanniswycliftr00wycluoft=terre2 | iohanniswycliftr04wycl=terrc2 | tractatusdeeccle00wycl=terre2		5	accept
+43	R3a	latinworks10wycl=nrum | iohanniswyclift00mattgoog=nonim | iohanniswycliftr00wycluoft=horum | iohanniswycliftr04wycl=norum | tractatusdeeccle00wycl=norum		5	accept
+45	R2	latinworks10wycl=si | iohanniswyclift00mattgoog=n | iohanniswycliftr00wycluoft=si | iohanniswycliftr04wycl=si | tractatusdeeccl00wycl=si | tractatusdeeccle00wycl=si		6	accept
+47	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=uon | iohanniswycliftr04wycl=uou | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+48	R4a	latinworks10wycl=liceret | iohanniswyclift00mattgoog=liceret | iohanniswycliftr00wycluoft=hceret | iohanniswycliftr04wycl=iiceret | tractatusdeeccl00wycl=hceret | tractatusdeeccle00wycl=hceret		6	accept
+54	R3a	latinworks10wycl=foret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=foret | iohanniswycliftr04wycl=roret | tractatusdeeccl00wycl=foret | tractatusdeeccle00wycl=toret		6	accept
+61	R2	latinworks10wycl=christus | iohanniswyclift00mattgoog=cbristus | iohanniswycliftr00wycluoft=christus | iohanniswycliftr04wycl=cnnstus | tractatusdeeccl00wycl=chnstus | tractatusdeeccle00wycl=lhnstus		6	accept
+62	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enuii | tractatusdeeccl00wycl=enim | tractatusdeeccle00wycl=enim		6	accept
+79	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=iha | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+84	R2	latinworks10wycl=rogauit | iohanniswyclift00mattgoog=rogauit | iohanniswycliftr00wycluoft=rogauit | iohanniswycliftr04wycl=rogauit | tractatusdeeccl00wycl=roeauit | tractatusdeeccle00wycl=roeauit		6	accept
+87	R3a	latinworks10wycl=recipere | iohanniswyclift00mattgoog=recipere | iohanniswycliftr00wycluoft=recipere | iohanniswycliftr04wycl=rccipere | tractatusdeeccl00wycl=recinere | tractatusdeeccle00wycl=recipere		6	accept
+105	R3a	latinworks10wycl=illi | iohanniswyclift00mattgoog=illi | iohanniswycliftr00wycluoft=iui | iohanniswycliftr04wycl=illi | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=illi		6	accept
+116	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=uou | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+127	R2	latinworks10wycl=huiusmodi | iohanniswyclift00mattgoog=buiusmodi | iohanniswycliftr00wycluoft=huiusmodi | iohanniswycliftr04wycl=lniiusimdi | tractatusdeeccl00wycl=hutusmodi | tractatusdeeccle00wycl=nuiusmodi		6	accept
+129	PLATE	latinworks10wycl=fuisset | iohanniswyclift00mattgoog=fuisset | iohanniswycliftr00wycluoft=tuisset | iohanniswycliftr04wycl=tuisset | tractatusdeeccl00wycl=tuisset | tractatusdeeccle00wycl=luisset		6	accept
+133	R3a	latinworks10wycl=cleri | iohanniswyclift00mattgoog=deri | iohanniswycliftr00wycluoft=cleri | iohanniswycliftr04wycl=cleri | tractatusdeeccl00wycl=clen | tractatusdeeccle00wycl=cleri		6	accept
+135	PLATE	latinworks10wycl=fuisse | iohanniswyclift00mattgoog=fuisse | iohanniswycliftr00wycluoft=luisse | iohanniswycliftr04wycl=luisse | tractatusdeeccl00wycl=tuisse | tractatusdeeccle00wycl=iuisse		6	accept
+139	R3a	latinworks10wycl=cuni | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+140	R2	latinworks10wycl=tanul | iohanniswyclift00mattgoog=tanta | iohanniswycliftr00wycluoft=tanta | iohanniswycliftr04wycl=tanta | tractatusdeeccl00wycl=tanta | tractatusdeeccle00wycl=tanta		6	accept
+155	R2	latinworks10wycl=impertinens | iohanniswyclift00mattgoog=impertinens | iohanniswycliftr00wycluoft=irapertinens | iohanniswycliftr04wycl=irapertinens | tractatusdeeccl00wycl=impertinens | tractatusdeeccle00wycl=impertinens		6	accept
+174	R3a	latinworks10wycl=illi | iohanniswyclift00mattgoog=illi | iohanniswycliftr00wycluoft=iui | iohanniswycliftr04wycl=illi | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=illi		6	accept
+207	R2	latinworks10wycl=quam | iohanniswyclift00mattgoog=quun | iohanniswycliftr00wycluoft=quam | iohanniswycliftr04wycl=quam | tractatusdeeccl00wycl=quam | tractatusdeeccle00wycl=quam		6	accept
+210	R2	latinworks10wycl=item | iohanniswyclift00mattgoog=ihe | iohanniswycliftr00wycluoft=item | iohanniswycliftr04wycl=itcm | tractatusdeeccl00wycl=item | tractatusdeeccle00wycl=item		6	accept

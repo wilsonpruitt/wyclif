@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=qua		1	accept
+1	EDGE	latinworks10wycl=deus		1	accept
+2	PLATE	latinworks10wycl=auferr		1	accept
+10	R2	latinworks10wycl=eadem | iohanniswyclift00mattgoog=cadem | iohanniswycliftr00wycluoft=eadem | iohanniswycliftr04wycl=eadem | tractatusdeeccl00wycl=eadem | tractatusdeeccle00wycl=eadera		6	accept
+11	R2	latinworks10wycl=mensura | iohanniswyclift00mattgoog=mensuni | iohanniswycliftr00wycluoft=mensura | iohanniswycliftr04wycl=niensura | tractatusdeeccl00wycl=mensura | tractatusdeeccle00wycl=raensura		6	accept
+26	R3a	latinworks10wycl=si | iohanniswyclift00mattgoog=st | iohanniswycliftr00wycluoft=si | iohanniswycliftr04wycl=si | tractatusdeeccl00wycl=si | tractatusdeeccle00wycl=si		6	accept
+40	R2	latinworks10wycl=abicio | iohanniswyclift00mattgoog=abic | iohanniswycliftr00wycluoft=abicio | iohanniswycliftr04wycl=abicio | tractatusdeeccl00wycl=abic | tractatusdeeccle00wycl=abicio		6	accept
+62	R3a	latinworks10wycl=sumus | iohanniswyclift00mattgoog=sumi | iohanniswycliftr00wycluoft=sumus | iohanniswycliftr04wycl=sumus | tractatusdeeccl00wycl=sumus | tractatusdeeccle00wycl=sumus		6	accept
+84	R3a	latinworks10wycl=fisco | iohanniswyclift00mattgoog=isco | iohanniswycliftr00wycluoft=fisco | iohanniswycliftr04wycl=fisco | tractatusdeeccl00wycl=fisco | tractatusdeeccle00wycl=fisco		6	accept
+87	R2	latinworks10wycl=cui | iohanniswyclift00mattgoog=cui | iohanniswycliftr00wycluoft=gui | iohanniswycliftr04wycl=cui | tractatusdeeccl00wycl=cui | tractatusdeeccle00wycl=cui		6	accept
+92	R2	latinworks10wycl=dare | iohanniswyclift00mattgoog=dxue | iohanniswycliftr00wycluoft=dare | iohanniswycliftr04wycl=dare | tractatusdeeccl00wycl=dare | tractatusdeeccle00wycl=dare		6	accept
+102	PLATE	latinworks10wycl=meruerant | iohanniswyclift00mattgoog=meruerant | iohanniswycliftr00wycluoft=meruerant | iohanniswycliftr04wycl=meruerant | tractatusdeeccl00wycl=meruerant | tractatusdeeccle00wycl=meruerant		6	accept
+141	R2	latinworks10wycl=liiles | iohanniswyclift00mattgoog=fides | iohanniswycliftr00wycluoft=fides | iohanniswycliftr04wycl=lides | tractatusdeeccl00wycl=fides | tractatusdeeccle00wycl=ides		6	accept
+154	PLATE	latinworks10wycl=gratulanter | iohanniswyclift00mattgoog=gratulanter | iohanniswycliftr00wycluoft=gratulanter | iohanniswycliftr04wycl=gratulanter | tractatusdeeccl00wycl=gratulanter | tractatusdeeccle00wycl=gratulanter		6	accept
+161	R3a	latinworks10wycl=acciderit | iohanniswyclift00mattgoog=acciderit | iohanniswycliftr00wycluoft=acciderit | iohanniswycliftr04wycl=acciderit | tractatusdeeccl00wycl=acciderit | tractatusdeeccle00wycl=accident		6	accept
+167	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=11011		6	accept
+169	R3a	latinworks10wycl=eis | iohanniswyclift00mattgoog=cis | iohanniswycliftr00wycluoft=eis | iohanniswycliftr04wycl=eis | tractatusdeeccl00wycl=eis | tractatusdeeccle00wycl=eis		6	accept
+187	R3a	latinworks10wycl=iusto | iohanniswyclift00mattgoog=iusto | iohanniswycliftr00wycluoft=iusto | iohanniswycliftr04wycl=usto | tractatusdeeccl00wycl=iusto | tractatusdeeccle00wycl=iusto		6	accept
+190	R2	latinworks10wycl=admchuare | iohanniswyclift00mattgoog=ainichilare | iohanniswycliftr00wycluoft=adnicnilare | iohanniswycliftr04wycl=adnichilare | tractatusdeeccl00wycl=admchilare | tractatusdeeccle00wycl=adnichilare		6	accept
+194	PLATE	latinworks10wycl=demento | iohanniswyclift00mattgoog=demento | iohanniswycliftr00wycluoft=demerito | iohanniswycliftr04wycl=demerito | tractatusdeeccl00wycl=demento | tractatusdeeccle00wycl=demerito		6	accept
+234	PLATE	latinworks10wycl=repugnat | iohanniswyclift00mattgoog=repugnatbo | iohanniswycliftr00wycluoft=repugnat | iohanniswycliftr04wycl=repugnat | tractatusdeeccl00wycl=repugnato | tractatusdeeccle00wycl=repugnat		6	accept
+238	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept

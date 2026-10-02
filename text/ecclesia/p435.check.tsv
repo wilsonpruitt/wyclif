@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+8	R2	latinworks10wycl=forent | iohanniswyclift00mattgoog=roreni | iohanniswycliftr00wycluoft=forent | iohanniswycliftr04wycl=forent | tractatusdeeccl00wycl=forent | tractatusdeeccle00wycl=forent		6	accept
+13	R2	latinworks10wycl=2concedenda | iohanniswyclift00mattgoog=2concedencla | iohanniswycliftr00wycluoft=concedenda | iohanniswycliftr04wycl=concedenda | tractatusdeeccl00wycl=concedenda | tractatusdeeccle00wycl=2concedenda		6	accept
+32	R2	latinworks10wycl=est | iohanniswyclift00mattgoog=eit | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=est | tractatusdeeccle00wycl=est		6	accept
+44	R3a	latinworks10wycl=et | iohanniswyclift00mattgoog=ci | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+50	R3a	latinworks10wycl=foret | iohanniswyclift00mattgoog=roret | iohanniswycliftr00wycluoft=foret | iohanniswycliftr04wycl=foret | tractatusdeeccl00wycl=forct | tractatusdeeccle00wycl=foret		6	accept
+57	R6a	latinworks10wycl=r | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=r | iohanniswycliftr04wycl=r | tractatusdeeccl00wycl=r | tractatusdeeccle00wycl=r		6	accept
+76	R3a	latinworks10wycl=tum | iohanniswyclift00mattgoog=tura | iohanniswycliftr00wycluoft=tum | iohanniswycliftr04wycl=tum | tractatusdeeccl00wycl=tum | tractatusdeeccle00wycl=turn		6	accept
+99	R3a	latinworks10wycl=pars | iohanniswyclift00mattgoog=pari | iohanniswycliftr00wycluoft=pars | iohanniswycliftr04wycl=pars | tractatusdeeccl00wycl=pars | tractatusdeeccle00wycl=pars		6	accept
+104	R3a	latinworks10wycl=spiritus | iohanniswyclift00mattgoog=spiritu | iohanniswycliftr00wycluoft=spiritus | iohanniswycliftr04wycl=spiritus | tractatusdeeccl00wycl=spiritus | tractatusdeeccle00wycl=spiritus		6	accept
+105	R2	latinworks10wycl=beati | iohanniswyclift00mattgoog=sbcati | iohanniswycliftr00wycluoft=sbeati | iohanniswycliftr04wycl=sbeati | tractatusdeeccl00wycl=beati | tractatusdeeccle00wycl=3beati		6	accept
+109	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+118	R3a	latinworks10wycl=partem | iohanniswyclift00mattgoog=panem | iohanniswycliftr00wycluoft=partem | iohanniswycliftr04wycl=partem | tractatusdeeccl00wycl=partem | tractatusdeeccle00wycl=partem		6	accept
+137	R3a	latinworks10wycl=gens | iohanniswyclift00mattgoog=gent | iohanniswycliftr00wycluoft=gens | iohanniswycliftr04wycl=gens | tractatusdeeccl00wycl=gens | tractatusdeeccle00wycl=gens		6	accept
+146	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=id | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+180	R3a	latinworks10wycl=con4sequens | iohanniswyclift00mattgoog=con4scquens | iohanniswycliftr00wycluoft=consequens | iohanniswycliftr04wycl=con4sequens | tractatusdeeccl00wycl=con4sequens | tractatusdeeccle00wycl=con4sequens		6	accept
+186	R2	latinworks10wycl=quelibet | iohanniswyclift00mattgoog=qucubct | iohanniswycliftr00wycluoft=quelibet | iohanniswycliftr04wycl=quehbet | tractatusdeeccl00wycl=quelibet | tractatusdeeccle00wycl=quelibet		6	accept
+191	R3a	latinworks10wycl=foret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=toret | iohanniswycliftr04wycl=foret | tractatusdeeccl00wycl=foret | tractatusdeeccle00wycl=foret		6	accept
+196	R3a	latinworks10wycl=iqua | iohanniswycliftr04wycl=nec | tractatusdeeccl00wycl=iqua | tractatusdeeccle00wycl=iqua		4	accept
+218	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=nod | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+245	R2	latinworks10wycl=de | iohanniswyclift00mattgoog=de | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=dehe | tractatusdeeccle00wycl=de		6	accept

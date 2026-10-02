@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+5	R2	latinworks10wycl=concedi | iohanniswyclift00mattgoog=concediit | iohanniswycliftr00wycluoft=concediit | iohanniswycliftr04wycl=concedi | tractatusdeeccl00wycl=concedi | tractatusdeeccle00wycl=concedi		6	accept
+6	R2	latinworks10wycl=stc | iohanniswyclift00mattgoog=irsic | iohanniswycliftr00wycluoft=sic | iohanniswycliftr04wycl=sic | tractatusdeeccl00wycl=sic | tractatusdeeccle00wycl=sic		6	accept
+15	R4a	latinworks10wycl=miscncordiam | iohanniswyclift00mattgoog=misericordiam | iohanniswycliftr00wycluoft=misencordiam | iohanniswycliftr04wycl=misericordiam | tractatusdeeccl00wycl=misencordiam | tractatusdeeccle00wycl=misencordiam		6	accept
+23	R4a	latinworks10wycl=racionabihter | iohanniswyclift00mattgoog=racionabuiter | iohanniswycliftr00wycluoft=racionabihter | iohanniswycliftr04wycl=racionabuiter | tractatusdeeccl00wycl=racionabihter | tractatusdeeccle00wycl=racionabiliter		6	accept
+28	R3a	latinworks10wycl=omnia | iohanniswyclift00mattgoog=somnia | iohanniswycliftr00wycluoft=omnia | iohanniswycliftr04wycl=omnia | tractatusdeeccl00wycl=omnia | tractatusdeeccle00wycl=omnia		6	accept
+33	R3a	latinworks10wycl=ergo | iohanniswyclift00mattgoog=ei | iohanniswycliftr00wycluoft=ergo | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=ergo | tractatusdeeccle00wycl=ergo		6	accept
+45	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=el | tractatusdeeccle00wycl=et		6	accept
+65	R2	latinworks10wycl=rex | iohanniswyclift00mattgoog=rex | iohanniswycliftr00wycluoft=rex | iohanniswycliftr04wycl=rex | tractatusdeeccl00wycl=rcu | tractatusdeeccle00wycl=rex		6	accept
+83	R2	latinworks10wycl=ui | iohanniswyclift00mattgoog=uly | iohanniswycliftr00wycluoft=ui | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=ui | tractatusdeeccle00wycl=ui		6	accept
+84	R3a	latinworks10wycl=12 | iohanniswyclift00mattgoog=12 | iohanniswycliftr00wycluoft=12 | iohanniswycliftr04wycl=12 | tractatusdeeccl00wycl=i | tractatusdeeccle00wycl=12		6	accept
+90	R3a	latinworks10wycl=dens | iohanniswyclift00mattgoog=deus | iohanniswycliftr00wycluoft=deus | iohanniswycliftr04wycl=deiis | tractatusdeeccl00wycl=deus | tractatusdeeccle00wycl=deus		6	accept
+108	R2	latinworks10wycl=nisi | iohanniswyclift00mattgoog=i3nisi | iohanniswycliftr00wycluoft=i3nisi | iohanniswycliftr04wycl=inisi | tractatusdeeccl00wycl=r3nisi | tractatusdeeccle00wycl=nisi		6	accept
+130	R2	latinworks10wycl=lonce | iohanniswyclift00mattgoog=longe | iohanniswycliftr00wycluoft=lone | iohanniswycliftr04wycl=lonffe | tractatusdeeccl00wycl=lone | tractatusdeeccle00wycl=longe		6	accept
+137	R2	latinworks10wycl=dtmtssa | iohanniswyclift00mattgoog=dimissa | iohanniswycliftr00wycluoft=dmiissa | iohanniswycliftr04wycl=dimissa | tractatusdeeccl00wycl=dimissa | tractatusdeeccle00wycl=dimissa		6	accept
+138	PLATE	latinworks10wycl=serue | iohanniswyclift00mattgoog=serpe | iohanniswycliftr00wycluoft=sene | iohanniswycliftr04wycl=serre | tractatusdeeccl00wycl=berue | tractatusdeeccle00wycl=serue		6	accept
+139	R2	latinworks10wycl=nequam | iohanniswyclift00mattgoog=nequam | iohanniswycliftr00wycluoft=nequatn | iohanniswycliftr04wycl=ticquam | tractatusdeeccl00wycl=ncqnam | tractatusdeeccle00wycl=nequam		6	accept
+158	R2	latinworks10wycl=sum | iohanniswyclift00mattgoog=sum | iohanniswycliftr00wycluoft=sum | iohanniswycliftr04wycl=sum | tractatusdeeccl00wycl=siun | tractatusdeeccle00wycl=sum		6	accept
+163	R2	latinworks10wycl=tradidit | iohanniswyclift00mattgoog=iradidit | iohanniswycliftr00wycluoft=tradidit | iohanniswycliftr04wycl=iradidit | tractatusdeeccl00wycl=tradidii | tractatusdeeccle00wycl=tradidit		6	accept
+191	R5a	latinworks10wycl=petrum | iohanniswyclift00mattgoog=petrum | iohanniswycliftr00wycluoft=petrum | iohanniswycliftr04wycl=petrum | tractatusdeeccl00wycl=petrum | tractatusdeeccle00wycl=petrum		6	accept
+201	R2	latinworks10wycl=quociens | iohanniswyclift00mattgoog=qnodens | iohanniswycliftr00wycluoft=quociens | iohanniswycliftr04wycl=quociens | tractatusdeeccl00wycl=quociens | tractatusdeeccle00wycl=quociens		6	accept
+214	R3a	latinworks10wycl=debitum | iohanniswyclift00mattgoog=debitura | iohanniswycliftr00wycluoft=debitum | iohanniswycliftr04wycl=debitum | tractatusdeeccl00wycl=debitum | tractatusdeeccle00wycl=debitum		6	accept
+222	R2	latinworks10wycl=leee | iohanniswyclift00mattgoog=lege | iohanniswycliftr00wycluoft=leee | iohanniswycliftr04wycl=lege | tractatusdeeccl00wycl=lege | tractatusdeeccle00wycl=lege		6	accept
+232	R2	latinworks10wycl=quod | iohanniswyclift00mattgoog=quod | iohanniswycliftr00wycluoft=quod | iohanniswycliftr04wycl=quod | tractatusdeeccl00wycl=quoil | tractatusdeeccle00wycl=quod		6	accept

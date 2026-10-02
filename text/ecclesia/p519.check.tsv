@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=generibus		1	accept
+4	R2	latinworks10wycl=tantum | iohanniswyclift00mattgoog=tantum | iohanniswycliftr00wycluoft=tantum | iohanniswycliftr04wycl=tantum | tractatusdeeccl00wycl=tantuixi | tractatusdeeccle00wycl=tantum		6	accept
+6	R6a	latinworks10wycl=iudas | iohanniswyclift00mattgoog=iiidbs | iohanniswycliftr00wycluoft=iudas | iohanniswycliftr04wycl=iudas | tractatusdeeccl00wycl=iudas | tractatusdeeccle00wycl=iudas		6	accept
+14	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=noo | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+32	R3a	latinworks10wycl=et | iohanniswyclift00mattgoog=ei | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=ct | tractatusdeeccle00wycl=et		6	accept
+45	PLATE	latinworks10wycl=ht | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=lt | tractatusdeeccl00wycl=ht | tractatusdeeccle00wycl=lt		6	accept
+58	R3a	latinworks10wycl=ut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=lit		6	accept
+67	R5a	latinworks10wycl=iii | iohanniswyclift00mattgoog=iii | iohanniswycliftr00wycluoft=iii | iohanniswycliftr04wycl=iii | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=iii		6	accept
+85	R2	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cwm | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+86	R2	latinworks10wycl=marthe | iohanniswyclift00mattgoog=marthe | iohanniswycliftr00wycluoft=marthe | iohanniswycliftr04wycl=marthe | tractatusdeeccl00wycl=miuthe | tractatusdeeccle00wycl=marthe		6	accept
+110	R3a	latinworks10wycl=testis | iohanniswyclift00mattgoog=lestis | iohanniswycliftr00wycluoft=testis | iohanniswycliftr04wycl=testis | tractatusdeeccl00wycl=testis | tractatusdeeccle00wycl=testis		6	accept
+133	R3a	latinworks10wycl=mendacia | iohanniswyclift00mattgoog=mendacii | iohanniswycliftr00wycluoft=mendacia | iohanniswycliftr04wycl=raendacia | tractatusdeeccl00wycl=mendacia | tractatusdeeccle00wycl=mendacia		6	accept
+146	R2	latinworks10wycl=ex | iohanniswyclift00mattgoog=ez | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=ex | tractatusdeeccl00wycl=ex | tractatusdeeccle00wycl=ex		6	accept
+219	R2	latinworks10wycl=alium | iohanniswyclift00mattgoog=atiuni | iohanniswycliftr00wycluoft=alium | iohanniswycliftr04wycl=alium | tractatusdeeccl00wycl=alium | tractatusdeeccle00wycl=alium		6	accept

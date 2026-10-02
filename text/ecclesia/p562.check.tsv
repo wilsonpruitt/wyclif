@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=humilitcr		1	accept
+1	EDGE	latinworks10wycl=per		1	accept
+2	EDGE	latinworks10wycl=ostium		1	accept
+3	PLATE	latinworks10wycl=chiistum		1	accept
+25	GAP	fur et latro. tr*k	5	6	plate: fur et latro.
+32	R2	latinworks10wycl=matthei | iohanniswyclift00mattgoog=mattbei | iohanniswycliftr00wycluoft=matthei | iohanniswycliftr04wycl=matthei | tractatusdeeccl00wycl=matthei | tractatusdeeccle00wycl=∅		6	accept
+49	INS?	et eius	2	6	plate: et eius
+50	R2	latinworks10wycl=qq | iohanniswyclift00mattgoog=ideo | iohanniswycliftr00wycluoft=ideo		3	accept
+160	R6a	latinworks10wycl=of | iohanniswyclift00mattgoog=tf | iohanniswycliftr00wycluoft=of | iohanniswycliftr04wycl=of | tractatusdeeccl00wycl=of | tractatusdeeccle00wycl=of		6	accept
+170	R3a	latinworks10wycl=deitas | iohanniswyclift00mattgoog=deitas | iohanniswycliftr00wycluoft=deitas | iohanniswycliftr04wycl=deitas | tractatusdeeccl00wycl=deitas | tractatusdeeccle00wycl=deltas		6	accept
+171	R2	latinworks10wycl=christi | iohanniswyclift00mattgoog=christiy | iohanniswycliftr00wycluoft=christi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=chnsti | tractatusdeeccle00wycl=lbristi		6	accept
+172	R4a	latinworks10wycl=scriptura | iohanniswyclift00mattgoog=scriptura | iohanniswycliftr00wycluoft=scnptura | iohanniswycliftr04wycl=scnptura | tractatusdeeccl00wycl=scnptura | tractatusdeeccle00wycl=senptura		6	accept
+176	R5a	latinworks10wycl=petrus | iohanniswyclift00mattgoog=petrus | iohanniswycliftr00wycluoft=petrus | iohanniswycliftr04wycl=petrus | tractatusdeeccl00wycl=petrus | tractatusdeeccle00wycl=petrus		6	accept
+209	R2	latinworks10wycl=sed | iohanniswyclift00mattgoog=std | iohanniswycliftr00wycluoft=sed | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=sed | tractatusdeeccle00wycl=sed		6	accept
+213	EDGE	latinworks10wycl=copulatus		1	accept

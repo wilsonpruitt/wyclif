@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+30	R3b	latinworks10wycl=genens | iohanniswyclift00mattgoog=generis | iohanniswycliftr00wycluoft=generis | iohanniswycliftr04wycl=generis | tractatusdeeccl00wycl=genens | tractatusdeeccle00wycl=generis		6	accept
+31	R2	latinworks10wycl=mmisteni | iohanniswyclift00mattgoog=ministerii | iohanniswycliftr00wycluoft=muiistern | iohanniswycliftr04wycl=ministerii | tractatusdeeccl00wycl=ministern | tractatusdeeccle00wycl=ministerii		6	accept
+64	R6a	latinworks10wycl=of | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=of | iohanniswycliftr04wycl=of | tractatusdeeccl00wycl=of | tractatusdeeccle00wycl=of		6	accept
+75	R2	latinworks10wycl=sigmficacione | iohanniswyclift00mattgoog=significacione | iohanniswycliftr00wycluoft=significacione | iohanniswycliftr04wycl=sienificacione | tractatusdeeccl00wycl=sienificacione | tractatusdeeccle00wycl=significacione		6	accept
+106	PLATE	latinworks10wycl=ia | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=p | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=ia | tractatusdeeccle00wycl=ia		6	accept
+107	R2	latinworks10wycl=cor | iohanniswyclift00mattgoog=cor | iohanniswycliftr00wycluoft=cor | iohanniswycliftr04wycl=gor | tractatusdeeccl00wycl=cor | tractatusdeeccle00wycl=cor		6	accept
+109	R3a	latinworks10wycl=4 | iohanniswyclift00mattgoog=47 | iohanniswycliftr00wycluoft=4 | iohanniswycliftr04wycl=4 | tractatusdeeccl00wycl=4 | tractatusdeeccle00wycl=4		6	accept
+110	R2	latinworks10wycl=7 | iohanniswyclift00mattgoog=diin | iohanniswycliftr00wycluoft=7 | iohanniswycliftr04wycl=7 | tractatusdeeccl00wycl=7 | tractatusdeeccle00wycl=7		6	accept
+111	R2	latinworks10wycl=diuisioncs | iohanniswyclift00mattgoog=sioncs | iohanniswycliftr00wycluoft=diuisiones | iohanniswycliftr04wycl=dipisioies | tractatusdeeccl00wycl=diuisiones | tractatusdeeccle00wycl=diuisiones		6	accept
+125	R2	latinworks10wycl=diuisiones | iohanniswyclift00mattgoog=ditnsioncs | iohanniswycliftr00wycluoft=diuisiones | iohanniswycliftr04wycl=diuisiones | tractatusdeeccl00wycl=diuisiones | tractatusdeeccle00wycl=diuisiones		6	accept
+130	R2	latinworks10wycl=deus | iohanniswyclift00mattgoog=dcuso | iohanniswycliftr00wycluoft=deus | iohanniswycliftr04wycl=deus | tractatusdeeccl00wycl=deus | tractatusdeeccle00wycl=deus		6	accept
+147	R2	latinworks10wycl=ecclesie | iohanniswyclift00mattgoog=ccclcsic | iohanniswycliftr00wycluoft=ecclesie | iohanniswycliftr04wycl=ecclesie | tractatusdeeccl00wycl=ecclesie | tractatusdeeccle00wycl=ecclesie		6	accept
+218	EDGE	latinworks10wycl=predestinata		1	accept

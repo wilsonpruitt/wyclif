@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=allegans		1	accept
+1	EDGE	latinworks10wycl=apostolum		1	accept
+2	PLATE	latinworks10wycl=roraanorum		1	accept
+3	PLATE	latinworks10wycl=xia | tractatusdeeccle00wycl=xia		2	accept
+18	R2	latinworks10wycl=sunt | iohanniswyclift00mattgoog=sunt | iohanniswycliftr00wycluoft=sunt | iohanniswycliftr04wycl=sutit | tractatusdeeccl00wycl=sunt | tractatusdeeccle00wycl=sunt		6	accept
+31	R2	latinworks10wycl=promissionis | iohanniswyclift00mattgoog=prth | iohanniswycliftr00wycluoft=proynissionis | iohanniswycliftr04wycl=promissionis | tractatusdeeccl00wycl=promissionis | tractatusdeeccle00wycl=promissionis		6	accept
+50	R2	latinworks10wycl=membra | iohanniswyclift00mattgoog=membni | iohanniswycliftr00wycluoft=membra | iohanniswycliftr04wycl=membra | tractatusdeeccl00wycl=membra | tractatusdeeccle00wycl=membra		6	accept
+62	R5a	latinworks10wycl=abrahe | iohanniswyclift00mattgoog=abrahe | iohanniswycliftr00wycluoft=ahrahe | iohanniswycliftr04wycl=abrahe | tractatusdeeccl00wycl=abrahe | tractatusdeeccle00wycl=abrahe		6	accept
+64	R3a	latinworks10wycl=ueri | iohanniswyclift00mattgoog=ueri | iohanniswycliftr00wycluoft=ueri | iohanniswycliftr04wycl=ueri | tractatusdeeccl00wycl=ueri | tractatusdeeccle00wycl=peri		6	accept
+84	R5a	latinworks10wycl=abrahe | iohanniswyclift00mattgoog=abrahe | iohanniswycliftr00wycluoft=abrahe | iohanniswycliftr04wycl=abrahe | tractatusdeeccl00wycl=abrahe | tractatusdeeccle00wycl=abrahe		6	accept
+97	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=oon | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+108	R2	latinworks10wycl=ita | iohanniswyclift00mattgoog=tsila | iohanniswycliftr00wycluoft=ita | iohanniswycliftr04wycl=ita | tractatusdeeccl00wycl=ita | tractatusdeeccle00wycl=ita		6	accept
+112	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=chnstus | iohanniswycliftr00wycluoft=christus | iohanniswycliftr04wycl=ghristus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=christus		6	accept
+119	R2	latinworks10wycl=fuit | iohanniswyclift00mattgoog=fiiit | iohanniswycliftr00wycluoft=fuit | iohanniswycliftr04wycl=fuit | tractatusdeeccl00wycl=fuit | tractatusdeeccle00wycl=fuit		6	accept
+129	R2	latinworks10wycl=mortis | iohanniswyclift00mattgoog=morrii | iohanniswycliftr00wycluoft=mortis | iohanniswycliftr04wycl=mortis | tractatusdeeccl00wycl=mortis | tractatusdeeccle00wycl=mortis		6	accept
+159	PLATE	latinworks10wycl=2multitudo | iohanniswyclift00mattgoog=2multitudo | iohanniswycliftr00wycluoft=multitudo | iohanniswycliftr04wycl=multitudo | tractatusdeeccl00wycl=2multitudo | tractatusdeeccle00wycl=multitudo		6	accept
+172	R2	latinworks10wycl=ecclesia | iohanniswyclift00mattgoog=eccleu | iohanniswycliftr00wycluoft=ecclesia | iohanniswycliftr04wycl=ecclesia | tractatusdeeccl00wycl=ecclesia | tractatusdeeccle00wycl=ecclesia		6	accept
+189	R2	latinworks10wycl=mortem | iohanniswyclift00mattgoog=monem | iohanniswycliftr00wycluoft=mortem | iohanniswycliftr04wycl=mortem | tractatusdeeccl00wycl=mortem | tractatusdeeccle00wycl=mortem		6	accept
+191	R5a	latinworks10wycl=k | iohanniswyclift00mattgoog=k | iohanniswycliftr00wycluoft=k | iohanniswycliftr04wycl=k | tractatusdeeccl00wycl=k | tractatusdeeccle00wycl=k		6	accept
+200	R3a	latinworks10wycl=arguamus | iohanniswyclift00mattgoog=arguamus | iohanniswycliftr00wycluoft=arguamus | iohanniswycliftr04wycl=arguamus | tractatusdeeccl00wycl=arcuamus | tractatusdeeccle00wycl=arguamus		6	accept
+204	R2	latinworks10wycl=diffinitum | iohanniswyclift00mattgoog=dirtinitum | iohanniswycliftr00wycluoft=diffimtum | iohanniswycliftr04wycl=difnnitum | tractatusdeeccl00wycl=ditfinitum | tractatusdeeccle00wycl=difnnitum		6	accept
+213	R3a	latinworks10wycl=habencium | iohanniswyclift00mattgoog=habencium | iohanniswycliftr00wycluoft=habencium | iohanniswycliftr04wycl=habencium | tractatusdeeccl00wycl=habencium | tractatusdeeccle00wycl=habendum		6	accept
+252	R3a	latinworks10wycl=habencium | iohanniswyclift00mattgoog=habencium | iohanniswycliftr00wycluoft=habencium | iohanniswycliftr04wycl=habencium | tractatusdeeccl00wycl=habencium | tractatusdeeccle00wycl=habendum		6	accept

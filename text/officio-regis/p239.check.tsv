@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+21	R5a	latinworks18wycl=anticristi | bwb_T5-ARL-070=anticristi | fordham=anticristi | iohanniswyclift02wyclgoog=anticristi | iohanniswycliftr08wycl=anticristi | tractatusdeoffi00saylgoog=anticristi | tractatusdeoffic00wycl=anticristi		7	accept
+27	R2	latinworks18wycl=punctum | bwb_T5-ARL-070=punctum | fordham=punctum | iohanniswyclift02wyclgoog=punctum | iohanniswycliftr08wycl=punctum | tractatusdeoffi00saylgoog=pimctum | tractatusdeoffic00wycl=punctum		7	accept
+32	R2	latinworks18wycl=quod | bwb_T5-ARL-070=∅ | fordham=quod | iohanniswyclift02wyclgoog=quod | iohanniswycliftr08wycl=quod | tractatusdeoffi00saylgoog=quodagaraiam | tractatusdeoffic00wycl=quod		7	accept
+45	R5a	latinworks18wycl=multiplicius | bwb_T5-ARL-070=multiplicius | fordham=multiplicius | iohanniswyclift02wyclgoog=multiplicius | iohanniswycliftr08wycl=multiplicius | tractatusdeoffi00saylgoog=multiplicius | tractatusdeoffic00wycl=multiplicius		7	accept
+50	R5a	latinworks18wycl=dogmatisantes | bwb_T5-ARL-070=dogmatisantes | fordham=dogmatisantes | iohanniswyclift02wyclgoog=dogmatisantes | iohanniswycliftr08wycl=dogmatisantes | tractatusdeoffi00saylgoog=dogmatisantes | tractatusdeoffic00wycl=dogmatisantes		7	accept
+90	R5a	latinworks18wycl=dogmatisant | bwb_T5-ARL-070=dogmatisant | fordham=dogmatisant | iohanniswyclift02wyclgoog=dogmatisant | iohanniswycliftr08wycl=dogmatisant | tractatusdeoffi00saylgoog=dogmatisant | tractatusdeoffic00wycl=dogtnatisant		7	accept
+116	INS	in	5	7	accept
+151	R2	latinworks18wycl=iudex | bwb_T5-ARL-070=zudex | fordham=iudex | iohanniswyclift02wyclgoog=iudex | iohanniswycliftr08wycl=wdex | tractatusdeoffi00saylgoog=iudex | tractatusdeoffic00wycl=iudex		7	accept
+152	R2	latinworks18wycl=iustus | bwb_T5-ARL-070=iustus | fordham=iustus | iohanniswyclift02wyclgoog=iustus | iohanniswycliftr08wycl=iusiiis | tractatusdeoffi00saylgoog=tustus | tractatusdeoffic00wycl=iustus		7	accept
+153	R3a	latinworks18wycl=fortis | bwb_T5-ARL-070=fortis | fordham=fortis | iohanniswyclift02wyclgoog=fortis | iohanniswycliftr08wycl=foriis | tractatusdeoffi00saylgoog=fortis | tractatusdeoffic00wycl=fortis		7	accept
+154	R3a	latinworks18wycl=et | bwb_T5-ARL-070=ef | fordham=et | iohanniswyclift02wyclgoog=et | iohanniswycliftr08wycl=ei | tractatusdeoffi00saylgoog=et | tractatusdeoffic00wycl=et		7	accept
+167	R2	latinworks18wycl=omnem | bwb_T5-ARL-070=omnem | fordham=omnem | iohanniswyclift02wyclgoog=omnem | iohanniswycliftr08wycl=omnerh | tractatusdeoffi00saylgoog=omnem | tractatusdeoffic00wycl=omnem		7	accept
+180	R5a	latinworks18wycl=ios | bwb_T5-ARL-070=ios | fordham=ios | iohanniswyclift02wyclgoog=ios | iohanniswycliftr08wycl=los | tractatusdeoffi00saylgoog=los | tractatusdeoffic00wycl=los		7	accept
+181	R5a	latinworks18wycl=x | bwb_T5-ARL-070=x | fordham=x | iohanniswyclift02wyclgoog=x | iohanniswycliftr08wycl=x | tractatusdeoffi00saylgoog=x | tractatusdeoffic00wycl=x		7	accept
+198	DEL	latinworks18wycl=3 | bwb_T5-ARL-070=∅ | fordham=∅ | iohanniswyclift02wyclgoog=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		7	accept
+231	R2	latinworks18wycl=consequens | bwb_T5-ARL-070=consequens | fordham=consequens | iohanniswyclift02wyclgoog=consechristaisoand | iohanniswycliftr08wycl=consequens | tractatusdeoffi00saylgoog=consechnstaisoand | tractatusdeoffic00wycl=consechristaisoand		7	accept
+232	INS?	quens	3	7	plate
+259	R5a	latinworks18wycl=specificatur | bwb_T5-ARL-070=specificatur | fordham=specificatur | iohanniswyclift02wyclgoog=specificatur | iohanniswycliftr08wycl=specificatur | tractatusdeoffi00saylgoog=specificatur | tractatusdeoffic00wycl=specificatur		7	accept
+263	R3a	latinworks18wycl=alia | bwb_T5-ARL-070=alia | fordham=alia | iohanniswyclift02wyclgoog=alia | iohanniswycliftr08wycl=aha | tractatusdeoffi00saylgoog=alia | tractatusdeoffic00wycl=alia		7	accept
+272	R3a	latinworks18wycl=alia | bwb_T5-ARL-070=alia | fordham=alia | iohanniswyclift02wyclgoog=alia | iohanniswycliftr08wycl=aha | tractatusdeoffi00saylgoog=alia | tractatusdeoffic00wycl=alia		7	accept

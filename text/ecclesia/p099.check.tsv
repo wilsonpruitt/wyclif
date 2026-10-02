@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=dicitur | iohanniswyclift00mattgoog=dicitur		2	accept
+1	PLATE	latinworks10wycl=sccundo | iohanniswyclift00mattgoog=sccundo		2	accept
+7	R2	latinworks10wycl=ecclesia | iohanniswyclift00mattgoog=ia3ecdesia | tractatusdeeccl00wycl=ecclesia | tractatusdeeccle00wycl=ecclesia		4	accept
+11	R2	latinworks10wycl=luminis | iohanniswyclift00mattgoog=luminis | iohanniswycliftr00wycluoft=luminis | iohanniswycliftr04wycl=luminis | tractatusdeeccl00wycl=liimiins | tractatusdeeccle00wycl=luminis		6	accept
+13	PLATE	latinworks10wycl=frequenteris | iohanniswyclift00mattgoog=frequenteru | iohanniswycliftr00wycluoft=frequenteris | iohanniswycliftr04wycl=frequenteris | tractatusdeeccl00wycl=frequenteria | tractatusdeeccle00wycl=frequenter		6	accept
+16	PLATE	latinworks10wycl=christi | iohanniswyclift00mattgoog=chnsti | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=ghristi | tractatusdeeccl00wycl=lnristi | tractatusdeeccle00wycl=chnsti		6	accept
+18	R4a	latinworks10wycl=continuam | iohanniswyclift00mattgoog=contmuam | iohanniswycliftr00wycluoft=contmuam | iohanniswycliftr04wycl=contmuam | tractatusdeeccl00wycl=contmuam | tractatusdeeccle00wycl=continuam		6	accept
+26	R2	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=christi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=iinsti | tractatusdeeccle00wycl=christi		6	accept
+30	PLATE	latinworks10wycl=uacuitates | iohanniswyclift00mattgoog=suacuitates | iohanniswycliftr00wycluoft=uacuitates | iohanniswycliftr04wycl=suacuitates | tractatusdeeccl00wycl=uacuitates | tractatusdeeccle00wycl=suacuitates		6	accept
+41	R2	latinworks10wycl=populum | iohanniswyclift00mattgoog=populum | iohanniswycliftr00wycluoft=popuhim | iohanniswycliftr04wycl=popuhim | tractatusdeeccl00wycl=populum | tractatusdeeccle00wycl=populum		6	accept
+54	R3a	latinworks10wycl=area | iohanniswyclift00mattgoog=area | iohanniswycliftr00wycluoft=area | iohanniswycliftr04wycl=area | tractatusdeeccl00wycl=arca | tractatusdeeccle00wycl=area		6	accept
+58	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cuni | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+119	PLATE	latinworks10wycl=uii | iohanniswyclift00mattgoog=uii | tractatusdeeccle00wycl=∅		3	accept
+122	R3a	latinworks10wycl=tanta | iohanniswyclift00mattgoog=ianta | iohanniswycliftr00wycluoft=tanta | iohanniswycliftr04wycl=tauta | tractatusdeeccl00wycl=tanta | tractatusdeeccle00wycl=tanta		6	accept
+129	R2	latinworks10wycl=snoriim | iohanniswyclift00mattgoog=suorum | iohanniswycliftr00wycluoft=siiorum | iohanniswycliftr04wycl=suorum | tractatusdeeccl00wycl=suorum | tractatusdeeccle00wycl=suorum		6	accept
+136	R3a	latinworks10wycl=uehit | iohanniswyclift00mattgoog=uelut | iohanniswycliftr00wycluoft=uelut | iohanniswycliftr04wycl=uelut | tractatusdeeccl00wycl=uelut | tractatusdeeccle00wycl=uelut		6	accept

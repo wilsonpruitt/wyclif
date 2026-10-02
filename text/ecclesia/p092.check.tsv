@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+8	PLATE	latinworks10wycl=graciair | tractatusdeeccle00wycl=graciai4tar		2	accept
+9	PLATE	latinworks10wycl=suiipsius | tractatusdeeccle00wycl=suiipsius		2	accept
+28	R2	latinworks10wycl=amare | iohanniswyclift00mattgoog=amare | iohanniswycliftr00wycluoft=araare | iohanniswycliftr04wycl=amare | tractatusdeeccl00wycl=amare | tractatusdeeccle00wycl=amare		6	accept
+34	R3a	latinworks10wycl=inde | iohanniswyclift00mattgoog=unde | iohanniswycliftr00wycluoft=unde | iohanniswycliftr04wycl=unde | tractatusdeeccl00wycl=unde | tractatusdeeccle00wycl=unde		6	accept
+35	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=christus | iohanniswycliftr04wycl=christus | tractatusdeeccl00wycl=ghristus | tractatusdeeccle00wycl=christus		6	accept
+40	HEAD	CAP. V.			plate: CAP. V.
+50	R3a	latinworks10wycl=comrnunitas | iohanniswyclift00mattgoog=com | iohanniswycliftr00wycluoft=communitas | iohanniswycliftr04wycl=communitas | tractatusdeeccl00wycl=communitas | tractatusdeeccle00wycl=communitas		6	accept
+64	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=ht | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+88	R2	latinworks10wycl=stilum | iohanniswyclift00mattgoog=sdlum | iohanniswycliftr00wycluoft=stilum | iohanniswycliftr04wycl=stilum | tractatusdeeccl00wycl=stilum | tractatusdeeccle00wycl=stilum		6	accept
+107	R3a	latinworks10wycl=audiret | iohanniswyclift00mattgoog=adiret | iohanniswycliftr00wycluoft=audiret | iohanniswycliftr04wycl=audiret | tractatusdeeccl00wycl=audiret | tractatusdeeccle00wycl=auciiret		6	accept
+115	R2	latinworks10wycl=sacre | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=sacre | tractatusdeeccle00wycl=sacre		6	accept
+117	R2	latinworks10wycl=quare | iohanniswyclift00mattgoog=quare | iohanniswycliftr00wycluoft=quare | iohanniswycliftr04wycl=quare | tractatusdeeccl00wycl=quare | tractatusdeeccle00wycl=∅		6	accept
+118	R2	latinworks10wycl=ergo | iohanniswyclift00mattgoog=ergo | iohanniswycliftr00wycluoft=ergo | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=ergo | tractatusdeeccle00wycl=∅		6	accept
+119	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=∅		6	accept
+126	R2	latinworks10wycl=fidelium | iohanniswyclift00mattgoog=fidelium | iohanniswycliftr00wycluoft=fidelium | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=fidelium | tractatusdeeccle00wycl=fidelium		6	accept
+128	R2	latinworks10wycl=hic | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=hic | tractatusdeeccle00wycl=hie		6	accept
+136	R2	latinworks10wycl=equiuocis | iohanniswyclift00mattgoog=equiyqii | iohanniswycliftr00wycluoft=equiuocis | iohanniswycliftr04wycl=equioii | tractatusdeeccl00wycl=equiuocis | tractatusdeeccle00wycl=equiyocs		6	accept
+180	EDGE	latinworks10wycl=desceni4iadunt | tractatusdeeccle00wycl=desceni4iadunt		2	accept

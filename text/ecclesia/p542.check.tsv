@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=debcnt		1	accept
+20	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=i | tractatusdeeccl00wycl=wrongcum		4	accept
+21	R3a	latinworks10wycl=taus | iohanniswyclift00mattgoog=talis | iohanniswycliftr00wycluoft=talis | tractatusdeeccl00wycl=alis		4	accept
+134	PLATE	latinworks10wycl=gregoriusa | iohanniswyclift00mattgoog=gregoriusa | iohanniswycliftr00wycluoft=gregorius | iohanniswycliftr04wycl=gregoriusa | tractatusdeeccl00wycl=gregorius | tractatusdeeccle00wycl=gregorius		6	accept
+151	R2	latinworks10wycl=nec | iohanniswyclift00mattgoog=nec | iohanniswycliftr00wycluoft=islec | iohanniswycliftr04wycl=nec | tractatusdeeccl00wycl=nec | tractatusdeeccle00wycl=nee		6	accept
+170	R2	latinworks10wycl=remuneracio | iohanniswyclift00mattgoog=reab | iohanniswycliftr00wycluoft=remuneracio | iohanniswycliftr04wycl=remuneracio | tractatusdeeccl00wycl=remuneracio | tractatusdeeccle00wycl=remuneracio		6	accept
+191	R2	latinworks10wycl=persoluatur | iohanniswyclift00mattgoog=persoluatur | iohanniswycliftr00wycluoft=peromucbsoluatur | iohanniswycliftr04wycl=permuchsohatur | tractatusdeeccl00wycl=persoluatur | tractatusdeeccle00wycl=persoluatur		6	accept
+205	R2	latinworks10wycl=de | iohanniswyclift00mattgoog=deso | iohanniswycliftr00wycluoft=deso | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=de | tractatusdeeccle00wycl=de		6	accept

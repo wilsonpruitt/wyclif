@@ -1,0 +1,26 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=et | tractatusdeeccle00wycl=et		2	accept
+1	EDGE	latinworks10wycl=aliqua | tractatusdeeccle00wycl=aliqua		2	accept
+2	INS?	est gracia predestinacionis etaliqua	2	6	plate: ∅
+25	R2	latinworks10wycl=multis | iohanniswyclift00mattgoog=mulds | iohanniswycliftr00wycluoft=multis | iohanniswycliftr04wycl=multis | tractatusdeeccl00wycl=multis | tractatusdeeccle00wycl=multis		6	accept
+28	PLATE	latinworks10wycl=pretersignificacionem | iohanniswyclift00mattgoog=preter | iohanniswycliftr00wycluoft=pretersignificacionem | iohanniswycliftr04wycl=pretersignificacionem | tractatusdeeccl00wycl=pretersignificacionem | tractatusdeeccle00wycl=pretersignificacionem		6	accept
+34	R2	latinworks10wycl=declarans | iohanniswyclift00mattgoog=dedarsns | iohanniswycliftr00wycluoft=declarans | iohanniswycliftr04wycl=declarans | tractatusdeeccl00wycl=declarans | tractatusdeeccle00wycl=declarans		6	accept
+57	R3a	latinworks10wycl=ille | iohanniswyclift00mattgoog=ine | iohanniswycliftr00wycluoft=ille | iohanniswycliftr04wycl=ille | tractatusdeeccl00wycl=ille | tractatusdeeccle00wycl=ille		6	accept
+66	R2	latinworks10wycl=graciam | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=graciam | iohanniswycliftr04wycl=graciam | tractatusdeeccl00wycl=graciam | tractatusdeeccle00wycl=graciam		6	accept
+69	R2	latinworks10wycl=iusticiam | iohanniswyclift00mattgoog=iusddam | iohanniswycliftr00wycluoft=iusticiam | iohanniswycliftr04wycl=iusticiam | tractatusdeeccl00wycl=iusticiam | tractatusdeeccle00wycl=iusticiam		6	accept
+85	R3a	latinworks10wycl=si | iohanniswyclift00mattgoog=ri | iohanniswycliftr00wycluoft=si | iohanniswycliftr04wycl=si | tractatusdeeccl00wycl=si | tractatusdeeccle00wycl=si		6	accept
+92	R2	latinworks10wycl=gracia | iohanniswyclift00mattgoog=m | iohanniswycliftr00wycluoft=gracia | iohanniswycliftr04wycl=sracia | tractatusdeeccl00wycl=gracia | tractatusdeeccle00wycl=gracia		6	accept
+95	R2	latinworks10wycl=iusticiam | iohanniswyclift00mattgoog=iusddam | iohanniswycliftr00wycluoft=iusticiam | iohanniswycliftr04wycl=lusticiam | tractatusdeeccl00wycl=lusticiam | tractatusdeeccle00wycl=iusticiam		6	accept
+98	R5a	latinworks10wycl=aput | iohanniswyclift00mattgoog=aput | iohanniswycliftr00wycluoft=aput | iohanniswycliftr04wycl=aput | tractatusdeeccl00wycl=aput | tractatusdeeccle00wycl=aput		6	accept
+109	R2	latinworks10wycl=dignus | iohanniswyclift00mattgoog=dignus | iohanniswycliftr00wycluoft=dignus | iohanniswycliftr04wycl=dignus | tractatusdeeccl00wycl=dismus | tractatusdeeccle00wycl=dignus		6	accept
+122	R2	latinworks10wycl=sic | iohanniswyclift00mattgoog=ric | iohanniswycliftr00wycluoft=sic | iohanniswycliftr04wycl=sic | tractatusdeeccl00wycl=sic | tractatusdeeccle00wycl=sic		6	accept
+133	R2	latinworks10wycl=miticiam | iohanniswyclift00mattgoog=middam | iohanniswycliftr00wycluoft=miticiam | iohanniswycliftr04wycl=miticiam | tractatusdeeccl00wycl=miticiam | tractatusdeeccle00wycl=miticiam		6	accept
+136	R2	latinworks10wycl=omnes | iohanniswyclift00mattgoog=oranes | iohanniswycliftr00wycluoft=omnes | iohanniswycliftr04wycl=omnes | tractatusdeeccl00wycl=omnes | tractatusdeeccle00wycl=omnes		6	accept
+138	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=etso | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+175	R3a	latinworks10wycl=sic | iohanniswyclift00mattgoog=sicas | iohanniswycliftr00wycluoft=sic | iohanniswycliftr04wycl=sic | tractatusdeeccl00wycl=sic | tractatusdeeccle00wycl=sic		6	accept
+176	R3a	latinworks10wycl=presciti | iohanniswyclift00mattgoog=prescidy | iohanniswycliftr00wycluoft=presciti | iohanniswycliftr04wycl=presciti | tractatusdeeccl00wycl=presciti | tractatusdeeccle00wycl=presciti		6	accept
+190	R2	latinworks10wycl=secundum | iohanniswyclift00mattgoog=secundum | iohanniswycliftr04wycl=secunii | tractatusdeeccl00wycl=secundum | tractatusdeeccle00wycl=secundum		5	accept
+191	R3a	latinworks10wycl=quid | iohanniswyclift00mattgoog=quid | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=quid | tractatusdeeccle00wycl=quid		5	accept
+192	R3a	latinworks10wycl=dum | iohanniswyclift00mattgoog=dum | iohanniswycliftr04wycl=li | tractatusdeeccl00wycl=dum | tractatusdeeccle00wycl=dum		5	accept
+193	R2	latinworks10wycl=sunt | iohanniswyclift00mattgoog=sunt | iohanniswycliftr04wycl=giii | tractatusdeeccl00wycl=sunt | tractatusdeeccle00wycl=sunt		5	accept
+194	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		5	accept

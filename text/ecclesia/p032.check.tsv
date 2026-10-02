@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=item | iohanniswycliftr00wycluoft=item		2	accept
+1	EDGE	latinworks10wycl=iuxta | iohanniswycliftr00wycluoft=iuxta		2	accept
+2	PLATE	latinworks10wycl=scpe | iohanniswycliftr00wycluoft=scpe		2	accept
+24	PLATE	latinworks10wycl=assit | iohanniswyclift00mattgoog=assit | iohanniswycliftr00wycluoft=assit | iohanniswycliftr04wycl=assit | tractatusdeeccl00wycl=assit | tractatusdeeccle00wycl=assit		6	accept
+43	R2	latinworks10wycl=predestinatus | iohanniswyclift00mattgoog=predesti3 | iohanniswycliftr00wycluoft=predestinatus | iohanniswycliftr04wycl=predestinatus | tractatusdeeccl00wycl=predestinatus | tractatusdeeccle00wycl=predestinatus		6	accept
+59	R2	latinworks10wycl=capiti | iohanniswyclift00mattgoog=capid | iohanniswycliftr00wycluoft=capiti | iohanniswycliftr04wycl=capiti | tractatusdeeccl00wycl=capiti | tractatusdeeccle00wycl=capiti		6	accept
+80	R3a	latinworks10wycl=aliquem | iohanniswyclift00mattgoog=aliquem | iohanniswycliftr00wycluoft=ahquem | iohanniswycliftr04wycl=ahquem | tractatusdeeccl00wycl=aliquem | tractatusdeeccle00wycl=ali		6	accept
+120	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+135	R3a	latinworks10wycl=is | iohanniswyclift00mattgoog=it | iohanniswycliftr00wycluoft=is | iohanniswycliftr04wycl=is | tractatusdeeccl00wycl=is | tractatusdeeccle00wycl=is		6	accept
+168	R2	latinworks10wycl=suffecit | iohanniswyclift00mattgoog=suftedt | iohanniswycliftr00wycluoft=suffecit | iohanniswycliftr04wycl=suffecit | tractatusdeeccl00wycl=suffecit | tractatusdeeccle00wycl=suffecit		6	accept
+171	PLATE	latinworks10wycl=creiere | iohanniswyclift00mattgoog=crei | iohanniswycliftr04wycl=credere | tractatusdeeccl00wycl=creiere		4	accept
+172	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=i | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in		4	accept
+173	PLATE	latinworks10wycl=iominum | iohanniswyclift00mattgoog=dominum | iohanniswycliftr04wycl=dominum | tractatusdeeccl00wycl=iominum		4	accept
+174	R5a	latinworks10wycl=iesum | iohanniswyclift00mattgoog=iesum | iohanniswycliftr00wycluoft=iesum | iohanniswycliftr04wycl=iesum | tractatusdeeccl00wycl=iesum | tractatusdeeccle00wycl=iesum		6	accept
+175	R2	latinworks10wycl=christum | iohanniswyclift00mattgoog=christum | iohanniswycliftr00wycluoft=ghristum | iohanniswycliftr04wycl=ghristum | tractatusdeeccl00wycl=gbristum | tractatusdeeccle00wycl=christum		6	accept
+182	R5a	latinworks10wycl=iesu | iohanniswyclift00mattgoog=iesu | iohanniswycliftr00wycluoft=iesu | iohanniswycliftr04wycl=iesu | tractatusdeeccl00wycl=iesu | tractatusdeeccle00wycl=iesu		6	accept
+220	R3a	latinworks10wycl=subditi | iohanniswyclift00mattgoog=subdid | iohanniswycliftr00wycluoft=subditi | iohanniswycliftr04wycl=subditi | tractatusdeeccl00wycl=subditi | tractatusdeeccle00wycl=subditi		6	accept
+229	R2	latinworks10wycl=multis | iohanniswyclift00mattgoog=mulds | iohanniswycliftr00wycluoft=multis | iohanniswycliftr04wycl=multis | tractatusdeeccl00wycl=multis | tractatusdeeccle00wycl=multis		6	accept
+233	R2	latinworks10wycl=sancti | iohanniswyclift00mattgoog=sancd | iohanniswycliftr00wycluoft=sancti | iohanniswycliftr04wycl=sancti | tractatusdeeccl00wycl=sancti | tractatusdeeccle00wycl=sancti		6	accept
+251	R2	latinworks10wycl=clementis | iohanniswyclift00mattgoog=clemends | iohanniswycliftr00wycluoft=glementis | iohanniswycliftr04wycl=clementis | tractatusdeeccl00wycl=clementis | tractatusdeeccle00wycl=dementissequente		6	accept
+252	R2	latinworks10wycl=sequente | iohanniswyclift00mattgoog=sequente | iohanniswycliftr00wycluoft=sequente | iohanniswycliftr04wycl=sequente | tractatusdeeccl00wycl=sequente | tractatusdeeccle00wycl=∅		6	accept

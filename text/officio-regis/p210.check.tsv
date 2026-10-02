@@ -1,0 +1,65 @@
+pos	rule	forms	support	voters	resolution
+0	R3a	latinworks18wycl=suas | fordham=libri | iohanniswycliftr08wycl=suas | tractatusdeoffi00saylgoog=suas | tractatusdeoffic00wycl=suas		5	accept
+4	R2	latinworks18wycl=egenis | fordham=egenis | iohanniswycliftr08wycl=crenis | tractatusdeoffi00saylgoog=egenis | tractatusdeoffic00wycl=egenis		5	accept
+10	R3a	latinworks18wycl=270 | fordham=27 | iohanniswycliftr08wycl=27 | tractatusdeoffi00saylgoog=27 | tractatusdeoffic00wycl=27		5	accept
+22	R2	latinworks18wycl=sacerdotum | bwb_T5-ARL-070=∅ | fordham=sacerdotum | iohanniswyclift02wyclgoog=sacerdocom | iohanniswycliftr08wycl=sacerdotum | tractatusdeoffi00saylgoog=sacerdotum | tractatusdeoffic00wycl=sacerdotum		7	accept
+23	R2	latinworks18wycl=illud | bwb_T5-ARL-070=∅ | fordham=illud | iohanniswyclift02wyclgoog=lllsd | iohanniswycliftr08wycl=illud | tractatusdeoffi00saylgoog=illud | tractatusdeoffic00wycl=illud		7	accept
+24	R2	latinworks18wycl=autem | bwb_T5-ARL-070=∅ | fordham=autem | iohanniswyclift02wyclgoog=auitm | iohanniswycliftr08wycl=autem | tractatusdeoffi00saylgoog=autem | tractatusdeoffic00wycl=autem		7	accept
+31	R2	latinworks18wycl=dominium | bwb_T5-ARL-070=dominium | fordham=dominium | iohanniswyclift02wyclgoog=dommimn | iohanniswycliftr08wycl=dominium | tractatusdeoffi00saylgoog=dominium | tractatusdeoffic00wycl=dominium		7	accept
+33	R2	latinworks18wycl=ministerium | bwb_T5-ARL-070=minisnum | fordham=ministerium | iohanniswycliftr08wycl=ministerium | tractatusdeoffi00saylgoog=ministerium | tractatusdeoffic00wycl=ministerium		6	accept
+34	R2	latinworks18wycl=ut | bwb_T5-ARL-070=∅ | fordham=ut | iohanniswycliftr08wycl=ut | tractatusdeoffi00saylgoog=ut | tractatusdeoffic00wycl=ut		6	accept
+35	R2	latinworks18wycl=patet | bwb_T5-ARL-070=∅ | fordham=patet | iohanniswyclift02wyclgoog=patet | iohanniswycliftr08wycl=patet | tractatusdeoffi00saylgoog=patet | tractatusdeoffic00wycl=patet		7	accept
+36	R2	latinworks18wycl=num | bwb_T5-ARL-070=∅ | fordham=num | iohanniswycliftr08wycl=num | tractatusdeoffi00saylgoog=num | tractatusdeoffic00wycl=num		6	accept
+41	R3a	latinworks18wycl=cultum | bwb_T5-ARL-070=cultum | fordham=culturum | iohanniswyclift02wyclgoog=cultum | iohanniswycliftr08wycl=culuan | tractatusdeoffi00saylgoog=cultum | tractatusdeoffic00wycl=cultum		7	accept
+42	R2	latinworks18wycl=altaris | bwb_T5-ARL-070=altaris | fordham=altaris | iohanniswyclift02wyclgoog=altaris | iohanniswycliftr08wycl=altaris | tractatusdeoffi00saylgoog=alartsiximi | tractatusdeoffic00wycl=altaris		7	accept
+43	R2	latinworks18wycl=pertinent | bwb_T5-ARL-070=terium | fordham=pertinent | iohanniswyclift02wyclgoog=pertinent | iohanniswycliftr08wycl=pertinent | tractatusdeoffi00saylgoog=ferznen | tractatusdeoffic00wycl=pertinent		7	accept
+44	R3a	latinworks18wycl=et | bwb_T5-ARL-070=et | fordham=et | iohanniswyclift02wyclgoog=tt | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=e | tractatusdeoffic00wycl=et		7	accept
+46	R2	latinworks18wycl=uelum | bwb_T5-ARL-070=uelum | fordham=uelum | iohanniswyclift02wyclgoog=idum | iohanniswycliftr08wycl=ueluni | tractatusdeoffi00saylgoog=uelum | tractatusdeoffic00wycl=ueluni		7	accept
+47	R2	latinworks18wycl=sunt | bwb_T5-ARL-070=sunt | fordham=sunt | iohanniswyclift02wyclgoog=sunt | iohanniswycliftr08wycl=siint | tractatusdeoffi00saylgoog=suny | tractatusdeoffic00wycl=sunt		7	accept
+55	R3a	latinworks18wycl=tibi | bwb_T5-ARL-070=tibi | fordham=tibi | iohanniswyclift02wyclgoog=tibi | iohanniswycliftr08wycl=tibi | tractatusdeoffi00saylgoog=ibi | tractatusdeoffic00wycl=tibi		7	accept
+58	R2	latinworks18wycl=mearum | bwb_T5-ARL-070=mearum | fordham=mearum | iohanniswyclift02wyclgoog=meantm | iohanniswycliftr08wycl=mearum | tractatusdeoffi00saylgoog=mearum | tractatusdeoffic00wycl=mearum		7	accept
+59	R2	latinworks18wycl=omnia | bwb_T5-ARL-070=omnia | fordham=omnia | iohanniswyclift02wyclgoog=omnia | iohanniswycliftr08wycl=oiiinia | tractatusdeoffi00saylgoog=omnia | tractatusdeoffic00wycl=omnia		7	accept
+60	R2	latinworks18wycl=que | bwb_T5-ARL-070=∅ | fordham=que | iohanniswyclift02wyclgoog=qut | iohanniswycliftr08wycl=que | tractatusdeoffi00saylgoog=que | tractatusdeoffic00wycl=que		7	accept
+61	R2	latinworks18wycl=saiictificantur | bwb_T5-ARL-070=∅ | fordham=sanctificantur | iohanniswyclift02wyclgoog=sanetifieantur | iohanniswycliftr08wycl=sanctificatitur | tractatusdeoffi00saylgoog=sancificanur | tractatusdeoffic00wycl=sanctificantur		7	accept
+63	R3a	latinworks18wycl=filiis | bwb_T5-ARL-070=filis | fordham=filiis | iohanniswyclift02wyclgoog=filiis | iohanniswycliftr08wycl=filiis | tractatusdeoffi00saylgoog=filiis | tractatusdeoffic00wycl=filiis		7	accept
+64	R2	latinworks18wycl=israet | bwb_T5-ARL-070=israel | fordham=israel | iohanniswyclift02wyclgoog=israti | iohanniswycliftr08wycl=israel | tractatusdeoffi00saylgoog=israel | tractatusdeoffic00wycl=israel		7	accept
+65	R3a	latinworks18wycl=tibi | bwb_T5-ARL-070=tibi | fordham=libi | iohanniswyclift02wyclgoog=hbi | iohanniswycliftr08wycl=tibi | tractatusdeoffi00saylgoog=ibi | tractatusdeoffic00wycl=tibi		7	accept
+66	R2	latinworks18wycl=tradidi | bwb_T5-ARL-070=tradidi | fordham=tradidi | iohanniswyclift02wyclgoog=iraiidi | iohanniswycliftr08wycl=tradidi | tractatusdeoffi00saylgoog=radidi | tractatusdeoffic00wycl=tradidi		7	accept
+67	R3a	latinworks18wycl=et | bwb_T5-ARL-070=et | fordham=et | iohanniswyclift02wyclgoog=tt | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=e | tractatusdeoffic00wycl=et		7	accept
+69	R3a	latinworks18wycl=tuis | bwb_T5-ARL-070=que | fordham=tuis | iohanniswyclift02wyclgoog=fuii | iohanniswycliftr08wycl=tuis | tractatusdeoffi00saylgoog=uis | tractatusdeoffic00wycl=tuis		7	accept
+72	R3a	latinworks18wycl=debuerunt | bwb_T5-ARL-070=debuerunt | fordham=debuerunt | iohanniswyclift02wyclgoog=debuerant | iohanniswycliftr08wycl=debuerunt | tractatusdeoffi00saylgoog=debuerunt | tractatusdeoffic00wycl=debuerunt		7	accept
+76	R2	latinworks18wycl=secundum | bwb_T5-ARL-070=secuntuis | fordham=secundum | iohanniswyclift02wyclgoog=secundum | iohanniswycliftr08wycl=secundum | tractatusdeoffi00saylgoog=secundum | tractatusdeoffic00wycl=secunan		7	accept
+77	R2	latinworks18wycl=aliquem | bwb_T5-ARL-070=∅ | fordham=aliquem | iohanniswyclift02wyclgoog=aliquem | iohanniswycliftr08wycl=aliquem | tractatusdeoffi00saylgoog=aliquem | tractatusdeoffic00wycl=aliquem		7	accept
+78	R2	latinworks18wycl=gradum | bwb_T5-ARL-070=∅ | fordham=gradum | iohanniswyclift02wyclgoog=gradum | iohanniswycliftr08wycl=gradum | tractatusdeoffi00saylgoog=gradum | tractatusdeoffic00wycl=gradum		7	accept
+89	R2	latinworks18wycl=talium | bwb_T5-ARL-070=∅ | fordham=talium | iohanniswyclift02wyclgoog=talinm | iohanniswycliftr08wycl=talium | tractatusdeoffi00saylgoog=talium | tractatusdeoffic00wycl=talium		7	accept
+90	R2	latinworks18wycl=et | bwb_T5-ARL-070=∅ | fordham=et | iohanniswyclift02wyclgoog=et | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=et | tractatusdeoffic00wycl=et		7	accept
+98	R3a	latinworks18wycl=et | bwb_T5-ARL-070=et | fordham=et | iohanniswyclift02wyclgoog=rt | tractatusdeoffi00saylgoog=et | tractatusdeoffic00wycl=∅		6	accept
+102	R3a	latinworks18wycl=ex | bwb_T5-ARL-070=ex | fordham=ex | iohanniswyclift02wyclgoog=ei | iohanniswycliftr08wycl=ex | tractatusdeoffi00saylgoog=ex | tractatusdeoffic00wycl=ex		7	accept
+109	R2	latinworks18wycl=secuiari | bwb_T5-ARL-070=seculari | fordham=seculari | iohanniswyclift02wyclgoog=geuiari | iohanniswycliftr08wycl=ggiii | tractatusdeoffi00saylgoog=ggiari | tractatusdeoffic00wycl=gguiii		7	accept
+127	R3a	latinworks18wycl=tales | bwb_T5-ARL-070=tales | fordham=tales | iohanniswyclift02wyclgoog=talcs | iohanniswycliftr08wycl=tales | tractatusdeoffi00saylgoog=tales | tractatusdeoffic00wycl=tales		7	accept
+131	R6a	latinworks18wycl=or | bwb_T5-ARL-070=or | fordham=∅ | iohanniswyclift02wyclgoog=∅ | iohanniswycliftr08wycl=or | tractatusdeoffic00wycl=or		6	accept
+139	R2	latinworks18wycl=quidquid | bwb_T5-ARL-070=∅ | fordham=quidquid | iohanniswyclift02wyclgoog=quidquid | iohanniswycliftr08wycl=quidquid | tractatusdeoffi00saylgoog=quidquid | tractatusdeoffic00wycl=quidquid		7	accept
+140	R4	latinworks18wycl=iudeus | bwb_T5-ARL-070=iudeus | fordham=ludeus | iohanniswyclift02wyclgoog=iudeus | iohanniswycliftr08wycl=ludeus | tractatusdeoffi00saylgoog=ludeus | tractatusdeoffic00wycl=ludeus		7	plate
+142	R5a	latinworks18wycl=cristianus | bwb_T5-ARL-070=cristianus | fordham=cristianus | iohanniswyclift02wyclgoog=cristianus | iohanniswycliftr08wycl=cristianus | tractatusdeoffi00saylgoog=cristianus | tractatusdeoffic00wycl=cristianus		7	accept
+151	R5a	latinworks18wycl=peccunia | bwb_T5-ARL-070=peccunia | fordham=peccunia | iohanniswyclift02wyclgoog=peccunia | iohanniswycliftr08wycl=peccunia | tractatusdeoffi00saylgoog=peccunia | tractatusdeoffic00wycl=peccunia		7	accept
+156	R6a	latinworks18wycl=its | bwb_T5-ARL-070=itsfayore | fordham=∅ | iohanniswyclift02wyclgoog=∅ | iohanniswycliftr08wycl=its | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=its		7	accept
+157	R2	latinworks18wycl=fauore | bwb_T5-ARL-070=∅ | fordham=fauore | iohanniswyclift02wyclgoog=fauore | iohanniswycliftr08wycl=fayqig | tractatusdeoffi00saylgoog=fauore | tractatusdeoffic00wycl=fauore		7	accept
+159	R3b	latinworks18wycl=in | bwb_T5-ARL-070=in | fordham=in | iohanniswyclift02wyclgoog=tn | iohanniswycliftr08wycl=iu | tractatusdeoffi00saylgoog=iu | tractatusdeoffic00wycl=in		7	accept
+181	R2	latinworks18wycl=quod | bwb_T5-ARL-070=∅ | fordham=quod | iohanniswyclift02wyclgoog=quod | iohanniswycliftr08wycl=quod | tractatusdeoffi00saylgoog=quod | tractatusdeoffic00wycl=quod		7	accept
+183	R2	latinworks18wycl=aliquod | bwb_T5-ARL-070=∅ | fordham=aliquod | iohanniswyclift02wyclgoog=aliquod | iohanniswycliftr08wycl=aliquod | tractatusdeoffi00saylgoog=aliquod | tractatusdeoffic00wycl=aliquod		7	accept
+194	R3a	latinworks18wycl=eius | bwb_T5-ARL-070=eius | fordham=ems | iohanniswyclift02wyclgoog=e | iohanniswycliftr08wycl=eius | tractatusdeoffi00saylgoog=eius | tractatusdeoffic00wycl=eius		7	accept
+206	R3a	latinworks18wycl=non | bwb_T5-ARL-070=non | fordham=non | iohanniswyclift02wyclgoog=non | iohanniswycliftr08wycl=non | tractatusdeoffi00saylgoog=nona | tractatusdeoffic00wycl=non		7	accept
+207	R2	latinworks18wycl=liceret | bwb_T5-ARL-070=liceret | fordham=liceret | iohanniswyclift02wyclgoog=licerci | iohanniswycliftr08wycl=liceret | tractatusdeoffi00saylgoog=liceret | tractatusdeoffic00wycl=liceret		7	accept
+210	R3a	latinworks18wycl=perfecciorem | bwb_T5-ARL-070=perfecciorem | fordham=perfecciorem | iohanniswyclift02wyclgoog=perfectiorem | iohanniswycliftr08wycl=perfecciorem | tractatusdeoffi00saylgoog=perfecciorem | tractatusdeoffic00wycl=perfecciorem		7	accept
+226	R2	latinworks18wycl=multis | bwb_T5-ARL-070=multis | fordham=multis | iohanniswyclift02wyclgoog=multis | iohanniswycliftr08wycl=muhis | tractatusdeoffi00saylgoog=multis | tractatusdeoffic00wycl=multis		7	accept
+230	R3a	latinworks18wycl=uixit | bwb_T5-ARL-070=uixi | fordham=uixit | iohanniswyclift02wyclgoog=uixit | iohanniswycliftr08wycl=uixit | tractatusdeoffi00saylgoog=uixit | tractatusdeoffic00wycl=uixit		7	accept
+233	R3a	latinworks18wycl=perfecte | bwb_T5-ARL-070=perfecte | fordham=perfecto | iohanniswyclift02wyclgoog=perfecte | iohanniswycliftr08wycl=perfecte | tractatusdeoffi00saylgoog=perfecte | tractatusdeoffic00wycl=perfecte		7	accept
+236	R2	latinworks18wycl=religiosi | bwb_T5-ARL-070=religiosi | fordham=religiosi | iohanniswyclift02wyclgoog=religiosi | iohanniswycliftr08wycl=religiosi | tractatusdeoffi00saylgoog=reuoiosi | tractatusdeoffic00wycl=religiosi		7	accept
+243	DEL	latinworks18wycl=dotation | bwb_T5-ARL-070=∅ | fordham=∅ | iohanniswyclift02wyclgoog=∅		4	accept
+250	R3a	latinworks18wycl=sit | bwb_T5-ARL-070=sit | fordham=sit | iohanniswyclift02wyclgoog=sil | iohanniswycliftr08wycl=sit | tractatusdeoffi00saylgoog=sit | tractatusdeoffic00wycl=sit		7	accept
+252	R2	latinworks18wycl=on | bwb_T5-ARL-070=on | fordham=∅ | iohanniswyclift02wyclgoog=∅ | iohanniswycliftr08wycl=on | tractatusdeoffi00saylgoog=correspondcnter | tractatusdeoffic00wycl=on		7	accept
+253	R2	latinworks18wycl=correspondenter | bwb_T5-ARL-070=correspondenter | fordham=correspondenter | iohanniswyclift02wyclgoog=correspondenter | iohanniswycliftr08wycl=correspondcnter | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=correspondcnter		7	accept
+269	R2	latinworks18wycl=in | bwb_T5-ARL-070=in | fordham=in | iohanniswyclift02wyclgoog=tn | iohanniswycliftr08wycl=in | tractatusdeoffi00saylgoog=in | tractatusdeoffic00wycl=in		7	accept
+277	INS	ritus	4	7	accept
+277	R3	latinworks18wycl=hominum | bwb_T5-ARL-070=hominum | fordham=hominum | iohanniswyclift02wyclgoog=hominum | iohanniswycliftr08wycl=hominum | tractatusdeoffi00saylgoog=ntus | tractatusdeoffic00wycl=ritus		7	plate
+278	INS?	hommum	2	7	plate

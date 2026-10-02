@@ -1,0 +1,45 @@
+pos	rule	forms	support	voters	resolution
+2	R3a	latinworks18wycl=sunt | fordham=sent | iohanniswyclift02wyclgoog=sunl | iohanniswycliftr08wycl=sunt | tractatusdeoffi00saylgoog=sunt | tractatusdeoffic00wycl=sunt		6	accept
+19	R3a	latinworks18wycl=patet | fordham=patet | iohanniswyclift02wyclgoog=palet | iohanniswycliftr08wycl=patet | tractatusdeoffi00saylgoog=patet | tractatusdeoffic00wycl=patet		6	accept
+21	R3	latinworks18wycl=18 | fordham=18 | iohanniswyclift02wyclgoog=16 | iohanniswycliftr08wycl=18 | tractatusdeoffi00saylgoog=i | tractatusdeoffic00wycl=i		6	plate
+38	R3a	latinworks18wycl=incognito | fordham=incognito | iohanniswyclift02wyclgoog=incognitos | iohanniswycliftr08wycl=incognito | tractatusdeoffi00saylgoog=incognito | tractatusdeoffic00wycl=incognito		6	accept
+41	R3a	latinworks18wycl=enim | fordham=enim | iohanniswyclift02wyclgoog=enim | iohanniswycliftr08wycl=cnim | tractatusdeoffi00saylgoog=enim | tractatusdeoffic00wycl=enim		6	accept
+67	R3a	latinworks18wycl=atque | fordham=atque | iohanniswyclift02wyclgoog=alque | iohanniswycliftr08wycl=atque | tractatusdeoffi00saylgoog=atque | tractatusdeoffic00wycl=atque		6	accept
+71	R3a	latinworks18wycl=matth | fordham=math | iohanniswyclift02wyclgoog=matth | iohanniswycliftr08wycl=imatth | tractatusdeoffi00saylgoog=matth | tractatusdeoffic00wycl=matth		6	accept
+77	R4	latinworks18wycl=conin | fordham=consilio | iohanniswycliftr08wycl=conin | tractatusdeoffi00saylgoog=conmatt		4	plate
+78	R6a	latinworks18wycl=silio | fordham=∅ | iohanniswycliftr08wycl=silio | tractatusdeoffi00saylgoog=siuo		4	accept
+79	R2	latinworks18wycl=cristi | fordham=cristi | iohanniswyclift02wyclgoog=cristi | iohanniswycliftr08wycl=crisd | tractatusdeoffi00saylgoog=cristi | tractatusdeoffic00wycl=cristi		6	accept
+81	R3a	latinworks18wycl=non | fordham=non | iohanniswyclift02wyclgoog=non | iohanniswycliftr08wycl=non | tractatusdeoffi00saylgoog=non | tractatusdeoffic00wycl=nou		6	accept
+86	R6a	latinworks18wycl=u | fordham=uo | iohanniswyclift02wyclgoog=u | iohanniswycliftr08wycl=u | tractatusdeoffi00saylgoog=u | tractatusdeoffic00wycl=u		6	accept
+95	R5a	latinworks18wycl=percuserit | fordham=percuserit | iohanniswyclift02wyclgoog=pereuserit | iohanniswycliftr08wycl=pcrcuserit | tractatusdeoffi00saylgoog=percuseritfoulsl | tractatusdeoffic00wycl=percuserit		6	accept
+96	R2	latinworks18wycl=prebe | fordham=prebe | iohanniswyclift02wyclgoog=prtbt | iohanniswycliftr08wycl=prebe | tractatusdeoffi00saylgoog=prehe | tractatusdeoffic00wycl=prele		6	accept
+98	R2	latinworks18wycl=et | fordham=et | iohanniswyclift02wyclgoog=el | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=et | tractatusdeoffic00wycl=et		6	accept
+105	R3a	latinworks18wycl=alias | fordham=alias | iohanniswyclift02wyclgoog=alias | iohanniswycliftr08wycl=ahas | tractatusdeoffi00saylgoog=alias | tractatusdeoffic00wycl=auas		6	accept
+108	R5a	latinworks18wycl=postillacione | fordham=postillacione | iohanniswyclift02wyclgoog=poslillacione | iohanniswycliftr08wycl=postillacione | tractatusdeoffi00saylgoog=postillacione | tractatusdeoffic00wycl=postiuacione		6	accept
+113	R5a	latinworks18wycl=cristianos | fordham=cristianos | iohanniswyclift02wyclgoog=cristianos | iohanniswycliftr08wycl=cristianos | tractatusdeoffi00saylgoog=cristianos | tractatusdeoffic00wycl=cristianos		6	accept
+126	DEL	latinworks18wycl=3 | fordham=∅ | iohanniswyclift02wyclgoog=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		6	accept
+138	DEL	latinworks18wycl=4 | fordham=∅ | iohanniswyclift02wyclgoog=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		6	accept
+165	R3a	latinworks18wycl=daret | fordham=claret | iohanniswyclift02wyclgoog=daret | iohanniswycliftr08wycl=daret | tractatusdeoffi00saylgoog=daret | tractatusdeoffic00wycl=daret		6	accept
+166	R6a	latinworks18wycl=palium | fordham=palium | iohanniswyclift02wyclgoog=palium | iohanniswycliftr08wycl=palium | tractatusdeoffi00saylgoog=palium | tractatusdeoffic00wycl=pauum		6	accept
+183	R3a	latinworks18wycl=apostoli | fordham=apostoli | iohanniswyclift02wyclgoog=apostoli | iohanniswycliftr08wycl=apostoh | tractatusdeoffi00saylgoog=apostoli | tractatusdeoffic00wycl=apostoli		6	accept
+196	R5a	latinworks18wycl=andrea | fordham=andrea | iohanniswyclift02wyclgoog=andrea | iohanniswycliftr08wycl=andrea | tractatusdeoffi00saylgoog=andiea | tractatusdeoffic00wycl=andrea		6	accept
+197	R3b	latinworks18wycl=et | fordham=et | iohanniswyclift02wyclgoog=et | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=ct | tractatusdeoffic00wycl=ct		6	accept
+204	R3	latinworks18wycl=forturte | fordham=fortune | iohanniswyclift02wyclgoog=fortuite | iohanniswycliftr08wycl=fortune | tractatusdeoffi00saylgoog=fortuue | tractatusdeoffic00wycl=forturtc		6	plate
+205	R3b	latinworks18wycl=et | fordham=et | iohanniswyclift02wyclgoog=et | iohanniswycliftr08wycl=et | tractatusdeoffi00saylgoog=ct | tractatusdeoffic00wycl=ct		6	accept
+209	R2	latinworks18wycl=dominii | fordham=dominii | iohanniswyclift02wyclgoog=dominii | iohanniswycliftr08wycl=dominii | tractatusdeoffi00saylgoog=dommu | tractatusdeoffic00wycl=dominii		6	accept
+215	R5a	latinworks18wycl=gwerrare | fordham=gwerrare | iohanniswyclift02wyclgoog=gwerrare | iohanniswycliftr08wycl=gwerrare | tractatusdeoffi00saylgoog=gwerrare | tractatusdeoffic00wycl=gwerrare		6	accept
+216	R2	latinworks18wycl=mala | fordham=mala | iohanniswyclift02wyclgoog=mala | iohanniswycliftr08wycl=iuiala | tractatusdeoffi00saylgoog=mala | tractatusdeoffic00wycl=mala		6	accept
+221	R2	latinworks18wycl=talem | fordham=talem | iohanniswyclift02wyclgoog=lakm | iohanniswycliftr08wycl=talem | tractatusdeoffi00saylgoog=talem | tractatusdeoffic00wycl=talem		6	accept
+227	R2	latinworks18wycl=llludluce | fordham=illud | iohanniswyclift02wyclgoog=illud | iohanniswycliftr08wycl=illud | tractatusdeoffi00saylgoog=illudluce		5	accept
+228	INS?	luce	2	6	plate
+228	R3a	latinworks18wycl=14 | fordham=14 | iohanniswyclift02wyclgoog=luce | iohanniswycliftr08wycl=14 | tractatusdeoffi00saylgoog=14 | tractatusdeoffic00wycl=14		6	accept
+231	THIN	latinworks18wycl=uemll | fordham=uenit		2	plate
+232	THIN	latinworks18wycl=ad | fordham=ad		2	plate
+233	THIN	latinworks18wycl=me | fordham=me		2	plate
+236	R5a	latinworks18wycl=oditpatrem | fordham=oditpatrem | iohanniswyclift02wyclgoog=oditpatrem | iohanniswycliftr08wycl=oditpatrem | tractatusdeoffi00saylgoog=oditpatrem | tractatusdeoffic00wycl=oditpatrem		6	accept
+237	R2	latinworks18wycl=suum | fordham=suum | iohanniswyclift02wyclgoog=suum | iohanniswycliftr08wycl=suum | tractatusdeoffi00saylgoog=suum | tractatusdeoffic00wycl=suwn		6	accept
+240	R6a	latinworks18wycl=etuxorem | fordham=∅ | iohanniswycliftr08wycl=etuxorem | tractatusdeoffi00saylgoog=eiuxorem | tractatusdeoffic00wycl=etuxorem		5	accept
+242	R3	latinworks18wycl=iilios | fordham=uxorem | iohanniswycliftr08wycl=filios | tractatusdeoffic00wycl=iitios		4	plate
+244	R4	latinworks18wycl=fraircs | fordham=filios | iohanniswycliftr08wycl=ratres | tractatusdeoffic00wycl=ratres		4	plate
+253	R2	latinworks18wycl=potestz0 | fordham=potest | iohanniswyclift02wyclgoog=poltstia | iohanniswycliftr08wycl=potestzo | tractatusdeoffi00saylgoog=potestl | tractatusdeoffic00wycl=potestlq		6	accept
+258	R3a	latinworks18wycl=dictum | fordham=dictum | iohanniswyclift02wyclgoog=dicium | iohanniswycliftr08wycl=dictum | tractatusdeoffi00saylgoog=dictum | tractatusdeoffic00wycl=dictum		6	accept

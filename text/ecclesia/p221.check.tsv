@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=ocad		1	accept
+1	PLATE	latinworks10wycl=forraaliter | iohanniswycliftr00wycluoft=forraaliter		2	accept
+6	R2	latinworks10wycl=quamcunque | iohanniswyclift00mattgoog=quamcunque | iohanniswycliftr00wycluoft=quamcunque | iohanniswycliftr04wycl=quamcunque | tractatusdeeccl00wycl=quaracunque | tractatusdeeccle00wycl=quaracunque		6	accept
+11	R2	latinworks10wycl=ipsam | iohanniswyclift00mattgoog=ipsam | iohanniswycliftr00wycluoft=ipsam | iohanniswycliftr04wycl=ipsam | tractatusdeeccl00wycl=ipsara | tractatusdeeccle00wycl=ipsam		6	accept
+32	R2	latinworks10wycl=dat | iohanniswyclift00mattgoog=dat | iohanniswycliftr00wycluoft=dat | iohanniswycliftr04wycl=dat | tractatusdeeccl00wycl=dal | tractatusdeeccle00wycl=dat		6	accept
+76	R2	latinworks10wycl=si | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=si | tractatusdeeccl00wycl=si | tractatusdeeccle00wycl=si		6	accept
+109	R2	latinworks10wycl=modo | iohanniswyclift00mattgoog=modo | iohanniswycliftr00wycluoft=modo | iohanniswycliftr04wycl=raodo | tractatusdeeccl00wycl=modo | tractatusdeeccle00wycl=modo		6	accept
+114	R3a	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nani | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		6	accept
+143	R2	latinworks10wycl=locura | iohanniswyclift00mattgoog=locum | iohanniswycliftr00wycluoft=locum | iohanniswycliftr04wycl=locum | tractatusdeeccl00wycl=locum | tractatusdeeccle00wycl=locum		6	accept
+184	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enira | tractatusdeeccl00wycl=enim | tractatusdeeccle00wycl=enim		6	accept
+209	R3a	latinworks10wycl=5 | iohanniswyclift00mattgoog=is | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=i | tractatusdeeccle00wycl=i		6	accept
+210	R2	latinworks10wycl=si | iohanniswyclift00mattgoog=s | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=si | tractatusdeeccl00wycl=si | tractatusdeeccle00wycl=si		6	accept
+215	PLATE	latinworks10wycl=tutts | iohanniswyclift00mattgoog=tuus | iohanniswycliftr00wycluoft=titiis | iohanniswycliftr04wycl=tuiis | tractatusdeeccl00wycl=tuus | tractatusdeeccle00wycl=tuns		6	accept
+228	R2	latinworks10wycl=ymmo | iohanniswyclift00mattgoog=ymmo | iohanniswycliftr00wycluoft=ymmo | iohanniswycliftr04wycl=yramo | tractatusdeeccl00wycl=ymmo | tractatusdeeccle00wycl=ymmo		6	accept

@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+6	R3a	latinworks10wycl=ner | iohanniswycliftr04wycl=per | tractatusdeeccl00wycl=per | tractatusdeeccle00wycl=per		4	accept
+10	PLATE	latinworks10wycl=ht | iohanniswyclift00mattgoog=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=ht | tractatusdeeccl00wycl=ht | tractatusdeeccle00wycl=et		6	accept
+16	R3a	latinworks10wycl=deus | iohanniswyclift00mattgoog=deui | iohanniswycliftr00wycluoft=deus | iohanniswycliftr04wycl=deus | tractatusdeeccl00wycl=dcus | tractatusdeeccle00wycl=deus		6	accept
+18	R4a	latinworks10wycl=particulanter | iohanniswyclift00mattgoog=parttculariter | iohanniswycliftr00wycluoft=particulariter | iohanniswycliftr04wycl=particulanter | tractatusdeeccl00wycl=particulariter | tractatusdeeccle00wycl=particulanter		6	accept
+20	R4a	latinworks10wycl=pnmos | iohanniswyclift00mattgoog=prinios | iohanniswycliftr00wycluoft=primos | iohanniswycliftr04wycl=primos | tractatusdeeccl00wycl=pnmos | tractatusdeeccle00wycl=pnmos		6	accept
+57	R2	latinworks10wycl=sequens | iohanniswyclift00mattgoog=sequeoi | iohanniswycliftr00wycluoft=sequens | iohanniswycliftr04wycl=sequens | tractatusdeeccl00wycl=sequens | tractatusdeeccle00wycl=sequens		6	accept
+58	R2	latinworks10wycl=scilicet | iohanniswyclift00mattgoog=kltcet | iohanniswycliftr00wycluoft=scilicet | iohanniswycliftr04wycl=scilicet | tractatusdeeccl00wycl=scilicet | tractatusdeeccle00wycl=scilicet		6	accept
+71	R2	latinworks10wycl=nam | iohanniswyclift00mattgoog=nom | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nam | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		6	accept
+91	PLATE	latinworks10wycl=seculares | iohanniswyclift00mattgoog=tecuisures | iohanniswycliftr00wycluoft=seculares | iohanniswycliftr04wycl=seculares | tractatusdeeccl00wycl=secuolares | tractatusdeeccle00wycl=seculares		6	accept
+114	R5a	latinworks10wycl=siluestro | iohanniswycliftr00wycluoft=siluestro | iohanniswycliftr04wycl=siluestro | tractatusdeeccl00wycl=siluestro | tractatusdeeccle00wycl=siluestro		5	accept
+121	PLATE	latinworks10wycl=xcuia | iohanniswyclift00mattgoog=xcui | iohanniswycliftr00wycluoft=xcui | iohanniswycliftr04wycl=xcui | tractatusdeeccl00wycl=xcuia | tractatusdeeccle00wycl=xcuia		6	accept
+125	R2	latinworks10wycl=imnerator | iohanniswyclift00mattgoog=imperator | iohanniswycliftr00wycluoft=imperator | iohanniswycliftr04wycl=imperator | tractatusdeeccl00wycl=imnerator | tractatusdeeccle00wycl=imperator		6	accept
+126	R2	latinworks10wycl=tribuit | iohanniswyclift00mattgoog=tnbutt | iohanniswycliftr00wycluoft=tribuit | iohanniswycliftr04wycl=tribuit | tractatusdeeccl00wycl=tribuit | tractatusdeeccle00wycl=tribuit		6	accept
+127	R5a	latinworks10wycl=siluestro | iohanniswyclift00mattgoog=siluestro | iohanniswycliftr00wycluoft=siluestro | iohanniswycliftr04wycl=siluestro | tractatusdeeccl00wycl=siluestro | tractatusdeeccle00wycl=siluestro		6	accept
+132	R2	latinworks10wycl=imnerialem | iohanniswyclift00mattgoog=imperialem | iohanniswycliftr00wycluoft=imperialem | iohanniswycliftr04wycl=imperialem | tractatusdeeccl00wycl=imnerialem | tractatusdeeccle00wycl=imperialem		6	accept
+134	R3a	latinworks10wycl=quod | iohanniswyclift00mattgoog=quod | iohanniswycliftr00wycluoft=qiiod | iohanniswycliftr04wycl=quod | tractatusdeeccl00wycl=quod | tractatusdeeccle00wycl=quod		6	accept
+151	R5a	latinworks10wycl=siluestro | iohanniswyclift00mattgoog=siluestro | iohanniswycliftr00wycluoft=siluestro | iohanniswycliftr04wycl=siluestro | tractatusdeeccl00wycl=siluestro | tractatusdeeccle00wycl=siluestro		6	accept
+182	R2	latinworks10wycl=ex | iohanniswyclift00mattgoog=cs | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=ex | tractatusdeeccl00wycl=ex | tractatusdeeccle00wycl=ex		6	accept
+188	R2	latinworks10wycl=super | iohanniswyclift00mattgoog=tupcr | iohanniswycliftr00wycluoft=super | iohanniswycliftr04wycl=super | tractatusdeeccl00wycl=super | tractatusdeeccle00wycl=super		6	accept
+199	R2	latinworks10wycl=mundo | iohanniswyclift00mattgoog=mundo | iohanniswycliftr00wycluoft=mundo | iohanniswycliftr04wycl=mundo | tractatusdeeccl00wycl=raundo | tractatusdeeccle00wycl=mundo		6	accept

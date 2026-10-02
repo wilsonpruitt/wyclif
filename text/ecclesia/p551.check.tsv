@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+3	R2	latinworks10wycl=penam | iohanniswycliftr00wycluoft=penam | iohanniswycliftr04wycl=penam | tractatusdeeccl00wycl=penara | tractatusdeeccle00wycl=penam		5	accept
+6	R3a	latinworks10wycl=ista | iohanniswycliftr00wycluoft=istatheiattermeynglossa | iohanniswycliftr04wycl=istatheiattermeanglossa | tractatusdeeccl00wycl=istatheiaitermcanglossa | tractatusdeeccle00wycl=istatheiattermeanglossa		5	accept
+7	PLATE	latinworks10wycl=glossa | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+24	PLATE	latinworks10wycl=qiiod | iohanniswyclift00mattgoog=quod | iohanniswycliftr00wycluoft=qiiod | iohanniswycliftr04wycl=qiiod | tractatusdeeccl00wycl=quod | tractatusdeeccle00wycl=quod		6	accept
+42	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enim | tractatusdeeccl00wycl=cnmi | tractatusdeeccle00wycl=enim		6	accept
+43	R2	latinworks10wycl=primo | iohanniswyclift00mattgoog=primo | iohanniswycliftr00wycluoft=primo | iohanniswycliftr04wycl=primo | tractatusdeeccl00wycl=pnmoinuention | tractatusdeeccle00wycl=pn		6	accept
+47	R3b	latinworks10wycl=merita | iohanniswyclift00mattgoog=merita | iohanniswycliftr00wycluoft=merita | iohanniswycliftr04wycl=merita | tractatusdeeccl00wycl=menta | tractatusdeeccle00wycl=menta		6	accept
+51	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=lnristi		6	accept
+82	R3a	latinworks10wycl=uicarius | iohanniswycliftr00wycluoft=uicarius | iohanniswycliftr04wycl=uicarius | tractatusdeeccl00wycl=uicarius | tractatusdeeccle00wycl=uicanus		5	accept
+83	R2	latinworks10wycl=christi | iohanniswycliftr00wycluoft=christi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=ghnsti		5	accept
+91	R3a	latinworks10wycl=illum | iohanniswyclift00mattgoog=illum | iohanniswycliftr00wycluoft=illum | iohanniswycliftr04wycl=illum | tractatusdeeccl00wycl=illum | tractatusdeeccle00wycl=ilium		6	accept
+96	R2	latinworks10wycl=plus | iohanniswyclift00mattgoog=plus | iohanniswycliftr00wycluoft=phis | iohanniswycliftr04wycl=plus | tractatusdeeccl00wycl=plus | tractatusdeeccle00wycl=plus		6	accept
+98	R3a	latinworks10wycl=minus | iohanniswyclift00mattgoog=minui | iohanniswycliftr00wycluoft=minus | iohanniswycliftr04wycl=minus | tractatusdeeccl00wycl=minus | tractatusdeeccle00wycl=minus		6	accept
+102	R3a	latinworks10wycl=quin | iohanniswyclift00mattgoog=quia | iohanniswycliftr00wycluoft=quin | iohanniswycliftr04wycl=quin | tractatusdeeccl00wycl=quin | tractatusdeeccle00wycl=quin		6	accept
+130	R2	latinworks10wycl=episcopus | iohanniswyclift00mattgoog=episcoiiithaiim | iohanniswycliftr00wycluoft=episcopus | iohanniswycliftr04wycl=episcopus | tractatusdeeccl00wycl=episcopus | tractatusdeeccle00wycl=episcopus		6	accept
+137	PLATE	latinworks10wycl=mentum | iohanniswyclift00mattgoog=mentum | iohanniswycliftr00wycluoft=meritum | iohanniswycliftr04wycl=meritum | tractatusdeeccl00wycl=meritum | tractatusdeeccle00wycl=mentum		6	accept
+140	R3a	latinworks10wycl=meriti | iohanniswyclift00mattgoog=menti | iohanniswycliftr00wycluoft=meriti | iohanniswycliftr04wycl=meriti | tractatusdeeccl00wycl=meriti | tractatusdeeccle00wycl=meriti		6	accept
+157	R6a	latinworks10wycl=hii | iohanniswyclift00mattgoog=hit | iohanniswycliftr00wycluoft=hii | iohanniswycliftr04wycl=hii | tractatusdeeccl00wycl=hii | tractatusdeeccle00wycl=hii		6	accept
+168	R3a	latinworks10wycl=seductus | iohanniswyclift00mattgoog=seductos | iohanniswycliftr00wycluoft=seductus | iohanniswycliftr04wycl=seductus | tractatusdeeccl00wycl=seductus | tractatusdeeccle00wycl=seductus		6	accept
+187	R5a	latinworks10wycl=thomam | iohanniswyclift00mattgoog=thomam | iohanniswycliftr00wycluoft=thomam | iohanniswycliftr04wycl=thomam | tractatusdeeccl00wycl=thomam | tractatusdeeccle00wycl=thomam		6	accept

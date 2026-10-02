@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=i75best		1	accept
+22	R3a	latinworks10wycl=tam | iohanniswyclift00mattgoog=tam | iohanniswycliftr00wycluoft=tani | iohanniswycliftr04wycl=tam | tractatusdeeccl00wycl=tam | tractatusdeeccle00wycl=tarn		6	accept
+39	R4a	latinworks10wycl=nedum | iohanniswyclift00mattgoog=ncdum | iohanniswycliftr00wycluoft=ncdum | iohanniswycliftr04wycl=ncdum | tractatusdeeccl00wycl=nedum | tractatusdeeccle00wycl=ncdum		6	accept
+47	R3a	latinworks10wycl=ut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=ui | tractatusdeeccle00wycl=ut		6	accept
+59	R3b	latinworks10wycl=domini | iohanniswyclift00mattgoog=domini | iohanniswycliftr00wycluoft=dommi | iohanniswycliftr04wycl=dommi | tractatusdeeccl00wycl=domini | tractatusdeeccle00wycl=domini		6	accept
+106	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=nun | tractatusdeeccle00wycl=non		6	accept
+109	R2	latinworks10wycl=supposito | iohanniswyclift00mattgoog=supposito | iohanniswycliftr00wycluoft=i3supposito | iohanniswycliftr04wycl=i3supposito | tractatusdeeccl00wycl=supposito | tractatusdeeccle00wycl=supposito		6	accept
+125	R2	latinworks10wycl=ergo | iohanniswyclift00mattgoog=ergo | iohanniswycliftr00wycluoft=crto | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=ergo | tractatusdeeccle00wycl=ergo		6	accept
+129	R2	latinworks10wycl=primo | iohanniswyclift00mattgoog=primo | iohanniswycliftr00wycluoft=prirao | iohanniswycliftr04wycl=primo | tractatusdeeccl00wycl=primo | tractatusdeeccle00wycl=primo		6	accept
+131	R2	latinworks10wycl=factum | iohanniswyclift00mattgoog=factum | iohanniswycliftr00wycluoft=factum | iohanniswycliftr04wycl=factum | tractatusdeeccl00wycl=lacimn | tractatusdeeccle00wycl=facturn		6	accept
+132	R2	latinworks10wycl=regum | iohanniswyclift00mattgoog=rcgum | iohanniswycliftr00wycluoft=reium | iohanniswycliftr04wycl=regum | tractatusdeeccl00wycl=regum | tractatusdeeccle00wycl=return		6	accept
+133	R2	latinworks10wycl=anghe | iohanniswyclift00mattgoog=anghc | iohanniswycliftr00wycluoft=anohe | iohanniswycliftr04wycl=anglie | tractatusdeeccl00wycl=anglie | tractatusdeeccle00wycl=anshe		6	accept
+134	R6a	latinworks10wycl=m | iohanniswyclift00mattgoog=m | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=tn | tractatusdeeccle00wycl=in		6	accept
+150	PLATE	latinworks10wycl=pnnium | iohanniswyclift00mattgoog=pnmum | iohanniswycliftr00wycluoft=pnmum | iohanniswycliftr04wycl=pnmum | tractatusdeeccl00wycl=pnmum | tractatusdeeccle00wycl=pnmum		6	accept
+229	PLATE	latinworks10wycl=hereticare | iohanniswyclift00mattgoog=hercticare | iohanniswycliftr00wycluoft=hereticare | iohanniswycliftr04wycl=hereticare | tractatusdeeccl00wycl=hereticare | tractatusdeeccle00wycl=hereticare		6	accept
+255	PLATE	latinworks10wycl=hercticaret | iohanniswyclift00mattgoog=hereticaret | iohanniswycliftr00wycluoft=hereticaret | iohanniswycliftr04wycl=hereticaret | tractatusdeeccl00wycl=hereticaret | tractatusdeeccle00wycl=hereticaret		6	accept
+260	PLATE	latinworks10wycl=intcrim		1	accept
+261	EDGE	latinworks10wycl=succedentes		1	accept

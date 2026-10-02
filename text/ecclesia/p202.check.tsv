@@ -1,0 +1,29 @@
+pos	rule	forms	support	voters	resolution
+6	R2	latinworks10wycl=scquitur | iohanniswycliftr00wycluoft=scquitiir | iohanniswycliftr04wycl=sequitur | tractatusdeeccle00wycl=sequitur		4	accept
+11	R3a	latinworks10wycl=agriculturd | iohanniswycliftr00wycluoft=agricultura | iohanniswycliftr04wycl=agricultura | tractatusdeeccle00wycl=agriculture		4	accept
+14	R2	latinworks10wycl=autena | iohanniswycliftr00wycluoft=autem | iohanniswycliftr04wycl=auteiii | tractatusdeeccle00wycl=autem		4	accept
+49	PLATE	latinworks10wycl=the | iohanniswycliftr00wycluoft=sccundum | iohanniswycliftr04wycl=ihc | tractatusdeeccl00wycl=the | tractatusdeeccle00wycl=∅		5	accept
+50	R2	latinworks10wycl=secundum | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=secunduni | tractatusdeeccl00wycl=secundum | tractatusdeeccle00wycl=secundum		5	accept
+52	PLATE	latinworks10wycl=signans | iohanniswycliftr00wycluoft=signans | iohanniswycliftr04wycl=sienans | tractatusdeeccl00wycl=sienans | tractatusdeeccle00wycl=simians		5	accept
+56	PLATE	latinworks10wycl=acducentes | iohanniswycliftr00wycluoft=duceutes | iohanniswycliftr04wycl=duccntes | tractatusdeeccle00wycl=ducciites		4	accept
+57	PLATE	latinworks10wycl=signantcr | iohanniswycliftr00wycluoft=siguauter | iohanniswycliftr04wycl=sisnanter | tractatusdeeccle00wycl=signantcr		4	accept
+59	R3a	latinworks10wycl=pcr | iohanniswycliftr00wycluoft=per | iohanniswycliftr04wycl=ner | tractatusdeeccle00wycl=per		4	accept
+63	R3a	latinworks10wycl=molaris | iohanniswycliftr00wycluoft=molaris | iohanniswycliftr04wycl=molaris | tractatusdeeccl00wycl=molaris | tractatusdeeccle00wycl=molans		5	accept
+78	PLATE	latinworks10wycl=influenciam | iohanniswycliftr00wycluoft=influenciam | iohanniswycliftr04wycl=influenciam | tractatusdeeccl00wycl=influenciam | tractatusdeeccle00wycl=infiuenciam		5	accept
+101	R2	latinworks10wycl=artificialia | iohanniswycliftr00wycluoft=artiflcialia | iohanniswycliftr04wycl=artificialia | tractatusdeeccle00wycl=artifiib		4	accept
+109	R3a	latinworks10wycl=celum | iohanniswycliftr00wycluoft=celum | iohanniswycliftr04wycl=celum | tractatusdeeccl00wycl=gelum | tractatusdeeccle00wycl=celuni		5	accept
+135	DEL	latinworks10wycl=the | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=the | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+138	PLATE	latinworks10wycl=iugum | iohanniswycliftr00wycluoft=iuium | iohanniswycliftr04wycl=iuium | tractatusdeeccl00wycl=iuirum | tractatusdeeccle00wycl=iugum		5	accept
+142	R2	latinworks10wycl=istis | iohanniswycliftr00wycluoft=istisc | iohanniswycliftr04wycl=istisc | tractatusdeeccl00wycl=istis | tractatusdeeccle00wycl=istise		5	accept
+145	R4a	latinworks10wycl=siue | iohanniswycliftr00wycluoft=siuc | iohanniswycliftr04wycl=siuc | tractatusdeeccl00wycl=siuc | tractatusdeeccle00wycl=siue		5	accept
+146	R3a	latinworks10wycl=sint | iohanniswycliftr00wycluoft=siut | iohanniswycliftr04wycl=sint | tractatusdeeccl00wycl=sint | tractatusdeeccle00wycl=sint		5	accept
+157	R4a	latinworks10wycl=enim | iohanniswycliftr00wycluoft=cnim | iohanniswycliftr04wycl=cnim | tractatusdeeccl00wycl=cnim | tractatusdeeccle00wycl=enim		5	accept
+165	R2	latinworks10wycl=111 | iohanniswycliftr00wycluoft=111 | iohanniswycliftr04wycl=iii | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=111		5	accept
+177	R2	latinworks10wycl=finalem | iohanniswycliftr00wycluoft=finalem | iohanniswycliftr04wycl=linalcm | tractatusdeeccl00wycl=finalem | tractatusdeeccle00wycl=finalem		5	accept
+184	R2	latinworks10wycl=ibunl | iohanniswycliftr00wycluoft=ibunt | iohanniswycliftr04wycl=ibunt | tractatusdeeccl00wycl=ibiuit | tractatusdeeccle00wycl=ibunt		5	accept
+185	R4a	latinworks10wycl=liii | iohanniswycliftr00wycluoft=hii | iohanniswycliftr04wycl=hii | tractatusdeeccl00wycl=iiii | tractatusdeeccle00wycl=hii		5	accept
+198	R2	latinworks10wycl=46 | iohanniswycliftr00wycluoft=46 | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=46 | tractatusdeeccle00wycl=46		5	accept
+206	R3a	latinworks10wycl=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		5	accept
+210	R3a	latinworks10wycl=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nani | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		5	accept
+227	EDGE	latinworks10wycl=nec | iohanniswycliftr00wycluoft=nec		2	accept
+228	EDGE	latinworks10wycl=presumamus | iohanniswycliftr00wycluoft=presumamus		2	accept

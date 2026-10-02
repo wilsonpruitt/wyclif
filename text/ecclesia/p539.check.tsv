@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=et | tractatusdeeccl00wycl=et		2	accept
+10	R3a	latinworks10wycl=salutis | iohanniswycliftr00wycluoft=salutis | iohanniswycliftr04wycl=salutis | tractatusdeeccl00wycl=salutis | tractatusdeeccle00wycl=saluiis		5	accept
+30	R5a	latinworks10wycl=p | iohanniswycliftr00wycluoft=p | iohanniswycliftr04wycl=p | tractatusdeeccl00wycl=p | tractatusdeeccle00wycl=p		5	accept
+38	R2	latinworks10wycl=magis | iohanniswycliftr00wycluoft=magis | iohanniswycliftr04wycl=magishcnce | tractatusdeeccl00wycl=raagishence | tractatusdeeccle00wycl=magis		5	accept
+72	PLATE	latinworks10wycl=x | iohanniswycliftr00wycluoft=xiii | iohanniswycliftr04wycl=xiii | tractatusdeeccl00wycl=xiiia | tractatusdeeccle00wycl=xiiia		5	accept
+73	PLATE	latinworks10wycl=111 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+74	PLATE	latinworks10wycl=a | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+75	R5a	latinworks10wycl=q | iohanniswycliftr00wycluoft=q | iohanniswycliftr04wycl=q | tractatusdeeccl00wycl=q | tractatusdeeccle00wycl=q		5	accept
+76	PLATE	latinworks10wycl=iia | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=lla | tractatusdeeccle00wycl=ila		5	accept

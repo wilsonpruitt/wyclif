@@ -1,0 +1,39 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=specialiter | tractatusdeeccle00wycl=specialiter		2	accept
+1	EDGE	latinworks10wycl=papa | tractatusdeeccle00wycl=papa		2	accept
+7	R4a	latinworks10wycl=potcstatis | iohanniswycliftr00wycluoft=potcstatis | iohanniswycliftr04wycl=potestatis | tractatusdeeccl00wycl=potcstatis | tractatusdeeccle00wycl=potestatis		5	accept
+18	R3a	latinworks10wycl=elemosinam | iohanniswycliftr00wycluoft=elemosinam | iohanniswycliftr04wycl=elemosmam | tractatusdeeccl00wycl=elemosinam | tractatusdeeccle00wycl=elemosinam		5	accept
+24	R3a	latinworks10wycl=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		5	accept
+36	R2	latinworks10wycl=matthei | iohanniswyclift00mattgoog=matdid | iohanniswycliftr00wycluoft=matthei | iohanniswycliftr04wycl=matthei | tractatusdeeccl00wycl=matthei | tractatusdeeccle00wycl=matthei		6	accept
+37	R2	latinworks10wycl=xui | iohanniswyclift00mattgoog=xuk | iohanniswycliftr00wycluoft=xui | iohanniswycliftr04wycl=xui | tractatusdeeccl00wycl=xui | tractatusdeeccle00wycl=xui		6	accept
+40	R3a	latinworks10wycl=dixi | iohanniswyclift00mattgoog=diu | iohanniswycliftr00wycluoft=dixi | iohanniswycliftr04wycl=dixi | tractatusdeeccl00wycl=dixi | tractatusdeeccle00wycl=dixi		6	accept
+46	R3a	latinworks10wycl=sibi | iohanniswyclift00mattgoog=tibi | iohanniswycliftr00wycluoft=sibi | iohanniswycliftr04wycl=sibi | tractatusdeeccl00wycl=sibi | tractatusdeeccle00wycl=sibi		6	accept
+60	R2	latinworks10wycl=penitencia | iohanniswyclift00mattgoog=pemtenda | iohanniswycliftr00wycluoft=penitencia | iohanniswycliftr04wycl=penitencia | tractatusdeeccl00wycl=penitencia | tractatusdeeccle00wycl=penitencia		6	accept
+61	R2	latinworks10wycl=nisi | iohanniswyclift00mattgoog=nia | iohanniswycliftr00wycluoft=nisi | iohanniswycliftr04wycl=nisi | tractatusdeeccl00wycl=nisi | tractatusdeeccle00wycl=nisi		6	accept
+67	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=christi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=ghristi | tractatusdeeccle00wycl=christi		6	accept
+75	R2	latinworks10wycl=greoriusxi | iohanniswyclift00mattgoog=gregorius | iohanniswycliftr00wycluoft=gregorius | iohanniswycliftr04wycl=gresoriusxi | tractatusdeeccl00wycl=gregoriusxi | tractatusdeeccle00wycl=greoriusxi		6	accept
+76	INS?	xi	2	6	plate: XI
+77	R2	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=eenere | tractatusdeeccle00wycl=in		6	accept
+78	R3a	latinworks10wycl=genere | iohanniswyclift00mattgoog=genere | iohanniswycliftr00wycluoft=ienere | iohanniswycliftr04wycl=eenere | tractatusdeeccl00wycl=secularis | tractatusdeeccle00wycl=genere		6	accept
+79	R3a	latinworks10wycl=seculans | iohanniswycliftr00wycluoft=secularis | iohanniswycliftr04wycl=secularis | tractatusdeeccl00wycl=dominii | tractatusdeeccle00wycl=seculans		5	accept
+80	PLATE	latinworks10wycl=dominn | iohanniswycliftr00wycluoft=domuin | iohanniswycliftr04wycl=domuin | tractatusdeeccl00wycl=capitalis | tractatusdeeccle00wycl=domimi		5	accept
+81	PLATE	latinworks10wycl=capitahs | iohanniswycliftr00wycluoft=capitahs | iohanniswycliftr04wycl=capitahs | tractatusdeeccl00wycl=dominus | tractatusdeeccle00wycl=capitahs		5	accept
+82	PLATE	latinworks10wycl=dommus | iohanniswycliftr00wycluoft=dommus | tractatusdeeccl00wycl=regni		3	accept
+83	PLATE	latinworks10wycl=retnn | iohanniswycliftr00wycluoft=reeni | tractatusdeeccl00wycl=nostri		3	accept
+84	PLATE	latinworks10wycl=nostn | iohanniswycliftr00wycluoft=nostri | tractatusdeeccl00wycl=ex		3	accept
+85	PLATE	latinworks10wycl=exhoc | iohanniswycliftr00wycluoft=exhoc | iohanniswycliftr04wycl=exhoc | tractatusdeeccl00wycl=hoc		4	accept
+101	R2	latinworks10wycl=itcm | iohanniswyclift00mattgoog=item | iohanniswycliftr00wycluoft=itcm | iohanniswycliftr04wycl=item | tractatusdeeccl00wycl=itcni | tractatusdeeccle00wycl=item		6	accept
+108	R2	latinworks10wycl=hominem | iohanniswyclift00mattgoog=honunem | iohanniswycliftr00wycluoft=hominem | iohanniswycliftr04wycl=hominem | tractatusdeeccl00wycl=hominem | tractatusdeeccle00wycl=hominem		6	accept
+109	PLATE	latinworks10wycl=legium | iohanniswyclift00mattgoog=legium | iohanniswycliftr00wycluoft=legium | iohanniswycliftr04wycl=legium | tractatusdeeccl00wycl=legium | tractatusdeeccle00wycl=legium		6	accept
+123	PLATE	latinworks10wycl=quod | iohanniswyclift00mattgoog=quods | iohanniswycliftr00wycluoft=quod | iohanniswycliftr04wycl=quods | tractatusdeeccl00wycl=quods | tractatusdeeccle00wycl=quod		6	accept
+128	PLATE	latinworks10wycl=hereticare | iohanniswyclift00mattgoog=hereticare | iohanniswycliftr00wycluoft=hereticare | iohanniswycliftr04wycl=hereticare | tractatusdeeccl00wycl=hereticare | tractatusdeeccle00wycl=hereticare		6	accept
+170	R3a	latinworks10wycl=pana | iohanniswyclift00mattgoog=papa | iohanniswycliftr00wycluoft=papa | iohanniswycliftr04wycl=oapa | tractatusdeeccl00wycl=papa | tractatusdeeccle00wycl=papa		6	accept
+184	R3a	latinworks10wycl=genus | iohanniswyclift00mattgoog=genus | iohanniswycliftr00wycluoft=genus | iohanniswycliftr04wycl=genus | tractatusdeeccl00wycl=enus | tractatusdeeccle00wycl=genus		6	accept
+185	R4a	latinworks10wycl=dominn | iohanniswyclift00mattgoog=dominii | iohanniswycliftr00wycluoft=dommii | iohanniswycliftr04wycl=dominn | tractatusdeeccl00wycl=dominii | tractatusdeeccle00wycl=dominn		6	accept
+201	R2	latinworks10wycl=iirofcssionem | iohanniswyclift00mattgoog=professionem | iohanniswycliftr00wycluoft=professionem | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=professionem | tractatusdeeccle00wycl=professionem		6	accept
+209	R2	latinworks10wycl=legcm | iohanniswyclift00mattgoog=icgcm | iohanniswycliftr00wycluoft=legem | iohanniswycliftr04wycl=legem | tractatusdeeccl00wycl=legem | tractatusdeeccle00wycl=legem		6	accept
+210	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+237	PLATE	latinworks10wycl=cssencialiter		1	accept
+238	EDGE	latinworks10wycl=proporcionalis		1	accept
+239	EDGE	latinworks10wycl=potestas		1	accept
+240	PLATE	latinworks10wycl=seculai74risdominii		1	accept

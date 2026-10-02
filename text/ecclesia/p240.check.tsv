@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=lex		1	accept
+1	EDGE	latinworks10wycl=illud		1	accept
+2	PLATE	latinworks10wycl=exnrimeret		1	accept
+3	EDGE	latinworks10wycl=sed		1	accept
+4	EDGE	latinworks10wycl=facit		1	accept
+5	PLATE	latinworks10wycl=onpositum		1	accept
+11	R3a	latinworks10wycl=yracia | iohanniswyclift00mattgoog=gracia | iohanniswycliftr00wycluoft=eracia | iohanniswycliftr04wycl=gracia | tractatusdeeccl00wycl=gracia | tractatusdeeccle00wycl=gracia		6	accept
+15	R3a	latinworks10wycl=alios | iohanniswyclift00mattgoog=auos | iohanniswycliftr00wycluoft=alios | iohanniswycliftr04wycl=alios | tractatusdeeccl00wycl=alios | tractatusdeeccle00wycl=alios		6	accept
+16	R4a	latinworks10wycl=cnminosos | iohanniswyclift00mattgoog=criminosos | iohanniswycliftr00wycluoft=criminosos | iohanniswycliftr04wycl=crimmosos | tractatusdeeccl00wycl=cnminosos | tractatusdeeccle00wycl=cnminosos		6	accept
+19	PLATE	latinworks10wycl=audere | iohanniswyclift00mattgoog=gaudere | iohanniswycliftr00wycluoft=saudere | iohanniswycliftr04wycl=gaudere | tractatusdeeccl00wycl=gaudere | tractatusdeeccle00wycl=gaudere		6	accept
+79	R5a	latinworks10wycl=hiis | iohanniswyclift00mattgoog=hiis | iohanniswycliftr00wycluoft=hiis | iohanniswycliftr04wycl=hiis | tractatusdeeccl00wycl=hiis | tractatusdeeccle00wycl=hiis		6	accept
+145	R2	latinworks10wycl=5 | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=5 | iohanniswycliftr04wycl=5 | tractatusdeeccl00wycl=5 | tractatusdeeccle00wycl=5		6	accept
+156	R2	latinworks10wycl=christo | iohanniswyclift00mattgoog=oiristo | iohanniswycliftr00wycluoft=christo | iohanniswycliftr04wycl=christo | tractatusdeeccl00wycl=christo | tractatusdeeccle00wycl=christo		6	accept
+162	R2	latinworks10wycl=gonfirmatur | iohanniswyclift00mattgoog=confirroatur | iohanniswycliftr00wycluoft=gonfirmatur | iohanniswycliftr04wycl=confirmatur | tractatusdeeccl00wycl=confirmatur | tractatusdeeccle00wycl=confirmatur		6	accept
+163	R2	latinworks10wycl=primo | iohanniswyclift00mattgoog=prirao | iohanniswycliftr00wycluoft=primo | iohanniswycliftr04wycl=primo | tractatusdeeccl00wycl=primo | tractatusdeeccle00wycl=primo		6	accept
+183	PLATE	latinworks10wycl=xxiip | iohanniswyclift00mattgoog=xxii1 | iohanniswycliftr00wycluoft=xxiii | iohanniswycliftr04wycl=xxiii | tractatusdeeccl00wycl=xxiiia | tractatusdeeccle00wycl=xxiiia		6	accept
+184	R5a	latinworks10wycl=q | iohanniswyclift00mattgoog=q | iohanniswycliftr00wycluoft=q | iohanniswycliftr04wycl=q | tractatusdeeccl00wycl=q | tractatusdeeccle00wycl=q		6	accept
+188	R2	latinworks10wycl=si | iohanniswyclift00mattgoog=si | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=si | tractatusdeeccl00wycl=si | tractatusdeeccle00wycl=si		6	accept

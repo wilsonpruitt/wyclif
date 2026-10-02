@@ -1,0 +1,43 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=i86d | tractatusdeeccle00wycl=i86d		2	accept
+1	INS?	infuso et substancia aggregatis tum quia negatur talis unitas in fundamento responsionis tum eciam quia talis habitus fidei manens perpetuo migraret de subiecto in subiectum et reciperet peregrinas predicaciones formales alienas a natura uniuersalium unde in confirmacionem supradicte sentencie 186	2	6	plate: ∅
+1	EDGE	latinworks10wycl=et | tractatusdeeccle00wycl=et		2	accept
+2	EDGE	latinworks10wycl=contra | tractatusdeeccle00wycl=contra		2	accept
+3	PLATE	latinworks10wycl=lstam | tractatusdeeccle00wycl=istam		2	accept
+17	R6a	latinworks10wycl=pnmo | iohanniswyclift00mattgoog=pnmo | iohanniswycliftr00wycluoft=primo | tractatusdeeccl00wycl=pnmo | tractatusdeeccle00wycl=pnmo		5	accept
+27	R2	latinworks10wycl=suam | iohanniswycliftr00wycluoft=suara | iohanniswycliftr04wycl=suam | tractatusdeeccl00wycl=suam | tractatusdeeccle00wycl=suam		5	accept
+39	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+45	PLATE	latinworks10wycl=pnmo | iohanniswyclift00mattgoog=ipnmo | iohanniswycliftr00wycluoft=ipnmo | iohanniswycliftr04wycl=primo | tractatusdeeccl00wycl=lpnmo | tractatusdeeccle00wycl=pnmo		6	accept
+46	R4a	latinworks10wycl=descnbendo | iohanniswyclift00mattgoog=descnbendo | iohanniswycliftr00wycluoft=describendo | iohanniswycliftr04wycl=describendo | tractatusdeeccl00wycl=descnbendo | tractatusdeeccle00wycl=desenbendo		6	accept
+51	PLATE	latinworks10wycl=hdehum | iohanniswyclift00mattgoog=naeltum | iohanniswycliftr00wycluoft=ndehum | iohanniswycliftr04wycl=delium | tractatusdeeccl00wycl=udcuum | tractatusdeeccle00wycl=ndelium		6	accept
+61	R4a	latinworks10wycl=umcam | iohanniswyclift00mattgoog=umcam | iohanniswycliftr00wycluoft=umcam | iohanniswycliftr04wycl=unicam | tractatusdeeccl00wycl=untcam | tractatusdeeccle00wycl=unicam		6	accept
+65	R2	latinworks10wycl=hec | iohanniswyclift00mattgoog=hcc | iohanniswycliftr00wycluoft=hec | iohanniswycliftr04wycl=hec | tractatusdeeccl00wycl=hec | tractatusdeeccle00wycl=nee		6	accept
+74	R2	latinworks10wycl=quia | iohanniswyclift00mattgoog=um | iohanniswycliftr00wycluoft=quia | iohanniswycliftr04wycl=quia | tractatusdeeccl00wycl=quia | tractatusdeeccle00wycl=quia		6	accept
+100	R2	latinworks10wycl=differentes | iohanniswyclift00mattgoog=diftcintes | iohanniswycliftr00wycluoft=differentes | iohanniswycliftr04wycl=differentes | tractatusdeeccl00wycl=differentes | tractatusdeeccle00wycl=differentes		6	accept
+103	R2	latinworks10wycl=prima | iohanniswyclift00mattgoog=prima | iohanniswycliftr00wycluoft=pritna | iohanniswycliftr04wycl=prima | tractatusdeeccl00wycl=prima | tractatusdeeccle00wycl=prima		6	accept
+113	R2	latinworks10wycl=prima | iohanniswyclift00mattgoog=printa | iohanniswycliftr00wycluoft=prima | iohanniswycliftr04wycl=prima | tractatusdeeccl00wycl=prima | tractatusdeeccle00wycl=prima		6	accept
+121	R2	latinworks10wycl=uia | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=uia | tractatusdeeccl00wycl=uia | tractatusdeeccle00wycl=uia		6	accept
+122	R2	latinworks10wycl=altera | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=altera | tractatusdeeccl00wycl=altcra | tractatusdeeccle00wycl=altera		6	accept
+140	R3a	latinworks10wycl=secunda | iohanniswyclift00mattgoog=secunda | iohanniswycliftr00wycluoft=secunda | iohanniswycliftr04wycl=secunda | tractatusdeeccl00wycl=secanda | tractatusdeeccle00wycl=secunda		6	accept
+144	R5a	latinworks10wycl=uii | iohanniswyclift00mattgoog=uii | iohanniswycliftr00wycluoft=uii | iohanniswycliftr04wycl=uii | tractatusdeeccl00wycl=uii | tractatusdeeccle00wycl=uii		6	accept
+145	PLATE	latinworks10wycl=i | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=1 | tractatusdeeccle00wycl=1		6	accept
+146	R2	latinworks10wycl=scribitur | iohanniswyclift00mattgoog=scrilo | iohanniswycliftr00wycluoft=scribitur | iohanniswycliftr04wycl=scribitur | tractatusdeeccl00wycl=scribitur | tractatusdeeccle00wycl=scribitur		6	accept
+155	PLATE	latinworks10wycl=ii1 | iohanniswyclift00mattgoog=11 | iohanniswycliftr00wycluoft=ii | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=iia | tractatusdeeccle00wycl=∅		6	accept
+157	R2	latinworks10wycl=ii | iohanniswyclift00mattgoog=ii | iohanniswycliftr00wycluoft=ip | iohanniswycliftr04wycl=ii | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii		6	accept
+158	R3a	latinworks10wycl=3 | iohanniswyclift00mattgoog=3 | iohanniswycliftr00wycluoft=3 | iohanniswycliftr04wycl=3 | tractatusdeeccl00wycl=3 | tractatusdeeccle00wycl=i		6	accept
+161	R2	latinworks10wycl=bonits | iohanniswyclift00mattgoog=bonus | iohanniswycliftr00wycluoft=bonus | iohanniswycliftr04wycl=bonus | tractatusdeeccl00wycl=bonus | tractatusdeeccle00wycl=bonus		6	accept
+164	R5a	latinworks10wycl=iesu | iohanniswyclift00mattgoog=iesu | iohanniswycliftr00wycluoft=iesu | iohanniswycliftr04wycl=iesu | tractatusdeeccl00wycl=iesu | tractatusdeeccle00wycl=iesu		6	accept
+173	R2	latinworks10wycl=mundum | iohanniswyclift00mattgoog=mundum | iohanniswycliftr00wycluoft=muidun | iohanniswycliftr04wycl=mundum | tractatusdeeccl00wycl=mundum | tractatusdeeccle00wycl=mundum		6	accept
+182	R2	latinworks10wycl=consummata | iohanniswyclift00mattgoog=consummata | iohanniswycliftr00wycluoft=coisuiiata | iohanniswycliftr04wycl=consummata | tractatusdeeccl00wycl=consummata | tractatusdeeccle00wycl=consummata		6	accept
+193	R3a	latinworks10wycl=2pro | iohanniswyclift00mattgoog=s | iohanniswycliftr00wycluoft=2pro | iohanniswycliftr04wycl=2pro | tractatusdeeccl00wycl=2pro | tractatusdeeccle00wycl=pro		6	accept
+200	R2	latinworks10wycl=quod | iohanniswyclift00mattgoog=quod | iohanniswycliftr00wycluoft=quod | iohanniswycliftr04wycl=quod | tractatusdeeccl00wycl=liuod | tractatusdeeccle00wycl=quod		6	accept
+201	R3a	latinworks10wycl=hec | iohanniswyclift00mattgoog=hec | iohanniswycliftr00wycluoft=nec | iohanniswycliftr04wycl=hec | tractatusdeeccl00wycl=hcc | tractatusdeeccle00wycl=hec		6	accept
+208	EDGE	latinworks10wycl=111		1	accept
+209	EDGE	latinworks10wycl=quo		1	accept
+210	PLATE	latinworks10wycl=consrezantur		1	accept
+211	EDGE	latinworks10wycl=fideles		1	accept
+212	EDGE	latinworks10wycl=et		1	accept
+213	PLATE	latinworks10wycl=mter		1	accept
+214	PLATE	latinworks10wycl=lllos		1	accept
+215	EDGE	latinworks10wycl=eciam		1	accept
+216	EDGE	latinworks10wycl=sunt		1	accept

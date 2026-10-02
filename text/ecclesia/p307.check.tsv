@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+6	R2	latinworks10wycl=eum | iohanniswyclift00mattgoog=eum | iohanniswycliftr00wycluoft=eum | iohanniswycliftr04wycl=euni | tractatusdeeccl00wycl=eura | tractatusdeeccle00wycl=eum		6	accept
+7	R2	latinworks10wycl=ut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=ut | iohanniswycliftr04wycl=ut | tractatusdeeccl00wycl=ul | tractatusdeeccle00wycl=ut		6	accept
+9	R2	latinworks10wycl=matthei | iohanniswyclift00mattgoog=manheix | iohanniswycliftr00wycluoft=matthei | iohanniswycliftr04wycl=matthei | tractatusdeeccl00wycl=matthei | tractatusdeeccle00wycl=matthei		6	accept
+10	R6a	latinworks10wycl=x | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=x | iohanniswycliftr04wycl=x | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=x		6	accept
+12	R2	latinworks10wycl=xiu | iohanniswyclift00mattgoog=xluet | iohanniswycliftr00wycluoft=xiu | iohanniswycliftr04wycl=xiu | tractatusdeeccl00wycl=kiuet | tractatusdeeccle00wycl=xiu		6	accept
+13	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=et		6	accept
+18	R2	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=gum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+19	PLATE	latinworks10wycl=ergo | iohanniswyclift00mattgoog=erco | iohanniswycliftr00wycluoft=ereo | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=ergo | tractatusdeeccle00wycl=ergo		6	accept
+21	R3a	latinworks10wycl=faeto | iohanniswyclift00mattgoog=facto | iohanniswycliftr00wycluoft=facto | iohanniswycliftr04wycl=facto | tractatusdeeccl00wycl=facto | tractatusdeeccle00wycl=facto		6	accept
+34	PLATE	latinworks10wycl=expropnetanam | iohanniswyclift00mattgoog=expropnetanam | iohanniswycliftr00wycluoft=exproprietariam | iohanniswycliftr04wycl=expropnetanam | tractatusdeeccl00wycl=expropnetanam | tractatusdeeccle00wycl=expropnetanam		6	accept
+40	R3a	latinworks10wycl=eis | iohanniswyclift00mattgoog=eis | iohanniswycliftr00wycluoft=eis | iohanniswycliftr04wycl=eis | tractatusdeeccl00wycl=cis | tractatusdeeccle00wycl=eis		6	accept
+43	R3a	latinworks10wycl=fuisset | iohanniswyclift00mattgoog=fuissct | iohanniswycliftr00wycluoft=fuisset | iohanniswycliftr04wycl=luisset | tractatusdeeccl00wycl=fuisset | tractatusdeeccle00wycl=fuisset		6	accept
+44	PLATE	latinworks10wycl=nimis | iohanniswyclift00mattgoog=nimis | iohanniswycliftr00wycluoft=nunis | iohanniswycliftr04wycl=nunis | tractatusdeeccl00wycl=mmts | tractatusdeeccle00wycl=nirais		6	accept
+102	R2	latinworks10wycl=omnes | iohanniswyclift00mattgoog=omnes | iohanniswycliftr00wycluoft=omnes | iohanniswycliftr04wycl=omnes | tractatusdeeccl00wycl=omnes | tractatusdeeccle00wycl=oranes		6	accept
+134	PLATE	latinworks10wycl=exproprietarie | iohanniswyclift00mattgoog=exto | iohanniswycliftr00wycluoft=exproprietarie | iohanniswycliftr04wycl=exproprietarie | tractatusdeeccl00wycl=exproprietarie | tractatusdeeccle00wycl=exproprietarie		6	accept
+143	R3b	latinworks10wycl=caritatis | iohanniswyclift00mattgoog=cantatis | iohanniswycliftr00wycluoft=caritatis | iohanniswycliftr04wycl=caritatis | tractatusdeeccl00wycl=cantatis | tractatusdeeccle00wycl=caritatis		6	accept
+169	R2	latinworks10wycl=clericis | iohanniswyclift00mattgoog=tsdericis | iohanniswycliftr00wycluoft=clericis | iohanniswycliftr04wycl=clericis | tractatusdeeccl00wycl=clericis | tractatusdeeccle00wycl=clericis		6	accept
+204	R3a	latinworks10wycl=72bquarum | iohanniswyclift00mattgoog=2 | iohanniswycliftr00wycluoft=lysquarum | iohanniswycliftr04wycl=lyquarum | tractatusdeeccl00wycl=quarum | tractatusdeeccle00wycl=quarum		6	accept
+212	R2	latinworks10wycl=laici | iohanniswyclift00mattgoog=laid | iohanniswycliftr00wycluoft=kiici | iohanniswycliftr04wycl=laici | tractatusdeeccl00wycl=laici | tractatusdeeccle00wycl=laici		6	accept
+216	R2	latinworks10wycl=grauiter | iohanniswyclift00mattgoog=grauiter | iohanniswycliftr00wycluoft=grafiter | iohanniswycliftr04wycl=grauiter | tractatusdeeccl00wycl=grafiter | tractatusdeeccle00wycl=grauiter		6	accept
+225	PLATE	latinworks10wycl=cxcellenciam		1	accept
+226	EDGE	latinworks10wycl=clericorum		1	accept

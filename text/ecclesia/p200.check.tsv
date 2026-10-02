@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=idco		1	accept
+1	INS?	prescitus haberet priuilegium ymmo sciencia cum inflat et omnia bona citra uirtutes non forent priuilegia abutenti que uidentur legibus et modo loquendi uulgari contraria hic dicitur quod prima consequencia non procedit cum prescitus habet priuilegium dum est in gracia ideo	2	6	plate: ∅
+21	R3a	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=nou | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept
+28	R2	latinworks10wycl=cxccllcncion | iohanniswyclift00mattgoog=excellenciori | iohanniswycliftr00wycluoft=excellenciori | iohanniswycliftr04wycl=excellencion | tractatusdeeccl00wycl=excellencion | tractatusdeeccle00wycl=excelleiicion		6	accept
+46	PLATE	latinworks10wycl=ui1 | iohanniswyclift00mattgoog=up | iohanniswycliftr00wycluoft=ui | iohanniswycliftr04wycl=ui | tractatusdeeccl00wycl=ui1 | tractatusdeeccle00wycl=ui1		6	accept
+48	R2	latinworks10wycl=autem | iohanniswyclift00mattgoog=autem | iohanniswycliftr00wycluoft=autera | iohanniswycliftr04wycl=autem | tractatusdeeccl00wycl=autem | tractatusdeeccle00wycl=autem		6	accept
+68	R2	latinworks10wycl=priuileeium | iohanniswyclift00mattgoog=priuilegium | iohanniswycliftr00wycluoft=priuileeium | iohanniswycliftr04wycl=priuilegium | tractatusdeeccl00wycl=priuilegium | tractatusdeeccle00wycl=priuilegium		6	accept
+133	PLATE	latinworks10wycl=xia | iohanniswyclift00mattgoog=xiq | iohanniswycliftr00wycluoft=xi | iohanniswycliftr04wycl=xi | tractatusdeeccl00wycl=xia | tractatusdeeccle00wycl=xia		6	accept
+134	R6a	latinworks10wycl=q | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=q | iohanniswycliftr04wycl=q | tractatusdeeccl00wycl=q | tractatusdeeccle00wycl=q		6	accept
+135	R5a	latinworks10wycl=iii | iohanniswyclift00mattgoog=iii | iohanniswycliftr00wycluoft=iii | iohanniswycliftr04wycl=iii | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=ill		6	accept
+156	R4a	latinworks10wycl=pnuan | iohanniswyclift00mattgoog=priuari | iohanniswycliftr00wycluoft=pnuari | iohanniswycliftr04wycl=pnuan | tractatusdeeccl00wycl=pnuan | tractatusdeeccle00wycl=pnuan		6	accept
+157	R2	latinworks10wycl=pnuucgio | iohanniswyclift00mattgoog=priuilegio | iohanniswycliftr00wycluoft=priuilegio | iohanniswycliftr04wycl=pnuilegio | tractatusdeeccl00wycl=pnuuegio | tractatusdeeccle00wycl=pnuilegio		6	accept
+159	R4a	latinworks10wycl=m | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=m | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=m | tractatusdeeccle00wycl=in		6	accept
+160	R4a	latinworks10wycl=pnuilegio | iohanniswyclift00mattgoog=priuilegio | iohanniswycliftr00wycluoft=priuilegio | iohanniswycliftr04wycl=pnuilegio | tractatusdeeccl00wycl=pnuilegio | tractatusdeeccle00wycl=pnuilegio		6	accept
+161	R4a	latinworks10wycl=mnouari | iohanniswyclift00mattgoog=innouan | iohanniswycliftr00wycluoft=mnouari | iohanniswycliftr04wycl=innouari | tractatusdeeccl00wycl=innouari | tractatusdeeccle00wycl=mnouari		6	accept
+162	PLATE	latinworks10wycl=inam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=inam | iohanniswycliftr04wycl=inam | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=inam		6	accept
+163	R2	latinworks10wycl=pnuucgium | iohanniswyclift00mattgoog=pnuilegium | iohanniswycliftr00wycluoft=priuilegmm | iohanniswycliftr04wycl=priuilegmm | tractatusdeeccl00wycl=priuilegium | tractatusdeeccle00wycl=priuilegium		6	accept
+164	PLATE	latinworks10wycl=foret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=roret | iohanniswycliftr04wycl=loret | tractatusdeeccl00wycl=foret | tractatusdeeccle00wycl=roret		6	accept
+165	R4a	latinworks10wycl=clencum | iohanniswyclift00mattgoog=clencum | iohanniswycliftr00wycluoft=clericum | iohanniswycliftr04wycl=clencum | tractatusdeeccl00wycl=clericum | tractatusdeeccle00wycl=clencum		6	accept
+241	PLATE	latinworks10wycl=priuilcgiare | iohanniswyclift00mattgoog=priuilcgiare		2	accept

@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=hominem | iohanniswycliftr00wycluoft=hominem		2	accept
+36	PLATE	latinworks10wycl=indisponeret | iohanniswyclift00mattgoog=indispo5 | iohanniswycliftr00wycluoft=indisponeret | iohanniswycliftr04wycl=indisponeret | tractatusdeeccl00wycl=indisponeret | tractatusdeeccle00wycl=indisponeret		6	accept
+42	R2	latinworks10wycl=is | iohanniswyclift00mattgoog=is | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=is | tractatusdeeccle00wycl=is		6	accept
+43	R2	latinworks10wycl=istis | iohanniswyclift00mattgoog=htis | iohanniswycliftr00wycluoft=istis | iohanniswycliftr04wycl=istis | tractatusdeeccl00wycl=istis | tractatusdeeccle00wycl=istis		6	accept
+51	PLATE	latinworks10wycl=perc | iohanniswyclift00mattgoog=per | iohanniswycliftr00wycluoft=per | iohanniswycliftr04wycl=pern | tractatusdeeccl00wycl=perc | tractatusdeeccle00wycl=pern		6	accept
+53	PLATE	latinworks10wycl=aneliam | iohanniswyclift00mattgoog=angliam | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=aneliam | tractatusdeeccl00wycl=angliarn | tractatusdeeccle00wycl=angliarn		6	accept
+54	R2	latinworks10wycl=indulgeri | iohanniswyclift00mattgoog=indulgeri | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=indulgeri | tractatusdeeccl00wycl=indulgeri | tractatusdeeccle00wycl=indulgeri		6	accept
+81	R2	latinworks10wycl=re8kus | iohanniswyclift00mattgoog=regibus | iohanniswycliftr00wycluoft=regibus | iohanniswycliftr04wycl=regibus | tractatusdeeccl00wycl=reoibus | tractatusdeeccle00wycl=regibus		6	accept
+82	R3a	latinworks10wycl=nu | iohanniswyclift00mattgoog=illi | iohanniswycliftr00wycluoft=ilii | iohanniswycliftr04wycl=illi | tractatusdeeccl00wycl=illi | tractatusdeeccle00wycl=illi		6	accept
+90	R2	latinworks10wycl=priuiwia | iohanniswyclift00mattgoog=priuilegia | iohanniswycliftr00wycluoft=priuilegia | iohanniswycliftr04wycl=priuilegia | tractatusdeeccl00wycl=priuiwia | tractatusdeeccle00wycl=priuilegia		6	accept
+99	R2	latinworks10wycl=sunt | iohanniswyclift00mattgoog=sunt | iohanniswycliftr00wycluoft=sunt | iohanniswycliftr04wycl=sunt | tractatusdeeccl00wycl=sutit | tractatusdeeccle00wycl=sunt		6	accept
+192	R2	latinworks10wycl=quod | iohanniswyclift00mattgoog=quod | iohanniswycliftr00wycluoft=quods | iohanniswycliftr04wycl=quods | tractatusdeeccl00wycl=quod | tractatusdeeccle00wycl=quod		6	accept
+227	R3a	latinworks10wycl=foret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=foret | iohanniswycliftr04wycl=foret | tractatusdeeccl00wycl=foret | tractatusdeeccle00wycl=roret		6	accept
+237	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=tx | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+252	PLATE	latinworks10wycl=atten6rdere		1	accept

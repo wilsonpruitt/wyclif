@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+4	R2	latinworks10wycl=corpn | tractatusdeeccl00wycl=corpus | tractatusdeeccle00wycl=corpus		3	accept
+5	DEL	latinworks10wycl=s | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		3	accept
+10	PLATE	latinworks10wycl=ia | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=a | tractatusdeeccle00wycl=ia		5	accept
+12	PLATE	latinworks10wycl=120 | iohanniswycliftr00wycluoft=12 | iohanniswycliftr04wycl=12 | tractatusdeeccl00wycl=2 | tractatusdeeccle00wycl=12		5	accept
+26	R2	latinworks10wycl=quc | iohanniswycliftr00wycluoft=que | iohanniswycliftr04wycl=qiic | tractatusdeeccl00wycl=que | tractatusdeeccle00wycl=que		5	accept
+35	R2	latinworks10wycl=solum | iohanniswycliftr00wycluoft=solum | iohanniswycliftr04wycl=soliim | tractatusdeeccl00wycl=solum | tractatusdeeccle00wycl=solum		5	accept
+57	R2	latinworks10wycl=nouum | iohanniswycliftr00wycluoft=fiopum | iohanniswycliftr04wycl=nouum | tractatusdeeccl00wycl=noium | tractatusdeeccle00wycl=nouum		5	accept
+61	R3a	latinworks10wycl=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=illa | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		5	accept
+100	R2	latinworks10wycl=nunc | iohanniswycliftr00wycluoft=nunc | iohanniswycliftr04wycl=niinc | tractatusdeeccl00wycl=nnnc | tractatusdeeccle00wycl=nunc		5	accept
+111	R2	latinworks10wycl=contitentur | iohanniswycliftr00wycluoft=confitenturiifiig | iohanniswycliftr04wycl=contitentur | tractatusdeeccl00wycl=confitenturyrnsgthe | tractatusdeeccle00wycl=confitentur		5	accept
+119	R2	latinworks10wycl=propter | iohanniswycliftr00wycluoft=apropter | iohanniswycliftr04wycl=propter | tractatusdeeccl00wycl=apropter | tractatusdeeccle00wycl=propter		5	accept
+178	PLATE	latinworks10wycl=non0		1	accept

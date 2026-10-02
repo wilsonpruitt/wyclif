@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+1	INS?	manifestum est quod uel oportet negare priuilegium iuris diuini ac iuris canonici de exempcione ecclesic	2	6	plate: ∅
+5	R2	latinworks10wycl=uel | iohanniswyclift00mattgoog=tci | iohanniswycliftr00wycluoft=uel | iohanniswycliftr04wycl=uel | tractatusdeeccl00wycl=uel | tractatusdeeccle00wycl=uel		6	accept
+32	R2	latinworks10wycl=tolleret | iohanniswyclift00mattgoog=toucrct | iohanniswycliftr00wycluoft=toueret | iohanniswycliftr04wycl=tolleret | tractatusdeeccl00wycl=tolleret | tractatusdeeccle00wycl=tolleret		6	accept
+46	R5a	latinworks10wycl=h | iohanniswyclift00mattgoog=h | iohanniswycliftr00wycluoft=h | iohanniswycliftr04wycl=h | tractatusdeeccl00wycl=h | tractatusdeeccle00wycl=h		6	accept
+73	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enira | tractatusdeeccl00wycl=enini | tractatusdeeccle00wycl=enim		6	accept
+90	R3a	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nara | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		6	accept
+92	R3a	latinworks10wycl=peccatum | iohanniswyclift00mattgoog=peccatum | iohanniswycliftr00wycluoft=peccatum | iohanniswycliftr04wycl=peccatura | tractatusdeeccl00wycl=peccatum | tractatusdeeccle00wycl=peccatum		6	accept
+99	R3a	latinworks10wycl=terciam | iohanniswyclift00mattgoog=tcrciam | iohanniswycliftr00wycluoft=terciam | iohanniswycliftr04wycl=terciani | tractatusdeeccl00wycl=terciam | tractatusdeeccle00wycl=terciam		6	accept
+103	R2	latinworks10wycl=patet | iohanniswyclift00mattgoog=patet | iohanniswycliftr00wycluoft=patet | iohanniswycliftr04wycl=iiatet | tractatusdeeccl00wycl=patet | tractatusdeeccle00wycl=patet		6	accept
+108	R2	latinworks10wycl=fueitiui | iohanniswyclift00mattgoog=fugitiui | iohanniswycliftr00wycluoft=fugitiui | iohanniswycliftr04wycl=fueitiui | tractatusdeeccl00wycl=fugitiui | tractatusdeeccle00wycl=fugitiui		6	accept
+131	R2	latinworks10wycl=priuilegium | iohanniswyclift00mattgoog=ipriuilegium | iohanniswycliftr00wycluoft=priuilegium | iohanniswycliftr04wycl=ipriuilegium | tractatusdeeccl00wycl=priuilegium | tractatusdeeccle00wycl=priuilegium		6	accept
+164	R2	latinworks10wycl=2spropriam | iohanniswyclift00mattgoog=aspropriam | iohanniswycliftr00wycluoft=propriam | iohanniswycliftr04wycl=aspropriam | tractatusdeeccl00wycl=propriam | tractatusdeeccle00wycl=propriam		6	accept
+168	R2	latinworks10wycl=nudum | iohanniswyclift00mattgoog=nudum | iohanniswycliftr00wycluoft=nudum | iohanniswycliftr04wycl=nudura | tractatusdeeccl00wycl=nudum | tractatusdeeccle00wycl=nudum		6	accept
+176	R3a	latinworks10wycl=omne | iohanniswyclift00mattgoog=omne | iohanniswycliftr00wycluoft=omne | iohanniswycliftr04wycl=orane | tractatusdeeccl00wycl=omne | tractatusdeeccle00wycl=omne		6	accept
+177	R2	latinworks10wycl=maius | iohanniswyclift00mattgoog=maius | iohanniswycliftr00wycluoft=maius | iohanniswycliftr04wycl=raaius | tractatusdeeccl00wycl=maius | tractatusdeeccle00wycl=maius		6	accept
+213	R2	latinworks10wycl=illam | iohanniswyclift00mattgoog=illam | iohanniswycliftr00wycluoft=iuam | iohanniswycliftr04wycl=illara | tractatusdeeccl00wycl=illara | tractatusdeeccle00wycl=illam		6	accept

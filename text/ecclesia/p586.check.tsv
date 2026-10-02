@@ -1,0 +1,12 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=in		1	accept
+1	PLATE	latinworks10wycl=purgalorio		1	accept
+6	R3a	latinworks10wycl=penam | iohanniswyclift00mattgoog=penem | iohanniswycliftr00wycluoft=penam | iohanniswycliftr04wycl=peiiam | tractatusdeeccl00wycl=penam | tractatusdeeccle00wycl=penam		6	accept
+26	PLATE	latinworks10wycl=bonificatur | iohanniswyclift00mattgoog=bonificatur | iohanniswycliftr00wycluoft=bonificatur | iohanniswycliftr04wycl=bonificatur | tractatusdeeccl00wycl=bonificatur | tractatusdeeccle00wycl=bonificatur		6	accept
+101	PLATE	latinworks10wycl=ille | iohanniswyclift00mattgoog=lue | iohanniswycliftr00wycluoft=iue | iohanniswycliftr04wycl=iue | tractatusdeeccl00wycl=ille | tractatusdeeccle00wycl=ille		6	accept
+111	R3a	latinworks10wycl=illum | iohanniswyclift00mattgoog=illum | iohanniswycliftr00wycluoft=illum | iohanniswycliftr04wycl=illum | tractatusdeeccl00wycl=illum | tractatusdeeccle00wycl=ilium		6	accept
+146	R3b	latinworks10wycl=poterit | iohanniswyclift00mattgoog=poterit | iohanniswycliftr00wycluoft=poterit | iohanniswycliftr04wycl=poterit | tractatusdeeccl00wycl=potent | tractatusdeeccle00wycl=potent		6	accept
+147	R2	latinworks10wycl=illo | iohanniswyclift00mattgoog=illo | iohanniswycliftr00wycluoft=iuo | iohanniswycliftr04wycl=iuo | tractatusdeeccl00wycl=ulo | tractatusdeeccle00wycl=1ii0		6	accept
+237	PLATE	latinworks10wycl=mdicu | iohanniswycliftr00wycluoft=ludicu | iohanniswycliftr04wycl=mdicu | tractatusdeeccl00wycl=iudicn | tractatusdeeccle00wycl=ludicn		5	accept
+240	PLATE	latinworks10wycl=alns | iohanniswycliftr00wycluoft=ahis | iohanniswycliftr04wycl=alus | tractatusdeeccl00wycl=alns | tractatusdeeccle00wycl=alns		5	accept
+245	PLATE	latinworks10wycl=m | iohanniswycliftr04wycl=m		2	accept

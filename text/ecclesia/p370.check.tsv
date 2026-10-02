@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+4	R2	latinworks10wycl=meritorius | iohanniswyclift00mattgoog=maitorias | iohanniswycliftr00wycluoft=meritorius | iohanniswycliftr04wycl=meritorius | tractatusdeeccl00wycl=meritorius | tractatusdeeccle00wycl=meritorius		6	accept
+9	R2	latinworks10wycl=distributa | iohanniswyclift00mattgoog=astributi | iohanniswycliftr00wycluoft=distributa | iohanniswycliftr04wycl=distrihuta | tractatusdeeccl00wycl=distributa | tractatusdeeccle00wycl=distributa		6	accept
+10	R2	latinworks10wycl=fuissent | iohanniswyclift00mattgoog=ftiiesent | iohanniswycliftr00wycluoft=fuissent | iohanniswycliftr04wycl=fuissent | tractatusdeeccl00wycl=fuissent | tractatusdeeccle00wycl=fuissent		6	accept
+11	R3a	latinworks10wycl=bona | iohanniswyclift00mattgoog=boae | iohanniswycliftr00wycluoft=bona | iohanniswycliftr04wycl=bona | tractatusdeeccl00wycl=bona | tractatusdeeccle00wycl=bona		6	accept
+45	R3a	latinworks10wycl=cleri | iohanniswyclift00mattgoog=deri | iohanniswycliftr00wycluoft=cleri | iohanniswycliftr04wycl=cleri | tractatusdeeccl00wycl=cleri | tractatusdeeccle00wycl=cleri		6	accept
+51	R2	latinworks10wycl=satisfaccionem | iohanniswyclift00mattgoog=sadscdonem | iohanniswycliftr00wycluoft=satisfaccionem | iohanniswycliftr04wycl=satisfaccionem | tractatusdeeccl00wycl=satisfaccionem | tractatusdeeccle00wycl=satisfaccionem		6	accept
+52	R2	latinworks10wycl=tyranni | iohanniswyclift00mattgoog=tyninni | iohanniswycliftr00wycluoft=tyranni | iohanniswycliftr04wycl=tyranni | tractatusdeeccl00wycl=tyranni | tractatusdeeccle00wycl=tyranni		6	accept
+59	R2	latinworks10wycl=sed | iohanniswyclift00mattgoog=md | iohanniswycliftr00wycluoft=sed | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=sed | tractatusdeeccle00wycl=sed		6	accept
+67	R2	latinworks10wycl=ecclesiam | iohanniswyclift00mattgoog=ecdesiani | iohanniswycliftr00wycluoft=ecclesiam | iohanniswycliftr04wycl=ecclesiam | tractatusdeeccl00wycl=ecclesiam | tractatusdeeccle00wycl=ecclesiam		6	accept
+83	R2	latinworks10wycl=euidencia | iohanniswyclift00mattgoog=euidcnda | iohanniswycliftr00wycluoft=euidencia | iohanniswycliftr04wycl=euidencia | tractatusdeeccl00wycl=euidencia | tractatusdeeccle00wycl=euidencia		6	accept
+88	R2	latinworks10wycl=quinto | iohanniswyclift00mattgoog=quinto | iohanniswycliftr00wycluoft=ouinto | iohanniswycliftr04wycl=ouinto | tractatusdeeccl00wycl=quinto | tractatusdeeccle00wycl=quinto		6	accept
+89	PLATE	latinworks10wycl=areuitur | iohanniswyclift00mattgoog=aitur | iohanniswycliftr00wycluoft=arguitur | iohanniswycliftr04wycl=arguitur | tractatusdeeccl00wycl=areuitur | tractatusdeeccle00wycl=areuitur		6	accept
+110	R2	latinworks10wycl=collegia | iohanniswyclift00mattgoog=cbuegia | iohanniswycliftr00wycluoft=collegia | iohanniswycliftr04wycl=couegia | tractatusdeeccl00wycl=collegia | tractatusdeeccle00wycl=collegia		6	accept
+128	R2	latinworks10wycl=clerici | iohanniswyclift00mattgoog=derid | iohanniswycliftr00wycluoft=clerici | iohanniswycliftr04wycl=clerici | tractatusdeeccl00wycl=clerici | tractatusdeeccle00wycl=clerici		6	accept
+154	R2	latinworks10wycl=a | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=a | iohanniswycliftr04wycl=a | tractatusdeeccl00wycl=a | tractatusdeeccle00wycl=∅		6	accept
+168	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cuni | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+192	PLATE	latinworks10wycl=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cuiii | tractatusdeeccl00wycl=cuiii | tractatusdeeccle00wycl=cum		5	accept
+193	R2	latinworks10wycl=honio | iohanniswycliftr00wycluoft=homo | iohanniswycliftr04wycl=homo | tractatusdeeccl00wycl=hoiiio | tractatusdeeccle00wycl=homo		5	accept
+202	R4a	latinworks10wycl=moraliter | iohanniswyclift00mattgoog=moraliter | iohanniswycliftr00wycluoft=morahter | iohanniswycliftr04wycl=morahter | tractatusdeeccl00wycl=moranter | tractatusdeeccle00wycl=morahter		6	accept
+204	R2	latinworks10wycl=tamen | iohanniswyclift00mattgoog=tamen | iohanniswycliftr00wycluoft=taraen | iohanniswycliftr04wycl=taraen | tractatusdeeccl00wycl=tamen | tractatusdeeccle00wycl=tamen		6	accept
+208	PLATE	latinworks10wycl=111 | iohanniswyclift00mattgoog=m | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=m | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=in		6	accept
+209	R2	latinworks10wycl=noc | iohanniswyclift00mattgoog=hoc | iohanniswycliftr00wycluoft=hoc | iohanniswycliftr04wycl=noc | tractatusdeeccl00wycl=hoc | tractatusdeeccle00wycl=hoc		6	accept

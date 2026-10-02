@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=ecclesie | iohanniswycliftr00wycluoft=ecclesie		2	accept
+1	EDGE	latinworks10wycl=et | iohanniswycliftr00wycluoft=et		2	accept
+2	PLATE	latinworks10wycl=iteruni | iohanniswycliftr00wycluoft=iteruni		2	accept
+29	INS?	s	2	6	plate: ∅
+94	R2	latinworks10wycl=ex | iohanniswyclift00mattgoog=ex | iohanniswycliftr00wycluoft=ex | iohanniswycliftr04wycl=ex | tractatusdeeccl00wycl=c | tractatusdeeccle00wycl=ex		6	accept
+99	R2	latinworks10wycl=quod | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=quod | iohanniswycliftr04wycl=quod | tractatusdeeccl00wycl=t5quod | tractatusdeeccle00wycl=quod		6	accept
+100	R2	latinworks10wycl=tam | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=tam | iohanniswycliftr04wycl=tam | tractatusdeeccl00wycl=tam | tractatusdeeccle00wycl=tarn		6	accept
+101	R2	latinworks10wycl=necessaria | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=necessaria | iohanniswycliftr04wycl=necessaria | tractatusdeeccl00wycl=neccssaria | tractatusdeeccle00wycl=necessaria		6	accept
+102	R2	latinworks10wycl=est | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=cst | tractatusdeeccle00wycl=est		6	accept
+103	R2	latinworks10wycl=modo | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=modo | iohanniswycliftr04wycl=modo | tractatusdeeccl00wycl=modo | tractatusdeeccle00wycl=modo		6	accept
+104	R2	latinworks10wycl=possessio | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=possessio | iohanniswycliftr04wycl=possessio | tractatusdeeccl00wycl=possessio | tractatusdeeccle00wycl=possessio		6	accept
+105	R2	latinworks10wycl=temporalium | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=temporahum | iohanniswycliftr04wycl=teniporalium | tractatusdeeccl00wycl=teraporalium | tractatusdeeccle00wycl=temporalium		6	accept
+118	R3a	latinworks10wycl=est | iohanniswyclift00mattgoog=eat | iohanniswycliftr00wycluoft=est | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=est | tractatusdeeccle00wycl=est		6	accept
+125	R2	latinworks10wycl=quam | iohanniswyclift00mattgoog=quara | iohanniswycliftr00wycluoft=quam | iohanniswycliftr04wycl=quam | tractatusdeeccl00wycl=quam | tractatusdeeccle00wycl=quam		6	accept
+170	R2	latinworks10wycl=de | iohanniswyclift00mattgoog=asde | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=de | tractatusdeeccle00wycl=de		6	accept
+199	R2	latinworks10wycl=temptaret | iohanniswyclift00mattgoog=teraptoret | iohanniswycliftr00wycluoft=temptaret | iohanniswycliftr04wycl=temptaret | tractatusdeeccl00wycl=temptaret | tractatusdeeccle00wycl=temptaret		6	accept
+203	R5a	latinworks10wycl=r | iohanniswyclift00mattgoog=r | iohanniswycliftr00wycluoft=r | iohanniswycliftr04wycl=r | tractatusdeeccl00wycl=r | tractatusdeeccle00wycl=r		6	accept
+214	R3a	latinworks10wycl=perfeccius | iohanniswyclift00mattgoog=perfecciui | iohanniswycliftr00wycluoft=perfeccius | iohanniswycliftr04wycl=perfeccius | tractatusdeeccl00wycl=perfeccius | tractatusdeeccle00wycl=perfeccius		6	accept
+215	R2	latinworks10wycl=lhoc | iohanniswyclift00mattgoog=iboc | iohanniswycliftr00wycluoft=ihoc | iohanniswycliftr04wycl=hoc | tractatusdeeccl00wycl=hoc | tractatusdeeccle00wycl=lhoc		6	accept

@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+1	INS?	est sic misticum sed obscurum cum sic coniungi diabolo ki42non	2	6	plate: ∅
+9	R2	latinworks10wycl=corpus | iohanniswyclift00mattgoog=coqus | iohanniswycliftr00wycluoft=corpus | iohanniswycliftr04wycl=corpus | tractatusdeeccl00wycl=corpus | tractatusdeeccle00wycl=corpus		6	accept
+14	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cura | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+22	R2	latinworks10wycl=omne | iohanniswyclift00mattgoog=omne | iohanniswycliftr00wycluoft=omne | iohanniswycliftr04wycl=omiie | tractatusdeeccl00wycl=ontne | tractatusdeeccle00wycl=omne		6	accept
+23	R3a	latinworks10wycl=malum | iohanniswyclift00mattgoog=matum | iohanniswycliftr00wycluoft=malum | iohanniswycliftr04wycl=malum | tractatusdeeccl00wycl=malum | tractatusdeeccle00wycl=malum		6	accept
+31	R2	latinworks10wycl=moris | iohanniswyclift00mattgoog=moris | iohanniswycliftr00wycluoft=moris | iohanniswycliftr04wycl=moris | tractatusdeeccl00wycl=moris | tractatusdeeccle00wycl=mods		6	accept
+70	R3a	latinworks10wycl=iuris | iohanniswyclift00mattgoog=turis | iohanniswycliftr00wycluoft=iuris | iohanniswycliftr04wycl=iuris | tractatusdeeccl00wycl=iuris | tractatusdeeccle00wycl=iuris		6	accept
+88	R3a	latinworks10wycl=preter | iohanniswyclift00mattgoog=preter | iohanniswycliftr00wycluoft=preter | iohanniswycliftr04wycl=preter | tractatusdeeccl00wycl=preter | tractatusdeeccle00wycl=prefer		6	accept
+103	PLATE	latinworks10wycl=ghristi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=ghristi		6	accept
+116	R2	latinworks10wycl=iii | iohanniswyclift00mattgoog=111 | iohanniswycliftr00wycluoft=111 | iohanniswycliftr04wycl=111 | tractatusdeeccl00wycl=111 | tractatusdeeccle00wycl=111		6	accept
+120	R2	latinworks10wycl=xxxii | iohanniswyclift00mattgoog=xxxii | iohanniswycliftr00wycluoft=xxxii | iohanniswycliftr04wycl=xxxii | tractatusdeeccl00wycl=kxxii0 | tractatusdeeccle00wycl=xxxii		6	accept
+121	R3a	latinworks10wycl=cap | iohanniswyclift00mattgoog=capy | iohanniswycliftr00wycluoft=cap | iohanniswycliftr04wycl=cap | tractatusdeeccl00wycl=cap | tractatusdeeccle00wycl=cap		6	accept
+125	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+132	R5a	latinworks10wycl=l | iohanniswyclift00mattgoog=l | iohanniswycliftr00wycluoft=l | iohanniswycliftr04wycl=l | tractatusdeeccl00wycl=l | tractatusdeeccle00wycl=l		6	accept
+194	R2	latinworks10wycl=continuat | iohanniswyclift00mattgoog=continuat | iohanniswycliftr00wycluoft=gontinuat | iohanniswycliftr04wycl=gontinuat | tractatusdeeccl00wycl=continuat | tractatusdeeccle00wycl=continuat		6	accept
+195	R2	latinworks10wycl=enim | iohanniswyclift00mattgoog=enim | iohanniswycliftr00wycluoft=enim | iohanniswycliftr04wycl=enira | tractatusdeeccl00wycl=enim | tractatusdeeccle00wycl=enim		6	accept
+214	R2	latinworks10wycl=mixi42dtum | iohanniswyclift00mattgoog=mix142tum | iohanniswycliftr00wycluoft=mixtum | iohanniswycliftr04wycl=mixtum | tractatusdeeccl00wycl=mix142tum | tractatusdeeccle00wycl=mixturn		6	accept
+220	PLATE	latinworks10wycl=eleraentum | tractatusdeeccl00wycl=eleraentum		2	accept

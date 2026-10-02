@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+4	R2	latinworks10wycl=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=el | tractatusdeeccle00wycl=et		5	accept
+9	PLATE	latinworks10wycl=xxi | iohanniswycliftr00wycluoft=xxiu | iohanniswycliftr04wycl=xxl | tractatusdeeccle00wycl=xxi		4	accept
+10	PLATE	latinworks10wycl=ua | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=u | tractatusdeeccle00wycl=ua		4	accept
+14	PLATE	latinworks10wycl=mdubie | iohanniswycliftr00wycluoft=mdubie | iohanniswycliftr04wycl=mdubie | tractatusdeeccl00wycl=indubie | tractatusdeeccle00wycl=mdubie		5	accept
+18	R2	latinworks10wycl=ibidem | iohanniswycliftr00wycluoft=ibidem | iohanniswycliftr04wycl=ibidem | tractatusdeeccl00wycl=tbidcm | tractatusdeeccle00wycl=ibidem		5	accept
+20	R2	latinworks10wycl=secunda | iohanniswycliftr00wycluoft=secunda | iohanniswycliftr04wycl=secunda | tractatusdeeccl00wycl=sccunla | tractatusdeeccle00wycl=secunda		5	accept
+60	R3a	latinworks10wycl=oportet | iohanniswycliftr00wycluoft=oportet | iohanniswycliftr04wycl=oportet | tractatusdeeccl00wycl=oportet | tractatusdeeccle00wycl=quod		5	accept
+61	PLATE	latinworks10wycl=quodin | iohanniswycliftr00wycluoft=quodin | iohanniswycliftr04wycl=quoditi | tractatusdeeccl00wycl=quodin | tractatusdeeccle00wycl=in		5	accept
+76	R2	latinworks10wycl=nunquam | iohanniswycliftr00wycluoft=tiunquam | iohanniswycliftr04wycl=iiunquam | tractatusdeeccl00wycl=rcspondet | tractatusdeeccle00wycl=nunquam		5	accept
+77	R2	latinworks10wycl=reuertentur | iohanniswycliftr00wycluoft=reuertentur | iohanniswycliftr04wycl=reuertenlur | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=reuertentur		5	accept
+78	R2	latinworks10wycl=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=et		5	accept
+79	R2	latinworks10wycl=respondet | iohanniswycliftr00wycluoft=respondet | iohanniswycliftr04wycl=respondet | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=respondet		5	accept
+104	R3a	latinworks10wycl=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		5	accept
+121	PLATE	latinworks10wycl=oditum | iohanniswycliftr00wycluoft=oditum | iohanniswycliftr04wycl=oditum | tractatusdeeccl00wycl=oditum | tractatusdeeccle00wycl=oditum		5	accept
+125	R5a	latinworks10wycl=uii | iohanniswycliftr00wycluoft=uii | iohanniswycliftr04wycl=uii | tractatusdeeccl00wycl=uii | tractatusdeeccle00wycl=uii		5	accept
+144	R3a	latinworks10wycl=uterque | iohanniswycliftr00wycluoft=luterque | iohanniswycliftr04wycl=uterque | tractatusdeeccl00wycl=uterque | tractatusdeeccle00wycl=uterque		5	accept

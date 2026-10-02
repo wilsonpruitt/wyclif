@@ -1,0 +1,40 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=iniuriam | tractatusdeeccl00wycl=iniuriam		2	accept
+6	R2	latinworks10wycl=papam | iohanniswycliftr00wycluoft=papam | tractatusdeeccl00wycl=papara | tractatusdeeccle00wycl=papain		4	accept
+28	PLATE	latinworks10wycl=aliunde | iohanniswycliftr00wycluoft=saliunde | iohanniswycliftr04wycl=3aliunde | tractatusdeeccl00wycl=saliunde | tractatusdeeccle00wycl=aliunde		5	accept
+43	R2	latinworks10wycl=humiliter | iohanniswycliftr00wycluoft=humihter | iohanniswycliftr04wycl=huraihter | tractatusdeeccl00wycl=hurai | tractatusdeeccle00wycl=humiliter		5	accept
+46	R2	latinworks10wycl=recompensam | iohanniswycliftr00wycluoft=recompensam | iohanniswycliftr04wycl=recompensam | tractatusdeeccl00wycl=rccompcnsnm | tractatusdeeccle00wycl=recompensam		5	accept
+47	R2	latinworks10wycl=et | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=kt | tractatusdeeccle00wycl=et		5	accept
+48	R2	latinworks10wycl=eodem | iohanniswycliftr00wycluoft=eodem | iohanniswycliftr04wycl=eodem | tractatusdeeccl00wycl=eodera | tractatusdeeccle00wycl=eodem		5	accept
+64	R2	latinworks10wycl=deliquerit | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=dehquent | tractatusdeeccl00wycl=dcliqucrit | tractatusdeeccle00wycl=∅		5	accept
+94	R2	latinworks10wycl=potest | iohanniswycliftr00wycluoft=potest | iohanniswycliftr04wycl=potest | tractatusdeeccl00wycl=ootcst | tractatusdeeccle00wycl=potest		5	accept
+106	R3a	latinworks10wycl=ecclesie | iohanniswycliftr00wycluoft=ecclesie | iohanniswycliftr04wycl=ecclesie | tractatusdeeccl00wycl=ecclcsie | tractatusdeeccle00wycl=ecclesie		5	accept
+107	R2	latinworks10wycl=quam | iohanniswycliftr00wycluoft=quam | iohanniswycliftr04wycl=quara | tractatusdeeccl00wycl=quam | tractatusdeeccle00wycl=quam		5	accept
+134	R2	latinworks10wycl=totum | iohanniswycliftr00wycluoft=totum | iohanniswycliftr04wycl=totum | tractatusdeeccl00wycl=ototura | tractatusdeeccle00wycl=totum		5	accept
+135	PLATE	latinworks10wycl=reenum | iohanniswycliftr00wycluoft=reenum | iohanniswycliftr04wycl=regnura | tractatusdeeccl00wycl=rciinum | tractatusdeeccle00wycl=regnum		5	accept
+138	PLATE	latinworks10wycl=coneregatum | iohanniswycliftr04wycl=congregatura | tractatusdeeccle00wycl=congregatum		3	accept
+139	R4a	latinworks10wycl=m | iohanniswycliftr04wycl=m | tractatusdeeccle00wycl=in		3	accept
+140	PLATE	latinworks10wycl=parliamento | iohanniswycliftr04wycl=parhamento | tractatusdeeccl00wycl=parliamento | tractatusdeeccle00wycl=parhamento		4	accept
+141	R2	latinworks10wycl=ergo | iohanniswycliftr04wycl=ergo | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=ergo		4	accept
+142	R2	latinworks10wycl=consenctente | iohanniswycliftr04wycl=consenciente | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=consenciente		4	accept
+143	PLATE	latinworks10wycl=parhamento | iohanniswycliftr00wycluoft=parhamento | iohanniswycliftr04wycl=parharaento | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=parhamento		5	accept
+147	R3a	latinworks10wycl=fit | iohanniswycliftr00wycluoft=fit | iohanniswycliftr04wycl=fit | tractatusdeeccl00wycl=lit | tractatusdeeccle00wycl=fit		5	accept
+150	R4a	latinworks10wycl=hcet | iohanniswycliftr00wycluoft=hcet | iohanniswycliftr04wycl=hcet | tractatusdeeccl00wycl=licet | tractatusdeeccle00wycl=licet		5	accept
+152	R2	latinworks10wycl=habuermt | iohanniswycliftr00wycluoft=habuerint | iohanniswycliftr04wycl=habuennt | tractatusdeeccl00wycl=habucrint | tractatusdeeccle00wycl=habuennt		5	accept
+155	PLATE	latinworks10wycl=pnuilegium | iohanniswycliftr00wycluoft=ipriuileeium | iohanniswycliftr04wycl=pnuilegmra | tractatusdeeccl00wycl=priuileeium | tractatusdeeccle00wycl=i64dpnuilegium		5	accept
+157	R3a	latinworks10wycl=patet | iohanniswycliftr00wycluoft=patet | iohanniswycliftr04wycl=patet | tractatusdeeccl00wycl=natet | tractatusdeeccle00wycl=patet		5	accept
+162	R3a	latinworks10wycl=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nara | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		5	accept
+167	PLATE	latinworks10wycl=fiat | iohanniswycliftr00wycluoft=nat | iohanniswycliftr04wycl=hat | tractatusdeeccl00wycl=nat | tractatusdeeccle00wycl=fiat		5	accept
+168	PLATE	latinworks10wycl=lmanitesta | iohanniswycliftr00wycluoft=maniresta | iohanniswycliftr04wycl=imanifesta | tractatusdeeccl00wycl=lmanifesta | tractatusdeeccle00wycl=manilesta		5	accept
+169	R2	latinworks10wycl=miuria | iohanniswycliftr00wycluoft=mmna | iohanniswycliftr04wycl=miuna | tractatusdeeccl00wycl=iniuria | tractatusdeeccle00wycl=iniuria		5	accept
+172	R3a	latinworks10wycl=quod | iohanniswycliftr00wycluoft=quoa | iohanniswycliftr04wycl=quod | tractatusdeeccl00wycl=quod | tractatusdeeccle00wycl=quod		5	accept
+174	R4a	latinworks10wycl=uelit | iohanniswycliftr00wycluoft=ueht | iohanniswycliftr04wycl=ueht | tractatusdeeccl00wycl=uelit | tractatusdeeccle00wycl=ueht		5	accept
+183	R2	latinworks10wycl=primo | iohanniswycliftr00wycluoft=primo | iohanniswycliftr04wycl=prirao | tractatusdeeccl00wycl=primo | tractatusdeeccle00wycl=primo		5	accept
+186	R3a	latinworks10wycl=fit | iohanniswycliftr00wycluoft=fit | iohanniswycliftr04wycl=fit | tractatusdeeccl00wycl=lit | tractatusdeeccle00wycl=fit		5	accept
+191	R2	latinworks10wycl=2excitante | iohanniswycliftr00wycluoft=2excitante | iohanniswycliftr04wycl=sexcitante | tractatusdeeccl00wycl=sexcitantc | tractatusdeeccle00wycl=excitante		5	accept
+192	R3a	latinworks10wycl=immo | iohanniswycliftr00wycluoft=ymmo | iohanniswycliftr04wycl=ymmo | tractatusdeeccl00wycl=ymmo | tractatusdeeccle00wycl=ymmo		5	accept
+210	R3a	latinworks10wycl=filiis | iohanniswycliftr00wycluoft=fihis | iohanniswycliftr04wycl=fihis | tractatusdeeccl00wycl=liliis | tractatusdeeccle00wycl=filiis		5	accept
+214	R5a	latinworks10wycl=finees | iohanniswycliftr00wycluoft=finees | iohanniswycliftr04wycl=finees | tractatusdeeccl00wycl=finecs | tractatusdeeccle00wycl=finees		5	accept
+221	R2	latinworks10wycl=multo | iohanniswycliftr00wycluoft=multo | iohanniswycliftr04wycl=muko | tractatusdeeccl00wycl=multo | tractatusdeeccle00wycl=multo		5	accept
+222	R2	latinworks10wycl=magis | iohanniswycliftr00wycluoft=magis | iohanniswycliftr04wycl=raagis | tractatusdeeccl00wycl=magis | tractatusdeeccle00wycl=magis		5	accept
+224	R2	latinworks10wycl=hominem | iohanniswycliftr00wycluoft=hominem | iohanniswycliftr04wycl=horainera | tractatusdeeccl00wycl=hominem | tractatusdeeccle00wycl=hominem		5	accept

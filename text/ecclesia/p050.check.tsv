@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=quitur | iohanniswycliftr00wycluoft=quitur | tractatusdeeccle00wycl=quitur		3	accept
+6	R4a	latinworks10wycl=iiliorum | iohanniswyclift00mattgoog=iiliorum | iohanniswycliftr00wycluoft=iiliornm | iohanniswycliftr04wycl=iilioriim | tractatusdeeccl00wycl=iiliorum | tractatusdeeccle00wycl=filiorum		6	accept
+19	R3a	latinworks10wycl=iudicia | iohanniswyclift00mattgoog=iudicia | iohanniswycliftr00wycluoft=iudicia | iohanniswycliftr04wycl=iudicia | tractatusdeeccl00wycl=iudicia | tractatusdeeccle00wycl=indicia		6	accept
+32	R2	latinworks10wycl=acquirendis | iohanniswyclift00mattgoog=acqui5 | iohanniswycliftr00wycluoft=acquirendis | iohanniswycliftr04wycl=acquirendis | tractatusdeeccl00wycl=acquirendis | tractatusdeeccle00wycl=acquirendis		6	accept
+44	INS?	keep	3	6	plate: ∅
+61	R2	latinworks10wycl=ypocrita | iohanniswyclift00mattgoog=ypocrita | iohanniswycliftr00wycluoft=locn7a | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=ypocrita | tractatusdeeccle00wycl=ypocrita		6	accept
+100	R3a	latinworks10wycl=ypocrite | iohanniswyclift00mattgoog=ypocrite | iohanniswycliftr00wycluoft=ypocrite | iohanniswycliftr04wycl=ipocrite | tractatusdeeccl00wycl=ypocrite | tractatusdeeccle00wycl=ypocrite		6	accept
+134	R2	latinworks10wycl=paciencia | iohanniswyclift00mattgoog=paciendato | iohanniswycliftr00wycluoft=paciencia | iohanniswycliftr04wycl=paciencia | tractatusdeeccl00wycl=paciencia | tractatusdeeccle00wycl=paciencia		6	accept
+136	R2	latinworks10wycl=mox | iohanniswyclift00mattgoog=mox | iohanniswycliftr00wycluoft=7nox | iohanniswycliftr04wycl=mox | tractatusdeeccl00wycl=mox | tractatusdeeccle00wycl=mox		6	accept
+140	R2	latinworks10wycl=uocibus | iohanniswyclift00mattgoog=uodhus | iohanniswycliftr00wycluoft=uocibus | iohanniswycliftr04wycl=uocibus | tractatusdeeccl00wycl=uocibus | tractatusdeeccle00wycl=uocibus		6	accept
+153	R3a	latinworks10wycl=eciam | iohanniswyclift00mattgoog=edam | iohanniswycliftr00wycluoft=eciam | iohanniswycliftr04wycl=eciam | tractatusdeeccl00wycl=eciam | tractatusdeeccle00wycl=eciam		6	accept
+177	PLATE	latinworks10wycl=hs | iohanniswyclift00mattgoog=iis | iohanniswycliftr00wycluoft=its | iohanniswycliftr04wycl=its | tractatusdeeccl00wycl=its | tractatusdeeccle00wycl=its		6	accept
+200	PLATE	latinworks10wycl=indicat | iohanniswyclift00mattgoog=indicatso | iohanniswycliftr00wycluoft=indicat | iohanniswycliftr04wycl=indicat | tractatusdeeccl00wycl=indicato | tractatusdeeccle00wycl=indicat		6	accept

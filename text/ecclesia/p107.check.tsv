@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=illud | iohanniswyclift00mattgoog=illud | tractatusdeeccle00wycl=illud		3	accept
+33	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=non | iohanniswycliftr00wycluoft=non | iohanniswycliftr04wycl=non | tractatusdeeccl00wycl=mni | tractatusdeeccle00wycl=non		6	accept
+63	PLATE	latinworks10wycl=quia | iohanniswyclift00mattgoog=isquia | iohanniswycliftr00wycluoft=isquia | iohanniswycliftr04wycl=isquia | tractatusdeeccl00wycl=quia | tractatusdeeccle00wycl=quia		6	accept
+93	R2	latinworks10wycl=omnia | iohanniswyclift00mattgoog=omnia | iohanniswycliftr00wycluoft=omnia | iohanniswycliftr04wycl=orania | tractatusdeeccl00wycl=omnia | tractatusdeeccle00wycl=omnia		6	accept
+102	PLATE	latinworks10wycl=amchuari | iohanniswyclift00mattgoog=anichilari | iohanniswycliftr00wycluoft=anichilari | iohanniswycliftr04wycl=anichilari | tractatusdeeccl00wycl=anichilan | tractatusdeeccle00wycl=anichilan		6	accept
+120	R2	latinworks10wycl=possumns | iohanniswyclift00mattgoog=possumus | iohanniswycliftr00wycluoft=possiimiis | iohanniswycliftr04wycl=possiimus | tractatusdeeccl00wycl=possumus | tractatusdeeccle00wycl=possumus		6	accept
+127	R2	latinworks10wycl=fecit | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=fecit | iohanniswycliftr04wycl=fecit | tractatusdeeccl00wycl=fecit | tractatusdeeccle00wycl=fecit		6	accept
+140	R2	latinworks10wycl=eius | iohanniswyclift00mattgoog=eius | iohanniswycliftr00wycluoft=eiiis | iohanniswycliftr04wycl=eius | tractatusdeeccl00wycl=eius | tractatusdeeccle00wycl=eius		6	accept
+174	R5a	latinworks10wycl=existenciam | iohanniswyclift00mattgoog=existenciam | iohanniswycliftr00wycluoft=existenciam | iohanniswycliftr04wycl=existenciam | tractatusdeeccl00wycl=existenciam | tractatusdeeccle00wycl=existenciam		6	accept
+184	R3a	latinworks10wycl=patet | iohanniswyclift00mattgoog=patet | iohanniswycliftr00wycluoft=patet | iohanniswycliftr04wycl=patet | tractatusdeeccl00wycl=natet | tractatusdeeccle00wycl=patet		6	accept
+189	R5a	latinworks10wycl=iesu | iohanniswyclift00mattgoog=iesu | iohanniswycliftr00wycluoft=iesu | iohanniswycliftr04wycl=iesu | tractatusdeeccl00wycl=iesu | tractatusdeeccle00wycl=iesu		6	accept
+204	R4a	latinworks10wycl=alten | iohanniswyclift00mattgoog=alten | iohanniswycliftr00wycluoft=alteri | iohanniswycliftr04wycl=alteri | tractatusdeeccl00wycl=alten | tractatusdeeccle00wycl=alten		6	accept
+221	R2	latinworks10wycl=mathematicum | iohanniswycliftr00wycluoft=mathematicum | iohanniswycliftr04wycl=raatheraaticura | tractatusdeeccl00wycl=mathematicum | tractatusdeeccle00wycl=mathematicum		5	accept
+234	R2	latinworks10wycl=medium | iohanniswyclift00mattgoog=medium | iohanniswycliftr00wycluoft=medium | iohanniswycliftr04wycl=raediura | tractatusdeeccl00wycl=medium | tractatusdeeccle00wycl=medium		6	accept
+235	R3a	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=nara | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		6	accept
+243	R2	latinworks10wycl=medio | iohanniswyclift00mattgoog=medio | iohanniswycliftr00wycluoft=medio | iohanniswycliftr04wycl=raedio | tractatusdeeccl00wycl=medio | tractatusdeeccle00wycl=medio		6	accept
+247	PLATE	latinworks10wycl=lfilium | iohanniswycliftr00wycluoft=ifilium | iohanniswycliftr04wycl=ifiliura | tractatusdeeccl00wycl=lfilium | tractatusdeeccle00wycl=lfilium		5	accept
+248	R2	latinworks10wycl=unde | iohanniswycliftr00wycluoft=unde | iohanniswycliftr04wycl=tinde | tractatusdeeccl00wycl=unde | tractatusdeeccle00wycl=unde		5	accept

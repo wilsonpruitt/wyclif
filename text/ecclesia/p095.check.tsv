@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+5	R3a	latinworks10wycl=regimine | iohanniswyclift00mattgoog=regimine | iohanniswycliftr00wycluoft=regimine | iohanniswycliftr04wycl=a | tractatusdeeccl00wycl=regimine | tractatusdeeccle00wycl=regimine		6	accept
+11	R3a	latinworks10wycl=per | iohanniswyclift00mattgoog=per | iohanniswycliftr00wycluoft=ner | iohanniswycliftr04wycl=per | tractatusdeeccl00wycl=per | tractatusdeeccle00wycl=per		6	accept
+18	R2	latinworks10wycl=sit | iohanniswyclift00mattgoog=stt | iohanniswycliftr00wycluoft=sit | iohanniswycliftr04wycl=sit | tractatusdeeccl00wycl=sit | tractatusdeeccle00wycl=sit		6	accept
+33	PLATE	latinworks10wycl=ghristi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=ghristi | tractatusdeeccl00wycl=ghristi | tractatusdeeccle00wycl=christi		6	accept
+56	R2	latinworks10wycl=oleum | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=oleum | iohanniswycliftr04wycl=oleum | tractatusdeeccl00wycl=oleum | tractatusdeeccle00wycl=oleum		6	accept
+57	R2	latinworks10wycl=alternare | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=alternare | iohanniswycliftr04wycl=alternare | tractatusdeeccl00wycl=alternare | tractatusdeeccle00wycl=alternare		6	accept
+58	R3a	latinworks10wycl=nam | iohanniswyclift00mattgoog=nam | iohanniswycliftr00wycluoft=nara | iohanniswycliftr04wycl=nam | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		6	accept
+60	PLATE	latinworks10wycl=commentatorem | iohanniswyclift00mattgoog=commentatorem | iohanniswycliftr00wycluoft=gommentatorem | iohanniswycliftr04wycl=gommentatorem | tractatusdeeccl00wycl=commentatorem | tractatusdeeccle00wycl=gommentatorem		6	accept
+89	PLATE	latinworks10wycl=correspondenter | iohanniswyclift00mattgoog=correspondenter | iohanniswycliftr00wycluoft=gorrespondenter | iohanniswycliftr04wycl=gorrespondenter | tractatusdeeccl00wycl=correspondenter | tractatusdeeccle00wycl=correspondenter		6	accept
+95	R3a	latinworks10wycl=inferius | iohanniswyclift00mattgoog=inferius | iohanniswycliftr00wycluoft=inferius | iohanniswycliftr04wycl=inferius | tractatusdeeccl00wycl=interius | tractatusdeeccle00wycl=inferius		6	accept
+120	R3a	latinworks10wycl=latria | iohanniswyclift00mattgoog=iatria | iohanniswycliftr00wycluoft=latria | iohanniswycliftr04wycl=latria | tractatusdeeccl00wycl=latria | tractatusdeeccle00wycl=latria		6	accept
+125	R2	latinworks10wycl=amplior | iohanniswyclift00mattgoog=aropuor | iohanniswycliftr00wycluoft=amplior | iohanniswycliftr04wycl=amplior | tractatusdeeccl00wycl=amplior | tractatusdeeccle00wycl=amplior		6	accept
+127	PLATE	latinworks10wycl=correspondenter | iohanniswyclift00mattgoog=correspondenter | iohanniswycliftr00wycluoft=gorrespondenter | iohanniswycliftr04wycl=gorrespondenter | tractatusdeeccl00wycl=correspondenter | tractatusdeeccle00wycl=correspondenter		6	accept

@@ -1,0 +1,29 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=iqicaracteris		1	accept
+1	PLATE	latinworks10wycl=impeifeccionem		1	accept
+7	R2	latinworks10wycl=satis | iohanniswyclift00mattgoog=utis | iohanniswycliftr00wycluoft=satis | iohanniswycliftr04wycl=satis | tractatusdeeccl00wycl=satis | tractatusdeeccle00wycl=satis		6	accept
+8	R2	latinworks10wycl=uiuaciter | iohanniswyclift00mattgoog=uitadter | iohanniswycliftr00wycluoft=uiuaciter | iohanniswycliftr04wycl=uiuaciter | tractatusdeeccl00wycl=uiuaciter | tractatusdeeccle00wycl=uiuaciter		6	accept
+14	R2	latinworks10wycl=tunc | iohanniswycliftr00wycluoft=tuficesset | iohanniswycliftr04wycl=tunc | tractatusdeeccle00wycl=tunc		4	accept
+15	R2	latinworks10wycl=esset | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=esset | tractatusdeeccle00wycl=esset		4	accept
+49	R3a	latinworks10wycl=ad | iohanniswyclift00mattgoog=ai | iohanniswycliftr00wycluoft=ad | iohanniswycliftr04wycl=ad | tractatusdeeccl00wycl=ad | tractatusdeeccle00wycl=ad		6	accept
+67	R2	latinworks10wycl=foret | iohanniswyclift00mattgoog=tooret | iohanniswycliftr00wycluoft=foret | iohanniswycliftr04wycl=foret | tractatusdeeccl00wycl=forct | tractatusdeeccle00wycl=foret		6	accept
+89	R2	latinworks10wycl=domnino | iohanniswyclift00mattgoog=aomtiino | iohanniswycliftr00wycluoft=domnifio | iohanniswycliftr04wycl=domnino | tractatusdeeccl00wycl=mnino | tractatusdeeccle00wycl=domnino		6	accept
+95	R2	latinworks10wycl=possunt | iohanniswyclift00mattgoog=possaot | iohanniswycliftr00wycluoft=possunt | iohanniswycliftr04wycl=possunt | tractatusdeeccl00wycl=possunt | tractatusdeeccle00wycl=possunt		6	accept
+96	R3a	latinworks10wycl=fieri | iohanniswyclift00mattgoog=teri | iohanniswycliftr00wycluoft=fieri | iohanniswycliftr04wycl=fieri | tractatusdeeccl00wycl=ticri | tractatusdeeccle00wycl=fieri		6	accept
+97	R2	latinworks10wycl=argumenta | iohanniswyclift00mattgoog=orgunienta | iohanniswycliftr00wycluoft=argumenta | iohanniswycliftr04wycl=argumenta | tractatusdeeccl00wycl=argumenta | tractatusdeeccle00wycl=argumenta		6	accept
+120	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=io | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+123	R2	latinworks10wycl=in | iohanniswyclift00mattgoog=lo | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+132	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=io | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+142	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=ia | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=in | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+160	R2	latinworks10wycl=eo | iohanniswyclift00mattgoog=eo | iohanniswycliftr00wycluoft=eo | iohanniswycliftr04wycl=eo | tractatusdeeccl00wycl=c | tractatusdeeccle00wycl=eo		6	accept
+163	R2	latinworks10wycl=solum | iohanniswyclift00mattgoog=solum | iohanniswycliftr00wycluoft=soluffi | iohanniswycliftr04wycl=solum | tractatusdeeccl00wycl=solum | tractatusdeeccle00wycl=solum		6	accept
+167	R2	latinworks10wycl=cultum | iohanniswyclift00mattgoog=cultum | iohanniswycliftr00wycluoft=cultuffi | iohanniswycliftr04wycl=cultum | tractatusdeeccl00wycl=cultum | tractatusdeeccle00wycl=cultum		6	accept
+172	R2	latinworks10wycl=ymmo | iohanniswyclift00mattgoog=xnimo | iohanniswycliftr00wycluoft=yffiffio | iohanniswycliftr04wycl=ymmo | tractatusdeeccl00wycl=ymmo | tractatusdeeccle00wycl=ymmo		6	accept
+186	R3a	latinworks10wycl=si | iohanniswyclift00mattgoog=st | iohanniswycliftr00wycluoft=si | iohanniswycliftr04wycl=si | tractatusdeeccl00wycl=si | tractatusdeeccle00wycl=si		6	accept
+187	R2	latinworks10wycl=simul | iohanniswyclift00mattgoog=simul | iohanniswycliftr00wycluoft=siffiul | iohanniswycliftr04wycl=simul | tractatusdeeccl00wycl=simul | tractatusdeeccle00wycl=simul		6	accept
+189	R2	latinworks10wycl=nunquam | iohanniswyclift00mattgoog=nuitquam | iohanniswycliftr00wycluoft=fiunquafn | iohanniswycliftr04wycl=nunquam | tractatusdeeccl00wycl=nunquam | tractatusdeeccle00wycl=nunquam		6	accept
+190	R2	latinworks10wycl=auferuntur | iohanniswyclift00mattgoog=attferuntttr | iohanniswycliftr00wycluoft=auferuntur | iohanniswycliftr04wycl=auferuntur | tractatusdeeccl00wycl=auferuntur | tractatusdeeccle00wycl=auferuntur		6	accept
+194	R2	latinworks10wycl=ministerium | iohanniswyclift00mattgoog=mimslertum | iohanniswycliftr00wycluoft=ministerium | iohanniswycliftr04wycl=ministerium | tractatusdeeccl00wycl=ministerium | tractatusdeeccle00wycl=ministerium		6	accept
+198	R2	latinworks10wycl=minori | iohanniswyclift00mattgoog=minori | iohanniswycliftr00wycluoft=fiiifiori | iohanniswycliftr04wycl=minori | tractatusdeeccl00wycl=minori | tractatusdeeccle00wycl=minori		6	accept
+208	R2	latinworks10wycl=imprimi | iohanniswyclift00mattgoog=imprimi | iohanniswycliftr00wycluoft=iffiprifni | iohanniswycliftr04wycl=imprimi | tractatusdeeccl00wycl=imprimi | tractatusdeeccle00wycl=imprimi		6	accept
+219	R2	latinworks10wycl=autem | iohanniswyclift00mattgoog=autem | iohanniswycliftr00wycluoft=autefu | iohanniswycliftr04wycl=autem | tractatusdeeccle00wycl=autem		5	accept

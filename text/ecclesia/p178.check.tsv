@@ -1,0 +1,43 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=item		1	accept
+1	PLATE	latinworks10wycl=nroporcionaliter		1	accept
+2	EDGE	latinworks10wycl=ut		1	accept
+3	EDGE	latinworks10wycl=dominus		1	accept
+4	PLATE	latinworks10wycl=cst		1	accept
+5	PLATE	latinworks10wycl=potcncior		1	accept
+6	PLATE	latinworks10wycl=prudeneior		1	accept
+7	EDGE	latinworks10wycl=et		1	accept
+8	EDGE	latinworks10wycl=plus | iohanniswycliftr00wycluoft=plus		2	accept
+9	EDGE	latinworks10wycl=affectus | iohanniswycliftr00wycluoft=affectus		2	accept
+10	PLATE	latinworks10wycl=suc | iohanniswycliftr00wycluoft=suc		2	accept
+11	PLATE	latinworks10wycl=ecclesie | iohanniswycliftr00wycluoft=ecclesic		2	accept
+12	PLATE	latinworks10wycl=tribucret | iohanniswycliftr00wycluoft=tribueret		2	accept
+14	R4a	latinworks10wycl=pnuilegia | iohanniswycliftr00wycluoft=priuilegia | tractatusdeeccl00wycl=pnuilegia		3	accept
+19	R2	latinworks10wycl=autonomatice | iohanniswyclift00mattgoog=autonomatice | iohanniswycliftr00wycluoft=autonomatice | iohanniswycliftr04wycl=autonoraatice | tractatusdeeccl00wycl=autonomatice | tractatusdeeccle00wycl=autonoraatice		6	accept
+43	R5a	latinworks10wycl=iesus | iohanniswyclift00mattgoog=icsus | iohanniswycliftr00wycluoft=iesus | iohanniswycliftr04wycl=iesus | tractatusdeeccl00wycl=iesus | tractatusdeeccle00wycl=iesus		6	accept
+44	R3a	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=christus | iohanniswycliftr04wycl=ciiristus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=ghristus		6	accept
+47	R3a	latinworks10wycl=lingere | iohanniswyclift00mattgoog=fingere | iohanniswycliftr00wycluoft=fingere | iohanniswycliftr04wycl=fingerc | tractatusdeeccl00wycl=fingere | tractatusdeeccle00wycl=fingere		6	accept
+77	R3a	latinworks10wycl=priuilegio | iohanniswyclift00mattgoog=priuileg | iohanniswycliftr00wycluoft=priuilegio | iohanniswycliftr04wycl=priuilegio | tractatusdeeccl00wycl=priuilegio | tractatusdeeccle00wycl=priuilegio		6	accept
+82	R5a	latinworks10wycl=uiii | iohanniswyclift00mattgoog=uiip | iohanniswycliftr00wycluoft=uiif | iohanniswycliftr04wycl=uiii | tractatusdeeccl00wycl=uiii | tractatusdeeccle00wycl=uiii		6	accept
+93	R2	latinworks10wycl=luiius | iohanniswyclift00mattgoog=huius | iohanniswycliftr00wycluoft=huius | iohanniswycliftr04wycl=huius | tractatusdeeccl00wycl=huius | tractatusdeeccle00wycl=huius		6	accept
+106	R5a	latinworks10wycl=cesaris | iohanniswyclift00mattgoog=cesaris | iohanniswycliftr00wycluoft=cesaris | iohanniswycliftr04wycl=cesaris | tractatusdeeccl00wycl=cesaris | tractatusdeeccle00wycl=cesaris		6	accept
+110	R5a	latinworks10wycl=iesu | iohanniswyclift00mattgoog=iesu | iohanniswycliftr00wycluoft=iesu | iohanniswycliftr04wycl=iesu | tractatusdeeccl00wycl=iesu | tractatusdeeccle00wycl=iesu		6	accept
+119	R2	latinworks10wycl=equi1 | iohanniswyclift00mattgoog=equiuoce | iohanniswycliftr00wycluoft=equil | iohanniswycliftr04wycl=equiuocc | tractatusdeeccl00wycl=equii | tractatusdeeccle00wycl=equiuoce		6	accept
+120	R2	latinworks10wycl=uocc | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=uoce | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=uoce | tractatusdeeccle00wycl=∅		6	accept
+144	R2	latinworks10wycl=temporalibus | iohanniswyclift00mattgoog=tcmporalibus | iohanniswycliftr00wycluoft=temporalibus | iohanniswycliftr04wycl=tcmporahhus | tractatusdeeccl00wycl=temporalibus | tractatusdeeccle00wycl=temporalibus		6	accept
+150	R3a	latinworks10wycl=tam | iohanniswyclift00mattgoog=tam | iohanniswycliftr00wycluoft=tam | iohanniswycliftr04wycl=tara | tractatusdeeccl00wycl=tam | tractatusdeeccle00wycl=tam		6	accept
+165	R3a	latinworks10wycl=preter | iohanniswyclift00mattgoog=preter | iohanniswycliftr00wycluoft=preter | iohanniswycliftr04wycl=preter | tractatusdeeccl00wycl=preter | tractatusdeeccle00wycl=prefer		6	accept
+179	R2	latinworks10wycl=comparabilia | iohanniswyclift00mattgoog=comparabilia | iohanniswycliftr00wycluoft=comparabilia | iohanniswycliftr04wycl=comparahihn | tractatusdeeccl00wycl=comparabilia | tractatusdeeccle00wycl=comparabilia		6	accept
+181	R5a	latinworks10wycl=cesaris | iohanniswyclift00mattgoog=cesaris | iohanniswycliftr00wycluoft=cesaris | iohanniswycliftr04wycl=cesaris | tractatusdeeccl00wycl=cesaris | tractatusdeeccle00wycl=cesaris		6	accept
+185	R2	latinworks10wycl=secularis | iohanniswyclift00mattgoog=secularis | iohanniswycliftr00wycluoft=secularis | iohanniswycliftr04wycl=sccuhiris | tractatusdeeccl00wycl=secularis | tractatusdeeccle00wycl=secularis		6	accept
+199	R2	latinworks10wycl=infinitum | iohanniswyclift00mattgoog=infinitum | iohanniswycliftr00wycluoft=infinitum | iohanniswycliftr04wycl=inlinitura | tractatusdeeccl00wycl=infinitnm | tractatusdeeccle00wycl=infinitum		6	accept
+202	R3a	latinworks10wycl=in | iohanniswyclift00mattgoog=in | iohanniswycliftr00wycluoft=in | iohanniswycliftr04wycl=hi | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=in		6	accept
+203	R2	latinworks10wycl=perfeccione | iohanniswyclift00mattgoog=perfeccione | iohanniswycliftr00wycluoft=perfeccione | iohanniswycliftr04wycl=periercionc | tractatusdeeccl00wycl=perfeccionc | tractatusdeeccle00wycl=perfeccione		6	accept
+209	PLATE	latinworks10wycl=i | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=i | tractatusdeeccle00wycl=∅		5	accept
+217	PLATE	latinworks10wycl=priuiiegn | iohanniswyclift00mattgoog=priuilcgn | iohanniswycliftr00wycluoft=priuilegu | tractatusdeeccl00wycl=priuilegn | tractatusdeeccle00wycl=priuilegu		5	accept
+218	R2	latinworks10wycl=ncmo | iohanniswyclift00mattgoog=ncnio | iohanniswycliftr00wycluoft=nenio | tractatusdeeccl00wycl=nemo | tractatusdeeccle00wycl=nemo		5	accept
+221	R2	latinworks10wycl=pnuilegium | iohanniswyclift00mattgoog=priuilcgium | iohanniswycliftr00wycluoft=priuilegmm | tractatusdeeccl00wycl=pnuilegium | tractatusdeeccle00wycl=priuilegium		5	accept
+223	R5a	latinworks10wycl=chnstus | iohanniswyclift00mattgoog=chnstus | iohanniswycliftr00wycluoft=chnstus | tractatusdeeccl00wycl=chnstus		4	accept
+224	PLATE	latinworks10wycl=principa		1	accept
+225	PLATE	latinworks10wycl=tcr		1	accept
+226	PLATE	latinworks10wycl=u		1	accept

@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+9	R5a	latinworks18wycl=sophisticatur | fordham=sophisticatur | iohanniswycliftr08wycl=sophisticatur | tractatusdeoffi00saylgoog=sophisticatur | tractatusdeoffic00wycl=sophisticatur		5	accept
+23	R5a	latinworks18wycl=agregatum | fordham=agregatum | iohanniswycliftr08wycl=agregatum | tractatusdeoffi00saylgoog=agregatum | tractatusdeoffic00wycl=agregatum		5	accept
+29	R5a	latinworks18wycl=agregato | fordham=agregato | iohanniswycliftr08wycl=agregato | tractatusdeoffi00saylgoog=agregato | tractatusdeoffic00wycl=agregato		5	accept
+32	DEL	latinworks18wycl=1 | fordham=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		5	accept
+47	R3a	latinworks18wycl=magnificant | fordham=magnificent | iohanniswycliftr08wycl=magnificant | tractatusdeoffi00saylgoog=magnificant | tractatusdeoffic00wycl=magnificant		5	accept
+58	THIN	latinworks18wycl=f | fordham=graciam		2	plate
+59	THIN	latinworks18wycl=raciam | fordham=∅		2	plate
+60	THIN	latinworks18wycl=excitaret | fordham=excitaret		2	plate
+63	R5a	latinworks18wycl=renuncciandum | fordham=renuncciandum | iohanniswycliftr08wycl=renuncciandum | tractatusdeoffi00saylgoog=renuncciandum | tractatusdeoffic00wycl=renuncciandum		5	accept
+66	R3	latinworks18wycl=per | fordham=per | iohanniswycliftr08wycl=pgp | tractatusdeoffi00saylgoog=quam | tractatusdeoffic00wycl=pgi		5	plate
+67	R3	latinworks18wycl=luam | fordham=quam | iohanniswycliftr08wycl=guam | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=quam		5	plate
+75	DEL	latinworks18wycl=2 | fordham=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		5	accept
+84	R2	latinworks18wycl=domin | fordham=dominio | iohanniswycliftr08wycl=dominio | tractatusdeoffi00saylgoog=dominio | tractatusdeoffic00wycl=domin		5	accept
+102	R2	latinworks18wycl=a | fordham=a | iohanniswycliftr08wycl=a | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=a		5	accept
+123	R5a	latinworks18wycl=renuncciare | fordham=renuncciare | iohanniswycliftr08wycl=renuncciare | tractatusdeoffi00saylgoog=renuncciare | tractatusdeoffic00wycl=renuncciare		5	accept
+125	R4	latinworks18wycl=minusis | fordham=minus | iohanniswycliftr08wycl=minusis | tractatusdeoffi00saylgoog=minus | tractatusdeoffic00wycl=minusis		5	plate
+135	R4	latinworks18wycl=concordiam | fordham=concordiam | iohanniswycliftr08wycl=coucordiam | tractatusdeoffi00saylgoog=coucordiam | tractatusdeoffic00wycl=coucordiam		5	plate
+154	R5a	latinworks18wycl=gwerrare | fordham=gwerrare | iohanniswycliftr08wycl=gwerrare | tractatusdeoffi00saylgoog=gwerrare | tractatusdeoffic00wycl=gwerrare		5	accept
+159	R5a	latinworks18wycl=gwerre | fordham=gwerre | iohanniswycliftr08wycl=gauerre | tractatusdeoffi00saylgoog=gwerre | tractatusdeoffic00wycl=gwerre		5	accept
+164	R4	latinworks18wycl=tercioo | fordham=tercio | iohanniswycliftr08wycl=tercioo | tractatusdeoffi00saylgoog=tercioao | tractatusdeoffic00wycl=tercioao		5	plate
+174	THIN	latinworks18wycl=in | fordham=∅		2	plate
+175	THIN	latinworks18wycl=ueteri | fordham=ueteri		2	plate
+176	THIN	latinworks18wycl=testamento | fordham=testamento		2	plate
+182	R6a	latinworks18wycl=dommi | fordham=domini | iohanniswycliftr08wycl=domnii | tractatusdeoffi00saylgoog=dommi | tractatusdeoffic00wycl=dommi		5	accept
+183	R4	latinworks18wycl=contra | fordham=contra | iohanniswycliftr08wycl=coutra | tractatusdeoffi00saylgoog=coutra | tractatusdeoffic00wycl=coutra		5	plate
+184	R4	latinworks18wycl=mndeles | fordham=infideles | iohanniswycliftr08wycl=mfidelcs | tractatusdeoffi00saylgoog=mfideles | tractatusdeoffic00wycl=mfideles		5	plate
+204	R2	latinworks18wycl=ad | fordham=ad | iohanniswycliftr08wycl=ads | tractatusdeoffi00saylgoog=ada | tractatusdeoffic00wycl=ads		5	accept
+220	R4	latinworks18wycl=cristib | fordham=cristi | iohanniswycliftr08wycl=cristir | tractatusdeoffi00saylgoog=cristib | tractatusdeoffic00wycl=cristib		5	plate
+226	R5a	latinworks18wycl=gwerris | fordham=gwerris | iohanniswycliftr08wycl=gwerris | tractatusdeoffi00saylgoog=gwerris | tractatusdeoffic00wycl=gwerris		5	accept
+241	DEL	latinworks18wycl=4 | fordham=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		5	accept
+256	R2	latinworks18wycl=quinto | fordham=quinto | iohanniswycliftr08wycl=quiuto | tractatusdeoffi00saylgoog=quiuto | tractatusdeoffic00wycl=consulerct		5	accept
+257	R2	latinworks18wycl=consuleret | fordham=consuleret | iohanniswycliftr08wycl=consulerct | tractatusdeoffi00saylgoog=cousuleret | tractatusdeoffic00wycl=∅		5	accept
+262	DEL	latinworks18wycl=5 | fordham=∅ | iohanniswycliftr08wycl=∅ | tractatusdeoffi00saylgoog=∅ | tractatusdeoffic00wycl=∅		5	accept

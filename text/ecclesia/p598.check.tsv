@@ -1,0 +1,96 @@
+pos	rule	forms	support	voters	resolution
+4	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+7	R5a	latinworks10wycl=sce | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+12	R5a	latinworks10wycl=s | iohanniswycliftr00wycluoft=s | iohanniswycliftr04wycl=s | tractatusdeeccl00wycl=s | tractatusdeeccle00wycl=s		5	accept
+18	R4	latinworks10wycl=3go | iohanniswycliftr04wycl=390 | tractatusdeeccle00wycl=3go		3	plate
+19	R3	latinworks10wycl=cesse | iohanniswycliftr04wycl=gesse | tractatusdeeccle00wycl=gesse		3	plate
+20	R2	latinworks10wycl=3g | iohanniswycliftr04wycl=393 | tractatusdeeccle00wycl=393		3	accept
+29	R3a	latinworks10wycl=514 | iohanniswycliftr00wycluoft=5i | iohanniswycliftr04wycl=5i | tractatusdeeccl00wycl=5i | tractatusdeeccle00wycl=5i		5	accept
+30	R2	latinworks10wycl=539 | iohanniswycliftr00wycluoft=539 | iohanniswycliftr04wycl=539 | tractatusdeeccl00wycl=53g | tractatusdeeccle00wycl=539		5	accept
+35	R3	latinworks10wycl=1 | iohanniswycliftr00wycluoft=i | iohanniswycliftr04wycl=i | tractatusdeeccl00wycl=1 | tractatusdeeccle00wycl=1		5	plate
+38	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+41	R5a	latinworks10wycl=s | iohanniswycliftr00wycluoft=s | iohanniswycliftr04wycl=s | tractatusdeeccl00wycl=s | tractatusdeeccle00wycl=s		5	accept
+45	R5a	latinworks10wycl=s | iohanniswycliftr00wycluoft=s | iohanniswycliftr04wycl=s | tractatusdeeccl00wycl=s | tractatusdeeccle00wycl=s		5	accept
+47	R2	latinworks10wycl=21 | iohanniswycliftr00wycluoft=2r | iohanniswycliftr04wycl=21 | tractatusdeeccl00wycl=21 | tractatusdeeccle00wycl=21		5	accept
+48	R2	latinworks10wycl=22 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=22 | tractatusdeeccl00wycl=22 | tractatusdeeccle00wycl=22		5	accept
+49	R2	latinworks10wycl=23 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=23 | tractatusdeeccl00wycl=23 | tractatusdeeccle00wycl=23		5	accept
+55	R2	latinworks10wycl=188 | iohanniswycliftr00wycluoft=188 | iohanniswycliftr04wycl=18s | tractatusdeeccl00wycl=188 | tractatusdeeccle00wycl=188		5	accept
+63	R5a	latinworks10wycl=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=u | tractatusdeeccle00wycl=u		5	accept
+65	R3	latinworks10wycl=34 | iohanniswycliftr00wycluoft=34 | iohanniswycliftr04wycl=3 | tractatusdeeccl00wycl=34 | tractatusdeeccle00wycl=3		5	plate
+74	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+76	R2	latinworks10wycl=200 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=200 | tractatusdeeccl00wycl=200 | tractatusdeeccle00wycl=200		5	accept
+77	R2	latinworks10wycl=20i | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=201 | tractatusdeeccl00wycl=201 | tractatusdeeccle00wycl=201		5	accept
+78	R2	latinworks10wycl=208 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=208 | tractatusdeeccl00wycl=208 | tractatusdeeccle00wycl=208		5	accept
+79	R2	latinworks10wycl=2l | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=2i | tractatusdeeccl00wycl=2i | tractatusdeeccle00wycl=2i		5	accept
+80	DEL	latinworks10wycl=2l | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+105	R2	latinworks10wycl=580 | iohanniswycliftr00wycluoft=580 | iohanniswycliftr04wycl=580 | tractatusdeeccl00wycl=580 | tractatusdeeccle00wycl=5so		5	accept
+118	R2	latinworks10wycl=32fi | iohanniswycliftr00wycluoft=326 | iohanniswycliftr04wycl=326 | tractatusdeeccl00wycl=326 | tractatusdeeccle00wycl=326		5	accept
+119	GAP	352, 353, 358,	4	5	plate
+124	R5a	latinworks10wycl=of | iohanniswycliftr00wycluoft=of | iohanniswycliftr04wycl=of | tractatusdeeccl00wycl=of | tractatusdeeccle00wycl=of		5	accept
+127	THIN	latinworks10wycl=25g | tractatusdeeccl00wycl=25g		2	plate
+128	THIN	latinworks10wycl=32g | tractatusdeeccl00wycl=329		2	plate
+130	THIN	latinworks10wycl=66 | tractatusdeeccle00wycl=66		2	plate
+131	THIN	latinworks10wycl=85 | tractatusdeeccle00wycl=85		2	plate
+132	THIN	latinworks10wycl=94 | tractatusdeeccle00wycl=94		2	plate
+134	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+136	DEL	latinworks10wycl=darius | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=darius		5	accept
+137	DEL	latinworks10wycl=25g | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=25g		5	accept
+144	R2	latinworks10wycl=93 | iohanniswycliftr00wycluoft=93 | iohanniswycliftr04wycl=93 | tractatusdeeccl00wycl=g | tractatusdeeccle00wycl=93		5	accept
+146	R3	latinworks10wycl=dauid | iohanniswycliftr00wycluoft=iii | iohanniswycliftr04wycl=iii | tractatusdeeccl00wycl=dauid | tractatusdeeccle00wycl=in		5	plate
+147	R3	latinworks10wycl=6 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=114 | tractatusdeeccl00wycl=6 | tractatusdeeccle00wycl=∅		5	plate
+148	R2	latinworks10wycl=10 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=ig | tractatusdeeccl00wycl=10 | tractatusdeeccle00wycl=∅		5	accept
+149	R3	latinworks10wycl=16 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=helias | tractatusdeeccl00wycl=16 | tractatusdeeccle00wycl=∅		5	plate
+150	R2	latinworks10wycl=24 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=24 | tractatusdeeccl00wycl=24 | tractatusdeeccle00wycl=∅		5	accept
+151	R2	latinworks10wycl=m | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=in | tractatusdeeccle00wycl=∅		4	accept
+152	R2	latinworks10wycl=114 | iohanniswycliftr00wycluoft=114 | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=114		4	accept
+153	R4	latinworks10wycl=i3g | iohanniswycliftr00wycluoft=ig | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=139		4	plate
+154	R2	latinworks10wycl=helias | iohanniswycliftr00wycluoft=helias | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=helias		4	accept
+155	R2	latinworks10wycl=144 | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=144 | tractatusdeeccle00wycl=∅		4	accept
+156	R2	latinworks10wycl=363 | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=363 | tractatusdeeccle00wycl=∅		4	accept
+157	R2	latinworks10wycl=402 | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=402 | tractatusdeeccle00wycl=∅		4	accept
+158	R2	latinworks10wycl=415 | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=415 | tractatusdeeccle00wycl=∅		4	accept
+159	R2	latinworks10wycl=447 | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=447 | tractatusdeeccle00wycl=∅		4	accept
+160	R3	latinworks10wycl=hely | iohanniswycliftr00wycluoft=∅ | tractatusdeeccl00wycl=helias | tractatusdeeccle00wycl=∅		4	plate
+163	R2	latinworks10wycl=henricus | iohanniswycliftr00wycluoft=hely | iohanniswycliftr04wycl=hely | tractatusdeeccl00wycl=hely | tractatusdeeccle00wycl=henricus		5	accept
+164	DEL	latinworks10wycl=de | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=de		5	plate
+165	DEL	latinworks10wycl=gandano | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=gandano		5	plate
+166	R2	latinworks10wycl=dene | iohanniswycliftr00wycluoft=dene | iohanniswycliftr04wycl=dene | tractatusdeeccl00wycl=dene | tractatusdeeccle00wycl=∅		5	accept
+168	R2	latinworks10wycl=comes | iohanniswycliftr00wycluoft=comes | iohanniswycliftr04wycl=comes | tractatusdeeccl00wycl=comes | tractatusdeeccle00wycl=∅		5	accept
+169	R2	latinworks10wycl=de | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=de | tractatusdeeccle00wycl=∅		5	accept
+171	INS?	henricus de gandano diana 252	2	5	plate
+174	R3a	latinworks10wycl=111 | iohanniswycliftr00wycluoft=iii | iohanniswycliftr04wycl=iii | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=in		5	accept
+176	R5a	latinworks10wycl=s | iohanniswycliftr00wycluoft=s | iohanniswycliftr04wycl=s | tractatusdeeccl00wycl=s | tractatusdeeccle00wycl=s		5	accept
+195	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+197	R3	latinworks10wycl=277 | iohanniswycliftr00wycluoft=edwardus | iohanniswycliftr04wycl=edwardus | tractatusdeeccl00wycl=277 | tractatusdeeccle00wycl=edwardus		5	plate
+198	DEL	latinworks10wycl=278 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=278 | tractatusdeeccle00wycl=∅		5	plate
+199	DEL	latinworks10wycl=comes | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=comes | tractatusdeeccle00wycl=∅		5	plate
+200	DEL	latinworks10wycl=de | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=de | tractatusdeeccle00wycl=∅		5	plate
+201	DEL	latinworks10wycl=eiwardus | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=edwardus | tractatusdeeccle00wycl=∅		5	plate
+206	R2	latinworks10wycl=236 | iohanniswycliftr00wycluoft=236 | iohanniswycliftr04wycl=236 | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+207	R2	latinworks10wycl=494 | iohanniswycliftr00wycluoft=494 | iohanniswycliftr04wycl=494 | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+208	R2	latinworks10wycl=496 | iohanniswycliftr00wycluoft=496 | iohanniswycliftr04wycl=496 | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+209	R2	latinworks10wycl=5i | iohanniswycliftr00wycluoft=5i | iohanniswycliftr04wycl=5i | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+214	R2	latinworks10wycl=33a | iohanniswycliftr00wycluoft=332 | iohanniswycliftr04wycl=332 | tractatusdeeccl00wycl=332 | tractatusdeeccle00wycl=332		5	accept
+216	R2	latinworks10wycl=519 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=5ig | tractatusdeeccle00wycl=519		5	accept
+217	R2	latinworks10wycl=52i | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=52i | tractatusdeeccle00wycl=52i		5	accept
+219	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+226	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+228	R3a	latinworks10wycl=318 | iohanniswycliftr00wycluoft=3i | iohanniswycliftr04wycl=3i | tractatusdeeccl00wycl=3i | tractatusdeeccle00wycl=3i		5	accept
+230	R3a	latinworks10wycl=379 | iohanniswycliftr00wycluoft=379 | iohanniswycliftr04wycl=39 | tractatusdeeccl00wycl=379 | tractatusdeeccle00wycl=379		5	accept
+239	INS	52i	4	5	accept
+240	R2	latinworks10wycl=81 | iohanniswycliftr00wycluoft=81 | iohanniswycliftr04wycl=8r | tractatusdeeccl00wycl=81 | tractatusdeeccle00wycl=81		5	accept
+245	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+250	R2	latinworks10wycl=92 | iohanniswycliftr00wycluoft=92 | iohanniswycliftr04wycl=q2 | tractatusdeeccl00wycl=92 | tractatusdeeccle00wycl=92		5	accept
+251	R6a	latinworks10wycl=n | iohanniswycliftr00wycluoft=ii | iohanniswycliftr04wycl=n | tractatusdeeccl00wycl=n | tractatusdeeccle00wycl=n		5	accept
+258	DEL	latinworks10wycl=140 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=140 | tractatusdeeccle00wycl=∅		5	plate
+259	DEL	latinworks10wycl=334 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=334 | tractatusdeeccle00wycl=∅		5	plate
+260	DEL	latinworks10wycl=336 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=336 | tractatusdeeccle00wycl=∅		5	plate
+261	DEL	latinworks10wycl=337 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=337 | tractatusdeeccle00wycl=∅		5	plate
+262	DEL	latinworks10wycl=338 | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=338 | tractatusdeeccle00wycl=∅		5	plate
+263	DEL	latinworks10wycl=34i | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=34i | tractatusdeeccle00wycl=∅		5	accept
+266	R2	latinworks10wycl=cant | iohanniswycliftr00wycluoft=cant | iohanniswycliftr04wycl=cant | tractatusdeeccl00wycl=cant | tractatusdeeccle00wycl=see		5	accept
+267	R3a	latinworks10wycl=seesimon | iohanniswycliftr00wycluoft=seesimon | iohanniswycliftr04wycl=seesimon | tractatusdeeccl00wycl=seesimon | tractatusdeeccle00wycl=simon		5	accept
+271	R5a	latinworks10wycl=see | iohanniswycliftr00wycluoft=see | iohanniswycliftr04wycl=see | tractatusdeeccl00wycl=see | tractatusdeeccle00wycl=see		5	accept
+274	R5a	latinworks10wycl=s | iohanniswycliftr00wycluoft=s | iohanniswycliftr04wycl=s | tractatusdeeccl00wycl=s | tractatusdeeccle00wycl=s		5	accept
+279	R5a	latinworks10wycl=of | iohanniswycliftr00wycluoft=of | iohanniswycliftr04wycl=of | tractatusdeeccl00wycl=of | tractatusdeeccle00wycl=of		5	accept
+284	R3a	latinworks10wycl=02 | iohanniswycliftr00wycluoft=92 | iohanniswycliftr04wycl=92 | tractatusdeeccl00wycl=92 | tractatusdeeccle00wycl=92		5	accept

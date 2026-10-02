@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+13	R3a	latinworks10wycl=de | iohanniswyclift00mattgoog=i | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=de | tractatusdeeccle00wycl=de		6	accept
+44	R5a	latinworks10wycl=romane | iohanniswyclift00mattgoog=romane | iohanniswycliftr00wycluoft=romane | iohanniswycliftr04wycl=romane | tractatusdeeccl00wycl=romane | tractatusdeeccle00wycl=romane		6	accept
+54	R2	latinworks10wycl=cultus | iohanniswyclift00mattgoog=cultus | iohanniswycliftr00wycluoft=cuhus | iohanniswycliftr04wycl=cultus | tractatusdeeccl00wycl=cultus | tractatusdeeccle00wycl=cultus		6	accept
+104	PLATE	latinworks10wycl=ii | iohanniswyclift00mattgoog=ip | iohanniswycliftr00wycluoft=11 | iohanniswycliftr04wycl=11 | tractatusdeeccl00wycl=ii | tractatusdeeccle00wycl=ii		6	accept
+106	R6a	latinworks10wycl=iii | iohanniswyclift00mattgoog=iik | tractatusdeeccl00wycl=iii | tractatusdeeccle00wycl=iii		4	accept
+107	GAP	Secundo notandum quod alia est fides que est credulitas fidelis explicita et alia fides implicita, ut	3	6	plate: Secundo notandum quod alia est fides que est credulitas fidelis explicita et alia fides implicita, ut
+122	R3a	latinworks10wycl=illa | iohanniswyclift00mattgoog=illa | iohanniswycliftr00wycluoft=illa | iohanniswycliftr04wycl=iua | tractatusdeeccl00wycl=illa | tractatusdeeccle00wycl=ilia		6	accept
+172	R2	latinworks10wycl=salutem | iohanniswyclift00mattgoog=salutem | iohanniswycliftr00wycluoft=sakitem | iohanniswycliftr04wycl=sakitem | tractatusdeeccl00wycl=salutem | tractatusdeeccle00wycl=salutem		6	accept
+191	R3a	latinworks10wycl=filii | iohanniswyclift00mattgoog=filii | iohanniswycliftr00wycluoft=fihi | iohanniswycliftr04wycl=fiui | tractatusdeeccl00wycl=filii | tractatusdeeccle00wycl=filii		6	accept
+195	PLATE	latinworks10wycl=uiacione | iohanniswyclift00mattgoog=uiacione | iohanniswycliftr00wycluoft=uiacione | iohanniswycliftr04wycl=uiacione | tractatusdeeccl00wycl=uiacione | tractatusdeeccle00wycl=uiacione		6	accept

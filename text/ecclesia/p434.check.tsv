@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+22	R3a	latinworks10wycl=5 | iohanniswyclift00mattgoog=i5y | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=5 | tractatusdeeccl00wycl=i | tractatusdeeccle00wycl=5		6	accept
+35	PLATE	latinworks10wycl=proprieq | iohanniswyclift00mattgoog=proprie | iohanniswycliftr00wycluoft=proprieq | iohanniswycliftr04wycl=proprie | tractatusdeeccl00wycl=proprie | tractatusdeeccle00wycl=proprieq		6	accept
+38	R2	latinworks10wycl=improprie | iohanniswyclift00mattgoog=improprie | iohanniswycliftr00wycluoft=mipropne | iohanniswycliftr04wycl=improprie | tractatusdeeccl00wycl=improprie | tractatusdeeccle00wycl=improprie		6	accept
+67	R3a	latinworks10wycl=christi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=christi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+87	PLATE	latinworks10wycl=ut | iohanniswyclift00mattgoog=ut | iohanniswycliftr00wycluoft=fut | iohanniswycliftr04wycl=fut | tractatusdeeccl00wycl=ut | tractatusdeeccle00wycl=ut		6	accept
+177	R3a	latinworks10wycl=cum | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cura | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+221	PLATE	latinworks10wycl=toret | iohanniswyclift00mattgoog=foret | iohanniswycliftr00wycluoft=roret | iohanniswycliftr04wycl=foret | tractatusdeeccl00wycl=toret | tractatusdeeccle00wycl=loret		6	accept
+231	EDGE	latinworks10wycl=conceduntur | tractatusdeeccl00wycl=conceduntur		2	accept

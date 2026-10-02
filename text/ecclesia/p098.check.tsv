@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=corum		1	accept
+1	PLATE	latinworks10wycl=qne		1	accept
+113	R2	latinworks10wycl=duametrum | iohanniswyclift00mattgoog=dyametrum | iohanniswycliftr00wycluoft=dyametrum | iohanniswycliftr04wycl=duametrum | tractatusdeeccl00wycl=dyametrum | tractatusdeeccle00wycl=∅		6	accept
+136	R2	latinworks10wycl=deficit | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=deficit | iohanniswycliftr04wycl=deficit | tractatusdeeccl00wycl=deficit | tractatusdeeccle00wycl=deficit		6	accept
+153	INS?	each	3	6	plate: ∅
+153	R2	latinworks10wycl=sed | iohanniswyclift00mattgoog=eadi | iohanniswycliftr00wycluoft=sed | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=sed | tractatusdeeccle00wycl=sed		6	accept
+160	R2	latinworks10wycl=nrimoi | iohanniswyclift00mattgoog=primo | iohanniswycliftr00wycluoft=primo | iohanniswycliftr04wycl=primo | tractatusdeeccl00wycl=primo | tractatusdeeccle00wycl=primo		6	accept
+166	R2	latinworks10wycl=maenitudinem | iohanniswyclift00mattgoog=magnitudinem | iohanniswycliftr00wycluoft=manitudinem | iohanniswycliftr04wycl=magnitudinem | tractatusdeeccl00wycl=manitudinem | tractatusdeeccle00wycl=masnitudinem		6	accept
+198	R2	latinworks10wycl=suam | iohanniswyclift00mattgoog=suam | iohanniswycliftr00wycluoft=suam | iohanniswycliftr04wycl=suam | tractatusdeeccl00wycl=suara | tractatusdeeccle00wycl=suam		6	accept
+202	INS	a	4	6	accept
+209	PLATE	latinworks10wycl=humans | iohanniswyclift00mattgoog=huma | iohanniswycliftr00wycluoft=huma | iohanniswycliftr04wycl=huma | tractatusdeeccl00wycl=humans | tractatusdeeccle00wycl=humans		6	accept
+210	PLATE	latinworks10wycl=noc | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=noc | tractatusdeeccle00wycl=oc		6	accept
+211	R2	latinworks10wycl=non | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccl00wycl=non | tractatusdeeccle00wycl=non		6	accept

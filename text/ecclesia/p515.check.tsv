@@ -1,0 +1,73 @@
+pos	rule	forms	support	voters	resolution
+4	R3a	latinworks10wycl=fructus | iohanniswyclift00mattgoog=fructas | iohanniswycliftr00wycluoft=fructus | iohanniswycliftr04wycl=fructus | tractatusdeeccl00wycl=fructus | tractatusdeeccle00wycl=fructus		6	accept
+7	INS?	in oculis	3	6	plate: in oculis
+11	INS	u sic	4	6	accept
+15	PLATE	latinworks10wycl=leealium | iohanniswycliftr04wycl=legalium		2	accept
+16	PLATE	latinworks10wycl=multi | iohanniswycliftr04wycl=multi		2	accept
+17	PLATE	latinworks10wycl=question | iohanniswycliftr04wycl=question		2	accept
+25	PLATE	latinworks10wycl=ordination | iohanniswycliftr00wycluoft=soluendum | iohanniswycliftr04wycl=ordination | tractatusdeeccle00wycl=soluendum		4	accept
+26	PLATE	latinworks10wycl=has | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=has | tractatusdeeccle00wycl=∅		4	accept
+27	DEL	latinworks10wycl=r | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		4	accept
+28	DEL	latinworks10wycl=any | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		4	accept
+29	DEL	latinworks10wycl=effect | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		4	accept
+30	DEL	latinworks10wycl=if | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=∅ | tractatusdeeccle00wycl=∅		4	accept
+36	R2	latinworks10wycl=the | iohanniswyclift00mattgoog=recipiente | iohanniswycliftr00wycluoft=recipiente | iohanniswycliftr04wycl=the | tractatusdeeccle00wycl=recipiente		5	accept
+37	PLATE	latinworks10wycl=bishop | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=bishop | tractatusdeeccle00wycl=∅		5	accept
+38	PLATE	latinworks10wycl=is | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=is | tractatusdeeccle00wycl=∅		5	accept
+43	R2	latinworks10wycl=et | iohanniswyclift00mattgoog=cl | iohanniswycliftr00wycluoft=et | iohanniswycliftr04wycl=et | tractatusdeeccl00wycl=et | tractatusdeeccle00wycl=et		6	accept
+45	R2	latinworks10wycl=before | iohanniswyclift00mattgoog=conficieddi | iohanniswycliftr00wycluoft=conficiendi | iohanniswycliftr04wycl=before | tractatusdeeccl00wycl=conficiendi | tractatusdeeccle00wycl=conficiendi		6	accept
+46	DEL	latinworks10wycl=finbhing | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=finishing | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		6	accept
+53	R2	latinworks10wycl=commision | iohanniswyclift00mattgoog=cpiscopi | iohanniswycliftr00wycluoft=episcopi | iohanniswycliftr04wycl=commision | tractatusdeeccl00wycl=episcopi | tractatusdeeccle00wycl=episcopi		6	accept
+61	INS	dicitur	4	6	accept
+66	INS	caracter	4	6	accept
+69	R2	latinworks10wycl=uerborum | iohanniswyclift00mattgoog=terbonim | iohanniswycliftr00wycluoft=uerborum | iohanniswycliftr04wycl=uerborum | tractatusdeeccl00wycl=uerborum | tractatusdeeccle00wycl=uerborum		6	accept
+70	INS?	sacramentalium	3	6	plate: sacramentalium
+74	PLATE	latinworks10wycl=ienoramus | iohanniswycliftr00wycluoft=ienoramus | iohanniswycliftr04wycl=ianoramus		3	accept
+75	PLATE	latinworks10wycl=we | iohanniswycliftr00wycluoft=quando | iohanniswycliftr04wycl=we		3	accept
+76	PLATE	latinworks10wycl=do | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=do		3	accept
+77	PLATE	latinworks10wycl=not | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=not		3	accept
+83	R2	latinworks10wycl=when | iohanniswyclift00mattgoog=caracterem | iohanniswycliftr00wycluoft=caracterem | iohanniswycliftr04wycl=when | tractatusdeeccl00wycl=caracterem		5	accept
+84	DEL	latinworks10wycl=god | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=god | tractatusdeeccl00wycl=∅		5	accept
+91	R2	latinworks10wycl=priestly | iohanniswycliftr00wycluoft=ecclesie | iohanniswycliftr04wycl=priestiy | tractatusdeeccl00wycl=ecclesie | tractatusdeeccle00wycl=ecclesie		5	accept
+92	INS?	et	3	6	plate: et
+99	PLATE	latinworks10wycl=it | iohanniswyclift00mattgoog=5 | iohanniswycliftr04wycl=it		3	accept
+100	PLATE	latinworks10wycl=wouid | iohanniswyclift00mattgoog=ex | iohanniswycliftr04wycl=wouid		3	accept
+101	PLATE	latinworks10wycl=be | iohanniswyclift00mattgoog=istis | iohanniswycliftr04wycl=be		3	accept
+107	R2	latinworks10wycl=away | iohanniswycliftr00wycluoft=celebracio | iohanniswycliftr04wycl=away | tractatusdeeccl00wycl=celebracio | tractatusdeeccle00wycl=celebracio		5	accept
+108	DEL	latinworks10wycl=wlth | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=with | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+109	DEL	latinworks10wycl=the | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=the | tractatusdeeccl00wycl=∅ | tractatusdeeccle00wycl=∅		5	accept
+116	PLATE	latinworks10wycl=siuewhich | iohanniswycliftr00wycluoft=siuewhich | iohanniswycliftr04wycl=siuewhich | tractatusdeeccl00wycl=siuewhicu | tractatusdeeccle00wycl=siue		5	accept
+117	PLATE	latinworks10wycl=haue | iohanniswycliftr00wycluoft=male | iohanniswycliftr04wycl=haue | tractatusdeeccl00wycl=male | tractatusdeeccle00wycl=male		5	accept
+118	PLATE	latinworks10wycl=no | iohanniswycliftr00wycluoft=nam | iohanniswycliftr04wycl=no | tractatusdeeccl00wycl=nam | tractatusdeeccle00wycl=nam		5	accept
+125	PLATE	latinworks10wycl=scripture | iohanniswyclift00mattgoog=apostolos | iohanniswycliftr00wycluoft=apostolos | iohanniswycliftr04wycl=scripture | tractatusdeeccl00wycl=apostolos | tractatusdeeccle00wycl=apostolos		6	accept
+133	INS?	ascensionem	3	6	plate: ascensionem
+136	R2	latinworks10wycl=dyaalios | iohanniswycliftr00wycluoft=dyaconos | iohanniswycliftr04wycl=dyaalios | tractatusdeeccl00wycl=dyaconos | tractatusdeeccle00wycl=dyaconos		5	accept
+137	INS?	nec alios	2	6	plate: nec alios
+142	INS?	illas	3	6	plate: illas
+149	INS?	ritus ille	3	6	plate: ritus ille
+155	INS?	christi	2	6	plate: Christi
+155	R3a	latinworks10wycl=utilior | iohanniswyclift00mattgoog=utilior | iohanniswycliftr04wycl=omnia | tractatusdeeccl00wycl=utilior		4	accept
+156	PLATE	latinworks10wycl=omniaenim | iohanniswyclift00mattgoog=omniaenim | iohanniswycliftr04wycl=enim | tractatusdeeccl00wycl=omniaenim		4	accept
+161	INS	ordinis	4	6	accept
+167	PLATE	latinworks10wycl=perprobabili | iohanniswycliftr00wycluoft=perficere | iohanniswycliftr04wycl=perprobabih | tractatusdeeccl00wycl=perficere | tractatusdeeccle00wycl=perficere		5	accept
+168	GAP	et a probabili	3	6	plate: et a probabili
+172	R2	latinworks10wycl=fiunt | iohanniswyclift00mattgoog=fiuol | iohanniswycliftr00wycluoft=fiunt | iohanniswycliftr04wycl=fiunt | tractatusdeeccl00wycl=fiunt | tractatusdeeccle00wycl=fiunt		6	accept
+173	INS	modo	4	6	accept
+179	INS?	ista officia	3	6	plate: ista officia
+181	R3a	latinworks10wycl=explanaui | iohanniswyclift00mattgoog=explanari | iohanniswycliftr00wycluoft=explanaui | iohanniswycliftr04wycl=explanaui | tractatusdeeccl00wycl=explanaui | tractatusdeeccle00wycl=explanaui		6	accept
+182	INS	ideo	4	6	accept
+188	PLATE	latinworks10wycl=eccle | iohanniswycliftr04wycl=eccle		2	accept
+189	PLATE	latinworks10wycl=this | iohanniswycliftr04wycl=this		2	accept
+190	PLATE	latinworks10wycl=wouid | iohanniswycliftr04wycl=wouid		2	accept
+192	R2	latinworks10wycl=tot | iohanniswyclift00mattgoog=lot | iohanniswycliftr00wycluoft=tot | iohanniswycliftr04wycl=tot | tractatusdeeccl00wycl=tot | tractatusdeeccle00wycl=tot		6	accept
+198	PLATE	latinworks10wycl=reiief | iohanniswycliftr04wycl=reiief		2	accept
+199	PLATE	latinworks10wycl=to | iohanniswycliftr04wycl=to		2	accept
+200	PLATE	latinworks10wycl=the | iohanniswycliftr04wycl=the		2	accept
+208	PLATE	latinworks10wycl=bishops | iohanniswycliftr04wycl=bishops		2	accept
+209	PLATE	latinworks10wycl=may | iohanniswycliftr04wycl=may		2	accept
+210	PLATE	latinworks10wycl=erhcacius | iohanniswycliftr04wycl=eiricacius		2	accept
+215	PLATE	latinworks10wycl=aho | iohanniswyclift00mattgoog=al | iohanniswycliftr00wycluoft=aho | iohanniswycliftr04wycl=aho | tractatusdeeccl00wycl=al | tractatusdeeccle00wycl=al		6	accept
+216	R2	latinworks10wycl=otherwise | iohanniswyclift00mattgoog=aulem | iohanniswycliftr00wycluoft=autem | iohanniswycliftr04wycl=otherwise | tractatusdeeccl00wycl=autem | tractatusdeeccle00wycl=autem		6	accept
+222	R2	latinworks10wycl=postfastu | iohanniswycliftr00wycluoft=postposito | iohanniswycliftr04wycl=postfastu | tractatusdeeccl00wycl=postposito | tractatusdeeccle00wycl=postposito		5	accept
+223	INS?	fastu	3	6	plate: fastu
+229	INS	questus	4	6	accept

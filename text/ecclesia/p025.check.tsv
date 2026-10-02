@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+0	PLATE	latinworks10wycl=ib		1	accept
+9	R2	latinworks10wycl=matena | iohanniswyclift00mattgoog=materia | iohanniswycliftr00wycluoft=materia | iohanniswycliftr04wycl=raatena | tractatusdeeccl00wycl=materia | tractatusdeeccle00wycl=materia		6	accept
+10	R2	latinworks10wycl=primo | iohanniswyclift00mattgoog=primo | iohanniswycliftr00wycluoft=prmio | iohanniswycliftr04wycl=pnmo | tractatusdeeccl00wycl=primo | tractatusdeeccle00wycl=prirao		6	accept
+14	R2	latinworks10wycl=matris | iohanniswyclift00mattgoog=matris | iohanniswycliftr00wycluoft=matns | iohanniswycliftr04wycl=matris | tractatusdeeccl00wycl=matnsa | tractatusdeeccle00wycl=matris		6	accept
+28	R2	latinworks10wycl=secundo | iohanniswyclift00mattgoog=ccundo | iohanniswycliftr00wycluoft=secundo | iohanniswycliftr04wycl=secundo | tractatusdeeccl00wycl=socumlo | tractatusdeeccle00wycl=secundo		6	accept
+71	R3a	latinworks10wycl=de | iohanniswyclift00mattgoog=de | iohanniswycliftr00wycluoft=de | iohanniswycliftr04wycl=de | tractatusdeeccl00wycl=ue | tractatusdeeccle00wycl=de		6	accept
+73	R3a	latinworks10wycl=perseuerancie | iohanniswyclift00mattgoog=perseuerande | iohanniswycliftr00wycluoft=perseuerancie | iohanniswycliftr04wycl=perseuerancie | tractatusdeeccl00wycl=perseuerancie | tractatusdeeccle00wycl=perseuerancie		6	accept
+108	R2	latinworks10wycl=inserte | iohanniswyclift00mattgoog=insfite | iohanniswycliftr00wycluoft=inserte | iohanniswycliftr04wycl=inserte | tractatusdeeccl00wycl=inserte | tractatusdeeccle00wycl=inserte		6	accept
+115	PLATE	latinworks10wycl=romxi0 | iohanniswyclift00mattgoog=romxi | iohanniswycliftr00wycluoft=romxi | iohanniswycliftr04wycl=romxi | tractatusdeeccl00wycl=romxi0 | tractatusdeeccle00wycl=rom		6	accept
+118	R2	latinworks10wycl=altum | iohanniswyclift00mattgoog=altum | iohanniswycliftr00wycluoft=altum | iohanniswycliftr04wycl=altiim | tractatusdeeccl00wycl=altum | tractatusdeeccle00wycl=altum		6	accept
+128	R3a	latinworks10wycl=perseuerancia | iohanniswyclift00mattgoog=perseueranda | iohanniswycliftr00wycluoft=perseuerancia | iohanniswycliftr04wycl=perseuerancia | tractatusdeeccl00wycl=pcrseuerancia | tractatusdeeccle00wycl=perseuerancia		6	accept
+168	HEAD	CAP. II.			plate: CAP. II.
+174	R2	latinworks10wycl=primo | iohanniswyclift00mattgoog=primo | iohanniswycliftr00wycluoft=primo | iohanniswycliftr04wycl=prirao | tractatusdeeccl00wycl=primo | tractatusdeeccle00wycl=primo		6	accept
+176	R2	latinworks10wycl=prima | iohanniswyclift00mattgoog=primaobcction | iohanniswycliftr00wycluoft=prima | iohanniswycliftr04wycl=priraa | tractatusdeeccl00wycl=prima | tractatusdeeccle00wycl=prima		6	accept
+177	R2	latinworks10wycl=conclusio | iohanniswyclift00mattgoog=23condusio | iohanniswycliftr00wycluoft=conclusio | iohanniswycliftr04wycl=conclusio | tractatusdeeccl00wycl=oconclusio | tractatusdeeccle00wycl=conclusio		6	accept
+179	R3a	latinworks10wycl=sensum | iohanniswyclift00mattgoog=sensum | iohanniswycliftr00wycluoft=sensum | iohanniswycliftr04wycl=sensura | tractatusdeeccl00wycl=sensum | tractatusdeeccle00wycl=sensum		6	accept
+180	R3a	latinworks10wycl=expositum | iohanniswyclift00mattgoog=expositum | iohanniswycliftr00wycluoft=expositum | iohanniswycliftr04wycl=expositura | tractatusdeeccl00wycl=expositum | tractatusdeeccle00wycl=expositum		6	accept
+185	R2	latinworks10wycl=domini | iohanniswycliftr00wycluoft=i3icdominibonifacii | iohanniswycliftr04wycl=i3cdoraini | tractatusdeeccl00wycl=cdomini		4	accept
+186	R2	latinworks10wycl=bonifacii | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=bonifacii | tractatusdeeccl00wycl=bonifacii		4	accept
+193	R2	latinworks10wycl=illo | iohanniswyclift00mattgoog=illo | iohanniswycliftr00wycluoft=∅ | iohanniswycliftr04wycl=illo | tractatusdeeccl00wycl=illo | tractatusdeeccle00wycl=illo		6	accept

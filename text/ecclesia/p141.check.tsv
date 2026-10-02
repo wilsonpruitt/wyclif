@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks10wycl=dominus		1	accept
+24	R5a	latinworks10wycl=y | iohanniswyclift00mattgoog=y | iohanniswycliftr00wycluoft=y | iohanniswycliftr04wycl=y | tractatusdeeccl00wycl=y | tractatusdeeccle00wycl=y		6	accept
+36	R2	latinworks10wycl=quod | iohanniswyclift00mattgoog=quod | iohanniswycliftr00wycluoft=quod | iohanniswycliftr04wycl=quod | tractatusdeeccl00wycl=iiuod | tractatusdeeccle00wycl=quod		6	accept
+41	R4a	latinworks10wycl=msticie | iohanniswyclift00mattgoog=lusticie | iohanniswycliftr00wycluoft=msticie | iohanniswycliftr04wycl=msticie | tractatusdeeccl00wycl=iusticie | tractatusdeeccle00wycl=lusticie		6	accept
+66	R2	latinworks10wycl=placet | iohanniswyclift00mattgoog=phicet | iohanniswycliftr00wycluoft=placet | iohanniswycliftr04wycl=placet | tractatusdeeccl00wycl=placet | tractatusdeeccle00wycl=placet		6	accept
+105	R2	latinworks10wycl=consecracione | iohanniswyclift00mattgoog=consecracioney | iohanniswycliftr00wycluoft=gonsecracione | iohanniswycliftr04wycl=gonsecracione | tractatusdeeccl00wycl=consecracione | tractatusdeeccle00wycl=consecracione		6	accept
+106	R5a	latinworks10wycl=d | iohanniswyclift00mattgoog=d | iohanniswycliftr00wycluoft=d | iohanniswycliftr04wycl=d | tractatusdeeccl00wycl=d | tractatusdeeccle00wycl=d		6	accept
+118	R2	latinworks10wycl=utrum | iohanniswyclift00mattgoog=utrum | iohanniswycliftr00wycluoft=utrum | iohanniswycliftr04wycl=utrura | tractatusdeeccl00wycl=utrum | tractatusdeeccle00wycl=utrum		6	accept
+165	PLATE	latinworks10wycl=ghristi | iohanniswyclift00mattgoog=christi | iohanniswycliftr00wycluoft=ghristi | iohanniswycliftr04wycl=ghristi | tractatusdeeccl00wycl=christi | tractatusdeeccle00wycl=christi		6	accept
+172	PLATE	latinworks10wycl=intrusoris | iohanniswyclift00mattgoog=intrusoris | iohanniswycliftr00wycluoft=intrusoris | iohanniswycliftr04wycl=intrusoris | tractatusdeeccl00wycl=intrusoris | tractatusdeeccle00wycl=intrusoris		6	accept
+188	R3a	latinworks10wycl=alia | iohanniswyclift00mattgoog=alia | iohanniswycliftr00wycluoft=aha | iohanniswycliftr04wycl=aua | tractatusdeeccl00wycl=alia | tractatusdeeccle00wycl=alia		6	accept
+199	PLATE	latinworks10wycl=christus | iohanniswyclift00mattgoog=christus | iohanniswycliftr00wycluoft=ghristus | iohanniswycliftr04wycl=ghristus | tractatusdeeccl00wycl=christus | tractatusdeeccle00wycl=ghristus		6	accept

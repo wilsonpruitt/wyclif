@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+5	R3a	latinworks10wycl=cuni | iohanniswyclift00mattgoog=cum | iohanniswycliftr00wycluoft=cum | iohanniswycliftr04wycl=cum | tractatusdeeccl00wycl=cum | tractatusdeeccle00wycl=cum		6	accept
+7	PLATE	latinworks10wycl=negati | iohanniswyclift00mattgoog=negat | iohanniswycliftr00wycluoft=negat | iohanniswycliftr04wycl=negati30p | tractatusdeeccl00wycl=negati30c | tractatusdeeccle00wycl=negat		6	accept
+27	R3a	latinworks10wycl=filius | iohanniswyclift00mattgoog=filius | iohanniswycliftr00wycluoft=filius | iohanniswycliftr04wycl=filius | tractatusdeeccl00wycl=filius | tractatusdeeccle00wycl=alius		6	accept
+47	PLATE	latinworks10wycl=dicuntb | iohanniswyclift00mattgoog=dicuntb | iohanniswycliftr00wycluoft=dicuntb | iohanniswycliftr04wycl=dicuntb | tractatusdeeccl00wycl=dicuntb | tractatusdeeccle00wycl=dicuntb		6	accept
+57	R3a	latinworks10wycl=est | iohanniswyclift00mattgoog=t | iohanniswycliftr00wycluoft=st | iohanniswycliftr04wycl=est | tractatusdeeccl00wycl=est | tractatusdeeccle00wycl=eisaest		6	accept
+68	PLATE	latinworks10wycl=reginl | tractatusdeeccl00wycl=regina		2	accept
+69	PLATE	latinworks10wycl=5eci | tractatusdeeccl00wycl=sed		2	accept
+70	PLATE	latinworks10wycl=ist | tractatusdeeccl00wycl=isti		2	accept
+82	PLATE	latinworks10wycl=roniane | iohanniswycliftr00wycluoft=roniane | iohanniswycliftr04wycl=romanc | tractatusdeeccl00wycl=romane | tractatusdeeccle00wycl=romane		5	accept
+89	R2	latinworks10wycl=dicunte | iohanniswyclift00mattgoog=∅ | iohanniswycliftr00wycluoft=dicuntc | iohanniswycliftr04wycl=dicunt | tractatusdeeccl00wycl=dicunt | tractatusdeeccle00wycl=dicunt		6	accept
+99	PLATE	latinworks10wycl=iudicii | iohanniswyclift00mattgoog=iuiiii | iohanniswycliftr00wycluoft=iiii | iohanniswycliftr04wycl=iii | tractatusdeeccl00wycl=mciici | tractatusdeeccle00wycl=iuciici		6	accept
+100	PLATE	latinworks10wycl=sed | iohanniswyclift00mattgoog=gi | iohanniswycliftr00wycluoft=gg | iohanniswycliftr04wycl=sed | tractatusdeeccl00wycl=seci | tractatusdeeccle00wycl=sei		6	accept
+104	R2	latinworks10wycl=multi | iohanniswyclift00mattgoog=multi | iohanniswycliftr00wycluoft=multi | iohanniswycliftr04wycl=muhi | tractatusdeeccl00wycl=multi | tractatusdeeccle00wycl=multi		6	accept
+163	R5a	latinworks10wycl=ephesiis | iohanniswyclift00mattgoog=ephesiis | iohanniswycliftr00wycluoft=ephesiis | iohanniswycliftr04wycl=ephesiis | tractatusdeeccl00wycl=ephesiis | tractatusdeeccle00wycl=ephesiis		6	accept
+164	PLATE	latinworks10wycl=u | iohanniswyclift00mattgoog=u | iohanniswycliftr00wycluoft=u | iohanniswycliftr04wycl=u | tractatusdeeccl00wycl=u | tractatusdeeccle00wycl=u		6	accept
+192	R2	latinworks10wycl=quelibet | iohanniswyclift00mattgoog=quelibet | iohanniswycliftr00wycluoft=quehbet | iohanniswycliftr04wycl=quchbct | tractatusdeeccl00wycl=quelibet | tractatusdeeccle00wycl=quelibet		6	accept
+256	INS?	a	2	6	plate: a
+256	PLATE	latinworks10wycl=pnncipio | iohanniswyclift00mattgoog=a | iohanniswycliftr00wycluoft=a | tractatusdeeccl00wycl=pnncipio | tractatusdeeccle00wycl=pnncipio		5	accept
+257	INS?	principio	2	6	plate: ∅
+261	PLATE	latinworks10wycl=iudicu		1	accept
+262	EDGE	latinworks10wycl=sunt		1	accept
+263	EDGE	latinworks10wycl=una		1	accept
