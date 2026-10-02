@@ -19,7 +19,7 @@ status: draft
 
 ## ¶1 · 96.20–97.3
 
-> [p. 96] Secundo principaliter arguitur contra dicta per hoc quod nichil unum et specialiter non unum corpus componitur ex spiritibus in purgatorio, ex viantibus in mundo et ex triumphantibus in celo, cum continuacio et unio sint de essencia corporis, eo quod aliter periret sciencia linearum. no Hic negatur assumptum, nec est continuacio vel uni cum sjt accidens de essencia cuiuscunque substancie; nam in quotquot partes quantitativas corpus martiris divisum fuerit, manet durante forma idem corpus in numero, et Christus fuit humanitus in limbo et mortuus in sepulchro. Absit ergo quod credamus animas fidelium defunctorum tunc non esse partes [p. 97] ecclesie, quando instar Abel a quo cepit ecclesia sunt secure de sua beatitudine corpori Christi insolubiliter incorporate.
+> [p. 96] Secundo principaliter arguitur contra dicta per hoc quod nichil unum et specialiter non unum corpus componitur ex spiritibus in purgatorio, ex viantibus in mundo et ex triumphantibus in celo, cum continuacio et unio sint de essencia corporis, eo quod aliter periret sciencia linearum. no Hic negatur assumptum, nec est continuacio vel uni cum sit accidens de essencia cuiuscunque substancie; nam in quotquot partes quantitativas corpus martiris divisum fuerit, manet durante forma idem corpus in numero, et Christus fuit humanitus in limbo et mortuus in sepulchro. Absit ergo quod credamus animas fidelium defunctorum tunc non esse partes [p. 97] ecclesie, quando instar Abel a quo cepit ecclesia sunt secure de sua beatitudine corpori Christi insolubiliter incorporate.
 
 [ENGLISH]
 

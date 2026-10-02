@@ -57,6 +57,8 @@ otherwise.
 | elemosinarius | almsman | The one who receives alms (cf. *elemosinatus*). Ruled 2026-10-02 (46.21). |
 | caput | head | The card's key ruling, now a row: Christ alone is head of the church; kept apart from *capitaneus* "captain". Ruled 2026-10-02. |
 | speculator | watchman | The bishop as watchman (Ezek. 3:17). Ruled 2026-10-02 (*Eccl.* 55.16). |
+| ecclesiastici | CONTEXTUAL: clergy / those who belong to the church | Usually the clergy; where Wyclif means every member of the church (*Eccl.* 81.4) render "those who belong to the church" and write a **C** note. Ruled 2026-10-02. |
+| placitare | plead at law | Ruled 2026-10-02 (85.8). |
 
 ## B. Lordship, law, office
 
@@ -232,6 +234,8 @@ otherwise.
 | digestio | digestion | The recurring figure of the four digestions (Rom. 8:30). Ruled 2026-10-02 (60.29 ff.). |
 | concorporacio | concorporation | Incorporation into one body (Loserth's own English). Ruled 2026-10-02 (73.11). |
 | capitaliter | as head (as chief lord) | Ruled 2026-10-02 (64.33, 76.9). |
+| penaliter | in hardship | The adverb of *penalitas*. Ruled 2026-10-02 (76.29, 76.34). |
+| participium | participation | Not the grammatical participle. Ruled 2026-10-02 (85.6). |
 
 ## D. False friends and ordinary words that mislead
 

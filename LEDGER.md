@@ -185,3 +185,22 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E04b-3 | ecclesia-04-b / n7 | *Opus imperfectum*, hom. 9 (Montfaucon VI, lxi E) | editor | not local |
 | E04b-4 | ecclesia-04-b / n8–9 | *ut patet cap. X*; *ut dixi superius* | to-verify | John 10, or this book's ch. 10? |
 | E04b-5 | ecclesia-04-b / n14 | *de necessitate salutis* echoes *Unam sanctam* | verified | Friedberg II, 1245–46 (as E01e-1) |
+| E04c-1 | ecclesia-04-c / n4 | Thomas and Richard at 77.11 (Loserth "loc. cit."): *ST* III q.8 a.3; Richard, *De pot. lig. et solv.* | to-verify | Richard: PL 196; Thomas not local |
+| E04c-2 | ecclesia-04-c / n10; 04-e / n18 | *ST* III q.8 a.3 ad 2 (Wyclif "concl. VIII, art. III"); Thomas *perducimur* | editor | not local |
+| E04c-3 | ecclesia-04-c / n13 | Augustine, *De Trin.* (Wyclif "VI, 27"; Loserth XIV.18) | untraced | XIV.18 (PL 42:1055) lacks the claim; "VI, 27" not found |
+| E04c-4 | ecclesia-04-c / n14 | Bradwardine, *De causa Dei* I.23, corollary | to-verify | not local |
+| E04d-1 | ecclesia-04-d / n1 | John XXII denied the church is a body wherever the faithful are | untraced | |
+| E04d-2 | ecclesia-04-d / n3 | Augustine, *Enarr. in Ps.* 142.3 | verified | PL 37:1846, paraphrased |
+| E04d-3 | ecclesia-04-d / n5 | *Enchiridion* 56 (Loserth's correction of MSS XLI) | verified | as V-02 |
+| E04d-4 | ecclesia-04-d / n8, n10 | *Decretum* C.32 q.4 c.2 *Recurrat*, inscribed Augustine, *In Ioh. tr.* XI | verified | Migne PL 187:1476C–1477C (not Friedberg) |
+| E04d-5 | ecclesia-04-d / n13 | *De doctr. chr.* III.32 and the seventh rule | verified | PL 34:82, 88; paraphrase |
+| E04d-6 | ecclesia-04-d / n16 | *Unam sanctam*; C.24 q.1 c.18 *Loquitur* (Cyprian, *De unit.*) | verified | Friedberg II, 1245–46; PL 187:1271B |
+| E04e-1 | ecclesia-04-e / n3 | "cap. III … Gregory" = this work's ch. 3 | to-verify | 03-a/03-b cite *Moralia* XXXI |
+| E04e-2 | ecclesia-04-e / n5 | Augustine, *Ep.* 187 (Wyclif cap. XI) | verified | PL 33:846, cap. XII §37: *filios Dei … congregaret* |
+| E04e-3 | ecclesia-04-e / n6 | Isidore, *Sent.* I.16.6 (MSS XVI; Loserth XIX wrong); Hugh, *De sacr.* II.2.2 | verified | PL 83:572; PL 176:416D–417A |
+| E04e-4 | ecclesia-04-e / n7 | D.21 c.3 *Quamvis* reads *nullis synodicis constitutis*; Wyclif *multis* | verified (Migne) | PL 187:119B; PL 59:159B; PL 161:1183A; variant *nonnullis* PL 13:374B. Friedberg I to read (archive.org was down) |
+| E04e-5 | ecclesia-04-e / n8, n10 | ordinary gloss to D.21 c.3 and C.24 q.1 c.9 | to-verify | not local |
+| E04e-6 | ecclesia-04-e / n9–11 | C.24 q.1 cc.6, 9, 14; C.7 q.1 c.7; D.19 c.9; D.40 c.6; *De cons.* D.1 c.8 *Ecclesia* | editor | c.8 located: PL 187:1708B (Nicholas I); the rest Loserth's |
+| E04e-7 | ecclesia-04-e / n13 | D.22 c.1 *Omnes* (Nicholas II); *Liber Sextus* 5.2 | verified (Omnes) | PL 187:122C; Sext title to-verify |
+| E04e-8 | ecclesia-04-e / n15 | Canon of the mass, *Te igitur*: *adunare*; Wyclif *adiuvare* | to-verify | missal |
+| E04e-9 | ecclesia-04-e / n17 | *De pen.* D.1 c.70 and its gloss | editor | gloss to-verify |

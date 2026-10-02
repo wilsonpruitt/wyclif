@@ -704,6 +704,7 @@ def run(slug, first=None, last=None):
                 x['t'] = '1' + x['t'][1:]
             x['t'] = tokenfix.get((pg, x['t']), x['t'])      # coordinator's per-page token fixes (tokenfix.tsv)
             x['t'] = scar_fix(x['t'], lex)
+            x['t'] = tokenfix.get((pg, x['t']), x['t'])      # and after the rules (impossibile® -> °)
             prev_t = x['t']
             core = x['t'].rstrip('.,;:?!')
             if core in splits:                  # a word-division error in a witness (wordsplits.tsv)

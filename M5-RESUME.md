@@ -3,6 +3,17 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 (later still) — brief 7 (04-c, 04-d, 04-e) DONE
+- Opus 158K; Sonnet plates + verifier 163K. archive.org was DOWN (503): canon-law rows verified in Migne's Gratian
+  (PL 187), not Friedberg — re-check D.21 c.3 in Friedberg I when archive.org is back (E04e-4).
+- D.21 c.3 *Quamvis*: Gratian/Gelasian decree/Ivo all read *nullis synodicis constitutis*; Wyclif *multis*; nearest
+  attested *nonnullis* (PL 13:374B). The note states the facts; it no longer says Wyclif "inverts" the canon.
+- Plates: *fuit*, *prius*, *loquuntur* (OCR errors, fixed); *domus*, *non*, *filius*, *papa*, *fluent* are the print.
+- vote.py: tokenfix now also applied after scar_fix (*impossibile®* → ° had dodged it). 15 tokenfixes. Drift 0
+  over 26 chunks. GLOSSARY: *ecclesiastici* CONTEXTUAL (clergy / those of the church), *placitare*, *penaliter*,
+  *participium*.
+- **Next:** brief 8 = 04-f, 05-a … .
+
 ## Status 2026-10-02 (late) — brief 6 (03-f, 03-g, 04-a, 04-b) DONE: chapter 3 translated
 - Opus 167K (told not to search the PL: 16 tool calls); Sonnet plates + verifier 153K (8 rows verified).
 - Under the "print governs" ruling the print is kept where a source differs, with the source in the note:
