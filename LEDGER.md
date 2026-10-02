@@ -433,3 +433,24 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E11c-8 | ecclesia-11-c / n13 | C.23 q.4 c.50 | verified | Friedberg I, 926 |
 | E11c-9 | ecclesia-11-c / n15 | *X* 3.19.8 *Quum universorum* | verified | Friedberg II, 524 |
 | E11c-10 | ecclesia-11-c / n17 | C.23 q.4 c.52: *non* = pre-Correctores reading | verified | Friedberg I, 927–28 |
+| E11d-1 | ecclesia-11-d / n5 | 25 Edward III (1351–52): sanctuary for debt | to-verify | statutes |
+| E11d-2 | ecclesia-11-d / n6 | C.11 q.3 c.100 (Isidore), *Qui consentit* | verified | Friedberg I, 671 |
+| E11d-3 | ecclesia-11-d / n6 | *Si quis peccantem defendit*; *Si quis alterius errori consentit* (inside c.100) | verified | Friedberg I, 671 |
+| E11d-4 | ecclesia-11-d / n9 | forty days, coroner, abjuration: English sanctuary law | to-verify | not local |
+| E11d-5 | ecclesia-11-d / n13 | C.25 q.1 c.16 *Ideo permittente* | verified | E11a-1 |
+| E11d-6 | ecclesia-11-d / n13 | *privilegia quasi privatae leges* = Isidore, *Etym.* V.18 | verified | PL 82:202 (E07d-3) |
+| E11d-7 | ecclesia-11-d / n13 | Gregory *Si hoc neque consuetudine generali* = Gratian d.p.c.16 §2, C.25 q.1 | verified (place) | Friedberg I, 1011–12; letter untraced |
+| E11d-8 | ecclesia-11-d / n14 | C.19 q.2 c.2 *Due sunt* | verified | Friedberg I, 839 |
+| E11e-1 | ecclesia-11-e / n3 | public law *a sanctis Patribus scriptis … confirmata* = C.19 q.2 c.2 | verified | Friedberg I, 839 |
+| E11e-2 | ecclesia-11-e / n5 | *opera trinitatis ad extra indivisa* (Augustine) | to-verify | |
+| E11e-3 | ecclesia-11-e / n7 | *removens prohibens*: *Phys.* VIII.4 | to-verify | not local |
+| E11e-4 | ecclesia-11-e / n8 | *ut dixi proximo capitulo*: Rechabites in ch. 10 | to-verify | 10-* |
+| E11e-5 | ecclesia-11-e / n13 | A's two Czech lines after 250.16 | editor | Loserth app. |
+| E12a-1 | ecclesia-12-a / n2 | C.22 q.5 c.20 (Ambrose) | verified | Friedberg I, 887–88 |
+| E12a-2 | ecclesia-12-a / n3 | Isidore, *Sent.* III.42.3 *servum se esse plebis* | verified | PL 83:711C |
+| E12a-3 | ecclesia-12-a / n4 | C.16 q.1 c.68 (Jerome to Damasus) | verified | Friedberg I, 783–84 |
+| E12a-4 | ecclesia-12-a / n5 | C.11 q.3 c.55 (Gregory, *Ep.* XI.2; Jaffé 4351) | verified | Friedberg I, 657–58 |
+| E12a-5 | ecclesia-12-a / n5 | *Inter verba* = incipit of c.55 | verified | Friedberg I, 657 |
+| E12a-6 | ecclesia-12-a / n6 | *lavare laterem* (Terence, *Phormio* 186) | to-verify | not local |
+| E12a-7 | ecclesia-12-a / n8 | the Westminster killing, 1378 | to-verify | |
+| E12a-8 | ecclesia-12-a / n12 | justice defined (Justinian, *Inst.* 1.1 pr.; Wyclif adds *divina*) | to-verify | not local |

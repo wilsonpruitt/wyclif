@@ -2,4 +2,4 @@
 - p.188 pos 0: page join around *placioni* (agent 3: main token 'donari' spurious, reading 'et'). Check at translation.
 - p.93 pos 206 *limi avi*: t not printed (limi[t]avi); recorded as printed. p.48 pos 206-214: footnote text, ∅.
 - p.294 *quaOiyo^tuor* (que quatuor?): side-note fragment inside a hyphenated word; check on the plate. p.551 *istaTheiattermeanglossa* split to *ista glossa*.
-- p.245 *coronanus* (venit coronanus ad fugitivum): probably *coronatus*; not changed, check the plate at translation.
+- p.245 *coronanus*: CLOSED 2026-10-02 — the plate reads *coronarius* (coroner); corrected via tokenfix.

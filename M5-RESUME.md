@@ -3,6 +3,15 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 21 (11-d, 11-e, 12-a) DONE: chapter 11 translated
+- Opus 147K; Sonnet plates + sources 119K. **PLATE-FLAGS p. 245 closed:** the print has *coronarius*; *Si* (244.30)
+  restored. *propriatorie*, *abicio oblati* are the print (notes stand).
+- vote.py: tokenfix now also applies word by word inside a token covering two printed words (*pociora, sicutaperiens*
+  had dodged it since the scar pass).
+- Verified in Friedberg: C.11 q.3 c.100 (both "fathers" inside it), C.19 q.2 c.2, C.22 q.5 c.20, C.16 q.1 c.68,
+  C.11 q.3 c.55 (*Inter verba* = incipit); Gregory's saying is Gratian's dictum. Isidore *Sent.* III.42.
+- **Next:** brief 22 = 12-b, 12-c, 12-d.
+
 ## Status 2026-10-02 — brief 20 (11-a, 11-b, 11-c) DONE
 - Opus 176K; Sonnet sources 185K (14 canons in Friedberg). Finds: Wyclif's "C.25 q.1 c.16" text is Gratian's
   dictum; 11-c C.23 q.4 c.52 *non* = the pre-Correctores reading; C.5 q.5 and C.23 now in the English (modern refs).

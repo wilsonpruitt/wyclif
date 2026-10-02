@@ -711,6 +711,8 @@ def run(slug, first=None, last=None):
             x['t'] = tokenfix.get((pg, x['t']), x['t'])      # coordinator's per-page token fixes (tokenfix.tsv)
             x['t'] = scar_fix(x['t'], lex)
             x['t'] = tokenfix.get((pg, x['t']), x['t'])      # and after the rules (impossibile® -> °)
+            if ' ' in x['t']:                                  # a token covering two printed words: fix each
+                x['t'] = ' '.join(tokenfix.get((pg, w), w) for w in x['t'].split())
             prev_t = x['t']
             core = x['t'].rstrip('.,;:?!')
             if core in splits:                  # a word-division error in a witness (wordsplits.tsv)
