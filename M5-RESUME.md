@@ -38,8 +38,10 @@ at the end of the M3/M4 session.*
 
 - **Next:** brief 32 = 16-d, 16-e, 16-f. Built: `chunks/ecclesia/_briefs/ecclesia-16-d-16-f.md`. Then 16-g, 16-h
   (+17-a) finish chapter 16.
-- **Still owed:** the lost-word pass over chapters 1–13 (computation first, `scripts/w3/lost.py` prototype)
-  before the site build. Open questions for Wilson: the two print departures (346.22 *nos*; 356.13 B no *si*).
+- **Chs. 1–13 CLOSED (2026-10-02), no full repass** — see PLAN.md § Stopping rule. Instead the 22 spots where
+  notes flagged a non-construing sentence were plate-checked (Sonnet, 171K): all 22 are the print. 5 incidental
+  punctuation/ª fixes (186, 208, 245×2, 298) + note typo *coronarius* (11-d n9). `lost.py` run over pp. 1–299:
+  4 candidates, all noise; abandoned. Open questions for Wilson: the two print departures (346.22 *nos*; 356.13 B no *si*).
 
 ## Status 2026-10-02 — brief 30 (15-f, 15-g, 15-h) DONE: chapter 15 translated
 - Opus 134K; Sonnet plates + sources 142K. **One lost word:** *a* at a line end, 349.20 (*racio a similitudine*).

@@ -230,3 +230,17 @@ Fordham, this is a known residual gap; budget a numeral pass on the plates.
 5. **The Dialogus first**, and it carries the site launch.
 
 Recorded with dates in CONVENTIONS' decision log; change any of them only there.
+
+## Stopping rule for passes over finished text (2026-10-02, Wilson)
+
+**A pass over already-finished text needs a specific, located cause. "There might be more errors" is not one.**
+Each repass costs more than the last and finds less; the copy can be repassed forever. So:
+- Per-brief checks (Opus translation + Sonnet plate/source check, word by word while the plates are open) stay:
+  that is the one full pass, done once, while it is cheap.
+- After a chapter is committed, it is reopened only for a located cause: a reader report, a pattern found
+  elsewhere that names specific places (e.g. a grep-able scar), or a note that already flags the spot.
+- Measured yield that set the rule: the word-by-word plate check finds ~1 lost word per 12 pages, mostly
+  sense-neutral (*, 34,*, *a*); a full Sonnet repass of chs. 1–13 would cost ~3M tokens (~130K per word found).
+  Instead, the 22 spots where translators' notes already flagged a non-construing sentence were plate-checked
+  (one Sonnet agent), and chs. 1–13 were then closed.
+- Colophon: the site says the Latin is transcribed from Loserth (1886) and invites corrections.
