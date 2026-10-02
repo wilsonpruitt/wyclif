@@ -67,7 +67,6 @@
 {"t": "modo", "leaf": 431, "row": 7, "para": false, "head": false, "pos": 66}
 {"t": "ecclesia", "leaf": 431, "row": 7, "para": false, "head": false, "pos": 67}
 {"t": "triumphans.", "leaf": 431, "row": 7, "para": false, "head": false, "pos": 68}
-{"t": "the", "leaf": 431, "row": 9, "para": false, "head": false, "pos": 69}
 {"t": "Ex", "leaf": 431, "row": 9, "para": false, "head": false, "pos": 70}
 {"t": "istis", "leaf": 431, "row": 9, "para": false, "head": false, "pos": 71}
 {"t": "videtur", "leaf": 431, "row": 9, "para": false, "head": false, "pos": 72}
@@ -122,7 +121,8 @@
 {"t": "scripture,", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 121}
 {"t": "contra", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 122}
 {"t": "sanctos", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 123}
-{"t": "doctoreset", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 124}
+{"t": "doctores", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 124}
+{"t": "et", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 124}
 {"t": "iura", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 125}
 {"t": "ecclesie,", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 126}
 {"t": "que", "leaf": 431, "row": 16, "para": false, "head": false, "pos": 127}
@@ -182,8 +182,8 @@
 {"t": "exponens", "leaf": 431, "row": 24, "para": false, "head": false, "pos": 181}
 {"t": "illud", "leaf": 431, "row": 24, "para": false, "head": false, "pos": 182}
 {"t": "Isaie", "leaf": 431, "row": 24, "para": false, "head": false, "pos": 183}
-{"t": "IV°,:", "leaf": 431, "row": 24, "para": false, "head": false, "pos": 184}
-{"t": "1", "leaf": 431, "row": 24, "para": false, "head": false, "pos": null}
+{"t": "IV°,", "leaf": 431, "row": 24, "para": false, "head": false, "pos": 184}
+{"t": "1:", "leaf": 431, "row": 24, "para": false, "head": false, "pos": null}
 {"t": "Apprehendent", "leaf": 431, "row": 24, "para": false, "head": false, "pos": 185}
 {"t": "septem", "leaf": 431, "row": 25, "para": false, "head": false, "pos": 186}
 {"t": "mulieres", "leaf": 431, "row": 25, "para": false, "head": false, "pos": 187}

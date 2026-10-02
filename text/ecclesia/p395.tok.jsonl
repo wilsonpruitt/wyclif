@@ -2,7 +2,7 @@
 {"t": "de", "leaf": 432, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "qua", "leaf": 432, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "Prov.", "leaf": 432, "row": 0, "para": false, "head": false, "pos": 3}
-{"t": "XXXI:", "leaf": 432, "row": 0, "para": false, "head": false, "pos": 4}
+{"t": "XXXI°:", "leaf": 432, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "Per", "leaf": 432, "row": 0, "para": false, "head": false, "pos": 5}
 {"t": "septem", "leaf": 432, "row": 0, "para": false, "head": false, "pos": 6}
 {"t": "mulieres,", "leaf": 432, "row": 0, "para": false, "head": false, "pos": 7}
@@ -25,7 +25,7 @@
 {"t": "septemplici", "leaf": 432, "row": 3, "para": false, "head": false, "pos": 24}
 {"t": "numero", "leaf": 432, "row": 3, "para": false, "head": false, "pos": 25}
 {"t": "constat", "leaf": 432, "row": 3, "para": false, "head": false, "pos": 26}
-{"t": "membrorum", "leaf": 432, "row": 3, "para": false, "head": false, "pos": 27}
+{"t": "membrorum:", "leaf": 432, "row": 3, "para": false, "head": false, "pos": 27}
 {"t": "Non", "leaf": 432, "row": 4, "para": false, "head": false, "pos": 28}
 {"t": "solum,", "leaf": 432, "row": 4, "para": false, "head": false, "pos": 29}
 {"t": "inquit,", "leaf": 432, "row": 4, "para": false, "head": false, "pos": 30}
@@ -222,5 +222,5 @@
 {"t": "intellectum,", "leaf": 432, "row": 31, "para": false, "head": false, "pos": 221}
 {"t": "sic", "leaf": 432, "row": 31, "para": false, "head": false, "pos": 222}
 {"t": "membra", "leaf": 432, "row": 31, "para": false, "head": false, "pos": 223}
-{"t": "Ghristi", "leaf": 432, "row": 31, "para": false, "head": false, "pos": 224}
+{"t": "Christi", "leaf": 432, "row": 31, "para": false, "head": false, "pos": 224}
 {"t": "viancia", "leaf": 432, "row": 31, "para": false, "head": false, "pos": 225}

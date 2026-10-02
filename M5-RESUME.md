@@ -3,6 +3,19 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 34 (17-b, 17-c, 17-d) DONE
+- Opus 151K; Sonnet plates + sources 159K. **Lost word:** *a* at line end 392.4 (*quia a domino allegatus*).
+  13 tokenfixes: *illa*, *doctores et*, *Christi/Christus* (G→C), *sunt*, strays *the*/*to.*, *1:*, 394 *IV°, 1:*
+  (pair key failed; split into two single keys), 395 *membrorum:* (colon, not period), *XXXI°:*.
+- **Mistranslation caught:** 390.20 *Recurrat.* is the incipit of C.32 q.4 c.2 (*Recurrat nunc animus*), not "let
+  the reader turn back"; English and n1 fixed. Lesson: a lone capitalised verb after a Decretum cite = incipit.
+- Print confirmed: *dependent*, *quomode*, *defendum*, *spiritus celestis*, *docium*, *super illos*, *automatice*;
+  Wyclif's "Ephes. VI°" (= Eph. 5) and "Johannis XX°" (= John 19) are in the print, kept with S notes.
+  A margin 393.12 = *Ficcio* (not *Kiccio*).
+- Sources verified: Enarr. Ps. 142.3 (paraphrase), Quaest. VNT q. 3, q. 47, De doctr. 3.32, Greg. Hom. 19,
+  Tract. Ioh. 124.5, Isidore 7.2.2, 16.3.1, Jerome on Israel. Untraced: Chrysostom (E17b-2). Open: E17c-2, E17d-8/9.
+- **Next:** brief 35 = 17-e, 17-f, 17-g. Built: `chunks/ecclesia/_briefs/ecclesia-17-e-17-g.md`.
+
 ## Status 2026-10-02 — brief 33 (16-g, 16-h, 17-a) DONE: chapter 16 translated
 - Opus 162K; Sonnet plates + sources 147K. **Lost words:** *quantum* at the head of p. 384 (English "how much of
   the goods"), *a* at line end 385.17 (*auferat a quolibet*). 16 tokenfixes: *,5priorem* (line number glued),

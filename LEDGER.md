@@ -649,5 +649,26 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E16h-2 | ecclesia-16-h / n4 | *Si res* = C.14 q.6 c.1 | verified | Loserth; modern form ours |
 | E16h-3 | ecclesia-16-h / n5 | *Commentator* = Averroes on those who deny that creatures act | to-verify | from memory; not located in a quick search |
 | E17a-1 | ecclesia-17-a / n1 | The ten arguments at the end of ch. 5 (cf. p. 112.18) | editor | Loserth 388 |
-| E17a-2 | ecclesia-17-a / n6 | Aug. *De doctr. christ.* 3.6.10 | verified | Loserth: Opp. III.1, 48; modern section to check |
-| E17a-3 | ecclesia-17-a / n8 | Aug. *Retract.* 1.13.3, on *De vera religione* 10.19 | verified | Loserth: Opp. I, 19; section to check |
+| E17a-2 | ecclesia-17-a / n6 | Aug. *De doctr. christ.* 3.6.10 | verified | PL 34 68–69 |
+| E17a-3 | ecclesia-17-a / n8 | Aug. *Retract.* 1.13.3, on *De vera religione* 10.19 | verified | PL 32 603–604 |
+| E17b-1 | ecclesia-17-b / n1 | Augustine's text in C.32 q.4 c.2 | verified | Friedberg: canon *Recurrat*, Aug. *In Ioh.* 11 |
+| E17b-2 | ecclesia-17-b / n1 | Chrysostom: the church was from the beginning of the world | untraced | not in PL TEI |
+| E17b-3 | ecclesia-17-b / n3 | Aug. on Ps. 142: *Ecclesia que est mulier antiqua … ab Abel* | verified | PL 37 1846; paraphrase |
+| E17b-4 | ecclesia-17-b / n3 | *Quaest. vet. et novi test.* q. 3: *Ab inicio genus est christianorum* | verified | PL 35 2219 |
+| E17b-5 | ecclesia-17-b / n3 | *Quaestiones* now ascribed to Ambrosiaster | to-verify | from memory |
+| E17b-6 | ecclesia-17-b / n6 | *De doctr. christ.* 3.32 = Tyconius's rule of the Lord's twofold body | verified | PL 34 82 |
+| E17b-7 | ecclesia-17-b / n8 | Gregory, *Hom. in evang.* 1.19, the vineyard | verified | PL 76 1154–5 |
+| E17b-8 | ecclesia-17-b / n8 | Gregory's hours = ages of the world | verified | PL 76 |
+| E17b-9 | ecclesia-17-b / n11 | *ecclesia* = convocation, *synagoga* = congregation (Augustine, Isidore) | to-verify | from memory |
+| E17c-1 | ecclesia-17-c / n1, n10 | Ps.-Aug. *Quaest. vet. et novi test.* 47 on Isa. 4:1 | verified | PL 35 2247–8; *significatas* confirms Loserth |
+| E17c-2 | ecclesia-17-c / n4 | Dionysian purging, illuminating, perfecting (*Cel. Hier.*) | to-verify | from memory |
+| E17c-3 | ecclesia-17-c / n15 | Loserth compares p. 112.30 | editor | Loserth 398.17 |
+| E17d-1 | ecclesia-17-d / n3 | "Super Johannem, Sermone CXXIII": Loserth reads Sermo 270 (alias 13) | editor | Loserth 399.15, Opp. V.1 415 |
+| E17d-2 | ecclesia-17-d / n3 | *Non enim a Petro petra … a Christo vocatur* = *Tract. in Ioh.* 124.5 | verified | PL 35, verbatim |
+| E17d-3 | ecclesia-17-d / n4 | Grammarians derive *Christus* from *chrisma* (Isidore) | verified | Etym. 7.2.2 |
+| E17d-4 | ecclesia-17-d / n8 | *lapis quasi ledens pedem*: Isidore, *Etym.* 16.3.1 | verified | Etym. 16.3.1 verbatim |
+| E17d-5 | ecclesia-17-d / n10 | Israel = *vir videns Deum* (Jerome) | verified | Jerome, PL 23 |
+| E17d-6 | ecclesia-17-d / n11 | Aug. *In Ioh.* tract. 124, the last homily | editor | Loserth 401.15: Opp. III.2 822 |
+| E17d-7 | ecclesia-17-d / n12 | *Opus imperfectum* hom. 52 | editor | Loserth 401.22: p. CCXVIII |
+| E17d-8 | ecclesia-17-d / n12 | *Opus imperfectum* is not Chrysostom's | to-verify | from memory |
+| E17d-9 | ecclesia-17-d / n13 | Porphyry, *Isagoge*, on the senses of *genus* | to-verify | from memory |
