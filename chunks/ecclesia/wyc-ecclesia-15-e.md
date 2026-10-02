@@ -78,7 +78,7 @@ Second, it is confirmed from this, that the king (as such) has a [privilege]{g:p
 
 [^21]: **S.** Decretum C. 5 q. 5 c. 2 (LEDGER E15e-8), from Augustine, Ep. 93 to Vincentius, quoting Prov. 27:6 (Vulgate *vulnera diligentis … odientis*; Douay–Rheims "of a friend … of an enemy", which Augustine's wording matches). B reads *cum securitate diligere* (346.16–17).
 
-[^22]: **T.** *Quis non potest amplius amare quam Deus* (346.22, so on the plate): as printed, "who cannot love more than God?", which does not fit the argument or the following *nos*. We read *nos* for *non* (our emendation), the reading of the source: Augustine Ep. 93 and Decretum C. 5 q. 5 c. 2 both have *Quis nos potest amplius amare quam Deus*. The print shows *non* with no apparatus, so the slip is the manuscripts' or Wyclif's. Heb. 12:6, "whom the Lord loveth he chastiseth", is the Apostle's teaching meant.
+[^22]: **T.** *Quis non potest amplius amare quam Deus* (346.22, so on the plate): as printed, "who cannot love more than God?", which does not fit the argument or the following *nos*. We read *nos* for *non* (our emendation), the reading of the source: Augustine Ep. 93 and Decretum C. 5 q. 5 c. 2 both have *Quis nos potest amplius amare quam Deus*. The print shows *non* with no apparatus, so the slip is the manuscripts' or Wyclif's; the emendation was approved 2026-10-02. Heb. 12:6, "whom the Lord loveth he chastiseth", is the Apostle's teaching meant.
 
 [^23]: **T.** *Tribulaminis*: the Decretum reads *tribulacionis* (346.27). *In infirmitate*: the manuscripts *in firmitate*, corrected by Loserth from the Decretum (346.31). **S.** 2 Cor. 12:7–9, "power is made perfect in infirmity". A in the margin at 346.24: *De correccione per ablacionem nota bene*.
 

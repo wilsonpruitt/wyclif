@@ -67,7 +67,7 @@ Into such madnesses ignorant bishops and doctors are led, making the [unlettered
 [^17]: **S.** Cause 23, question 4, *Due sunt*: not a canon but Gratian's dictum after c. 23 (Friedberg), *Augustinus: Duae sunt necessitates, simplex una … altera conditionis*; the words are Boethius's (*Cons.* V pr. 6), not Augustine's. Loserth gives no reference (LEDGER E15g-11). **C.** *Cum impossibile et necessarium dicantur condicionaliter et simpliciter … necessitates*: the two modal terms are each said of necessity on supposition and of necessity without qualification, so that the condemnation of "impossible" makes the opposite necessary without qualification.
 [^18]: **C.** *Sequitur cum veris*: "it follows, together with true [premisses]", the logician's "with other truths added".
 [^19]: **C.** *Subdole premittendo preambulam horam illis congruam*: literally "cunningly sending ahead a preamble hour suited to them"; construed as preparing the moment beforehand.
-[^20]: **T.** The print reads *Videtur enim quod, si susurrones …*, which leaves the *si*-clause without an apodosis; B omits *si* (356.13), and B's reading is translated. Print: "For it seems that, if whisperers of this kind are waiting …".
+[^20]: **T.** The print reads *Videtur enim quod, si susurrones …*, which leaves the *si*-clause without an apodosis; B omits *si* (356.13), and B's reading is translated (approved 2026-10-02). Print: "For it seems that, if whisperers of this kind are waiting …".
 
 ## Transcription notes
 

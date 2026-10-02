@@ -137,7 +137,7 @@ at the end of the M3/M4 session.*
 - **Chs. 1–13 CLOSED (2026-10-02), no full repass** — see PLAN.md § Stopping rule. Instead the 22 spots where
   notes flagged a non-construing sentence were plate-checked (Sonnet, 171K): all 22 are the print. 5 incidental
   punctuation/ª fixes (186, 208, 245×2, 298) + note typo *coronarius* (11-d n9). `lost.py` run over pp. 1–299:
-  4 candidates, all noise; abandoned. Open questions for Wilson: the two print departures (346.22 *nos*; 356.13 B no *si*).
+  4 candidates, all noise; abandoned. The two print departures were RULED by Wilson 2026-10-02: 346.22 *nos* kept (source reading); 356.13 B (no *si*) kept.
 
 ## Status 2026-10-02 — brief 30 (15-f, 15-g, 15-h) DONE: chapter 15 translated
 - Opus 134K; Sonnet plates + sources 142K. **One lost word:** *a* at a line end, 349.20 (*racio a similitudine*).
