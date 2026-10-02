@@ -3,6 +3,17 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 18 (10-a, 10-b, 10-c) DONE
+- Opus 185K; Sonnet plates + sources 110K. *Excommunicatorum* = C.23 q.5 c.47; *De serm. Dom.* II.8.28 (Wyclif "c. 10").
+  Plates: *apostoliter*, *caritatem ignoscere* print; *a terrenis* (OCR *o*) fixed. 9 tokenfixes.
+  GLOSSARY: *membrum*, *perquisitum*, *contribules*. Open: Nicholas II or III (Westminster bull; Kemble not local).
+- **Next:** brief 19 = 10-d, 10-e, 10-f.
+
+## ⚠ GLOSSARY tidy owed
+Rows the coordinator added 2026-10-01/02 by script sit at the END of the section BEFORE the intended one (the
+script inserted above the target heading). Harmless (lint and tags go by key), but move them one section down in a
+tidy pass; from brief 18 on rows are inserted above the NEXT section's heading.
+
 ## Status 2026-10-02 — brief 17 (09-d, 09-e, 09-f) DONE: chapter 9 translated
 - Opus 165K; Sonnet sources 96K. Loserth's c.15 clash settled: Augustine *Quantus arrogancie tumor* = C.23 q.4
   **c.14** (*De bapt.* IV.12 quoting Cyprian); c.15 is Gregory. *Omnis iniquus bonorum est inimicus* = Gratian's own

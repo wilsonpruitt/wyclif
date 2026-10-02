@@ -72,6 +72,7 @@ otherwise.
 | furce et puteus | gallows and pit | The franchise of capital justice. Ruled 2026-10-02 (*Eccl.* 9). |
 | expropriacio | renunciation of property | Never "expropriation" (seizure). Ruled 2026-10-02 (*Eccl.* 9). |
 | uxoratus | married | Ruled 2026-10-02. |
+| membrum | member | The card's key ruling, now a row (with *caput*). Ruled 2026-10-02. |
 
 ## B. Lordship, law, office
 
@@ -168,6 +169,8 @@ otherwise.
 | gracia preveniens / comitans / concomitans / consumans | prevenient / accompanying / concomitant / consummating grace | Ruled 2026-10-02 (06-g). |
 | allegare / allegacio | allege / allegation | To cite as an authority; implies nothing about truth (the period sense). Ruled 2026-10-02 (*Eccl.* 162–165; as earlier chunks). |
 | insolubilia | insolubles | The logicians' paradoxes of self-reference. Ruled 2026-10-02 (*Eccl.* 175.11). |
+| perquisitum | acquisition | Property acquired, not inherited (the legal term). Ruled 2026-10-02 (*Eccl.* 215.4). |
+| contribules | countrymen | Lev. 25:17 (DR). Ruled 2026-10-02 (208.2, 214.20, 214.27). |
 
 ## C. Logic, disputation, metaphysics
 

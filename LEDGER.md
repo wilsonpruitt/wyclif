@@ -374,3 +374,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E09e-8 | ecclesia-09-e / n15 | Augustine, *Enarr.* 36 s.1, field / mill / bed | verified | PL 36:356–57 |
 | E09f-1 | ecclesia-09-f / n3 | *Quantus arrogancie tumor* = C.23 q.4 c.14 (Aug. *De bapt.* IV.12, quoting Cyprian *Ep.* 55), not Loserth's c.15 | verified | PL 187:1178; Friedberg I, 904–05 |
 | E09f-2 | ecclesia-09-f / n8 | *de qua materia patet alibi* | untraced | |
+| E10a-1 | ecclesia-10-a / n2 | Edgar's charter ≈ Kemble, *Cod. dipl.* II, 366 | editor | not local |
+| E10a-2 | ecclesia-10-a / n5 | Edward's charter = Kemble IV no. 825, p. 181 | editor | not local |
+| E10a-3 | ecclesia-10-a / n5 | *alia carta* = Kemble IV, p. 186 | editor | not local |
+| E10a-4 | ecclesia-10-a / n6 | the bull "of Nicholas III" in the diploma (Kemble p. 183); Nicholas II? | to-verify | not local |
+| E10a-5 | ecclesia-10-a / n1; 10-c / n3 | the *contencio* = the Westminster sanctuary violation, Aug. 1378 | to-verify | |
+| E10b-1 | ecclesia-10-b / n7 | Gregory, *Hom. in Ev.* 38 = C.23 q.4 c.16 (Gratian *in ore*, Gregory *iure gladii*) | verified | PL 76; PL 187; Friedberg I |
+| E10b-2 | ecclesia-10-b / n8 | *a terrenis desideriis innitentes* (Gregory *enitentes*, Gratian *innitentes*) | verified | PL 76; PL 187 |
+| E10b-3 | ecclesia-10-b / n15 | C.23 q.4 *Hec autem* | verified | = c.15 *Hec autem vita* (E04f-1) |
+| E10b-4 | ecclesia-10-b / n15 | *recitatur proximo capitulo* = ch. 9 | to-verify | 09-e cites c.15 |
+| E10b-5 | ecclesia-10-b / n17 | Peter / Paul / Linus: cf. *De civili dominio* p. 37 | editor | not local |
+| E10c-1 | ecclesia-10-c / n2 | Archidiaconus = Guido de Baysio, *Rosarium* | to-verify | not local |
+| E10c-2 | ecclesia-10-c / n2 | *Excommunicatorum* = C.23 q.5 c.47 (Urban II) | verified | Friedberg I, 945; PL 187 |
+| E10c-3 | ecclesia-10-c / n4 | Augustine, *De serm. Dom.* II.8.28 (Wyclif "c. 10") | verified | PL 34:1281–82 |
+| E10c-4 | ecclesia-10-c / n1, n4 | *alias diffuse exposui* | untraced | |
+| E10c-5 | ecclesia-10-c / n13 | *libri sexti* = book 6 of Wyclif's *Summa*? | to-verify | |
+| E10c-6 | ecclesia-10-c / n15, n17 | Gregory, *Moralia* XXI.4.8 | verified | PL 76 (col. not read) |
+| E10c-7 | ecclesia-10-c / n8 | *ut alias dixi* | untraced | |
