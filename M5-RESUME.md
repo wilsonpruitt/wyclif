@@ -3,6 +3,14 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 11 (06-c, 06-d, 06-e) DONE
+- Opus 171K; Sonnet plates + verifier 107K. 131.12 *debitor* (Loserth's own suggestion) accepted over the print
+  *creditor*, which gives no sense (ruling 2). Plates: *Paulum*, *aliquam*, *creditor* are the print.
+- Verified: *De Gen. ad litt.* X.19.34; *De vita christiana* (pseudo-Aug., PL 40); D.40 c.2 (Jerome); C.27 q.1
+  c.41 = *De bono viduitatis* 10.13. Open: Anselm wording (not in *De conc. virg.* 11), the Jerome letter.
+- 11 tokenfixes; drift 0 over 38 chunks. GLOSSARY: *distrahens* "diminishing qualifier", *tyriaca* "theriac".
+- **Next:** brief 12 = 06-f, 06-g, 07-a.
+
 ## Status 2026-10-02 — brief 10 (05-f, 06-a, 06-b) DONE: chapter 5 translated
 - Opus 159K; Sonnet plates + Gratian 78K. **archive.org back:** Friedberg I (BD1141951) read — D.21 c.3 reads
   *nullis sinodicis constitutis*, no *multis* in the apparatus (coordinator re-read). E04e-4 closed.

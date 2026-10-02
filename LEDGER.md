@@ -254,3 +254,21 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E06b-7 | ecclesia-06-b / n10 | *decretum … in fine XIII cap.* | untraced | |
 | E06b-8 | ecclesia-06-b / n12 | heresy = understanding scripture otherwise than the Spirit demands: C.24 q.3 c.27 (Jerome) | verified | PL 187:1306B |
 | E06b-9 | ecclesia-06-b / n12 | heresy to impute vice to the Roman church: perhaps D.22 c.1 | to-verify | cf. E04e-7 (PL 187:122C) |
+| E06c-1 | ecclesia-06-c / n1 | cf. Hus, *De eccl.*, Opp. I, 198b | editor | Loserth |
+| E06c-2 | ecclesia-06-c / n1 | cf. Wyclif, *De benedicta incarnacione* c. 5, p. 67 | editor | Loserth; the phrase it attaches to to-verify |
+| E06c-3 | ecclesia-06-c / n3 | *dux et legifer noster*: the antiphon *O Emmanuel* | to-verify | breviary |
+| E06c-4 | ecclesia-06-c / n4 | *terrena despicere et amare celestia*: an Advent postcommunion | to-verify | missal |
+| E06c-5 | ecclesia-06-c / n7 | *ut canit ecclesia*: office of the dedication of a church | to-verify | breviary |
+| E06d-1 | ecclesia-06-d / n3 | consecrating during the triduum (cf. Aquinas *ST* III q.81 a.4) | to-verify | not local |
+| E06d-2 | ecclesia-06-d / n3 | the place in Wyclif's *De incarnacione* | untraced | |
+| E06d-3 | ecclesia-06-d / n4 | Jerome to Paula and Eustochium | to-verify | not Ep. 46 (PL 22:483); Ep. 30, 31 unread |
+| E06d-4 | ecclesia-06-d / n7 | Augustine, *De Gen. ad litt.* X.19.34: Christ not in Abraham's loins as to soul | verified | PL 34:423 |
+| E06d-5 | ecclesia-06-d / n7 | Anselm, *De conceptu virginali* 11 (Loserth) | untraced | not in c. 11 (PL 158:445A–446C); nearest *Omnis homo aut Adam est, aut de Adam* (446C) |
+| E06d-6 | ecclesia-06-d / n19 | *De vita christiana* 6 | verified | PL 40:1036–37 |
+| E06d-7 | ecclesia-06-d / n19 | *De vita christiana* not Augustine's | verified | PL 40:1031–46, *auctor incertus* |
+| E06e-1 | ecclesia-06-e / n1 | the canons: the church "shaken but not overcome" | untraced | |
+| E06e-2 | ecclesia-06-e / n2 | *Decretum* D.40 c.2 *Non est facile* (Jerome to Heliodorus) | verified | PL 187:213C–214B |
+| E06e-3 | ecclesia-06-e / n4 | "human laws" on payment to a false proctor | untraced | |
+| E06e-4 | ecclesia-06-e / n8 | doctors expounding Matt. 19:5 of Christ | untraced | |
+| E06e-5 | ecclesia-06-e / n9 | antiphon *quod fuit permansit, et quod non erat assumpsit* | to-verify | breviary |
+| E06e-6 | ecclesia-06-e / n17 | C.27 q.1 c.41 *Nuptiarum*, from Augustine *De bono viduitatis* 10.13 | verified | PL 187:1388B–1390A; PL 40:438 |

@@ -153,6 +153,7 @@ otherwise.
 | habitudo | condition | A person's present state, set against predestination (Richard of St Victor). Ruled 2026-10-02 (*Eccl.* 72.24). |
 | humidum radicale / fluens | radical / flowing moisture | The physicians' terms. Ruled 2026-10-02 (75.19). |
 | de virtute sermonis | in the proper sense of the words | Wyclif's recurring formula for the literal force of an expression. Ruled 2026-10-02 (*Eccl.* 115.6, 115.8). |
+| distrahens | diminishing qualifier | The logicians' *determinacio distrahens*, which takes away from what it qualifies ("a dead man"). Ruled 2026-10-02 (*Eccl.* 128.3). |
 
 ## C. Logic, disputation, metaphysics
 
@@ -247,6 +248,7 @@ otherwise.
 | conclusio | conclusion | The disputation formula (card). Ruled 2026-10-02. |
 | terminus communis | common term | Aristotle's common boundary of a continuum (*Cat.* 6). Ruled 2026-10-02 (*Eccl.* 104.23 ff., 107.23). |
 | capitari / capitatus | to be headed / headed | The verb beside *capitas*. Ruled 2026-10-02 (116.21, 117.2–3). |
+| tyriaca | theriac | The medieval antidote to poison; a recurring medical figure, with *apostema*. Ruled 2026-10-02 (130.21, 131.1). |
 
 ## D. False friends and ordinary words that mislead
 
