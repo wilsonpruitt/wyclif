@@ -89,7 +89,7 @@ always guarding against a perfidious deduction.[^15]
 
 [^1]: **S/T.** The fifth conclusion is the closing sentence of *Unam sanctam* (Loserth, at 14.18;
     *Extrav. comm.* 1.8.1, our modern form; LEDGER E01e-1), which reads *humanae creaturae*
-    `[verify]`; Wyclif's *nature* is translated as printed.
+    (Friedberg II, 1245–46); Wyclif's *nature* is translated as printed.
 
 [^2]: **C.** *Ipse … sicut est caput*: Christ is the Roman pontiff inasmuch as he is head of every
     church; the conclusion is granted only by moving its subject from the pope to Christ. *Sed* brings

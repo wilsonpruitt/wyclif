@@ -190,8 +190,9 @@ are equal to or surpass the law of God. And this is in effect the supplanting of
     superius de papa nostro*: 37.26–38.12, on Urban VI. *Oneravit*: B *ornavit* (44.4), which does not suit
     *ut necessitata sit*. *Cum hoc quod*: "when", "given that".
 
-[^9]: **S/R.** *Decretals* of Gregory IX, *X* 5.39.21 (*A nobis*), Loserth's reference, form ours
-    (LEDGER E02f-3), on the church's judgment that "sometimes deceives and is deceived". A lacks
+[^9]: **S/R.** *Decretals* of Gregory IX, *X* 5.39.28 (*A nobis est saepe quaesitum*; Friedberg II, 899–900), form ours
+    (LEDGER E02f-3): *iudicium ecclesiae nonnunquam opinionem sequitur, quam et fallere saepe contingit et
+    falli*. Loserth's 5.39.21 is another *A nobis*, on general excommunication. A lacks
     *patet* (44.16); B's margin: *V. decretalium*. A's margin: *de canonisacione sanctorum ab ecclesia
     Romana quomodo est credendum*. *Sanctorump* (44.8) is read as *sanctorum*.
 

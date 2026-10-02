@@ -98,7 +98,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E01c-2 | ecclesia-01-c / n3 | *Tota ecclesia una vidua est*: Augustine on Ps. 131:15 | verified | PL 37:1726, §23: *Ergo tota Ecclesia una vidua est* |
 | E01c-3 | ecclesia-01-c / n4 | Augustine, *Enarr. in Ps.* 120 (Maurist *Opp.* IV, 1381) | verified | PL 37:1615, §12: *Quisquis rursus putaverit Ecclesiam in una parte esse … a luna uritur* |
 | E01c-4 | ecclesia-01-c / n6 | *Ipsa caro Christi est caput ecclesie*: Augustine | verified | PL 37:1615, *Enarr.* 120.12 (same passage as n4): *quia ipsa caro Christi caput Ecclesiae est* |
-| E01c-5 | ecclesia-01-c / n7, n17; 01-d / n8 | *Unam sanctam* = *Extrav. comm.* 1.8.1 (modern form ours); the wordings quoted | editor | wordings to-verify against the bull's text |
+| E01c-5 | ecclesia-01-c / n7, n17; 01-d / n8 | *Unam sanctam* = *Extrav. comm.* 1.8.1; the wordings quoted | verified | Friedberg II, 1245–46 (archive.org BD1141952), read 2026-10-02; Wyclif omits *et unicae* and paraphrases *nec … nec* |
 | E01c-6 | ecclesia-01-c / n9 | Aristotle, *De caelo* I.1, 268a ("all" of three) | editor | Loserth; *Phys.* III.6, 207a (*totum … perfectum*) to-verify |
 | E01c-7 | ecclesia-01-c / n10 | triple fraction: Amalarius; Gratian, *De cons.* D.2 c.22 *Triforme* | to-verify | Gratian verified: PL 187:1740A, *Triforme est corpus Domini* (inscribed Sergius papa). Amalarius not checked |
 | E01c-8 | ecclesia-01-c / n16 | Decr. C.24 q.1 c.5; Leo I, *Serm.* 4.3 | verified | Gratian PL 187:1266C–1267A; Leo *Serm.* IV (al. III) 3, PL 54:151A–B: *Manet ergo Petri privilegium …* |
@@ -109,7 +109,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E01d-4 | ecclesia-01-d / n19 | Bernard, *De consideratione* IV.3.7 (Wyclif says book II) | verified | PL 182:776B–C, IV.3 §7: *Uterque ergo Ecclesiae … gladius* |
 | E01d-5 | ecclesia-01-d / n20 | Decr. C.23 q.5 c.20 *Principes*; Isidore, *Sententiae* III.51.4 | verified | Gratian PL 187:1223C–1224A (inscribed *lib. III Sent. … c. 55*); Isidore PL 83:723B |
 | E01d-6 | ecclesia-01-d / n22 | Johannes de Deo, canonist at Bologna | editor | Loserth, citing *Trialogus* ed. Lechler p. 251 |
-| E01e-1 | ecclesia-01-e / n1 | 5th conclusion = last sentence of *Unam sanctam* (*Extrav. comm.* 1.8.1, our form), *humanae creaturae* | editor | wording to-verify (bull not in local PL) |
+| E01e-1 | ecclesia-01-e / n1 | last sentence of *Unam sanctam*, *humanae creaturae* | verified | Friedberg II, 1245–46 (archive.org BD1141952), read 2026-10-02 |
 | E01e-2 | ecclesia-01-e / n5 | *Bellus Mons* = Beaumont palace, north suburb of Oxford | editor | Loserth, after Wood |
 | E01e-3 | ecclesia-01-e / n6 | Gratian D.22 c.2 *Sacrosancta* | verified | PL 187:123A: names Rome, Antioch, Alexandria; Constantinople in the dictum and cc. 3–4; Jerusalem not there |
 | E01e-4 | ecclesia-01-e / n12 | *derelictum* also in Hus, *De eccl.*, Opp. I fol. 208 | editor | Loserth p. 16 |
@@ -118,7 +118,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E01g-1 | ecclesia-01-g / n4 | Gregory, *Moralia* XXIII.1.2 | verified | PL 76:251C–D |
 | E01g-2 | ecclesia-01-g / n4 | quotation wording; Gregory *cum sancta Ecclesia* | verified | PL 76:251C–D; Wyclif *cum sua* |
 | E01g-3 | ecclesia-01-g / n5 | *Mor.* XIX.9 and IV.9 (Wyclif) | untraced | not at those places; doctrine at XIX.14.22, PL 76:110C |
-| E01g-4 | ecclesia-01-g / n6 | *decretalis* = *Unam sanctam*, two heads "like a monster" | editor | as E01c-5; wording to-verify |
+| E01g-4 | ecclesia-01-g / n6 | *Unam sanctam*: *non duo capita, quasi monstrum* | verified | Friedberg II, 1245–46 (archive.org BD1141952), read 2026-10-02 |
 | E01g-5 | ecclesia-01-g / n8 | FitzRalph, *Summa de quaestionibus Armenorum* VII.6 | editor | person Loserth p. 21; book/chapter to-verify |
 | E01h-1 | ecclesia-01-h / n3 | *Moralia* XIX.12 (Maurist; Wyclif cap. 8) | verified | PL 76:108A |
 | E01h-2 | ecclesia-01-h / n4 | *Universe quippe … adolescentule vocantur* | verified | PL 76:108B, wording identical |
@@ -126,11 +126,11 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E01h-4 | ecclesia-01-h / n9, n10 | Gregory, *Hom. in Ev.* I.19 (vineyard, Matt. 20); the "mouth" = *Mor.* XVIII.35.56 | verified | PL 76:1154B; 76:68D. Job as "mouth" untraced |
 | E01h-5 | ecclesia-01-h / n11 | *Moralia* IV: patriarchs' virtues | to-verify | nearest found: Preface 6.13, PL 75:524B–C (lacks David, Elijah); Book IV not searched in full |
 | E01h-6 | ecclesia-01-h / n18 | Hus, *De eccl.* capp. 1–3 draws on cap. 1 | editor | Loserth p. 25 |
-| E02a-1 | ecclesia-02-a / n1 | *Unam sanctam*, title *De maioritate et obedientia*; *Extrav. comm.* 1.8.1 (modern form ours) | editor | Loserth 25.27, 26.15 |
-| E02a-2 | ecclesia-02-a / n3 | *Unam sanctam*: *Christus videlicet et Christi vicarius Petrus, Petrique successor* | to-verify | bull not in local PL |
+| E02a-1 | ecclesia-02-a / n1 | *Unam sanctam* under *De maioritate et obedientia*, *Extrav. comm.* 1.8.1 | verified | Friedberg II, 1245, Tit. VIII rubric |
+| E02a-2 | ecclesia-02-a / n3 | *Christus videlicet et Christi vicarius Petrus, Petrique successor* | verified | Friedberg II, 1245–46 (archive.org BD1141952), read 2026-10-02 |
 | E02b-1 | ecclesia-02-b / n5 | Gregory, *Hom. in Ev.* 19.1, *ab Abel … usque ad ultimum electum* (MSS *XXIII Moral. cap. I*; Loserth corrects to *XIX Homiliarum*) | verified | PL 76:1154B, as E01h-4 (read 2026-10-02 by the wave-2 verifier) |
 | E02b-2 | ecclesia-02-b / n14 | *septima conclusio capituli proximi* = 19.18 | editor | Loserth |
-| E02c-1 | ecclesia-02-c / n4 | Clement V, *Meruit*, *Extrav. comm.* 5.7.2 (modern form ours) | editor | Loserth 32.33 |
+| E02c-1 | ecclesia-02-c / n4 | Clement V, *Meruit*, *Extrav. comm.* 5.7.2 | verified | Friedberg II, 1299–1300 |
 | E02c-2 | ecclesia-02-c / n3 | the apostle Thomas evangelized India | to-verify | from memory (tradition: *Acta Thomae*) |
 | E02c-3 | ecclesia-02-c / n10 | Celestine V pope 5 July – Dec. 1294 | editor | Loserth's footnote reads "Dec. i" (OCR; 1 or 13?); the resignation is usually dated 13 Dec. 1294: to-verify before the note gives a day |
 | E02c-4 | ecclesia-02-c / n11 | Boniface VIII: *intrabit ut vulpes …* tradition | to-verify | from memory |
@@ -142,7 +142,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E02e-4 | ecclesia-02-e / n8 | *Tulit me mater mea …* = Gospel of the Hebrews in Jerome on Mic. 7:6 | verified | PL 25:1221D–1222A, *Modo tulit me mater mea, sanctus Spiritus …* |
 | E02f-1 | ecclesia-02-f / n2 | Augustine, *De Trin.* XIII.2.5–3.6 | verified | PL 42:1016–1017; two senses (*quae* / *qua creditur*), not three |
 | E02f-2 | ecclesia-02-f / n6 | *libro sexto, tractatu de mendacio* = *De veritate S. Scripture* (B *quinto*) | to-verify | Loserth's conjecture |
-| E02f-3 | ecclesia-02-f / n9 | *X* 5.39.21 *A nobis* (form ours) | editor | Loserth 44.16 |
+| E02f-3 | ecclesia-02-f / n9 | the church's judgment *fallere … et falli* = *X* 5.39.28 *A nobis est saepe quaesitum* (Loserth: 5.39.21) | verified | Friedberg II, 899–900; coordinator re-read (Cap. XXVIII); Loserth's 5.39.21 is another *A nobis* |
 | E02f-4 | ecclesia-02-f / n12 | *libro sexto, sexto capitulo*: the signs of Antichrist (B *quinto*) | untraced | unidentified |
 | E02f-5 | ecclesia-02-f / n18 | Hus, *De eccl.* fol. 199a ff.; Kenmerton in Walsingham II, 307 | editor | Loserth p. 47 |
 | E03a-1 | ecclesia-03-a / n2 | *lib. VI, cap. …* (lacuna in the text) | untraced | unidentified |
@@ -151,3 +151,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E03a-4 | ecclesia-03-a / nn5, 10, 11, 13 | Gregory, *Moralia* XXXI | verified | PL 76:583D–585C, §§19–21 (Migne capp. XII–XIII); *austerna* clause is Wyclif's paraphrase of 584B |
 | E03a-5 | ecclesia-03-a / n9 | Augustine, *Conf.* XIII.9.10, *pondus meum amor meus* | verified | PL 32:849 |
 | E03a-6 | ecclesia-03-a / n12 | the maxim *dolor amissi et amor habiti …* | untraced | unidentified |
+| E03b-1 | ecclesia-03-b / n2, n4, n8–12 | Gregory, *Moralia* XXXI.12–13 §§20–23 (Wyclif "cap. X" = Migne *Vet. X*) | verified | PL 76:584D–586B (agent read 8054.xml) |
+| E03b-2 | ecclesia-03-b / n3 | Augustine, *In Ioh. tr.* 6: goods left for Christ still had | untraced | not in tr. 6 (PL 35:1425–37 searched); source may be another work |
+| E03b-3 | ecclesia-03-b / n10 | *sicut alias ostendi*: lower members may sue for goods | untraced | perhaps *De civili dominio* |
+| E03c-1 | ecclesia-03-c / n1–2 | Gregory, *Moralia* XXXI.13 §24 | verified | PL 76:586C–D |
+| E03c-2 | ecclesia-03-c / n6 | Gregory on the fifth penitential psalm | untraced | not found in PL 79:601D–630C (Ps. 101 exposition) |
+| E03c-3 | ecclesia-03-c / n8 | Gregory, *Reg. past.* I.2; *Decretum* D.83 c.2 | verified | PL 77:16A; PL 187:400C; Wyclif paraphrases |
+| E03c-4 | ecclesia-03-c / n9 | Aquinas, *ST* III q.8 a.3 (Venice 1774, V, 51) | editor | content to-verify (not local) |
+| E03c-5 | ecclesia-03-c / n12 | *ut alias diffuse exposui*: faith, hope, charity against the Trinity | untraced | |
+| E03d-1 | ecclesia-03-d / n2–3 | *ST* III q.8 a.3: potential members; 1 Tim. 4:10, 1 John 2:2 | to-verify | not local |
+| E03d-2 | ecclesia-03-d / n4 | Thomas: Christ head "even of the devil" as to natural being (cf. q.8 aa.7–8) | to-verify | not local |
+| E03d-3 | ecclesia-03-d / n5 | Augustine, *In Ioh. tr.* 12.8–9 (John 3:13) | verified | PL 35:1488–89 |
+| E03d-4 | ecclesia-03-d / n4 | *ut alias declaravi* | untraced | |
+| E03e-1 | ecclesia-03-e / n6 | Aristotle, *Meteor.* I.12, 348b: hot water freezes faster (Wyclif "I, cap. VI") | editor | Loserth: Bekker p. 348 |
+| E03e-2 | ecclesia-03-e / n11 | Augustine: those excluded are not members (*proporcionalia*) | untraced | |
+| E03e-3 | ecclesia-03-e / n12 | John Damascene, *De fide orth.* (Loserth 4.11): natural knowledge of God | editor | probably I.1/I.3; PG, not local |
+| E03e-4 | ecclesia-03-e / n13 | Augustine: *credere in* = believing by loving | verified | *In Ioh. tr.* 29.6, PL 35:1631 |
+| E03e-5 | ecclesia-03-e / n14 | Augustine, *In Ioh. tr.* 12.12, *Novit dominus …* | verified | PL 35 (7323.xml) |

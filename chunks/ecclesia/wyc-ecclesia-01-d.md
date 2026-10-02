@@ -158,8 +158,8 @@ above-mentioned conclusion is clear.[^23]
     (Latin doubt reported). *Cum decretali fideli*: *Unam sanctam*, called "faithful" because on this
     point it agrees with scripture.
 
-[^8]: **S/R.** *Unam sanctam*: *extra quam nec salus est nec remissio peccatorum* `[verify]` (LEDGER
-    E01c-5). B's margin asks why Wyclif adds *contracti*: outside the church there is remission
+[^8]: **S/R.** *Unam sanctam*: *extra quam nec salus est, nec remissio peccatorum* (Friedberg II, 1245–46; LEDGER
+    E01c-5); Wyclif paraphrases. B's margin asks why Wyclif adds *contracti*: outside the church there is remission
     neither of contracted nor of uncontracted sin. *Contractum* is presumably sin incurred, original
     or actual, as against its penalty.
 

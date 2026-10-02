@@ -55,6 +55,8 @@ otherwise.
 | universitas fidelium | the whole body of the faithful | Ruled 2026-10-02 (*Eccl.* 37.13). |
 | obedienciarius | one who obeys | Non-classical agent noun: the subject bound to obey (not the monastic officer). Ruled 2026-10-02 (*Eccl.* 39.3). |
 | elemosinarius | almsman | The one who receives alms (cf. *elemosinatus*). Ruled 2026-10-02 (46.21). |
+| caput | head | The card's key ruling, now a row: Christ alone is head of the church; kept apart from *capitaneus* "captain". Ruled 2026-10-02. |
+| speculator | watchman | The bishop as watchman (Ezek. 3:17). Ruled 2026-10-02 (*Eccl.* 55.16). |
 
 ## B. Lordship, law, office
 
@@ -221,6 +223,11 @@ otherwise.
 | viacio | wayfaring | The state of the *viator*. Ruled 2026-10-02 (42.30). |
 | citra Christum | short of Christ | As *citra fidem*. Ruled 2026-10-02 (45.8). |
 | color (*non est color*) | colour (a plausible ground) | The period sense, as in "colour of title"; never "pretext". A **C** note at the first occurrence in each chunk. Ruled 2026-10-02 (Wilson; *Eccl.* 21.18, 23.5, 23.7). |
+| fucus | disguise | Recurs of hypocrisy. Ruled 2026-10-02 (51.23, 53.24). |
+| glosa | gloss | The noun beside *glosare*. Ruled 2026-10-02 (52.10). |
+| vocatus (*vocata bona, vocata ecclesia*) | so-called | Ruled 2026-10-02 (55.6, 62.7). |
+| libertas arbitrii | freedom of choice | Beside *liberum arbitrium*. Ruled 2026-10-02 (60.18). |
+| digestio | digestion | The recurring figure of the four digestions (Rom. 8:30). Ruled 2026-10-02 (60.29 ff.). |
 
 ## D. False friends and ordinary words that mislead
 

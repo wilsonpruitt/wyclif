@@ -87,8 +87,8 @@ ordered as lower and higher.[^8]
     *Suppono … sermo*: Wyclif fixes the subject term of his argument.
 
 [^6]: **C/S.** *Decretalis*: *Unam sanctam*, the decretal of the chapter's second conclusion, which
-    denies the church two heads "like a monster" (LEDGER E01g-4, `[verify]`). *Color*: a plausible
-    ground (glossary proposal). The reductio: if heading any part sufficed, every husband (head of his
+    denies the church two heads "like a monster" (Friedberg II, 1245–46; LEDGER E01g-4). *Color*: a plausible
+    ground (GLOSSARY). The reductio: if heading any part sufficed, every husband (head of his
     wife) and every beast's head would head the church. *Sophisticum*: the sophists' kind of
     conclusion, absurd but granted.
 

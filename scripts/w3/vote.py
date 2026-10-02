@@ -371,7 +371,7 @@ def unstar(w):
     return w.replace('*', '').strip()
 
 
-ALINEA = set('BCDEFGHJKNOPQRSTU')
+ALINEA = set('BCDEFGHJKLMNOPQRSTU')     # L, M added 2026-10-02: 15 sites, all alinea letters
 
 
 def scar_fix(w, lex):
@@ -669,7 +669,7 @@ def run(slug, first=None, last=None):
             for w in words:
                 out_tokens.append(dict(t=w, n=norm(w), ins=True))
         # Loserth's alinea letters (A, B, C ... in the margin) read into the text: a lone capital between a
-        # sentence's end and a capitalised word (scars.py, 2026-10-01; not A I V X L M, which are words or numerals)
+        # sentence's end and a capitalised word (scars.py, 2026-10-01; not A I V X, which are words or numerals; L, M from 2026-10-02)
         for i in range(1, len(out_tokens) - 1):
             a_, x_, b_ = out_tokens[i - 1]['t'], out_tokens[i]['t'], out_tokens[i + 1]['t']
             if (x_ in ALINEA and a_ and a_.rstrip('*⟧')[-1:] in '.?!:' and b_.lstrip('*(⟦')[:1].isupper()

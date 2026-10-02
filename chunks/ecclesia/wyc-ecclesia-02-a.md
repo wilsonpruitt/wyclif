@@ -100,7 +100,7 @@ but triumphant.[^9]
 
 [^1]: **S/C.** Boniface VIII, *Unam sanctam* (1302), which stands under the title *De maioritate et
     obedientia*; Loserth: *Extrav. comm.* 1.8.1 (our modern form of his "lib. I, tit. VIII, cap. I";
-    LEDGER E02a-1). *Capitulo Maioritatis et obediencie* names the decretal by that title; *maioritas*
+    the title is Friedberg's Tit. VIII, II, 1245; LEDGER E02a-1). *Capitulo Maioritatis et obediencie* names the decretal by that title; *maioritas*
     is "greatness" (GLOSSARY §D). *Prima conclusio*: the first of the conclusions drawn in ch. 1 from
     the decretal. *Secum conversantes*: "living with him", i.e. his contemporaries, as again on pp. 29
     and 37. A has *conversantes parere*; A₁ *parerent*, corrected in the margin. A's margin at 25.24:
@@ -112,7 +112,7 @@ but triumphant.[^9]
 
 [^3]: **C/S.** The antecedent is "no vicar of Christ is Christ" together with "the one church has one
     head, Christ". *Unam sanctam* names that head as *Christus videlicet et Christi vicarius Petrus,
-    Petrique successor* `[verify]` (LEDGER E02a-2): the first reply below (one aggregate head) answers
+    Petrique successor* (Friedberg II, 1245–46; LEDGER E02a-2): the first reply below (one aggregate head) answers
     to that phrase. *Impossibilis*: self-contradictory, the logician's sense.
 
 [^4]: **C.** *Aggregative*: as an aggregate (a whole of parts), opposed to *per se*, "by himself".

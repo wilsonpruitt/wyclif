@@ -147,7 +147,7 @@ such as conspire against catholics who touch on their power, their pride and the
     body, the church". *Fides scripture*: the faith of scripture (cf. GLOSSARY *ex fide*).
 
 [^7]: **S/R.** Boniface VIII, *Unam sanctam* (1302): *Igitur ecclesiae unius et unicae unum corpus,
-    unum caput, non duo capita, quasi monstrum* `[verify]`. Loserth: *Extrav. comm.* 1.8.1 (our modern
+    unum caput, non duo capita, quasi monstrum* (Friedberg II, 1245–46; Wyclif omits *et unicae*). Loserth: *Extrav. comm.* 1.8.1 (our modern
     form of his "Lib. I. Tit. VIII … cap. I"; LEDGER E01c-5). A later hand in A₁'s margin objects:
     *Scias quia istam decretalem falsificat, nichil enim ibi de predestinatis*, "know that he falsifies
     this decretal, for there is nothing there about the predestinate; but the decretal proves that to
@@ -190,7 +190,7 @@ such as conspire against catholics who touch on their power, their pride and the
     (PL 54:151A–B). *Ex ipsius equitate*: Peter's equity, not the judge's. The next sentence is Wyclif's:
     Peter "procures" that God binds and looses; the binding is God's.
 
-[^17]: **S.** *Unam sanctam*, opening words `[verify]` (LEDGER E01c-5). Cant. 6:8, DR; Wyclif's *matri
+[^17]: **S.** *Unam sanctam*, opening words (Friedberg II, 1245–46; LEDGER E01c-5). Cant. 6:8, DR; Wyclif's *matri
     sue* for Vg *matris suae*.
 
 [^18]: **C.** Three relations: the Trinity is the church's *mater* as creatress; the Father's wisdom

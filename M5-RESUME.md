@@ -3,6 +3,16 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 (night) — brief 5 (03-b–03-e) DONE
+- Opus brief 205K (the costliest yet: 3,000 words, 26 tool calls); Sonnet verifier 114K, first run with
+  Friedberg's *CIC* II (archive.org BD1141952, `_djvu.txt`): all *Unam sanctam* rows verified (II, 1245–46);
+  *A nobis* is *X* 5.39.28, not Loserth's 5.39.21 (coordinator re-read).
+- Alinea letters L, M added to the rule (15 sites); tokenfix: *verius*, *salvator*, stray points, side-note *the*.
+  20 Latin changes, drift 0 over 19 translated chunks.
+- GLOSSARY: *caput* row (head), *speculator* watchman, *fucus* disguise, *glosa*, *vocatus* so-called,
+  *libertas arbitrii*, *digestio*.
+- **Next:** brief 6 = 03-f, 03-g, 04-a, 04-b.
+
 ## Rulings 2026-10-02 (Wilson: "recommendations yes") — logged in CONVENTIONS, card updated
 *color* → "colour" (C note per chunk); **Loserth's printed text governs** (A₁ never alone; 02-c 34.20, 02-d 38.1
 returned to the print); our emendations stand; Clement 37.21 open; verifier MAY fetch Friedberg's *CIC* from
