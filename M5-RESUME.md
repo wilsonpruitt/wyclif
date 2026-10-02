@@ -15,8 +15,9 @@ at the end of the M3/M4 session.*
 - Sources verified: Enarr. Ps. 142.3 (paraphrase), Quaest. VNT q. 3, q. 47, De doctr. 3.32, Greg. Hom. 19,
   Tract. Ioh. 124.5, Isidore 7.2.2, 16.3.1, Jerome on Israel. Untraced: Chrysostom (E17b-2). Open: E17c-2, E17d-8/9.
 - **Next:** brief 35 = 17-e, 17-f, 17-g. Built: `chunks/ecclesia/_briefs/ecclesia-17-e-17-g.md`.
-  ⚠ Brief 35 was LAUNCHED 2026-10-02 when wifi dropped: if 17-e/f/g show `status: translated` but are
-  uncommitted, check them (lint, Latin unchanged) or `git checkout chunks/ecclesia/wyc-ecclesia-17-[efg].md` and relaunch.
+  ▶ **Brief 35 TRANSLATED and committed (`4f59e8a`), NOT yet processed.** The Opus report is saved at
+  `chunks/ecclesia/_briefs/ecclesia-17-e-17-g.REPORT.md`. Resume at loop step 2 (tokenfixes, LEDGER, GLOSSARY
+  from that file), then step 3 (Sonnet check, pp. 402.25–412), step 4, then build brief 36 = 17-h, 18-a, 18-b.
 
 ## Status 2026-10-02 — brief 33 (16-g, 16-h, 17-a) DONE: chapter 16 translated
 - Opus 162K; Sonnet plates + sources 147K. **Lost words:** *quantum* at the head of p. 384 (English "how much of
