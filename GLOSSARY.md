@@ -419,3 +419,10 @@ otherwise.
 | habitus fidei | habit of faith | Ruled 2026-10-02 (*Eccl.* 17, 407–408). |
 | pars quantitativa | quantitative part | Ruled 2026-10-02 (*Eccl.* 17, 406–407). |
 | ecclesia nuncupativa | the church in name only | Ruled 2026-10-02 (*Eccl.* 17, 408.27). |
+| secundum presentem iusticiam | according to present justice | As against predestination; "present justice" is the established rendering (11 chunks; 18-a conformed). Ruled 2026-10-02 (*Eccl.* 18, 415–416). |
+| falsarius | falsifier | The opponent's epithet. Ruled 2026-10-02 (*Eccl.* 17, 414.6). |
+| adnascencia | growing-on | Adhesion without being a part. Ruled 2026-10-02 (*Eccl.* 18, 416.15). |
+| species specialissima | most special species | Ruled 2026-10-02 (*Eccl.* 18, 418). |
+| unum per accidens | one by accident | Ruled 2026-10-02 (*Eccl.* 18, 418). |
+| legiste | legists | Civil lawyers. Ruled 2026-10-02 (*Eccl.* 18, 420.20). |
+| persona successiva | successive person | Ruled 2026-10-02 (*Eccl.* 17, 414.1). |

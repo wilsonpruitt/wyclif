@@ -687,3 +687,25 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E17g-1 | ecclesia-17-g / n3 | Joh. Teutonicus gloss, D.17 c. *Generalia*, general council | to-verify | Glossa ord. |
 | E17g-2 | ecclesia-17-g / n6 | "Dist. XV vel XVI. Omnibus non extat" | editor | Loserth 412.2 |
 | E17g-3 | ecclesia-17-g / n6 | four councils as four gospels = D.15 c.2 *Sicut sancti evangelii* | verified | Friedberg D.15 c.2 |
+| E17h-1 | ecclesia-17-h / n6 | Aug. *Enchiridion* "64", Loserth corrects to 57 (church in the angels) | to-verify | check Ench. 56–57 |
+| E18a-1 | ecclesia-18-a / n2 | cf. p. 114.23 | editor | Loserth |
+| E18a-2 | ecclesia-18-a / n3 | Aquinas, *In III Sent.* d.13 q.2, solutio | to-verify | Loserth: Opp. IX 156; article and wording |
+| E18a-3 | ecclesia-18-a / n5 | Aquinas, same place, ad 3 (hand to be cut off) | to-verify | |
+| E18a-4 | ecclesia-18-a / n6 | Aug. *De doctr. christ.* 3.32.45 | verified | PL 34 (brief 35, E17f-4) |
+| E18a-5 | ecclesia-18-a / n6 | "Ep. 32 ad Bonifacium" = Ep. 98 (alias 23) | to-verify | Loserth: Opp. II 263 |
+| E18a-6 | ecclesia-18-a / n6 | Wyclif, *De civ. dom.* 1.2, p. 15 | editor | Loserth |
+| E18a-7 | ecclesia-18-a / n7 | Aug. *Tract. in Ioh.* 45 (codd. 49), *secundum predestinationem dicta sunt* | to-verify | Loserth; cf. E17f-6 (49.27) |
+| E18a-8 | ecclesia-18-a / n8 | Richard of St Victor, *De pot. ligandi* 2.20 | to-verify | Loserth: Migne 1172 |
+| E18a-9 | ecclesia-18-a / n10 | cf. p. 114.31 | editor | Loserth |
+| E18a-10 | ecclesia-18-a / n11 | Aug. to Boniface, *sine macula vel ruga* | to-verify | Loserth: Opp. II 658; Ep. 185? |
+| E18b-1 | ecclesia-18-b / n1 | Aug. *Ench.* 64, 65, 69 | to-verify | |
+| E18b-2 | ecclesia-18-b / n1 | *Quaest. VNT* 47 | verified | PL 35 2247–8 (brief 34, E17c-1) |
+| E18b-3 | ecclesia-18-b / n6, n12, n14 | Johannes Monachus, gloss on VI 1.6.17 *Fundamenta* | editor | modern form ours; wording to check |
+| E18b-4 | ecclesia-18-b / n6 | Savigny VI.103; Jöcher II.1933 | editor | Loserth |
+| E18b-5 | ecclesia-18-b / n8 | Aug. *Tract. in Ioh.* 124.5 *in aeternitate mansionis* (grounds for emendation) | to-verify | PL 35 |
+| E18b-6 | ecclesia-18-b / n9 | *De pen.* D.1 c. *Ecclesia* (Loserth's "C. XXIII q.3 c.70", read XXXIII) | to-verify | Friedberg |
+| E18b-7 | ecclesia-18-b / n10 | *Dig.* 23.2.4 *Minorem* | editor | modern form ours |
+| E18b-8 | ecclesia-18-b / n16 | Hugh, *De sacr.* 2.1.11 | to-verify | Loserth: Migne 409 |
+| E18b-9 | ecclesia-18-b / n17 | Wyclif's own *De anima* | to-verify | |
+| E18b-10 | ecclesia-18-b / n18 | Anselm, *Ep. de incarn. Verbi* c. 7 | to-verify | Loserth: *De fide Trin.* p. 479 |
+| E18b-11 | ecclesia-18-b / n18 | Bernard, *In vig. Nat. Dom.* serm. 3 | to-verify | Loserth: Opp. 41 |
