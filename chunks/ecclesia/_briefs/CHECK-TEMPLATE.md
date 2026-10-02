@@ -33,6 +33,7 @@ Report: numbered verdicts, PRINT/OUR/ACTION or SOURCE/WORDING/ACTION. Under 800 
 ---
 
 **Applying the report (coordinator):** raw tokens via `pNNN.tok.jsonl` → `text/ecclesia/tokenfix.tsv` rows
-(single token, or a two-token pair key; check the key is unique on the page) → English + note fixes → LEDGER
-statuses → `vote.py ecclesia` → `relatin.py ecclesia --also <chunks>` → `relatin.py ecclesia --dry` (must be 0)
+(single token, or a two-token pair key, INCLUDING attached punctuation, e.g. `jnvitis,`; check the key is
+unique on the page) → English + note fixes → LEDGER
+statuses → `vote.py ecclesia` → `relatin.py ecclesia --also 15-c,15-d,15-e` (ids, not paths) → grep chunks for each old token (must be 0) → `relatin.py ecclesia --dry` (must be 0)
 → `lint.py chunks/ecclesia/wyc-*.md` → M5-RESUME status → commit.

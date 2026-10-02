@@ -570,3 +570,26 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E15b-2 | ecclesia-15-b / n5 | Sergius the monk who instructed Muhammad | to-verify | |
 | E15b-3 | ecclesia-15-b / n7 | the pseudo-pope = Clement VII | to-verify | |
 | E15b-4 | ecclesia-15-b / n8 | Hus, *De ablacione bonorum temporalium* (Nuremberg 1558, I, 122ᵛ) | editor | |
+| E15c-1 | ecclesia-15-c / n1, n7, n10 | Hus, *De ablacione bonorum temporalium* fol. 121ʳ, 123ʳ; Hus's reuse at 338.10, 338.27; Loserth, *Hus und Wiclif* pp. 199–208 | editor | Loserth, feet of pp. 336–338 |
+| E15c-2 | ecclesia-15-c / n12 | *primi fructus* = papal annates claimed in 14th-c. England | to-verify | |
+| E15c-3 | ecclesia-15-c / n15 | *comitive depopulatrices* = the free companies; cf. Walsingham I, 302 | editor | Loserth, foot of p. 339 |
+| E15c-4 | ecclesia-15-c / n16 | regalian right to temporalities in vacancy; presentation; licence to elect and assent | to-verify | |
+| E15d-1 | ecclesia-15-d / n3 | cross-reference "end of chapter 13" (A *XXII* corr. *XIII*) | verified | 13-f ends with abusers of church goods as heretics |
+| E15d-2 | ecclesia-15-d / n5 | *Qui emendare potest et negligit* ~ D.86 c.3 | verified | Gregory to Brunhild (PL 77); D.86 c.3 is John VIII, loose parallel only |
+| E15d-3 | ecclesia-15-d / n6 | Gregory, *Registrum* XI.29 (Wyclif's numbering); the earlier citation | to-verify | |
+| E15d-4 | ecclesia-15-d / n7 | *Privilegium* = C.11 q.3 c.63 (Gregory), *meretur amittere* | verified | Friedberg: *meretur*; Wyclif *debet* |
+| E15d-5 | ecclesia-15-d / n8 | maxim *eius est interpretari cuius est condere* | verified (roots) | Cod. 1.14.12; C.25 q.1 §2 dictum; exact maxim not located in law |
+| E15d-6 | ecclesia-15-d / n5 | Hus parallels fol. 123 (341.22, 341.25) | editor | Loserth, foot of p. 341 |
+| E15e-1 | ecclesia-15-e / n4 | "in materia De Symonia" = Wyclif, *De simonia* | to-verify | |
+| E15e-2 | ecclesia-15-e / n7 | "superius tractatu De Privilegiis" = *Eccl.* chs. 8–9 | to-verify | |
+| E15e-3 | ecclesia-15-e / n9 | cross-reference to ch. 13 (A *XXII*, corr. in margin) | verified | see E15d-1 |
+| E15e-4 | ecclesia-15-e / n10 | Bernard: Abelard's sin uncertain until his followers are known | to-verify | |
+| E15e-5 | ecclesia-15-e / n11 | essential and accidental perfection of alms, scholastic commonplace | to-verify | |
+| E15e-6 | ecclesia-15-e / n15 | English king's reputed healing touch and taming of lions | to-verify | |
+| E15e-7 | ecclesia-15-e / n19 | C.23 q.4 *Nimium*, *Ipsa pietas*, *Quid faciet*; ch. 11 cross-ref (B XX) | verified | Friedberg c.37, c.24, c.23 |
+| E15e-8 | ecclesia-15-e / n20–21 | C.5 q.5 c.1–2 (Augustine); Augustine reads *innocentes non estis, si* | verified | c.1 Aug. Ep. 211; c.2 Ep. 93; Wyclif conflates |
+| E15e-9 | ecclesia-15-e / n24 | Augustine to Macedonius (Loserth Opp. II 532; Wyclif "37") = Ep. 153 | verified | PL 33 Ep. 153; *Quis nos* is Ep. 93, not 153 |
+| E15e-10 | ecclesia-15-e / n27 | D.83 c.2 | editor | |
+| E15e-11 | ecclesia-15-e / n29 | C.5 q.5 c.5 *Qui ambulat* | editor | |
+| E15e-12 | ecclesia-15-e / n11, n15, n17, n24 | Hus parallels 343.15, 343.30, 345.3, 345.24 (fol. 133), 347.4–11 | editor | Loserth, feet of pp. 343–347 |
+| E15e-13 | ecclesia-15-e / n28 | *palea* plays on the *paleae* of the Decretum | to-verify | reader's judgment |

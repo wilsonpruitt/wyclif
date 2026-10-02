@@ -3,6 +3,21 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 29 (15-c, 15-d, 15-e) DONE
+- Opus 161K; Sonnet plates + sources 152K. Full plate pass pp. 336–348: **no lost or doubled words**; 9 tokenfixes
+  (incl. *no* = line number 20 at 338.20; *Privilegium:* incipit at 341.23; *XXXVIIª* at 347.10).
+- Departure from the print (ruling 2): 346.22 *Quis non* → *nos* (Augustine Ep. 93 = C.5 q.5 c.2 both read
+  *nos*; no apparatus). The other flagged non-constructions (336.21, 343.22–27, 345.31, 346.6) are the print.
+- Sources: 15-d n5 is Gregory to Brunhild, NOT D.86 c.3 (John VIII); C.11 q.3 c.63 and C.23 q.4 c.37/24/23
+  verified; the *eius est interpretari* maxim rooted in Cod. 1.14.12 and C.25 q.1 §2. Still open: E15c-2, E15c-4,
+  E15d-3, E15e-1/2/4/5/6/13.
+- ⚠ **tokenfix keys include attached punctuation** (*jnvitis,* not *jnvitis*): a bare key silently doesn't
+  apply. Check by grepping the chunks for the old token after the pipeline.
+- **relatin `--also` takes chunk ids, comma-separated** (`--also 15-c,15-d,15-e`), not paths. Paths silently
+  refresh nothing. `vote.py` needs `.venv/bin/python` (spylls).
+- **Next:** brief 30 = 15-f, 15-g, 15-h. Built: `chunks/ecclesia/_briefs/ecclesia-15-f-15-h.md`.
+  Per-brief loop: see brief 28 entry below (unchanged). The lost-word pass for chs. 1–13 is still owed.
+
 ## Status 2026-10-02 — brief 28 (14-h, 15-a, 15-b) DONE: chapter 14 translated
 - Opus 158K; Sonnet plates + sources + page-head sweep 139K. Lost/doubled words: *II.* (332.10), *Tercia* doubled
   (333.1); departures by ruling 2 (print won't construe): 328.12 *Vident* (B), 331.33 *nimis*. 330.30 paragraph
