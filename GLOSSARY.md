@@ -67,6 +67,11 @@ otherwise.
 | forisfacere | commit forfeiture | Ruled 2026-10-02 (152.13). |
 | ecclesia laycalis / secularis | the lay church / the secular church | Ruled 2026-10-02 (154.15, 156.3). |
 | orator | CONTEXTUAL: bedesman / advocate | Plural *oratores* "bedesmen" (Dialogus ruling); of one who pleads the church's cause (*orator ecclesie*, *Eccl.* 165.25, 166.4) "advocate", with a **C** note. Ruled 2026-10-02. |
+| privilegium / privilegiare / privilegiacio | privilege / to privilege / privileging | The key term of *Eccl.* 8–9. Ruled 2026-10-02. |
+| exempcio | exemption | Ruled 2026-10-02 (*Eccl.* 9). |
+| furce et puteus | gallows and pit | The franchise of capital justice. Ruled 2026-10-02 (*Eccl.* 9). |
+| expropriacio | renunciation of property | Never "expropriation" (seizure). Ruled 2026-10-02 (*Eccl.* 9). |
+| uxoratus | married | Ruled 2026-10-02. |
 
 ## B. Lordship, law, office
 
@@ -264,6 +269,13 @@ otherwise.
 | indoles | promise | The natural promise of a thing (the midwives' argument, *Eccl.* 163.18, 164.1–12; Comestor reads *de dolo*). Ruled 2026-10-02. |
 | colorare | give colour to | The verb beside *color*. Ruled 2026-10-02 (163.2). |
 | minoritas | lesser standing | Beside *maioritas* "greatness". Ruled 2026-10-02 (172.22). |
+| philargiria | love of money | 1 Tim. 6:10 *radix omnium malorum cupiditas*. Ruled 2026-10-02. |
+| mundialitas / secularitas | mundanity / worldliness | Kept apart. Ruled 2026-10-02 (*Eccl.* 9). |
+| laureola | aureole | The theologians' special crown (of virgins, martyrs, doctors). Ruled 2026-10-02. |
+| sagena | dragnet | Matt. 13:47. Ruled 2026-10-02. |
+| impetrare | obtain (by request) | Ruled 2026-10-02. |
+| indispensabilis | not to be dispensed | Ruled 2026-10-02. |
+| falsigraphus | false writer | The one who sets out false figures or texts. Ruled 2026-10-02 (*Eccl.* 9). |
 
 ## D. False friends and ordinary words that mislead
 

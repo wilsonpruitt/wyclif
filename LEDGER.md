@@ -342,3 +342,22 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E08f-3 | ecclesia-08-f / n17 | *De vera rel.* 92 | verified | PL 34:163 |
 | E08f-4 | ecclesia-08-f / n18 | ch. 6, sixth argument = pp. 136–138 | editor | |
 | E08f-5 | ecclesia-08-f / n19 | *De vera rel.* 93 *perfecta iusticia* | verified | PL 34:163–64 |
+| E09a-1 | ecclesia-09-a / n7 | *ecclesia canit … privilegio amoris Johannem dilexit*: office of St John the Evangelist | to-verify | breviary |
+| E09a-2 | ecclesia-09-a / n10 | *Lincolniensis* (Grosseteste) on exemptions | to-verify | not local |
+| E09a-3 | ecclesia-09-a / n12 | Augustine, *De ordine* II ("cap. XVIII (?)") | untraced | PL 32 Bk II searched; II.18 (1016) a different topic |
+| E09a-4 | ecclesia-09-a / n14 | Augustine, *De agone christiano* 7 (Loserth "IV") | verified | PL 40:295 |
+| E09a-5 | ecclesia-09-a / n15 | baptismal renunciation "of Satan and all his pomps" | to-verify | rite |
+| E09a-6 | ecclesia-09-a / n16 | C.24 q.1 c.33 *Pudenda* (Pelagius) | verified | Friedberg I, 979–80 |
+| E09a-7 | ecclesia-09-a / n16 | the Augustine inside c.33 | untraced | unnamed in Gratian and Friedberg |
+| E09a-8 | ecclesia-09-a / n17 | *execratus … non consecratus* in c.33 | verified | Friedberg I, 980 |
+| E09a-9 | ecclesia-09-a / n18 | *Non est facile* = D.40 c.2 | verified | PL 187:213C–214B (E06e-2) |
+| E09b-1 | ecclesia-09-b / n1 | *ex cap. VI°* = this work's ch. 6 | to-verify | |
+| E09b-2 | ecclesia-09-b / n2 | *De cons.* D.5 c.24 *Non mediocriter* (Jerome) | verified | Friedberg I, 1418 |
+| E09b-3 | ecclesia-09-b / n2 | *libro V°, cap.* [blank] | untraced | |
+| E09b-4 | ecclesia-09-b / n5 | *ut alias exemplificavi de Augustino* | untraced | |
+| E09b-5 | ecclesia-09-b / n7 | C.11 q.1 c.29 *Te quidem*, from Clement to James | verified | Friedberg I, 634; Peter speaks to Clement within it (c.30) |
+| E09b-6 | ecclesia-09-b / n11 | John turns branches and stones into gold and gems | to-verify | legend (*Virtutes Iohannis*) |
+| E09c-1 | ecclesia-09-c / n3 | C.25 q.2 c.2, Leo to Marcian | verified | Friedberg I, 1011–12 |
+| E09c-2 | ecclesia-09-c / n4 | C.25 q.1 c.3, Leo to Anatolius | verified | Friedberg I, 1007–08 |
+| E09c-3 | ecclesia-09-c / n7 | *X* 3.50.7 *Relatum* (Alexander III) | verified | Friedberg II, 659–60 |
+| E09c-4 | ecclesia-09-c / n10 | Aristotle, *Ethics* I.2–3 | editor | |

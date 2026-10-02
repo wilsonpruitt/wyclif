@@ -3,6 +3,14 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 16 (09-a, 09-b, 09-c) DONE
+- Opus 164K; Sonnet sources 117K (Friedberg I/II: *Pudenda*, *Non mediocriter*, *Te quidem*, Leo epp. 51/52,
+  *Relatum*). **Construal fixed:** 09-a C.24 q.1 c.33 — Wyclif truncates the canon; *excludi non possit* describes
+  the malice; verb "extinguish" supplied from the canon (C note).
+- GLOSSARY: *privilegium* (key term), *exempcio*, *furce et puteus*, *expropriacio* "renunciation of property",
+  *laureola* "aureole", *uxoratus* "married", *philargiria*, *mundialitas/secularitas* … 9 tokenfixes.
+- **Next:** brief 17 = 09-d, 09-e, 09-f.
+
 ## Status 2026-10-02 — brief 15 (08-d, 08-e, 08-f) DONE: chapter 8 translated
 - Opus 175K; Sonnet sources 98K. Lower-case margin letters (a–f) glue onto words from ~p. 170: a rule would hit
   genuine medieval forms (*Isaie*, *regalie*, *abbathie*), so 30 curated tokenfixes instead (incl. pp. 186–581, two
