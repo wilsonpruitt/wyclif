@@ -38,3 +38,4 @@
 | E13a-6 | ecclesia-13-a / n16 | "declared in the last chapter": Heli's condition | to-verify | ch. 12 |
 | E13b-3 | ecclesia-13-b / n11 | Augustine, *Enarr. in Ps.* 148 (*In tuo arbitrio Deus te esse voluit*) | to-verify | |
 | E13b-7 | ecclesia-13-b / n6 | *iuxta dicta proximo capitulo* → ch. 12 | to-verify | |
+| E14g-5 | ecclesia-14-g / n1 | Augustine, *si sit utilis, in scriptura sacra invenitur* (322.18–19) = *De doctrina christiana* II.42.63 | to-verify | added from REVIEW-R5 #21 (2026-10-03); PL 34 local, *De doctr. chr.* II.42 |

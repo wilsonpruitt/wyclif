@@ -68,4 +68,7 @@ Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opu
 | B | extract 03 | 146K | 132 checked: 1 change, 7 doubtful |
 | A2 | apply R3+R4 | 167K | 57 rows applied (3 tag-key rows partly: tags added, keys left for script); LEDGER E10b-5 page 37→39; lint 0 |
 | B | extract 04 | 154K | 144 checked: 15 changes, 10 doubtful (11-a cum-clause minor needs recast) |
+| B | extract 05 | 158K | 163 checked: 9 changes, 6 doubtful |
+| B | extract 06 | 150K | 160 checked: 6 changes, 11 doubtful; 17-b p.393 wrong tag fixed (→ ecclesia-triumphans) |
+| A2 | apply R5+R6 | 158K | 62 rows applied; T notes for restored print readings; 04-f sponsus; new LEDGER row E14g-5 (routed to fathers-1); E04b-4 split → E04b-6 |
 | D | coordinator | — | lint.py widened: 278 tag keys with space/capital had been skipped; 2 stray `{g:per idem}` removed; lint 0 |

@@ -59,3 +59,40 @@ Classes: 1 terms · 2 connectives · 3 medieval sense · 4 construal, or a note 
 - **12-e**: The cleanest of the four. Connectives and construal hold throughout, and the hard *ve speculatoribus* clause carries an honest C note. What remains is five rows with the right rendering but no tag, the missing CONTEXTUAL note on *sentencia*, one italic maxim left unquoted, and a garbled sentence in n. 10.
 - **13-a**: Good English that follows the proof's structure. The work is in the terms: a tag on the wrong row (*elemosinare*), the compound *elemosina temporalis* row unused in the chapter it was ruled for, *bona de genere* off its ruling, and "cast aside" for *abiectam*.
 - **14-g**: Sound construal with good notes. The quotation bounds are its weak point: four places on pp. 322–323 depart from the print's italics (three italic stretches unquoted, one roman stretch quoted), and the Augustine has no S note. There is one real English/note contradiction (*restrinxerit*), and *denominacio* is off its ruling.
+
+## Applied 2026-10-03
+
+Rulings: CLOSEOUT.md "Coordinator rulings for the appliers (A2)". The Latin was not touched (263.29 *faciendo*, 267.3 *latronum?*, 270.29 *XXVII°, 69* already restored to the print). No note renumbered.
+
+| # | result |
+|---|---|
+| 1 | applied; n. 1 also records the print's italics, and carries the ruled T note: print *faciendo* (263.29, plate n300), English follows *facienda* (Rom. 3:8; our emendation) |
+| 2 | applied |
+| 3 | applied; n. 4 adds "roman in the print" |
+| 4 | applied (the reviewer's preferred wording: "The fourth main objection, from schoolmen and [common people]{g:vulgares} alike:") |
+| 5 | applied; n. 11 amended (the print italicises the duke's words through *fugitivi*, *sed longe hoc* included) |
+| 6 | applied (n. 12) |
+| 7 | applied (four tags) |
+| 8 | applied-adjusted: C note put in n. 2 (the anchor nearer 268.8), labelled G |
+| 9 | applied |
+| 10 | applied |
+| 11 | applied (five tags) |
+| 12 | applied (n. 1) |
+| 13 | applied |
+| 14 | applied |
+| 15 | applied |
+| 16 | applied (English and n. 10) |
+| 17 | applied |
+| 18 | applied |
+| 19 | applied (four tags; plain `elemosina` tag dropped in favour of `elemosina-temporalis`, as proposed) |
+| 20 | applied |
+| 21 | applied; S note added to n. 1 and a new LEDGER row E14g-5 (to-verify, *De doctr. chr.* II.42.63); not added to any `_verify/groups` file (they are generated) |
+| 22 | applied |
+| 23 | applied |
+| 24 | applied |
+| 25 | applied |
+| 26 | applied (English, and n. 17 brought into line: "however hard he has pressed") |
+| 27 | applied (five tags; `{g:dotacio}` dropped from "endowed") |
+| Latin asides | not review rows. 263.29 and 270.29: T notes added per the rulings (12-d n. 1; 12-e n. 16: print *Matthei XXVII°, 69*, plate n307, Loserth's misprint, verse 27:19). 267.3: no note (ruling). No note or transcription note calls these readings OCR corrections. |
+
+Outside the review: 04-f p. 91 "[bridegroom]{g:sponsa}" → `{g:sponsus}`. Lint: 0 problems.

@@ -66,3 +66,47 @@ Classes: 1 terms · 2 connectives · 3 medieval sense · 4 construal, or a note 
 - **21-f**: Careful notes on a hard passage about characters. One misleading rendering: "ordination of a bishop" for the bishop's act of ordaining. Two quotation bounds are off, one in Romans 8:28 where *predestinatis* is Wyclif's own. A *sentencia* C note is missing. Two notes report the OCR of the page foot rather than the plate (*pem*, line 20).
 - **23-h**: The cleanest of the five on construal. The calculators' cases are well followed and the doubtful points are all noted. What remains is tagging, a missing *sentencia* C note, and one *sed* that should be "now".
 - **23-k**: Accurate, with the connective "now" already handled at 583.25–29. One more minor-premiss *autem* (582.5) is "and". N. 15 reports an OCR "1" as the print's verse number. The rest is tagging.
+
+## Applied 2026-10-03
+
+Rulings: CLOSEOUT.md "Coordinator rulings for the appliers (A2)". The Latin was not touched (424.4 *novam* already restored to the print). No note renumbered.
+
+| # | result |
+|---|---|
+| 1 | applied (English and n. 5) |
+| 2 | applied |
+| 3 | applied |
+| 4 | applied: T note in n. 6 in the wording proposed |
+| 5 | applied (English and n. 13) |
+| 6 | applied |
+| 7 | applied (with #8) |
+| 8 | applied |
+| 9 | applied (English and n. 2) |
+| 10 | applied |
+| 11 | applied |
+| 12 | applied |
+| 13 | applied |
+| 14 | applied |
+| 15 | applied |
+| 16 | applied |
+| 17 | applied |
+| 18 | applied |
+| 19 | applied |
+| 20 | applied (English and n. 9) |
+| 21 | applied |
+| 22 | applied (n. 7, the first option) |
+| 23 | applied |
+| 24 | applied |
+| 25 | applied |
+| 26 | applied (eight tags) |
+| 27 | applied (n. 1) |
+| 28 | applied |
+| 29 | applied |
+| 30 | applied-adjusted: first option, key changed to `{g:aliquote}`, a full form of the row |
+| 31 | applied (eight tags) |
+| 32 | applied |
+| 33 | applied |
+| 34 | applied |
+| 35 | applied (four tags) |
+
+Structure notes (alineae, range labels): not rows, left. Lint: 0 problems.

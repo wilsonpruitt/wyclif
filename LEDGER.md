@@ -183,7 +183,8 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E04b-1 | ecclesia-04-b / n2, n5 | Richard of St Victor, *De pot. lig. et solv.* 19–20 | verified | PL 196:1172A–1173A; ends *concorporatus fuit* |
 | E04b-2 | ecclesia-04-b / n7 | Augustine, *De doctr. christ.* III.32.45, the *Ypocrite* sentence | verified | PL 34:82 |
 | E04b-3 | ecclesia-04-b / n8 | *Opus imperfectum*, hom. 9 (Montfaucon VI, lxi E) | editor | not local |
-| E04b-4 | ecclesia-04-b / n9–10 | *ut patet cap. X*; *ut dixi superius* | to-verify | John 10, or this book's ch. 10? |
+| E04b-4 | ecclesia-04-b / n9 | *ut patet cap. X* | to-verify | John 10, or this book's ch. 10? |
+| E04b-6 | ecclesia-04-b / n10 | *ut dixi superius* | to-verify | split from E04b-4 (REVIEW-R1 #18, 2026-10-03): an earlier passage of this work |
 | E04b-5 | ecclesia-04-b / n15 | *de necessitate salutis* echoes *Unam sanctam* | verified | Friedberg II, 1245–46 (as E01e-1) |
 | E04c-1 | ecclesia-04-c / n4 | Thomas and Richard at 77.11 (Loserth "loc. cit."): *ST* III q.8 a.3; Richard, *De pot. lig. et solv.* | to-verify | Richard: PL 196; Thomas not local |
 | E04c-2 | ecclesia-04-c / n10; 04-e / n18 | *ST* III q.8 a.3 ad 2 (Wyclif "concl. VIII, art. III"); Thomas *perducimur* | editor | not local |
@@ -553,6 +554,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E14g-2 | ecclesia-14-g / n6 | *XCVIª d.* at 323.27 = D.96 c.14 | to-verify | |
 | E14g-3 | ecclesia-14-g / n18 | the claims answer Gregory XI's bulls of 1377 | to-verify | |
 | E14g-4 | ecclesia-14-g / n19 | conclusion on lords taking from a delinquent church condemned 1377 | to-verify | |
+| E14g-5 | ecclesia-14-g / n1 | Augustine, *si sit utilis, in scriptura sacra invenitur* (322.18–19) = *De doctrina christiana* II.42.63 | to-verify | added from REVIEW-R5 #21 (2026-10-03); PL 34 local, *De doctr. chr.* II.42 |
 | E14h-1 | ecclesia-14-h / n1 | Matthew's *Dic bufo crati* = ME proverb "quoth the toad to the harrow" | to-verify | |
 | E14h-2 | ecclesia-14-h / n3 | D.96 c.14 *Constantinus* | verified | = E14g-1 |
 | E14h-3 | ecclesia-14-h / n8 | Aug. *In Ioh.* 6 (*Quo iure*) | verified | 6.25, = E14a-5 |

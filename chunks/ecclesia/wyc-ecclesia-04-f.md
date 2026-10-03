@@ -73,7 +73,7 @@ ignorant of]{g:ignorare} [91] and not know in particular that which we know in g
 these things, by a demonstration of the understanding limited by faith, that this is our mother,
 although a demonstration of sense does not make it certain.[^9] Hence we ought not absolutely to
 despise anyone living among us, but [their] vices, since we are ignorant whether in this we despise
-our mother, and altogether the [bridegroom]{g:sponsa} of the church. And so we are certain that
+our mother, and altogether the [bridegroom]{g:sponsus} of the church. And so we are certain that
 whatever we do well according to the law of the bridegroom, in this we honour our mother and profit
 her. Nor is it difficult to know the will of the bridegroom, since we know from faith that
 everything done comes about, naturally or meritoriously, according to the good pleasure of the

@@ -170,7 +170,7 @@ men.[^16]
 
 [^10]: **G/C.** *Ingrata*: rendered "ungracious", of God choosing, where GLOSSARY §D's "displeasing (to
     God)" cannot apply and "ungrateful" has no object; proposed. *Ut dixi superius*: not identified
-    (LEDGER E04b-4).
+    (LEDGER E04b-6).
 
 [^11]: **T/S.** 1 John 2:19, DR; AA₁ *per tempus* for *ad tempus* (75.3). Rom. 8:35–39 paraphrased: DR
     "the love of Christ" (8:35), "the love of God which is in Christ Jesus" (8:39), for *caritas*
