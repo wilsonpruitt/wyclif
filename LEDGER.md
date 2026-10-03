@@ -838,3 +838,12 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E21c-3 | ecclesia-21-c / n6, n7 | Bonaventure, *In IV Sent.* d. 24 p. 2 a. 1 q. 1 (Opp. IV 650) | editor | page foot 499.30, 500.6 |
 | E21c-4 | ecclesia-21-c / n6 | Wyclif's supposition defining the cleric, cap. 19, p. 441 | editor | page foot 499.27 |
 | E21c-5 | ecclesia-21-c / n12 | *magister … in litera* = Lombard, *Sent.* IV d. 24 | verified | PL 192 Sent. IV d.24 c.1, c.10 (substance only) |
+| E21d-1 | ecclesia-21-d / n2, n6 | Bonaventure, *In IV Sent.* d. 24 p. 2 a. 1 q. 2 (foot 503.23 "pag. 602"? vs 650) | verified | foot 503.23: pag. 652 (not 602); d.24 p.2 a.1 |
+| E21d-2 | ecclesia-21-d / n16 | Anselm, *Cur Deus homo* I.12 (codd. X); Anselm reads *deum illum* | verified | PL 158 CDH I.12 (Deum illum) |
+| E21e-1 | ecclesia-21-e / n1 | Thomas, *In IV Sent.* d. 24 (Wyclif q. 2 a. 3) | verified | foot 506.32 p. 442 |
+| E21e-2 | ecclesia-21-e / n3 | "Machabeorum VII°": a lie hated in the camps | open | not located; perhaps 1 Mac 7:27–30 |
+| E21e-3 | ecclesia-21-e / n4 | earlier: some character only temporal | verified | p. 444 |
+| E21e-4 | ecclesia-21-e / n10 | Bonaventure IV d. 24: characters as potestative parts | open | no Loserth ref; no Bonaventure on disk |
+| E21e-5 | ecclesia-21-e / n10 | cf. Thomas l. c. p. 424 (vs p. 442) | verified | foot 509.5 p. 424 (distinct passage) |
+| E21f-1 | ecclesia-21-f / n13 | Chrysostom, "Omelia prima", on the seven churches | open | not located in PL |
+| E21f-2 | ecclesia-21-f / n17 | *baptismus flaminis*: cf. *Trialogus* | verified | foot 514.24: Trial. p. 285 |

@@ -470,3 +470,12 @@ otherwise.
 | commentum (mendacii) | fabrication | Wyclif numbers the opponent's fabrications. Ruled 2026-10-02 (*Eccl.* 21, 498.31). |
 | signaculum | seal | Ruled 2026-10-02 (*Eccl.* 21, 500.21). |
 | laicatus | the lay state | Ruled 2026-10-02 (*Eccl.* 21, 502.7). |
+| partes potestative / subiective / aliquote | potestative / subjective / aliquot parts | The scholastic division of wholes. Ruled 2026-10-02 (*Eccl.* 21, 509.3–5). |
+| pars integralis | integral part | Ruled 2026-10-02 (*Eccl.* 21, 514.15). |
+| res sacramenti | reality of the sacrament | Ruled 2026-10-02 (*Eccl.* 21, 511.8). |
+| gracie gratis date | graces freely given | Kept apart from *gracia gratificans*. Ruled 2026-10-02 (*Eccl.* 21, 512.13). |
+| baptismus flaminis | baptism of the Spirit | Ruled 2026-10-02 (*Eccl.* 21, 514.24). |
+| caracter in actu | character in act | Ruled 2026-10-02 (*Eccl.* 21, 513.18). |
+| pseudoclerici | false clerics | Cf. *pseudomonachus*. Ruled 2026-10-02 (*Eccl.* 21, 511.17). |
+| ordo per accidens | order by accident | Ruled 2026-10-02 (*Eccl.* 21, 514.29). |
+| univoce | univocally | Ruled 2026-10-02 (*Eccl.* 21, 514.4). |

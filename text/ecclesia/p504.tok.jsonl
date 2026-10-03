@@ -17,8 +17,8 @@
 {"t": "oppositum", "leaf": 541, "row": 2, "para": false, "head": false, "pos": 16}
 {"t": "quo", "leaf": 541, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "sic", "leaf": 541, "row": 2, "para": false, "head": false, "pos": 18}
-{"t": "arguitur", "leaf": 541, "row": 2, "para": false, "head": false, "pos": 19}
-{"t": "in", "leaf": 541, "row": 3, "para": false, "head": false, "pos": 20}
+{"t": "arguitur:", "leaf": 541, "row": 2, "para": false, "head": false, "pos": 19}
+{"t": "in", "leaf": 541, "row": 2, "para": false, "head": false, "pos": 19}
 {"t": "sacramento", "leaf": 541, "row": 3, "para": false, "head": false, "pos": 21}
 {"t": "baptismi", "leaf": 541, "row": 3, "para": false, "head": false, "pos": 22}
 {"t": "non", "leaf": 541, "row": 3, "para": false, "head": false, "pos": 23}
@@ -115,7 +115,7 @@
 {"t": "et", "leaf": 541, "row": 16, "para": false, "head": false, "pos": 114}
 {"t": "tres", "leaf": 541, "row": 16, "para": false, "head": false, "pos": 115}
 {"t": "et", "leaf": 541, "row": 16, "para": false, "head": false, "pos": 116}
-{"t": "quattuor", "leaf": 541, "row": 16, "para": false, "head": false, "pos": 117}
+{"t": "quattuor,", "leaf": 541, "row": 16, "para": false, "head": false, "pos": 117}
 {"t": "et", "leaf": 541, "row": 16, "para": false, "head": false, "pos": 118}
 {"t": "tamen", "leaf": 541, "row": 16, "para": false, "head": false, "pos": 119}
 {"t": "multarum", "leaf": 541, "row": 17, "para": false, "head": false, "pos": 120}

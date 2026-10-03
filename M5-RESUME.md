@@ -3,6 +3,27 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 44 (21-d, 21-e, 21-f) DONE
+- Opus 181K (no plates); Sonnet 168K. 11 tokenfixes: *domnino*, *rantasiandum* (f/r), *jn*, stray *of*, *4— 7:*;
+  plate: 509 *XXIV°*→*XXIVª*, 510.12 lost "(" (*sacerdos (de*), 514.30 doubled *appreciando* deleted, 504 lost
+  colon and comma. English: "(of whom I have spoken above)"; 21-f n18 recast.
+- ⚠ **Trap (new):** the print's "(" read as "|" GLUED to the previous word (raw token `sacerdos|`); scar_fix
+  then hides it. A tokenfix keyed on the cleaned token double-applies ("( (") and a pair key on cleaned tokens
+  misses. Key on the RAW token: `510⇥sacerdos| de⇥sacerdos (de`. To see raw tokens, temporarily print in
+  vote.py's writer loop for one page (restore after).
+- ⚠ **For Wilson (as 458.23):** 511.10 *reminiscere* — the plate confirms it, no apparatus; the English
+  "revive" (*reviviscere*) is our emendation (T note). Also our supplies with T notes where the print shows no
+  loss: 502.12 "[but in this,]", 509.3 "[from the words]".
+- Print confirmed: *per inde*, *Ex primo … commento* (B *primo ergo*), *revertentur*, *corrupto episcopo*,
+  *circumcisione* (Loserth: rectius *intercisione*), *sacerdos celebrat*, *tantum … tantum*, *pars senarius*.
+  *Alia possunt fieri argumenta* is outside Bonaventure (roman).
+- Sources: Bonaventure foot 503.23 = p. **652** (OCR "602"); Anselm CDH I.12 *Deum illum* (Loserth prints
+  *dominum*); *Trial.* p. 285; "some character only temporal" = p. 444. Open: E21e-2 (Mac. 7; perhaps 1 Mac
+  7:27–30), E21e-4, E21f-1 (Chrysostom on the seven churches).
+- GLOSSARY: *partes potestative/subiective/aliquote*, *pars integralis*, *res sacramenti*, *gracie gratis date*,
+  *baptismus flaminis*, *caracter in actu*, *pseudoclerici*, *ordo per accidens*, *univoce*.
+- **Next:** brief 45 = 21-g, 22-a, 22-b (built). 7 briefs left (138/159).
+
 ## Status 2026-10-02 — brief 43 (21-a, 21-b, 21-c) DONE
 - **Wilson's rulings 2026-10-02:** 458.23 "[not]" KEPT (our emendation, T note). Paragraphing: "as we see fit"
   — the established ¶ structure stays; print breaks missing from pNNN (493.28, 497.21, 499.27, 501.8) and the
