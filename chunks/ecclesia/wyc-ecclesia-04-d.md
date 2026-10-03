@@ -108,7 +108,7 @@ but[^13]
 > [p. 84] continue membra diaboli. Tale, inquam, aggregatum non foret sancta mater ecclesia sine macula vel ruga, quia per idem foret maledicta ecclesia malignancium, sedes sathane et meretrix adulterantis diaboli.
 
 continually members of the devil." Such an aggregate, I say, would not be holy mother church without
-spot or wrinkle, because [by the same token]{g:per idem} it would be the accursed church of the
+spot or wrinkle, because by the same token it would be the accursed church of the
 malignant, the seat of Satan and the harlot of the adulterous devil.[^14]
 
 ## ¶6 · 84.15–84.22

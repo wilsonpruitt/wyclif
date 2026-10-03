@@ -119,7 +119,7 @@ might sanctify it, cleansing it by the laver of water in the word of life: that 
 glorious church, not having spot or wrinkle or any such thing; that it should be holy and without
 blemish. So also ought men to love their wives as their own bodies."[^15] From this faith of scripture
 concerning holy mother church it is clear, together with the said corollary, that he must always love
-the whole holy church as he will love [it] after the day of judgement; and [by the same token]{g:per idem}
+the whole holy church as he will love [it] after the day of judgement; and by the same token
 he always hates any foreknown [man] whatever, as [much as] ever [he will] after the day of
 judgement.[^16] For since God fully knows what kind of end any foreknown [man] whatever will make with
 him, and how great a penance any predestinate who are going to fall will do, [being] afterwards

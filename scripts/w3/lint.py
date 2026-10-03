@@ -57,7 +57,8 @@ def lint(path, gkeys):
         errs.append(f'note [^{n}] has no definition')
     for n in set(defs) - set(markers):
         errs.append(f'note [^{n}] is defined but not anchored in the text')
-    for k in re.findall(r'\{g:([a-z-]+)\}', text):
+    for raw in re.findall(r'\{g:([^}]+)\}', text):  # any key: `{g:ex fide}`, `{g:Romanus episcopus}`
+        k = re.sub(r'\s+', '-', raw.strip().lower())
         if k not in gkeys and k.split('-')[0] not in gkeys:
             errs.append(f'glossary tag {{g:{k}}} has no GLOSSARY row')
     if fm.get('status', '').strip().split()[0:1] in (['done'], ['publish']) and '[verify' in s:
