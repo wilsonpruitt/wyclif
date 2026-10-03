@@ -2,6 +2,7 @@
 and make its note change ('NN-x nN: "old" → "new"', possibly several separated by ';' or ' · ') in the chunk,
 only where "old" occurs exactly once in that chunk. Usage: apply.py G [--dry]. Prints refusals."""
 import re, sys, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 here = os.path.dirname(os.path.abspath(__file__)); root = os.path.join(here, '..', '..', '..')
 g = sys.argv[1]; dry = '--dry' in sys.argv
 B = open(os.path.join(here, f'batch-{g}.md')).read()
@@ -20,16 +21,15 @@ for line in B.splitlines():
     lc[3] = st; lc[4] = how.replace('\n', ' ') + ' (close-out 2026-10-03)'
     L = L[:m.start()] + '| ' + ' | '.join(lc) + ' |' + L[m.end():]; done += 1
     if nc in ('—', '-', ''): continue
-    for part in re.finditer(r'(\d\d-[a-z])[^:]*:\s*"((?:[^"\\]|\\.)+)"\s*→\s*"((?:[^"\\]|\\.)*)"', nc):
-        cid, old, new = part.group(1), part.group(2).replace('\\"', '"'), part.group(3).replace('\\"', '"')
+    # notes: robust parser (notefix.py); anything it cannot place exactly is left for the repair agent
+    import notefix_lib as NF
+    ps = list(NF.parts(nc))
+    if not ps: print(f'UNPARSED {rid}: {nc[:80]}'); nref += 1; continue
+    for cid, old, new in ps:
         f = os.path.join(root, 'chunks', 'ecclesia', f'wyc-ecclesia-{cid}.md'); s = open(f).read()
-        # notes are hard-wrapped at 4-space indents: match across wraps
-        pat = re.escape(old).replace(r'\ ', r'\s+').replace(' ', r'\s+')
-        if '…' in old:  # an elided old string: '…' stands for a short stretch, never for the new text
-            if '…' in new: print(f'REFUSED note {rid} {cid}: elided new text'); nref += 1; continue
-            pat = pat.replace(re.escape('…'), r'.{0,600}?')
-        hits = list(re.finditer(pat, s, re.S))
-        if len(hits) != 1: print(f'REFUSED note {rid} {cid}: found {len(hits)}×: {old[:70]}'); nref += 1; continue
+        if re.search(NF.flex(new), s): notes += 1; continue
+        hits = list(re.finditer(NF.flex(old), s))
+        if len(hits) != 1: print(f'REFUSED note {rid} {cid}: old found {len(hits)}×: {old[:60]}'); nref += 1; continue
         if not dry: open(f, 'w').write(s[:hits[0].start()] + new + s[hits[0].end():])
         notes += 1
 if not dry: open(os.path.join(root, 'LEDGER.md'), 'w').write(L)

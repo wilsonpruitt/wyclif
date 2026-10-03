@@ -49,7 +49,7 @@ But blessed be the [bridegroom]{g:sponsus} of the church, who killed Gregory XI 
 [^4]: **S.** Cant. 2:15 (DR "the little foxes that destroy the vines") joined to Matt. 8:20 (DR "The foxes have holes"). *Toxica … scateat*: a neuter plural with a singular verb.
 [^5]: **C.** *Quid per … quid per … et quid per … inductum est scutum*: read as the medieval "what with … what with", the clause then a statement; the print closes it with a question mark.
 [^6]: **C.** *Dii subterranei*: literally "gods beneath the earth", the term for the gods of the underworld; the barb is kept. The relative *qui possunt* refers to them, not to Christ.
-[^7]: **R.** *De necessitate salutis* echoes Boniface VIII, *Unam sanctam* (*Extrav. comm.* 1.8.1, form ours): to be checked (LEDGER E15h-1).
+[^7]: **R.** *De necessitate salutis* echoes Boniface VIII, *Unam sanctam* (*Extrav. comm.* 1.8.1, form ours; Friedberg II, 1246), whose last sentence makes subjection to the Roman pontiff *omnino … de necessitate salutis* (LEDGER E15h-1).
 [^8]: **C.** *Persone ecclesie extere*: *extere* is taken as "foreign", the churches abroad from Rome. *Exterriti sunt pauci simplices dicere veritatem*: *dicere* read as the infinitive of what they are frightened from; alternatively "few simple men, terrified, tell the truth".
 [^9]: **R.** Gregory XI died on 27 March 1378; Urban VI's breach with the cardinals followed, and the Schism: to be checked (LEDGER E15h-2).
 [^10]: **S.** The number eleven as "transgressing" the ten of the decalogue, after Augustine, *De civitate Dei* 15.20: to be checked (LEDGER E15h-3). The barb is on Gregory XI.

@@ -164,7 +164,7 @@ such as conspire against catholics who touch on their power, their pride and the
 [^10]: **T/S.** *Insorpta*: Loserth's print; read as *absorpta*, "absorbed". *Inebriata*: Loserth's
     correction of the MSS' *debriata*. Cant. 5:1, DR "be inebriated, my dearly beloved". The triple
     fraction is the *Triforme est corpus Christi* tradition (Amalarius; Gratian, *De cons.* D.2 c.22),
-    though Wyclif's assignment of the parts differs `[verify]` (LEDGER E01c-7).
+    though Wyclif's assignment of the parts differs: Amalarius, *De eccl. off.* III.35 (PL 105:1154D–1155A), and Gratian, *De cons.* D.2 c.22 (PL 187:1740A), read them as the risen body, the body still walking on earth and the body lying in the tombs, where Wyclif makes the two parts held in the hands the church militant and the church in purgatory (LEDGER E01c-7).
 
 [^11]: **C/R.** The Agnus Dei: *miserere nobis* twice, then *dona nobis pacem*; the two petitions
     for mercy go to the two parts still to be purged, the prayer for peace to the third. *Agnus

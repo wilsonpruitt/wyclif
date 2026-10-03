@@ -49,7 +49,7 @@ It seems, thirdly, that as the blessed in heaven merit for themselves continuall
 
 [^1]: **C.** *Attendant*: taken as "attend upon", that is, serve and feed the priests' pride and avarice by buying indulgences; "give heed to" (and so be scandalised by) is possible. **T.** The print ends the sentence with a question mark, though it is a statement. **R.** Side-note 584.23.
 
-[^2]: **S.** *Clem.* 5.9.2 *Abusionibus*: Loserth's reference ("Clementinarum lib. V, tit. IX, cap. II"); the form is ours (LEDGER E23l-1). Wyclif calls the Clementines the "seventh book" of the decretals (LEDGER E23l-2). **C.** *Questores*: the alms-collectors who published indulgences, whom the canon restricts to what their bishops' letters contain. *Limitatum*: "assigned", in both places (row *limitare*). *Christi vicarii*: priests at large, as vicars of Christ. *Litere spiritus sancti*: scripture.
+[^2]: **S.** *Clem.* 5.9.2 *Abusionibus*: Loserth's reference ("Clementinarum lib. V, tit. IX, cap. II"); the form is ours (LEDGER E23l-1). Wyclif calls the Clementines, as medieval canonists did, the "seventh book" (*liber septimus*) of the decretals. **C.** *Questores*: the alms-collectors who published indulgences, whom the canon restricts to what their bishops' letters contain. *Limitatum*: "assigned", in both places (row *limitare*). *Christi vicarii*: priests at large, as vicars of Christ. *Litere spiritus sancti*: scripture.
 
 [^3]: **C.** *Sub hac forma*: in the form "from punishment and guilt" (*a pena et culpa*). *Prima pars*: that priests have the power. *Ostendere … absolutum*: declare sacramentally that the penitent is absolved. *Advolaret*: would fly off, straight to heaven. *Pretendere*: put forward, claim. **R.** Side-note 585.1.
 

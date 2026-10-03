@@ -106,11 +106,11 @@ church.[^14]
     in these days, hath spoken to us by his Son" (DR); hence *familiarius*. *Ut gigas*: Ps. 18:6, the
     bridegroom "hath rejoiced as a giant to run the way" (DR). *Inducit*: "puts on" (of armour or
     clothing), a present beside the perfect *superavit*, as printed. *Partem … incarceratam*: the
-    fathers held below until Christ's descent. *Dux et legifer noster*: perhaps after the Advent
+    fathers held below until Christ's descent. *Dux et legifer noster*: after the Advent"; same note, "antiphon *O Emmanuel, rex et legifer noster* (to be checked; LEDGER E06c-3)." → "antiphon *O Emmanuel, rex et legifer noster* (Sarum Breviary, Procter–Wordsworth I, col. clvi), which some copies read *dux et legifer noster* (Thomas Cisterciensis, *In Cant.*, PL 206:616A) (LEDGER E06c-3).
     antiphon *O Emmanuel, rex et legifer noster* (to be checked; LEDGER E06c-3).
 
 [^4]: **R/S/T.** B margin *Tota doctrina christiana stat in una oracione* (124.12). The petition *ut
-    … terrena despicere et amare celestia* is in a postcommunion of Advent (to be checked; LEDGER
+    … terrena despicere et amare celestia* is the postcommunion of the second Sunday of Advent, *doceas nos terrena despicere et amare celestia* (Sarum, Legg p. 17; Gregorian Sacr., PL 78:192A; LEDGER
     E06c-4). B *preponere* for *postponere* (124.15), which reverses the sense; the print is
     translated. *Abicit … abiectissime*: Wyclif's play, "casts away … most abjectly".
 
@@ -127,7 +127,7 @@ church.[^14]
 [^7]: **C/S.** *Secundum magnam partem*: the greater part of that church is already the bride, in its
     three states (triumphant, sleeping, militant). *Servicium ecclesie*: the liturgy (untagged,
     GLOSSARY *servicium*). *Intendere*: to attend to, not the thesis sense "maintain". *Ut canit
-    ecclesia*: perhaps the office of the dedication of a church (to be checked; LEDGER E06c-5).
+    ecclesia*: the office and mass of the dedication of a church: the Sarum sequence *Jerusalem et Syon filie*, where Christ *desponsat hodie matrem nostram … ecclesiam*, praised *a reginis* (Cant. 6:8), and the queen of the south comes to Solomon (Legg pp. 203, 473–74); and the dedication lessons on Solomon and the temple (Sarum Breviary, Procter–Wordsworth I, cols. mcccclvi–lix; LEDGER E06c-5).
     Loserth (125.3): cf. above, 97.5.
 
 [^8]: **S/T/C.** Cant. 6:7, "There are threescore queens, and fourscore concubines, and young maidens

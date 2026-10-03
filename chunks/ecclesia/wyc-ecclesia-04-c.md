@@ -158,7 +158,7 @@ workers of iniquity."[^17]
 [^4]: **C/S.** *Quando* taken as causal ("since"), which gives the objection Loserth's side-note
     states; read as temporal ("it is not effectively taught when anyone … is a member") it says the
     same less directly. *Gracia secundum presentem iusticiam*: as in 04-b ¶2. St Thomas and Richard,
-    "loc. cit." (Loserth): Thomas presumably *ST* III q. 8 a. 3; Richard, *De potestate ligandi et
+    "loc. cit." (Loserth, = *Thomae Opp.* V, 51): Thomas *ST* III q. 8 a. 3 co. and ad 2, and most expressly *In III Sent.* d. 13 q. 2 a. 2 qc. 2 ad 3 (cf. 18-a); Richard, *De potestate ligandi et
     solvendi* (04-b n. 2) (LEDGER E04c-1). A margin: *Quarta obieccio* (77.9). B *ideo videtur*, and B
     lacks *Ricardi* (77.12–13).
 

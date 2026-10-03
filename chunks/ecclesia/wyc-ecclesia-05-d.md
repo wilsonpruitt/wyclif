@@ -184,7 +184,7 @@ the midst of them."[^15]
     VIII*, corrected by Loserth; A *contiret*, A₁ B *continerent*. Wyclif departs in v. 15: Vulgate
     *omnipotens sermo tuus de caelo a regalibus sedibus durus debellator in mediam exterminii terram
     prosilivit* (DR "leaped down from heaven from thy royal throne, as a fierce conqueror"); his *domine
-    … venit* is close to the Christmas-tide introit *Dum medium silentium*, to be checked (LEDGER
+    … venit* is from the introit *Dum medium silencium* of the Sunday within the octave of Christmas (Sarum, Legg p. 34: *omnipotens sermo tuus domine de celis a regalibus sedibus uenit*); *de celo* is the Vulgate's, *exiliens* Wyclif's own (LEDGER
     E05d-3).
 
 [^15]: **S/C.** Luke 2:7 (Loserth): there the child is laid in a manger "because there was no room for

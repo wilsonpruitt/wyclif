@@ -79,4 +79,7 @@ Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opu
 | C | fathers-2 (36 rows) | 268K | 29 verified, 7 untraced; Sergius = Muhammad's monk, not Sergius III (E13d-2); 34 notes changed |
 | C | scholastic (35 rows) | 286K | 27 verified, 8 untraced; 4 wrong ids fixed (d.45 not d.46; Suppl. q.25 a.1; E16d-1; E04c-1 III Sent. d.13); 33 notes changed |
 | C | wyclif (32 rows) | 347K | 26 verified, 6 untraced; book 4 = De civ. dom. II, book 5 = De civ. dom. III; venenum = Higden IV.26; 26 notes changed |
+| C | law (32 rows) | 364K | 25 verified, 7 untraced; d.45 not d.46 (E21b-5); Johannes = glossator (E23a-6); E17g-1 dictum not canon |
+| C | liturgy (10 rows) | 167K | 10 verified (Sarum: Legg, Procter–Wordsworth); E06e-5 Circumcision antiphon |
+| D | coordinator | — | ⚠ apply.py bug: note text cut at inner straight quotes, unparsed cells skipped silently (29 rows in 5 batches). Parser fixed (notefix_lib.py); 4 re-applied; ~27 notes to a repair agent |
 | D | coordinator | — | lint.py widened: 278 tag keys with space/capital had been skipped; 2 stray `{g:per idem}` removed; lint 0 |

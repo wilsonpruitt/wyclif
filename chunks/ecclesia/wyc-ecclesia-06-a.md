@@ -176,7 +176,7 @@ since [he is so] according to [his] parts; therefore etc.[^20]
     predestinate person is a member of it. A margin *Correlarium* (116.28).
 
 [^5]: **C/T/R.** The Father generates and is the divine nature, yet the nature does not generate: the
-    scholastic rule, as in Lateran IV, *Damnamus* (to be checked; LEDGER E06a-2). *Capitatur*: "is
+    scholastic rule, as in Lateran IV, *Damnamus* (*X* 1.1.2: *illa res non est generans, neque genita, nec procedens; sed est Pater, qui generat*; Friedberg II, 7; LEDGER E06a-2). *Capitatur*: "is
     headed" (GLOSSARY). A margin, printed below 144c without mark (117.9): *Nota argumenta
     logica de materia capitis ecclesie*. B lacks *sic* (117.13). Loserth (117.9): cf. Hus, *De
     ecclesia*, *Opp.* I, fol. 198 (the OCR of the folio is unclear) (LEDGER E06a-3).

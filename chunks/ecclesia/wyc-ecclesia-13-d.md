@@ -70,7 +70,7 @@ Hence that great schism made by Sergius the monk, as also that schism which is s
 
 [^5]: **T/C.** B reads *prevalet* (288.16). Side-notes 288.20, 288.27; A in the margin *Conclusio* and B in the margin *Ecclesie dotacio fuit meritoria* (288.20). The question is the objection's, 285.19–20. *Rependendum*: to repay; the clergy return spiritual alms for bodily ones.
 
-[^6]: **S.** The canon is Gratian, D.22 c.1 (*Omnes*), per Loserth (*Decr. I pars, d. XXII, c. I*; the modern form is ours). Its threat of heresy against those who take away a privilege is to be checked against the canon, whose subject is the privilege of the Roman church; Wyclif applies it to Christ's privilege of poverty (LEDGER E13d-1).
+[^6]: **S.** The canon is Gratian, D.22 c.1 (*Omnes*), per Loserth (*Decr. I pars, d. XXII, c. I*; the modern form is ours). Its § 1 makes a heretic of whoever *Romanae ecclesiae priuilegium ab ipso summo omnium ecclesiarum capite traditum auferre conatur* (Friedberg I, 73–74): the privilege is the Roman church's, given by Christ; Wyclif applies it to Christ's privilege of poverty (LEDGER E13d-1).
 
 [^7]: **C/S.** *Altrinsecus*: on either side, for givers and receivers (as 274.30). *Serpentine prudencie*: Matthew 10:16 ("wise as serpents", DR). *Cum stat*: since it is consistent that, it can be that. *Horalem*: of an hour. *Elemosina cartalis*: alms granted by charter.
 

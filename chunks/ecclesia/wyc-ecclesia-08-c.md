@@ -48,7 +48,7 @@ From which it is clear that to save the whole universal church no wise man would
 
 [^4]: **S.** The margin gloss in Wyclif's copy of Augustine is not identified; to be checked (LEDGER E08c-2). *Profectus*: progress, growth. Side-note 164.21.
 
-[^5]: **S/R.** Gregory: the words "necessary" and "happy" of Adam's sin answer to the Easter *Exsultet*, which Wyclif ascribes to Gregory; to be checked (LEDGER E08c-3). Augustine's "expedient": *De civ. Dei* XIV.13 says *utile* (PL 41:422, *superbis esse utile cadere*); *expediens* is Wyclif's word (LEDGER E08c-4). *De civ. Dei* XIV.13 (Loserth: Opp. VII, p. 366 A; LEDGER E08c-5). A margin *Nota Augustinum, quod utile est in casu peccare* (164.30).
+[^5]: **S/R.** Gregory: the words "necessary" and "happy" of Adam's sin are the Easter *Exsultet*, *O certe necessarium Ade peccatum … O felix culpa* (Sarum, Legg p. 117), which Wyclif regularly ascribes to Gregory (so *De civili dominio* III, *De dominio divino*); it is not in the Gregorian sacramentary as printed (PL 78) (LEDGER E08c-3). Augustine's "expedient": *De civ. Dei* XIV.13 says *utile* (PL 41:422, *superbis esse utile cadere*); *expediens* is Wyclif's word (LEDGER E08c-4). *De civ. Dei* XIV.13 (Loserth: Opp. VII, p. 366 A; LEDGER E08c-5). A margin *Nota Augustinum, quod utile est in casu peccare* (164.30).
 
 [^6]: **T/C.** A margin *Conclusio* (165.4). A₁ adds *propter* before *privatum* (165.11–12), "that for private advantage it is meritorious to lie"; A₁ alone does not outweigh the print, which is translated. *Mendax allegacio originalium*: the lying citation of the Fathers' works. *Resipiscant*: come to their senses, repent.
 

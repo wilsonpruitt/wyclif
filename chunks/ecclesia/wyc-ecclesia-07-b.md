@@ -47,7 +47,7 @@ And suppose that it has a privilege in this form of words, that it may protect a
 
 [^4]: **G/T.** *Sub colore pietatis*: colour, a plausible ground (GLOSSARY *color*), not "pretext". D *Per hoc* (147.22). *Argumentum quod fundatur in privilegio*: the case for sanctuary from Westminster's royal charter, which the next paragraph takes up.
 
-[^5]: **T/C/S.** D *habet privilegium sub isto colore* (147.25–26); A *teneri* for *tueri* (147.26); the print is translated. *Supponitur*: concessive, "suppose". *Lese regie maiestatis*: injured royal majesty, i.e. treason. The rule that a general grant does not reach a special case is cited from "the laws of men"; its source is to be checked (LEDGER E07b-1).
+[^5]: **T/C/S.** D *habet privilegium sub isto colore* (147.25–26); A *teneri* for *tueri* (147.26); the print is translated. *Supponitur*: concessive, "suppose". *Lese regie maiestatis*: injured royal majesty, i.e. treason. The rule that a general grant does not reach a special case is cited from "the laws of men"; it is the rule of law of the *Liber Sextus*, VI 5.12 reg. 81, *In generali concessione non veniunt ea, quae quis non esset verisimiliter in specie concessurus* (Friedberg II, 1124) (LEDGER E07b-1).
 
 [^6]: **T/C/S.** D *istud* (148.5). *Illud suppositum*: we take it as the situation supposed in the case (the fugitives' crimes); "that supposed [privilege]" is possible but makes the privilege include itself. *Regalie*: the regality, the king's royal right (no GLOSSARY row; proposed). *Speluncam latronum*: Matt. 21:13, DR "a den of thieves" (alluded; *domum suam*, God's house).
 

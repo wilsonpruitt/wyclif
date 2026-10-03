@@ -49,13 +49,13 @@ Secondly I asked whether such a fugitive can be excommunicated while he is in th
 
 [^3]: **T/C.** AA₁ read *cubacionem* (221.10), "lying [there]", which suits *pausandi*; the print *collacionem* construes ("bestowal", of the liberty) and is translated. *Cum veris*: together with true premisses. *Coloracius*: "with more colour", on a more plausible ground (GLOSSARY *color*). B reads *sed non est talis detencio* (221.16), with the same sense.
 
-[^4]: **C/R.** A in the margin *Secunda questio* (221.17) and *Responsio* (221.22); side-note 221.17. *Brevis regii*: Loserth glosses *breve* as *mandatum* (221.20); presumably the writ for taking an excommunicate, to be checked (LEDGER E10e-1). *Et specialiter ut … apponatur*: the *ut* clause has no governing word; we supply "[not from the law]". *Excludere*: to shut [him] off from correction.
+[^4]: **C/R.** A in the margin *Secunda questio* (221.17) and *Responsio* (221.22); side-note 221.17. *Brevis regii*: Loserth glosses *breve* as *mandatum* (221.20); the writ *de excommunicato capiendo*, issued on the bishop's letters against one obstinate forty days in excommunication (Bracton f. 426b–427) (LEDGER E10e-1). *Et specialiter ut … apponatur*: the *ut* clause has no governing word; we supply "[not from the law]". *Excludere*: to shut [him] off from correction.
 
 [^5]: **S/C/R.** Matthew 18:15, printed as verse 1: Wyclif omits the Vulgate's *autem* (*Si autem peccaverit*); DR is given without its "But". B in the margin *Matth. VIII* (221.28). *Pravilegium*: a pun on *privilegium* and *pravus*, "depraved"; we keep it as "pravilege".
 
 [^6]: **C.** *Sentencia* is here a judicial sentence, of excommunication; the GLOSSARY "teaching" does not fit, and the word is untagged. *Non est communicandum*: one is not to hold communion with him, as with an excommunicate.
 
-[^7]: **C.** *Dicitur* is taken as the answer to the second question; side-note 222.4. The forty days: the same row (LEDGER E10e-1). *Ethnicus et publicanus*: Matthew 18:17. In the long period, *illa* is taken as the common law (*cursus legis communis*); *quod foret verum privilegium, oppositum hinc privilegio*: correction would be the true privilege, set against the pretended one.
+[^7]: **C.** *Dicitur* is taken as the answer to the second question; side-note 222.4. The forty days: Bracton f. 426b (LEDGER E10e-1). *Ethnicus et publicanus*: Matthew 18:17. In the long period, *illa* is taken as the common law (*cursus legis communis*); *quod foret verum privilegium, oppositum hinc privilegio*: correction would be the true privilege, set against the pretended one.
 
 [^8]: **S/C.** *Persone pro querenda beatitudine*: a religious, whose profession is the seeking of blessedness. Eli: 1 Samuel 2–4, especially 3:13, "because he knew that his sons did wickedly, and did not chastise them"; Abiathar's deposition, "the word of the Lord … concerning the house of Heli", 1 Kings 2:27 (Wyclif's "1 Kings" and "3 Kings").
 

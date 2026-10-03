@@ -149,7 +149,7 @@ him by fornicating spiritually; therefore one who is married remains spiritually
     exposition is to be checked (LEDGER E06e-4). A A₁ *sane intelligere* (132.1–2).
 
 [^9]: **T/C/S.** A margin *De incarnacione* (132.3); A *assummendo* (132.5). *Assumens illud quod prius
-    non erat*: perhaps after the Christmas antiphon *quod fuit permansit, et quod non erat assumpsit*
+    non erat*: after the antiphon *Mirabile mysterium* of the Circumcision (octave of Christmas), *id quod fuit permansit, et quod non erat assumpsit* (Sarum Breviary, Procter–Wordsworth I, col. ccxciii)"; same note, "(to be checked; LEDGER E06e-5)." → "(LEDGER E06e-5).
     (to be checked; LEDGER E06e-5). *Reliquit … esse solum Deus*: this is his leaving of the father.
     *Cum fuit humanitas*: "since he was [also] humanity", or "since there was [in him] a humanity";
     doubtful.

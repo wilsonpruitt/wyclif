@@ -47,7 +47,7 @@ Third, it is argued principally from the law of God and of the [church]{g:eccles
 
 [^7]: **S.** Decretum C. 11 q. 3 c. 63 (form ours, LEDGER E15d-4, to be checked), which reads *privilegium omnino meretur amittere*, "deserves to lose"; Wyclif has *debet*, "ought". The first *Privilegium* is the canon's incipit. A in the margin at 341.28: *Triplex confirmacio*.
 
-[^8]: **S.** The legal maxim *eius est interpretari cuius est condere*. Its roots are Codex 1.14.12 (interpretation reserved to the lawgiver) and Gratian's dictum at C. 25 q. 1 §2, *ipsi namque soli canones valent interpretari qui ius condendi eos habent* (LEDGER E15d-5).
+[^8]: **S.** The legal maxim *eius est interpretari cuius est condere*. The brocard itself is not in the *Corpus iuris*; its roots are Codex 1.14.12.5 (*tam conditor quam interpres legum solus imperator*) and Gratian's dictum at C. 25 q. 1 §2, *ipsi namque soli canones valent interpretari qui ius condendi eos habent* (LEDGER E15d-5).
 
 [^9]: **S.** Wyclif cites Matt. 13:12 but quotes Matt. 25:29 (Vulgate *ei autem qui non habet*; Wyclif *ab eo autem*), whose Douay–Rheims wording is given.
 

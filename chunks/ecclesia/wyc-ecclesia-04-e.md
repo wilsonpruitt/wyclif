@@ -167,7 +167,7 @@ grace according to present justice.[^18]
     (PL 13:374B). Friedberg I, D.21 c.3 also reads *nullis sinodicis constitutis*, and his
     apparatus records no *multis* (LEDGER E04e-4). A₁, better, *innuit decretum* (86.8). Matt. 16:18, DR.
 
-[^8]: **S/T.** The ordinary gloss to D. 21 c. 3 (LEDGER E04e-5). AA₁ *inquit et quod* (86.21).
+[^8]: **S/T.** The ordinary gloss to D. 21 c. 3, v. *nec aliquid*: *Argu. quod ubicunque sunt boni, ibi est ecclesia* (glossed Decretum, 1605); *Romana* is Wyclif's addition (LEDGER E04e-5). AA₁ *inquit et quod* (86.21).
     *Daret plenam fidem*: "would give full faith", i.e. would settle the matter for believers.
     *Familia*: the pope's household (GLOSSARY §B).
 
@@ -199,7 +199,7 @@ grace according to present justice.[^18]
     (GLOSSARY §C, *ex fide*). *Primatum et dignitatem quoad Deum*: in God's sight, not in law.
 
 [^15]: **S/T.** The *Te Deum*, held then to have been composed by Ambrose and Augustine. The Roman canon,
-    *Te igitur*: *pacificare, custodire, adunare et regere digneris toto orbe terrarum* (from memory);
+    *Te igitur*: *pacificare, custodire, adunare et regere digneris toto orbe terrarum* (Sarum, Legg p. 221; Gregorian Sacr., PL 78:26A); Wyclif also drops *et regere*;
     Wyclif has *adiuvare*, "help", for *adunare*, "unite" (LEDGER E04e-8). B *ut dignetur* (88.8). A
     margin: *Conclusio* (88.9).
 

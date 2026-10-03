@@ -103,7 +103,7 @@ But I do not [maintain]{g:intendere} that the king's [knights]{g:milites} ought 
 
 [^17]: **C.** Side-note 271.3. *Istorum hominum*: plural, the men killed in 1378 (12-a). *Comparacionem … taxare*: to weigh their gravity against that of others. *Verberaciones sacerdotum*: beatings of priests, as at 267.27–29 (12-d).
 
-[^18]: **S/T/G.** A in the margin *Conclusio* (271.10). All the manuscripts read *reconsiliato* (271.12). *Compossibilis*: able to exist together with the kingdom's purged state. The prayer is a collect whose wording and place are to be checked (LEDGER E12e-6). *Dominetur*: GLOSSARY *dominari*, here "lords it", of iniquity.
+[^18]: **S/T/G.** A in the margin *Conclusio* (271.10). All the manuscripts read *reconsiliato* (271.12). *Compossibilis*: able to exist together with the kingdom's purged state. The prayer is the *super populum* of the Friday after Ash Wednesday, *Tuere, domine, populum tuum … quia nulla ei nocebit adversitas, si nulla dominetur iniquitas* (Sarum, Legg p. 55; Gregorian Sacr., PL 78:57C), quoted exactly (LEDGER E12e-6). *Dominetur*: GLOSSARY *dominari*, here "lords it", of iniquity.
 
 [^19]: **S/R.** A in the margin, without mark of reference, *Iniusticie quoad Deum et iniurie quoad proximum sunt cause destruccionis regni* (271.20). Ecclesiasticus 10:8, quoted at 267.21–22 (12-d): "A kingdom is translated from one people to another, because of injustices, and wrongs" (DR); here Wyclif assigns the *iniusticie* to God and the *iniurie* to neighbour. *Sapientis*: the wise man, the author of Ecclesiasticus.
 

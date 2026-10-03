@@ -90,7 +90,7 @@ Second, it is confirmed from this, that the king (as such) has a [privilege]{g:p
 
 [^27]: **S.** Decretum D. 83 c. 2 (Loserth: *Dec. I pars, dist. LXXXIII, c. II*; form ours, LEDGER E15e-10). The Decretum reads *quoniam peccator* (348.1). B reads *Episcopus in quantum* (348.2), and in the margin: *Episcopus omittens subditos corrigere dicendus est canis impudicus*. A in the margin: *Nota decretum quantum nocet malus episcopus, papa etc.*
 
-[^28]: **R.** *Palea*: "chaff", with a likely play on the *paleae*, the later additions to the Decretum (LEDGER E15e-13, to be checked). *Iura*: "laws", the body of law, not rights. A and B read *Ista itaque iura* (348.4).
+[^28]: **R.** *Palea*: "chaff", perhaps with a play on the *paleae*, the later additions to the Decretum, though the canon just quoted (D. 83 c. 2) is not one (LEDGER E15e-13). *Iura*: "laws", the body of law, not rights. A and B read *Ista itaque iura* (348.4).
 
 [^29]: **S.** Decretum C. 5 q. 5 c. 5, *Qui ambulat* (Loserth: *Dec. II pars, causa V, q. V, c. V*; form ours, LEDGER E15e-11). **C.** *Sentencia*: CONTEXTUAL; here the judge's sentence. A in the margin at 348.9: *Accusator quomodo debet se habere*.
 

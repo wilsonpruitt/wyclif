@@ -34,7 +34,7 @@ To the fourth argument, [made] to declare this, that neither the apostles nor [4
 
 [^2]: **C.** *Suppono quamlibet ... validam*: ironic; four replies would be heaped up needlessly unless each stood. *Secundum partem validissimam*: "in its most valid part", agreeing with *partem*; it may be read as "the first and in part the most valid". **T.** At 411.5 A and A₁ read *validiss.ma* (so the foot of the page; the form is unclear). **R.** A in the margin at 411.12: *Nota de conciliis generalibus*.
 
-[^3]: **S.** The *glosa Johannis*: the ordinary gloss of Johannes Teutonicus on the Decretum, at D. 17 (LEDGER E17g-1, to be checked, the canon *Generalia* and the gloss's definition both). **T.** At 411.22 B reads *ubi legitur*. **R.** A in the margin at 411.16: *Quid est concilium generale?*; B: *Generale concilium quid sit nota*.
+[^3]: **S.** The *glosa Johannis*: the ordinary gloss of Johannes Teutonicus on the Decretum, at D. 17 (LEDGER E17g-1): *Generalia* is Gratian's opening dictum of D. 17, *Generalia concilia* (Friedberg I, 50), and the gloss there, signed *Ioan.*, defines *Universale est quod a Papa, vel eius legato cum omnibus episcopis statuitur*; *aut locum eius tenente* is not in the printed gloss. **T.** At 411.22 B reads *ubi legitur*. **R.** A in the margin at 411.16: *Quid est concilium generale?*; B: *Generale concilium quid sit nota*.
 
 [^4]: **S.** Matthew 10:1; Matthew 15:32; Mark 6:7: in each Christ calls the disciples together; the references are paraphrased, not quoted.
 

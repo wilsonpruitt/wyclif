@@ -38,7 +38,7 @@ Yet the secular lords are to be exhorted not, by arguing through [the topic from
 
 [^1]: **T/C.** *Ex eorum ducatu*: under the clergy's leading; the subject of *puniunt* is the seculars. *Ex timore peccati consensus*: we take *consensus* as genitive, "the sin of consent"; a nominative ("consent [is withheld] out of fear of sin") is possible. B *punicionis* (156.25).
 
-[^2]: **S.** *Racio scripture … optimus legum interpres*: Wyclif adapts the legal maxim that custom is the best interpreter of laws (*optima legum interpres consuetudo*, thought to be Digest 1.3.37; to be checked, LEDGER E07e-1). Matt. 25:31–46, the works of mercy, among them 25:36, DR "I was in prison, and you came to me" (cited, not quoted).
+[^2]: **S.** *Racio scripture … optimus legum interpres*: Wyclif adapts the legal maxim that custom is the best interpreter of laws (Paul, Digest 1.3.37, *optima enim est legum interpres consuetudo*; also *X* 1.4.8, Friedberg II, 39–40; LEDGER E07e-1). Matt. 25:31–46, the works of mercy, among them 25:36, DR "I was in prison, and you came to me" (cited, not quoted).
 
 [^3]: **T/S.** A margin *Ignorancia non excusat* (156.35). The *o* before *(ut* (157.1) is a stray token (OCR scar), not translated. 1 Tim. 1:13 (cited): DR "I did it ignorantly in unbelief". *Simpliciter*: without qualification (GLOSSARY).
 

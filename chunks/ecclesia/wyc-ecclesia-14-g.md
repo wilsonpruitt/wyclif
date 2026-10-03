@@ -77,7 +77,7 @@ Again, then all the friars, by force of the power of the keys, would lord it in 
 [^3]: **S.** The command to be subject to kings and governors is 1 Pet. 2:13–14; "even to the froward" is 2:18, said of servants and their masters.
 [^4]: **T/S.** The manuscripts read *Rom. XII*; the editor corrects the chapter (323.5 foot). Rom. 13:7 in DR wording; Wyclif's *dantes* ("giving") replaces the Vulgate's *Reddite ... omnibus debita*.
 [^5]: **T.** A omits *dare* (323.15); B omits *quoad — leges* (323.17). *Dignitas* is "dignity" throughout, *dignior* "worthier"; *maioritas* is "greatness".
-[^6]: **S.** The same canon of D. 96, Wyclif's reference without a canon number, presumably c. 14 (LEDGER E14g-2). A and A₁ read *episcopus suus* (323.27); B reads *ministracior* for *ministrativior* (323.22).
+[^6]: **S.** The same canon of D. 96, Wyclif's reference without a canon number, c. 14 (*Constantinus*, a palea), where the Roman pontiff is made *celsior et princeps cunctis sacerdotibus* (Friedberg I, 343–44) (LEDGER E14g-2). A and A₁ read *episcopus suus* (323.27); B reads *ministracior* for *ministrativior* (323.22).
 [^7]: **C.** *Tali dignitate*: the dignity as to God just denied to the electors. *Illud sacramentum* is taken as "that sacrament", a sacred bond by which election would bind God to confer worth; "mystery" is possible.
 [^8]: **C.** *Sors* is the clergy's lot (*clerus*, Greek *klēros*); *in exproprietariis sortis sue*: in those of that lot who own nothing.
 [^9]: **C/T.** *Persona simplex* and *mixtus clericus*: the unmixed person against the cleric who also holds civil lordship. A reads *ceteris pauperibus* (324.16), corrected in A₁.
