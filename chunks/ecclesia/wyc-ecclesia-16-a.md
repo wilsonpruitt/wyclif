@@ -84,7 +84,7 @@ And if [it is objected]{g:obicitur} that a man's error, whoever he is, is to be 
 
 [^13]: **S.** Decretum, D. 95 c. 5 *Olim* (Loserth: *dist. XCV, cap. V*; the form is ours) (LEDGER E16a-2). Wyclif gives it as Jerome's; the passage is Jerome on Titus 1:5, as the canon's inscription says (*Item Ieronimus supra epistolam ad Titum*; LEDGER E16a-3).
 
-[^14]: **R.** A and B in the margin at 362.15: *Nota epistolam Grecorum*. Loserth gives no source for the Greeks' letter to John XXII or its closing clause; to be checked (LEDGER E16a-4). **C.** *Responsivam* agrees with *epistolam*: the letter answered John's exhortation.
+[^14]: **R.** A and B in the margin at 362.15: *Nota epistolam Grecorum*. Loserth gives no source for the Greeks' letter to John XXII or its closing clause, and none has been found; the clause circulates later with *Diabolus tecum* for *dominus tecum* (LEDGER E16a-4). **C.** *Responsivam* agrees with *epistolam*: the letter answered John's exhortation.
 
 [^15]: **T.** *Cum approbabili* (362.20) is the print, confirmed on the plate; the noun it qualifies is not expressed, and "[argument]" is supplied from the syllogism that follows. At 362.20 B reads *procreator* for *procurator*; at 362.21 A and A₁ omit *et sanccior*. **S.** Cf. Augustine, *De doctrina christiana* 2.42.63, *quidquid homo extra didicerit, si noxium est, ibi damnatur; si utile est, ibi invenitur*; Wyclif compresses it. Loserth gives no reference (LEDGER E16a-5).
 

@@ -63,7 +63,7 @@ Hence such blameworthy blindness, an inordinate and covetous cult around relics,
 
 [^11]: **C.** *Translative*: by transference of the name. *Dyabolum figurantem*: the devil who took Samuel's figure. *Sentenciam*: the mind or teaching of God that the angel conveys. **S.** 1 John 5:8 ("these three are one"); *in officio* and the trinitarian reading are Wyclif's. Matthew 11:14 ("he is Elias").
 
-[^12]: **S.** Chrysostom on the members of the body; Loserth gives no reference; not located (LEDGER E19g-3). **C.** *Ritus gentiles de maioritate civili*: gentile customs of civil greatness. *Copiosius atque humilius fructuose*: three adverbs, the last without a connective. **T.** B lacks *Ideo* (467.19). **R.** A in the margin at 467.19: *Crisostomus*. Side-note 467.14.
+[^12]: **S.** Chrysostom on the members of the body; Loserth gives no reference; not located; not in the *Opus imperfectum*; perhaps the homilies on 1 Corinthians 12 (LEDGER E19g-3). **C.** *Ritus gentiles de maioritate civili*: gentile customs of civil greatness. *Copiosius atque humilius fructuose*: three adverbs, the last without a connective. **T.** B lacks *Ideo* (467.19). **R.** A in the margin at 467.19: *Crisostomus*. Side-note 467.14.
 
 [^13]: **C.** *Prescitus*: one whom God foreknows will be damned (GLOSSARY); the conclusion turns on the difference between grace for the present and the grace of predestination. *Ex dictis XXVII° capitulo libri V*: Wyclif's cross-reference to an earlier book; to be checked (LEDGER E19g-4). **T.** AA₁ read *quomodo deleatur* (467.28). **R.** A in the margin at 467.27: *Septima conclusio. Nullus prescitus recipit rite baptismum quo deleretur peccatum originale*. Side-note 467.27.
 

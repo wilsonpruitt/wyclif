@@ -62,7 +62,7 @@ But elsewhere I raised the objection,[^9] by appeal to this: that no civil punit
 [^2]: **S.** The ordinary gloss on D. 96 c. 10 (*Duo sunt*), as Loserth refers it (modern form ours; LEDGER E15f-1). **C.** *Glosa ordinaria … dicitur* is printed without *in*: *glosa* is read as an ablative of place ("in the gloss"); see the Latin doubts.
 [^3]: **S.** D. 40 c. 6 (*Si papa*): Loserth gives no reference, ours (LEDGER E15f-2); C. 23 q. 5 c. 43 (*De Liguribus*), editor (foot-note 13, *Cap. XLIII*; modern form ours; LEDGER E15f-3).
 [^4]: **S.** C. 23 q. 5 c. 20 (*Principes*), editor (foot-note 15, *Cap. XX*; modern form ours; LEDGER E15f-4). **R.** B in marg. at 349.11: *Quod prelati delinquentes a regibus sunt corrigendi, ut est dignum* ("that delinquent prelates are to be corrected by kings, as is fitting").
-[^5]: **S.** The hierarchic acts of purging and illuminating (and perfecting) of Pseudo-Dionysius, *Celestial Hierarchy* 3: to be checked (LEDGER E15f-5). **G.** *Virtus* here is the power (faculty), not the moral virtue.
+[^5]: **S.** The hierarchic acts of purging and illuminating (and perfecting) of Pseudo-Dionysius, *Celestial Hierarchy* 3.2 (Eriugena's version, PL 122:1045B: *quosdam quidem purgari, quosdam vero purgare; et quosdam quidem illuminari, quosdam vero illuminare*) (LEDGER E15f-5). **G.** *Virtus* here is the power (faculty), not the moral virtue.
 [^6]: **S.** Isa. 14:12–15, the fall of Lucifer.
 [^7]: **S.** *Lincolniensis* is Robert Grosseteste, bishop of Lincoln; Loserth gives no place, and the passage is to be checked (LEDGER E15f-6).
 [^8]: **S.** Apoc. 12:7 (DR "Michael and his angels fought with the dragon"). Wyclif puts Michael among the angels "of the lower order" (the archangels); *confirmati* is "confirmed" in grace.

@@ -47,7 +47,7 @@ In the second way order is taken for a grade assigned by God to a cleric for min
 
 [^2]: **C.** *Sicut supra*: as Bonaventure answered his objections (504.2–505.17). *Militat directe in oppositum*: Thomas's text fights for the opposite; the military figure runs on into *castris* and *pugiles*. *Nec hoc*: no more than Bonaventure's.
 
-[^3]: **S.** *Machabeorum VII°*: Wyclif's reference, not located; perhaps 1 Maccabees 7, Nicanor's deceit exposed (7:27–30) (LEDGER E21e-2). **C.** *Militarent*: subjunctive, "should fight". *Pugiles veritatis*: champions of truth.
+[^3]: **S.** *Machabeorum VII°*: most likely 1 Maccabees 7, where the enemy twice speaks *verbis pacificis in dolo* (7:10, 27) and the deceit is detested (7:18, 30) (LEDGER E21e-2). **C.** *Militarent*: subjunctive, "should fight". *Pugiles veritatis*: champions of truth.
 
 [^4]: **C.** *Instatur tripliciter*: three objections against Wyclif's own position, answered in turn (507.20–510.26). *Caracter aliquis … tantummodo temporalis*: Wyclif's earlier statement, 444 (the ecclesiastical character in the foreknown is delible, *solummodo temporale*) (LEDGER E21e-3). *Autenticus*: carrying authority for him. *Arguendo ad hominem*: arguing from what the opponent accepts. **R.** Side-note 507.20; A in the margin at 507.20: *Triplex obieccio. Responsio. Auctoris sentencia*.
 

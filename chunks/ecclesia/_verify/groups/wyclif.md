@@ -32,3 +32,5 @@
 | E23a-3 | ecclesia-23-a / n4 | *capitulo ultimo quinti libri*: Wyclif cross-reference | open | book V cross-reference |
 | E23d-2 | ecclesia-23-d / n5 | *ut patet in materia de originali peccato*: a cross-reference to Wyclif's treatment of original sin | open | not located in De ecclesia |
 | E23h-3 | ecclesia-23-h / n5 | *materia De Maximo et Minimo*: the logicians' treatise topic (Heytesbury, *Regulae*; possibly Wyclif's own logic) | open | no Loserth foot |
+| E14e-5 | ecclesia-14-e / n16 | the *venenum* voice at Constantine's donation | untraced | not in PL |
+| E16d-2 | ecclesia-16-d / n2 | Angel's voice at the donation (*hodie diffusum est venenum*) | untraced | not in PL TEI; commonplace (Jacopo della Lana *diffusum*); note says so |

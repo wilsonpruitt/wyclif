@@ -73,7 +73,7 @@ Nor is it any use to say that by deserving such a taking-away a man ceases to be
 
 [^4]: **S.** Judas as "bishop": Acts 1:20, "his bishopric let another take."
 
-[^5]: **R.** Sergius: the renegade monk of medieval legend who instructed Muhammad (LEDGER E15b-2). A₁ in the margin adds "and John, pope XXIII, who was condemned at Constance as a heretic and the devil incarnate", a later reader's addition (1415).
+[^5]: **R.** Sergius: the renegade monk of medieval legend who instructed Muhammad (Higden, *Polychronicon* V.14; Wyclif cites Vincent and Higden for it at *De ver. s. script.* I, 250–51) (LEDGER E15b-2). A₁ in the margin adds "and John, pope XXIII, who was condemned at Constance as a heretic and the devil incarnate", a later reader's addition (1415).
 
 [^6]: **C.** *Titulum sue confirmacionis a domino*: confirmation in grace, which would make him unable to sin; *domino* is taken as the Lord. *Plus aspere … gravius*: the print doubles the comparative, and both are kept.
 

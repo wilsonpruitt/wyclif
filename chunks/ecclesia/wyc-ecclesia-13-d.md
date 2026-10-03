@@ -84,7 +84,7 @@ Hence that great schism made by Sergius the monk, as also that schism which is s
 
 [^12]: **C.** *Sed indubie illi …*: the clause has no verb of its own; we supply it from *dabant sua* in the relative clause. *Nostri succedentes*: those who came after among us, the later givers. *Ecclesia cesarea*: the caesarean church, the church as endowed by Caesar (cf. GLOSSARY §B, *clerus cesareus*).
 
-[^13]: **R.** A in the margin *Nota* (290.11). Loserth identifies Sergius as Pope Sergius III (897–904), citing Gregorovius, *Geschichte der Stadt Rom* III, 242 (LEDGER E13d-2). *Hodie*: Loserth dates it 1378 and takes the *duos pseudomonachos*, "two false monks", to be Urban VI and Clement VII (LEDGER E13d-3). *Dotacionis cesaree*: Constantine's endowment.
+[^13]: **R.** A in the margin *Nota* (290.11). Sergius the monk: the renegade monk who instructed Muhammad (n. 15-b n5); Wyclif lays the Muslim schism to the endowed church's avarice also in *Sermones* I, 178 (*maior pars ecclesie per Sergium monachum venenatur*). Loserth's Pope Sergius III (897–904; Gregorovius III, 242) does not fit *monachum*, and he later grouped this page with 333 and 517 (*De pot. pape* 374 foot) (LEDGER E13d-2). *Hodie*: Loserth dates it 1378 and takes the *duos pseudomonachos*, "two false monks", to be Urban VI and Clement VII (LEDGER E13d-3). *Dotacionis cesaree*: Constantine's endowment.
 
 ## Transcription notes
 

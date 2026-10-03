@@ -73,7 +73,7 @@ But finally it is gathered from what has been said how this [teaching]{g:sentenc
 
 [^11]: **S.** 1 Corinthians 3:11: Wyclif adds *ecclesie vel generis christiani* and omits *quod est* before *Christus Jesus*; his Latin is translated. Augustine, *Tractatus in Iohannem* 124 (Loserth: *In Joh. Ev.* cap. 21, *Tract.* CXXIV, *Opp.* III.2, p. 822; LEDGER E17d-6). **T.** At 401.18–20 B omits *Unde ... fuerat christianus*. **R.** A in the margin at 401.14: *Augustinus*.
 
-[^12]: **S.** *Opus imperfectum in Matthaeum*, hom. 52 (Loserth: p. CCXVIII; LEDGER E17d-7), printed among Chrysostom's works and not his (LEDGER E17d-8, to be checked). **R.** A in the margin at 401.21: *Crisostomus*; at 401.25: *Qui est proprie christianus*. **C.** *Servat iusticiam*: every creature "keeps justice" in that it is as God decreed; so the definition, taken at large, would make every creature Christian.
+[^12]: **S.** *Opus imperfectum in Matthaeum*, hom. 52 (Loserth: p. CCXVIII; LEDGER E17d-7), printed among Chrysostom's works (PG 56:611–946) and not his: an Arian work of the fifth century (LEDGER E17d-8). **R.** A in the margin at 401.21: *Crisostomus*; at 401.25: *Qui est proprie christianus*. **C.** *Servat iusticiam*: every creature "keeps justice" in that it is as God decreed; so the definition, taken at large, would make every creature Christian.
 
 [^13]: **S.** Porphyry, *Isagoge*, on the senses of *genus* (LEDGER E17d-9, to be checked). **C.** *Genus* is race, kind and logical genus at once: Christ may be called the *genus* (origin) of Christians, as Porphyry's first sense allows, but not therefore a Christian. *Colorate*: "with colour", with a plausible ground (GLOSSARY *color*), the inference being sound as far as it goes. **T.** At 402.3 B omits *Jesus*.
 

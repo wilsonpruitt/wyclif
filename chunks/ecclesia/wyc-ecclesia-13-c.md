@@ -59,7 +59,7 @@ To this the answer is, granting the first conclusion (in that the apostles and o
 
 ## Notes
 
-[^1]: **C/S/T.** Side-note 283.1; A in the margin *Contra. Prima obieccio*. *Religiones*: religious institutions of the old law, untagged. After *cap.* the manuscripts leave a gap (Loserth, 283.7); which work's "book 3" is meant is not identified here (LEDGER E13c-1). Henry of Ghent: Loserth refers forward to p. 317; Thomas on tithes is to be checked (LEDGER E13c-6). Leviticus 6–7 and Exodus 27 are given by chapter only; the "perpetual" ordinances there are to be checked (LEDGER E13c-2).
+[^1]: **C/S/T.** Side-note 283.1; A in the margin *Contra. Prima obieccio*. *Religiones*: religious institutions of the old law, untagged. After *cap.* the manuscripts leave a gap (Loserth, 283.7); which work's "book 3" is meant is not identified here (LEDGER E13c-1). Henry of Ghent: Loserth refers forward to p. 317; Thomas on tithes is to be checked (LEDGER E13c-6). Leviticus 6–7 and Exodus 27 are given by chapter only; the "perpetual" ordinances are Lev. 6:13, 18, 20 and 7:34, 36 (*religione perpetua*) and Exod. 27:21 (*perpetuus erit cultus*) (LEDGER E13c-2).
 
 [^2]: **C/T.** Side-note 283.11; A in the margin *Responsio*; A spells *inpungnat* (283.11). *Conclusio sit concedenda*: Wyclif grants that the old law had such perpetual alms, and denies that it follows for men now. *Hec dicit dominus*: the prophets' formula. *Ipso domino inconsulto*: without consulting the Lord.
 
@@ -71,7 +71,7 @@ To this the answer is, granting the first conclusion (in that the apostles and o
 
 [^6]: **S/T.** Ezekiel 44:28–30 in Wyclif's form: *sacerdotibus* for the Vulgate's *eis*, *possessiones* for *possessionem*, *pecorum* added ("of the cattle"), *offerunt* for *offeruntur*; he stops before the end of 44:30. The Douay–Rheims is followed where he agrees. A in the margin *Racio* (284.14).
 
-[^7]: **S/C.** Side-note 284.22. Joshua 21: the Levites' cities with their suburbs. *Et ultimo*: "and the last [chapter]", or "and lastly"; the reference is doubtful (LEDGER E13c-3). *Ad eorum annichilationem*: we take *eorum* of the world's goods, which the clergy teaches the laity to bring to nothing; "to their own self-emptying" is possible.
+[^7]: **S/C.** Side-note 284.22. Joshua 21:2 (*urbes ad habitandum, et suburbana earum ad alenda jumenta*), executing Numbers 35:2–3. *Et ultimo*: "and the last [chapter]", or "and lastly"; the reference is doubtful (LEDGER E13c-3). *Ad eorum annichilationem*: we take *eorum* of the world's goods, which the clergy teaches the laity to bring to nothing; "to their own self-emptying" is possible.
 
 [^8]: **S/T.** Deuteronomy 18:1–2 and Numbers 18:20 are the Douay–Rheims; Wyclif adds *populo* (Deut. 18:1) and stops Numbers 18:20 before "in the midst of the children of Israel". B reads *fratruum* (285.3). Exodus 19 has no priestly portions; Exodus 29 (Aaron and his sons eating the consecration offerings) may be meant (to be checked, LEDGER E13c-4). A in the margin *Conclusio* (285.11). *In altero testamento*: in either testament.
 
@@ -89,7 +89,7 @@ To this the answer is, granting the first conclusion (in that the apostles and o
 
 [^15]: **C.** A in the margin *Conclusio* (287.5). *Vane gloriam*: vainglory. *Intencioni dextere*: the right-hand intention of 286.24–25. *De alieno*: out of what is another's: the goods are God's, and the giver his bare minister (286.16–17).
 
-[^16]: **S/R/T.** A in the margin *Ad argumentum*; A and A₁ read *concedo conclusionem* (287.11–12). John 15:13: Wyclif has *Maiorem caritatem … quam ut*, the Vulgate *Majorem hac dilectionem … ut* (DR "Greater love than this"); we keep "charity" for *caritas*. *Ei*: to God, it seems. *Cum iusti sunt omnia*: all things belong to the just, Wyclif's teaching on the lordship of the just (source to be checked, LEDGER E13c-5).
+[^16]: **S/R/T.** A in the margin *Ad argumentum*; A and A₁ read *concedo conclusionem* (287.11–12). John 15:13: Wyclif has *Maiorem caritatem … quam ut*, the Vulgate *Majorem hac dilectionem … ut* (DR "Greater love than this"); we keep "charity" for *caritas*. *Ei*: to God, it seems. *Cum iusti sunt omnia*: all things belong to the just, Wyclif's teaching on the lordship of the just (*De civili dominio* I, ch. 1, p. 5, on Augustine, Ep. 153.26 and Prov. 17:6 LXX; ch. 9, p. 65, *Iusti ergo sunt omnia*; cf. 311.3–5) (LEDGER E13c-5).
 
 ## Transcription notes
 

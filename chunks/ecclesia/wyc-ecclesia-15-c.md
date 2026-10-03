@@ -68,7 +68,7 @@ to the enervation or deterioration of his kingdom. Since all power is from God, 
 
 [^11]: **C.** *Subdominans*: "holding lordship under", the king as the pope's sub-lord. *Disparate*: B *desparate* (339.5).
 
-[^12]: **R.** *Primos fructus*: the first year's revenues of a benefice reserved to the papacy (annates), claimed in England in the fourteenth century (LEDGER E15c-2).
+[^12]: **R.** *Primos fructus*: the first year's revenues of a benefice reserved to the papacy (annates), claimed in England in the fourteenth century and complained of in the Good Parliament, 1376 (Rot. Parl. II, 338–39) (LEDGER E15c-2).
 
 [^13]: **C.** *Sentenciam*: CONTEXTUAL; here the position taught, "teaching", not a judicial sentence.
 
@@ -76,7 +76,7 @@ to the enervation or deterioration of his kingdom. Since all power is from God, 
 
 [^15]: **R.** *Comitivis depopulatricibus*: the free companies of mercenaries; Loserth compares Walsingham, *Historia Anglicana*, I, 302 (LEDGER E15c-3).
 
-[^16]: **R.** The king's right to the temporalities of vacant sees and abbeys, his presentation to benefices falling vacant meanwhile, and his licence to elect and assent to the one elected (LEDGER E15c-4). B reads *licento* (340.7).
+[^16]: **R.** The king's right to the temporalities of vacant sees and abbeys, his presentation to benefices falling vacant meanwhile, and his licence to elect and assent to the one elected (cf. Constitutions of Clarendon, c. 12) (LEDGER E15c-4). B reads *licento* (340.7).
 
 [^17]: **C.** *Redempcione temporalium*: the chapters' buying back of their seized goods, taken as complicity. *Capitaliter tenerent*: hold of the king in chief. *Si non potest*: the infinitive is understood ("cannot [lawfully]"). B reads *de tanto heretico* (340.14).
 

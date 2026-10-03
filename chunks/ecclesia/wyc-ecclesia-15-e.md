@@ -42,7 +42,7 @@ Second, it is confirmed from this, that the king (as such) has a [privilege]{g:p
 
 [^3]: **S.** Matt. 21:43; the Vulgate reads *regnum Dei*, "the kingdom of God", and Wyclif's *regnum* lets it bear on the king's kingdom.
 
-[^4]: **R.** Wyclif's *De simonia* (LEDGER E15e-1, to be checked).
+[^4]: **R.** Wyclif's treatment of simony: perhaps ch. 13 above (295–96), simony as heresy from C.1 q.1; his *De simonia* is dated after this treatise by its editors (LEDGER E15e-1).
 
 [^5]: **S.** Hos. 5:6; the Vulgate begins *In gregibus suis et in armentis suis*, "With their flocks and with their herds". Hos. 5:1 addresses the priests and the house of the king. *Ablatus est*, Douay–Rheims "withdrawn", is the same verb as *auferatur* and *ablacio*, on which the following lines turn.
 
@@ -54,9 +54,9 @@ Second, it is confirmed from this, that the king (as such) has a [privilege]{g:p
 
 [^9]: **T.** The period has no main clause: *quamvis … remaneat* is followed by a *cum* clause and an *et* clause, and no apodosis comes. The sense is that the giver's will and merit survive though the gift ceases to be alms. *Voluntas* is lacking in A and B and added in A₁'s margin (343.23); Loserth prints it, and it is translated. B reads *tum donum*. Chapter 13: A in the text *XXII*, corrected in the margin (343.18; LEDGER E15e-3).
 
-[^10]: **R.** The idea that a heresiarch's sin grows with those it misleads, attributed to Bernard (LEDGER E15e-4, to be checked). B reads *est adhuc meritum* (343.28).
+[^10]: **R.** The idea that a heresiarch's sin grows with those it misleads, attributed to Bernard, but not found in his writings against Abelard; the same idea is told of Arius and credited to Augustine at 496.13–15 (LEDGER E15e-4). B reads *est adhuc meritum* (343.28).
 
-[^11]: **R.** A and B in the margin at 343.30: *Nota de duplici perfeccione*. Loserth compares Hus, *l. c.* (LEDGER E15e-12). The distinction is called common, not attributed (LEDGER E15e-5, to be checked).
+[^11]: **R.** A and B in the margin at 343.30: *Nota de duplici perfeccione*. Loserth compares Hus, *l. c.* (LEDGER E15e-12). The distinction is called common, not attributed (LEDGER E15e-5; not traced).
 
 [^12]: **C.** *Limitat*: "assigns", fixes for him a degree of blessedness. *Concurrit*: B *concurribilis* (344.8).
 

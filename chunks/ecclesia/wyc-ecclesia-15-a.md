@@ -78,7 +78,7 @@ I intend, therefore, to proceed in this way: first, to narrate the deed of the k
 
 [^11]: **R.** John Grandisson, bishop of Exeter (A A₁ *Oxoniensis*; B and the print *Exoniensi*): Walsingham I, 309; Rolls of Parliament II, 245 (Loserth, LEDGER E15a-5). Thomas de Lisle, bishop of Ely (A *Hyle*): Walsingham I, 285 (Loserth, LEDGER E15a-6). The modern forms of the names are ours.
 
-[^12]: **R.** The seizure of the alien priories' revenues in the French war; Loserth cites Rolls of Parliament III, 22b. The identification with the alien priories is ours (LEDGER E15a-7). *Practizare in*: "put into practice upon".
+[^12]: **R.** The seizure of the alien priories' revenues in the French war; Loserth cites Rolls of Parliament III, 22b: the Commons' petition in Richard II's first parliament (1377) that alien religious be voided from the realm and their profits go to the war, granted with an ordinance for the alien priories (LEDGER E15a-7). *Practizare in*: "put into practice upon".
 
 ## Transcription notes
 

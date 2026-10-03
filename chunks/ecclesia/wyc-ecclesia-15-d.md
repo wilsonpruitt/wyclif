@@ -43,7 +43,7 @@ Third, it is argued principally from the law of God and of the [church]{g:eccles
 
 [^5]: **S.** No reference at the page foot. Gregory to Brunhild, *qui emendare potest et negligit, participem se procul dubio delicti constituit* (PL 77, *Registrum* lib. XI; Ivo cites it as lib. IX ep. 64; LEDGER E15d-2). Decretum D. 86 c. 3, *Facientis proculdubio culpam habet*, is only a loose parallel, and it is John VIII's. B in the margin: *Nota quomodo rex secundum Gregorium habet interesse ad defectus clericorum corrigendos*; A: *Rex peccat, si non corrigit clericum elemosinis abutentem*. Loserth compares Hus, fol. 123 (LEDGER E15d-6).
 
-[^6]: **S.** Gregory, *Registrum* XI.29 in Wyclif's numbering, cited earlier in the treatise; probably the letter to Brunhild of n5, since PL 77 XI.29 is a different letter (LEDGER E15d-3, to be checked). *Racionem*: "the respect in which", not the technical "aspect" against *substancia*.
+[^6]: **S.** Gregory, *Registrum* XI.29 in Wyclif's numbering, cited earlier in the treatise; the letter to Brunhild of n5 (PL 77, *Reg.* XI.69, 1170–71: *ne paucorum facinus multorum possit esse perditio; nam causa sunt ruinae populi sacerdotes mali*); PL's XI.29 is to Queen Bertha. *Ut superius allegavi* refers to n5's quotation (LEDGER E15d-3). *Racionem*: "the respect in which", not the technical "aspect" against *substancia*.
 
 [^7]: **S.** Decretum C. 11 q. 3 c. 63 (form ours, LEDGER E15d-4, to be checked), which reads *privilegium omnino meretur amittere*, "deserves to lose"; Wyclif has *debet*, "ought". The first *Privilegium* is the canon's incipit. A in the margin at 341.28: *Triplex confirmacio*.
 

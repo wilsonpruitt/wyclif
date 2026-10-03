@@ -61,7 +61,7 @@ The second reply, to the second little argument, denies [the inference]{g:conseq
 
 [^3]: **S.** Ephesians 3:8–10. Wyclif omits *hec* ("this grace"), adds *gracie* ("of the grace of Christ") and reads *principibus*, "princes", for the Vulgate's *principatibus*, "principalities"; his Latin is translated.
 
-[^4]: **C.** *Expurgavit Petrum*: Paul's rebuke of Peter at Antioch (Galatians 2:11–14). The three hierarchical acts are purging, illuminating and perfecting, the Dionysian triad of *The Celestial Hierarchy* (LEDGER E17c-2, to be checked). *Fructus lucis*: Ephesians 5:9, "the fruit of the light". **R.** A in the margin at 395.31: *Sicut enim lux corporalis illuminat intellectum, sic membra Christi viancia illuminant beatos in patria*; B: *Viatores illuminant beatos in patria*. **G.** *Viancia*: "on the way" (GLOSSARY *viare; vians*).
+[^4]: **C.** *Expurgavit Petrum*: Paul's rebuke of Peter at Antioch (Galatians 2:11–14). The three hierarchical acts are purging, illuminating and perfecting, the Dionysian triad of *The Celestial Hierarchy* 3.2 (PL 122:1045B) (LEDGER E17c-2). *Fructus lucis*: Ephesians 5:9, "the fruit of the light". **R.** A in the margin at 395.31: *Sicut enim lux corporalis illuminat intellectum, sic membra Christi viancia illuminant beatos in patria*; B: *Viatores illuminant beatos in patria*. **G.** *Viancia*: "on the way" (GLOSSARY *viare; vians*).
 
 [^5]: **S.** "Ephesians 6" is Wyclif's reference; the church "not having spot or wrinkle" is Ephesians 5:27 in the Clementine numbering. **C.** *Docium* is taken as *dotium*, the "dowries" (*dotes*) of the blessed, the gifts of glory; "of the learned" (*doctium*) would also construe, less well.
 

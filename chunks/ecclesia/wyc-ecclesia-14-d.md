@@ -61,7 +61,7 @@ But further I grant (as often elsewhere) that not only the church but the clergy
 ## Notes
 
 [^1]: **T.** A and A₁ read *obicitur* for *arguitur* (310.30); the sense is the same. A's margin: *Contra. Obieccio.*
-[^2]: **S.** Augustine, Ep. 153 to Macedonius (the editor, 311.4 foot: "Ep. CLIII in the modern editions"), which quotes Prov. 17:6 (LXX), "to the faithful man belongs the whole world of riches" (LEDGER E14d-1). Wyclif's Romans 8 is presumably 8:32, as at 306.10 (LEDGER E14d-2).
+[^2]: **S.** Augustine, Ep. 153 to Macedonius (the editor, 311.4 foot: "Ep. CLIII in the modern editions"), which quotes Prov. 17:6 (LXX), "to the faithful man belongs the whole world of riches" (LEDGER E14d-1). Wyclif's Romans 8 is most likely 8:32, *cum illo omnia nobis donavit*, which he quotes at 306.10 (LEDGER E14d-2).
 [^3]: **C.** *Oppositum in adiecto*: a contradiction between a term and what is added to it ("civil lordship" joined to "imitating Christ").
 [^4]: **C.** *Secundum istam racionem*: "on this ground", i.e. goods held by title of alms for office and the poor are rightly called the patrimony of the crucified.
 [^5]: **S.** The editor refers to p. 297 (311.18 foot), the end of chapter 13 (LEDGER E14d-3). *Nominemus occupacionem*: lest we give the name "patrimony of the crucified" to mere occupation of Christ's goods.

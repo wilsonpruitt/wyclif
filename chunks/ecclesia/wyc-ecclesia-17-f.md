@@ -91,7 +91,7 @@ These things premised, the answer is that every foreknown man is never of the ch
 
 [^17]: **T.** At 410.10 B omits *sufficit ... dampnari*; at 410.13 B omits *sit*. **R.** A in the margin at 410.11: *Fides cum gracia predestinacionis constituunt hominem membrum ecclesie*. **C.** *Cum illa fide stat*: it is consistent with that faith that a man be damned.
 
-[^18]: **S.** *Generacio ... salvat eum*: 1 John 5:18 (DR "the generation of God preserveth him"). Augustine "on John, Homily 49": probably *Tract. in Ioh.* 49.27 on John 11:51–52, *nam neque oves ejus, nec filii Dei adhuc erant, qui nondum crediderant* (PL 35; Loserth gives no reference; LEDGER E17f-6, not confirmed word for word). **C.** *Cum datis paribus*: all else being equal. *Secundum disparem racionem*: on a different ground, once by being (predestination, which makes him a member before he is just) and again by becoming just.
+[^18]: **S.** *Generacio ... salvat eum*: 1 John 5:18 (DR "the generation of God preserveth him"). Augustine "on John, Homily 49": *Tract. in Ioh.* 49.27 on John 11:51–52, *nam neque oves ejus, nec filii Dei adhuc erant, qui nondum crediderant* (PL 35:1758; Loserth gives no reference), paraphrased (LEDGER E17f-6). **C.** *Cum datis paribus*: all else being equal. *Secundum disparem racionem*: on a different ground, once by being (predestination, which makes him a member before he is just) and again by becoming just.
 
 [^19]: **R.** A in the margin at 410.13: *Nota quod diversimode aliqui cadunt de ecclesia*. **C.** *Casu secundum quid*: the predestinate fall from the mixed church only in a certain respect, for a time; the foreknown may fall from it without qualification, finally.
 

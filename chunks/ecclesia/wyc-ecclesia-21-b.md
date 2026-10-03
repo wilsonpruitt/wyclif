@@ -68,7 +68,7 @@ be understood: either as to the assessment and infliction of the punishment, and
 
 [^9]: **S.** Augustine on the punishment of Arius growing with his followers' error: Loserth refers only to Bonaventure (496.18; LEDGER E21b-9). **R.** Side-note 496.13; A in the margin at 496.18: *Responsio. Argumenta quod omnes salvabuntur et soluciones*.
 
-[^10]: **S.** *Impossibile est multorum preces non exaudiri*: a commonplace (LEDGER E21b-10). **C.** *Patet inferius*: Wyclif will answer the argument later in the chapter. **T.** A *quis tinet* (496.30, 497.1) for *quis sustinet*. **R.** Side-note 496.23; A in the margin at 496.26: *Responsio*.
+[^10]: **S.** *Impossibile est multorum preces non exaudiri*: Ambrosiaster on Romans 15:30, *multorum preces impossibile est ut non impetrent* (PL 17:177D), carried by the Gloss (PL 114:517C) and Lombard (PL 191:1526D) (LEDGER E21b-10). **C.** *Patet inferius*: Wyclif will answer the argument later in the chapter. **T.** A *quis tinet* (496.30, 497.1) for *quis sustinet*. **R.** Side-note 496.23; A in the margin at 496.26: *Responsio*.
 
 [^11]: **C.** *Solvit*: "pays", the satisfaction rendered to God's justice. *Dicendum … verum est*: Bonaventure grants the premiss; *cum Deus remunerat …* and the parenthesis *ut dicam posterius* are taken as Wyclif's gloss, and *Ideo dicit doctor* resumes Bonaventure's reason (voluntary punishment cannot be accepted for one without charity). Where Bonaventure's words end is not certain. *Pro capacibus*: for those capable [of being helped]. **S.** Bonaventure, ibid., p. 1021 (Loserth, 497.8; LEDGER E21b-11). **R.** Side-note 497.1; A in the margin at 497.8: *Responsio*.
 
