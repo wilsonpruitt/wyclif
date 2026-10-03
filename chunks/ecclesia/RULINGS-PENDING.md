@@ -12,6 +12,9 @@
   contra fidem catholicam*); with 02-f ¶4/¶5 (46.23–24) and 23-i ¶4/¶5 these are left as structure (M5-RESUME
   precedent). On the site a chunk would end on "it is clear". Decide at stage 10: render chapters continuously
   (boundary invisible) or move the boundary.
+  Now measured: `scripts/w3/boundaries.py ecclesia` → `text/ecclesia/boundaries.tsv`, 58 ends without a stop
+  (43 ¶, 15 chunk; some are verse lines). Reading the 58 on the plates (~1 agent) would find any other lost
+  word at a false break like *plus* (46.24). Not started; needs your go.
 
 - **S3. Tokenfix rows that emend the print.** The reviews found 4 rows in `text/ecclesia/tokenfix.tsv` labelled
   "OCR" that in fact corrected Loserth's misprints (263.29 *faciendo*, 270.29 *69*, 424.4 *novam*; plus a lost
