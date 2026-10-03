@@ -45,6 +45,15 @@ items go to RULINGS-PENDING); italics (decide at stage 10).
 ## Cost
 Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opus**. At most 2 agents at once (8 GB).
 
+## Coordinator rulings for the appliers (A2)
+- All rows apply; where a row offers alternatives, take the one the reviewer prefers, else the first.
+  Skip rows that only fix a spaced/capitalised tag key (script at the end). Ledger-id splits → stage C.
+- Latin restored to the print by deleting "OCR" tokenfix rows that were really silent emendations of
+  Loserth's misprints (standing rule: the Latin is the print). The English stays; each gets a T note:
+  12-d 263.29 *faciendo* (English follows *facienda*, Rom. 3:8, our emendation) · 12-e 270.29 *XXVII°, 69*
+  (Loserth's misprint; Matt. 27:19) · 18-c 424.4 *novam* (R6 #4 wording). 12-d 267.3 *latronum?* and 12-c
+  258.23/25 punctuation restored (no note). 02-f 46.24 *plus* and 09-e 202.22 *III°* restored from the plate.
+
 ## Log
 | stage | agent | tokens | result |
 |---|---|---|---|
@@ -53,4 +62,9 @@ Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opu
 | A | R3 (08-f, 09-a, 09-c, 09-e) | 198K | 30 rows: 0 error, 23 weak, 7 style (13 terms, 4 conn., 3 medieval, 3 construal, 7 quotation). 202.22 *111°* → *III°* tokenfix |
 | A | R4 (10-b, 10-c, 12-b, 12-c) | 244K | 27 rows: 0 error, 16 weak, 11 style; italics checked on all 20 pages; 4 notes contradict the plate; 1 Latin-text row |
 | A2 | apply R1+R2 | 149K | all rows applied except 5 tag-key rows (script) and R1 #18 (ledger stage); 04-b notes renumbered, LEDGER pointers moved; lint 0 |
+| A | R5 (12-d, 12-e, 13-a, 14-g) | 238K | 27 rows: 0 error, 22 weak, 5 style (9 terms, 3 conn., 1 medieval, 4 construal, 10 quotation); 3 silent Latin departures from the print (263.29, 267.3, 270.29) |
+| B | extract 01 | 135K | 113 checked: 7 changes, 4 doubtful |
+| B | extract 02 | 146K | 164 checked: 5 changes, 8 doubtful; 04-f p.91 {g:sponsa} on "bridegroom" (→ sponsus, end pass) |
+| B | extract 03 | 146K | 132 checked: 1 change, 7 doubtful |
+| A2 | apply R3+R4 | 167K | 57 rows applied (3 tag-key rows partly: tags added, keys left for script); LEDGER E10b-5 page 37→39; lint 0 |
 | D | coordinator | — | lint.py widened: 278 tag keys with space/capital had been skipped; 2 stray `{g:per idem}` removed; lint 0 |

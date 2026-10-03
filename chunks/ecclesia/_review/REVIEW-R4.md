@@ -54,3 +54,38 @@ Classes: 1 terms · 2 connectives · 3 medieval sense · 4 construal, or a note 
 - **10-c**: The cleanest of the four. The connectives are all accounted for, and the construals are noted where they are doubtful. Only one quotation is missing (Augustine's *peticio intelligitur*). The rest is tagging and closing two "to be weighed" notes that the plates now settle.
 - **12-b**: Good construal of the implicit-willing argument. One connective-table breach: *Tercio principaliter* is read with the verb. The quotation marks do not follow the print: two roman phrases are quoted and the Archdeacon's italic sentence is not.
 - **12-c**: Good English through the long Ambrose canon, whose bounds are exactly the print's. The Daniel and Matthew 4:9 quotations need their bounds set from the italics. Three renderings predate the cap. 23 rulings (*venia*, *laxare*, *sentencia* as a judicial sentence). One note credits B with Loserth's *adde: diabolus*. Two OCR scars remain in the frozen Latin at 258.23–25.
+
+## Applied 2026-10-03
+
+English and notes only; no `>` Latin or front matter touched; no notes added or renumbered, so no `_verify/groups` pointers moved. Lint: 159 chunks, 0 problems.
+
+| # | result |
+|---|---|
+| 1 | applied |
+| 2 | applied (five tags; `lex-christi` key) |
+| 3 | applied (n. 10) |
+| 4 | applied (English supply + n. 10 readings swapped, with the *Unde ista condicio* reason) |
+| 5 | applied (n. 13 rewritten; class mark now **T/C**) |
+| 6 | applied-adjusted: n. 15 rewritten as proposed, but "now `editor`" dropped, since LEDGER E10b-3 already stands `verified` (= c. 15 *Hec autem vita*); status changes are stage C |
+| 7 | applied-adjusted: first alternative taken ("and even, on occasion, meritoriously kill [him]"), and the *quandocunque* C note added to n. 17 as well, so the choice is not silent |
+| 8 | applied (n. 17 p. 39); LEDGER.md E10b-5 claim corrected to "p. 39 (plate n0248; was "37")", status left `editor` |
+| 9 | applied |
+| 10 | applied (n. 4) |
+| 11 | applied (four tags; tag at 214.3 dropped) |
+| 12 | applied (n. 10) |
+| 13 | applied (quotation marks and the inline "(2 Thessalonians 2:4)" removed; n. 2 opens "An allusion, roman in the print") |
+| 14 | applied |
+| 15 | applied |
+| 16 | applied (first alternative; `obicitur-per` key) |
+| 17 | applied (three tags) |
+| 18 | applied |
+| 19 | applied-adjusted: quotation made one run through *rege Dario* as proposed; the English word order ("the satraps, in order to destroy Daniel, counselled Darius …") kept, since only the quotation bounds were at issue |
+| 20 | applied (also n. 9: "paraphrased, italic in the print") |
+| 21 | applied (n. 13) |
+| 22 | applied |
+| 23 | applied (first alternative, "looses [from] exile") |
+| 24 | applied |
+| 25 | applied (n. 9) |
+| 26 | applied (n. 14) |
+| 27 | no action: the Latin already reads *assumptum; sed* and *necesse est leges* (coordinator's tokenfix); no note or transcription note in 12-c describes the old punctuation (checked) |
+| Structure (12-c ends mid-sentence) | no action, per coordinator |

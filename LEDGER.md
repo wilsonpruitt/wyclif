@@ -383,7 +383,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E10b-2 | ecclesia-10-b / n8 | *a terrenis desideriis innitentes* (Gregory *enitentes*, Gratian *innitentes*) | verified | PL 76; PL 187 |
 | E10b-3 | ecclesia-10-b / n15 | C.23 q.4 *Hec autem* | verified | = c.15 *Hec autem vita* (E04f-1) |
 | E10b-4 | ecclesia-10-b / n15 | *recitatur proximo capitulo* = ch. 9 | to-verify | 09-e cites c.15 |
-| E10b-5 | ecclesia-10-b / n17 | Peter / Paul / Linus: cf. *De civili dominio* p. 37 | editor | not local |
+| E10b-5 | ecclesia-10-b / n17 | Peter / Paul / Linus: cf. *De civili dominio* p. 39 (plate n0248; was "37") | editor | not local |
 | E10c-1 | ecclesia-10-c / n2 | Archidiaconus = Guido de Baysio, *Rosarium* | to-verify | not local |
 | E10c-2 | ecclesia-10-c / n2 | *Excommunicatorum* = C.23 q.5 c.47 (Urban II) | verified | Friedberg I, 945; PL 187 |
 | E10c-3 | ecclesia-10-c / n4 | Augustine, *De serm. Dom.* II.8.28 (Wyclif "c. 10") | verified | PL 34:1281–82 |

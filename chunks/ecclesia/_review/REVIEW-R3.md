@@ -57,3 +57,41 @@ Classes: 1 terms · 2 connectives · 3 medieval sense · 4 construal, or a note 
 - **09-a**: Sound English. The work is in the quotation bounds on p. 185, where the Augustine runs past its italics and the Matthew opens too late, and in a few word choices that predate rulings (*vulgari*, *perquisita*, the *inconveniens* C note). The supply in the Pelagius canon needs its alternative on the print.
 - **09-c**: The cleanest of the four. Nothing is mis-construed. Most rows are missing tags for rows ruled from these pages, plus *dominacio* once slipping to "lordship", *potissima*, and *fabrica* colliding with *commentum*.
 - **09-e**: Good English and well noted. The connectives are its weak point: one minor-premiss *sed* given as "but", one chain *autem* as "and", and one *autem* dropped. On p. 201 the Gratian quotation runs past its italics.
+
+## Applied 2026-10-03
+
+English and notes only; no `>` Latin or front matter touched; no notes added or renumbered, so no LEDGER or `_verify/groups` pointers moved. Lint: 159 chunks, 0 problems.
+
+| # | result |
+|---|---|
+| 1 | applied |
+| 2 | applied (first alternative: "(roman in the print)" added to n. 8; English unchanged) |
+| 3 | applied (n. 8) |
+| 4 | applied (English + n. 9) |
+| 5 | applied (English + n. 12) |
+| 6 | applied |
+| 7 | applied |
+| 8 | applied-adjusted: the three tags added; the spaced-key fixes (`citra Christum`, `temporales domini`, `lex dei`) skipped per coordinator ruling (script) |
+| 9 | applied |
+| 10 | applied-adjusted: four tags added (*privilegium*, *exempcio*, *membrum*, *sagena*); spaced-key fixes skipped (script) |
+| 11 | applied |
+| 12 | applied (English ×2 + n. 8) |
+| 13 | applied (n. 10) |
+| 14 | applied |
+| 15 | applied (English + n. 14) |
+| 16 | applied (English + n. 15) |
+| 17 | applied-adjusted: the alternative construal on the print added to the end of n. 16; the existing "verb supplied from the canon" sentence recast as "we supply the canon's verb … (our supply)" rather than replacing the whole note, so the canon's text stays |
+| 18 | applied-adjusted: the seven tags added; spaced-key fixes skipped (script) |
+| 19 | applied |
+| 20 | applied |
+| 21 | applied (English + n. 12) |
+| 22 | applied |
+| 23 | applied |
+| 24 | applied (n. 8) |
+| 25 | applied (n. 11) |
+| 26 | applied (first alternative: quotation split at the italics) |
+| 27 | applied (together with #28) |
+| 28 | applied |
+| 29 | applied |
+| 30 | applied (four tags) |
+| Latin aside, 202.22 *111°* | no action: already restored to *III°* in the Latin by the coordinator; no note or transcription note in 09-e mentions the old reading (checked) |
