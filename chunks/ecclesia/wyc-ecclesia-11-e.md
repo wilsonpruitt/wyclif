@@ -66,7 +66,7 @@ Hence the saints are more content with tribulation than with worldly prosperity,
 
 [^7]: **T/C.** A wrote *appropriata* and corrected it to *appropriate* (248.15). For *propriatorie* (248.17; so printed, plate), not a word, A and A₁ read *preparatorie*, which the side-note's "make the Church apt to receive" supports; translated "preparatorily". *Removens prohibens*: the scholastic "remover of an impediment", a cause only by accident, here an occasion (cf. Aristotle, *Physics* VIII.4; to be checked, LEDGER E11e-3). Side-note 248.13.
 
-[^8]: **S/R.** A in the margin *Conclusio. Ritus* (248.21); B *Ritus sensibiles a Christo instituti sunt observandi plus quam alii* (248.24); side-note 248.21. *Proximo capitulo*: the place in cap. 10 is to be checked (LEDGER E11e-4). Jeremiah 35:8: the precept was Jonadab's, "the son of Rechab, our father" (DR); Wyclif names the father Rechab. A wrote *Racabitis* and corrected it (248.28). *Ut exponit*: subject unexpressed; taken as the prophet.
+[^8]: **S/R.** A in the margin *Conclusio. Ritus* (248.21); B *Ritus sensibiles a Christo instituti sunt observandi plus quam alii* (248.24); side-note 248.21. *Proximo capitulo*: not located; chapter 10 has neither the Rechabites nor this comparison. Wyclif draws the same a fortiori from the Rechabites in *De civili dominio* III c. 19 (Society ed. IV, 383) (LEDGER E11e-4). Jeremiah 35:8: the precept was Jonadab's, "the son of Rechab, our father" (DR); Wyclif names the father Rechab. A wrote *Racabitis* and corrected it (248.28). *Ut exponit*: subject unexpressed; taken as the prophet.
 
 [^9]: **C.** *Ut illa spernuntur*: "as (in so far as) they are spurned". *Religio christiana*: the Christian religion, not *religio privata*.
 

@@ -72,7 +72,7 @@ Lastly, it is clear that there is no repugnance in those who equivocally grant a
 
 [^13]: **S/C.** John 1:20, "I am not the Christ" (DR), cited by sense; *omnis qui Christum induit*: cf. Gal. 3:27, "have put on Christ" (DR). *Eandem proposicionem sensibilem*: the same perceptible proposition, the sentence spoken or written, granted by one in one sense and denied by another in another; hence "equivocally".
 
-[^14]: **R/C.** *Captandum est auditorium*: one must take the measure of the audience. *In materia De Ideis*: Wyclif's own treatment, presumably the treatise *De ideis* of the *Summa de ente* (to be checked; LEDGER E06f-4). *Ut omnis homo …*: we take *ut* as "just as", illustrating the *licet*: every man is the same as Christ in species, and Christ is the Godhead, yet a man is not the same as the Godhead; doubtful.
+[^14]: **R/C.** *Captandum est auditorium*: one must take the measure of the audience. *In materia De Ideis*: Wyclif's own treatment, the treatise *De ideis* (*Summa de ente* II, tract. 5; not read), which Wyclif cites for this same thesis in *De dominio divino* II c. 5 (197) and *De civili dominio* I c. 43 (369) (LEDGER E06f-4). *Ut omnis homo …*: we take *ut* as "just as", illustrating the *licet*: every man is the same as Christ in species, and Christ is the Godhead, yet a man is not the same as the Godhead; doubtful.
 
 ## Transcription notes
 

@@ -71,7 +71,7 @@ From which it follows that it does not belong to the [pope]{g:papa}, on account 
 
 [^2]: **C.** *Dignificare*: make worthy. *Per se … per accidens*: the heir has his inheritance of itself from truth (God's grant), from his father only accidentally; so his first obligation runs to truth.
 
-[^3]: **R/S.** A and A₁ read *Et hec racio* (279.13), A in the margin *Conclusio*. *Regem Anglie semper esse infra etatem*: a maxim of English law (source to be checked, LEDGER E13b-2). *Inveteratus dierum malorum*: Daniel's words to the elder, Daniel 13:52 ("O thou that art grown old in evil days", DR). The decree is Gratian, D.83 c.3, per Loserth (*Dec. I pars, dist. LXXXIII, c. III*; the modern form is ours), who refers back to p. 235 (cap. 11); its attribution in Gratian is not vouched for here (LEDGER E13b-1).
+[^3]: **R/S.** A and A₁ read *Et hec racio* (279.13), A in the margin *Conclusio*. *Regem Anglie semper esse infra etatem*: a maxim of English law (source to be checked, LEDGER E13b-2). *Inveteratus dierum malorum*: Daniel's words to the elder, Daniel 13:52 ("O thou that art grown old in evil days", DR). The decree is Gratian, D.83 c.3, per Loserth (*Dec. I pars, dist. LXXXIII, c. III*; the modern form is ours), who refers back to p. 235 (cap. 11); Gratian heads it *Item Innocentius* (Friedberg I, 293–94) (LEDGER E13b-1).
 
 [^4]: **G/C.** *Temporalis*: temporary, the GLOSSARY's *elemosina temporalis*, against *perpetua*. *Ditarius*: the one enriched by the alms (cf. *ditare*, GLOSSARY §B), the almsman. *Quoad Deum*: in God's sight.
 

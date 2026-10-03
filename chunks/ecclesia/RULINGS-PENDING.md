@@ -26,7 +26,11 @@
   killings. Applied to the note; the English text was not reframed. Confirm or reverse.
 - **R2. Nicholas II, not III (E11a-5).** The Westminster bull is Nicholas II's (Kemble IV no. 825; Sawyer 1041, a
   forgery); Wyclif, B and Loserth all say III. Latin and English keep "III" (Wyclif's slip); the note says so.
-  Flag it in the English too (e.g. "Nicholas III [read II]")? Default: note only.
+  Flag it in the English too (e.g. "Nicholas III [read II]")? Default: note only. Same at 10-a (E10a-4).
+- **R5. Wyclif's misnumbered cross-references** (E19g-4 c. 27 for c. 26; E22f-2 "second" for first *commentum*;
+  E23a-3 "last chapter" fits only in part). Reported in the notes, not emended (the Latin is the print). Default: keep.
+- **R6. Book-only mappings not chapter-checked** (wyclif batch, coordinator item 1): 09-b, 09-e, 22-f/g, 10-d
+  cross-references now mapped by book (*De civ. dom.* I/III, *De veritate*); their chapters are not checked.
 - **R3. Westminster victim's name (07-a n2).** Loserth's *Eulogium* has "Johannes Hawle / Ricardus Shakyll"; the
   standard names are Robert Hauley and John Shakell. Add the standard names to the note? Default: yes, if you agree.
 - **R4. Printed authorities.** E12c-6, E13b-5 (1213), E15g-1, E15h-2, E15b-3 dates rest on web pointers

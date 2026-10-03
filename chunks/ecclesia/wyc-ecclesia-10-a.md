@@ -52,7 +52,7 @@ And in the charter of Saint Edward it is written thus:
 
 [^5]: **S/T.** Edward's charter: Loserth refers to Kemble, *Cod. dipl.* IV, no. 825, p. 181 (compare pp. 173 ff.); the "other charter" to IV, p. 186 (LEDGER E10a-2, E10a-3). Loserth's corrections are translated: *magni apostoli … beati Petri* from Edward's charter (codd. *etc. beati*, 206.13), *videantur* from Kemble p. 186 (codd. *videatur*, 206.16), *consuetudinem* (codd. *consuetum*). B lacks *sit* (206.12). At 206.20 Loserth notes that Edward's diploma reads here *immunis sit omnino ac plenam libertatem consequatur*. *Esse videantur* hangs loosely on *omnium hominum*: "of whatever order or power they may appear to be".
 
-[^6]: **S.** Loserth points to a bull of Nicholas III inserted in this diploma (Kemble, *Cod. dipl.* IV, p. 183) and to the *Monasticon Anglicanum* (Dodsworth and Dugdale, London 1655); he says he has not seen bulls confirming the diploma. Whether the pope meant is Nicholas II rather than Nicholas III is to be checked (LEDGER E10a-4). *Verba magis pregnancia*: the most telling (literally "pregnant") words.
+[^6]: **S.** Loserth points to a bull of Nicholas III inserted in this diploma (Kemble, *Cod. dipl.* IV, p. 183) and to the *Monasticon Anglicanum* (Dodsworth and Dugdale, London 1655); he says he has not seen bulls confirming the diploma. The bull inserted there is addressed by *Nicholaus episcopus* to King Edward (Kemble IV, 183–84; its *nulli omnino personae nisi regi subdantur* is quoted at 230), so the pope is Nicholas II (1059–61); the text's *Nicolai III* is an error (LEDGER E10a-4). *Verba magis pregnancia*: the most telling (literally "pregnant") words.
 
 ## Transcription notes
 

@@ -179,7 +179,7 @@ are equal to or surpass the law of God. And this is in effect the supplanting of
 
 [^6]: **S/T.** The sentence breaks off at *capitulo* (43.23), the chapter number wanting, and the
     parenthesis is never closed. *Libro sexto*: in Wyclif's *Summa theologie* the sixth book is *De
-    veritate sacre scripture*, as Loserth supposes; B reads *quinto*, and has *tractatu de mendacio* in
+    veritate sacre scripture*, as Loserth supposes: its chapters 16–18 are the treatise on lying (c. 18 opens *faciendo finem in materia de mendacio*), which Wyclif also cites as *tractatus De Mendacio* at 159 (08-a); B reads *quinto*, and has *tractatu de mendacio* in
     the margin, not in the text (LEDGER E02f-2).
 
 [^7]: **C.** *Quod sit talis*: that he is a part of the church (Loserth's side-note: "a part of the

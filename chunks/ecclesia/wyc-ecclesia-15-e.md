@@ -48,7 +48,7 @@ Second, it is confirmed from this, that the king (as such) has a [privilege]{g:p
 
 [^6]: **S.** Mark 2:20, paraphrased. *Ablatario*: the one from whom something is taken. *Alterutrum*: good on one side only, as in Hosea, where the loss is the sinner's and the Lord's withdrawal just.
 
-[^7]: **R.** *Tractatu De Privilegiis*: the discussion of privilege in chapters 8–9 of this work (LEDGER E15e-2, to be checked). *Lure regni* is read *iure*.
+[^7]: **R.** *Tractatu De Privilegiis*: the discussion of privilege in chapters 8–11 of this work; the king's duty of justice to his lieges is at 218 (10-d), correction as the greater work of mercy at 237 (11-b) (LEDGER E15e-2). *Lure regni* is read *iure*.
 
 [^8]: **C.** *Ad continuandum suas elemosinas*: chastisement is the means by which the king's alms continue to be alms (as the next sentences explain), not a duty to keep paying them.
 

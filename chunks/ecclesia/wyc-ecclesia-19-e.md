@@ -49,7 +49,7 @@ absolving, without his duly concurring as minister; [458] nor does it follow fro
 
 [^7]: **C.** *Pure clerico*: a cleric acting purely as cleric. *Clero minus elongatum*: what departs less from the apostolic life; the argument runs from the lesser to the greater departure. The codices read *Clero cui* (459.21); Loserth prints *Clero*, which is translated. *Conclusionem primam*: the first conclusion of this chapter, against contending at law. **T.** The codices spell *expungnare* (459.21). At 459.26 the codices read *talibus*, which Loserth corrected (his *Correxi*); the corrected word is evidently *temporalibus*. **R.** A in the margin at 459.18: *Quinta conclusio. Non licet pure clerico invadere fratrem suum propter temporalia nec licet sibi ut pro illis pugnet*. Side-note 459.19.
 
-[^8]: **C.** *Bona nature*: life and limb, as against the goods of fortune. *Ut tetigi XVII° cap. libri quarti*: Wyclif's cross-reference to an earlier book of his own; the work and place are to be checked (LEDGER E19e-2). **T.** A spells *pungne* (460.3). **R.** Side-note 460.1.
+[^8]: **C.** *Bona nature*: life and limb, as against the goods of fortune. *Ut tetigi XVII° cap. libri quarti*: Wyclif's cross-reference to an earlier book of his own; book 4 of the *Summa* is *De civili dominio* II; c. 17 ends with the chronicle of Gregory VI, the warring pope whose bier was borne into the church, which Wyclif calls *illusiones tamquam miracula* (Society ed., 257–58) (LEDGER E19e-2). **T.** A spells *pungne* (460.3). **R.** Side-note 460.1.
 
 [^9]: **C.** *De factis hostibus*: taken as "over enemies we have made"; the words could also echo *in factis*, "in deeds". **S.** James 3:15.
 

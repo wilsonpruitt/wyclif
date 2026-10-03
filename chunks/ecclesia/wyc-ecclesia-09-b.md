@@ -54,7 +54,7 @@ But fourthly it is argued that it follows from what has been said that there is 
 
 ## Notes
 
-[^1]: **T/C.** A margin *Tercia obieccio* (186.33). *Statu moderno*: the present state of the endowed clergy. *Ex cap. VI°*: we take it as this work's chapter 6, on the church as virgin bride; the reference is to be checked (LEDGER E09b-1); cf. 2 Corinthians 11:2, "a chaste virgin to Christ". Side-note 187.1.
+[^1]: **T/C.** A margin *Tercia obieccio* (186.33). *Statu moderno*: the present state of the endowed clergy. *Ex cap. VI°*: this work's chapter 6: *ecclesia est virgo, cum sit sponsa virginis Jesu Christi* (117, 06-a; again 133, 06-e) (LEDGER E09b-1); cf. 2 Corinthians 11:2, "a chaste virgin to Christ". Side-note 187.1.
 
 [^2]: **S/T/C.** Decretum, De cons. D. 5 c. 24 (the modern form is ours; Jerome; Friedberg I, 1418; LEDGER E09b-2). Loserth prints the canon as *Non mediocriter errat qui magno bono prefert mediocre bonum*: Wyclif's *graviter peccant qui eligunt minus bonum …* is his own restatement, translated. *Libro V°, cap.*: the chapter number is blank in the print, and the book is not identified (LEDGER E09b-3). *Viantem*: the one on the road (GLOSSARY *viantes*). *Indispensabilia*: not open to dispensation.
 
