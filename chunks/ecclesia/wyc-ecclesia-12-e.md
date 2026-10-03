@@ -95,7 +95,7 @@ But I do not [maintain]{g:intendere} that the king's [knights]{g:milites} ought 
 
 [^13]: **T/G.** A₁ corrects in the margin to *mancipacione* (270.13). *Manucapcio*: mainprise, the English law's surety for a man's appearance. *De tanto … de quanto*: precisely so far as.
 
-[^14]: **R.** A in the margin *Quinta obieccio. Contra* (270.16); side-note 270.16. *A vulgo*: by the common people. The prophecy: England would go unpunished until Westminster was polluted under a King Richard; the killing in the abbey church in 1378, under Richard II, is meant (12-a; context to be checked, LEDGER E12e-5). *Filii patris mendacii*: cf. John 8:44.
+[^14]: **R.** A in the margin *Quinta obieccio. Contra* (270.16); side-note 270.16. *A vulgo*: by the common people. The prophecy: England would go unpunished until Westminster was polluted under a King Richard; the killing in the abbey church in 1378, under Richard II, is meant (12-a; Wyclif goes on: *de illo homicidio in sanctuario perpetrato*, 270.23). *Filii patris mendacii*: cf. John 8:44.
 
 [^15]: **C/R.** A in the margin *Responsio* (270.26); side-note 270.26. *Illo homicidio*: the killing of 1378 (12-a, 252.26). *Applicare sequelam*: to connect the misfortune with the killing as what follows from it. *Fantasias*: the images of the imagination.
 

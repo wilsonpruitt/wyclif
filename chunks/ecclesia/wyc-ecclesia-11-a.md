@@ -62,7 +62,7 @@ And this teaching is notably taught in C. 25 q. 1, *Ideo permittente domino*, wh
 
 [^5]: **S/C.** Side-notes 229.5–229.17 (their a), b), c) follow Wyclif's threefold end). A in the margin *Conclusio. Nota quomodo sunt privilegia intelligenda* (229.18). Aristotle, *Physics* II.3 (Loserth, 229.9; LEDGER E11a-4). *Apostoli*: St Peter, Westminster's patron (side-note 229.10). *Peculiaris basilice*: that "peculiar" church, taken as Westminster's standing as a royal foundation exempt from the bishop; it may mean only "special". *De quorum elemosinis*: the alms of the king and realm.
 
-[^6]: **S.** B in the margin *Bulla Nicolai III* (229.16). Loserth gives no reference. Whether Nicholas III is right, or a papal privilege of another pope to Westminster is meant, is to be checked (LEDGER E11a-5).
+[^6]: **S.** B in the margin *Bulla Nicolai III* (229.16). The words are from the privilege of Nicholas II (1059–61) to Edward the Confessor, inserted in Edward's (spurious) charter to Westminster (Kemble, *Codex diplomaticus* IV, no. 825, pp. 183–4; Sawyer 1041); Wyclif's and the margin's 
 
 [^7]: **S.** The saying ascribed to Gregory (gifts increase the account owed for them) is *Hom. in Ev.* 9.1, *Cum enim augentur dona, rationes etiam crescunt donorum* (PL 76:1106), paraphrased; Loserth does not locate it (LEDGER E11a-6). *Datarium*: the giver.
 

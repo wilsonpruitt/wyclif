@@ -80,7 +80,7 @@ Hence I put two cases to [my] adversaries. First, whether one who plunders, stea
 
 [^11]: **C/T.** A in the margin *Bona racio* (220.3). *Immunis ecclesie*: a church enjoying immunity, as the sanctuary does. *Magis elongatum a communi iure*: the privilege, further removed from common law than the grant Wyclif proposes. A₁ corrects to *noverunt* (220.15); the print is translated. *Ius* is "law" throughout.
 
-[^12]: **C/R.** *Elemosinas suas*: the alms the just themselves gave, the endowments. *Aliud*: the opposite thesis, that the just may take temporal goods from a delinquent church, which Wyclif's opponents condemn as heretical; presumably among his propositions condemned by Gregory XI in 1377, to be checked (LEDGER E10d-5). A in the margin *Conclusio* (220.27) opens the next chunk.
+[^12]: **C/R.** *Elemosinas suas*: the alms the just themselves gave, the endowments. *Aliud*: the opposite thesis, that the just may take temporal goods from a delinquent church, which Wyclif's opponents condemn as heretical; the sixth of his conclusions condemned by Gregory XI in May 1377 (*Fasciculi zizaniorum*, p. 248; Walsingham, *Hist. Angl.* i. 354). A in the margin *Conclusio* (220.27) opens the next chunk.
 
 ## Transcription notes
 

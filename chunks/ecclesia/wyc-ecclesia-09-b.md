@@ -74,7 +74,7 @@ But fourthly it is argued that it follows from what has been said that there is 
 
 [^10]: **C/T.** *Furcas et puteum*: the franchise of gallows and pit (the drowning-pit) held by lords of high justice. *Aer deferens inspirandus*: construed loosely, "the air that carries [breath]"; the phrase is compressed. A₁ reads *vestimentum* (189.23). B reads *Quod* (189.17). The golden touch is Midas's, unnamed. Side-note 189.17.
 
-[^11]: **R/S/T.** B margin, another hand: *Evangelista frondem convertit in aurum* (189.26). The story of John the Evangelist turning branches and stones into gold and gems is in his legend; source and wording to be checked (LEDGER E09b-6). *Philargirie*: love of money (Greek *philargyria*). A and A₁ lack *et secundum — dominatissimus* (189.28–29). *Repugnasset*: the understood subject is that wealth. Side-note 189.25.
+[^11]: **R/S/T.** B margin, another hand: *Evangelista frondem convertit in aurum* (189.26). The story of John the Evangelist turning branches and stones into gold and gems is Isidore's, *De ortu et obitu patrum* 72 (PL 83, 151C: *mutavit in aurum silvestres frondium virgas littoreaque saxa in gemmas*), repeated in the *Legenda aurea* (c. 9). *Philargirie*: love of money (Greek *philargyria*). A and A₁ lack *et secundum — dominatissimus* (189.28–29). *Repugnasset*: the understood subject is that wealth. Side-note 189.25.
 
 [^12]: **T/S.** A and A₁ read *in finitum* (190.5). B lacks *seculari* (190.6). Loserth suggests *vestiri*, "to be clothed", for *vesci*; the print's *vesci in auro* is translated, and construes: cf. 1 Maccabees 11:58, "leave to drink in gold".
 

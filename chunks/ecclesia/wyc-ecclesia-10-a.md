@@ -42,7 +42,7 @@ And in the charter of Saint Edward it is written thus:
 
 ## Notes
 
-[^1]: **R.** *Super quo versatur contencio*: the dispute is presumably the violation of the Westminster sanctuary in August 1378 and the debate that followed it; to be checked (LEDGER E10a-5). A has in the margin *Nota de privilegio Westermonasterii* (204.28). *Vera copia ministrata*: a true copy supplied [to Wyclif]. Side-notes 205.3, 206.12.
+[^1]: **R.** *Super quo versatur contencio*: the dispute is the dispute over the abbey's privilege of sanctuary after its violation on 11 August 1378 (Loserth, Introduction, pp. x–xi). A has in the margin *Nota de privilegio Westermonasterii* (204.28). *Vera copia ministrata*: a true copy supplied [to Wyclif]. Side-notes 205.3, 206.12.
 
 [^2]: **S/T.** Edgar's charter: Loserth refers to Kemble, *Codex diplomaticus aevi Saxonici* II, 366, which "gives the exact words of the greater part of this charter", and corrects the codices from it (LEDGER E10a-1). His corrections are translated: *villa* (codd. *villa cuiuscunque*, 205.12–13), *facinoris* (codd. *facinoriter*, 205.13), *ad ipsam* (wanting in the codices, 205.22). Charter readings he records without adopting them: *decernimus* (205.4), *et pro quiete* (205.7), *eiusdem ecclesie habeatur id est ut* (205.8), *beati apostoli Petri* (205.10), *esse videantur* after *vel potestatis* (205.27), *quemadmodum ex munificencia* (206.1–2). The print is translated.
 

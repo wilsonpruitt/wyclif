@@ -64,7 +64,7 @@ I intend, therefore, to proceed in this way: first, to narrate the deed of the k
 
 [^4]: **C.** *Ista enim accusans obieccio*: the objection "accuses" those who make it, by what it reveals. A in the margin: *Triplex instancia*.
 
-[^5]: **R.** *Mortui vel divisi*: the popes and cardinals of the Schism that opened in 1378 (LEDGER E15a-2).
+[^5]: **R.** *Mortui vel divisi*: those who condemned the matter in 1377: Gregory XI, dead in March 1378, and his cardinals, divided by the Schism that opened that year (LEDGER E15a-2).
 
 [^6]: **T.** The paragraph division at 330.30/31 falls inside one sentence, *Tercia instancia dicit quod tam rex quam regnum / processit prospere*; the singular *processit* takes king and kingdom together. "Chapter 12": Loserth refers to p. 265 above (LEDGER E15a-8).
 

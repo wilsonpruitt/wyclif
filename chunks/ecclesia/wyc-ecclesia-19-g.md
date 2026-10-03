@@ -59,7 +59,7 @@ Hence such blameworthy blindness, an inordinate and covetous cult around relics,
 
 [^9]: **S.** *De mirabilibus sacrae scripturae* II.10 (II.11, *De Samuele suscitato a Pythone*, in PL 35), under Augustine's name (Loserth: Aug. Opp. III, pars II, p. 18 of the appendix; LEDGER E19g-1, editor); for the author see LEDGER E19b-4. 1 Kings 28:19. **C.** *Duos homines tam indignos*: Saul and the woman. *Reprobi*: "the reprobate", not *presciti*. **R.** A in the margin at 466.21: *Samuel*; *Augustinus*.
 
-[^10]: **C.** *Hunc sanctum*: Augustine. *Feretrum pape bellantis*: the bier of "the warring pope", carried into a church amid reported signs; the pope is not named here (cf. 460.1–4); to be identified (LEDGER E19g-2). *Nemo faciet evidenciam quin*: no one will show that it is not lawful. **R.** B in the margin at 467.7: *Nota de papa bellatore*.
+[^10]: **C.** *Hunc sanctum*: Augustine. *Feretrum pape bellantis*: the bier of "the warring pope", carried into a church amid reported signs; the pope, not named here, is Gregory VI (1045–6), whose bier, by Higden's story, a whirlwind drove through the closed doors of St Peter's (*Polychronicon* VI. 22; Wyclif, *De civili dominio* II. 17, pp. 253, 257, the place cited at 460.3–4). *Nemo faciet evidenciam quin*: no one will show that it is not lawful. **R.** B in the margin at 467.7: *Nota de papa bellatore*.
 
 [^11]: **C.** *Translative*: by transference of the name. *Dyabolum figurantem*: the devil who took Samuel's figure. *Sentenciam*: the mind or teaching of God that the angel conveys. **S.** 1 John 5:8 ("these three are one"); *in officio* and the trinitarian reading are Wyclif's. Matthew 11:14 ("he is Elias").
 

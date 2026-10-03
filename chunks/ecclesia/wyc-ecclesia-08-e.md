@@ -53,7 +53,7 @@ Hence, to pacify the disciples and instruct them what privilege and [priority]{g
 
 [^9]: **T/C.** The codices read *condicione*; Loserth prints *condicioni* (174.20–21), translated. *Datus … date*: "a given", the logician's placeholder. *Racio privilegii*: the ground of the privilege. A margin *De privilegiis monasteriorum et ecclesiarum* (174.22).
 
-[^10]: **C/R.** The case is set out in the manner of the *obligationes*. *In prima conclusione … sibi opponitur*: the first proposition put to him for his answer. "Peter" is the logicians' placeholder name. Whether Westminster is chosen because of the "case which lately befell" of 165.15 (08-c), a contemporary dispute over its sanctuary, is to be checked (LEDGER E08e-5). A margin *Casus* (174.27). Side-note 174.27.
+[^10]: **C/R.** The case is set out in the manner of the *obligationes*. *In prima conclusione … sibi opponitur*: the first proposition put to him for his answer. "Peter" is the logicians' placeholder name. Westminster is chosen because of the . A margin *Casus* (174.27). Side-note 174.27.
 
 [^11]: **T/C.** A₁ would correct to *ex gravitate contracta* (175.6). The print's *dignitate*, which construes as "desert" (what he deserves, *dignum morte*), is translated. A and A₁ lack *casu et* (175.13). *Deducto ad placitum*: "carried through at will", the obligational formula. *Insolubilia*: the paradoxes of self-reference: if Peter's answer is true he has immunity, so it is false, and so on.
 

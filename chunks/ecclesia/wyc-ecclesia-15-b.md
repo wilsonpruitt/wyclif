@@ -77,7 +77,7 @@ Nor is it any use to say that by deserving such a taking-away a man ceases to be
 
 [^6]: **C.** *Titulum sue confirmacionis a domino*: confirmation in grace, which would make him unable to sin; *domino* is taken as the Lord. *Plus aspere … gravius*: the print doubles the comparative, and both are kept.
 
-[^7]: **R.** The pseudo-pope is most likely Clement VII, elected in 1378 against Urban VI (LEDGER E15b-3).
+[^7]: **R.** The pseudo-pope is Clement VII (cf. 352.15–17, 15-g), elected in 1378 against Urban VI (LEDGER E15b-3).
 
 [^8]: **R.** Loserth compares Hus, *De ablacione bonorum temporalium a clericis* (Opera, Nuremberg 1558, I, fol. 122ᵛ) (LEDGER E15b-4). A in the margin: *Prima racio*. The three marks of heresy that follow answer the doctor's first conclusion point by point.
 

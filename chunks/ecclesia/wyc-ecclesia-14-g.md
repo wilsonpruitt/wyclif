@@ -89,7 +89,7 @@ Again, then all the friars, by force of the power of the keys, would lord it in 
 [^15]: **C.** *Si non ponat contradiccionem in nomine*: if the pope does not contradict his own name, living against what "pope" means (cf. *contradicat suo ordini*, 324.21).
 [^16]: **C.** *Doctor predictus*: Nicholas Putanensis (320.11, 322.24).
 [^17]: **C.** The subject of *restrinxerit* is taken to be the vicar of Christ: however hard he has pressed the power of the keys. *Secularis* is the lay prince. The argument from 325.33 is a reductio, the confirmation granting what the pope's direct lordship would imply.
-[^18]: **S/R.** *Catholicare* / *hereticare*: to pronounce catholic / heretical. The claims are those made for Gregory XI's bulls of 1377 against Wyclif's conclusions (LEDGER E14g-3).
+[^18]: **S/R.** *Catholicare* / *hereticare*: to pronounce catholic / heretical. The second and third claims refer to Gregory XI's bulls of 1377, which ordered Wyclif's arrest and condemned his conclusion on taking temporalities from a delinquent church (*Fasciculi zizaniorum*, pp. 242–4, 248); the first, a power to confirm all the possessioners' charters, is a general papal claim.
 [^19]: **R.** Among the conclusions condemned in 1377 was that temporal lords may take away temporal goods from a delinquent church (LEDGER E14g-4). B reads *bullas suas quidcunque* (326.16).
 [^20]: **C.** The reply turns the feudal claim back: if the pope were chief lord over the empire, the archbishops would by the same proportion be chief lords over the king of England, who would hold of them in chief.
 [^21]: **C.** *Sua temporalia* is taken as the presbyter's goods withheld from him; it may be the lord's own goods, kept back from the priest.

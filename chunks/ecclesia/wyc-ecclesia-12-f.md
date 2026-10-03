@@ -54,7 +54,7 @@ It is folly, then, out of fastidiousness to despise these sure secular privilege
 
 [^5]: **C/R.** Side-note 273.10. *Da utrumque sompnium*: grant both dreams for the sake of argument. *Extraccionem … preceptam a rege*: the removal of the fugitives from sanctuary at the king's order in 1378 (12-a). *Opus misericordie*: Wyclif counts the extraction a work of mercy.
 
-[^6]: **T/R.** A in the margin *Consilium* (273.14); B reads *consiluissem* (273.14); side-note 273.17. *Abbati et eius conventui*: the abbot and monks of Westminster. *Per excommunicacionem in privatam regis familiam*: the excommunication of members of the king's household for the violation (context to be checked, LEDGER E12f-3). *Frontose*: brazenly.
+[^6]: **T/R.** A in the margin *Consilium* (273.14); B reads *consiluissem* (273.14); side-note 273.17. *Abbati et eius conventui*: the abbot and monks of Westminster. *Per excommunicacionem in privatam regis familiam*: the excommunication of members of the king's household for the violation (pronounced at the abbey's instance by the archbishop and four suffragans and published by the bishop of London; Loserth, Introduction, p. x). *Frontose*: brazenly.
 
 [^7]: **S.** A in the margin *Defensio privilegiorum ecclesie* (273.23). Gratian, *Decretum* II, C.23 q.1 c.1 (Loserth: *Decr. sec. pars, causa XXIII, q. I, cap. I. Nisi bella*; the modern form is ours; LEDGER E12f-1); Gratian inscribes it *Gregorius*, but Friedberg identifies it as Origen, *Hom. in Iosue* 16.1. *In principio*: at the head of the question.
 

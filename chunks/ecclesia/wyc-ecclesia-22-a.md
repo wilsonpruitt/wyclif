@@ -49,7 +49,7 @@ Turn over, then, and turn over again the teaching of this doctor, great in canon
 
 [^4]: **T.** The codices read *prima inquit*; *prima tamen* is the print's (518.17). **C.** *Que licet sit magis pia*: the second, the canonists' view. *Eundem constituat … bonum et malum*: the same person, the soul in purgatory, is counted at once among the moderately good and the moderately bad. **S.** Huguccio of Pisa, the decretist; Loserth refers to p. 225 above, to Fabricius, *Bibliotheca latina* VI, p. 283, and to Schulte, *Geschichte der Quellen* I, pp. 156–170, and for Hostiensis ibid. II, pp. 123–129 (518.20; LEDGER E22a-5). **R.** A in the margin at 518.20: *Hugucius*.
 
-[^5]: **C.** *Decretiste*: the commentators on the Decretum. *Duobus generibus*: the two middle kinds, the moderately good and the moderately bad. **S.** Judas's Sunday respite from hell is told in the *Navigatio sancti Brendani*; to be checked (LEDGER E22a-6).
+[^5]: **C.** *Decretiste*: the commentators on the Decretum. *Duobus generibus*: the two middle kinds, the moderately good and the moderately bad. **S.** Judas's Sunday respite from hell is the tale of the *Navigatio sancti Brendani* (c. 25); Wyclif has it from the canonists.
 
 [^6]: **C.** *Secundum partem cotam non quantam*: Loserth notes "*cotam*, id est *quotam*". The remission is by a proportional part, a fraction of what remains, not by a fixed quantity, so that it never brings the punishment to an end. *Glossant*: the decretists gloss. **T.** A₁ *totam* (519.5). **R.** Side-note 519.6.
 

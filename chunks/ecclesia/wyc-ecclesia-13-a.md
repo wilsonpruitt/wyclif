@@ -87,7 +87,7 @@ Again, it seems that many charters of perpetual alms savour of blasphemy and pri
 
 [^13]: **C/R.** Side-note 277.24. *Solius domini temporis*: of God alone as lord of time, who alone can grant for all time. *Ut alias declaravi*: perhaps *De civili dominio* (to be checked, LEDGER E13a-4). *Cum Deus non potest concedere ius extensius …*: the premise argues downward from God: not even God grants a right beyond what he can have, so neither can man. *Ius*: a right (GLOSSARY §B).
 
-[^14]: **R/C/T.** *Edgarus et sanctus Edwardus*: King Edgar and Edward the Confessor, remembered as benefactors of the monasteries, Westminster among them (to be checked, LEDGER E13a-5). *Conquestu sequente*: the Norman conquest of 1066. *Accessorium … principale*: in law the accessory follows the principal: the endowment follows the lordship of the kingdom. *Persone tam extranee*: the endowed church, a stranger to the giver's line. B reads *extranie* (278.4). *Rectificabit*: will make good.
+[^14]: **R/C/T.** *Edgarus et sanctus Edwardus*: King Edgar and Edward the Confessor, remembered as benefactors of the monasteries, Westminster among them (their privileges are quoted at 205.3–206.26, 10-a). *Conquestu sequente*: the Norman conquest of 1066. *Accessorium … principale*: in law the accessory follows the principal: the endowment follows the lordship of the kingdom. *Persone tam extranee*: the endowed church, a stranger to the giver's line. B reads *extranie* (278.4). *Rectificabit*: will make good.
 
 [^15]: **R/T.** William's transfer of Saxon endowments to Norman houses and monks (context to be checked, LEDGER E13a-5). B lacks *fuisset … titulo* (278.9). *Cleri possessionati*: the possessioner clergy, the endowed religious (GLOSSARY §B).
 

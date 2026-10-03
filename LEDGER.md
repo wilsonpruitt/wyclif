@@ -133,7 +133,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E02c-1 | ecclesia-02-c / n4 | Clement V, *Meruit*, *Extrav. comm.* 5.7.2 | verified | Friedberg II, 1299–1300 |
 | E02c-2 | ecclesia-02-c / n3 | the apostle Thomas evangelized India | to-verify | from memory (tradition: *Acta Thomae*) |
 | E02c-3 | ecclesia-02-c / n10 | Celestine V pope 5 July – Dec. 1294 | editor | Loserth's footnote reads "Dec. i" (OCR; 1 or 13?); the resignation is usually dated 13 Dec. 1294: to-verify before the note gives a day |
-| E02c-4 | ecclesia-02-c / n11 | Boniface VIII: *intrabit ut vulpes …* tradition | to-verify | from memory |
+| E02c-4 | ecclesia-02-c / n11 | Boniface VIII: *intrabit ut vulpes …* tradition | untraced | The fox-entry tradition (Caetani persuading Celestine V) is old (Ptolemy of Lucca, via Wikipedia "Pope Boniface VIII" n. 26); the formula *intrabit ut vulpes, regnabit ut leo, morietur ut canis* found only unsourced (Schaff, *History* VI §2, as *intravit … regnavit … mortuus est sicut canis*). Not in Loserth (his p. 33 foot only dates Celestine). Wyclif says only *introitus vulpinus*. NB the note is **n9**, not n11 as the row says. (close-out 2026-10-03) |
 | E02d-1 | ecclesia-02-d / n1 | Augustine on Matt. 24:5: *Sermo* 292, *in natali Ioannis Baptistae* (Opp. V.2, 1172) | verified | PL 38:1323, §6: *Multi venient in nomine meo dicentes, Ego sum Christus … nullum audivimus dicentem* (coordinator, 2026-10-02) |
 | E02d-2 | ecclesia-02-d / n5 | Urban VI elected 8 April 1378; crowned Easter Sunday, 18 April | editor | Loserth "Easter-Sunday"; the date 18 April is the agent's, to-verify |
 | E02e-1 | ecclesia-02-e / n3 | Theban legion; Bordier, *Dissertation critique…* (Amsterdam 1705) | editor | Loserth 39.9 |
@@ -285,9 +285,9 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E06g-6 | ecclesia-06-g / n9 | C.23 q.4 c.23 *Vasis ire* (print *XXXIIIª*) | verified | Migne PL 187 (E04f-4) |
 | E06g-7 | ecclesia-06-g / n10 | cf. Hus, *De eccl.*, Opp. I, 200 | editor | Loserth |
 | E06g-8 | ecclesia-06-g / n15 | *De cons.* D.1 c.8 *Ecclesia* | verified | PL 187:1708B (E04e-6) |
-| E07a-1 | ecclesia-07-a / n1 | the 1378 Westminster sanctuary case; autumn 1378 parliament | to-verify | |
+| E07a-1 | ecclesia-07-a / n1 | the 1378 Westminster sanctuary case; autumn 1378 parliament | verified | Loserth intro pp. viii–x, xxv: ch. 7 is Wyclif's determination "laid before Parliament at the command of the King", parliament at Gloucester. Gloucester parliament sat 20 Oct.–16 Nov. 1378 (Wikipedia list of acts → PROME). Killing 11 Aug. 1378 (Loserth p. ix; Westminster Abbey page). 2026-10-03. Loserth gives the opening as 18 Oct. (p. x) and 28 Oct. (p. xxv); both wrong. (close-out 2026-10-03) |
 | E07a-2 | ecclesia-07-a / n2 | *Eulogium* continuation (Haule killed; Shakell); Rolls of Parliament III | editor | Loserth p. 142 |
-| E07a-3 | ecclesia-07-a / n2 | *comes de Dene* = count of Denia | to-verify | |
+| E07a-3 | ecclesia-07-a / n2 | *comes de Dene* = count of Denia | verified | Loserth intro p. ix: the two had taken the "Count of Denia" in the 1367 campaign; his eldest son took his place as prisoner. Westminster Abbey page: the hostage was Alfonso, the count's elder son, the count taken at Nájera (1367). Wyclif's *filii comitis de Dene* agrees. 2026-10-03. (close-out 2026-10-03) |
 | E07a-4 | ecclesia-07-a / n10 | classes excluded from sanctuary | verified (partial) | *X* 3.49.6, 3.49.10, Friedberg II ~656–658; no source gives four |
 | E07a-5 | ecclesia-07-a / n13 | a person presumed good until the contrary is proved | untraced | Wyclif says only *leges humane*. No "presumed good until the contrary is proved" text in Gratian (Friedberg I OCR; PL 21354) or the Decretals (Friedberg II OCR). Nearest: X 2.19.7 (Innocent III, 1206), the ordinary's letters *quibus standum est, donec probetur contrarium*, close to Wyclif's second clause (the lower judge's judgment stands). The maxim is the glossators'; not traced to a text. (close-out 2026-10-03) |
 | E07b-1 | ecclesia-07-b / n5 | a prince's general grant does not reach a special case | to-verify | civil/canon law |
@@ -298,18 +298,18 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E07c-3 | ecclesia-07-c / n5 | Augustine: the adversary = God's word/law: *Sermo* 9.3; *Sermo* 251.8 | verified | PL 38:76; PL 38:1171 (column less certain) |
 | E07c-4 | ecclesia-07-c / n7 | disobeying princes "a kind of sacrilege" | to-verify | nearest Gratian C.17 q.4, PL 187:1071A–B; try *Cod.* 9.29 |
 | E07c-5 | ecclesia-07-c / n10 | Gregory: whoever loves the king loves his law | untraced | |
-| E07d-1 | ecclesia-07-d / n1 | excommunications after the Westminster killing | to-verify | historical |
+| E07d-1 | ecclesia-07-d / n1 | excommunications after the Westminster killing | verified | Loserth intro p. x: the archbishop and four suffragans excommunicated the instigators and perpetrators, expressly excepting the king, his mother and the duke of Lancaster; the bishop of London published the sentence three times a week at St Paul's. The Westminster Abbey page agrees on the exceptions. Matches Wyclif's *excomunicantes ministros regis*. 2026-10-03. (close-out 2026-10-03) |
 | E07d-2 | ecclesia-07-d / n5 | blood or semen pollutes a church | verified | *X* 3.40.10, Friedberg II, 636; no canon on spittle |
 | E07d-3 | ecclesia-07-d / n10 | privilege = *lex privata* | verified | Isidore *Etym.* V.18.1, PL 82:202A–B; Gratian D.3 c.3, PL 187:34B |
 | E07d-4 | ecclesia-07-d / n14 | signification after 40 days; writ *de excommunicato capiendo* | to-verify | English law |
 | E07d-5 | ecclesia-07-d / n14 | *Privilegium omnino meretur amittere …* = C.11 q.3 c.63 (Gregory) | verified | PL 187:862 (also D.74, 364B) |
 | E07e-1 | ecclesia-07-e / n2 | adapts *optima legum interpres consuetudo* (*Dig.* 1.3.37) | to-verify | not local |
 | E07e-2 | ecclesia-07-e / n5 | A's Czech margin and Loserth's Latin rendering | editor | Loserth p. 157 |
-| E08a-1 | ecclesia-08-a / n1 | the *infamis casus* = the Westminster sanctuary violation, Aug. 1378 | to-verify | |
+| E08a-1 | ecclesia-08-a / n1 | the *infamis casus* = the Westminster sanctuary violation, Aug. 1378 | verified | England half: Wyclif names the place, *de casu qui nuper contigit in Westmonasterio* (159.13), and the Loserth intro has the same. Roman half: an inference with no source (the April 1378 conclave under the Roman crowd, later called duress). 2026-10-03. (close-out 2026-10-03) |
 | E08a-2 | ecclesia-08-a / n2 | *iuxta dicta XVⁱ cap.*: which work | untraced | no ch. 15 precedes |
 | E08a-3 | ecclesia-08-a / n3 | *Phys.* II.2, 194a | editor | |
 | E08a-4 | ecclesia-08-a / n4 | "supra pag. 1": honour father and mother | editor | 01-a |
-| E08a-5 | ecclesia-08-a / n7 | doctors heard before the council, Gloucester parliament, Oct. 1378 | to-verify | |
+| E08a-5 | ecclesia-08-a / n7 | doctors heard before the council, Gloucester parliament, Oct. 1378 | verified | The Latin has *doctores vocati ex mandato domini regis et iurati … de casu qui nuper contigit in Westmonasterio* (159.12–14). Loserth intro pp. x, xxv: Wyclif's memorial was given before the parliament at Gloucester. Dates as in E07a-1. 2026-10-03. (close-out 2026-10-03) |
 | E08a-6 | ecclesia-08-a / n9 | *tractatus De mendacio*: Augustine's or Wyclif's | verified | Wyclif's own: at 44.22 (ch. 2) he cites *libro sexto, tractatu de mendacio*, and Loserth there: "Liber sextus is I suppose the De Veritate S. Scripture". *De ver. s. script.* cap. 16 (ed. Buddensieg, vol. II; latinworks21) is the treatment of lying: *omne mendacium est peccatum*, and a God approving a lie *foret summe deceptivus*, the argument of 160.17–24 here. It leans throughout on Augustine's *De mendacio*. The identification rests on Wyclif's own cross-reference; page in Buddensieg not read off the OCR. (close-out 2026-10-03) |
 | E08a-7 | ecclesia-08-a / n10 | virtue: *Trialogus* III.1 (Lechler 128); *EN* II.6, 1106b36 | editor | |
 | E08a-8 | ecclesia-08-a / n11 | Wyclif's "Eth. IV c. IV" = *EN* IV.7, 1127a28–30 | to-verify | not local |
@@ -335,7 +335,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E08e-2 | ecclesia-08-e / n4 | Augustine, *De doctr. chr.* II.42.63 | verified | PL 34:65; *scripturam sacram* is Wyclif's |
 | E08e-3 | ecclesia-08-e / n4 | Augustine's "fourth letter to Volusianus" | untraced | not in *Ep.* 132, 135, 137 (PL 33) |
 | E08e-4 | ecclesia-08-e / n8, n14 | *Decretum* C.11 q.3 c.63 | verified | PL 187:862 (E07d-5) |
-| E08e-5 | ecclesia-08-e / n10 | "the case which lately befell" = Westminster | to-verify | context |
+| E08e-5 | ecclesia-08-e / n10 | "the case which lately befell" = Westminster | verified | 165.15 (08-c) reads *in casu qui nuper contigit*. 159.13 (08-a) gives that same "case which lately befell" as *in Westmonasterio*, so Westminster is meant. 2026-10-03. (close-out 2026-10-03) |
 | E08e-6 | ecclesia-08-e / n19 | *Sext* 5.12.3 *Exiit* | verified | Friedberg II; *perfectissimus* is Wyclif's |
 | E08e-7 | ecclesia-08-e / n21 | Gregory, *Moralia* XXXI.13 (Loserth "ch. 12" for ch. 3) | verified | PL 76:583D–585C (E03a-4) |
 | E08f-1 | ecclesia-08-f / n7 | *maliciam venenosam*: the "poison poured into the church" at the Donation | verified | The story: Higden, *Polychronicon* IV.26 (Rolls ed. V, p. 130), the old enemy cries in the air at Constantine's largess *Hodie infusum est venenum in ecclesia Dei* (citing Giraldus). Wyclif names this source himself in *De potestate pape* c. 6 (pp. 128–29): *cronice, quam narrat Cestrensis libro IV … hodie effusum est venenum in ecclesia sancta Dei*; and tells it in *De ecclesia* cap. 16 (an angel's voice, *diffusum*). That 179.3 alludes to it remains our reading. (close-out 2026-10-03) |
@@ -357,7 +357,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E09b-3 | ecclesia-09-b / n2 | *libro V°, cap.* [blank] | untraced | |
 | E09b-4 | ecclesia-09-b / n5 | *ut alias exemplificavi de Augustino* | untraced | |
 | E09b-5 | ecclesia-09-b / n7 | C.11 q.1 c.29 *Te quidem*, from Clement to James | verified | Friedberg I, 634; Peter speaks to Clement within it (c.30) |
-| E09b-6 | ecclesia-09-b / n11 | John turns branches and stones into gold and gems | to-verify | legend (*Virtutes Iohannis*) |
+| E09b-6 | ecclesia-09-b / n11 | John turns branches and stones into gold and gems | verified | Isidore, *De ortu et obitu patrum* 72 (PL 83, 151C; local 8209.xml): *Mutavit in aurum sylvestres frondium virgas littoreaque saxa in gemmas*. *Legenda aurea* c. 9 (Graesse p. 58) quotes Isidore and also tells the rods-and-pebbles story. Wyclif's *frondes silvestres in aurum et litoria saxa in gemmas* follows Isidore's wording. 2026-10-03. (close-out 2026-10-03) |
 | E09c-1 | ecclesia-09-c / n3 | C.25 q.2 c.2, Leo to Marcian | verified | Friedberg I, 1011–12 |
 | E09c-2 | ecclesia-09-c / n4 | C.25 q.1 c.3, Leo to Anatolius | verified | Friedberg I, 1007–08 |
 | E09c-3 | ecclesia-09-c / n7 | *X* 3.50.7 *Relatum* (Alexander III) | verified | Friedberg II, 659–60 |
@@ -379,7 +379,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E10a-2 | ecclesia-10-a / n5 | Edward's charter = Kemble IV no. 825, p. 181 | editor | not local |
 | E10a-3 | ecclesia-10-a / n5 | *alia carta* = Kemble IV, p. 186 | editor | not local |
 | E10a-4 | ecclesia-10-a / n6 | the bull "of Nicholas III" in the diploma (Kemble p. 183); Nicholas II? | to-verify | not local |
-| E10a-5 | ecclesia-10-a / n1; 10-c / n3 | the *contencio* = the Westminster sanctuary violation, Aug. 1378 | to-verify | |
+| E10a-5 | ecclesia-10-a / n1; 10-c / n3 | the *contencio* = the Westminster sanctuary violation, Aug. 1378 | verified | 10-a: Loserth intro pp. x–xi: "As then the Abbey of Westminster had appealed to its privileges, Wyclif subjects those privileges to … examination (Cap. x)". 10-c: *occisionis duplicis multi populi* is still an inference. Two men did die at Westminster: Hauley and a sacrist/church servant named Richard (Westminster Abbey page). 2026-10-03. (close-out 2026-10-03) |
 | E10b-1 | ecclesia-10-b / n7 | Gregory, *Hom. in Ev.* 38 = C.23 q.4 c.16 (Gratian *in ore*, Gregory *iure gladii*) | verified | PL 76; PL 187; Friedberg I |
 | E10b-2 | ecclesia-10-b / n8 | *a terrenis desideriis innitentes* (Gregory *enitentes*, Gratian *innitentes*) | verified | PL 76; PL 187 |
 | E10b-3 | ecclesia-10-b / n15 | C.23 q.4 *Hec autem* | verified | = c.15 *Hec autem vita* (E04f-1) |
@@ -396,7 +396,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E10d-2 | ecclesia-10-d / n3 | the 1317 attack on the two legates | verified | Walsingham, *Hist. Angl.* I, p. 151 (A.D. 1317): near Darlington, bands led by Gilbert de Middleton and Walter de Selby robbed the household of the two cardinals and of Louis de Beaumont, bishop-elect of Durham (Louis held to ransom at Morpeth, Henry de Beaumont at Mitford). Loserth's reference is correct. (close-out 2026-10-03) |
 | E10d-3 | ecclesia-10-d / n5 | *libro III° cap°.* (number missing) | untraced | |
 | E10d-4 | ecclesia-10-d / n8 | the coronation-oath clause on doing justice | verified | 1308 coronation oath (Edward II, the form in use after him): "Sire, will you, so far as in you lies, cause justice to be rendered rightly, impartially, and wisely, in compassion and in truth?" Wyclif's *non negabit sed concedet iusticiam cuicunque* paraphrases it, in words nearer Magna Carta 1297 c. 29, "we will not deny or defer to any man either Justice or Right" (legislation.gov.uk). (close-out 2026-10-03) |
-| E10d-5 | ecclesia-10-d / n12 | Wyclif's thesis condemned by Gregory XI (1377) | to-verify | |
+| E10d-5 | ecclesia-10-d / n12 | Wyclif's thesis condemned by Gregory XI (1377) | verified | The proposition *Si Deus est, domini temporales possunt legitime ac meritorie auferre bona fortune ab ecclesia delinquente* is art. 6 of the *Conclusiones* condemned in Gregory XI's bulls of May 1377 (Poole, *De civ. dom.* I p. 267 n. 12, citing Walsingham i. 354, 359). Wyclif defends it as no. VI in his *Libellus* to parliament (*FZ* p. 248, read). 2026-10-03. (close-out 2026-10-03) |
 | E10e-1 | ecclesia-10-e / n4, n7 | the writ for taking an excommunicate after 40 days | to-verify | cf. E07d-4 |
 | E10e-2 | ecclesia-10-e / n10 | second conclusion of ch. 8 = p. 173 | editor | Loserth |
 | E10e-3 | ecclesia-10-e / n10 | ch. 7 on cities of refuge = p. 147 | editor | Loserth |
@@ -415,7 +415,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E11a-2 | ecclesia-11-a / n4 | D.20 c.3; C.25 q.1 c.6 *Sunt quidam* (Urban) | verified | Friedberg I, 66; 1008 |
 | E11a-3 | ecclesia-11-a / n4 | the five degrees are the canon's words (ascribed to Innocent I) | verified | Friedberg I, 66 |
 | E11a-4 | ecclesia-11-a / n5 | Aristotle, *Phys.* II.3 | editor | |
-| E11a-5 | ecclesia-11-a / n6 | the bull "of Nicholas III" to Westminster | to-verify | as E10a-4 |
+| E11a-5 | ecclesia-11-a / n6 | the bull "of Nicholas III" to Westminster | verified | The text Wyclif quotes, *Monachi … nulli omnino persone subdantur nisi regi*, is in a privilege of **Pope Nicholas II** (1059–61), addressed to Edward the Confessor and inserted in Edward's "Third Charter" to Westminster: Kemble IV, no. 825, pp. 183–184 (*Nicholaus episcopus … Eadwardo … monachorum, qui nulli omnino personae nisi regi subdantur*). eSawyer S 1041 says the charter is spurious (Osbert de Clare, before 1139). Nicholas III (1277–80) is impossible for a letter to Edward. Loserth does give a reference, on p. 206 (foot to 206.26: *Bullam Nicolai III. huic diplomati insertam invenies in Cod. dipl. l. c. pag. 183*), but he repeats the "III". 2026-10-03. (close-out 2026-10-03) |
 | E11a-6 | ecclesia-11-a / n7 | Gregory: more benefits, greater obligation | verified | Gregory, *Hom. in Ev.* 9.1 (PL 76:1106A–B): *Cum enim augentur dona, rationes etiam crescunt donorum*. Wyclif paraphrases. (close-out 2026-10-03) |
 | E11a-7 | ecclesia-11-a / n10 | the canonists: a privilege must be contrary to common law | untraced | Gratian D. 3 c. 3 has only Isidore's *Priuilegia sunt leges priuatorum, quasi priuatae leges* (Friedberg I OCR). No *contra ius commune* with *privilegium* in the Decretum or Decretals OCR. The "contrary to common law" definition is the glossators'; not traced to a text. (close-out 2026-10-03) |
 | E11a-8 | ecclesia-11-a / n11 | C.25 q.2 c.10 (Gregory): *consacerdotibus* / editions *cum sacerdotibus* | verified | Friedberg I, 1014 |
@@ -453,7 +453,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E12a-4 | ecclesia-12-a / n5 | C.11 q.3 c.55 (Gregory, *Ep.* XI.2; Jaffé 4351) | verified | Friedberg I, 657–58 |
 | E12a-5 | ecclesia-12-a / n5 | *Inter verba* = incipit of c.55 | verified | Friedberg I, 657 |
 | E12a-6 | ecclesia-12-a / n6 | *lavare laterem* (Terence, *Phormio* 186) | verified | Terence, *Phormio* 186: *loquarne? incendam; taceam? instigem; purgem me? laterem lavem* (thelatinlibrary). (close-out 2026-10-03) |
-| E12a-7 | ecclesia-12-a / n8 | the Westminster killing, 1378 | to-verify | |
+| E12a-7 | ecclesia-12-a / n8 | the Westminster killing, 1378 | verified | The Latin has *occisionem hominum … in Westmonasterio* (252.26); Loserth intro p. ix. 2026-10-03. (close-out 2026-10-03) |
 | E12a-8 | ecclesia-12-a / n12 | justice defined (Justinian, *Inst.* 1.1 pr.; Wyclif adds *divina*) | verified | *Inst.* 1.1 pr.: *Iustitia est constans et perpetua voluntas ius suum cuique tribuens* (thelatinlibrary). Wyclif adds *divina* and has *tribuens unicuique quod suum est*. (close-out 2026-10-03) |
 | E12b-1 | ecclesia-12-b / n4 | *Scienti et consentienti non fit iniuria* = *Sext* 5.12 reg. 27 | verified | Friedberg II; *Dig.* 47.10.1.5 not checked |
 | E12b-2 | ecclesia-12-b / n9 | Augustine, *De vera rel.* 14.27 (sin voluntary) | verified | PL 34; paraphrase |
@@ -465,34 +465,34 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E12c-3 | ecclesia-12-c / n9 | ascribed to Aug. *De praedest. et gratia* 15 (not Augustine's) | verified | Friedberg I n. 284 |
 | E12c-4 | ecclesia-12-c / n12 | Matt. 5:25 adversary = scripture | verified | Aug. *Serm.* 9.3, 251.8 (E07c-3) |
 | E12c-5 | ecclesia-12-c / n13 | C.23 q.4 c.33 *Est iniusta misericordia* = Ambrose, *In Ps. 118* s. 8.25 | verified | Friedberg I; PL 15 |
-| E12c-6 | ecclesia-12-c / n15 | forty days before abjuring the kingdom | to-verify | not local |
+| E12c-6 | ecclesia-12-c / n15 | forty days before abjuring the kingdom | verified | Forty days of sanctuary before surrendering or abjuring the realm under English custom: Wikipedia "Right of asylum", which cites Mortimer 2009, pp. 244–5. That is a pointer only; the standard reference is J. C. Cox, *Sanctuaries and Sanctuary Seekers of Mediaeval England* (1911), which we did not open. 2026-10-03. (close-out 2026-10-03) |
 | E12d-1 | ecclesia-12-d / n6 | serfs freed by residence in privileged towns | verified | Glanvill, *Tractatus* lib. V (1780 ed.; c. 6 by its index, usually cited V.5): *si quis nativus quiete per unum annum et unum diem in aliqua villa privilegiata manserit, ita quod in eorum communiam, scilicet Gyldam, tanquam civis receptus fuerit, eo ipso a villenagio liberabitur*. (close-out 2026-10-03) |
-| E12d-2 | ecclesia-12-d / n8 | the remedy = Gloucester parliament 1378 | to-verify | |
-| E12d-3 | ecclesia-12-d / n11 | *dominus dux* = John of Gaunt | to-verify | |
+| E12d-2 | ecclesia-12-d / n8 | the remedy = Gloucester parliament 1378 | verified | The 1378 Gloucester parliament passed 2 Ric. II st. 2 c. 3, against debtors who made fraudulent gifts of their goods and fled "into places of holy church privileged" (statutes.org.uk; Wikipedia list of acts → *Statutes of the Realm* ii). That is the "remedy" against abuse of the privilege. 2026-10-03. (close-out 2026-10-03) |
+| E12d-3 | ecclesia-12-d / n11 | *dominus dux* = John of Gaunt | verified | Loserth intro p. xiii paraphrases this passage as the duke of Lancaster's view. In 1378 John of Gaunt was the only English duke of the royal house and was Wyclif's patron. 2026-10-03. (close-out 2026-10-03) |
 | E12d-4 | ecclesia-12-d / n12 | the fugitives = Hauley and Shakell with their hostage | verified | Walsingham, *Hist. Angl.* I, 376–77 (A.D. 1378): Robert Hauley and John Shakell held the son of the count of Denia as hostage; they refused to surrender him to the king and the duke, were put in the Tower, escaped, and fled to Westminster. Matches 07-a's *casus* (142–43). The thousand-pound offer and the go-between are not in Walsingham. (close-out 2026-10-03) |
 | E12d-5 | ecclesia-12-d / n15 | the coronation oath's promise of justice | verified | As E10d-4: the 1308 oath's clause on doing right justice in all judgments. (close-out 2026-10-03) |
-| E12d-6 | ecclesia-12-d / n17 | the monk killed in 1378 | to-verify | |
+| E12d-6 | ecclesia-12-d / n17 | the monk killed in 1378 | untraced | The slaying of 1378 is under *homicidia inibi perpetrata* (the objection). The *modo vero* list is set against those killings as worse pollutions by the church's own inhabitants: sanctuary men living there, *occisione religiosi intra ecclesiam*, and a graduate monk's head broken by a confrere. Reading *occisio religiosi* as the 1378 killing goes against that structure. Also, the second man killed in 1378 is called a sacrist or church servant (Westminster Abbey page), not plainly a monk. Neither incident found in Loserth or the abbey account. (close-out 2026-10-03) |
 | E12e-1 | ecclesia-12-e / n1 | D.8 c.3: Friedberg *celerrime*, MSS F G *celeberrime* | verified | Friedberg I, 13–14 |
 | E12e-2 | ecclesia-12-e / n2 | D.8 c.4 *Veritate manifestata* = Libosus of Vaga, quoted in Aug. *De bapt.* III | verified | Friedberg I, 13–14 |
 | E12e-3 | ecclesia-12-e / n7 | the dedication rite: God calls the church his bride | verified | Gregorian Sacramentary, *In anniversario dedicationis basilicae*, *Super oblata*: *Deus, qui Ecclesiam tuam Unigeniti tui sponsam vocare dignatus es* (PL 78:162C). Wyclif's *sponsam vocare dignatus est* is verbatim. Sarum missal not read. (close-out 2026-10-03) |
 | E12e-4 | ecclesia-12-e / n10 | C.14 q.6 c.1 (Aug. to Macedonius) | verified | Friedberg I, 741–42 |
-| E12e-5 | ecclesia-12-e / n14, n24 | the Westminster prophecy; the 1378 killing; the king's knights | to-verify | |
+| E12e-5 | ecclesia-12-e / n14, n24 | the Westminster prophecy; the 1378 killing; the king's knights | verified | n14: the Latin goes on, *applicant ad vindictam Dei de illo homicidio in sanctuario perpetrato* (270.22–24), under Richard II. The prophecy itself has no source beyond Wyclif's report. n24: the violation was led by two knights, Sir Alan Buxhull (constable of the Tower) and Sir Ralph Ferrers (Westminster Abbey page; DNB "Buxhull, Alan"). 2026-10-03. (close-out 2026-10-03) |
 | E12e-6 | ecclesia-12-e / n18 | collect *Nulla ei nocebit adversitas …* | to-verify | missal |
 | E12e-7 | ecclesia-12-e / n24 | "first argument of the seventh chapter" | verified | 07-a, 143.30–144.17: the first argument of cap. 7, from Solomon having Joab killed at the horn of the altar (3 Kgs 2): *sed infinitum minus esset fugitivum salvum in vita et membris extrahere*. Same argument *a maiori*, same phrase. (close-out 2026-10-03) |
 | E12f-1 | ecclesia-12-f / n7 | C.23 q.1 c.1 *Nisi bella* (Gratian "Gregorius"; = Origen, *Hom. in Ios.* 16.1) | verified | Friedberg I, 889–90 |
 | E12f-2 | ecclesia-12-f / n4 | the legend of St Peter consecrating Westminster | to-verify | not local |
-| E12f-3 | ecclesia-12-f / n6 | the abbey excommunicated members of the king's household | to-verify | |
+| E12f-3 | ecclesia-12-f / n6 | the abbey excommunicated members of the king's household | verified | Loserth intro p. x, as in E07d-1. NB the sentence was pronounced by the archbishop and suffragans, not by the abbey; Wyclif blames the abbot and convent for pressing it (*insurgendo … per excommunicacionem*). 2026-10-03. (close-out 2026-10-03) |
 | E13a-1 | ecclesia-13-a / n1 | "the teaching I stated above" | untraced | |
 | E13a-2 | ecclesia-13-a / n2 | *elemosina perpetua* = frankalmoign | verified | The tenure is real and named: Glanvill lib. XIII (assize *utrum*), land claimed *ad liberam eleemosinam ipsius Ecclesiae* against lay fee (1780 ed.). The charter formula *in liberam (puram) et perpetuam elemosinam* was not read in a charter. (close-out 2026-10-03) |
 | E13a-3 | ecclesia-13-a / n7 | *XI° capitulo de privilegiis* (B XX) | verified | Cap. 11 = 11-e, 247–48: Christ "privileged" the disciples, *Matthei X°, 9* (no gold or silver) and *Luce X°, 7* (eat what is set before you; the workman is worthy of his hire). B's XX is wrong. (close-out 2026-10-03) |
 | E13a-4 | ecclesia-13-a / n13 | *ut alias declaravi* (*De civili dominio*?) | untraced | |
-| E13a-5 | ecclesia-13-a / n14, n15 | Edgar, Edward the Confessor; William's transfers | to-verify | |
+| E13a-5 | ecclesia-13-a / n14, n15 | Edgar, Edward the Confessor; William's transfers | verified | Edgar's and Edward's privileges for Westminster are quoted by Wyclif at 205–206 (10-a). Loserth refers them to Kemble II 363–366 (Edgar) and IV 825 (Edward), feet pp. 205–206. Kemble IV 825 read. William's transfers are Wyclif's own claim; Loserth intro p. xiv lists the Conqueror's confiscations among Wyclif's precedents. 2026-10-03. (close-out 2026-10-03) |
 | E13a-6 | ecclesia-13-a / n16 | "declared in the last chapter": Heli's condition | verified | Cap. 12 = 12-b, 256–57: lords granting *elemosine perpetue* must *subintelligere condicionem dignitatis persone capacis*; God cannot leave the condition out; 1 Kgs 2:30, Heli's priesthood *usque in sempiternum* withdrawn because *subintellexit condicionem*. (close-out 2026-10-03) |
 | E13b-1 | ecclesia-13-b / n3 | Gratian D.83 c.3 (Loserth; cf. p. 235) | to-verify | = E11b-2 |
 | E13b-2 | ecclesia-13-b / n3 | *Regem Anglie semper esse infra etatem*, maxim of English law | untraced | |
 | E13b-3 | ecclesia-13-b / n11 | Augustine, *Enarr. in Ps.* 148 (*In tuo arbitrio Deus te esse voluit*) | verified | *Enarr.* 148.2: *In tuo autem arbitrio Deus esse voluit, cui pares locum, Deo, an diabolo: cum paraveris, qui possidebit, ipse imperabit* (PL 37:1938). The note is right. (close-out 2026-10-03) |
 | E13b-4 | ecclesia-13-b / n13 | *Par in parem non habet imperium*, canonists' maxim | verified | X 1.6.20; Clem. 5.11.1 |
-| E13b-5 | ecclesia-13-b / n14 | King John's tribute of 1213 as the *obligacio regis* | to-verify | |
+| E13b-5 | ecclesia-13-b / n14 | King John's tribute of 1213 as the *obligacio regis* | verified | 1213: John surrendered England and Ireland to Innocent III and took them back as a fief (15 May 1213, through Pandulf: Britannica "Pandulph", a pointer only). Annual render of 1000 marks: Wyclif himself, 354.1 (*rex Johannes … quoad mille marcas*); Loserth, *Sermones* (latinworks31), foot "*Rectius: mille marcas*. Cf. *Eul. Hist.* III, p. 103". 2026-10-03. (close-out 2026-10-03) |
 | E13b-6 | ecclesia-13-b / n15 | writ *ad quod damnum* (mortmain inquiry) | to-verify | |
 | E13b-7 | ecclesia-13-b / n6 | *iuxta dicta proximo capitulo* → ch. 12 | verified | As E13a-6: 12-b, 256–57, the grant holds only under the subintended condition of the grantee's worthiness (Heli). *A qua iustificacione … dependet humana donacio* restates it. (close-out 2026-10-03) |
 | E13b-8 | ecclesia-13-b / n17 | *ut dixi superius* (alms withdrawn from the unruly) | untraced | |
@@ -504,7 +504,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E13c-5 | ecclesia-13-c / n16 | *iusti sunt omnia* (Wyclif's lordship of the just) | to-verify | |
 | E13d-1 | ecclesia-13-d / n6 | Gratian D.22 c.1 applied to Christ's privilege of poverty | to-verify | = E04e-7 |
 | E13d-2 | ecclesia-13-d / n13 | Sergius III, Gregorovius III 242 (Loserth) | to-verify | |
-| E13d-3 | ecclesia-13-d / n13 | *hodie* = 1378, *duos pseudomonachos* = Urban VI, Clement VII | to-verify | |
+| E13d-3 | ecclesia-13-d / n13 | *hodie* = 1378, *duos pseudomonachos* = Urban VI, Clement VII | editor | Loserth intro p. xxv: "the schism had already broken out … the title of 'pseudo-monk' is bestowed upon him [Urban VI], as well as upon his rival". Schism dates confirmed: Urban VI elected 8 Apr. 1378, Clement VII 20 Sept. 1378 (Wikipedia "Western Schism", a pointer). (close-out 2026-10-03) |
 | E13e-1 | ecclesia-13-e / n10 | the Commentator (Averroes), star added to the heaven (*De caelo* II?) | to-verify | |
 | E13f-1 | ecclesia-13-f / n9 | C.1 q.1 c.28 *Fertur* (Gregory I) | editor | Loserth 295.28 |
 | E13f-2 | ecclesia-13-f / n10 | C.1 q.1 c.5 *Quisquis* | editor | Loserth 296.3 |
@@ -530,7 +530,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E14b-4 | ecclesia-14-b / n15 | Aug. Ep. 153.6.20 *non remittitur peccatum nisi restituatur ablatum* | verified | Loserth 304 foot |
 | E14b-5 | ecclesia-14-b / n16 | *materia De Privilegiis* = *De eccl.* chs. 8–9 | to-verify | |
 | E14b-6 | ecclesia-14-b / n17 | second Macedonius quotation, Ep. 153.21 | verified | |
-| E14b-7 | ecclesia-14-b / n18 | Westminster sanctuary affair, Aug. 1378 | to-verify | |
+| E14b-7 | ecclesia-14-b / n18 | Westminster sanctuary affair, Aug. 1378 | verified | The Latin refers back: *sicut dixi in materia De Privilegiis … periculosum esse quod quis … foveat sufficientem fugitivum, ne solvat creditori debitum corporale* (304). That is ch. 10, 212–213 (10-c), on Westminster's protection of debtors. Compare the 1378 Gloucester statute on debtors in sanctuary (E12d-2). 2026-10-03. (close-out 2026-10-03) |
 | E14c-1 | ecclesia-14-c / n8 | *ut dixi proximo capitulo* = p. 296 ff. | editor | Loserth 308.8 |
 | E14c-2 | ecclesia-14-c / n17 | the antipope = Robert of Geneva (Clement VII) | editor | Loserth 309.26 |
 | E14d-1 | ecclesia-14-d / n2 | Aug. Ep. 153 quoting Prov. 17:6 LXX | verified | 153.26, PL 33.665; letter per Loserth 311.4 |
@@ -552,8 +552,8 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E14f-3 | ecclesia-14-f / n16 | Aug. "Ep. 37" = Ep. 153.26 | verified | = E14d-1 |
 | E14g-1 | ecclesia-14-g / n1 | D.96 c.14 *Constantinus* | verified | |
 | E14g-2 | ecclesia-14-g / n6 | *XCVIª d.* at 323.27 = D.96 c.14 | to-verify | |
-| E14g-3 | ecclesia-14-g / n18 | the claims answer Gregory XI's bulls of 1377 | to-verify | |
-| E14g-4 | ecclesia-14-g / n19 | conclusion on lords taking from a delinquent church condemned 1377 | to-verify | |
+| E14g-3 | ecclesia-14-g / n18 | the claims answer Gregory XI's bulls of 1377 | verified | Only two of the three claims answer the 1377 bulls. (2) The arrest: Gregory XI to Oxford, *dictumque Johannem … capiatis seu capi faciatis … sub fida custodia transmittatis* (*FZ* pp. 242–244). (3) Making heretical the proposition that lords may take from a delinquent church: art. 6 (E10d-5). Claim (1), the power to "catholicize" all the possessioners' charters (and so exempt them), is not in the bulls. 2026-10-03. (close-out 2026-10-03) |
+| E14g-4 | ecclesia-14-g / n19 | conclusion on lords taking from a delinquent church condemned 1377 | verified | As E10d-5: art. 6, *FZ* p. 248; Poole p. 267 n. 12. 2026-10-03. (close-out 2026-10-03) |
 | E14g-5 | ecclesia-14-g / n1 | Augustine, *si sit utilis, in scriptura sacra invenitur* (322.18–19) = *De doctrina christiana* II.42.63 | verified | *De doctr. chr.* II.42.63 (PL 34:65): *Nam quidquid homo extra didicerit, si noxium est, ibi damnatur; si utile est, ibi invenitur*. Wyclif paraphrases. (close-out 2026-10-03) |
 | E14h-1 | ecclesia-14-h / n1 | Matthew's *Dic bufo crati* = ME proverb "quoth the toad to the harrow" | to-verify | |
 | E14h-2 | ecclesia-14-h / n3 | D.96 c.14 *Constantinus* | verified | = E14g-1 |
@@ -561,7 +561,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E14h-4 | ecclesia-14-h / n8 | D.8 c.1 *Quo iure* | verified | = E14a-5 |
 | E14h-5 | ecclesia-14-h / n8 | Bernard, *De consid.* II, *Esto ut alia ratione* | verified | II.6.10, PL 182.748 |
 | E15a-1 | ecclesia-15-a / n2 | C.23 q.4 c.22 *Nabuchodonosor* | verified | |
-| E15a-2 | ecclesia-15-a / n5 | *mortui vel divisi* = the Schism of 1378 | to-verify | |
+| E15a-2 | ecclesia-15-a / n5 | *mortui vel divisi* = the Schism of 1378 | verified | The context is *ista materia … decisa in Romana curia coram papa … tales dampnantes istam materiam sunt mortui vel divisi*, so the condemners of 1377 are meant: Gregory XI, d. 27 Mar. 1378 (Loserth intro p. xxiv), and his cardinals, divided by the Schism (Sept. 1378). Not "the popes … of the Schism". 2026-10-03. (close-out 2026-10-03) |
 | E15a-3 | ecclesia-15-a / n7 | *Error cui non resistitur approbatur* = D.83 c.3 | verified | Innocent; cf. E11b-2 |
 | E15a-4 | ecclesia-15-a / n10 | William Bateman, Norwich (Walsingham I, 262) | editor | |
 | E15a-5 | ecclesia-15-a / n11 | John Grandisson, Exeter (Walsingham I, 309; Rot. Parl. II, 245) | editor | |
@@ -570,7 +570,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E15a-8 | ecclesia-15-a / n6 | "chapter 12" = p. 265 | editor | |
 | E15b-1 | ecclesia-15-b / n2 | D.40 c.12 from *Opus imperfectum in Matth.* hom. 43 | verified | |
 | E15b-2 | ecclesia-15-b / n5 | Sergius the monk who instructed Muhammad | to-verify | |
-| E15b-3 | ecclesia-15-b / n7 | the pseudo-pope = Clement VII | to-verify | |
+| E15b-3 | ecclesia-15-b / n7 | the pseudo-pope = Clement VII | verified | Wyclif's own usage at 352 (15-g): *papa nostro Urbano VIº … scismatici obediunt Clementi*. Clement VII elected at Fondi, 20 Sept. 1378 (Wikipedia "Western Schism", a pointer). 2026-10-03. (close-out 2026-10-03) |
 | E15b-4 | ecclesia-15-b / n8 | Hus, *De ablacione bonorum temporalium* (Nuremberg 1558, I, 122ᵛ) | editor | |
 | E15c-1 | ecclesia-15-c / n1, n7, n10 | Hus, *De ablacione bonorum temporalium* fol. 121ʳ, 123ʳ; Hus's reuse at 338.10, 338.27; Loserth, *Hus und Wiclif* pp. 199–208 | editor | Loserth, feet of pp. 336–338 |
 | E15c-2 | ecclesia-15-c / n12 | *primi fructus* = papal annates claimed in 14th-c. England | to-verify | |
@@ -587,7 +587,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E15e-3 | ecclesia-15-e / n9 | cross-reference to ch. 13 (A *XXII*, corr. in margin) | verified | see E15d-1 |
 | E15e-4 | ecclesia-15-e / n10 | Bernard: Abelard's sin uncertain until his followers are known | to-verify | |
 | E15e-5 | ecclesia-15-e / n11 | essential and accidental perfection of alms, scholastic commonplace | to-verify | |
-| E15e-6 | ecclesia-15-e / n15 | English king's reputed healing touch and taming of lions | to-verify | |
+| E15e-6 | ecclesia-15-e / n15 | English king's reputed healing touch and taming of lions | verified | Bloch, *Les rois thaumaturges* (1924): the English royal touch for scrofula, passim; the belief that lions spare true royal blood, pp. 256–258 (a literary motif). Bloch does not cite this passage. Loserth compares only Hus. 2026-10-03. (close-out 2026-10-03) |
 | E15e-7 | ecclesia-15-e / n19 | C.23 q.4 *Nimium*, *Ipsa pietas*, *Quid faciet*; ch. 11 cross-ref (B XX) | verified | Friedberg c.37, c.24, c.23 |
 | E15e-8 | ecclesia-15-e / n20–21 | C.5 q.5 c.1–2 (Augustine); Augustine reads *innocentes non estis, si* | verified | c.1 Aug. Ep. 211; c.2 Ep. 93; Wyclif conflates |
 | E15e-9 | ecclesia-15-e / n24 | Augustine to Macedonius (Loserth Opp. II 532; Wyclif "37") = Ep. 153 | verified | PL 33 Ep. 153; *Quis nos* is Ep. 93, not 153 |
@@ -602,19 +602,19 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E15f-5 | ecclesia-15-f / n5 | Ps.-Dionysius, *Cel. Hier.* 3: purging and illuminating | to-verify | |
 | E15f-6 | ecclesia-15-f / n7 | Grosseteste: higher angel illuminated by a lower | to-verify | |
 | E15f-7 | ecclesia-15-f / n18 | D.96 c.14 *Constantinus* | verified | Friedberg; c.13 also begins *Constantinus*, noted |
-| E15g-1 | ecclesia-15-g / n2 | Urban VI elected April 1378, Clement VII Sept. 1378; England for Urban | checked | no error found (Sonnet, memory) |
-| E15g-2 | ecclesia-15-g / n4 | Gregory XI's 1377 condemnation; the "four truths"/"four heresies" | to-verify | |
+| E15g-1 | ecclesia-15-g / n2 | Urban VI elected April 1378, Clement VII Sept. 1378; England for Urban | verified | Wikipedia "Western Schism" (pointer): Urban VI elected 8 Apr. 1378, Clement VII 20 Sept. 1378, England Roman. Wyclif 352.15–17. Loserth intro p. xxv. 2026-10-03. (close-out 2026-10-03) |
+| E15g-2 | ecclesia-15-g / n4 | Gregory XI's 1377 condemnation; the "four truths"/"four heresies" | untraced | The condemnation is verified (bulls of 22/31 May 1377: Poole p. 251 n. 18; *FZ* 242–244). The "newly catholicized article", *eo ipso quo pretendit se … solvere vel ligare, eo ipso sic solvit vel ligat*, is the contrary of Wyclif's condemned conclusion *Non est possibile … quod si papa … pretendat se quovismodo solvere vel ligare, eo ipso sic solvit vel ligat* (13th art., *FZ* p. 252, Walsingham i. 361; Poole, *De civ. dom.* I, foot to his ch. 38). The count of "four truths / four heresies" and the *epistola maledicta* were not found in *FZ*, Poole or Loserth. (close-out 2026-10-03) |
 | E15g-3 | ecclesia-15-g / n5 | Ambrose "epistola XXXVIII" on Gal. 3:13 | to-verify | Maurist Ep. 38 does not fit; Ep. 21 §25 closest; Wyclif's numbering unknown |
 | E15g-4 | ecclesia-15-g / n6 | Wyclif's condemned conclusion on binding and loosing | to-verify | |
 | E15g-5 | ecclesia-15-g / n7 | "papal laws" that Peter's successors could err (D.40 c.6?) | to-verify | |
-| E15g-6 | ecclesia-15-g / n10 | King John's 1213 surrender and 1000-mark render | checked | no error found (Sonnet, memory) |
+| E15g-6 | ecclesia-15-g / n10 | King John's 1213 surrender and 1000-mark render | verified | As E13b-5. 2026-10-03. (close-out 2026-10-03) |
 | E15g-7 | ecclesia-15-g / n12 | bishop of Rochester = Thomas Brinton OSB; which parliament | checked | Brinton OSB, Rochester 1373–89; parliament still open |
 | E15g-8 | ecclesia-15-g / n13–14 | condemned conclusion: lords may take a delinquent church's temporals | to-verify | |
-| E15g-9 | ecclesia-15-g / n15 | the 1377 bulls ordering arrest | to-verify | |
+| E15g-9 | ecclesia-15-g / n15 | the 1377 bulls ordering arrest | verified | *FZ* pp. 242–244, Gregory XI to Oxford: *dictumque Johannem … capiatis seu capi faciatis … sub fida custodia transmittatis*, dated *pridie kal. Junii* (31 May). Shirley prints *anno sexto*; Walsingham has *septimo*, i.e. 1377. Poole: 22 or 31 May 1377. 2026-10-03. (close-out 2026-10-03) |
 | E15g-10 | ecclesia-15-g / n16 | condemned conclusion on charters "humanly devised" | to-verify | |
 | E15g-11 | ecclesia-15-g / n17 | C.23 q.4 *Due sunt* (or D.96 c.10 *Duo sunt*?) | verified | Gratian d.p.c.23 *Duae sunt necessitates* (Boethius, *Cons.* V pr. 6) |
 | E15h-1 | ecclesia-15-h / n7 | *de necessitate salutis* echoes *Unam sanctam* (Extrav. comm. 1.8.1) | to-verify | |
-| E15h-2 | ecclesia-15-h / n9 | Gregory XI d. 27 March 1378; Urban VI's breach with the cardinals | checked | no error found (Sonnet, memory) |
+| E15h-2 | ecclesia-15-h / n9 | Gregory XI d. 27 March 1378; Urban VI's breach with the cardinals | verified | Loserth intro p. xxiv (Gregory XI d. 27 Mar. 1378); Wikipedia "Western Schism" (pointer). 2026-10-03. (close-out 2026-10-03) |
 | E15h-3 | ecclesia-15-h / n10 | eleven generations transgressing the decalogue: Aug. *De civ. Dei* 15.20 | verified | PL 41, *De civ.* 15.20 |
 | E15h-4 | ecclesia-15-h / n14 | A's Czech gloss after *scriptura sacra* (359.4) | editor | p. 359 foot |
 | E16a-1 | ecclesia-16-a / n11 | D.96 c.14 *Constantinus* | verified | Loserth 361 foot *c. XIV*; Friedberg |
@@ -635,7 +635,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E16d-3 | ecclesia-16-d / n3 | Decree "with Augustine" on Nebuchadnezzar's salvation = C.23 q.4 c.22 | verified | Friedberg; PL 187 1182D |
 | E16d-4 | ecclesia-16-d / n5 | Thomas the apostle gave the king's money to the poor (*Acts of Thomas*) | to-verify | from memory |
 | E16d-5 | ecclesia-16-d / n5 | Laurence distributed the church's treasure (Ambrose, *De off.* 2.28) | verified | PL 16 (6974.xml) *Hos thesauros demonstravit Laurentius* |
-| E16d-6 | ecclesia-16-d / n7 | Lord of Winchester = William of Wykeham; New College 1379 | to-verify | from memory |
+| E16d-6 | ecclesia-16-d / n7 | Lord of Winchester = William of Wykeham; New College 1379 | verified | *Clerici domini Wyntoniensis* (370.21) are William of Wykeham's scholars. VCH Oxon. iii 144: before 1376 he "was maintaining 60 scholars at Oxford" in hired halls. Royal licence 30 June 1379; his foundation charter 26 Nov. 1379. 2026-10-03. (close-out 2026-10-03) |
 | E16d-7 | ecclesia-16-d / n10 | Islip founded Canterbury Hall; Langham expelled the seculars; Wyclif warden | to-verify | Loserth cites Lechler I 204, 303 |
 | E16d-8 | ecclesia-16-d / n10 | *Gloria episcopi* = C.12 q.2 c.71, from Jerome | verified | Loserth 371; modern form ours |
 | E16e-1 | ecclesia-16-e / n2 | Aug. *De doctr. christ.* 2.42.63 | verified | wording matches; *regimen rei publice* is Wyclif's gloss |
@@ -646,7 +646,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E16f-3 | ecclesia-16-f / n10 | Augustine asked his citizens to take back possessions given him | to-verify | from memory (Possidius / sermons) |
 | E16g-1 | ecclesia-16-g / n2, n8 | *unius non apostoli* = Silvester; *Cesar* = Constantine | to-verify | our inference from ch. 16 usage |
 | E16g-2 | ecclesia-16-g / n3 | *Deus malus … Deum bonum* alludes to the Manichees' two gods | verified | standard reference |
-| E16g-3 | ecclesia-16-g / n4 | Condemning "the laws of our kingdom" before the curia = delation of Wyclif's conclusions, Gregory XI's bulls 1377 | to-verify | our inference |
+| E16g-3 | ecclesia-16-g / n4 | Condemning "the laws of our kingdom" before the curia = delation of Wyclif's conclusions, Gregory XI's bulls 1377 | verified | Wyclif says the same at 329.25–28 (15-a): *ista materia ventilata est et decisa in Romana curia coram papa*. The king's right over clerical temporalities is art. 6 (*FZ* 248). Who made the delation is not stated. 2026-10-03. (close-out 2026-10-03) |
 | E16h-1 | ecclesia-16-h / n4 | Augustine's "37th" letter to Macedonius = Ep. 153.6.20 | verified | by content; Wyclif's number unmatched (Gratian: LIV) |
 | E16h-2 | ecclesia-16-h / n4 | *Si res* = C.14 q.6 c.1 | verified | Loserth; modern form ours |
 | E16h-3 | ecclesia-16-h / n5 | *Commentator* = Averroes on those who deny that creatures act | to-verify | from memory; not located in a quick search |
@@ -775,7 +775,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E19f-2 | ecclesia-19-f / n16 | Decretum De cons. D.4, canon *Quomodo ipsum caracterem multi lupi* | verified | page foot: cap. XLI; Friedberg D.4 c.41 |
 | E19f-3 | ecclesia-19-f / n16 | that canon's Augustinian source | verified | Aug. De bapt. V.20–21 (Friedberg inscription) |
 | E19g-1 | ecclesia-19-g / n9 | *De mirabilibus s. scripturae* II.10 on the witch of Endor | verified | PL 35 numbers it II.11 |
-| E19g-2 | ecclesia-19-g / n10 | *feretrum pape bellantis*: which pope | open | Loserth names no pope |
+| E19g-2 | ecclesia-19-g / n10 | *feretrum pape bellantis*: which pope | verified | The pope is **Gregory VI** (1045–46). Wyclif's cross-reference at 460.1–4, *ut tetigi XVII° cap. libri quarti*, is *De civ. dom.* II c. 17, p. 253: *Cestrensis … narrat quod Gregorius sextus …*. Gregory armed against those plundering St Peter's offerings and ordered his bier set before the closed church; *turbo repente adveniens portas ecclesie dirrupit et funus … intus impulit*. Margin p. 257: "Apology for Gregory VI"; *de illacione sui feretri intra ecclesiam*. Loserth's foot: Higden, *Polychron.* VI c. 22, RS vii 150. 2026-10-03. (close-out 2026-10-03) |
 | E19g-3 | ecclesia-19-g / n12 | Chrysostom on the members of the body | open | not located (PG Latin not on disk) |
 | E19g-4 | ecclesia-19-g / n13 | "ex dictis XXVII° capitulo libri V": cross-reference | open | no Loserth note; not identified |
 | E19g-5 | ecclesia-19-g / n14 | "alias illos exposui": grace/sin terms expounded elsewhere | open | cf. p. 140 (gracia predestinacionis / presentem iusticiam) |
@@ -854,14 +854,14 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E21g-3 | ecclesia-21-g / n8 | Decretum C.1 q.2 cc.8–9 *Si quis*, *Sacerdos* | verified | Friedberg |
 | E21g-4 | ecclesia-21-g / n8 | Bernard, *De consideratione* (clerical poverty) | verified | PL 182 De cons. II.6.10; IV.2–3 |
 | E21g-5 | ecclesia-21-g / n8 | fourfold testimony in ch. 13 = p. 284 | editor | page foot 516.28 |
-| E21g-6 | ecclesia-21-g / n9 | poison poured into the church at Constantine's endowment | open | not in PL |
+| E21g-6 | ecclesia-21-g / n9 | poison poured into the church at Constantine's endowment | verified | Higden, *Polychronicon* IV (RS V, p. 130, after Giraldus): *hostis antiquus … legitur publice in aere pronunciasse sic: "Hodie infusum est venenum in ecclesia Dei"*. Wyclif cites it himself, *De pot. pape* c. 6 (*Cestrensis libro IV*, *angelica vox … hodie effusum est venenum in ecclesia sancta Dei*) and *Opera minora* (*cronicator Cistrensis … vox evangelica*). The chapter "IV. 26" is the coordinator's hint; I confirmed the page, not the chapter number. NB Higden gives the speaker as the devil, while Wyclif makes it an angelic voice. 2026-10-03. (close-out 2026-10-03) |
 | E21g-7 | ecclesia-21-g / n11 | Sergius the monk counselled Muhammad | to-verify | from memory |
 | E22a-1 | ecclesia-22-a / n1 | Hostiensis, *Summa aurea* V, *De poenitentiis et remissionibus*, § *Quibus mortuis prosint suffragia* | to-verify | from memory |
 | E22a-2 | ecclesia-22-a / n2 | Decretum C.13 q.2 c.22 *Animae* | verified | Friedberg C.13 q.2 c.22 |
 | E22a-3 | ecclesia-22-a / n3 | Augustine, Ench. "cap. CIX" (Opp. VI p. 238) | verified | PL 40 Ench. 109–110 (Loserth p. 238 = slip?) |
 | E22a-4 | ecclesia-22-a / n3 | Decretum C.13 q.2 c.23 *Tempus* | verified | Friedberg |
 | E22a-5 | ecclesia-22-a / n4 | Huguccio: p. 225; Fabricius VI 283; Schulte | editor | page foot 518.20 |
-| E22a-6 | ecclesia-22-a / n5 | Judas's Sunday respite = *Navigatio s. Brendani* | open | Navigatio not on disk |
+| E22a-6 | ecclesia-22-a / n5 | Judas's Sunday respite = *Navigatio s. Brendani* | verified | *Navigatio s. Brendani* c. 25 (Selmer; dcc.dickinson.edu): Judas: *Meum vero refrigerium habeo hic omni die dominico, a vespere usque ad vesperas …*. Wyclif has it at second hand: *dicunt decretiste … Judas in die dominico quievit a pena, licet non sit valde autenticum*, followed by Hostiensis. 2026-10-03. (close-out 2026-10-03) |
 | E22a-7 | ecclesia-22-a / n7 | Innocent III, *Cum Marthe*, X 3.41.6 | verified | Friedberg II |
 | E22b-1 | ecclesia-22-b / n2 | *in dolo … pro indole*: pp. 163–164 | editor | page foot 520.27 |
 | E22b-2 | ecclesia-22-b / n7 | Augustine, Ench. 4.14 (codd. XVII); print "17°" unexplained | verified | PL 40 Ench. 14 |
@@ -899,7 +899,7 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E22d-6 | ecclesia-22-d / n14 | Gregory and Trajan: John the Deacon, Vita Gregorii 2.44; Legenda aurea | verified | PL 75 Vita Greg. 2.44 |
 | E22d-7 | ecclesia-22-d / n15 | the "often said" second perfection of the world through Christ's merit | verified | p. 312 |
 | E22e-1 | ecclesia-22-e / n7 | the decree of Jerome (C.13 q.2 c.20) says the saints cannot change God's counsel | verified | Friedberg: does not say so |
-| E22e-2 | ecclesia-22-e / n9 | Gregory's temporal punishment for the Trajan prayer (Legenda aurea) | open | not in John the Deacon; Legenda aurea not on disk |
+| E22e-2 | ecclesia-22-e / n9 | Gregory's temporal punishment for the Trajan prayer (Legenda aurea) | verified | *Legenda aurea* c. 46 *De s. Gregorio* (Graesse pp. 196–197). Version 1: *de cetero … caveas, ne pro damnato aliquo preces fundas*. Version 2: the angel offers *aut in purgatorio duobus diebus cruciaberis aut … toto tempore vitae tuae infirmitatibus et doloribus fatigaberis*, and he chose the second. The same chapter cites John the Deacon only for "wept, not prayed". 2026-10-03. (close-out 2026-10-03) |
 | E22e-3 | ecclesia-22-e / n11 | Augustine, De civ. Dei 22.2 | verified | PL 41 22.2 |
 | E22e-4 | ecclesia-22-e / n11 | De civ. Dei 22.2 says God is said to will what he makes his saints will | verified | PL 41 22.2 |
 | E22f-1 | ecclesia-22-f / n3 | Augustine, De civ. Dei 21.24 (God does not shut up his mercies toward the damned) | verified | PL 41 |
@@ -981,4 +981,4 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E23k-4 | ecclesia-23-k / n10 | canons limiting a bishop's indulgence to 40 days and to his own subjects: X 5.38.14 *Cum ex eo*, X 5.38.4 *Quod autem* | verified | Friedberg II: X 5.38.4 is Quod autem (not Nostro = .15) |
 | E23k-5 | ecclesia-23-k / n13 | Hus, *Adversus indulgencias papales*, Opp. I fol. 175 ff. | verified | foot 583.16: fol. CLXXXVb (reading uncertain) |
 | E23l-1 | ecclesia-23-l / n2 | *Clem.* 5.9.2 *Abusionibus*. The form is ours. | verified | Friedberg II Clem. 5.9.2 |
-| E23l-2 | ecclesia-23-l / n2 | Wyclif's "liber septimus" means the Clementines | open | not checked |
+| E23l-2 | ecclesia-23-l / n2 | Wyclif's "liber septimus" means the Clementines | verified | The Clementines were called *liber septimus* by medieval canonists, and once by John XXII (1321). Johannes Andreae refused them the title (Catholic Encyclopedia 1910, "Liber Septimus", read only in the search extract). Wyclif's *libro septimo de Penitenciis et Remissionibus, capitulo Abusionibus* = Clem. 5.9.2, as Loserth's foot gives it. 2026-10-03. (close-out 2026-10-03) |

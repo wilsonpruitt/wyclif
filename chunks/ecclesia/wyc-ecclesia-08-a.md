@@ -42,7 +42,7 @@ Again, since every virtue is of the kind of the third and greatest good, coming 
 
 ## Notes
 
-[^1]: **C/R.** *Sciencia … gaudet extraneis*: we take it as a maxim that licenses the digression ("knowledge delights in things foreign [to it]"); its source is not identified. The "infamous case" is placed by Wyclif at Westminster (159.13); it is usually identified with the violation of the sanctuary of Westminster Abbey in August 1378, and the Roman half with the disorders of the papal election of that year; to be checked (LEDGER E08a-1).
+[^1]: **C/R.** *Sciencia … gaudet extraneis*: we take it as a maxim that licenses the digression ("knowledge delights in things foreign [to it]"); its source is not identified. The "infamous case" is placed by Wyclif at Westminster (159.13); in England it is the violation of Westminster's sanctuary on 11 August 1378 (Wyclif names Westminster at 159.13); the Roman half is presumably the disorder of the papal election of April 1378 (our inference).
 
 [^2]: **T/R/S.** A margin *Tres suppositiones*; B margin, another hand, *Posteriora prius dicit*, "he says the later things first" (158.1). *Iuxta dicta XVⁱ cap.*: no fifteenth chapter precedes in *De ecclesia*; the reference may be to another of Wyclif's works; to be checked (LEDGER E08a-2). A margin *Racio: Necessaria est noticia de sancta matre ecclesia* (158.12).
 
@@ -54,7 +54,7 @@ Again, since every virtue is of the kind of the third and greatest good, coming 
 
 [^6]: **T/R.** B *quod eius veris* (159.5). *Procurant pro*: act on behalf of (the verb of *procurator*). A margin *Opinio* (159.14), marking the opponents' position.
 
-[^7]: **R/T/C.** The doctors summoned by the king and sworn on the Westminster case, among whom Wyclif counts himself (*debuissemus*, "we ought", 162.6); the hearing is usually placed before the king's council at the Gloucester parliament of October 1378; to be checked (LEDGER E08a-5). B margin *Fame causa licet mentiri*, "for reputation's sake it is lawful to lie" (159.22); B *quibus autem debet* (159.22). *Pro qua*: we take the antecedent as *famam alienam*, another's reputation.
+[^7]: **R/T/C.** The doctors summoned by the king and sworn on the Westminster case, among whom Wyclif counts himself (*debuissemus*, "we ought", 162.6); the hearing was at the Gloucester parliament (20 October–16 November 1378) (Loserth, Introduction, pp. x, xxv). B margin *Fame causa licet mentiri*, "for reputation's sake it is lawful to lie" (159.22); B *quibus autem debet* (159.22). *Pro qua*: we take the antecedent as *famam alienam*, another's reputation.
 
 [^8]: **T.** The codices read *debuerunt* (159.24), where Loserth prints *debuerant*; the print is translated, and the sense is the same. *Patroni*: patrons of benefices.
 

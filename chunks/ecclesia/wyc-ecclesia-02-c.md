@@ -166,8 +166,7 @@ to his church only through him.[^17]
     diaboli*: the foreknown are members of the devil, as the predestinate are members of Christ.
 
 [^9]: **R/C.** *Introitus vulpinus*: the tale that Boniface VIII came into the papacy "like a fox",
-    having induced Celestine V to resign, and the prophecy of him *intrabit ut vulpes, regnabit ut leo,
-    morietur ut canis* `[verify]` (LEDGER E02c-4). A reads *Celestii* (34.3). *Mendicare*: "to beg".
+    having induced Celestine V to resign, summed up in the saying *intravit ut vulpes, regnavit ut leo, mortuus est ut canis*, whose medieval source we have not traced (LEDGER E02c-4). A reads *Celestii* (34.3). *Mendicare*: "to beg".
     *Hoc decretum*: *Unam sanctam*.
 
 [^10]: **C.** *Per accidens … de quanto*: the pope's influence is needed only "in so far as" he is

@@ -21,6 +21,17 @@
   plates) is possible; not started, needs your go.
 
 ## R. Translation items (doubtful; left as they are until ruled)
+- **R1. 12-d n17 (E12d-6).** The LEDGER verifier reads *occisio religiosi* (267.27–32) as NOT the 1378 Westminster
+  killing but an unidentified incident (a monk killed in the church; another's head broken), set against the 1378
+  killings. Applied to the note; the English text was not reframed. Confirm or reverse.
+- **R2. Nicholas II, not III (E11a-5).** The Westminster bull is Nicholas II's (Kemble IV no. 825; Sawyer 1041, a
+  forgery); Wyclif, B and Loserth all say III. Latin and English keep "III" (Wyclif's slip); the note says so.
+  Flag it in the English too (e.g. "Nicholas III [read II]")? Default: note only.
+- **R3. Westminster victim's name (07-a n2).** Loserth's *Eulogium* has "Johannes Hawle / Ricardus Shakyll"; the
+  standard names are Robert Hauley and John Shakell. Add the standard names to the note? Default: yes, if you agree.
+- **R4. Printed authorities.** E12c-6, E13b-5 (1213), E15g-1, E15h-2, E15b-3 dates rest on web pointers
+  (Wikipedia/Britannica/abbey site). Printed authorities to cite if wanted: Cox 1911 (sanctuary), PROME,
+  Cheney–Semple (Innocent III letters).
 
 ## C. Doubtful connectives (left as they are)
 ~75 *sed/autem* toss-ups (now/and/but), listed under "Doubtful, left as they are" in

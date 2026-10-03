@@ -25,7 +25,10 @@ for line in B.splitlines():
         f = os.path.join(root, 'chunks', 'ecclesia', f'wyc-ecclesia-{cid}.md'); s = open(f).read()
         # notes are hard-wrapped at 4-space indents: match across wraps
         pat = re.escape(old).replace(r'\ ', r'\s+').replace(' ', r'\s+')
-        hits = list(re.finditer(pat, s))
+        if '…' in old:  # an elided old string: '…' stands for a short stretch, never for the new text
+            if '…' in new: print(f'REFUSED note {rid} {cid}: elided new text'); nref += 1; continue
+            pat = pat.replace(re.escape('…'), r'.{0,600}?')
+        hits = list(re.finditer(pat, s, re.S))
         if len(hits) != 1: print(f'REFUSED note {rid} {cid}: found {len(hits)}×: {old[:70]}'); nref += 1; continue
         if not dry: open(f, 'w').write(s[:hits[0].start()] + new + s[hits[0].end():])
         notes += 1

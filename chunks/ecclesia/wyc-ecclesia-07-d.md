@@ -49,7 +49,7 @@ Thirdly, the secular church wonders that the clergy press upon [the secular arm]
 
 ## Notes
 
-[^1]: **T/C/S.** A margin *Conclusio* (152.14). *Si iurati sunt*: we take the excommunicators as the subject (those sworn to the king's laws, 152.11–13); it could be the king's ministers. Which excommunications Wyclif has in view after the Westminster killing is to be checked (LEDGER E07d-1). Gen. 18:20–21: Wyclif shortens the Vulgate (*Clamor Sodomorum et Gomorrhae … utrum clamorem qui venit ad me opere compleverint*); DR "The cry of Sodom and Gomorrha is multiplied … whether they have done according to the cry that is come to me"; his Latin translated, DR kept where it agrees.
+[^1]: **T/C/S.** A margin *Conclusio* (152.14). *Si iurati sunt*: we take the excommunicators as the subject (those sworn to the king's laws, 152.11–13); it could be the king's ministers. The excommunications are those pronounced after the Westminster killing by the archbishop and four suffragans on its instigators and perpetrators, with the king, his mother and the duke of Lancaster excepted, and published by the bishop of London at St Paul's (Loserth, Introduction, p. x). Gen. 18:20–21: Wyclif shortens the Vulgate (*Clamor Sodomorum et Gomorrhae … utrum clamorem qui venit ad me opere compleverint*); DR "The cry of Sodom and Gomorrha is multiplied … whether they have done according to the cry that is come to me"; his Latin translated, DR kept where it agrees.
 
 [^2]: **T/G.** D *notandum* (152.24); B *excommunicatus propter* (152.24). *Color*: a plausible ground (GLOSSARY), not "pretext". D *facit* (152.30). A A₁ B lack *quocunque* (152.32). *Scarioth*: Judas Iscariot. *Ut sic sit hereticus*: the excommunicator, as one himself excommunicate.
 
