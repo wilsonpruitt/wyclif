@@ -196,7 +196,7 @@ the concordances of the laws and the doctors.[^16]
     ecclesia* (GLOSSARY §A).
 
 [^13]: **T/S.** Augustine, *De
-    doctrina christiana* 3.32.45 (cf. 04-b n. 6), cited by Wyclif; *Illi … diaboli* paraphrases 3.32.45
+    doctrina christiana* 3.32.45 (cf. 04-b n. 7), cited by Wyclif; *Illi … diaboli* paraphrases 3.32.45
     (PL 34:82) and the seventh rule (PL 34:88, *ituri cum illo in supplicium ignis aeterni*) (LEDGER E04d-5). The goats on the left are Matt. 25:33; Wyclif
     cites 25:41, the sentence on them. *Edi* = *haedi*. A margin: *Augustinus* (84.8).
 

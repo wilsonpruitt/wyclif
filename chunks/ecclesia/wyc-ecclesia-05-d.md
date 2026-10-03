@@ -32,7 +32,7 @@ kind; therefore the conclusion. The [assumption]{g:assumptum} is clear from Aris
 church has a continuous quantity according to [105] which it is formally great, then it is truly
 continuous; indeed, not only is each part of this church continuous with some other part of it, but
 all together are joined at the same common term. To make this clear I suppose that, just as the
-church is one [aggregatively]{g:aggregative}, so its member and its accidents are one aggregatively.
+church is one [aggregatively]{g:aggregative}, so its [member]{g:membrum} and its accidents are one aggregatively.
 For otherwise "the multitude of believers" would not have "one heart and one soul" (as sacred
 scripture says, Acts 4:32).[^3] From which it is clear that all the parts of the church, understood
 collectively, are joined at the same common term, aggregated from all the common terms of the church.
@@ -40,8 +40,8 @@ For this common term joins each quantitative part of the church with another, he
 part of it and there according to another. Indeed (to speak logically), just as the point replicated
 is the whole substance of the line, of the surface and of the body of quantity, so material substance
 aggregated is the corporeal universe, and its parts are proportionally the parts of the world.[^4]
-For otherwise God has not spoken "by the mouth" of the saints, against the scripture of Luke 1:70,
-nor would the church be "of one mind", "with one mouth" glorifying God, Romans 15.[^5] Nor does local
+For otherwise "God has not spoken by the mouth of the saints", against the scripture of Luke 1:70,
+nor would the church be "of one mind, with one mouth glorifying God", Romans 15.[^5] Nor does local
 distance, or the discontinuity of mathematical quantity, stand in the way, since likeness according
 to the inner man, and the growing-together of the members of the church according to
 [charity]{g:caritas}, exceeds [perceptible]{g:sensibilis} unity. Further, since the unity of grace is
@@ -49,8 +49,8 @@ greater than that of nature, it seems it should be shown, not only that each par
 continuous with another, nor only that all the parts of the church are continuous with one another,
 but that each part of it is continuous with each. For every part of the church is joined to every
 [part] by the same common term; therefore every part of the church is continuous with every
-[part].[^6] For the assumption I suppose that the "mediator of God and men", "Christ Jesus", "full of
-grace and truth", makes each part of the church be of profit [106] to each. For otherwise they would
+[part].[^6] For the assumption I suppose that the mediator of God and men, Christ Jesus, full of
+grace and truth, makes each part of the church be of profit [106] to each. For otherwise they would
 not help one another to make up mother church whole, to the profit of each.[^7] Then I argue thus: by
 the very fact that a creature, by acting, profits another, it is in some manner with it; now each part
 of the church, by acting, profits each; therefore each is in some manner with each. The assumption
@@ -94,19 +94,19 @@ genus.[^12] So, returning to the purpose, it is clear that the grace and charity
 which really is Christ himself, is the common term joining any member of the church to any other. And
 this joining through a middle common term so noble is far more excellent than joining through a
 mathematical term. And hence I think that Christ, who so loves common things, has so often set
-himself in the middle. For he is the "power of God", which consists in the mean between the father and
+himself in the middle. For he is the power of God, which consists in the mean between the father and
 the son.[^13] Hence he willed to be conceived at the vernal equinox, which [108] has both day and night
 as halves of the natural day, Luke 1:36: "This is the sixth month with her that is called barren." He
 willed also to be born in the middle of the night, Wisdom 18:14–15: "For while all things were in
 quiet silence, and the night was in the midst of her course, thy almighty word, O Lord, leaping from
-heaven, came from the royal throne."[^14] Thirdly, he willed to be laid in the inn, which is a
+heaven, came from the royal throne."[^14] Thirdly, he willed to be laid "in the inn", which is a
 hostelry in the middle between two streets. Fourthly, he willed to be laid in the middle of two
 animals, as is clear from Luke 2. Fifthly, he willed to dispute "in the midst of the doctors", Luke
-2:46. Sixthly, he set himself "in the midst" of the disciples, serving, Luke 22:27. Seventhly, he was
-set in the midst of thieves, triumphing, John 19:18. Eighthly, after the resurrection, he "stood in
-the midst" of the disciples, instructing [them], John, the last [chapter]. This, then, is the abbot
-who promises, Matthew 18:20, that wherever two or three are gathered together in his name, he is in
-the midst of them.[^15]
+2:46. Sixthly, he set himself in the midst of the disciples, "serving", Luke 22:27. Seventhly, he was
+set "in the midst" of thieves, triumphing, John 19:18. Eighthly, after the resurrection, he stood "in
+the midst of the disciples", instructing [them], John, the last [chapter]. This, then, is the abbot
+who promises, Matthew 18:20, that "wherever two or three are gathered together in his name, he is in
+the midst of them."[^15]
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
@@ -152,8 +152,8 @@ the midst of them.[^15]
 
 [^8]: **S/T/C.** A A₁ *bonitatis* (106.8); A margin *Aristoteles*. Aristotle, *Physics* VII.1
     (Loserth: Bekker I, 243) (LEDGER E05d-2). *Species*: the likeness a body puts forth through the
-    medium, as the writers on optics use it. *Subluminaris* (p. 106): as the scaffold has it, for
-    *sublunaris* (107.1); translated "sublunary" (Latin doubts). A *corrumpcionem*; A A₁ lack *effectu*
+    medium, as the writers on optics use it. *Subluminaris* (106.13): so the print (plate), for
+    *sublunaris* (cf. 107.2); translated "sublunary". A *corrumpcionem*; A A₁ lack *effectu*
     (106.15). Eccl. 3:14: Wyclif *dominus … usque in eternum*, the Vulgate *Deus … in perpetuum*
     (Loserth); DR "which God hath made, continue for ever".
 
@@ -213,7 +213,8 @@ the midst of them.[^15]
   - 104: *secundum* (se- here, 142d cundum on p.105; main token holds whole word) [THIN]
   - 104: *Sed* (print has Sed before adhuc; not in neighbours) [DELX]
   - 105: *quantitatis obest,* (two printed words; * between them is the folio mark, dropped) [OVERRIDE-MARK]
-- OCR scars corrected in the Latin by the coordinator (2026-10-02; plates for 104.5, 105.22): p. 104 *contitinuum*,
+- OCR scars corrected in the Latin by the coordinator (2026-10-02; plates for 104.5, 105.22): p. 104
   *c ipitulo*; 105.22 *discontinuac*; p. 105 *aha*; 107.12 *nec essitate*. Doubts: 105 *membrum
-  eius*; 106 *subluminaris*; 107 *inter patrem et filium*. The stray *.:* after *intercepta* (104.22) is
+  eius*; 107 *inter patrem et filium*. The stray *.:* after *intercepta* (104.22) is
   punctuation only.
+- 104.25 *contitinuum*: kept as printed (plate; n. 1).

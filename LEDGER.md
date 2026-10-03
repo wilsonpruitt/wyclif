@@ -181,10 +181,10 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E04a-3 | ecclesia-04-a / n6–7 | *Opus imperfectum in Matth.*, hom. 46 as printed (MSS XXIX; Loserth hom. 45, Montfaucon VI, cxciii E) | editor | where the quotation ends: to-verify (PG 56; not local) |
 | E04a-4 | ecclesia-04-a / n8 | the two cities: Augustine, *Civ. Dei* XIV.28 (also I.35); Gregory untraced | verified | PL 41:436; 41:46 |
 | E04b-1 | ecclesia-04-b / n2, n5 | Richard of St Victor, *De pot. lig. et solv.* 19–20 | verified | PL 196:1172A–1173A; ends *concorporatus fuit* |
-| E04b-2 | ecclesia-04-b / n6 | Augustine, *De doctr. christ.* III.32.45, the *Ypocrite* sentence | verified | PL 34:82 |
-| E04b-3 | ecclesia-04-b / n7 | *Opus imperfectum*, hom. 9 (Montfaucon VI, lxi E) | editor | not local |
-| E04b-4 | ecclesia-04-b / n8–9 | *ut patet cap. X*; *ut dixi superius* | to-verify | John 10, or this book's ch. 10? |
-| E04b-5 | ecclesia-04-b / n14 | *de necessitate salutis* echoes *Unam sanctam* | verified | Friedberg II, 1245–46 (as E01e-1) |
+| E04b-2 | ecclesia-04-b / n7 | Augustine, *De doctr. christ.* III.32.45, the *Ypocrite* sentence | verified | PL 34:82 |
+| E04b-3 | ecclesia-04-b / n8 | *Opus imperfectum*, hom. 9 (Montfaucon VI, lxi E) | editor | not local |
+| E04b-4 | ecclesia-04-b / n9–10 | *ut patet cap. X*; *ut dixi superius* | to-verify | John 10, or this book's ch. 10? |
+| E04b-5 | ecclesia-04-b / n15 | *de necessitate salutis* echoes *Unam sanctam* | verified | Friedberg II, 1245–46 (as E01e-1) |
 | E04c-1 | ecclesia-04-c / n4 | Thomas and Richard at 77.11 (Loserth "loc. cit."): *ST* III q.8 a.3; Richard, *De pot. lig. et solv.* | to-verify | Richard: PL 196; Thomas not local |
 | E04c-2 | ecclesia-04-c / n10; 04-e / n18 | *ST* III q.8 a.3 ad 2 (Wyclif "concl. VIII, art. III"); Thomas *perducimur* | editor | not local |
 | E04c-3 | ecclesia-04-c / n13 | Augustine, *De Trin.* (Wyclif "VI, 27"; Loserth XIV.18) | untraced | XIV.18 (PL 42:1055) lacks the claim; "VI, 27" not found |

@@ -50,4 +50,7 @@ Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opu
 |---|---|---|---|
 | A | R1 (02-b, 02-f, 04-b, 05-d) | 192K | 25 rows: 4 error, 9 weak, 12 style. Lost word *plus* 46.24 (false ¶ break) → tokenfix; quotation bounds in early chunks set by sense, not italics |
 | A | R2 (05-f, 06-a, 06-d, 06-g) | 184K | 30 rows: 2 error, 24 weak, 4 style (12 terms, 2 conn., 8 construal/note, 8 italics-rule) |
+| A | R3 (08-f, 09-a, 09-c, 09-e) | 198K | 30 rows: 0 error, 23 weak, 7 style (13 terms, 4 conn., 3 medieval, 3 construal, 7 quotation). 202.22 *111°* → *III°* tokenfix |
+| A | R4 (10-b, 10-c, 12-b, 12-c) | 244K | 27 rows: 0 error, 16 weak, 11 style; italics checked on all 20 pages; 4 notes contradict the plate; 1 Latin-text row |
+| A2 | apply R1+R2 | 149K | all rows applied except 5 tag-key rows (script) and R1 #18 (ledger stage); 04-b notes renumbered, LEDGER pointers moved; lint 0 |
 | D | coordinator | — | lint.py widened: 278 tag keys with space/capital had been skipped; 2 stray `{g:per idem}` removed; lint 0 |

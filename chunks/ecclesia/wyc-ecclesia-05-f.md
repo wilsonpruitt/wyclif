@@ -29,8 +29,8 @@ not take for genus that the church itself is the multitude of all Christians. Fi
 that no fathers of the old testament were of that church, because that [church] did not exist before
 Christ begot it by the outflow of blood and water from his side as he slept on the cross (as is said
 in John 19:34); now this was not in the time of the fathers of the old testament; therefore neither
-was that church.[^2] From which [it follows]{g:sequitur} that, since outside that church there is no
-salvation (as is clear in the extravagant of Boniface VIII, *Unam sanctam*), none of the fathers of
+was that church.[^2] From which [it follows]{g:sequitur} that, since "outside that church there is no
+salvation" (as is clear in the extravagant of Boniface VIII, *Unam sanctam*), none of the fathers of
 the old testament will be saved. For it would not be pertinent for the decree to say that outside the
 one holy and catholic church there is no salvation, unless it meant that no one will be saved unless
 he was of it.[^3] Secondly it follows that Christ is not of that church, because he is not of the
@@ -55,7 +55,7 @@ out.[^5] For many Christians, the [foreknown]{g:prescitus} as well as the
 right.[^6] Fourthly it follows that neither the apostles nor other faithful were of the church before
 the faith was spread abroad by Christ and the apostles and declared by the holy fathers in the general
 councils; which was long after the ascension of the Lord and the death of the apostles. For no one was
-of the catholic church before it existed; but it did not exist before it was the case that it is; but
+of the catholic church before it existed; now it did not exist before it was the case that it is; now
 since it was not the case that it [114] is before the said written [definition] applied to it, it
 follows that it was then first the church.[^7] This would be very [absurd]{g:inconveniens}: first,
 because Christ would not have formed the church from his side; secondly, because no faithful would
@@ -96,8 +96,8 @@ church, the [bride]{g:sponsa} of Christ; or else the church at its perfection wi
 which is against scripture and reason.[^11] [115] Eighthly it seems that the catholic church is
 nowhere, nor has any part, since it is nothing; and so the Roman church would be neither worthier nor
 less worthy than the catholic church. I set out these [evidences]{g:evidencia} so that the answer may
-be made seriously to the matter and form of the arguments, nowhere turning aside from the truth in the
-proper sense of the words; for the teaching which I have expounded concerning the church I am willing
+be made seriously to the matter and form of the arguments, nowhere turning aside from the truth [in the
+proper sense of the words]{g:de-virtute-sermonis}; for the teaching which I have expounded concerning the church I am willing
 to defend in the proper sense of the words, sharing it with the most captious sophist and with anyone,
 believer or unbeliever, who wishes to be as wanton as he likes.[^12] But if this definition is not
 valid, to what purpose is it set down for knowing holy mother church? Ninthly it seems, supposing the
@@ -160,7 +160,7 @@ because one must diligently resist errors at their beginnings, since admitting t
     quandam descripcionem ecclesie continue infra*.
 
 [^6]: **C.** *Simpliciter infideles*: unbelievers without qualification, outside the faith
-    altogether; *fidem creditam valde rectam*: what they believe is in great part right. *Obliquatam*:
+    altogether; *fidem creditam valde rectam*: what they believe is very largely right. *Obliquatam*:
     bent, made crooked.
 
 [^7]: **C.** *Fuit ita quod illa est*: "it was the case that it is", that is, that the definition
@@ -183,7 +183,7 @@ because one must diligently resist errors at their beginnings, since admitting t
     faith and on this definition is no church.
 
 [^12]: **T/C.** The *V* before *Istas* (115.5) is not Wyclif's (an alinea or margin letter) and is not
-    translated. *De virtute sermonis*: in the proper sense of the words (proposed for GLOSSARY).
+    translated. *De virtute sermonis*: in the proper sense of the words (GLOSSARY).
     *Communicando*: putting [the teaching] to any disputant; *protervire*: to argue wantonly.
 
 [^13]: **T/C.** B *ipse exercitet* (115.19). *In aliquos istorum, ergo in istos*: from headship over

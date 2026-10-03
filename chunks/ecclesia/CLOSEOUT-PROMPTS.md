@@ -21,6 +21,18 @@ class, severity (**error** = says something the Latin does not / omits an argume
 English (exact replacement text, so it can be applied), and the reason. End with per-chunk counts and
 one line on each chunk's overall state. Be economical: read each chunk once.
 
+## A2. Apply a review — {FILES}
+
+Working directory ~/wyclif. Apply the review rows in {FILES} to the chunks they name
+(`chunks/ecclesia/wyc-ecclesia-NN-x.md`), English and notes only. The coordinator's rulings: {RULINGS}.
+Rules: never touch the `>` Latin lines or the front matter; keep note numbering 1..n in order of anchors
+(renumber if you add a note); a new tag uses a lower-case hyphenated key that exists in GLOSSARY.md (grep it);
+leave existing spaced keys like `{g:ex fide}` alone (fixed later by script). Where a row's "current English" is
+not found verbatim, find the passage by the Latin and apply the intent; if it cannot be applied safely, skip it.
+Then run `.venv/bin/python scripts/w3/lint.py chunks/ecclesia/wyc-*.md` (must be 0 problems) and append to each
+review file a section `## Applied 2026-10-03` listing every row: applied / applied-adjusted (how) / skipped (why).
+Reply in under 80 words.
+
 ## B. Connective check — extract {NN}
 
 You are checking *sed* and *autem* in Wyclif, *De ecclesia* (ed. Loserth), ~/wyclif. Read

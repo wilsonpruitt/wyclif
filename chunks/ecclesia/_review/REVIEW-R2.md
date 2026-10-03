@@ -55,3 +55,38 @@ Classes: 1 terms · 2 connectives · 3 medieval sense · 4 construal, or a note 
 - **06-a**: Sound English. Most of the rows are bookkeeping: tags and notes that predate the 2026-10-02 rulings (*capitatus*, *denominacio*) and quotation bounds on p. 118. The one error is in n. 20, which states the part/whole inference backwards. The English beside it is right.
 - **06-d**: The hardest chunk of the four, and well noted. It has one real error: the *deducendo pure creaturam* clause is rendered opaquely, and n. 8 explains it backwards. Everything else is labelling.
 - **06-g**: Good English. The remaining work is glossary conformity to rulings made after drafting (*res sacramenti*, the four graces, *denominacio*). Two silent construals need a note or a fix: *ad membra et omne*, and the quantifier in *omnis … non sit*.
+
+## Applied 2026-10-03
+
+- #1 applied.
+- #2 applied.
+- #3 applied (tag on first occurrence; n. 12 "(GLOSSARY)").
+- #4 skipped (coordinator: spaced keys fixed by script).
+- #5 applied.
+- #6 applied (tag; n. 5 "(GLOSSARY)").
+- #7 applied (n. 3 recast; English unchanged).
+- #8 applied.
+- #9 skipped (coordinator: script).
+- #10 applied.
+- #11 applied.
+- #12 applied.
+- #13 applied-adjusted (coordinator ruling): single quotation kept; n. 10 now reads "Wyclif adds *filius regni* (roman in the print)".
+- #14 applied.
+- #15 applied (both places and n. 12).
+- #16 applied.
+- #17 applied.
+- #18 applied.
+- #19 applied as proposed (English and n. 8).
+- #20 applied (tag; n. 8 "(GLOSSARY)").
+- #21 applied (both places).
+- #22 applied.
+- #23 applied (tag `{g:res-sacramenti}` on "reality"; n. 2 recast).
+- #24 applied.
+- #25 skipped (coordinator: script).
+- #26 applied.
+- #27 applied (four tags on first occurrences).
+- #28 applied (English and n. 12).
+- #29 applied (addition to n. 14).
+- #30 applied as proposed.
+
+Lint: 159 chunks, 0 problems.

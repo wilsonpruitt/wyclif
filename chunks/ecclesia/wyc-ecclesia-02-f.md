@@ -32,11 +32,11 @@ mother church; just as logicians truly say that, in knowing that being is in its
 things and each one in general.[^3] So (as I have often said), if any Christian has faith [formed]{g:fides
 formata} by [charity]{g:caritas}, however general, it suffices, with the virtue of perseverance, for
 salvation. For God, who gave the first faith, will give a clearer one, unless the faithful man puts an
-obstacle in the way. For God does not require that all his sons, through the whole of their wayfaring,
+obstacle in the way. For God does not require that all his sons, through the whole of their [wayfaring]{g:viacio},
 should think continually in a particular act of each particle of the faith; but [43] it is enough that,
 sloth set aside, they have faith formed in habit.[^4] From these things it is clear, third, that every
 faithful layman is bound to believe that he has Christ as his priest, rector, bishop and
-[pope]{g:papa}, and so of the other holy vicars of Christ. But, coming to the difficulty, [the answer
+[pope]{g:papa}, and so of the other holy [vicars of Christ]{g:vicarius-christi}. But, coming to the difficulty, [the answer
 is]{g:dicitur}: since acts belong to singular supposits, and our faithful lay people communicate with
 their [presbyters]{g:presbiter} and [curates]{g:curatus}, it is necessary that they have faith about
 them; therefore lay people are bound, of some of their [superiors]{g:prepositi}, to believe at least
@@ -71,16 +71,16 @@ its superiors when they give no matter for so believing.[^8]
 
 To the other difficulty, about the [canonization]{g:canonizare} of saints, it is clear that the answer
 must in a way correspond. For although there is stronger [evidence]{g:evidencia}, from the testimony of
-the Roman church, that the person whom it canonizes is a member of the [church triumphant]{g:ecclesia
+the Roman church, that the person whom it canonizes is a [member]{g:membrum} of the [church triumphant]{g:ecclesia
 triumphans}, and fuller evidence if God works miracles for the saint, yet in both cases, in such a
 matter, there can be illusion. For just as, by the confession of the church's laws, the [church]
-militant itself deceives and is deceived (as is clear in the fifth book of the Decretals, on the
+[militant]{g:ecclesia-militans} itself deceives and is deceived (as is clear in the fifth book of the Decretals, on the
 sentence of excommunication, *A nobis*), so far that it sometimes excommunicates many who are loosed
 and very acceptable as regards God: so it happens that it absolves some and enrols them in the
 catalogue of the saints, when before God they are most justly condemned.[^9] Therefore God forbid that
 a Christian should believe that it is of necessity for salvation that every faithful man believe
 explicitly of this man, and of whomever our church canonizes, that by that very fact he is blessed;
-for then we should have a creed far too long. Nor ought we to believe explicitly of any such man that
+for then we should have a [creed]{g:symbolum} far too long. Nor ought we to believe explicitly of any such man that
 he is not a saint; but [we ought to proceed] by sifting our consideration of such men, adhering to the
 side more probable to us, believing with a condition, or piously doubting with misgiving. Of some
 saints, though, we believe without misgiving, even explicitly, that they are saints, as of the
@@ -88,7 +88,7 @@ apostles, the martyrs and the saints of the primitive church; but of others, [45
 are canonized by reason of kinship, gain or gift, we need not lay down so much faith.[^10] Nor do I mean
 to assert or defend of anyone canonized that he is not part of the church triumphant; but I doubt with a
 certain misgiving, if I believe this, since I know that it is possible; and, if this is true, I believe
-implicitly what I do not know; nor do I wish to contend wantonly to prove of anyone short of Christ that
+implicitly what I am ignorant of; nor do I wish to contend wantonly to prove of anyone short of Christ that
 he is blessed, although of many I believe this without misgiving.[^11] Nor do miracles now current give
 true faith to all, since power can be committed to the devil, in punishment of the sin of an adulterous
 generation that seeks signs and lets go the necessary faith in [imperceptible]{g:insensibilis} things,
@@ -97,7 +97,7 @@ was said in the sixth book, sixth chapter).[^12] And a miracle is commonly calle
 work done by God miraculously; and so many are drawn to deduce ill-sounding conclusions, since every
 creature seems in this way to be a miracle as regards God. But formally a miracle is taken for an
 operation proper to God, wonderful to the creature; and so the blessed do not work miracles, although
-they are sometimes the occasion, so that God at the instance of their prayers or merits works a miracle.
+they are sometimes the occasion, so that God at the instance of their prayers or merit works a miracle.
 And then they are said to work such a miracle sub-authentically, or ministerially, as they commonly
 are.[^13] And that discernment of a miracle is hidden from them, except those to whom God has willed to
 reveal it. And would that so many ceremonies and signs were not multiplied in our church, since the
@@ -114,7 +114,7 @@ multitude of rites, taking away the freedom of the church, is the cause of many 
 saint would pray for us more effectually, supposing that, his cult set aside, we loved our Jesus more.
 For there are many saints unknown to us, more blessed than the canonized, who profit us more by praying
 than the said saints whose feasts we keep with particular devotion; since the prayer of the saints, who
-love more those who love their God more, profits according to the worthiness of the almsman.[^15]
+love more those who love their God more, profits according to the worthiness of the [almsman]{g:elemosinarius}.[^15]
 
 ## ¶4 · 46.23–46.23
 
@@ -126,7 +126,7 @@ There is also another evil of the church: that our superiors
 
 > [p. 46] exigunt ut credatur suis approbacionibus et reprobacionibus in cunctis suis iudiciis, quam exigunt ut credatur fides sacre scripture que est fides catholica, et plus persequuntur pro complecione suarum tradicionum, puniendo contravenientes asperius, quam faciunt contra blasphemantes in precipuam fidem Christi, sic quod de eis dici potest illud Psalmi XLI, 10: Qui edebat panes meos magnificavit super me supplantacionem. Voluptuosus quippe presidens sub pallio pacis ecclesie querit bona pauperum que sunt autonomatice [p. 47] panes Christi, et ille magnificat phariseice tradiciones proprias quibus tyrannice spoliat populum cui dicit verbo et opere quod equivalent vel superant legem Dei. Hoc autem est in effectu supplantacio legis
 
-require that credence be given to their approvals and reprobations in all their judgments [more] than
+more require that credence be given to their approvals and reprobations in all their judgments than
 they require that credence be given to the faith of holy scripture, which is the catholic faith;[^16]
 and they persecute more for the fulfilment of their traditions, punishing those who contravene them
 more harshly, than they do against those who blaspheme against the chief faith of Christ; so that of
@@ -155,7 +155,7 @@ are equal to or surpass the law of God. And this is in effect the supplanting of
 
 [^2]: **S.** Augustine, *De Trinitate* 13.2.5–3.6, on *fides quae creditur* and *fides qua
     creditur*; PL 42:1016–1017; Loserth: *Opp.* VIII, p. 929 (OCR doubtful) (LEDGER E02f-1). B *habitum* (42.13); B's
-    margin: *Fides sumitur tripliciter secundum Augustinum*. Wyclif's third sense (the habit) is not
+    margin: *Fides sumitur tripliciter secundum Augustinum*. Wyclif's second sense (the habit) is not
     Augustine's.
 
 [^3]: **C/R.** *Confuse*: "indistinctly", the scholastic *cognitio confusa* (knowledge of the general
@@ -194,7 +194,7 @@ are equal to or surpass the law of God. And this is in effect the supplanting of
     (LEDGER E02f-3): *iudicium ecclesiae nonnunquam opinionem sequitur, quam et fallere saepe contingit et
     falli*. Loserth's 5.39.21 is another *A nobis*, on general excommunication. A lacks
     *patet* (44.16); B's margin: *V. decretalium*. A's margin: *de canonisacione sanctorum ab ecclesia
-    Romana quomodo est credendum*. *Sanctorump* (44.8) is read as *sanctorum*.
+    Romana quomodo est credendum*.
 
 [^10]: **C.** *Excuciendo consideracionem*: *excutere*, "to sift, examine closely". *Apponere tantam
     fidem*: "lay down", "apply" so much faith. *Racione parentele, questus vel muneris*: kinship, gain or
@@ -212,22 +212,21 @@ are equal to or surpass the law of God. And this is in effect the supplanting of
     (45.14); the subject of *inducant* is unexpressed (the devil's agents). *Libro sexto, sexto
     capitulo*: B *quinto capitulo* (45.16); the place in *De veritate* is unidentified (LEDGER E02f-4).
 
-[^13]: **T/C.** *Sumiter* (45.21), *menti* and *hn* (45.25): read as *sumitur*, *meritorum* (or
-    *meriti*) and *hii*. *Subauctentice vel ministratorie*: as secondary, not principal, authors, or as
+[^13]: **C.** *Subauctentice vel ministratorie*: as secondary, not principal, authors, or as
     ministers; God alone is the author of the miracle. B's margins: *Miraculum dupliciter sumitur*;
     *Miraculum fit a sanctis subautentice*. *Eis*: we take it of men generally; it might be the saints.
 
-[^14]: **T/C.** *Chnsticolis* (46.4) is read as *christicolis*. *Unicius*: comparative of *unice*,
+[^14]: **C.** *Unicius*: comparative of *unice*,
     "more singly", with one object. B's margins: *De quanto sunt ritus laudabiles* (45.31); *De oracione
     sanctorum* (46.2).
 
 [^15]: **C.** *Secundum partem prodest et secundum partem obest*: impersonal. *Elemosinarii*: the
-    recipient of alms, here the one for whom the saints pray (their prayer is alms); not the glossary's
-    *elemosinatus*, but the same "almsman". *Qui plus diligunt eos qui magis diligunt Deum suum*: the
+    recipient of alms, here the one for whom the saints pray (their prayer is alms); GLOSSARY
+    *elemosinarius*, "almsman". *Qui plus diligunt eos qui magis diligunt Deum suum*: the
     saints love those more who love God more, so the worthier recipient profits more.
 
-[^16]: **T/C.** The sentence runs on from ¶4 (46.23). *Quam exigunt* lacks a comparative (*magis*,
-    *plus*), which we supply as "[more]"; the next clause has *plus … quam*. B's margin: *Prelati exigunt
+[^16]: **T.** The sentence runs on from ¶4 (46.23). *Plus* (46.24) stands at the end of ¶4 in our
+    Latin because the ¶ break is false; restored from the plate. B's margin: *Prelati exigunt
     quod suis sentenciis adhibeatur fides quarum transgressores vehementer puniunt*. *Superiores nostri*:
     not the glossary's *prepositi*.
 
@@ -259,5 +258,6 @@ are equal to or surpass the law of God. And this is in effect the supplanting of
   - 46: *fides* [THIN]
   - 46: *confusa* [THIN]
 - OCR scars corrected in the Latin by the coordinator (2026-10-02; 45.25 *meriti* read on the plate): 44.8 *sanctorump*, 45.21 *sumiter*, 45.25 *menti*
-  and *hn*, 46.4 *chnsticolis* (nn. 9, 13, 14).
-- 43.23 *capitulo*: the chapter number is wanting (n. 6). 46.23–25: no comparative before *quam* (n. 16).
+  and *hn*, 46.4 *chnsticolis*.
+- 43.23 *capitulo*: the chapter number is wanting (n. 6).
+- 46.24 *plus*: lost at a false ¶ break, restored from the plate (tokenfix).

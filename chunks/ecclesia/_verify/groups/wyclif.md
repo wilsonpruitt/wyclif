@@ -3,7 +3,7 @@
 | id | chunk / note | claim | status | how / next step |
 |---|---|---|---|---|
 | E02f-2 | ecclesia-02-f / n6 | *libro sexto, tractatu de mendacio* = *De veritate S. Scripture* (B *quinto*) | to-verify | Loserth's conjecture |
-| E04b-4 | ecclesia-04-b / n8–9 | *ut patet cap. X*; *ut dixi superius* | to-verify | John 10, or this book's ch. 10? |
+| E04b-4 | ecclesia-04-b / n9–10 | *ut patet cap. X*; *ut dixi superius* | to-verify | John 10, or this book's ch. 10? |
 | E04e-1 | ecclesia-04-e / n3 | "cap. III … Gregory" = this work's ch. 3 | to-verify | 03-a/03-b cite *Moralia* XXXI |
 | E06d-3 | ecclesia-06-d / n4 | Jerome to Paula and Eustochium | to-verify | not Ep. 46 (PL 22:483); Ep. 30, 31 unread |
 | E06f-4 | ecclesia-06-f / n14 | *in materia De Ideis* = Wyclif's *De ideis* (*Summa de ente*) | to-verify | not local |

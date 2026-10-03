@@ -55,3 +55,33 @@ Classes: 1 terms · 2 connectives · 3 medieval sense · 4 construal, or a note/
 **05-d (104.18–108.17).** The argument is construed accurately, with the quantifier order kept ("each with each") and the *sed*/minor-premiss "now"s correct. Its weakness is quotation extent. Measured against the plates, six quotations are mis-bounded: two italic runs split or truncated, two roman stretches quoted, and the "eight media" passage quoted on the wrong words. Two notes misstate what is settled on the plate.
 
 **Pattern.** Class 2 is nearly clean (one slip in about 120 sentences). There are no class-3 errors. The serious items are textual (#6) and mechanical. First, tag keys with spaces or capitals pass `lint.py` unchecked and would not render. A grep finds about 278 single-line instances across `chunks/ecclesia/`, not counting keys broken across lines, so this needs one scripted fix plus a lint rule, not per-chunk edits. Second, quotation extents were set by sense rather than by the print's italics. That predates the brief-45 rule, so other early chunks probably share it.
+
+## Applied 2026-10-03
+
+- #1 applied.
+- #2 applied (English and n. 9 as proposed).
+- #3 applied.
+- #4 applied; n. 15's *De inesse* gloss dropped.
+- #5 applied (all six tags).
+- #6 applied-adjusted (coordinator ruling): *plus* already restored to the Latin at the end of ¶4; the ¶ split is kept; ¶4 English unchanged; ¶5 begins "more require that credence be given …" (no bracket). N. 16 rewritten as proposed, letter **T**, adding "*Plus* (46.24) stands at the end of ¶4 in our Latin because the ¶ break is false; restored from the plate." Transcription notes: "46.23–25: no comparative before *quam*" deleted; "46.24 *plus*: lost at a false ¶ break, restored from the plate (tokenfix)" added.
+- #7 applied.
+- #8 applied: clauses deleted from nn. 9, 13, 14; nn. 13 and 14 now **C**; English "prayers or merit". The pointer "(nn. 9, 13, 14)" dropped from the transcription note's scar list, since those notes no longer mention the scars.
+- #9 skipped (coordinator: spaced/capitalised keys fixed by script).
+- #10 applied (six tags). N. 15 adjusted to cite GLOSSARY *elemosinarius* in place of "not the glossary's *elemosinatus*"; n. 4 left as is.
+- #11 applied.
+- #12 applied: new n. 6 at "teaching"; old nn. 6–15 renumbered 7–16. Consequential: 04-d n. 13 cross-reference "04-b n. 6" → "n. 7"; LEDGER.md and `_verify/groups/wyclif.md` locators for E04b-2..5 moved to n7, n8, n9–10, n15.
+- #13 applied (English and the note, now n. 15: "as chiefs").
+- #14 applied.
+- #15 applied-adjusted (coordinator ruling): "[?]" removed, English "a number"; the doubt stays in n. 11 (formerly n. 10), unchanged.
+- #16 skipped (coordinator: script).
+- #17 applied (five tags; "flowing moisture and a radical moisture" tagged as one span).
+- #18 skipped (coordinator: ledger stage). Note: after #12 the two notes are nn. 9 and 10.
+- #19 applied.
+- #20 applied.
+- #21 applied.
+- #22 applied.
+- #23 applied (n. 8 recast; *subluminaris* removed from the Doubts).
+- #24 applied: *contitinuum* removed from the corrected-scars list; line added "104.25 *contitinuum*: kept as printed (plate; n. 1)".
+- #25 applied.
+
+Lint: 159 chunks, 0 problems.

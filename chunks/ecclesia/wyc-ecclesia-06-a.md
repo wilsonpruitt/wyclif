@@ -35,7 +35,7 @@ Aristotle, is said relatively, it is clear to sophists that it does not follow: 
 father or this member is such a one's, therefore it is the head, father or member of that one"; nor
 does it follow: "This is the natural head of this [captain]{g:capitaneus}, who is head of a given
 church, therefore this is the head of that church."[^3] For it is not necessary, equivocating on
-"head", that if this is the head of a head, then this is the head of whatever is headed by that head;
+"head", that if this is the head of a head, then this is the head of whatever is [headed]{g:capitatus} by that head;
 and correspondingly of the other members. For any part of a [predestinate]{g:predestinatus} [person]
 can be called a part of the body of the church; yet nothing is a member of the church except a
 predestinate person, and every such [person] is a member of the church, as is to be said
@@ -46,7 +46,7 @@ Father in divine things generates, and he is the divine nature, therefore it gen
 not follow: "This person is headed by these heads, and this person is this church, therefore this
 church is so headed."[^5] For "church" signifies abstractly the multitude of the faithful in the
 respect in which they are united in the [head]{g:caput}; in which sense the church cannot be
-not-church or be damned. The church therefore is not monstrously composed. Now as to the second
+not-church or be damned. The church therefore is not monstrously composed. But as to the second
 [point], it is granted that the church is a virgin, since she is the [bride]{g:sponsa} of the virgin
 Jesus Christ, and from her, as from a true mother, we are spiritually begotten; and so she is most
 chaste as a whole in the [homeland]{g:patria}; here, however, committing fornication with the
@@ -77,17 +77,17 @@ the kingdom shall do the will of his Father who is in heaven, he is his brother,
 mother."[^10] And so, without distinction of spiritual sex, every predestinate Christian, whether
 male or female, is brother, sister, mother and bride of Christ. Therefore in Canticles 5:1 it is said
 to the church: "I am come into my garden, O my sister, my spouse." Indeed the church is truly the
-house of God, the city of the king of justice, the kingdom of heaven, "a garden enclosed, a fountain
-sealed up", and the other things that scripture attributes to her in the mystical sense.[^11] For in
+house of God, the city of the king of justice, the kingdom of heaven, a garden enclosed, a fountain
+sealed up, and the other things that scripture attributes to her in the mystical sense.[^11] For in
 spiritual things the same substance has in itself without repugnance any number of
-[aspects]{g:racio}, truly their denominations, as by way of example we can see how the species and
+[aspects]{g:racio}, truly their namings, as by way of example we can see how the species and
 intentions of contraries are together in the medium and in the mind. And he who [is ignorant
 of]{g:ignorare} this is very [unfit]{g:indispositus} to know in a catholic way that heavenly
 marriage.[^12] For Isaiah 26:1 says of Christ and holy church: "A saviour, a wall and a bulwark shall
 be set therein." For Christ according to his divinity embraces his bride immediately, and according
-to his humanity, by which he was made "a little less than the angels", he is the bulwark, because as
+to his humanity, by which he was made a little less than the angels, he is the bulwark, because as
 leader in war he overcomes the enemies of the church in dire combat; and so of any number of aspects,
-all of which the apostle, 1 Corinthians 15:28, comprehends in brief, saying that Christ is "all in
+all of which the apostle, 1 Corinthians 15:28, comprehends in brief, saying that "Christ is all in
 all".[^13]
 
 ## ¶3 · 118.33–119.11
@@ -101,7 +101,7 @@ thing. But others say that the church is the church, but is not something but so
 anything a member of the church; and so holy scripture concerning the head of the church, its soul
 and its other members is manifestly impossible.[^14] And so it seems they have to say commonly that,
 as the church is nothing, so it is worth nothing; and so Christ would be a most foolish merchant, who
-"delivered himself up" for the said church, and he would mock Christians too much with the espousals,
+delivered himself up for the said church, and he would mock Christians too much with the espousals,
 the privileges and the attributes of the church.[^15]
 
 ## ¶4 · 119.12–120.2
@@ -114,7 +114,7 @@ church is worth nothing. For it follows according to the rudiments of the discip
 is good" (adducing two particular churches), "therefore each of these is some thing"; and so a
 thousand things would be one thing which, although it reasons, lives well [or] ill, performs human
 acts [and] underlies accidents as a substance does, yet is nothing.[^16] Hence it has parts and is
-quite [perceptible]{g:sensibilis}, divisible, and so of the other denominations; but nothing is its
+quite [perceptible]{g:sensibilis}, divisible, and so of the other namings; but nothing is its
 head or member, nor is anything within, outside, or a part of the church, since it never began,
 begins, or will cease. And so not only will material houses not remain after the removal of the least
 material part by the wind or a bird, so that churches would have to be consecrated anew daily, but
@@ -166,8 +166,9 @@ since [he is so] according to [his] parts; therefore etc.[^20]
     together.
 
 [^3]: **T/S/C.** B *de
-    sophistis* (116.16); B *membrum est huius* (116.17–18) for the print's *huiusmodi*, which we
-    translate "such a one's" (Latin doubts). Head as a relative term: Aristotle, *Categories* 7 (to
+    sophistis* (116.16); B *membrum est huius* (116.17–18); the print has *huiusmodi* ("of this sort"),
+    which gives the inference no correlate; "such a one's" follows B's sense (*huius*), a departure from
+    the print (Latin doubts). Head as a relative term: Aristotle, *Categories* 7 (to
     be checked; LEDGER E06a-1). *Capitaneus*: a captain of a church, not its head (GLOSSARY).
 
 [^4]: **C/R.** *Equivocando in capite*: "head" as the bodily head and as the ruling person. *Pars* and
@@ -176,7 +177,7 @@ since [he is so] according to [his] parts; therefore etc.[^20]
 
 [^5]: **C/T/R.** The Father generates and is the divine nature, yet the nature does not generate: the
     scholastic rule, as in Lateran IV, *Damnamus* (to be checked; LEDGER E06a-2). *Capitatur*: "is
-    headed" (proposed for GLOSSARY). A margin, printed below 144c without mark (117.9): *Nota argumenta
+    headed" (GLOSSARY). A margin, printed below 144c without mark (117.9): *Nota argumenta
     logica de materia capitis ecclesie*. B lacks *sic* (117.13). Loserth (117.9): cf. Hus, *De
     ecclesia*, *Opp.* I, fol. 198 (the OCR of the folio is unclear) (LEDGER E06a-3).
 
@@ -196,7 +197,7 @@ since [he is so] according to [his] parts; therefore etc.[^20]
 
 [^10]: **S/C.** Matt. 12:50, Vulgate *Quicumque enim fecerit voluntatem Patris mei … ipse meus
     frater*, DR "whosoever shall do the will of my Father … he is my brother"; Wyclif adds *filius
-    regni* and puts Christ's words in the third person (*patris sui … suus*). *Ex utroque parente*:
+    regni* (roman in the print) and puts Christ's words in the third person (*patris sui … suus*). *Ex utroque parente*:
     God as father, the church as mother.
 
 [^11]: **C/S.** *Sexus spiritualis*: we take *spiritualis* with *sexus*; it could go with
@@ -204,7 +205,7 @@ since [he is so] according to [his] parts; therefore etc.[^20]
     Vulgate; DR.
 
 [^12]: **C.** *Raciones vere earum denominaciones*: we construe "aspects, [which are] truly their
-    denominations", the aspects giving the names; the construal is doubtful. *Species et intenciones*:
+    namings", the aspects giving the names; the construal is doubtful. *Species et intenciones*:
     the likenesses of contraries (white and black) present together in the medium and in the mind.
 
 [^13]: **T/S/R.** Codd. *Ysidorus*; Loserth corrected *Ysaie* (118.24). Isa. 26:1 agrees with the
@@ -235,8 +236,8 @@ since [he is so] according to [his] parts; therefore etc.[^20]
     doctrina christiana* III.32 (Loserth, 120.8; LEDGER E06a-4).
 
 [^20]: **C.** *Nec est evidencia … quin*: we construe "nor is there evidence that … without its
-    following by the same token that …": the argument from what a people does to what its part does
-    would prove too much.
+    following by the same token that …": the argument from what a part does to what the whole army or
+    people does would prove too much.
 
 ## Transcription notes
 

@@ -24,13 +24,13 @@ status: translated
 Yet it is granted that by human [ordinance]{g:ordinacio} [clerics]{g:clericus}, the
 [predestinate]{g:predestinatus} as well as the [foreknown]{g:prescitus}, are constituted in
 ecclesiastical offices; but those who ordain such offices for them do not have the power to ordain that
-they be members or parts of the true [church]{g:ecclesia}.[^1] Further, it is granted that a
+they be [members]{g:membrum} or parts of the true [church]{g:ecclesia}.[^1] Further, it is granted that a
 predestinate [man], however far he may be in mortal [sin], does not cease to be a member of the true
 church, although by a pretended excommunication he is put, in name, outside the temporal and bodily
 communion of the pretended church. Hence Richard of St Victor, in a certain treatise *On the Power of
 the Keys*, which begins thus, "Whatsoever thou shalt bind": "A man," he says, "can be called a member
 of Christ according to a twofold consideration: either according to predestination or according to
-condition. According to predestination someone can be a member of Christ and not yet have
+[condition]{g:habitudo}. According to predestination someone can be a member of Christ and not yet have
 [charity]{g:caritas}; for according to the Lord's testimony, 'the charity of many shall grow cold.'
 According to this acceptation, therefore, it happens that a man is a member of Christ and is still held
 by the bond of due damnation; but according to condition he is called a member of Christ when he has
@@ -40,7 +40,7 @@ persevering charity were never of those true members of Christ who complete the 
 Yet according to a certain acceptation we can, and are accustomed to, call those who have transitory
 charity members of Christ, because of the conformity with his members which for a time they seem to
 have. But, to remove every scruple from those who inquire piously, we say that we are accustomed to be
-called members of Christ in three ways: by predestination, by preparation, by concorporation.[^3] By
+called members of Christ in three ways: by predestination, by preparation, by [concorporation]{g:concorporacio}.[^3] By
 predestination, when one is divinely preordained to life; by preparation, when a pagan or a false
 Christian is truly pricked to compunction and imbued with truth and charity; by concorporation, when
 the former, through the washing of the body, the latter, through the absolution of the
@@ -55,29 +55,29 @@ predestination, yet not yet by preparation; and many by preparation, but yet not
 concorporation. Augustine, while he was still an unbeliever, was by predestination [74] a member of
 Christ; correspondingly, he became a member of Christ by preparation when, believing in heart and
 fervent in devotion, he hastened to baptism. But baptized and joined in fellowship with the church, he
-was concorporated with the members of Christ."[^5] And this [teaching]{g:sentencia} Augustine teaches,
+was concorporated with the members of Christ."[^5] And this [teaching]{g:sentencia}[^6] Augustine teaches,
 *On Christian Doctrine* 3, chapter 32: "For that is not in truth the body of the Lord which will not be
 with him for ever. Hypocrites," he says, "are to be said not to be with him, not only for ever, but even
-now, although they seem to be in his church."[^6] And Chrysostom says the same in the *Incomplete*
+now, although they seem to be in his church."[^7] And Chrysostom says the same in the *Incomplete*
 [*Work*], homily 9: "Those who were God's could not perish, because no one can snatch from God." And
 the same is the teaching of the holy doctors who understand themselves in this matter; for otherwise
 the faith of scripture would be false, since, John 10:27–28, Christ says: "My sheep hear my voice. And I
 know them: and they follow me. And I give them life everlasting: and they shall not perish for ever.
-And no man shall pluck them out of my hand."[^7] And afterwards he proves from the immensity of the
+And no man shall pluck them out of my hand."[^8] And afterwards he proves from the immensity of the
 Father's gift (which is the Holy Spirit) that no one can do this, because his Father is omnipotent, out
 of whose hand no one can snatch anything. Now Christ and his Father are one with the Holy Spirit, who
 is their gift, by whom the church is joined to him (as is clear in chapter 10). Therefore no one can
-snatch his sheep out of his hand.[^8] For he eternally chose every member of the church as his
+snatch his sheep out of his hand.[^9] For he eternally chose every member of the church as his
 [bride]{g:sponsa}; therefore, just as no one can cease to be predestinate, so it is not possible that he
 should desert or expel any member of his bride, since (as I said above) the person choosing would then
-be improvident or ungracious.[^9] [75] Second, the same is confirmed [from the faith of
+be improvident or ungracious.[^10] [75] Second, the same is confirmed [from the faith of
 scripture]{g:ex fide}, 1 John 2:19, where the holy evangelist speaks of the foreknown who for a time
 remained in grace: "If," he says, "they had been of us, they would no doubt have remained with us." For
 it does not make sense that this conditional of so lofty an evangelist should be impossible and
 heretical. Third, it is confirmed from the saying of the apostle, Romans 8:35, where, speaking of
 himself and the other members of the church, he openly asserts that no creature shall be able to
-separate them from the charity which is a number [?] founded in Christ Jesus, binding together his
-members.[^10] Therefore he says in the same chapter, [verse] 9: "But you are not in the flesh, but the
+separate them from the charity which is a number founded in Christ Jesus, binding together his
+members.[^11] Therefore he says in the same chapter, [verse] 9: "But you are not in the flesh, but in the
 spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he
 is none of his." And he means that that man is not a part of his body.
 
@@ -87,14 +87,14 @@ is none of his." And he means that that man is not a part of his body.
 
 And if it is [objected, by appeal to]{g:obicitur per} this: that a foreknown [man] who is in charity
 has this bond, and consequently union, just as a predestinate [man] who is in crime lacks this bond, and
-consequently union: it is clear that, just as in the human body one must posit a flowing moisture and
-a radical moisture, so in the [mystical body of Christ]{g:corpus Christi misticum} one must posit grace
-according to present justice and consummated grace.[^11] Hence, just as [abscesses]{g:apostema} are
+consequently union: it is clear that, just as in the human body one must posit a [flowing moisture and
+a radical moisture]{g:humidum-radicale}, so in the [mystical body of Christ]{g:corpus Christi misticum} one must posit grace
+according to present justice and consummated grace.[^12] Hence, just as [abscesses]{g:apostema} are
 grown on through the flowing moisture, not continuous [with the body] because of the disparity of
 nature, so it is with the members of the devil, although for a time, according to present justice,
 they are grown on. But the predestinate, although for a time they are deprived of flowing grace, yet
 have the radical grace, from which they cannot fall away; and so, having a twofold grace, they are
-bound by a twofold bond. Yet the first ligament is indissoluble.[^12]
+bound by a twofold bond. Yet the first ligament is indissoluble.[^13]
 
 ## ¶3 · 76.1–76.24
 
@@ -106,16 +106,16 @@ church is most necessary today, as it was in the time of the synagogue. For just
 should perish, as Jeremiah recounts, chapter 7[:4]: "Trust not in lying words, saying: The temple of
 the Lord, the temple of the Lord, it is the temple of the Lord," so too now it seems [so with] certain
 [superiors]{g:prepositi} of a particular church, who claim to prove from faith that they rule Peter's
-little ship as its head, so that it can be shaken by the waves of the world but not sunk.[^13] And so
+little ship [as its head]{g:capitaliter}, so that it can be shaken by the waves of the world but not sunk.[^14] And so
 they imply that, by divine predestination, they cannot be damned, nor can [temporal
 goods]{g:temporalia} be stripped from their church; but that, of necessity of salvation, all other
-Christians must be subject to them, and that they, as chief [lords], in secular and spiritual
-[exercise of lordship]{g:dominacio}, [lord it]{g:dominari} over all the goods of the church.[^14] Hence,
+Christians must be subject to them, and that they, as [chiefs]{g:capitales}, in secular and spiritual
+[exercise of lordship]{g:dominacio}, [lord it]{g:dominari} over all the goods of the church.[^15] Hence,
 just as the Aaronite priests said that "the law shall not perish from the priest, nor counsel from the
 wise, nor the word from the prophet" (as is said in Jeremiah 18:18), so they seem to say today that the
 pretended and particular church is established in three ways: namely, by Christ's promise, by the prop
 of the church's law, which is equivalent to the Christian faith, and by the close ranks of many wise
-men.[^15]
+men.[^16]
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
@@ -153,52 +153,54 @@ men.[^15]
     Richard's word (*conformitatis praeparatione*, PL 196:1172D); we translate the print. The quotation
     ends with *concorporatus fuit*, where Richard goes on *Si quis ergo* (LEDGER E04b-1). *Infidelis*: an unbeliever.
 
-[^6]: **S/T.** Augustine, *De doctrina christiana* 3.32.45, on Tyconius' second rule, the Lord's
+[^6]: **C.** *Sentencia* (CONTEXTUAL): the position taught, "teaching", not a judicial sentence.
+
+[^7]: **S/T.** Augustine, *De doctrina christiana* 3.32.45, on Tyconius' second rule, the Lord's
     bipartite body (Loserth: *Opp.* III/1, 58) (LEDGER E04b-2). The second sentence (*Ypocrite …*) is
     Augustine's own (PL 34:82), without his *quia* and with *inquit* added. AB margin: *Augustinus* (74.5).
 
-[^7]: **S.** *Opus imperfectum in Matthaeum*, hom. 9 (Loserth: *Chrysost. Opp.* VI, lxi E; "Imperfecto
+[^8]: **S.** *Opus imperfectum in Matthaeum*, hom. 9 (Loserth: *Chrysost. Opp.* VI, lxi E; "Imperfecto
     sc. opere") (LEDGER E04b-3). John 10:27–28, DR; Wyclif *eos* for *eas* (no change in English). A
     margin: *Predestinatum membrum Christi non potest cessare tale membrum* (74.11).
 
-[^8]: **S/C.** John 10:29–30. The Vulgate *quod dedit mihi, maius omnibus est* (DR "That which my Father
+[^9]: **S/C.** John 10:29–30. The Vulgate *quod dedit mihi, maius omnibus est* (DR "That which my Father
     hath given me is greater than all") is read of the gift, the Holy Spirit. *Sed* brings the minor
     premiss ("Now"). *Cap. X* (74.24): John 10 (*Ego et Pater unum sumus*, 10:30) or chapter 10 of this
     book (the church joined to Christ by the Spirit); the reference is unchecked (LEDGER E04b-4).
 
-[^9]: **G/C.** *Ingrata*: rendered "ungracious", of God choosing, where GLOSSARY §D's "displeasing (to
+[^10]: **G/C.** *Ingrata*: rendered "ungracious", of God choosing, where GLOSSARY §D's "displeasing (to
     God)" cannot apply and "ungrateful" has no object; proposed. *Ut dixi superius*: not identified
     (LEDGER E04b-4).
 
-[^10]: **T/S.** 1 John 2:19, DR; AA₁ *per tempus* for *ad tempus* (75.3). Rom. 8:35–39 paraphrased: DR
+[^11]: **T/S.** 1 John 2:19, DR; AA₁ *per tempus* for *ad tempus* (75.3). Rom. 8:35–39 paraphrased: DR
     "the love of Christ" (8:35), "the love of God which is in Christ Jesus" (8:39), for *caritas*
     (GLOSSARY §A: "charity"); Wyclif cites 8:35. *Numerus fundatus* (75.10), as printed: B *minus
     fundatus*, which may point to *munus*, "a gift" (cf. *donum*, 74.22) or *nexus*, "a bond"; a doubt,
     reported. B lacks *eos* (75.9). Rom. 8:9, DR.
 
-[^11]: **C/R.** AB margin: *Obieccio* (75.16); B: *Solucio … Predestinati quomodo sunt in ecclesia et
+[^12]: **C/R.** AB margin: *Obieccio* (75.16); B: *Solucio … Predestinati quomodo sunt in ecclesia et
     quomodo presciti qui sunt ad tempus in gracia* (75.19). *Humidum radicale*: the radical (innate)
     moisture of medieval physiology, against the flowing (nutritive) moisture. *Est dare*: "one must
     posit". *Graciam secundum presentem iusticiam*: the grace of present righteousness, which the
     foreknown can have for a time.
 
-[^12]: **T/C/R.** *Adnata … non continuata*: grown onto the body, not continuous with it (Loserth's
+[^13]: **T/C/R.** *Adnata … non continuata*: grown onto the body, not continuous with it (Loserth's
     "excrescences"). *Predestinati autem* (75.26) is B's reading; A₁ *vero*, as also in Hus's reuse
     (Loserth: Hus, *Opp.* I, 204b; cf. Hus, *De eccl.*). B *Ligamentum cum* (75.30). *Ligamentum …
     primum*: taken as the bond of radical grace, the only indissoluble one, though it is named second.
 
-[^13]: **S/C.** Jer. 7:4, DR (Wyclif *VII°, cap. 4*, the verse). The MSS *repungnare* (76.4). *Videtur
+[^14]: **S/C.** Jer. 7:4, DR (Wyclif *VII°, cap. 4*, the verse). The MSS *repungnare* (76.4). *Videtur
     quosdam prepositos*: the accusative has no infinitive; supply "[so with]" or "[that] certain
     superiors [say]". *Ex fide convincere*: "to prove from faith" (a verb governs *ex*, so not the
     formula, GLOSSARY §C). *Petri naviculam*: the bark of Peter (Matt. 14:24–32). A margin: *Nota de
     papa* (76.10).
 
-[^14]: **C.** *Capitaliter … capitales*: as head, as chief lords, the claim Wyclif denies them (cf.
+[^15]: **C.** *Capitaliter … capitales*: as head, as chiefs, the claim Wyclif denies them (cf.
     *capitaneus*, GLOSSARY §A). *De necessitate salutis*: the formula of *Unam sanctam* (*Extrav.
     comm.* 1.8.1), cited by Loserth earlier in the work (LEDGER E04b-5). *Dominari*: "lord it", the
     pejorative sense.
 
-[^15]: **S/C.** Jer. 18:18, DR; Wyclif *neque … neque*. *Aaronite*: the priests of Aaron's line.
+[^16]: **S/C.** Jer. 18:18, DR; Wyclif *neque … neque*. *Aaronite*: the priests of Aaron's line.
     *Constipacio*: a crowding together, the "close ranks" of their learned supporters.
 
 ## Transcription notes

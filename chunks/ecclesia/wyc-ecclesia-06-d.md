@@ -48,13 +48,13 @@ true in the sign on both sides, not because it is then [the case] that Christ is
 is true that Christ is man for his time.[^6] Nor do I see that Christ is man for that time, since then
 he would be composed of a body and a soul which he would assume for that time; and above all he would
 be the first Adam according to matter and not according to seminal reasons, in the way in which the
-apostle says Levi was in the loins of Abraham, and in which Anselm says "that we all were Adam"; but
+apostle says "Levi was in the loins of Abraham", and in which Anselm says "that we all were Adam"; but
 it is limited to the individual existence of Christ's humanity.[^7] And to the first
 [objection]{g:instancia} the answer is that [it does not follow]{g:sequitur}, "This was eternally,
-and this is this man, therefore this man was eternally", when it is drawn out purely of the creature.
+and this is this man, therefore this man was eternally", when "this" points to a mere creature.
 [128] Yet it is granted of Christ that he was eternally God; nor does it follow, "If this man has
 potential being in secondary causes, therefore this man is for the same measure", for then every
-individual that could be would be; and so "being in potency" is a diminishing qualifier. Or, granted
+individual that could be would be; and so "being in potency" is a [diminishing qualifier]{g:distrahens}. Or, granted
 that Christ has created being for the given measure, that is, the being of the secondary cause, yet
 he does not then have the being of Christ, for then he would have singular existence as man.[^8]
 
@@ -79,7 +79,7 @@ granted that after those nuptials celebrated in the virgin's womb, when Christ w
 bulwark of his bride, he was head of a twofold aspect and of a twofold nature, and so at once
 intrinsic head and extrinsic head of the same church. And so to the authorities it can be said (as
 elsewhere) that Christ is, for the time of the old testament, not only according to the
-[Godhead]{g:deitas} but according to secondary causes; and so they can be called christians.[^10]
+[Godhead]{g:deitas} but according to secondary causes; and so they can be called Christians.[^10]
 
 ## ¶4 · 128.29–129.11
 
@@ -131,7 +131,7 @@ themselves servants of the servants of God, although in work, and consequently i
 chief servants of the father of lies and most lying members of the devil.[^18] And so it is necessary,
 according to the prophecy of scripture, that every one of the non-elect be perverted by lying and
 hypocrisy. And such men, as Augustine teaches in the book *On the Christian Life*, are not truly
-christians.[^19]
+Christians.[^19]
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
@@ -167,7 +167,7 @@ christians.[^19]
 
 [^4]: **C/T/S.** *Intrinsecum … extrinsecum*: a head within the body (as man) and a head flowing in
     from without (as God), as at 123.26 (06-b); *taliter*: as intrinsic head. Print *Paulum* (127.9, plate);
-    Jerome's addressees are Paula and Eustochium, and we give "Paula". The letter is not identified (Ep. 46, PL 22:483, does not have the
+    Jerome's addressees are Paula and Eustochium, and we give "Paula" (our emendation; the print has *Paulum*). The letter is not identified (Ep. 46, PL 22:483, does not have the
     passage) (LEDGER E06d-3).
 
 [^5]: **R/T/C.** A margin *Responsio* (127.10). A A₁ lack *Deus*, B *resurgunt* (127.15).  The presents (*creat*, *vivunt*, *incarnatur*) are
@@ -190,11 +190,11 @@ christians.[^19]
     "man" said of Christ, restricted to his humanity's individual existence; doubtful.
 
 [^8]: **T/C.** *Primam instanciam*: the argument from ideal and potential being (126.15–23).
-    *Deducendo pure creaturam*: taking the terms of the creature alone; "this" ranges over the eternal
-    Word, so the inference fails. B *Concedit* (128.1); B *esse in persona* (128.5, its place unclear).
+    *Deducendo pure creaturam*: pointing to a mere creature (cf. *deducendo*, 119.16, 06-a). Of a
+    mere creature the inference fails; of Christ, who is not a mere creature, it is granted that he was
+    eternally God (128.1). B *Concedit* (128.1); B *esse in persona* (128.5, its place unclear).
     *Mensura*: the measure of time. *Distrahens*: a qualifier that takes away from what it qualifies
-    (as "dead" in "a dead man"), so that "being in potency" does not yield "being" (Glossary
-    proposals). *Esse cause secunde*: the being Christ has in his causes, which is not his own.
+    (as "dead" in "a dead man"), so that "being in potency" does not yield "being" (GLOSSARY). *Esse cause secunde*: the being Christ has in his causes, which is not his own.
 
 [^9]: **C/T.** *Concedendo assumptum*: that a priest consecrating in the three days would consecrate
     Christ's body; for then his body and soul, though parted, were each Christ's. *Non pro illo tempore
