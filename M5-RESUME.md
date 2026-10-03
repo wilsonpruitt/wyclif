@@ -3,6 +3,19 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 50 (23-g, 23-h, 23-i) DONE
+- Opus 168K (no plates); Sonnet 119K. 4 tokenfixes: stray *can*, *Vel*→*vel* (572.21); plate: 569.31 *in* deleted
+  (a word of the English side-note beside it), 574.4 *culpe:*→*culpe?*.
+- Standing-rule supply: 575.7 "[to]" (print *sic infinitum*, no loss).
+- Print confirmed: *tante absolvere* (B *caute*), *quem mortuos*, *cum aliter*, 573.33, 574.8–13. Italics only at
+  572.32 *Tempus* and 575.33 *Sic volo … voluntas*; the bull clause is roman.
+- Not applied: pNNN line positions at 576.1–3 (*licenciam*, *tunc*) and the 23-i ¶4/¶5 split of one sentence
+  (structure left). Asterisk anchors dropped as everywhere.
+- Sources: Hus *Opp.* I 183b, 184a; Juvenal 6.223 (Loserth: recte *Hoc volo*); C.13 q.2 c.23. Open: E23g-2, E23h-3.
+- GLOSSARY: *laxare* "loose", *perdoniste*, *venia* "forgiveness", *taxare*, *casus calculatorii*, *pars
+  quanta/quota*, *colorabilis*, *potestas ordinis*, *vicarius Petri*.
+- **Next:** brief 51 = 23-j, 23-k, 23-l (built) — the LAST brief. 156/159 done.
+
 ## Status 2026-10-02 — brief 49 (23-d, 23-e, 23-f) DONE
 - Opus 174K (no plates); Sonnet 150K. 10 tokenfixes: *111°,*, *conclus*, stray F, stray *of* ×2, *meritai*, *Jn*,
   *-sufficerent*, 567.31 *Act. III, 6)* (plate: no degree sign), 562.8 *vicarii)*→*vicariis,* (plate).

@@ -510,3 +510,12 @@ otherwise.
 | potestas iudiciaria | judicial power | Ruled 2026-10-02 (*Eccl.* 23, 565.26). |
 | papa superstes | the surviving pope | Ruled 2026-10-02 (*Eccl.* 23, 567). |
 | premium accidentale | accidental reward | Ruled 2026-10-02 (*Eccl.* 23, 565.6). |
+| laxare | loose | Kept apart from *relaxare* "relax". Ruled 2026-10-02 (*Eccl.* 23, 571.29). |
+| perdoniste | pardoners | Ruled 2026-10-02 (*Eccl.* 23, 572.24). |
+| venia | forgiveness | Kept apart from *condonacio* "pardon". Ruled 2026-10-02 (*Eccl.* 23, 573.4). |
+| taxare | assess | Beside *taxacio* "assessment". Ruled 2026-10-02 (*Eccl.* 23, 574.1). |
+| casus calculatorii | calculatory cases | Ruled 2026-10-02 (*Eccl.* 23, 574.32). |
+| pars quanta / quota | a part of a quantity / a proportional part | As at 519.1. Ruled 2026-10-02 (*Eccl.* 23, 572.29). |
+| colorabilis | colourable | Beside *color*, *colorare*. Ruled 2026-10-02 (*Eccl.* 23, 575.1). |
+| potestas ordinis | power of order | Ruled 2026-10-02 (*Eccl.* 23, 575.15). |
+| vicarius Petri | vicar of Peter | Kept apart from *vicarius Christi*. Ruled 2026-10-02 (*Eccl.* 23, 575.31). |

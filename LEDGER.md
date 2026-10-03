@@ -961,3 +961,11 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E23f-3 | ecclesia-23-f / n10 | *par in parem non habet imperium*: the canon-law maxim (X 1.6.20 *Innotuit*?) | verified | Friedberg II Sext 5.12.3 Exiit |
 | E23f-4 | ecclesia-23-f / n13 | *Hostiensis (ut recitavi superius)*: Hostiensis on the treasury, earlier (cap. 22) | verified | pp. 519–522 |
 | E23f-5 | ecclesia-23-f / n15 | Thomas: the blessed did not do superabundant works *determinate* for this or that person (Suppl. q.25 a.1) | open | Thomas not on disk |
+| E23g-1 | ecclesia-23-g / n3 | Hus reuses 569.4ff. (Hus, *Opp.* I, 183b) | verified | foot 569.4: Hus Opp. I 183b |
+| E23g-2 | ecclesia-23-g / n6 | *doctor* = St Thomas, who leaves as absurd the two conclusions (remission without the indulgence for one worthy before God; indulgences made for the whole church): In IV Sent. d. 20 (Suppl. q. 25 a. 2)? | open | no Loserth foot; Thomas not on disk |
+| E23h-1 | ecclesia-23-h / n3 | Hus reuses 571.8ff. (Hus, *Opp.* I, 184a) | verified | foot 571.8: Hus Opp. I 184a |
+| E23h-2 | ecclesia-23-h / n1; 23-i n5 | bishops limited to 40 days' indulgence (a year at a church's dedication): Lateran IV c. 62 = *X* 5.38.14 *Cum ex eo* | verified | Friedberg II X 5.38.14 |
+| E23h-3 | ecclesia-23-h / n5 | *materia De Maximo et Minimo*: the logicians' treatise topic (Heytesbury, *Regulae*; possibly Wyclif's own logic) | open | no Loserth foot |
+| E23h-4 | ecclesia-23-h / n9 | gloss on Decretum C. 13 q. 2 c. 23 *Tempus* (form ours) | verified | foot 572.31: C.13 q.2 c.23 |
+| E23h-5 | ecclesia-23-h / n9 | "ut tetigi per Hostiensem superius" = 519.1, *secundum partem cotam non quantam* | verified | read in wyc-ecclesia-22-a.md (519.1) this session |
+| E23i-1 | ecclesia-23-i / n6 | Juvenal, *Sat.* 6.223 (*Hoc volo, sic iubeo …*) | verified | foot 575.34 |
