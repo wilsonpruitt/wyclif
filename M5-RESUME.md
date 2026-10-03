@@ -3,6 +3,22 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 51 (23-j, 23-k, 23-l) DONE: *De ecclesia* FULLY TRANSLATED (159/159)
+- Opus 174K (no plates); Sonnet 151K. 6 tokenfixes: stray *may* (576), *far* (584.1), Z (585), *jdem*,
+  584.10 *Judith VIII°, 13:*; plate: 586.20 lost stop — raw token `dispensare_` (stop read as "_"; keyed raw).
+- Standing-rule supplies: 576.3 "[because then]", 576 "[he can]", 585 "[I submit]", "[as they agree with these]".
+  582.1: English follows Loserth's foot correction (*que: superfluum; recte: quia data pena non videtur quod*).
+- Explicit 587.15 *Explicit tractatus de sancta matre ecclesia*; A₁ colophon in a T note.
+- Sources: *Quia in futurorum* (Extrav. Jo. XXII 9) revokes **Clement V**'s ban; X 5.38.4 = *Quod autem* (not
+  *Nostro* = .15); Clem. 5.9.2 *Abusionibus*; Ep. 82 §§21–22 + Ep. 28.3; Hus feet fol. 186b, 185b.
+- GLOSSARY: *remissio* headword, *potestas iurisdiccionis*, *laxus*, *episcopus Nullatensis*, *demereri*,
+  *questores*, *bonificare*.
+- **Run totals, briefs 40–51 (this session):** Opus ~2.2M, Sonnet ~1.9M.
+- **Next (WORKFLOW stages 9–10):** close-out — four-class review of the long dense chunks only, a connective
+  check, the open LEDGER rows (book-V cross-references E19a-1/E22f-9/E22h-12/E23a-3; Thomas/Bonaventure IV Sent.
+  not on disk); italics are not marked in any chunk (front matter `italics: none`) — decide whether the site
+  needs them. Then site build for `/ecclesia/` and deploy ⛔ only on Wilson's per-deploy OK. Nothing pushed.
+
 ## Status 2026-10-02 — brief 50 (23-g, 23-h, 23-i) DONE
 - Opus 168K (no plates); Sonnet 119K. 4 tokenfixes: stray *can*, *Vel*→*vel* (572.21); plate: 569.31 *in* deleted
   (a word of the English side-note beside it), 574.4 *culpe:*→*culpe?*.

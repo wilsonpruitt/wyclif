@@ -519,3 +519,10 @@ otherwise.
 | colorabilis | colourable | Beside *color*, *colorare*. Ruled 2026-10-02 (*Eccl.* 23, 575.1). |
 | potestas ordinis | power of order | Ruled 2026-10-02 (*Eccl.* 23, 575.15). |
 | vicarius Petri | vicar of Peter | Kept apart from *vicarius Christi*. Ruled 2026-10-02 (*Eccl.* 23, 575.31). |
+| remissio; remittere | remission; to remit | Headword row (cf. *condonacio* "pardon", *venia* "forgiveness"). Ruled 2026-10-02 (*Eccl.* 23). |
+| potestas iurisdiccionis | power of jurisdiction | Paired with *potestas ordinis*. Ruled 2026-10-02 (*Eccl.* 23). |
+| laxus | lax | Ruled 2026-10-02 (*Eccl.* 23). |
+| episcopus Nullatensis | a bishop "of Nowhere" | Ruled 2026-10-02 (*Eccl.* 23). |
+| demereri | to demerit | Ruled 2026-10-02 (*Eccl.* 23). |
+| questores | questors | Kept apart from *perdoniste* "pardoners". Ruled 2026-10-02 (*Eccl.* 23, 584). |
+| bonificare | make good | Ruled 2026-10-02 (*Eccl.* 23). |

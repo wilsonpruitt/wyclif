@@ -969,3 +969,14 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E23h-4 | ecclesia-23-h / n9 | gloss on Decretum C. 13 q. 2 c. 23 *Tempus* (form ours) | verified | foot 572.31: C.13 q.2 c.23 |
 | E23h-5 | ecclesia-23-h / n9 | "ut tetigi per Hostiensem superius" = 519.1, *secundum partem cotam non quantam* | verified | read in wyc-ecclesia-22-a.md (519.1) this session |
 | E23i-1 | ecclesia-23-i / n6 | Juvenal, *Sat.* 6.223 (*Hoc volo, sic iubeo …*) | verified | foot 575.34 |
+| E23j-1 | ecclesia-23-j / n14 | Thomas, *In IV Sent.* d.20 q.1 a.3 qc.2 = *ST* Suppl. q.25 a.2 (Loserth prints "Supplem. questio XXVII", which does not match) | editor | foot 579.2: Suppl. q. XXVII, Opp. VI 76 |
+| E23j-2 | ecclesia-23-j / n15 | the pious fraud and the mother promising an apple are Thomas's first opinion | open | Thomas not on disk |
+| E23j-3 | ecclesia-23-j / n12 | Hus, *Adversus indulgencias papales*, Opp. I fol. 186 | verified | foot 578.13: fol. CLXXXVIb |
+| E23j-4 | ecclesia-23-j / n16 | Augustine, Ep. 82 (formerly 19) to Jerome; the MSS read *nona*, and Loserth corrected it to *decima nona* | verified | PL 33 Ep. 82 §§21–22; cf. Ep. 28.3 |
+| E23k-1 | ecclesia-23-k / n1 | Thomas's three other opinions and his own conditions (*auctoritas / caritas / pietas*), Suppl. q.25 a.2 | open | Thomas not on disk |
+| E23k-2 | ecclesia-23-k / n4 | *Extrav. Jo. XXII* 9 un. *Quia in futurorum eventibus* (*De torneamentis*). The MSS read *Equidem*; Loserth corrected it. The form is ours. | verified | Friedberg II Extrav. Jo. XXII 9 |
+| E23k-3 | ecclesia-23-k / n4 | the earlier papal excommunication of tourneyers (Wyclif does not name the pope) | verified | Clement V (Friedberg II) |
+| E23k-4 | ecclesia-23-k / n10 | canons limiting a bishop's indulgence to 40 days and to his own subjects: X 5.38.14 *Cum ex eo*, X 5.38.4 *Quod autem* | verified | Friedberg II: X 5.38.4 is Quod autem (not Nostro = .15) |
+| E23k-5 | ecclesia-23-k / n13 | Hus, *Adversus indulgencias papales*, Opp. I fol. 175 ff. | verified | foot 583.16: fol. CLXXXVb (reading uncertain) |
+| E23l-1 | ecclesia-23-l / n2 | *Clem.* 5.9.2 *Abusionibus*. The form is ours. | verified | Friedberg II Clem. 5.9.2 |
+| E23l-2 | ecclesia-23-l / n2 | Wyclif's "liber septimus" means the Clementines | open | not checked |
