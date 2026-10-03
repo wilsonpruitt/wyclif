@@ -48,3 +48,6 @@ Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opu
 ## Log
 | stage | agent | tokens | result |
 |---|---|---|---|
+| A | R1 (02-b, 02-f, 04-b, 05-d) | 192K | 25 rows: 4 error, 9 weak, 12 style. Lost word *plus* 46.24 (false ¶ break) → tokenfix; quotation bounds in early chunks set by sense, not italics |
+| A | R2 (05-f, 06-a, 06-d, 06-g) | 184K | 30 rows: 2 error, 24 weak, 4 style (12 terms, 2 conn., 8 construal/note, 8 italics-rule) |
+| D | coordinator | — | lint.py widened: 278 tag keys with space/capital had been skipped; 2 stray `{g:per idem}` removed; lint 0 |

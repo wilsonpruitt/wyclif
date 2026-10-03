@@ -118,7 +118,7 @@ love more those who love their God more, profits according to the worthiness of 
 
 ## ¶4 · 46.23–46.23
 
-> [p. 46] Est et aliud malum ecclesie, quod superiores nostri
+> [p. 46] Est et aliud malum ecclesie, quod superiores nostri plus
 
 There is also another evil of the church: that our superiors
 
