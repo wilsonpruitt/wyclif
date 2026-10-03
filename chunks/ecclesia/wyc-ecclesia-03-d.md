@@ -81,7 +81,7 @@ Christ's merit and never afterwards fall into mortal [sin].[^6]
     58.23 (the words it replaces are not clear from the apparatus). A margin: *Equivocando conceditur
     corpus diaboli esse ecclesiam Christi*; B: *Ecclesia Christi nuncupative* (58.16).
 
-[^2]: **S/C.** Aquinas, *ST* III q.8 a.3 (LEDGER E03d-1): those who are members in a potency never
+[^2]: **S/C.** Aquinas, *ST* III q.8 a.3 co. and ad 1 (LEDGER E03d-1): those who are members in a potency never
     brought to act. *Illud*: neuter, "that [one]", the foreknown cleric or community. *Fides informis*:
     faith not formed by charity (GLOSSARY §A); B *formem* (58.32). A margin: *Presciti quomodo sunt in
     potencia membrum (sic) Christi secundum beatum Thomam*; B: *Sanctus Thomas* (58.27).
@@ -89,11 +89,11 @@ Christ's merit and never afterwards fall into mortal [sin].[^6]
 [^3]: **S/T.** *L* (59.2) and *M* (59.26) were Loserth's alinea letters, since removed from the Latin. B
     *literavi* for *limitavi* (59.1). 1 Tim. 4:10, DR without "men" (Wyclif lacks *hominum*); 1 John
     2:2, DR; A *nostris non tantum est* (59.7); B *per idem* (59.6). The two texts are the *sed contra*
-    of *ST* III q.8 a.3, as we recall; the third proof is not (LEDGER E03d-1). AB margin: *Triplex
+    of *ST* III q.8 a.3; the third proof is not (LEDGER E03d-1). AB margin: *Triplex
     obieccio* (59.3); B: *I. Tim. 4, I. Joh. 2* (59.4).
 
 [^4]: **S/C.** That Thomas grants Christ to be head "even of the devil" as to natural being is not
-    verified (cf. *ST* III q.8 aa.7–8, on the devil as head of the wicked) (LEDGER E03d-2). *Natura
+    verified: it is not in *ST* III q.8 (a.7 makes the devil head of the wicked) nor in *In III Sent.* d.13 q.2 (nearest, a.2 qc.2 ad 6: the wicked share with the members only natural life) (LEDGER E03d-2). *Natura
     specifica*: the human species, which the devil's members share with Christ. *Ut alias declaravi*:
     unidentified (LEDGER E03d-4). A margin: *Responsio* (59.13); *Nota* (59.21).
 

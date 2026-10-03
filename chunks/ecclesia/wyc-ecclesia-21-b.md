@@ -64,7 +64,7 @@ be understood: either as to the assessment and infliction of the punishment, and
 
 [^7]: **S.** Thomas, *In IV Sent.* d. 46, q. 2 (Loserth, 496.1; Wyclif's *questione prima* differs; LEDGER E21b-5). Luke 23:40 and Matthew 25:46 (DR). **C.** *Dampnacio*: "damnation" throughout; DR's "condemnation" in Luke 23:40 renders the same word, and the broad sense is the point of the citation. *Deputacio*: "deputation", the assigning of someone to a punishment. **T.** A *ut eis* (495.28); B *ista signacio* (496.7). **R.** A in the margin at 495.28: *Dampnacio capitur dupliciter*.
 
-[^8]: **S.** Hostiensis (printed *Ostiensis* here, *Hostiensis* at 494.1), *Summa aurea* bk 5, *De penitentiis et remissionibus* (LEDGER E21b-6). Decretum C.13 q.2 c.23 *Tempus* (Loserth, 496.10, "Decr. sec. pars, causa XIII, q. II, cap. XXIII"; the modern form is ours; LEDGER E21b-7). **C.** *Secundum quod anime defunctorum*: taken as the rubric of a section of the *Summa*, *secundum* perhaps standing for a printed §; it does not construe as "according as". *Glossa*: the ordinary gloss, presumably on that canon (LEDGER E21b-8).
+[^8]: **S.** Hostiensis (printed *Ostiensis* here, *Hostiensis* at 494.1), *Summa aurea* bk 5, *De penitentiis et remissionibus*, § *Quibus mortuis suffragia*, which opens *Hoc sciendum est quod anime defunctorum quatuor beneficiis adiuvantur* (LEDGER E21b-6). Decretum C.13 q.2 c.23 *Tempus* (Loserth, 496.10, "Decr. sec. pars, causa XIII, q. II, cap. XXIII"; the modern form is ours; LEDGER E21b-7). **C.** *Secundum quod anime defunctorum*: taken as the rubric of a section of the *Summa*, *secundum* perhaps standing for a printed §; it does not construe as "according as". *Glossa*: the ordinary gloss, presumably on that canon (LEDGER E21b-8).
 
 [^9]: **S.** Augustine on the punishment of Arius growing with his followers' error: Loserth refers only to Bonaventure (496.18; LEDGER E21b-9). **R.** Side-note 496.13; A in the margin at 496.18: *Responsio. Argumenta quod omnes salvabuntur et soluciones*.
 
@@ -78,7 +78,7 @@ be understood: either as to the assessment and infliction of the punishment, and
 
 [^14]: **C.** *Concedendo consequens*: Bonaventure grants that God punishes the damned mercifully, in the first of his two senses. *Taxacio*: the assessment, the fixing of the penalty's measure. The sentence runs across the paragraph division at 498.7–8. **T.** B *sequitur Deus* (498.4); A and B in the margin at 498.5: *Mitigacio pene dampnatorum dupliciter accipitur*. **S.** Bonaventure, ibid., pp. 1021–1022 (Loserth, 498.6; LEDGER E21b-13). **R.** Side-note 498.6.
 
-[^15]: **S.** Thomas, as at 496.1 (LEDGER E21b-5); the third opinion assigned to William of Auxerre (the codices *Altissiodorensi*, 498.20; LEDGER E21b-14). **C.** *Suffragantur*: passive, the damned "are aided by intercession". *Continuantur*: are joined; the works of the living reach the dead through the bond of charity. *Ut puta*: "that is", introducing the counts of the charge. **R.** Side-note 498.19.
+[^15]: **S.** Thomas, *In IV Sent.* d. 45 q. 2 a. 2 qc. 1 co. (= *Suppl.* q. 71 a. 5), quoted closely, though Wyclif's . **C.** *Suffragantur*: passive, the damned "are aided by intercession". *Continuantur*: are joined; the works of the living reach the dead through the bond of charity. *Ut puta*: "that is", introducing the counts of the charge. **R.** Side-note 498.19.
 
 ## Transcription notes
 

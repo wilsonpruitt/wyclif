@@ -75,7 +75,7 @@ Again, according to the doctor, the blessed did not do such superabundant satisf
 
 [^6]: **C.** *Cuicunque affecto suo*: for anyone he favours. *Quod est idem*: to give a blessed one's merit to another is the same as making the blessed one merit for him. *Thesaurum anime*: the treasure of the soul, its merit. *Quoad inferius corporale*: as regards the lower, bodily part. **S.** Job 1:12 (power over all he has) and Job 2:6 (Douay–Rheims, "but yet save his life"); Wyclif's argument takes *animam* as the soul. **T.** The codices read *Job primo*; Loserth corrected it to *II°* (566.8; LEDGER E23f-2).
 
-[^7]: **C.** *Preest*: is set over. *Doctorem*: St Thomas, whose teaching is under attack (564.8). His words are given in indirect speech; the source is not on disk (LEDGER E23f-1). *Intendere*: to maintain (row). *Purgandis spiritibus*: the spirits still to be purged. **R.** Side-note 566.10.
+[^7]: **C.** *Preest*: is set over. *Doctorem*: St Thomas, whose teaching is under attack (564.8). His words are given in indirect speech, from *In IV Sent.* d. 20 q. 1 a. 3 qc. 1 co. (= *Suppl.* q. 25 a. 1), quoted in 23-b (LEDGER E23f-1). *Intendere*: to maintain (row). *Purgandis spiritibus*: the spirits still to be purged. **R.** Side-note 566.10.
 
 [^8]: **C.** *Cassandi opus dyaboli*: to quash the devil's work. *Ne sufficiat amplius valere in eum*: the subject is taken as the devil, who can no longer prevail against his captive. *Ut dicitur*: as the defenders say. *Super multitudinem celestium, terrestrium et infernorum*: the words of Philippians 2:10, "of those that are in heaven, on earth, and under the earth" (Douay–Rheims). **S.** Luke 9:1, "power … over all devils" (Douay–Rheims). **T.** B *Et Luce IX° dicitur*.
 
@@ -91,7 +91,7 @@ Again, according to the doctor, the blessed did not do such superabundant satisf
 
 [^14]: **C.** *Ut innuitur*: as is hinted: Acts 3:6 does not say that Peter's poverty was the cause of his power. *Sanandi infirmum*: to heal the lame man of Acts 3. *Super eis*: taken as over the temporal goods; it may refer to the devils (567.20). **S.** Acts 3:6 (alluded to, "Silver and gold I have none"); Acts 8:18–20 (Simon).
 
-[^15]: **C.** *Item*: a further objection. *Secundum doctorem*: according to St Thomas (LEDGER E23f-5). *Determinate*: for a definite person. *Distributivam potestatem illius thesauri*: the power to distribute the treasury of the church. *Egenis ecclesie*: to the church's needy. *Palliatum*: cloaked. *Minor*: taken as *illud videtur multipliciter palliatum*. **T.** The codices read *huius*; *huiusmodi* is Loserth's reading (568.6). **R.** Side-note 568.5.
+[^15]: **C.** *Item*: a further objection. *Secundum doctorem*: according to St Thomas, *In IV Sent.* d. 20 q. 1 a. 3 qc. 1 co. (= *Suppl.* q. 25 a. 1) (LEDGER E23f-5). *Determinate*: for a definite person. *Distributivam potestatem illius thesauri*: the power to distribute the treasury of the church. *Egenis ecclesie*: to the church's needy. *Palliatum*: cloaked. *Minor*: taken as *illud videtur multipliciter palliatum*. **T.** The codices read *huius*; *huiusmodi* is Loserth's reading (568.6). **R.** Side-note 568.5.
 
 [^16]: **C.** *Pro illo qui eis participet*: for whoever shares in them. *Sicut quod reliquit papam, quod ipsa distribuat*: the subject of *reliquit* is God, and *ipsa* the works. *Peti ignotum per ignocius*: the fault of seeking the unknown through the more unknown.
 

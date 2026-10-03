@@ -77,4 +77,5 @@ Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opu
 | C | fathers-1 (37 rows) | 224K | 32 verified, 2 editor, 2 untraced (+E14g-5); 3 wrong ids fixed; 35 notes changed; 10-b "next"→"preceding chapter", 04-f "book 2", 08-a hedged "probably"; Higden Polychr. IV.26 closes E14e-5/E16d-2/E21g-6 (pass to their groups) |
 | C | history (39 rows) | 258K | 35 verified, 1 editor, 3 untraced; Nicholas II not III (E11a-5); 30 notes changed; Gloucester 20 Oct–16 Nov 1378 |
 | C | fathers-2 (36 rows) | 268K | 29 verified, 7 untraced; Sergius = Muhammad's monk, not Sergius III (E13d-2); 34 notes changed |
+| C | scholastic (35 rows) | 286K | 27 verified, 8 untraced; 4 wrong ids fixed (d.45 not d.46; Suppl. q.25 a.1; E16d-1; E04c-1 III Sent. d.13); 33 notes changed |
 | D | coordinator | — | lint.py widened: 278 tag keys with space/capital had been skipped; 2 stray `{g:per idem}` removed; lint 0 |

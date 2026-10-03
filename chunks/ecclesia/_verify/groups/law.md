@@ -33,3 +33,4 @@
 | E22c-8 | ecclesia-22-c / n13 | the gloss "only to terrify" is the ordinary gloss on that canon | open | no gloss in Friedberg OCR |
 | E23a-6 | ecclesia-23-a / n5 | *Johannes* may be Johannes Teutonicus (the glossator), not Loserth's "Nicolaus papa" | open | glossator not checked |
 | E23a-8 | ecclesia-23-a / n7 | Innocent IV and the Archdeacon on *conceduntur* in *Indulgentiae*; Innocent's gloss may instead be on X 5.38.14 | open | apparatus not on disk |
+| E21b-5 | ecclesia-21-b / n7, n15 | Thomas, *In IV Sent.* d. 46 q. 2, p. 707 (Wyclif: *questione prima*) | verified | foot 496.1: d.46 q.2, p. 707; Wyclif says q.1 |

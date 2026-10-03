@@ -50,7 +50,7 @@ To this I say, first, that the [inference]{g:consequencia} does not hold, since 
 
 ## Notes
 
-[^1]: **R.** A in the margin at 368.29: *Nota defectus beati Silvestri*. **C.** *Inquam* resumes the counterfactual of the preceding part: Silvester should have taught Constantine from the gospel instead of taking his charter. **S.** St Leonard of Noblac, who in his legend refused a bishopric offered by the Frankish king; the offer of half the kingdom is Wyclif's form of it (to be checked, LEDGER E16d-1).
+[^1]: **R.** A in the margin at 368.29: *Nota defectus beati Silvestri*. **C.** *Inquam* resumes the counterfactual of the preceding part: Silvester should have taught Constantine from the gospel instead of taking his charter. **S.** St Leonard of Noblac, who in his legend refused the bishopric the king of France meant to give him (*Legenda aurea* cap. 155: *ei episcopatum donaret. Quod ille renuit*); the half of the kingdom is Wyclif's counterfactual, not in the legend (LEDGER E16d-1).
 
 [^2]: **C.** The subject of *Ideo fecit* is Leonard. **S.** The angel's voice at the donation (*hodie diffusum est venenum in ecclesia Dei*) is a medieval commonplace Wyclif cites often, not traced to a single chronicle; Loserth gives no source here. Early Dante commentators give it in the same form (Jacopo della Lana: *diffusum*) (LEDGER E16d-2).
 
@@ -58,7 +58,7 @@ To this I say, first, that the [inference]{g:consequencia} does not hold, since 
 
 [^4]: **C.** *Doctor*: the opponent whose arguments this chapter answers, unnamed here. *Spolians christianos*: Constantine, as persecutor before his conversion; "[Caesar]" and "[them]" are supplied.
 
-[^5]: **C.** The second and third consequences show the cost of the opponent's premiss: if Silvester was bound to take the empire as restitution, temporal lordship belongs of right to the pope and to every bishop, which chapter 15 disproved. *Sub pena mortalis*: "[sin]" supplied, as throughout. **S.** Thomas the apostle giving the king's money to the poor is told in the *Acts of Thomas*; Laurence distributing the treasure of the Roman church to the poor in Ambrose, *De officiis* 2.28 (both to be checked, LEDGER E16d-4, E16d-5).
+[^5]: **C.** The second and third consequences show the cost of the opponent's premiss: if Silvester was bound to take the empire as restitution, temporal lordship belongs of right to the pope and to every bishop, which chapter 15 disproved. *Sub pena mortalis*: "[sin]" supplied, as throughout. **S.** Thomas the apostle giving King Gundaforus's money to the poor is told in the *Acts of Thomas* and the Latin *Passio Thomae* (e.g. Orderic Vitalis, *Hist. eccl.* II, PL 188:158A–160B, *egenis abundanter donare*); Laurence distributing the treasure of the Roman church to the poor in Ambrose, *De officiis* 2.28 (LEDGER E16d-4, E16d-5).
 
 [^6]: **T.** At 370.3 B lacks *continuum*; at 370.6 B reads *et assecuracione*; at 370.11–12 B reads *ab utentibus trahendo*. **C.** *Meritorius* is the neuter comparative, "more meritorious". *Capitali domino*: God as chief lord, to whom the tyrant owes satisfaction (so Nebuchadnezzar). *Aliis ut egentibus*: *ut* is taken as "as being"; the construal is uncertain.
 

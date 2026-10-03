@@ -209,7 +209,7 @@ workers of iniquity."[^17]
 
 [^14]: **S/R.** Thomas Bradwardine, the *doctor profundus*, *De causa Dei* I, corollary of chapter 23
     (Loserth's note: Bradwardine, confessor of Edward III, archbishop of Canterbury, d. 1349) (LEDGER
-    E04c-4). Wyclif gives the corollary in his own words; not checked against the text. B *nec partes
+    E04c-4). Wyclif gives the corollary almost word for word (Savile, 1618, I.23 capitula). B *nec partes
     aut* for *nec preces aut* (79.16). B margin: *Bradwardyn* (79.13); *Probat prescitum non esse
     partem ecclesie* (79.22).
 

@@ -41,7 +41,7 @@ Turn over, then, and turn over again the teaching of this doctor, great in canon
 
 ## Notes
 
-[^1]: **C.** *Quartum mendacium*: the fourth of the opponent's lies, numbered from chapter 21. *Ficcio testimonii*: a feigned testimony, Hostiensis being cited for what he does not teach (row *ficcio*). *De oracionis suffragio*: on the suffrage of prayer. **S.** Hostiensis (Henry of Segusio), *Summa aurea* V, *De poenitentiis et remissionibus*, § *Quibus mortuis prosint suffragia*; to be checked (LEDGER E22a-1). **R.** Side-note 517.28.
+[^1]: **C.** *Quartum mendacium*: the fourth of the opponent's lies, numbered from chapter 21. *Ficcio testimonii*: a feigned testimony, Hostiensis being cited for what he does not teach (row *ficcio*). *De oracionis suffragio*: on the suffrage of prayer. **S.** Hostiensis (Henry of Segusio), *Summa aurea* V, *De poenitentiis et remissionibus*, § *Quibus mortuis suffragia*, quoted closely (LEDGER E22a-1). **R.** Side-note 517.28.
 
 [^2]: **S.** The four benefits: Decretum C.13 q.2 c.22 *Animae* (Loserth, 517.30; the modern form is ours; LEDGER E22a-2). **T.** *Suffragia ecclesia*: so printed; taken as *ecclesie*, "of the church". B *sacris oracionibus* (518.3). **R.** Side-note 518.1; A in the margin at 518.5: *Oracionum suffragia an dampnatis prosunt*.
 

@@ -71,7 +71,7 @@ Hence such blameworthy blindness, an inordinate and covetous cult around relics,
 
 [^15]: **C.** *Ille … suspenditur*: *ille* is the defect. *Et alias*: Loserth adds *scil. gracias* (468.11). *Rectiloqui*: those who speak strictly, without equivocation. *Miticia*: mildness. **R.** A in the margin at 468.13: *Nota*. Side-note 468.13.
 
-[^16]: **S.** Lincoln is Robert Grosseteste, bishop of Lincoln; Loserth gives only A's margin; not located (LEDGER E19g-6). **C.** *Peccata redemit non actus sed defectus*: the sins redeemed are defects, not acts. **T.** B reads *peccata redeunt* (468.24). **R.** A in the margin at 468.23: *Lincolniensis*.
+[^16]: **S.** Lincoln is Robert Grosseteste, bishop of Lincoln; Loserth gives only A's margin; not found in his letters (ed. Luard) or the opuscula in Brown's *Fasciculus* II (LEDGER E19g-6). **C.** *Peccata redemit non actus sed defectus*: the sins redeemed are defects, not acts. **T.** B reads *peccata redeunt* (468.24). **R.** A in the margin at 468.23: *Lincolniensis*.
 
 [^17]: **C.** *Prefici bonis Dei*: set over God's goods as stewards. *Momentanea caritas*: charity for the moment, as against final charity. The sentence continues in the next part. **R.** A in the margin at 468.30: *Conclusio. De iudiciis sepe dubiis iudicancium*. Side-note 468.26.
 

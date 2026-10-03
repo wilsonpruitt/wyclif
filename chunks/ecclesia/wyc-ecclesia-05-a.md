@@ -192,7 +192,7 @@ pope, or, jointly and severally, for his college. But these two last members are
     cf. 04-e ¶1 (85.25–29). A margin (94.10):
     *Solucio obiectus. Solus Christus est caput ecclesie sancte catholice*. B *unum scribo animatum
     alteri* (94.14), a garble of *unum subordinatum alteri*; B *dominus Dardinandus* (94.15).
-    FitzRalph's example of the two heads: to be located (LEDGER E05a-3). *Respublica*: the commonwealth
+    FitzRalph's example of the two heads: untraced (not in *De pauperie Salvatoris* I–IV; Loserth gives no reference) (LEDGER E05a-3). *Respublica*: the commonwealth
     of Christendom.
 
 [^8]: **C/R.** *Simul in unum exemplare*: to be in one person the pattern of both kingdoms and of the

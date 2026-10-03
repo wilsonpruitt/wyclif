@@ -50,7 +50,7 @@ It is folly, then, out of fastidiousness to despise these sure secular privilege
 
 [^3]: **S/T.** *Perungitur*: anointed throughout. *Linicio parietum*: the anointing of the walls in the rite of dedication. 2 Maccabees 5:19: "But God did not choose the people for the place's sake, but the place for the people's sake" (DR). The manuscripts give *Exod. XXII*; Loserth prints XXXII (273.2). Exodus 32:29 (DR), where the Vulgate continues *Domino*, "to the Lord"; *propheta*: Moses.
 
-[^4]: **R.** The fisherman's dream: the Westminster legend that St Peter himself consecrated the abbey church, seen by a fisherman (identification of the legend and its source to be checked, LEDGER E12f-2).
+[^4]: **R.** The fisherman's dream: the Westminster legend that St Peter himself consecrated the abbey church, seen by a fisherman (Aelred of Rievaulx, *Vita S. Edwardi*, PL 195:756B, where it is a waking apparition to a Thames fisherman on the eve of the dedication; LEDGER E12f-2).
 
 [^5]: **C/R.** Side-note 273.10. *Da utrumque sompnium*: grant both dreams for the sake of argument. *Extraccionem … preceptam a rege*: the removal of the fugitives from sanctuary at the king's order in 1378 (12-a). *Opus misericordie*: Wyclif counts the extraction a work of mercy.
 

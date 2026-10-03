@@ -142,7 +142,7 @@ to his church only through him.[^17]
 [^3]: **C/S.** *Ex fide et iusticia operum*: "by faith and the justice of works", not the formula *ex
     fide* (the participle *salvandi* governs). *Bragmannis*: the Brahmans, the virtuous gentiles of the
     Alexander legend (B *bergmanis*). *Indy subditi sancto Thome*: the tradition that the apostle Thomas
-    evangelized India `[verify]` (LEDGER E02c-2). A reads *omnem omnem* (32.21).
+    evangelized India (Latin *Passio Thomae*, e.g. Orderic Vitalis, *Hist. eccl.* II, PL 188:158A) (LEDGER E02c-2). A reads *omnem omnem* (32.21).
 
 [^4]: **S.** *Extravagans Clementis sequente*: Clement V, *Meruit* (1306), which declares that *Unam
     sanctam* brings no prejudice to the king and kingdom of France; Loserth: *Extrav. comm.* 5.7.2 (our
