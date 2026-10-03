@@ -1,0 +1,41 @@
+# CHECK REPORT: De ecclesia 23-a/b/c (pp. 549.2-558.23), Loserth 1886
+
+Compared plates n0586-n0595 line by line against p549-p558.la.txt. Only discrepancies listed. Chunk files carry no italics at all (23-a header says "italics: none").
+
+## PLATE ITEMS (PRINT / OUR / ACTION)
+1. 550.2 (not 549.27): PRINT "cap. *Indulgencie* in principio" (word whole, line-end before 203c A). OUR p550 and chunk 23-a "in princip". ACTION: restore "principio".
+2. 550.16-17: PRINT "super vero conceduntur per Innocentem et Archidiaconum". No apparatus on line 16 or 17 (foot has 13, 14, 22, 24, 25 only). OUR "super vero" = print. ACTION: Latin stays; "verbo" is a translator emendation, flag as such.
+3. 551.3-5: PRINT "(ut patet in De Penitenciis / et Remissionibus; cap. *Quod autem)* in verbo, sed / queres quid sonat?" The "(" stands before *ut patet* (551.3), NOT before De Penitenciis or cap.; ")" closes inside the italic after *autem*. Foot 4: "In verbo (?); in codd. A B: in v̄." Source note 4: Decret. Greg. IX lib. V tit. XXXVIII cap. IV. OUR p551 "ut patet" without "(". ACTION: add "(" before "ut patet"; the in verbo reading is Loserth's expansion of A B "in v̄" with his (?).
+4. 551.13-14 PRINT "sed quod / libuerit plus vel minus": no apparatus, OUR agrees. 552.18-19 PRINT "in / pleno penitencie faceret": no apparatus, agrees. 553.25 PRINT "vel communiter fierent": foot 25 "A: nihil communiter". Agrees.
+5. 553.22: PRINT "non determinate pro isto qui non remis-/sionem indiget, huiusmodi opera fecerunt". Both *non* are printed; NO apparatus on 21-22. Foot 23 is "huius in codd. sic et in pluribus locis seqq." (on *huiusmodi*, so codd. read huius; Loserth prints huiusmodi). OUR agrees. ACTION: Latin unchanged; dropping the second non is a sense choice only.
+6. 556.17: "sic; sicut(?)" is on *sic* in "non deficiat fides sua, sic pretendit se facere de facto" (line 17). Codd. sic; Loserth suggests sicut(?).
+7. 557.5-6 PRINT "Gallatis VI°, 2°:" both numerals with superscript degree (VI°, 2°). OUR agrees.
+8. 558.2: PRINT "pro suo contento". Foot 2: "contento; in codd. A: co^to (cotitato? cf. partem cotam p. 519, l. 6); B: toto." So A reads an abbreviated co^to, which Loserth glosses cotitato?; B toto. Correct.
+9. Side-notes: 556.5 block "I propose to give / 1. Arguments in its favour; / 2. Arguments against it; / 3. My own judgment." 556.9-11 "In its favour:" then "a) One man may make satisfaction for another." Also 556.21 "b) Christ gave to Peter full power of binding and loosing." 556.28 "c) The Pope's acts shew that he declares it catholic." The lone "a" ending line 9 ("potest a", before "de sua absoluta") is the margin siglum for a), as are D at l.7, b at l.21, c at l.29. It is NOT text; p556 correctly omits it.
+10. ITALICS (first...last; "." or ";" italic as noted):
+- 549.10 *inde et algere*; 549.12-13 *Indulgenciam domini cum lacrimis postulemus,* (postulemus italic; ", et sic" roman); 549.22 *Indulgencie,*; 549.26 *Interfectores;*
+- 550.1 *Indulgencie* (in principio roman); 550.17 *Indulgencie);* ; 550.18 *licet,* (roman *inquit,*), *restricta ... remittat.* (remittat italic, ends 550.23); 550.24-25 *Remitto ... pro peccatis,*
+- 551.4 *Quod autem)* only.
+- 552.1-16: *Ab omnibus,* (roman *inquit,*) *conceditur indulgencias ... iniunctis.* (iniunctis italic). *Et manifeste patet deduccio ... in via* is ROMAN.
+- 553.5 *Ideo,* (roman *inquit doctor,*) *aliter est dicendum ... Corinth. I°.* (553.27); *Et sic predicta merita* (roman *quamvis*) *sint communia tocius ecclesie,* then ROMAN "tamen papa distribuit ea dispariter, sicut ea"; italic resumes *que sunt communia ... arbi-* / 554.1 *trium ... distribuatur;* ROMAN: "sic de indulgenciis est censendum."
+- 554.9 *Si,* (roman *inquit,*) *prelatus relaxat ... quam pietas.* (pietas italic, ends); *Et patet ... rebellio.* roman; 554.14 *Obtinemus,* (roman *inquit,*) *bonum ex triplici ... gloria.* ; 554.23 *Secundo modo ... 555.7 meritorum ecclesie.* continuous (run ends at *ecclesie*, NOT iusticie); "Et omnia ista ... iusticie. Et ita dicit quod" ROMAN.
+- 555.9 *indulgencie fiunt ... spirituales.* (555.14); 555.20 *Thesaurus iste,* (roman *inquiunt,*) *est habundancia ... tamquam thesaurus ecclesie.* (ecclesie italic, ends 555.28); "Ista sentencia ..." roman.
+- 556.16 *Christus oravit* (roman Luce XXII°, 32,) *ut non deficiat fides sua,*; 556.24 *Quodcunque ligaveris ... in celis.*
+- 557.7 *Alter alterius onera portate;*; 557.19 *Quis infirmatur ... infirmor?*
+- 558.25 *Tu reddes unicuique iuxta opera sua.*
+11. SYSTEMATIC: only three p-file discrepancies. All else (all line-end hyphens, page heads/feet, 549.2-558.23) agrees; no garbage tokens.
+- (a) p550 "in princip" -> "principio" (item 1).
+- (b) p551 missing "(" before "ut patet" (item 3).
+- (c) p554.20 PRINT "quo meremur liberari a / pena eterna"; OUR "liberari pena eterna". A dropped at line end. ACTION: insert "a" (chunk 23-b).
+- (d) p558.25 PRINT "Psalmo LXI°, 13 dicitur" (foot 25: In codd. LXXXI.); OUR "LXI°, 1". ACTION: "LXI°, 13".
+- Print oddities already matching: "huiusmodi" at 553.23 (codd. huius), "supererogat" 555.27 (codd. supererogata), "commutatur" 555.4 (codd. commutacio).
+
+## SOURCE ITEMS
+A. CONFIRMED. Sext V.10.3 (Friedberg II, title De poenitentiis et remissionibus, "CAP. III", Idem [Bonifacius VIII], marginal "Decretalis Quum ex eo ... indulgentibus"): "Indulgentiae, quae ab uno vel pluribus episcopis in ecclesiarum dedicationibus vel aliis quibuscunque casibus conceduntur, vires non obtinent, si statutum excesserint concilii generalis." Contains *conceduntur*. Index also "Indulgentiae, de poenit. et remiss. V. 10. 3." (The whole chapter, as OCR'd, is this one sentence under a Rubric; Loserth's "Rectè: Sexti ... lib. V tit. X cap. III".)
+B. CONFIRMED. C.33 q.2 c.5: "Coniugia penitus interdicantur his, qui suas uxores occidunt. Interfectores suarum coniugum sine iudicio ... ... imo indulgentia obseruanda." Inscription: "Unde Nykolaus Papa scribit Rodulpho, Biturigensi Archiepiscopo." Nicholas I (Loserth foot: "Legendum: Nicolaus papa", codd. Johannes).
+C. CONFIRMED. X 5.38.14 "Quum/Cum ex eo", Idem in eodem [Innocent III; Lateran IV c.62]: dedication of a basilica, indulgence not beyond a year; on the anniversary XL days; rubric "ultra XL dies remissio excedere non debet" for letters of indulgence from anyone other than the Pope.
+D. CONFIRMED. X 5.38.4 (rubric "Indulgentiae, quae conceduntur per praelatos non subditis, non prosunt, nisi proprii iudices hoc concedant"), Idem Archiepiscopo Cantuariensi: "Quod autem consuluisti, utrum remissiones, quae fiunt in dedicationibus ecclesiarum aut conferentibus ad aedificationem pontium, aliis prosint, quam his, qui remittentibus subsunt, hoc volumus tuam fraternitatem firmiter tenere, quod, quum a non suo iudice ligari nullus valeat vel absolvi, remissiones praedictas prodesse illis tantummodo arbitramur, quibus, ut prosint, proprii iudices specialiter indulserunt. Et in hoc eam intelligas quaestionem solutam, in qua quaeritur, utrum is, qui excommunicato communicat, a suo episcopo vel excommunicati absolutionis gratiam debeat implorare."
+E. X 3.45 = DE RELIQUIIS ET VENERATIONE SANCTORUM CONFIRMED, but it has only TWO chapters (c.1 Audivimus, Alexander III; c.2 Quum ex eo, Innocent III, Lateran IV, ending "[Eleemosynarum etc. (cf. c. 14. X. de poenit. V. 38.)]"). NO cap. 5 in the Decretals; Wyclif's "capitulo V°" cannot be X 3.45 (Loserth's foot instead treats it as a William's work). ACTION: do not cite X 3.45.5.
+F. No PL hit for indulgere from inde + algere (grep of ~5,276 TEI files for algere/algeo near indul-/inde; none). Papias/Hugutio not on disk.
+G. Loserth's feet: 551.30 "Thom. Aq. Comment. in lib. IV. Sent. Opp. tom. IX, pag. 374." 553.6 "Thomae Aquinat. super IV. Sent. l. c. pag. 374." 554.10 "Lib. IV. Sententiarum dist. XX, pars II, art. I, quaestio II. Conclusio. Sancti Bonaventurae Opp. tom. IV, pag. 556 (ed. Ven. 1754)." 555.8 "Dist. XX, pars II, quaest. III (pag. 558)." 552.2 B in marg.: "Sentencia sancti Thome et Bonaventure super materia indulgenciarum hec est: ..." (a long B marginal summary).
+H. 555.29: "An Wilhelmus Autissidorensis, W. de Monte Laudano, Durantis, de St. Amore, alterve, non video."

@@ -493,3 +493,15 @@ otherwise.
 | memoriale | memorial | Ruled 2026-10-02 (*Eccl.* 22). |
 | affeccio naturalis / deliberativa | natural / deliberative affection | Ruled 2026-10-02 (*Eccl.* 22). |
 | beatitudo circularis | circular blessedness | Hostiensis's term. Ruled 2026-10-02 (*Eccl.* 22). |
+| indulgere | to indulge | The etymology (*inde* + *algere*) turns on the verb. Ruled 2026-10-02 (*Eccl.* 23, 549). |
+| forum penitencie / penitenciale; forum ecclesie / Dei | court of penance; court of the church / of God | Ruled 2026-10-02 (*Eccl.* 23, 550.15). |
+| condonare; condonacio | to pardon; pardon | Kept apart from *remittere / remissio* "remit / remission". Ruled 2026-10-02 (*Eccl.* 23, 549.27). |
+| cambium | barter | Kept apart from *commutacio* "exchange". Ruled 2026-10-02 (*Eccl.* 23, 551.24). |
+| thesaurus ecclesie | treasury of the church | Ruled 2026-10-02 (*Eccl.* 23, 551.11). |
+| supererogare; supererogacio | pay out beyond [what is owed]; supererogation | *supererogata merita* "supererogated merits". Ruled 2026-10-02 (*Eccl.* 23, 551). |
+| reatus pene | liability to punishment | Ruled 2026-10-02 (*Eccl.* 23, 552.4). |
+| copia / habundancia | plenty / abundance | Ruled 2026-10-02 (*Eccl.* 23, 553.15, 555.20). |
+| relaxare; relaxacio | to relax; relaxation | Ruled 2026-10-02 (*Eccl.* 23, 554.9). |
+| satisfaccio; satisfacere | satisfaction; to make satisfaction | Cf. *satispassio*. Ruled 2026-10-02 (*Eccl.* 23, 556). |
+| participative / iuvative | participatively / helpingly | Ruled 2026-10-02 (*Eccl.* 23, 558.2). |
+| in athomo | in an individual | The logicians' *atomus*. Ruled 2026-10-02 (*Eccl.* 23, 558.4). |

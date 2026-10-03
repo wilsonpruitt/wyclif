@@ -933,3 +933,18 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E22h-10 | ecclesia-22-h / n14 | the words are from Ambrose, De obitu Theodosii (Wyclif: "De officiis") | verified | PL 16 De obitu Theod. 3 |
 | E22h-11 | ecclesia-22-h / n16 | Hostiensis, Summa aurea, *beatitudo circularis* (cf. E22b-4) | to-verify | place not given |
 | E22h-12 | ecclesia-22-h / n19 | "capitulo ultimo libri quinti" | to-verify | cross-reference to Wyclif's own works |
+| E23a-1 | ecclesia-23-a / n2 | *indulgere* < *inde* + *algere*: the grammarians' derivation (Papias/Hugutio?) | open | not in PL; Papias/Hugutio not on disk |
+| E23a-2 | ecclesia-23-a / n2 | Hus reuses the passage: *Opera* I, 175; Loserth, *Hus u. Wiclif* 209 | editor | page foot 549.5 |
+| E23a-3 | ecclesia-23-a / n4 | *capitulo ultimo quinti libri*: Wyclif cross-reference | open | book V cross-reference |
+| E23a-4 | ecclesia-23-a / n5 | Wyclif's *secunda questione tercio capitulo Indulgencie* = VI 5.10.3, with the Archdeacon's gloss (Loserth's correction) | verified | Friedberg II Sext 5.10.3 |
+| E23a-5 | ecclesia-23-a / n5 | Decretum C.33 q.2 c.5 *Interfectores* | verified | Friedberg C.33 q.2 c.5 (Nicholas I) |
+| E23a-6 | ecclesia-23-a / n5 | *Johannes* may be Johannes Teutonicus (the glossator), not Loserth's "Nicolaus papa" | open | glossator not checked |
+| E23a-7 | ecclesia-23-a / n6 | a year for a dedication, 40 days otherwise = Lateran IV c.62, X 5.38.14 *Cum ex eo* | verified | Friedberg II X 5.38.14 |
+| E23a-8 | ecclesia-23-a / n7 | Innocent IV and the Archdeacon on *conceduntur* in *Indulgentiae*; Innocent's gloss may instead be on X 5.38.14 | open | apparatus not on disk |
+| E23b-1 | ecclesia-23-b / n1 | X 5.38.4 *Quod autem* | verified | Friedberg II X 5.38.4 |
+| E23b-2 | ecclesia-23-b / n5 | Thomas, *In IV Sent.* d.20 (*Opp.* IX, 374) | editor | page foot 551.30, 553.6 |
+| E23b-3 | ecclesia-23-b / n5 | = d.20 q.1 a.3 qc.1 / *Suppl.* q.25 a.1; extent of the two quoted stretches | open | Thomas not on disk |
+| E23b-4 | ecclesia-23-b / n9 | Bonaventure, *In IV Sent.* d.20 p.2 a.1 q.2 (*Opp.* IV, 556, Venice 1734) | editor | page foot 554.10 |
+| E23c-1 | ecclesia-23-c / n3 | Bonaventure, *In IV Sent.* d.20 p.2 q.3 (*Opp.* IV, 558) | editor | page foot 555.8 |
+| E23c-2 | ecclesia-23-c / n5 | *Willielmus* on *De reliquiis*, cap. 5: unidentified (Loserth names Auxerre, Montlauzun, Durand, Saint-Amour) | open | Loserth undecided |
+| E23c-3 | ecclesia-23-c / n5 | *De reliquiis et veneratione sanctorum* = X 3.45 | verified | X 3.45 has only 2 chapters |

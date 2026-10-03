@@ -3,6 +3,21 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 48 (23-a, 23-b, 23-c) DONE
+- Opus 184K (no plates); Sonnet 130K. **Lost word:** *a* at 554.20 (*liberari a pena*). 6 tokenfixes: *ofquod*,
+  *satisfacien do*; plate: 550.2 *in princip*→*principio*, 551.3 lost "(" (*conformior (ut*), 558.25 *LXI°, 13*.
+- Standing-rule emendations: 550.16 *super vero* → "on the word" (*super verbo*); 553.22 second *non* not
+  translated (print has both, no apparatus).
+- Quotations from the italics: 553–554 Thomas — Wyclif's *tamen papa distribuit ea dispariter, sicut ea* is
+  roman inside it (quote closed and reopened); 555 Bonaventure closes at *ecclesie* (not *iusticie*).
+- Sources: Friedberg II Sext 5.10.3 (*conceduntur*), X 5.38.4, X 5.38.14; C.33 q.2 c.5 (Nicholas I); X 3.45 has
+  only two chapters (Wyclif's *capitulo V°* unexplained). Thomas/Bonaventure IV d.20 not on disk (Loserth's feet
+  only). Open: E23a-1, E23a-3, E23a-6, E23a-8, E23b-3, E23c-2.
+- GLOSSARY: *indulgere*, *forum penitencie/ecclesie/Dei*, *condonare/condonacio* "pardon", *cambium* "barter",
+  *thesaurus ecclesie*, *supererogare/supererogacio*, *reatus pene*, *copia/habundancia*, *relaxare/relaxacio*,
+  *satisfaccio*, *participative/iuvative*, *in athomo*.
+- **Next:** brief 49 = 23-d, 23-e, 23-f (built). 3 briefs left (150/159).
+
 ## Status 2026-10-02 — brief 47 (22-f, 22-g, 22-h) DONE: chapter 22 translated
 - Opus 226K (opened pp. 545, 546); Sonnet 206K. 8 tokenfixes: *decipituro*, *COntraria*, *inDeCura*, stray V
   (547); plate: 538.6 *libri Vⁱ*, 537.14 *q. IIª*, commas after *XIIIª* at 539 and 540.
