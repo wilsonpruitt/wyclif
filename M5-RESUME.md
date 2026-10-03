@@ -3,6 +3,15 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-03 — close-out (stage 9) PAUSED, ~85% done
+- **Resume at `chunks/ecclesia/CLOSEOUT.md` § "RESUME HERE"** (philosophy ledger group, note repair, end pass).
+- Done: 25-chunk four-class review (174 rows, applied); *sed/autem* check of the other 134 chunks (69 fixed);
+  LEDGER 7 of 8 groups closed (~215 rows); Latin restored to the print at 46.24 *plus* (lost), 202.22,
+  258.23/25, 263.29, 267.3, 270.29, 424.4 (four were tokenfix rows silently emending Loserth's misprints).
+- Lessons written into WORKFLOW stages 4b/5/8/9 and the card (italics captured at stage 5, `boundaries.py`,
+  per-wave connective/ledger/glossary-conform gates) so the next close-out is small.
+- Cost so far ~5.2M agent tokens (Opus) against a 3.3M estimate; see CLOSEOUT.md Log. Nothing pushed.
+
 ## Status 2026-10-02 — brief 51 (23-j, 23-k, 23-l) DONE: *De ecclesia* FULLY TRANSLATED (159/159)
 - Opus 174K (no plates); Sonnet 151K. 6 tokenfixes: stray *may* (576), *far* (584.1), Z (585), *jdem*,
   584.10 *Judith VIII°, 13:*; plate: 586.20 lost stop — raw token `dispensare_` (stop read as "_"; keyed raw).

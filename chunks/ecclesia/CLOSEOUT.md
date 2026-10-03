@@ -45,6 +45,25 @@ items go to RULINGS-PENDING); italics (decide at stage 10).
 ## Cost
 Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opus**. At most 2 agents at once (8 GB).
 
+## ▶ RESUME HERE (paused 2026-10-03, usage)
+Done: A (review, 25 chunks, all applied) · B (connectives, 1,313 checked, 69 fixed) · C for 7 of 8 groups
+(fathers-1/2, history, scholastic, wyclif, law, liturgy: LEDGER statuses set). All committed locally; no push.
+Left, in order:
+1. **philosophy** (27 rows). An agent was running at pause. If `_verify/batch-philosophy.md` exists, check it
+   has a full table, then `python3 chunks/ecclesia/_verify/apply.py philosophy --dry`, then without `--dry`.
+   If it doesn't exist, re-launch per CLOSEOUT-PROMPTS §C with {G} = philosophy (~250K).
+2. **Note repair (~31 items + philosophy's).** The first `apply.py` cut note text at inner straight quotes and
+   skipped free-form cells silently (fixed: `notefix_lib.py`). Regenerate the list:
+   `python3 chunks/ecclesia/_verify/notefix.py fathers-1 history fathers-2 scholastic wyclif law liturgy
+   philosophy > chunks/ecclesia/_verify/REPAIR-LIST.txt`. One Opus agent: for each row, compare the batch's
+   intended note change with the chunk's current note (and `git log -p` on the chunk since 8b2b337), and make
+   the note say what the batch intended. Known case: 21-b n15 truncated ("though Wyclif's . **C.**"; law
+   batch has the repair). Then lint.
+3. **End pass (coordinator, cheap):** hyphenate/lower-case every `{g:…}` key (~278, incl. keys broken across
+   lines) and add the lint rule rejecting spaced keys; lint 0; `relatin.py ecclesia --dry` 0; check no
+   `to-verify`/`open` *De ecclesia* rows remain and no `[verify]` in chunks; PLAN cost row; M5-RESUME status.
+4. Wilson: `RULINGS-PENDING.md` (S1–S3 scope, R1–R6, doubtful connectives).
+
 ## Coordinator rulings for the appliers (A2)
 - All rows apply; where a row offers alternatives, take the one the reviewer prefers, else the first.
   Skip rows that only fix a spaced/capitalised tag key (script at the end). Ledger-id splits → stage C.
