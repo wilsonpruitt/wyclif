@@ -83,7 +83,7 @@ To this the answer is that the first [inference]{g:consequencia} does not hold, 
 
 [^7]: **T/C.** A margin *Responsio* (199.28). *Descripcio*: the definition of privilege given earlier in the treatise, "a good granted to the church or to a person"; *signanter*, "markedly", that is, with purpose. Side-note 200.4.
 
-[^8]: **G/C.** *Mortificacio privilegii*: the "death" of a privilege when it is abused. This is not GLOSSARY *mortificacio* "amortization" (land put into mortmain); rendered "mortification" and left untagged. "The end of chapter 6": a cross-reference not identified here (LEDGER E09e-4). *Ex fide*: GLOSSARY "as faith teaches". *Ex diffinicione privilegii*: GLOSSARY *diffinicio* 'definition'; the same definition is called *descripcio* at 200.1. A margin *Correlarium* (200.21). Side-note 200.10.
+[^8]: **G/C.** *Mortificacio privilegii*: the "death" of a privilege when it is abused. This is not GLOSSARY *mortificacio* "amortization" (land put into mortmain); rendered "mortification" and left untagged. "The end of chapter 6": 06-g, 138, the justice founded in predestination beyond the natural justice the foreknown also has (substance, not words; LEDGER E09e-4). *Ex fide*: GLOSSARY "as faith teaches". *Ex diffinicione privilegii*: GLOSSARY *diffinicio* 'definition'; the same definition is called *descripcio* at 200.1. A margin *Correlarium* (200.21). Side-note 200.10.
 
 [^9]: **S/T.** Gregory, quoted "as is recited at C. 11 q. 3"; Loserth gives no reference, and the canon is to be checked (LEDGER E09e-5). "The gloss": presumably the ordinary gloss on that canon; to be checked under the same row. A and A₁ read *sed privilegio* without *in* (200.22), "but renewed by privilege"; the print is translated. Side-note 200.21.
 

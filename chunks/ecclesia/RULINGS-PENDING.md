@@ -21,3 +21,9 @@
   plates) is possible; not started, needs your go.
 
 ## R. Translation items (doubtful; left as they are until ruled)
+
+## C. Doubtful connectives (left as they are)
+~75 *sed/autem* toss-ups (now/and/but), listed under "Doubtful, left as they are" in
+`_connectives/RESULTS-01.md` … `RESULTS-09.md`. All 1,313 occurrences outside the review set were checked; 69
+changes the card decides were applied. The doubtful ones are defensible as rendered; rule only if you want to.
+Notable: 11-a "and [since] the king" (a minor premiss inside a *cum*-clause; needs a recast, RESULTS-04).

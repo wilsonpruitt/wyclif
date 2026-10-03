@@ -58,7 +58,7 @@ Again, since every virtue is of the kind of the third and greatest good, coming 
 
 [^8]: **T.** The codices read *debuerunt* (159.24), where Loserth prints *debuerant*; the print is translated, and the sense is the same. *Patroni*: patrons of benefices.
 
-[^9]: **S/T.** A margin *Responsio. Contra sentenciam que dicit licitum est mentiri* (159.30). *Tractatus De mendacio*: perhaps Augustine's *De mendacio*; whether Wyclif means Augustine's treatise or one of his own is to be checked (LEDGER E08a-6). *Ex cauterizata consciencia* echoes 1 Tim. 4:2, DR "having their conscience seared".
+[^9]: **S/T.** A margin *Responsio. Contra sentenciam que dicit licitum est mentiri* (159.30). *Tractatus De mendacio*: probably Wyclif's own treatment of lying, *De veritate sacrae scripturae* cap. 16, which he cites at 44.22 as *libro sexto, tractatu de mendacio* (Loserth there: book 6 = *De veritate*); it argues, as here, that a God who approved a lie would be *summe deceptivus*. It builds on Augustine's *De mendacio* (LEDGER E08a-6). *Ex cauterizata consciencia* echoes 1 Tim. 4:2, DR "having their conscience seared".
 
 [^10]: **S.** Loserth refers to Wyclif, *Trialogus* III.1 (ed. Lechler, p. 128), and Aristotle, *Eth. Nic.* II.6, 1106b36 (LEDGER E08a-7). *Electivus*: by choice.
 

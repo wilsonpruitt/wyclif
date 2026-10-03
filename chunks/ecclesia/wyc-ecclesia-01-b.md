@@ -123,7 +123,7 @@ only in those who will have persevered to the end."[^24]
     every Christian (Thakkar, p. 365). Loserth glosses *viator* "a traveller on earth" (cf. *De civ.
     dom.* I, p. 4).
 
-[^8]: **S.** Augustine, *Tractates on John* 25–26: *crede, et manducasti* (25.12) `[verify section]`
+[^8]: **S.** Augustine, *Tractates on John* 25–26: *crede, et manducasti* (25.12; PL 35:1602)
     (LEDGER V-09). Loserth corrects the MSS' XXVI to XXV and refers to *Opp.* III.2, p. 489.
 
 [^9]: **S.** The reversal of ordinary nourishment echoes Augustine, *Confessions* VII.10.16: *nec tu
@@ -155,7 +155,7 @@ only in those who will have persevered to the end."[^24]
 [^16]: **G/R.** *Ipsa est omnes predestinati*: singular verb, plural predicate. The church *is* the
     predestinate, not a body in which they hold membership, and the English keeps the identity. *Ex
     fide et signacione* pairs the two grounds: what faith teaches, and what the term signifies. The
-    definition as Hus restated it heads the articles condemned at Constance `[verify]` (LEDGER V-04).
+    definition as Hus restated it heads the articles condemned at Constance (sess. XV, 6 July 1415, art. 1, *Unica est sancta universalis ecclesia, quae est praedestinatorum universitas*; DS 1201) (LEDGER V-04).
 
 [^17]: **C.** *Nullus vicarius Christi*: the quantifier governs the whole: no vicar, the pope
     included (A's margin: *Nullus papa debet se presumere esse caput huius ecclesie*). *Assereret*

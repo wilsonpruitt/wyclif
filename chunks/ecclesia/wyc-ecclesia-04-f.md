@@ -80,7 +80,7 @@ everything done comes about, naturally or meritoriously, according to the good p
 divine will. And so we can very easily know the divine will in its effect; and so, since we all ought
 to be "of the household of the faith", and so of the [household]{g:familia} of this marriage, we
 ought as a rule to aim first, in both respects, at the honour of the bridegroom and the profit of the
-bride, as Hugh exemplifies, *On the Sacraments*, book 11 [read 2], part 2, the second chapter, from
+bride, as Hugh exemplifies, *On the Sacraments*, book 2, part 2, the second chapter, from
 the text of the apostle, 1 Corinthians 12.[^10] For although vision has its subject in the eye, the
 eye nevertheless sees for the whole body before [it sees] for itself; and so of every member of the
 human body, so far that by nature a less noble member, such as the arm, is exposed to mutilation for
@@ -172,8 +172,7 @@ Christian religion is ordained to love in common, living in mind in common. Henc
     *ex*, so "from faith", not the formula (GLOSSARY §C). Gal. 6:10, DR "those who are of the household
     of the faith". Hugh of St Victor, *De sacramentis*, as Wyclif cites it; *libro II°* (91.17; book 2, as at 86.6). Loserth: "I have not been able to find this passage
     in Hugo de S. Victore l. c. but comp. lib. I, pars X, cap. VI" (LEDGER E04f-5); the figure of the eye that sees for the whole
-    body is in II.2.2 (*Soli enim oculi vident … toti corpori*), the rest of the wording is not found
-    there. The apostle's text is presumably 1 Cor. 12, the body and its members. *Utrobique*: in both, the bridegroom's honour and the bride's
+    body is in II.2.2 (*Soli enim oculi vident … toti corpori*; PL 176:416C–D); the bridegroom-and-bride frame is Wyclif's. The apostle's text is presumably 1 Cor. 12, the body and its members. *Utrobique*: in both, the bridegroom's honour and the bride's
     profit.
 
 [^11]: **T/C.** B lacks *prius* (91.20); AA₁ lack *ut brachium* (91.22–23); A margin *Conclusio*

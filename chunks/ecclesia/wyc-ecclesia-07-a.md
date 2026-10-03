@@ -81,7 +81,7 @@ The fourth fiction, by which it is said that Solomon judged unlawfully in the ma
 
 [^12]: **T/G.** D *illa paracio* (145.11–12) and *diutina que excluderet prudenciam* (145.12). The manuscripts read *inferreretur*; Loserth prints *inferretur* (145.17). *Leges patrie*: "the laws of the homeland" (GLOSSARY *patria*, earthly sense), that is, the laws of the land.
 
-[^13]: **T/C/S.** A B *tante commendat* (145.22); D *bonitates persone quousque probatur* (145.26). *Ficticia*: a fiction, a feigned ground (GLOSSARY). *Colorem*: colour, a plausible ground (GLOSSARY), not "pretext". *Municione*: defence, support. The presumption of goodness until the contrary is proved is a maxim of the laws; its source is to be checked (LEDGER E07a-5). *Convincatur*: is proved against him.
+[^13]: **T/C/S.** A B *tante commendat* (145.22); D *bonitates persone quousque probatur* (145.26). *Ficticia*: a fiction, a feigned ground (GLOSSARY). *Colorem*: colour, a plausible ground (GLOSSARY), not "pretext". *Municione*: defence, support. The presumption of goodness until the contrary is proved is a maxim of the laws, not traced to a single text; cf. X 2.19.7, where the ordinary's letters stand *donec probetur contrarium* (LEDGER E07a-5). *Convincatur*: is proved against him.
 
 [^14]: **T/C.** B *Tercio principaliter* (145.30); A margin *Secunda responsio* (145.30). *Legius homo*: liege man. *Sed monachus …*: the minor premiss. D lacks *specialiter* (146.6); A margin *Nota de obediencia ad regem continue infra* (146.6).
 

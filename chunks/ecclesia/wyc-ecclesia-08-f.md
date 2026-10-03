@@ -67,7 +67,7 @@ Again, according to what was said here in the corollaries of the [definition]{g:
 
 [^6]: **T/C.** A margin *Nota hoc argumentum* (178.31). "The corollaries of the definition" are those at 168.4–169.28 (08-d), especially the third (168.19). *Appropriate*: as his own, directly; not the canon-law sense of GLOSSARY *appropriare*. The privilege "through Constantine" is the endowment of the church under the Donation. Side-notes 178.31, 179.1.
 
-[^7]: **R/S.** *Maliciam venenosam* may allude to the story that at Constantine's donation a voice was heard saying that poison had been poured into the church. Neither the allusion nor the story's wording has been checked (LEDGER E08f-1). Matt. 20:21.
+[^7]: **R/S.** *Maliciam venenosam* may allude to the story that at Constantine's donation a voice was heard saying that poison had been poured into the church: Higden, *Polychronicon* IV.26, *Hodie infusum est venenum in ecclesia Dei*, which Wyclif cites by name in *De potestate pape* c. 6 and retells in cap. 16 below. The allusion here is our reading (LEDGER E08f-1). Matt. 20:21.
 
 [^8]: **S/C.** Matt. 11:11. Wyclif adds *qui ceciderant per peccatum*, which is not in the Vulgate (roman in the print). It excepts Christ, who is not counted among those fallen through sin. *Filium patrisfamilias domus*: a son of the household's father, that is, a member of Christ's household. *Diffinicio Christi*: Christ's determination at Matt. 11:11; 'definition' (GLOSSARY *diffinicio*), not the *descripcio* of privilege at 178.31.
 

@@ -101,8 +101,7 @@ Christ's as chief [lord].[^7]
     sanctus per diversa significatur et quare, ut per columbam, per ignem etc.* (65.2).
 
 [^7]: **C/S.** *Capitaliter*: "as chief [lord]", the feudal sense of *capitalis dominus* (GLOSSARY §B);
-    the goods are common because they are held of Christ. The "sayings of Augustine" are not identified
-    (LEDGER E03f-2). AB margin: *Conclusio*; A: *De capite ecclesie* (66.1).
+    the goods are common because they are held of Christ. The "sayings of Augustine" are the same tractate, 6.2: the ravens *sua quaerunt*, the doves *ea quae Christi sunt quaerunt* (Phil. 2:21; PL 35:1426); Wyclif paraphrases (LEDGER E03f-2). AB margin: *Conclusio*; A: *De capite ecclesie* (66.1).
 
 ## Transcription notes
 

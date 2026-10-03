@@ -72,7 +72,7 @@ Again, then all the friars, by force of the power of the keys, would lord it in 
 
 ## Notes
 
-[^1]: **S/C.** *Decretum* D. 96 c. 14 (*Constantinus*), the editor's reference (322.21 foot: "Dec. I pars, dist. XCVI, c. XIV"); the modern form is ours (LEDGER E14g-1). The alms are "perpetual" whether Caesar's civil lordship continues beside them or is extinguished. **S.** "If it is useful, it is found in holy scripture" (322.18–19, italic in the print): presumably Augustine, *De doctrina christiana* II.42.63 (to be checked, LEDGER E14g-5).
+[^1]: **S/C.** *Decretum* D. 96 c. 14 (*Constantinus*), the editor's reference (322.21 foot: "Dec. I pars, dist. XCVI, c. XIV"); the modern form is ours (LEDGER E14g-1). The alms are "perpetual" whether Caesar's civil lordship continues beside them or is extinguished. **S.** "If it is useful, it is found in holy scripture" (322.18–19, italic in the print): Augustine, *De doctrina christiana* II.42.63, *si utile est, ibi invenitur* (PL 34:65), paraphrased (LEDGER E14g-5).
 [^2]: **S.** Matt. 17:25 in the editor's numbering (the stater is at Vulgate 17:26, "give it to them for me and thee"); in Matthew the didrachma is asked by its collectors, and Wyclif's "to Caesar" is his reading of the episode. Matt. 22:21 (the editor, 322.28 foot).
 [^3]: **S.** The command to be subject to kings and governors is 1 Pet. 2:13–14; "even to the froward" is 2:18, said of servants and their masters.
 [^4]: **T/S.** The manuscripts read *Rom. XII*; the editor corrects the chapter (323.5 foot). Rom. 13:7 in DR wording; Wyclif's *dantes* ("giving") replaces the Vulgate's *Reddite ... omnibus debita*.

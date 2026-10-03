@@ -70,7 +70,7 @@ The third main objection is [by appeal to]{g:obicitur-per} this: that the privil
 
 [^11]: **S.** C. 25 q. 1 c. 16, *Ideo permittente* (Loserth, 257.7: *Causa XXV, q. I, cap. XVI*; the modern form is ours; LEDGER E12b-4). *In proximo capitulo*: chapter 11. *Ut dixi hic*: earlier in this chapter (12-a, 253.20–254.23).
 
-[^12]: **S/R.** James 4:15 has *Si Dominus voluerit* ("If the Lord will", DR); Wyclif's *si Deus voluerit* is translated. *Discolia*: frowardness. A in the margin *Archidiaconus* (257.16). The Archdeacon is the canonists' name for Guido de Baysio (*Rosarium* on the Decretum); identification and passage to be checked (LEDGER E12b-5).
+[^12]: **S/R.** James 4:15 has *Si Dominus voluerit* ("If the Lord will", DR); Wyclif's *si Deus voluerit* is translated. *Discolia*: frowardness. A in the margin *Archidiaconus* (257.16). The Archdeacon is the canonists' name for Guido de Baysio (*Rosarium* on the Decretum); so Loserth's index; the passage is not checked (LEDGER E12b-5).
 
 [^13]: **S/T.** A in the margin *Deus donat sub condicione* (257.20); side-note 257.18. 1 Samuel 2:30 (DR; Loserth prints *1° Regum II°, 30*), except that Wyclif reads *honorificaverit* ("shall honour") for the Vulgate's *glorificaverit* ("shall glorify"), and adds *inquit*. "He cannot deny himself": 2 Timothy 2:13 (DR; Loserth, 257.26). *Blaspheme*: "except blasphemously". *Transferretur*: Loserth's correction of the manuscripts' *transferreretur* (257.30), translated.
 

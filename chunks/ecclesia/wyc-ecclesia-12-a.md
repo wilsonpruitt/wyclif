@@ -58,7 +58,7 @@ Second, [it is argued principally, by appeal to]{g:arguitur per} this: that what
 
 [^5]: **S/C/T.** C. 11 q. 3 c. 55, whose incipit is *Inter verba laudantium sive vituperantium* (Gregory, *Registrum* XI.2; Friedberg I, 657–58; Loserth, 252.1, 252.3; LEDGER E12a-4, E12a-5). The nested quotation follows the canon: the canon quotes Gregory, who quotes 2 Corinthians 1:12 and Job 16:20 (Wyclif omits *enim*; DR). A and A₁ omit *et in … perflant* (252.9–11). *Inde magis, nichil veritatis videant*: "the more … the more they see nothing", i.e. the less they see. Side-note 252.1.
 
-[^6]: **C/T.** *Me ipso stulcior*: more foolish than myself, i.e. than I am. *Lavans laterem*: "washing a brick", the proverb for wasted labour (cf. Terence, *Phormio* 186; to be checked, LEDGER E12a-6). A reads *laudans laterem* (252.14).
+[^6]: **C/T.** *Me ipso stulcior*: more foolish than myself, i.e. than I am. *Lavans laterem*: "washing a brick", the proverb for wasted labour (Terence, *Phormio* 186, *purgem me? laterem lavem*; LEDGER E12a-6). A reads *laudans laterem* (252.14).
 
 [^7]: **S/C.** *Veritas domini manet*: cf. Ps. 116:2 (Vulgate). *Dicta*: taken as the object of *taceat*, "be silent about what has been said". Acts 17:5 (the Jews stir up the city) and 19:24–28 (Demetrius, "silver temples for Diana", "Great is Diana of the Ephesians!", DR). *Principes sacerdotum*: Acts 17 names no chief priests; Wyclif's addition. *Demetrium et artifices … commovere*: accusative and infinitive after *legitur*, joined loosely to the first clause. *Post conversi*: the conversion is Wyclif's inference (cf. Acts 19:18–20).
 
@@ -70,7 +70,7 @@ Second, [it is argued principally, by appeal to]{g:arguitur per} this: that what
 
 [^11]: **T/C.** B reads *Hic negetur*; A in the margin *Responsio* (253.18); side-note 253.18. A in the margin *Conclusio* (253.20). *Hic negatur conclusio*: the objection's conclusion, that the teaching is blasphemous; *concedi debet conclusio*: Wyclif's own thesis, that God cannot take away while the right stands without recompense. *Ut ponitur*: as is supposed in the case.
 
-[^12]: **S/C/T.** *Iusticia … tribuens unicuique quod suum est*: the definition of justice in Justinian (*Inst.* 1.1 pr.), with *divina* added (to be checked, LEDGER E12a-8). A in the margin *Differencie iusticie* (253.27). A and A₁ lack *enim* (253.33). *Cum veris*: with truths (admitted premisses). *Quod habent … quod … non habeat*: the print shifts from plural to singular; both refer to the one deprived. *Pro eadem mensura*: for the same measure (instant).
+[^12]: **S/C/T.** *Iusticia … tribuens unicuique quod suum est*: the definition of justice in Justinian (*Inst.* 1.1 pr.), (*constans et perpetua voluntas ius suum cuique tribuens*), with *divina* added and *unicuique quod suum est* for *ius suum cuique* (LEDGER E12a-8). A in the margin *Differencie iusticie* (253.27). A and A₁ lack *enim* (253.33). *Cum veris*: with truths (admitted premisses). *Quod habent … quod … non habeat*: the print shifts from plural to singular; both refer to the one deprived. *Pro eadem mensura*: for the same measure (instant).
 
 [^13]: **C/S/T.** B reads *Vel per* (254.6). *Abicio oblati*: so the print; the sense requires "the loss (*ablacio*) of what was taken away (*ablati*)", which is translated. *Super remunerat*: rewards beyond. The Egyptians: Exodus 12:35–36 ("and they stripped the Egyptians", DR); *forisfacientes in capitalem dominum*: by their offence against God as chief lord they forfeited their right. A and A₁ read *confiscancia* (254.13).
 

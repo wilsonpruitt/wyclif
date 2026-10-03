@@ -81,7 +81,7 @@ But I do not [maintain]{g:intendere} that the king's [knights]{g:milites} ought 
 
 [^6]: **C/R.** A in the margin *Conclusio. Ecclesia materialis sive basilica non est sponsa Christi* (269.4); side-note 269.1. *Dictum est*: at 265.24–266.1 (12-d). *Truncum putridum*: the wooden idol of the prophets' polemic.
 
-[^7]: **S/T.** A reads *nec credant*, corrected in A₁ (269.10). The church's praise: the dedication liturgy addresses God as having deigned to call the church his bride (wording and place to be checked, LEDGER E12e-3). *Infideliter*: faithlessly, against faith. *Simplices sacerdotes*: simple, unlearned priests.
+[^7]: **S/T.** A reads *nec credant*, corrected in A₁ (269.10). The church's praise: the dedication liturgy: *Deus, qui Ecclesiam tuam Unigeniti tui sponsam vocare dignatus es* (Gregorian Sacramentary, anniversary of a dedication, *super oblata*, PL 78:162C) (LEDGER E12e-3). *Infideliter*: faithlessly, against faith. *Simplices sacerdotes*: simple, unlearned priests.
 
 [^8]: **S/C.** Side-note 269.12. *Dicitur*: the answer to the objection's claim that the injured can remit satisfaction and penalty (265.5–7, 12-d). Cf. Galatians 2:21 ("then Christ died in vain", DR).
 
@@ -115,7 +115,7 @@ But I do not [maintain]{g:intendere} that the king's [knights]{g:milites} ought 
 
 [^23]: **S/C.** A in the margin *Correccio perturbancium pacem* (272.6); A in the margin *Isaie XXXIII. Racio*, and B in the margin, in another hand, *Non occides* (272.13); side-note 272.10. *Illis per quos staret eorum correccio*: those on whom their correction depended, the king and his officers. *Evidencia topica*: probable, not demonstrative, evidence (cf. GLOSSARY §C, *argumentum topicum*). Wyclif's words are nearly those of Luke 6:38 (*Eadem quippe mensura, qua mensi fueritis, remetietur vobis*), translated with its DR wording; Matthew 7:2 has *in qua mensura*. Joab: 1 Kings 2:28–34 (Vulgate 3 Kings), at David's charge (2:5–6). Isaiah 33:1 (DR).
 
-[^24]: **C/R.** *Intendo*: maintain (GLOSSARY §D). *Milites regis*: the king's knights who led the violation of 1378 (12-a; to be checked, LEDGER E12e-5); Joab, David's commander, is the *miles* of the old testament, hence "knight" (GLOSSARY §B). *Salvatum in vita et membris*: with life and limb spared. *Primo argumento capituli septimi*: Wyclif's cross-reference (LEDGER E12e-7).
+[^24]: **C/R.** *Intendo*: maintain (GLOSSARY §D). *Milites regis*: the king's knights who led the violation of 1378 (12-a; to be checked, LEDGER E12e-5); Joab, David's commander, is the *miles* of the old testament, hence "knight" (GLOSSARY §B). *Salvatum in vita et membris*: with life and limb spared. *Primo argumento capituli septimi*: 07-a, 143–44, from Joab killed at the altar, *fugitivum salvum in vita et membris extrahere* (LEDGER E12e-7).
 
 ## Transcription notes
 

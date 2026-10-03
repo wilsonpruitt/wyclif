@@ -86,7 +86,7 @@ Sixthly, all the faithful, and especially [prelates]{g:prelatus}, are taught not
 
 [^12]: **S/C.** *Honor … fugientem se sequitur*: a proverbial saying. No source found; cf. the *Vita Bernardi* III (PL 185:304A), *prosequebatur gloria fugientem* (LEDGER E08d-3). *Sicut videtur ex textu convinci*: Matt. 20:21 has "in thy kingdom". Side-note 170.21.
 
-[^13]: **S.** Chrysostom: presumably the same homily of the *Opus imperfectum*. Loserth gives no separate reference, and the place is to be checked (LEDGER E08d-4). Wyclif's *Alter alterum existimans superiorem* is not the Vulgate of Phil. 2:3 (*superiores sibi invicem arbitrantes*, DR "let each esteem others better than themselves"); his Latin is translated. "As was touched on above": the hiddenness of the church's members is a theme of the earlier chapters.
+[^13]: **S.** Chrysostom: the same homily, *Opus imperfectum* hom. 35 (PG 56:822–32): *desiderium primatus ex jactantia nascitur cordis … Alter alterum aestimans superiorem se* (LEDGER E08d-4). The non-Vulgate form of Phil. 2:3 comes from the homily; it is not the Vulgate (*superiores sibi invicem arbitrantes*, DR "let each esteem others better than themselves"); his Latin is translated. "As was touched on above": the hiddenness of the church's members is a theme of the earlier chapters.
 
 [^14]: **T/C.** A and A₁ read *turpiter superant*, "who foully overcome them" (171.9). *In cordibus templi sui*: the apostles are his temple. *Castra … corporalia* is set against the spiritual conquest. Side-note 171.5.
 

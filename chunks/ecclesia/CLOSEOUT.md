@@ -73,5 +73,6 @@ Estimate: A ~0.7M · B ~0.7M · C ~1.5M · coordinator ~0.4M ≈ **3.3M, all Opu
 | A2 | apply R5+R6 | 158K | 62 rows applied; T notes for restored print readings; 04-f sponsus; new LEDGER row E14g-5 (routed to fathers-1); E04b-4 split → E04b-6 |
 | B | extract 07 | 137K | 143 checked: 3 changes, 8 doubtful |
 | B | extract 08 | 159K | 158 checked: 9 changes (8 rows), 9 doubtful |
-| B | extract 09 | — | 136 checked: 15 changes, 10 doubtful |
+| B | extract 09 | 138K | 136 checked: 15 changes, 10 doubtful |
+| C | fathers-1 (37 rows) | 224K | 32 verified, 2 editor, 2 untraced (+E14g-5); 3 wrong ids fixed; 35 notes changed; 10-b "next"→"preceding chapter", 04-f "book 2", 08-a hedged "probably"; Higden Polychr. IV.26 closes E14e-5/E16d-2/E21g-6 (pass to their groups) |
 | D | coordinator | — | lint.py widened: 278 tag keys with space/capital had been skipped; 2 stray `{g:per idem}` removed; lint 0 |

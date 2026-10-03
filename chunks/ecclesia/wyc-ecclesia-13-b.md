@@ -77,7 +77,7 @@ From which it follows that it does not belong to the [pope]{g:papa}, on account 
 
 [^5]: **C/T.** Side-note 279.28; B reads *elemosinant* (279.28–29). *Ex maiori Deo confirmacione*: we read a greater confirming [of the alms] to God, its being made fast in God's will; "greater conformity to God" would be *conformacione*, which the print does not have. *Per Christum* goes with *perpetuacionem*: Christ alone perpetuates.
 
-[^6]: **C.** A in the margin *Conclusio* (280.1, 280.7). *Simpliciter assistens omni tempori*: present without qualification to every time, as lord of time (13-a, 277.24). *Iuxta dicta proximo capitulo*: cap. 12, on the grant that depends on the grantee's being justified (LEDGER E13b-7). *De qua minus videtur*: hereditary succession depends on God in the same way, though it is less apparent. *Limitare*: assign (GLOSSARY §D).
+[^6]: **C.** A in the margin *Conclusio* (280.1, 280.7). *Simpliciter assistens omni tempori*: present without qualification to every time, as lord of time (13-a, 277.24). *Iuxta dicta proximo capitulo*: cap. 12 (12-b, 256–57), on the grant that depends on the grantee's worthiness (LEDGER E13b-7). *De qua minus videtur*: hereditary succession depends on God in the same way, though it is less apparent. *Limitare*: assign (GLOSSARY §D).
 
 [^7]: **T/C.** Side-note 280.11. B reads *interpretatur* for *imprecatur* (280.13), and *graciose* (280.14). *Imprecatur*: prays for, invokes. *Materie*: the matter of the alms, the succession of gifts out of which God makes one perpetual alms.
 

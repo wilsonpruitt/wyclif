@@ -64,13 +64,13 @@ And this teaching is notably taught in C. 25 q. 1, *Ideo permittente domino*, wh
 
 [^6]: **S.** B in the margin *Bulla Nicolai III* (229.16). Loserth gives no reference. Whether Nicholas III is right, or a papal privilege of another pope to Westminster is meant, is to be checked (LEDGER E11a-5).
 
-[^7]: **S.** The saying ascribed to Gregory (gifts increase the account owed for them) is not located by Loserth; its place in Gregory is to be checked (LEDGER E11a-6). *Datarium*: the giver.
+[^7]: **S.** The saying ascribed to Gregory (gifts increase the account owed for them) is *Hom. in Ev.* 9.1, *Cum enim augentur dona, rationes etiam crescunt donorum* (PL 76:1106), paraphrased; Loserth does not locate it (LEDGER E11a-6). *Datarium*: the giver.
 
 [^8]: **C/T.** *Videtur … videtur*: Wyclif restarts the sentence after the *cum* clause; we keep the repetition. A reads *preminencia* (229.28); B omits *per* in *per possibile* (229.31). *Immunis quoad Deum et hominem*: guiltless before God and man (cf. 239 on *immunitas*). *Nec … quin*: a double negative, "it is reasonable that". *Aliter*: if the privilege did not depend on capacity, i.e. on worthiness. Side-note 229.31.
 
 [^9]: **C.** A in the margin *Prima conclusio* (230.7). The conclusion has two parts (*remissio* in all England only as mercy allows; a general remission kept at Westminster), proved in turn below. *Sonat in*: tends to (as 10-f). *Ut alias*: as elsewhere, perhaps *De civ. dom.*; not identified.
 
-[^10]: **C/T.** A and A₁ read *ex hoc cum privilegia* (230.12), A *sonant* (230.20); the print is translated. A in the margin *Correlarium* (230.19, 230.25); B in the margin *Privilegium non est communi iuri contrarium* (230.26). *Ius commune*: the general law (of the church), not the English common law. The view rejected (a privilege is by definition against the common law) is the canonists'; its source is to be checked (LEDGER E11a-7).
+[^10]: **C/T.** A and A₁ read *ex hoc cum privilegia* (230.12), A *sonant* (230.20); the print is translated. A in the margin *Correlarium* (230.19, 230.25); B in the margin *Privilegium non est communi iuri contrarium* (230.26). *Ius commune*: the general law (of the church), not the English common law. The view rejected (a privilege is by definition against the common law) is the canonists'; Gratian (D. 3 c. 3) gives only Isidore's *privilegia sunt leges privatorum*, and the gloss that sets privilege against *ius commune* is not traced (LEDGER E11a-7).
 
 [^11]: **S/C.** Loserth: C. 25 q. 2 c. 10 (231.2; LEDGER E11a-8). *Cum sacerdotibus meis*: Friedberg reads *consacerdotibus meis*, "my fellow priests"; *cum sacerdotibus*, Wyclif's reading, is that of the old editions (Friedberg I, 1014; LEDGER E11a-8). *Vel Deo*: "even for God", since God cannot do injustice.
 

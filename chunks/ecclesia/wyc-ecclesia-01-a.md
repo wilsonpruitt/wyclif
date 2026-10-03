@@ -40,7 +40,7 @@ membership is made to hang on it.
 
 **Where it is answered.** In Hus's *De ecclesia* (1413), whose dependence on this treatise Loserth
 argued in *Hus und Wiclif* (1884) (LEDGER V-03). And at Constance (1415), whose first
-condemned article of Hus is this definition `[verify]` (LEDGER V-04). In English: extracts only
+condemned article of Hus is this definition (DS 1201) (LEDGER V-04). In English: extracts only
 (Penn 2019, criticised on this very paragraph by Thakkar, *Vivarium* 58 (2020), 368).
 
 ## ¶1 · 1.2–2.23

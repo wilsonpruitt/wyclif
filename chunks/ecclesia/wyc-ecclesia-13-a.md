@@ -63,7 +63,7 @@ Again, it seems that many charters of perpetual alms savour of blasphemy and pri
 
 [^1]: **C/R/T.** Chapter 13 begins at 274.25. A in the margin *Utrum elemosina humana corporalis perpetua sit fundanda* (274.26) and *Conclusio* (274.28); side-note 274.26. *Temporalis*: temporary, for a time, against *perpetua*; not "temporal" (*temporalia*, temporal goods). *Cum paribus*: other things being equal, explained at 276.33–277.1. *Altrinsecus*: on either side, for clergy and giver alike. *Autentica*: authentic, carrying authority (Christ's approval, 276.28–30). *Sentenciam*: the thesis taught (GLOSSARY, CONTEXTUAL: teaching / sentence). *Sentenciam quam dixi superius*: the place is Wyclif's and not identified here (LEDGER E13a-1). A and A₁ read *plus secatur* (274.30).
 
-[^2]: **R/G.** Side-note 275.1. *Sub nomine elemosine perpetue*: the grant "in perpetual alms" of English charters, the tenure in frankalmoign (identification to be checked, LEDGER E13a-2). *Sine tali titulo expressata*: without such a title expressed. *Bona vocata mobilia*: so-called movable goods, chattels.
+[^2]: **R/G.** Side-note 275.1. *Sub nomine elemosine perpetue*: the grant "in perpetual alms" of English charters, the tenure in frankalmoign (*libera eleemosina*, as in Glanvill XIII, the assize *utrum*; LEDGER E13a-2). *Sine tali titulo expressata*: without such a title expressed. *Bona vocata mobilia*: so-called movable goods, chattels.
 
 [^3]: **C/T.** B reads *de pencionibus* (275.10). *Impensionibus annuis*: annual payments, pensions. *Signo sensibili obligatorio*: the charter and seal, the perceptible sign that binds. *Limitatis* agrees with *impensionibus*, perhaps with all three sources of the alms.
 
@@ -73,7 +73,7 @@ Again, it seems that many charters of perpetual alms savour of blasphemy and pri
 
 [^6]: **S/T.** A and A₁ read *necessarius* (276.5). *Ceperunt ex fide scripture*: "took from the faith of scripture", with the verb governing *ex* (GLOSSARY §C, *ex fide*). *Artam viam ducentem ad patriam*: cf. Matthew 7:14 ("strait is the way that leadeth to life", DR). *Antiqui doctores*: unnamed. *Tam in materia quam in forma*: in content and in form.
 
-[^7]: **S/T.** Side-note 276.18 (at the next paragraph). *Nomine canis Tobie*: the dog of the book of Tobias, whose name scripture does not give. *Matthei X° et Luce X°*: Christ's charge to the twelve and to the seventy-two (Matthew 10:9–10, Luke 10:7). B reads *XX. cap.* for *XI° capitulo* (276.16); the cross-reference is Wyclif's (LEDGER E13a-3). *Elemosinas creature*: alms from a creature, as against God's gifts. *Preponderavit … altrinsecus*: gave more weight, for giver and receiver alike.
+[^7]: **S/T.** Side-note 276.18 (at the next paragraph). *Nomine canis Tobie*: the dog of the book of Tobias, whose name scripture does not give. *Matthei X° et Luce X°*: Christ's charge to the twelve and to the seventy-two (Matthew 10:9–10, Luke 10:7). B reads *XX. cap.* for *XI° capitulo* (276.16); the cross-reference is to 11-e, 247–48 (Matt. 10:9, Luke 10:7, Christ's privileges to the disciples); B's XX is wrong (LEDGER E13a-3). *Elemosinas creature*: alms from a creature, as against God's gifts. *Preponderavit … altrinsecus*: gave more weight, for giver and receiver alike.
 
 [^8]: **C.** *Trecentis annis et amplius*: the church's first three centuries, before its endowment. *Principe pacis*: Christ (cf. Isaiah 9:6). *In fine proximi capituli*: 273.17–274.4 (12-f). *Pociora*: of more worth.
 
@@ -91,7 +91,7 @@ Again, it seems that many charters of perpetual alms savour of blasphemy and pri
 
 [^15]: **R/T.** William's transfer of Saxon endowments to Norman houses and monks (context to be checked, LEDGER E13a-5). B lacks *fuisset … titulo* (278.9). *Cleri possessionati*: the possessioner clergy, the endowed religious (GLOSSARY §B).
 
-[^16]: **S/T.** Side-note 278.15. *Signatum redditum*: a designated revenue. *Declaratum est proximo capitulo*: in cap. 12 (LEDGER E13a-6). 1 Samuel 2:30 (Vulgate 1 Kings): the Lord's promise to Heli's house withdrawn. A₁ corrects to *teneret*; B reads *servicio* (278.21). A in the margin *Racio* (278.22).
+[^16]: **S/T.** Side-note 278.15. *Signatum redditum*: a designated revenue. *Declaratum est proximo capitulo*: cap. 12, 12-b, 256–57 (LEDGER E13a-6). 1 Samuel 2:30 (Vulgate 1 Kings): the Lord's promise to Heli's house withdrawn. A₁ corrects to *teneret*; B reads *servicio* (278.21). A in the margin *Racio* (278.22).
 
 [^17]: **S/T/G.** *Qui potest iustificare impium*: cf. Romans 4:5 ("him that justifieth the ungodly", DR). A and A₁ read *subintellexit* (278.24) and *durare per tantam* (278.25–26). *Subintellegit condicionem*: understands a condition as implied (GLOSSARY §C). *Generis*: the line of successors to the grant. *Datarium*: grantee.
 

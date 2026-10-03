@@ -60,7 +60,7 @@ Hence the saints are more content with tribulation than with worldly prosperity,
 
 [^4]: **C/T.** Side-note 247.17. B omits *dati … personis* (247.19). *Persona cleri dotate*: the endowed clergy taken as one person (body); *persone priori*: "the former person", i.e. the endowed clergy, as against the clergy living without property. The point: endowment is common to all possessioners, yet a privilege relative to the whole clergy.
 
-[^5]: **S/C.** *Iuxta decretum*: *Due sunt* again (private law written in the heart by the Holy Spirit). *A principe*: here God, the giver of the private law. *Opera trinitatis sunt indivisa ad extra*: the Augustinian axiom (to be checked, LEDGER E11e-2). *Omnis lex creata individua*: every individual created law.
+[^5]: **S/C.** *Iuxta decretum*: *Due sunt* again (private law written in the heart by the Holy Spirit). *A principe*: here God, the giver of the private law. *Opera trinitatis sunt indivisa ad extra*: the axiom in its scholastic form; in substance Augustine, *De Trinitate* I.4.7, *sicut inseparabiles sunt, ita inseparabiliter operentur* (PL 42:824) (LEDGER E11e-2). *Omnis lex creata individua*: every individual created law.
 
 [^6]: **S/C.** Side-note 248.1. Matthew 10:9, Luke 10:7 (Wyclif omits *autem*) and Matthew 10:8, as the Vulgate; DR. *Privativum*: the privilege of not possessing; *positiva*: food and lodging. *Est dare*: "there are" (one can point to). *Ministratorie*: as a minister, serving.
 

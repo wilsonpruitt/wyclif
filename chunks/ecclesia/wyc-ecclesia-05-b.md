@@ -179,8 +179,7 @@ the praise of the church.[^12]
 [^2]: **T/C/R.** A margin *Responsio* (96.26).
     *Cum sit accidens*: continuity and union are accidents, so not of the essence of a substance.
     *Humanitus*: in his human nature; soul in limbo and body in the tomb, Christ remained one. Abel as
-    the beginning of the church (*ecclesia ab Abel*) is an old commonplace; Wyclif's source here is to
-    be checked (LEDGER E05b-1).
+    the beginning of the church (*ecclesia ab Abel*) is a commonplace: Gregory, *Hom. in Ev.* 19.1, *ab Abel justo usque ad ultimum electum* (PL 76:1154B; cited by Wyclif at 02-b); Augustine, *Enarr. in Ps.* 142.3, *initium habet ab ipso Abel* (PL 37:1846). Wyclif names no source here (LEDGER E05b-1).
 
 [^3]: **S/T.** The Dedication sequence *Rex Salomon fecit templum* (Loserth: Daniel, *Thesaurus
     hymnologicus* V, p. 106) (LEDGER E05b-2); its ascription (Adam of St Victor?) is from memory and to
