@@ -18,6 +18,7 @@ at the end of the M3/M4 session.*
   check, the open LEDGER rows (book-V cross-references E19a-1/E22f-9/E22h-12/E23a-3; Thomas/Bonaventure IV Sent.
   not on disk); italics are not marked in any chunk (front matter `italics: none`) — decide whether the site
   needs them. Then site build for `/ecclesia/` and deploy ⛔ only on Wilson's per-deploy OK. Nothing pushed.
+  → **Close-out plan approved 2026-10-03: `chunks/ecclesia/CLOSEOUT.md`** (all Opus; its Log table is the status).
 
 ## Status 2026-10-02 — brief 50 (23-g, 23-h, 23-i) DONE
 - Opus 168K (no plates); Sonnet 119K. 4 tokenfixes: stray *can*, *Vel*→*vel* (572.21); plate: 569.31 *in* deleted
