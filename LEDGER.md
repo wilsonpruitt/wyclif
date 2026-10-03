@@ -847,3 +847,35 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E21e-5 | ecclesia-21-e / n10 | cf. Thomas l. c. p. 424 (vs p. 442) | verified | foot 509.5 p. 424 (distinct passage) |
 | E21f-1 | ecclesia-21-f / n13 | Chrysostom, "Omelia prima", on the seven churches | open | not located in PL |
 | E21f-2 | ecclesia-21-f / n17 | *baptismus flaminis*: cf. *Trialogus* | verified | foot 514.24: Trial. p. 285 |
+| E21g-1 | ecclesia-21-g / n7 | Hugh of St Victor, *De sacramentis* II "parte septima" (clergy/laity as opposites) | verified | PL 176 De sacr. II.2.3 (Loserth "pars VII" wrong) |
+| E21g-2 | ecclesia-21-g / n8 | Decretum C.12 q.1 c.5 *Clericus* (Jerome) | verified | Friedberg |
+| E21g-3 | ecclesia-21-g / n8 | Decretum C.1 q.2 cc.8–9 *Si quis*, *Sacerdos* | verified | Friedberg |
+| E21g-4 | ecclesia-21-g / n8 | Bernard, *De consideratione* (clerical poverty) | verified | PL 182 De cons. II.6.10; IV.2–3 |
+| E21g-5 | ecclesia-21-g / n8 | fourfold testimony in ch. 13 = p. 284 | editor | page foot 516.28 |
+| E21g-6 | ecclesia-21-g / n9 | poison poured into the church at Constantine's endowment | open | not in PL |
+| E21g-7 | ecclesia-21-g / n11 | Sergius the monk counselled Muhammad | to-verify | from memory |
+| E22a-1 | ecclesia-22-a / n1 | Hostiensis, *Summa aurea* V, *De poenitentiis et remissionibus*, § *Quibus mortuis prosint suffragia* | to-verify | from memory |
+| E22a-2 | ecclesia-22-a / n2 | Decretum C.13 q.2 c.22 *Animae* | verified | Friedberg C.13 q.2 c.22 |
+| E22a-3 | ecclesia-22-a / n3 | Augustine, Ench. "cap. CIX" (Opp. VI p. 238) | verified | PL 40 Ench. 109–110 (Loserth p. 238 = slip?) |
+| E22a-4 | ecclesia-22-a / n3 | Decretum C.13 q.2 c.23 *Tempus* | verified | Friedberg |
+| E22a-5 | ecclesia-22-a / n4 | Huguccio: p. 225; Fabricius VI 283; Schulte | editor | page foot 518.20 |
+| E22a-6 | ecclesia-22-a / n5 | Judas's Sunday respite = *Navigatio s. Brendani* | open | Navigatio not on disk |
+| E22a-7 | ecclesia-22-a / n7 | Innocent III, *Cum Marthe*, X 3.41.6 | verified | Friedberg II |
+| E22b-1 | ecclesia-22-b / n2 | *in dolo … pro indole*: pp. 163–164 | editor | page foot 520.27 |
+| E22b-2 | ecclesia-22-b / n7 | Augustine, Ench. 4.14 (codd. XVII); print "17°" unexplained | verified | PL 40 Ench. 14 |
+| E22b-3 | ecclesia-22-b / n7 | Augustine names the Manichees here | verified | Manichees only in ch. 10 heading |
+| E22b-4 | ecclesia-22-b / n9 | Hostiensis, *Summa aurea* V (indulgences of bishops) | to-verify | from memory |
+| E22b-5 | ecclesia-22-b / n10 | Decretum C.24 q.2 c.6 *Sane* | verified | Friedberg |
+| E22b-6 | ecclesia-22-b / n10 | "Ubi te invenero, ibi te iudicabo": agraphon | verified | PL: Suger, Hugh of Rouen (12th c.) |
+| E22b-7 | ecclesia-22-b / n10 | *A nobis*, X 5.39.28 | verified | Friedberg II |
+| E22b-8 | ecclesia-22-b / n12 | Augustine, Ench. 29.110 (codd. CXXIV) | verified | PL 40 Ench. 110 |
+| E22b-9 | ecclesia-22-b / n12 | Glossa ordinaria on C.13 q.2 (fourfold division) | to-verify | from memory |
+| E22b-10 | ecclesia-22-b / n12 | *Cum Marthe*, X 3.41.6 | verified | Friedberg II |
+| E22b-11 | ecclesia-22-b / n12 | *iniuriam facit martyri qui orat pro martyre* | verified | Aug. Sermo 159.1 (Injuria est pro martyre orare); form is the glossators' |
+| E22b-12 | ecclesia-22-b / n14 | Decretum C.13 q.2 c.21 *Pro obeuntibus* | verified | Friedberg |
+| E22b-13 | ecclesia-22-b / n14 | *Pro obeuntibus* ascribed to Gregory | verified | Friedberg: Gregory III to Boniface |
+| E22b-14 | ecclesia-22-b / n14 | gloss *Pro impiis* (Venice 1605) as source of Loserth's corrections | editor | page foot 524.3 |
+| E22b-15 | ecclesia-22-b / n14 | Decretum C.23 q.5 c.12 *Placuit* | verified | Friedberg (Braga I c.34) |
+| E22b-16 | ecclesia-22-b / n14 | Decretum C.23 q.8 *Quicunque clericus* | verified | Friedberg C.23 q.8 c.4 (Tribur) |
+| E22b-17 | ecclesia-22-b / n14 | X 3.45.1 *Audivimus* | verified | Friedberg II |
+| E22b-18 | ecclesia-22-b / n15 | Canon of the Mass, *Memento etiam … in somno pacis* | to-verify | from memory |

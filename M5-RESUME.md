@@ -3,6 +3,22 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 45 (21-g, 22-a, 22-b) DONE: chapter 21 translated
+- Opus 188K (no plates); Sonnet 180K. **Lost word:** *in* at the head of p. 523 (*in paradiso*); English bracket
+  and T note removed. 16 tokenfixes: stray V, *male.*, *apostolos.*, *eccle- sie*, *toret*, *sed!*,
+  *concorditerdetestari*, *jn*, *accepc*, *io(ut*, *QUIS*; plate: 521 *cap., i:*→*13:*, 524.17
+  *incompossibilis?* (English made a question), 524.22 *V°*.
+- **Quotations closed at the print's italics** (rule applied): 519 Hostiensis ends at *precise*; 522 at *Sane*;
+  the 523 "definition" and *Hugucius tamen dicit* are reported (roman), not quoted.
+- Print confirmed: *nec … vix*, *proprinquior*, *per deducens*, *clavem*, *ecclesia* (518.1), *prima tamen*
+  (codd. *inquit*), *Helias canus*, *Matthei XXII°*, *Enchiridion XIV°, 17°* (codd. XVII), 524.4–8.
+- Not applied: print has *attendimus* at the head of p. 515 (pNNN keeps it at the foot of 514; word present once).
+- Sources: Hugh *De sacr.* II.2.3 (Loserth's "pars VII" wrong); Bernard *De cons.* II.6.10; Friedberg confirms all
+  Decretum/Decretals refs (C.13 q.2 c.21 = Gregory III; C.23 q.8 c.4); Ench. 14, 109–110; *iniuriam facit
+  martyri* = Sermo 159.1 via the glossators. Open: E21g-6 (Constantine poison legend), E22a-6 (Brendan).
+- GLOSSARY: *incompossibilis*.
+- **Next:** brief 46 = 22-c, 22-d, 22-e (built). 6 briefs left (141/159).
+
 ## Status 2026-10-02 — brief 44 (21-d, 21-e, 21-f) DONE
 - Opus 181K (no plates); Sonnet 168K. 11 tokenfixes: *domnino*, *rantasiandum* (f/r), *jn*, stray *of*, *4— 7:*;
   plate: 509 *XXIV°*→*XXIVª*, 510.12 lost "(" (*sacerdos (de*), 514.30 doubled *appreciando* deleted, 504 lost

@@ -1,4 +1,5 @@
-{"t": "paradiso", "leaf": 560, "row": 0, "para": true, "head": false, "pos": 0}
+{"t": "in", "leaf": 560, "row": 0, "para": true, "head": false, "pos": 0}
+{"t": "paradiso", "leaf": 560, "row": 0, "para": false, "head": false, "pos": 0}
 {"t": "autem", "leaf": 560, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "nihil", "leaf": 560, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "operantur,", "leaf": 560, "row": 0, "para": false, "head": false, "pos": 3}
@@ -17,7 +18,7 @@
 {"t": "ultimum", "leaf": 560, "row": 2, "para": false, "head": false, "pos": 16}
 {"t": "mendacium", "leaf": 560, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "est", "leaf": 560, "row": 2, "para": false, "head": false, "pos": 18}
-{"t": "accepc", "leaf": 560, "row": 2, "para": false, "head": false, "pos": 19}
+{"t": "accepcio", "leaf": 560, "row": 2, "para": false, "head": false, "pos": 19}
 {"t": "testimonii", "leaf": 560, "row": 3, "para": false, "head": false, "pos": 20}
 {"t": "Augustini", "leaf": 560, "row": 3, "para": false, "head": false, "pos": 21}
 {"t": "de", "leaf": 560, "row": 3, "para": false, "head": false, "pos": 22}
@@ -63,7 +64,7 @@
 {"t": "statim", "leaf": 560, "row": 8, "para": false, "head": false, "pos": 62}
 {"t": "advolant", "leaf": 560, "row": 8, "para": false, "head": false, "pos": 63}
 {"t": "et", "leaf": 560, "row": 8, "para": false, "head": false, "pos": 64}
-{"t": "io(ut", "leaf": 560, "row": 9, "para": false, "head": false, "pos": 65}
+{"t": "(ut", "leaf": 560, "row": 9, "para": false, "head": false, "pos": 65}
 {"t": "dicitur", "leaf": 560, "row": 9, "para": false, "head": false, "pos": 66}
 {"t": "libro", "leaf": 560, "row": 9, "para": false, "head": false, "pos": 67}
 {"t": "III°,", "leaf": 560, "row": 9, "para": false, "head": false, "pos": 68}

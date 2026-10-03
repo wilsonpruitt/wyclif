@@ -479,3 +479,4 @@ otherwise.
 | pseudoclerici | false clerics | Cf. *pseudomonachus*. Ruled 2026-10-02 (*Eccl.* 21, 511.17). |
 | ordo per accidens | order by accident | Ruled 2026-10-02 (*Eccl.* 21, 514.29). |
 | univoce | univocally | Ruled 2026-10-02 (*Eccl.* 21, 514.4). |
+| incompossibilis | incompossible | Beside *compossibilis*. Ruled 2026-10-02 (*Eccl.* 22, 522.1). |
