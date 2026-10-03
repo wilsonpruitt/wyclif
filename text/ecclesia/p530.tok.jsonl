@@ -1,11 +1,12 @@
-{"t": "knewtunc", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 0}
+{"t": "tunc", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 0}
 {"t": "mortui", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "eternis", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "ignibus", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 3}
 {"t": "deputati", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "cessaret", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 5}
 {"t": "pro", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 6}
-{"t": "tunc", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 7}
+{"t": "eis", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 6}
+{"t": "tunc", "leaf": 567, "row": 0, "para": false, "head": false, "pos": 6}
 {"t": "efficacia", "leaf": 567, "row": 1, "para": true, "head": false, "pos": 8}
 {"t": "deprecandi,", "leaf": 567, "row": 1, "para": false, "head": false, "pos": 9}
 {"t": "et", "leaf": 567, "row": 1, "para": false, "head": false, "pos": 10}

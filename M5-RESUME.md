@@ -3,6 +3,24 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 46 (22-c, 22-d, 22-e) DONE
+- Opus 182K (opened p. 529); Sonnet 174K. **Lost word:** *eis* at 530.1 (*cessaret pro eis tunc*; English "for them
+  then"). 7 tokenfixes: *G2oo°debite*, *IIIa,*, *knewtunc*, stray *are*, *incapaci- tate,*, stray *M* — keyed on the
+  RAW token `peccavit M` (cleaned key left a double space).
+- ⚠ **For Wilson (as 458.23):** 529.30 *in-|orare* — plate confirms, no apparatus; English "lessen" (*minorare*)
+  is our emendation (T note); *ignorare* the alternative.
+- Quotations from the print's italics: 524 Augustine runs through *dicturus est* (his own sentence); 529 runs to
+  *barbaris* (Good Friday clause italic though not in Augustine); 530.25–531.5 roman in print but a close quotation
+  of 21.24 — kept quoted, noted.
+- Print confirmed: *orabant*, *homo* (Augustine lacks it), *dicit* (AB *didicit*), *de appetunt* (Loserth: verbum
+  excidisse videtur), *XIIª* vs foot C.13 (kept, noted), *racio*, *demerentur* (Loserth: locus corruptus),
+  *secundum*, *annaliter temporaliter*.
+- Sources: De civ. 21.24, 22.2; Moralia 34 §38; Friedberg C.21 q.3 c.4 (Cyprian Ep. 1), C.13 q.2 c.20 (Jerome),
+  D.5 c.24; John the Deacon 2.44 (no punishment of Gregory). "second perfection" = p. 312. Open: E22c-8, E22d-3,
+  E22e-2.
+- GLOSSARY: *beatificacio*, *sacerdotes annales*, *perfeccio secunda*, *oracio absoluta/condicionata*, *bona de genere*.
+- **Next:** brief 47 = 22-f, 22-g, 22-h (built). 5 briefs left (144/159).
+
 ## Status 2026-10-02 — brief 45 (21-g, 22-a, 22-b) DONE: chapter 21 translated
 - Opus 188K (no plates); Sonnet 180K. **Lost word:** *in* at the head of p. 523 (*in paradiso*); English bracket
   and T note removed. 16 tokenfixes: stray V, *male.*, *apostolos.*, *eccle- sie*, *toret*, *sed!*,

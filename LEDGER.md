@@ -879,3 +879,24 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E22b-16 | ecclesia-22-b / n14 | Decretum C.23 q.8 *Quicunque clericus* | verified | Friedberg C.23 q.8 c.4 (Tribur) |
 | E22b-17 | ecclesia-22-b / n14 | X 3.45.1 *Audivimus* | verified | Friedberg II |
 | E22b-18 | ecclesia-22-b / n15 | Canon of the Mass, *Memento etiam … in somno pacis* | to-verify | from memory |
+| E22c-1 | ecclesia-22-c / n1 | Augustine, De civ. Dei 21.24 (the codices give XXII.23; Loserth corrected it) | verified | PL 41 De civ. 21.24 |
+| E22c-2 | ecclesia-22-c / n3 | wording of *Alioquin … voluntatem* as De civ. Dei 21.24, including *homo* in *quamvis homo perfecta sit sanctitate* | verified | PL 41 (no homo in Augustine) |
+| E22c-3 | ecclesia-22-c / n4 | *Denique … pro ipso* = De civ. Dei 21.24 | verified | PL 41 (Wyclif omits si, adhuc) |
+| E22c-4 | ecclesia-22-c / n5 | Gregory, Moralia 34.19 (old 13), on Job 41 | verified | PL 76 Moralia 34 §38 |
+| E22c-5 | ecclesia-22-c / n5 | Gregory's own ending (eternal fire; the devil's angels), which Wyclif adapts | verified | PL 76 |
+| E22c-6 | ecclesia-22-c / n12 | Decretum C.21 q.3 c.4 *Ciprianus* | verified | Friedberg |
+| E22c-7 | ecclesia-22-c / n12 | the canon comes from Cyprian, Ep. 1 (a priest named guardian in a will) | verified | Friedberg: Cyprian Ep. 1 (lib. I ep. 9) |
+| E22c-8 | ecclesia-22-c / n13 | the gloss "only to terrify" is the ordinary gloss on that canon | open | no gloss in Friedberg OCR |
+| E22c-9 | ecclesia-22-c / n14 | Decretum C.13 q.2 c.20 *In presenti seculo* | verified | Friedberg C.13 q.2 c.20 |
+| E22c-10 | ecclesia-22-c / n14 | Jerome is the author of that canon | verified | Friedberg: Jerome on Gal. 6 |
+| E22d-1 | ecclesia-22-d / n4 | the print's "XXI … XXIII (ubi supra)" means De civ. Dei 21.24 | verified | 528.31 uncorrected by Loserth; = 21.24 |
+| E22d-2 | ecclesia-22-d / n4 | *Quia ecclesia de nullo certa est, orat pro omnibus* is Augustine's wording | verified | compressed from 21.24; Parasceue clause not Augustine |
+| E22d-3 | ecclesia-22-d / n4 | the Good Friday solemn prayers (for the faithless Jews and the pagans) | open | liturgy; not checked |
+| E22d-4 | ecclesia-22-d / n10 | De cons. D.5 c.24 *Non mediocriter* | verified | Friedberg De cons. D.5 c.24 (Jerome) |
+| E22d-5 | ecclesia-22-d / n12 | *orat pro omnibus … malis spiritibus* = De civ. Dei 21.24 | verified | PL 41 21.24 (roman in print) |
+| E22d-6 | ecclesia-22-d / n14 | Gregory and Trajan: John the Deacon, Vita Gregorii 2.44; Legenda aurea | verified | PL 75 Vita Greg. 2.44 |
+| E22d-7 | ecclesia-22-d / n15 | the "often said" second perfection of the world through Christ's merit | verified | p. 312 |
+| E22e-1 | ecclesia-22-e / n7 | the decree of Jerome (C.13 q.2 c.20) says the saints cannot change God's counsel | verified | Friedberg: does not say so |
+| E22e-2 | ecclesia-22-e / n9 | Gregory's temporal punishment for the Trajan prayer (Legenda aurea) | open | not in John the Deacon; Legenda aurea not on disk |
+| E22e-3 | ecclesia-22-e / n11 | Augustine, De civ. Dei 22.2 | verified | PL 41 22.2 |
+| E22e-4 | ecclesia-22-e / n11 | De civ. Dei 22.2 says God is said to will what he makes his saints will | verified | PL 41 22.2 |

@@ -480,3 +480,8 @@ otherwise.
 | ordo per accidens | order by accident | Ruled 2026-10-02 (*Eccl.* 21, 514.29). |
 | univoce | univocally | Ruled 2026-10-02 (*Eccl.* 21, 514.4). |
 | incompossibilis | incompossible | Beside *compossibilis*. Ruled 2026-10-02 (*Eccl.* 22, 522.1). |
+| beatificacio | beatification | Ruled 2026-10-02 (*Eccl.* 22). |
+| sacerdotes annales | annual priests | Priests hired to say masses for a year. Ruled 2026-10-02 (*Eccl.* 22). |
+| perfeccio secunda (mundi) | second perfection | Ruled 2026-10-02 (*Eccl.* 22). |
+| oracio absoluta / condicionata | absolute / conditional prayer | Ruled 2026-10-02 (*Eccl.* 22). |
+| bona de genere | good in kind | Ruled 2026-10-02 (*Eccl.* 22). |
