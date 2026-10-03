@@ -3,6 +3,19 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 49 (23-d, 23-e, 23-f) DONE
+- Opus 174K (no plates); Sonnet 150K. 10 tokenfixes: *111°,*, *conclus*, stray F, stray *of* ×2, *meritai*, *Jn*,
+  *-sufficerent*, 567.31 *Act. III, 6)* (plate: no degree sign), 562.8 *vicarii)*→*vicariis,* (plate).
+- Standing-rule changes: 560.7 "[not]" supplied (print shows no loss, no apparatus); 565.12 *excommunicacione* →
+  "communication" (*communicacione*), our emendation.
+- Print confirmed: *pro vili precio proprio*, *non est modo numerus*, *super eis*; 562.8 Loserth: *aliquot verba
+  excidisse videntur* (gap marked […]). Thomas 566.11–14 and the maxim 566.35 are roman.
+- Sources: collect *Tuere, Domine … nulla ei nocebit adversitas* (PL 78, PL 55); D.40 cc.6–7; De doctr. 2.42.63
+  (loose); Loserth 561.19 = p. **556**.9 (not 356); *par in parem* = Sext 5.12.3 *Exiit*; Hostiensis = pp. 519–522.
+  Open: E23d-2, E23e-5/6, E23f-1/5 (Thomas not on disk).
+- GLOSSARY: *Romanus episcopus*, *palliacio*, *potestas iudiciaria*, *papa superstes*, *premium accidentale*.
+- **Next:** brief 50 = 23-g, 23-h, 23-i (built). 2 briefs left (153/159).
+
 ## Status 2026-10-02 — brief 48 (23-a, 23-b, 23-c) DONE
 - Opus 184K (no plates); Sonnet 130K. **Lost word:** *a* at 554.20 (*liberari a pena*). 6 tokenfixes: *ofquod*,
   *satisfacien do*; plate: 550.2 *in princip*→*principio*, 551.3 lost "(" (*conformior (ut*), 558.25 *LXI°, 13*.

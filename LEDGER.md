@@ -948,3 +948,16 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E23c-1 | ecclesia-23-c / n3 | Bonaventure, *In IV Sent.* d.20 p.2 q.3 (*Opp.* IV, 558) | editor | page foot 555.8 |
 | E23c-2 | ecclesia-23-c / n5 | *Willielmus* on *De reliquiis*, cap. 5: unidentified (Loserth names Auxerre, Montlauzun, Durand, Saint-Amour) | open | Loserth undecided |
 | E23c-3 | ecclesia-23-c / n5 | *De reliquiis et veneratione sanctorum* = X 3.45 | verified | X 3.45 has only 2 chapters |
+| E23d-1 | ecclesia-23-d / n5 | *canit fidelis ecclesia quod nulla ei nocebit adversitas, si nulla dominetur iniquitas*: a liturgical collect | verified | PL 78 Greg. Sacramentary; PL 55 |
+| E23d-2 | ecclesia-23-d / n5 | *ut patet in materia de originali peccato*: a cross-reference to Wyclif's treatment of original sin | open | not located in De ecclesia |
+| E23e-1 | ecclesia-23-e / n1 | Loserth cf. p. 356.9 (internal cross-reference) | verified | foot 561.19: p. 556.9 (not 356) |
+| E23e-2 | ecclesia-23-e / n3 | *quadragesima distinccione* = Decretum D.40 cc.6–7 | verified | Friedberg D.40 cc.6–7 |
+| E23e-3 | ecclesia-23-e / n9 | Augustine, *De doctrina christiana* 2.42.63 (end of bk 2) | verified | PL 34 (loose paraphrase) |
+| E23e-4 | ecclesia-23-e / n10 | the "three doctors" = Thomas, Bonaventure, William (*De reliquiis*) | editor | B marginal gloss printed at 563.25 |
+| E23e-5 | ecclesia-23-e / n12 | the teaching "imputed to St Thomas" = Aquinas, In IV Sent. d.20 (Suppl. q.25) | open | Thomas not on disk |
+| E23e-6 | ecclesia-23-e / n13 | Gregory XI's grant applying the merits of Isaac and the fathers to his dead kinsman | open | no Loserth foot |
+| E23f-1 | ecclesia-23-f / n7 | Thomas: *bona communia multitudinis distribuuntur singulis … secundum arbitrium eius qui illi multitudini preest* (In IV Sent. d.20 / Suppl. q.25 a.1) | open | Thomas not on disk |
+| E23f-2 | ecclesia-23-f / n6 | Loserth corrected the codices' *Job primo* to *Job II°* | editor | page foot 566.8 |
+| E23f-3 | ecclesia-23-f / n10 | *par in parem non habet imperium*: the canon-law maxim (X 1.6.20 *Innotuit*?) | verified | Friedberg II Sext 5.12.3 Exiit |
+| E23f-4 | ecclesia-23-f / n13 | *Hostiensis (ut recitavi superius)*: Hostiensis on the treasury, earlier (cap. 22) | verified | pp. 519–522 |
+| E23f-5 | ecclesia-23-f / n15 | Thomas: the blessed did not do superabundant works *determinate* for this or that person (Suppl. q.25 a.1) | open | Thomas not on disk |
