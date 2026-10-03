@@ -31,9 +31,23 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    Measured on *De ecclesia*: ~230 by rule, 142 on the plates, 224K tokens.
    One-off fixes no rule reaches and no position can carry: `text/SLUG/tokenfix.tsv` (page, printed, fixed),
    applied by the vote's writer. After any Latin change, `relatin.py SLUG --also <translated> --dry` must show 0.
+   ⛔ **tokenfix repairs the OCR, never the print.** If the plate shows the "wrong" form (Loserth's misprint:
+   *faciendo*, *69*, *novam* in *De ecclesia*), the Latin keeps it and the English follows a conjecture with a
+   T note "our emendation" (standing rule). A row whose printed form is a real word or a numeral needs "plate:"
+   in its note, i.e. it was read on the plate, not inferred.
 5. **Scaffolds + side-notes.** `.venv/bin/python scripts/w3/chapters.py SLUG` → `chunks/SLUG/wyc-SLUG-NN.md`.
    Then ONE plate agent per ~10 chapters corrects the OCR side-notes against the plates (it is image work;
-   kept out of translation, where it cost extra round trips).
+   kept out of translation, where it cost extra round trips). The same agent, on the same pages, does two
+   more things (lessons of the *De ecclesia* close-out, which paid for them at the end instead):
+   - **Italics.** Record every italic run (page.line, first and last words) in `text/SLUG/italics.tsv`.
+     Quotations open and close at the print's italics; a roman stretch is reported, not quoted. *De ecclesia*
+     never captured italics (`chapters.py` writes `italics: none`), so 52 of 174 review rows were quotation
+     bounds, and ~110 chunks are still unchecked. `brief.py` must inline the chunk's italics rows (⬜ build this
+     before the next volume's stage 7).
+   - **Boundaries.** `python3 scripts/w3/boundaries.py SLUG` lists every ¶ or chunk end without a stop
+     (*De ecclesia*: 58). Read each on the plate: a false ¶ break (an alinea letter read as a break) is
+     merged before translation; it lost *plus* at 46.24. A chunk split inside a sentence is moved to the
+     nearest stop (12-c ended on *patet*). Verse lines and headings stay.
 6. **Volume card.** `chunks/SLUG/CARD.md`, adapted from `chunks/dialogus/CARD.md` (editor, sigla, the
    volume's register). Per PLAN, the FIRST chunk is translated and reviewed in a fresh session against the
    four classes before the rest run; card changes land before stage 7.
@@ -41,13 +55,25 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    `chunks/SLUG/_briefs/…md` and the one-line agent prompt. One Opus agent per brief, one brief at a time
    (8 GB). Between briefs the coordinator rules glossary proposals (census + dikaiosune rule; Wilson for
    genuinely doubtful register) and commits.
-8. **Per-wave checks, not at the end** (the Dialogus close-out cost 1.3M doing them at the end):
+8. **Per-wave checks, not at the end** (the Dialogus close-out cost 1.3M doing them at the end; *De ecclesia*
+   ~5.3M, because two of these were skipped or deferred):
    - ledger rows from the agent's report → `LEDGER.md`, and verify THAT wave's rows against the sources
-     (local PL at `~/patrologia/sources/pl/tei/`; `bible.py`; the editor's intro OCR);
-   - *sed/autem* check and split-tag check (`grep -o '\]{g:[^}]*}[A-Za-z]'`);
-   - `.venv/bin/python scripts/w3/lint.py chunks/SLUG/*.md`.
-9. **Close-out.** A four-class review of the long, dense chunks only (short ones were clean), a
-   connective check, and the Latin doubts on the plates. Rewrite PLAN's cost row from the measured rate.
+     (local PL at `~/patrologia/sources/pl/tei/`; `bible.py`; the editor's intro OCR). "Not local" is not a
+     reason to defer: use the web sources in `chunks/ecclesia/CLOSEOUT-PROMPTS.md` §C (corpusthomisticum for
+     Thomas incl. *In Sent.*; archive.org Friedberg, Quaracchi Bonaventure; Wyclif's own works in
+     `sources/ia-ocr/`, *Summa* book 4 = *De civ. dom.* II, book 5 = *De civ. dom.* III). *De ecclesia*
+     deferred 243 rows and paid ~1.9M to close them at the end;
+   - *sed/autem*: run `chunks/ecclesia/_connectives/extract.py` adapted to the wave's chunks, and the check
+     agent on it (~45K per brief), then `apply.py`. *De ecclesia* skipped this ("agent's own report only")
+     and found 69 errors at the end, mostly a minor premiss before *ergo* rendered "but";
+   - **glossary conform:** when a term is ruled, grep the already-translated chunks for it and conform tags,
+     renderings and notes in the same commit. Most class-1 review rows were tags and notes that predated a
+     ruling made on those very lines;
+   - split-tag check (`grep -o '\]{g:[^}]*}[A-Za-z]'`) and `lint.py chunks/SLUG/*.md` (it now checks every
+     tag key, incl. ones with spaces or capitals, which the site cannot render).
+9. **Close-out.** A four-class review of the long, dense chunks only (short ones were clean), and the
+   Latin doubts on the plates. If stages 5 and 8 ran as written, there is no connective pass and no ledger
+   backlog here. Rewrite PLAN's cost row from the measured rate.
 10. **Site.** `site/build.py` renders the Dialogus only: generalize it to render every translated work
     under `/SLUG/` and add the volume to `READ_NOW`; then `build.py` and the CLI deploy
     ([[reference_wyclif-deploy]] in memory; the Vercel project is NOT git-connected — keep it so).

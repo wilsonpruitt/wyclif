@@ -53,7 +53,10 @@ notes and the transcription notes; set `status: translated`; lint; report.
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is
   implicit). Supplied words in `[brackets]`, sparingly. Quotations in quotation marks: Loserth
   italicises quotations, but the scaffold does not carry italics (`italics: none`), so find quoted
-  matter by sense and by the source references at the page foot.
+  matter by sense and by the source references at the page foot. ⚠ **For the next volume's card:** the
+  brief carries the print's italic runs (WORKFLOW stage 5); quotation marks open and close exactly there,
+  and a roman stretch is reported, not quoted — never placed by sense (the *De ecclesia* close-out found
+  52 mis-bounded quotations).
 - **Formulae of the disputation** (GLOSSARY §C, ruled 2026-10-01), rendered the same way throughout: *instatur* "it is objected" ·
   *obicitur* "it is objected" · *arguitur* "it is argued" (with *per*: GLOSSARY) · *dicitur* "it is
   said" (in an answer: "the answer is") · *respondetur* "the reply is" · *conclusio* "conclusion" ·
@@ -92,7 +95,9 @@ notes and the transcription notes; set `status: translated`; lint; report.
 
    "Now" is reserved for the minor premiss, or the step that brings a new premiss to bear (*Illos
    autem parentes debemus …*, 1.17). An *autem* that only extends the same step is "and" (*Illis autem
-   cultis …*, 1.19).
+   cultis …*, 1.19). ⚠ The commonest error in this volume (close-out, ~50 of 69 connective fixes): a
+   *sed* that brings the minor premiss of a syllogism closed by *ergo / ideo / igitur* rendered "but".
+   Before writing "but" for a *sed*, look ahead for the *ergo*: if one follows, it is "now".
 3. **Ordinary words with a medieval sense:** GLOSSARY §D; look up any word whose classical and
    Wyclifite senses may differ, and propose additions.
 4. **Syntax:** construe before rendering (main verb, subject, what every relative and genitive
