@@ -3,6 +3,29 @@
 *Read this first in a new session, then `WORKFLOW.md` (the stages) and `PLAN.md` § Cost. Written 2026-09-29
 at the end of the M3/M4 session.*
 
+## Status 2026-10-02 — brief 47 (22-f, 22-g, 22-h) DONE: chapter 22 translated
+- Opus 226K (opened pp. 545, 546); Sonnet 206K. 8 tokenfixes: *decipituro*, *COntraria*, *inDeCura*, stray V
+  (547); plate: 538.6 *libri Vⁱ*, 537.14 *q. IIª*, commas after *XIIIª* at 539 and 540.
+- Under the standing rule: 542.28 *ex animis* → "lifeless" (*exanimis*, as Augustine and Friedberg) = our
+  emendation; supplies "[be freed]" (537) and "[the better they are]" (548). 545.17–19 *preponderat … plus quam
+  lucri* (print says the reverse of the argument) and 546.30 *arca* translated as printed, C notes.
+- Quotations from the print's italics: 546 Ambrose takes in *Genesis L°* and *Deuteronomio*; 548 conditionals
+  are roman (unquoted).
+- Sources: all C.13 q.2 canons (16–28) confirmed in Friedberg; De cura 2.4, 3.5, 18.22; De civ. 21.17/21.24/21.25;
+  Ench. 110 has no fourth class (Wyclif's from the *tolerabilior* clause); Cyprian De mort. 18/20; Ambrose De obitu
+  Theod. 3 (Wyclif's "De officiis" wrong); Pentecost collect = Gregorian Sacramentary (PL 78). Open: E22f-2, E22f-5,
+  E22f-9, E22h-11, E22h-12 (book V cross-references, cf. E19a-1).
+- GLOSSARY: *bonum honestum/utile/delectabile*, *exequie*, *obsequium* "duty", *gilda*, *liga*, *memoriale*,
+  *affeccio naturalis/deliberativa*, *beatitudo circularis*.
+- **Next:** brief 48 = 23-a, 23-b, 23-c (built). 4 briefs left (147/159).
+
+## Rulings 2026-10-02 (Wilson) — emendations and supplies
+- 511.10 *reminiscere* → "revive" (*reviviscere*): KEPT. 529.30 *inorare* → "lessen" (*minorare*): KEPT.
+  502.12 "[but in this,]" and 509.3 "[from the words]": KEPT. (458.23 "[not]" kept earlier.)
+- **Standing rule from here:** where the print's word does not construe, the English may follow a conjecture,
+  marked in a T note as "our emendation"; a needed word may be supplied in brackets with a T note "our supply".
+  The Latin always stays the print. List new ones in the resume entry; no per-case ruling needed.
+
 ## Status 2026-10-02 — brief 46 (22-c, 22-d, 22-e) DONE
 - Opus 182K (opened p. 529); Sonnet 174K. **Lost word:** *eis* at 530.1 (*cessaret pro eis tunc*; English "for them
   then"). 7 tokenfixes: *G2oo°debite*, *IIIa,*, *knewtunc*, stray *are*, *incapaci- tate,*, stray *M* — keyed on the

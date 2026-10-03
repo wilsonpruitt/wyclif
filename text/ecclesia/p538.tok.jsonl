@@ -20,7 +20,7 @@
 {"t": "colligi", "leaf": 575, "row": 2, "para": false, "head": false, "pos": 19}
 {"t": "quantum", "leaf": 575, "row": 2, "para": false, "head": false, "pos": 20}
 {"t": "mundus", "leaf": 575, "row": 2, "para": false, "head": false, "pos": 21}
-{"t": "decipituro", "leaf": 575, "row": 2, "para": false, "head": false, "pos": 22}
+{"t": "decipitur", "leaf": 575, "row": 2, "para": false, "head": false, "pos": 22}
 {"t": "in", "leaf": 575, "row": 3, "para": false, "head": false, "pos": 23}
 {"t": "elemosinis", "leaf": 575, "row": 3, "para": false, "head": false, "pos": 24}
 {"t": "perpetuis", "leaf": 575, "row": 3, "para": false, "head": false, "pos": 25}
@@ -42,7 +42,7 @@
 {"t": "XXII°", "leaf": 575, "row": 5, "para": false, "head": false, "pos": 41}
 {"t": "cap.", "leaf": 575, "row": 5, "para": false, "head": false, "pos": 42}
 {"t": "libri", "leaf": 575, "row": 5, "para": false, "head": false, "pos": 43}
-{"t": "V.", "leaf": 575, "row": 5, "para": false, "head": false, "pos": 44}
+{"t": "Vⁱ.", "leaf": 575, "row": 5, "para": false, "head": false, "pos": 44}
 {"t": "Ymmo", "leaf": 575, "row": 5, "para": false, "head": false, "pos": 45}
 {"t": "cum", "leaf": 575, "row": 6, "para": false, "head": false, "pos": 46}
 {"t": "debet", "leaf": 575, "row": 6, "para": false, "head": false, "pos": 47}
@@ -105,7 +105,7 @@
 {"t": "vel", "leaf": 575, "row": 13, "para": false, "head": false, "pos": 103}
 {"t": "sunt", "leaf": 575, "row": 13, "para": false, "head": false, "pos": 104}
 {"t": "purgandis", "leaf": 575, "row": 14, "para": false, "head": false, "pos": 105}
-{"t": "COntraria", "leaf": 575, "row": 14, "para": false, "head": false, "pos": 106}
+{"t": "contraria", "leaf": 575, "row": 14, "para": false, "head": false, "pos": 106}
 {"t": "vel", "leaf": 575, "row": 14, "para": false, "head": false, "pos": 107}
 {"t": "neutra", "leaf": 575, "row": 14, "para": false, "head": false, "pos": 108}
 {"t": "vel", "leaf": 575, "row": 14, "para": false, "head": false, "pos": 109}
@@ -206,7 +206,9 @@
 {"t": "patet", "leaf": 575, "row": 27, "para": false, "head": false, "pos": 204}
 {"t": "per", "leaf": 575, "row": 27, "para": false, "head": false, "pos": 205}
 {"t": "Augustinum", "leaf": 575, "row": 27, "para": false, "head": false, "pos": 206}
-{"t": "inDeCura", "leaf": 575, "row": 27, "para": false, "head": false, "pos": 207}
+{"t": "in", "leaf": 575, "row": 27, "para": false, "head": false, "pos": 207}
+{"t": "De", "leaf": 575, "row": 27, "para": false, "head": false, "pos": 207}
+{"t": "Cura", "leaf": 575, "row": 27, "para": false, "head": false, "pos": 207}
 {"t": "agenda", "leaf": 575, "row": 27, "para": false, "head": false, "pos": 208}
 {"t": "pro", "leaf": 575, "row": 28, "para": false, "head": false, "pos": 209}
 {"t": "mortuis,", "leaf": 575, "row": 28, "para": false, "head": false, "pos": 210}

@@ -485,3 +485,11 @@ otherwise.
 | perfeccio secunda (mundi) | second perfection | Ruled 2026-10-02 (*Eccl.* 22). |
 | oracio absoluta / condicionata | absolute / conditional prayer | Ruled 2026-10-02 (*Eccl.* 22). |
 | bona de genere | good in kind | Ruled 2026-10-02 (*Eccl.* 22). |
+| bonum honestum / utile / delectabile | honourable / useful / pleasurable good | Ruled 2026-10-02 (*Eccl.* 22). |
+| exequie | exequies | Ruled 2026-10-02 (*Eccl.* 22). |
+| obsequium (for the dead) | duty | Kept apart from *servicium* "service", *officium* "office". Ruled 2026-10-02 (*Eccl.* 22). |
+| gilda | gild | Ruled 2026-10-02 (*Eccl.* 22). |
+| liga | league | Ruled 2026-10-02 (*Eccl.* 22). |
+| memoriale | memorial | Ruled 2026-10-02 (*Eccl.* 22). |
+| affeccio naturalis / deliberativa | natural / deliberative affection | Ruled 2026-10-02 (*Eccl.* 22). |
+| beatitudo circularis | circular blessedness | Hostiensis's term. Ruled 2026-10-02 (*Eccl.* 22). |

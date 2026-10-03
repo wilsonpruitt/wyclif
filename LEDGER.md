@@ -900,3 +900,36 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E22e-2 | ecclesia-22-e / n9 | Gregory's temporal punishment for the Trajan prayer (Legenda aurea) | open | not in John the Deacon; Legenda aurea not on disk |
 | E22e-3 | ecclesia-22-e / n11 | Augustine, De civ. Dei 22.2 | verified | PL 41 22.2 |
 | E22e-4 | ecclesia-22-e / n11 | De civ. Dei 22.2 says God is said to will what he makes his saints will | verified | PL 41 22.2 |
+| E22f-1 | ecclesia-22-f / n3 | Augustine, De civ. Dei 21.24 (God does not shut up his mercies toward the damned) | verified | PL 41 |
+| E22f-2 | ecclesia-22-f / n3 | "secundo commento mendacii": the second fabrication, earlier in cap. 22 | open | not located |
+| E22f-3 | ecclesia-22-f / n4 | "Hoc quidem non ideo confirmo, quoniam non resisto" is in De civ. 21.24 | verified | PL 41 21.24 (Quod quidem) |
+| E22f-4 | ecclesia-22-f / n5 | De civ. 21.17: the "more merciful" reductio and "Si quis … clemencius" | verified | PL 41 21.17 (reworked) |
+| E22f-5 | ecclesia-22-f / n7 | "ut dixi secundum sentenciam beati Gregorii" (Christians who fall away are the worst) | open | not located |
+| E22f-6 | ecclesia-22-f / n7 | De civ. 21.25 (codd. XXIV, Loserth corrected to XXV) | verified | PL 41 21.25 |
+| E22f-7 | ecclesia-22-f / n8 | Enchiridion 110 = Decretum C.13 q.2 c.23 Tempus | verified | Friedberg |
+| E22f-8 | ecclesia-22-f / n9 | Wyclif's fourth class ("damnations more tolerable") is in Ench. 110 itself, not in the canon | verified | PL 40 Ench. 110: three classes + tolerabilior clause |
+| E22f-9 | ecclesia-22-f / n9 | "ultimo capitulo libri V" | to-verify | cross-reference to Wyclif's own works |
+| E22f-10 | ecclesia-22-f / n10 | "cap. XVI° et XXII° cap. libri V" on perpetual alms | verified | ch. 16 = p. 370.4; book 5 open |
+| E22g-1 | ecclesia-22-g / n3 | Augustine, De cura pro mortuis 18.22 "Non estimemus …" = Decretum C.13 q.2 c.19 | verified | PL 40 De cura 18.22; Friedberg c.19 |
+| E22g-2 | ecclesia-22-g / n3 | "Corpori autem humando …" is in the same chapter | verified | PL 40 18.22 |
+| E22g-3 | ecclesia-22-g / n5 | Decretum C.13 q.2 c.22 Anime defunctorum (Gregory) | verified | Friedberg c.22 |
+| E22g-4 | ecclesia-22-g / n5 | "Curacio … nulla" is Augustine, De cura cap. 2 | verified | PL 40 De cura 2.4 |
+| E22g-5 | ecclesia-22-g / n6 | Chrysostom on Hebrews = Decretum C.13 q.2 c.26 | verified | Friedberg c.26 |
+| E22g-6 | ecclesia-22-g / n6 | the two following chapters = c.27 Habent forsitan, c.28 Qui divina | verified | Friedberg cc.27–28 |
+| E22g-7 | ecclesia-22-g / n8 | Cyprian = Decretum C.13 q.2 c.25 | verified | Friedberg c.25 |
+| E22g-8 | ecclesia-22-g / n8 | the words are Cyprian, De mortalitate 18 and 20 | verified | PL 4 De mort. 18, 20 |
+| E22g-9 | ecclesia-22-g / n11 | Augustine, De cura 18.22 "Quamvis cure …" = Decretum C.13 q.2 c.19 | verified | PL 40 |
+| E22g-10 | ecclesia-22-g / n12 | "Melius enim supererunt …" is De cura 18.22 | verified | PL 40 18.22 |
+| E22g-11 | ecclesia-22-g / n13 | "Diligencius …" and "Humanitatis … testimonium" are De cura 18.22 | verified | PL 40 18.22 |
+| E22h-1 | ecclesia-22-h / n1 | "Nec ideo tamen contempnenda …" = Decretum C.13 q.2 c.22 | verified | Friedberg c.22 §2 |
+| E22h-2 | ecclesia-22-h / n1 | the words are Augustine, De cura 3.5, which reads *exanimis* | verified | PL 40 3.5 exanimis |
+| E22h-3 | ecclesia-22-h / n3 | Chrysostom "Pietatis namque affectu …" = Decretum C.13 q.2 c.26 | verified | Friedberg c.26 |
+| E22h-4 | ecclesia-22-h / n4–5 | "Quibus peccata dimissa non sunt …" and "Cum gravia peccata …" = Decretum C.13 q.2 cc.16–17 | verified | Friedberg cc.16–17 |
+| E22h-5 | ecclesia-22-h / n8 | Council of Toledo "Qui divina" = Decretum C.13 q.2 c.28 | verified | Friedberg c.28 |
+| E22h-6 | ecclesia-22-h / n8 | the council is Toledo III (589), c. 22 | verified | Friedberg: Toledo III c.22 |
+| E22h-7 | ecclesia-22-h / n10 | the Pentecost-vigil postcommunion chant (*per os omnium prophetarum … temporalia relinquere*) and the prayer *terrena despicere* | verified | PL 78 Greg. Sacramentary |
+| E22h-8 | ecclesia-22-h / n12 | the four ways = Decretum C.13 q.2 c.22 Anime defunctorum; *vel stipendiis annalibus* is Wyclif's addition | verified | Friedberg c.22 (stipendia annalia not in it) |
+| E22h-9 | ecclesia-22-h / n14 | Ambrose "Quia alii …" = Decretum C.13 q.2 c.24 | verified | Friedberg c.24 |
+| E22h-10 | ecclesia-22-h / n14 | the words are from Ambrose, De obitu Theodosii (Wyclif: "De officiis") | verified | PL 16 De obitu Theod. 3 |
+| E22h-11 | ecclesia-22-h / n16 | Hostiensis, Summa aurea, *beatitudo circularis* (cf. E22b-4) | to-verify | place not given |
+| E22h-12 | ecclesia-22-h / n19 | "capitulo ultimo libri quinti" | to-verify | cross-reference to Wyclif's own works |
