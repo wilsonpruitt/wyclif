@@ -40,7 +40,7 @@ carcass, was destroyed by the flood, so in holy mother church these go out for a
 penance, return, not only with the leaves of words but with the fruit of good works, and above all with
 the oil of [charity]{g:caritas}, which floats above the other gifts preeminently, as oil does.[^4]
 Therefore the apostle says pointedly, 1 Corinthians 12:31: "Yet I will shew you a more eminent way."
-But the [foreknown]{g:prescitus} go out of the ark like ravens, and because of the love of
+But the [foreknown]{g:prescitus} go out of the ark like ravens, but because of the love of
 [temporal goods]{g:temporalia}, for which they plead insistently, they are drowned.[^5] Fourth, it can be
 noted according to the logic of scripture how the Holy Spirit is moved, since he comes down, and asks
 with inexpressible groanings, and rises early to instruct the church (as is said in Isaiah 7). But he

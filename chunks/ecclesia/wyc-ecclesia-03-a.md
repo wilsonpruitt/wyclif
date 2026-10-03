@@ -85,7 +85,7 @@ than he does for spiritual ones, who doubts that he is more attached to them? He
 perpetuating of temporal goods, thus [50] speaks this saint: "For, the care of their sons put aside,
 you may often see them gird themselves against the dangers of immense labour, cross the seas, go to the
 courts, knock at the doors of princes, break into palaces, take part in the wrangling throngs of the
-peoples." Since, though, they do not lay out so much diligence for acquiring spiritual things, who
+peoples." But since they do not lay out so much diligence for acquiring spiritual things, who
 doubts that they love these temporal ones more?[^10]
 
 ## ¶4 · 50.8–51.7

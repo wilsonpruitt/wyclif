@@ -49,7 +49,7 @@ regards logic or metaphysics.[^3]
 
 But here one could reply in three ways. First, that Christ and the whole succession of his vicars are
 one head aggregatively, but none of them by himself. Yet I do not believe that any catholic of sound
-head holds this, since then it would be denied that Christ is head of the universal church: [the head
+head holds this, since then it would be denied that Christ is head of the universal church, but [the head
 would be] one aggregate of which Christ would be a part, and so the whole body of Christ would not have
 Christ as head; which I reckon no less heretical than blasphemous.[^4] Similarly, since Christ is head
 of the whole multitude of his vicars, and they head of the whole remainder, it seems that he is the

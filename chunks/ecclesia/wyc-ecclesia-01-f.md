@@ -101,7 +101,7 @@ and so is neither a woman nor the [mystical body of Christ]{g:corpus Christi mis
 these (as I have touched on elsewhere) must deny a great part of the faith of scripture, the decrees of
 the Roman church and the creed of the Christian faith.[^16] And a third [party] say that the universal
 church is not, nor will be before the day of judgement; but many have been and many are who will then
-be its parts; yet it neither has nor has had any parts, because it neither is nor was, since [only]
+be its parts; but it neither has nor has had any parts, because it neither is nor was, since [only]
 then would it be the totality of the predestinate who will be at the day of judgement. Which is
 impossible, since many of them are yet to be begotten.[^17]
 

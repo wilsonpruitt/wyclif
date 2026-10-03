@@ -91,7 +91,7 @@ by which they rashly judge that the dogma of the world and of the devil is to be
 since "the prince of the world is judged" by Christ, who teaches the opposite.[^11] And so the opposites
 of faith, hope and charity, which would correspond in order to the Trinity, damn the foreknown at the
 final judgment (as I have set out at length elsewhere). For I have not seen in St Thomas, or in another
-approved doctor, that that whole race, rather than its predestinate part, is holy mother church, the
+approved doctor, that that whole race, but [only] its predestinate part, is holy mother church, the
 [bride]{g:sponsa} of Christ and the universal or catholic church,
 [the mystical body of Christ]{g:corpus Christi misticum} of which scripture speaks. And it is of such
 [a church] that we are speaking.[^12]

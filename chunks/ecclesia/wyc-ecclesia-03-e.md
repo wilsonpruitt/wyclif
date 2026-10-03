@@ -93,7 +93,7 @@ To the third, it is denied, in the sense of scripture, that all men are faithful
 Damascene that every man has faith, at least [unformed]{g:fides informis}, since naturally, by the first
 impression of [being]{g:ens}, he knows, at least [indistinctly]{g:confuse}, first of all, that God is,
 and every [article of faith]{g:articulus fidei}.[^12] But this unformed faith does not suffice to name a
-man faithful, or a part of the church; rather, all final [unbelief]{g:infidelitas} must be excluded. And
+man faithful, or a part of the church; but all final [unbelief]{g:infidelitas} must be excluded. And
 of such a faithful man Christ speaks, John 10:28, promising that everyone who believes in the Son may not
 perish (supply: by everlasting death); now he believes in [64] the Son who, by believing him, adheres to
 him finally through love.[^13] Hence, since about such final adherence we are in doubt, Augustine on

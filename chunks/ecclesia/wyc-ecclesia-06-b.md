@@ -43,7 +43,7 @@ a son whom the Father has given him; of whom John 3:16 says that he must "not pe
 everlasting". And so there are many in the church, called sons by name, who are not of the
 church.[^5] It is granted, therefore, that the man who is the human race is partly foreknown and
 partly predestinate, and so in his time partly saved and partly damned; but he is not the church,
-although he does whatever any man does; for unity requires unity of the head; but, as the apostle
+although he does whatever any man does; for unity requires unity of the head; now, as the apostle
 says, 2 Corinthians 6:15, "What concord hath Christ with Belial?" There are not, therefore, two heads
 on an equal footing or subordinated, since according to the apostle the things that are from God are
 ordered.[^6] And so the man of the human race is a natural body, but not the body of the church,
@@ -95,7 +95,7 @@ proper to Christ with respect to the whole church.[^14]
 
 Fourthly, [it is argued, by appeal to]{g:arguitur per} this: that according to what has been said the
 church would have been headless through the whole time of the old testament, in that it cannot have a
-head except Christ; but then it did not have Christ as head; therefore then it had no head. And by the
+head except Christ; now at that time it did not have Christ as head; therefore then it had no head. And by the
 same token it seems to follow that the same church was, for the time of its growth, any number of its
 members, because at no instant was it anything but the faithful who then were.[^15] Hence in the
 example touched on at the end of the second argument, it seems that the same house does not remain

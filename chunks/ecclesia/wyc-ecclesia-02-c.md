@@ -28,7 +28,7 @@ acknowledged; and that done, salvation would have been accomplished for a Christ
 of this kind. Therefore it is not of necessity for the salvation of every Christian. The
 [antecedent]{g:antecedens} seems possible enough by the common law.[^1] Again, Christianity is placed in
 greater freedom in the time of [the law of grace]{g:lex gracie} than it was placed in the time before
-the law or in the time of the synagogue; but then it was not necessary that everyone to be saved should
+the law or in the time of the synagogue; now at that time it was not necessary that everyone to be saved should
 be subject to the high priest, levitical or firstborn, but it sufficed, keeping justice, to believe in
 the Lord Jesus Christ: therefore much more [so now], the merit of Christ Jesus being extended according
 to the law of perfect liberty.[^2] The minor is clear from Job the gentile, from the Brahmans and many
@@ -38,7 +38,7 @@ St Thomas be so? Indeed, so it was with Paul and many of his converts in the tim
 this extravagant decretal does not bring it about that Christianity is bound more servilely than
 before, as is clear from the extravagant of Clement that follows, in which it is shown that the king of
 France was not thereby more subject to him than before.[^4] [33] Again, no one is made
-[perplexed]{g:perplexus} by the law of Christ, bound to the impossible; but this would happen given this
+[perplexed]{g:perplexus} by the law of Christ, bound to the impossible; now this would happen given this
 [teaching]{g:sentencia}: therefore it must be a lie. The minor is proved by this, that many infants who
 die immediately after baptism do not have the prudence to be subject to the pope in this way, nor do
 the infused virtues incline to such subjection, as they incline to subjection to the Lord Jesus Christ.
@@ -53,7 +53,7 @@ feel at least in effect the withdrawal of the [suffrage]{g:suffragia}; for so ho
 [church]{g:ecclesia} would perish even in the interval, unless it had the influence of the Lord Jesus
 Christ. And if he flows in only by accident, how is this of necessity for the salvation of the
 church?[^6] Similarly, then, upon the perversion of the lord pope the whole Christian people would be
-necessitated to be perverted, since then salvation would fail it; but it is not in the power of the
+necessitated to be perverted, since then salvation would fail it; now it is not in the power of the
 greater part of the church that the pope be morally good: therefore neither [is it in its power] that
 it itself be morally good.[^7] For no one can say that the salvation of every Christian depends on a
 [foreknown]{g:prescitus} pope as a member of the devil, nor will anyone feign that the pope as such is

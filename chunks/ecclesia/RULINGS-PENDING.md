@@ -13,4 +13,11 @@
   precedent). On the site a chunk would end on "it is clear". Decide at stage 10: render chapters continuously
   (boundary invisible) or move the boundary.
 
+- **S3. Tokenfix rows that emend the print.** The reviews found 4 rows in `text/ecclesia/tokenfix.tsv` labelled
+  "OCR" that in fact corrected Loserth's misprints (263.29 *faciendo*, 270.29 *69*, 424.4 *novam*; plus a lost
+  stop) — silent emendations, against the standing rule. Undone in the close-out (print restored, T notes). The
+  other ~695 rows were not audited; most are true OCR scars, but any row whose "printed" form is a real Latin
+  word (or a numeral) could be the same case. A filtered audit (real-word / numeral rows only, checked on the
+  plates) is possible; not started, needs your go.
+
 ## R. Translation items (doubtful; left as they are until ruled)
