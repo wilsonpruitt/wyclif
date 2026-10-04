@@ -12,6 +12,10 @@
   265.1 *et*, 372.2 *tripliciter*) + 3 stops; English/notes follow. **Deferred to stage 10:** 28 false ¶ breaks,
   11 chunk splits inside a sentence, 06-e/06-f *Sed* at 133.26, 5 merged print paragraphs: they need a `vote.py`
   para override and chunk restructuring, and the site's chapter rendering decides how visible they are.
+  **Ruled 2026-10-04 (Wilson): the web edition stays one page per part.** A continuous reading text is for a later
+  PDF or print edition, where the false breaks and chunk-end splits are joined at build time (the audit report
+  `_audit/BOUNDARIES-REPORT.md` says which are false, which are verse/headings), notes renumbered per chapter,
+  page markers shown once. Design notes: 23 chapters of 5–12 parts, ~9,000 English words each.
 
 The items as they were put:
 
