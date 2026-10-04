@@ -106,6 +106,7 @@ def scrub(t):
     t = re.sub(r'[;,]?\s*\b\d{4}-\d\d-\d\d\b(?=\s*[:;,.)(]|\s*$)', '', t)       # bare process dates
     t = re.sub(r'\s*\(\d{4}-\d\d-\d\d row\)', '', t)
     t = re.sub(r'\b(approved|ruled|conformed) \d{4}-\d\d-\d\d', r'\1', t)
+    t = re.sub('\u2b50\ufe0f? ?', '', t)                              # the star-emoji editorial marker is never published
     t = t.replace('( )', '').replace('()', '')
     return re.sub(r'  +', ' ', t)
 
