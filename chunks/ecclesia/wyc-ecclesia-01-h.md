@@ -122,8 +122,7 @@ shakes off all fear.[^18]
     breasts". Gregory, *Moralia* XIX: Wyclif's cap. 8, Loserth's cap. 12 (the Maurist number;
     PL 76:108A–B; Opp. I, 613; LEDGER E01h-1). *Iuvencule*, "young girls", is kept apart from Gregory's *adolescentule*.
 
-[^4]: **S.** Gregory's sentence glosses Song 1:2, DR "young maidens have loved thee"; wording
-    unchecked (LEDGER E01h-2, `[verify]`).
+[^4]: **S.** Gregory's sentence glosses Song 1:2, DR "young maidens have loved thee"; wording as PL 76:108B (LEDGER E01h-2).
 
 [^5]: **S/C.** Lion and lioness: Wyclif's *Moralia* XXVIII.11; the passage is XVIII.35.56 (PL 76:68C–69A), as
     Loserth gives; XXVIII.10–11 has no lion (LEDGER E01h-3). *Beatum Petrum et alias particulares ecclesias*: Peter is counted as a particular

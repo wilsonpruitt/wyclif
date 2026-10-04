@@ -167,8 +167,7 @@ Christian.[^17]
     succeed one another, like time or a river (GLOSSARY §C), hence *more fluminis labentis*.
     *Corrupcionem*: his death, in the philosophers' sense of a thing ceasing to be.
 
-[^5]: **S.** Gregory, *Hom. in Evang.* 19.1, the church *ab Abel iusto usque ad ultimum electum*
-    `[verify]`. Wyclif's reference (the MSS): *XXIII Moral. cap. I*; Loserth corrects to *XIX
+[^5]: **S.** Gregory, *Hom. in Evang.* 19.1, the church *ab Abel iusto usque ad ultimum electum* (PL 76:1154B; LEDGER E05b-1). Wyclif's reference (the MSS): *XXIII Moral. cap. I*; Loserth corrects to *XIX
     Homiliarum* and cites Greg. *Opp.* I, p. 1510 (LEDGER E02b-1). B's margin: *Gregorius electum*.
 
 [^6]: **C.** *Manet in causis secundis*: Christ remains at work through second causes, so that the
