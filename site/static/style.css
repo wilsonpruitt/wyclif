@@ -200,6 +200,9 @@ body.no-latin .passage { grid-template-columns: 10rem minmax(0, 1fr); }
 .work-card { display: block; max-width: 40rem; padding: 1.2rem 1.4rem; border-left: 4px solid var(--truth-band);
   background: var(--paper-2); text-decoration: none; }
 .work-card:hover { background: var(--rule); }
+.now-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); gap: 1.2rem; }
+.now-cards .work-card { max-width: none; }
+.wc-s { display: block; margin-top: 0.15rem; color: var(--ink-2); }
 .wc-t { display: block; font-size: 1.35rem; line-height: 1.25; }
 .wc-d { display: block; margin-top: 0.5rem; color: var(--ink-2); }
 .vols { width: 100%; border-collapse: collapse; font-size: 0.95rem; }

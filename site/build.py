@@ -492,7 +492,7 @@ def render_home(built):
 <h1 class="title"><span class="t-la">Wyclif</span><span class="t-sub">The Latin works, in English</span></h1>
 <p class="lede">John Wyclif (c. 1330–1384) wrote in Latin. The Wyclif Society printed his Latin works in {len(vols)} volumes
 between 1883 and 1922, and most of them have never been translated into English in full. This site sets the Society’s
-Latin beside a new English translation, one work at a time.</p>
+Latin beside a new English translation, one work at a time. Two are ready to read now, below.</p>
 <figure class="shelf" aria-label="The Wyclif Society edition as a shelf of {len(vols)} volumes">
 <div class="spines">{''.join(spines)}</div>
 <figcaption>The Society’s edition on one shelf, in order of publication, each volume as thick as it is long
@@ -500,12 +500,14 @@ Latin beside a new English translation, one work at a time.</p>
 (Loserth, 1886) and the <a href="dialogus/"><i>Dialogus</i></a> (Pollard, 1886).</figcaption>
 </figure></section>
 <section class="now"><h2>Read now</h2>
-<a class="work-card" href="ecclesia/"><span class="wc-t"><i>De ecclesia</i></span>
-<span class="wc-d">What the church is, who belongs to it, and what its bishops may claim. Written in 1378–79; 23 chapters,
-about {e_words // 1000 * 1000:,} words of English.</span></a>
-<a class="work-card" href="dialogus/"><span class="wc-t"><i>Dialogus sive Speculum Ecclesie Militantis</i></span>
-<span class="wc-d">Truth and Falsehood argue over whether the church should own property. Written in 1379; 36 chapters and an
-Epilogue, about {d_words // 1000 * 1000:,} words of English.</span></a></section>
+<div class="now-cards">
+<a class="work-card" href="ecclesia/"><span class="wc-t"><i>De ecclesia</i></span><span class="wc-s">On the Church</span>
+<span class="wc-d">What the church is, who belongs to it, and what its bishops may claim. Written in 1378–79;
+23 chapters, about {e_words // 1000 * 1000:,} words of English.</span></a>
+<a class="work-card" href="dialogus/"><span class="wc-t"><i>Dialogus</i></span><span class="wc-s">The Mirror of the Church Militant</span>
+<span class="wc-d">Truth and Falsehood argue over whether the church should own property. Written in 1379;
+36 chapters and an Epilogue, about {d_words // 1000 * 1000:,} words of English.</span></a>
+</div></section>
 <section class="catalogue"><h2>The Wyclif Society edition</h2>
 <table class="vols"><thead><tr><th>Year</th><th>Volume</th><th>Editor</th><th>On this site</th></tr></thead><tbody>{''.join(rows)}</tbody></table>
 </section>"""
