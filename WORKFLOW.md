@@ -39,14 +39,13 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    Then ONE plate agent per ~10 chapters corrects the OCR side-notes against the plates (it is image work;
    kept out of translation, where it cost extra round trips). The same agent, on the same pages, does two
    more things (lessons of the *De ecclesia* close-out, which paid for them at the end instead):
-   - **Italics.** Record every italic run (page.line, first and last words) in `text/SLUG/italics.tsv`.
-     Quotations open and close at the print's italics; a roman stretch is reported, not quoted. *De ecclesia*
-     never captured italics (`chapters.py` writes `italics: none`), so 52 of 174 review rows were quotation
-     bounds, and ~110 chunks are still unchecked. `brief.py` must inline the chunk's italics rows (⬜ build this
-     before the next volume's stage 7).
-     First check whether a witness carries italics already: `vote.py` keeps an `it` flag per token (tok.jsonl),
-     empty for *De ecclesia* (0 of 138,861 tokens); if the Fordham text or the hOCR has font styles, fill it there
-     and the plate reading shrinks to a check.
+   - **Italics — track, don't verify.** Italics are the editor's call (Loserth marking what he took for a
+     quotation), not the manuscript's (Wilson, 2026-10-04). So: record the italic runs only as a by-product of
+     this plate pass (page.line, first and last words → `text/SLUG/italics.tsv`), and `brief.py` inlines them
+     (⬜ build before the next volume's stage 7) so the translator sees the editor's quotation bounds as
+     evidence. No separate italics pass, no review rows for quotation bounds, no close-out check of them.
+     First see whether a witness already carries italics (`vote.py` keeps an `it` flag per token, empty for
+     *De ecclesia*); if the Fordham text or the hOCR has font styles, take them from there instead.
    - **Boundaries.** `python3 scripts/w3/boundaries.py SLUG` lists every ¶ or chunk end without a stop
      (*De ecclesia*: 58). Read each on the plate: a false ¶ break (an alinea letter read as a break) is
      merged before translation; it lost *plus* at 46.24 (and the S2 plate check found four more lost words).

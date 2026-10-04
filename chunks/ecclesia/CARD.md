@@ -54,9 +54,9 @@ notes and the transcription notes; set `status: translated`; lint; report.
   implicit). Supplied words in `[brackets]`, sparingly. Quotations in quotation marks: Loserth
   italicises quotations, but the scaffold does not carry italics (`italics: none`), so find quoted
   matter by sense and by the source references at the page foot. ⚠ **For the next volume's card:** the
-  brief carries the print's italic runs (WORKFLOW stage 5); quotation marks open and close exactly there,
-  and a roman stretch is reported, not quoted — never placed by sense (the *De ecclesia* close-out found
-  52 mis-bounded quotations).
+  brief carries the print's italic runs (WORKFLOW stage 5). They are the editor's judgement of where a
+  quotation runs, not the manuscript's: follow them by default, depart where the source shows otherwise
+  (say so in a note). Reviews do not check quotation bounds against the italics.
 - **Formulae of the disputation** (GLOSSARY §C, ruled 2026-10-01), rendered the same way throughout: *instatur* "it is objected" ·
   *obicitur* "it is objected" · *arguitur* "it is argued" (with *per*: GLOSSARY) · *dicitur* "it is
   said" (in an answer: "the answer is") · *respondetur* "the reply is" · *conclusio* "conclusion" ·
