@@ -1,4 +1,14 @@
-# *De ecclesia* — rulings pending (Wilson), from the close-out (CLOSEOUT.md)
+# *De ecclesia* — rulings from the close-out (CLOSEOUT.md)
+
+## RULED 2026-10-04 (Wilson)
+- R1 keep (12-d n17: an unidentified incident, not the 1378 killing) · R2 note only (Nicholas III kept in the
+  English) · R3 standard names added (07-a n2) · R4/R8 keep `verified`, how-column names the source · R5/R6 keep
+  as reported; book-level mapping is enough · R7 English "Boulogne" (16-c) · C: 11-a recast as a syllogism
+  ("now" for the minor, C note); the other ~75 doubtful connectives stay as rendered.
+- S2 run (58 boundaries on the plates) · S3 run (208 tokenfix rows: 140 real-word, 68 numeral, none plate-read)
+  · S1 deferred to stage 10.
+
+The items as they were put:
 
 ## S. Scope questions
 - **S1. Quotation bounds by the print's italics in the unreviewed chunks.** The italics rule dates from brief 45
