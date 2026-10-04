@@ -165,12 +165,14 @@ men.[^16]
 
 [^9]: **S/C.** John 10:29–30. The Vulgate *quod dedit mihi, maius omnibus est* (DR "That which my Father
     hath given me is greater than all") is read of the gift, the Holy Spirit. *Sed* brings the minor
-    premiss ("Now"). *Cap. X* (74.24): John 10 (*Ego et Pater unum sumus*, 10:30) or chapter 10 of this
-    book (the church joined to Christ by the Spirit); the reference is unchecked (LEDGER E04b-4).
+    premiss ("Now"). *Cap. X* (74.24): John 10 itself (10:29–30), the chapter being expounded. This
+    book's chapter 10 has nothing on the Spirit; the church joined to Christ by the Spirit is chapter 1
+    (3, 01-b: *amore spiritus sancti Christo in matrimonio perpetuo copulatur*) (LEDGER E04b-4).
 
 [^10]: **G/C.** *Ingrata*: rendered "ungracious", of God choosing, where GLOSSARY §D's "displeasing (to
-    God)" cannot apply and "ungrateful" has no object; proposed. *Ut dixi superius*: not identified
-    (LEDGER E04b-6).
+    God)" cannot apply and "ungrateful" has no object; proposed. *Ut dixi superius*: chapter 1 (5,
+    01-b): *Quomodo queso tam potens, tam sciolus et tam benivolus … eternaliter eligeret sibi sponsam
+    quam finaliter repudiaret?* (LEDGER E04b-6).
 
 [^11]: **T/S.** 1 John 2:19, DR; AA₁ *per tempus* for *ad tempus* (75.3). Rom. 8:35–39 paraphrased: DR
     "the love of Christ" (8:35), "the love of God which is in Christ Jesus" (8:39), for *caritas*

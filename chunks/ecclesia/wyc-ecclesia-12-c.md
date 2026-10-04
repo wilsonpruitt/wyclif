@@ -66,7 +66,7 @@ To this [objection]{g:objectum} I reply by granting the [assumption]{g:assumptum
 
 [^14]: **C.** Side-note 263.3. *Si … fuit iustum de multis quod … subirent*: "if … was just as regards many, that … they should undergo"; the subject of *excusat* is taken to be the privilege. *Aufugio*: flight [to sanctuary]. *Partibus*: the parties to the suit. *Facinore*: misdeed (GLOSSARY §B).
 
-[^15]: **R/C.** Forty days: the term a sanctuary-seeker had under English custom before he must abjure the realm (context to be checked, LEDGER E12c-6). *Disposicionem persone culpabilis*: the guilty person's disposition (penitent or hardened). *Taxanda*: to be assessed.
+[^15]: **R/C.** Forty days: the term a sanctuary-seeker had under English custom before he must abjure the realm. *Disposicionem persone culpabilis*: the guilty person's disposition (penitent or hardened). *Taxanda*: to be assessed.
 
 [^16]: **S/C/T.** Matthew 18:15–17 (correction privately, before witnesses, then by the church); Loserth prints *XVIII°* without a verse. A and B read *deprehensus* (263.16). *Castigatis … vel ociosis … vel … proscriptis*: ablatives with *aliis sceleratis*; *ociosis* is construed "[kept] idle", i.e. kept from further harm. *Intoxicare plus sancte matris ecclesie*: to poison more of holy mother church. *Secundam difficultatem*: the jurist's claim at 258.17–20 (12-b); side-note 263.24. *Instant*: "press", not the formula *instatur*. The sentence runs on into the next part (12-d).
 

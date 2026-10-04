@@ -89,7 +89,7 @@ Again, it seems that many charters of perpetual alms savour of blasphemy and pri
 
 [^14]: **R/C/T.** *Edgarus et sanctus Edwardus*: King Edgar and Edward the Confessor, remembered as benefactors of the monasteries, Westminster among them (their privileges are quoted at 205.3–206.26, 10-a). *Conquestu sequente*: the Norman conquest of 1066. *Accessorium … principale*: in law the accessory follows the principal: the endowment follows the lordship of the kingdom. *Persone tam extranee*: the endowed church, a stranger to the giver's line. B reads *extranie* (278.4). *Rectificabit*: will make good.
 
-[^15]: **R/T.** William's transfer of Saxon endowments to Norman houses and monks (context to be checked, LEDGER E13a-5). B lacks *fuisset … titulo* (278.9). *Cleri possessionati*: the possessioner clergy, the endowed religious (GLOSSARY §B).
+[^15]: **R/T.** William's transfer of Saxon endowments to Norman houses and monks. B lacks *fuisset … titulo* (278.9). *Cleri possessionati*: the possessioner clergy, the endowed religious (GLOSSARY §B).
 
 [^16]: **S/T.** Side-note 278.15. *Signatum redditum*: a designated revenue. *Declaratum est proximo capitulo*: cap. 12, 12-b, 256–57 (LEDGER E13a-6). 1 Samuel 2:30 (Vulgate 1 Kings): the Lord's promise to Heli's house withdrawn. A₁ corrects to *teneret*; B reads *servicio* (278.21). A in the margin *Racio* (278.22).
 

@@ -49,7 +49,7 @@ Into such madnesses ignorant bishops and doctors are led, making the [unlettered
 ## Notes
 
 [^1]: **C.** *Sui episcopi*, "his bishop": most likely Caesar's, the Roman bishop whose primacy Wyclif has just derived from Caesar's decree (*Constantinus*, 352.16); the alternative is the realm's own bishop.
-[^2]: **R.** Urban VI was elected in April 1378, Clement VII in September 1378; England held to Urban. To be checked (LEDGER E15g-1).
+[^2]: **R.** Urban VI was elected in April 1378, Clement VII in September 1378; England held to Urban.
 [^3]: **C.** "These five" are the five reasons of 351.31–352.16. **T.** At 352.32–33 B reads *istorum et in Gregorio*; the print is translated.
 [^4]: **R.** The condemnation is Gregory XI's of Wyclif's conclusions (bulls of May 1377); the "four truths" and "four heresies", and the letter, are not identified; the article "newly catholicized" (353.25–27) is the contrary of Wyclif's condemned conclusion that the pope does not bind or loose merely by claiming to (*Fasciculi zizaniorum*, p. 252). **C.** *Epistola maledicta ab homine*: the letter is "cursed by a man" (the pope's curse) and yet refuted by no one.
 [^5]: **S.** Gal. 3:13 (DR "Cursed is every one that hangeth on a tree"). Ambrose, "letter 38": Loserth gives no reference. Ep. 38 in the Maurist numbering (PL 16, to Simplicianus) does not treat Gal. 3:13; the letter that expounds it of the cross is Ep. 46 (to Sabinus) §13, *Ille maledictum in cruce factus est, ut tu benedictus esses in Dei regno* (PL 16:1149C); cf. the sermon appended to Ep. 21 (PL 16:1015A). Wyclif's number has not been matched (LEDGER E15g-3).
@@ -57,7 +57,7 @@ Into such madnesses ignorant bishops and doctors are led, making the [unlettered
 [^7]: **S.** 2 Thess. 2:4 (DR "is lifted up above all that is called God"); Wyclif has *super* for the Vulgate's *supra*. The "papal laws" are not specified; those Wyclif quotes from the gloss at 04-e (n. 10) are D. 19 c. 9 (*Anastasius*) and D. 40 c. 6 (*Si papa*, *nisi deprehendatur a fide devius*), and for Peter, C. 2 q. 7 c. 33 (*Paulus Petrum reprehendit*) (LEDGER E15g-5).
 [^8]: **C.** *Episcopo Scarioth*: Judas's surname set against the pope as an epithet.
 [^9]: **C.** *Da oppositum … contra*: the disputant's "grant the opposite" (that the pope could not so acquire England), followed by the counter-argument, a syllogism whose minor (*sed sic potest pretendere*) is then proved "in three ways".
-[^10]: **R.** King John's surrender of England to Innocent III (1213), with an annual render of a thousand marks: to be checked (LEDGER E15g-6).
+[^10]: **R.** King John's surrender of England to Innocent III (1213), with an annual render of a thousand marks.
 [^11]: **C.** *Tunc formidandus esset, si excedit*: impersonal, "it would be a thing to fear, whether he exceeds"; the doubt is the misgiving (*formido*) that would unsettle faith in the keys.
 [^12]: **R.** The bishop of Rochester was Thomas Brinton (1373–1389), a Benedictine; his "brothers" are then his fellow monks. The parliament is not identified (perhaps that of October 1377 or of Gloucester, 1378) (LEDGER E15g-7). **T.** A A₁ read *stomachando*, to the same sense.
 [^13]: **C.** *Stante iusticia … cum facto regis et iure quod vendicat*: if the condemnation is just *and* the king's deed and claim stand, the king falls under it. The "deed" is not named here; the conclusion it falls under is no. 6 (n14).

@@ -87,7 +87,7 @@ From which it follows that it does not belong to the [pope]{g:papa}, on account 
 
 [^10]: **S/T.** Loserth: after *Philipp.* the manuscripts leave a gap, and he supplied *III, 3* (281.1). Philippians 3:3 ("glory in Christ Jesus", DR); Galatians 6:14 is the Douay–Rheims, but Wyclif lacks *nostri* ("our Lord"). *Hoc* points back to the proof just given (280.29–33).
 
-[^11]: **S/C.** Side-note 281.9. *Eius successione hereditaria filii adoptivi*: the heir succeeds to God as an adopted son (cf. Romans 8:15–17); the construal of *eius* is ours. The argument runs from the greater obligation (God's) to the lesser (the fleshly father's). The Augustine is *Enarrationes in Psalmos* 148.2 (PL 37, 1938–39; Loserth: *Opp.* IV.ii, p. 1673), quoted freely: Augustine has *In tuo autem arbitrio Deus esse voluit … Deo, an diabolo* (LEDGER E13b-3). *Arbitrio*: choice.
+[^11]: **S/C.** Side-note 281.9. *Eius successione hereditaria filii adoptivi*: the heir succeeds to God as an adopted son (cf. Romans 8:15–17); the construal of *eius* is ours. The argument runs from the greater obligation (God's) to the lesser (the fleshly father's). The Augustine is *Enarrationes in Psalmos* 148.2 (PL 37, 1938; Loserth: *Opp.* IV.ii, p. 1673), quoted freely: Augustine has *In tuo autem arbitrio Deus esse voluit … Deo, an diabolo* (LEDGER E13b-3). *Arbitrio*: choice.
 
 [^12]: **T/C.** Side-note 281.16; A in the margin *Nota solucionem obiectus*. The print has *ad continuandum*; Loserth queries *discontinuandum (?)* (281.18). We translate "discontinue", which the argument needs: Wyclif is disclaiming any encouragement to lords to withdraw their alms; "or to continue the alms" would say the opposite. *Formaliter*: by the form of the inference. *Perficere*: complete.
 

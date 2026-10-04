@@ -171,8 +171,9 @@ been its intrinsic head before he was man.[^17]
 
 [^12]: **S/C.** Two canons are meant: that whoever expounds scripture otherwise than the Holy Spirit's
     sense demands is a heretic (Decretum C.24 q.3 c.27, from Jerome, to be checked; LEDGER E06b-8), and
-    that whoever imputes such vice to the Roman church falls into heresy (perhaps D.22 c.1, to be
-    checked; LEDGER E06b-9). *Calumpnia*: calumny.
+    that whoever imputes such vice to the Roman church falls into heresy (no canon says this in
+    terms; nearest, D.22 c.1 § 1, on taking away the Roman church's privilege, Friedberg I, 73–74;
+    LEDGER E06b-9). *Calumpnia*: calumny.
 
 [^13]: **S/T/C.** Exod. 21:17, Vulgate *Qui maledixerit patri suo, vel matri, morte moriatur*, DR "He
     that curseth his father or mother, shall die the death"; Wyclif lacks *suo* and *morte*. A *Nonne

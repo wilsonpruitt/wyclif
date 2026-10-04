@@ -151,8 +151,10 @@ shakes off all fear.[^18]
     *Moralia* XVIII.35.56 (PL 76:68D, *hujus leaenae ori*); Job as "mouth" is not found (LEDGER E01h-4). A's margin: the members of holy
     church, the bride of Christ, are the saints alone. B *sunt* (23.29).
 
-[^11]: **S/T.** Gregory, *Moralia* IV (Loserth: Opp. I, 132; LEDGER E01h-5); the nearest list found is the
-    Preface 6.13 (PL 75:524B–C), which lacks David's humility and Elijah's zeal. Loserth notes that the
+[^11]: **S/T.** Gregory, *Moralia* IV.32.63 (PL 75:671C–672A; Loserth: Opp. I, 132; LEDGER E01h-5), on
+    the just from the world's beginning (Abel, Enoch, Noah, Abraham, Isaac, Jacob); the virtues are
+    named after the Preface 6.13 (PL 75:524B–C), with David's humility and Elijah's zeal from X.6.9 (PL
+    75:925A–B); Joseph's chastity is Wyclif's. Loserth notes that the
     MSS have *cap. X* and that he has corrected it. AA₁ lack *de spe Noe … de paciencia Job*
     (24.9–10); the print follows B. *Radicalia … inserenda*: the figure of grafting from Rom. 11, used
     again at 25.15.

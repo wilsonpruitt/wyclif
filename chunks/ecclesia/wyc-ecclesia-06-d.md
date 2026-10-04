@@ -167,8 +167,10 @@ Christians.[^19]
 
 [^4]: **C/T/S.** *Intrinsecum … extrinsecum*: a head within the body (as man) and a head flowing in
     from without (as God), as at 123.26 (06-b); *taliter*: as intrinsic head. Print *Paulum* (127.9, plate);
-    Jerome's addressees are Paula and Eustochium, and we give "Paula" (our emendation; the print has *Paulum*). The letter is not identified (Ep. 46, PL 22:483, does not have the
-    passage) (LEDGER E06d-3).
+    Jerome's addressees are Paula and Eustochium, and we give "Paula" (our emendation; the print has *Paulum*). The letter is the pseudo-Jerome *Cogitis me* to Paula and Eustochium
+    (Ep. 9, on the Assumption): Christ *jam esset in illo per unitatem personae ab initio saeculi … quod
+    multis Scripturarum declaratur indiciis* (PL 30:132C). Wyclif had cited it for the same point in *De
+    benedicta incarnacione* (7, 53, 109) (LEDGER E06d-3).
 
 [^5]: **R/T/C.** A margin *Responsio* (127.10). A A₁ lack *Deus*, B *resurgunt* (127.15).  The presents (*creat*, *vivunt*, *incarnatur*) are
     Wyclif's: each article is true "for its time", past or to come. *Utraque ecclesia*: the church of

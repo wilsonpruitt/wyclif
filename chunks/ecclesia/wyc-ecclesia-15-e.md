@@ -64,7 +64,7 @@ Second, it is confirmed from this, that the king (as such) has a [privilege]{g:p
 
 [^14]: **T.** *Politice*: Loserth's correction; the manuscripts read *polelice* (344.29). *Cum istis paribus*: "these things being equal", as at 337.
 
-[^15]: **R.** The powers popularly ascribed to the English king: healing by touch (the king's evil) and the taming of lions (LEDGER E15e-6, to be checked). Loserth compares Hus, *l. c.* (345.3).
+[^15]: **R.** The powers popularly ascribed to the English king: healing by touch (the king's evil) and the taming of lions (cf. M. Bloch, *Les rois thaumaturges*, 1924; for the lions, pp. 256–8). Loserth compares Hus, *l. c.* (345.3).
 
 [^16]: **C.** *Virtus* is both "power" and "virtue"; Wyclif plays on the two (*opus maioris virtutis gignere virtutes*). "Power" is used for the faculty, "virtues" for the moral habits. *Virtualiter*: by power, not by bodily means.
 

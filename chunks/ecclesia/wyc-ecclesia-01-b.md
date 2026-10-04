@@ -127,8 +127,8 @@ only in those who will have persevered to the end."[^24]
     (LEDGER V-09). Loserth corrects the MSS' XXVI to XXV and refers to *Opp.* III.2, p. 489.
 
 [^9]: **S.** The reversal of ordinary nourishment echoes Augustine, *Confessions* VII.10.16: *nec tu
-    me in te mutabis sicut cibum carnis tuae, sed tu mutaberis in me* `[verify; our identification,
-    not Loserth's]` (LEDGER V-10).
+    me in te mutabis sicut cibum carnis tuae, sed tu mutaberis in me* (PL 32:742; our identification,
+    not Loserth's) (LEDGER V-10).
 
 [^10]: **G/R.** *Digestiones*: the metaphor of eating continues. The chain of Rom. 8:30 is the four
     stages by which the food assimilates the eater. Wyclif gives the nouns; DR has the verbs ("whom he

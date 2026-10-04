@@ -219,8 +219,10 @@ the praise of the church.[^12]
     threshing-floor, where grain and chaff lie together (cf. 89.3). *Naturales et perspectivi*: the
     natural philosophers and the writers on optics (*perspectiva*).
 
-[^10]: **S/T.** "Lincoln": Robert Grosseteste, bishop of Lincoln; his *Sermo* before Innocent IV at Lyon, 1250 (Brown, *Fasciculus rerum expetendarum* II, 1690, p. 251), quoted closely, *uvas preciosas* included
-    checked (LEDGER E05b-3). Where his words end is our judgement. A margin *Lincolniensis* (99.16),
+[^10]: **S/T.** "Lincoln": Robert Grosseteste, bishop of Lincoln; his *Sermo* before
+    Innocent IV at Lyon, 1250 (Brown, *Fasciculus rerum expetendarum* II, 1690, p. 251), quoted
+    closely, *uvas preciosas* included (LEDGER E05b-3). His words end at *in hominibus non est*. A
+    margin *Lincolniensis* (99.16),
     *Ecclesia sancta catholica quantum sit artata* (99.17). *Mediante*: Loserth's expansion of the MSS
     *medi°* (99.18). *Vere*: Loserth; the MSS *vero* (99.22), "but of the part called Christian"; we
     translate the print. *Quia factus*: the MSS *qui factus* (Loserth's foot). Micah 7:1–2 (Loserth):

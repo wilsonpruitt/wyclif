@@ -115,7 +115,7 @@ But I do not [maintain]{g:intendere} that the king's [knights]{g:milites} ought 
 
 [^23]: **S/C.** A in the margin *Correccio perturbancium pacem* (272.6); A in the margin *Isaie XXXIII. Racio*, and B in the margin, in another hand, *Non occides* (272.13); side-note 272.10. *Illis per quos staret eorum correccio*: those on whom their correction depended, the king and his officers. *Evidencia topica*: probable, not demonstrative, evidence (cf. GLOSSARY §C, *argumentum topicum*). Wyclif's words are nearly those of Luke 6:38 (*Eadem quippe mensura, qua mensi fueritis, remetietur vobis*), translated with its DR wording; Matthew 7:2 has *in qua mensura*. Joab: 1 Kings 2:28–34 (Vulgate 3 Kings), at David's charge (2:5–6). Isaiah 33:1 (DR).
 
-[^24]: **C/R.** *Intendo*: maintain (GLOSSARY §D). *Milites regis*: the king's knights who led the violation of 1378 (12-a; to be checked, LEDGER E12e-5); Joab, David's commander, is the *miles* of the old testament, hence "knight" (GLOSSARY §B). *Salvatum in vita et membris*: with life and limb spared. *Primo argumento capituli septimi*: 07-a, 143–44, from Joab killed at the altar, *fugitivum salvum in vita et membris extrahere* (LEDGER E12e-7).
+[^24]: **C/R.** *Intendo*: maintain (GLOSSARY §D). *Milites regis*: the king's knights who led the violation of 1378 (Sir Alan Buxhull and Sir Ralph Ferrers; 12-a); Joab, David's commander, is the *miles* of the old testament, hence "knight" (GLOSSARY §B). *Salvatum in vita et membris*: with life and limb spared. *Primo argumento capituli septimi*: 07-a, 143–44, from Joab killed at the altar, *fugitivum salvum in vita et membris extrahere* (LEDGER E12e-7).
 
 ## Transcription notes
 

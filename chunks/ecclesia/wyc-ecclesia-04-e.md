@@ -137,7 +137,8 @@ grace according to present justice.[^18]
 
 [^3]: **S/C.** Heb. 10:34 (DR "took with joy the being stripped of your own goods") and Luke 6:30 (DR
     "of him that taketh away thy goods, ask them not again") are alluded to, not quoted. *Cap. III*: this
-    work's chapter 3, where Gregory is cited (LEDGER E04e-1). *Ius*: here "law" (human and divine law);
+    work's chapter 3 (51–52, 03-b), where Gregory (*Moralia* 31) quotes *Si quis quod tuum est tulerit,
+    ne repetas* (LEDGER E04e-1). *Ius*: here "law" (human and divine law);
     in the next sentence *quo iure*, "by what right" (GLOSSARY §B). *Placitantes*: pleading in the
     courts.
 
@@ -191,8 +192,8 @@ grace according to present justice.[^18]
     of eyewitnesses.
 
 [^13]: **S.** Decretum D. 22 c. 1, *Omnes*, Nicholas II to the Milanese (PL 187:122C; Loserth; the modern
-    form is ours); *Liber Sextus* 5.2, *De
-    hereticis* (from memory) (LEDGER E04e-7).
+    form is ours); *Liber Sextus* 5.2, *De hereticis* (Friedberg II, 1067–68; the title as a whole, no
+    chapter named) (LEDGER E04e-7).
 
 [^14]: **T/C.** A *patet illa* (87.28). The MSS *ligua* (87.31). *Loquuntur* (88.2): the print
     (plate); the OCR had *quuntur*. *Sequitur ex fide*: the verb governs *ex*, so "from faith", not the formula
