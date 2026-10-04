@@ -27,7 +27,9 @@
 {"t": "in", "leaf": 84, "row": 3, "para": false, "head": false, "pos": 26}
 {"t": "effectu", "leaf": 84, "row": 3, "para": false, "head": false, "pos": 27}
 {"t": "supplantacio", "leaf": 84, "row": 3, "para": false, "head": false, "pos": 28}
-{"t": "legis", "leaf": 84, "row": 3, "para": false, "head": false, "pos": 29}
+{"t": "legis", "leaf": 84, "row": 3, "para": false, "head": false, "pos": 28}
+{"t": "Christi", "leaf": 84, "row": 3, "para": false, "head": false, "pos": 28}
+{"t": "etc.", "leaf": 84, "row": 3, "para": false, "head": false, "pos": 28}
 {"t": "CAP.", "leaf": 84, "row": 4, "para": false, "head": true, "pos": null}
 {"t": "III.", "leaf": 84, "row": 4, "para": false, "head": true, "pos": null}
 {"t": "Sed", "leaf": 84, "row": 5, "para": false, "head": false, "pos": 32}

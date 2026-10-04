@@ -31,9 +31,9 @@ The fourth main objection, from schoolmen and [common people]{g:vulgares} alike:
 
 ## ¶3 · 265.1–265.8
 
-> [p. 265] vulgares approbarunt hoc privilegium, quando regnum processit prospere; qua ergo fronte nos minus sancti, minus scioli vel potentes usurpare audemus violacionem sancte matris ecclesie, cum domini et partes quibus iniuriatum est possunt (quantum in eis est) remittere satisfaccionem et penam recommendando Deo vindictam? Sic enim alique civitates in Anglia sunt servis in perpetuum refugium.
+> [p. 265] et vulgares approbarunt hoc privilegium, quando regnum processit prospere; qua ergo fronte nos minus sancti, minus scioli vel potentes usurpare audemus violacionem sancte matris ecclesie, cum domini et partes quibus iniuriatum est possunt (quantum in eis est) remittere satisfaccionem et penam recommendando Deo vindictam? Sic enim alique civitates in Anglia sunt servis in perpetuum refugium.
 
-[and] common people approved this privilege when the [kingdom]{g:regnum} went forward prosperously; with what face, then, do we, less holy, less [wise]{g:sciolus} or powerful, dare to usurp the violation of holy mother [church]{g:ecclesia}, since the lords and the parties to whom injury has been done can (as far as in them lies) remit [satisfaction]{g:satisfaccio} and penalty, commending vengeance to God? For in this way certain cities in England are a refuge in perpetuity for serfs."[^6]
+and common people approved this privilege when the [kingdom]{g:regnum} went forward prosperously; with what face, then, do we, less holy, less [wise]{g:sciolus} or powerful, dare to usurp the violation of holy mother [church]{g:ecclesia}, since the lords and the parties to whom injury has been done can (as far as in them lies) remit [satisfaction]{g:satisfaccio} and penalty, commending vengeance to God? For in this way certain cities in England are a refuge in perpetuity for serfs."[^6]
 
 ## ¶4 · 265.9–266.31
 
