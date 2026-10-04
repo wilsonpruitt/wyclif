@@ -43,3 +43,43 @@ Each row read on the plate (`text/ecclesia/raw/leaves/`). Verdicts: OCR = fix ri
 | 145 | 93 | limi | limitavi | **PRINT** | **limı avi**: the t is missing (blank sort), second i undotted, a damaged |
 | 149 | 96 | no | | OCR | side-note "Separation is no bar to unity" |
 | 170 | 116 | to | | OCR | side-note "We have to solve…" |
+| 157 | 108 | 111° | III° | OCR | XVIII° (Sap. XVIII° 14, 15) |
+| 158 | 109 | 143° | | OCR | margin folio mark *143ᵉ* (with P) |
+| 160 | 109 | linquit, | inquit, | OCR | inquit,; margin line number 1 |
+| 173 | 120 | 111° | III° | OCR | III° |
+| 175 | 123 | quod. | quod | OCR | *eo quod* at line end; the "." is from the side-note number "4." |
+| 177 | 124 | ad- | | OCR | side-note "At the last ad-/vent" |
+| 178 | 125 | 111° | III° | OCR | III° Reg. |
+| 179 | 125 | 1 | | OCR | first figure of the letterspaced "1 1:" (= 11:) |
+| 180 | 125 | 1: | 11: | OCR | Hebr. IX°, 1 1: (letterspaced 11) |
+| 181 | 126 | ht | Et | OCR | Et |
+| 183 | 127 | est. | est | OCR | "Christus est homo", no stop |
+| 184 | 127 | nostra! | nostra: | OCR | nostra: |
+| 187 | 133 | IIª. | IIª | **PRINT** | **IIª. Corinthiorum**: a clear stop after IIª (italic) |
+| 188 | 134 | be | | OCR | side-note "We must be careful…" |
+| 195 | 143 | 111° | III° | OCR | III° Regum |
+| 196 | 144 | of | | OCR | side-note "3. because of danger…" |
+| 197 | 145 | peccata. | peccata | OCR | peccata at line end, no stop |
+| 200 | 149 | testimonis | testimonio | **PRINT** | **testimonis** ("quia ex testimonis Christi"), clearly printed |
+| 202 | 152 | in Nec | Nec | OCR | Nec; no "in" in the text |
+| 204 | 154 | Eta | Et | OCR | Et patet |
+| 206 | 156 | nudei5o"0 | nude | OCR | nude; 150ª O in the margin |
+| 208 | 158 | ab- | | OCR | side-note "2. That we ab-/jure…" |
+| 212 | 162 | extraDi5ibneos | extraneos | OCR | *extra-* at foot of page, folio mark in margin |
+| 216 | 169 | [enim | enim | OCR | enim; 152ª I in the margin |
+| 217 | 170 | cis | eis | OCR | eis |
+| 221 | 173 | domne | omne | OCR | omne; 152ᵈ in the margin |
+| 222 | 174 | to | | OCR | side-note "A case as to privilege." |
+| 225 | 176 | et- | et | OCR | et (potestate, et omnis) |
+| 226 | 176 | of | | OCR | side-note "Divestment of…" |
+| 228 | 178 | principaliter] | principaliter | OCR | *prin-*/*cipaliter*, no bracket |
+| 229 | 179 | 1 | 11: | OCR | Matthei XI°, 1 1: (letterspaced 11) |
+
+## Counts
+
+- OCR: 62
+- PRINT: 4 (140 *Si* [cenim] p. 90; 145 *limi avi* p. 93; 187 *IIª.* p. 133; 200 *testimonis* p. 149)
+- OTHER: 4 (6 XLⁱ p. 46; 10 III°, p. 103; 32 II°, p. 488, already superseded by tokenfix line 611; 124 9°, p. 75)
+- NOT-FOUND: 0
+
+Side observation: at 572 (row 33) the print has a comma after IIª ("q. IIª, super") that our Latin lacks.
