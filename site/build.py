@@ -79,10 +79,6 @@ def scrub(t):
     t = re.sub(r'\s*\((?:\d{4}-\d\d-\d\d, )?`?tokenfix\.tsv`?\)', '', t)
     t = re.sub(r'[;,]?\s*\b(?:see |cf\. )?LEDGER [A-Za-z]\d\d[a-z]-\d+(?:,\s*[A-Za-z]\d\d[a-z]-\d+)*', '', t)
     t = re.sub(r'\s*\(tokenfix\)', '', t)
-    t = re.sub(r'\s*\((?:approved|ruled|conformed) \d{4}-\d\d-\d\d\)', '', t)
-    t = re.sub(r'[;,]?\s*\b\d{4}-\d\d-\d\d\b(?=\s*[:;,.)(]|\s*$)', '', t)       # bare process dates
-    t = re.sub(r'\s*\(\d{4}-\d\d-\d\d row\)', '', t)
-    t = re.sub(r'\b(approved|ruled|conformed) \d{4}-\d\d-\d\d', r'\1', t)
     t = re.sub(r', S[23] audit \d{4}-\d\d-\d\d', '', t)
     t = re.sub(r'\s*\(\d{4}-\d\d-\d\d(?:, tokenfix\.tsv)?\)', '', t)
     t = re.sub(r';?\s*ruled \d{4}-\d\d-\d\d', '', t, flags=re.I)
@@ -106,6 +102,10 @@ def scrub(t):
     t = re.sub(r'\bfrom the plate \(OVERRIDE\)', 'from the plate', t)
     t = re.sub(r"\b([Tt])he pilot's\b", r"\1he first draft's", t)
     t = re.sub(r'\b([Tt])he pilot\b', r'\1he first draft', t)
+    t = re.sub(r'\s*\((?:approved|ruled|conformed) \d{4}-\d\d-\d\d\)', '', t)
+    t = re.sub(r'[;,]?\s*\b\d{4}-\d\d-\d\d\b(?=\s*[:;,.)(]|\s*$)', '', t)       # bare process dates
+    t = re.sub(r'\s*\(\d{4}-\d\d-\d\d row\)', '', t)
+    t = re.sub(r'\b(approved|ruled|conformed) \d{4}-\d\d-\d\d', r'\1', t)
     t = t.replace('( )', '').replace('()', '')
     return re.sub(r'  +', ' ', t)
 
