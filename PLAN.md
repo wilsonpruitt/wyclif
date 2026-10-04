@@ -224,6 +224,8 @@ Fordham, this is a known residual gap; budget a numeral pass on the plates.
   subject). The strongest reception layer the corpus has. **Parked as a companion work for after
   Wyclif** (2026-10-04): source locator in `reference/hus/` (with *Super IV Sententiarum*, which
   links to the Sentences work).
+- **About-page narrative.** Why a name everyone knows was never translated: no Wycliffite revival,
+  the German scholarship, the Society's origins. Notes (unverified) in `reference/about-narrative.md`.
 - **Wycliffite Bible.** The Early/Later Version English of the verses Wyclif quotes, as an
   optional scripture layer (PD).
 - **FitzRalph, *De pauperie Salvatoris* I–IV**, printed in the De dominio divino volume. Context for
