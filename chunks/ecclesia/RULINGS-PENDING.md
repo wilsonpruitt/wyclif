@@ -7,6 +7,10 @@
   ("now" for the minor, C note); the other ~75 doubtful connectives stay as rendered.
 - S2 run (58 boundaries on the plates) · S3 run (208 tokenfix rows: 140 real-word, 68 numeral, none plate-read)
   · S1 deferred to stage 10.
+- **S2 result (2026-10-04, `_audit/BOUNDARIES-REPORT.md`):** 4 lost words restored (47.5 *Christi etc.*, 95.2 *a*,
+  265.1 *et*, 372.2 *tripliciter*) + 3 stops; English/notes follow. **Deferred to stage 10:** 28 false ¶ breaks,
+  11 chunk splits inside a sentence, 06-e/06-f *Sed* at 133.26, 5 merged print paragraphs: they need a `vote.py`
+  para override and chunk restructuring, and the site's chapter rendering decides how visible they are.
 
 The items as they were put:
 

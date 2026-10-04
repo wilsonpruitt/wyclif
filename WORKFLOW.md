@@ -44,9 +44,14 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
      never captured italics (`chapters.py` writes `italics: none`), so 52 of 174 review rows were quotation
      bounds, and ~110 chunks are still unchecked. `brief.py` must inline the chunk's italics rows (⬜ build this
      before the next volume's stage 7).
+     First check whether a witness carries italics already: `vote.py` keeps an `it` flag per token (tok.jsonl),
+     empty for *De ecclesia* (0 of 138,861 tokens); if the Fordham text or the hOCR has font styles, fill it there
+     and the plate reading shrinks to a check.
    - **Boundaries.** `python3 scripts/w3/boundaries.py SLUG` lists every ¶ or chunk end without a stop
      (*De ecclesia*: 58). Read each on the plate: a false ¶ break (an alinea letter read as a break) is
-     merged before translation; it lost *plus* at 46.24. A chunk split inside a sentence is moved to the
+     merged before translation; it lost *plus* at 46.24 (and the S2 plate check found four more lost words).
+     A merge needs a `vote.py` override (⬜ not built: a page/token list that clears the `para` flag), since
+     `pNNN.la.txt` is regenerated on every vote. A chunk split inside a sentence is moved to the
      nearest stop (12-c ended on *patet*). Verse lines and headings stay.
 6. **Volume card.** `chunks/SLUG/CARD.md`, adapted from `chunks/dialogus/CARD.md` (editor, sigla, the
    volume's register). Per PLAN, the FIRST chunk is translated and reviewed in a fresh session against the
