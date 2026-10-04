@@ -21,7 +21,7 @@ status: translated
 
 > [p. 92] Sed adhuc obicitur contra dicta per hoc quod communitas intelligit per Romanam ecclesiam papam et cardinales quibus est necessarium omnibus aliis obedire. Et sic intelligit maior pars ecclesie in tantum quod dominus Ardmacanus scribit Innocencio pape librum De Pauperie Christi tamquam capiti universalis ecclesie. Et talem stilum a maioribus et minoribus recipiunt pape communiter, ubi utrinque est verisimile quod nec papa nec suus fidelis subditus audiret talem blasfemiam, si stilus ille foret scripture sacre contrarius. Quare ergo non potest universalis ecclesia vocari quecunque universitas fidelium viatorum?
 
-But it is still [objected, by appeal to]{g:obicitur per} this, against what has been said: that the
+But it is still [objected, by appeal to]{g:obicitur-per} this, against what has been said: that the
 community understands by the Roman [church]{g:ecclesia} the [pope]{g:papa} and cardinals, whom all
 others must of necessity obey. And so the greater part of the church understands [it], so far that
 the lord Armachanus writes to Pope Innocent the book *On the Poverty of Christ* as to the
@@ -103,7 +103,7 @@ truth.[^10] Correspondingly it happens with honours (as is clear below, chapter 
 does not do to call a [superior]{g:prepositi} anything but most reverend, most holy and most blessed,
 since in any lower degree there is dulia, but in the superlative degree there is latria, than which
 no ampler honour is to be looked for. Correspondingly to these things, the superior is not content to
-be called head of the [church militant]{g:ecclesia militans}, but demands to be called head of the
+be called head of the [church militant]{g:ecclesia-militans}, but demands to be called head of the
 universal church and of the whole catholic church. In both cases, nevertheless, the aforesaid can be
 soundly conceived: as, that God is to be adored in such a superior as in an image; or, secondly, that
 among the superiors to be designated he is the most reverend, most holy and, in his time, most
@@ -124,7 +124,7 @@ rely on scripture's manner of speaking and, after the pattern of the apostles, o
 humbler ministry of the total church, so as to guard against blasphemous idolatry.[^12] For when the
 pope does not stand pre-eminent with respect to God, but prizes secular honour more than the servile
 work of the church, then he makes the people adore not him but the common state in another, to his
-own dishonour and the hypocrite's detriment. And so the Roman church [can be taken]{g:sumitur pro}
+own dishonour and the hypocrite's detriment. And so the Roman church [can be taken]{g:sumitur-pro}
 in three ways: either for the catholic church (as at the end of the preceding chapter), or for the
 pope, or, jointly and severally, for his college. But these two last members are forced.[^13]
 

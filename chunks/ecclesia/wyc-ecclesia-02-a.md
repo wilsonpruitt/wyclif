@@ -70,7 +70,7 @@ other member. For that is called the head of the universal church [which is] the
 person of the church; which, it is known, cannot belong to the vicar of Christ, since then he would be
 above all the angels or blessed creatures in heaven.[^8]
 
-Therefore, third, the answer is that we speak of the whole [church militant]{g:ecclesia militans}, of
+Therefore, third, the answer is that we speak of the whole [church militant]{g:ecclesia-militans}, of
 which each pope is head. Against this sense it is objected in three ways. First, it seems that there
 are as many churches as there are persons of the church, and by combination far more, and consequently
 there would not be only one church in the sense of the decretal expounded in the second conclusion. For

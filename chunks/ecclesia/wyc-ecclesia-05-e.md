@@ -47,7 +47,7 @@ natural, [perceptible]{g:sensibilis} continuity, since each quantitative part of
 is not so continuous with another that naturally does not communicate [with it]; and yet it is
 continuous by another, spiritual continuity, stronger, through the Spirit of God poured forth in the
 hearts of all the members of the church, who have all things in common.[^7] Fourthly and principally,
-[it is argued, by appeal to]{g:arguitur per} this: that for a univocal account of the church there is
+[it is argued, by appeal to]{g:arguitur-per} this: that for a univocal account of the church there is
 required a univocal account of its [110] parts; now there is no such univocity in those who are
 [pilgrims]{g:peregrinari}, the sleeping and the blessed. Therefore they do not univocally constitute
 Christ's holy mother church, which cannot be called heterogeneous; for if faith is posited as the form
@@ -63,7 +63,7 @@ But here [the answer is]{g:dicitur} (as above) that the exemplar form, eternally
 any member of the church, is God's eternal predestination. And the form constituting a member of the
 church of itself and from within is passive predestination. For it cannot be present
 multiplicatively unless the church is there. And so every [predestinate]{g:predestinatus} [person]
-has [faith formed]{g:fides formata} by the charity of predestination, according to which the church,
+has [faith formed]{g:fides-formata} by the charity of predestination, according to which the church,
 or its member, is constituted. And so the account is univocal in anyone who is to be saved.[^9]
 
 ## ¶3 · 110.18–112.9
@@ -94,7 +94,7 @@ Nor is it detestable that God always hates the blessed in heaven, for he always 
 [though] not for always; therefore he always loves them for everlasting glorification.[^13] Hence the
 church excommunicates such [persons] when, while they are in mortal [sin], it makes known that they are
 deprived of the communion of saints according to present justice, since the [flowing
-moisture]{g:humidum fluens} fails them for a time; but it never anathematizes such, or wholly divides
+moisture]{g:humidum-fluens} fails them for a time; but it never anathematizes such, or wholly divides
 [them] from the body of Christ, nor can it. And this is for the most part the
 [teaching]{g:sentencia} of Augustine, if it is looked at well, not with guile.[^14] And it is clear,
 from the solution of the last argument and of this one, how the saints are to be understood, Isidore,

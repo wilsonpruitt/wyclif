@@ -57,7 +57,7 @@ church; through whom, as through men treacherously opening the gates of the chur
 and virtues creep in; who, more than [happens] among the faithful, extinguish and freeze the charity of
 the so-called church.[^6] The church, I say, ought to glow with pure charity from simple participation in
 Christ, who is a fire hot of itself with charity, and to put after [it] cupidity, the mother of all
-evils, and consequently not to love lucrative inventions more than [God's law]{g:lex dei}. And there are
+evils, and consequently not to love lucrative inventions more than [God's law]{g:lex-dei}. And there are
 within the church other [foreknown]{g:prescitus}, more hidden, escaping such vomiting: some like the dry
 superfluity of the first digestion, some like the moist superfluity of the second digestion, and some
 like [abscesses]{g:apostema} or worms of the third digestion.[^7] And it is clear that this does not
@@ -90,9 +90,9 @@ says that the proportionals are members. But St Thomas seems to speak generally,
 > [p. 63] Ad tercium negatur ad sensum scripture quod omnes homines sunt fideles. Conceditur tamen cum Damasceno quod omnis homo habet fidem saltem informem cum naturaliter prima impressione entis cognoscit saltem confuse primo omnium Deum esse et omnem articulum fidei. Sed ista fides informis non sufficit denominare hominem fidelem vel partem ecclesie, sed oportet excludere omnem infidelitatem finalem. Et de tali fideli loquitur Christus Johannis X° 28, promittens, ut omnis qui credit in filium non pereat, supple morte perpetua; ille autem credit in [p. 64] filium qui credendo ipsum inheret sibi finaliter per amorem. Unde quia de tali finali inherencia est nobis dubium, ideo docet Augustinus super Johannem, Omelia XIIª, quomodo membrum ecclesie est Deo et cui ipse voluerit revelare satis cognitum. Novit, inquit, dominus qui sunt eius, novit qui permaneant ad coronam, qui permaneant ad flammam, novit in area sua triticum, novit paleam, novit segetem, novit zizania. Ceteris autem est illud incognitum qui sunt columbe et qui corvi.
 
 To the third, it is denied, in the sense of scripture, that all men are faithful. Yet it is granted with
-Damascene that every man has faith, at least [unformed]{g:fides informis}, since naturally, by the first
+Damascene that every man has faith, at least [unformed]{g:fides-informis}, since naturally, by the first
 impression of [being]{g:ens}, he knows, at least [indistinctly]{g:confuse}, first of all, that God is,
-and every [article of faith]{g:articulus fidei}.[^12] But this unformed faith does not suffice to name a
+and every [article of faith]{g:articulus-fidei}.[^12] But this unformed faith does not suffice to name a
 man faithful, or a part of the church; but all final [unbelief]{g:infidelitas} must be excluded. And
 of such a faithful man Christ speaks, John 10:28, promising that everyone who believes in the Son may not
 perish (supply: by everlasting death); now he believes in [64] the Son who, by believing him, adheres to

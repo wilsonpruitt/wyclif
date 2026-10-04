@@ -58,6 +58,8 @@ def lint(path, gkeys):
     for n in set(defs) - set(markers):
         errs.append(f'note [^{n}] is defined but not anchored in the text')
     for raw in re.findall(r'\{g:([^}]+)\}', text):  # any key: `{g:ex fide}`, `{g:Romanus episcopus}`
+        if not re.fullmatch(r'[a-z-]+', raw):  # site/build.py renders only [a-z-] keys (CONVENTIONS §11)
+            errs.append(f'glossary tag key {{g:{raw!r}}} must be lower case with hyphens')
         k = re.sub(r'\s+', '-', raw.strip().lower())
         if k not in gkeys and k.split('-')[0] not in gkeys:
             errs.append(f'glossary tag {{g:{k}}} has no GLOSSARY row')

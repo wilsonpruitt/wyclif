@@ -41,7 +41,7 @@ can be called a part of the body of the church; yet nothing is a member of the c
 predestinate person, and every such [person] is a member of the church, as is to be said
 proportionally in the human body.[^4] And it is clear that for knowledge of this matter of holy
 mother church one must know not only theology and the canon laws but altogether logic, physics and
-ethics, which all serve [117] [our mother]{g:mater nostra}. For just as it does not follow: "The
+ethics, which all serve [117] [our mother]{g:mater-nostra}. For just as it does not follow: "The
 Father in divine things generates, and he is the divine nature, therefore it generates", so it does
 not follow: "This person is headed by these heads, and this person is this church, therefore this
 church is so headed."[^5] For "church" signifies abstractly the multitude of the faithful in the
@@ -51,13 +51,13 @@ not-church or be damned. The church therefore is not monstrously composed. But a
 Jesus Christ, and from her, as from a true mother, we are spiritually begotten; and so she is most
 chaste as a whole in the [homeland]{g:patria}; here, however, committing fornication with the
 adulterous devil, and so with his members, she is partly corrupted by many crimes (as is clear
-[from the faith of scripture]{g:ex fide}, Ezekiel 18).[^6] Nevertheless she is never received as
+[from the faith of scripture]{g:ex-fide}, Ezekiel 18).[^6] Nevertheless she is never received as
 bride, to be embraced in blessedness at the right hand in the bridegroom's bed, before she is a pure
 virgin in every way, without wrinkle; for Christ is the bridegroom of virginity.[^7] And as to the
 third point, the answer is that every synagogue that is part of holy mother church is church, not
 conversely. And therefore a synagogue is so often called church in the old testament; but I do not
 remember that in the new testament any particular church is called a synagogue (the reason for which
-has been given elsewhere).[^8] Secondly, [it is objected, by appeal to]{g:obicitur per} this: that
+has been given elsewhere).[^8] Secondly, [it is objected, by appeal to]{g:obicitur-per} this: that
 according to what has been said it follows that the same person of the Word is son, father and
 bridegroom of the church; which is against the laws both of nature and of the church, since no one
 ever lawfully espoused his own mother. Here the answer is by granting the [conclusion]{g:conclusio}

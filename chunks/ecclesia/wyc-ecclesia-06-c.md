@@ -41,7 +41,7 @@ the [young girl]{g:iuvencula} he has taken to himself into the [kingdom]{g:regnu
 thirdly, at the last coming the Lamb will make the nuptials consummate, crowning and confirming the
 queen entire, which is one dove and the universal church, not part of another church (as is clear,
 Apocalypse 21).[^6] And on this consideration depends a great part of the sense of scripture and of
-the church's service. For [as faith teaches]{g:ex fide} there will be one total church glorified
+the church's service. For [as faith teaches]{g:ex-fide} there will be one total church glorified
 after the day of judgment, and that [church] is now, in great part, the bride in heaven, in purgatory
 and in the world. Therefore she is continuously one universal and holy mother church, and she it is
 whom [125] the laws ought to understand and every christian reverently to attend to; she, I say, was
@@ -56,13 +56,13 @@ ordained and read, [were it not] to figure Christ and the church, which is his t
 says, 1 Corinthians 3:17).[^9] For just as there were three parts of the temple: the first, into
 which the whole common people and the foreigners entered, which the priests in Christ's time occupied
 with their trafficking (as is clear, Matthew 21:12). And that signifies the [church
-militant]{g:ecclesia militans}, in which there are foreigners too, as the [foreknown]{g:prescitus}.[^10]
+militant]{g:ecclesia-militans}, in which there are foreigners too, as the [foreknown]{g:prescitus}.[^10]
 And the second was the body of the church, assigned to the people of Israel, signifying the more
 perfect, purely Israelites, who are to be cleansed of their wrinkles in purgatory. And the third was
 the holy of holies, into which the priests alone entered solemnly once a year. And that signifies the
 triumphant, as the apostle expounds, Hebrews 9:11: "Christ, being come an high priest" etc.[^11] So, I
 say, the whole fabric of the temple signifies the universal church, according to faith. Hence the
-[bishops]{g:episcopus} are bound to teach this [article of faith]{g:articulus fidei} to the lower
+[bishops]{g:episcopus} are bound to teach this [article of faith]{g:articulus-fidei} to the lower
 [priests]{g:sacerdos} and to the people, since otherwise they would [be ignorant of]{g:ignorare} the
 use of the church's service, to the knowledge of which they are obliged; and especially that article
 of faith, "the holy catholic church", which every catholic ought to know.[^12]

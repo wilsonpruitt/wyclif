@@ -89,7 +89,7 @@ for the present purpose it is taken for its [best-known]{g:famosior} [sense], na
 of all the [predestinate]{g:predestinatus}.[^11] And that church is the bride of Christ, of whom the
 [course]{g:processus} of the Song of Songs treats; of whom scripture speaks in Isaiah 61:10: "As a
 bride he has adorned me with a crown."[^12] She is also the [valiant woman]{g:mulier-fortis} of [3]
-Proverbs 31:10, and the [mystical body of Christ]{g:corpus-Christi-misticum}, of which 1 Corinthians
+Proverbs 31:10, and the [mystical body of Christ]{g:corpus-christi-misticum}, of which 1 Corinthians
 12 speaks. She is Jerusalem our mother, the temple of the Lord, the [kingdom]{g:regnum} of heaven and
 the city of the great king, "which as a whole", says Augustine in the *Enchiridion*, "is to be taken
 not only in the part in which she [is a pilgrim]{g:peregrinari} on earth, praising the name of the

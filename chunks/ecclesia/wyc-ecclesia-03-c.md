@@ -69,7 +69,7 @@ flux of vices, yet the devil, author of such superfluous flux, spreads all the m
 channels of hypocrites, through the whole remainder of the body, the flux of slippery sin; and so, made
 a heresiarch by feigned [custom]{g:consuetudo}, he has [57] in the head, that is, in reason, the cautery
 of Antichrist. For none, according to blessed Gregory in the *Register*, second chapter, do harm more
-dangerously or more widely in the church of holy God.[^8] But, returning to the difficulty left aside, [it is objected, by appeal to]{g:obicitur per} St Thomas,
+dangerously or more widely in the church of holy God.[^8] But, returning to the difficulty left aside, [it is objected, by appeal to]{g:obicitur-per} St Thomas,
 *On Christ*, conclusion eight, article 3, where he says that "Christ is the head of all men, as much of
 the faithful, who are united to him in act through grace, as of unbelievers, who are only in potency
 his members"; and afterwards he subdivides according to the [predestinate]{g:predestinatus} and the
@@ -93,7 +93,7 @@ of faith, hope and charity, which would correspond in order to the Trinity, damn
 final judgment (as I have set out at length elsewhere). For I have not seen in St Thomas, or in another
 approved doctor, that that whole race, but [only] its predestinate part, is holy mother church, the
 [bride]{g:sponsa} of Christ and the universal or catholic church,
-[the mystical body of Christ]{g:corpus Christi misticum} of which scripture speaks. And it is of such
+[the mystical body of Christ]{g:corpus-christi-misticum} of which scripture speaks. And it is of such
 [a church] that we are speaking.[^12]
 
 ## Loserth's side-notes (PD, verbatim; not our translation)

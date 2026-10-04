@@ -25,12 +25,11 @@ But it is evident from what has been said that neither follows, but its opposite
 be noted that faith is taken now for the act of believing by which one believes, now for the habit of
 believing through which one believes, and now for the truth which is believed, as Augustine teaches, *De
 Trinitate* 13, chapters 2 and 3.[^2] Second, it must be noted that one faith is the faithful man's
-explicit [credence]{g:credulitas}, and another is [implicit faith]{g:fides implicita}: as a catholic
+explicit [credence]{g:credulitas}, and another is [implicit faith]{g:fides-implicita}: as a catholic
 having the habit of faith, infused or acquired, believes explicitly the catholic church in general, and
 in that general faith believes implicitly or indistinctly every singular thing contained under holy
 mother church; just as logicians truly say that, in knowing that being is in its analogue, they know all
-things and each one in general.[^3] So (as I have often said), if any Christian has faith [formed]{g:fides
-formata} by [charity]{g:caritas}, however general, it suffices, with the virtue of perseverance, for
+things and each one in general.[^3] So (as I have often said), if any Christian has faith [formed]{g:fides-formata} by [charity]{g:caritas}, however general, it suffices, with the virtue of perseverance, for
 salvation. For God, who gave the first faith, will give a clearer one, unless the faithful man puts an
 obstacle in the way. For God does not require that all his sons, through the whole of their [wayfaring]{g:viacio},
 should think continually in a particular act of each particle of the faith; but [43] it is enough that,
@@ -71,8 +70,7 @@ its superiors when they give no matter for so believing.[^8]
 
 To the other difficulty, about the [canonization]{g:canonizare} of saints, it is clear that the answer
 must in a way correspond. For although there is stronger [evidence]{g:evidencia}, from the testimony of
-the Roman church, that the person whom it canonizes is a [member]{g:membrum} of the [church triumphant]{g:ecclesia
-triumphans}, and fuller evidence if God works miracles for the saint, yet in both cases, in such a
+the Roman church, that the person whom it canonizes is a [member]{g:membrum} of the [church triumphant]{g:ecclesia-triumphans}, and fuller evidence if God works miracles for the saint, yet in both cases, in such a
 matter, there can be illusion. For just as, by the confession of the church's laws, the [church]
 [militant]{g:ecclesia-militans} itself deceives and is deceived (as is clear in the fifth book of the Decretals, on the
 sentence of excommunication, *A nobis*), so far that it sometimes excommunicates many who are loosed
@@ -103,7 +101,7 @@ are.[^13] And that discernment of a miracle is hidden from them, except those to
 reveal it. And would that so many ceremonies and signs were not multiplied in our church, since the
 deeds of the saints and all other rites are not praiseworthy except in so far as they raise the mind to
 [46] love the lord Jesus Christ. And it seems to many that an indistinct faith about the prayer of the
-saints would gather the faith of Christ in [worshippers of Christ]{g:Christicole} more singly, and
+saints would gather the faith of Christ in [worshippers of Christ]{g:christicole} more singly, and
 consequently more intently, more securely and better, than so great an explicit multiplicity of saints
 brought in from day to day.[^14] For in this way we know indistinctly of anyone blessed or damned,
 [foreknown]{g:prescitus} or [predestinate]{g:predestinatus}, that he is such; with which indistinct

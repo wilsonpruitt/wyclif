@@ -79,7 +79,7 @@ expounds holy scripture otherwise than the Holy Spirit demands, as does he also 
 vice to the holy Roman church, and without doubt such scandal would redound to the blasphemy of God,
 how, I ask, would he be pleasing to mother church or to her bridegroom who imputed to them so great a
 calumny?[^12] Is it not commanded in Exodus 21:17 by the law of the bridegroom: "He that curseth father
-or mother, let him die"? Let us not, therefore, impute to [our mother]{g:mater nostra} a curse and a
+or mother, let him die"? Let us not, therefore, impute to [our mother]{g:mater-nostra} a curse and a
 heresy, such as each one of the foreknown necessarily is.[^13] [123] But it is [objected]{g:instatur}
 that, as all the parts of the predestinate are parts of the church, so all the heads of the
 predestinate are heads of the church; and so the aggregated head would be head of the church. Here
@@ -93,7 +93,7 @@ proper to Christ with respect to the whole church.[^14]
 
 > [p. 123] Quarto arguitur per hoc quod iuxta dicta ecclesia foret per totum tempus veteris testamenti acephala, eo quod non potest habere caput nisi Christum, sed tunc non habuit Christum caput, ergo tunc non habuit caput. Et per idem videtur sequi quod eadem ecclesia fuit pro tempore crementi quotlibet membra sua, quia pro nullo instanti fuit nisi fideles qui tunc fuerunt. Unde in exemplo tacto in fine secundi argumenti videtur quod non manet eadem domus, quacunque parte ablata vel noviter veniente, quia per idem ablata iterum tanta et alia noviter veniente, et sic qualibet parte domus corrupta et una secundum se totam noviter generata, maneret eadem domus, sicut est de domo ecclesie. Hic sunt tres difficultates. Prima, utrum Christus fuit ante incarnacionem, quia certum est quod eternaliter fuit verbum Dei et semper caput ecclesie. Sed videtur non fuisse caput eius intrinsecum antequam fuit homo.
 
-Fourthly, [it is argued, by appeal to]{g:arguitur per} this: that according to what has been said the
+Fourthly, [it is argued, by appeal to]{g:arguitur-per} this: that according to what has been said the
 church would have been headless through the whole time of the old testament, in that it cannot have a
 head except Christ; now at that time it did not have Christ as head; therefore then it had no head. And by the
 same token it seems to follow that the same church was, for the time of its growth, any number of its

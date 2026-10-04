@@ -24,7 +24,7 @@ status: translated
 To this the answer is that the same body of the [church]{g:ecclesia} has many heads, so that any
 particular church has at least three heads, namely the [divinity]{g:divinitas}, the humanity of Christ,
 and the captain of that church.[^1] But the universal church, which is the whole [mystical body of
-Christ]{g:corpus Christi misticum}, has two heads, namely the extrinsic head, which is the divinity,
+Christ]{g:corpus-christi-misticum}, has two heads, namely the extrinsic head, which is the divinity,
 and the intrinsic head, which is the humanity of Christ; and in an ineffable way the divinity and the
 humanity of Christ are two heads of the whole church and, with this, also one head: just as the Son and
 the Holy Spirit are one Paraclete, understanding [it] as principle or essentially, and yet are two
@@ -74,7 +74,7 @@ is a member of holy mother church.[^13] But none of them ever presumed to say th
 generation; and the others are branches in him.[^14] It is therefore necessary today to sow this faith
 of the church, since many, out of ignorance, on an occasion wrongly taken, sleeping in the night of
 ignorance, are burned by holy mother church, which is "fair as the moon". They are burned, I say,
-according to the lower man, by [heretical depravity]{g:heretica pravitas}: for all who say "See here,
+according to the lower man, by [heretical depravity]{g:heretica-pravitas}: for all who say "See here,
 and see there is Christ, the head of the church", pointing only to his vicar.[^15]
 
 [25] And those who wish to make progress or to judge in this matter must first know the

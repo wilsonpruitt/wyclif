@@ -33,7 +33,7 @@ Hence logicians know how, any alms being given, there is another greater; and th
 
 > [p. 289] Tercio principaliter arguitur per hoc quod elemosina debet sic dari, ut generi secularium elemosinanti accresceret maior utilitas et generi cleri elemosinandi accresceret plus excitativa securitas ad vigilanter perficiendum officium clericale; sed quis dubitat quin hoc contingeret sub forma dotacionis perpetue? Ergo illa est dotacione temporali prestancior.
 
-Third, principally, [it is argued by appeal to]{g:arguitur per} this, that alms ought to be given in such a way that a greater utility would accrue to the line of seculars giving the alms, and a security more stirring to the vigilant performance of the clerical office would accrue to the line of clergy receiving the alms; now who doubts that this would come about under the form of perpetual endowment? Therefore that is more excellent than temporary endowment.[^9]
+Third, principally, [it is argued by appeal to]{g:arguitur-per} this, that alms ought to be given in such a way that a greater utility would accrue to the line of seculars giving the alms, and a security more stirring to the vigilant performance of the clerical office would accrue to the line of clergy receiving the alms; now who doubts that this would come about under the form of perpetual endowment? Therefore that is more excellent than temporary endowment.[^9]
 
 ## ¶4 · 289.23–290.10
 

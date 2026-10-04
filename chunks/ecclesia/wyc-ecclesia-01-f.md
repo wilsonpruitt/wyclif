@@ -41,7 +41,7 @@ Exodus 20:5 it is truly said that he is "mighty, jealous".[^3]
 And the second part is clear from the fact that "head" is a name of dignity, and of the office of
 dignity, with respect to eternal predestination, by which Christ ordained that
 [superiors]{g:prepositi} (who are set over [others] according to his law in the [church
-militant]{g:ecclesia militans}) should have higher mansions, by reason of their rule, in the church
+militant]{g:ecclesia-militans}) should have higher mansions, by reason of their rule, in the church
 triumphant;[^4] for if superiors wholly fail in the office of ministering to their subjects the sense
 of scripture [18] and the motive to follow the head of the church, then they are not head in the city of
 God, but in the city of the devil, the head that is to be destroyed; for in Wisdom 6:6 it is truly said:
@@ -97,7 +97,7 @@ the faith of scripture and the faith of the church concerning the [credence]{g:c
 Christian must believe the holy catholic church, but in fact he is not a son of that heavenly
 marriage, without whose begetting we cannot be sons of God, and consequently not heirs of the
 [kingdom]{g:regnum}.[^15] And others say that holy mother church is also a church, but is not anything,
-and so is neither a woman nor the [mystical body of Christ]{g:corpus Christi misticum} nor a queen. But
+and so is neither a woman nor the [mystical body of Christ]{g:corpus-christi-misticum} nor a queen. But
 these (as I have touched on elsewhere) must deny a great part of the faith of scripture, the decrees of
 the Roman church and the creed of the Christian faith.[^16] And a third [party] say that the universal
 church is not, nor will be before the day of judgement; but many have been and many are who will then

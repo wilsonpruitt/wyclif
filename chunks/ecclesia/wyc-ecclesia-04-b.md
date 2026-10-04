@@ -71,7 +71,7 @@ snatch his sheep out of his hand.[^9] For he eternally chose every member of the
 [bride]{g:sponsa}; therefore, just as no one can cease to be predestinate, so it is not possible that he
 should desert or expel any member of his bride, since (as I said above) the person choosing would then
 be improvident or ungracious.[^10] [75] Second, the same is confirmed [from the faith of
-scripture]{g:ex fide}, 1 John 2:19, where the holy evangelist speaks of the foreknown who for a time
+scripture]{g:ex-fide}, 1 John 2:19, where the holy evangelist speaks of the foreknown who for a time
 remained in grace: "If," he says, "they had been of us, they would no doubt have remained with us." For
 it does not make sense that this conditional of so lofty an evangelist should be impossible and
 heretical. Third, it is confirmed from the saying of the apostle, Romans 8:35, where, speaking of
@@ -85,10 +85,10 @@ is none of his." And he means that that man is not a part of his body.
 
 > [p. 75] Et si obicitur per hoc quod prescitus existens in caritate habet hoc vinculum, et per consequens, unionem, sicut predestinatus existens in crimine caret hoc vinculo, et per consequens, unione: patet quod, sicut in humano corpore est dare humidum fluens et humidum radicale, sic in corpore Christi mistico est dare graciam secundum presentem iusticiam et graciam consummatam. Unde sicut apostemata per humidum fluens sunt adnata, non continuata propter disparitatem nature: sic est de membris diaboli, licet pro tempore secundum presentem iusticiam sint adnati. Predestinati autem licet ad tempus priventur fluente gracia, habent tamen radicalem graciam a qua non possunt excidere, et sic habentes duplicem graciam duplici vinculo sunt ligati. Ligamentum tamen primum est insolubile.
 
-And if it is [objected, by appeal to]{g:obicitur per} this: that a foreknown [man] who is in charity
+And if it is [objected, by appeal to]{g:obicitur-per} this: that a foreknown [man] who is in charity
 has this bond, and consequently union, just as a predestinate [man] who is in crime lacks this bond, and
 consequently union: it is clear that, just as in the human body one must posit a [flowing moisture and
-a radical moisture]{g:humidum-radicale}, so in the [mystical body of Christ]{g:corpus Christi misticum} one must posit grace
+a radical moisture]{g:humidum-radicale}, so in the [mystical body of Christ]{g:corpus-christi-misticum} one must posit grace
 according to present justice and consummated grace.[^12] Hence, just as [abscesses]{g:apostema} are
 grown on through the flowing moisture, not continuous [with the body] because of the disparity of
 nature, so it is with the members of the devil, although for a time, according to present justice,

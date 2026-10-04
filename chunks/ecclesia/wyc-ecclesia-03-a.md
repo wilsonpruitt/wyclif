@@ -21,7 +21,7 @@ status: translated
 
 > [p. 47] Sed tercio principaliter obicitur per hoc quod, data ista sentencia, tolleretur omnis exaccio debiti ecclesie et extingueretur omnis lex contencionis in clero, cum debitor posset fingere ecclesiasticum non esse dignum vel talem qui sic bona ecclesie vendicaret, et quantum ad excommunicacionem que est ultimum refugium, diceret quod non ligat.
 
-But third, as a principal [objection, it is objected, by appeal to]{g:obicitur per} this: that, granted
+But third, as a principal [objection, it is objected, by appeal to]{g:obicitur-per} this: that, granted
 this [teaching]{g:sentencia}, every exaction of what is owed to the [church]{g:ecclesia} would be taken
 away, and every law of suit among the clergy would be extinguished, since a debtor could pretend that
 the churchman was not worthy, or not such as might so claim the goods of the church; and as to
@@ -31,7 +31,7 @@ excommunication, which is the last refuge, he would say that it does not bind.[^
 
 > [p. 47] Hic dicitur quod, si lex Dei debite scrutaretur nobis, non tantum contenderemus circa bona ecclesie, cum manifestum sit quod prescitus vel quicunque clericus sine peraccione sui ministerii compensante qui plus propter honorem, voluptatem vel questum seculi contendit, bona ecclesie occupat vel acceptat, quam propter honorem Dei et edificacionem ecclesie, ut sic false aliena vendicat et consumit, et per consequens, licet versucias talium detegere et subtrahendo bona pauperum resistere (ut diffuse dictum est lib. VI, cap....), unde sub auctoritate beati Augustini scribitur in decretis VIIIª, q. 1: Sunt inquit quidam in ecclesia prepositi de quibus apostolus Paulus dicit: Sua querentes, non que Jesu Christi. Quid est: Sua querentes [p. 48] non Christum gratis diligentes, non Deum propter ipsum Deum querentes, temporalia consequentes, lucris inhiantes, honores ab hominibus appetentes. Hec quando amantur a preposito et propter hec servitur Deo, quisquis talis est, mercenarius est, inter filios se non computet. Unde quia omnes confitemur nos principaliter propter honorem Dei et spiritualem profectum ecclesie tales preposituras appetere, ad discernendum si sumus ypocrite, oportet credere operibus nostris, speculo scripture et testimonio sanctorum. Unde Gregorius XXXI°, Moral. cap. IX, et infra, satis explicat istam materiam in tribus conclusionibus; supponens primo quod mens iusti vel veri christiani debet esse tam affectu quam intellectu collecta intrinsecus, sic quod nichil suum exterius derelinquat. Patet ex hoc quod aliter peccaret contra hoc mandatum: Diliges dominum Deum tuum ex toto corde, ex tota anima et ex tota mente. Cum ergo non debet peccare, sequitur quod non debet esse fracta sic in intellectu et affectu circa temporalia, quia ut sic amor uni debitus dispergitur circa multa.
 
-To this [the answer is]{g:dicitur} that, if God's [law]{g:lex dei} were duly searched by us, we should
+To this [the answer is]{g:dicitur} that, if God's [law]{g:lex-dei} were duly searched by us, we should
 not contend so much about the goods of the church; since it is manifest that a
 [foreknown]{g:prescitus} man, or any [cleric]{g:clericus} without a performance of his ministry to
 compensate, who contends for, occupies or accepts the goods of the church more for the honour,

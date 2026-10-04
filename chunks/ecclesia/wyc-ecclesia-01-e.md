@@ -57,7 +57,7 @@ triumphs gloriously, he takes his name from there. Since, therefore, the person 
 church, in many of her parts, was born there, separated from the womb of the synagogue, and triumphed
 there, growing among the gentiles, it was therefore fitting that she should take her name from the city
 that is the metropolis of the gentiles, which is Rome.[^10] The third cause is that it may be noted
-that not place or antiquity but [formed faith]{g:fides formata} founds the church of Christ. For as to
+that not place or antiquity but [formed faith]{g:fides-formata} founds the church of Christ. For as to
 person and as to time the church of Christ was earlier in earlier sees; and in this sense it is said in
 2 Maccabees 5:19 that not the place sanctifies the people, but the people the place.[^11] And hence I
 believe it has been left [open] that it is lawful to call the church of Christ by the name of any place
@@ -69,7 +69,7 @@ passion.[^13]
 Yet it is to be noted that, in calling any church by the name of a place, this can be understood in
 two ways: either appropriately, as to dwelling in that place, or according to part; and in this there
 are any number of degrees according to the extent of the parts of the church.[^14] For it is not a good
-cause to call [our mother]{g:mater nostra} the Roman church on account of the pride or the complaisance
+cause to call [our mother]{g:mater-nostra} the Roman church on account of the pride or the complaisance
 of the emperor who endowed the church, nor on account of the exaltation of the lord pope, who makes a
 display of his share in the empire by his primacy or [lordship]{g:dominium}, nor, third, so that it
 should be believed that every Christian must have recourse to him and, of necessity of salvation,

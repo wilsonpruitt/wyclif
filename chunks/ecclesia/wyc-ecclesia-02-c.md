@@ -27,7 +27,7 @@ token, it can be that he, with others like him, dies in grace without such subje
 acknowledged; and that done, salvation would have been accomplished for a Christian without subjection
 of this kind. Therefore it is not of necessity for the salvation of every Christian. The
 [antecedent]{g:antecedens} seems possible enough by the common law.[^1] Again, Christianity is placed in
-greater freedom in the time of [the law of grace]{g:lex gracie} than it was placed in the time before
+greater freedom in the time of [the law of grace]{g:lex-gracie} than it was placed in the time before
 the law or in the time of the synagogue; now at that time it was not necessary that everyone to be saved should
 be subject to the high priest, levitical or firstborn, but it sufficed, keeping justice, to believe in
 the Lord Jesus Christ: therefore much more [so now], the merit of Christ Jesus being extended according
@@ -48,7 +48,7 @@ are Christians equally faithful as before or after; and since then they are not 
 follows]{g:sequitur} that such subjection is not of necessity for the salvation of every Christian. And
 it can be that an infant is born, baptized and dies in that middle space of time, whom one must grant
 to be saved, although he is not subject to such a Roman pontiff. Similarly, if the [church
-militant]{g:ecclesia militans} needed the inflow of this pope so much, it seems that, beheaded, it would
+militant]{g:ecclesia-militans} needed the inflow of this pope so much, it seems that, beheaded, it would
 feel at least in effect the withdrawal of the [suffrage]{g:suffragia}; for so holy mother
 [church]{g:ecclesia} would perish even in the interval, unless it had the influence of the Lord Jesus
 Christ. And if he flows in only by accident, how is this of necessity for the salvation of the
@@ -70,7 +70,7 @@ deeds answer to his words and his name, by living more like the life of Christ. 
 [with this] it is said of subjection and obedience that it ought to be extended generally to all, even
 to the [froward]{g:discoli} and to tyrants, but especially to the lord pope; just as he ought to be
 spiritually subject and obedient to his church, and so more obedient, and more subject in servitude,
-than any of his subjects.[^10] It is confirmed [from the faith of scripture]{g:ex fide}, Acts 10, about
+than any of his subjects.[^10] It is confirmed [from the faith of scripture]{g:ex-fide}, Acts 10, about
 Cornelius, whose prayers God summoned [to himself] before the conversation with Pope Peter, who came to him on foot
 and lodged in the house of a tanner; whose definition was this: "God is not a respecter of persons. But
 in every nation, he that feareth him and worketh justice is acceptable to him."[^11] Nor is there doubt
@@ -85,7 +85,7 @@ Christian, if he wishes to be a son of the church, must be so subject to the lor
 false, since neither Christ nor any apostle of his exacted such subjection, but [Christ] manifestly
 forbade it (as is clear from Luke 22).[^13] Since, then, many Christians at that time, before the
 [endowment]{g:dotacio} of the church, attained salvation, as one must believe as faith teaches of the
-holy martyrs who did not render such subjection to the Roman pontiff, since [formed faith]{g:fides formata}
+holy martyrs who did not render such subjection to the Roman pontiff, since [formed faith]{g:fides-formata}
 and Christ the head sufficed all of them for salvation: it seems that to bring in another
 subjection, necessarily to be rendered to the vicar of Christ, savours of heresy. For Christ, in
 detestation of subjection of this kind, washed the feet of his disciples and wiped them with the towel
@@ -94,7 +94,7 @@ with John into Samaria (as is clear from Acts 8 and Gal. 2), just as he patientl
 rebuke from Paul (as is clear from Gal. 2).[^14] And these are not exactions of civil subjection from
 subjects, but rather of humiliation, by which their [greatness]{g:majoritas} is measured; and so lived
 many martyr popes in the greatest growth of the church. The endowment of the church, therefore, did not
-bring in a new [article of faith]{g:articulus fidei}, that it should be necessary for the salvation of
+bring in a new [article of faith]{g:articulus-fidei}, that it should be necessary for the salvation of
 every Christian to be so subject to the Roman pontiff. It is confirmed from the faith of scripture: for
 in Acts 4 Peter defines that Christ "is become the head of the corner", and that there is not salvation
 in any other. "For there is no other name under heaven given to men, whereby we must be saved." Since,

@@ -38,7 +38,7 @@ Therefore Christ says, Matt. 10:35: "I came not to send peace upon earth, but th
 therefore to set a man at variance against his father, and the daughter against her mother, and the
 daughter in law against her mother in law; and a man's enemies, they of his own household."[^4] For
 Christ came to dissolve carnal friendship for God's sake, since he who seems to be a man's intimate as
-regards the world is [for the most part]{g:ut plurimum} his enemy as regards God (as is said in Micah
+regards the world is [for the most part]{g:ut-plurimum} his enemy as regards God (as is said in Micah
 7).[^5] Blessed Jerome, on that chapter, seems to expound the text of the gospel in this sense: that
 Christ came to separate the heretics from the [church]{g:ecclesia}, which they mock. [40] For out of
 cloaked hypocrisy they feign that they are sons of God by the grace of adoption, and daughters of the
@@ -90,7 +90,7 @@ force.
 
 > [p. 42] Secundo principaliter obicitur per hoc quod iuxta supradictam sentenciam nullus laicus teneretur credere de sacerdote suo, curato sive episcopo quod sit membrum ecclesie vel vere habens nomen talis officii, et periret omnis honor impendendus prelatis et fides populi laicalis; immo nullus viator teneretur credere Romane ecclesie in canonizando sanctos de privatis provinciis et titubaret cultus ecclesie in solemnizando festa et reliquias sanctorum.
 
-[42] Second, as a principal [objection, it is objected, by appeal to]{g:obicitur per} this: that
+[42] Second, as a principal [objection, it is objected, by appeal to]{g:obicitur-per} this: that
 according to the [teaching]{g:sentencia} given above no layman would be bound to believe of his priest,
 [curate]{g:curatus} or [bishop]{g:episcopus} that he is a member of the church, or truly has the name
 of such an office; and all honour to be paid to prelates, and the faith of the lay people, would perish;

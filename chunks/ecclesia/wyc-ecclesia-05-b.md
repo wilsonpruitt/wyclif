@@ -21,7 +21,7 @@ status: translated
 
 > [p. 96] Secundo principaliter arguitur contra dicta per hoc quod nichil unum et specialiter non unum corpus componitur ex spiritibus in purgatorio, ex viantibus in mundo et ex triumphantibus in celo, cum continuacio et unio sint de essencia corporis, eo quod aliter periret sciencia linearum. Hic negatur assumptum, nec est continuacio vel unio, cum sit accidens de essencia cuiuscunque substancie; nam in quotquot partes quantitativas corpus martiris divisum fuerit, manet durante forma idem corpus in numero, et Christus fuit humanitus in limbo et mortuus in sepulchro. Absit ergo quod credamus animas fidelium defunctorum tunc non esse partes [p. 97] ecclesie, quando instar Abel a quo cepit ecclesia sunt secure de sua beatitudine corpori Christi insolubiliter incorporate.
 
-Secondly and principally, [it is argued, by appeal to]{g:arguitur per} this, against what has been
+Secondly and principally, [it is argued, by appeal to]{g:arguitur-per} this, against what has been
 said: that nothing one, and specially not one body, is composed of spirits in purgatory, of [those on
 the road]{g:viantes} in the world and of the triumphant in heaven, since continuity and union are of
 the essence of a body; for otherwise the science of lines would perish.[^1] Here the
@@ -139,7 +139,7 @@ law of scripture, is today as it were confined in the narrowness of a small corn
 [unbelief]{g:infidelitas} has occupied the greatest part of the world and separated it from Christ's
 church; of the part truly called Christian, schism has separated [a part] from Christ; of the
 remaining part, which in respect of the two aforenamed is very small and few, [heretical
-depravity]{g:heretica pravitas} (as I think) has separated no small portion from Christ; and almost
+depravity]{g:heretica-pravitas} (as I think) has separated no small portion from Christ; and almost
 the whole of the remainder the seven criminal sins have [concorporated]{g:concorporacio} with the
 devil and separated from Christ; so that now Christ laments with mournful voice, saying: 'Woe is me,
 for I am become as one that gleaneth in autumn the grapes of the vintage: there is no cluster to eat.

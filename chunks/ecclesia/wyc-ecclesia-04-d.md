@@ -28,7 +28,7 @@ were or will be are present to God; and so, in order to take away the principate
 [church]{g:ecclesia}, it is feigned that the church is a body and a man wherever the faithful are;
 which Pope John XXII denies, and [so does] philosophy, concerning the continuity required for the
 being of a body.[^1] Hence, unless we could discern by a [perceptible]{g:sensibilis} sign who belonged
-to the church, we could not know [our mother]{g:mater nostra} here; which, as the greatest
+to the church, we could not know [our mother]{g:mater-nostra} here; which, as the greatest
 [absurdity]{g:inconveniens}, would confound the Christian religion, since no one is bound to love what
 he does not know.[^2]
 
@@ -45,7 +45,7 @@ the evil city from Cain."[^3] But against this it is objected, first, by appeal 
 confirmed angels, who are the principal part of the church, preceded the whole human race. Again,
 Adam and Eve, who are members of holy mother church, were prior to their son Abel; therefore the church
 did not take its beginning from Abel.[^4] As to this, the answer is that "church" is now [taken
-for]{g:sumitur pro} the whole body of predestinate men (as in the aforesaid authority of blessed
+for]{g:sumitur-pro} the whole body of predestinate men (as in the aforesaid authority of blessed
 Augustine), and now for the whole body of blessed creatures (as is clear from the *Enchiridion* 56);
 and since in equivocal [terms] there is no contradiction, it is clear that neither [82] the words nor
 the teaching of Augustine contradict what was said above of the total church.[^5] And so the city of

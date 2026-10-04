@@ -58,7 +58,7 @@ in place, however variously.
 Hence blessed Isidore, in the first book *On the Highest Good*, chapter 19, writes thus: "The holy
 church is called catholic for this reason, that it is spread universally through the whole world."
 And Hugh, in book 2 *On the Sacraments*, part [2], chapter 2: "The holy church, that is, [the whole
-body of the faithful]{g:universitas fidelium}, is called the body of Christ."[^6] And the decrees
+body of the faithful]{g:universitas-fidelium}, is called the body of Christ."[^6] And the decrees
 intimate this [teaching]{g:sentencia}, distinction 21: "Although all the catholic churches throughout
 the world are the one bridal chamber of Christ, yet the holy Roman church, catholic and apostolic, has
 been set over the other churches by many synodal decrees." Which it proves from that [text] of
@@ -84,16 +84,16 @@ the future without any assault of heretics, and will persist firm and immovable 
 Here cannot be understood any pope whatever with his college. For they are rather often spotted, and
 shaken by the assault of heretics from within as well as from without, as a frail
 [wayfarer]{g:viator} [is], as is clear to eyewitness faith in our days, since two parts of the
-cardinals impute [heretical depravity]{g:heretica pravitas} to our pope and to the brethren who support
+cardinals impute [heretical depravity]{g:heretica-pravitas} to our pope and to the brethren who support
 him, since (as they say) they strive not only to take away the privileges of the Roman church but, as
 far as in them lies, to destroy it.[^12] And every such [man] is a heretic (as is clear from dist. 22,
 *Omnes*; as is clear in the Sixth Book, in the title on heresy).[^13] Since, therefore, according to the
 decrees the Roman church has the primacy and dignity with respect to God over all others, it is clear
-that it is the total [church militant]{g:ecclesia militans}, which God loves more than any other part
+that it is the total [church militant]{g:ecclesia-militans}, which God loves more than any other part
 of it. And so it follows manifestly from faith that not that college but the whole mother, dispersed
 in every nation and tongue, [88] is that holy Roman church of which the laws speak, with the holy
 doctors.[^14] Hence, to imprint this teaching in us, in the church's chant composed by blessed Ambrose
-and Augustine, [our mother]{g:mater nostra} thus addresses God: "Thee the holy church throughout the
+and Augustine, [our mother]{g:mater-nostra} thus addresses God: "Thee the holy church throughout the
 world doth acknowledge." And in the canon of the mass we offer first and chiefly for the holy catholic
 church, that God may vouchsafe to give it peace, to guard and to help it throughout the whole
 world.[^15] Hence without doubt prayer is made for the most principal church militant, which I suppose
@@ -112,7 +112,7 @@ of Christ," it says, "has not spot or wrinkle or any such thing; he therefore wh
 filth of sins cannot be called of the church of Christ." "Spot," says the gloss, "that is, heresy or
 mortal sin; nor wrinkle, that is, schism or venial [sin]."[^17] But this, I believe with St Thomas,
 ought to be modified to the state of the [homeland]{g:patria}; and here whoever is in the spot of
-mortal sin is, for that time, lacking in the continuing [flowing moisture]{g:humidum fluens}, that is,
+mortal sin is, for that time, lacking in the continuing [flowing moisture]{g:humidum-fluens}, that is,
 grace according to present justice.[^18]
 
 ## Loserth's side-notes (PD, verbatim; not our translation)

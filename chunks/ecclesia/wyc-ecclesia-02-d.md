@@ -32,7 +32,7 @@ too rash to assert that any [pope]{g:papa} meant the said sense in his decretal;
 immediately, or any disciple of his anywhere on earth sent by the Holy Spirit, has converted any person
 or people in the power of Christ, it suffices him, with final perseverance, for salvation. And it is
 enough for him, for faith in the article about the catholic church, that he believe with [formed
-faith]{g:fides formata} that it is one whole body of the [predestinate]{g:predestinatus} faithful, to
+faith]{g:fides-formata} that it is one whole body of the [predestinate]{g:predestinatus} faithful, to
 be saved by virtue of the merit of Christ, although he has not descended more expressly and
 particularly to any vicar of his.[^3] Nor is it necessary to believe, even implicitly, that this Roman
 pontiff, whoever he is, is head of any particular church, unless God has predestined him, since
@@ -42,7 +42,7 @@ predestinate or a member of holy mother church, so neither is it of necessity fo
 Christians living with him that they explicitly believe him to be head of any church, unless deeds and
 evangelical life move them more evidently to believe.[^4]
 
-But blessed be the lord of [our mother]{g:mater nostra}, who in these days has provided for our young
+But blessed be the lord of [our mother]{g:mater-nostra}, who in these days has provided for our young
 girl, [a pilgrim]{g:peregrinari}, a catholic head, an evangelical man, Urban VI,[^5] who, in setting
 right the present church, so that it may live in conformity with the law of Christ, [38] is set in due
 order, beginning with himself and his household.[^6] Therefore one must believe from his works that he is head of

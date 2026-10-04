@@ -31,8 +31,8 @@ church of the saints and the church of the malignant.[^1] For Thomas calls such 
 church in potency, although they are never brought to act. As if it were said: that [one] has the
 potency, from the sufficiency of Christ's passion and the power of his own choice, to be a member of
 Christ, while yet he is barely a member of the congregation of those who have
-[unformed faith]{g:fides informis}, although he is never a member of
-[the mystical body of Christ]{g:corpus Christi misticum}.[^2] But, lest I labour over these [59]
+[unformed faith]{g:fides-informis}, although he is never a member of
+[the mystical body of Christ]{g:corpus-christi-misticum}.[^2] But, lest I labour over these [59]
 equivocal [senses], I have [assigned]{g:limitare} the name church [to it] as it signifies the
 [bride]{g:sponsa} of Christ. Yet three [pieces of evidence]{g:evidencia} are brought to prove this
 [teaching]{g:sentencia}. First, the saying of the apostle, 1 Timothy 4:10: "He is the Saviour of all,

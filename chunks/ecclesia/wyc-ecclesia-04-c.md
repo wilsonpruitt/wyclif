@@ -26,7 +26,7 @@ But would that they considered, first, that neither place nor human election mak
 follows Christ in [charity]{g:caritas} and, leaving all [temporal goods]{g:temporalia}, dies in
 hardship in defence of his law.[^1] Second, they should consider with [misgiving]{g:formido} their
 [manner of life]{g:conversacio}, how it is conformed to the life of the [head]{g:caput}; for [as faith
-teaches]{g:ex fide} they must believe that they neither are [the church] nor a member of the church,
+teaches]{g:ex-fide} they must believe that they neither are [the church] nor a member of the church,
 nor are they those to whom the promise was made, unless, leaving all things, they have followed [77]
 the Lord Jesus Christ in hardship unto death.[^2] Third, let them trust in their humble ministry to
 the church, and not in the pride or the gain of the world, since only thus: to the humble is the
@@ -39,7 +39,7 @@ more often elsewhere in scripture.[^3] And would that our [prelates]{g:prelatus}
 
 > [p. 77] Quarto obicitur per hoc quod non docetur efficaciter, quando quicunque sit membrum ecclesie qui est in gracia secundum presentem iusticiam, specialiter cum sanctus Thomas dicit hoc expresse, et idem videtur sequi ex dictis Ricardi de Sancto Victore. Aliter enim nemo absolveret prescitum nec incorporaret penitentem per misterium sacramentorum ecclesie, et sic titubaret fides sacramentorum tam ex incertitudine ministri quam ex ignorancia predestinacionis ministrantis. Hic dicitur (ut supra) quod quicunque vocaverit prescitum in gracia membrum ecclesie, equivocat cum Augustino de scriptura sacra, attendens ad modum loquendi vulgarem et reputacionem ecclesie militantis. Ideo detecta equivocacione expressi superius sentenciam sancti Thome. Et idem videtur Ricardus sentire quod, sicut predestinatus in quantumcunque magno mortali manet continue membrum Christi, sic prescitus absque gracia predestinacionis quantumcunque magnam graciam momentaneam habuerit non remanet eius membrum. Sic enim si foret paterfamilias, cedens lignum de silva quod ordinat aliquantulum expoliri, sed composicionem domus sue nunquam ingredi, non vere diceretur, vel quod ipsum lignum preparaverit in partem domus, [p. 78] vel quod unquam fuerit pars domus huiusmodi, quia sic quelibet domus materialis foret nimis magna, habens in composicionem sui omnes materiales substancias que sunt in potencia fieri eius partes. Sic videtur quod domus mundi excidens de massa humani generis quosdam ad ignem perpetuum, quosdam ut sint postes vel alie partes perpetue in domo domini, nec ordinavit nec futurum erat, ut comburendi forent pars ecclesie, quantumcunque politi fuerint ad tempus, sed finaliter reprobandi. Aliter enim diabolus et omnia membra eius forent pars domus domini.
 
-Fourthly it is [objected, by appeal to]{g:obicitur per} this: that [the teaching] is not effectively
+Fourthly it is [objected, by appeal to]{g:obicitur-per} this: that [the teaching] is not effectively
 taught, since anyone whatever who is in grace according to present justice is a member of the church,
 especially as St Thomas says this expressly, and the same seems to follow from the sayings of Richard
 of St Victor.[^4] For otherwise no one would absolve a [foreknown]{g:prescitus} [man] or incorporate a
@@ -47,7 +47,7 @@ penitent through the mystery of the sacraments of the church; and so faith in th
 totter, as much from uncertainty about the minister as from ignorance of the predestination of the one
 ministering.[^5] [To this the answer is]{g:dicitur} (as above) that whoever calls a foreknown [man] in
 grace a member of the church equivocates, with Augustine, about holy scripture, attending to the
-common manner of speaking and to the reputation of the [church militant]{g:ecclesia militans}.[^6]
+common manner of speaking and to the reputation of the [church militant]{g:ecclesia-militans}.[^6]
 Therefore, the equivocation having been laid bare, I expressed above the teaching of St Thomas. And
 Richard seems to think the same: that, just as a [predestinate]{g:predestinatus} [man], in however
 great a mortal [sin], remains continually a member of Christ, so a foreknown [man], without the grace
