@@ -100,7 +100,7 @@ only in those who will have persevered to the end."[^24]
     necessity. The double qualification keeps the church from becoming something God is absolutely
     compelled to have.
 
-[^4]: **G.** ⭐ *Prescitus*, "foreknown": Wyclif's term for those whom God foreknows will be damned.
+[^4]: **G.** *Prescitus*, "foreknown": Wyclif's term for those whom God foreknows will be damned.
     It is the counterpart of *predestinatus*, and it is not the same word as *reprobus* (though
     Loserth's side-note at 3.23 says "reprobate"). The claim is that no one who will finally be damned
     is a *part* of this church, whatever his office or present standing. See GLOSSARY §A.
