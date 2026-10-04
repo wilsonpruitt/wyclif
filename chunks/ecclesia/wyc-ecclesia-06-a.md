@@ -168,8 +168,8 @@ since [he is so] according to [his] parts; therefore etc.[^20]
 [^3]: **T/S/C.** B *de
     sophistis* (116.16); B *membrum est huius* (116.17–18); the print has *huiusmodi* ("of this sort"),
     which gives the inference no correlate; "such a one's" follows B's sense (*huius*), a departure from
-    the print (Latin doubts). Head as a relative term: Aristotle, *Categories* 7 (to
-    be checked; LEDGER E06a-1). *Capitaneus*: a captain of a church, not its head (GLOSSARY).
+    the print (Latin doubts). Head as a relative term: Aristotle, *Categories* 7, 7a15–17 (head the correlative of the headed; but cf. 8b15–21)
+    (LEDGER E06a-1). *Capitaneus*: a captain of a church, not its head (GLOSSARY).
 
 [^4]: **C/R.** *Equivocando in capite*: "head" as the bodily head and as the ruling person. *Pars* and
     *membrum*: any part of a predestinate person is part of the church's body, but only a whole

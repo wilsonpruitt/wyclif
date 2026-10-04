@@ -52,7 +52,7 @@ Now first it is supposed that there is one first marriage, which is to be the me
 
 [^5]: **C.** *Illam partem mediam*: of the three books just named, the middle one, Proverbs 31. *Superioribus meis*: my betters. *Tam expositorias quam scolasticas*: of exegesis and of the schools. *Quod potest dividi*: *quod* refers to the song. **R.** A in the margin at 472.22: *Exposicio illius: Mulierem fortem quis inveniet*. Side-notes 472.11, 472.21.
 
-[^6]: **C.** *Primum … metrum omnium aliorum*: the first in a genus as the measure of the rest; for the philosophers' principle cf. Aristotle, *Metaphysics* X.1 (LEDGER E20a-1). *Faciendum* goes with *coniugium*. **T.** B reads *omne unum* (472.26). **R.** A in the margin at 472.26: *Supposicio*.
+[^6]: **C.** *Primum … metrum omnium aliorum*: the first in a genus as the measure of the rest; for the philosophers' principle cf. Aristotle, *Metaphysics* X.1, 1052b18–20, where to be one is to be the first measure of each kind (LEDGER E20a-1). *Faciendum* goes with *coniugium*. **T.** B reads *omne unum* (472.26). **R.** A in the margin at 472.26: *Supposicio*.
 
 [^7]: **S.** *Deus fortis et potens in prelio*: Psalm 23:8 reads *Dominus* ("the Lord who is strong and mighty: the Lord mighty in battle"). Proverbs 31:10; Canticles 6:7–8. *Genesis III°*: the forming of Eve is Genesis 2:21–22. **C.** *Concurrebat materialiter*: Adam's rib as matter. *In causa triplici*: the three works that follow. **T.** B reads *quod est dominus* (472.31). **R.** A in the margin at 473.14: *Nota de coniugio* (superscript *matrimonio*) *Christi et sponsa ecclesie*. Side-notes 473.1, 473.11.
 

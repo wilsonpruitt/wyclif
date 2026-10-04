@@ -196,7 +196,7 @@ above-mentioned conclusion is clear.[^23]
 
 [^17]: **S.** Luke 22:38, DR "Lord, behold, here are two swords. And he said to them: It is enough."
     *Non superfluum vel diminutum* follows *Unam sanctam*, *non respondit Dominus nimis esse, sed
-    satis* `[verify]`. John 18:11 (Loserth), DR "Put up thy sword into the scabbard."
+    satis* (Extrav. comm. 1.8.1; Friedberg II 1245). John 18:11 (Loserth), DR "Put up thy sword into the scabbard."
 
 [^18]: **S/T.** *Unam sanctam* reads, as Loserth notes, *sed ad nutum et patientiam sacerdotis*, "at
     the nod and sufferance of the priest"; Wyclif's text has *ad motum et secundum prudenciam

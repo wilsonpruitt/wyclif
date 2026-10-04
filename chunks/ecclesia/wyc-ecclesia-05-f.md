@@ -195,7 +195,7 @@ because one must diligently resist errors at their beginnings, since admitting t
     for answering the objections; "dissolve" keeps the echo.
 
 [^15]: **T/S/R.** A₁ *pluries* for *pueriles* (115.31). *In principiis … obstare* echoes the
-    commonplace *principiis obsta* (Ovid, *Remedia amoris* 91, to be checked; LEDGER E05f-3). Loserth
+    commonplace *principiis obsta* (Ovid, *Remedia amoris* 91; LEDGER E05f-3). Loserth
     on chapter 5 (115.33): cf. Hus, *De ecclesia*, fol. 205 (LEDGER E05f-4).
 
 ## Transcription notes

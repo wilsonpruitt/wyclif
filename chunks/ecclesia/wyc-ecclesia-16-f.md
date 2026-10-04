@@ -86,7 +86,7 @@ Again, it is not by the caesarean [endowment]{g:dotacio} that a new order of cle
 
 [^9]: **C.** *Profundus doctor*: Hugh. The subject of *regens* and *posset* is the cleric, unexpressed ("[one]"); *dominaciones suas*: the laymen's exercises of lordship. **R.** A in the margin at 380.1: *Nota*.
 
-[^10]: **T.** At 380.6–7 B reads *terrenorum non abicio*; the print's *habicio* is translated. **S.** Christ's command: cf. Luke 14:33 (DR "every one of you that doth not renounce all that he possesseth cannot be my disciple"). Paul: 1 Corinthians 9:12 (DR "Nevertheless, we have not used this power"). Augustine's refusal of gifts to his church is told by Possidius and in his own sermons (to be checked, LEDGER E16f-3). **C.** *Illi enim*: Paul and Augustine.
+[^10]: **T.** At 380.6–7 B reads *terrenorum non abicio*; the print's *habicio* is translated. **S.** Christ's command: cf. Luke 14:33 (DR "every one of you that doth not renounce all that he possesseth cannot be my disciple"). Paul: 1 Corinthians 9:12 (DR "Nevertheless, we have not used this power"). Augustine's offer to give the church's possessions over to the people, who never would take them, is told by Possidius, *Vita Augustini* 23 (PL 32:53); c. 24 adds a deed of gift he sent back (LEDGER E16f-3). **C.** *Illi enim*: Paul and Augustine.
 
 [^11]: **T.** At 380.25 A reads *proporcionabiter*. **C.** The argument is that endowment is accidental to an order: what came without changing the order can go without changing it. *Sic modo*: "[he can]" supplied.
 

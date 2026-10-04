@@ -157,7 +157,7 @@ are now one in the bond of [charity]{g:caritas}."[^13]
 [^9]: **S.** Loserth refers to *APo* I.1 and II.2. The maxim is a scholastic compression, not a
     quotation. It combines Aristotle's doctrine that learning presupposes knowledge of what a term
     means (I.1, 71a11–17) with the ordering of the questions "whether it is" and "what it is" before
-    "that it holds" and "why" (II.1–2) `[verify Bekker lines]` (LEDGER V-07). B's margin gives the
+    "that it holds" and "why" (II.1–2; the four questions at II.1, 89b23–35) (LEDGER V-07). B's margin gives the
     reference (*2° posteriorum*, apparatus to 2.15). The magpie is the stock image of speech without
     understanding.
 

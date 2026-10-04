@@ -159,7 +159,7 @@ such as conspire against catholics who touch on their power, their pride and the
 [^9]: **S/G.** Aristotle, *De caelo* I.1, 268a: "all" is first said of three (of two we say "both").
     Loserth quotes the Greek (*to gar tria panta einai*) (LEDGER E01c-6). *Dormientem*: the church
     sleeping, the souls in purgatory (GLOSSARY §A, *ecclesia dormiens*). *Totum atque perfectum cui
-    nichil deest*: Aristotle, *Physics* III.6, 207a `[verify]`.
+    nichil deest*: Aristotle, *Physics* III.6, 207a8–10.
 
 [^10]: **T/S.** *Insorpta*: Loserth's print; read as *absorpta*, "absorbed". *Inebriata*: Loserth's
     correction of the MSS' *debriata*. Cant. 5:1, DR "be inebriated, my dearly beloved". The triple

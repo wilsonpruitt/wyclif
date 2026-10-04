@@ -136,7 +136,7 @@ only in those who will have persevered to the end."[^24]
 
 [^11]: **S.** John 11:25 (DR "I am the resurrection and the life") with 6:40 (Loserth). The lion is
     the bestiary lion, whose cubs are born dead and are raised on the third day by their father's
-    roar (LEDGER V-11). The *leo rugiens* of 1 Pet. 5:8 is the devil; Wyclif gives the phrase to
+    roar (Ps.-Hugh, *De bestiis*, PL 177:150C, *tertia die ad rugitum patris excitatur*; in the *Physiologus* form, PL 177:57C, the father breathes on them) (LEDGER V-11). The *leo rugiens* of 1 Pet. 5:8 is the devil; Wyclif gives the phrase to
     Christ.
 
 [^12]: **G.** *Claudit contradictorium* is stronger than *contra racionem* just before, and the step

@@ -157,6 +157,14 @@ end; run the *sed*/*autem* and split-tag checks per wave (they are cheap and fou
 connectives, 4 broken tags); a four-class review of the long, dense chunks only (short chunks were clean).
 ⚠ `catalog/lexicon/agreed.txt` holds majority errors (*chnstus*): the non-word sweep must use Hunspell only.
 
+**MEASURED, *De ecclesia* close-out (2026-10-03), 587 pp., all Opus:** four-class review of 25 chunks 1.30M
++ applying it 0.47M · *sed/autem* check of the other 134 chunks 1.32M · LEDGER backlog of 243 rows 2.14M
+(~8.8K/row, mostly web lookups) + note repair 0.10M · ≈ **5.3M agents (~9K/page)**, against an estimate of
+0.5M (M5-RESUME) and 3.3M (the plan). It was dear because the per-wave gates were skipped (connectives) or
+deferred ("not local" ledger rows), and italics were never captured (52 of 174 review rows). WORKFLOW stages
+4b/5/8 now make those gates; with them the close-out should be the targeted review alone (~1.8M for a
+volume this size, ~3K/page).
+
 ### Superseded estimate (2026-09-28)
 
 The Latin is no longer established by reading every page image. The vote settles ~99.6% of words

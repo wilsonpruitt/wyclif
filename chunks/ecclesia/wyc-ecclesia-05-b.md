@@ -234,7 +234,7 @@ the praise of the church.[^12]
 
 [^11]: **S/T.** Isa. 5:2: Wyclif *facit labruscas*, the Vulgate *fecit*; DR "it brought forth wild
     grapes". B *tanquam universalibus* for *uberibus* (100.5). *A Bernardo*: the place "above" is most likely
-    Bernard, *Super Cant.* 12 (*meliora sunt ubera tua vino*), quoted in 03-g; the vine is not in it
+    Bernard, *Super Cant.* 12.11 (PL 183:833B, *Quisquis et inebriat verbis* and *meliora sunt ubera tua vino*), quoted in 03-g; the vine is not in it
     (LEDGER E05b-4). *Ficus
     fatua*: the barren fig tree (cf. Luke 13:6–9).
 

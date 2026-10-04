@@ -50,7 +50,7 @@ As to those two pieces of [evidence]{g:evidencia}, that we ought to have lied ag
 
 [^6]: **R/C.** Wyclif counts himself among the sworn doctors (*debuissemus*, "we"; see 08-a, n. 7; LEDGER E08a-5). B margin, another hand, *Jurat*, "he swears" (162.8). *Deum contestor et numina*: an oath formula; *numina*, "the divine powers", is Wyclif's word.
 
-[^7]: **C/S.** *Ad partem*: in private. *Secundum metam redargucionis*: the goals (*metae*) of the sophistical arguer as set out in Aristotle's *Sophistici elenchi*, of which refutation is the first; to be checked (LEDGER E08b-1). The liar refutes himself, incurring the perjury and infamy he lied to avoid. A margin *Conclusio* (162.17).
+[^7]: **C/S.** *Ad partem*: in private. *Secundum metam redargucionis*: the goals (*metae*) of the sophistical arguer as set out in Aristotle's *Sophistici elenchi* 3 (165b12–22), of which refutation is the first (LEDGER E08b-1). The liar refutes himself, incurring the perjury and infamy he lied to avoid. A margin *Conclusio* (162.17).
 
 [^8]: **T/R/C.** B margin, another hand, *Nota de non committendo mendacio* (162.20). A *thezauro* (162.23), a spelling. *Mendaciis allegacionum*: lies in the citing of authorities (*allegacio*, the alleging of a text), as the next sentences show.
 

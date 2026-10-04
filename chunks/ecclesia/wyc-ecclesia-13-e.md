@@ -60,7 +60,7 @@ And as to the second part of the [assumption]{g:assumptum}, it is clear that sec
 [^7]: **T.** *Consumeret* (291.25) is broken across the line in the print (*con-|sumeret*) and is restored from the plate.
 [^8]: **S/C.** Dan. 14:1–21 (Bel and the dragon), where the priests with their wives and children came in by hidden doors and consumed the offerings (14:20); the Vulgate's idol is Bel, Wyclif writes *Baal*. The period is loose (*Sic si … patet … sic autem est*): taken as "so it is if …, as Daniel shows; and so it is in the church".
 [^9]: **C.** *Spiritus animalis*: the "animal spirit" of the physicians, seated in the head, which governs sense and motion; the higher members are the clergy.
-[^10]: **S/C.** The Commentator is Averroes; the passage (presumably on *De caelo* II) is to be checked (LEDGER E13e-1). *Moveret* may be transitive, "would move [the heaven]".
+[^10]: **S/C.** The Commentator is Averroes (so Loserth's index); the passage is untraced (LEDGER E13e-1). *Moveret* may be transitive, "would move [the heaven]".
 [^11]: **S/R/T.** *Adulterandi verbum Dei*: 2 Cor. 4:2 ("nor adulterating the word of God"). A in marg. (292.18): *Nota quinque*, the five vices just counted, which make the *circulus quinarii*. B (292.21–22) adds *et per quod*.
 [^12]: **S/T.** Matt. 24:24 ("insomuch as to deceive (if possible) even the elect"). *Ad hic augendum* (print): B *hoc augendum* ("for increasing this people"), A₁ *sic agendum*; the print construes and is kept.
 [^13]: **T.** B *terciam partem* (292.29). The "assumption" is the premiss Wyclif is proving in this chapter; its second part concerns the security of endowments (side-note 292.18).

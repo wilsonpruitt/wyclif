@@ -61,7 +61,7 @@ Holding therefore the second way about the quiddity of the character, I say furt
 
 [^7]: **S.** Augustine, *Tractatus in Iohannem* 27.11, continuing: *corpus Christi mixtum est tanquam in area* (PL 35; LEDGER E19a-5); Wyclif's "Homily 25" matches no numbering; 2 Timothy 2:19, DR "the Lord knoweth who are his". **T.** Loserth notes that Augustine's text reads *tamquam in area* (443.22). **C.** *Modo*: Augustine's "at present", in this life.
 
-[^8]: **C.** *Secunda species qualitatis*: in Aristotle's *Categories* 8 the second species of quality is natural capacity or incapacity (LEDGER E19a-6, to be checked). *Per reduccionem*: placed in a category only by reduction to something that is in it. *Deputacio passiva*: being deputed to a service. **T.** At 443.27 A reads *utrum sit*. **R.** A in the margin at 443.26: *Utrum presciti habent caracterem ordinis*; A and B in the margin at 443.33: *quid est caracter*.
+[^8]: **C.** *Secunda species qualitatis*: in Aristotle's *Categories* 8 the second species of quality is natural capacity or incapacity (9a14–27; LEDGER E19a-6). *Per reduccionem*: placed in a category only by reduction to something that is in it. *Deputacio passiva*: being deputed to a service. **T.** At 443.27 A reads *utrum sit*. **R.** A in the margin at 443.26: *Utrum presciti habent caracterem ordinis*; A and B in the margin at 443.33: *quid est caracter*.
 
 [^9]: **C.** *Serta*: a crown or wreath; Loserth's note at 444.4: *corona ducalis, regalis sive imperialis*.
 

@@ -135,7 +135,7 @@ reprobate."[^18]
 [^1]: **S/C/R.** The third answer to the second objection (96.20), after "first" (98.23) and
     "secondly" (99.1). A margin *Nota de quadratura circuli*, B margin *Quadratura circuli* (100.13).
     Aristotle, *Categories* 7, says that the squaring of the circle, if it is knowable, is not yet known:
-    the identification is from memory and to be checked (LEDGER E05c-1); Loserth gives no reference here
+    7b30–33 (LEDGER E05c-1); Loserth gives no reference here
     (his note on *Predicamentis* belongs to 104.27).
 
 [^2]: **C/T.** *Figura tripunctalis*: the triangle of three points; *utrobique*, "on each side",
@@ -147,7 +147,7 @@ reprobate."[^18]
 
 [^3]: **S/T.** "One of the twenty-four prophets": the *Book of the Twenty-Four Philosophers*, whose
     second proposition defines God as an infinite sphere whose centre is everywhere and circumference
-    nowhere; the identification and wording are from memory and to be checked (LEDGER E05c-2). Loserth:
+    nowhere; prop. II reads *Deus est sphaera infinita cuius centrum est ubique, circumferentia nusquam*; Wyclif's *circulus intelligibilis* is not its wording (LEDGER E05c-2). Loserth:
     "This passage is not to be found in the prophets." A A₁ lack *cuius — intelligibilis* (100.32–101.1),
     an eye-skip between the two *circulus intelligibilis*.
 
@@ -206,7 +206,7 @@ reprobate."[^18]
     Holy Spirit: Matt. 12:31–32, alluded to. B *et sicut* (103.26); A margin *Conclusio*.
 
 [^16]: **S/T.** B *in carceris* for *in tartaris* (103.28); A margin *Exemplum*. Heat gathers like and
-    separates unlike: Aristotle's definition of heat (*De generatione et corruptione* II.2), from memory
+    separates unlike: Aristotle's definition of heat (*De generatione et corruptione* II.2, 329b26–30)
     and to be checked (LEDGER E05c-6). *Omogena / ethrogena*: things of one kind / of different kinds;
     A *ethromogena*, A₁ *etherogena* (104.2).
 

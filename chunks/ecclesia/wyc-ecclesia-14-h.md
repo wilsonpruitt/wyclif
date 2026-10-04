@@ -38,7 +38,7 @@ And I believe that, if this charter were abandoned, they would not find another 
 
 ## Notes
 
-[^1]: **T/R.** 327.2: A and A₁ read *Sed dum*; Loserth judges that some words seem to have fallen out here and asks what *buphotracti* means. He prints Matthew's conjecture *Dic bufo crati: maledicti tot dominati*, "Say, toad, to the harrow: cursed be so many lords!", which would be the Middle English proverb "Many masters, quoth the toad to the harrow" (LEDGER E14h-1). The print is translated and the word left in Latin; the participle *dominati* is rendered "lords".
+[^1]: **T/R.** 327.2: A and A₁ read *Sed dum*; Loserth judges that some words seem to have fallen out here and asks what *buphotracti* means. He prints Matthew's conjecture *Dic bufo crati: maledicti tot dominati*, "Say, toad, to the harrow: cursed be so many lords!", which renders the Anglo-Norman proverb *Dehez eient tanz meistres, dist le crapod al herce* (cursed be so many masters, said the toad to the harrow), in English "Many masters, quoth the toad to the harrow" (LEDGER E14h-1). The print is translated and the word left in Latin; the participle *dominati* is rendered "lords".
 
 [^2]: **C.** *Titulos … in suscipiendo ordines*: the canonical title (a benefice or assured living) required of a candidate for holy orders. *Ordo* in "neither order nor civil exercise of lordship" may be the sacrament or ordered society; the sentence turns on both.
 

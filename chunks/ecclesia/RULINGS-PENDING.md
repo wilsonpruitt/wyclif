@@ -32,6 +32,10 @@
   Flag it in the English too (e.g. "Nicholas III [read II]")? Default: note only. Same at 10-a (E10a-4).
 - **R5. Wyclif's misnumbered cross-references** (E19g-4 c. 27 for c. 26; E22f-2 "second" for first *commentum*;
   E23a-3 "last chapter" fits only in part). Reported in the notes, not emended (the Latin is the print). Default: keep.
+- **R7. *Bolonia* → Boulogne?** The philosophy verifier identifies Wyclif's *Bolonia* as Boulogne (see
+  `_verify/batch-philosophy.md`). The English still says "Bolonia". Default: "Boulogne" with a note.
+- **R8. "Verified" on secondary sources.** E16h-3, E14h-1, E16c-3 rest on secondary literature, not the
+  primary text. Default: keep `verified`, the how-column names the source.
 - **R6. Book-only mappings not chapter-checked** (wyclif batch, coordinator item 1): 09-b, 09-e, 22-f/g, 10-d
   cross-references now mapped by book (*De civ. dom.* I/III, *De veritate*); their chapters are not checked.
 - **R3. Westminster victim's name (07-a n2).** Loserth's *Eulogium* has "Johannes Hawle / Ricardus Shakyll"; the

@@ -62,7 +62,7 @@ Again, since every virtue is of the kind of the third and greatest good, coming 
 
 [^10]: **S.** Loserth refers to Wyclif, *Trialogus* III.1 (ed. Lechler, p. 128), and Aristotle, *Eth. Nic.* II.6, 1106b36 (LEDGER E08a-7). *Electivus*: by choice.
 
-[^11]: **S.** Wyclif's "Ethics IV, chapter 4" answers to *Eth. Nic.* IV.7, 1127a28–30, in the modern division; the Latin chapter numbering differs; to be checked (LEDGER E08a-8). *Veridicus / falsidicus*: the truthful man and the false-speaker, who errs in two directions.
+[^11]: **S.** Wyclif's "Ethics IV, chapter 4" answers to *Eth. Nic.* IV.7, 1127a28–30, in the modern division; the Latin chapter numbering differs (LEDGER E08a-8). *Veridicus / falsidicus*: the truthful man and the false-speaker, who errs in two directions.
 
 [^12]: **S/C.** James 1:17, DR "coming down from the Father of lights" (adapted). Augustine: Loserth refers to *Retract.* I.9 and *De lib. arb.* II.19, on the virtues as great goods that no one uses ill (*De lib. arb.* II.19.50, PL 32:1267–68, quoted in the *Retractationes*; LEDGER E08a-9). *De genere tertii boni maximi*: so printed (plate); Augustine's order there is great, least, middle, so the "third" is not his numbering; we translate the print. The subjunctives (*sit … sit*) carry the opponents' premiss to its conclusion. The Manichees, who set an evil God as the principle of evil, are milder than a doctrine that makes the good God the author of lying (side-note 160.19).
 

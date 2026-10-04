@@ -78,7 +78,7 @@ Hence, to denote the variety of the operations of this matron, he adds thirdly: 
 
 [^10]: **C.** The words from *Operari autem* to *immisceri* are printed as Augustine's, as is *Talis … habere*. *Nudam vestem*: one garment without the other; the almsgiver for praise has the outer without the inner, the one content with conscience the inner without the outer. *Pigrorum est*: the mark of the slothful. **R.** Side-note 478.4.
 
-[^11]: **S.** Aristotle, *Nicomachean Ethics*: virtue for the sake of activity, happiness an activity and better than virtue, and the moral virtues ruled by prudence (I.8, X.6–7, VI.13; LEDGER E20b-4). **C.** *Secundum praxim et theoricam*: in practice and theory together. *Prudenciam regulari*: read as *prudencia*, "be ruled by prudence"; the accusative as printed would make prudence the subject of a passive. **T.** B reads *moralem et potenciam oportet enim et ideo* (478.16–17).
+[^11]: **S.** Aristotle, *Nicomachean Ethics*: virtue for the sake of activity, happiness an activity and better than virtue, and the moral virtues ruled by prudence (I.8, 1098b31–1099a7; X.6, 1176a33–b2; I.12, 1101b10–1102a4; VI.13, 1144b30–1145a6; LEDGER E20b-4). **C.** *Secundum praxim et theoricam*: in practice and theory together. *Prudenciam regulari*: read as *prudencia*, "be ruled by prudence"; the accusative as printed would make prudence the subject of a passive. **T.** B reads *moralem et potenciam oportet enim et ideo* (478.16–17).
 
 [^12]: **S.** Proverbs 31:14. **C.** *Tractantibus de archa Noe et navicula Petri*: the expositors of the ark and of Peter's boat as figures of the church. *Institores* is "merchants", as in the verse; *mercantes* "traders". *Potestative*: potentially, in reach of its power. **R.** Side-note 478.19.
 
