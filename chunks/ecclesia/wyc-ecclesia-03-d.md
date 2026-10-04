@@ -92,10 +92,12 @@ Christ's merit and never afterwards fall into mortal [sin].[^6]
     of *ST* III q.8 a.3; the third proof is not (LEDGER E03d-1). AB margin: *Triplex
     obieccio* (59.3); B: *I. Tim. 4, I. Joh. 2* (59.4).
 
-[^4]: **S/C.** That Thomas grants Christ to be head "even of the devil" as to natural being is not
-    verified: it is not in *ST* III q.8 (a.7 makes the devil head of the wicked) nor in *In III Sent.* d.13 q.2 (nearest, a.2 qc.2 ad 6: the wicked share with the members only natural life) (LEDGER E03d-2). *Natura
-    specifica*: the human species, which the devil's members share with Christ. *Ut alias declaravi*:
-    unidentified (LEDGER E03d-4). A margin: *Responsio* (59.13); *Nota* (59.21).
+[^4]: **S/C.** That Thomas grants Christ to be head "even of the devil" as to natural being has not
+    been traced: it is not in *ST* III q.8 (a.7 makes the devil head of the wicked) nor in *In III
+    Sent.* d.13 q.2 (nearest, a.2 qc.2 ad 6: the wicked share with the members only natural life)
+    (LEDGER E03d-2). *Natura specifica*: the human species, which the devil's members share with
+    Christ. *Ut alias declaravi*: unidentified (LEDGER E03d-4). A margin: *Responsio* (59.13);
+    *Nota* (59.21).
 
 [^5]: **S.** John 3:13, DR. Augustine, *In Iohannis evangelium tractatus* 12.8–9, PL 35:1488–89, read
     this session: none ascends but he who descended, because Christ descended *ut in illo et cum illo

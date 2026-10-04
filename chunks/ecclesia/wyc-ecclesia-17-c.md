@@ -55,7 +55,7 @@ The second reply, to the second little argument, denies [the inference]{g:conseq
 
 ## Notes
 
-[^1]: **S.** *De questionibus veteris et novi testamenti*, ascribed to Augustine (Loserth: *Quaestiones ex veteri test.* cap. 47, *Opp.* III, Appendix, p. 60; LEDGER E17c-1, to be checked). Isaiah 4:1 as the Vulgate; Proverbs 31:10, the valiant woman. **R.** A and B in the margin at 394.25–26: *Apprehendent septem mulieres virum de ecclesia intelligitur*. **T.** At 395.2 the manuscripts read *signa...as*; Loserth corrected to *significatas* from Augustine's text; his correction is translated.
+[^1]: **S.** *De questionibus veteris et novi testamenti*, ascribed to Augustine (Loserth: *Quaestiones ex veteri test.* cap. 47, *Opp.* III, Appendix, p. 60; PL 35:2247–48; LEDGER E17c-1). Isaiah 4:1 as the Vulgate; Proverbs 31:10, the valiant woman. **R.** A and B in the margin at 394.25–26: *Apprehendent septem mulieres virum de ecclesia intelligitur*. **T.** At 395.2 the manuscripts read *signa...as*; Loserth corrected to *significatas* from Augustine's text; his correction is translated.
 
 [^2]: **C.** We take the quotation to run from *Non solum* to *superni*; *Unde Apostolus* is Wyclif's own. *Tota universitas ... et simul omnes unum corpus sunt*: the sentence changes construction mid-way (the singular subject takes a plural verb with *omnes*); translated as it stands. **R.** A in the margin: *Que sunt septem ecclesie designate per septem mulieres et que sunt septem membra quibus corpus constituitur*.
 

@@ -44,7 +44,7 @@ Again, since every virtue is of the kind of the third and greatest good, coming 
 
 [^1]: **C/R.** *Sciencia … gaudet extraneis*: we take it as a maxim that licenses the digression ("knowledge delights in things foreign [to it]"); its source is not identified. The "infamous case" is placed by Wyclif at Westminster (159.13); in England it is the violation of Westminster's sanctuary on 11 August 1378 (Wyclif names Westminster at 159.13); the Roman half is presumably the disorder of the papal election of April 1378 (our inference).
 
-[^2]: **T/R/S.** A margin *Tres suppositiones*; B margin, another hand, *Posteriora prius dicit*, "he says the later things first" (158.1). *Iuxta dicta XVⁱ cap.*: no fifteenth chapter precedes in *De ecclesia*; the reference may be to another of Wyclif's works; to be checked (LEDGER E08a-2). A margin *Racio: Necessaria est noticia de sancta matre ecclesia* (158.12).
+[^2]: **T/R/S.** A margin *Tres suppositiones*; B margin, another hand, *Posteriora prius dicit*, "he says the later things first" (158.1). *Iuxta dicta XVⁱ cap.*: no fifteenth chapter precedes in *De ecclesia*; the reference may be to another of Wyclif's works; not traced (LEDGER E08a-2). A margin *Racio: Necessaria est noticia de sancta matre ecclesia* (158.12).
 
 [^3]: **S/C.** Physics II: Loserth refers to *Phys.* II.2, 194a (LEDGER E08a-3), where the end is "that for the sake of which". *Ex II° Phisicorum* may instead belong to the *cum* clause ("since, as Physics II shows, the end imposes …"). *Viat*: the verb of *viator*, to be on the way.
 

@@ -51,7 +51,7 @@ From these things it seems, first, that all contention in the [clergy]{g:clerus}
 
 [^2]: **S.** The words are Apocalypse 5:10 (DR); the print cites 1:6, DR "hath made us a kingdom, and priests to God and his Father". **C.** *Dant et docent sacra*: the priest's work, to give and teach holy things. **T.** At 446.1 B reads *sacerdocium vestrum*. **R.** A in the margin at 446.4: *Quilibet sanctorum in patria erit sacerdos*.
 
-[^3]: **S.** Gregory, *Homiliae in Evangelia* 17, on Luke 10:1 (PL 76; LEDGER E19b-1, verified: the homily is right, the content loosely given). Wyclif's *septuaginta* is translated; the Vulgate has *septuaginta duos*, DR "other seventy-two". **C.** *Prelati*: the participle, "set over", not the noun "prelates". **R.** A in the margin at 446.8: *Gregorius*; at 446.10: *Crisostomus*.
+[^3]: **S.** Gregory, *Homiliae in Evangelia* 17, on Luke 10:1 (PL 76; the homily is right, the content loosely given; LEDGER E19b-1). Wyclif's *septuaginta* is translated; the Vulgate has *septuaginta duos*, DR "other seventy-two". **C.** *Prelati*: the participle, "set over", not the noun "prelates". **R.** A in the margin at 446.8: *Gregorius*; at 446.10: *Crisostomus*.
 
 [^4]: **S.** *Opus imperfectum in Matthaeum*, hom. 34, then read as Chrysostom's (Loserth: *Opus Imperfectum l. c. pag. CXLV*; LEDGER E19b-2, editor). Matthew 24:51, DR "appoint his portion with the hypocrites"; *infideles* is from Luke 12:46, DR "with unbelievers". **C.** The print italicises the quotation through *quam habuit*; *et tunc erit inter infideles* is Wyclif's. **T.** At 446.12 B reads *laicis*. **R.** A in the margin at 446.13: *Laycus melior quam sacerdos*.
 

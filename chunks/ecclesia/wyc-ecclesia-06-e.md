@@ -110,11 +110,12 @@ him by fornicating spiritually; therefore one who is married remains spiritually
 
 ## Notes
 
-[^1]: **T/C.** *Si quis … posset dicere quod tyriaca est … : ideo …*: the condition has no main clause;
-    *ideo* opens the theriac itself. *Tyriaca*: theriac, the physicians' antidote to poison (Glossary
-    proposals). *Plus debita*: beyond what is due. *Membra principalia … sine macula vel ruga*: the
-    exactors claim for themselves what is said of the church (Eph. 5:27, "not having spot or wrinkle",
-    DR). The canons that say the church is shaken but not overcome are to be checked (LEDGER E06e-1).
+[^1]: **T/C.** *Si quis … posset dicere quod tyriaca est … : ideo …*: the condition has no main
+    clause; *ideo* opens the theriac itself. *Tyriaca*: theriac, the physicians' antidote to poison
+    (Glossary proposals). *Plus debita*: beyond what is due. *Membra principalia … sine macula vel
+    ruga*: the exactors claim for themselves what is said of the church (Eph. 5:27, "not having spot
+    or wrinkle", DR). The canons that say the church is shaken but not overcome are not traced
+    (LEDGER E06e-1).
 
 [^2]: **S/T/C.** *Ex ore proprio*: out of their own claim, turned against them. *Procuratorium*: a
     proctor's letter of mandate. B *quod sint* (130.30). A margin *Dist. XL. Hic nota contra
@@ -126,9 +127,9 @@ him by fornicating spiritually; therefore one who is married remains spiritually
     seared" (DR, *cauteriatam*). The cautery is presumably the censure by which the exactors extort
     (131.17). *Gracia* with a genitive: for the sake of.
 
-[^4]: **S/C.** *Probabilem evidenciam*: evidence that makes it probable, not proof. The rule of "human
-    laws" on payment to a false proctor is to be checked (LEDGER E06e-3). *Et si*: even if. *In penam
-    negligencie*: as penalty for his negligence.
+[^4]: **S/C.** *Probabilem evidenciam*: evidence that makes it probable, not proof. The rule of
+    "human laws" on payment to a false proctor is not traced (LEDGER E06e-3). *Et si*: even if. *In
+    penam negligencie*: as penalty for his negligence.
 
 [^5]: **T.** Print *creditor*; Loserth's page foot (131.12): "perhaps *debitor* should be read". The
     one who owes tithes to the mother church is her debtor, and *creditor* gives no sense in the
@@ -144,15 +145,16 @@ him by fornicating spiritually; therefore one who is married remains spiritually
     *Ydemptificaret sibi*: would make identical with himself.
 
 [^8]: **R/T/S.** A margin *Nota bene. Responsio: Christus desponsavit sibi matrem suam ecclesiam non
-    secundum se totam* (131.29). Matt. 19:5, "shall a man leave father and mother, and shall cleave to
-    his wife" (DR); Wyclif's past tenses (*reliquit … adhesit*) apply it to Christ. The holy doctors'
-    exposition is to be checked (LEDGER E06e-4). A A₁ *sane intelligere* (132.1–2).
+    secundum se totam* (131.29). Matt. 19:5, "shall a man leave father and mother, and shall cleave
+    to his wife" (DR); Wyclif's past tenses (*reliquit … adhesit*) apply it to Christ. The holy
+    doctors' exposition is not traced (LEDGER E06e-4). A A₁ *sane intelligere* (132.1–2).
 
-[^9]: **T/C/S.** A margin *De incarnacione* (132.3); A *assummendo* (132.5). *Assumens illud quod prius
-    non erat*: after the antiphon *Mirabile mysterium* of the Circumcision (octave of Christmas), *id quod fuit permansit, et quod non erat assumpsit* (Sarum Breviary, Procter–Wordsworth I, col. ccxciii)"; same note, "(to be checked; LEDGER E06e-5)." → "(LEDGER E06e-5).
-    (to be checked; LEDGER E06e-5). *Reliquit … esse solum Deus*: this is his leaving of the father.
-    *Cum fuit humanitas*: "since he was [also] humanity", or "since there was [in him] a humanity";
-    doubtful.
+[^9]: **T/C/S.** A margin *De incarnacione* (132.3); A *assummendo* (132.5). *Assumens illud quod
+    prius non erat*: after the antiphon *Mirabile mysterium* of the Circumcision (octave of
+    Christmas), *id quod fuit permansit, et quod non erat assumpsit* (Sarum Breviary,
+    Procter–Wordsworth I, col. ccxciii) (LEDGER E06e-5); Wyclif's words echo the antiphon rather
+    than quote it. *Reliquit … esse solum Deus*: this is his leaving of the father. *Cum fuit
+    humanitas*: "since he was [also] humanity", or "since there was [in him] a humanity"; doubtful.
 
 [^10]: **T/S.** *Ubi prius*: whereas before. Rom. 9:24, "not only of the Jews but also of the Gentiles"
     (DR), is cited, not quoted; A B have *Romanorum* and a gap for the chapter (132.12), which Loserth

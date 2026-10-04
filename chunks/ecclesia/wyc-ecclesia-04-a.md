@@ -121,9 +121,9 @@ speak of the true church and of the pretended or mixed church; but our discourse
     *quiditas*). AB margin: *Responsio* (69.13).
 
 [^3]: **C.** *Sicut fuit ecclesia ut est modo, sic fuit corpus Christi misticum*: construed "as the
-    multitude was the church, as [the church] is now, so it was the mystical body". *Medietas … numero*:
-    the church's two halves are counted, not measured: angels and men (cf. Augustine, *Enchiridion* 29,
-    men restoring the number of the fallen angels; LEDGER E04a-1, to-verify).
+    multitude was the church, as [the church] is now, so it was the mystical body". *Medietas …
+    numero*: the church's two halves are counted, not measured: angels and men (Augustine,
+    *Enchiridion* 29, men restoring the number of the fallen angels, PL 40:246; LEDGER E04a-1).
 
 [^4]: **T/C.** B *de presencia* for *presencia* (70.1). *Tempore suo*: each at its own time; the
     objection draws from the church of "all the elect, present, past and future" that past and future
@@ -148,9 +148,10 @@ speak of the true church and of the pretended or mixed church; but our discourse
     uniendi* (71.7), as printed, hardly construes (B *quoad modum*); *quoad modum vivendi*, "as to
     their manner of life", would suit the clerics in name: a doubt, reported.
 
-[^8]: **C/S.** *Prosperando procedere*: cf. Ps. 44:5, *prospere procede*. *Secunde ecclesie* (71.12),
-    as printed, does not construe; perhaps *seu due ecclesie*, "or two churches": a doubt, reported.
-    The two cities: Augustine, *De civitate Dei*; Gregory not identified (LEDGER E04a-4, to-verify).
+[^8]: **C/S.** *Prosperando procedere*: cf. Ps. 44:5, *prospere procede*. *Secunde ecclesie*
+    (71.12), as printed, does not construe; perhaps *seu due ecclesie*, "or two churches": a doubt,
+    reported. The two cities: Augustine, *De civitate Dei* XIV.28 (also I.35; PL 41:436, 41:46);
+    Gregory not traced (LEDGER E04a-4).
 
 [^9]: **T/C.** A and A₁ read *verborum* at 71.17 (perhaps for *ordinum*, 71.16; the apparatus is not
     clear). *Verbum modernorum*: the "moderns" who taxed the fathers with ignorance of logic, against

@@ -149,13 +149,14 @@ pope, or, jointly and severally, for his college. But these two last members are
 ## Notes
 
 [^1]: **S/T.** *Dominus Ardmacanus*: Richard FitzRalph, archbishop of Armagh; the book is his *De
-    pauperie Salvatoris*, which Wyclif calls *De pauperie Christi* and says was written to Pope Innocent
-    [VI] (from memory; to be checked, LEDGER E05a-1). Loserth's foot cites Vienna, ÖNB Cod. Pal. 1430,
-    *Libri septem de paupertate Salvatoris*, whose fol. 1 note says Ricardus composed it in the Roman
-    curia against the mendicant friars "at the instance of Pope Clement VI" (LEDGER E05a-1). A
-    *verissimile* (92.15). A₁ *auderet* (92.16), "would dare [to use]", is easier; but A₁ alone does not
-    outweigh the print, which construes: neither would listen to such blasphemy. *Stilus*: the style of
-    address.
+    pauperie Salvatoris*, which Wyclif calls *De pauperie Christi* and says was written to Pope
+    Innocent [VI] (Loserth's foot identifies the work; the dedication to Innocent is not
+    independently checked, LEDGER E05a-1). Loserth's foot cites Vienna, ÖNB Cod. Pal. 1430, *Libri
+    septem de paupertate Salvatoris*, whose fol. 1 note says Ricardus composed it in the Roman curia
+    against the mendicant friars "at the instance of Pope Clement VI" (LEDGER E05a-1). A
+    *verissimile* (92.15). A₁ *auderet* (92.16), "would dare [to use]", is easier; but A₁ alone does
+    not outweigh the print, which construes: neither would listen to such blasphemy. *Stilus*: the
+    style of address.
 
 [^2]: **C/R.** A margin *Ecclesie equivocacio* (92.19). *Universitas* runs through ¶1–2 as "whole
     body", "university" and "universe": the play is Wyclif's. *Ipsi habent equivoce racionem
@@ -208,11 +209,12 @@ pope, or, jointly and severally, for his college. But these two last members are
     *Utriusque sui vicarii*: the king and the priest, vicar of the Godhead and vicar of Christ's
     humanity (GLOSSARY §B).
 
-[^10]: **S/T.** A margin *Contra adulatores ad papam* (95.7), *Commentator* (95.10). Gregory's wine and
-    oil (Luke 10:34), severity and gentleness in the ruler of souls: *Regula pastoralis* II.6 (PL 77:
-    *vinum atque oleum … Miscenda ergo est lenitas cum severitate*) (LEDGER E05a-4). "The Commentator" is Averroes (Loserth's foot); the passage in
-    his commentary on *Physics* III is to be checked (LEDGER E05a-5). B lacks *Nam — assuescunt*
-    (95.10). *Inhabiles*: "unqualified" (GLOSSARY §D), here for receiving instruction.
+[^10]: **S/T.** A margin *Contra adulatores ad papam* (95.7), *Commentator* (95.10). Gregory's wine
+    and oil (Luke 10:34), severity and gentleness in the ruler of souls: *Regula pastoralis* II.6
+    (PL 77: *vinum atque oleum … Miscenda ergo est lenitas cum severitate*) (LEDGER E05a-4). "The
+    Commentator" is Averroes (Loserth's foot); the passage in his commentary on *Physics* III (the
+    prologue, with the poison simile) is not independently checked (LEDGER E05a-5). B lacks *Nam —
+    assuescunt* (95.10). *Inhabiles*: "unqualified" (GLOSSARY §D), here for receiving instruction.
 
 [^11]: **T/C/R.** *Cap. …*: Loserth, *Num. capituli deest* (95.15). B, a later hand, in the margin
     (95.18): *Reverendissime sanctissime cum vocatur, ydolatratur*, "when he is called most reverend,

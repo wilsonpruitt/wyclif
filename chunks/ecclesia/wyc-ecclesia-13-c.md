@@ -73,7 +73,7 @@ To this the answer is, granting the first conclusion (in that the apostles and o
 
 [^7]: **S/C.** Side-note 284.22. Joshua 21:2 (*urbes ad habitandum, et suburbana earum ad alenda jumenta*), executing Numbers 35:2–3. *Et ultimo*: "and the last [chapter]", or "and lastly"; the reference is doubtful (LEDGER E13c-3). *Ad eorum annichilationem*: we take *eorum* of the world's goods, which the clergy teaches the laity to bring to nothing; "to their own self-emptying" is possible.
 
-[^8]: **S/T.** Deuteronomy 18:1–2 and Numbers 18:20 are the Douay–Rheims; Wyclif adds *populo* (Deut. 18:1) and stops Numbers 18:20 before "in the midst of the children of Israel". B reads *fratruum* (285.3). Exodus 19 has no priestly portions; Exodus 29 (Aaron and his sons eating the consecration offerings) may be meant (to be checked, LEDGER E13c-4). A in the margin *Conclusio* (285.11). *In altero testamento*: in either testament.
+[^8]: **S/T.** Deuteronomy 18:1–2 and Numbers 18:20 are the Douay–Rheims; Wyclif adds *populo* (Deut. 18:1) and stops Numbers 18:20 before "in the midst of the children of Israel". B reads *fratruum* (285.3). Exodus 19 has no priestly portions; Exodus 29 (Aaron and his sons eating the consecration offerings) may be meant (our conjecture; the print gives *XIX°* without comment, LEDGER E13c-4). A in the margin *Conclusio* (285.11). *In altero testamento*: in either testament.
 
 [^9]: **C/T.** Side-notes 285.13, 285.19; A in the margin *Contra. Secunda obieccio* (285.13). *Cum paribus*: other things being equal (13-a, n. 1). *Ostensiones miraculi*: miracles shown in favour of endowed churches. *Utrobique*: for giver and receiver alike.
 

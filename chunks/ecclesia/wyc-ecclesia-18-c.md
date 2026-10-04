@@ -46,7 +46,7 @@ Further, when it is denied that the devil is [head]{g:caput} of his [members]{g:
 
 [^2]: **C.** A syllogism: no Christian through most of the world; no church where there is no Christian; therefore no church through most of the world. **R.** A in the margin at 422.25: *Ecclesia est diffusa per totum orbem et per maiorem partem orbis non est ecclesia*.
 
-[^3]: **C.** *Secundum potestatem*: present by power, not in place; then every person of the church would be everywhere. *Unam esse ecclesiam ex istis*: that one church is made of the militant and the triumphant. **S.** Augustine, *Enchiridion* 64 (LEDGER E18c-2, to be checked); *Quaestiones Veteris et Novi Testamenti* 47, the work of Ambrosiaster under Augustine's name (Loserth: Aug. *Opp.* III, Append. p. 60; LEDGER E18c-3, editor). Both were cited at 418.4–5.
+[^3]: **C.** *Secundum potestatem*: present by power, not in place; then every person of the church would be everywhere. *Unam esse ecclesiam ex istis*: that one church is made of the militant and the triumphant. **S.** Augustine, *Enchiridion* 64 (PL 40; LEDGER E18c-2); *Quaestiones Veteris et Novi Testamenti* 47, the work of Ambrosiaster under Augustine's name (Loserth: Aug. *Opp.* III, Append. p. 60; LEDGER E18c-3, editor). Both were cited at 418.4–5.
 
 [^4]: **C.** *Non est racio quare ... quin*: there is no reason why the one holds and not the other. *Formale quo*: the formal principle by which the church is constituted. *Licet fuit valde disparis speciei*: the faith of the many believers, though unlike in species, yields one faith; so the predestinate, though unlike, make one bride. **G.** *Colorari*: "be given colour", a plausible ground (GLOSSARY *color*, *colorare*).
 

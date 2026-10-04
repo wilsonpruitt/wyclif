@@ -159,11 +159,12 @@ Christians.[^19]
     patribus*: the matter of Christ's body, in his forefathers. We take *spiritus habuit esse in humana
     specie* of the human soul, having being in the species; doubtful. *Humanitus*: as man.
 
-[^3]: **T/S/R.**  The page foot gives
-    "B: missa" (126.21) without the word it replaces; B margin (later hand) *In triduo* (126.32).
-    *Sanctum triduum*: the three days of Christ's death; *conficere*: to consecrate the sacrament. The
-    doctors' common teaching is in, e.g., Aquinas, *ST* III q.81 a.4 ad 2–3 (consecrated during the passion, the body alone under the bread, without the soul) (LEDGER E06d-1); still to be checked
-    is Wyclif's place in *De incarnacione* (LEDGER E06d-2).
+[^3]: **T/S/R.** The page foot gives "B: missa" (126.21) without the word it replaces; B margin
+    (later hand) *In triduo* (126.32). *Sanctum triduum*: the three days of Christ's death;
+    *conficere*: to consecrate the sacrament. The doctors' common teaching is in, e.g., Aquinas,
+    *ST* III q.81 a.4 ad 2–3 (consecrated during the passion, the body alone under the bread,
+    without the soul) (LEDGER E06d-1); Wyclif's place in *De incarnacione* is not traced (LEDGER
+    E06d-2).
 
 [^4]: **C/T/S.** *Intrinsecum … extrinsecum*: a head within the body (as man) and a head flowing in
     from without (as God), as at 123.26 (06-b); *taliter*: as intrinsic head. Print *Paulum* (127.9, plate);

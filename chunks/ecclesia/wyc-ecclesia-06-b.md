@@ -129,11 +129,11 @@ been its intrinsic head before he was man.[^17]
     *Augustinus contra Ticonium* (120.23). Loserth (120.22): cf. Hus, *De ecclesia*, *Opp.* I, fol.
     206b (LEDGER E06b-2).
 
-[^3]: **C/S.** *Et cum Augustinus … increpat*: the *cum* clause has no main clause; we render it as a
-    statement. The rule in which Augustine shows Christ and his body one person is Tyconius's first,
-    *de Domino et eius corpore*; its chapter (31 in modern numbering?) is to be checked (LEDGER
-    E06b-3). Wyclif's quotation is to be checked against Augustine's text (*De doctr. chr.* III.32)
-    (LEDGER E06b-4). *Bipartitum* here, *bipertitum* above, both as printed. The *145b* folio mark at
+[^3]: **C/S.** *Et cum Augustinus … increpat*: the *cum* clause has no main clause; we render it as
+    a statement. The rule in which Augustine shows Christ and his body one person is Tyconius's
+    first, *de Domino et eius corpore*; it is *De doctr. chr.* III.31 (§ 44; PL 34:82; LEDGER
+    E06b-3). Wyclif's quotation is found in Augustine's text (*De doctr. chr.* III.32; PL 34:82–83;
+    LEDGER E06b-4). *Bipartitum* here, *bipertitum* above, both as printed. The *145b* folio mark at
     121.1 is not Wyclif's.
 
 [^4]: **S/R.** A margin *Presciti non sunt de Christi ecclesia* (121.6). Loserth: Decretum III, *De
@@ -163,17 +163,17 @@ been its intrinsic head before he was man.[^17]
 
 [^10]: **T/S.** Cant. 4:7 and Eph. 5:27 agree with the Vulgate; DR. A A₁ *illam esse*, then a
     lacuna, wanting *ecclesiam* (122.14); B *sicut dicit* (122.15). *Decretum … in fine XIII cap.*:
-    the decree and the chapter are not identified (to be checked; LEDGER E06b-7).
+    the decree and the chapter are not traced (LEDGER E06b-7).
 
 [^11]: **S/T.** Rom. 8:17, DR "And if sons, heirs also"; Wyclif's *si ordinaret filios* turns it to
     God's ordaining. A A₁ lack *in … ordinaret* (122.20–22); B *quem sit*. *Perdere patrem*: to ruin
     his father.
 
-[^12]: **S/C.** Two canons are meant: that whoever expounds scripture otherwise than the Holy Spirit's
-    sense demands is a heretic (Decretum C.24 q.3 c.27, from Jerome, to be checked; LEDGER E06b-8), and
-    that whoever imputes such vice to the Roman church falls into heresy (no canon says this in
-    terms; nearest, D.22 c.1 § 1, on taking away the Roman church's privilege, Friedberg I, 73–74;
-    LEDGER E06b-9). *Calumpnia*: calumny.
+[^12]: **S/C.** Two canons are meant: that whoever expounds scripture otherwise than the Holy
+    Spirit's sense demands is a heretic (Decretum C.24 q.3 c.27, from Jerome; PL 187:1306B; LEDGER
+    E06b-8), and that whoever imputes such vice to the Roman church falls into heresy (no canon says
+    this in terms; nearest, D.22 c.1 § 1, on taking away the Roman church's privilege, Friedberg I,
+    73–74; LEDGER E06b-9). *Calumpnia*: calumny.
 
 [^13]: **S/T/C.** Exod. 21:17, Vulgate *Qui maledixerit patri suo, vel matri, morte moriatur*, DR "He
     that curseth his father or mother, shall die the death"; Wyclif lacks *suo* and *morte*. A *Nonne

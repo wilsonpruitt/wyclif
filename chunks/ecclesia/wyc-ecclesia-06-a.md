@@ -183,7 +183,8 @@ since [he is so] according to [his] parts; therefore etc.[^20]
 
 [^6]: **C/S/R.** *Secundum racionem qua*: "in the respect in which". *Ex qua*: from the church, not
     from Christ. A margin *Nota* (117.15). Ezekiel 18 as printed; the figure of the unfaithful bride
-    is Ezek. 16 (16:15, DR "thou playedst the harlot") and 23, so the chapter is to be checked.
+    is Ezek. 16 (16:15, DR "thou playedst the harlot") and 23, so the printed chapter number is not
+    reconciled with them.
 
 [^7]: **S.** Cant. 2:6, DR "his right hand shall embrace me"; "without wrinkle": Eph. 5:27, DR "not
     having spot or wrinkle".

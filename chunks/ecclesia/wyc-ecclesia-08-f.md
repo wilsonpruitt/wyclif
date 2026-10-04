@@ -85,7 +85,7 @@ Again, according to what was said here in the corollaries of the [definition]{g:
 
 [^15]: **C.** *Isti contencioni*: we take it as "contentment", answering *contenti*. It could also be "contention", which construes less well.
 
-[^16]: **T/S.** Loserth corrects the codices' *12° cap.* to *III° cap.* (181.7), translated. He refers to pp. 52–54 above (LEDGER E08f-2). The work of Gregory is not named here and is to be checked there. A margin *Gregorius; XII. cap. recte III* (181.6). Side-note 181.6.
+[^16]: **T/S.** Loserth corrects the codices' *12° cap.* to *III° cap.* (181.7), translated. He refers to pp. 52–54 above (LEDGER E08f-2). The work of Gregory is not named here; the passage cited at pp. 52–54 is from the *Moralia* XXXI (LEDGER E08f-2). A margin *Gregorius; XII. cap. recte III* (181.6). Side-note 181.6.
 
 [^17]: **S/T.** Augustine, *De vera religione* 92 (PL 34:163; Loserth: "cap. XCII … Opp. I, pag. 781"; LEDGER E08f-3). Loserth corrects two readings from Augustine's text, and his corrections are translated: the codices' *conficit* becomes *confidit* (181.15), and their *separent* is corrected at 181.16. A reads *ostenderit* (181.12). A has the margin notes *Amor temporalium occultus quomodo indicatur* (181.11), *Augustinus* (181.12) and *Nota* (181.15). A also has a Czech gloss, *Pomny*, "Memento" (181.12). Side-note 181.11.
 

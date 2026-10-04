@@ -74,7 +74,7 @@ And this teaching is notably taught in C. 25 q. 1, *Ideo permittente domino*, wh
 
 [^11]: **S/C.** Loserth: C. 25 q. 2 c. 10 (231.2; LEDGER E11a-8). *Cum sacerdotibus meis*: Friedberg reads *consacerdotibus meis*, "my fellow priests"; *cum sacerdotibus*, Wyclif's reading, is that of the old editions (Friedberg I, 1014; LEDGER E11a-8). *Vel Deo*: "even for God", since God cannot do injustice.
 
-[^12]: **T/C.** A in the margin *Secunda conclusio* (231.10); side-note 231.10. *Debitori*: the print has "debtor"; the sense requires the one to whom the debt is owed, and we translate "[their creditor]". Whether *debitor* here is Wyclif's slip or a loose use is to be checked. *Pro suo perpetuo*: literally "for their perpetuity", i.e. for life.
+[^12]: **T/C.** A in the margin *Secunda conclusio* (231.10); side-note 231.10. *Debitori*: the print has "debtor"; the sense requires the one to whom the debt is owed, and we translate "[their creditor]". Whether *debitor* here is Wyclif's slip or a loose use we leave open. *Pro suo perpetuo*: literally "for their perpetuity", i.e. for life.
 
 [^13]: **S/R.** Romans 13:8, as the Vulgate; DR. The manuscripts read *Rom. XII*; Loserth corrects (231.20). *Eciam quoad Deum*: the debt is owed to God as well as to the brother. B in the margin *Est hic manifeste elicibile quod non licet contra apostolum dispensare* (231.28), an early reader taking the point as a limit on dispensation.
 

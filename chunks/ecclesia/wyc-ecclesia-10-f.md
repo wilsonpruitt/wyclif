@@ -63,7 +63,7 @@ Again, according to blessed Gregory (as I have often repeated), "he ought wholly
 
 [^8]: **S.** Matthew 5:25, as the Vulgate (Wyclif *cum illo* for *cum eo*); DR. Side-note 226.21. *Primo legifero*: Christ, the first lawgiver. *Leges ancillantes Christo*: the laws, civil and canon, that serve Christ's law.
 
-[^9]: **S/T.** The maxim, "he deserves to lose his privilege who abuses the power permitted him", ascribed to Gregory and cited by Wyclif before (*ut sepe repecii*); its place in the Decretum is to be checked (LEDGER E10f-9). B reads *contra locum* for *intra locum* (226.32–33); the print is translated. Side-note 226.30.
+[^9]: **S/T.** The maxim, "he deserves to lose his privilege who abuses the power permitted him", ascribed to Gregory and cited by Wyclif before (*ut sepe repecii*); its place in the Decretum is C. 11 q. 3 c. 63 (PL 187:862; LEDGER E10f-9). B reads *contra locum* for *intra locum* (226.32–33); the print is translated. Side-note 226.30.
 
 [^10]: **C/G.** A and B in the margin *Duplex privilegium* (227.1); side-note 227.1. *Dare*: to posit, in argument. *Exemplatum*: copied, derived from it as from an exemplar. *Est dignus amittere*: "deserves to lose". *Ingratus* is here a person ungrateful to someone, his mother the church: "ungrateful" (GLOSSARY).
 

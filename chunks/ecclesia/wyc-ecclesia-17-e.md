@@ -71,7 +71,7 @@ From these things the logician can note that Augustine speaks of faith which is 
 
 [^11]: **R.** A in the margin at 405.13: *Nota de universali reali*. **C.** *Argumentum ad hominem*: an argument from the opponent's own position. Wyclif had assumed the doctor still held that a species or universal is only a term or concept, on which "one faith in species" would be no faith in things; he himself holds the universal real. *Una est fides que creditur, et fides qua creditur* is taken as "one ... and [one]": the faith believed, and the faith by which it is believed, each one in every Christian.
 
-[^12]: **S.** Augustine, *De Trinitate* 13.2.5 (Loserth: *Opp.* VIII, p. 932 at 405.12, p. 929 at 405.22; LEDGER E17e-5; the modern reference is ours, LEDGER E17e-6, to be checked). **T.** At 405.25 the manuscripts omit *suas*; Loserth supplies it from Augustine's text. At 405.26 B reads *expressam* for *impressam*. **R.** A in the margin at 405.21: *Augustinus*; A and B at 405.28: *Fides duplex*.
+[^12]: **S.** Augustine, *De Trinitate* 13.2.5 (Loserth: *Opp.* VIII, p. 932 at 405.12, p. 929 at 405.22; LEDGER E17e-5; the modern reference is ours, *De Trin.* 13.2.5 in PL 42, where Wyclif's quotation is loose, LEDGER E17e-6). **T.** At 405.25 the manuscripts omit *suas*; Loserth supplies it from Augustine's text. At 405.26 B reads *expressam* for *impressam*. **R.** A in the margin at 405.21: *Augustinus*; A and B at 405.28: *Fides duplex*.
 
 [^13]: **C.** As printed, the comma stands after *propter similitudinem*, leaving *nullam diversitatem* without a governing word; the clause is construed as in Augustine's text, *genere; propter similitudinem tamen et nullam diversitatem*. *Genere* is rendered "in genus" to keep the term Wyclif takes up in ¶3.
 

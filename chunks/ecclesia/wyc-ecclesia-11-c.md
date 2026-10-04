@@ -60,7 +60,7 @@ And this [teaching]{g:sentencia} would set the [church]{g:ecclesia} greatly to r
 
 ## Notes
 
-[^1]: **S.** A in the margin *Confirmacio triplex* (238.1); side-note 238.1. Gregory, *Moralia* XXI: the place is to be checked; Loserth's "Cap. IV" (238.4) does not say whether it refers to the *Moralia* or to this treatise (LEDGER E11c-1). Apocalypse 3:19, as the Vulgate; DR. Hebrews 12:6: Wyclif adds *Deus* to the Vulgate's *flagellat autem omnem filium*; DR "and he scourgeth" with "God" added.
+[^1]: **S.** A in the margin *Confirmacio triplex* (238.1); side-note 238.1. Gregory, *Moralia* XXI.4.8 (PL 76:193A–B; LEDGER E11c-1); Loserth's "Cap. IV" (238.4) does not say whether it refers to the *Moralia* or to this treatise. Apocalypse 3:19, as the Vulgate; DR. Hebrews 12:6: Wyclif adds *Deus* to the Vulgate's *flagellat autem omnem filium*; DR "and he scourgeth" with "God" added.
 
 [^2]: **S/T.** C. 23 q. 4 c. 24, *Ipsa pietas* (Loserth, 238.9; Augustine to Boniface; Friedberg I, 909–10; LEDGER E11c-2). A in the margin *Augustinus* (238.8). A and A₁ read *nec ligant* (238.12). *Vª, q. IVª*: so the print, following the manuscripts (*V q. vel IV*, 238.13); the canons are C. 5 q. 5 cc. 1–2 (Friedberg I, 549), as Loserth's own reference has it, and the English gives that (LEDGER E11c-3). *Furenti frenetico*: the raving madman; *freneticus* and *litargicus* are the two diseases of Augustine's figure (the frenzied, the lethargic).
 
@@ -72,7 +72,7 @@ And this [teaching]{g:sentencia} would set the [church]{g:ecclesia} greatly to r
 
 [^6]: **C/T.** Side-note 239.6. A in the margin *Epilogus. Nec omnia valent pro correccione peccancium* (239.6). B reads *omnino dandum* (239.11). *Cum paribus*: taken as the peers of the realm, joined to king and realm; *eis* goes with *dandam*. B reads *et se portatus* (239.4); the print is translated.
 
-[^7]: **S/C.** *Libri VIⁱ*: which work Wyclif counts as book 6, and its cap. 25, are to be checked (LEDGER E11c-5). Romans 6:22, alluded to (*liberati a peccato*). Jeremiah 25 and Ecclesiasticus 7 are cited for *immunis* in the sense "unpunished"; the verses (Jer. 25:29; Ecclus. 7:8) are our identification. *Indignitas criminis ad tormentum*: literally "the unworthiness of the crime to torment"; rendered as its not deserving it. B in the margin *Immunitas quid sit, nota* (239.18).
+[^7]: **S/C.** *Libri VIⁱ*: which work Wyclif counts as book 6, and its cap. 25, are not identified (LEDGER E11c-5). Romans 6:22, alluded to (*liberati a peccato*). Jeremiah 25 and Ecclesiasticus 7 are cited for *immunis* in the sense "unpunished"; the verses (Jer. 25:29; Ecclus. 7:8) are our identification. *Indignitas criminis ad tormentum*: literally "the unworthiness of the crime to torment"; rendered as its not deserving it. B in the margin *Immunitas quid sit, nota* (239.18).
 
 [^8]: **C/T.** B reads *quedam franchisia* (239.22–23) and *et buium* (239.24). *Munium*: Wyclif's form of *munia*, duties, glossed *tributum*; the derivation is the grammarians' (cf. Isidore, *Etym.* X.141, *immunis, qui non facit munia*, PL 82:382A, and XV.2.10, *munia, id est tributa debita*, 82:537C; the form *ab in et munium* is not Isidore's, LEDGER E11c-6). *Ut est expers*: the clause is loose; taken as describing who is properly immune. *Irreatus pene*: a non-classical abstract, "non-liability to penalty". *Libertantem*: who grants the liberty (franchise).
 
@@ -80,13 +80,13 @@ And this [teaching]{g:sentencia} would set the [church]{g:ecclesia} greatly to r
 
 [^10]: **T/C.** A in the margin *Responsio* (240.3); side-note 240.12. B reads *in iure*, apparently for *de racione*; A *culpali* for *culpabili* (240.6); the print is translated. *De racione*: in principle, by the nature of the case. *Hoc … prosequatur*: the church applies this exclusion unequally.
 
-[^11]: **S.** *De hiis qui ad ecclesiam fugiunt, le. fi.*: *le. fi.* is the civilians' *lex finalis*, the last law of a title; the title matches the Code's *De his qui ad ecclesias confugiunt* (Cod. 1.12), to be checked (LEDGER E11c-7). Loserth cites X 3.49.6 and quotes it: a fugitive servant, once his lord has sworn to spare him, is compelled to return to his service (240.11; LEDGER E11c-7). B reads *quocunque alio* (240.13).
+[^11]: **S.** *De hiis qui ad ecclesiam fugiunt, le. fi.*: *le. fi.* is the civilians' *lex finalis*, the last law of a title; the title matches the Code's *De his qui ad ecclesias confugiunt* (Cod. 1.12), an identification not independently checked against the Code (LEDGER E11c-7). Loserth cites X 3.49.6 and quotes it: a fugitive servant, once his lord has sworn to spare him, is compelled to return to his service (240.11; LEDGER E11c-7). B reads *quocunque alio* (240.13).
 
 [^12]: **S.** Ephesians 6:5–7, paraphrased: Wyclif joins verse 5 (*cum timore et tremore … sicut Christo*) to verse 7 (*sicut Domino et non hominibus*); DR. *Servus*: "servant" throughout, as DR, though the law in question is of slaves. *Prius*: earlier, i.e. by a prior debt.
 
 [^13]: **S/T.** C. 23 q. 4 c. 50 (Loserth's *causa XXIII, cap. L*, without the *quaestio*, 240.25; LEDGER E11c-8). A and A₁ omit *Unde* (240.25). *Deferimus*: for *differimus*, "put off".
 
-[^14]: **S/G/T.** *Collacione tercia*: the third collation of the *Authenticum*, as at 226.5; the novel is to be checked (LEDGER E10f-7). *Suffragari*: the GLOSSARY's "to aid by intercession" is shortened to "to aid", since here privileges aid, not prayers. B reads *ledit se* (241.4). *Comparticipem*: agrees with *proximum*: the neighbour who shares the sin; side-note 241.1.
+[^14]: **S/G/T.** *Collacione tercia*: the third collation of the *Authenticum*, as at 226.5; the novel is Nov. 17 (*Authenticum* coll. III, tit. 4), c. 7: protection of temples is given by the law not to wrongdoers but to the injured (LEDGER E10f-7). *Suffragari*: the GLOSSARY's "to aid by intercession" is shortened to "to aid", since here privileges aid, not prayers. B reads *ledit se* (241.4). *Comparticipem*: agrees with *proximum*: the neighbour who shares the sin; side-note 241.1.
 
 [^15]: **S/T.** X 3.19.8, *Cum universorum* (Loserth, 241.8; our modern form; LEDGER E11c-9). Isaiah 10:1, as the Vulgate; DR. B reads *qui comedunt* (241.12). *Continuandum iusticias*: to maintain just dealing.
 

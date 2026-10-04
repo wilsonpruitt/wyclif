@@ -66,11 +66,11 @@ The third main objection is [by appeal to]{g:obicitur-per} this: that the privil
 
 [^9]: **S.** A in the margin *Augustinus* (256.27); side-note 256.27. Augustine on sin as voluntary: *De vera religione* 14.27 (PL 34), *usque adeo peccatum voluntarium est malum, ut nullo modo sit peccatum, si non sit voluntarium*, which Wyclif paraphrases (LEDGER E12b-2). *Secundum racionem qua mala*: under the aspect by which they are evils.
 
-[^10]: **C/R.** A in the margin *Conclusio* (256.31); side-note 257.3. *Subintelligere*: to understand [a condition] as implied, though not written. *Dignitatis persone capacis*: the worthiness of a person capable [of the grant]. *Libri proximi*: the book of Wyclif's *Summa* preceding *De ecclesia*; which work, and its chapters 20 and 24, to be checked (LEDGER E12b-3).
+[^10]: **C/R.** A in the margin *Conclusio* (256.31); side-note 257.3. *Subintelligere*: to understand [a condition] as implied, though not written. *Dignitatis persone capacis*: the worthiness of a person capable [of the grant]. *Libri proximi*: the book of Wyclif's *Summa* preceding *De ecclesia*; which work, and its chapters 20 and 24, are not identified (LEDGER E12b-3).
 
 [^11]: **S.** C. 25 q. 1 c. 16, *Ideo permittente* (Loserth, 257.7: *Causa XXV, q. I, cap. XVI*; the modern form is ours; LEDGER E12b-4). *In proximo capitulo*: chapter 11. *Ut dixi hic*: earlier in this chapter (12-a, 253.20–254.23).
 
-[^12]: **S/R.** James 4:15 has *Si Dominus voluerit* ("If the Lord will", DR); Wyclif's *si Deus voluerit* is translated. *Discolia*: frowardness. A in the margin *Archidiaconus* (257.16). The Archdeacon is the canonists' name for Guido de Baysio (*Rosarium* on the Decretum); so Loserth's index; the passage is not checked (LEDGER E12b-5).
+[^12]: **S/R.** James 4:15 has *Si Dominus voluerit* ("If the Lord will", DR); Wyclif's *si Deus voluerit* is translated. *Discolia*: frowardness. A in the margin *Archidiaconus* (257.16). The Archdeacon is the canonists' name for Guido de Baysio (*Rosarium* on the Decretum); so Loserth's index; the passage is not independently checked (LEDGER E12b-5).
 
 [^13]: **S/T.** A in the margin *Deus donat sub condicione* (257.20); side-note 257.18. 1 Samuel 2:30 (DR; Loserth prints *1° Regum II°, 30*), except that Wyclif reads *honorificaverit* ("shall honour") for the Vulgate's *glorificaverit* ("shall glorify"), and adds *inquit*. "He cannot deny himself": 2 Timothy 2:13 (DR; Loserth, 257.26). *Blaspheme*: "except blasphemously". *Transferretur*: Loserth's correction of the manuscripts' *transferreretur* (257.30), translated.
 

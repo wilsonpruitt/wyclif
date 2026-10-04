@@ -127,16 +127,17 @@ such are venomous heretics (as is clear in the sixth book, in the treatise on he
 [^8]: **T/S.** The Archdeacon: Guido de Baysio, archdeacon of Bologna, *Rosarium* on D.44 (Loserth)
     (LEDGER E03g-3). After *capitulo* (68.21) the MSS have a lacuna (Loserth); *sexto capitulo* is
     chapter 6 of this book. Decretum C.8 q.1 c.19 *Sunt in ecclesia* (Loserth: *Decreti secunda pars
-    causa VIII, q. I, cap. XIX*; the modern form is ours) (LEDGER E03g-4); *mercenarius, non pastor*:
-    John 10:12. *In principio huius capituli*: the earlier citation in chapter 3 is unchecked (LEDGER
-    E03g-4, to-verify). A margin: *Prelatus*; AB: *Archidiaconus* (68.24).
+    causa VIII, q. I, cap. XIX*; the modern form is ours) (LEDGER E03g-4); *mercenarius, non
+    pastor*: John 10:12. *In principio huius capituli*: the earlier citation in chapter 3 (03-a, n.
+    3 cites the same canon, C.8 q.1 c.19) is not independently checked (LEDGER E03g-4). A margin:
+    *Prelatus*; AB: *Archidiaconus* (68.24).
 
-[^9]: **C/S/R.** *Ad quod dignitas vere consequitur*: the dignity follows on the work (cf. Augustine,
-    *Civ. Dei* 19.19, *nomen est operis, non honoris*; LEDGER E03g-5, to-verify). *In isto capitulo*:
-    "in this chapter", either of the book or a cathedral chapter; the former is taken. *Operis
-    evangeliste*: 2 Tim. 4:5, "do the work of an evangelist". *Libro sexto, tractatu de heresi*: not
-    identified (LEDGER E03g-6). Loserth: on chapter 3 cf. Hus, *Opp.* I, fol. 199a, 205b (cf. Hus, *De
-    eccl.*).
+[^9]: **C/S/R.** *Ad quod dignitas vere consequitur*: the dignity follows on the work (Augustine,
+    *Civ. Dei* 19.19, *nomen est operis, non honoris*, PL 41:647; LEDGER E03g-5). *In isto
+    capitulo*: "in this chapter", either of the book or a cathedral chapter; the former is taken.
+    *Operis evangeliste*: 2 Tim. 4:5, "do the work of an evangelist". *Libro sexto, tractatu de
+    heresi*: not identified (LEDGER E03g-6). Loserth: on chapter 3 cf. Hus, *Opp.* I, fol. 199a,
+    205b (cf. Hus, *De eccl.*).
 
 ## Transcription notes
 

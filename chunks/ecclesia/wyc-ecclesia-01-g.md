@@ -97,8 +97,8 @@ ordered as lower and higher.[^8]
 
 [^8]: **S/G.** Richard FitzRalph, archbishop of Armagh (d. 1360), *Summa de quaestionibus Armenorum*
     (Loserth identifies him, citing a Vienna MS; LEDGER E01g-5); book 7, c. 6 is Wyclif's reference,
-    unchecked. *Obicitur per*: "it is objected, by appeal to" (cf. GLOSSARY *arguitur per*). A and B
-    margins: *Obieccio. Ardmacanus*.
+    not independently checked. *Obicitur per*: "it is objected, by appeal to" (cf. GLOSSARY
+    *arguitur per*). A and B margins: *Obieccio. Ardmacanus*.
 
 ## Transcription notes
 

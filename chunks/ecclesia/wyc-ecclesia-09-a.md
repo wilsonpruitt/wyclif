@@ -89,7 +89,7 @@ From this one must note, first, how reverently this pope [alleges]{g:allegare} A
 
 [^17]: **C/R.** *Iste papa*: Pelagius. *Divisi … caritatem*: Wyclif's summary of the canon, not a quotation. *Collegium Romanum*: the college of cardinals, written as the Schism of 1378 opened. *Dicit*: the canon; the canon has *Iure ergo execratus tantum, non consecratus poterit dici* (Friedberg I, 980; LEDGER E09a-8). Side-note 186.15.
 
-[^18]: **S.** "Synagogue of Satan": Revelation 2:9. *Non est facile*: Decretum D. 40 c. 2 (our identification, from memory; Loserth gives no reference; LEDGER E09a-9). *In moribus*: in manners, in way of life.
+[^18]: **S.** "Synagogue of Satan": Revelation 2:9. *Non est facile*: Decretum D. 40 c. 2 (our identification; Loserth gives no reference; PL 187:213C–214B; LEDGER E09a-9). *In moribus*: in manners, in way of life.
 
 [^19]: **C.** This closes the answer to the second objection (184.1). *De quanto*: in so far as. *Fide scripture* has no *ex* and is not the GLOSSARY formula. *Propter aliquod bonum mundi* goes with *amittendo*.
 

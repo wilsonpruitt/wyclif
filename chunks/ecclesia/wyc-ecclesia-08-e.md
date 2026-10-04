@@ -49,7 +49,7 @@ Hence, to pacify the disciples and instruct them what privilege and [priority]{g
 
 [^7]: **S/T.** *Ecclesie malignancium*: Ps. 25:5 (DR "the assembly of the malignant"). We keep "church" for *ecclesia*. Isa. 5:20: Wyclif has *bonum malum et malum bonum*, the reverse of the Vulgate's order (*malum bonum, et bonum malum*). His order is translated. B reads *Cum tamen scit* (174.8).
 
-[^8]: **S/T.** *Decretum* C.11 q.3 c.63 (Loserth: "Dec. sec. pars, causa XI, q. III, c. LXIII"; the modern form is ours; LEDGER E08e-4). Whether the canon's wording matches Wyclif's is to be checked. A margin *Conclusio* (174.15).
+[^8]: **S/T.** *Decretum* C.11 q.3 c.63 (Loserth: "Dec. sec. pars, causa XI, q. III, c. LXIII"; the modern form is ours; LEDGER E08e-4). The canon is at PL 187:862; Wyclif's wording is not compared with it here. A margin *Conclusio* (174.15).
 
 [^9]: **T/C.** The codices read *condicione*; Loserth prints *condicioni* (174.20–21), translated. *Datus … date*: "a given", the logician's placeholder. *Racio privilegii*: the ground of the privilege. A margin *De privilegiis monasteriorum et ecclesiarum* (174.22).
 

@@ -158,10 +158,10 @@ reprobate."[^18]
     *utramque* (101.8). B margin *Circulus quadratus*.
 
 [^5]: **S/T/C.** Codd. *magister J. de Howdan*, expanded by Loserth; A margin *J. Howdan* (101.10).
-    Loserth: John of Howden (d. 1275), chaplain of Eleanor, mother of Edward I (LEDGER E05c-3). The poem
-    the lines come from is to be checked (same row). *Quadrantem*: we take it with *circulum*, "the
-    squaring circle"; it can also be read "you know the art, squaring the circle you have squared". *Spere
-    Dei*: the sphere of God, the divinity as circle.
+    Loserth: John of Howden (d. 1275), chaplain of Eleanor, mother of Edward I (LEDGER E05c-3). The
+    poem the lines come from is not identified (same row). *Quadrantem*: we take it with *circulum*,
+    "the squaring circle"; it can also be read "you know the art, squaring the circle you have
+    squared". *Spere Dei*: the sphere of God, the divinity as circle.
 
 [^6]: **S/T.** "The Truth": Christ (John 14:6). Codd. *facere fructum*; Loserth corrected to *ferre*
     from the Vulgate (101.19), and the print is translated. Wyclif lacks the Vulgate's *a semetipso*
@@ -197,18 +197,19 @@ reprobate."[^18]
     corpus esse non potest*, an early reader's summary.
 
 [^14]: **S.** Augustine, *De doctrina christiana* III.32, on the second rule of Tyconius, "on the
-    bipartite body of the Lord", where he objects to calling one body the members of Christ and those
-    who are not his: our summary is from memory and to be checked (LEDGER E05c-5). A margin
-    *Augustinus* (103.16).
+    bipartite body of the Lord", where he objects to calling one body the members of Christ and
+    those who are not his: PL 34:82; the summary is ours (LEDGER E05c-5). A margin *Augustinus*
+    (103.16).
 
 [^15]: **C/R.** A margin *Nota de forma uniente malos in corpus unum* (103.19). The foreknowledge is
     the extrinsic form, as predestination is for the body of Christ (cf. 110.9). The sin against the
     Holy Spirit: Matt. 12:31–32, alluded to. B *et sicut* (103.26); A margin *Conclusio*.
 
-[^16]: **S/T.** B *in carceris* for *in tartaris* (103.28); A margin *Exemplum*. Heat gathers like and
-    separates unlike: Aristotle's definition of heat (*De generatione et corruptione* II.2, 329b26–30)
-    and to be checked (LEDGER E05c-6). *Omogena / ethrogena*: things of one kind / of different kinds;
-    A *ethromogena*, A₁ *etherogena* (104.2).
+[^16]: **S/T.** B *in carceris* for *in tartaris* (103.28); A margin *Exemplum*. Heat gathers like
+    and separates unlike: Aristotle's definition of heat (*De generatione et corruptione* II.2,
+    329b26–30: heat associates things of the same kind, while cold brings together kinds alike and
+    unlike; LEDGER E05c-6). *Omogena / ethrogena*: things of one kind / of different kinds; A
+    *ethromogena*, A₁ *etherogena* (104.2).
 
 [^17]: **T/S/C.** *Caritatis* (104.5): the print (plate); the OCR had *cantatis*. For *caloris*: A *calore*, A₁ *calce*, B
     *calores*. "A consuming fire": Heb. 12:29, Deut. 4:24. *Lex forme ultime*: the law by which each

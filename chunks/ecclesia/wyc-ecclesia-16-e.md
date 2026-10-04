@@ -68,7 +68,7 @@ From these words of this most holy doctor and of the decree it seems, first, tha
 
 [^1]: **C.** *Stat minando destruccionem regni superhabundare multitudinem clericorum*: the ablative gerund is taken as "to the threat of", i.e. the superabundance threatens the kingdom; the construal is uncertain. **S.** 1 Corinthians 12:17 (DR "If the whole body were the eye, where would be the hearing?"); the half and the third are Wyclif's.
 
-[^2]: **S.** Augustine, *De doctrina christiana* 2.42.63, that whatever is useful elsewhere is found in scripture (to be checked, LEDGER E16e-1); A in the margin at 372.13: *Augustinus*. **T.** At 372.19 B reads *limitando eque*. **C.** *Limitando eis officium*: "assigning" (an office), but *limitati sunt* below is "limited", to a portion (GLOSSARY).
+[^2]: **S.** Augustine, *De doctrina christiana* 2.42.63, that whatever is useful elsewhere is found in scripture (the wording matches; *regimen rei publice* is Wyclif's gloss; LEDGER E16e-1); A in the margin at 372.13: *Augustinus*. **T.** At 372.19 B reads *limitando eque*. **C.** *Limitando eis officium*: "assigning" (an office), but *limitati sunt* below is "limited", to a portion (GLOSSARY).
 
 [^3]: **S.** The threefold portion of the priests and Levites (tithes, first-fruits and offerings; cf. Numbers 18) is the subject of chapter 13 (so A, corrected in the margin from *XXII*). **T.** At 372.26 B reads *populus* (OCR *populua*).
 

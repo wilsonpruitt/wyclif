@@ -66,7 +66,7 @@ Hence I put two cases to [my] adversaries. First, whether one who plunders, stea
 
 [^4]: **T/C.** A in the margin *Secunda racio* (218.1) and *Nota de privilegiis ut supra* (218.5); side-note 218.1. *Maior* is Loserth's correction: the codices have the abbreviation for *assumptum*, which he reads as *maior* against *Minor autem* at 218.18 (218.6). B lacks *quod* (218.7). *Ex dictis de privilegio*: the definition of privilege argued earlier (cap. 8–9). *Deus enim non potest in contradiccionem*: not even God can make a thing both privilege and destruction; *a fortiori* not the king.
 
-[^5]: **C/S.** *Confirmacio*: a further proof of the major. A in the margin *Officium regis* (218.14). *Legiis*: the king's lieges, his sworn subjects. The chapter number is wanting in the print; which work's "book 3" is meant is to be checked (LEDGER E10d-3).
+[^5]: **C/S.** *Confirmacio*: a further proof of the major. A in the margin *Officium regis* (218.14). *Legiis*: the king's lieges, his sworn subjects. The chapter number is wanting in the print; which work's "book 3" is meant is not identified (LEDGER E10d-3).
 
 [^6]: **S/C.** Ecclesiasticus 10:8 (Vulgate numbering): Wyclif has *de gente* and lists the four without the conjunctions (Vulgate *a gente … propter iniustitias, et iniurias, et contumelias, et diversos dolos*); the sense is DR's. A in the margin *Contra privilegia locorum* (218.22); side-note 218.24. *Tam patentem locum*: a place so open (to all comers).
 

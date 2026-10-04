@@ -187,13 +187,14 @@ the midst of them."[^15]
     … venit* is from the introit *Dum medium silencium* of the Sunday within the octave of Christmas (Sarum, Legg p. 34: *omnipotens sermo tuus domine de celis a regalibus sedibus uenit*); *de celo* is the Vulgate's, *exiliens* Wyclif's own (LEDGER
     E05d-3).
 
-[^15]: **S/C.** Luke 2:7 (Loserth): there the child is laid in a manger "because there was no room for
-    them in the inn". The inn "between two streets" and the two animals (not in Luke) are from tradition;
-    their sources are to be checked (LEDGER E05d-4). *Opponere*: to act as opponent in disputation; Luke
-    2:46, DR "sitting in the midst of the doctors, hearing them and asking them questions". Luke 22:27,
-    DR "I am in the midst of you, as he that serveth"; John 19:18, DR "and Jesus in the midst".
-    *Stetit in medio* is John 20:19 (and 26), not the last chapter. Matt. 18:20, paraphrased; DR "there
-    am I in the midst of them". *Abbas*: the father of the community (cf. *abba*), who keeps the mean.
+[^15]: **S/C.** Luke 2:7 (Loserth): there the child is laid in a manger "because there was no room
+    for them in the inn". The inn "between two streets" and the two animals (not in Luke) are from
+    tradition; we have not traced their sources (LEDGER E05d-4). *Opponere*: to act as opponent in
+    disputation; Luke 2:46, DR "sitting in the midst of the doctors, hearing them and asking them
+    questions". Luke 22:27, DR "I am in the midst of you, as he that serveth"; John 19:18, DR "and
+    Jesus in the midst". *Stetit in medio* is John 20:19 (and 26), not the last chapter. Matt.
+    18:20, paraphrased; DR "there am I in the midst of them". *Abbas*: the father of the community
+    (cf. *abba*), who keeps the mean.
 
 ## Transcription notes
 

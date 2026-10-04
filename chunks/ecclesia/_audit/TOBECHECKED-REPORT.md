@@ -1,0 +1,79 @@
+# TOBECHECKED rewrite report
+
+- 01-c n11: skipped (false positive: "still to be purged" is doctrine, not pending)
+- 01-g n8: hedged (editor row, book/chapter unchecked)
+- 03-d n4: rewritten
+- 03-g n8: hedged (editor row, earlier citation not checked)
+- 03-g n9: rewritten
+- 04-a n3: rewritten
+- 04-a n8: rewritten
+- 05-a n1: hedged (editor row, dedication not checked)
+- 05-a n10: hedged (editor row, Averroes locus not checked)
+- 05-b n3: hedged (editor row, ascription not checked)
+- 05-c n5: hedged (editor row, poem unidentified)
+- 05-c n14: rewritten
+- 05-c n16: rewritten
+- 05-d n15: rewritten
+- 06-a n6: hedged (no ledger row; limit stated)
+- 06-b n3: rewritten
+- 06-b n10: rewritten
+- 06-b n12: rewritten
+- 06-c n3: rewritten
+- 06-c n11: skipped (false positive: "still to be cleansed" is doctrine)
+- 06-d n3: rewritten
+- 06-e n1: rewritten
+- 06-e n4: rewritten
+- 06-e n8: rewritten
+- 06-e n9: rewritten
+- 06-f n4: rewritten
+- 06-g n6: hedged (editor row, not local)
+- 08-a n2: rewritten
+- 08-c n2: hedged (editor row, article not checked)
+- 08-c n4: rewritten
+- 08-c n9: hedged (ledger how too thin (PL 36:85 only))
+- 08-c n13: hedged (ledger how thin ("as E07d-3"); stated as confirmed)
+- 08-d n17: rewritten
+- 08-e n8: hedged (ledger gives locus only; wording comparison stated as not done)
+- 08-f n16: rewritten
+- 09-a n18: rewritten
+- 09-b n5: rewritten
+- 09-e n9: hedged (gloss not checked)
+- 09-e n12: rewritten
+- 10-c n2: hedged (editor row, Rosarium not available)
+- 10-c n3: rewritten
+- 10-d n5: rewritten
+- 10-f n9: rewritten
+- 11-a n12: hedged (no ledger row; limit stated)
+- 11-c n1: rewritten
+- 11-c n7: rewritten
+- 11-c n11: hedged (editor row, Code not local)
+- 11-c n14: rewritten
+- 12-b n10: rewritten
+- 12-b n12: hedged (editor row, passage not checked)
+- 12-c n12: rewritten
+- 12-e n1: skipped (false positive: "unchecked" translates Latin *non compresse*)
+- 13-a n13: rewritten
+- 13-b n3: rewritten
+- 13-c n8: hedged (editor row, conjecture kept)
+- 13-f n15: rewritten
+- 14-a n8: rewritten
+- 14-d n16: rewritten
+- 14-h n3: hedged (ledger how thin ("= E14g-1"); stated as confirmed)
+- 15-d n7: rewritten
+- 15-h n10: rewritten
+- 16-c n6: rewritten
+- 16-d n10: rewritten
+- 16-e n2: rewritten
+- 17-c n1: rewritten
+- 17-e n12: rewritten
+- 18-b n6: hedged (editor rows (Loserth references))
+- 18-c n3: rewritten
+- 22-b n12: rewritten
+- 22-f n10: rewritten
+- 23-a n7: rewritten
+- 23-f n7: skipped (false positive: "still to be purged" is doctrine)
+- 23-l n10: skipped (false positive: "remains to be purged" is doctrine)
+
+Counts: 48 rewritten, 20 hedged, 5 skipped (total 73)
+
+Also repaired: 06-c n3, 06-e n9, 14-d n16 carried stray edit-instruction text in the note body; cleaned.

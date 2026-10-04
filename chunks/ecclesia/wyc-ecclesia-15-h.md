@@ -52,7 +52,7 @@ But blessed be the [bridegroom]{g:sponsus} of the church, who killed Gregory XI 
 [^7]: **R.** *De necessitate salutis* echoes Boniface VIII, *Unam sanctam* (*Extrav. comm.* 1.8.1, form ours; Friedberg II, 1246), whose last sentence makes subjection to the Roman pontiff *omnino … de necessitate salutis* (LEDGER E15h-1).
 [^8]: **C.** *Persone ecclesie extere*: *extere* is taken as "foreign", the churches abroad from Rome. *Exterriti sunt pauci simplices dicere veritatem*: *dicere* read as the infinitive of what they are frightened from; alternatively "few simple men, terrified, tell the truth".
 [^9]: **R.** Gregory XI died on 27 March 1378; Urban VI's breach with the cardinals followed, and the Schism.
-[^10]: **S.** The number eleven as "transgressing" the ten of the decalogue, after Augustine, *De civitate Dei* 15.20: to be checked (LEDGER E15h-3). The barb is on Gregory XI.
+[^10]: **S.** The number eleven as "transgressing" the ten of the decalogue, after Augustine, *De civitate Dei* 15.20 (LEDGER E15h-3). The barb is on Gregory XI.
 [^11]: **S.** Ps. 82:13 (DR "Let us possess the sanctuary of God for an inheritance"), expanded by *civilitate et gladio* and *Christi patrimonium*.
 [^12]: **S.** Gal. 6:14 (DR "the world is crucified to me, and I to the world").
 [^13]: **T.** At 359.2 B reads *suscepcio* for *suspensio*: "the acceptance of the plundering of goods with joy", after Heb. 10:34 (DR "took with joy the being stripped of your own goods"). The print construes and is translated.

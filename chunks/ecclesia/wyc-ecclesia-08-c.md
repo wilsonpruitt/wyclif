@@ -42,11 +42,11 @@ From which it is clear that to save the whole universal church no wise man would
 
 [^1]: **S/C.** Augustine, *Enarr. in Ps.* 5 (Loserth, "ut supra", 164.2; LEDGER E08b-2); cf. 08-b, n. 10. *Originale*: the Father's own work, as against a florilegium or a citation. *Indoles*: native quality, the promise of growth, as the margin gloss below explains; rendered "promise" throughout.
 
-[^2]: **S.** Comestor's heading: Loserth reports that in Comestor one reads *de dolo*, not *de indole* (08-b, n. 12; LEDGER E08b-4). Thomas Aquinas, *Summa theologiae* II-II q. 110 (Loserth: Opp., Venice 1774, tom. IV; LEDGER E08c-1); the article, and whether Thomas reads *indole*, are to be checked.
+[^2]: **S.** Comestor's heading: Loserth reports that in Comestor one reads *de dolo*, not *de indole* (08-b, n. 12; LEDGER E08b-4). Thomas Aquinas, *Summa theologiae* II-II q. 110 (Loserth: Opp., Venice 1774, tom. IV; LEDGER E08c-1); the article, and whether Thomas reads *indole*, are not independently checked.
 
 [^3]: **T/C.** B lacks *nunc — laudantur* (164.8–9). *Militat in oppositum pervertentis*: tells against the one who perverted it, since even the perverted text denies that they are praised "in the thing".
 
-[^4]: **S.** The margin gloss in Wyclif's copy of Augustine is not identified; to be checked (LEDGER E08c-2). *Profectus*: progress, growth. Side-note 164.21.
+[^4]: **S.** The margin gloss in Wyclif's copy of Augustine is not identified; not traced (LEDGER E08c-2). *Profectus*: progress, growth. Side-note 164.21.
 
 [^5]: **S/R.** Gregory: the words "necessary" and "happy" of Adam's sin are the Easter *Exsultet*, *O certe necessarium Ade peccatum … O felix culpa* (Sarum, Legg p. 117), which Wyclif regularly ascribes to Gregory (so *De civili dominio* III, *De dominio divino*); it is not in the Gregorian sacramentary as printed (PL 78) (LEDGER E08c-3). Augustine's "expedient": *De civ. Dei* XIV.13 says *utile* (PL 41:422, *superbis esse utile cadere*); *expediens* is Wyclif's word (LEDGER E08c-4). *De civ. Dei* XIV.13 (Loserth: Opp. VII, p. 366 A; LEDGER E08c-5). A margin *Nota Augustinum, quod utile est in casu peccare* (164.30).
 
@@ -56,7 +56,7 @@ From which it is clear that to save the whole universal church no wise man would
 
 [^8]: **G/C.** *Orator ecclesie* (also 166.4): here the church's advocate or spokesman, who sues for her privileges, as Loserth's side-note has it; GLOSSARY *oratores*, "bedesmen", does not fit this sense, and the term is left untagged. *De quanto … ut sic*: in so far as …, to that extent.
 
-[^9]: **S.** A margin *Augustinus* (166.6). Augustine, *Enarr. in Ps.* 5 (Loserth 166.7; LEDGER E08b-2). Loserth gives Augustine's words as *Si enim hoc dicitur quod est, verum dicitur; si autem hoc dicitur quod non est, mendacium est*; Wyclif's "and so one draws near to him who is" and "and one withdraws from the truth" are not in Loserth's quotation; the full source wording is to be checked. Ps. 5:7 DR; Wis. 1:11 DR "the mouth that belieth, killeth the soul" (Loserth 166.16); Exod. 20:16 DR.
+[^9]: **S.** A margin *Augustinus* (166.6). Augustine, *Enarr. in Ps.* 5 (Loserth 166.7; LEDGER E08b-2). Loserth gives Augustine's words as *Si enim hoc dicitur quod est, verum dicitur; si autem hoc dicitur quod non est, mendacium est*; Wyclif's "and so one draws near to him who is" and "and one withdraws from the truth" are not in Loserth's quotation; the full source wording is not independently checked. Ps. 5:7 DR; Wis. 1:11 DR "the mouth that belieth, killeth the soul" (Loserth 166.16); Exod. 20:16 DR.
 
 [^10]: **T.** B *ex natura lumine* (166.23). B *convinceret*; Loserth's apparatus judges *convincerentur*, "would they not be convinced", the better reading (166.23), but he prints *convincerent*, which is translated, "establish". Side-note 166.20.
 
@@ -64,7 +64,7 @@ From which it is clear that to save the whole universal church no wise man would
 
 [^12]: **S.** Phil. 2:9 DR "a name which is above all names". Side-note 167.9.
 
-[^13]: **T/S.** A₁ *Sed ulterius* for *Sed tercio* (167.18); the print is translated. "Thirdly": the third of the suppositions announced at 158.1 (08-a). A margin *Quid est privilegium?* (167.19). The definition recalls the etymology of *privilegium* as a private law (Isidore, *Etym.* V.18, taken into Gratian, *Decretum* D.3 c.3); to be checked (LEDGER E08c-6).
+[^13]: **T/S.** A₁ *Sed ulterius* for *Sed tercio* (167.18); the print is translated. "Thirdly": the third of the suppositions announced at 158.1 (08-a). A margin *Quid est privilegium?* (167.19). The definition recalls the etymology of *privilegium* as a private law (Isidore, *Etym.* V.18, taken into Gratian, *Decretum* D.3 c.3; LEDGER E08c-6).
 
 [^14]: **T/R/G.** A margin *Omnis lex humanitus adinventa utilis est privilegium* (167.22). A₁ *iuriste* for *legiste* (167.25). *Ius* here is law, a body of law, not a right (GLOSSARY).
 

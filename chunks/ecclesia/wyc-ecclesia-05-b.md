@@ -182,12 +182,12 @@ the praise of the church.[^12]
     the beginning of the church (*ecclesia ab Abel*) is a commonplace: Gregory, *Hom. in Ev.* 19.1, *ab Abel justo usque ad ultimum electum* (PL 76:1154B; cited by Wyclif at 02-b); Augustine, *Enarr. in Ps.* 142.3, *initium habet ab ipso Abel* (PL 37:1846). Wyclif names no source here (LEDGER E05b-1).
 
 [^3]: **S/T.** The Dedication sequence *Rex Salomon fecit templum* (Loserth: Daniel, *Thesaurus
-    hymnologicus* V, p. 106) (LEDGER E05b-2); its ascription (Adam of St Victor?) is from memory and to
-    be checked (same row). *Cuius* (97.6) is Loserth's: the MSS *Quorum*, as the Angers missal in
-    Daniel; *Cuius* as Wyclif quotes the stanza in his *Sermones mixti* (sermon *Propter fratres meos et
-    proximos*, Ps. 121) and in the second part of the gospel sermons (*Egrediente Jesu de templo*, Mark
-    13) (Loserth). *Ymma*: *ima*; *summâ* (97.10) carries a circumflex on the plate. The scaffold
-    divides the stanza into ¶2–9 by its printed lines.
+    hymnologicus* V, p. 106) (LEDGER E05b-2); its ascription (Adam of St Victor?) is not
+    independently checked (same row). *Cuius* (97.6) is Loserth's: the MSS *Quorum*, as the Angers
+    missal in Daniel; *Cuius* as Wyclif quotes the stanza in his *Sermones mixti* (sermon *Propter
+    fratres meos et proximos*, Ps. 121) and in the second part of the gospel sermons (*Egrediente
+    Jesu de templo*, Mark 13) (Loserth). *Ymma*: *ima*; *summâ* (97.10) carries a circumflex on the
+    plate. The scaffold divides the stanza into ¶2–9 by its printed lines.
 
 [^4]: **S/T/C.** *Quem* (97.15): so the MSS (Loserth *sic*); it construes only as drawn to *numerum*
     ("the number of such things, which …"). Ps. 146:5, DR "of his wisdom there is no number", alluded

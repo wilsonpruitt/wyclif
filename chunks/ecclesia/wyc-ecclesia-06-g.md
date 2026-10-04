@@ -63,7 +63,7 @@ Hence I do not believe that anyone can falsify this foundation, for without doub
 
 [^5]: **T/R/C.** A margin *VII. obieccio* (138.9); B margin, another hand, *Gracia predestinacionis non potest perdi. Stat cum mortali* (138.12). At 138.13 B reads *ipsa non* and A₁ *ipsum*; Loserth prefers A's *ipsa* (the grace). A and B *iustificato* for Loserth's *iustificacio* (138.16); the print is translated. *Accidens absolutum*: an accident that is a thing in its own right, not a relation. The three marvels are answered at 139.17, 139.20 ff. and 140.22 ff.
 
-[^6]: **T/S.** A margin *Responsio, utrum predestinacio stat in eodem cum mortali* (138.17). The manuscripts read *XXXII*; Loserth prints *XXIIIi* (an ordinal genitive) and refers to p. 79 above, naming the *doctor profundus* as Bradwardine (138.18): *De causa Dei* I, corollary to ch. 23 (Loserth's identification; the place is to be checked; LEDGER E06g-5).
+[^6]: **T/S.** A margin *Responsio, utrum predestinacio stat in eodem cum mortali* (138.17). The manuscripts read *XXXII*; Loserth prints *XXIIIi* (an ordinal genitive) and refers to p. 79 above, naming the *doctor profundus* as Bradwardine (138.18): *De causa Dei* I, corollary to ch. 23 (Loserth's identification; the place is not independently checked; LEDGER E06g-5).
 
 [^7]: **T/S/C.** A margin *De predestinacione* (138.24). Rom. 8:30 is cited, not quoted; Wyclif's list puts calling before predestination, where the verse has "whom he predestinated, them he also called" (DR). *Predestinacio passiva*: predestination as it is in the creature. *Incepit sicut incepit esse, quod iste est predestinatus*: we take *esse* with the *quod* clause, "began to be [true] that"; doubtful.
 

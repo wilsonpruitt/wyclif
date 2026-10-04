@@ -62,7 +62,7 @@ But fourthly it is argued that it follows from what has been said that there is 
 
 [^4]: **C/R.** Silvester and Caesar: Constantine's endowment of the church under Pope Silvester (as in 08-f). *Ad exonerandum eum*: to unburden Caesar of his wealth. *Secundum partes plus abiectas*: in the more menial parts of the service of the poor. Side-note 187.18.
 
-[^5]: **C/S.** *Reputet sibi omne tediosum … et fore gaudiosum … quod*: we take two complements: the clergy is to count ministering to the poor irksome, and to count it joyful that faithful laymen take over that burden. "Elsewhere": the place in Wyclif's works is to be checked (LEDGER E09b-4). Side-notes 187.29, 188.1.
+[^5]: **C/S.** *Reputet sibi omne tediosum … et fore gaudiosum … quod*: we take two complements: the clergy is to count ministering to the poor irksome, and to count it joyful that faithful laymen take over that burden. "Elsewhere": the place in Wyclif's works is not traced (LEDGER E09b-4). Side-notes 187.29, 188.1.
 
 [^6]: **S/T/C.** *Relinquendum primam caritatem*: Revelation 2:4, "thou hast left thy first charity". A and A₁ read *audivissent* (188.9), "they would have heard"; the print's singular is translated, with the clergy understood as subject ("it"). Matthew 20:22: Wyclif has *quod* for the Vulgate's *quid*, with the same sense. "Above": the request of the sons of Zebedee, 179 (08-f).
 

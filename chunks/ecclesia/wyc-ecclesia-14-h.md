@@ -42,7 +42,7 @@ And I believe that, if this charter were abandoned, they would not find another 
 
 [^2]: **C.** *Titulos … in suscipiendo ordines*: the canonical title (a benefice or assured living) required of a candidate for holy orders. *Ordo* in "neither order nor civil exercise of lordship" may be the sacrament or ordered society; the sentence turns on both.
 
-[^3]: **S.** Decretum D. 96 c. 14 *Constantinus*, the Donation (form ours; Loserth gives the canon by its incipit, noting that Wyclif's account is drawn from it "with some words changed"; the chapter number is to be checked, LEDGER E14h-2).
+[^3]: **S.** Decretum D. 96 c. 14 *Constantinus*, the Donation (form ours; Loserth gives the canon by its incipit, noting that Wyclif's account is drawn from it "with some words changed"; the chapter number is confirmed, LEDGER E14h-2).
 
 [^4]: **C.** *Sanccivit, dixit et consuluit quod ditavit …*: *quod* is taken as relative, "what he had enriched [him with]"; as a conjunction it would give "that he had enriched [him]". The sentence strings together the canon's verbs of grant.
 

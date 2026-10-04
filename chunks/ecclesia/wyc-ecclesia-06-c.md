@@ -102,12 +102,14 @@ church.[^14]
     "and". *Quadam proprietate*: by a certain propriety of name; the part of the church since the
     incarnation is "christian" in a proper sense.
 
-[^3]: **S/C/R.** Heb. 1:1–2: God, who "spoke in times past to the fathers by the prophets, last of all,
-    in these days, hath spoken to us by his Son" (DR); hence *familiarius*. *Ut gigas*: Ps. 18:6, the
-    bridegroom "hath rejoiced as a giant to run the way" (DR). *Inducit*: "puts on" (of armour or
-    clothing), a present beside the perfect *superavit*, as printed. *Partem … incarceratam*: the
-    fathers held below until Christ's descent. *Dux et legifer noster*: after the Advent"; same note, "antiphon *O Emmanuel, rex et legifer noster* (to be checked; LEDGER E06c-3)." → "antiphon *O Emmanuel, rex et legifer noster* (Sarum Breviary, Procter–Wordsworth I, col. clvi), which some copies read *dux et legifer noster* (Thomas Cisterciensis, *In Cant.*, PL 206:616A) (LEDGER E06c-3).
-    antiphon *O Emmanuel, rex et legifer noster* (to be checked; LEDGER E06c-3).
+[^3]: **S/C/R.** Heb. 1:1–2: God, who "spoke in times past to the fathers by the prophets, last of
+    all, in these days, hath spoken to us by his Son" (DR); hence *familiarius*. *Ut gigas*: Ps.
+    18:6, the bridegroom "hath rejoiced as a giant to run the way" (DR). *Inducit*: "puts on" (of
+    armour or clothing), a present beside the perfect *superavit*, as printed. *Partem …
+    incarceratam*: the fathers held below until Christ's descent. *Dux et legifer noster*: after the
+    Advent antiphon *O Emmanuel, rex et legifer noster* (Sarum Breviary, Procter–Wordsworth I, col.
+    clvi), which some copies read *dux et legifer noster* (Thomas Cisterciensis, *In Cant.*, PL
+    206:616A) (LEDGER E06c-3).
 
 [^4]: **R/S/T.** B margin *Tota doctrina christiana stat in una oracione* (124.12). The petition *ut
     … terrena despicere et amare celestia* is the postcommunion of the second Sunday of Advent, *doceas nos terrena despicere et amare celestia* (Sarum, Legg p. 17; Gregorian Sacr., PL 78:192A; LEDGER
