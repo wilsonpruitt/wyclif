@@ -221,7 +221,9 @@ Fordham, this is a known residual gap; budget a numeral pass on the plates.
 - **Readers' glosses.** The editors print medieval marginal commentary in the apparatus (MS B's
   glosses in *De ecclesia*; a full *glossa* on *Off. reg.* 13). It is a real early-reception layer.
 - **Hus parallels.** Hus's *De ecclesia* against Wyclif's, passage by passage (Loserth's own
-  subject). The strongest reception layer the corpus has.
+  subject). The strongest reception layer the corpus has. **Parked as a companion work for after
+  Wyclif** (2026-10-04): source locator in `reference/hus/` (with *Super IV Sententiarum*, which
+  links to the Sentences work).
 - **Wycliffite Bible.** The Early/Later Version English of the verses Wyclif quotes, as an
   optional scripture layer (PD).
 - **FitzRalph, *De pauperie Salvatoris* I–IV**, printed in the De dominio divino volume. Context for
