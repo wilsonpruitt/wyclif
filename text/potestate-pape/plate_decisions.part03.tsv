@@ -1,0 +1,361 @@
+page	pos	rule	forms	reading	note
+210	87	R3	latinworks19wycl=peccatum | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=ps | tractatusdepotes00wycl=peccatum	peccatum	
+210	94	R4	latinworks19wycl=icui | johanniswyclift00mattgoog=iyi | johanniswyclift01mattgoog=iyi | tractatusdepotes00wycl=ym	feri	
+210	95	R3	latinworks19wycl=maris | johanniswyclift00mattgoog=mauis | johanniswyclift01mattgoog=fiifis | tractatusdepotes00wycl=maris	maris	
+211	2	THIN	latinworks19wycl=cibsconditas	absconditas	
+211	108	INS?	9	9	verse range "5, 6, 9:" ends the line above the box; the main scan lost the 9
+211	186	THIN	latinworks19wycl=siracio	si racio	one main token covers two printed words
+211	187	THIN	latinworks19wycl=11011	non	
+212	25	R4	latinworks19wycl=sno | johanniswyclift00mattgoog=stio | johanniswyclift01mattgoog=sno | tractatusdepotes00wycl=suo	suo	
+212	223	R4	latinworks19wycl=crysoad | johanniswyclift00mattgoog=crysostomi | johanniswyclift01mattgoog=crysostomi | tractatusdepotes00wycl=crysoad	Crysostomi	hyphenated Cryso-|stomi:; main token crysoad = Cryso + Ad with stomi lost, so the whole word here
+212	224	INS?	ad	Ad	printed "Ad" before talem; main glued it into crysoad
+212	230	NW	latinworks19wycl=animabus | johanniswyclift00mattgoog=auimabus | johanniswyclift01mattgoog=animabus | tractatusdepotes00wycl=animabus	animabus	
+213	12	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=facere | tractatusdepotes00wycl=facere	facere	the main "1" is a speck before facere; main misread facere as tacere at pos 13
+213	27	R4	latinworks19wycl=fiunt | johanniswyclift00mattgoog=iiunt | johanniswyclift01mattgoog=iiuyit | tractatusdepotes00wycl=iiunt	fiunt	
+213	40	R4	latinworks19wycl=suas | johanniswyclift00mattgoog=stias | johanniswyclift01mattgoog=snas | tractatusdepotes00wycl=stias	suas	
+213	83	NW	latinworks19wycl=legiorum | johanniswyclift00mattgoog=legiorum | johanniswyclift01mattgoog=legiorum | tractatusdepotes00wycl=legiorum	legiorum	
+214	178	R4	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec	Nec	
+216	1	THIN	latinworks19wycl=caputomnium	caput omnium	one main token covers two printed words
+216	2	THIN	latinworks19wycl=aliarnm	aliarum	
+216	4	THIN	latinworks19wycl=constittieret	constitueret	
+216	7	THIN	latinworks19wycl=paribtis	paribus	
+216	8	THIN	latinworks19wycl=capitalitas	capitalitas	
+216	9	THIN	latinworks19wycl=romane	Romane	hyphenated Ro-|mane; main token holds the whole word
+216	10	THIN	latinworks19wycl=ecctesie	ecclesie	
+216	19	R4	latinworks19wycl=seculari | johanniswyclift00mattgoog=secular | johanniswyclift01mattgoog=secular | tractatusdepotes00wycl=seculari	seculari	
+216	47	R6	latinworks19wycl=s | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=s	∅	"s" is the end of the English side-note "Christ's"
+216	53	THIN	latinworks19wycl=predestinobis | tractatusdepotes00wycl=predestinacio	predestinacio	hyphenated predesti-|nacio; main token predestinobis is the whole word garbled. NB main scan has lost the following lines (nacio cum gracia ... ) with no GAP flagged
+216	91	R4	latinworks19wycl=ouoniam | johanniswyclift00mattgoog=ouoniam | johanniswyclift01mattgoog=ottoniath | tractatusdepotes00wycl=quoniam	Quoniam	zoomed leaf: Q with tail
+216	129	R3	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non	non	
+217	40	R3	latinworks19wycl=non | johanniswyclift00mattgoog=lion | johanniswyclift01mattgoog=noh | tractatusdepotes00wycl=11011	non	
+217	51	R3	latinworks19wycl=non | johanniswyclift00mattgoog=non | tractatusdepotes00wycl=11011	non	
+217	73	R3	latinworks19wycl=ita | johanniswyclift00mattgoog=ista | johanniswyclift01mattgoog=ita | tractatusdepotes00wycl=ista	ista	
+217	158	R4	latinworks19wycl=tribtis | johanniswyclift00mattgoog=tribns | johanniswyclift01mattgoog=iribtts | tractatusdepotes00wycl=trihus	tribus	
+217	183	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu	in	
+218	10	R4	latinworks19wycl=heretici | johanniswyclift00mattgoog=heretic | johanniswyclift01mattgoog=heretic | tractatusdepotes00wycl=heretici	heretici	
+218	50	NW	latinworks19wycl=fienda | johanniswyclift00mattgoog=fienda | johanniswyclift01mattgoog=fienda | tractatusdepotes00wycl=fienda	fienda	
+218	58	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+218	155	R4	latinworks19wycl=et | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=∅	Et	
+218	193	R4	latinworks19wycl=apud | johanniswyclift00mattgoog=apnd | johanniswyclift01mattgoog=apitd | tractatusdepotes00wycl=apnd	apud	
+218	207	THIN	latinworks19wycl=antliiochiam	Anthiochiam	
+218	209	THIN	latinworks19wycl=petrus	Petrus	
+219	1	THIN	latinworks19wycl=uencrat	venerat	
+219	5	THIN	latinworks19wycl=ignacium | tractatusdepotes00wycl=ignacium	Ignacium	
+219	6	THIN	latinworks19wycl=episcopnm | tractatusdepotes00wycl=episcopum	episcopum	
+219	8	THIN	latinworks19wycl=nbi | tractatusdepotes00wycl=ubi	ubi	
+219	10	THIN	latinworks19wycl=christiauorum | tractatusdepotes00wycl=christianorum	christianorum	
+219	12	THIN	latinworks19wycl=exortnm | tractatusdepotes00wycl=exortum	exortum	
+219	13	THIN	latinworks19wycl=esty | tractatusdepotes00wycl=est	est	
+219	51	R4	latinworks19wycl=humititatis | johanniswyclift00mattgoog=humilttatis | johanniswyclift01mattgoog=hnmuttalts | tractatusdepotes00wycl=htimititatis	humilitatis	
+219	54	R4	latinworks19wycl=ht | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ht | tractatusdepotes00wycl=et	Et	
+219	145	R3	latinworks19wycl=ueri | johanniswyclift00mattgoog=uert | johanniswyclift01mattgoog=uert | tractatusdepotes00wycl=ueri	veri	
+219	215	THIN	latinworks19wycl=iii | tractatusdepotes00wycl=iii	III	
+220	40	R4	latinworks19wycl=iipi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ed	∅	box is on the English side-note (temple / adoring); no Latin word there
+221	148	INS?	loco	loco	print "stantem in loco sancto"; the main scan lost loco
+222	78	R4	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec	Nec	
+222	109	HEAD	CAPITULUM DECIMUM.	CAPITULUM DECIMUM.	
+222	125	R3	latinworks19wycl=ai | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the	ad	
+223	91	R4	latinworks19wycl=ut | johanniswyclift00mattgoog=i3ut | johanniswyclift01mattgoog=i3ut | tractatusdepotes00wycl=ut	ut	15 is the line number
+223	144	R4	latinworks19wycl=flores | johanniswyclift00mattgoog=for5 | johanniswyclift01mattgoog=for5 | tractatusdepotes00wycl=flores	Flores	
+224	2	THIN	latinworks19wycl=naturaies	naturales	
+224	27	R4	latinworks19wycl=peuitus | johanniswyclift00mattgoog=peniins | johanniswyclift01mattgoog=pcnitiis | tractatusdepotes00wycl=peuitus	penitus	
+224	58	NW	latinworks19wycl=obtiuere | johanniswyclift00mattgoog=obiinere | johanniswyclift01mattgoog=obtiuert | tractatusdepotes00wycl=obtiuere	obtinere	
+224	135	R4	latinworks19wycl=muilorum | johanniswyclift00mattgoog=muuorum | tractatusdepotes00wycl=muitorum	multorum	
+224	138	R4	latinworks19wycl=cierus | johanniswyclift00mattgoog=clems | tractatusdepotes00wycl=cierus	clerus	
+225	85	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+225	165	R3	latinworks19wycl=810 | johanniswyclift00mattgoog=8io | johanniswyclift01mattgoog=8 | tractatusdepotes00wycl=810	8—10	print "Thim. VI, 8—10,"; one token
+225	173	R4	latinworks19wycl=cupiditas | johanniswyclift00mattgoog=cttpiditas | johanniswyclift01mattgoog=cttpiditas | tractatusdepotes00wycl=cupiditas	cupiditas	
+225	184	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=iiiis | tractatusdepotes00wycl=kiis	hiis	
+226	10	R4	latinworks19wycl=annuali | johanniswyclift00mattgoog=annual | johanniswyclift01mattgoog=annual | tractatusdepotes00wycl=annuali	annuali	
+226	84	R4	latinworks19wycl=osr | johanniswyclift00mattgoog=nostn | johanniswyclift01mattgoog=nostn | tractatusdepotes00wycl=nostri	nostri	
+227	96	R4	latinworks19wycl=r | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i3subsidium | tractatusdepotes00wycl=∅	∅	15 is the line number
+227	200	R4	latinworks19wycl=souite | johanniswyclift00mattgoog=uite | johanniswyclift01mattgoog=uite | tractatusdepotes00wycl=souite	vite	30 is the line number
+228	113	R3	latinworks19wycl=obtinnit | johanniswyclift00mattgoog=obtinuiu | johanniswyclift01mattgoog=oniuuii | tractatusdepotes00wycl=obtinuit	obtinuit	
+228	173	NW	latinworks19wycl=putndum | johanniswyclift00mattgoog=putndum | johanniswyclift01mattgoog=putncluni | tractatusdepotes00wycl=putndum	putridum	
+228	183	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	illum	
+229	123	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deiis | tractatusdepotes00wycl=deus	Deus	
+231	71	R3	latinworks19wycl=literis | johanniswyclift00mattgoog=uteris | johanniswyclift01mattgoog=uteris | tractatusdepotes00wycl=literis	literis	
+231	84	NW	latinworks19wycl=beueficio | johanniswyclift00mattgoog=beneiicio | johanniswyclift01mattgoog=bateficio | tractatusdepotes00wycl=beneiicio	beneficio	
+232	12	NW	latinworks19wycl=msensibilis | johanniswyclift00mattgoog=msensibilis | johanniswyclift01mattgoog=insensibihs | tractatusdepotes00wycl=msensibilis	insensibilis	
+232	117	R3	latinworks19wycl=negare | johanniswyclift00mattgoog=negate | johanniswyclift01mattgoog=negate | tractatusdepotes00wycl=negare	negare	
+232	122	R4	latinworks19wycl=quarto | johanniswyclift00mattgoog=quauto | johanniswyclift01mattgoog=quauto | tractatusdepotes00wycl=quarto	quarto	
+232	131	R3	latinworks19wycl=111 | johanniswyclift00mattgoog=fit | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=ut	ut	
+232	141	R3	latinworks19wycl=iudices | johanniswyclift00mattgoog=indices | johanniswyclift01mattgoog=indices | tractatusdepotes00wycl=iudices	iudices	
+232	167	R5	latinworks19wycl=anthiochinam | johanniswyclift00mattgoog=anthiochinam | tractatusdepotes00wycl=anthiochinam	Anthiochinam	
+232	168	R4	latinworks19wycl=i | johanniswyclift00mattgoog=ierusolimitanam | tractatusdepotes00wycl=ierusolimitanam	Jerusolimitanam	box on the J; main split the word (i + erusolinutanam, the latter DEL)
+233	11	NW	latinworks19wycl=contratis | johanniswyclift00mattgoog=contratis | johanniswyclift01mattgoog=contratis | tractatusdepotes00wycl=contratis	contratis	
+233	16	R3	latinworks19wycl=no | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=011 | tractatusdepotes00wycl=non	non	main split no + u
+233	64	R4	latinworks19wycl=ouam | johanniswyclift00mattgoog=quam | johanniswyclift01mattgoog=quam | tractatusdepotes00wycl=ouam	Quam	
+233	74	R5	latinworks19wycl=cardinahbus | johanniswyclift00mattgoog=cardmahbus | tractatusdepotes00wycl=cardmahbus	cardinalibus	
+233	75	R4	latinworks19wycl=grreoforii | johanniswyclift00mattgoog=grregorii | tractatusdepotes00wycl=gregorn	Gregorii	
+233	129	R4	latinworks19wycl=primeua | johanniswyclift00mattgoog=primeua | johanniswyclift01mattgoog=soprimeua | tractatusdepotes00wycl=soprimeua	primeva	20 is the line number
+233	179	R4	latinworks19wycl=dcconstantinopolitana | johanniswyclift00mattgoog=tana | johanniswyclift01mattgoog=coustatiliuopoliiana | tractatusdepotes00wycl=constantinopoiitana	Constantinopolitana	hyphenated Constantinopoli-|tana; main token holds De + the whole word, De already stands at the preceding position
+233	201	R4	latinworks19wycl=equales | johanniswyclift00mattgoog=equates | johanniswyclift01mattgoog=equates | tractatusdepotes00wycl=equales	equales	
+234	2	THIN	latinworks19wycl=smt	sint	
+234	3	THIN	latinworks19wycl=preemmenter	preeminenter	
+234	7	R4	latinworks19wycl=mtelhguntur | johanniswyclift00mattgoog=iiitelliguntur | tractatusdepotes00wycl=lntelliguntur	intelliguntur	
+234	59	R3	latinworks19wycl=ex | johanniswyclift00mattgoog=radice | tractatusdepotes00wycl=ex	ex	
+234	60	R3	latinworks19wycl=sta | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=ista	ista	
+234	61	R3	latinworks19wycl=race | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=radice	radice	
+234	168	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	Illa	
+234	215	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+235	128	R4	latinworks19wycl=quas | johanniswyclift00mattgoog=aoquas | johanniswyclift01mattgoog=aoquas | tractatusdepotes00wycl=quas	quas	20 is the line number
+236	1	THIN	latinworks19wycl=mdulpenciis	indulgenciis	the bar after it is a folio mark
+236	4	THIN	latinworks19wycl=lpsi	ipsi	
+236	96	THIN	latinworks19wycl=in | tractatusdepotes00wycl=in	in	15 is the line number
+236	97	THIN	latinworks19wycl=quantumtalis | tractatusdepotes00wycl=quantumtalis	quantum talis	one main token covers two printed words
+236	206	R4	latinworks19wycl=kx | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=kx | tractatusdepotes00wycl=ex	Ex	
+236	227	INS?	i	∅	the inserted i is the folio bar before falsissimam
+237	4	R4	latinworks19wycl=sufnciens | johanniswyclift00mattgoog=sutnciens | tractatusdepotes00wycl=suinciens	sufficiens	
+237	10	NW	latinworks19wycl=preemmencia | johanniswyclift00mattgoog=preeminencia | johanniswyclift01mattgoog=preemmencia | tractatusdepotes00wycl=preemmencia	preeminencia	
+237	181	R4	latinworks19wycl=peccauerunt | johanniswyclift00mattgoog=peceauerunt | johanniswyclift01mattgoog=peccasouerunt | tractatusdepotes00wycl=peccasouerunt	peccaverunt	hyphenated pecca-|verunt; main token holds the whole word
+238	62	R4	latinworks19wycl=peccatum | johanniswyclift00mattgoog=peccaium | johanniswyclift01mattgoog=peccaium | tractatusdepotes00wycl=peccatuni	peccatum	
+238	64	R4	latinworks19wycl=habewius | johanniswyclift00mattgoog=habemits | johanniswyclift01mattgoog=habemns | tractatusdepotes00wycl=kabemus	habemus	
+238	75	R3	latinworks19wycl=ioh | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iob | tractatusdepotes00wycl=ioh	Joh	
+238	76	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	I	italic capital I (I. Joh. I, 8)
+238	92	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+238	98	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+238	116	NW	latinworks19wycl=recompense | johanniswyclift00mattgoog=recompense | johanniswyclift01mattgoog=recompense | tractatusdepotes00wycl=recompense	recompense	
+238	180	R3	latinworks19wycl=quia | johanniswyclift00mattgoog=quias | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=quis	qui	25 is the line number
+238	230	INS?	i	∅	the inserted i is the folio bar before est
+239	56	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	illum	
+241	134	R5	latinworks19wycl=iithym | johanniswyclift01mattgoog=iithym | tractatusdepotes00wycl=iithym	II Thym	one token covers two printed words (II. Thym.)
+241	135	R5	latinworks19wycl=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii	III	
+241	136	R4	latinworks19wycl=r | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=1	1	old-style arabic 1, x-height (III, 1, 2)
+242	1	NW	latinworks19wycl=itaqae | johanniswyclift00mattgoog=itaqae | johanniswyclift01mattgoog=itaqae | tractatusdepotes00wycl=itaqae	itaqae	misprint kept: zoomed leaf clearly reads itaqae
+242	32	R3	latinworks19wycl=e | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=ec	Sed	
+242	44	R3	latinworks19wycl=auerre | johanniswyclift00mattgoog=tre | johanniswyclift01mattgoog=auferre | tractatusdepotes00wycl=auerre	auferre	
+243	2	R5	latinworks19wycl=legistas | johanniswyclift01mattgoog=legistas | tractatusdepotes00wycl=legistas	legistas	
+243	123	R4	latinworks19wycl=faciat | johanniswyclift00mattgoog=facial | johanniswyclift01mattgoog=facial | tractatusdepotes00wycl=faciat	faciat	
+243	180	R4	latinworks19wycl=liii | johanniswyclift00mattgoog=liu | johanniswyclift01mattgoog=liu | tractatusdepotes00wycl=liii	LIII	
+244	80	R3	latinworks19wycl=nt | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ul | tractatusdepotes00wycl=ut	ut	
+245	8	R6	latinworks19wycl=elemosme | johanniswyclift00mattgoog=elemosme | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅	∅	elemosine already stands at pos 7 (the vote replaced the folio mark 222b there); this is a duplicate
+245	34	NW	latinworks19wycl=bin | johanniswyclift00mattgoog=bin | johanniswyclift01mattgoog=bin | tractatusdepotes00wycl=bin	in	5 is the line number
+245	41	R4	latinworks19wycl=quectimque | johanniswyclift00mattgoog=qnecnmqtte | johanniswyclift01mattgoog=cpiecumquc | tractatusdepotes00wycl=qnecnmquc	quecumque	hyphenated que-|cumque; main token holds the whole word
+245	44	R3	latinworks19wycl=facite | johanniswyclift00mattgoog=facile | johanniswyclift01mattgoog=facik | tractatusdepotes00wycl=facite	facite	
+246	65	R4	latinworks19wycl=ftiit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=fnii | tractatusdepotes00wycl=fttit	fuit	
+246	78	R3	latinworks19wycl=same | johanniswyclift00mattgoog=institutus | johanniswyclift01mattgoog=ii | tractatusdepotes00wycl=institutus	fuit	main "same" is the English side-note word; the print has fuit here (line opens "fuit institutus") and the main scan lost it; institutus follows at pos 79
+246	159	R3	latinworks19wycl=pontmcis | johanniswyclift00mattgoog=pontincis | johanniswyclift01mattgoog=pontificis | tractatusdepotes00wycl=pontificis	pontificis	
+247	28	NW	latinworks19wycl=lisfe | johanniswyclift00mattgoog=lige | johanniswyclift01mattgoog=lige | tractatusdepotes00wycl=lige	lige	
+247	43	NW	latinworks19wycl=lige | johanniswyclift00mattgoog=lige | johanniswyclift01mattgoog=lige | tractatusdepotes00wycl=lige	lige	
+247	53	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+247	153	NW	latinworks19wycl=legistarum | johanniswyclift00mattgoog=legistarum | johanniswyclift01mattgoog=legistarum | tractatusdepotes00wycl=legistarum	legistarum	
+248	36	R4	latinworks19wycl=preiates | johanniswyclift01mattgoog=gi | tractatusdepotes00wycl=stat	stat	main "preiates" is the side-note word prelates; the print line opens "stat in isto"
+248	37	R3	latinworks19wycl=in | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=in	in	
+248	38	R4	latinworks19wycl=1s0 | johanniswyclift01mattgoog=igq | tractatusdepotes00wycl=isto	isto	
+248	119	R3	latinworks19wycl=creiq | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=credo | tractatusdepotes00wycl=creo	credo	
+248	120	R3	latinworks19wycl=quoi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=quoci	quod	
+248	183	NW	latinworks19wycl=matica | johanniswyclift00mattgoog=matica | johanniswyclift01mattgoog=matica | tractatusdepotes00wycl=matica	matica	word split by the folio bar (scis | matica, 223b); this is the printed second part
+249	74	R3	latinworks19wycl=publice | johanniswyclift00mattgoog=publico | johanniswyclift01mattgoog=publico | tractatusdepotes00wycl=publice	publice	
+250	70	R3	latinworks19wycl=parum | johanniswyclift00mattgoog=parunt | johanniswyclift01mattgoog=pafuth | tractatusdepotes00wycl=parum	parum	
+250	107	R3	latinworks19wycl=hereticitm | johanniswyclift00mattgoog=hereticam | johanniswyclift01mattgoog=hereticum | tractatusdepotes00wycl=hereticum	hereticum	
+250	130	R3	latinworks19wycl=ulta | johanniswyclift00mattgoog=uua | johanniswyclift01mattgoog=uua | tractatusdepotes00wycl=ulla	ulla	
+251	90	R3	latinworks19wycl=sedi | johanniswyclift00mattgoog=sedii | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed	Sed	the box also takes in the side-note "We who"
+251	102	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+251	163	NW	latinworks19wycl=legistarum | johanniswyclift00mattgoog=legistarum | johanniswyclift01mattgoog=legistarum | tractatusdepotes00wycl=legistarum	legistarum	
+251	173	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+252	74	R3	latinworks19wycl=uomine | johanniswyclift00mattgoog=nomine | johanniswyclift01mattgoog=iiomiiu | tractatusdepotes00wycl=uomine	nomine	
+252	88	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+252	135	R4	latinworks19wycl=suis | johanniswyclift00mattgoog=stiis | johanniswyclift01mattgoog=snis | tractatusdepotes00wycl=stiis	suis	
+252	172	R4	latinworks19wycl=iangilur | johanniswyclift00mattgoog=taugitur | johanniswyclift01mattgoog=taugilur | tractatusdepotes00wycl=iangitur	tangitur	
+253	5	THIN	latinworks19wycl=etrestitutns	et restitutus	one main token covers two printed words
+253	8	THIN	latinworks19wycl=iferum | tractatusdepotes00wycl=itemm	iterum	
+253	10	THIN	latinworks19wycl=eiectus | tractatusdepotes00wycl=eiecius	eiectus	
+253	15	THIN	latinworks19wycl=iohauui | tractatusdepotes00wycl=iohanni	Johanni	
+253	16	THIN	latinworks19wycl=archipreshtero | tractatusdepotes00wycl=archipresbitero	archipresbitero	
+253	19	R5	latinworks19wycl=latinam | johanniswyclift00mattgoog=latinam | tractatusdepotes00wycl=latinam	Latinam	
+253	34	R4	latinworks19wycl=montes | johanniswyclift00mattgoog=monies | johanniswyclift01mattgoog=monies | tractatusdepotes00wycl=montes	montes	
+253	35	R4	latinworks19wycl=translatus | johanniswyclift00mattgoog=iranslatus | johanniswyclift01mattgoog=iranslatus | tractatusdepotes00wycl=translafns	translatus	
+253	39	R3	latinworks19wycl=uno | johanniswyclift00mattgoog=nuo | johanniswyclift01mattgoog=tino | tractatusdepotes00wycl=uno	uno	
+253	207	R5	latinworks19wycl=x | johanniswyclift00mattgoog=x | tractatusdepotes00wycl=x	X	
+253	212	R4	latinworks19wycl=belzebub | johanniswyclift00mattgoog=behebub | johanniswyclift01mattgoog=betzebub | tractatusdepotes00wycl=beizehuh	Belzebub	
+254	12	INS?	ex	ex	print "ex quo patenter"; the main scan lost ex
+254	199	INS?	dicunt	dicunt	print "theologi dicunt 30 primo"; the main scan lost dicunt (30 is the line number)
+255	35	R3	latinworks19wycl=preter | johanniswyclift00mattgoog=preier | johanniswyclift01mattgoog=prefer | tractatusdepotes00wycl=pueter	preter	
+255	97	R4	latinworks19wycl=oeundem | johanniswyclift00mattgoog=eundem | johanniswyclift01mattgoog=eundem | tractatusdepotes00wycl=oeundem	eundem	15 is the line number
+256	36	R3	latinworks19wycl=non | johanniswyclift00mattgoog=uon | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=noui	non	
+256	47	THIN	latinworks19wycl=fidei | tractatusdepotes00wycl=fidei	fidei	
+256	48	THIN	latinworks19wycl=deicitur | tractatusdepotes00wycl=deicitur	deicitur	
+256	49	THIN	latinworks19wycl=fixe | tractatusdepotes00wycl=fixe	fixe	
+256	50	THIN	latinworks19wycl=innititur | tractatusdepotes00wycl=innititur	innititur	
+256	100	R3	latinworks19wycl=suo | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=suo	suo	
+256	109	R3	latinworks19wycl=moluque | johanniswyclift01mattgoog=moluque | tractatusdepotes00wycl=motuque	motuque	
+256	116	R4	latinworks19wycl=ordinat | johanniswyclift00mattgoog=ordinal | johanniswyclift01mattgoog=ordinal | tractatusdepotes00wycl=ordinat	ordinat	
+256	174	R4	latinworks19wycl=administratorios | johanniswyclift00mattgoog=adminislratorios | johanniswyclift01mattgoog=adminislratorios | tractatusdepotes00wycl=administratorios	administratorios	
+256	194	THIN	latinworks19wycl=redemptoucm | tractatusdepotes00wycl=redemptorem	redemptorem	
+256	196	THIN	latinworks19wycl=ceiestem | tractatusdepotes00wycl=celestem	celestem	hyphenated ce-|lestem; main token holds the whole word
+256	198	THIN	latinworks19wycl=spiritibtis | tractatusdepotes00wycl=spiritibus	spiritibus	
+257	0	THIN	latinworks19wycl=adunatant	adunatam	
+257	35	THIN	latinworks19wycl=feruentissimus | tractatusdepotes00wycl=feruentissimus	ferventissimus	
+257	36	THIN	latinworks19wycl=anwr	amor	
+257	37	THIN	latinworks19wycl=subiectissi111	subiectissi	hyphenated subiectissi-|mus; main token subiectissi111 holds the first half plus the m, the rest (us) is at pos 38
+257	38	THIN	latinworks19wycl=us	mus	second half of subiectissi-|mus; main split it as ...111 + us
+257	39	THIN	latinworks19wycl=timor | tractatusdepotes00wycl=timor	timor	
+257	42	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis	hiis	
+258	51	NW	latinworks19wycl=secnlo | johanniswyclift00mattgoog=secnlo | johanniswyclift01mattgoog=secnlo | tractatusdepotes00wycl=seculo	seculo	
+258	62	R3	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non	non	
+258	135	R4	latinworks19wycl=ns | johanniswyclift01mattgoog=iiii | tractatusdepotes00wycl=n	nisi	
+258	136	R3	latinworks19wycl=creat | johanniswyclift01mattgoog=credat | tractatusdepotes00wycl=creat	credat	
+258	165	R3	latinworks19wycl=totum | johanniswyclift00mattgoog=to | johanniswyclift01mattgoog=lotum | tractatusdepotes00wycl=totum	totum	
+260	86	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	illum	
+261	33	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+261	83	R3	latinworks19wycl=irnam | johanniswyclift00mattgoog=inam | johanniswyclift01mattgoog=irnam | tractatusdepotes00wycl=nam	nam	15 is the line number
+262	104	R3	latinworks19wycl=secundi | johanniswyclift00mattgoog=secundi | johanniswyclift01mattgoog=sei5i | tractatusdepotes00wycl=sei	secundi	hyphenated se-|cundi; main token holds the whole word
+262	105	INS?	cundi	∅	second half of se-|cundi, which the main scan already holds whole at pos 104
+263	0	THIN	latinworks19wycl=m	in	
+263	3	THIN	latinworks19wycl=m	in	
+263	4	THIN	latinworks19wycl=matena	materia	
+263	5	THIN	latinworks19wycl=m	in	
+263	176	R4	latinworks19wycl=noster | johanniswyclift00mattgoog=nosier | johanniswyclift01mattgoog=nosier | tractatusdepotes00wycl=noster	noster	
+263	184	R4	latinworks19wycl=souniuersaliter | johanniswyclift00mattgoog=souniuersaliter | johanniswyclift01mattgoog=uniuersaliter | tractatusdepotes00wycl=uniuersaliter	universaliter	30 is the line number
+263	186	R4	latinworks19wycl=peccauerit | johanniswyclift00mattgoog=peccaueril | johanniswyclift01mattgoog=peccaueril | tractatusdepotes00wycl=peccauerit	peccaverit	
+263	188	R3	latinworks19wycl=te | johanniswyclift00mattgoog=le | johanniswyclift01mattgoog=le | tractatusdepotes00wycl=te	te	
+263	189	R4	latinworks19wycl=frater | johanniswyclift00mattgoog=fraler | johanniswyclift01mattgoog=fraler | tractatusdepotes00wycl=frater	frater	
+264	129	R5	latinworks19wycl=marcellinum | johanniswyclift01mattgoog=marcellinnm | tractatusdepotes00wycl=marcellinum	Marcellinum	
+264	130	R3	latinworks19wycl=papam | johanniswyclift01mattgoog=papant | tractatusdepotes00wycl=papam	papam	
+264	141	R3	latinworks19wycl=uostro | johanniswyclift00mattgoog=nostro | johanniswyclift01mattgoog=nostra | tractatusdepotes00wycl=nostro	nostro	
+264	153	R5	latinworks19wycl=legemdei | johanniswyclift00mattgoog=legemdei | tractatusdepotes00wycl=legemdei	legem Dei	one token covers two printed words
+264	154	NW	latinworks19wycl=quain | johanniswyclift00mattgoog=quain | johanniswyclift01mattgoog=quain | tractatusdepotes00wycl=quain	qua in	one token covers two printed words (qua in archiepiscopo)
+265	41	R5	latinworks19wycl=marcellmi | johanniswyclift01mattgoog=marcellini | tractatusdepotes00wycl=marcellini	Marcellini	
+265	114	R3	latinworks19wycl=suam | johanniswyclift00mattgoog=siiam | johanniswyclift01mattgoog=sitam | tractatusdepotes00wycl=suam	suam	
+266	3	R5	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii	VIII	p. 266 strip from tractatusdepotes00wycl:327
+266	74	R5	latinworks19wycl=preponderancie | johanniswyclift00mattgoog=preponderancie | johanniswyclift01mattgoog=preponderancie	preponderancie	
+266	150	R5	latinworks19wycl=dan | johanniswyclift00mattgoog=dan | johanniswyclift01mattgoog=dan	Dan	
+266	178	R3	latinworks19wycl=materie | johanniswyclift00mattgoog=materia | johanniswyclift01mattgoog=materie	materie	
+266	189	R5	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis	hiis	
+266	194	THIN	latinworks19wycl=sanctam | johanniswyclift01mattgoog=sanclam	sanctam	p. 266 strip from tractatusdepotes00wycl:327
+266	199	THIN	latinworks19wycl=atttore	autore	p. 266 strip from tractatusdepotes00wycl:327
+267	1	THIN	latinworks19wycl=mafrem	matrem	
+267	17	R4	latinworks19wycl=ceiero | johanniswyclift00mattgoog=ceiero | tractatusdepotes00wycl=cetero	cetero	
+267	28	R4	latinworks19wycl=bassertorem | johanniswyclift00mattgoog=bassertorem | tractatusdepotes00wycl=assertorem	assertorem	5 is the line number (main b)
+267	40	R5	latinworks19wycl=paranimfum | johanniswyclift00mattgoog=paranimfum | tractatusdepotes00wycl=paranimfum	paranimfum	
+267	42	R5	latinworks19wycl=ordinaiorem | johanniswyclift00mattgoog=ordinatorem | tractatusdepotes00wycl=ordinatorem	ordinatorem	
+267	53	THIN	latinworks19wycl=tuiorem | johanniswyclift00mattgoog=tutor	tutorem	10 is the line number
+267	54	THIN	latinworks19wycl=puri | johanniswyclift00mattgoog=em	pupillorum	main split the one printed word pupillorum into puri + rum; the whole word goes here
+267	55	THIN	latinworks19wycl=rum | johanniswyclift00mattgoog=pupillorum	∅	second piece of pupillorum, which main split (puri + rum); the whole word is at pos 54
+267	64	R3	latinworks19wycl=nliorem | johanniswyclift00mattgoog=ultor | tractatusdepotes00wycl=ultorem	ultorem	hyphenated ul-|torem; main token holds the whole word
+267	81	R3	latinworks19wycl=terretorbis | johanniswyclift00mattgoog=ter | tractatusdepotes00wycl=terre	terre orbis	one token covers two printed words (terre, orbis)
+267	88	THIN	latinworks19wycl=do	Domini	main split Domini into do + miui; the whole word goes here
+267	89	THIN	latinworks19wycl=miui	∅	second piece of Domini (main do + miui); the whole word is at pos 88
+267	90	THIN	latinworks19wycl=posiremc	postremo	
+267	117	R5	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | tractatusdepotes00wycl=iii	III	
+267	134	R3	latinworks19wycl=e | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et	et	
+267	136	R3	latinworks19wycl=infimus | johanniswyclift00mattgoog=iniimus | tractatusdepotes00wycl=infimus	infimus	
+267	140	R3	latinworks19wycl=uia | johanniswyclift00mattgoog=uita | tractatusdepotes00wycl=uita	vita	
+267	144	R3	latinworks19wycl=ei | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et	et	
+267	149	R3	latinworks19wycl=e | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et	et	
+267	167	R5	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | tractatusdepotes00wycl=iii	III	
+267	170	R3	latinworks19wycl=modifica | johanniswyclift00mattgoog=modificat | tractatusdepotes00wycl=modificat	modificat	
+267	190	THIN	latinworks19wycl=pc	potenciam	blurred line: main split potenciam into pc + er + iara (pos 190-192); the whole word goes at the first piece
+267	191	THIN	latinworks19wycl=er	∅	piece of potenciam (main pc + er + iara); whole word at pos 190
+267	192	THIN	latinworks19wycl=iara	∅	piece of potenciam (box ciam.); whole word at pos 190
+267	193	THIN	latinworks19wycl=rbebant	Occumbebant	hyphenated Occum-|bebant; main token rbebant holds the m- and bebant, Occu is lost in the garbage of pos 192; whole word here
+267	195	THIN	latinworks19wycl=fsriissimi	fortissimi	
+267	196	THIN	latinworks19wycl=beiiai	bellatores	main split bellatores into beiiai + res
+267	197	THIN	latinworks19wycl=res	∅	piece of bellatores (main beiiai + res); whole word at pos 196
+267	198	THIN	latinworks19wycl=e	et	
+267	199	THIN	latinworks19wycl=5	non	print "et non succum-|bebant": the main scan lost non and split succumbebant into 5 + u + bebant (pos 199-201); words reassigned in print order
+267	200	THIN	latinworks19wycl=u	succumbebant	hyphenated succum-|bebant; see pos 199 (non) and 201 (∅)
+267	201	THIN	latinworks19wycl=bebant	∅	bebant, the second half of succum-|bebant, given whole at pos 200
+267	206	R4	latinworks19wycl=confortatus | johanniswyclift00mattgoog=con | tractatusdepotes00wycl=confortatus	confortatus	hyphenated con-|fortatus; main token holds the whole word
+267	210	THIN	latinworks19wycl=comstumh	constituti	
+268	10	THIN	latinworks19wycl=tn | tractatusdepotes00wycl=tu	tu	
+268	12	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | tractatusdepotes00wycl=et	et	
+268	33	R4	latinworks19wycl=quodamtemts | johanniswyclift00mattgoog=quodamienus | johanniswyclift01mattgoog=qnodaiuiettus | tractatusdepotes00wycl=quodamtenus	quodamtenus	
+268	37	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	illum	
+268	40	R3	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=es | tractatusdepotes00wycl=est	est	
+268	56	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus	Deus	
+268	67	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus	Meus	
+268	94	R3	latinworks19wycl=iure | johanniswyclift00mattgoog=lure | johanniswyclift01mattgoog=lure | tractatusdepotes00wycl=iure	iure	
+268	110	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	et	
+268	159	R3	latinworks19wycl=eciam | johanniswyclift00mattgoog=edam | johanniswyclift01mattgoog=ecianiii | tractatusdepotes00wycl=eciani	eciam	
+268	176	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ttt | tractatusdepotes00wycl=ut	ut	
+268	216	R4	latinworks19wycl=x | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=irx	Ex	
+269	50	R3	latinworks19wycl=christianus | johanniswyclift00mattgoog=christianus | johanniswyclift01mattgoog=chnstianus | tractatusdepotes00wycl=chnstianus	christianus	hyphenated chri-|stianus; main token holds the whole word
+270	9	R5	latinworks19wycl=patriarchatu | johanniswyclift00mattgoog=patriarchatu | tractatusdepotes00wycl=patriarchatu	patriarchatu	
+270	10	R5	latinworks19wycl=abraham | johanniswyclift00mattgoog=abraham | tractatusdepotes00wycl=abraham	Abraham	
+270	20	R5	latinworks19wycl=petrus | johanniswyclift00mattgoog=peirus | tractatusdepotes00wycl=petrus	Petrus	
+270	21	R3	latinworks19wycl=unctione | johanniswyclift00mattgoog=unccicnte | tractatusdepotes00wycl=unccione	unccione	
+270	31	R3	latinworks19wycl=et | johanniswyclift00mattgoog=eto | tractatusdepotes00wycl=et	et	5 is the line number
+270	135	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the	∅	"the" is the English side-note
+270	145	R3	latinworks19wycl=sacerdotah | johanniswyclift00mattgoog=sacerdotali | johanniswyclift01mattgoog=sacerdo | tractatusdepotes00wycl=sacerdotah	sacerdotali	
+270	155	R4	latinworks19wycl=mmtantur | johanniswyclift00mattgoog=mnitantur | johanniswyclift01mattgoog=innitantur | tractatusdepotes00wycl=mmtantur	innitantur	
+271	144	NW	latinworks19wycl=nommis | johanniswyclift00mattgoog=nommis | johanniswyclift01mattgoog=nominis | tractatusdepotes00wycl=nommis	nominis	
+272	141	NW	latinworks19wycl=ritus | johanniswyclift00mattgoog=ntus | johanniswyclift01mattgoog=ntus | tractatusdepotes00wycl=ntus	ritus	
+272	180	R4	latinworks19wycl=racionaliter | johanniswyclift00mattgoog=raciona25 | johanniswyclift01mattgoog=racionaliter | tractatusdepotes00wycl=raciona25	racionaliter	hyphenated raciona-|liter; main token holds the whole word
+272	181	INS?	liter	∅	second half of raciona-|liter, which the main scan already holds whole at pos 180
+273	79	R4	latinworks19wycl=lam | johanniswyclift00mattgoog=iam | johanniswyclift01mattgoog=tarn | tractatusdepotes00wycl=lam	iam	
+273	179	THIN	latinworks19wycl=cessat	cessat	
+273	180	THIN	latinworks19wycl=omnis	omnis	
+273	181	THIN	latinworks19wycl=tahs	talis	
+273	182	THIN	latinworks19wycl=ngura	figura	
+273	199	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	illum	
+274	55	NW	latinworks19wycl=singulanter | johanniswyclift00mattgoog=singulariter | johanniswyclift01mattgoog=singulanter | tractatusdepotes00wycl=singulanter	singulariter	
+274	65	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+275	24	R4	latinworks19wycl=utdettir | johanniswyclift00mattgoog=uidelur | johanniswyclift01mattgoog=uidelitr | tractatusdepotes00wycl=utdetur	videtur	
+275	30	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et	et	
+275	43	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=beneiicendi | tractatusdepotes00wycl=et	et	
+275	59	R4	latinworks19wycl=osua | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=osua | tractatusdepotes00wycl=sua	sua	10 is the line number
+275	69	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et	et	
+275	104	R4	latinworks19wycl=equales | johanniswyclift00mattgoog=equates | johanniswyclift01mattgoog=equates | tractatusdepotes00wycl=equales	equales	
+276	77	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	illum	
+276	103	R3	latinworks19wycl=prei | johanniswyclift00mattgoog=prei | johanniswyclift01mattgoog=presumpcione | tractatusdepotes00wycl=presumpcione	pre	hyphenated pre-|sumpcione; main token holds the first half (the i is the line number 15); sumpcione follows at pos 104
+276	213	THIN	latinworks19wycl=dionysii	∅	footnote block (28. St. Dionysii Areop. ...), not reading text
+276	214	THIN	latinworks19wycl=arcop	∅	footnote block, not reading text
+276	217	THIN	latinworks19wycl=hierarch	∅	footnote block, not reading text
+276	219	THIN	latinworks19wycl=lugd	∅	footnote block, not reading text
+278	10	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	
+278	106	R4	latinworks19wycl=foris | johanniswyclift00mattgoog=forts | johanniswyclift01mattgoog=forts | tractatusdepotes00wycl=foris	foris	
+278	127	R3	latinworks19wycl=uoui | johanniswyclift00mattgoog=noui | johanniswyclift01mattgoog=houi | tractatusdepotes00wycl=noui	novi	
+278	144	R3	latinworks19wycl=primo | johanniswyclift00mattgoog=prima | tractatusdepotes00wycl=primo	primo	
+279	1	THIN	latinworks19wycl=apokxix | tractatusdepotes00wycl=apokxix	Apok XIX	one token covers two printed words (Apok. XIX,)
+279	6	R3	latinworks19wycl=nt | johanniswyclift00mattgoog=tit | tractatusdepotes00wycl=ut	ut	
+279	9	R5	latinworks19wycl=bissino | johanniswyclift00mattgoog=bissino | tractatusdepotes00wycl=bissino	bissino	hyphenated bis-|sino; main token holds the whole word
+279	22	THIN	latinworks19wycl=mundiciamquam | tractatusdepotes00wycl=mundiciamquam	mundiciam quam	one token covers two printed words
+279	23	THIN	latinworks19wycl=exnatura | tractatusdepotes00wycl=exnatura	ex natura	one token covers two printed words
+279	24	THIN	latinworks19wycl=non | tractatusdepotes00wycl=non	non	
+279	31	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=sictit | johanniswyclift01mattgoog=stent | tractatusdepotes00wycl=sicut	sicut	
+279	60	R3	latinworks19wycl=oin | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=tiith | tractatusdepotes00wycl=1074	in	10 is the line number
+279	146	R4	latinworks19wycl=signat | johanniswyclift00mattgoog=signal | johanniswyclift01mattgoog=signal | tractatusdepotes00wycl=signat	signat	
+279	155	R4	latinworks19wycl=itic | johanniswyclift00mattgoog=hie | johanniswyclift01mattgoog=hie | tractatusdepotes00wycl=hic	hic	
+279	210	INS?	i	1	print "Apoc. XIV, 1 sequi": old-style arabic 1, x-height; the main scan lost it
+280	29	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | tractatusdepotes00wycl=sicut	sicut	
+280	47	R3	latinworks19wycl=loquitur | johanniswyclift00mattgoog=quitur | johanniswyclift01mattgoog=quitur | tractatusdepotes00wycl=loquitur	loquitur	
+280	52	R4	latinworks19wycl=coloris | johanniswyclift00mattgoog=cons | johanniswyclift01mattgoog=cons | tractatusdepotes00wycl=coloris	coloris	hyphenated co-|loris; main token holds the whole word
+280	217	TAIL	3. Eodcm exemplo utitur W. De Civili Dominio I, 34, I. 26. 7. Prov. XVII, 3.	∅	the forms are the footnote block (5. Eodem exemplo ... 7. Prov. XVII, 3.); the page text ends with "corporali", no lost line
+281	113	NW	latinworks19wycl=mduet | johanniswyclift00mattgoog=mduet | johanniswyclift01mattgoog=mduet | tractatusdepotes00wycl=mduet	induet	
+282	1	THIN	latinworks19wycl=cottidiana | tractatusdepotes00wycl=cottidiana	cottidiana	
+282	5	R5	latinworks19wycl=offerrendi | johanniswyclift00mattgoog=offerrendi | tractatusdepotes00wycl=offerrendi	offerrendi	
+282	110	NW	latinworks19wycl=planeta | johanniswyclift00mattgoog=planeta | johanniswyclift01mattgoog=planeta | tractatusdepotes00wycl=planeta	planeta	
+283	5	R5	latinworks19wycl=logyon | johanniswyclift01mattgoog=logyon | tractatusdepotes00wycl=logyon	logyon	
+283	10	THIN	latinworks19wycl=fouanune | tractatusdepotes00wycl=foramine	foramine	
+283	84	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=∅	∅	the 1 is the folio bar (231d) before Sed
+283	111	NW	latinworks19wycl=urin | johanniswyclift00mattgoog=urin | johanniswyclift01mattgoog=urin | tractatusdepotes00wycl=urin	urin	
+284	3	THIN	latinworks19wycl=habltus | tractatusdepotes00wycl=habiuis	habitus	
+284	46	R3	latinworks19wycl=antiquo | johanniswyclift00mattgoog=antique | johanniswyclift01mattgoog=antique | tractatusdepotes00wycl=antiquo	antiquo	
+284	86	R4	latinworks19wycl=doceat | johanniswyclift00mattgoog=doceal | johanniswyclift01mattgoog=doceal | tractatusdepotes00wycl=doceat	doceat	
+286	62	R4	latinworks19wycl=lunicai | johanniswyclift00mattgoog=iunica | johanniswyclift01mattgoog=lunica | tractatusdepotes00wycl=lumca	Tunica	10 is the line number
+287	15	NW	latinworks19wycl=manipulam | johanniswyclift00mattgoog=manipulam | johanniswyclift01mattgoog=inanipulam | tractatusdepotes00wycl=manipulam	manipulam	
+287	46	THIN	latinworks19wycl=misse | tractatusdepotes00wycl=misse	misse	
+287	47	THIN	latinworks19wycl=ne | tractatusdepotes00wycl=ne	ne	
+287	48	THIN	latinworks19wycl=adulterinis | tractatusdepotes00wycl=adulterinis	adulterinis	
+287	49	THIN	latinworks19wycl=sensacionibus | tractatusdepotes00wycl=sensacionibus	sensacionibus	
+287	50	THIN	latinworks19wycl=temptet | tractatusdepotes00wycl=temptet	temptet	
+287	51	THIN	latinworks19wycl=mentem | tractatusdepotes00wycl=mentem	mentem	
+287	52	THIN	latinworks19wycl=nec | tractatusdepotes00wycl=nec	nec	
+287	90	R3	latinworks19wycl=stricta | johanniswyclift00mattgoog=striata | johanniswyclift01mattgoog=striata | tractatusdepotes00wycl=stricta	stricta	
+288	110	R4	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10	10	old-style arabic 10 (Act. XV, 10)
+288	125	NW	latinworks19wycl=por | johanniswyclift00mattgoog=por | johanniswyclift01mattgoog=por | tractatusdepotes00wycl=por	por	word split by the folio bar (por | tamus, 233a); printed first part
+288	126	NW	latinworks19wycl=tamus | johanniswyclift00mattgoog=tamus | johanniswyclift01mattgoog=tanius | tractatusdepotes00wycl=tamus	tamus	word split by the folio bar (por | tamus); printed second part
+288	131	INS?	a	a	print "casulam a | dextris"; the main scan lost a (end of the line above the box)
+288	158	NW	latinworks19wycl=planeta | johanniswyclift00mattgoog=planeta | johanniswyclift01mattgoog=planeta | tractatusdepotes00wycl=planeta	planeta	
+288	178	R4	latinworks19wycl=daimatic | johanniswyclift00mattgoog=g | johanniswyclift01mattgoog=g | tractatusdepotes00wycl=it	Et	main "daimatic" is the English side-note "Dalmatic."; the print line opens "Et est aliud"
+288	188	NW	latinworks19wycl=leuite | johanniswyclift00mattgoog=leuite | johanniswyclift01mattgoog=leuite | tractatusdepotes00wycl=leuite	levite	
+289	10	R4	latinworks19wycl=habet | johanniswyclift00mattgoog=nabet | johanniswyclift01mattgoog=habet | tractatusdepotes00wycl=nabet	habet	
+289	17	NW	latinworks19wycl=leuitis | johanniswyclift00mattgoog=leuitis | johanniswyclift01mattgoog=leuitis | tractatusdepotes00wycl=leuitis	levitis	
+289	132	INS?	i	∅	the inserted i is the folio bar (233b) before quod
+289	186	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	illa	30 is the line number
+290	1	THIN	latinworks19wycl=lauci	layci	
+290	2	THIN	latinworks19wycl=leqentes	legentes	
+290	9	NW	latinworks19wycl=cenmonias | johanniswyclift00mattgoog=cenmonias | johanniswyclift01mattgoog=cenmomas | tractatusdepotes00wycl=cerimomas	cerimonias	
+290	12	R3	latinworks19wycl=humamtus | johanniswyclift00mattgoog=humanitus | johanniswyclift01mattgoog=humanitas | tractatusdepotes00wycl=humamtus	humanitus	
