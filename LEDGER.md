@@ -1087,3 +1087,13 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | P05d-3 | potestate-pape-05-d / n15 | the Bernard back-reference is *De consideratione* IV.2.3 | editor | |
 | P05d-4 | potestate-pape-05-d / n15 | Jerome *Olim* = Decretum D.95 c.5; Loserth does not find the words in *Absit*; Wyclif's "XCII" stands | editor | form ours |
 | P05d-5 | potestate-pape-05-d / n17 | Hus, Opp. 212b at 93.10 | editor | |
+| P05e-1 | potestate-pape-05-e / n7 | FitzRalph, *Summa in quaest. Armen.* VII.6: the powers of order are equal in all priests | to-verify | no reference in Loserth; the 1512 print |
+| P05e-2 | potestate-pape-05-e / n13 | Jerome *Olim* = Decretum D.95 c.5 | editor | Loserth "Vide supra pag. 92" (96.28); form ours |
+| P05f-1 | potestate-pape-05-f / n2 | Augustine, Letter "IX", on Peter humbly bearing Paul's rebuke | editor | Loserth: Opp. II, 85; modern number (Ep. 82?) |
+| P05f-2 | potestate-pape-05-f / n6 | *Petrus apostolus … figurata generalitate* = Augustine, *In Ioh. tract.* 124.5 | to-verify | Loserth gives *Enarr. in Ps.* 108; check both |
+| P05f-3 | potestate-pape-05-f / n6 | Hus reuses the passage, Opp. 210 | editor | Loserth 98.20 |
+| P05f-4 | potestate-pape-05-f / n7 | cross-reference "in materia de sacramento penitencie" | to-verify | identify Wyclif's work |
+| P05f-5 | potestate-pape-05-f / n10 | Jerome on the apostles' common counsel ≈ D.95 c.5 | to-verify | check |
+| P05f-6 | potestate-pape-05-f / n22 | Augustine, Ep. 149 to Paulinus (print "CXLI") | editor | Loserth: Opp. II, 508; section (149.11?) |
+| P06a-1 | potestate-pape-06-a / n3 | Augustine, *In Ioh. tract.* 47, on power to lay down and take up the soul | to-verify | no reference in Loserth |
+| P06a-2 | potestate-pape-06-a / n11 | *De benedicta incarnacione* cap. XI, p. 189 | editor | Loserth, with "(?)"; check |
