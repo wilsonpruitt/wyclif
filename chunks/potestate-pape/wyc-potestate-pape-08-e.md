@@ -67,7 +67,7 @@ status: draft
 
 ## ¶9 · 183.8–183.13
 
-> [p. 183] Octavo, anno domini MXLV Benedictus, qui symoniace papatum invaserat, cum esset rudis literarum, alterum ad vices ecclesiastici officii exequendas secum papam Silvestrum consecrari fecit; quod cum multis non placeret, tercius superinducitur Gregorius, qui solus vices duorum impleret,
+> [p. 183] Octavo, anno domini MXLV Benedictus, qui symoniace papatum invaserat, cum esset rudis literarum, alterum ad vices ecclesiastici officii exequendas secum papam Silvestrum consecrari fecit; quod cum multis non placeret, tercius superinducitur Gregorius, qui solus vices duorum impleret.
 
 [ENGLISH]
 

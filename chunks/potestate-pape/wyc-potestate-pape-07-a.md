@@ -25,7 +25,7 @@ status: draft
 
 ## ¶2 · 135.22–135.24
 
-> [p. 135] Similiter primatus Petri stat in preeminencia sequendi Christum in moribus; Christus autem omnia predicta abnuit et condiciones oppositas acceptavit
+> [p. 135] Similiter primatus Petri stat in preeminencia sequendi Christum in moribus; Christus autem omnia predicta abnuit et condiciones oppositas acceptavit.
 
 [ENGLISH]
 

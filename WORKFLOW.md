@@ -58,6 +58,12 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    - **Boundaries.** `python3 scripts/w3/boundaries.py SLUG` lists every ¶ or chunk end without a stop
      (*De ecclesia*: 58). Read each on the plate: a false ¶ break (an alinea letter read as a break) is
      merged before translation; it lost *plus* at 46.24 (and the S2 plate check found four more lost words).
+     ⚠ **A false ¶ usually hides a LOST WORD** (*De potestate pape*, 2026-10-07: 6 of 11 false breaks). The side-note
+     box swallows the first word of the line beside it, in every scan alike (so no vote or cross-scan diff sees it),
+     and the shortened line reads as an indent. `boundaries.py` also lists ¶s opening in lower case (a false break
+     even after a stop). Restore the word with a pair tokenfix (`prev first` → `prev word first`), which also
+     removes the break; `a || b` sets both tokens and keeps the second's ¶. The printer's signature line
+     (*De Potestate Pape. 14*) is dropped by the vote.
      A merge is a row in `text/SLUG/paramerge.tsv` (page, first, note: the first word of the false ¶ as it
      stands in `pNNN.la.txt`; ✅ built 2026-10-07), since `pNNN.la.txt` is regenerated on every vote;
      `vote.py` reports an unmatched row as STALE. A chunk split inside a sentence is moved to the

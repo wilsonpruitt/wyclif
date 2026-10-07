@@ -5,11 +5,11 @@ work_en: On the Power of the Pope
 volume_slug: potestate-pape
 editor: Johann Loserth
 year: 1907
-pages: "138.32–142.13"
+pages: "138.32–142.12"
 divisions: "cap. 7 (heading 'CAPITULUM SEPTIMUM.' at 135.12); part 2 of 8, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [johanniswyclift00mattgoog, johanniswyclift01mattgoog, latinworks19wycl, tractatusdepotes00wycl]
-check: "746 words; 713 unanimous or majority-real; 25 settled by vote (R2 12, R3a 3, R5a 9, R6a 1); 8 read on the plate (see Transcription notes)"
+check: "740 words; 707 unanimous or majority-real; 25 settled by vote (R2 12, R3a 3, R5a 9, R6a 1); 8 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks19wycl, leaves n199–n203 (printed p. = leaf − 61)"
 status: draft
@@ -26,12 +26,6 @@ status: draft
 ## ¶2 · 141.16–142.12
 
 > [p. 141] Unde Johannes XXII et alii seculum sapientes, quia non excesserant in istis clavibus et earum officiis, finxerunt claves potestatis et auctoritatis, quas congregando pecunias simplices sue tyrannidi et ypocrisi subiecerunt. Sicut enim sunt due vie, una descendendi in viciis ad infernum et alia ascendendi in virtutibus ad ecclesiam triumphantem, sic sunt due porte sive introitus. Sacerdos autem debet habere claves ad serandum portas inferi a simplicibus sibi subditis et ad aperiendum simplicibus portas celi, et sic debet aperire pascendis ovibus thesaurum virtutum, et ipse primo virtuosis operibus sequelam ovium exemplantibus et excitantibus introire. Unde quotquot potestates vel sciencias tales prelatus habuit, tot claves habet, que omnes solum duas constituunt. Quod autem claves iste specificantur ad excomunicaciones et absoluciones, Deus huius seculi per fastum et avariciam cecando simplices introduxit. [p. 142] Et sic intelligo decretum XXIV, q. I, Quodcumque cum eis similibus, que omnia oportet intelligi potestate militantis ecclesie non errante; quod solum est verum quando iudicio triumphantis ecclesie est conformis; non enim potest aliter aperire ianuam regni celorum eciam sibi ipsi. Si autem claves iste quoad materiam sint verse in affeccionem terrenam et quoad formam declinant monstruose a sciencia apostolorum ad artem luciferi, necesse est quod tales suis clavibus aperiant portas suas et dogmatizent discipulorum suorum precipicium ad infernum.
-
-[ENGLISH]
-
-## ¶3 · 142.13–142.13
-
-> [p. 142] Quantum ad tercium argumentum de adventu
 
 [ENGLISH]
 

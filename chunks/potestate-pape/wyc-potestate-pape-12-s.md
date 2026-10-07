@@ -9,7 +9,7 @@ pages: "385.32–389.27"
 divisions: "cap. 12 (heading 'CAPITULUM DUODECIMUM.' at 316.24); part 19 of 21, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [johanniswyclift00mattgoog, johanniswyclift01mattgoog, latinworks19wycl, tractatusdepotes00wycl]
-check: "862 words; 760 unanimous or majority-real; 80 settled by vote (DEL 1, R2 56, R3a 18, R5a 4, R6a 1); 22 read on the plate (see Transcription notes)"
+check: "866 words; 764 unanimous or majority-real; 80 settled by vote (DEL 1, R2 56, R3a 18, R5a 4, R6a 1); 22 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks19wycl, leaves n446–n450 (printed p. = leaf − 61)"
 status: draft
@@ -31,7 +31,7 @@ status: draft
 
 ## ¶3 · 387.1–387.21
 
-> [p. 387] Secunda quod mundanos honores contra Christum et apostolos tantum affectant. Debet enim recolere. quia ex Matth. XX debet esse omnibus fratribus suis servus, unde Gregorius II. Pastoral. VI: Petrus. inquit, autore Deo sancte ecclesie principatum tenens a bene agente Cornelio, et sese ei humiliter prosternente, inmoderacius venerari recusavit seque illi similem recognovit dicens: Surge, ne feceris, et ego ipse homo sum. sicut et tu. Patet historia Act. X. 26. Et sequitur: Paulus bene agentibus fratribus prelatum se esse nesciebat, cum diceret: Non quia dominamur fidei vestre sed adiutores sumus gaudii vestri. Atque illico adiunxit: In fide enim statis, ac si id quod pretulerat, aperiret dicens: Ideo non dominamur fidei vestre. quia fide statis; equales enim vobis sumus, in quo vos stare cognoscimus; quasi prelatum se esse fratribus nesciebat, cum diceret: Facti sumus sicut parvuli in medio vestrum, prima Tess. II, 7. Et rursum. nos autem servos vestros per Christum. Patet
+> [p. 387] Secunda quod mundanos honores contra Christum et apostolos tantum affectant. Debet enim recolere. quia ex Matth. XX debet esse omnibus fratribus suis servus, unde Gregorius II. Pastoral. VI: Petrus. inquit, autore Deo sancte ecclesie principatum tenens a bene agente Cornelio, et sese ei humiliter prosternente, inmoderacius venerari recusavit seque illi similem recognovit dicens: Surge, ne feceris, et ego ipse homo sum. sicut et tu. Patet historia Act. X. 26. Et sequitur: Paulus bene agentibus fratribus prelatum se esse nesciebat, cum diceret: Non quia dominamur fidei vestre sed adiutores sumus gaudii vestri. Atque illico adiunxit: In fide enim statis, ac si id quod pretulerat, aperiret dicens: Ideo non dominamur fidei vestre. quia fide statis; equales enim vobis sumus, in quo vos stare cognoscimus; quasi prelatum se esse fratribus nesciebat, cum diceret: Facti sumus sicut parvuli in medio vestrum, prima Tess. II, 7. Et rursum. nos autem servos vestros per Christum. Patet . . . .
 
 [ENGLISH]
 

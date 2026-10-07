@@ -5,13 +5,13 @@ work_en: On the Power of the Pope
 volume_slug: potestate-pape
 editor: Johann Loserth
 year: 1907
-pages: "349.27–353.37"
+pages: "349.27–352.30"
 divisions: "cap. 12 (heading 'CAPITULUM DUODECIMUM.' at 316.24); part 10 of 21, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [johanniswyclift00mattgoog, johanniswyclift01mattgoog, latinworks19wycl, tractatusdepotes00wycl]
-check: "962 words; 928 unanimous or majority-real; 19 settled by vote (R2 10, R3a 7, R5a 1, R6a 1); 15 read on the plate (see Transcription notes)"
+check: "699 words; 671 unanimous or majority-real; 16 settled by vote (R2 9, R3a 6, R5a 1); 12 read on the plate (see Transcription notes)"
 italics: none
-plates: "archive.org latinworks19wycl, leaves n410–n414 (printed p. = leaf − 61)"
+plates: "archive.org latinworks19wycl, leaves n410–n413 (printed p. = leaf − 61)"
 status: draft
 ---
 
@@ -59,12 +59,6 @@ status: draft
 
 [ENGLISH]
 
-## ¶8 · 352.32–353.37
-
-> [p. 352] Et patet quod quicumque condit legem vel dat mandatum sub pena excommunicacionis ad nutriendum tales, ipse est pater eorum et precipuus Antichristus. Modicum itaque debet christianus [p. 353] curare de excommunicacione huiusmodi, cum Deus excommunicat hoc implentes, quia ut sic defraudant pauperes, dando improvide bona sua indignis; quod est indebitum et onerans procuratorem Domini ad satisfaciendum, cum talis solucio non sit apud summum iudicem allocanda. Nam secundum leges ecclesie: Judice fallaci pronunciante talem esse indignum sive hereticum non liceret sic ministrare sibi bona ecclesie, sed vel errattalis iudex vel curatus fuit eque indignus, antequam tulit ipse sentenciam, igitur cum notorietas facti plus docet indignitatem quam sentencia talis iudicis, videtur quod ante sentenciam talem debet credens operibus operari. Nam pars Roberti Gybbonensis excommunicat Urbanum nostrum cum suis complicibus et econtra; et consequenter potentes auferunt ab eis bona ecclesie. Nec dubium quin non sit propter nudam excommunicacionem plus vel minus, sed ut prevaricator excommunicatus a Deo in legem suam offenderit. Ideo multas pulcras veritates catholicas plane docet ista felix dissensio. Sicut enim Roberto volente excommunicare ecclesiam Anglicanam, nisi det suis cardinalibus et aliis indignis decimas et proventus nostre ecclesie, derideremus suam sentenciam, non minus servantes bona pauperum veris ministris ecclesie. Sic Urbano nostro excommunicante ecclesiam Anglicanam nisi det fructus ecclesie eque indignis, deridendo rebellaremus contra suam sentenciam pro lege Domini, ut patet inmateria de excommunicacione. Et patet, quomodo antichristus cum suis fraudibus, que sunt leges Antichristiane, superat m fraude seculares. Ipsi enim, docto secundum leges eorum quod creditor sit indignus, faciunt quod cesset exaccio; isti autem statuunt quod fiat exaccio partis Domini, licet fuerit indignitas quoad Deum
-
-[ENGLISH]
-
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
 <!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
@@ -85,12 +79,6 @@ status: draft
 - 352.26: we are supporting Antichrist's , , k ... discipies.
 - 352.32: ^catioTfor"
 - 352.33: refmlytbepay disregarded.
-- 353.7: Such excommuni- . . . . cation is wrongful or ... m • -i i • superfluous.
-- 353.21: The schism teaches many . cathoiic truths, especially as to * .
-- 353.23: the
-- 353.24: unimportance . . ..... of excommunication. . . ,
-- 353.32: 49a Secuiar laws
-- 353.32: less unjust . Antichrist. of
 
 ## Notes
 
@@ -109,6 +97,3 @@ status: draft
   - 352: *∅* (rest of 10, given whole at pos 149) [THIN]
   - 352: *∅* (such is the English side note (In paying such ...)) [R6]
   - 352: *necessaria* [R3]
-  - 352: *Et* [R4]
-  - 353: *allocanda* [NW]
-  - 353: *Et patet,* (W-split: Etpatet, -> Et patet, (two words run together)) [OVERRIDE-SCAR]

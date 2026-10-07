@@ -5,21 +5,21 @@ work_en: On the Power of the Pope
 volume_slug: potestate-pape
 editor: Johann Loserth
 year: 1907
-pages: "353.38–356.26"
+pages: "352.32–356.26"
 divisions: "cap. 12 (heading 'CAPITULUM DUODECIMUM.' at 316.24); part 11 of 21, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [johanniswyclift00mattgoog, johanniswyclift01mattgoog, latinworks19wycl, tractatusdepotes00wycl]
-check: "619 words; 599 unanimous or majority-real; 16 settled by vote (DEL 2, R2 7, R3a 5, R5a 2); 4 read on the plate (see Transcription notes)"
+check: "879 words; 853 unanimous or majority-real; 19 settled by vote (DEL 2, R2 8, R3a 6, R5a 2, R6a 1); 7 read on the plate (see Transcription notes)"
 italics: none
-plates: "archive.org latinworks19wycl, leaves n414–n417 (printed p. = leaf − 61)"
+plates: "archive.org latinworks19wycl, leaves n413–n417 (printed p. = leaf − 61)"
 status: draft
 ---
 
 # *De potestate pape*, chapter 12, part 11: [TITLE]
 
-## ¶1 · 353.38–354.32
+## ¶1 · 352.32–354.32
 
-> [p. 353] De Potestate Pape. [p. 354] et homines, et sic contra Christum et legem suam palliant ex se aliam dignitatem. Manet (inquiunt) quantumcumque indignus quoad Deum ex auctoritate nostra dignus, quousque nos vel satrape nostri decreverimus quid sit iustum; et illud decretum fit communiter contra iusticiam, dum emens iniuriam voluerit plus conferre. Seculares eciam volunt quod secundum leges suas Dei iniuria destruatur. Isti autem sophisticant quod ad multiplicandum membra Antichristi quoad Christum iniuria foveatur, ut patet de pseudoprepositis, quos statuunt ad bona pauperum rapiendum. Seculares statuunt quod destruantur iniusti pacem reipublice perturbantes et libertatem ac regaliam regis sui proditorie machinantes. Isti autem infundabiliter statuunt antichristianas leges, quod multiplicentur segnes et sibi conformes prepositi, ex quibus oportet pacem Dei et libertatem regis regum in membris suis diminui. Vendicat enim dux exercitus Antichristi quod subditi non attendant ad dignitatem prelati, quem ipse instituit, cum eo ipso censetur habilis, quod est contra fidem evangelii et libertatem membrorum Christi, Matth. VII, 15, ubi docet Christus: Attendite a falsis prophetis, qui veniunt ad vos in vestimentis ovium, intrinsecus autem sunt lupi rapaces. Nam elemosinam dandam parte dignis prepositis ampliarunt ultra civile debitum, nedum tyrannice sed blasfeme per palliatas censuras, quas menciuntur a Christo procedere exigendam; et totum hoc seminavit in ecclesia civilitas cesarea, que est in clero ad deterius transformata.
+> [p. 352] Et patet quod quicumque condit legem vel dat mandatum sub pena excommunicacionis ad nutriendum tales, ipse est pater eorum et precipuus Antichristus. Modicum itaque debet christianus [p. 353] curare de excommunicacione huiusmodi, cum Deus excommunicat hoc implentes, quia ut sic defraudant pauperes, dando improvide bona sua indignis; quod est indebitum et onerans procuratorem Domini ad satisfaciendum, cum talis solucio non sit apud summum iudicem allocanda. Nam secundum leges ecclesie: Judice fallaci pronunciante talem esse indignum sive hereticum non liceret sic ministrare sibi bona ecclesie, sed vel errattalis iudex vel curatus fuit eque indignus, antequam tulit ipse sentenciam, igitur cum notorietas facti plus docet indignitatem quam sentencia talis iudicis, videtur quod ante sentenciam talem debet credens operibus operari. Nam pars Roberti Gybbonensis excommunicat Urbanum nostrum cum suis complicibus et econtra; et consequenter potentes auferunt ab eis bona ecclesie. Nec dubium quin non sit propter nudam excommunicacionem plus vel minus, sed ut prevaricator excommunicatus a Deo in legem suam offenderit. Ideo multas pulcras veritates catholicas plane docet ista felix dissensio. Sicut enim Roberto volente excommunicare ecclesiam Anglicanam, nisi det suis cardinalibus et aliis indignis decimas et proventus nostre ecclesie, derideremus suam sentenciam, non minus servantes bona pauperum veris ministris ecclesie. Sic Urbano nostro excommunicante ecclesiam Anglicanam nisi det fructus ecclesie eque indignis, deridendo rebellaremus contra suam sentenciam pro lege Domini, ut patet inmateria de excommunicacione. Et patet, quomodo antichristus cum suis fraudibus, que sunt leges Antichristiane, superat m fraude seculares. Ipsi enim, docto secundum leges eorum quod creditor sit indignus, faciunt quod cesset exaccio; isti autem statuunt quod fiat exaccio partis Domini, licet fuerit indignitas quoad Deum [p. 354] et homines, et sic contra Christum et legem suam palliant ex se aliam dignitatem. Manet (inquiunt) quantumcumque indignus quoad Deum ex auctoritate nostra dignus, quousque nos vel satrape nostri decreverimus quid sit iustum; et illud decretum fit communiter contra iusticiam, dum emens iniuriam voluerit plus conferre. Seculares eciam volunt quod secundum leges suas Dei iniuria destruatur. Isti autem sophisticant quod ad multiplicandum membra Antichristi quoad Christum iniuria foveatur, ut patet de pseudoprepositis, quos statuunt ad bona pauperum rapiendum. Seculares statuunt quod destruantur iniusti pacem reipublice perturbantes et libertatem ac regaliam regis sui proditorie machinantes. Isti autem infundabiliter statuunt antichristianas leges, quod multiplicentur segnes et sibi conformes prepositi, ex quibus oportet pacem Dei et libertatem regis regum in membris suis diminui. Vendicat enim dux exercitus Antichristi quod subditi non attendant ad dignitatem prelati, quem ipse instituit, cum eo ipso censetur habilis, quod est contra fidem evangelii et libertatem membrorum Christi, Matth. VII, 15, ubi docet Christus: Attendite a falsis prophetis, qui veniunt ad vos in vestimentis ovium, intrinsecus autem sunt lupi rapaces. Nam elemosinam dandam parte dignis prepositis ampliarunt ultra civile debitum, nedum tyrannice sed blasfeme per palliatas censuras, quas menciuntur a Christo procedere exigendam; et totum hoc seminavit in ecclesia civilitas cesarea, que est in clero ad deterius transformata.
 
 [ENGLISH]
 
@@ -47,6 +47,10 @@ status: draft
      text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
      page.line where a note is misplaced, and delete this comment. -->
 
+- 352.26: Jn paying
+- 352.26: we are supporting Antichrist's , , k ... discipies.
+- 352.32: ^catioTfor"
+- 352.33: refmlytbepay disregarded.
 - 353.7: Such excommuni- . . . . cation is wrongful or ... m • -i i • superfluous.
 - 353.21: The schism teaches many . cathoiic truths, especially as to * .
 - 353.23: the
@@ -71,8 +75,11 @@ status: draft
 ## Transcription notes
 
 - **Plate readings** (CONVENTIONS §3.4; page · reading · note):
+  - 352: *Et* [R4]
+  - 353: *allocanda* [NW]
   - 355: *∅* (folio bar after palliat (249ᶜ in margin) read as i) [INS?]
   - 356: *Sed* (the main token read the side-note letters (should / to); this slot is the only one for the printed Sed) [R3]
   - 356: *pugnis* [R3]
+  - 353: *Et patet,* (W-split: Etpatet, -> Et patet, (two words run together)) [OVERRIDE-SCAR]
   - 356: *Oolla* (W1: OoUa -> Oolla (scans: oolla | ooua | oolla)) [OVERRIDE-SCAR]
 - **Omitted per §3.5 / kept in the English** (margin matter): reference Tithes and (355.4).

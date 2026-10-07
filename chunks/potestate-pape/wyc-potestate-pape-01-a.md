@@ -41,7 +41,7 @@ status: draft
 
 ## ¶4 · 3.3–3.10
 
-> [p. 3] Et sic potest vocari potestas illa solum ad actus intrinsecos vel ad extra, ut est effectus extrinseci productiva. Que potestas licet non sit dispar essencia, tamen dicit disparem relacionem racionis hic et ibi. Et omnis talis potestas est increata, immensa et eterna, sicut natura divina, que est illa potencia; et sic loquitur scriptura Danielis VI, 26: Potestas eius usque in eternum,
+> [p. 3] Et sic potest vocari potestas illa solum ad actus intrinsecos vel ad extra, ut est effectus extrinseci productiva. Que potestas licet non sit dispar essencia, tamen dicit disparem relacionem racionis hic et ibi. Et omnis talis potestas est increata, immensa et eterna, sicut natura divina, que est illa potencia; et sic loquitur scriptura Danielis VI, 26: Potestas eius usque in eternum.
 
 [ENGLISH]
 

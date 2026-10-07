@@ -22,6 +22,12 @@ for f in sorted(glob.glob(f'{root}/chunks/{slug}/wyc-{slug}-*.md')):
         if la and not re.search(r'[.?!:;]["»”)\]]*$', la):
             kind = 'chunk end' if i == len(secs) - 1 else '¶ end'
             rows.append((cid, sec.split('\n')[0][3:].strip(), kind, la[-50:]))
+        # a ¶ that opens in lower case: a false break even after a stop. In De pot. pape every one marked a line
+        # whose FIRST word the side-note box had swallowed (in all scans alike), the shortened line reading as an
+        # indent (2026-10-07: qui 76, in 106, Petri 142, sic 382); the lost word is on the plate, not in any scan.
+        first = re.sub(r'^\[p\. \d+\]\s*', '', la)
+        if i and first[:1].islower():
+            rows.append((cid, sec.split('\n')[0][3:].strip(), 'lower-case ¶', first[:50]))
 out = f'{root}/text/{slug}/boundaries.tsv'
 with open(out, 'w') as w:
     w.write('chunk\tparagraph\tkind\tlast words\n')

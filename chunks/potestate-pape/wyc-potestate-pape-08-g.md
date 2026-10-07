@@ -9,7 +9,7 @@ pages: "188.18–192.9"
 divisions: "cap. 8 (heading 'CAPITULUM OCTAVUM.' at 165.1); part 7 of 8, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [johanniswyclift00mattgoog, johanniswyclift01mattgoog, latinworks19wycl, tractatusdepotes00wycl]
-check: "823 words; 742 unanimous or majority-real; 65 settled by vote (R2 41, R3a 19, R5a 4, R6a 1); 16 read on the plate (see Transcription notes)"
+check: "824 words; 743 unanimous or majority-real; 65 settled by vote (R2 41, R3a 19, R5a 4, R6a 1); 16 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks19wycl, leaves n249–n253 (printed p. = leaf − 61)"
 status: draft
@@ -25,7 +25,7 @@ status: draft
 
 ## ¶2 · 190.16–191.5
 
-> [p. 190] Item, simile narrat Cestrensis libro suo VII MCCVI ad papam Innocencium misit Robertus Lynconiensis epistolam invectivam satis et tonantem, pro eo quod ecclesias Anglie indebitis exaccionibus vexare videretur; hac de causa ad curiam vocatus est, et cum ibi molestaretur, appellavit constanter a curia Innocencii ad tribunal Christi; unde contigit, quod Roberto in Anglia obeunte audita est vox in curia pape: Veni miser ad iudicium; repertusque est in crastino papa exanimis, quasi cuspide baculi in latere percussus. Qui licet perspicacius effulserit miraculis, transferri tamen in sanctorum cathalogo a curia non est permissus. Nec est putandum istos sanctos iregularitatem vel offensam Dei incurrere ex percussione letali summorum pontificum; qui viderunt quod erant precipui [p. 191] Antichristi, persequentes ecclesiam. etreceperunt mandatum a Domino sic tractare hostes ecclesie, pro cuius prosperitate secundum religionem et institucionem Christi, dum erant vivi, a Deo
+> [p. 190] Item, simile narrat Cestrensis libro suo VII MCCVI ad papam Innocencium misit Robertus Lynconiensis epistolam invectivam satis et tonantem, pro eo quod ecclesias Anglie indebitis exaccionibus vexare videretur; hac de causa ad curiam vocatus est, et cum ibi molestaretur, appellavit constanter a curia Innocencii ad tribunal Christi; unde contigit, quod Roberto in Anglia obeunte audita est vox in curia pape: Veni miser ad iudicium; repertusque est in crastino papa exanimis, quasi cuspide baculi in latere percussus. Qui licet perspicacius effulserit miraculis, transferri tamen in sanctorum cathalogo a curia non est permissus. Nec est putandum istos sanctos iregularitatem vel offensam Dei incurrere ex percussione letali summorum pontificum; qui viderunt quod erant precipui [p. 191] Antichristi, persequentes ecclesiam. etreceperunt mandatum a Domino sic tractare hostes ecclesie, pro cuius prosperitate secundum religionem et institucionem Christi, dum erant vivi, a Deo zelaverunt.
 
 [ENGLISH]
 

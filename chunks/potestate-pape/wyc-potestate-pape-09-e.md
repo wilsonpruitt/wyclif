@@ -9,7 +9,7 @@ pages: "207.23–210.14"
 divisions: "cap. 9 (heading 'CAPITULUM NONUM.' at 194.7); part 5 of 8, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [johanniswyclift00mattgoog, johanniswyclift01mattgoog, latinworks19wycl, tractatusdepotes00wycl]
-check: "632 words; 567 unanimous or majority-real; 51 settled by vote (DEL 1, R2 31, R3a 12, R5a 6, R6a 1); 14 read on the plate (see Transcription notes)"
+check: "629 words; 564 unanimous or majority-real; 51 settled by vote (DEL 1, R2 31, R3a 12, R5a 6, R6a 1); 14 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks19wycl, leaves n268–n271 (printed p. = leaf − 61)"
 status: draft
@@ -35,15 +35,9 @@ status: draft
 
 [ENGLISH]
 
-## ¶4 · 209.31–209.37
+## ¶4 · 209.31–210.14
 
-> [p. 209] Quantum ad secundum iugum, quod concernit peccatum mundi, dicitur primo, quod sunt nubes sine aqua, que a ventis circumferuntur, nubes, que exalantur de terra, ut sint medium inter laycos et celum, scilicet ecclesiam triumphantem, quod si sint sine pluvia predicacionis, ad quemlibet impulsum venti fortune pro congregandis et
-
-[ENGLISH]
-
-## ¶5 · 209.38–210.14
-
-> [p. 209] De Potestate Pape. [p. 210] conservandis temporalibus circumducti, signum est quod eclipsant radiacionem solis iusticie et signant pestilencias spirituales. Et quantum ad secundum. patet quod prelati racione ordinacionis divine, qua debent spiritualiter fructificare subiectis, debent esse arbores autumpnales. Quod si habent istam triplicitatem dyaboli, primo quod sint infructuosi quoad opus ewangeliste, secundo quod sint bis mortui secundum spiritualem racionem proprie persone et prelati, et tercio quod sint eradicati sine spe insercionis in vite vera fructificando secundum legem Christi, tunc sunt illi de quibus Apostolus prophetavit.
+> [p. 209] Quantum ad secundum iugum, quod concernit peccatum mundi, dicitur primo, quod sunt nubes sine aqua, que a ventis circumferuntur, nubes, que exalantur de terra, ut sint medium inter laycos et celum, scilicet ecclesiam triumphantem, quod si sint sine pluvia predicacionis, ad quemlibet impulsum venti fortune pro congregandis et [p. 210] conservandis temporalibus circumducti, signum est quod eclipsant radiacionem solis iusticie et signant pestilencias spirituales. Et quantum ad secundum. patet quod prelati racione ordinacionis divine, qua debent spiritualiter fructificare subiectis, debent esse arbores autumpnales. Quod si habent istam triplicitatem dyaboli, primo quod sint infructuosi quoad opus ewangeliste, secundo quod sint bis mortui secundum spiritualem racionem proprie persone et prelati, et tercio quod sint eradicati sine spe insercionis in vite vera fructificando secundum legem Christi, tunc sunt illi de quibus Apostolus prophetavit.
 
 [ENGLISH]
 

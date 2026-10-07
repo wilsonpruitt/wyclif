@@ -9,7 +9,7 @@ pages: "102.26–106.28"
 divisions: "cap. 6 (heading 'CAPITULUM SEXTUM.' at 102.25); part 1 of 9, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [johanniswyclift00mattgoog, johanniswyclift01mattgoog, latinworks19wycl, tractatusdepotes00wycl]
-check: "897 words; 860 unanimous or majority-real; 29 settled by vote (INS 1, R2 12, R3a 12, R5a 4); 8 read on the plate (see Transcription notes)"
+check: "898 words; 861 unanimous or majority-real; 29 settled by vote (INS 1, R2 12, R3a 12, R5a 4); 8 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks19wycl, leaves n163–n167 (printed p. = leaf − 61)"
 status: draft
@@ -41,15 +41,9 @@ status: draft
 
 [ENGLISH]
 
-## ¶5 · 106.14–106.14
+## ¶5 · 106.14–106.28
 
-> [p. 106] Quantum ad miracula. patet quod cessant hodie
-
-[ENGLISH]
-
-## ¶6 · 106.15–106.28
-
-> [p. 106] nostris episcopis, cum satis est post fidem in evangelio divulgatam ipsam impressam sanctis exhortacionibus confirmare. Cum igitur Deus non dat quicquam superflue, sequitur quod Deus non dat I nostris prepositis, ut olim dedit discipulis, potestatem faciendi miracula; et per consequens nunc non habent; hec autem fuit racio; quare Apostolus non miraculose sed per viam naturalis medicine sanavit Thimoteum. bonum regimen iniungendo. Utere, inquit; modico vino propter stomachum tuum et frequentes tuas infirmitates prima Thim. V. Sed communicando cum infidelibus convertendis per miracula exercuit illam potestatem; ut patet Actuum ultimo copiose.
+> [p. 106] Quantum ad miracula. patet quod cessant hodie in nostris episcopis, cum satis est post fidem in evangelio divulgatam ipsam impressam sanctis exhortacionibus confirmare. Cum igitur Deus non dat quicquam superflue, sequitur quod Deus non dat I nostris prepositis, ut olim dedit discipulis, potestatem faciendi miracula; et per consequens nunc non habent; hec autem fuit racio; quare Apostolus non miraculose sed per viam naturalis medicine sanavit Thimoteum. bonum regimen iniungendo. Utere, inquit; modico vino propter stomachum tuum et frequentes tuas infirmitates prima Thim. V. Sed communicando cum infidelibus convertendis per miracula exercuit illam potestatem; ut patet Actuum ultimo copiose.
 
 [ENGLISH]
 

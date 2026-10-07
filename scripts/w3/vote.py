@@ -744,6 +744,10 @@ def run(slug, first=None, last=None):
         starts = [i for i, x in enumerate(out_tokens) if i == 0 or x.get('para')] + [len(out_tokens)]
         for s_, e_ in zip(starts, starts[1:]):
             para = ' '.join(x['t'] for x in out_tokens[s_:e_])
+            if re.fullmatch(r'De( [A-Z][a-z]+){1,3}\.?( \d{1,2})?', para.strip()):   # the printer's signature line
+                for x in out_tokens[s_:e_]:                               # at a gathering's foot ('De Potestate
+                    x['t'] = ''                                           # Pape. 14'), De pot. pape pp. 209, 353
+                continue
             if re.match(r'\d{1,2}\.\s', para) and (re.search(r'in marg|[Cc]odd|\b[ABD]₁?[,:]|corr\.|\bcap\. [IVXL]|\bDist\.|'
                                                      r'Decret|Ed\. pag|\bOpp\.|\btom\.|\bpag\. \d', para) or
                     len(re.findall(r'\b(?:the|of|was|and|from|to)\b', para)) >= 2):
@@ -768,8 +772,9 @@ def run(slug, first=None, last=None):
         # first half recurs on the page (2026-10-02)
         for i in range(len(out_tokens) - 1):
             pair = (pg, out_tokens[i]['t'] + ' ' + out_tokens[i + 1]['t'])
-            if pair in tokenfix:
-                out_tokens[i]['t'], out_tokens[i + 1]['t'] = tokenfix[pair], ''
+            if pair in tokenfix:                     # 'a || b' sets both tokens (keeps the second's ¶ flag)
+                fx = tokenfix[pair].split(' || ')
+                out_tokens[i]['t'], out_tokens[i + 1]['t'] = fx[0], (fx[1] if len(fx) > 1 else '')
         # write page
         lines, cur, cur_head = [], [], False
         prev_t = ''
@@ -811,8 +816,8 @@ def run(slug, first=None, last=None):
                 continue
             if cur_head:
                 lines.append('## ' + ' '.join(cur)); cur = []; cur_head = False
-            if x.get('para') and cur and paramerge.get((pg, x['t'])) is False:   # paramerge.tsv: a false ¶ break
-                x['para'] = False                                                 # (first match on the page)
+            if x.get('para') and paramerge.get((pg, x['t'])) is False:   # paramerge.tsv: a false ¶ break (first match
+                x['para'] = False                                         # on the page; at the page head too)
                 paramerge[(pg, x['t'])] = True
             if x.get('para') and cur:
                 lines.append(' '.join(cur)); lines.append(''); cur = []

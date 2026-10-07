@@ -5,21 +5,21 @@ work_en: On the Power of the Pope
 volume_slug: potestate-pape
 editor: Johann Loserth
 year: 1907
-pages: "254.31–258.18"
+pages: "253.28–257.32"
 divisions: "cap. 10 (heading 'CAPITULUM DECIMUM.' at 222.19); part 10 of 12, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: three-witness
 witnesses: [johanniswyclift00mattgoog, johanniswyclift01mattgoog, latinworks19wycl, tractatusdepotes00wycl]
-check: "809 words; 725 unanimous or majority-real; 59 settled by vote (DEL 1, R2 37, R3a 16, R5a 5); 25 read on the plate (see Transcription notes)"
+check: "920 words; 843 unanimous or majority-real; 51 settled by vote (DEL 1, R2 29, R3a 16, R5a 5); 26 read on the plate (see Transcription notes)"
 italics: none
-plates: "archive.org latinworks19wycl, leaves n315–n319 (printed p. = leaf − 61)"
+plates: "archive.org latinworks19wycl, leaves n314–n318 (printed p. = leaf − 61)"
 status: draft
 ---
 
 # *De potestate pape*, chapter 10, part 10: [TITLE]
 
-## ¶1 · 254.31–255.20
+## ¶1 · 253.28–255.20
 
-> [p. 254] infideliter, non est papa. Nostri autem theologi dicunt primo, quod licet eleccio eorum, ut vere creditur, fuerit maledicta, eleccio tamen passiva Urbani nostri ex eleccione activa Dei est valida, dum tamen fiat ab ipso electo in veris factis papalibus [p. 255] recompensa. Dicunt secundo quod nedum catholice sed melius quam modo conversaretur fidelis ecclesia quocumque papa cesareo subducto, quia Act. IV, 12 dicitur, quod non est aliud nomen sub celo, in quo oportet nos salvos fieri preter nomen domini Jhesu Christi. Et dicunt tercio quod pensando virtutum insignia probabiliter reputant Urbanum nostrum verum papam, cum omnes sancti episcopi erant pape, et Robertum non reputant explicite papam vel membrum sancte ecclesie, quia in De Verbis Domini sermone LIII sic scribitur: Caput humile et membrum superbum absit; non vult esse de corpore capitis Christi, quia amat superbiam. Unde cum secundum eundem Augustinum sermone L Christus vere loquens de quibuscumque pastoribus, cum in se habet omnes pastores bonos vere dicit: Ego sum unus, mecum omnes in unitate unum sunt. Prescitus autem cum sit membrum dyaboli, non compaginatur ordinate huic capiti.
+> [p. 253] Consolacio autem a Christo est in operando in causa ista fideliter et constanter, cum Matth. X, 25 dicat: Si patremfamilias Belzebub vocaverunt, quanto magis domesticos eius? Ideo ibant apostoli gaudentes quod digni habiti sunt pro nomine Jhesu contumeliam pati. Sed et consolacio quedam mundana exoritur, quodadtantum insane prorumpunt satrape in suis sermonibus. quod imponunt [p. 254] principalem heresim regi suo. Rex, inquiunt, care conduxit stipendiarios contra sanctam ecclesiam; ex quo patenter implicant quod rex eorum sit heresiarcha non obstante ignorancia puerili. Apostolus enim non fuit excusatus a blasfemia, non obstante quod per ignoranciam stulte fecit, ut prima Timothei primo. Videtur itaque nimis magna presumpcio sic imponere heresim toti consilio tanti regni; predicarent enim iuxta suam opinionem atque scienciam de periculosiori heresi adversancium pape suo, et si umquam valet sciencia decretiste, valet ad cerciorandum ecclesiam in hac parte. Dicit enim quod ad illos singulariter pertinet cognoscere disposicionem veri pape et rectitudinem sue consuetudinis cum aliis annexis difficultatibus, sicut ad eos pertinet cognoscere quiditatem heresis et penam sui subditi. Doceant igitur in istis populum de fraude, quia (ut inquiunt) sine fide istius articuli non est salus; ostendant igitur artem suam in isto fideliter, quia maior et famosior est multitudo decretistarum eis contraria in hac parte et specialiter cuneus pseudocardinalium, quibus videbatur regi ecclesie tempore Gregorii excedentis decalogum. Ipsi enim in tradicionibus humanis periti, qui melius noverunt qualitatem eleccionis quam ipsimet celebrarunt, testantur nobis cartis et nunciis, quod eleccio eorum non fuit legitima, et sic (ut inquiunt) noster Urbanus, quem colimus infideliter, non est papa. Nostri autem theologi dicunt primo, quod licet eleccio eorum, ut vere creditur, fuerit maledicta, eleccio tamen passiva Urbani nostri ex eleccione activa Dei est valida, dum tamen fiat ab ipso electo in veris factis papalibus [p. 255] recompensa. Dicunt secundo quod nedum catholice sed melius quam modo conversaretur fidelis ecclesia quocumque papa cesareo subducto, quia Act. IV, 12 dicitur, quod non est aliud nomen sub celo, in quo oportet nos salvos fieri preter nomen domini Jhesu Christi. Et dicunt tercio quod pensando virtutum insignia probabiliter reputant Urbanum nostrum verum papam, cum omnes sancti episcopi erant pape, et Robertum non reputant explicite papam vel membrum sancte ecclesie, quia in De Verbis Domini sermone LIII sic scribitur: Caput humile et membrum superbum absit; non vult esse de corpore capitis Christi, quia amat superbiam. Unde cum secundum eundem Augustinum sermone L Christus vere loquens de quibuscumque pastoribus, cum in se habet omnes pastores bonos vere dicit: Ego sum unus, mecum omnes in unitate unum sunt. Prescitus autem cum sit membrum dyaboli, non compaginatur ordinate huic capiti.
 
 [ENGLISH]
 
@@ -59,18 +59,13 @@ status: draft
 
 [ENGLISH]
 
-## ¶8 · 257.33–258.18
-
-> [p. 257] Notandum est tercio quod iste doctor videtur prudenter innuere quod nullus episcopus cesareus [p. 258] assumeret illud papale officium, quia obligat se ut sic quod sit in terris proximus sequax Christi, quod forte statui quem accipit est incompossibile. Ideo dicit Crysostomus Omelia XXVIII Operis Imperfecti: Quicumque, inquit, Domino? humilitati studente iactancie studet, non est imago Christi, et qui Domino paupertatem amante diviciarum amator est in hoc seculo, repellit a se Christi similitudinem nec est vere discipulus qui non imitatur magistrum. Studeat igitur Romanus pontifex, si imitatur simillime vias Christi. Ideo dicit Epistola XLIII: Scio, inquit, domini pape et sancte sedis hanc esse potestatem, ut de omnibus beneficiis ecclesiasticis posset libere ordinare, scio quoque quod quisquis abutitur hac potestate edificat ad gehennam. Ideo (ut videtur multis) descripcio quam ponit de papa non convenit apostolis, sed solummodo pape summo.
-
-[ENGLISH]
-
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
 <!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
      text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
      page.line where a note is misplaced, and delete this comment. -->
 
+- 253.12: Mutuai charges of heresy-
 - 254.1: Preiates go so
 - 254.2: chYrgethe
 - 254.3: klhne?esy.th
@@ -84,15 +79,15 @@ status: draft
 - 255.22: ^pposite!
 - 257.14: firosseteste's claims for the 1 m pope are conditional A x on his being what he ought A m
 - 257.17: to be.
-- 258.19: fa^itYs0" matter the faith
-- 258.20: pope
-- 258.21: ofspirituai6 profit.
 
 ## Notes
 
 ## Transcription notes
 
 - **Plate readings** (CONVENTIONS §3.4; page · reading · note):
+  - 253: *X* [R5]
+  - 253: *Belzebub* [R4]
+  - 254: *ex* (print "ex quo patenter"; the main scan lost ex) [INS?]
   - 254: *dicunt* (print "theologi dicunt 30 primo"; the main scan lost dicunt (30 is the line number)) [INS?]
   - 255: *preter* [R3]
   - 255: *eundem* (15 is the line number) [R4]
@@ -115,6 +110,4 @@ status: draft
   - 257: *mus* (second half of subiectissi-|mus; main split it as ...111 + us) [THIN]
   - 257: *timor* [THIN]
   - 257: *hiis* [R4]
-  - 258: *seculo* [NW]
-  - 258: *non* [R3]
   - 256: *preeminenti* (S-split: one word) [OVERRIDE-SCARPLATE]
