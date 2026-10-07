@@ -18,6 +18,14 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
 2. **Vote.** `.venv/bin/python scripts/w3/vote.py SLUG` → `text/SLUG/pNNN.la.txt` + `plate_queue.tsv`.
 3. **Plate pass (Latin).** `scripts/w3/crops.py SLUG` → crop sheets; one Opus agent per ~40 sheets writes
    `plate_decisions.tsv`; re-run vote.py.
+3b. **Lost runs (from 2026-10-07; every volume, essential without Fordham).** After the re-vote:
+   `.venv/bin/python scripts/w3/lostruns.py SLUG` diffs each page against every other scan for runs of 3+ words
+   the text lacks, and scores how much of each run the text already has. Read every LIKELY LOST row (score
+   < 0.75) on the plate and restore it by `tokenfix.tsv` (a multi-word `fixed`; `^word` = the page's first token
+   only). *De potestate pape*: 42 rows, 1 real loss (p. 216, two lines, with no GAP queued), 0.21 against ≥ 0.80
+   for every garbled-but-present run. It sees the pivot's OWN losses, not ones every scan shares (M2 lesson 2).
+   If a page's pivot leaf has no OCR at all (faded), the vote skips it silently: `text/SLUG/pivotpatch.tsv`
+   (page, witness, leaf, note) takes the page from another scan. Check `ls text/SLUG/p*.la.txt | wc -l`.
 4. **Majority-error sweep.** `.venv/bin/python scripts/w3/nonword.py SLUG` → `text/SLUG/nonwords.tsv`.
    Filter to OCR-confusion suspects (rn/m, ni/h, c/e, u/n, a bracket read as *j* …) and read those on the
    plates in the same pass as stage 3 or 5. Never trust `catalog/lexicon/agreed.txt` as evidence.

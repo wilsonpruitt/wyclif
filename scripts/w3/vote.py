@@ -745,6 +745,11 @@ def run(slug, first=None, last=None):
                     len(re.findall(r'\b(?:the|of|was|and|from|to)\b', para)) >= 2):
                 for x in out_tokens[s_:e_]:
                     x['t'] = ''
+        # tokenfix '^word': the page's FIRST token only (a word the scan glued onto the previous page, De pot. pape
+        # p. 184 'Decimo'; the plain form would also hit every later 'anno' on the page). 2026-10-07
+        i0 = next((i for i, x in enumerate(out_tokens) if x['t'] and not x.get('hl')), None)
+        if i0 is not None and (pg, '^' + out_tokens[i0]['t']) in tokenfix:
+            out_tokens[i0]['t'] = tokenfix[(pg, '^' + out_tokens[i0]['t'])]
         # tokenfix entries naming TWO consecutive tokens ('nec essitate' -> necessitate), for a split word whose
         # first half recurs on the page (2026-10-02)
         for i in range(len(out_tokens) - 1):
