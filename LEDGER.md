@@ -982,3 +982,14 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | E23k-5 | ecclesia-23-k / n13 | Hus, *Adversus indulgencias papales*, Opp. I fol. 175 ff. | verified | foot 583.16: fol. CLXXXVb (reading uncertain) |
 | E23l-1 | ecclesia-23-l / n2 | *Clem.* 5.9.2 *Abusionibus*. The form is ours. | verified | Friedberg II Clem. 5.9.2 |
 | E23l-2 | ecclesia-23-l / n2 | Wyclif's "liber septimus" means the Clementines | verified | The Clementines were called *liber septimus* by medieval canonists, and once by John XXII (1321). Johannes Andreae refused them the title (Catholic Encyclopedia 1910, "Liber Septimus", read only in the search extract). Wyclif's *libro septimo de Penitenciis et Remissionibus, capitulo Abusionibus* = Clem. 5.9.2, as Loserth's foot gives it. 2026-10-03. (close-out 2026-10-03) |
+| P01a-1 | potestate-pape-01-a / n1 | "cap. XIV libri proximi" at 1.7 means *De veritate sacre scripture* (Loserth), not *De officio regis*; which chapter 14 | to-verify | check De ver. ch. 14 |
+| P01a-2 | potestate-pape-01-a / n2 | *innata via* alludes to Aristotle, *Physics* I.1 | to-verify | from memory |
+| P01a-3 | potestate-pape-01-a / n3 | *Metaph.* Δ 12, 1019a15–20 (Loserth "Metaph. IV, 12"). The Bekker numbers are ours. | editor | modern form to-verify |
+| P01a-4 | potestate-pape-01-a / n5 | FitzRalph, *Summa in quaest. Armen.* II.4 | to-verify | Loserth could not check it ("mihi ad manum non est") |
+| P01a-5 | potestate-pape-01-a / n7 | Loserth "Metaph. VIII, 1, 2" at 2.16 = Θ 1, 1046a | editor | modern form to-verify |
+| P01a-6 | potestate-pape-01-a / n10 | second species of quality = *Cat.* 8, 9a14 | to-verify | from memory |
+| P01a-7 | potestate-pape-01-a / n11 | *Metaph.* Δ 12, 1019a23–26 (Loserth "VIII, 1") | editor | modern form to-verify |
+| P01a-8 | potestate-pape-01-a / n12 | Loserth "Rectius Metaph. VIII, 2" = Θ 2, 1046b | editor | modern form to-verify |
+| P01a-9 | potestate-pape-01-a / n13 | Anselm, *De libertate arbitrii* 3 (his wording *libertas arbitrii*) | to-verify | from memory |
+| P01a-10 | potestate-pape-01-a / n13 | Anselm, *Opera* (Paris 1721), p. 118 | editor | |
+| P01a-11 | potestate-pape-01-a / n17 | Hus, *De ecclesia* fol. 217b gives 5.11–19 word for word | editor | |
