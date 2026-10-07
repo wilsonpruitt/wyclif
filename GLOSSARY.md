@@ -547,6 +547,10 @@ otherwise.
 | negociatores | dealers | Kept apart from *mercantes* "traders" (*Eccl.*); the servants of the talents parable (Matt. 25). Ruled 2026-10-07 (*Pot. pape* 101.7). |
 | trahere in consequenciam | draw into a precedent | The legal idiom; *consequencia* stays "inference". Ruled 2026-10-07 (*Pot. pape* 94.13). |
 | primogenitura | primogeniture | Ruled 2026-10-07 (*Pot. pape* 103.2). |
+| potestas regiminis | power of rule | Paired with *potestas ordinis* "power of order". Ruled 2026-10-07 (*Pot. pape* 115.2). |
+| preco (Dei) | herald (of God) | Ruled 2026-10-07 (*Pot. pape* 06-b, 06-d). |
+| criminosus | criminous man | Ruled 2026-10-07 (*Pot. pape* 06-c). |
+| deliramenta | ravings | Ruled 2026-10-07 (*Pot. pape* 06-c). |
 | Lincolniensis | Lincoln | Robert Grosseteste, bishop of Lincoln (S note at first occurrence), as in *De ecclesia*. Ruled 2026-10-07 (*Pot. pape* 59.8). |
 | seculares domini | secular lords | Kept apart from *temporales domini* "temporal lords". Ruled 2026-10-07 (*Pot. pape* 52.16). |
 | potestas dominativa | lordly power | Ruled 2026-10-07 (coordinator, delegated; *Pot. pape* 4.23). |
