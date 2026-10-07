@@ -55,11 +55,11 @@ In this matter the saint seems to say thus: that these two apostles signify two 
 
 [^1]: **T/S/R.** AB in marg.: *Humilitas* (58.8). *Cementem* is Loserth's print (read on the plate); B reads *cernentem* (58.9); neither construes, and we translate as *cementum*, "cement" (our emendation). Matt. 18:1–4 (DR "Who, thinkest thou, is the greater in the kingdom of heaven?"; "as this little child"). B reads *fit* for *sit* (58.14).
 
-[^2]: **S/R.** Matt. 11:29 (DR). A in marg.: *Fundamentum ecclesie quomodo dicitur Petrus* (58.18). Augustine, *De verbis Domini* sermon 10 (now *Sermo* 69); Loserth compares *Opera* V, 1688 (58.21; LEDGER P03e-1, editor; to be checked). B omits *in* (58.21).
+[^2]: **S/R.** Matt. 11:29 (DR). A in marg.: *Fundamentum ecclesie quomodo dicitur Petrus* (58.18). Augustine, *De verbis Domini* sermon 10 (now *Sermo* 69); Loserth compares *Opera* V, 1688 (58.21); the words are *Sermo* 69.2, PL 38, 441 (*discite a me: non mundum fabricare … sed quoniam mitis sum et humilis corde*) (LEDGER P03e-1). B omits *in* (58.21).
 
 [^3]: **C.** *Fundus in terra capitur*: "whose base is taken in the earth", i.e. laid in it. Riches as dung and waters, glory as winds: the house on sand, Matt. 7:26–27, is perhaps in view.
 
-[^4]: **S/R.** Robert Grosseteste, bishop of Lincoln, a sermon on humility (the manuscript reads *Lincon.*, 59.8); Loserth compares Wyclif's *Trialogus* p. 166 and *Sermones* II, 149 (LEDGER P03e-2, editor; the Grosseteste sermon to be checked). A in marg.: *Humilis vere habet octo condiciones*; B: *Octo signa vere humilitatis* (59.13). 1 Pet. 3:9 (DR "Not rendering evil for evil, nor railing for railing, but contrariwise, blessing"); Luke 7:8 (DR "I also am a man subject to authority").
+[^4]: **S/R.** Robert Grosseteste, bishop of Lincoln, a sermon on humility, which Wyclif names elsewhere as the sermon *Beati pauperes spiritu* (*Opus evangelicum* I, p. 17; the same signs are quoted in *De civili dominio* III, p. 40) (the manuscript reads *Lincon.*, 59.8); Loserth compares Wyclif's *Trialogus* p. 166 and *Sermones* II, 149 (LEDGER P03e-2, editor; Grosseteste's own text not consulted). A in marg.: *Humilis vere habet octo condiciones*; B: *Octo signa vere humilitatis* (59.13). 1 Pet. 3:9 (DR "Not rendering evil for evil, nor railing for railing, but contrariwise, blessing"); Luke 7:8 (DR "I also am a man subject to authority").
 
 [^5]: **S/C.** Gal. 2:11–14; Acts 10:5–33 (Cornelius at Caesarea; Peter lodged with Simon the tanner at Joppa, 10:6). *Sicut enim … toleravit, quando eciam*: the correlative is not expressed; we supply "[so]". *Constipacionem comitive elegantis equestrium*, "the press of an elegant mounted company".
 
@@ -73,13 +73,13 @@ In this matter the saint seems to say thus: that these two apostles signify two 
 
 [^10]: **T/C.** The clause *et quoad aliquam earum eminenciam* (61.2–3) does not construe as it stands and may have lost a word. Alternative construal: each saint is humbler and more charitable [than another] in some respect, in which he has an eminence among the virtues. B reads *eorum* for *earum* (61.3).
 
-[^11]: **S/C.** Augustine, *Tractatus in Iohannem* 124.4–5 (Loserth: *Opera* III, 2, 820, 61.4; LEDGER P03e-3, editor; to be checked). *Prius diligit* is the print (read on the plate); *plus*, "more", would suit the argument, but "sooner" is translated. *Ihesum suum*, "his Jesus", is the print.
+[^11]: **S/C.** Augustine, *Tractatus in Iohannem* 124.4–5 (PL 35, 1971–75: John's repeated *quem diligebat Iesus* is the question of 124.4, the two lives the answer of 124.5; Loserth: *Opera* III, 2, 820, 61.4; LEDGER P03e-3). *Prius diligit* is the print (read on the plate); *plus*, "more", would suit the argument, but "sooner" is translated. *Ihesum suum*, "his Jesus", is the print.
 
-[^12]: **S.** Augustine, *Tractatus in Iohannem* 124.5 (LEDGER P03e-4, editor; to be checked): Peter loves more, John is loved more; Christ loves us less in our misery than he will in blessedness.
+[^12]: **S.** Augustine, *Tractatus in Iohannem* 124.5–6 (PL 35, 1973–75; *minus nos amat Christus miseros quam beatos* is 124.6) (LEDGER P03e-4): Peter loves more, John is loved more; Christ loves us less in our misery than he will in blessedness.
 
 [^13]: **C.** *Presbiter hic*: Peter, figure of the active life (cf. 1 Pet. 5:1, where Peter calls himself a fellow *senior*); the referent is not certain. *Eque amat*: what God loves he loves eternally, and with an equal love.
 
-[^14]: **S.** Augustine, *Tractatus in Iohannem* 124.5; Loserth: "loosely quoted" (62.1; LEDGER P03e-5, editor; to be checked). John 21:15 (DR "Yea, Lord, thou knowest that I love thee"). *Plus perfectas* agrees with *virtutes*: the virtues, not Peter, are "more perfect" than [those of] the other apostles.
+[^14]: **S.** Augustine, *Tractatus in Iohannem* 124.4 (PL 35, 1972: *Non enim quantum ab alio quolibet diligeretur scire poterat, qui cor alterius videre non poterat*); Loserth: "loosely quoted" (62.1; LEDGER P03e-5). John 21:15 (DR "Yea, Lord, thou knowest that I love thee"). *Plus perfectas* agrees with *virtutes*: the virtues, not Peter, are "more perfect" than [those of] the other apostles.
 
 ## Transcription notes
 

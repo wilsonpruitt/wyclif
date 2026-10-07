@@ -66,7 +66,7 @@ otherwise.
 | regalia | regality | The king's royal right. Ruled 2026-10-02 (*Eccl.* 148.3, 151.12, 152.12). |
 | forisfacere | commit forfeiture | Ruled 2026-10-02 (152.13). |
 | ecclesia laycalis / secularis | the lay church / the secular church | Ruled 2026-10-02 (154.15, 156.3). |
-| orator | CONTEXTUAL: bedesman / advocate | Plural *oratores* "bedesmen" (Dialogus ruling); of one who pleads the church's cause (*orator ecclesie*, *Eccl.* 165.25, 166.4) "advocate", with a **C** note. Ruled 2026-10-02. |
+| orator | CONTEXTUAL: bedesman / advocate / suppliant | Plural *oratores* "bedesmen" (Dialogus ruling); of one who pleads the church's cause (*orator ecclesie*, *Eccl.* 165.25, 166.4) "advocate", with a **C** note. Ruled 2026-10-02. Of one who prays to God himself (*devotus Dei orator*, *Pot. pape* 68.17) "suppliant", with a **C** note; ruled 2026-10-07. |
 | privilegium / privilegiare / privilegiacio | privilege / to privilege / privileging | The key term of *Eccl.* 8–9. Ruled 2026-10-02. |
 | exempcio | exemption | Ruled 2026-10-02 (*Eccl.* 9). |
 | furce et puteus | gallows and pit | The franchise of capital justice. Ruled 2026-10-02 (*Eccl.* 9). |
@@ -194,7 +194,7 @@ otherwise.
 | assumptum | the assumption | The premiss taken for the argument. Ruled 2026-09-28 (3 sites). |
 | sentenciare | to pronounce | The verb of *sentencia*. Ruled 2026-09-28 (2 sites). |
 | predicamentum | category | The Aristotelian category; never "predicament" (*Dial.* 92.1: the standard member of a category). Ruled 2026-09-28 (coordinator, delegated). |
-| sequela | what follows | Ruled 2026-09-28 (coordinator, delegated). |
+| sequela | CONTEXTUAL: what follows / following | The logical consequence "what follows"; of following Christ (*sequela Christi*) "following" (*Pot. pape* 63.13). Ruled 2026-09-28; second sense 2026-10-07. |
 | practizare | to put into practice | Ruled 2026-09-28 (coordinator, delegated) (4 sites). With *contra* + person, "practise against" (plot), *Dial.* ch. 17. Ruled 2026-09-29 (coordinator, delegated, close-out). |
 | sophisticare (transitive) | to counterfeit | Kept apart from *sophisticari*, to play the sophist. Ruled 2026-09-28 (coordinator, delegated). |
 | respectus; respectivus | relation; relational | Ruled 2026-09-28 (coordinator, delegated). |
@@ -532,6 +532,10 @@ otherwise.
 | licencia | licence | Permission granted, which Wyclif sets against *potestas*; never "power". Ruled 2026-10-07 (*Pot. pape* 41.21).|
 | primatus | primacy | Peter's and the pope's; *preeminencia* stays "preeminence". Ruled 2026-10-07 (*Pot. pape* ch. 3). |
 | primitas | firstness | Being first in order, as against *primatus*. Ruled 2026-10-07 (*Pot. pape* ch. 3). |
+| auctoritas | authority | Ruled 2026-10-07 (*Pot. pape* 63.16). |
+| procuratoria potestas | proctorial power | From *procurator* "proctor". Ruled 2026-10-07 (*Pot. pape* 63.9). |
+| archivicarius | archvicar | Ruled 2026-10-07 (*Pot. pape* 62.20). |
+| geromantici | geomancers | Ruled 2026-10-07 (*Pot. pape* 71.23). |
 | Lincolniensis | Lincoln | Robert Grosseteste, bishop of Lincoln (S note at first occurrence), as in *De ecclesia*. Ruled 2026-10-07 (*Pot. pape* 59.8). |
 | seculares domini | secular lords | Kept apart from *temporales domini* "temporal lords". Ruled 2026-10-07 (*Pot. pape* 52.16). |
 | potestas dominativa | lordly power | Ruled 2026-10-07 (coordinator, delegated; *Pot. pape* 4.23). |

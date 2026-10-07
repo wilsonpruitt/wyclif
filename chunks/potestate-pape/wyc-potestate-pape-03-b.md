@@ -49,11 +49,11 @@ The same is also figured by this, that Christ willed the [doctrine]{g:doctrina} 
 
 [^1]: **R/S.** A in marg.: *Petra Christus, non Petrus* (47.27). Matt. 16:18–19 (DR). *Arris*, "earnest": a pledge paid in advance.
 
-[^2]: **S.** Matt. 18:18; John 20:22–23; 1 Cor. 10:4 (DR "the rock was Christ"); 1 Cor. 3:11. Augustine, *Sermo* 76 (on Matt. 14), Maurist *Opera* V, 415, which Wyclif cites as *De verbis Domini* sermon 13; cf. Hus, *Opera*, fol. 210a (Loserth, 48.15; LEDGER P03b-1, editor; to be checked). The words put in Christ's mouth are Wyclif's expansion; Loserth's italics begin at *a petra*. B reads *peter* for *per te* (48.19).
+[^2]: **S.** Matt. 18:18; John 20:22–23; 1 Cor. 10:4 (DR "the rock was Christ"); 1 Cor. 3:11. Augustine, *Sermo* 76 (on Matt. 14), Maurist *Opera* V, 415, which Wyclif cites as *De verbis Domini* sermon 13; cf. Hus, *Opera*, fol. 210a (Loserth, 48.15; *Sermo* 76.1, PL 38, 479: *Super me aedificabo te, non me super te*; the Hus parallel is Loserth's; LEDGER P03b-1). The words put in Christ's mouth are Wyclif's expansion; Loserth's italics begin at *a petra*. B reads *peter* for *per te* (48.19).
 
-[^3]: **S.** The *petra*/*Petrus* passage is from the same sermon of Augustine (*Sermo* 76.1; to be checked, LEDGER P03b-2). 1 Cor. 1:12 (DR "I indeed am of Paul; and I am of Apollo; and I of Cephas"); Augustine's wording is translated. B omits *Petrum* (48.28).
+[^3]: **S.** The *petra*/*Petrus* passage is from the same sermon of Augustine (*Sermo* 76.1, PL 38, 479; the 1 Cor. 1:12 sentence follows in 76.2, PL 38, 479–80; LEDGER P03b-2). 1 Cor. 1:12 (DR "I indeed am of Paul; and I am of Apollo; and I of Cephas"); Augustine's wording is translated. B omits *Petrum* (48.28).
 
-[^4]: **S/C.** "He held the principate of the apostolate": Augustine, *Sermo* 76, *Opera* V, 416 (Loserth, 48.30; LEDGER P03b-3, editor; to be checked). *Primitatem*, "firstness", a non-classical abstract beside *primatus*, "primacy". The italics mark only *Dabo tibi* and *claves ecclesie*; the rest is Wyclif's expansion of Matt. 16:19. "The church of the malignant": Ps. 25:5 (DR "the assembly of the malignant"). Matt. 16:16 (DR "Thou art Christ, the Son of the living God").
+[^4]: **S/C.** "He held the principate of the apostolate": Augustine, *Sermo* 76, *Opera* V, 416 (Loserth, 48.30; *Sermo* 76.3, PL 38, 480: *apostolatus principatum tenens*; LEDGER P03b-3). *Primitatem*, "firstness", a non-classical abstract beside *primatus*, "primacy". The italics mark only *Dabo tibi* and *claves ecclesie*; the rest is Wyclif's expansion of Matt. 16:19. "The church of the malignant": Ps. 25:5 (DR "the assembly of the malignant"). Matt. 16:16 (DR "Thou art Christ, the Son of the living God").
 
 [^5]: **S.** "John 4" as printed; the sense fits 1 John 4:2–3 (DR "every spirit that dissolveth Jesus is not of God. And this is Antichrist").
 
@@ -61,7 +61,7 @@ The same is also figured by this, that Christ willed the [doctrine]{g:doctrina} 
 
 [^7]: **S.** Eph. 6:16 (DR "the shield of faith"). Matt. 19:27 has "all things" only (DR "we have left all things"); "wife" comes from 19:29. The promise to die, Matt. 26:35; John 18:10 (DR "struck the servant of the high priest"); Matt. 14:29; John 21:7. Peter's death at Rome: no source is given.
 
-[^8]: **S/C.** Matt. 14:29. Augustine, "Sermon 4": Loserth refers to the same volume, p. 320 (*ubi supra*) (LEDGER P03b-4, editor; to be checked). *Videbatur a domino … venire*: "was seen by the Lord coming"; it may be "seemed … to come".
+[^8]: **S/C.** Matt. 14:29. Augustine, "Sermon 4": Loserth refers to the same volume, p. 320 (*ubi supra*); the sermon is not identified, and the sense (the sea the present world, Peter on it the figure of the church) is in the two sermons on Matt. 14, *Sermo* 75.9–10 and 76.1, PL 38, 478–79 (LEDGER P03b-4, editor). *Videbatur a domino … venire*: "was seen by the Lord coming"; it may be "seemed … to come".
 
 [^9]: **T/S/C.** *Ad Christum*: the manuscripts read *ad dominum* (50.11); Loserth's print is translated. John 21:7–8 (DR "girt his coat about him … cast himself into the sea"; "the other disciples came in the ship"). *Potencia* is here "power", the power of binding, used as *potestas* is.
 
@@ -69,7 +69,7 @@ The same is also figured by this, that Christ willed the [doctrine]{g:doctrina} 
 
 [^11]: **S.** John 21:11 (DR "full of great fishes, one hundred and fifty-three"); Wyclif's order is translated. The first fishing is Luke 5:1–11. "The land of the living": Ps. 26:13.
 
-[^12]: **S.** Matt. 18:15 (DR "If thy brother shall offend against thee, go, and rebuke him between thee and him alone", without *autem*). The opening words, *Aspiciens Ihesus in discipulos suos dixit Simoni Petro*, are not in the Vulgate; they resemble a lectionary incipit for this gospel (LEDGER P03b-5, to be checked). For the cross-reference Loserth gives *De civili dominio* II, 62 and III, 519 (LEDGER P03b-6, editor): the books are counted within Wyclif's *Summa*. B reads 34 for XXIV (51.2).
+[^12]: **S.** Matt. 18:15 (DR "If thy brother shall offend against thee, go, and rebuke him between thee and him alone", without *autem*). The opening words, *Aspiciens Ihesus in discipulos suos dixit Simoni Petro*, are not in the Vulgate; they are the liturgical incipit of this gospel, *Respiciens Iesus discipulos suos dixit Simoni Petro* (*Liber comitis*, PL 30, 500C; also the gospel of the synodal ordo, PL 140, 1066D) (LEDGER P03b-5). For the cross-reference Loserth gives *De civili dominio* II, 62 and III, 519; Wyclif's chapters are *De civili dominio* II, ch. 8 (from p. 69, on correction; Loserth's p. 62 falls in ch. 7) and III, ch. 24 (p. 519, God's correction of his sons, Heb. 12:5–6) (LEDGER P03b-6): the books are counted within Wyclif's *Summa*. B reads 34 for XXIV (51.2).
 
 [^13]: **R/S/C.** A in marg., another hand: *Nota quod sensus figuraliter equivalet literali* (51.2). John 21:15–17 (DR "Feed my lambs", "Feed my sheep"); John 21:2 names seven disciples, not twelve. *Simpliciter*: the care of the whole flock, without qualification.
 

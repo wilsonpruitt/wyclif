@@ -73,13 +73,13 @@ And others divide the members of the church into spiritual or right-hand, such a
 
 ## Notes
 
-[^1]: **C/S.** *Procul fari*, "to speak out from afar", plays on the etymology of *propheta* as one who speaks forth or from afar (cf. Isidore, *Etym.* 7.8.1, to be checked; LEDGER P02d-1). *Secundum scienciam* echoes "the word of knowledge, according to the same Spirit" (1 Cor. 12:8). Wyclif is following the order of 1 Cor. 12:28 (DR "first apostles, secondly prophets, thirdly doctors"). 2 Pet. 1:19 ("the more firm prophetical word"); Mark 16:20; 1 Cor. 1:17 ("Christ sent me not to baptize, but to preach the gospel"); Wyclif gives chapters only.
+[^1]: **C/S.** *Procul fari*, "to speak out from afar", plays on the etymology of *propheta* as one who speaks forth or from afar (Isidore, *Etym.* 7.8.1, PL 82, 283B: prophets are *quasi praefatores, quia porro fantur*, who foresaw *ea quae in mysterio abscondita erant*; LEDGER P02d-1). *Secundum scienciam* echoes "the word of knowledge, according to the same Spirit" (1 Cor. 12:8). Wyclif is following the order of 1 Cor. 12:28 (DR "first apostles, secondly prophets, thirdly doctors"). 2 Pet. 1:19 ("the more firm prophetical word"); Mark 16:20; 1 Cor. 1:17 ("Christ sent me not to baptize, but to preach the gospel"); Wyclif gives chapters only.
 
 [^2]: **S.** Matt. 23:34. The Vulgate has only *prophetas, et sapientes, et scribas* (DR "prophets and wise men and scribes"); *et apostolos et evangelistas* is not in it (cf. Luke 11:49, *prophetas et apostolos*). Wyclif's added words are translated.
 
 [^3]: **S.** The third degree of 1 Cor. 12:28 (DR "thirdly doctors"); the gift of faith, 1 Cor. 12:9; Mark 4:34 (DR "but apart, he explained all things to his disciples"). B omits *doctores*; A in marg.: *tercius* (37.12).
 
-[^4]: **R/G.** The three degrees of the first hierarchy (apostles, prophets, doctors) are patterned on the first of the three angelic hierarchies of Pseudo-Dionysius, *De caelesti hierarchia* (to be checked; LEDGER P02d-2). "He" is the Apostle, whose list (1 Cor. 12:28) Wyclif now follows into the second hierarchy, DR "miracles … graces of healings, helps". *Virtus* here is "power" in the sense of those "miracles" (*virtutes*), the "working of miracles" (*operatio virtutum*) of 12:10. AB in marg.: *Ierarchia secunda* (37.29).
+[^4]: **R/G.** The three degrees of the first hierarchy (apostles, prophets, doctors) are patterned, as Wyclif says (*exemplariter ad primam yerarchiam celestem*), on the first of the three angelic hierarchies of Pseudo-Dionysius, *De caelesti hierarchia* 6.2 (thrones, cherubim, seraphim; LEDGER P02d-2). "He" is the Apostle, whose list (1 Cor. 12:28) Wyclif now follows into the second hierarchy, DR "miracles … graces of healings, helps". *Virtus* here is "power" in the sense of those "miracles" (*virtutes*), the "working of miracles" (*operatio virtutum*) of 12:10. AB in marg.: *Ierarchia secunda* (37.29).
 
 [^5]: **S.** 1 Cor. 12:7 (DR "the manifestation of the Spirit is given to every man unto profit"); John 4:24 ("God is a spirit"); the tongues of fire, Acts 2:3.
 
@@ -89,13 +89,13 @@ And others divide the members of the church into spiritual or right-hand, such a
 
 [^8]: **C.** *Prepositis utriusque membrorum ecclesie*: "both" is taken to mean the two kinds of members, clergy and laity (cf. ¶7). The gifts are those of 1 Cor. 12:10, 28 (DR "the discerning of spirits"; "governments, kinds of tongues, interpretations of speeches"). AB in marg.: *Tertia ierarchia*; A in marg. sup.: *Membra ecclesie quam habent similitudinem ad membra corporis humani* (38.18).
 
-[^9]: **S/G.** Aristotle, *Politics* 1.2 (man a political animal, endowed with speech), to be checked (LEDGER P02d-3); 1 Cor. 14:11 (DR "I shall be to him to whom I speak a barbarian"). *Curatus* here is the one charged with such an office of superior, not only a parish priest.
+[^9]: **S/G.** Aristotle, *Politics* 1.2, 1253a2–18 (man a political animal; speech, not mere voice, proper to man) (LEDGER P02d-3); 1 Cor. 14:11 (DR "I shall be to him to whom I speak a barbarian"). *Curatus* here is the one charged with such an office of superior, not only a parish priest.
 
 [^10]: **C.** *Figurant secundum spiritum dicentem scienciam mundanorum*: *secundum* is taken as "the second [gift]", knowledge, after wisdom (1 Cor. 12:8); it may instead be the preposition: "figure, according to the spirit, [the gift] that speaks the knowledge of worldly things". *Quinque spirituum* may stand for the five outer senses. "Faith that comes by hearing": Rom. 10:17.
 
 [^11]: **T/S.** Loserth queries *coequari*, "be matched with", for the printed *cooperari* (39.23); the print is translated. 1 Cor. 9:22 (DR "I became all things to all men, that I might save all"); *ut omnia lucrifaceret* echoes *ut infirmos lucrifacerem* in the same verse. Wyclif's words are translated.
 
-[^12]: **S.** Pseudo-Chrysostom, *Opus imperfectum in Matthaeum*, hom. 22; Loserth: Chrysostom, *Opera* (ed. Migne) VI (LEDGER P02d-4, to be checked). B in marg.: *Membrum* (39.30).
+[^12]: **S.** Pseudo-Chrysostom, *Opus imperfectum in Matthaeum*, hom. 22; Loserth: Chrysostom, *Opera* (ed. Migne) VI (Migne's Chrysostom vol. VI = PG 56; the column is illegible in the OCR of Loserth's foot; LEDGER P02d-4, editor). B in marg.: *Membrum* (39.30).
 
 [^13]: **C.** *Sine contencione minoritatis et obediencie*: taken as contention over lesser standing and obedience (no member disputes its lower place); the genitives may instead describe the service itself, "without contention, in lowliness and obedience". A in marg. numbers the three agreements 1, 2, 3 (40.1, 40.4, 40.6).
 

@@ -775,11 +775,14 @@ def run(slug, first=None, last=None):
                 break
         # tokenfix entries naming TWO consecutive tokens ('nec essitate' -> necessitate), for a split word whose
         # first half recurs on the page (2026-10-02)
-        for i in range(len(out_tokens) - 1):
-            pair = (pg, out_tokens[i]['t'] + ' ' + out_tokens[i + 1]['t'])
+        live = [i for i, x in enumerate(out_tokens) if x['t']]   # skip emptied tokens between the two (2026-10-07:
+        for i, j in zip(live, live[1:]):                         # 'se quela', 'arguitur I' missed across one)
+            if not out_tokens[i]['t'] or not out_tokens[j]['t']:
+                continue
+            pair = (pg, out_tokens[i]['t'] + ' ' + out_tokens[j]['t'])
             if pair in tokenfix:                     # 'a || b' sets both tokens (keeps the second's ¶ flag)
                 fx = tokenfix[pair].split(' || ')
-                out_tokens[i]['t'], out_tokens[i + 1]['t'] = fx[0], (fx[1] if len(fx) > 1 else '')
+                out_tokens[i]['t'], out_tokens[j]['t'] = fx[0], (fx[1] if len(fx) > 1 else '')
         # a comma read as a full stop: Loserth capitalises after every stop, so 'word. lower' inside one line is
         # his comma (De pot. pape, 2026-10-07: 12 of 13 sampled on the plate; the 13th, a real stop, ended its
         # line). Line-end cases are listed in commas_eol.tsv for the plate, and a read one is kept by tokenfix.

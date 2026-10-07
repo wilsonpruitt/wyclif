@@ -56,19 +56,19 @@ And from these things it seems that the power of predestination (of which John 1
 
 [^3]: **C.** *Perdicionem potencie … potestas illa*: Wyclif uses *potencia* and *potestas* of the same thing here, "power" both times. *Per mortale*: by mortal sin, as *in mortali* at 42.11. B in marg.: *Perdere potestatem*; A in marg.: *Potestatem homo perdit per peccatum mortale* (41.20).
 
-[^4]: **S.** Gregory, *Hom. in Evang.* 26.5–6, as excerpted in the Decretum, C. 11 q. 3 cc. 60–62 (Loserth "Decreti secunda pars, Causa XI, q. III, cap. LX–LXII"; the modern form is ours; LEDGER P02e-1, editor; Gregory's homily to be checked, LEDGER P02e-2). John 11:43–44 (DR "Lazarus, come forth"; "Loose him"). The printed *Indicare* (41.27) is read as *iudicare*, "judge".
+[^4]: **S.** Gregory, *Hom. in Evang.* 26.5–6, as excerpted in the Decretum, C. 11 q. 3 cc. 60–62 (Loserth "Decreti secunda pars, Causa XI, q. III, cap. LX–LXII"; the modern form is ours; PL 187, 861B–862A; the homily is PL 76, 1200B–C; LEDGER P02e-1, P02e-2). John 11:43–44 (DR "Lazarus, come forth"; "Loose him"). The printed *Indicare* (41.27) is read as *iudicare*, "judge".
 
 [^5]: **C.** *Cum cursu ecclesie*: "from the course of the church", its present practice. *Tam in foro penitencie quam iuris*: the court of penance and the court of law.
 
 [^6]: **T.** *Cum dativo* (42.7) does not construe; the plate confirms the print. We take the sense to be "given" (perhaps for *cum detur* or *tamquam data*) and supply it in brackets.
 
-[^7]: **S/C.** Gregory, as excerpted in the Decretum, C. 11 q. 3 c. 63 (to be checked; LEDGER P02e-3); Loserth gives only *ibidem*. *Non defert meritum sive dignum*: "does not defer", i.e. delays no requital; it may instead mean "does not pay regard to".
+[^7]: **S/C.** Gregory, as excerpted in the Decretum, C. 11 q. 3 c. 63 (*Idem in Regesto*; PL 187, 862A; Loserth "Ibid. cap. LXIII"; LEDGER P02e-3); the maxim is Pope Simplicius's, and Gratian gives it under his name at D. 74 c. 7. *Non defert meritum sive dignum*: "does not defer", i.e. delays no requital; it may instead mean "does not pay regard to".
 
 [^8]: **C.** *Vocando potestatem, posse vel potenciam aut liberum arbitrium*: in one place Gregory's "power" names the bare capacity (*posse*, *potencia*), which no sin removes, and in another the licence, which is lost; *potencia* is "power" in the sense of capacity. *Nec virtute*: *virtus* as faculty.
 
-[^9]: **S.** Decretum, C. 24 q. 1 (Augustine); Loserth gives no canon (LEDGER P02e-4, to be checked). His italics run over the gloss *id est … divisos*, which may be Wyclif's own; we follow them.
+[^9]: **S.** Decretum, C. 24 q. 1 c. 31 (*Didicimus*; Loserth, 42.27; PL 187, 1279C: *omnes omnino haereticos et schismaticos nil habere potestatis ac iuris*); Gratian's inscription is Cyprian, to Magnus, not Augustine as Wyclif has it (LEDGER P02e-4). His italics run over the gloss *id est … divisos*, which may be Wyclif's own; we follow them.
 
-[^10]: **C.** *Ut alias declaravi*: the place is not identified (LEDGER P02e-5, to be checked).
+[^10]: **C.** *Ut alias declaravi*: the place is not identified (LEDGER P02e-5; not found by phrase search in the Society volumes).
 
 [^11]: **S.** John 1:12 (DR "he gave them power to be made the sons of God") is the likeliest reference. A in marg.: *Potestas predestinacionis est maxima potestas viatoris*; B in marg.: *Potestas predestinacionis maxima* (43.1).
 

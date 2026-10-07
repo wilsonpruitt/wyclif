@@ -66,19 +66,19 @@ Again, secondly, from Peter's opinions after the Ascension the same truth could 
 
 [^12]: **S/C.** Matt. 17:23, 26 (DR); Wyclif reads *pro me et pro te* (Vulgate *pro me et te*). *Quod Salvator docuit* takes up the collectors' treating Peter as "greatest of them": Christ taught the same "in effect" by joining Peter alone to himself.
 
-[^13]: **S.** Pseudo-Dionysius, *De divinis nominibus* 3: Loserth notes that the chapter only reads that Peter was present, "the supreme and most venerable summit of theologians" (*summa et porrectissima theologorum summitas*), ed. Cologne 1536 (54.12; LEDGER P03c-1, editor; to be checked). John 1:42 (DR "Cephas, which is interpreted Peter"); Wyclif takes *Cephas* as "head", the medieval etymology from Greek *kephalē*.
+[^13]: **S.** Pseudo-Dionysius, *De divinis nominibus* 3: Loserth notes that the chapter only reads that Peter was present, "the supreme and most venerable summit of theologians" (*summa et porrectissima theologorum summitas*), ed. Cologne 1536 (54.12); the Greek is *hē koryphaia kai presbytatē tōn theologōn akrotēs*, *De div. nom.* 3.2 (PG 3, 681D), and *koryphaia* lies behind Wyclif's *verticalem* (LEDGER P03c-1). John 1:42 (DR "Cephas, which is interpreted Peter"); Wyclif takes *Cephas* as "head", the medieval etymology from Greek *kephalē*.
 
-[^14]: **S.** Pseudo-Dionysius, *De ecclesiastica hierarchia* 5: Loserth gives the more correct form *discipulorum summum* (54.18; LEDGER P03c-2, editor; to be checked). Acts 1:15–26.
+[^14]: **S.** Pseudo-Dionysius, *De ecclesiastica hierarchia* 5: Loserth gives the more correct form *discipulorum summum* (54.18); the Greek is *ho tōn mathētōn koryphaios*, *De eccl. hier.* 5.3.5 (PG 3, 512C), of Peter at the election of Matthias (LEDGER P03c-2). Acts 1:15–26.
 
-[^15]: **S.** The letter of Dionysius to Timothy on the deaths of Peter and Paul is apocryphal; Loserth refers to Pitra, *Analecta sacra* IV (54.24; LEDGER P03c-3, editor; to be checked).
+[^15]: **S.** The letter of Dionysius to Timothy on the deaths of Peter and Paul is apocryphal; Loserth refers to Pitra, *Analecta sacra* IV (54.24), which prints it, with a Latin version from the Syriac, as the letter to Timothy *de morte apostolorum Petri et Pauli*; Paul's parting greeting there is *Pax tecum, fundamentum ecclesiarum et pastor ovium et agnorum Christi* (LEDGER P03c-3).
 
 [^16]: **S.** *Decretum* C. 24 q. 1 c. 15 (*Rogamus*), under the name of Pope Marcellus; Loserth gives "cap. XV" (55.3); the modern form is ours (LEDGER P03c-4, editor). Matt. 16:18.
 
 [^17]: **T/S.** Loserth: D. 21 c. 2 (*In novo*); D. 22 c. 1 (*Omnes*; the manuscript reads *Omnis*, 55.9) and c. 2 (*Sacrosancta*); C. 24 q. 3 c. 6 (*De illicita*) (55.9–10; LEDGER P03c-5, editor; modern forms ours). *In* of *In novo* is lost from our Latin at 55.9 (the plate reading shows *In novo*); it is translated.
 
-[^18]: **S.** Ps.-Augustine (Ambrosiaster), *Quaestiones veteris et novi testamenti*: Loserth corrects the chapter to 75 (55.11; LEDGER P03c-6, editor; to be checked). Matt. 17:26.
+[^18]: **S.** Ps.-Augustine (Ambrosiaster), *Quaestiones veteris et novi testamenti*: Loserth corrects the chapter to 75 (55.11): q. 75, PL 35, 2269–70, *qui primus inter Apostolos erat … Ipsum enim constituit esse caput eorum, ut pastor esset gregis dominici* (LEDGER P03c-6). Matt. 17:26.
 
-[^19]: **S.** "The last chapter" of the same work, and the prayer *Ad Spiritum Sanctum*: Loserth refers to Augustine, *Opera* III, Appendix, and compares the *Tractatus in Iohannem* (LEDGER P03c-7, editor; to be checked). The apostate is Peter after his denial.
+[^19]: **S.** "The last chapter" of the same work, and the prayer *Ad Spiritum Sanctum*: the last question, q. 127 (PL 35, 2384), says that Peter received the primacy among the apostles; the prayer has not been found, and Loserth's references (*Opera* III, App., and *Tract. in Ioh.*, *Opera* III, 2, 724) belong to the *Quaestiones* citation at 55.10, not to this line (LEDGER P03c-7). The apostate is Peter after his denial.
 
 [^20]: **T/C.** *Ad quem concedit*: the subject of *concedit* is the church. The manuscripts read *propterea* at 55.20, probably at *propter tria*; Loserth's print is translated.
 

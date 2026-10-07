@@ -48,7 +48,7 @@ From this ranking a pious theologian can gather, as from a foundation, that Pete
 
 ## Notes
 
-[^1]: **S.** Richard FitzRalph, *Summa in quaestionibus Armenorum* VII; Loserth gives no chapter (LEDGER P03a-1, to be checked). *Primatus* is rendered "primacy" throughout; *preeminenciam capitalem*, "a preeminence as head" (cf. *capitaliter*). A in marg.: *Petrus si ut caput ecclesie primatum tenuit* (43.21).
+[^1]: **S.** Richard FitzRalph, *Summa in quaestionibus Armenorum* VII; Loserth gives no chapter (LEDGER P03a-1; awaiting the 1512 print). *Primatus* is rendered "primacy" throughout; *preeminenciam capitalem*, "a preeminence as head" (cf. *capitaliter*). A in marg.: *Petrus si ut caput ecclesie primatum tenuit* (43.21).
 
 [^2]: **S.** Wyclif cites Matt. 20 (the request for the sons of Zebedee, 20:20–28), but the contention and the answer are Luke 22:24, 26 (DR "which of them should seem to be the greater"; "he that is the greater among you, let him become as the younger"). His *fiat ut minor* is translated.
 
@@ -66,7 +66,7 @@ From this ranking a pious theologian can gather, as from a foundation, that Pete
 
 [^9]: **T.** The manuscripts read *negacio accomoda aconda* (sic); Loserth omits *aconda* (45.22–23). *Negacio*: the negative "fail not". A reads *vel alia* (45.20–21); B *deiicit* for *defecit* (45.21).
 
-[^10]: **C/S.** *Ut exposui in capitulo V huius*: chapter 5 of this treatise comes later; the reference is translated as printed (LEDGER P03a-2, to be checked). John 21:17 (DR "Feed my sheep"); Wyclif's indirect *pascere oves suas* is quoted, as the italics have it. B omits *tu* (45.26).
+[^10]: **C/S.** *Ut exposui in capitulo V huius*: chapter 5 of this treatise comes later, and the place is there: the third of its three conclusions on the pastoral office, that pope and bishops must feed Christ's sheep, *patet ex officio ter limitato Petro Johannis ultimo* (102.2–5); the past tense is translated as printed (LEDGER P03a-2). John 21:17 (DR "Feed my sheep"); Wyclif's indirect *pascere oves suas* is quoted, as the italics have it. B omits *tu* (45.26).
 
 [^11]: **T/S.** "John 20:1–9": the print has *Joh. XX, 1 9*. The quoted words are not the Vulgate's: John 20:2 has *Tulerunt Dominum de monumento* (DR "They have taken away the Lord out of the sepulchre").
 

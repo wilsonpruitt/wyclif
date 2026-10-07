@@ -38,15 +38,15 @@ As to the first, it has been dealt with in part; but for the second it is to be 
 
 [^3]: **T/S.** 1 John 5:5 (DR); Loserth gives 5:4; the manuscripts read *I. Joh. IV* and *quia quam* (56.19). The construal of *quam secundum beatum Joh.* is ours: the article meant is "the Son of God overcomes the world". B in marg.: *Excellencia Petri in tribus virtutibus* (56.20).
 
-[^4]: **S.** Matt. 16:17–18 (DR). *Arras prefecture*, "the earnest of charge": a pledge of the office to come. Augustine on John, "the last sermon": *Tractatus in Iohannem* 124.5; Loserth gives *Opera* IV, 1207 (LEDGER P03d-1, editor; to be checked). 1 Cor. 10:4 (DR "and the rock was Christ").
+[^4]: **S.** Matt. 16:17–18 (DR). *Arras prefecture*, "the earnest of charge": a pledge of the office to come. Augustine on John, "the last sermon": *Tractatus in Iohannem* 124.5; PL 35, 1973 (*quatitur, et non cadit, quoniam fundata est super petram, unde Petrus nomen accepit. Non enim a Petro petra, sed Petrus a petra*); Loserth gives *Opera* IV, 1207, which does not agree with his own *Opera* III, 2, 820 for the same tractate at 61.4 (LEDGER P03d-1). 1 Cor. 10:4 (DR "and the rock was Christ").
 
 [^5]: **T/S.** Luke 22:32 (DR); B reads *unde* for *ut* (57.5). Heb. 5:7 (DR "was heard for his reverence"). B omits *Petri* (57.8).
 
 [^6]: **T/S/C.** John 18:10 (the reference *Joh.* is Loserth's; the manuscripts omit it, 57.13); John 20:4–6; John 21:7–8 (DR "It is the Lord … cast himself into the sea"). *Evangelista … stante* is read as an ablative absolute: John stood outside the tomb.
 
-[^7]: **T/S/C.** *Decretum* C. 24 q. 1 c. 17 (*Si Petrus*), under Gregory's name; Loserth gives "Cap. XVII" (57.22; LEDGER P03d-2, editor; modern form ours; to be checked). A reads *allegorizant* (57.21). *Sanari*: the manuscripts read *saciari* (57.26); Loserth's print is translated. Where the quotation ends is Loserth's: the italics stop at *habebant*. *Dexterum*, "the right thing", plays on Malchus's right ear. The subject of *tollit* is Peter as preacher.
+[^7]: **T/S/C.** *Decretum* C. 24 q. 1 c. 17 (*Si Petrus*), which Wyclif gives to Gregory; Gratian's inscription is Ambrose, *In Lucam* X (PL 187, 1271A); Loserth gives "Cap. XVII" (57.22; LEDGER P03d-2; modern form ours). A reads *allegorizant* (57.21). *Sanari*: the manuscripts read *saciari* (57.26); Loserth's print is translated. Where the quotation ends is Loserth's: the italics stop at *habebant*. *Dexterum*, "the right thing", plays on Malchus's right ear. The subject of *tollit* is Peter as preacher.
 
-[^8]: **S.** The allegory of John 20:4–6 follows Gregory, *Homilia in evangelia* 22 (LEDGER P03d-3, to-verify): John, who came first, the synagogue; Peter, who entered first, the gentiles. John 21:4–8: Christ on the shore, the others in the boat. *Martyres in sermone fidei* may also be construed "come in the word of faith".
+[^8]: **S.** The allegory of John 20:4–6 follows Gregory, *Homilia in evangelia* 22 (*Hom.* 22.2–3, PL 76, 1175B–C: *Quid ergo per Joannem nisi Synagoga, quid per Petrum nisi Ecclesia designatur?*; LEDGER P03d-3): John, who came first, the synagogue; Peter, who entered first, the gentiles. John 21:4–8: Christ on the shore, the others in the boat. *Martyres in sermone fidei* may also be construed "come in the word of faith".
 
 ## Transcription notes
 
