@@ -82,7 +82,11 @@ def main(slug, force=False):
     while i < len(toks):
         t = toks[i]
         numbered = ((t['t'].upper() == 'CAPITULUM' or t['t'] == 'CAP.') and i + 1 < len(toks)
-                    and re.fullmatch(r'[0-9IVXLivxl]+[°m.ᵐ]*\.?', toks[i + 1]['t']))
+                    and (re.fullmatch(r'[0-9IVXLivxl]+[°m.ᵐ]*\.?', toks[i + 1]['t'])
+                         # an unflagged heading in capitals with an ordinal WORD (De pot. pape XI, XII), never the
+                         # compendium's running 'Capitulum primum premittens' (2026-10-07)
+                         or (t['t'] == 'CAPITULUM' and re.fullmatch(r'(UN|DUO)?(PRIMUM|SECUNDUM|TERCIUM|QUARTUM|QUINTUM|SEXTUM|'
+                                                                    r'SEPTIMUM|OCTAVUM|NONUM|DECIMUM)\.?', toks[i + 1]['t']))))
         if (t['head'] and t['t'].upper().startswith(('CAPITUL', 'CAP.'))) or numbered:
             j = i + 1
             while j < len(toks) and (toks[j]['head'] or (numbered and j == i + 1)):
@@ -139,7 +143,7 @@ def main(slug, force=False):
                 else:
                     groups.append(g)
             for j, g in enumerate(groups):
-                sections.append((f'{cid}-{"abcdefghijklmnop"[j]}', f'{lab}, part {j + 1}',
+                sections.append((f'{cid}-{"abcdefghijklmnopqrstuvwxyz"[j]}', f'{lab}, part {j + 1}',
                                  divs + f"; part {j + 1} of {len(groups)}, split at the editor's ¶ (CONVENTIONS §1)",
                                  hd if j == 0 else None, g))
 

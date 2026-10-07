@@ -8,5 +8,3 @@
   text) before scaffolds; this volume has no Fordham witness to catch it.
 - p. 267 pos 190–201: a blurred line the main scan fragmented, filled in print order (*potenciam … Occumbebant
   bellatores … non succumbebant*); read the re-voted line once on the plate.
-- p. 288: a new ¶ opens at *Sed sexto induit casulam* (side-note "The Chasuble") that the text does not break
-  (paramerge only clears breaks). Structural; for the continuous edition, like De ecclesia's ¶ fixes.
