@@ -36,4 +36,4 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 
 ## Open, non-blocking
 - `text/potestate-pape/PLATE-FLAGS.md`: p. 267 fragmented blurred line (filled in print order; read once more).
-- Nothing pushed; nothing deployed (the site's analytics snippet is committed, waiting for the next OK'd deploy).
+- Pushed to GitHub 2026-10-07 (cf1ae5b). NOT deployed: the analytics snippet waits for an OK'd deploy, and the Vercel CLI is logged in to the covenant-austin account; run `npx vercel login` (wilson-pruitts-projects) first.
