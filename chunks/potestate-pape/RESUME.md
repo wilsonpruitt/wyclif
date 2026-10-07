@@ -37,3 +37,8 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 ## Open, non-blocking
 - `text/potestate-pape/PLATE-FLAGS.md`: p. 267 fragmented blurred line (filled in print order; read once more).
 - Pushed to GitHub 2026-10-07 (cf1ae5b). NOT deployed: the analytics snippet waits for an OK'd deploy, and the Vercel CLI is logged in to the covenant-austin account; run `npx vercel login` (wilson-pruitts-projects) first.
+
+## Running log (stage 7–8)
+- **Wave 1** (01-b … 02-c, 2 briefs, 332K): 14 scars, 4 print misprints kept with T notes, 3 connective fixes; ledger 45 rows → `_verify/RESULTS-1.md`.
+- **Wave 2a** (02-d … 03-b, 184K): 13 scars; *emissa* for printed *omissa* at 47.18 accepted (T note, our emendation).
+- ⚠ **Folio-mark scar:** the editor's folio change `|` (with 167ᵃ etc. in the margin) is read as a stray *I*, *j* or *!* (7 so far). Translators catch it; read each on the plate (the vote cannot, every scan has it).

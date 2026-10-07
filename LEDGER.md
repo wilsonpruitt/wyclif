@@ -1027,3 +1027,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | P02c-1 | potestate-pape-02-c / n1 | FitzRalph, *Summa in quaest. Armen.* II, seven opinions on when the apostles were made priests | to-verify | Loserth gives no chapter |
 | P02c-2 | potestate-pape-02-c / n16 | "libro IV cap. VIII" (*De civ. dom.* II): Loserth: not found | editor | search *De civ. dom.* II |
 | P02c-3 | potestate-pape-02-c / n16 | Christ fulfilled the seven orders in his own person | to-verify | from memory |
+| P02d-1 | potestate-pape-02-d / n1 | *procul fari* plays on the etymology of *propheta* (Isidore, *Etym.* 7.8.1) | to-verify | from memory |
+| P02d-2 | potestate-pape-02-d / n4 | the three degrees follow the first angelic hierarchy of Ps.-Dionysius, *De cael. hier.* | to-verify | from memory |
+| P02d-3 | potestate-pape-02-d / n9 | Aristotle, *Politics* 1.2: man a political animal with speech | to-verify | from memory |
+| P02d-4 | potestate-pape-02-d / n12 | Ps.-Chrysostom, *Opus imperfectum*, hom. 22 ("homo … liber") | editor | Loserth: Chrys. *Opp.* (Migne) VI; column OCR-garbled |
+| P02e-1 | potestate-pape-02-e / n4 | Decretum C.11 q.3 cc.60–62 (Gregory) | editor | form ours |
+| P02e-2 | potestate-pape-02-e / n4 | the source is Gregory, *Hom. in Evang.* 26.5–6 | to-verify | from memory |
+| P02e-3 | potestate-pape-02-e / n7 | "privilegium omnino meretur amittere" = C.11 q.3 c.63 | to-verify | Loserth *ibidem* only |
+| P02e-4 | potestate-pape-02-e / n9 | Augustine in C.24 q.1, "omnes hereticos … non habere aliquid potestatis" | to-verify | no canon given |
+| P02e-5 | potestate-pape-02-e / n10 | the place behind *ut alias declaravi* | to-verify | not identified |
+| P03a-1 | potestate-pape-03-a / n1 | FitzRalph, *Summa in quaest. Armen.* VII: twenty reasons for Peter's preeminence | to-verify | Loserth gives no reference |
+| P03a-2 | potestate-pape-03-a / n10 | "ut exposui in capitulo V huius" (ch. 5 comes later; another work?) | to-verify | check |
+| P03b-1 | potestate-pape-03-b / n2 | Augustine, *Sermo* 76, *Opp.* V 415 (= "De verbis Domini 13"); Hus, *Opp.* 210a | editor | Loserth 48.15 |
+| P03b-2 | potestate-pape-03-b / n3 | the *petra/Petrus* passage is *Sermo* 76.1 | to-verify | from memory |
+| P03b-3 | potestate-pape-03-b / n4 | "apostolatus tenuit principatum" = *Sermo* 76, *Opp.* V 416 | editor | Loserth 48.30 |
+| P03b-4 | potestate-pape-03-b / n8 | Augustine "Sermo IV", *ubi supra* p. 320 | editor | Loserth p. 50 n. 3; identify the sermon |
+| P03b-5 | potestate-pape-03-b / n12 | the incipit *Aspiciens Ihesus in discipulos suos* resembles a lectionary incipit | to-verify | from memory |
+| P03b-6 | potestate-pape-03-b / n12 | "VIII capitulo IV huius et XXIV cap. V libri" = *De civ. dom.* II, 62 and III, 519 | editor | Loserth p. 51 |
