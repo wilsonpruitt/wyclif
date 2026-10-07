@@ -131,7 +131,7 @@
 {"t": "debemus", "leaf": 305, "row": 17, "para": false, "head": false, "pos": 130}
 {"t": "condicionaliter", "leaf": 305, "row": 17, "para": false, "head": false, "pos": 131}
 {"t": "petere", "leaf": 305, "row": 17, "para": false, "head": false, "pos": 132}
-{"t": "moderate.", "leaf": 305, "row": 18, "para": false, "head": false, "pos": 133}
+{"t": "moderate,", "leaf": 305, "row": 18, "para": false, "head": false, "pos": 133}
 {"t": "ut", "leaf": 305, "row": 18, "para": false, "head": false, "pos": 134}
 {"t": "petendo", "leaf": 305, "row": 18, "para": false, "head": false, "pos": 135}
 {"t": "temporalia", "leaf": 305, "row": 18, "para": false, "head": false, "pos": 136}
@@ -140,7 +140,7 @@
 {"t": "attendere;", "leaf": 305, "row": 19, "para": false, "head": false, "pos": 139}
 {"t": "et", "leaf": 305, "row": 19, "para": false, "head": false, "pos": 140}
 {"t": "condicionaliter", "leaf": 305, "row": 19, "para": false, "head": false, "pos": 141}
-{"t": "petere.", "leaf": 305, "row": 19, "para": false, "head": false, "pos": 142}
+{"t": "petere,", "leaf": 305, "row": 19, "para": false, "head": false, "pos": 142}
 {"t": "si", "leaf": 305, "row": 19, "para": false, "head": false, "pos": 143}
 {"t": "et", "leaf": 305, "row": 20, "para": false, "head": false, "pos": 144}
 {"t": "quatenus", "leaf": 305, "row": 20, "para": false, "head": false, "pos": 145}
@@ -148,7 +148,7 @@
 {"t": "prosunt.", "leaf": 305, "row": 20, "para": false, "head": false, "pos": 147}
 {"t": "Et", "leaf": 305, "row": 20, "para": false, "head": false, "pos": 148}
 {"t": "hec", "leaf": 305, "row": 20, "para": false, "head": false, "pos": 149}
-{"t": "racio.", "leaf": 305, "row": 20, "para": false, "head": false, "pos": 150}
+{"t": "racio,", "leaf": 305, "row": 20, "para": false, "head": false, "pos": 150}
 {"t": "quare", "leaf": 305, "row": 20, "para": false, "head": false, "pos": 151}
 {"t": "petimus", "leaf": 305, "row": 21, "para": false, "head": false, "pos": 152}
 {"t": "sub", "leaf": 305, "row": 21, "para": false, "head": false, "pos": 153}
@@ -159,7 +159,7 @@
 {"t": "necessaria", "leaf": 305, "row": 22, "para": false, "head": false, "pos": 158}
 {"t": "hodie", "leaf": 305, "row": 22, "para": false, "head": false, "pos": 159}
 {"t": "nobis", "leaf": 305, "row": 22, "para": false, "head": false, "pos": 160}
-{"t": "dari.", "leaf": 305, "row": 22, "para": false, "head": false, "pos": 161}
+{"t": "dari,", "leaf": 305, "row": 22, "para": false, "head": false, "pos": 161}
 {"t": "que", "leaf": 305, "row": 22, "para": false, "head": false, "pos": 162}
 {"t": "Apostolus", "leaf": 305, "row": 22, "para": false, "head": false, "pos": 163}
 {"t": "vocat", "leaf": 305, "row": 22, "para": false, "head": false, "pos": 164}
@@ -179,7 +179,7 @@
 {"t": "temporalium", "leaf": 305, "row": 24, "para": false, "head": false, "pos": 178}
 {"t": "et", "leaf": 305, "row": 25, "para": false, "head": false, "pos": 179}
 {"t": "gloriam", "leaf": 305, "row": 25, "para": false, "head": false, "pos": 180}
-{"t": "mundanam.", "leaf": 305, "row": 25, "para": false, "head": false, "pos": 181}
+{"t": "mundanam,", "leaf": 305, "row": 25, "para": false, "head": false, "pos": 181}
 {"t": "igitur", "leaf": 305, "row": 25, "para": false, "head": false, "pos": 182}
 {"t": "eis", "leaf": 305, "row": 25, "para": false, "head": false, "pos": 183}
 {"t": "expedit", "leaf": 305, "row": 25, "para": false, "head": false, "pos": 184}
@@ -187,13 +187,13 @@
 {"t": "est", "leaf": 305, "row": 26, "para": false, "head": false, "pos": 186}
 {"t": "licitum", "leaf": 305, "row": 26, "para": false, "head": false, "pos": 187}
 {"t": "sic", "leaf": 305, "row": 26, "para": false, "head": false, "pos": 188}
-{"t": "habere.", "leaf": 305, "row": 26, "para": false, "head": false, "pos": 189}
+{"t": "habere,", "leaf": 305, "row": 26, "para": false, "head": false, "pos": 189}
 {"t": "quamvis", "leaf": 305, "row": 26, "para": false, "head": false, "pos": 190}
 {"t": "sint", "leaf": 305, "row": 26, "para": false, "head": false, "pos": 191}
 {"t": "aliunde", "leaf": 305, "row": 26, "para": false, "head": false, "pos": 192}
 {"t": "apud", "leaf": 305, "row": 27, "para": false, "head": false, "pos": 193}
 {"t": "Deum", "leaf": 305, "row": 27, "para": false, "head": false, "pos": 194}
-{"t": "laudabiles.", "leaf": 305, "row": 27, "para": false, "head": false, "pos": 195}
+{"t": "laudabiles,", "leaf": 305, "row": 27, "para": false, "head": false, "pos": 195}
 {"t": "verumtamen", "leaf": 305, "row": 27, "para": false, "head": false, "pos": 196}
 {"t": "non", "leaf": 305, "row": 27, "para": false, "head": false, "pos": 197}
 {"t": "in", "leaf": 305, "row": 27, "para": false, "head": false, "pos": 198}
@@ -216,11 +216,11 @@
 {"t": "enim", "leaf": 305, "row": 30, "para": false, "head": false, "pos": 215}
 {"t": "tenuerunt", "leaf": 305, "row": 30, "para": false, "head": false, "pos": 216}
 {"t": "se", "leaf": 305, "row": 30, "para": false, "head": false, "pos": 217}
-{"t": "superficietenus.", "leaf": 305, "row": 30, "para": false, "head": false, "pos": 218}
+{"t": "superficietenus,", "leaf": 305, "row": 30, "para": false, "head": false, "pos": 218}
 {"t": "quoad", "leaf": 305, "row": 31, "para": false, "head": false, "pos": 219}
 {"t": "possessiones", "leaf": 305, "row": 31, "para": false, "head": false, "pos": 220}
 {"t": "in", "leaf": 305, "row": 31, "para": false, "head": false, "pos": 221}
 {"t": "limitibus", "leaf": 305, "row": 31, "para": false, "head": false, "pos": 222}
 {"t": "legis", "leaf": 305, "row": 31, "para": false, "head": false, "pos": 223}
-{"t": "Dei.", "leaf": 305, "row": 31, "para": false, "head": false, "pos": 224}
+{"t": "Dei,", "leaf": 305, "row": 31, "para": false, "head": false, "pos": 224}
 {"t": "sed", "leaf": 305, "row": 31, "para": false, "head": false, "pos": 225}

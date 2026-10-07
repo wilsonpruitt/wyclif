@@ -50,7 +50,7 @@
 {"t": "si", "leaf": 310, "row": 7, "para": false, "head": false, "pos": 49}
 {"t": "loquuntur", "leaf": 310, "row": 7, "para": false, "head": false, "pos": 50}
 {"t": "ex", "leaf": 310, "row": 7, "para": false, "head": false, "pos": 51}
-{"t": "animo.", "leaf": 310, "row": 7, "para": false, "head": false, "pos": 52}
+{"t": "animo,", "leaf": 310, "row": 7, "para": false, "head": false, "pos": 52}
 {"t": "quod", "leaf": 310, "row": 8, "para": false, "head": false, "pos": 53}
 {"t": "papa", "leaf": 310, "row": 8, "para": false, "head": false, "pos": 54}
 {"t": "suus", "leaf": 310, "row": 8, "para": false, "head": false, "pos": 55}
@@ -85,7 +85,7 @@
 {"t": "et", "leaf": 310, "row": 13, "para": false, "head": false, "pos": 84}
 {"t": "specialiter", "leaf": 310, "row": 13, "para": false, "head": false, "pos": 85}
 {"t": "isti", "leaf": 310, "row": 13, "para": false, "head": false, "pos": 86}
-{"t": "opinioni.", "leaf": 310, "row": 13, "para": false, "head": false, "pos": 87}
+{"t": "opinioni,", "leaf": 310, "row": 13, "para": false, "head": false, "pos": 87}
 {"t": "cum", "leaf": 310, "row": 13, "para": false, "head": false, "pos": 88}
 {"t": "dicit", "leaf": 310, "row": 14, "para": false, "head": false, "pos": 89}
 {"t": "se", "leaf": 310, "row": 14, "para": false, "head": false, "pos": 90}
@@ -117,7 +117,7 @@
 {"t": "quam", "leaf": 310, "row": 17, "para": false, "head": false, "pos": 116}
 {"t": "est", "leaf": 310, "row": 17, "para": false, "head": false, "pos": 117}
 {"t": "dampnacio", "leaf": 310, "row": 18, "para": false, "head": false, "pos": 118}
-{"t": "gehenne.", "leaf": 310, "row": 18, "para": false, "head": false, "pos": 119}
+{"t": "gehenne,", "leaf": 310, "row": 18, "para": false, "head": false, "pos": 119}
 {"t": "daret", "leaf": 310, "row": 18, "para": false, "head": false, "pos": 120}
 {"t": "operam", "leaf": 310, "row": 18, "para": false, "head": false, "pos": 121}
 {"t": "ad", "leaf": 310, "row": 18, "para": false, "head": false, "pos": 122}
@@ -219,7 +219,7 @@
 {"t": "attendere.", "leaf": 310, "row": 34, "para": false, "head": false, "pos": 218}
 {"t": "Oportet", "leaf": 310, "row": 35, "para": true, "head": false, "pos": 219}
 {"t": "igitur", "leaf": 310, "row": 35, "para": false, "head": false, "pos": 220}
-{"t": "studere.", "leaf": 310, "row": 35, "para": false, "head": false, "pos": 221}
+{"t": "studere,", "leaf": 310, "row": 35, "para": false, "head": false, "pos": 221}
 {"t": "ex", "leaf": 310, "row": 35, "para": false, "head": false, "pos": 222}
 {"t": "quo", "leaf": 310, "row": 35, "para": false, "head": false, "pos": 223}
 {"t": "signo", "leaf": 310, "row": 35, "para": false, "head": false, "pos": 224}

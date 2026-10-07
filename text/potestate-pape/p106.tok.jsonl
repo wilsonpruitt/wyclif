@@ -26,7 +26,7 @@
 {"t": "tamen,", "leaf": 167, "row": 3, "para": false, "head": false, "pos": 25}
 {"t": "si", "leaf": 167, "row": 3, "para": false, "head": false, "pos": 26}
 {"t": "foret", "leaf": 167, "row": 3, "para": false, "head": false, "pos": 27}
-{"t": "utile.", "leaf": 167, "row": 3, "para": false, "head": false, "pos": 28}
+{"t": "utile,", "leaf": 167, "row": 3, "para": false, "head": false, "pos": 28}
 {"t": "autor", "leaf": 167, "row": 3, "para": false, "head": false, "pos": 29}
 {"t": "scripture", "leaf": 167, "row": 3, "para": false, "head": false, "pos": 30}
 {"t": "non", "leaf": 167, "row": 4, "para": false, "head": false, "pos": 31}
@@ -80,7 +80,7 @@
 {"t": "et", "leaf": 167, "row": 11, "para": false, "head": false, "pos": 79}
 {"t": "ex", "leaf": 167, "row": 11, "para": false, "head": false, "pos": 80}
 {"t": "potestate", "leaf": 167, "row": 11, "para": false, "head": false, "pos": 81}
-{"t": "auctonzandi", "leaf": 167, "row": 11, "para": false, "head": false, "pos": 82}
+{"t": "autorizandi", "leaf": 167, "row": 11, "para": false, "head": false, "pos": 82}
 {"t": "scripturam", "leaf": 167, "row": 11, "para": false, "head": false, "pos": 83}
 {"t": "sacram", "leaf": 167, "row": 12, "para": false, "head": false, "pos": 84}
 {"t": "et", "leaf": 167, "row": 12, "para": false, "head": false, "pos": 85}
@@ -90,7 +90,7 @@
 {"t": "ecclesiam.", "leaf": 167, "row": 12, "para": false, "head": false, "pos": 89}
 {"t": "Quantum", "leaf": 167, "row": 13, "para": true, "head": false, "pos": 90}
 {"t": "ad", "leaf": 167, "row": 13, "para": false, "head": false, "pos": 91}
-{"t": "miracula.", "leaf": 167, "row": 13, "para": false, "head": false, "pos": 92}
+{"t": "miracula,", "leaf": 167, "row": 13, "para": false, "head": false, "pos": 92}
 {"t": "patet", "leaf": 167, "row": 13, "para": false, "head": false, "pos": 93}
 {"t": "quod", "leaf": 167, "row": 13, "para": false, "head": false, "pos": 94}
 {"t": "cessant", "leaf": 167, "row": 13, "para": false, "head": false, "pos": 95}
@@ -123,7 +123,6 @@
 {"t": "Deus", "leaf": 167, "row": 17, "para": false, "head": false, "pos": 121}
 {"t": "non", "leaf": 167, "row": 17, "para": false, "head": false, "pos": 122}
 {"t": "dat", "leaf": 167, "row": 18, "para": false, "head": false, "pos": 123}
-{"t": "I", "leaf": 167, "row": 18, "para": false, "head": false, "pos": null}
 {"t": "nostris", "leaf": 167, "row": 18, "para": false, "head": false, "pos": 124}
 {"t": "prepositis,", "leaf": 167, "row": 18, "para": false, "head": false, "pos": 125}
 {"t": "ut", "leaf": 167, "row": 18, "para": false, "head": false, "pos": 126}
@@ -153,7 +152,7 @@
 {"t": "naturalis", "leaf": 167, "row": 21, "para": false, "head": false, "pos": 150}
 {"t": "medicine", "leaf": 167, "row": 22, "para": false, "head": false, "pos": 151}
 {"t": "sanavit", "leaf": 167, "row": 22, "para": false, "head": false, "pos": 152}
-{"t": "Thimoteum.", "leaf": 167, "row": 22, "para": false, "head": false, "pos": 153}
+{"t": "Thimoteum,", "leaf": 167, "row": 22, "para": false, "head": false, "pos": 153}
 {"t": "bonum", "leaf": 167, "row": 22, "para": false, "head": false, "pos": 154}
 {"t": "regimen", "leaf": 167, "row": 22, "para": false, "head": false, "pos": 155}
 {"t": "iniungendo.", "leaf": 167, "row": 23, "para": false, "head": false, "pos": 156}

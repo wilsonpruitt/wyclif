@@ -14,7 +14,7 @@
 {"t": "se", "leaf": 159, "row": 2, "para": false, "head": false, "pos": 13}
 {"t": "solum", "leaf": 159, "row": 2, "para": false, "head": false, "pos": 14}
 {"t": "hoc", "leaf": 159, "row": 2, "para": false, "head": false, "pos": 15}
-{"t": "privilegium.", "leaf": 159, "row": 2, "para": false, "head": false, "pos": 16}
+{"t": "privilegium,", "leaf": 159, "row": 2, "para": false, "head": false, "pos": 16}
 {"t": "sed", "leaf": 159, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "limitatum", "leaf": 159, "row": 3, "para": false, "head": false, "pos": 18}
 {"t": "et", "leaf": 159, "row": 3, "para": false, "head": false, "pos": 19}
@@ -190,7 +190,7 @@
 {"t": "II,", "leaf": 159, "row": 29, "para": false, "head": false, "pos": 189}
 {"t": "9:", "leaf": 159, "row": 29, "para": false, "head": false, "pos": 190}
 {"t": "Cum", "leaf": 159, "row": 30, "para": false, "head": false, "pos": 191}
-{"t": "cognovissent)", "leaf": 159, "row": 30, "para": false, "head": false, "pos": 192}
+{"t": "cognovissent,", "leaf": 159, "row": 30, "para": false, "head": false, "pos": 192}
 {"t": "inquit,", "leaf": 159, "row": 30, "para": false, "head": false, "pos": 193}
 {"t": "graciam", "leaf": 159, "row": 30, "para": false, "head": false, "pos": 194}
 {"t": "que", "leaf": 159, "row": 30, "para": false, "head": false, "pos": 195}

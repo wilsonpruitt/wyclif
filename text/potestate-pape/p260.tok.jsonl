@@ -21,7 +21,7 @@
 {"t": "quod", "leaf": 321, "row": 3, "para": false, "head": false, "pos": 20}
 {"t": "reliqua", "leaf": 321, "row": 3, "para": false, "head": false, "pos": 21}
 {"t": "sit", "leaf": 321, "row": 3, "para": false, "head": false, "pos": 22}
-{"t": "heretica.", "leaf": 321, "row": 3, "para": false, "head": false, "pos": 23}
+{"t": "heretica,", "leaf": 321, "row": 3, "para": false, "head": false, "pos": 23}
 {"t": "quia", "leaf": 321, "row": 3, "para": false, "head": false, "pos": 24}
 {"t": "articuli", "leaf": 321, "row": 3, "para": false, "head": false, "pos": 25}
 {"t": "fidei", "leaf": 321, "row": 4, "para": false, "head": false, "pos": 26}
@@ -60,13 +60,13 @@
 {"t": "consequens", "leaf": 321, "row": 8, "para": false, "head": false, "pos": 59}
 {"t": "facere", "leaf": 321, "row": 8, "para": false, "head": false, "pos": 60}
 {"t": "antiquos", "leaf": 321, "row": 8, "para": false, "head": false, "pos": 61}
-{"t": "cessare.", "leaf": 321, "row": 8, "para": false, "head": false, "pos": 62}
+{"t": "cessare,", "leaf": 321, "row": 8, "para": false, "head": false, "pos": 62}
 {"t": "ymo", "leaf": 321, "row": 9, "para": false, "head": false, "pos": 63}
 {"t": "facere", "leaf": 321, "row": 9, "para": false, "head": false, "pos": 64}
 {"t": "christianos", "leaf": 321, "row": 9, "para": false, "head": false, "pos": 65}
 {"t": "teneri", "leaf": 321, "row": 9, "para": false, "head": false, "pos": 66}
 {"t": "credere", "leaf": 321, "row": 9, "para": false, "head": false, "pos": 67}
-{"t": "falsitati.", "leaf": 321, "row": 9, "para": false, "head": false, "pos": 68}
+{"t": "falsitati,", "leaf": 321, "row": 9, "para": false, "head": false, "pos": 68}
 {"t": "quia", "leaf": 321, "row": 10, "para": false, "head": false, "pos": 69}
 {"t": "si", "leaf": 321, "row": 10, "para": false, "head": false, "pos": 70}
 {"t": "quelibet", "leaf": 321, "row": 10, "para": false, "head": false, "pos": 71}

@@ -20,7 +20,7 @@
 {"t": "papa", "leaf": 447, "row": 2, "para": false, "head": false, "pos": 19}
 {"t": "potest", "leaf": 447, "row": 3, "para": false, "head": false, "pos": 20}
 {"t": "synodum", "leaf": 447, "row": 3, "para": false, "head": false, "pos": 21}
-{"t": "congregare.", "leaf": 447, "row": 3, "para": false, "head": false, "pos": 22}
+{"t": "congregare,", "leaf": 447, "row": 3, "para": false, "head": false, "pos": 22}
 {"t": "picta", "leaf": 447, "row": 3, "para": false, "head": false, "pos": 23}
 {"t": "et", "leaf": 447, "row": 3, "para": false, "head": false, "pos": 24}
 {"t": "ficta", "leaf": 447, "row": 3, "para": false, "head": false, "pos": 25}
@@ -165,7 +165,7 @@
 {"t": "omnia", "leaf": 447, "row": 23, "para": false, "head": false, "pos": 164}
 {"t": "agibilia", "leaf": 447, "row": 23, "para": false, "head": false, "pos": 165}
 {"t": "vel", "leaf": 447, "row": 23, "para": false, "head": false, "pos": 166}
-{"t": "credibilia.", "leaf": 447, "row": 23, "para": false, "head": false, "pos": 167}
+{"t": "credibilia,", "leaf": 447, "row": 23, "para": false, "head": false, "pos": 167}
 {"t": "que", "leaf": 447, "row": 23, "para": false, "head": false, "pos": 168}
 {"t": "necesse", "leaf": 447, "row": 24, "para": false, "head": false, "pos": 169}
 {"t": "est", "leaf": 447, "row": 24, "para": false, "head": false, "pos": 170}
@@ -187,7 +187,7 @@
 {"t": "reduci", "leaf": 447, "row": 27, "para": false, "head": false, "pos": 186}
 {"t": "ad", "leaf": 447, "row": 27, "para": false, "head": false, "pos": 187}
 {"t": "numerum", "leaf": 447, "row": 27, "para": false, "head": false, "pos": 188}
-{"t": "duodecim.", "leaf": 447, "row": 27, "para": false, "head": false, "pos": 189}
+{"t": "duodecim,", "leaf": 447, "row": 27, "para": false, "head": false, "pos": 189}
 {"t": "ut", "leaf": 447, "row": 27, "para": false, "head": false, "pos": 190}
 {"t": "alie", "leaf": 447, "row": 27, "para": false, "head": false, "pos": 191}
 {"t": "abusiones", "leaf": 447, "row": 27, "para": false, "head": false, "pos": 192}

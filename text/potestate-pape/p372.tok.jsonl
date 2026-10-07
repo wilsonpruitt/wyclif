@@ -29,7 +29,7 @@
 {"t": "invidus", "leaf": 433, "row": 4, "para": false, "head": false, "pos": 28}
 {"t": "vel", "leaf": 433, "row": 4, "para": false, "head": false, "pos": 29}
 {"t": "ignarus.", "leaf": 433, "row": 4, "para": false, "head": false, "pos": 30}
-{"t": "Similiter.", "leaf": 433, "row": 5, "para": true, "head": false, "pos": 31}
+{"t": "Similiter,", "leaf": 433, "row": 5, "para": true, "head": false, "pos": 31}
 {"t": "quantumcumque", "leaf": 433, "row": 5, "para": false, "head": false, "pos": 32}
 {"t": "divicie", "leaf": 433, "row": 5, "para": false, "head": false, "pos": 33}
 {"t": "accumulentur,", "leaf": 433, "row": 5, "para": false, "head": false, "pos": 34}
@@ -92,7 +92,7 @@
 {"t": "imperfeccius", "leaf": 433, "row": 14, "para": false, "head": false, "pos": 91}
 {"t": "tamquam", "leaf": 433, "row": 14, "para": false, "head": false, "pos": 92}
 {"t": "privacio.", "leaf": 433, "row": 15, "para": false, "head": false, "pos": 93}
-{"t": "Similiter.", "leaf": 433, "row": 16, "para": true, "head": false, "pos": 94}
+{"t": "Similiter,", "leaf": 433, "row": 16, "para": true, "head": false, "pos": 94}
 {"t": "omne", "leaf": 433, "row": 16, "para": false, "head": false, "pos": 95}
 {"t": "opus", "leaf": 433, "row": 16, "para": false, "head": false, "pos": 96}
 {"t": "misericordie", "leaf": 433, "row": 16, "para": false, "head": false, "pos": 97}
@@ -106,7 +106,7 @@
 {"t": "misericordie", "leaf": 433, "row": 17, "para": false, "head": false, "pos": 105}
 {"t": "vel", "leaf": 433, "row": 18, "para": false, "head": false, "pos": 106}
 {"t": "elemosine", "leaf": 433, "row": 18, "para": false, "head": false, "pos": 107}
-{"t": "corporalis.", "leaf": 433, "row": 18, "para": false, "head": false, "pos": 108}
+{"t": "corporalis,", "leaf": 433, "row": 18, "para": false, "head": false, "pos": 108}
 {"t": "sed", "leaf": 433, "row": 18, "para": false, "head": false, "pos": 109}
 {"t": "dare", "leaf": 433, "row": 18, "para": false, "head": false, "pos": 110}
 {"t": "tuicionem", "leaf": 433, "row": 18, "para": false, "head": false, "pos": 111}
@@ -125,7 +125,7 @@
 {"t": "comparacione", "leaf": 433, "row": 20, "para": false, "head": false, "pos": 124}
 {"t": "ad", "leaf": 433, "row": 21, "para": false, "head": false, "pos": 125}
 {"t": "ditacionem", "leaf": 433, "row": 21, "para": false, "head": false, "pos": 126}
-{"t": "mundanam.", "leaf": 433, "row": 21, "para": false, "head": false, "pos": 127}
+{"t": "mundanam,", "leaf": 433, "row": 21, "para": false, "head": false, "pos": 127}
 {"t": "igitur", "leaf": 433, "row": 21, "para": false, "head": false, "pos": 128}
 {"t": "est", "leaf": 433, "row": 21, "para": false, "head": false, "pos": 129}
 {"t": "ipsa", "leaf": 433, "row": 21, "para": false, "head": false, "pos": 130}
@@ -160,7 +160,7 @@
 {"t": "dum", "leaf": 433, "row": 26, "para": false, "head": false, "pos": 159}
 {"t": "faciunt", "leaf": 433, "row": 26, "para": false, "head": false, "pos": 160}
 {"t": "eos", "leaf": 433, "row": 26, "para": false, "head": false, "pos": 161}
-{"t": "fratres.", "leaf": 433, "row": 26, "para": false, "head": false, "pos": 162}
+{"t": "fratres,", "leaf": 433, "row": 26, "para": false, "head": false, "pos": 162}
 {"t": "ymo", "leaf": 433, "row": 26, "para": false, "head": false, "pos": 163}
 {"t": "procurarent", "leaf": 433, "row": 27, "para": false, "head": false, "pos": 164}
 {"t": "et", "leaf": 433, "row": 27, "para": false, "head": false, "pos": 165}

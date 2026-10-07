@@ -33,7 +33,8 @@
 {"t": "tale", "leaf": 176, "row": 4, "para": false, "head": false, "pos": 32}
 {"t": "obiectum,", "leaf": 176, "row": 4, "para": false, "head": false, "pos": 33}
 {"t": "manifestum", "leaf": 176, "row": 4, "para": false, "head": false, "pos": 34}
-{"t": "estquod", "leaf": 176, "row": 4, "para": false, "head": false, "pos": 35}
+{"t": "est", "leaf": 176, "row": 4, "para": false, "head": false, "pos": 35}
+{"t": "quod", "leaf": 176, "row": 4, "para": false, "head": false, "pos": 35}
 {"t": "quiescit", "leaf": 176, "row": 5, "para": false, "head": false, "pos": 36}
 {"t": "ante", "leaf": 176, "row": 5, "para": false, "head": false, "pos": 37}
 {"t": "tale", "leaf": 176, "row": 5, "para": false, "head": false, "pos": 38}
@@ -76,7 +77,7 @@
 {"t": "pure", "leaf": 176, "row": 11, "para": false, "head": false, "pos": 75}
 {"t": "inniti", "leaf": 176, "row": 11, "para": false, "head": false, "pos": 76}
 {"t": "auctoritati", "leaf": 176, "row": 11, "para": false, "head": false, "pos": 77}
-{"t": "divine.", "leaf": 176, "row": 11, "para": false, "head": false, "pos": 78}
+{"t": "divine,", "leaf": 176, "row": 11, "para": false, "head": false, "pos": 78}
 {"t": "dimittendo", "leaf": 176, "row": 12, "para": false, "head": false, "pos": 79}
 {"t": "auctoritatem", "leaf": 176, "row": 12, "para": false, "head": false, "pos": 80}
 {"t": "gentilem", "leaf": 176, "row": 12, "para": false, "head": false, "pos": 81}

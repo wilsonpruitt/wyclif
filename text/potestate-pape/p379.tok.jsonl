@@ -12,7 +12,7 @@
 {"t": "per", "leaf": 440, "row": 1, "para": false, "head": false, "pos": 11}
 {"t": "cleri", "leaf": 440, "row": 1, "para": false, "head": false, "pos": 12}
 {"t": "maculas", "leaf": 440, "row": 1, "para": false, "head": false, "pos": 13}
-{"t": "perturbata.", "leaf": 440, "row": 2, "para": false, "head": false, "pos": 14}
+{"t": "perturbata,", "leaf": 440, "row": 2, "para": false, "head": false, "pos": 14}
 {"t": "non", "leaf": 440, "row": 2, "para": false, "head": false, "pos": 15}
 {"t": "propter", "leaf": 440, "row": 2, "para": false, "head": false, "pos": 16}
 {"t": "regis", "leaf": 440, "row": 2, "para": false, "head": false, "pos": 17}
@@ -21,7 +21,7 @@
 {"t": "regendo", "leaf": 440, "row": 2, "para": false, "head": false, "pos": 20}
 {"t": "subiectos;", "leaf": 440, "row": 3, "para": false, "head": false, "pos": 21}
 {"t": "primo", "leaf": 440, "row": 3, "para": false, "head": false, "pos": 22}
-{"t": "enim.", "leaf": 440, "row": 3, "para": false, "head": false, "pos": 23}
+{"t": "enim,", "leaf": 440, "row": 3, "para": false, "head": false, "pos": 23}
 {"t": "ut", "leaf": 440, "row": 3, "para": false, "head": false, "pos": 24}
 {"t": "dicit,", "leaf": 440, "row": 3, "para": false, "head": false, "pos": 25}
 {"t": "pax", "leaf": 440, "row": 3, "para": false, "head": false, "pos": 26}
@@ -172,7 +172,7 @@
 {"t": "statu", "leaf": 440, "row": 25, "para": false, "head": false, "pos": 171}
 {"t": "quem", "leaf": 440, "row": 25, "para": false, "head": false, "pos": 172}
 {"t": "Christus", "leaf": 440, "row": 25, "para": false, "head": false, "pos": 173}
-{"t": "instituit.", "leaf": 440, "row": 25, "para": false, "head": false, "pos": 174}
+{"t": "instituit,", "leaf": 440, "row": 25, "para": false, "head": false, "pos": 174}
 {"t": "ut", "leaf": 440, "row": 25, "para": false, "head": false, "pos": 175}
 {"t": "patet", "leaf": 440, "row": 25, "para": false, "head": false, "pos": 176}
 {"t": "Daniel", "leaf": 440, "row": 25, "para": false, "head": false, "pos": 177}
@@ -203,7 +203,7 @@
 {"t": "bona", "leaf": 440, "row": 29, "para": false, "head": false, "pos": 201}
 {"t": "pauperum", "leaf": 440, "row": 29, "para": false, "head": false, "pos": 202}
 {"t": "regni", "leaf": 440, "row": 29, "para": false, "head": false, "pos": 203}
-{"t": "sui.", "leaf": 440, "row": 29, "para": false, "head": false, "pos": 204}
+{"t": "sui,", "leaf": 440, "row": 29, "para": false, "head": false, "pos": 204}
 {"t": "nam", "leaf": 440, "row": 29, "para": false, "head": false, "pos": 205}
 {"t": "reducere", "leaf": 440, "row": 29, "para": false, "head": false, "pos": 206}
 {"t": "ad", "leaf": 440, "row": 30, "para": false, "head": false, "pos": 207}

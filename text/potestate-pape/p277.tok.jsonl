@@ -2,12 +2,12 @@
 {"t": "quomodo", "leaf": 338, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "ad", "leaf": 338, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "supremum", "leaf": 338, "row": 0, "para": false, "head": false, "pos": 3}
-{"t": "ordinem.", "leaf": 338, "row": 0, "para": false, "head": false, "pos": 4}
+{"t": "ordinem,", "leaf": 338, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "scilicet", "leaf": 338, "row": 0, "para": false, "head": false, "pos": 5}
 {"t": "episcopalem,", "leaf": 338, "row": 1, "para": false, "head": false, "pos": 6}
 {"t": "spectat", "leaf": 338, "row": 1, "para": false, "head": false, "pos": 7}
 {"t": "sacerdotum", "leaf": 338, "row": 1, "para": false, "head": false, "pos": 8}
-{"t": "consecracio.", "leaf": 338, "row": 1, "para": false, "head": false, "pos": 9}
+{"t": "consecracio,", "leaf": 338, "row": 1, "para": false, "head": false, "pos": 9}
 {"t": "divini", "leaf": 338, "row": 2, "para": false, "head": false, "pos": 10}
 {"t": "ungenti", "leaf": 338, "row": 2, "para": false, "head": false, "pos": 11}
 {"t": "perfeccio", "leaf": 338, "row": 2, "para": false, "head": false, "pos": 12}
@@ -55,7 +55,7 @@
 {"t": "propria.", "leaf": 338, "row": 9, "para": false, "head": false, "pos": 54}
 {"t": "Quantum", "leaf": 338, "row": 10, "para": true, "head": false, "pos": 55}
 {"t": "ad", "leaf": 338, "row": 10, "para": false, "head": false, "pos": 56}
-{"t": "istud.", "leaf": 338, "row": 10, "para": false, "head": false, "pos": 57}
+{"t": "istud,", "leaf": 338, "row": 10, "para": false, "head": false, "pos": 57}
 {"t": "patet", "leaf": 338, "row": 10, "para": false, "head": false, "pos": 58}
 {"t": "ex", "leaf": 338, "row": 10, "para": false, "head": false, "pos": 59}
 {"t": "dictis", "leaf": 338, "row": 10, "para": false, "head": false, "pos": 60}
@@ -89,7 +89,7 @@
 {"t": "posse", "leaf": 338, "row": 14, "para": false, "head": false, "pos": 88}
 {"t": "recte", "leaf": 338, "row": 15, "para": false, "head": false, "pos": 89}
 {"t": "viare", "leaf": 338, "row": 15, "para": false, "head": false, "pos": 90}
-{"t": "ecclesiam.", "leaf": 338, "row": 15, "para": false, "head": false, "pos": 91}
+{"t": "ecclesiam,", "leaf": 338, "row": 15, "para": false, "head": false, "pos": 91}
 {"t": "unde", "leaf": 338, "row": 15, "para": false, "head": false, "pos": 92}
 {"t": "tantum", "leaf": 338, "row": 15, "para": false, "head": false, "pos": 93}
 {"t": "ponderant", "leaf": 338, "row": 15, "para": false, "head": false, "pos": 94}

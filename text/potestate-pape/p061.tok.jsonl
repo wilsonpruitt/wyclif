@@ -120,7 +120,8 @@
 {"t": "sic", "leaf": 122, "row": 16, "para": false, "head": false, "pos": 118}
 {"t": "ad", "leaf": 122, "row": 16, "para": false, "head": false, "pos": 119}
 {"t": "sensum", "leaf": 122, "row": 17, "para": false, "head": false, "pos": 120}
-{"t": "anagogicumChristus", "leaf": 122, "row": 17, "para": false, "head": false, "pos": 121}
+{"t": "anagogicum", "leaf": 122, "row": 17, "para": false, "head": false, "pos": 121}
+{"t": "Christus", "leaf": 122, "row": 17, "para": false, "head": false, "pos": 121}
 {"t": "plus", "leaf": 122, "row": 17, "para": false, "head": false, "pos": 122}
 {"t": "diligit", "leaf": 122, "row": 17, "para": false, "head": false, "pos": 123}
 {"t": "Johannem", "leaf": 122, "row": 17, "para": false, "head": false, "pos": 124}
@@ -140,7 +141,8 @@
 {"t": "miseriam", "leaf": 122, "row": 19, "para": false, "head": false, "pos": 138}
 {"t": "nostram", "leaf": 122, "row": 19, "para": false, "head": false, "pos": 139}
 {"t": "plus", "leaf": 122, "row": 20, "para": false, "head": false, "pos": 140}
-{"t": "diligimusDei", "leaf": 122, "row": 20, "para": false, "head": false, "pos": 141}
+{"t": "diligimus", "leaf": 122, "row": 20, "para": false, "head": false, "pos": 141}
+{"t": "Dei", "leaf": 122, "row": 20, "para": false, "head": false, "pos": 141}
 {"t": "misericordiam,", "leaf": 122, "row": 20, "para": false, "head": false, "pos": 142}
 {"t": "veritatem", "leaf": 122, "row": 20, "para": false, "head": false, "pos": 143}
 {"t": "autem", "leaf": 122, "row": 20, "para": false, "head": false, "pos": 144}

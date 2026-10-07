@@ -120,7 +120,7 @@
 {"t": "et", "leaf": 175, "row": 17, "para": false, "head": false, "pos": 119}
 {"t": "quilibet", "leaf": 175, "row": 17, "para": false, "head": false, "pos": 120}
 {"t": "sanctus", "leaf": 175, "row": 18, "para": false, "head": false, "pos": 121}
-{"t": "episcopus.", "leaf": 175, "row": 18, "para": false, "head": false, "pos": 122}
+{"t": "episcopus,", "leaf": 175, "row": 18, "para": false, "head": false, "pos": 122}
 {"t": "ymo", "leaf": 175, "row": 18, "para": false, "head": false, "pos": 123}
 {"t": "quilibet", "leaf": 175, "row": 18, "para": false, "head": false, "pos": 124}
 {"t": "predestinatus.", "leaf": 175, "row": 18, "para": false, "head": false, "pos": 125}
@@ -157,7 +157,8 @@
 {"t": "omnem", "leaf": 175, "row": 24, "para": false, "head": false, "pos": 157}
 {"t": "auctoritatem", "leaf": 175, "row": 24, "para": false, "head": false, "pos": 158}
 {"t": "pure", "leaf": 175, "row": 24, "para": false, "head": false, "pos": 159}
-{"t": "adDeum,", "leaf": 175, "row": 24, "para": false, "head": false, "pos": 160}
+{"t": "ad", "leaf": 175, "row": 24, "para": false, "head": false, "pos": 160}
+{"t": "Deum,", "leaf": 175, "row": 24, "para": false, "head": false, "pos": 160}
 {"t": "quia", "leaf": 175, "row": 24, "para": false, "head": false, "pos": 161}
 {"t": "sunt", "leaf": 175, "row": 25, "para": false, "head": false, "pos": 162}
 {"t": "gradus", "leaf": 175, "row": 25, "para": false, "head": false, "pos": 163}
@@ -192,7 +193,7 @@
 {"t": "quia", "leaf": 175, "row": 31, "para": false, "head": false, "pos": 192}
 {"t": "potestatem", "leaf": 175, "row": 31, "para": false, "head": false, "pos": 193}
 {"t": "pascendi", "leaf": 175, "row": 31, "para": false, "head": false, "pos": 194}
-{"t": "ecclesiam.", "leaf": 175, "row": 31, "para": false, "head": false, "pos": 195}
+{"t": "ecclesiam,", "leaf": 175, "row": 31, "para": false, "head": false, "pos": 195}
 {"t": "quod", "leaf": 175, "row": 31, "para": false, "head": false, "pos": 196}
 {"t": "est", "leaf": 175, "row": 31, "para": false, "head": false, "pos": 197}
 {"t": "optimum", "leaf": 175, "row": 32, "para": false, "head": false, "pos": 198}

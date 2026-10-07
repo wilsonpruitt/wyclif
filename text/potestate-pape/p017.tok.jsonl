@@ -52,7 +52,7 @@
 {"t": "sufficienciam", "leaf": 78, "row": 7, "para": false, "head": false, "pos": 51}
 {"t": "propinquam", "leaf": 78, "row": 8, "para": false, "head": false, "pos": 52}
 {"t": "ad", "leaf": 78, "row": 8, "para": false, "head": false, "pos": 53}
-{"t": "operam.", "leaf": 78, "row": 8, "para": false, "head": false, "pos": 54}
+{"t": "operam,", "leaf": 78, "row": 8, "para": false, "head": false, "pos": 54}
 {"t": "quam", "leaf": 78, "row": 8, "para": false, "head": false, "pos": 55}
 {"t": "oportet", "leaf": 78, "row": 8, "para": false, "head": false, "pos": 56}
 {"t": "post", "leaf": 78, "row": 8, "para": false, "head": false, "pos": 57}
@@ -60,7 +60,7 @@
 {"t": "peccatum", "leaf": 78, "row": 9, "para": false, "head": false, "pos": 59}
 {"t": "dari", "leaf": 78, "row": 9, "para": false, "head": false, "pos": 60}
 {"t": "ex", "leaf": 78, "row": 9, "para": false, "head": false, "pos": 61}
-{"t": "gracia.", "leaf": 78, "row": 9, "para": false, "head": false, "pos": 62}
+{"t": "gracia,", "leaf": 78, "row": 9, "para": false, "head": false, "pos": 62}
 {"t": "sicut", "leaf": 78, "row": 9, "para": false, "head": false, "pos": 63}
 {"t": "et", "leaf": 78, "row": 9, "para": false, "head": false, "pos": 64}
 {"t": "ordinis", "leaf": 78, "row": 9, "para": false, "head": false, "pos": 65}
@@ -68,7 +68,7 @@
 {"t": "preter", "leaf": 78, "row": 10, "para": false, "head": false, "pos": 67}
 {"t": "liberum", "leaf": 78, "row": 10, "para": false, "head": false, "pos": 68}
 {"t": "arbitrium", "leaf": 78, "row": 10, "para": false, "head": false, "pos": 69}
-{"t": "naturale.", "leaf": 78, "row": 10, "para": false, "head": false, "pos": 70}
+{"t": "naturale,", "leaf": 78, "row": 10, "para": false, "head": false, "pos": 70}
 {"t": "et", "leaf": 78, "row": 10, "para": false, "head": false, "pos": 71}
 {"t": "sic", "leaf": 78, "row": 11, "para": false, "head": false, "pos": 72}
 {"t": "potestas", "leaf": 78, "row": 11, "para": false, "head": false, "pos": 73}
@@ -140,7 +140,7 @@
 {"t": "dat", "leaf": 78, "row": 21, "para": false, "head": false, "pos": 139}
 {"t": "graciam,", "leaf": 78, "row": 21, "para": false, "head": false, "pos": 140}
 {"t": "imprimit", "leaf": 78, "row": 22, "para": false, "head": false, "pos": 141}
-{"t": "karacterem.", "leaf": 78, "row": 22, "para": false, "head": false, "pos": 142}
+{"t": "karacterem,", "leaf": 78, "row": 22, "para": false, "head": false, "pos": 142}
 {"t": "vel", "leaf": 78, "row": 22, "para": false, "head": false, "pos": 143}
 {"t": "producit", "leaf": 78, "row": 22, "para": false, "head": false, "pos": 144}
 {"t": "huiusmodi", "leaf": 78, "row": 22, "para": false, "head": false, "pos": 145}

@@ -79,7 +79,7 @@
 {"t": "quam", "leaf": 265, "row": 10, "para": false, "head": false, "pos": 78}
 {"t": "de", "leaf": 265, "row": 10, "para": false, "head": false, "pos": 79}
 {"t": "huiusmodi", "leaf": 265, "row": 10, "para": false, "head": false, "pos": 80}
-{"t": "potestate.", "leaf": 265, "row": 10, "para": false, "head": false, "pos": 81}
+{"t": "potestate,", "leaf": 265, "row": 10, "para": false, "head": false, "pos": 81}
 {"t": "quia", "leaf": 265, "row": 11, "para": false, "head": false, "pos": 82}
 {"t": "ignorat", "leaf": 265, "row": 11, "para": false, "head": false, "pos": 83}
 {"t": "si", "leaf": 265, "row": 11, "para": false, "head": false, "pos": 84}
@@ -101,7 +101,7 @@
 {"t": "ecclesia", "leaf": 265, "row": 13, "para": false, "head": false, "pos": 100}
 {"t": "triumphante.", "leaf": 265, "row": 14, "para": false, "head": false, "pos": 101}
 {"t": "Ignorat", "leaf": 265, "row": 14, "para": false, "head": false, "pos": 102}
-{"t": "tercio.", "leaf": 265, "row": 14, "para": false, "head": false, "pos": 103}
+{"t": "tercio,", "leaf": 265, "row": 14, "para": false, "head": false, "pos": 103}
 {"t": "si", "leaf": 265, "row": 14, "para": false, "head": false, "pos": 104}
 {"t": "simplex", "leaf": 265, "row": 14, "para": false, "head": false, "pos": 105}
 {"t": "subiectus", "leaf": 265, "row": 14, "para": false, "head": false, "pos": 106}
@@ -167,7 +167,7 @@
 {"t": "Deus", "leaf": 265, "row": 24, "para": false, "head": false, "pos": 166}
 {"t": "pepigit", "leaf": 265, "row": 24, "para": false, "head": false, "pos": 167}
 {"t": "cum", "leaf": 265, "row": 24, "para": false, "head": false, "pos": 168}
-{"t": "eis.", "leaf": 265, "row": 24, "para": false, "head": false, "pos": 169}
+{"t": "eis,", "leaf": 265, "row": 24, "para": false, "head": false, "pos": 169}
 {"t": "quod", "leaf": 265, "row": 24, "para": false, "head": false, "pos": 170}
 {"t": "ipsis?", "leaf": 265, "row": 24, "para": false, "head": false, "pos": 171}
 {"t": "assisteret", "leaf": 265, "row": 25, "para": false, "head": false, "pos": 172}
@@ -209,7 +209,7 @@
 {"t": "ligaveris", "leaf": 265, "row": 31, "para": false, "head": false, "pos": 208}
 {"t": "super", "leaf": 265, "row": 31, "para": false, "head": false, "pos": 209}
 {"t": "terram", "leaf": 265, "row": 31, "para": false, "head": false, "pos": 210}
-{"t": "etc.", "leaf": 265, "row": 31, "para": false, "head": false, "pos": 211}
+{"t": "etc,", "leaf": 265, "row": 31, "para": false, "head": false, "pos": 211}
 {"t": "hoc", "leaf": 265, "row": 31, "para": false, "head": false, "pos": 212}
 {"t": "est", "leaf": 265, "row": 31, "para": false, "head": false, "pos": 213}
 {"t": "ego", "leaf": 265, "row": 31, "para": false, "head": false, "pos": 214}

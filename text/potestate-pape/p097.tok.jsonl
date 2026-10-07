@@ -44,13 +44,13 @@
 {"t": "concessa", "leaf": 158, "row": 6, "para": false, "head": false, "pos": 43}
 {"t": "multa", "leaf": 158, "row": 6, "para": false, "head": false, "pos": 44}
 {"t": "a", "leaf": 158, "row": 6, "para": false, "head": false, "pos": 45}
-{"t": "Dommo;", "leaf": 158, "row": 6, "para": false, "head": false, "pos": 46}
+{"t": "Domino;", "leaf": 158, "row": 6, "para": false, "head": false, "pos": 46}
 {"t": "oportet", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 47}
 {"t": "igitur", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 48}
 {"t": "quod", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 49}
 {"t": "illa", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 50}
 {"t": "dicant", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 51}
-{"t": "m", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 52}
+{"t": "in", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 51}
 {"t": "Petro", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 53}
 {"t": "quandam", "leaf": 158, "row": 7, "para": false, "head": false, "pos": 54}
 {"t": "preeminenciam,", "leaf": 158, "row": 8, "para": false, "head": false, "pos": 55}
@@ -164,7 +164,8 @@
 {"t": "universale", "leaf": 158, "row": 24, "para": false, "head": false, "pos": 163}
 {"t": "viantis", "leaf": 158, "row": 24, "para": false, "head": false, "pos": 164}
 {"t": "ecclesie,", "leaf": 158, "row": 24, "para": false, "head": false, "pos": 165}
-{"t": "sedPaulus", "leaf": 158, "row": 24, "para": false, "head": false, "pos": 166}
+{"t": "sed", "leaf": 158, "row": 24, "para": false, "head": false, "pos": 166}
+{"t": "Paulus", "leaf": 158, "row": 24, "para": false, "head": false, "pos": 166}
 {"t": "Petro", "leaf": 158, "row": 24, "para": false, "head": false, "pos": 167}
 {"t": "extensius.", "leaf": 158, "row": 25, "para": false, "head": false, "pos": 168}
 {"t": "Et", "leaf": 158, "row": 25, "para": false, "head": false, "pos": 169}

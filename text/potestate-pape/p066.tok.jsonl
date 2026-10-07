@@ -5,7 +5,7 @@
 {"t": "forte", "leaf": 127, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "vocentur", "leaf": 127, "row": 0, "para": false, "head": false, "pos": 5}
 {"t": "leges", "leaf": 127, "row": 0, "para": false, "head": false, "pos": 6}
-{"t": "hereses.", "leaf": 127, "row": 1, "para": false, "head": false, "pos": 7}
+{"t": "hereses,", "leaf": 127, "row": 1, "para": false, "head": false, "pos": 7}
 {"t": "quibus", "leaf": 127, "row": 1, "para": false, "head": false, "pos": 8}
 {"t": "intricatur", "leaf": 127, "row": 1, "para": false, "head": false, "pos": 9}
 {"t": "ecclesia.", "leaf": 127, "row": 1, "para": false, "head": false, "pos": 10}
@@ -45,7 +45,7 @@
 {"t": "oportet", "leaf": 127, "row": 6, "para": false, "head": false, "pos": 43}
 {"t": "enim", "leaf": 127, "row": 6, "para": false, "head": false, "pos": 44}
 {"t": "subducere", "leaf": 127, "row": 6, "para": false, "head": false, "pos": 45}
-{"t": "subduccionem.", "leaf": 127, "row": 6, "para": false, "head": false, "pos": 46}
+{"t": "subduccionem,", "leaf": 127, "row": 6, "para": false, "head": false, "pos": 46}
 {"t": "quia", "leaf": 127, "row": 7, "para": false, "head": false, "pos": 47}
 {"t": "stat", "leaf": 127, "row": 7, "para": false, "head": false, "pos": 48}
 {"t": "in", "leaf": 127, "row": 7, "para": false, "head": false, "pos": 49}

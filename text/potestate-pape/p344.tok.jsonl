@@ -46,7 +46,7 @@
 {"t": "occupacio", "leaf": 405, "row": 6, "para": false, "head": false, "pos": 45}
 {"t": "circa", "leaf": 405, "row": 7, "para": false, "head": false, "pos": 46}
 {"t": "leges", "leaf": 405, "row": 7, "para": false, "head": false, "pos": 47}
-{"t": "hominum.", "leaf": 405, "row": 7, "para": false, "head": false, "pos": 48}
+{"t": "hominum,", "leaf": 405, "row": 7, "para": false, "head": false, "pos": 48}
 {"t": "que", "leaf": 405, "row": 7, "para": false, "head": false, "pos": 49}
 {"t": "omnes", "leaf": 405, "row": 7, "para": false, "head": false, "pos": 50}
 {"t": "sunt", "leaf": 405, "row": 7, "para": false, "head": false, "pos": 51}
@@ -175,7 +175,7 @@
 {"t": "quantum", "leaf": 405, "row": 25, "para": false, "head": false, "pos": 173}
 {"t": "ad", "leaf": 405, "row": 25, "para": false, "head": false, "pos": 174}
 {"t": "tercium", "leaf": 405, "row": 25, "para": false, "head": false, "pos": 175}
-{"t": "patet.", "leaf": 405, "row": 25, "para": false, "head": false, "pos": 176}
+{"t": "patet,", "leaf": 405, "row": 25, "para": false, "head": false, "pos": 176}
 {"t": "quod", "leaf": 405, "row": 25, "para": false, "head": false, "pos": 177}
 {"t": "in", "leaf": 405, "row": 25, "para": false, "head": false, "pos": 178}
 {"t": "legibus", "leaf": 405, "row": 25, "para": false, "head": false, "pos": 179}

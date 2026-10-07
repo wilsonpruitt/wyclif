@@ -15,7 +15,7 @@
 {"t": "figuratum", "leaf": 112, "row": 1, "para": false, "head": false, "pos": 14}
 {"t": "est", "leaf": 112, "row": 1, "para": false, "head": false, "pos": 15}
 {"t": "Joh.", "leaf": 112, "row": 1, "para": false, "head": false, "pos": 16}
-{"t": "ultimo.", "leaf": 112, "row": 2, "para": false, "head": false, "pos": 17}
+{"t": "ultimo,", "leaf": 112, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "ubi", "leaf": 112, "row": 2, "para": false, "head": false, "pos": 18}
 {"t": "in", "leaf": 112, "row": 2, "para": false, "head": false, "pos": 19}
 {"t": "conventu", "leaf": 112, "row": 2, "para": false, "head": false, "pos": 20}
@@ -152,7 +152,8 @@
 {"t": "proposite", "leaf": 112, "row": 22, "para": false, "head": false, "pos": 152}
 {"t": "adhibendam.", "leaf": 112, "row": 22, "para": false, "head": false, "pos": 153}
 {"t": "Dicat", "leaf": 112, "row": 22, "para": false, "head": false, "pos": 154}
-{"t": "igituradversarius", "leaf": 112, "row": 22, "para": false, "head": false, "pos": 155}
+{"t": "igitur", "leaf": 112, "row": 22, "para": false, "head": false, "pos": 155}
+{"t": "adversarius", "leaf": 112, "row": 22, "para": false, "head": false, "pos": 155}
 {"t": "istam", "leaf": 112, "row": 23, "para": false, "head": false, "pos": 156}
 {"t": "sentenciam,", "leaf": 112, "row": 23, "para": false, "head": false, "pos": 157}
 {"t": "vel", "leaf": 112, "row": 23, "para": false, "head": false, "pos": 158}

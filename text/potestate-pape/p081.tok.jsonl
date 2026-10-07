@@ -27,7 +27,6 @@
 {"t": "splendidissime", "leaf": 142, "row": 4, "para": false, "head": false, "pos": 26}
 {"t": "fuisse", "leaf": 142, "row": 4, "para": false, "head": false, "pos": 27}
 {"t": "dotati", "leaf": 142, "row": 5, "para": false, "head": false, "pos": 28}
-{"t": "j", "leaf": 142, "row": 5, "para": false, "head": false, "pos": 29}
 {"t": "et", "leaf": 142, "row": 5, "para": false, "head": false, "pos": 30}
 {"t": "tamen", "leaf": 142, "row": 5, "para": false, "head": false, "pos": 31}
 {"t": "ex", "leaf": 142, "row": 5, "para": false, "head": false, "pos": 32}
@@ -173,10 +172,12 @@
 {"t": "quod", "leaf": 142, "row": 25, "para": false, "head": false, "pos": 172}
 {"t": "ecclesia", "leaf": 142, "row": 25, "para": false, "head": false, "pos": 173}
 {"t": "Romana,", "leaf": 142, "row": 25, "para": false, "head": false, "pos": 174}
-{"t": "decretisteet", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 175}
+{"t": "decretiste", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 175}
+{"t": "et", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 175}
 {"t": "fratres,", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 176}
 {"t": "sed", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 177}
-{"t": "specialiterfratres", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 178}
+{"t": "specialiter", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 178}
+{"t": "fratres", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 178}
 {"t": "Minores,", "leaf": 142, "row": 26, "para": false, "head": false, "pos": 179}
 {"t": "defenderent", "leaf": 142, "row": 27, "para": false, "head": false, "pos": 180}
 {"t": "istam", "leaf": 142, "row": 27, "para": false, "head": false, "pos": 181}

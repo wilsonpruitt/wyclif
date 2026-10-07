@@ -20,7 +20,7 @@
 {"t": "veritas", "leaf": 113, "row": 3, "para": false, "head": false, "pos": 19}
 {"t": "probabiliter", "leaf": 113, "row": 3, "para": false, "head": false, "pos": 20}
 {"t": "convinci", "leaf": 113, "row": 3, "para": false, "head": false, "pos": 21}
-{"t": "potent,", "leaf": 113, "row": 3, "para": false, "head": false, "pos": 22}
+{"t": "poterit,", "leaf": 113, "row": 3, "para": false, "head": false, "pos": 22}
 {"t": "nam", "leaf": 113, "row": 4, "para": false, "head": false, "pos": 23}
 {"t": "soli", "leaf": 113, "row": 4, "para": false, "head": false, "pos": 24}
 {"t": "Petro", "leaf": 113, "row": 4, "para": false, "head": false, "pos": 25}
@@ -242,8 +242,7 @@
 {"t": "et", "leaf": 113, "row": 34, "para": false, "head": false, "pos": 241}
 {"t": "ore", "leaf": 113, "row": 34, "para": false, "head": false, "pos": 242}
 {"t": "ecclesie", "leaf": 113, "row": 34, "para": false, "head": false, "pos": 243}
-{"t": "con-", "leaf": 113, "row": 34, "para": false, "head": false, "pos": 244}
-{"t": "terit", "leaf": 113, "row": 35, "para": false, "head": false, "pos": 245}
+{"t": "conterit", "leaf": 113, "row": 34, "para": false, "head": false, "pos": 244}
 {"t": "ad", "leaf": 113, "row": 35, "para": false, "head": false, "pos": 246}
 {"t": "penitenciam", "leaf": 113, "row": 35, "para": false, "head": false, "pos": 247}
 {"t": "convertendos:", "leaf": 113, "row": 35, "para": false, "head": false, "pos": 248}

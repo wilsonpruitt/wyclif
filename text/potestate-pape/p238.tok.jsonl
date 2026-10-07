@@ -11,7 +11,7 @@
 {"t": "non", "leaf": 299, "row": 1, "para": false, "head": false, "pos": 10}
 {"t": "autorizavit", "leaf": 299, "row": 1, "para": false, "head": false, "pos": 11}
 {"t": "dotacionem", "leaf": 299, "row": 1, "para": false, "head": false, "pos": 12}
-{"t": "huiusmodi.", "leaf": 299, "row": 2, "para": false, "head": false, "pos": 13}
+{"t": "huiusmodi,", "leaf": 299, "row": 2, "para": false, "head": false, "pos": 13}
 {"t": "sed", "leaf": 299, "row": 2, "para": false, "head": false, "pos": 14}
 {"t": "verbo", "leaf": 299, "row": 2, "para": false, "head": false, "pos": 15}
 {"t": "et", "leaf": 299, "row": 2, "para": false, "head": false, "pos": 16}
@@ -43,7 +43,7 @@
 {"t": "beatis,", "leaf": 299, "row": 6, "para": false, "head": false, "pos": 42}
 {"t": "quia", "leaf": 299, "row": 6, "para": false, "head": false, "pos": 43}
 {"t": "beatus", "leaf": 299, "row": 6, "para": false, "head": false, "pos": 44}
-{"t": "Evangelista.", "leaf": 299, "row": 6, "para": false, "head": false, "pos": 45}
+{"t": "Evangelista,", "leaf": 299, "row": 6, "para": false, "head": false, "pos": 45}
 {"t": "qui", "leaf": 299, "row": 6, "para": false, "head": false, "pos": 46}
 {"t": "detestatus", "leaf": 299, "row": 6, "para": false, "head": false, "pos": 47}
 {"t": "est", "leaf": 299, "row": 7, "para": false, "head": false, "pos": 48}
@@ -52,7 +52,7 @@
 {"t": "fuit", "leaf": 299, "row": 7, "para": false, "head": false, "pos": 51}
 {"t": "sanccior", "leaf": 299, "row": 7, "para": false, "head": false, "pos": 52}
 {"t": "omnibus", "leaf": 299, "row": 8, "para": false, "head": false, "pos": 53}
-{"t": "illis.", "leaf": 299, "row": 8, "para": false, "head": false, "pos": 54}
+{"t": "illis,", "leaf": 299, "row": 8, "para": false, "head": false, "pos": 54}
 {"t": "et", "leaf": 299, "row": 8, "para": false, "head": false, "pos": 55}
 {"t": "tamen", "leaf": 299, "row": 8, "para": false, "head": false, "pos": 56}
 {"t": "ipse", "leaf": 299, "row": 8, "para": false, "head": false, "pos": 57}
@@ -97,7 +97,7 @@
 {"t": "mala", "leaf": 299, "row": 12, "para": false, "head": false, "pos": 96}
 {"t": "ex", "leaf": 299, "row": 13, "para": false, "head": false, "pos": 97}
 {"t": "illa", "leaf": 299, "row": 13, "para": false, "head": false, "pos": 98}
-{"t": "processerant.", "leaf": 299, "row": 13, "para": false, "head": false, "pos": 99}
+{"t": "processerant,", "leaf": 299, "row": 13, "para": false, "head": false, "pos": 99}
 {"t": "cum", "leaf": 299, "row": 13, "para": false, "head": false, "pos": 100}
 {"t": "ex", "leaf": 299, "row": 13, "para": false, "head": false, "pos": 101}
 {"t": "hoc", "leaf": 299, "row": 13, "para": false, "head": false, "pos": 102}
@@ -119,7 +119,7 @@
 {"t": "seminavit", "leaf": 299, "row": 16, "para": false, "head": false, "pos": 118}
 {"t": "discordiam", "leaf": 299, "row": 16, "para": false, "head": false, "pos": 119}
 {"t": "in", "leaf": 299, "row": 16, "para": false, "head": false, "pos": 120}
-{"t": "ecclesia.", "leaf": 299, "row": 16, "para": false, "head": false, "pos": 121}
+{"t": "ecclesia,", "leaf": 299, "row": 16, "para": false, "head": false, "pos": 121}
 {"t": "ut", "leaf": 299, "row": 16, "para": false, "head": false, "pos": 122}
 {"t": "homines", "leaf": 299, "row": 16, "para": false, "head": false, "pos": 123}
 {"t": "plus", "leaf": 299, "row": 16, "para": false, "head": false, "pos": 124}

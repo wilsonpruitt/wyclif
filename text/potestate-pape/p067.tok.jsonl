@@ -73,7 +73,7 @@
 {"t": "ex", "leaf": 128, "row": 11, "para": false, "head": false, "pos": 72}
 {"t": "illo", "leaf": 128, "row": 11, "para": false, "head": false, "pos": 73}
 {"t": "Psalmo", "leaf": 128, "row": 11, "para": false, "head": false, "pos": 74}
-{"t": "CVIII;", "leaf": 128, "row": 11, "para": false, "head": false, "pos": 75}
+{"t": "CVIII,", "leaf": 128, "row": 11, "para": false, "head": false, "pos": 75}
 {"t": "8", "leaf": 128, "row": 11, "para": false, "head": false, "pos": 76}
 {"t": "episcopatum", "leaf": 128, "row": 11, "para": false, "head": false, "pos": 77}
 {"t": "eius", "leaf": 128, "row": 11, "para": false, "head": false, "pos": 78}
@@ -95,7 +95,7 @@
 {"t": "institui", "leaf": 128, "row": 14, "para": false, "head": false, "pos": 94}
 {"t": "loco", "leaf": 128, "row": 14, "para": false, "head": false, "pos": 95}
 {"t": "Jude", "leaf": 128, "row": 14, "para": false, "head": false, "pos": 96}
-{"t": "et.", "leaf": 128, "row": 14, "para": false, "head": false, "pos": 97}
+{"t": "et,", "leaf": 128, "row": 14, "para": false, "head": false, "pos": 97}
 {"t": "quia", "leaf": 128, "row": 14, "para": false, "head": false, "pos": 98}
 {"t": "nondum", "leaf": 128, "row": 15, "para": false, "head": false, "pos": 99}
 {"t": "habuerunt", "leaf": 128, "row": 15, "para": false, "head": false, "pos": 100}
@@ -141,7 +141,7 @@
 {"t": "sentencie", "leaf": 128, "row": 21, "para": false, "head": false, "pos": 141}
 {"t": "expressiva.", "leaf": 128, "row": 22, "para": false, "head": false, "pos": 142}
 {"t": "Tu", "leaf": 128, "row": 22, "para": false, "head": false, "pos": 143}
-{"t": "Domine.", "leaf": 128, "row": 22, "para": false, "head": false, "pos": 144}
+{"t": "Domine,", "leaf": 128, "row": 22, "para": false, "head": false, "pos": 144}
 {"t": "inquiunt,", "leaf": 128, "row": 22, "para": false, "head": false, "pos": 145}
 {"t": "qui", "leaf": 128, "row": 22, "para": false, "head": false, "pos": 146}
 {"t": "nosti", "leaf": 128, "row": 22, "para": false, "head": false, "pos": 147}
@@ -174,7 +174,7 @@
 {"t": "eleccionem", "leaf": 128, "row": 26, "para": false, "head": false, "pos": 174}
 {"t": "Dei", "leaf": 128, "row": 26, "para": false, "head": false, "pos": 175}
 {"t": "fideliter", "leaf": 128, "row": 27, "para": false, "head": false, "pos": 176}
-{"t": "promulgare", "leaf": 128, "row": 27, "para": false, "head": false, "pos": 177}
+{"t": "promulgare,", "leaf": 128, "row": 27, "para": false, "head": false, "pos": 177}
 {"t": "ideo", "leaf": 128, "row": 27, "para": false, "head": false, "pos": 178}
 {"t": "dicit,", "leaf": 128, "row": 27, "para": false, "head": false, "pos": 179}
 {"t": "ostende", "leaf": 128, "row": 27, "para": false, "head": false, "pos": 180}

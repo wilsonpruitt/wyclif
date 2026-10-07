@@ -65,8 +65,10 @@
 {"t": "ideo", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 64}
 {"t": "absit", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 65}
 {"t": "fidelem", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 66}
-{"t": "crederehoc", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 67}
-{"t": "dePetro,", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 68}
+{"t": "credere", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 67}
+{"t": "hoc", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 67}
+{"t": "de", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 68}
+{"t": "Petro,", "leaf": 139, "row": 10, "para": false, "head": false, "pos": 68}
 {"t": "cum", "leaf": 139, "row": 11, "para": false, "head": false, "pos": 69}
 {"t": "ipse", "leaf": 139, "row": 11, "para": false, "head": false, "pos": 70}
 {"t": "apostolorum", "leaf": 139, "row": 11, "para": false, "head": false, "pos": 71}
@@ -130,13 +132,13 @@
 {"t": "mandavi", "leaf": 139, "row": 20, "para": false, "head": false, "pos": 129}
 {"t": "vobis.", "leaf": 139, "row": 20, "para": false, "head": false, "pos": 130}
 {"t": "Et", "leaf": 139, "row": 20, "para": false, "head": false, "pos": 131}
-{"t": "Mar.", "leaf": 139, "row": 20, "para": false, "head": false, "pos": 132}
+{"t": "Mar,", "leaf": 139, "row": 20, "para": false, "head": false, "pos": 132}
 {"t": "ultimo", "leaf": 139, "row": 20, "para": false, "head": false, "pos": 133}
 {"t": "limitatur", "leaf": 139, "row": 20, "para": false, "head": false, "pos": 134}
 {"t": "iurisdicionis", "leaf": 139, "row": 20, "para": false, "head": false, "pos": 135}
 {"t": "locus:", "leaf": 139, "row": 21, "para": false, "head": false, "pos": 136}
 {"t": "Euntes,", "leaf": 139, "row": 21, "para": false, "head": false, "pos": 137}
-{"t": "inquit.", "leaf": 139, "row": 21, "para": false, "head": false, "pos": 138}
+{"t": "inquit,", "leaf": 139, "row": 21, "para": false, "head": false, "pos": 138}
 {"t": "in", "leaf": 139, "row": 21, "para": false, "head": false, "pos": 139}
 {"t": "mundum", "leaf": 139, "row": 21, "para": false, "head": false, "pos": 140}
 {"t": "universum,", "leaf": 139, "row": 21, "para": false, "head": false, "pos": 141}
@@ -159,8 +161,8 @@
 {"t": "Apostoli", "leaf": 139, "row": 24, "para": false, "head": false, "pos": 158}
 {"t": "enim", "leaf": 139, "row": 24, "para": false, "head": false, "pos": 159}
 {"t": "iverunt", "leaf": 139, "row": 24, "para": false, "head": false, "pos": 160}
-{"t": "in?", "leaf": 139, "row": 24, "para": false, "head": false, "pos": 161}
-{"t": "Asyam.", "leaf": 139, "row": 25, "para": false, "head": false, "pos": 162}
+{"t": "in", "leaf": 139, "row": 24, "para": false, "head": false, "pos": 161}
+{"t": "Asyam,", "leaf": 139, "row": 25, "para": false, "head": false, "pos": 162}
 {"t": "Africam", "leaf": 139, "row": 25, "para": false, "head": false, "pos": 163}
 {"t": "et", "leaf": 139, "row": 25, "para": false, "head": false, "pos": 164}
 {"t": "Europam:", "leaf": 139, "row": 25, "para": false, "head": false, "pos": 165}
@@ -184,7 +186,7 @@
 {"t": "pars", "leaf": 139, "row": 27, "para": false, "head": false, "pos": 183}
 {"t": "terre", "leaf": 139, "row": 27, "para": false, "head": false, "pos": 184}
 {"t": "vel", "leaf": 139, "row": 28, "para": false, "head": false, "pos": 185}
-{"t": "mundi.", "leaf": 139, "row": 28, "para": false, "head": false, "pos": 186}
+{"t": "mundi,", "leaf": 139, "row": 28, "para": false, "head": false, "pos": 186}
 {"t": "quin", "leaf": 139, "row": 28, "para": false, "head": false, "pos": 187}
 {"t": "spiritualiter", "leaf": 139, "row": 28, "para": false, "head": false, "pos": 188}
 {"t": "aleretur", "leaf": 139, "row": 28, "para": false, "head": false, "pos": 189}
@@ -204,7 +206,7 @@
 {"t": "omnia", "leaf": 139, "row": 30, "para": false, "head": false, "pos": 203}
 {"t": "genera", "leaf": 139, "row": 31, "para": false, "head": false, "pos": 204}
 {"t": "gentium:", "leaf": 139, "row": 31, "para": false, "head": false, "pos": 205}
-{"t": "Grecos.", "leaf": 139, "row": 31, "para": false, "head": false, "pos": 206}
+{"t": "Grecos,", "leaf": 139, "row": 31, "para": false, "head": false, "pos": 206}
 {"t": "Latinos", "leaf": 139, "row": 31, "para": false, "head": false, "pos": 207}
 {"t": "et", "leaf": 139, "row": 31, "para": false, "head": false, "pos": 208}
 {"t": "barbaros.", "leaf": 139, "row": 31, "para": false, "head": false, "pos": 209}

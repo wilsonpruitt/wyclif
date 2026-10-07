@@ -72,7 +72,8 @@
 {"t": "perpetuo,", "leaf": 133, "row": 11, "para": false, "head": false, "pos": 71}
 {"t": "et", "leaf": 133, "row": 11, "para": false, "head": false, "pos": 72}
 {"t": "idem", "leaf": 133, "row": 11, "para": false, "head": false, "pos": 73}
-{"t": "patetNumeri", "leaf": 133, "row": 12, "para": false, "head": false, "pos": 74}
+{"t": "patet", "leaf": 133, "row": 12, "para": false, "head": false, "pos": 74}
+{"t": "Numeri", "leaf": 133, "row": 12, "para": false, "head": false, "pos": 74}
 {"t": "XXV", "leaf": 133, "row": 12, "para": false, "head": false, "pos": 75}
 {"t": "de", "leaf": 133, "row": 12, "para": false, "head": false, "pos": 76}
 {"t": "Finees,", "leaf": 133, "row": 12, "para": false, "head": false, "pos": 77}
@@ -162,7 +163,7 @@
 {"t": "legis", "leaf": 133, "row": 25, "para": false, "head": false, "pos": 161}
 {"t": "gracie", "leaf": 133, "row": 25, "para": false, "head": false, "pos": 162}
 {"t": "spiritualius", "leaf": 133, "row": 25, "para": false, "head": false, "pos": 163}
-{"t": "procedentes.", "leaf": 133, "row": 25, "para": false, "head": false, "pos": 164}
+{"t": "procedentes,", "leaf": 133, "row": 25, "para": false, "head": false, "pos": 164}
 {"t": "discamus", "leaf": 133, "row": 26, "para": false, "head": false, "pos": 165}
 {"t": "eligere", "leaf": 133, "row": 26, "para": false, "head": false, "pos": 166}
 {"t": "meliores", "leaf": 133, "row": 26, "para": false, "head": false, "pos": 167}

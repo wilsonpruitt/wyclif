@@ -14,7 +14,7 @@
 {"t": "per", "leaf": 451, "row": 1, "para": false, "head": false, "pos": 13}
 {"t": "metalli", "leaf": 451, "row": 1, "para": false, "head": false, "pos": 14}
 {"t": "rubiginem", "leaf": 451, "row": 1, "para": false, "head": false, "pos": 15}
-{"t": "inherentem.", "leaf": 451, "row": 2, "para": false, "head": false, "pos": 16}
+{"t": "inherentem,", "leaf": 451, "row": 2, "para": false, "head": false, "pos": 16}
 {"t": "sic", "leaf": 451, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "inficitur", "leaf": 451, "row": 2, "para": false, "head": false, "pos": 18}
 {"t": "rectoris", "leaf": 451, "row": 2, "para": false, "head": false, "pos": 19}
@@ -24,7 +24,7 @@
 {"t": "quando", "leaf": 451, "row": 3, "para": false, "head": false, "pos": 23}
 {"t": "temporalibus", "leaf": 451, "row": 3, "para": false, "head": false, "pos": 24}
 {"t": "nimis", "leaf": 451, "row": 3, "para": false, "head": false, "pos": 25}
-{"t": "afficitur.", "leaf": 451, "row": 3, "para": false, "head": false, "pos": 26}
+{"t": "afficitur,", "leaf": 451, "row": 3, "para": false, "head": false, "pos": 26}
 {"t": "cum", "leaf": 451, "row": 4, "para": false, "head": false, "pos": 27}
 {"t": "ad", "leaf": 451, "row": 4, "para": false, "head": false, "pos": 28}
 {"t": "hoc", "leaf": 451, "row": 4, "para": false, "head": false, "pos": 29}
@@ -78,7 +78,7 @@
 {"t": "tenetur", "leaf": 451, "row": 11, "para": false, "head": false, "pos": 77}
 {"t": "orare", "leaf": 451, "row": 11, "para": false, "head": false, "pos": 78}
 {"t": "pro", "leaf": 451, "row": 11, "para": false, "head": false, "pos": 79}
-{"t": "populo.", "leaf": 451, "row": 11, "para": false, "head": false, "pos": 80}
+{"t": "populo,", "leaf": 451, "row": 11, "para": false, "head": false, "pos": 80}
 {"t": "et", "leaf": 451, "row": 11, "para": false, "head": false, "pos": 81}
 {"t": "precipue", "leaf": 451, "row": 12, "para": false, "head": false, "pos": 82}
 {"t": "emundare", "leaf": 451, "row": 12, "para": false, "head": false, "pos": 83}
@@ -201,7 +201,7 @@
 {"t": "valde", "leaf": 451, "row": 30, "para": false, "head": false, "pos": 200}
 {"t": "urgetur", "leaf": 451, "row": 30, "para": false, "head": false, "pos": 201}
 {"t": "ex", "leaf": 451, "row": 30, "para": false, "head": false, "pos": 202}
-{"t": "propriis.", "leaf": 451, "row": 30, "para": false, "head": false, "pos": 203}
+{"t": "propriis,", "leaf": 451, "row": 30, "para": false, "head": false, "pos": 203}
 {"t": "humerum", "leaf": 451, "row": 30, "para": false, "head": false, "pos": 204}
 {"t": "libenter", "leaf": 451, "row": 31, "para": false, "head": false, "pos": 205}
 {"t": "opprimendus", "leaf": 451, "row": 31, "para": false, "head": false, "pos": 206}

@@ -36,7 +36,7 @@
 {"t": "debent", "leaf": 455, "row": 5, "para": false, "head": false, "pos": 34}
 {"t": "minus", "leaf": 455, "row": 5, "para": false, "head": false, "pos": 35}
 {"t": "deservire", "leaf": 455, "row": 5, "para": false, "head": false, "pos": 36}
-{"t": "eis.", "leaf": 455, "row": 5, "para": false, "head": false, "pos": 37}
+{"t": "eis,", "leaf": 455, "row": 5, "para": false, "head": false, "pos": 37}
 {"t": "cum", "leaf": 455, "row": 5, "para": false, "head": false, "pos": 38}
 {"t": "non", "leaf": 455, "row": 5, "para": false, "head": false, "pos": 39}
 {"t": "illuminantur", "leaf": 455, "row": 6, "para": false, "head": false, "pos": 40}
@@ -113,7 +113,7 @@
 {"t": "fracta", "leaf": 455, "row": 16, "para": false, "head": false, "pos": 111}
 {"t": "sit", "leaf": 455, "row": 16, "para": false, "head": false, "pos": 112}
 {"t": "et", "leaf": 455, "row": 16, "para": false, "head": false, "pos": 113}
-{"t": "debilitata.", "leaf": 455, "row": 16, "para": false, "head": false, "pos": 114}
+{"t": "debilitata,", "leaf": 455, "row": 16, "para": false, "head": false, "pos": 114}
 {"t": "quia", "leaf": 455, "row": 16, "para": false, "head": false, "pos": 115}
 {"t": "circa", "leaf": 455, "row": 17, "para": false, "head": false, "pos": 116}
 {"t": "contraria", "leaf": 455, "row": 17, "para": false, "head": false, "pos": 117}
@@ -186,7 +186,7 @@
 {"t": "directe", "leaf": 455, "row": 28, "para": false, "head": false, "pos": 184}
 {"t": "ad", "leaf": 455, "row": 28, "para": false, "head": false, "pos": 185}
 {"t": "contrarium", "leaf": 455, "row": 28, "para": false, "head": false, "pos": 186}
-{"t": "meriti.", "leaf": 455, "row": 28, "para": false, "head": false, "pos": 187}
+{"t": "meriti,", "leaf": 455, "row": 28, "para": false, "head": false, "pos": 187}
 {"t": "quod", "leaf": 455, "row": 28, "para": false, "head": false, "pos": 188}
 {"t": "stulte", "leaf": 455, "row": 28, "para": false, "head": false, "pos": 189}
 {"t": "intenderant.", "leaf": 455, "row": 28, "para": false, "head": false, "pos": 190}
