@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 19	R3a	latinworks19wycl=conuinco | johanniswyclift00mattgoog=conuince | johanniswyclift01mattgoog=conuinco | tractatusdepotes00wycl=conuinco		4	accept
 111	R2	latinworks19wycl=hx | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=ex | tractatusdepotes00wycl=iix		4	accept
-121	NW	latinworks19wycl=placencius | johanniswyclift00mattgoog=placencius | johanniswyclift01mattgoog=placencius | tractatusdepotes00wycl=placencius		4	plate
-124	INS?	i	2	4	plate
+121	PLATE	latinworks19wycl=placencius | johanniswyclift00mattgoog=placencius | johanniswyclift01mattgoog=placencius | tractatusdepotes00wycl=placencius		4	accept
+124	INS?	i	2	4	plate: ∅
 191	R6a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iii		4	accept

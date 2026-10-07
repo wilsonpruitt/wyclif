@@ -31,8 +31,9 @@
 {"t": "contemplativam", "leaf": 200, "row": 4, "para": false, "head": false, "pos": 30}
 {"t": "recepit", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 31}
 {"t": "responsum", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 32}
-{"t": "adeo:", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 33}
-{"t": "Qnid", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 34}
+{"t": "a", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 33}
+{"t": "Deo:", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 33}
+{"t": "Quid", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 34}
 {"t": "ad", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 35}
 {"t": "te,", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 36}
 {"t": "tu", "leaf": 200, "row": 5, "para": false, "head": false, "pos": 37}
@@ -219,7 +220,8 @@
 {"t": "neque", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 218}
 {"t": "cum", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 219}
 {"t": "potestate,", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 220}
-{"t": "sedfili,", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 221}
+{"t": "sed", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 221}
+{"t": "fili,", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 221}
 {"t": "ait,", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 222}
 {"t": "Thymothee,", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 223}
 {"t": "et", "leaf": 200, "row": 32, "para": false, "head": false, "pos": 224}

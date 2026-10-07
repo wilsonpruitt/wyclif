@@ -49,7 +49,7 @@
 {"t": "in", "leaf": 387, "row": 7, "para": false, "head": false, "pos": 48}
 {"t": "suo", "leaf": 387, "row": 7, "para": false, "head": false, "pos": 49}
 {"t": "tempore.", "leaf": 387, "row": 7, "para": false, "head": false, "pos": 50}
-{"t": "lam", "leaf": 387, "row": 7, "para": false, "head": false, "pos": 51}
+{"t": "Iam", "leaf": 387, "row": 7, "para": false, "head": false, "pos": 51}
 {"t": "enim", "leaf": 387, "row": 7, "para": false, "head": false, "pos": 52}
 {"t": "misterium", "leaf": 387, "row": 7, "para": false, "head": false, "pos": 53}
 {"t": "iniquitatis", "leaf": 387, "row": 8, "para": false, "head": false, "pos": 54}
@@ -124,7 +124,8 @@
 {"t": "quia", "leaf": 387, "row": 17, "para": false, "head": false, "pos": 123}
 {"t": "sensus", "leaf": 387, "row": 17, "para": false, "head": false, "pos": 124}
 {"t": "Apostoli", "leaf": 387, "row": 18, "para": false, "head": false, "pos": 125}
-{"t": "estmultum", "leaf": 387, "row": 18, "para": false, "head": false, "pos": 126}
+{"t": "est", "leaf": 387, "row": 18, "para": false, "head": false, "pos": 126}
+{"t": "multum", "leaf": 387, "row": 18, "para": false, "head": false, "pos": 126}
 {"t": "absconditus,", "leaf": 387, "row": 18, "para": false, "head": false, "pos": 127}
 {"t": "non", "leaf": 387, "row": 18, "para": false, "head": false, "pos": 128}
 {"t": "confunditur", "leaf": 387, "row": 18, "para": false, "head": false, "pos": 129}
@@ -168,6 +169,7 @@
 {"t": "de", "leaf": 387, "row": 24, "para": false, "head": false, "pos": 167}
 {"t": "medio,", "leaf": 387, "row": 24, "para": false, "head": false, "pos": 168}
 {"t": "quia", "leaf": 387, "row": 24, "para": false, "head": false, "pos": 169}
+{"t": "post", "leaf": 387, "row": 24, "para": false, "head": false, "pos": null}
 {"t": "dotacionem", "leaf": 387, "row": 25, "para": false, "head": false, "pos": 170}
 {"t": "ecclesie", "leaf": 387, "row": 25, "para": false, "head": false, "pos": 171}
 {"t": "revelabitur", "leaf": 387, "row": 25, "para": false, "head": false, "pos": 172}
@@ -190,7 +192,7 @@
 {"t": "causa", "leaf": 387, "row": 28, "para": false, "head": false, "pos": 189}
 {"t": "temporali,", "leaf": 387, "row": 28, "para": false, "head": false, "pos": 190}
 {"t": "quam", "leaf": 387, "row": 29, "para": false, "head": false, "pos": 191}
-{"t": "spintuali,", "leaf": 387, "row": 29, "para": false, "head": false, "pos": 192}
+{"t": "spirituali,", "leaf": 387, "row": 29, "para": false, "head": false, "pos": 192}
 {"t": "in", "leaf": 387, "row": 29, "para": false, "head": false, "pos": 193}
 {"t": "qua", "leaf": 387, "row": 29, "para": false, "head": false, "pos": 194}
 {"t": "pretendet", "leaf": 387, "row": 29, "para": false, "head": false, "pos": 195}
@@ -200,7 +202,7 @@
 {"t": "m", "leaf": 387, "row": 30, "para": false, "head": false, "pos": 199}
 {"t": "signis", "leaf": 387, "row": 30, "para": false, "head": false, "pos": 200}
 {"t": "et", "leaf": 387, "row": 30, "para": false, "head": false, "pos": 201}
-{"t": "prodigns", "leaf": 387, "row": 30, "para": false, "head": false, "pos": 202}
+{"t": "prodigiis", "leaf": 387, "row": 30, "para": false, "head": false, "pos": 202}
 {"t": "mendacibus,", "leaf": 387, "row": 30, "para": false, "head": false, "pos": 203}
 {"t": "per", "leaf": 387, "row": 30, "para": false, "head": false, "pos": 204}
 {"t": "que", "leaf": 387, "row": 30, "para": false, "head": false, "pos": 205}

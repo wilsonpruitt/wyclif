@@ -2,10 +2,10 @@ pos	rule	forms	support	voters	resolution
 14	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=t | tractatusdepotes00wycl=et		4	accept
 24	R2	latinworks19wycl=thym | johanniswyclift00mattgoog=thym | johanniswyclift01mattgoog=thytn | tractatusdepotes00wycl=thym		4	accept
 30	R5a	latinworks19wycl=iude | johanniswyclift00mattgoog=iude | johanniswyclift01mattgoog=iude | tractatusdepotes00wycl=iude		4	accept
-71	NW	latinworks19wycl=placencius | johanniswyclift00mattgoog=placencius | johanniswyclift01mattgoog=placencius | tractatusdepotes00wycl=placencius		4	plate
+71	PLATE	latinworks19wycl=placencius | johanniswyclift00mattgoog=placencius | johanniswyclift01mattgoog=placencius | tractatusdepotes00wycl=placencius		4	accept
 97	R3a	latinworks19wycl=unus | johanniswyclift00mattgoog=imus | johanniswyclift01mattgoog=unus | tractatusdepotes00wycl=unus		4	accept
 98	R3a	latinworks19wycl=nommetenus | johanniswyclift00mattgoog=nommetenus | johanniswyclift01mattgoog=nominetenus | tractatusdepotes00wycl=nommetenus		4	accept
 141	R4a	latinworks19wycl=cnristum | johanniswyclift00mattgoog=chnstum | johanniswyclift01mattgoog=chnstum | tractatusdepotes00wycl=christum		4	accept
-145	R3	latinworks19wycl=uicarium | johanniswyclift00mattgoog=uicanum | johanniswyclift01mattgoog=uicanum | tractatusdepotes00wycl=uicarium		4	plate
+145	PLATE	latinworks19wycl=uicarium | johanniswyclift00mattgoog=uicanum | johanniswyclift01mattgoog=uicanum | tractatusdepotes00wycl=uicarium		4	accept
 166	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=utas | johanniswyclift01mattgoog=uta | tractatusdepotes00wycl=ut		4	accept
-174	R6	latinworks19wycl=not | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=not		4	plate
+174	PLATE	latinworks19wycl=not | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=not		4	accept

@@ -2,21 +2,21 @@ pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=secundo | tractatusdepotes00wycl=secundo		2	accept
 1	EDGE	latinworks19wycl=anno | tractatusdepotes00wycl=anno		2	accept
 2	EDGE	latinworks19wycl=domini | tractatusdepotes00wycl=domini		2	accept
-3	THIN	latinworks19wycl=ccccxciii | tractatusdepotes00wycl=ccccxciii		2	plate
+3	PLATE	latinworks19wycl=ccccxciii | tractatusdepotes00wycl=ccccxciii		2	accept
 4	EDGE	latinworks19wycl=contra | tractatusdepotes00wycl=contra		2	accept
-5	THIN	latinworks19wycl=symachum | tractatusdepotes00wycl=symachum		2	plate
-6	THIN	latinworks19wycl=pauam | tractatusdepotes00wycl=papam		2	plate
-7	THIN	latinworks19wycl=ordtnatur | tractatusdepotes00wycl=ordmatur		2	plate
+5	PLATE	latinworks19wycl=symachum | tractatusdepotes00wycl=symachum		2	accept
+6	PLATE	latinworks19wycl=pauam | tractatusdepotes00wycl=papam		2	accept
+7	PLATE	latinworks19wycl=ordtnatur | tractatusdepotes00wycl=ordmatur		2	accept
 8	EDGE	latinworks19wycl=laurencius | tractatusdepotes00wycl=laurencius		2	accept
-9	THIN	latinworks19wycl=uer | tractatusdepotes00wycl=per		2	plate
-10	R5	latinworks19wycl=contenctonem | johanniswyclift00mattgoog=contenctonem | tractatusdepotes00wycl=contenaonem		3	plate
-14	R5	latinworks19wycl=dcclxuiii | johanniswyclift00mattgoog=dcclxuiii | tractatusdepotes00wycl=dcclxuiii		3	plate
+9	PLATE	latinworks19wycl=uer | tractatusdepotes00wycl=per		2	accept
+10	PLATE	latinworks19wycl=contenctonem | johanniswyclift00mattgoog=contenctonem | tractatusdepotes00wycl=contenaonem		3	accept
+14	PLATE	latinworks19wycl=dcclxuiii | johanniswyclift00mattgoog=dcclxuiii | tractatusdepotes00wycl=dcclxuiii		3	accept
 25	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
 39	R3a	latinworks19wycl=papam | johanniswyclift00mattgoog=papam | johanniswyclift01mattgoog=papant | tractatusdepotes00wycl=papam		4	accept
 43	R2	latinworks19wycl=quinto | johanniswyclift00mattgoog=qtiinto | johanniswyclift01mattgoog=qiiinlo | tractatusdepotes00wycl=quinto		4	accept
 60	R3a	latinworks19wycl=tota | johanniswyclift00mattgoog=iota | johanniswyclift01mattgoog=tola | tractatusdepotes00wycl=tota		4	accept
 61	R2	latinworks19wycl=ytalia | johanniswyclift00mattgoog=ytcuia | johanniswyclift01mattgoog=ytalia | tractatusdepotes00wycl=ytalia		4	accept
 71	R2	latinworks19wycl=dnm | johanniswyclift00mattgoog=dum | johanniswyclift01mattgoog=diim | tractatusdepotes00wycl=dum		4	accept
-143	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus		4	plate
-179	THIN	latinworks19wycl=domimco		1	plate
+143	PLATE	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus		4	accept
+179	PLATE	latinworks19wycl=domimco		1	accept
 180	EDGE	latinworks19wycl=obiit		1	accept

@@ -2,10 +2,10 @@ pos	rule	forms	support	voters	resolution
 45	R5a	latinworks19wycl=marc | johanniswyclift00mattgoog=marc | johanniswyclift01mattgoog=marc | tractatusdepotes00wycl=marc		4	accept
 46	R5a	latinworks19wycl=ult | johanniswyclift00mattgoog=ult | johanniswyclift01mattgoog=ult | tractatusdepotes00wycl=ult		4	accept
 61	R2	latinworks19wycl=xoecceego | johanniswyclift00mattgoog=ecce | johanniswyclift01mattgoog=ecce | tractatusdepotes00wycl=ecceego		4	accept
-62	INS?	ego	2	4	plate
+62	INS?	ego	2	4	plate: ego
 92	R2	latinworks19wycl=et | johanniswyclift00mattgoog=i5t | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
 112	R5a	latinworks19wycl=marc | johanniswyclift00mattgoog=marc | johanniswyclift01mattgoog=marc | tractatusdepotes00wycl=marc		4	accept
-128	INS?	ad	2	4	plate
-151	R4	latinworks19wycl=2 | johanniswyclift00mattgoog=ssuis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	plate
+128	INS?	ad	2	4	plate: ad
+151	PLATE	latinworks19wycl=2 | johanniswyclift00mattgoog=ssuis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 152	R2	latinworks19wycl=suis | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=suis | tractatusdepotes00wycl=suis		4	accept
-215	R3	latinworks19wycl=linguis | johanniswyclift00mattgoog=unguis | johanniswyclift01mattgoog=unguis | tractatusdepotes00wycl=linguis		4	plate
+215	PLATE	latinworks19wycl=linguis | johanniswyclift00mattgoog=unguis | johanniswyclift01mattgoog=unguis | tractatusdepotes00wycl=linguis		4	accept

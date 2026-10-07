@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 71	R3a	latinworks19wycl=publice | johanniswyclift00mattgoog=publice | johanniswyclift01mattgoog=publico | tractatusdepotes00wycl=publice		4	accept
-144	NW	latinworks19wycl=nommis | johanniswyclift00mattgoog=nommis | johanniswyclift01mattgoog=nominis | tractatusdepotes00wycl=nommis		4	plate
+144	PLATE	latinworks19wycl=nommis | johanniswyclift00mattgoog=nommis | johanniswyclift01mattgoog=nominis | tractatusdepotes00wycl=nommis		4	accept
 146	R4a	latinworks19wycl=superms | johanniswyclift00mattgoog=supenus | johanniswyclift01mattgoog=superius | tractatusdepotes00wycl=superms		4	accept
 148	R2	latinworks19wycl=enim | johanniswyclift00mattgoog=enun | johanniswyclift01mattgoog=enim | tractatusdepotes00wycl=emm		4	accept
 218	EDGE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept

@@ -11,7 +11,7 @@ pos	rule	forms	support	voters	resolution
 91	R3a	latinworks19wycl=ab | johanniswyclift00mattgoog=ab | johanniswyclift01mattgoog=ah | tractatusdepotes00wycl=ab		4	accept
 95	R2	latinworks19wycl=angustiata | johanniswyclift00mattgoog=angustiata | johanniswyclift01mattgoog=augnsiiata | tractatusdepotes00wycl=angustiata		4	accept
 97	R3a	latinworks19wycl=doloribus | johanniswyclift00mattgoog=doloribus | johanniswyclift01mattgoog=dolor | tractatusdepotes00wycl=doloribus		4	accept
-99	R4	latinworks19wycl=collosseum | johanniswyclift00mattgoog=cou | johanniswyclift01mattgoog=colet | tractatusdepotes00wycl=collosseum		4	plate
+99	PLATE	latinworks19wycl=collosseum | johanniswyclift00mattgoog=cou | johanniswyclift01mattgoog=colet | tractatusdepotes00wycl=collosseum		4	accept
 101	R2	latinworks19wycl=sanctum | johanniswyclift00mattgoog=sanctum | johanniswyclift01mattgoog=sepitlta | tractatusdepotes00wycl=sanctum		4	accept
 102	R2	latinworks19wycl=clementem | johanniswyclift00mattgoog=clementem | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=clementem		4	accept
 103	R2	latinworks19wycl=peperit | johanniswyclift00mattgoog=peperit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=peperit		4	accept

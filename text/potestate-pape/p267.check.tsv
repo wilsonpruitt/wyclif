@@ -1,57 +1,57 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=ecclesiarum		1	accept
-1	THIN	latinworks19wycl=mafrem		1	plate
+1	PLATE	latinworks19wycl=mafrem		1	accept
 2	EDGE	latinworks19wycl=esse | tractatusdepotes00wycl=esse		2	accept
 3	EDGE	latinworks19wycl=non | tractatusdepotes00wycl=non		2	accept
 4	EDGE	latinworks19wycl=dominam | tractatusdepotes00wycl=dominam		2	accept
 5	EDGE	latinworks19wycl=te | tractatusdepotes00wycl=te		2	accept
-17	R4	latinworks19wycl=ceiero | johanniswyclift00mattgoog=ceiero | tractatusdepotes00wycl=cetero		3	plate
+17	PLATE	latinworks19wycl=ceiero | johanniswyclift00mattgoog=ceiero | tractatusdepotes00wycl=cetero		3	accept
 23	R2	latinworks19wycl=iusticie | johanniswyclift00mattgoog=inshcie | tractatusdepotes00wycl=iusticie		3	accept
-28	R4	latinworks19wycl=bassertorem | johanniswyclift00mattgoog=bassertorem | tractatusdepotes00wycl=assertorem		3	plate
+28	PLATE	latinworks19wycl=bassertorem | johanniswyclift00mattgoog=bassertorem | tractatusdepotes00wycl=assertorem		3	accept
 30	R4a	latinworks19wycl=iidei | johanniswyclift00mattgoog=iidei | tractatusdepotes00wycl=fidei		3	accept
 36	DEL	latinworks19wycl=1 | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=∅		3	accept
-40	R5	latinworks19wycl=paranimfum | johanniswyclift00mattgoog=paranimfum | tractatusdepotes00wycl=paranimfum		3	plate
-42	R5	latinworks19wycl=ordinaiorem | johanniswyclift00mattgoog=ordinatorem | tractatusdepotes00wycl=ordinatorem		3	plate
-53	THIN	latinworks19wycl=tuiorem | johanniswyclift00mattgoog=tutor		2	plate
-54	THIN	latinworks19wycl=puri | johanniswyclift00mattgoog=em		2	plate
-55	THIN	latinworks19wycl=rum | johanniswyclift00mattgoog=pupillorum		2	plate
+40	PLATE	latinworks19wycl=paranimfum | johanniswyclift00mattgoog=paranimfum | tractatusdepotes00wycl=paranimfum		3	accept
+42	PLATE	latinworks19wycl=ordinaiorem | johanniswyclift00mattgoog=ordinatorem | tractatusdepotes00wycl=ordinatorem		3	accept
+53	PLATE	latinworks19wycl=tuiorem | johanniswyclift00mattgoog=tutor		2	accept
+54	PLATE	latinworks19wycl=puri | johanniswyclift00mattgoog=em		2	accept
+55	PLATE	latinworks19wycl=rum | johanniswyclift00mattgoog=pupillorum		2	accept
 58	R2	latinworks19wycl=uium | johanniswyclift00mattgoog=oculum | tractatusdepotes00wycl=oculum		3	accept
-64	R3	latinworks19wycl=nliorem | johanniswyclift00mattgoog=ultor | tractatusdepotes00wycl=ultorem		3	plate
+64	PLATE	latinworks19wycl=nliorem | johanniswyclift00mattgoog=ultor | tractatusdepotes00wycl=ultorem		3	accept
 68	R2	latinworks19wycl=roncrum | johanniswyclift00mattgoog=bonorum | tractatusdepotes00wycl=bonorum		3	accept
 69	R2	latinworks19wycl=gisriam | johanniswyclift00mattgoog=gloriam | tractatusdepotes00wycl=gloriam		3	accept
-81	R3	latinworks19wycl=terretorbis | johanniswyclift00mattgoog=ter | tractatusdepotes00wycl=terre		3	plate
-88	THIN	latinworks19wycl=do		1	plate
-89	THIN	latinworks19wycl=miui		1	plate
-90	THIN	latinworks19wycl=posiremc		1	plate
+81	PLATE	latinworks19wycl=terretorbis | johanniswyclift00mattgoog=ter | tractatusdepotes00wycl=terre		3	accept
+88	PLATE	latinworks19wycl=do		1	accept
+89	PLATE	latinworks19wycl=miui		1	accept
+90	PLATE	latinworks19wycl=posiremc		1	accept
 112	R2	latinworks19wycl=horribiiiumonstrum | johanniswyclift00mattgoog=horribilius | tractatusdepotes00wycl=horribilius		3	accept
 113	INS~	monstrum, | aomonstrum,	2	3	accept monstrum
-117	R5	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | tractatusdepotes00wycl=iii		3	plate
+117	PLATE	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | tractatusdepotes00wycl=iii		3	accept
 127	R2	latinworks19wycl=suai | johanniswyclift00mattgoog=suaue | tractatusdepotes00wycl=suaue		3	accept
-134	R3	latinworks19wycl=e | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et		3	plate
+134	PLATE	latinworks19wycl=e | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et		3	accept
 135	R2	latinworks19wycl=ardmus | johanniswyclift00mattgoog=animus | tractatusdepotes00wycl=animus		3	accept
-136	R3	latinworks19wycl=infimus | johanniswyclift00mattgoog=iniimus | tractatusdepotes00wycl=infimus		3	plate
-140	R3	latinworks19wycl=uia | johanniswyclift00mattgoog=uita | tractatusdepotes00wycl=uita		3	plate
+136	PLATE	latinworks19wycl=infimus | johanniswyclift00mattgoog=iniimus | tractatusdepotes00wycl=infimus		3	accept
+140	PLATE	latinworks19wycl=uia | johanniswyclift00mattgoog=uita | tractatusdepotes00wycl=uita		3	accept
 142	R2	latinworks19wycl=liuaua | johanniswyclift00mattgoog=lingua | tractatusdepotes00wycl=lingua		3	accept
-144	R3	latinworks19wycl=ei | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et		3	plate
+144	PLATE	latinworks19wycl=ei | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et		3	accept
 148	R2	latinworks19wycl=mudius | johanniswyclift00mattgoog=multus | tractatusdepotes00wycl=multus		3	accept
-149	R3	latinworks19wycl=e | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et		3	plate
+149	PLATE	latinworks19wycl=e | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et		3	accept
 150	R2	latinworks19wycl=us | johanniswyclift00mattgoog=fructus | tractatusdepotes00wycl=fructus		3	accept
 155	R2	latinworks19wycl=acins | johanniswyclift00mattgoog=actus | tractatusdepotes00wycl=actus		3	accept
-167	R5	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | tractatusdepotes00wycl=iii		3	plate
-170	R3	latinworks19wycl=modifica | johanniswyclift00mattgoog=modificat | tractatusdepotes00wycl=modificat		3	plate
+167	PLATE	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | tractatusdepotes00wycl=iii		3	accept
+170	PLATE	latinworks19wycl=modifica | johanniswyclift00mattgoog=modificat | tractatusdepotes00wycl=modificat		3	accept
 171	R2	latinworks19wycl=poesaer | johanniswyclift00mattgoog=potestatem | tractatusdepotes00wycl=potestatem		3	accept
 172	R2	latinworks19wycl=zraar | johanniswyclift00mattgoog=quam | tractatusdepotes00wycl=quam		3	accept
-190	THIN	latinworks19wycl=pc		1	plate
-191	THIN	latinworks19wycl=er		1	plate
-192	THIN	latinworks19wycl=iara		1	plate
-193	THIN	latinworks19wycl=rbebant		1	plate
-195	THIN	latinworks19wycl=fsriissimi		1	plate
-196	THIN	latinworks19wycl=beiiai		1	plate
-197	THIN	latinworks19wycl=res		1	plate
-198	THIN	latinworks19wycl=e		1	plate
-199	THIN	latinworks19wycl=5		1	plate
-200	THIN	latinworks19wycl=u		1	plate
-201	THIN	latinworks19wycl=bebant		1	plate
-206	R4	latinworks19wycl=confortatus | johanniswyclift00mattgoog=con | tractatusdepotes00wycl=confortatus		3	plate
-210	THIN	latinworks19wycl=comstumh		1	plate
+190	PLATE	latinworks19wycl=pc		1	accept
+191	PLATE	latinworks19wycl=er		1	accept
+192	PLATE	latinworks19wycl=iara		1	accept
+193	PLATE	latinworks19wycl=rbebant		1	accept
+195	PLATE	latinworks19wycl=fsriissimi		1	accept
+196	PLATE	latinworks19wycl=beiiai		1	accept
+197	PLATE	latinworks19wycl=res		1	accept
+198	PLATE	latinworks19wycl=e		1	accept
+199	PLATE	latinworks19wycl=5		1	accept
+200	PLATE	latinworks19wycl=u		1	accept
+201	PLATE	latinworks19wycl=bebant		1	accept
+206	PLATE	latinworks19wycl=confortatus | johanniswyclift00mattgoog=con | tractatusdepotes00wycl=confortatus		3	accept
+210	PLATE	latinworks19wycl=comstumh		1	accept
 211	EDGE	latinworks19wycl=sur		1	accept

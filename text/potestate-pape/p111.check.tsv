@@ -8,10 +8,10 @@ pos	rule	forms	support	voters	resolution
 124	INS	i	3	4	accept
 131	R2	latinworks19wycl=angelns | johanniswyclift00mattgoog=angelus | johanniswyclift01mattgoog=aneltis | tractatusdepotes00wycl=angehis		4	accept
 140	R2	latinworks19wycl=thema | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=thema		3	accept
-184	R4	latinworks19wycl=o | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=go		4	plate
+184	PLATE	latinworks19wycl=o | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=go		4	accept
 195	R2	latinworks19wycl=quis | johanniswyclift01mattgoog=qiiis | tractatusdepotes00wycl=quis		3	accept
 196	R2	latinworks19wycl=apposuerit | johanniswyclift01mattgoog=appnsneru | tractatusdepotes00wycl=apposuerit		3	accept
-197	R3	latinworks19wycl=ad | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=ai		3	plate
+197	PLATE	latinworks19wycl=ad | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=ai		3	accept
 199	R2	latinworks19wycl=apponet | johanniswyclift01mattgoog=appottel | tractatusdepotes00wycl=apponet		3	accept
-202	R3	latinworks19wycl=illum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		3	plate
-206	THIN	latinworks19wycl=lihro		1	plate
+202	PLATE	latinworks19wycl=illum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		3	accept
+206	PLATE	latinworks19wycl=lihro		1	accept

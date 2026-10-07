@@ -2,10 +2,10 @@ pos	rule	forms	support	voters	resolution
 12	R3a	latinworks19wycl=reperit | johanniswyclift00mattgoog=reperit | johanniswyclift01mattgoog=repent | tractatusdepotes00wycl=reperit		4	accept
 25	R3a	latinworks19wycl=unde | johanniswyclift00mattgoog=unde | johanniswyclift01mattgoog=undo | tractatusdepotes00wycl=unde		4	accept
 26	R3a	latinworks19wycl=papapetrus | johanniswyclift00mattgoog=papapetrus | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=papapetrus		4	accept
-27	R4	latinworks19wycl=ilpetri | johanniswyclift00mattgoog=ii | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=ilpetri		4	plate
+27	PLATE	latinworks19wycl=ilpetri | johanniswyclift00mattgoog=ii | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=ilpetri		4	accept
 33	R2	latinworks19wycl=eruut | johanniswyclift00mattgoog=eruui | johanniswyclift01mattgoog=eniiil | tractatusdepotes00wycl=erunt		4	accept
 35	R2	latinworks19wycl=pseudopropkete | johanniswyclift00mattgoog=psendoprophete | johanniswyclift01mattgoog=pseuiio3 | tractatusdepotes00wycl=pseudoprophete		4	accept
-38	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | johanniswyclift01mattgoog=scuf | tractatusdepotes00wycl=sicut		4	plate
+38	PLATE	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | johanniswyclift01mattgoog=scuf | tractatusdepotes00wycl=sicut		4	accept
 39	R3a	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
 40	R2	latinworks19wycl=uobis | johanniswyclift00mattgoog=uobis | johanniswyclift01mattgoog=uons | tractatusdepotes00wycl=uobis		4	accept
 41	R2	latinworks19wycl=erunt | johanniswyclift00mattgoog=ertint | johanniswyclift01mattgoog=erunl | tractatusdepotes00wycl=erunt		4	accept
@@ -17,13 +17,13 @@ pos	rule	forms	support	voters	resolution
 83	R3a	latinworks19wycl=meritis | johanniswyclift00mattgoog=mentis | johanniswyclift01mattgoog=meritis | tractatusdepotes00wycl=meritis		4	accept
 99	R5a	latinworks19wycl=iudas | johanniswyclift00mattgoog=iudas | johanniswyclift01mattgoog=iudas | tractatusdepotes00wycl=iudas		4	accept
 104	R5a	latinworks19wycl=ma | johanniswyclift00mattgoog=ma | johanniswyclift01mattgoog=ma | tractatusdepotes00wycl=ma		4	accept
-105	R5	latinworks19wycl=iestatem | johanniswyclift00mattgoog=iestatem | tractatusdepotes00wycl=iestatem		3	plate
+105	PLATE	latinworks19wycl=iestatem | johanniswyclift00mattgoog=iestatem | tractatusdepotes00wycl=iestatem		3	accept
 112	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=aim | tractatusdepotes00wycl=cum		4	accept
 118	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=esl | tractatusdepotes00wycl=est		4	accept
 119	R2	latinworks19wycl=atisus | johanniswyclift00mattgoog=ausus | johanniswyclift01mattgoog=aitsns | tractatusdepotes00wycl=ausus		4	accept
 121	R2	latinworks19wycl=ipstim | johanniswyclift00mattgoog=ipsum | johanniswyclift01mattgoog=ipsiint | tractatusdepotes00wycl=ipsum		4	accept
 123	R3a	latinworks19wycl=iudicium | johanniswyclift00mattgoog=indicium | johanniswyclift01mattgoog=iudiciuui | tractatusdepotes00wycl=iudicium		4	accept
-124	R4	latinworks19wycl=hii | johanniswyclift00mattgoog=hit | johanniswyclift01mattgoog=hit | tractatusdepotes00wycl=hii		4	plate
+124	PLATE	latinworks19wycl=hii | johanniswyclift00mattgoog=hit | johanniswyclift01mattgoog=hit | tractatusdepotes00wycl=hii		4	accept
 125	R2	latinworks19wycl=tamquam | johanniswyclift00mattgoog=tamqnam | johanniswyclift01mattgoog=iiimqiiam | tractatusdepotes00wycl=tamquam		4	accept
 128	R2	latinworks19wycl=oifendunt | johanniswyclift00mattgoog=offendnnt | johanniswyclift01mattgoog=offeinlnnt | tractatusdepotes00wycl=offendunt		4	accept
 130	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept

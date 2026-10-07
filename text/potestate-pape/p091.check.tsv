@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
 7	R3a	latinworks19wycl=toret | johanniswyclift00mattgoog=foret | johanniswyclift01mattgoog=foret | tractatusdepotes00wycl=foret		4	accept
 39	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
-43	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ttt | tractatusdepotes00wycl=ut		4	plate
+43	PLATE	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ttt | tractatusdepotes00wycl=ut		4	accept
 52	R3a	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
 53	R2	latinworks19wycl=profundnm | johanniswyclift00mattgoog=profundum | johanniswyclift01mattgoog=profutidunt | tractatusdepotes00wycl=profundum		4	accept
 63	R3a	latinworks19wycl=pastorali | johanniswyclift00mattgoog=pastorali | johanniswyclift01mattgoog=pastoral | tractatusdepotes00wycl=pastorali		4	accept
 66	R3a	latinworks19wycl=prelato | johanniswyclift00mattgoog=prelato | johanniswyclift01mattgoog=prelate | tractatusdepotes00wycl=prelato		4	accept
 71	R3a	latinworks19wycl=laycalis | johanniswyclift00mattgoog=lay | johanniswyclift01mattgoog=laycalis | tractatusdepotes00wycl=laycalis		4	accept
-87	R3	latinworks19wycl=llle | johanniswyclift00mattgoog=lue | johanniswyclift01mattgoog=ille | tractatusdepotes00wycl=ille		4	plate
+87	PLATE	latinworks19wycl=llle | johanniswyclift00mattgoog=lue | johanniswyclift01mattgoog=ille | tractatusdepotes00wycl=ille		4	accept
 92	R3a	latinworks19wycl=iam | johanniswyclift00mattgoog=nam | johanniswyclift01mattgoog=nam | tractatusdepotes00wycl=nam		4	accept

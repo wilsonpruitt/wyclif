@@ -7,7 +7,7 @@ pos	rule	forms	support	voters	resolution
 97	R5a	latinworks19wycl=rom | johanniswyclift00mattgoog=rom | johanniswyclift01mattgoog=rom | tractatusdepotes00wycl=rom		4	accept
 109	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept
 112	R3a	latinworks19wycl=paulus | johanniswyclift00mattgoog=paulus | johanniswyclift01mattgoog=paulas | tractatusdepotes00wycl=paulus		4	accept
-123	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deiis | tractatusdepotes00wycl=deus		4	plate
+123	PLATE	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deiis | tractatusdepotes00wycl=deus		4	accept
 124	R2	latinworks19wycl=cui | johanniswyclift00mattgoog=cni | johanniswyclift01mattgoog=cut | tractatusdepotes00wycl=cui		4	accept
 127	R2	latinworks19wycl=spiritu | johanniswyclift00mattgoog=spiritu | johanniswyclift01mattgoog=spiriln | tractatusdepotes00wycl=spiritu		4	accept
 128	R3a	latinworks19wycl=meo | johanniswyclift00mattgoog=meo | johanniswyclift01mattgoog=ineo | tractatusdepotes00wycl=meo		4	accept

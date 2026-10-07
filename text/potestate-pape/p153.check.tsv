@@ -1,13 +1,13 @@
 pos	rule	forms	support	voters	resolution
 12	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
 14	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nott | tractatusdepotes00wycl=non		4	accept
-22	R3	latinworks19wycl=opposito | johanniswyclift00mattgoog=opposite | johanniswyclift01mattgoog=opposite | tractatusdepotes00wycl=opposito		4	plate
+22	PLATE	latinworks19wycl=opposito | johanniswyclift00mattgoog=opposite | johanniswyclift01mattgoog=opposite | tractatusdepotes00wycl=opposito		4	accept
 40	R2	latinworks19wycl=tuam | johanniswyclift00mattgoog=tuam | johanniswyclift01mattgoog=ittant | tractatusdepotes00wycl=tuam		4	accept
 41	R3a	latinworks19wycl=utrum | johanniswyclift00mattgoog=turum | johanniswyclift01mattgoog=ulrum | tractatusdepotes00wycl=utrum		4	accept
 42	R2	latinworks19wycl=plura | johanniswyclift00mattgoog=plura | johanniswyclift01mattgoog=plura | tractatusdepotes00wycl=phira		4	accept
-46	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=ut		4	plate
+46	PLATE	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=ut		4	accept
 55	R3a	latinworks19wycl=ouium | johanniswyclift00mattgoog=auium | johanniswyclift01mattgoog=ouinm | tractatusdepotes00wycl=ouium		4	accept
-57	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ul | tractatusdepotes00wycl=tit		4	plate
+57	PLATE	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ul | tractatusdepotes00wycl=tit		4	accept
 61	R3a	latinworks19wycl=uerbo | johanniswyclift00mattgoog=uerbo | johanniswyclift01mattgoog=uerba | tractatusdepotes00wycl=uerbp		4	accept
 62	R3a	latinworks19wycl=exempto | johanniswyclift00mattgoog=exemplo | johanniswyclift01mattgoog=excmplo | tractatusdepotes00wycl=exemplo		4	accept
 66	R2	latinworks19wycl=tu | johanniswyclift00mattgoog=iupascaris | johanniswyclift01mattgoog=tu | tractatusdepotes00wycl=tu		4	accept
@@ -19,7 +19,7 @@ pos	rule	forms	support	voters	resolution
 89	R2	latinworks19wycl=scis | johanniswyclift00mattgoog=scis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=scis		4	accept
 90	R2	latinworks19wycl=quia | johanniswyclift00mattgoog=quia | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=quia		4	accept
 91	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=non		4	accept
-92	R3	latinworks19wycl=tacuiy | johanniswyclift00mattgoog=iacui | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=tacui		4	plate
+92	PLATE	latinworks19wycl=tacuiy | johanniswyclift00mattgoog=iacui | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=tacui		4	accept
 93	R2	latinworks19wycl=scis | johanniswyclift00mattgoog=scis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=scis		4	accept
 94	R2	latinworks19wycl=quo | johanniswyclift00mattgoog=quo | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=quo		4	accept
 95	R2	latinworks19wycl=animo | johanniswyclift00mattgoog=animo | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=animo		4	accept

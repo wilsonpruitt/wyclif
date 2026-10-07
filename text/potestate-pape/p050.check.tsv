@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
 35	R2	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=i		4	accept
 81	R5a	latinworks19wycl=marc | johanniswyclift00mattgoog=marc | johanniswyclift01mattgoog=marc | tractatusdepotes00wycl=marc		4	accept
-84	R4	latinworks19wycl=simon | johanniswyclift00mattgoog=stfhoh | johanniswyclift01mattgoog=6f0m | tractatusdepotes00wycl=otmon		4	plate
-86	R3	latinworks19wycl=non | johanniswyclift00mattgoog=nott | johanniswyclift01mattgoog=noit | tractatusdepotes00wycl=non		4	plate
-87	R4	latinworks19wycl=potuisti | johanniswyclift00mattgoog=potntstt | johanniswyclift01mattgoog=poiltlstl | tractatusdepotes00wycl=potutsh		4	plate
+84	PLATE	latinworks19wycl=simon | johanniswyclift00mattgoog=stfhoh | johanniswyclift01mattgoog=6f0m | tractatusdepotes00wycl=otmon		4	accept
+86	PLATE	latinworks19wycl=non | johanniswyclift00mattgoog=nott | johanniswyclift01mattgoog=noit | tractatusdepotes00wycl=non		4	accept
+87	PLATE	latinworks19wycl=potuisti | johanniswyclift00mattgoog=potntstt | johanniswyclift01mattgoog=poiltlstl | tractatusdepotes00wycl=potutsh		4	accept
 88	R2	latinworks19wycl=una | johanniswyclift00mattgoog=una | johanniswyclift01mattgoog=uho | tractatusdepotes00wycl=una		4	accept
 91	R2	latinworks19wycl=mecum | johanniswyclift00mattgoog=mecnm | johanniswyclift01mattgoog=iiiecum | tractatusdepotes00wycl=mecum		4	accept
 126	R2	latinworks19wycl=plenum | johanniswyclift00mattgoog=plenum | johanniswyclift01mattgoog=plemim | tractatusdepotes00wycl=plenum		4	accept

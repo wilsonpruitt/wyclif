@@ -2,7 +2,7 @@ pos	rule	forms	support	voters	resolution
 13	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
 61	R6a	latinworks19wycl=augustino | johanniswyclift00mattgoog=augustino | johanniswyclift01mattgoog=augustine | tractatusdepotes00wycl=augustino		4	accept
 115	R2	latinworks19wycl=matth | johanniswyclift00mattgoog=matth | johanniswyclift01mattgoog=nfatth | tractatusdepotes00wycl=somatth		4	accept
-134	R5	latinworks19wycl=iithym | johanniswyclift01mattgoog=iithym | tractatusdepotes00wycl=iithym		3	plate
-135	R5	latinworks19wycl=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		3	plate
-136	R4	latinworks19wycl=r | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=1		3	plate
+134	PLATE	latinworks19wycl=iithym | johanniswyclift01mattgoog=iithym | tractatusdepotes00wycl=iithym		3	accept
+135	PLATE	latinworks19wycl=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		3	accept
+136	PLATE	latinworks19wycl=r | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=1		3	accept
 140	R2	latinworks19wycl=instabunt | johanniswyclift00mattgoog=instabunt | johanniswyclift01mattgoog=inshibiinl | tractatusdepotes00wycl=instabuut		4	accept

@@ -2,10 +2,10 @@ pos	rule	forms	support	voters	resolution
 10	R3a	latinworks19wycl=subtiliantes | johanniswyclift00mattgoog=sub | johanniswyclift01mattgoog=subtiliantes | tractatusdepotes00wycl=subtiliantes		4	accept
 11	R2	latinworks19wycl=in | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
 12	R2	latinworks19wycl=dei | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=dei | tractatusdepotes00wycl=dei		4	accept
-29	R4	latinworks19wycl=conficiendi | johanniswyclift00mattgoog=conficiend | johanniswyclift01mattgoog=conficiendii | tractatusdepotes00wycl=conficiend		4	plate
+29	PLATE	latinworks19wycl=conficiendi | johanniswyclift00mattgoog=conficiend | johanniswyclift01mattgoog=conficiendii | tractatusdepotes00wycl=conficiend		4	accept
 36	R2	latinworks19wycl=ipsum | johanniswyclift00mattgoog=ipsiun | johanniswyclift01mattgoog=ipsum | tractatusdepotes00wycl=ipsum		4	accept
-41	R4	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec		4	plate
-46	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=iltum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=ilium		4	plate
+41	PLATE	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec		4	accept
+46	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=iltum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=ilium		4	accept
 61	R3a	latinworks19wycl=procedo | johanniswyclift00mattgoog=procedo | johanniswyclift01mattgoog=precede | tractatusdepotes00wycl=procedo		4	accept
 94	R3a	latinworks19wycl=casu | johanniswyclift00mattgoog=lay | johanniswyclift01mattgoog=casu | tractatusdepotes00wycl=casu		4	accept
 95	R2	latinworks19wycl=layco | johanniswyclift00mattgoog=co | johanniswyclift01mattgoog=layco | tractatusdepotes00wycl=layco		4	accept

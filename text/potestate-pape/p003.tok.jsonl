@@ -94,8 +94,11 @@
 {"t": "potestas", "leaf": 64, "row": 13, "para": false, "head": false, "pos": 93}
 {"t": "racionalis", "leaf": 64, "row": 13, "para": false, "head": false, "pos": 94}
 {"t": "creature", "leaf": 64, "row": 13, "para": false, "head": false, "pos": 95}
-{"t": "estperpetuaindelebilis", "leaf": 64, "row": 14, "para": false, "head": false, "pos": 96}
+{"t": "est", "leaf": 64, "row": 14, "para": false, "head": false, "pos": 96}
+{"t": "perpetua", "leaf": 64, "row": 14, "para": false, "head": false, "pos": 96}
+{"t": "indelebilis", "leaf": 64, "row": 14, "para": false, "head": false, "pos": 96}
 {"t": "sed", "leaf": 64, "row": 14, "para": false, "head": false, "pos": 97}
+{"t": "restringibilis", "leaf": 64, "row": 14, "para": false, "head": false, "pos": 97}
 {"t": "in", "leaf": 64, "row": 14, "para": false, "head": false, "pos": 98}
 {"t": "effectu,", "leaf": 64, "row": 14, "para": false, "head": false, "pos": 99}
 {"t": "corporalis", "leaf": 64, "row": 15, "para": false, "head": false, "pos": 100}

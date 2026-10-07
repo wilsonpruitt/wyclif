@@ -1,4 +1,4 @@
 pos	rule	forms	support	voters	resolution
-18	R3	latinworks19wycl=prelato | johanniswyclift00mattgoog=prelate | johanniswyclift01mattgoog=prelate | tractatusdepotes00wycl=prelato		4	plate
-81	R3	latinworks19wycl=by | johanniswyclift00mattgoog=e | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=by		4	plate
-82	R4	latinworks19wycl=t | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=it		4	plate
+18	PLATE	latinworks19wycl=prelato | johanniswyclift00mattgoog=prelate | johanniswyclift01mattgoog=prelate | tractatusdepotes00wycl=prelato		4	accept
+81	PLATE	latinworks19wycl=by | johanniswyclift00mattgoog=e | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=by		4	accept
+82	PLATE	latinworks19wycl=t | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=it		4	accept

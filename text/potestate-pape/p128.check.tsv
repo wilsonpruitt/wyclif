@@ -1,5 +1,5 @@
 pos	rule	forms	support	voters	resolution
 4	R5a	latinworks19wycl=p | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=p | tractatusdepotes00wycl=p		4	accept
 26	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
-169	R4	latinworks19wycl=incepc | johanniswyclift00mattgoog=incepcio | johanniswyclift01mattgoog=incepcioas | tractatusdepotes00wycl=incepc		4	plate
+169	PLATE	latinworks19wycl=incepc | johanniswyclift00mattgoog=incepcio | johanniswyclift01mattgoog=incepcioas | tractatusdepotes00wycl=incepc		4	accept
 206	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=etso | tractatusdepotes00wycl=et		4	accept

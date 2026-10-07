@@ -1,6 +1,6 @@
-{"t": "Sacramentum", "leaf": 353, "row": 0, "para": false, "head": true, "pos": null}
-{"t": "pingne", "leaf": 353, "row": 0, "para": false, "head": true, "pos": null}
-{"t": "dabo", "leaf": 353, "row": 0, "para": false, "head": true, "pos": null}
+{"t": "Sacramentum", "leaf": 353, "row": 0, "para": true, "head": false, "pos": null}
+{"t": "pingue", "leaf": 353, "row": 0, "para": false, "head": false, "pos": null}
+{"t": "dabo", "leaf": 353, "row": 0, "para": false, "head": false, "pos": null}
 {"t": "Non", "leaf": 353, "row": 1, "para": true, "head": false, "pos": 3}
 {"t": "macrum", "leaf": 353, "row": 1, "para": false, "head": false, "pos": 4}
 {"t": "sacrificabo.", "leaf": 353, "row": 1, "para": false, "head": false, "pos": 5}
@@ -48,7 +48,8 @@
 {"t": "legis", "leaf": 353, "row": 8, "para": false, "head": false, "pos": 47}
 {"t": "veteris,", "leaf": 353, "row": 8, "para": false, "head": false, "pos": 48}
 {"t": "quibus", "leaf": 353, "row": 8, "para": false, "head": false, "pos": 49}
-{"t": "omniain", "leaf": 353, "row": 8, "para": false, "head": false, "pos": 50}
+{"t": "omnia", "leaf": 353, "row": 8, "para": false, "head": false, "pos": 50}
+{"t": "in", "leaf": 353, "row": 8, "para": false, "head": false, "pos": 50}
 {"t": "figura", "leaf": 353, "row": 8, "para": false, "head": false, "pos": 51}
 {"t": "contigerant", "leaf": 353, "row": 9, "para": false, "head": false, "pos": 52}
 {"t": "ad", "leaf": 353, "row": 9, "para": false, "head": false, "pos": 53}
@@ -189,7 +190,7 @@
 {"t": "ecclesia", "leaf": 353, "row": 30, "para": false, "head": false, "pos": 188}
 {"t": "ordinantur,", "leaf": 353, "row": 30, "para": false, "head": false, "pos": 189}
 {"t": "periret", "leaf": 353, "row": 30, "para": false, "head": false, "pos": 190}
-{"t": "orcj", "leaf": 353, "row": 31, "para": false, "head": false, "pos": 191}
+{"t": "ordo", "leaf": 353, "row": 31, "para": false, "head": false, "pos": 191}
 {"t": "COnfessionis", "leaf": 353, "row": 31, "para": false, "head": false, "pos": 192}
 {"t": "et", "leaf": 353, "row": 31, "para": false, "head": false, "pos": 193}
 {"t": "timor", "leaf": 353, "row": 31, "para": false, "head": false, "pos": 194}

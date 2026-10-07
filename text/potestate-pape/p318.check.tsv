@@ -5,6 +5,6 @@ pos	rule	forms	support	voters	resolution
 113	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
 131	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
 160	R3a	latinworks19wycl=collato | johanniswyclift00mattgoog=collato | johanniswyclift01mattgoog=collate | tractatusdepotes00wycl=collato		4	accept
-162	R4	latinworks19wycl=numquids | johanniswyclift00mattgoog=numquid | johanniswyclift01mattgoog=numquid | tractatusdepotes00wycl=numquids		4	plate
+162	PLATE	latinworks19wycl=numquids | johanniswyclift00mattgoog=numquid | johanniswyclift01mattgoog=numquid | tractatusdepotes00wycl=numquids		4	accept
 191	R2	latinworks19wycl=in | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
 192	R2	latinworks19wycl=ista | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=ista | tractatusdepotes00wycl=ista		4	accept

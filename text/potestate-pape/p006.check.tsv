@@ -3,7 +3,7 @@ pos	rule	forms	support	voters	resolution
 83	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
 134	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=oh | tractatusdepotes00wycl=non		4	accept
 176	R3a	latinworks19wycl=ii | johanniswyclift00mattgoog=11 | johanniswyclift01mattgoog=n | tractatusdepotes00wycl=ii		4	accept
-179	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
-192	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the		4	plate
+179	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
+192	PLATE	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the		4	accept
 199	R2	latinworks19wycl=a | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=a		4	accept
 204	R2	latinworks19wycl=hmini | johanniswyclift00mattgoog=homini | johanniswyclift01mattgoog=homini | tractatusdepotes00wycl=normni		4	accept

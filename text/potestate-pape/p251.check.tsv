@@ -4,10 +4,10 @@ pos	rule	forms	support	voters	resolution
 44	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=romana | tractatusdepotes00wycl=romana		4	accept
 53	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
 61	R2	latinworks19wycl=erant | johanniswyclift00mattgoog=erant | johanniswyclift01mattgoog=eratut | tractatusdepotes00wycl=erant		4	accept
-90	R3	latinworks19wycl=sedi | johanniswyclift00mattgoog=sedii | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed		4	plate
+90	PLATE	latinworks19wycl=sedi | johanniswyclift00mattgoog=sedii | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed		4	accept
 96	R2	latinworks19wycl=pompa | johanniswyclift00mattgoog=pompa | johanniswyclift01mattgoog=poiiipa | tractatusdepotes00wycl=pompa		4	accept
-102	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
-163	NW	latinworks19wycl=legistarum | johanniswyclift00mattgoog=legistarum | johanniswyclift01mattgoog=legistarum | tractatusdepotes00wycl=legistarum		4	plate
-173	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+102	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
+163	PLATE	latinworks19wycl=legistarum | johanniswyclift00mattgoog=legistarum | johanniswyclift01mattgoog=legistarum | tractatusdepotes00wycl=legistarum		4	accept
+173	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 198	R3a	latinworks19wycl=uerum | johanniswyclift00mattgoog=uarum | johanniswyclift01mattgoog=uerum | tractatusdepotes00wycl=uerum		4	accept
 211	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept

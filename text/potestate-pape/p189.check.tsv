@@ -4,10 +4,10 @@ pos	rule	forms	support	voters	resolution
 34	R3a	latinworks19wycl=pater | johanniswyclift00mattgoog=paler | johanniswyclift01mattgoog=pater | tractatusdepotes00wycl=pater		4	accept
 35	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=ut		4	accept
 41	R3a	latinworks19wycl=facio | johanniswyclift00mattgoog=facto | johanniswyclift01mattgoog=facio | tractatusdepotes00wycl=facio		4	accept
-52	R4	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichrist | johanniswyclift01mattgoog=antichrist | tractatusdepotes00wycl=antichristi		4	plate
+52	PLATE	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichrist | johanniswyclift01mattgoog=antichrist | tractatusdepotes00wycl=antichristi		4	accept
 94	R2	latinworks19wycl=a | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
 99	R2	latinworks19wycl=sumus | johanniswyclift00mattgoog=sumus | johanniswyclift01mattgoog=suntus | tractatusdepotes00wycl=sumus		4	accept
-102	R4	latinworks19wycl=facite | johanniswyclift00mattgoog=acite | johanniswyclift01mattgoog=acite | tractatusdepotes00wycl=facite		4	plate
+102	PLATE	latinworks19wycl=facite | johanniswyclift00mattgoog=acite | johanniswyclift01mattgoog=acite | tractatusdepotes00wycl=facite		4	accept
 109	R3a	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | johanniswyclift01mattgoog=sicut | tractatusdepotes00wycl=sicut		4	accept
 110	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 114	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=atitem | johanniswyclift01mattgoog=autem | tractatusdepotes00wycl=autem		4	accept
@@ -24,4 +24,4 @@ pos	rule	forms	support	voters	resolution
 203	R2	latinworks19wycl=christus | johanniswyclift00mattgoog=christus | johanniswyclift01mattgoog=lnnstus | tractatusdepotes00wycl=christus		4	accept
 206	R2	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=i		4	accept
 216	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=iit | tractatusdepotes00wycl=ut		4	accept
-222	R4	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichrist | johanniswyclift01mattgoog=antichrist | tractatusdepotes00wycl=antichristi		4	plate
+222	PLATE	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichrist | johanniswyclift01mattgoog=antichrist | tractatusdepotes00wycl=antichristi		4	accept

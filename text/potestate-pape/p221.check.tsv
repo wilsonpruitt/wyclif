@@ -2,7 +2,7 @@ pos	rule	forms	support	voters	resolution
 23	R3a	latinworks19wycl=nostre | johanniswyclift00mattgoog=nostre | johanniswyclift01mattgoog=nostra | tractatusdepotes00wycl=nostre		4	accept
 120	R3a	latinworks19wycl=constituendo | johanniswyclift00mattgoog=constituendo | johanniswyclift01mattgoog=7 | tractatusdepotes00wycl=constituendo		4	accept
 144	R2	latinworks19wycl=daniele | johanniswyclift00mattgoog=daniele | johanniswyclift01mattgoog=danidc | tractatusdepotes00wycl=dauiele		4	accept
-148	INS?	loco	2	4	plate
+148	INS?	loco	2	4	plate: loco
 151	R2	latinworks19wycl=inteiligat | johanniswyclift00mattgoog=intelligat | johanniswyclift01mattgoog=intdugailocus | tractatusdepotes00wycl=intelligat		4	accept
 152	R2	latinworks19wycl=locus | johanniswyclift00mattgoog=locus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=locus		4	accept
 165	R2	latinworks19wycl=stantem | johanniswyclift00mattgoog=stantem | johanniswyclift01mattgoog=siatiicnt | tractatusdepotes00wycl=stantem		4	accept

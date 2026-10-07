@@ -1,14 +1,14 @@
 pos	rule	forms	support	voters	resolution
 21	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
 40	R5a	latinworks19wycl=cesare | johanniswyclift00mattgoog=cesare | johanniswyclift01mattgoog=cesare | tractatusdepotes00wycl=cesare		4	accept
-51	NW	latinworks19wycl=lmpertmenciam | johanniswyclift00mattgoog=impertinenciam | johanniswyclift01mattgoog=impertinenciam | tractatusdepotes00wycl=impertinenciam		4	plate
+51	PLATE	latinworks19wycl=lmpertmenciam | johanniswyclift00mattgoog=impertinenciam | johanniswyclift01mattgoog=impertinenciam | tractatusdepotes00wycl=impertinenciam		4	accept
 68	DEL	latinworks19wycl=r | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 69	DEL	latinworks19wycl=to | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 90	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=set | tractatusdepotes00wycl=et		4	accept
 109	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
-120	R5	latinworks19wycl=sithuic | johanniswyclift01mattgoog=sithuic | tractatusdepotes00wycl=sithuic		3	plate
+120	PLATE	latinworks19wycl=sithuic | johanniswyclift01mattgoog=sithuic | tractatusdepotes00wycl=sithuic		3	accept
 144	INS	i	3	4	accept
-156	R4	latinworks19wycl=istis | johanniswyclift00mattgoog=5istis | johanniswyclift01mattgoog=istis | tractatusdepotes00wycl=5istis		4	plate
+156	PLATE	latinworks19wycl=istis | johanniswyclift00mattgoog=5istis | johanniswyclift01mattgoog=istis | tractatusdepotes00wycl=5istis		4	accept
 169	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
 186	R3a	latinworks19wycl=querenti | johanniswyclift00mattgoog=querenti | johanniswyclift01mattgoog=querent | tractatusdepotes00wycl=querenti		4	accept
 188	R2	latinworks19wycl=oquo | johanniswyclift00mattgoog=oqtio | johanniswyclift01mattgoog=quo | tractatusdepotes00wycl=quo		4	accept

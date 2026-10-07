@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
-19	R4	latinworks19wycl=morali | johanniswyclift00mattgoog=moral | johanniswyclift01mattgoog=moral | tractatusdepotes00wycl=morali		4	plate
+19	PLATE	latinworks19wycl=morali | johanniswyclift00mattgoog=moral | johanniswyclift01mattgoog=moral | tractatusdepotes00wycl=morali		4	accept
 20	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 29	R3a	latinworks19wycl=habent | johanniswyclift00mattgoog=habeat | johanniswyclift01mattgoog=habent | tractatusdepotes00wycl=habent		4	accept
-31	NW	latinworks19wycl=spintualibus | johanniswyclift00mattgoog=spirituaubus | johanniswyclift01mattgoog=spirituahbus | tractatusdepotes00wycl=spintualibus		4	plate
-32	NW	latinworks19wycl=mcertum | johanniswyclift00mattgoog=incertum | johanniswyclift01mattgoog=mcertum | tractatusdepotes00wycl=mcertum		4	plate
+31	PLATE	latinworks19wycl=spintualibus | johanniswyclift00mattgoog=spirituaubus | johanniswyclift01mattgoog=spirituahbus | tractatusdepotes00wycl=spintualibus		4	accept
+32	PLATE	latinworks19wycl=mcertum | johanniswyclift00mattgoog=incertum | johanniswyclift01mattgoog=mcertum | tractatusdepotes00wycl=mcertum		4	accept
 62	R2	latinworks19wycl=fixis | johanniswyclift00mattgoog=fixis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fixis		4	accept
 99	R2	latinworks19wycl=imaginatur | johanniswyclift00mattgoog=imaginatur | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=imaginatur		4	accept
 112	R2	latinworks19wycl=uideres | johanniswyclift00mattgoog=uideres | johanniswyclift01mattgoog=iimaginatur | tractatusdepotes00wycl=uideres		4	accept

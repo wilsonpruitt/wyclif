@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=spiritus | tractatusdepotes00wycl=spiritus		2	accept
-14	R3	latinworks19wycl=nou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=nou		4	plate
+14	PLATE	latinworks19wycl=nou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=nou		4	accept
 27	R2	latinworks19wycl=deum | johanniswyclift00mattgoog=deura | johanniswyclift01mattgoog=deum | tractatusdepotes00wycl=deum		4	accept
-37	R4	latinworks19wycl=angelorurm | johanniswyclift00mattgoog=angelorum | johanniswyclift01mattgoog=angelorum | tractatusdepotes00wycl=angelorurm		4	plate
+37	PLATE	latinworks19wycl=angelorurm | johanniswyclift00mattgoog=angelorum | johanniswyclift01mattgoog=angelorum | tractatusdepotes00wycl=angelorurm		4	accept
 38	R2	latinworks19wycl=uerum | johanniswyclift00mattgoog=uerum | johanniswyclift01mattgoog=uerura | tractatusdepotes00wycl=uerum		4	accept

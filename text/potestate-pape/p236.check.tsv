@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=de		1	accept
-1	THIN	latinworks19wycl=mdulpenciis		1	plate
+1	PLATE	latinworks19wycl=mdulpenciis		1	accept
 2	EDGE	latinworks19wycl=uero		1	accept
 3	EDGE	latinworks19wycl=quas		1	accept
-4	THIN	latinworks19wycl=lpsi		1	plate
+4	PLATE	latinworks19wycl=lpsi		1	accept
 25	R2	latinworks19wycl=10itur | johanniswyclift00mattgoog=igitur | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=lgitur		4	accept
 26	R2	latinworks19wycl=communiter | johanniswyclift00mattgoog=communiter | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=communiter		4	accept
 31	R2	latinworks19wycl=petro | johanniswyclift00mattgoog=petro | johanniswyclift01mattgoog=petxoi | tractatusdepotes00wycl=petro		4	accept
@@ -11,12 +11,12 @@ pos	rule	forms	support	voters	resolution
 43	R3a	latinworks19wycl=poterit | johanniswyclift00mattgoog=potent | johanniswyclift01mattgoog=poterit | tractatusdepotes00wycl=poterit		4	accept
 69	R2	latinworks19wycl=mendacio | johanniswyclift00mattgoog=mendacio | johanniswyclift01mattgoog=niendaclo | tractatusdepotes00wycl=mendacio		4	accept
 91	R3a	latinworks19wycl=humanitus | johanniswyclift00mattgoog=humanitas | johanniswyclift01mattgoog=humanitus | tractatusdepotes00wycl=humanitus		4	accept
-96	THIN	latinworks19wycl=in | tractatusdepotes00wycl=in		2	plate
-97	THIN	latinworks19wycl=quantumtalis | tractatusdepotes00wycl=quantumtalis		2	plate
+96	PLATE	latinworks19wycl=in | tractatusdepotes00wycl=in		2	accept
+97	PLATE	latinworks19wycl=quantumtalis | tractatusdepotes00wycl=quantumtalis		2	accept
 174	DEL	latinworks19wycl=we | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 185	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=fst | tractatusdepotes00wycl=est		4	accept
 192	R3a	latinworks19wycl=illum | johanniswyclift00mattgoog=illum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
-206	R4	latinworks19wycl=kx | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=kx | tractatusdepotes00wycl=ex		4	plate
-227	INS?	i	2	4	plate
+206	PLATE	latinworks19wycl=kx | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=kx | tractatusdepotes00wycl=ex		4	accept
+227	INS?	i	2	4	plate: ∅
 227	EDGE	latinworks19wycl=falsissimam		1	accept
 228	EDGE	latinworks19wycl=extollenciam		1	accept

@@ -2,8 +2,8 @@ pos	rule	forms	support	voters	resolution
 24	R2	latinworks19wycl=extraneos | johanniswyclift00mattgoog=extraneos | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=extraneos		4	accept
 32	R2	latinworks19wycl=sed | johanniswyclift00mattgoog=sed | johanniswyclift01mattgoog=sad | tractatusdepotes00wycl=sed		4	accept
 97	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
-100	R4	latinworks19wycl=hii | johanniswyclift00mattgoog=hu | johanniswyclift01mattgoog=hii | tractatusdepotes00wycl=hu		4	plate
-109	NW	latinworks19wycl=umdicta | johanniswyclift00mattgoog=umdicta | johanniswyclift01mattgoog=umdicta | tractatusdepotes00wycl=uindicta		4	plate
+100	PLATE	latinworks19wycl=hii | johanniswyclift00mattgoog=hu | johanniswyclift01mattgoog=hii | tractatusdepotes00wycl=hu		4	accept
+109	PLATE	latinworks19wycl=umdicta | johanniswyclift00mattgoog=umdicta | johanniswyclift01mattgoog=umdicta | tractatusdepotes00wycl=uindicta		4	accept
 168	R2	latinworks19wycl=et | johanniswyclift00mattgoog=t | johanniswyclift01mattgoog=kt | tractatusdepotes00wycl=et		4	accept
 184	R2	latinworks19wycl=apostolo | johanniswyclift00mattgoog=apostolo | johanniswyclift01mattgoog=apoprophetatum | tractatusdepotes00wycl=apostolo		4	accept
 185	R2	latinworks19wycl=prophetatum | johanniswyclift00mattgoog=prophetatum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=prophetatum		4	accept

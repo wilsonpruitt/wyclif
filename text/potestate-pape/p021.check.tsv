@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
-3	R4	latinworks19wycl=talem | johanniswyclift00mattgoog=talent | johanniswyclift01mattgoog=talent | tractatusdepotes00wycl=talem		4	plate
-5	R3	latinworks19wycl=dens | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus		4	plate
+3	PLATE	latinworks19wycl=talem | johanniswyclift00mattgoog=talent | johanniswyclift01mattgoog=talent | tractatusdepotes00wycl=talem		4	accept
+5	PLATE	latinworks19wycl=dens | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus		4	accept
 7	R2	latinworks19wycl=dederat | johanniswyclift00mattgoog=dederat | johanniswyclift01mattgoog=dcderal | tractatusdepotes00wycl=dederat		4	accept
 8	R2	latinworks19wycl=potestatem | johanniswyclift00mattgoog=poiestaient | johanniswyclift01mattgoog=potesialem | tractatusdepotes00wycl=potestatem		4	accept
-9	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=itt | tractatusdepotes00wycl=ut		4	plate
+9	PLATE	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=itt | tractatusdepotes00wycl=ut		4	accept
 10	R3a	latinworks19wycl=esset | johanniswyclift00mattgoog=esset | johanniswyclift01mattgoog=esse | tractatusdepotes00wycl=esset		4	accept
 13	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=ccsaris | tractatusdepotes00wycl=cesaris		4	accept
 14	R2	latinworks19wycl=potestate | johanniswyclift00mattgoog=potestate | johanniswyclift01mattgoog=pouslau | tractatusdepotes00wycl=potestate		4	accept
@@ -13,4 +13,4 @@ pos	rule	forms	support	voters	resolution
 88	R2	latinworks19wycl=misterium | johanniswyclift00mattgoog=mistenum | johanniswyclift01mattgoog=iisnustenum | tractatusdepotes00wycl=mistermm		4	accept
 94	R2	latinworks19wycl=msi | johanniswyclift00mattgoog=ntst | johanniswyclift01mattgoog=ntst | tractatusdepotes00wycl=nist		4	accept
 170	R2	latinworks19wycl=datum | johanniswyclift00mattgoog=datum | johanniswyclift01mattgoog=dainm | tractatusdepotes00wycl=datum		4	accept
-190	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+190	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept

@@ -7,8 +7,8 @@ pos	rule	forms	support	voters	resolution
 48	R2	latinworks19wycl=tam | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=tam		4	accept
 49	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ex		4	accept
 70	R2	latinworks19wycl=pure | johanniswyclift00mattgoog=piire | johanniswyclift01mattgoog=pure | tractatusdepotes00wycl=pure		4	accept
-77	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
-103	R3	latinworks19wycl=prei | johanniswyclift00mattgoog=prei | johanniswyclift01mattgoog=presumpcione | tractatusdepotes00wycl=presumpcione		4	plate
+77	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
+103	PLATE	latinworks19wycl=prei | johanniswyclift00mattgoog=prei | johanniswyclift01mattgoog=presumpcione | tractatusdepotes00wycl=presumpcione		4	accept
 104	R2	latinworks19wycl=sumpcione | johanniswyclift00mattgoog=sumpcione | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 135	R2	latinworks19wycl=decalogi | johanniswyclift00mattgoog=de20 | johanniswyclift01mattgoog=decalogi | tractatusdepotes00wycl=decalogi		4	accept
 204	EDGE	latinworks19wycl=20		1	accept
@@ -20,12 +20,12 @@ pos	rule	forms	support	voters	resolution
 210	EDGE	latinworks19wycl=episcopales		1	accept
 211	EDGE	latinworks19wycl=28		1	accept
 212	EDGE	latinworks19wycl=st		1	accept
-213	THIN	latinworks19wycl=dionysii		1	plate
-214	THIN	latinworks19wycl=arcop		1	plate
+213	PLATE	latinworks19wycl=dionysii		1	accept
+214	PLATE	latinworks19wycl=arcop		1	accept
 215	EDGE	latinworks19wycl=de		1	accept
 216	EDGE	latinworks19wycl=eccles		1	accept
-217	THIN	latinworks19wycl=hierarch		1	plate
+217	PLATE	latinworks19wycl=hierarch		1	accept
 218	EDGE	latinworks19wycl=ed		1	accept
-219	THIN	latinworks19wycl=lugd		1	plate
+219	PLATE	latinworks19wycl=lugd		1	accept
 220	EDGE	latinworks19wycl=pag		1	accept
 221	EDGE	latinworks19wycl=i5i		1	accept

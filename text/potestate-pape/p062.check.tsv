@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 4	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=noti | tractatusdepotes00wycl=non		4	accept
 7	R2	latinworks19wycl=quantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=qiiihiiini | tractatusdepotes00wycl=quantum		4	accept
-8	R3	latinworks19wycl=ab | johanniswyclift00mattgoog=ah | johanniswyclift01mattgoog=nh | tractatusdepotes00wycl=ab		4	plate
+8	PLATE	latinworks19wycl=ab | johanniswyclift00mattgoog=ah | johanniswyclift01mattgoog=nh | tractatusdepotes00wycl=ab		4	accept
 11	R3a	latinworks19wycl=christus | johanniswyclift00mattgoog=christus | johanniswyclift01mattgoog=chrisus | tractatusdepotes00wycl=christus		4	accept
 20	R2	latinworks19wycl=poterat | johanniswyclift00mattgoog=poieraly | johanniswyclift01mattgoog=poleral | tractatusdepotes00wycl=poterat		4	accept
 21	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
@@ -11,15 +11,15 @@ pos	rule	forms	support	voters	resolution
 26	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=peirus | johanniswyclift01mattgoog=petrtts | tractatusdepotes00wycl=petrus		4	accept
 27	R3a	latinworks19wycl=domine | johanniswyclift00mattgoog=domine | johanniswyclift01mattgoog=domiue | tractatusdepotes00wycl=domine		4	accept
 31	R2	latinworks19wycl=amo | johanniswyclift00mattgoog=anto | tractatusdepotes00wycl=amo		3	accept
-32	R5	latinworks19wycl=teptus | johanniswyclift00mattgoog=teplus | tractatusdepotes00wycl=teplus		3	plate
-33	R4	latinworks19wycl=kiis | johanniswyclift00mattgoog=hits | tractatusdepotes00wycl=hiis		3	plate
+32	PLATE	latinworks19wycl=teptus | johanniswyclift00mattgoog=teplus | tractatusdepotes00wycl=teplus		3	accept
+33	PLATE	latinworks19wycl=kiis | johanniswyclift00mattgoog=hits | tractatusdepotes00wycl=hiis		3	accept
 37	R3a	latinworks19wycl=inquit | johanniswyclift00mattgoog=inquii | johanniswyclift01mattgoog=inquit | tractatusdepotes00wycl=inquit		4	accept
 39	R2	latinworks19wycl=scis | johanniswyclift00mattgoog=sets | johanniswyclift01mattgoog=scis | tractatusdepotes00wycl=scis		4	accept
 41	R2	latinworks19wycl=amo | johanniswyclift00mattgoog=amo | johanniswyclift01mattgoog=auto | tractatusdepotes00wycl=amo		4	accept
 42	R2	latinworks19wycl=te | johanniswyclift00mattgoog=te | johanniswyclift01mattgoog=ie | tractatusdepotes00wycl=te		4	accept
-43	R4	latinworks19wycl=caritatem | johanniswyclift00mattgoog=cariiatem | johanniswyclift01mattgoog=cariiatem | tractatusdepotes00wycl=caritatem		4	plate
-48	R4	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrtts | johanniswyclift01mattgoog=petrtts | tractatusdepotes00wycl=petrus		4	plate
-59	HEAD	CAPITULUM QUARTUM.			plate
+43	PLATE	latinworks19wycl=caritatem | johanniswyclift00mattgoog=cariiatem | johanniswyclift01mattgoog=cariiatem | tractatusdepotes00wycl=caritatem		4	accept
+48	PLATE	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrtts | johanniswyclift01mattgoog=petrtts | tractatusdepotes00wycl=petrus		4	accept
+59	HEAD	CAPITULUM QUARTUM.			plate: CAPITULUM QUARTUM.
 64	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 80	R2	latinworks19wycl=sed | johanniswyclift00mattgoog=sed | johanniswyclift01mattgoog=sea | tractatusdepotes00wycl=sed		4	accept
 91	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nun | tractatusdepotes00wycl=non		4	accept

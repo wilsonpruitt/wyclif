@@ -1,6 +1,6 @@
 {"t": "esse", "leaf": 422, "row": 0, "para": false, "head": false, "pos": 0}
 {"t": "nimis", "leaf": 422, "row": 0, "para": false, "head": false, "pos": 1}
-{"t": "maerna", "leaf": 422, "row": 0, "para": false, "head": false, "pos": 2}
+{"t": "magna", "leaf": 422, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "presumpcio.", "leaf": 422, "row": 0, "para": false, "head": false, "pos": 3}
 {"t": "Nam", "leaf": 422, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "iuxta", "leaf": 422, "row": 0, "para": false, "head": false, "pos": 5}
@@ -11,8 +11,10 @@
 {"t": "X", "leaf": 422, "row": 1, "para": false, "head": false, "pos": 10}
 {"t": "capitulo", "leaf": 422, "row": 1, "para": false, "head": false, "pos": 11}
 {"t": "et", "leaf": 422, "row": 1, "para": false, "head": false, "pos": 12}
-{"t": "testimoniumBernhardi", "leaf": 422, "row": 2, "para": false, "head": false, "pos": 13}
-{"t": "etLyncolmensis", "leaf": 422, "row": 2, "para": false, "head": false, "pos": 14}
+{"t": "testimonium", "leaf": 422, "row": 2, "para": false, "head": false, "pos": 13}
+{"t": "Bernhardi", "leaf": 422, "row": 2, "para": false, "head": false, "pos": 13}
+{"t": "et", "leaf": 422, "row": 2, "para": false, "head": false, "pos": 14}
+{"t": "Lyncolniensis", "leaf": 422, "row": 2, "para": false, "head": false, "pos": 14}
 {"t": "papa", "leaf": 422, "row": 2, "para": false, "head": false, "pos": 15}
 {"t": "debet", "leaf": 422, "row": 2, "para": false, "head": false, "pos": 16}
 {"t": "esse", "leaf": 422, "row": 3, "para": false, "head": false, "pos": 17}
@@ -164,7 +166,7 @@
 {"t": "quod", "leaf": 422, "row": 23, "para": false, "head": false, "pos": 163}
 {"t": "vocetur", "leaf": 422, "row": 23, "para": false, "head": false, "pos": 164}
 {"t": "pater", "leaf": 422, "row": 24, "para": false, "head": false, "pos": 165}
-{"t": "ueatissimns", "leaf": 422, "row": 24, "para": false, "head": false, "pos": 166}
+{"t": "beatissimus", "leaf": 422, "row": 24, "para": false, "head": false, "pos": 166}
 {"t": "et", "leaf": 422, "row": 24, "para": false, "head": false, "pos": 167}
 {"t": "vendicat", "leaf": 422, "row": 24, "para": false, "head": false, "pos": 168}
 {"t": "honores", "leaf": 422, "row": 24, "para": false, "head": false, "pos": 169}

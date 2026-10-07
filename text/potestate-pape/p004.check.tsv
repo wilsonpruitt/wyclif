@@ -4,8 +4,8 @@ pos	rule	forms	support	voters	resolution
 19	R2	latinworks19wycl=liberum | johanniswyclift00mattgoog=lberunii | johanniswyclift01mattgoog=libenim | tractatusdepotes00wycl=liberum		4	accept
 25	R2	latinworks19wycl=rectitudinem | johanniswyclift00mattgoog=rectitudinem | johanniswyclift01mattgoog=rectiludinctn | tractatusdepotes00wycl=rectitudinem		4	accept
 59	R2	latinworks19wycl=may | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=may		4	accept
-65	R4	latinworks19wycl=poteg | johanniswyclift00mattgoog=potestatem | johanniswyclift01mattgoog=potestatem | tractatusdepotes00wycl=poteg		4	plate
-66	R6	latinworks19wycl=statem | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=statem		4	plate
+65	PLATE	latinworks19wycl=poteg | johanniswyclift00mattgoog=potestatem | johanniswyclift01mattgoog=potestatem | tractatusdepotes00wycl=poteg		4	accept
+66	PLATE	latinworks19wycl=statem | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=statem		4	accept
 80	R2	latinworks19wycl=mutatum | johanniswyclift00mattgoog=mutatum | johanniswyclift01mattgoog=mutatuniiut | tractatusdepotes00wycl=mutatum		4	accept
 81	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ut		4	accept
 150	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept

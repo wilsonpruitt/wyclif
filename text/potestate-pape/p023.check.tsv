@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
 0	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 7	R2	latinworks19wycl=uerum | johanniswyclift00mattgoog=uerum | johanniswyclift01mattgoog=uenim | tractatusdepotes00wycl=uerum		4	accept
-17	NW	latinworks19wycl=uolitum | johanniswyclift00mattgoog=uolitum | johanniswyclift01mattgoog=uolitum | tractatusdepotes00wycl=uolitum		4	plate
+17	PLATE	latinworks19wycl=uolitum | johanniswyclift00mattgoog=uolitum | johanniswyclift01mattgoog=uolitum | tractatusdepotes00wycl=uolitum		4	accept
 27	R3a	latinworks19wycl=ocium | johanniswyclift00mattgoog=socium | johanniswyclift01mattgoog=ocium | tractatusdepotes00wycl=ocium		4	accept
-31	R3	latinworks19wycl=hortamur | johanniswyclift00mattgoog=horiamur | johanniswyclift01mattgoog=horiamur | tractatusdepotes00wycl=hortamur		4	plate
+31	PLATE	latinworks19wycl=hortamur | johanniswyclift00mattgoog=horiamur | johanniswyclift01mattgoog=horiamur | tractatusdepotes00wycl=hortamur		4	accept
 33	R3a	latinworks19wycl=ne | johanniswyclift00mattgoog=ne | johanniswyclift01mattgoog=he | tractatusdepotes00wycl=ne		4	accept
-90	NW	latinworks19wycl=penculosior | johanniswyclift00mattgoog=penculosior | johanniswyclift01mattgoog=penculosior | tractatusdepotes00wycl=penculosior		4	plate
+90	PLATE	latinworks19wycl=penculosior | johanniswyclift00mattgoog=penculosior | johanniswyclift01mattgoog=penculosior | tractatusdepotes00wycl=penculosior		4	accept
 103	R3a	latinworks19wycl=contingit | johanniswyclift00mattgoog=contingit | johanniswyclift01mattgoog=contint | tractatusdepotes00wycl=contingit		4	accept
 115	R3a	latinworks19wycl=ouando | johanniswyclift00mattgoog=quando | johanniswyclift01mattgoog=quando | tractatusdepotes00wycl=quando		4	accept
-120	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+120	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
 127	R4a	latinworks19wycl=almm | johanniswyclift00mattgoog=ahum | johanniswyclift01mattgoog=ahum | tractatusdepotes00wycl=alium		4	accept

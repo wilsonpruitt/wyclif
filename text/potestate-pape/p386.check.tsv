@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
-22	R3	latinworks19wycl=congregare | johanniswyclift00mattgoog=congregate | johanniswyclift01mattgoog=congregate | tractatusdepotes00wycl=congregare		4	plate
+22	PLATE	latinworks19wycl=congregare | johanniswyclift00mattgoog=congregate | johanniswyclift01mattgoog=congregate | tractatusdepotes00wycl=congregare		4	accept
 38	R2	latinworks19wycl=a | johanniswyclift00mattgoog=a | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=a		4	accept
 46	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=rum | tractatusdepotes00wycl=cum		4	accept
 102	R2	latinworks19wycl=excederent | johanniswyclift00mattgoog=excederent | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=excederent		4	accept
 108	R2	latinworks19wycl=simplicem | johanniswyclift00mattgoog=simplicem | johanniswyclift01mattgoog=siniplioem | tractatusdepotes00wycl=simplicem		4	accept
 139	R2	latinworks19wycl=se | johanniswyclift00mattgoog=se | johanniswyclift01mattgoog=seso | tractatusdepotes00wycl=se		4	accept
 140	R2	latinworks19wycl=tenere | johanniswyclift00mattgoog=tenoro | johanniswyclift01mattgoog=ttmiere | tractatusdepotes00wycl=tenere		4	accept
-156	R3	latinworks19wycl=quam | johanniswyclift00mattgoog=uain | johanniswyclift01mattgoog=uani | tractatusdepotes00wycl=quam		4	plate
+156	PLATE	latinworks19wycl=quam | johanniswyclift00mattgoog=uain | johanniswyclift01mattgoog=uani | tractatusdepotes00wycl=quam		4	accept
 162	R2	latinworks19wycl=certificare | johanniswyclift00mattgoog=corlilicare | johanniswyclift01mattgoog=certilicaro | tractatusdepotes00wycl=certiiicare		4	accept
 176	R2	latinworks19wycl=patet | johanniswyclift00mattgoog=patet | johanniswyclift01mattgoog=atft | tractatusdepotes00wycl=patet		4	accept
 226	R5a	latinworks19wycl=mathie | johanniswyclift00mattgoog=mathie | johanniswyclift01mattgoog=mathie | tractatusdepotes00wycl=mathie		4	accept

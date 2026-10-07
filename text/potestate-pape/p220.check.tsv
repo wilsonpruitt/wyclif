@@ -4,7 +4,7 @@ pos	rule	forms	support	voters	resolution
 27	DEL	latinworks19wycl=ieracionem | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 33	R3a	latinworks19wycl=pater | johanniswyclift00mattgoog=pater | johanniswyclift01mattgoog=paler | tractatusdepotes00wycl=pater		4	accept
 37	R3a	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
-40	R4	latinworks19wycl=iipi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ed		4	plate
+40	PLATE	latinworks19wycl=iipi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ed		4	accept
 41	DEL	latinworks19wycl=sed | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 75	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
 79	R2	latinworks19wycl=templum | johanniswyclift00mattgoog=templum | johanniswyclift01mattgoog=leutpuim | tractatusdepotes00wycl=templum		4	accept

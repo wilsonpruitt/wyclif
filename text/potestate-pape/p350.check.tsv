@@ -1,8 +1,8 @@
 pos	rule	forms	support	voters	resolution
 40	R3a	latinworks19wycl=quem | johanniswyclift00mattgoog=quem | johanniswyclift01mattgoog=quein | tractatusdepotes00wycl=quem		4	accept
 47	R2	latinworks19wycl=iniuriam | johanniswyclift00mattgoog=iniuriam | johanniswyclift01mattgoog=inpffmuriam | tractatusdepotes00wycl=iniuriam		4	accept
-108	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
-155	R5	latinworks19wycl=rnstanciam | johanniswyclift00mattgoog=mstanciam | tractatusdepotes00wycl=mstanciam		3	plate
+108	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
+155	PLATE	latinworks19wycl=rnstanciam | johanniswyclift00mattgoog=mstanciam | tractatusdepotes00wycl=mstanciam		3	accept
 161	R2	latinworks19wycl=carum | johanniswyclift00mattgoog=carums | johanniswyclift01mattgoog=carunui | tractatusdepotes00wycl=carum		4	accept
-196	R4	latinworks19wycl=offic | johanniswyclift00mattgoog=officio | johanniswyclift01mattgoog=officio | tractatusdepotes00wycl=offic		4	plate
+196	PLATE	latinworks19wycl=offic | johanniswyclift00mattgoog=officio | johanniswyclift01mattgoog=officio | tractatusdepotes00wycl=offic		4	accept
 220	R2	latinworks19wycl=plus | johanniswyclift00mattgoog=plus | johanniswyclift01mattgoog=plus | tractatusdepotes00wycl=pltis		4	accept

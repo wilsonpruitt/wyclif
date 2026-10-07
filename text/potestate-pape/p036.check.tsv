@@ -2,19 +2,19 @@ pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=operacio | tractatusdepotes00wycl=operacio		2	accept
 1	EDGE	latinworks19wycl=uirtutum | tractatusdepotes00wycl=uirtutum		2	accept
 2	EDGE	latinworks19wycl=alii | tractatusdepotes00wycl=alii		2	accept
-3	THIN	latinworks19wycl=propkecia | tractatusdepotes00wycl=prophecia		2	plate
+3	PLATE	latinworks19wycl=propkecia | tractatusdepotes00wycl=prophecia		2	accept
 4	EDGE	latinworks19wycl=alii | tractatusdepotes00wycl=alii		2	accept
 5	EDGE	latinworks19wycl=discrecio | tractatusdepotes00wycl=discrecio		2	accept
 6	EDGE	latinworks19wycl=spirituum | tractatusdepotes00wycl=spirituum		2	accept
 12	R2	latinworks19wycl=sermonum | johanniswyclift00mattgoog=sermohhih | johanniswyclift01mattgoog=sermonum | tractatusdepotes00wycl=sermonum		4	accept
 13	R2	latinworks19wycl=et | johanniswyclift00mattgoog=t | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
-31	R3	latinworks19wycl=prinio | johanniswyclift00mattgoog=prima | johanniswyclift01mattgoog=primal | tractatusdepotes00wycl=primo		4	plate
+31	PLATE	latinworks19wycl=prinio | johanniswyclift00mattgoog=prima | johanniswyclift01mattgoog=primal | tractatusdepotes00wycl=primo		4	accept
 37	R3a	latinworks19wycl=demum | johanniswyclift00mattgoog=demum | johanniswyclift01mattgoog=demunt | tractatusdepotes00wycl=demum		4	accept
-42	NW	latinworks19wycl=opitulacioues | johanniswyclift00mattgoog=opitulacioues | johanniswyclift01mattgoog=opitulacioues | tractatusdepotes00wycl=opitulacioues		4	plate
+42	PLATE	latinworks19wycl=opitulacioues | johanniswyclift00mattgoog=opitulacioues | johanniswyclift01mattgoog=opitulacioues | tractatusdepotes00wycl=opitulacioues		4	accept
 66	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=at | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
 122	R5a	latinworks19wycl=luca | johanniswyclift00mattgoog=luca | johanniswyclift01mattgoog=luca | tractatusdepotes00wycl=luca		4	accept
 123	R5a	latinworks19wycl=marco | johanniswyclift00mattgoog=marco | johanniswyclift01mattgoog=marco | tractatusdepotes00wycl=marco		4	accept
 148	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
-152	NW	latinworks19wycl=debents | johanniswyclift00mattgoog=debents | johanniswyclift01mattgoog=debent | tractatusdepotes00wycl=debents		4	plate
-176	R3	latinworks19wycl=preterito | johanniswyclift00mattgoog=preterite | johanniswyclift01mattgoog=preterite | tractatusdepotes00wycl=preterito		4	plate
+152	PLATE	latinworks19wycl=debents | johanniswyclift00mattgoog=debents | johanniswyclift01mattgoog=debent | tractatusdepotes00wycl=debents		4	accept
+176	PLATE	latinworks19wycl=preterito | johanniswyclift00mattgoog=preterite | johanniswyclift01mattgoog=preterite | tractatusdepotes00wycl=preterito		4	accept
 179	R2	latinworks19wycl=predicatores | johanniswyclift00mattgoog=predi30 | johanniswyclift01mattgoog=predicatores | tractatusdepotes00wycl=predicatores		4	accept

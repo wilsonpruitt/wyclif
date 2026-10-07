@@ -1,11 +1,11 @@
 {"t": "illud", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 0}
-{"t": "Apok.", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 1}
+{"t": "Apok", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "XIX,", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "8:", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "Datum", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 3}
 {"t": "est", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "sponse", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 5}
-{"t": "nt", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 6}
+{"t": "ut", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 6}
 {"t": "operiat", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 7}
 {"t": "se", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 8}
 {"t": "bissino", "leaf": 340, "row": 0, "para": false, "head": false, "pos": 9}
@@ -21,9 +21,10 @@
 {"t": "Caro", "leaf": 340, "row": 2, "para": false, "head": false, "pos": 19}
 {"t": "quidem", "leaf": 340, "row": 2, "para": false, "head": false, "pos": 20}
 {"t": "hominis", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 21}
-{"t": "mundiciam,", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 22}
+{"t": "mundiciam", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 22}
 {"t": "quam", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 22}
-{"t": "exnatura", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 23}
+{"t": "ex", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 23}
+{"t": "natura", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 23}
 {"t": "non", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 24}
 {"t": "habet,", "leaf": 340, "row": 3, "para": false, "head": false, "pos": 25}
 {"t": "studio", "leaf": 340, "row": 4, "para": false, "head": false, "pos": 26}
@@ -210,6 +211,7 @@
 {"t": "dicitur", "leaf": 340, "row": 31, "para": false, "head": false, "pos": 207}
 {"t": "Apoc.", "leaf": 340, "row": 31, "para": false, "head": false, "pos": 208}
 {"t": "XIV,", "leaf": 340, "row": 31, "para": false, "head": false, "pos": 209}
+{"t": "1", "leaf": 340, "row": 31, "para": false, "head": false, "pos": null}
 {"t": "sequi", "leaf": 340, "row": 31, "para": false, "head": false, "pos": 210}
 {"t": "agnum", "leaf": 340, "row": 31, "para": false, "head": false, "pos": 211}
 {"t": "quocumque", "leaf": 340, "row": 31, "para": false, "head": false, "pos": 212}

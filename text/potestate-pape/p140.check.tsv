@@ -2,12 +2,12 @@ pos	rule	forms	support	voters	resolution
 28	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cxmi | johanniswyclift01mattgoog=cum | tractatusdepotes00wycl=cum		4	accept
 30	R2	latinworks19wycl=sacerdotum | johanniswyclift00mattgoog=sacer5 | johanniswyclift01mattgoog=sacerdotum | tractatusdepotes00wycl=sacerdotum		4	accept
 51	R2	latinworks19wycl=dum | johanniswyclift00mattgoog=dum | johanniswyclift01mattgoog=dntn | tractatusdepotes00wycl=dum		4	accept
-56	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the		4	plate
+56	PLATE	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the		4	accept
 64	R4a	latinworks19wycl=singulariter | johanniswyclift00mattgoog=singulanter | johanniswyclift01mattgoog=slngtilariter | tractatusdepotes00wycl=singulanter		4	accept
 75	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 91	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
-96	R4	latinworks19wycl=supereminenter | johanniswyclift00mattgoog=supereminenter | johanniswyclift01mattgoog=superemii | tractatusdepotes00wycl=superemii		4	plate
-97	INS?	nenter	2	4	plate
+96	PLATE	latinworks19wycl=supereminenter | johanniswyclift00mattgoog=supereminenter | johanniswyclift01mattgoog=superemii | tractatusdepotes00wycl=superemii		4	accept
+97	INS?	nenter	2	4	plate: ∅
 101	R3a	latinworks19wycl=sequenti | johanniswyclift00mattgoog=sequenti | johanniswyclift01mattgoog=sequent | tractatusdepotes00wycl=sequenti		4	accept
 142	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=m		4	accept
 144	R2	latinworks19wycl=lum | johanniswyclift00mattgoog=cum | tractatusdepotes00wycl=cum		3	accept

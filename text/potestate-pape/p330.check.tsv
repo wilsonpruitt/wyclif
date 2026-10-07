@@ -1,17 +1,17 @@
 pos	rule	forms	support	voters	resolution
 12	R2	latinworks19wycl=primo | johanniswyclift00mattgoog=primo | johanniswyclift01mattgoog=prirao | tractatusdepotes00wycl=primo		4	accept
 74	R2	latinworks19wycl=sciat | johanniswyclift00mattgoog=saa | johanniswyclift01mattgoog=sciat | tractatusdepotes00wycl=sciat		4	accept
-77	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicui | johanniswyclift01mattgoog=sicui | tractatusdepotes00wycl=sicut		4	plate
+77	PLATE	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicui | johanniswyclift01mattgoog=sicui | tractatusdepotes00wycl=sicut		4	accept
 81	R2	latinworks19wycl=primtis | johanniswyclift00mattgoog=primus | johanniswyclift01mattgoog=prinins | tractatusdepotes00wycl=primus		4	accept
-85	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	plate
+85	PLATE	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
 99	R2	latinworks19wycl=sub | johanniswyclift00mattgoog=sub | johanniswyclift01mattgoog=sub | tractatusdepotes00wycl=siib		4	accept
 106	R2	latinworks19wycl=modo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=utodo | tractatusdepotes00wycl=modo		4	accept
-109	R4	latinworks19wycl=penafutura | johanniswyclift00mattgoog=penafutura | johanniswyclift01mattgoog=penafnlnra		3	plate
-110	R4	latinworks19wycl=habebit | johanniswyclift00mattgoog=habebii | johanniswyclift01mattgoog=habebii		3	plate
+109	PLATE	latinworks19wycl=penafutura | johanniswyclift00mattgoog=penafutura | johanniswyclift01mattgoog=penafnlnra		3	accept
+110	PLATE	latinworks19wycl=habebit | johanniswyclift00mattgoog=habebii | johanniswyclift01mattgoog=habebii		3	accept
 126	R3a	latinworks19wycl=distinccione | johanniswyclift00mattgoog=si | johanniswyclift01mattgoog=distinccionexl | tractatusdepotes00wycl=distinccione		4	accept
-127	R3	latinworks19wycl=xl | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=xl		4	plate
-128	R3	latinworks19wycl=sipapa | johanniswyclift00mattgoog=quo | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=sipapa		4	plate
-129	R3	latinworks19wycl=quomodo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=ottomodo | tractatusdepotes00wycl=quomodo		4	plate
+127	PLATE	latinworks19wycl=xl | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=xl		4	accept
+128	PLATE	latinworks19wycl=sipapa | johanniswyclift00mattgoog=quo | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=sipapa		4	accept
+129	PLATE	latinworks19wycl=quomodo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=ottomodo | tractatusdepotes00wycl=quomodo		4	accept
 150	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=til | tractatusdepotes00wycl=est		4	accept
 151	R2	latinworks19wycl=iusticie | johanniswyclift00mattgoog=iusticie | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=iusticie		4	accept
 152	R2	latinworks19wycl=uniuersorum | johanniswyclift00mattgoog=uniuersoritm | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=uniuersorum		4	accept
@@ -21,7 +21,7 @@ pos	rule	forms	support	voters	resolution
 156	R2	latinworks19wycl=super | johanniswyclift00mattgoog=super | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=super		4	accept
 157	R2	latinworks19wycl=omnes | johanniswyclift00mattgoog=omnes | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=omnes		4	accept
 158	R2	latinworks19wycl=punitur | johanniswyclift00mattgoog=punitur | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=punitur		4	accept
-159	R3	latinworks19wycl=uou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=non		4	plate
+159	PLATE	latinworks19wycl=uou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=non		4	accept
 160	R2	latinworks19wycl=solum | johanniswyclift00mattgoog=solum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=solum		4	accept
 161	R2	latinworks19wycl=propter | johanniswyclift00mattgoog=propter | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=propter		4	accept
 162	R2	latinworks19wycl=sua | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sua		4	accept

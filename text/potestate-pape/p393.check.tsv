@@ -3,19 +3,19 @@ pos	rule	forms	support	voters	resolution
 10	R2	latinworks19wycl=teuueni | johanniswyclift00mattgoog=terreni | johanniswyclift01mattgoog=terreni | tractatusdepotes00wycl=terreni		4	accept
 13	R2	latinworks19wycl=iudicis | johanniswyclift00mattgoog=indicts | johanniswyclift01mattgoog=itidicis | tractatusdepotes00wycl=iudicis		4	accept
 16	R2	latinworks19wycl=custodia | johanniswyclift00mattgoog=custodia | johanniswyclift01mattgoog=cnsioclia | tractatusdepotes00wycl=custodia		4	accept
-31	R3	latinworks19wycl=iudicia | johanniswyclift00mattgoog=indicia | tractatusdepotes00wycl=iudicia		3	plate
-33	R3	latinworks19wycl=uento | johanniswyclift00mattgoog=uenio | tractatusdepotes00wycl=uento		3	plate
+31	PLATE	latinworks19wycl=iudicia | johanniswyclift00mattgoog=indicia | tractatusdepotes00wycl=iudicia		3	accept
+33	PLATE	latinworks19wycl=uento | johanniswyclift00mattgoog=uenio | tractatusdepotes00wycl=uento		3	accept
 40	R2	latinworks19wycl=ouod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=qtiod | tractatusdepotes00wycl=quod		4	accept
 45	R2	latinworks19wycl=uoracitate | johanniswyclift00mattgoog=uoracilale | johanniswyclift01mattgoog=uorachale | tractatusdepotes00wycl=uoracitate		4	accept
-46	R4	latinworks19wycl=compesceret | johanniswyclift00mattgoog=compescerel | johanniswyclift01mattgoog=compescerel | tractatusdepotes00wycl=compesceret		4	plate
+46	PLATE	latinworks19wycl=compesceret | johanniswyclift00mattgoog=compescerel | johanniswyclift01mattgoog=compescerel | tractatusdepotes00wycl=compesceret		4	accept
 49	R6a	latinworks19wycl=atteudite | johanniswyclift00mattgoog=attendile | johanniswyclift01mattgoog=aleudife | tractatusdepotes00wycl=atteudite		4	accept
 53	R2	latinworks19wycl=graueutuu | johanniswyclift00mattgoog=grauenlur | johanniswyclift01mattgoog=graueitliir | tractatusdepotes00wycl=grauentur		4	accept
-59	R4	latinworks19wycl=ebrietate | johanniswyclift00mattgoog=ebrielate | johanniswyclift01mattgoog=ebrielate | tractatusdepotes00wycl=ebrietate		4	plate
+59	PLATE	latinworks19wycl=ebrietate | johanniswyclift00mattgoog=ebrielate | johanniswyclift01mattgoog=ebrielate | tractatusdepotes00wycl=ebrietate		4	accept
 62	R2	latinworks19wycl=adoiunxit | johanniswyclift00mattgoog=adoinnxit | johanniswyclift01mattgoog=aduiinnxit | tractatusdepotes00wycl=adoiunxit		4	accept
 63	R2	latinworks19wycl=aut | johanniswyclift00mattgoog=aut | johanniswyclift01mattgoog=aitf | tractatusdepotes00wycl=aut		4	accept
 65	R2	latinworks19wycl=curis | johanniswyclift00mattgoog=cnris | johanniswyclift01mattgoog=ciiris | tractatusdepotes00wycl=curis		4	accept
-67	R3	latinworks19wycl=uite | johanniswyclift00mattgoog=uile | johanniswyclift01mattgoog=uile | tractatusdepotes00wycl=uite		4	plate
-76	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+67	PLATE	latinworks19wycl=uite | johanniswyclift00mattgoog=uile | johanniswyclift01mattgoog=uile | tractatusdepotes00wycl=uite		4	accept
+76	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 77	R2	latinworks19wycl=repeutina | johanniswyclift00mattgoog=repentina | johanniswyclift01mattgoog=repculina | tractatusdepotes00wycl=repeniina		4	accept
 91	R2	latinworks19wycl=omnis | johanniswyclift00mattgoog=omnis | johanniswyclift01mattgoog=ontnis | tractatusdepotes00wycl=omnis		4	accept
 94	R2	latinworks19wycl=iterum | johanniswyclift00mattgoog=iterum | johanniswyclift01mattgoog=iiernm | tractatusdepotes00wycl=iterum		4	accept
@@ -24,20 +24,20 @@ pos	rule	forms	support	voters	resolution
 108	R2	latinworks19wycl=conueniendo | johanniswyclift00mattgoog=conueniendo | johanniswyclift01mattgoog=couucnieudo | tractatusdepotes00wycl=conueniendo		4	accept
 112	R2	latinworks19wycl=militaus | johanniswyclift00mattgoog=mil | johanniswyclift01mattgoog=mililaus | tractatusdepotes00wycl=militans		4	accept
 131	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=cl | tractatusdepotes00wycl=et		4	accept
-138	R3	latinworks19wycl=iudicia | johanniswyclift00mattgoog=indicia | johanniswyclift01mattgoog=indicia | tractatusdepotes00wycl=iudicia		4	plate
-144	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu		4	plate
+138	PLATE	latinworks19wycl=iudicia | johanniswyclift00mattgoog=indicia | johanniswyclift01mattgoog=indicia | tractatusdepotes00wycl=iudicia		4	accept
+144	PLATE	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu		4	accept
 149	R3a	latinworks19wycl=iudicandum | johanniswyclift00mattgoog=indicandum | johanniswyclift01mattgoog=iudicandum | tractatusdepotes00wycl=iudicandum		4	accept
-167	R3	latinworks19wycl=fouis | johanniswyclift00mattgoog=oris | johanniswyclift01mattgoog=oris | tractatusdepotes00wycl=foris		4	plate
+167	PLATE	latinworks19wycl=fouis | johanniswyclift00mattgoog=oris | johanniswyclift01mattgoog=oris | tractatusdepotes00wycl=foris		4	accept
 173	R5a	latinworks19wycl=getro | johanniswyclift00mattgoog=getro | johanniswyclift01mattgoog=getro | tractatusdepotes00wycl=getro		4	accept
 174	R2	latinworks19wycl=alienigena | johanniswyclift00mattgoog=alienigcna | johanniswyclift01mattgoog=alicuigeua | tractatusdepotes00wycl=alienigena		4	accept
-180	THIN	latinworks19wycl=stuito | tractatusdepotes00wycl=stulto		2	plate
+180	PLATE	latinworks19wycl=stuito | tractatusdepotes00wycl=stulto		2	accept
 188	R2	latinworks19wycl=puo | johanniswyclift00mattgoog=pro | johanniswyclift01mattgoog=pro | tractatusdepotes00wycl=pro		4	accept
 197	R3a	latinworks19wycl=liberius | johanniswyclift00mattgoog=liberius | johanniswyclift01mattgoog=liber | tractatusdepotes00wycl=iiberius		4	accept
-199	THIN	latinworks19wycl=o | tractatusdepotes00wycl=∅		2	plate
-200	THIN	latinworks19wycl=erudiendos | tractatusdepotes00wycl=erudiendos		2	plate
-201	THIN	latinworks19wycl=populos | tractatusdepotes00wycl=popuios		2	plate
-203	NW	latinworks19wycl=archana | johanniswyclift00mattgoog=arcliana | johanniswyclift01mattgoog=arcftatta | tractatusdepotes00wycl=archana		4	plate
+199	PLATE	latinworks19wycl=o | tractatusdepotes00wycl=∅		2	accept
+200	PLATE	latinworks19wycl=erudiendos | tractatusdepotes00wycl=erudiendos		2	accept
+201	PLATE	latinworks19wycl=populos | tractatusdepotes00wycl=popuios		2	accept
+203	PLATE	latinworks19wycl=archana | johanniswyclift00mattgoog=arcliana | johanniswyclift01mattgoog=arcftatta | tractatusdepotes00wycl=archana		4	accept
 216	R2	latinworks19wycl=oculum | johanniswyclift00mattgoog=ocnliim | johanniswyclift01mattgoog=oculum | tractatusdepotes00wycl=ocutum		4	accept
 223	EDGE	latinworks19wycl=pulueris | tractatusdepotes00wycl=pulueris		2	accept
-224	THIN	latinworks19wycl=uon		1	plate
+224	PLATE	latinworks19wycl=uon		1	accept
 225	EDGE	latinworks19wycl=obscuret		1	accept

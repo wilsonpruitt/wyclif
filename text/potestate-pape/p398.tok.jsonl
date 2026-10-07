@@ -1,8 +1,10 @@
+{"t": "Incipit", "leaf": 459, "row": 0, "para": false, "head": true, "pos": null}
+{"t": "Sentencia", "leaf": 459, "row": 0, "para": false, "head": true, "pos": null}
+{"t": "libri", "leaf": 459, "row": 0, "para": false, "head": true, "pos": null}
+{"t": "de", "leaf": 459, "row": 0, "para": false, "head": true, "pos": null}
+{"t": "Potestate", "leaf": 459, "row": 0, "para": false, "head": true, "pos": null}
 {"t": "Pape.", "leaf": 459, "row": 0, "para": false, "head": true, "pos": null}
 {"t": "Sentencia", "leaf": 459, "row": 1, "para": true, "head": false, "pos": 1}
-{"t": "W.", "leaf": 459, "row": 1, "para": false, "head": false, "pos": null}
-{"t": "Pape.", "leaf": 459, "row": 1, "para": false, "head": false, "pos": null}
-{"t": "Senteneia", "leaf": 459, "row": 1, "para": false, "head": false, "pos": null}
 {"t": "libri", "leaf": 459, "row": 1, "para": false, "head": false, "pos": 2}
 {"t": "ultimi", "leaf": 459, "row": 1, "para": false, "head": false, "pos": 3}
 {"t": "in", "leaf": 459, "row": 1, "para": false, "head": false, "pos": 4}

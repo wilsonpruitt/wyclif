@@ -3,5 +3,5 @@ pos	rule	forms	support	voters	resolution
 128	R2	latinworks19wycl=contrarium | johanniswyclift00mattgoog=contrarium | johanniswyclift01mattgoog=contraex | tractatusdepotes00wycl=contrarium		4	accept
 129	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ex		4	accept
 139	R3a	latinworks19wycl=deficiente | johanniswyclift00mattgoog=denciente | johanniswyclift01mattgoog=debciente | tractatusdepotes00wycl=deficiente		4	accept
-142	R3	latinworks19wycl=orac | johanniswyclift00mattgoog=omcio | johanniswyclift01mattgoog=officio | tractatusdepotes00wycl=offic		4	plate
-185	R3	latinworks19wycl=ula | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+142	PLATE	latinworks19wycl=orac | johanniswyclift00mattgoog=omcio | johanniswyclift01mattgoog=officio | tractatusdepotes00wycl=offic		4	accept
+185	PLATE	latinworks19wycl=ula | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept

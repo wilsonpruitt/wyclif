@@ -12,10 +12,10 @@ pos	rule	forms	support	voters	resolution
 118	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=cutn | tractatusdepotes00wycl=cum		4	accept
 129	R3a	latinworks19wycl=eleccione | johanniswyclift00mattgoog=eleccione | johanniswyclift01mattgoog=elecciune | tractatusdepotes00wycl=eleccione		4	accept
 130	R5a	latinworks19wycl=mathie | johanniswyclift00mattgoog=mathie | johanniswyclift01mattgoog=mathie | tractatusdepotes00wycl=mathie		4	accept
-145	INS?	i	2	4	plate
+145	INS?	i	2	4	plate: ∅
 148	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 161	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
-163	R4	latinworks19wycl=beaturn | johanniswyclift00mattgoog=beatum | johanniswyclift01mattgoog=beatutti | tractatusdepotes00wycl=beaturn		4	plate
+163	PLATE	latinworks19wycl=beaturn | johanniswyclift00mattgoog=beatum | johanniswyclift01mattgoog=beatutti | tractatusdepotes00wycl=beaturn		4	accept
 168	R3a	latinworks19wycl=maiori | johanniswyclift00mattgoog=maioria | johanniswyclift01mattgoog=maioris | tractatusdepotes00wycl=maiori23		4	accept
 216	DEL	latinworks19wycl=pe | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 217	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=∅		4	accept

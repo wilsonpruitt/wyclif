@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
-1	NW	latinworks19wycl=itaqae | johanniswyclift00mattgoog=itaqae | johanniswyclift01mattgoog=itaqae | tractatusdepotes00wycl=itaqae		4	plate
-32	R3	latinworks19wycl=e | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=ec		4	plate
+1	PLATE	latinworks19wycl=itaqae | johanniswyclift00mattgoog=itaqae | johanniswyclift01mattgoog=itaqae | tractatusdepotes00wycl=itaqae		4	accept
+32	PLATE	latinworks19wycl=e | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=ec		4	accept
 38	R2	latinworks19wycl=corrigere | johanniswyclift00mattgoog=omgere | johanniswyclift01mattgoog=corrigere | tractatusdepotes00wycl=corrigere		4	accept
-44	R3	latinworks19wycl=auerre | johanniswyclift00mattgoog=tre | johanniswyclift01mattgoog=auferre | tractatusdepotes00wycl=auerre		4	plate
+44	PLATE	latinworks19wycl=auerre | johanniswyclift00mattgoog=tre | johanniswyclift01mattgoog=auferre | tractatusdepotes00wycl=auerre		4	accept
 59	R2	latinworks19wycl=ymo | johanniswyclift00mattgoog=ymo | johanniswyclift01mattgoog=ytno | tractatusdepotes00wycl=ymo		4	accept
 80	R2	latinworks19wycl=way | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=way		4	accept

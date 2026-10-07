@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
 16	R2	latinworks19wycl=regni | johanniswyclift00mattgoog=regni | johanniswyclift01mattgoog=regiti | tractatusdepotes00wycl=regni		4	accept
 18	R2	latinworks19wycl=hunc | johanniswyclift00mattgoog=hunc | johanniswyclift01mattgoog=hintc | tractatusdepotes00wycl=hunc		4	accept
-23	THIN	latinworks19wycl=intelligentes | tractatusdepotes00wycl=intelligentes		2	plate
-24	THIN	latinworks19wycl=sumunt | tractatusdepotes00wycl=sumunt		2	plate
-25	THIN	latinworks19wycl=aliquid | tractatusdepotes00wycl=aliquid		2	plate
-29	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=ut		4	plate
+23	PLATE	latinworks19wycl=intelligentes | tractatusdepotes00wycl=intelligentes		2	accept
+24	PLATE	latinworks19wycl=sumunt | tractatusdepotes00wycl=sumunt		2	accept
+25	PLATE	latinworks19wycl=aliquid | tractatusdepotes00wycl=aliquid		2	accept
+29	PLATE	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=ut		4	accept
 30	R2	latinworks19wycl=dampnare | johanniswyclift00mattgoog=dampnare | johanniswyclift01mattgoog=diwipmiue | tractatusdepotes00wycl=dampnare		4	accept
 35	R2	latinworks19wycl=putent | johanniswyclift00mattgoog=putent | johanniswyclift01mattgoog=piileut | tractatusdepotes00wycl=putent		4	accept
 36	R3a	latinworks19wycl=noxios | johanniswyclift00mattgoog=noxios | johanniswyclift01mattgoog=noxiosi | tractatusdepotes00wycl=noxios		4	accept
@@ -15,10 +15,10 @@ pos	rule	forms	support	voters	resolution
 48	R2	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicut | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sicut		4	accept
 58	R4a	latinworks19wycl=muudos | johanniswyclift00mattgoog=mnndos | johanniswyclift01mattgoog=muudos | tractatusdepotes00wycl=mundos		4	accept
 61	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hoh | tractatusdepotes00wycl=non		4	accept
-64	R4	latinworks19wycl=discernuuf | johanniswyclift00mattgoog=discernuni | johanniswyclift01mattgoog=discernunl | tractatusdepotes00wycl=discemunt		4	plate
-65	R3	latinworks19wycl=ia | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=ita | tractatusdepotes00wycl=na		4	plate
+64	PLATE	latinworks19wycl=discernuuf | johanniswyclift00mattgoog=discernuni | johanniswyclift01mattgoog=discernunl | tractatusdepotes00wycl=discemunt		4	accept
+65	PLATE	latinworks19wycl=ia | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=ita | tractatusdepotes00wycl=na		4	accept
 66	R4a	latinworks19wycl=ef | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=ef		4	accept
-67	R4	latinworks19wycl=itic | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=hie | tractatusdepotes00wycl=fofc		4	plate
+67	PLATE	latinworks19wycl=itic | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=hie | tractatusdepotes00wycl=fofc		4	accept
 68	R2	latinworks19wycl=unde | johanniswyclift00mattgoog=unde | johanniswyclift01mattgoog=unde | tractatusdepotes00wycl=tinde		4	accept
 78	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quam | johanniswyclift01mattgoog=quara | tractatusdepotes00wycl=quam		4	accept
 83	R2	latinworks19wycl=ignorat | johanniswyclift00mattgoog=ignorat | johanniswyclift01mattgoog=iimorat | tractatusdepotes00wycl=ignorat		4	accept

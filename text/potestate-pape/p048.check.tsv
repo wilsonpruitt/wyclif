@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=celis | tractatusdepotes00wycl=celis		2	accept
 1	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
-8	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | tractatusdepotes00wycl=et		3	plate
+8	PLATE	latinworks19wycl=et | johanniswyclift00mattgoog=ei | tractatusdepotes00wycl=et		3	accept
 13	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
 16	R3a	latinworks19wycl=ioh | johanniswyclift00mattgoog=ioh | johanniswyclift01mattgoog=iob | tractatusdepotes00wycl=ioh		4	accept
 24	R2	latinworks19wycl=legitur | johanniswyclift00mattgoog=legitur | johanniswyclift01mattgoog=letntur | tractatusdepotes00wycl=legitur		4	accept
-32	R3	latinworks19wycl=dommus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=dominus | tractatusdepotes00wycl=dommus		4	plate
+32	PLATE	latinworks19wycl=dommus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=dominus | tractatusdepotes00wycl=dommus		4	accept
 39	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 60	R3a	latinworks19wycl=mutato | johanniswyclift00mattgoog=mutato | johanniswyclift01mattgoog=mutate | tractatusdepotes00wycl=mutato		4	accept
 65	R5a	latinworks19wycl=petrurm | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept

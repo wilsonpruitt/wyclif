@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
-0	THIN	latinworks19wycl=to | tractatusdepotes00wycl=to		2	plate
-16	R5	latinworks19wycl=insant | johanniswyclift00mattgoog=insant | tractatusdepotes00wycl=insant		3	plate
+0	PLATE	latinworks19wycl=to | tractatusdepotes00wycl=to		2	accept
+16	PLATE	latinworks19wycl=insant | johanniswyclift00mattgoog=insant | tractatusdepotes00wycl=insant		3	accept
 46	R2	latinworks19wycl=tantum | johanniswyclift00mattgoog=tan | johanniswyclift01mattgoog=tantum | tractatusdepotes00wycl=tantum		4	accept
 61	R3a	latinworks19wycl=multis | johanniswyclift00mattgoog=multis | johanniswyclift01mattgoog=mullis | tractatusdepotes00wycl=multis		4	accept
 94	R2	latinworks19wycl=quotqnot | johanniswyclift00mattgoog=quotquot | johanniswyclift01mattgoog=quolqttot | tractatusdepotes00wycl=quotquot		4	accept

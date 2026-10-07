@@ -4,9 +4,9 @@ pos	rule	forms	support	voters	resolution
 24	R5a	latinworks19wycl=heb | johanniswyclift00mattgoog=heb | johanniswyclift01mattgoog=heb | tractatusdepotes00wycl=heb		4	accept
 25	R5a	latinworks19wycl=uii | johanniswyclift00mattgoog=uii | johanniswyclift01mattgoog=uii | tractatusdepotes00wycl=uii		4	accept
 56	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=∅		4	accept
-61	R3	latinworks19wycl=necessar | johanniswyclift00mattgoog=necessario | johanniswyclift01mattgoog=uecessario | tractatusdepotes00wycl=necessar		4	plate
+61	PLATE	latinworks19wycl=necessar | johanniswyclift00mattgoog=necessario | johanniswyclift01mattgoog=uecessario | tractatusdepotes00wycl=necessar		4	accept
 62	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=hest | johanniswyclift01mattgoog=ioest | tractatusdepotes00wycl=est		4	accept
-89	R4	latinworks19wycl=7s1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sl		4	plate
+89	PLATE	latinworks19wycl=7s1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sl		4	accept
 94	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 114	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 136	R5a	latinworks19wycl=iacobo | johanniswyclift00mattgoog=iacobo | johanniswyclift01mattgoog=iacobo | tractatusdepotes00wycl=iacobo		4	accept

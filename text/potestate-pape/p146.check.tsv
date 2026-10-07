@@ -1,8 +1,8 @@
 pos	rule	forms	support	voters	resolution
-50	THIN	latinworks19wycl=uce | tractatusdepotes00wycl=xuiii		2	plate
-51	THIN	latinworks19wycl=yill | tractatusdepotes00wycl=∅		2	plate
-52	THIN	latinworks19wycl=24 | tractatusdepotes00wycl=24		2	plate
-53	THIN	latinworks19wycl=27 | tractatusdepotes00wycl=27		2	plate
+50	PLATE	latinworks19wycl=uce | tractatusdepotes00wycl=xuiii		2	accept
+51	PLATE	latinworks19wycl=yill | tractatusdepotes00wycl=∅		2	accept
+52	PLATE	latinworks19wycl=24 | tractatusdepotes00wycl=24		2	accept
+53	PLATE	latinworks19wycl=27 | tractatusdepotes00wycl=27		2	accept
 55	R2	latinworks19wycl=difficile | johanniswyclift01mattgoog=iuxficiu | tractatusdepotes00wycl=difftcile		3	accept
 57	R2	latinworks19wycl=pecunias | johanniswyclift00mattgoog=pccuhios | johanniswyclift01mattgoog=pecumias | tractatusdepotes00wycl=pecunias		4	accept
 61	R2	latinworks19wycl=introibunt | johanniswyclift00mattgoog=introibunt | johanniswyclift01mattgoog=inlroibiiiit | tractatusdepotes00wycl=introibunt		4	accept

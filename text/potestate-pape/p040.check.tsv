@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
-0	THIN	latinworks19wycl=inscribittir		1	plate
+0	PLATE	latinworks19wycl=inscribittir		1	accept
 33	R2	latinworks19wycl=seruit | johanniswyclift00mattgoog=seruit | johanniswyclift01mattgoog=seruit | tractatusdepotes00wycl=geru		4	accept
 34	R4a	latinworks19wycl=christo | johanniswyclift00mattgoog=chnsto | johanniswyclift01mattgoog=chnsto | tractatusdepotes00wycl=qhristo		4	accept
 50	R2	latinworks19wycl=anime | johanniswyclift00mattgoog=anime | johanniswyclift01mattgoog=anirae | tractatusdepotes00wycl=anime		4	accept
 195	R3a	latinworks19wycl=humano | johanniswyclift00mattgoog=humano | johanniswyclift01mattgoog=humane | tractatusdepotes00wycl=humano		4	accept
 196	R3a	latinworks19wycl=corpore | johanniswyclift00mattgoog=corpore | johanniswyclift01mattgoog=corpora | tractatusdepotes00wycl=corpore		4	accept
-211	R4	latinworks19wycl=of | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=diucrsitas | tractatusdepotes00wycl=of		4	plate
+211	PLATE	latinworks19wycl=of | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=diucrsitas | tractatusdepotes00wycl=of		4	accept
 212	R2	latinworks19wycl=diuersitas | johanniswyclift00mattgoog=diuersitas | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=diuersitas		4	accept

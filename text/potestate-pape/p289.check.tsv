@@ -1,8 +1,8 @@
 pos	rule	forms	support	voters	resolution
-10	R4	latinworks19wycl=habet | johanniswyclift00mattgoog=nabet | johanniswyclift01mattgoog=habet | tractatusdepotes00wycl=nabet		4	plate
+10	PLATE	latinworks19wycl=habet | johanniswyclift00mattgoog=nabet | johanniswyclift01mattgoog=habet | tractatusdepotes00wycl=nabet		4	accept
 16	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=m		4	accept
-17	NW	latinworks19wycl=leuitis | johanniswyclift00mattgoog=leuitis | johanniswyclift01mattgoog=leuitis | tractatusdepotes00wycl=leuitis		4	plate
-132	INS?	i	2	4	plate
+17	PLATE	latinworks19wycl=leuitis | johanniswyclift00mattgoog=leuitis | johanniswyclift01mattgoog=leuitis | tractatusdepotes00wycl=leuitis		4	accept
+132	INS?	i	2	4	plate: ∅
 148	R2	latinworks19wycl=omnem | johanniswyclift00mattgoog=omnem | johanniswyclift01mattgoog=omnera | tractatusdepotes00wycl=omnem		4	accept
 174	R2	latinworks19wycl=adultera | johanniswyclift00mattgoog=aduuera | johanniswyclift01mattgoog=aifullera | tractatusdepotes00wycl=adultera		4	accept
-186	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+186	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept

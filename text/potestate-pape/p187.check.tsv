@@ -1,8 +1,8 @@
 pos	rule	forms	support	voters	resolution
 19	R5a	latinworks19wycl=rom | johanniswyclift00mattgoog=rom | johanniswyclift01mattgoog=rom | tractatusdepotes00wycl=rom		4	accept
 20	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
-25	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	plate
-26	R4	latinworks19wycl=suam | johanniswyclift00mattgoog=bsuam | johanniswyclift01mattgoog=bsuam | tractatusdepotes00wycl=suam		4	plate
+25	PLATE	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+26	PLATE	latinworks19wycl=suam | johanniswyclift00mattgoog=bsuam | johanniswyclift01mattgoog=bsuam | tractatusdepotes00wycl=suam		4	accept
 31	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=uutt | tractatusdepotes00wycl=non		4	accept
 32	R2	latinworks19wycl=sunt | johanniswyclift00mattgoog=stint | johanniswyclift01mattgoog=siimi | tractatusdepotes00wycl=sunt		4	accept
 48	R2	latinworks19wycl=aliud | johanniswyclift00mattgoog=aliud | johanniswyclift01mattgoog=aliiid | tractatusdepotes00wycl=aliud		4	accept
@@ -19,7 +19,7 @@ pos	rule	forms	support	voters	resolution
 145	R2	latinworks19wycl=patris | johanniswyclift00mattgoog=patris | johanniswyclift01mattgoog=pair | tractatusdepotes00wycl=patris		4	accept
 148	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=non		4	accept
 156	R2	latinworks19wycl=suo | johanniswyclift00mattgoog=suof | johanniswyclift01mattgoog=s7i | tractatusdepotes00wycl=suo		4	accept
-157	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+157	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
 167	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 170	R2	latinworks19wycl=inteltigunt | johanniswyclift00mattgoog=intelligunt | johanniswyclift01mattgoog=iulellignnl | tractatusdepotes00wycl=intelligunt		4	accept
 200	R3a	latinworks19wycl=facti | johanniswyclift00mattgoog=facti | johanniswyclift01mattgoog=iacti | tractatusdepotes00wycl=facti		4	accept

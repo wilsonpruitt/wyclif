@@ -1,8 +1,8 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=intelligit		1	accept
-1	THIN	latinworks19wycl=scripttiram		1	plate
+1	PLATE	latinworks19wycl=scripttiram		1	accept
 2	EDGE	latinworks19wycl=sacram		1	accept
-3	THIN	latinworks19wycl=qtiam		1	plate
+3	PLATE	latinworks19wycl=qtiam		1	accept
 4	EDGE	latinworks19wycl=spiritus | tractatusdepotes00wycl=spiritus		2	accept
 5	EDGE	latinworks19wycl=sanctus | tractatusdepotes00wycl=sanctus		2	accept
 6	EDGE	latinworks19wycl=flagitat | tractatusdepotes00wycl=flagitat		2	accept

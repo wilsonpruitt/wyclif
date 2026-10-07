@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
-16	R3	latinworks19wycl=inclite | johanniswyclift00mattgoog=indite | johanniswyclift01mattgoog=indite | tractatusdepotes00wycl=inclite		4	plate
-32	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+16	PLATE	latinworks19wycl=inclite | johanniswyclift00mattgoog=indite | johanniswyclift01mattgoog=indite | tractatusdepotes00wycl=inclite		4	accept
+32	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
 33	R2	latinworks19wycl=populum | johanniswyclift00mattgoog=populum | johanniswyclift01mattgoog=popuhun | tractatusdepotes00wycl=populum		4	accept
 44	R3a	latinworks19wycl=conuerso | johanniswyclift00mattgoog=conuerse | johanniswyclift01mattgoog=conuerso | tractatusdepotes00wycl=conuerso		4	accept
 87	R2	latinworks19wycl=futuram | johanniswyclift00mattgoog=fniuram | johanniswyclift01mattgoog=ftttiiram | tractatusdepotes00wycl=futuram		4	accept

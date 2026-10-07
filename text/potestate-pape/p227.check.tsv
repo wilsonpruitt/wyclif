@@ -4,7 +4,7 @@ pos	rule	forms	support	voters	resolution
 50	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesans		4	accept
 56	R2	latinworks19wycl=constantinus | johanniswyclift00mattgoog=constantinus | johanniswyclift01mattgoog=conshiiiliitits | tractatusdepotes00wycl=constantimis		4	accept
 71	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
-96	R4	latinworks19wycl=r | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i3subsidium | tractatusdepotes00wycl=∅		4	plate
+96	PLATE	latinworks19wycl=r | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i3subsidium | tractatusdepotes00wycl=∅		4	accept
 97	R2	latinworks19wycl=subsidium | johanniswyclift00mattgoog=subsidium | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=subsidium		4	accept
 110	R3a	latinworks19wycl=uero | johanniswyclift00mattgoog=uero | johanniswyclift01mattgoog=fro | tractatusdepotes00wycl=uero		4	accept
-200	R4	latinworks19wycl=souite | johanniswyclift00mattgoog=uite | johanniswyclift01mattgoog=uite | tractatusdepotes00wycl=souite		4	plate
+200	PLATE	latinworks19wycl=souite | johanniswyclift00mattgoog=uite | johanniswyclift01mattgoog=uite | tractatusdepotes00wycl=souite		4	accept

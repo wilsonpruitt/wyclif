@@ -1,14 +1,14 @@
 pos	rule	forms	support	voters	resolution
 3	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
 4	R2	latinworks19wycl=duobus | johanniswyclift00mattgoog=duohus | johanniswyclift01mattgoog=dualms | tractatusdepotes00wycl=duobus		4	accept
-6	R4	latinworks19wycl=papatu | johanniswyclift00mattgoog=papain | johanniswyclift01mattgoog=papain | tractatusdepotes00wycl=papatu		4	plate
+6	PLATE	latinworks19wycl=papatu | johanniswyclift00mattgoog=papain | johanniswyclift01mattgoog=papain | tractatusdepotes00wycl=papatu		4	accept
 14	R2	latinworks19wycl=symonia | johanniswyclift00mattgoog=symonia | johanniswyclift01mattgoog=symomta | tractatusdepotes00wycl=symonia		4	accept
 22	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=s | tractatusdepotes00wycl=est		4	accept
 28	R2	latinworks19wycl=arcus | johanniswyclift00mattgoog=arcus | johanniswyclift01mattgoog=arctts | tractatusdepotes00wycl=arcus		4	accept
-32	R4	latinworks19wycl=occubuit | johanniswyclift00mattgoog=occubuii | johanniswyclift01mattgoog=occubuii | tractatusdepotes00wycl=occubuit		4	plate
+32	PLATE	latinworks19wycl=occubuit | johanniswyclift00mattgoog=occubuii | johanniswyclift01mattgoog=occubuii | tractatusdepotes00wycl=occubuit		4	accept
 35	R2	latinworks19wycl=fuit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fuit		4	accept
 42	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
-72	R3	latinworks19wycl=factus | johanniswyclift00mattgoog=actus | johanniswyclift01mattgoog=actus | tractatusdepotes00wycl=factus		4	plate
+72	PLATE	latinworks19wycl=factus | johanniswyclift00mattgoog=actus | johanniswyclift01mattgoog=actus | tractatusdepotes00wycl=factus		4	accept
 105	R2	latinworks19wycl=qtii | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=qui		4	accept
 128	R2	latinworks19wycl=loco | johanniswyclift00mattgoog=co | johanniswyclift01mattgoog=loco | tractatusdepotes00wycl=loco		4	accept
 148	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept

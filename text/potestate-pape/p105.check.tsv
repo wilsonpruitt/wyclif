@@ -2,5 +2,5 @@ pos	rule	forms	support	voters	resolution
 25	R3a	latinworks19wycl=speciei | johanniswyclift00mattgoog=3speciei | johanniswyclift01mattgoog=specie | tractatusdepotes00wycl=speciei		4	accept
 50	R2	latinworks19wycl=speciei | johanniswyclift00mattgoog=speciei | johanniswyclift01mattgoog=special | tractatusdepotes00wycl=speciei		4	accept
 84	R3a	latinworks19wycl=speciei | johanniswyclift00mattgoog=speciei | johanniswyclift01mattgoog=specie | tractatusdepotes00wycl=speciei		4	accept
-92	NW	latinworks19wycl=parificari | johanniswyclift00mattgoog=parificari | johanniswyclift01mattgoog=parificari | tractatusdepotes00wycl=parificari		4	plate
+92	PLATE	latinworks19wycl=parificari | johanniswyclift00mattgoog=parificari | johanniswyclift01mattgoog=parificari | tractatusdepotes00wycl=parificari		4	accept
 220	R2	latinworks19wycl=ultra | johanniswyclift00mattgoog=ultra | johanniswyclift01mattgoog=idtra | tractatusdepotes00wycl=ultra		4	accept

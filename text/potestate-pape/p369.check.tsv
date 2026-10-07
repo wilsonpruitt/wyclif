@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
 9	R2	latinworks19wycl=fratrum | johanniswyclift00mattgoog=fratnim | johanniswyclift01mattgoog=fratrum | tractatusdepotes00wycl=fratrum		4	accept
-18	NW	latinworks19wycl=ordmasse | johanniswyclift00mattgoog=ordmasse | johanniswyclift01mattgoog=ordinasse | tractatusdepotes00wycl=ordmasse		4	plate
+18	PLATE	latinworks19wycl=ordmasse | johanniswyclift00mattgoog=ordmasse | johanniswyclift01mattgoog=ordinasse | tractatusdepotes00wycl=ordmasse		4	accept
 23	R2	latinworks19wycl=papa | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=piqia | tractatusdepotes00wycl=papa		4	accept
-38	THIN	latinworks19wycl=insexto | johanniswyclift00mattgoog=insexto		2	plate
-39	THIN	latinworks19wycl=exiit | johanniswyclift00mattgoog=exiit		2	plate
-44	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+38	PLATE	latinworks19wycl=insexto | johanniswyclift00mattgoog=insexto		2	accept
+39	PLATE	latinworks19wycl=exiit | johanniswyclift00mattgoog=exiit		2	accept
+44	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 63	R3a	latinworks19wycl=uerus | johanniswyclift00mattgoog=uerus | johanniswyclift01mattgoog=uarus | tractatusdepotes00wycl=uerus		4	accept
-78	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=llla		4	plate
-109	R3	latinworks19wycl=cras | johanniswyclift00mattgoog=eras | johanniswyclift01mattgoog=eras | tractatusdepotes00wycl=cras		4	plate
-131	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+78	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=llla		4	accept
+109	PLATE	latinworks19wycl=cras | johanniswyclift00mattgoog=eras | johanniswyclift01mattgoog=eras | tractatusdepotes00wycl=cras		4	accept
+131	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept

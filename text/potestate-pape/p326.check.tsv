@@ -1,21 +1,21 @@
 pos	rule	forms	support	voters	resolution
 4	R3a	latinworks19wycl=sit | johanniswyclift00mattgoog=sit | johanniswyclift01mattgoog=sil | tractatusdepotes00wycl=sit		4	accept
 10	R3a	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicut | johanniswyclift01mattgoog=siciit | tractatusdepotes00wycl=sicut		4	accept
-12	R5	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | tractatusdepotes00wycl=petrum		3	plate
+12	PLATE	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | tractatusdepotes00wycl=petrum		3	accept
 18	R2	latinworks19wycl=uelut | johanniswyclift00mattgoog=uelut | johanniswyclift01mattgoog=ueliit | tractatusdepotes00wycl=uelut		4	accept
 28	R2	latinworks19wycl=scitis | johanniswyclift00mattgoog=scitis | johanniswyclift01mattgoog=schis | tractatusdepotes00wycl=scitis		4	accept
-51	NW	latinworks19wycl=lam | johanniswyclift00mattgoog=lam | johanniswyclift01mattgoog=lam | tractatusdepotes00wycl=iam		4	plate
+51	PLATE	latinworks19wycl=lam | johanniswyclift00mattgoog=lam | johanniswyclift01mattgoog=lam | tractatusdepotes00wycl=iam		4	accept
 73	R2	latinworks19wycl=fidem | johanniswyclift00mattgoog=fidem | johanniswyclift01mattgoog=fidera | tractatusdepotes00wycl=fidem		4	accept
-102	R3	latinworks19wycl=concertacionis | johanniswyclift00mattgoog=coni | johanniswyclift01mattgoog=concertacionis | tractatusdepotes00wycl=coni		4	plate
-103	INS?	certacionis	2	4	plate
-126	R5	latinworks19wycl=estmultum | johanniswyclift00mattgoog=estmultum | tractatusdepotes00wycl=estmultum		3	plate
+102	PLATE	latinworks19wycl=concertacionis | johanniswyclift00mattgoog=coni | johanniswyclift01mattgoog=concertacionis | tractatusdepotes00wycl=coni		4	accept
+103	INS?	certacionis	2	4	plate: ∅
+126	PLATE	latinworks19wycl=estmultum | johanniswyclift00mattgoog=estmultum | tractatusdepotes00wycl=estmultum		3	accept
 147	R5a	latinworks19wycl=neronem | johanniswyclift00mattgoog=neronem | johanniswyclift01mattgoog=neronem | tractatusdepotes00wycl=neronem		4	accept
 162	R2	latinworks19wycl=tenet | johanniswyclift00mattgoog=tenet | johanniswyclift01mattgoog=tend | tractatusdepotes00wycl=tenet		4	accept
 163	R2	latinworks19wycl=imperium | johanniswyclift00mattgoog=imperium | johanniswyclift01mattgoog=impcrintit | tractatusdepotes00wycl=imperium		4	accept
 166	R2	latinworks19wycl=tollatur | johanniswyclift00mattgoog=tollatur | johanniswyclift01mattgoog=iouatnr | tractatusdepotes00wycl=tollatur		4	accept
-170	INS?	post	2	4	plate
+170	INS?	post	2	4	plate: post
 188	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=m		4	accept
-192	NW	latinworks19wycl=spirituan | johanniswyclift00mattgoog=spintuali | johanniswyclift01mattgoog=spintuali | tractatusdepotes00wycl=spintuali		4	plate
+192	PLATE	latinworks19wycl=spirituan | johanniswyclift00mattgoog=spintuali | johanniswyclift01mattgoog=spintuali | tractatusdepotes00wycl=spintuali		4	accept
 193	R4a	latinworks19wycl=ln | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=m		4	accept
 199	R6a	latinworks19wycl=in | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=m		4	accept
-202	NW	latinworks19wycl=prodigiis | johanniswyclift00mattgoog=prodigns | johanniswyclift01mattgoog=prodigns | tractatusdepotes00wycl=prodigns		4	plate
+202	PLATE	latinworks19wycl=prodigiis | johanniswyclift00mattgoog=prodigns | johanniswyclift01mattgoog=prodigns | tractatusdepotes00wycl=prodigns		4	accept

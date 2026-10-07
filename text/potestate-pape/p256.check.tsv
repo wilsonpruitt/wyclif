@@ -4,12 +4,12 @@ pos	rule	forms	support	voters	resolution
 23	R2	latinworks19wycl=innitiiur | johanniswyclift00mattgoog=innitiinr | johanniswyclift01mattgoog=ihuitiliir | tractatusdepotes00wycl=innititur		4	accept
 29	R2	latinworks19wycl=sancte | johanniswyclift00mattgoog=sancte | johanniswyclift01mattgoog=saitcic | tractatusdepotes00wycl=sancte		4	accept
 30	R5a	latinworks19wycl=romane | johanniswyclift00mattgoog=romane | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept
-36	R3	latinworks19wycl=non | johanniswyclift00mattgoog=uon | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=noui		4	plate
+36	PLATE	latinworks19wycl=non | johanniswyclift00mattgoog=uon | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=noui		4	accept
 45	R2	latinworks19wycl=a | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
-47	THIN	latinworks19wycl=fidei | tractatusdepotes00wycl=fidei		2	plate
-48	THIN	latinworks19wycl=deicitur | tractatusdepotes00wycl=deicitur		2	plate
-49	THIN	latinworks19wycl=fixe | tractatusdepotes00wycl=fixe		2	plate
-50	THIN	latinworks19wycl=innititur | tractatusdepotes00wycl=innititur		2	plate
+47	PLATE	latinworks19wycl=fidei | tractatusdepotes00wycl=fidei		2	accept
+48	PLATE	latinworks19wycl=deicitur | tractatusdepotes00wycl=deicitur		2	accept
+49	PLATE	latinworks19wycl=fixe | tractatusdepotes00wycl=fixe		2	accept
+50	PLATE	latinworks19wycl=innititur | tractatusdepotes00wycl=innititur		2	accept
 54	R3a	latinworks19wycl=forte | johanniswyclift00mattgoog=forie | johanniswyclift01mattgoog=forte | tractatusdepotes00wycl=forte		4	accept
 57	R2	latinworks19wycl=sustinetur | johanniswyclift00mattgoog=sustinetur | johanniswyclift01mattgoog=snslindur | tractatusdepotes00wycl=sustinetur		4	accept
 59	R2	latinworks19wycl=enim | johanniswyclift00mattgoog=enim | johanniswyclift01mattgoog=ettim | tractatusdepotes00wycl=enim		4	accept
@@ -17,26 +17,26 @@ pos	rule	forms	support	voters	resolution
 63	R2	latinworks19wycl=psalmista | johanniswyclift00mattgoog=psalmista | johanniswyclift01mattgoog=psalmislii | tractatusdepotes00wycl=psalmista		4	accept
 64	R2	latinworks19wycl=fundamenta | johanniswyclift00mattgoog=fundamenta | johanniswyclift01mattgoog=fiiudiimeula | tractatusdepotes00wycl=fundamenta		4	accept
 66	R2	latinworks19wycl=terrarum | johanniswyclift00mattgoog=terrarum | johanniswyclift01mattgoog=terrarion | tractatusdepotes00wycl=terrarum		4	accept
-100	R3	latinworks19wycl=suo | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=suo		4	plate
+100	PLATE	latinworks19wycl=suo | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=suo		4	accept
 101	R2	latinworks19wycl=preemincnti | johanniswyclift00mattgoog=preeminenii | johanniswyclift01mattgoog=preeiuincnli | tractatusdepotes00wycl=preeminenii		4	accept
 103	R3a	latinworks19wycl=mundi | johanniswyclift00mattgoog=mundi | johanniswyclift01mattgoog=tuundi | tractatusdepotes00wycl=mundi		4	accept
-109	R3	latinworks19wycl=moluque | johanniswyclift01mattgoog=moluque | tractatusdepotes00wycl=motuque		3	plate
+109	PLATE	latinworks19wycl=moluque | johanniswyclift01mattgoog=moluque | tractatusdepotes00wycl=motuque		3	accept
 110	R3a	latinworks19wycl=suo | johanniswyclift00mattgoog=suo | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=suo		4	accept
 113	R2	latinworks19wycl=motus | johanniswyclift00mattgoog=motus | johanniswyclift01mattgoog=motiis | tractatusdepotes00wycl=motus		4	accept
-116	R4	latinworks19wycl=ordinat | johanniswyclift00mattgoog=ordinal | johanniswyclift01mattgoog=ordinal | tractatusdepotes00wycl=ordinat		4	plate
+116	PLATE	latinworks19wycl=ordinat | johanniswyclift00mattgoog=ordinal | johanniswyclift01mattgoog=ordinal | tractatusdepotes00wycl=ordinat		4	accept
 133	R2	latinworks19wycl=operum | johanniswyclift00mattgoog=operum | johanniswyclift01mattgoog=openmi | tractatusdepotes00wycl=operum		4	accept
 142	R4a	latinworks19wycl=singulari | johanniswyclift00mattgoog=singnlari | johanniswyclift01mattgoog=singnlari | tractatusdepotes00wycl=singutari		4	accept
 148	R2	latinworks19wycl=motns | johanniswyclift00mattgoog=motus | johanniswyclift01mattgoog=motits | tractatusdepotes00wycl=motus		4	accept
 159	R2	latinworks19wycl=ouemadmodum | johanniswyclift00mattgoog=quemadmodum | johanniswyclift01mattgoog=otieniadmodum | tractatusdepotes00wycl=quemadmodum		4	accept
 161	R3a	latinworks19wycl=mnndi | johanniswyclift00mattgoog=mundi | johanniswyclift01mattgoog=utundi | tractatusdepotes00wycl=mundi		4	accept
 173	R2	latinworks19wycl=uutum | johanniswyclift00mattgoog=nutum | johanniswyclift01mattgoog=nutunt | tractatusdepotes00wycl=nutum		4	accept
-174	R4	latinworks19wycl=administratorios | johanniswyclift00mattgoog=adminislratorios | johanniswyclift01mattgoog=adminislratorios | tractatusdepotes00wycl=administratorios		4	plate
+174	PLATE	latinworks19wycl=administratorios | johanniswyclift00mattgoog=adminislratorios | johanniswyclift01mattgoog=adminislratorios | tractatusdepotes00wycl=administratorios		4	accept
 179	R2	latinworks19wycl=mundique | johanniswyclift00mattgoog=mundiqne | johanniswyclift01mattgoog=uiuudiqne | tractatusdepotes00wycl=mnndique		4	accept
 182	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ni | tractatusdepotes00wycl=ut		4	accept
 185	R2	latinworks19wycl=qui | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=qiti		4	accept
-194	THIN	latinworks19wycl=redemptoucm | tractatusdepotes00wycl=redemptorem		2	plate
+194	PLATE	latinworks19wycl=redemptoucm | tractatusdepotes00wycl=redemptorem		2	accept
 195	EDGE	latinworks19wycl=curiamque | tractatusdepotes00wycl=curiamque		2	accept
-196	THIN	latinworks19wycl=ceiestem | tractatusdepotes00wycl=celestem		2	plate
-198	THIN	latinworks19wycl=spiritibtis | tractatusdepotes00wycl=spiritibus		2	plate
+196	PLATE	latinworks19wycl=ceiestem | tractatusdepotes00wycl=celestem		2	accept
+198	PLATE	latinworks19wycl=spiritibtis | tractatusdepotes00wycl=spiritibus		2	accept
 199	EDGE	latinworks19wycl=beatis | tractatusdepotes00wycl=beatis		2	accept
 202	EDGE	latinworks19wycl=sanctorum | johanniswyclift00mattgoog=sanctorum		2	accept

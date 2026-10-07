@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
 3	R2	latinworks19wycl=quia | johanniswyclift00mattgoog=quia | johanniswyclift01mattgoog=qxiia | tractatusdepotes00wycl=quia		4	accept
-10	NW	latinworks19wycl=cacdbus | johanniswyclift00mattgoog=cacabus | johanniswyclift01mattgoog=cacabus | tractatusdepotes00wycl=cacabus		4	plate
+10	PLATE	latinworks19wycl=cacdbus | johanniswyclift00mattgoog=cacabus | johanniswyclift01mattgoog=cacabus | tractatusdepotes00wycl=cacabus		4	accept
 121	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
-154	R3	latinworks19wycl=de | johanniswyclift00mattgoog=deas | johanniswyclift01mattgoog=dei | tractatusdepotes00wycl=de		4	plate
-158	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1		4	plate
-166	R3	latinworks19wycl=recte | johanniswyclift00mattgoog=rede | johanniswyclift01mattgoog=rede | tractatusdepotes00wycl=recte		4	plate
+154	PLATE	latinworks19wycl=de | johanniswyclift00mattgoog=deas | johanniswyclift01mattgoog=dei | tractatusdepotes00wycl=de		4	accept
+158	PLATE	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1		4	accept
+166	PLATE	latinworks19wycl=recte | johanniswyclift00mattgoog=rede | johanniswyclift01mattgoog=rede | tractatusdepotes00wycl=recte		4	accept
 167	R2	latinworks19wycl=exiguum | johanniswyclift00mattgoog=exigunm | johanniswyclift01mattgoog=exigitnm | tractatusdepotes00wycl=exiguum		4	accept
 172	R2	latinworks19wycl=tempus | johanniswyclift00mattgoog=ientpus | johanniswyclift01mattgoog=tempus | tractatusdepotes00wycl=tempus		4	accept
-173	R4	latinworks19wycl=uite | johanniswyclift00mattgoog=uiie | johanniswyclift01mattgoog=uiie | tractatusdepotes00wycl=uite		4	plate
-177	R4	latinworks19wycl=refrigerium | johanniswyclift00mattgoog=refrigeriunt | johanniswyclift01mattgoog=refrigeriunt | tractatusdepotes00wycl=refrigerium		4	plate
+173	PLATE	latinworks19wycl=uite | johanniswyclift00mattgoog=uiie | johanniswyclift01mattgoog=uiie | tractatusdepotes00wycl=uite		4	accept
+177	PLATE	latinworks19wycl=refrigerium | johanniswyclift00mattgoog=refrigeriunt | johanniswyclift01mattgoog=refrigeriunt | tractatusdepotes00wycl=refrigerium		4	accept

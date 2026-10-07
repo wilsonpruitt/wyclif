@@ -9,12 +9,12 @@ pos	rule	forms	support	voters	resolution
 71	R2	latinworks19wycl=semel | johanniswyclift00mattgoog=semel | johanniswyclift01mattgoog=senicl | tractatusdepotes00wycl=semel		4	accept
 73	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 75	R2	latinworks19wycl=sollicitudine | johanniswyclift00mattgoog=sollicitudine | johanniswyclift01mattgoog=aollicitnditic | tractatusdepotes00wycl=sollicitudine		4	accept
-91	R4	latinworks19wycl=ut | johanniswyclift00mattgoog=i3ut | johanniswyclift01mattgoog=i3ut | tractatusdepotes00wycl=ut		4	plate
+91	PLATE	latinworks19wycl=ut | johanniswyclift00mattgoog=i3ut | johanniswyclift01mattgoog=i3ut | tractatusdepotes00wycl=ut		4	accept
 121	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 126	R3a	latinworks19wycl=nou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=non		4	accept
 127	R2	latinworks19wycl=implebitur | johanniswyclift00mattgoog=implebitur | johanniswyclift01mattgoog=imsopicbilur | tractatusdepotes00wycl=imoplebitur		4	accept
 128	R2	latinworks19wycl=pecunia | johanniswyclift00mattgoog=pecuniay | johanniswyclift01mattgoog=pecuuiit | tractatusdepotes00wycl=pecuuia		4	accept
-144	R4	latinworks19wycl=flores | johanniswyclift00mattgoog=for5 | johanniswyclift01mattgoog=for5 | tractatusdepotes00wycl=flores		4	plate
+144	PLATE	latinworks19wycl=flores | johanniswyclift00mattgoog=for5 | johanniswyclift01mattgoog=for5 | tractatusdepotes00wycl=flores		4	accept
 155	R3a	latinworks19wycl=pape | johanniswyclift00mattgoog=pape | johanniswyclift01mattgoog=paue | tractatusdepotes00wycl=pape		4	accept
 158	R2	latinworks19wycl=domini | johanniswyclift00mattgoog=domini | johanniswyclift01mattgoog=dotiiim | tractatusdepotes00wycl=domini		4	accept
 159	R3a	latinworks19wycl=pape | johanniswyclift00mattgoog=pape | johanniswyclift01mattgoog=paue | tractatusdepotes00wycl=pape		4	accept

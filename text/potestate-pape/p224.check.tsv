@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=subleuare		1	accept
 1	EDGE	latinworks19wycl=filii		1	accept
-2	THIN	latinworks19wycl=naturaies		1	plate
+2	PLATE	latinworks19wycl=naturaies		1	accept
 6	R2	latinworks19wycl=uobis | johanniswyclift00mattgoog=uobis | johanniswyclift01mattgoog=uohs | tractatusdepotes00wycl=uobis		4	accept
 7	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 20	R5a	latinworks19wycl=romane | johanniswyclift00mattgoog=romane | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept
@@ -9,7 +9,7 @@ pos	rule	forms	support	voters	resolution
 22	R2	latinworks19wycl=dignitati | johanniswyclift00mattgoog=dignilaii | johanniswyclift01mattgoog=diguiluii | tractatusdepotes00wycl=dignitati		4	accept
 24	R2	latinworks19wycl=illud | johanniswyclift00mattgoog=illnd | johanniswyclift01mattgoog=illttd | tractatusdepotes00wycl=iliud		4	accept
 25	R2	latinworks19wycl=ilaque | johanniswyclift00mattgoog=iiaque | johanniswyclift01mattgoog=ilaqtie | tractatusdepotes00wycl=itaque		4	accept
-27	R4	latinworks19wycl=peuitus | johanniswyclift00mattgoog=peniins | johanniswyclift01mattgoog=pcnitiis | tractatusdepotes00wycl=peuitus		4	plate
+27	PLATE	latinworks19wycl=peuitus | johanniswyclift00mattgoog=peniins | johanniswyclift01mattgoog=pcnitiis | tractatusdepotes00wycl=peuitus		4	accept
 34	R5a	latinworks19wycl=romane | johanniswyclift00mattgoog=romane | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept
 37	R3a	latinworks19wycl=quandam | johanniswyclift00mattgoog=quandam | johanniswyclift01mattgoog=quadam | tractatusdepotes00wycl=quandam		4	accept
 39	R2	latinworks19wycl=formam | johanniswyclift00mattgoog=formam | johanniswyclift01mattgoog=forntain | tractatusdepotes00wycl=formam		4	accept
@@ -17,7 +17,7 @@ pos	rule	forms	support	voters	resolution
 50	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=d | tractatusdepotes00wycl=et		4	accept
 51	R3a	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
 55	R2	latinworks19wycl=obscquio | johanniswyclift00mattgoog=dbseqnio | johanniswyclift01mattgoog=ohseqiiio | tractatusdepotes00wycl=obsequio		4	accept
-58	NW	latinworks19wycl=obtiuere | johanniswyclift00mattgoog=obiinere | johanniswyclift01mattgoog=obtiuert | tractatusdepotes00wycl=obtiuere		4	plate
+58	PLATE	latinworks19wycl=obtiuere | johanniswyclift00mattgoog=obiinere | johanniswyclift01mattgoog=obtiuert | tractatusdepotes00wycl=obtiuere		4	accept
 60	R2	latinworks19wycl=atttem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=anient | tractatusdepotes00wycl=autem		4	accept
 61	R3a	latinworks19wycl=prouisa | johanniswyclift00mattgoog=prouisa | johanniswyclift01mattgoog=prouisu | tractatusdepotes00wycl=prouisa		4	accept
 62	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=csl | tractatusdepotes00wycl=est		4	accept
@@ -32,8 +32,8 @@ pos	rule	forms	support	voters	resolution
 105	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 118	R2	latinworks19wycl=magistri | johanniswyclift00mattgoog=magistri | johanniswyclift01mattgoog=tnagislri | tractatusdepotes00wycl=magistri		4	accept
 122	R2	latinworks19wycl=qui | johanniswyclift00mattgoog=qniy | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=qui		4	accept
-135	R4	latinworks19wycl=muilorum | johanniswyclift00mattgoog=muuorum | tractatusdepotes00wycl=muitorum		3	plate
-138	R4	latinworks19wycl=cierus | johanniswyclift00mattgoog=clems | tractatusdepotes00wycl=cierus		3	plate
+135	PLATE	latinworks19wycl=muilorum | johanniswyclift00mattgoog=muuorum | tractatusdepotes00wycl=muitorum		3	accept
+138	PLATE	latinworks19wycl=cierus | johanniswyclift00mattgoog=clems | tractatusdepotes00wycl=cierus		3	accept
 139	R4a	latinworks19wycl=iile | johanniswyclift00mattgoog=ille | tractatusdepotes00wycl=iile		3	accept
 145	R2	latinworks19wycl=finaliter | johanniswyclift00mattgoog=iinaliter | johanniswyclift01mattgoog=fiualilcr | tractatusdepotes00wycl=finaliter		4	accept
 147	R2	latinworks19wycl=interimque | johanniswyclift00mattgoog=interimque | johanniswyclift01mattgoog=iitterrttique | tractatusdepotes00wycl=interimque		4	accept

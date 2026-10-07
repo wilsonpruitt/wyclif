@@ -1,16 +1,16 @@
 pos	rule	forms	support	voters	resolution
 0	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-7	R4	latinworks19wycl=sedomino | johanniswyclift00mattgoog=domino | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sedomino		4	plate
+7	PLATE	latinworks19wycl=sedomino | johanniswyclift00mattgoog=domino | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sedomino		4	accept
 48	R3a	latinworks19wycl=ii | johanniswyclift00mattgoog=ii | johanniswyclift01mattgoog=ii | tractatusdepotes00wycl=11		4	accept
 56	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 63	R2	latinworks19wycl=ptito | johanniswyclift00mattgoog=puto | johanniswyclift01mattgoog=pitlo | tractatusdepotes00wycl=puto		4	accept
 65	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 75	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=aim | tractatusdepotes00wycl=cum		3	accept
-80	R3	latinworks19wycl=tit | johanniswyclift00mattgoog=nt | tractatusdepotes00wycl=ut		3	plate
+80	PLATE	latinworks19wycl=tit | johanniswyclift00mattgoog=nt | tractatusdepotes00wycl=ut		3	accept
 92	R2	latinworks19wycl=qtwsdam | johanniswyclift00mattgoog=quosdam | tractatusdepotes00wycl=quosdam		3	accept
 96	R2	latinworks19wycl=quosdam | johanniswyclift00mattgoog=quosdam | johanniswyclift01mattgoog=dociores | tractatusdepotes00wycl=quosdam		4	accept
 97	R2	latinworks19wycl=doctores | johanniswyclift00mattgoog=doctores | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=doctores		4	accept
-98	R4	latinworks19wycl=tit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ut		3	plate
+98	PLATE	latinworks19wycl=tit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ut		3	accept
 99	R2	latinworks19wycl=superiori | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=superiori		3	accept
 100	R2	latinworks19wycl=locticionis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=locucionis		3	accept
 101	R2	latinworks19wycl=genere | johanniswyclift00mattgoog=genere | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=genere		4	accept
@@ -27,14 +27,14 @@ pos	rule	forms	support	voters	resolution
 112	R2	latinworks19wycl=amplextis | johanniswyclift00mattgoog=amplexns | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=amplexus		4	accept
 113	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=est		4	accept
 114	R2	latinworks19wycl=qtiosdam | johanniswyclift00mattgoog=quosdam | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=quosdam		4	accept
-115	R3	latinworks19wycl=inquii | johanniswyclift00mattgoog=inquit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=inquit		4	plate
+115	PLATE	latinworks19wycl=inquii | johanniswyclift00mattgoog=inquit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=inquit		4	accept
 116	R2	latinworks19wycl=pastores | johanniswyclift00mattgoog=pastores | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=pastores		4	accept
 117	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=et		4	accept
 118	R2	latinworks19wycl=doctores | johanniswyclift00mattgoog=doctores | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=doctores		4	accept
 135	R2	latinworks19wycl=prescisso | johanniswyclift00mattgoog=preo | johanniswyclift01mattgoog=prescisso | tractatusdepotes00wycl=prescisso		4	accept
-159	HEAD	CAPITULUM SEXTUM.			plate
-161	R4	latinworks19wycl=had | johanniswyclift00mattgoog=seotima | johanniswyclift01mattgoog=septuiia | tractatusdepotes00wycl=had		4	plate
+159	HEAD	CAPITULUM SEXTUM.			plate: CAPITULUM SEXTUM.
+161	PLATE	latinworks19wycl=had | johanniswyclift00mattgoog=seotima | johanniswyclift01mattgoog=septuiia | tractatusdepotes00wycl=had		4	accept
 162	R2	latinworks19wycl=septima | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=septima		4	accept
-176	R5	latinworks19wycl=chnstus | johanniswyclift00mattgoog=chnstus | johanniswyclift01mattgoog=chnstus		3	plate
+176	PLATE	latinworks19wycl=chnstus | johanniswyclift00mattgoog=chnstus | johanniswyclift01mattgoog=chnstus		3	accept
 179	EDGE	latinworks19wycl=nec		1	accept
 180	EDGE	latinworks19wycl=omnes		1	accept

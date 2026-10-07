@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
 47	R3a	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=quantum		4	accept
-65	NW	latinworks19wycl=edificii | johanniswyclift00mattgoog=edificii | johanniswyclift01mattgoog=edificii | tractatusdepotes00wycl=edificii		4	plate
+65	PLATE	latinworks19wycl=edificii | johanniswyclift00mattgoog=edificii | johanniswyclift01mattgoog=edificii | tractatusdepotes00wycl=edificii		4	accept
 67	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
-69	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1		4	plate
+69	PLATE	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1		4	accept
 77	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=esl | tractatusdepotes00wycl=est		4	accept
-80	R4	latinworks19wycl=celornm | johanniswyclift00mattgoog=celornm | johanniswyclift01mattgoog=cdonim | tractatusdepotes00wycl=celorum		4	plate
+80	PLATE	latinworks19wycl=celornm | johanniswyclift00mattgoog=celornm | johanniswyclift01mattgoog=cdonim | tractatusdepotes00wycl=celorum		4	accept
 90	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 111	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
 114	R3a	latinworks19wycl=discite | johanniswyclift00mattgoog=discite | johanniswyclift01mattgoog=disci | tractatusdepotes00wycl=discite		4	accept

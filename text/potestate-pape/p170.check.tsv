@@ -1,16 +1,16 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=quod		1	accept
-1	THIN	latinworks19wycl=dommatus		1	plate
-10	R3	latinworks19wycl=lt | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=tt | tractatusdepotes00wycl=lt		4	plate
-13	R3	latinworks19wycl=mendacn | johanniswyclift00mattgoog=mendacii | johanniswyclift01mattgoog=mendacu | tractatusdepotes00wycl=mendacu		4	plate
+1	PLATE	latinworks19wycl=dommatus		1	accept
+10	PLATE	latinworks19wycl=lt | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=tt | tractatusdepotes00wycl=lt		4	accept
+13	PLATE	latinworks19wycl=mendacn | johanniswyclift00mattgoog=mendacii | johanniswyclift01mattgoog=mendacu | tractatusdepotes00wycl=mendacu		4	accept
 38	R3a	latinworks19wycl=alteri | johanniswyclift00mattgoog=alter | johanniswyclift01mattgoog=alteri | tractatusdepotes00wycl=alteri		4	accept
-47	R3	latinworks19wycl=parce | johanniswyclift00mattgoog=arce | johanniswyclift01mattgoog=parce | tractatusdepotes00wycl=axce		4	plate
+47	PLATE	latinworks19wycl=parce | johanniswyclift00mattgoog=arce | johanniswyclift01mattgoog=parce | tractatusdepotes00wycl=axce		4	accept
 81	R2	latinworks19wycl=constantinus | johanniswyclift00mattgoog=constantinus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=constantinus		4	accept
 93	R2	latinworks19wycl=illam | johanniswyclift00mattgoog=illam | johanniswyclift01mattgoog=ulannsi | tractatusdepotes00wycl=illam		4	accept
 106	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
-107	R3	latinworks19wycl=ouo | johanniswyclift00mattgoog=qiio | johanniswyclift01mattgoog=quo | tractatusdepotes00wycl=quo		4	plate
+107	PLATE	latinworks19wycl=ouo | johanniswyclift00mattgoog=qiio | johanniswyclift01mattgoog=quo | tractatusdepotes00wycl=quo		4	accept
 108	R2	latinworks19wycl=inre | johanniswyclift00mattgoog=iuuc | johanniswyclift01mattgoog=iiire | tractatusdepotes00wycl=iure		4	accept
-118	GAP	nisi ex lege	3	4	plate
+118	GAP	nisi ex lege	3	4	plate: nisi ex lege
 118	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
 129	R6a	latinworks19wycl=iii | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
 134	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept
@@ -33,4 +33,4 @@ pos	rule	forms	support	voters	resolution
 199	R2	latinworks19wycl=horum | johanniswyclift00mattgoog=horum | johanniswyclift01mattgoog=bormn | tractatusdepotes00wycl=horum		4	accept
 200	R2	latinworks19wycl=bomis | johanniswyclift00mattgoog=bonhs | johanniswyclift01mattgoog=bonusio | tractatusdepotes00wycl=bonus		4	accept
 205	R2	latinworks19wycl=questus | johanniswyclift00mattgoog=questus | johanniswyclift01mattgoog=quealus | tractatusdepotes00wycl=questus		4	accept
-214	THIN	latinworks19wycl=uenaices | johanniswyclift01mattgoog=uenaices		2	plate
+214	PLATE	latinworks19wycl=uenaices | johanniswyclift01mattgoog=uenaices		2	accept

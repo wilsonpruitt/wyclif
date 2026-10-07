@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=raciones		1	accept
 1	EDGE	latinworks19wycl=deo		1	accept
-2	THIN	latinworks19wycl=cibsconditas		1	plate
+2	PLATE	latinworks19wycl=cibsconditas		1	accept
 69	R2	latinworks19wycl=mercedem | johanniswyclift00mattgoog=mercedem | johanniswyclift01mattgoog=maxcdan | tractatusdepotes00wycl=mercedem		4	accept
 70	R2	latinworks19wycl=stiam | johanniswyclift00mattgoog=suam | johanniswyclift01mattgoog=sttam | tractatusdepotes00wycl=suam		4	accept
 73	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
@@ -9,14 +9,14 @@ pos	rule	forms	support	voters	resolution
 78	R2	latinworks19wycl=qui | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=gui		4	accept
 90	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non		4	accept
 104	R5a	latinworks19wycl=tessa | johanniswyclift00mattgoog=tessa | johanniswyclift01mattgoog=tessa | tractatusdepotes00wycl=tessa		4	accept
-108	INS?	9	2	4	plate
+108	INS?	9	2	4	plate: 9
 108	R3a	latinworks19wycl=neque | johanniswyclift00mattgoog=neque | johanniswyclift01mattgoog=9 | tractatusdepotes00wycl=neque		4	accept
 122	R3a	latinworks19wycl=testis | johanniswyclift00mattgoog=testis | johanniswyclift01mattgoog=tesis | tractatusdepotes00wycl=testis		4	accept
 126	R3a	latinworks19wycl=ab | johanniswyclift00mattgoog=ah | johanniswyclift01mattgoog=ab | tractatusdepotes00wycl=ab		4	accept
 131	R3a	latinworks19wycl=ne | johanniswyclift00mattgoog=ne | johanniswyclift01mattgoog=ue | tractatusdepotes00wycl=ne		4	accept
 164	R2	latinworks19wycl=omelia | johanniswyclift00mattgoog=omelia | johanniswyclift01mattgoog=onidia | tractatusdepotes00wycl=omelia		4	accept
-186	THIN	latinworks19wycl=siracio		1	plate
-187	THIN	latinworks19wycl=11011		1	plate
+186	PLATE	latinworks19wycl=siracio		1	accept
+187	PLATE	latinworks19wycl=11011		1	accept
 195	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=3m0h | tractatusdepotes00wycl=fion		4	accept
 197	R3a	latinworks19wycl=tamen | johanniswyclift00mattgoog=tamen | johanniswyclift01mattgoog=tame | tractatusdepotes00wycl=tamen		4	accept
 204	R3a	latinworks19wycl=ueque | johanniswyclift00mattgoog=neque | johanniswyclift01mattgoog=neque | tractatusdepotes00wycl=neque		4	accept

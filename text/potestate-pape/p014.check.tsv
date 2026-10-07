@@ -3,7 +3,7 @@ pos	rule	forms	support	voters	resolution
 40	R2	latinworks19wycl=euntes | johanniswyclift00mattgoog=euntes | johanniswyclift01mattgoog=enies | tractatusdepotes00wycl=euntes		4	accept
 43	R2	latinworks19wycl=omnes | johanniswyclift00mattgoog=omnes | johanniswyclift01mattgoog=omites | tractatusdepotes00wycl=omnes		4	accept
 66	R2	latinworks19wycl=m | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=n		4	accept
-67	R4	latinworks19wycl=prducendo | johanniswyclift00mattgoog=producendo | johanniswyclift01mattgoog=producendo | tractatusdepotes00wycl=prducendo		4	plate
+67	PLATE	latinworks19wycl=prducendo | johanniswyclift00mattgoog=producendo | johanniswyclift01mattgoog=producendo | tractatusdepotes00wycl=prducendo		4	accept
 71	R2	latinworks19wycl=omnis | johanniswyclift00mattgoog=omnis | johanniswyclift01mattgoog=oranis | tractatusdepotes00wycl=omnis		4	accept
 121	R5a	latinworks19wycl=gen | johanniswyclift00mattgoog=gen | johanniswyclift01mattgoog=gen | tractatusdepotes00wycl=gen		4	accept
 125	R2	latinworks19wycl=potentatns | johanniswyclift00mattgoog=poteniatus | johanniswyclift01mattgoog=poteitlattts | tractatusdepotes00wycl=potentatus		4	accept

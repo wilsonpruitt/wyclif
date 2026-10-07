@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
 21	R5a	latinworks19wycl=mat | johanniswyclift00mattgoog=mat | johanniswyclift01mattgoog=mat | tractatusdepotes00wycl=mat		4	accept
 26	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
-110	R3	latinworks19wycl=carne | johanniswyclift00mattgoog=came | johanniswyclift01mattgoog=came | tractatusdepotes00wycl=carne		4	plate
+110	PLATE	latinworks19wycl=carne | johanniswyclift00mattgoog=came | johanniswyclift01mattgoog=came | tractatusdepotes00wycl=carne		4	accept
 121	R3a	latinworks19wycl=multi | johanniswyclift00mattgoog=multi | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=multi		4	accept
 125	R2	latinworks19wycl=tnundum | johanniswyclift00mattgoog=mundum | johanniswyclift01mattgoog=inuitdnmet | tractatusdepotes00wycl=mundum		4	accept
 126	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=et		4	accept
 145	R2	latinworks19wycl=audistis | johanniswyclift00mattgoog=audistis | johanniswyclift01mattgoog=aiidislis | tractatusdepotes00wycl=audistis		4	accept
 176	R2	latinworks19wycl=sum | johanniswyclift00mattgoog=sum | johanniswyclift01mattgoog=skw | tractatusdepotes00wycl=sum		4	accept
-211	R5	latinworks19wycl=traditoriam | johanniswyclift00mattgoog=traditoriam | tractatusdepotes00wycl=traditoriam		3	plate
+211	PLATE	latinworks19wycl=traditoriam | johanniswyclift00mattgoog=traditoriam | tractatusdepotes00wycl=traditoriam		3	accept

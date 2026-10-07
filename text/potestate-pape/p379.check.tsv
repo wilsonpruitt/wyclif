@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
 4	R2	latinworks19wycl=sancti | johanniswyclift00mattgoog=sancd | johanniswyclift01mattgoog=sancti | tractatusdepotes00wycl=sancti		4	accept
-57	R3	latinworks19wycl=quis | johanniswyclift00mattgoog=onis | johanniswyclift01mattgoog=inis | tractatusdepotes00wycl=quis		4	plate
+57	PLATE	latinworks19wycl=quis | johanniswyclift00mattgoog=onis | johanniswyclift01mattgoog=inis | tractatusdepotes00wycl=quis		4	accept
 60	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 97	R2	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=i		4	accept
-102	NW	latinworks19wycl=diocesi | johanniswyclift00mattgoog=diocesi | johanniswyclift01mattgoog=diocesi | tractatusdepotes00wycl=diocesi		4	plate
-106	R4	latinworks19wycl=turbac | johanniswyclift00mattgoog=turbacio | johanniswyclift01mattgoog=turbacio | tractatusdepotes00wycl=turbac		4	plate
+102	PLATE	latinworks19wycl=diocesi | johanniswyclift00mattgoog=diocesi | johanniswyclift01mattgoog=diocesi | tractatusdepotes00wycl=diocesi		4	accept
+106	PLATE	latinworks19wycl=turbac | johanniswyclift00mattgoog=turbacio | johanniswyclift01mattgoog=turbacio | tractatusdepotes00wycl=turbac		4	accept
 170	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=i		4	accept
-178	INS?	ii	2	4	plate
-236	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | tractatusdepotes00wycl=illa		3	plate
+178	INS?	ii	2	4	plate: II
+236	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | tractatusdepotes00wycl=illa		3	accept
 239	EDGE	latinworks19wycl=depopulentur | johanniswyclift00mattgoog=depopulentur		2	accept

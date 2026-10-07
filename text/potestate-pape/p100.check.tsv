@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
-89	NW	latinworks19wycl=abortiunm | johanniswyclift00mattgoog=abortiuttm | johanniswyclift01mattgoog=aborliunm | tractatusdepotes00wycl=abortiunm		4	plate
+89	PLATE	latinworks19wycl=abortiunm | johanniswyclift00mattgoog=abortiuttm | johanniswyclift01mattgoog=aborliunm | tractatusdepotes00wycl=abortiunm		4	accept
 96	R2	latinworks19wycl=tamquam | johanniswyclift00mattgoog=tamquam | johanniswyclift01mattgoog=lamqnam | tractatusdepotes00wycl=tamquam		4	accept
-118	R4	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10		4	plate
+118	PLATE	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10		4	accept
 141	R2	latinworks19wycl=itx | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=ex | tractatusdepotes00wycl=tx		4	accept
-186	R6	latinworks19wycl=our | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=our		4	plate
+186	PLATE	latinworks19wycl=our | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=our		4	accept
 224	R5a	latinworks19wycl=cesari | johanniswyclift00mattgoog=cesari | johanniswyclift01mattgoog=cesari | tractatusdepotes00wycl=cesari		4	accept

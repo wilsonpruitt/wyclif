@@ -1,20 +1,20 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=in		1	accept
 1	EDGE	latinworks19wycl=statum		1	accept
-2	THIN	latinworks19wycl=expropnetarium		1	plate
-3	THIN	latinworks19wycl=simihs		1	plate
+2	PLATE	latinworks19wycl=expropnetarium		1	accept
+3	PLATE	latinworks19wycl=simihs		1	accept
 8	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=m		4	accept
 14	R2	latinworks19wycl=decimis | johanniswyclift00mattgoog=decinus | johanniswyclift01mattgoog=decimis | tractatusdepotes00wycl=decimis		4	accept
 34	R2	latinworks19wycl=pulcrum | johanniswyclift00mattgoog=pulcrum | johanniswyclift01mattgoog=pulcnun | tractatusdepotes00wycl=pulcrum		4	accept
-79	NW	latinworks19wycl=leuite | johanniswyclift00mattgoog=leuite | johanniswyclift01mattgoog=leuite | tractatusdepotes00wycl=leuite		4	plate
-102	NW	latinworks19wycl=coraula | johanniswyclift00mattgoog=coraula | johanniswyclift01mattgoog=coraula | tractatusdepotes00wycl=coraula		4	plate
+79	PLATE	latinworks19wycl=leuite | johanniswyclift00mattgoog=leuite | johanniswyclift01mattgoog=leuite | tractatusdepotes00wycl=leuite		4	accept
+102	PLATE	latinworks19wycl=coraula | johanniswyclift00mattgoog=coraula | johanniswyclift01mattgoog=coraula | tractatusdepotes00wycl=coraula		4	accept
 103	R4a	latinworks19wycl=cnristus | johanniswyclift00mattgoog=christus | johanniswyclift01mattgoog=chnstus | tractatusdepotes00wycl=chnstus		4	accept
-105	R3	latinworks19wycl=ruit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=fuit | tractatusdepotes00wycl=iuit		4	plate
+105	PLATE	latinworks19wycl=ruit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=fuit | tractatusdepotes00wycl=iuit		4	accept
 107	R4a	latinworks19wycl=paupernmus | johanniswyclift00mattgoog=pauperrimus | johanniswyclift01mattgoog=paupemmus | tractatusdepotes00wycl=paupernmus		4	accept
-127	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+127	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 130	R3a	latinworks19wycl=uirtutis | johanniswyclift00mattgoog=uirtutis | johanniswyclift01mattgoog=uir | tractatusdepotes00wycl=uirtutis		4	accept
 185	R2	latinworks19wycl=xam | johanniswyclift00mattgoog=nam | johanniswyclift01mattgoog=nam | tractatusdepotes00wycl=nam		4	accept
-197	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis		4	plate
+197	PLATE	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis		4	accept
 199	R2	latinworks19wycl=successisti | johanniswyclift00mattgoog=successisti | johanniswyclift01mattgoog=sitccessish | tractatusdepotes00wycl=successisti		4	accept
-212	THIN	latinworks19wycl=etxcu | tractatusdepotes00wycl=etxcu		2	plate
+212	PLATE	latinworks19wycl=etxcu | tractatusdepotes00wycl=etxcu		2	accept
 218	EDGE	latinworks19wycl=sacramentum | tractatusdepotes00wycl=sacramentum		2	accept

@@ -1,13 +1,13 @@
 pos	rule	forms	support	voters	resolution
-0	THIN	latinworks19wycl=multiphcem | johanniswyclift01mattgoog=multiphcem		2	plate
+0	PLATE	latinworks19wycl=multiphcem | johanniswyclift01mattgoog=multiphcem		2	accept
 1	EDGE	latinworks19wycl=et | johanniswyclift01mattgoog=et		2	accept
-2	THIN	latinworks19wycl=termmos | johanniswyclift01mattgoog=termmos		2	plate
-3	THIN	latinworks19wycl=magistrales | johanniswyclift01mattgoog=mainstrales		2	plate
+2	PLATE	latinworks19wycl=termmos | johanniswyclift01mattgoog=termmos		2	accept
+3	PLATE	latinworks19wycl=magistrales | johanniswyclift01mattgoog=mainstrales		2	accept
 4	EDGE	latinworks19wycl=ut | johanniswyclift01mattgoog=ut		2	accept
 5	EDGE	latinworks19wycl=aha | johanniswyclift01mattgoog=aha		2	accept
 8	R4a	latinworks19wycl=ordmis | johanniswyclift01mattgoog=ordinis | tractatusdepotes00wycl=ordmis		3	accept
 9	R3a	latinworks19wycl=alia | johanniswyclift00mattgoog=alia | johanniswyclift01mattgoog=aha | tractatusdepotes00wycl=alia		4	accept
-37	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+37	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 40	R5a	latinworks19wycl=hugo | johanniswyclift00mattgoog=hugo | johanniswyclift01mattgoog=hugo | tractatusdepotes00wycl=hugo		4	accept
 45	R2	latinworks19wycl=ii | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=ii | tractatusdepotes00wycl=ii		4	accept
 50	R3a	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicut | johanniswyclift01mattgoog=sicui | tractatusdepotes00wycl=sicut		4	accept
@@ -18,7 +18,7 @@ pos	rule	forms	support	voters	resolution
 100	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=in		4	accept
 130	R2	latinworks19wycl=uno | johanniswyclift00mattgoog=uno | johanniswyclift01mattgoog=uho | tractatusdepotes00wycl=uno		4	accept
 140	R2	latinworks19wycl=principio | johanniswyclift00mattgoog=prtnctpto | johanniswyclift01mattgoog=rcipto | tractatusdepotes00wycl=principio		4	accept
-141	R4	latinworks19wycl=deducti | johanniswyclift00mattgoog=deductt | johanniswyclift01mattgoog=deductt | tractatusdepotes00wycl=deducti		4	plate
+141	PLATE	latinworks19wycl=deducti | johanniswyclift00mattgoog=deductt | johanniswyclift01mattgoog=deductt | tractatusdepotes00wycl=deducti		4	accept
 142	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
-145	R4	latinworks19wycl=relati | johanniswyclift00mattgoog=relatt | johanniswyclift01mattgoog=relatt | tractatusdepotes00wycl=relati		4	plate
+145	PLATE	latinworks19wycl=relati | johanniswyclift00mattgoog=relatt | johanniswyclift01mattgoog=relatt | tractatusdepotes00wycl=relati		4	accept
 156	R2	latinworks19wycl=summuni | johanniswyclift00mattgoog=summum | johanniswyclift01mattgoog=sutnmuui | tractatusdepotes00wycl=summum		4	accept

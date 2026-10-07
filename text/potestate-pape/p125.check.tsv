@@ -6,10 +6,10 @@ pos	rule	forms	support	voters	resolution
 55	R2	latinworks19wycl=accepistis | johanniswyclift00mattgoog=accepistis | johanniswyclift01mattgoog=acccpisih | tractatusdepotes00wycl=accepistis		4	accept
 64	R3a	latinworks19wycl=palliat | johanniswyclift00mattgoog=palliate | johanniswyclift01mattgoog=palliat | tractatusdepotes00wycl=palliat		4	accept
 69	R3a	latinworks19wycl=spectatin | johanniswyclift00mattgoog=spectatin | johanniswyclift01mattgoog=pectat | tractatusdepotes00wycl=spectatin		4	accept
-77	R4	latinworks19wycl=i | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=i		4	plate
+77	PLATE	latinworks19wycl=i | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=i		4	accept
 78	R2	latinworks19wycl=riec | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=nec		4	accept
 109	R3a	latinworks19wycl=earum | johanniswyclift00mattgoog=earum | johanniswyclift01mattgoog=arum | tractatusdepotes00wycl=earum		4	accept
 126	R2	latinworks19wycl=sit | johanniswyclift00mattgoog=sit | johanniswyclift01mattgoog=sh | tractatusdepotes00wycl=sit		4	accept
 128	R2	latinworks19wycl=suis | johanniswyclift00mattgoog=suis | johanniswyclift01mattgoog=siiis | tractatusdepotes00wycl=suis		4	accept
 156	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=t | tractatusdepotes00wycl=et		4	accept
-185	R4	latinworks19wycl=soecclesia | johanniswyclift00mattgoog=soecclesia | johanniswyclift01mattgoog=cclesia | tractatusdepotes00wycl=ecclesia		4	plate
+185	PLATE	latinworks19wycl=soecclesia | johanniswyclift00mattgoog=soecclesia | johanniswyclift01mattgoog=cclesia | tractatusdepotes00wycl=ecclesia		4	accept

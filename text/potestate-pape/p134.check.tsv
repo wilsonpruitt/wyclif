@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
 13	R3a	latinworks19wycl=corripere | johanniswyclift00mattgoog=conipere | johanniswyclift01mattgoog=compere | tractatusdepotes00wycl=corripere		4	accept
-32	R3	latinworks19wycl=corripere | johanniswyclift00mattgoog=compere | johanniswyclift01mattgoog=compere | tractatusdepotes00wycl=corripere		4	plate
+32	PLATE	latinworks19wycl=corripere | johanniswyclift00mattgoog=compere | johanniswyclift01mattgoog=compere | tractatusdepotes00wycl=corripere		4	accept
 83	R3a	latinworks19wycl=nominant | johanniswyclift00mattgoog=nominant | johanniswyclift01mattgoog=dominant | tractatusdepotes00wycl=nominant		4	accept
 89	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 100	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=in		4	accept
-104	NW	latinworks19wycl=condicionahbus | johanniswyclift00mattgoog=condicionalibus | johanniswyclift01mattgoog=condicionahbus | tractatusdepotes00wycl=condicionahbus		4	plate
+104	PLATE	latinworks19wycl=condicionahbus | johanniswyclift00mattgoog=condicionalibus | johanniswyclift01mattgoog=condicionahbus | tractatusdepotes00wycl=condicionahbus		4	accept
 114	R3a	latinworks19wycl=efncaciter | johanniswyclift00mattgoog=eincaciter | johanniswyclift01mattgoog=efficaciter | tractatusdepotes00wycl=efncaciter		4	accept
 159	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
 198	R2	latinworks19wycl=michi | johanniswyclift00mattgoog=michi | johanniswyclift01mattgoog=raichi | tractatusdepotes00wycl=michi		4	accept

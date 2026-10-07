@@ -1,22 +1,22 @@
 pos	rule	forms	support	voters	resolution
 8	R5a	latinworks19wycl=grecia | johanniswyclift00mattgoog=grecia | johanniswyclift01mattgoog=grecia | tractatusdepotes00wycl=grecia		4	accept
 10	R3a	latinworks19wycl=ahis | johanniswyclift00mattgoog=aliis | johanniswyclift01mattgoog=aliis | tractatusdepotes00wycl=alus		4	accept
-11	NW	latinworks19wycl=contratis | johanniswyclift00mattgoog=contratis | johanniswyclift01mattgoog=contratis | tractatusdepotes00wycl=contratis		4	plate
-16	R3	latinworks19wycl=no | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=011 | tractatusdepotes00wycl=non		4	plate
+11	PLATE	latinworks19wycl=contratis | johanniswyclift00mattgoog=contratis | johanniswyclift01mattgoog=contratis | tractatusdepotes00wycl=contratis		4	accept
+16	PLATE	latinworks19wycl=no | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=011 | tractatusdepotes00wycl=non		4	accept
 17	DEL	latinworks19wycl=u | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
-64	R4	latinworks19wycl=ouam | johanniswyclift00mattgoog=quam | johanniswyclift01mattgoog=quam | tractatusdepotes00wycl=ouam		4	plate
-74	R5	latinworks19wycl=cardinahbus | johanniswyclift00mattgoog=cardmahbus | tractatusdepotes00wycl=cardmahbus		3	plate
-75	R4	latinworks19wycl=grreoforii | johanniswyclift00mattgoog=grregorii | tractatusdepotes00wycl=gregorn		3	plate
+64	PLATE	latinworks19wycl=ouam | johanniswyclift00mattgoog=quam | johanniswyclift01mattgoog=quam | tractatusdepotes00wycl=ouam		4	accept
+74	PLATE	latinworks19wycl=cardinahbus | johanniswyclift00mattgoog=cardmahbus | tractatusdepotes00wycl=cardmahbus		3	accept
+75	PLATE	latinworks19wycl=grreoforii | johanniswyclift00mattgoog=grregorii | tractatusdepotes00wycl=gregorn		3	accept
 124	R2	latinworks19wycl=scctemini | johanniswyclift00mattgoog=secfemini | johanniswyclift01mattgoog=stteiniii | tractatusdepotes00wycl=sectemini		4	accept
-129	R4	latinworks19wycl=primeua | johanniswyclift00mattgoog=primeua | johanniswyclift01mattgoog=soprimeua | tractatusdepotes00wycl=soprimeua		4	plate
+129	PLATE	latinworks19wycl=primeua | johanniswyclift00mattgoog=primeua | johanniswyclift01mattgoog=soprimeua | tractatusdepotes00wycl=soprimeua		4	accept
 156	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nun | tractatusdepotes00wycl=non		4	accept
 177	R2	latinworks19wycl=xxip | johanniswyclift00mattgoog=xxiidistinccione | johanniswyclift01mattgoog=xxiidistinccione | tractatusdepotes00wycl=xxipdistinccione		4	accept
 178	R3a	latinworks19wycl=distinccione | johanniswyclift00mattgoog=deconstanfinopoli | johanniswyclift01mattgoog=de | tractatusdepotes00wycl=de		4	accept
-179	R4	latinworks19wycl=dcconstantinopolitana | johanniswyclift00mattgoog=tana | johanniswyclift01mattgoog=coustatiliuopoliiana | tractatusdepotes00wycl=constantinopoiitana		4	plate
+179	PLATE	latinworks19wycl=dcconstantinopolitana | johanniswyclift00mattgoog=tana | johanniswyclift01mattgoog=coustatiliuopoliiana | tractatusdepotes00wycl=constantinopoiitana		4	accept
 192	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=cuttt | tractatusdepotes00wycl=cum		4	accept
 195	R3a	latinworks19wycl=nou | johanniswyclift00mattgoog=nou | johanniswyclift01mattgoog=011 | tractatusdepotes00wycl=nou		4	accept
 197	R2	latinworks19wycl=omnes | johanniswyclift00mattgoog=omnes | johanniswyclift01mattgoog=omtics | tractatusdepotes00wycl=omues		4	accept
 198	R2	latinworks19wycl=secundum | johanniswyclift00mattgoog=secundum | johanniswyclift01mattgoog=secttiidiim | tractatusdepotes00wycl=secundum		4	accept
 199	R2	latinworks19wycl=racionem | johanniswyclift00mattgoog=racionem | johanniswyclift01mattgoog=raciottcm | tractatusdepotes00wycl=raciouem		4	accept
-201	R4	latinworks19wycl=equales | johanniswyclift00mattgoog=equates | johanniswyclift01mattgoog=equates | tractatusdepotes00wycl=equales		4	plate
+201	PLATE	latinworks19wycl=equales | johanniswyclift00mattgoog=equates | johanniswyclift01mattgoog=equates | tractatusdepotes00wycl=equales		4	accept
 202	R2	latinworks19wycl=sumus | johanniswyclift00mattgoog=sumus | johanniswyclift01mattgoog=sutnus | tractatusdepotes00wycl=sumus		4	accept

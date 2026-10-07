@@ -1,13 +1,13 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=occiduis		1	accept
-1	THIN	latinworks19wycl=quocl		1	plate
+1	PLATE	latinworks19wycl=quocl		1	accept
 6	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=fiuod | tractatusdepotes00wycl=quod		4	accept
 7	R2	latinworks19wycl=nemo | johanniswyclift00mattgoog=nemo | johanniswyclift01mattgoog=ncnio | tractatusdepotes00wycl=nemo		4	accept
 30	R5a	latinworks19wycl=grecia | johanniswyclift00mattgoog=grecia | johanniswyclift01mattgoog=grecia | tractatusdepotes00wycl=grecia		4	accept
-67	THIN	latinworks19wycl=aposto		1	plate
-68	THIN	latinworks19wycl=qud		1	plate
+67	PLATE	latinworks19wycl=aposto		1	accept
+68	PLATE	latinworks19wycl=qud		1	accept
 74	R2	latinworks19wycl=igen00 | johanniswyclift00mattgoog=diligendo | johanniswyclift01mattgoog=diugcndo | tractatusdepotes00wycl=diligendo		4	accept
 95	R2	latinworks19wycl=tantum | johanniswyclift00mattgoog=tantum | johanniswyclift01mattgoog=tan | tractatusdepotes00wycl=tantum		4	accept
-136	HEAD	CAPITULUM QUINTUM.			plate
-148	R4	latinworks19wycl=quicumque | johanniswyclift00mattgoog=quicumque | johanniswyclift01mattgoog=quicumques | tractatusdepotes00wycl=quicumques		4	plate
+136	HEAD	CAPITULUM QUINTUM.			plate: CAPITULUM QUINTUM.
+148	PLATE	latinworks19wycl=quicumque | johanniswyclift00mattgoog=quicumque | johanniswyclift01mattgoog=quicumques | tractatusdepotes00wycl=quicumques		4	accept
 156	R3a	latinworks19wycl=exproprietane | johanniswyclift00mattgoog=expropnetane | johanniswyclift01mattgoog=expropnetane | tractatusdepotes00wycl=exproprietarie		4	accept

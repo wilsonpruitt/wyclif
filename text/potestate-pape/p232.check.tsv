@@ -1,22 +1,22 @@
 pos	rule	forms	support	voters	resolution
 6	DEL	latinworks19wycl=be | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
-12	NW	latinworks19wycl=msensibilis | johanniswyclift00mattgoog=msensibilis | johanniswyclift01mattgoog=insensibihs | tractatusdepotes00wycl=msensibilis		4	plate
+12	PLATE	latinworks19wycl=msensibilis | johanniswyclift00mattgoog=msensibilis | johanniswyclift01mattgoog=insensibihs | tractatusdepotes00wycl=msensibilis		4	accept
 104	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
-117	R3	latinworks19wycl=negare | johanniswyclift00mattgoog=negate | johanniswyclift01mattgoog=negate | tractatusdepotes00wycl=negare		4	plate
+117	PLATE	latinworks19wycl=negare | johanniswyclift00mattgoog=negate | johanniswyclift01mattgoog=negate | tractatusdepotes00wycl=negare		4	accept
 120	R2	latinworks19wycl=constantinus | johanniswyclift00mattgoog=consfantinus | johanniswyclift01mattgoog=cotistanlinua | tractatusdepotes00wycl=constantinus		4	accept
 121	R2	latinworks19wycl=impcrator | johanniswyclift00mattgoog=imperatot | johanniswyclift01mattgoog=itnferotor | tractatusdepotes00wycl=imperator		4	accept
-122	R4	latinworks19wycl=quarto | johanniswyclift00mattgoog=quauto | johanniswyclift01mattgoog=quauto | tractatusdepotes00wycl=quarto		4	plate
+122	PLATE	latinworks19wycl=quarto | johanniswyclift00mattgoog=quauto | johanniswyclift01mattgoog=quauto | tractatusdepotes00wycl=quarto		4	accept
 127	R6a	latinworks19wycl=romane | johanniswyclift00mattgoog=rotnatte | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept
 128	R2	latinworks19wycl=ecclesie | johanniswyclift00mattgoog=ccclcsic | johanniswyclift01mattgoog=ecclesie | tractatusdepotes00wycl=ecclesie		4	accept
 130	R2	latinworks19wycl=contnlit | johanniswyclift00mattgoog=contiiut | johanniswyclift01mattgoog=conluut | tractatusdepotes00wycl=contulit		4	accept
-131	R3	latinworks19wycl=111 | johanniswyclift00mattgoog=fit | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=ut		4	plate
+131	PLATE	latinworks19wycl=111 | johanniswyclift00mattgoog=fit | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=ut		4	accept
 132	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=iu | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
 133	R3a	latinworks19wycl=toto | johanniswyclift00mattgoog=toto | johanniswyclift01mattgoog=oto | tractatusdepotes00wycl=toto		4	accept
-141	R3	latinworks19wycl=iudices | johanniswyclift00mattgoog=indices | johanniswyclift01mattgoog=indices | tractatusdepotes00wycl=iudices		4	plate
+141	PLATE	latinworks19wycl=iudices | johanniswyclift00mattgoog=indices | johanniswyclift01mattgoog=indices | tractatusdepotes00wycl=iudices		4	accept
 146	R2	latinworks19wycl=ita | johanniswyclift00mattgoog=if | johanniswyclift01mattgoog=ita | tractatusdepotes00wycl=ita		4	accept
 153	R2	latinworks19wycl=atque | johanniswyclift00mattgoog=atque | johanniswyclift01mattgoog=atqttc | tractatusdepotes00wycl=atque		4	accept
 157	R2	latinworks19wycl=imperialem | johanniswyclift00mattgoog=imperialem | johanniswyclift01mattgoog=impericilent | tractatusdepotes00wycl=imperiaiem		4	accept
-167	R5	latinworks19wycl=anthiochinam | johanniswyclift00mattgoog=anthiochinam | tractatusdepotes00wycl=anthiochinam		3	plate
-168	R4	latinworks19wycl=i | johanniswyclift00mattgoog=ierusolimitanam | tractatusdepotes00wycl=ierusolimitanam		3	plate
+167	PLATE	latinworks19wycl=anthiochinam | johanniswyclift00mattgoog=anthiochinam | tractatusdepotes00wycl=anthiochinam		3	accept
+168	PLATE	latinworks19wycl=i | johanniswyclift00mattgoog=ierusolimitanam | tractatusdepotes00wycl=ierusolimitanam		3	accept
 169	DEL	latinworks19wycl=erusolinutanam | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=∅		3	accept
 188	R5a	latinworks19wycl=yndiam | johanniswyclift00mattgoog=yndiam | johanniswyclift01mattgoog=yndiam | tractatusdepotes00wycl=yndiam		4	accept

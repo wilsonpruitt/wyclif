@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
-4	R4	latinworks19wycl=sufnciens | johanniswyclift00mattgoog=sutnciens | tractatusdepotes00wycl=suinciens		3	plate
-10	NW	latinworks19wycl=preemmencia | johanniswyclift00mattgoog=preeminencia | johanniswyclift01mattgoog=preemmencia | tractatusdepotes00wycl=preemmencia		4	plate
+4	PLATE	latinworks19wycl=sufnciens | johanniswyclift00mattgoog=sutnciens | tractatusdepotes00wycl=suinciens		3	accept
+10	PLATE	latinworks19wycl=preemmencia | johanniswyclift00mattgoog=preeminencia | johanniswyclift01mattgoog=preemmencia | tractatusdepotes00wycl=preemmencia		4	accept
 46	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
 53	R2	latinworks19wycl=siue | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=siue | tractatusdepotes00wycl=siue		4	accept
 57	R5a	latinworks19wycl=yndiam | johanniswyclift00mattgoog=yndiam | johanniswyclift01mattgoog=yndiam | tractatusdepotes00wycl=yndiam		4	accept
 71	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-181	R4	latinworks19wycl=peccauerunt | johanniswyclift00mattgoog=peceauerunt | johanniswyclift01mattgoog=peccasouerunt | tractatusdepotes00wycl=peccasouerunt		4	plate
+181	PLATE	latinworks19wycl=peccauerunt | johanniswyclift00mattgoog=peceauerunt | johanniswyclift01mattgoog=peccasouerunt | tractatusdepotes00wycl=peccasouerunt		4	accept
 190	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
 192	R2	latinworks19wycl=solus | johanniswyclift00mattgoog=solus | johanniswyclift01mattgoog=solus | tractatusdepotes00wycl=sohis		4	accept

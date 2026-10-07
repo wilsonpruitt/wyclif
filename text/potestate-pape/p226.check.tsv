@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=hic | tractatusdepotes00wycl=hic		2	accept
-10	R4	latinworks19wycl=annuali | johanniswyclift00mattgoog=annual | johanniswyclift01mattgoog=annual | tractatusdepotes00wycl=annuali		4	plate
+10	PLATE	latinworks19wycl=annuali | johanniswyclift00mattgoog=annual | johanniswyclift01mattgoog=annual | tractatusdepotes00wycl=annuali		4	accept
 22	R3a	latinworks19wycl=es | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
 51	R2	latinworks19wycl=regxd | johanniswyclift00mattgoog=regni | johanniswyclift01mattgoog=regni | tractatusdepotes00wycl=regni		4	accept
 77	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 82	R3a	latinworks19wycl=iis | johanniswyclift00mattgoog=aliis | johanniswyclift01mattgoog=aliis | tractatusdepotes00wycl=aliis		4	accept
 83	R2	latinworks19wycl=regrus | johanniswyclift00mattgoog=regnis | johanniswyclift01mattgoog=regnis | tractatusdepotes00wycl=regnis		4	accept
-84	R4	latinworks19wycl=osr | johanniswyclift00mattgoog=nostn | johanniswyclift01mattgoog=nostn | tractatusdepotes00wycl=nostri		4	plate
+84	PLATE	latinworks19wycl=osr | johanniswyclift00mattgoog=nostn | johanniswyclift01mattgoog=nostn | tractatusdepotes00wycl=nostri		4	accept
 87	R2	latinworks19wycl=doruit | johanniswyclift00mattgoog=dotarunt | johanniswyclift01mattgoog=dotarunt | tractatusdepotes00wycl=dotarunt		4	accept
 88	R2	latinworks19wycl=doiii | johanniswyclift00mattgoog=domini | johanniswyclift01mattgoog=domini | tractatusdepotes00wycl=domini		4	accept
 143	R2	latinworks19wycl=has | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=has		4	accept

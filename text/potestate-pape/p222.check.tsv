@@ -4,9 +4,9 @@ pos	rule	forms	support	voters	resolution
 29	R3a	latinworks19wycl=uno | johanniswyclift00mattgoog=uno | johanniswyclift01mattgoog=una | tractatusdepotes00wycl=uno		4	accept
 31	R2	latinworks19wycl=magnifice | johanniswyclift00mattgoog=magnifice | johanniswyclift01mattgoog=maytiifice | tractatusdepotes00wycl=magnifice		4	accept
 37	R2	latinworks19wycl=beluam | johanniswyclift00mattgoog=beluam | johanniswyclift01mattgoog=brluain | tractatusdepotes00wycl=beluam		4	accept
-78	R4	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec		4	plate
+78	PLATE	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec		4	accept
 100	R2	latinworks19wycl=xon | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=non		4	accept
-109	HEAD	CAPITULUM DECIMUM.			plate
-125	R3	latinworks19wycl=ai | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the		4	plate
+109	HEAD	CAPITULUM DECIMUM.			plate: CAPITULUM DECIMUM.
+125	PLATE	latinworks19wycl=ai | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the		4	accept
 133	R3a	latinworks19wycl=terre | johanniswyclift00mattgoog=terre | johanniswyclift01mattgoog=terra | tractatusdepotes00wycl=terre		4	accept
 150	R2	latinworks19wycl=mundanam | johanniswyclift00mattgoog=mundanam | johanniswyclift01mattgoog=munar | tractatusdepotes00wycl=mundanam		4	accept

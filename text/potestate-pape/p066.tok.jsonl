@@ -16,7 +16,7 @@
 {"t": "hereticum", "leaf": 127, "row": 2, "para": false, "head": false, "pos": 15}
 {"t": "quam", "leaf": 127, "row": 2, "para": false, "head": false, "pos": 16}
 {"t": "pertinaciter", "leaf": 127, "row": 2, "para": false, "head": false, "pos": 17}
-{"t": "detendere", "leaf": 127, "row": 2, "para": false, "head": false, "pos": 18}
+{"t": "defendere", "leaf": 127, "row": 2, "para": false, "head": false, "pos": 18}
 {"t": "quod", "leaf": 127, "row": 3, "para": false, "head": false, "pos": 19}
 {"t": "eo", "leaf": 127, "row": 3, "para": false, "head": false, "pos": 20}
 {"t": "ipso", "leaf": 127, "row": 3, "para": false, "head": false, "pos": 21}
@@ -37,7 +37,8 @@
 {"t": "aliquam,", "leaf": 127, "row": 5, "para": false, "head": false, "pos": 36}
 {"t": "eo", "leaf": 127, "row": 5, "para": false, "head": false, "pos": 37}
 {"t": "ipso", "leaf": 127, "row": 5, "para": false, "head": false, "pos": 38}
-{"t": "ilia", "leaf": 127, "row": 5, "para": false, "head": false, "pos": 39}
+{"t": "illa", "leaf": 127, "row": 5, "para": false, "head": false, "pos": 39}
+{"t": "persona", "leaf": 127, "row": 5, "para": false, "head": false, "pos": 39}
 {"t": "legittime", "leaf": 127, "row": 5, "para": false, "head": false, "pos": 40}
 {"t": "est", "leaf": 127, "row": 6, "para": false, "head": false, "pos": 41}
 {"t": "electa;", "leaf": 127, "row": 6, "para": false, "head": false, "pos": 42}
@@ -150,8 +151,8 @@
 {"t": "dogmatizatur", "leaf": 127, "row": 22, "para": false, "head": false, "pos": 149}
 {"t": "peccandum", "leaf": 127, "row": 22, "para": false, "head": false, "pos": 150}
 {"t": "esse", "leaf": 127, "row": 22, "para": false, "head": false, "pos": 151}
-{"t": "iit", "leaf": 127, "row": 22, "para": false, "head": false, "pos": 152}
-{"t": "bontim", "leaf": 127, "row": 23, "para": false, "head": false, "pos": 153}
+{"t": "ut", "leaf": 127, "row": 22, "para": false, "head": false, "pos": 152}
+{"t": "bonum", "leaf": 127, "row": 23, "para": false, "head": false, "pos": 153}
 {"t": "eveniat.", "leaf": 127, "row": 23, "para": false, "head": false, "pos": 154}
 {"t": "Constat", "leaf": 127, "row": 23, "para": false, "head": false, "pos": 155}
 {"t": "quidem", "leaf": 127, "row": 23, "para": false, "head": false, "pos": 156}

@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 11	R2	latinworks19wycl=iniuste | johanniswyclift00mattgoog=iniuste | johanniswyclift01mattgoog=iniiisle | tractatusdepotes00wycl=iniuste		4	accept
-24	R3	latinworks19wycl=iudicare | johanniswyclift00mattgoog=indicare | tractatusdepotes00wycl=iudicare		3	plate
+24	PLATE	latinworks19wycl=iudicare | johanniswyclift00mattgoog=indicare | tractatusdepotes00wycl=iudicare		3	accept
 32	R2	latinworks19wycl=furta | johanniswyclift00mattgoog=furta | johanniswyclift01mattgoog=fttrta | tractatusdepotes00wycl=furta		4	accept
 38	R2	latinworks19wycl=impudicos | johanniswyclift00mattgoog=intptidicos | johanniswyclift01mattgoog=iutpudicos | tractatusdepotes00wycl=impudicos		4	accept
 99	R2	latinworks19wycl=suos | johanniswyclift00mattgoog=stios | johanniswyclift01mattgoog=suos | tractatusdepotes00wycl=suos		4	accept
@@ -9,7 +9,7 @@ pos	rule	forms	support	voters	resolution
 121	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 122	R2	latinworks19wycl=cuius | johanniswyclift00mattgoog=cuius | johanniswyclift01mattgoog=citins | tractatusdepotes00wycl=cuius		4	accept
 126	R2	latinworks19wycl=hec | johanniswyclift00mattgoog=hec | johanniswyclift01mattgoog=htc | tractatusdepotes00wycl=hec		4	accept
-133	R3	latinworks19wycl=regem | johanniswyclift00mattgoog=regent | johanniswyclift01mattgoog=regent | tractatusdepotes00wycl=regem		4	plate
+133	PLATE	latinworks19wycl=regem | johanniswyclift00mattgoog=regent | johanniswyclift01mattgoog=regent | tractatusdepotes00wycl=regem		4	accept
 138	R2	latinworks19wycl=perducunt | johanniswyclift00mattgoog=pcrducunt | johanniswyclift01mattgoog=pcrdnctnit | tractatusdepotes00wycl=perduciint		4	accept
 148	R3a	latinworks19wycl=opposito | johanniswyclift00mattgoog=opposite | johanniswyclift01mattgoog=opposito | tractatusdepotes00wycl=opposito		4	accept
 150	R3a	latinworks19wycl=oui | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=qui		4	accept
@@ -20,11 +20,11 @@ pos	rule	forms	support	voters	resolution
 177	R2	latinworks19wycl=dimiuuuntur | johanniswyclift00mattgoog=diminuuntur | johanniswyclift01mattgoog=diniinnunlur | tractatusdepotes00wycl=diminuuntur		4	accept
 179	R2	latinworks19wycl=populoruni | johanniswyclift00mattgoog=populorum | johanniswyclift01mattgoog=popniornm | tractatusdepotes00wycl=popuiorum		4	accept
 180	R4a	latinworks19wycl=prepediuutur | johanniswyclift00mattgoog=prepediuntnr | johanniswyclift01mattgoog=prepediuntnr | tractatusdepotes00wycl=prepediuntur		4	accept
-181	R3	latinworks19wycl=mutti | johanniswyclift00mattgoog=multi | johanniswyclift01mattgoog=niulli | tractatusdepotes00wycl=multi		4	plate
+181	PLATE	latinworks19wycl=mutti | johanniswyclift00mattgoog=multi | johanniswyclift01mattgoog=niulli | tractatusdepotes00wycl=multi		4	accept
 182	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ci | tractatusdepotes00wycl=et		4	accept
 187	R2	latinworks19wycl=iuficiunt | johanniswyclift00mattgoog=iniicinnti | johanniswyclift01mattgoog=iniicitinf | tractatusdepotes00wycl=inficiunt		4	accept
 193	R2	latinworks19wycl=confert | johanniswyclift00mattgoog=confcrt | johanniswyclift01mattgoog=concrl | tractatusdepotes00wycl=confert		4	accept
-194	R4	latinworks19wycl=hostiuiu | johanniswyclift00mattgoog=hostiuiti | johanniswyclift01mattgoog=hostiuni | tractatusdepotes00wycl=hosthim		4	plate
+194	PLATE	latinworks19wycl=hostiuiu | johanniswyclift00mattgoog=hostiuiti | johanniswyclift01mattgoog=hostiuni | tractatusdepotes00wycl=hosthim		4	accept
 212	EDGE	latinworks19wycl=fecunditatem | tractatusdepotes00wycl=fecunditatem		2	accept
 213	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
 214	EDGE	latinworks19wycl=maris | tractatusdepotes00wycl=maris		2	accept

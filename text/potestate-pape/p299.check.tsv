@@ -2,10 +2,10 @@ pos	rule	forms	support	voters	resolution
 7	R2	latinworks19wycl=mutandum | johanniswyclift00mattgoog=mntandum | johanniswyclift01mattgoog=mntunduni | tractatusdepotes00wycl=mutandum		4	accept
 17	R2	latinworks19wycl=aurum | johanniswyclift00mattgoog=aurunt | johanniswyclift01mattgoog=aiimnt | tractatusdepotes00wycl=aurum		4	accept
 42	R2	latinworks19wycl=fratribus | johanniswyclift00mattgoog=fratribus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fratribus		4	accept
-77	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=llla		4	plate
+77	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=llla		4	accept
 92	R3a	latinworks19wycl=nostre | johanniswyclift00mattgoog=nostre | johanniswyclift01mattgoog=nostra | tractatusdepotes00wycl=nostre		4	accept
 144	R3a	latinworks19wycl=si | johanniswyclift00mattgoog=si | johanniswyclift01mattgoog=5 | tractatusdepotes00wycl=si		4	accept
-153	NW	latinworks19wycl=habcs | johanniswyclift00mattgoog=habcs | johanniswyclift01mattgoog=habcs | tractatusdepotes00wycl=habes		4	plate
+153	PLATE	latinworks19wycl=habcs | johanniswyclift00mattgoog=habcs | johanniswyclift01mattgoog=habcs | tractatusdepotes00wycl=habes		4	accept
 154	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
 157	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=d | tractatusdepotes00wycl=et		4	accept
 158	R3a	latinworks19wycl=ueni | johanniswyclift00mattgoog=ueni | johanniswyclift01mattgoog=uent | tractatusdepotes00wycl=ueni		4	accept

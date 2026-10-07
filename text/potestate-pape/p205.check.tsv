@@ -7,10 +7,10 @@ pos	rule	forms	support	voters	resolution
 22	R2	latinworks19wycl=putatis | johanniswyclift00mattgoog=ptitaiis | johanniswyclift01mattgoog=piitatis | tractatusdepotes00wycl=putatis		4	accept
 23	R2	latinworks19wycl=ligare | johanniswyclift00mattgoog=ligare | johanniswyclift01mattgoog=iifure | tractatusdepotes00wycl=ligare		4	accept
 24	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
-35	R3	latinworks19wycl=autem | johanniswyclift00mattgoog=antem | johanniswyclift01mattgoog=auletii | tractatusdepotes00wycl=autem		4	plate
+35	PLATE	latinworks19wycl=autem | johanniswyclift00mattgoog=antem | johanniswyclift01mattgoog=auletii | tractatusdepotes00wycl=autem		4	accept
 37	R2	latinworks19wycl=uestra | johanniswyclift00mattgoog=uestra | johanniswyclift01mattgoog=uelra | tractatusdepotes00wycl=uestra		4	accept
 40	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=non		4	accept
 176	R2	latinworks19wycl=est | johanniswyclift00mattgoog=2cxo | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
 199	R2	latinworks19wycl=augustinus | johanniswyclift00mattgoog=angus | johanniswyclift01mattgoog=augustinus | tractatusdepotes00wycl=augustinus		4	accept
 205	R5a	latinworks19wycl=liii | johanniswyclift00mattgoog=liii | johanniswyclift01mattgoog=llii | tractatusdepotes00wycl=liii		4	accept
-209	THIN	latinworks19wycl=uirgiginalis | tractatusdepotes00wycl=uirgiginalis		2	plate
+209	PLATE	latinworks19wycl=uirgiginalis | tractatusdepotes00wycl=uirgiginalis		2	accept

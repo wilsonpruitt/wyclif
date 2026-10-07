@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
 31	R3a	latinworks19wycl=pape | johanniswyclift00mattgoog=pape | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=pape		4	accept
-41	R5	latinworks19wycl=marcellmi | johanniswyclift01mattgoog=marcellini | tractatusdepotes00wycl=marcellini		3	plate
+41	PLATE	latinworks19wycl=marcellmi | johanniswyclift01mattgoog=marcellini | tractatusdepotes00wycl=marcellini		3	accept
 82	R3a	latinworks19wycl=reprehendi | johanniswyclift00mattgoog=reprehend | johanniswyclift01mattgoog=reprehendi | tractatusdepotes00wycl=reprehendi		4	accept
 87	R3a	latinworks19wycl=beati | johanniswyclift00mattgoog=beat | johanniswyclift01mattgoog=beati | tractatusdepotes00wycl=beati		4	accept
 112	R2	latinworks19wycl=quamlibet | johanniswyclift00mattgoog=qtiamlibet | johanniswyclift01mattgoog=qtiamlibct | tractatusdepotes00wycl=quamlibet		4	accept
-114	R3	latinworks19wycl=suam | johanniswyclift00mattgoog=siiam | johanniswyclift01mattgoog=sitam | tractatusdepotes00wycl=suam		4	plate
+114	PLATE	latinworks19wycl=suam | johanniswyclift00mattgoog=siiam | johanniswyclift01mattgoog=sitam | tractatusdepotes00wycl=suam		4	accept
 117	R2	latinworks19wycl=numero | johanniswyclift00mattgoog=numero | johanniswyclift01mattgoog=nutncro | tractatusdepotes00wycl=numero		4	accept
 125	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=uitrizuni | tractatusdepotes00wycl=et		4	accept
 164	R5a	latinworks19wycl=exod | johanniswyclift00mattgoog=exod | johanniswyclift01mattgoog=exod | tractatusdepotes00wycl=exod		4	accept

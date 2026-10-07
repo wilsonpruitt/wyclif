@@ -2,16 +2,16 @@ pos	rule	forms	support	voters	resolution
 43	R2	latinworks19wycl=3ei | johanniswyclift00mattgoog=gi | johanniswyclift01mattgoog=ggi | tractatusdepotes00wycl=gei		4	accept
 57	R2	latinworks19wycl=dum | johanniswyclift00mattgoog=dirni | johanniswyclift01mattgoog=dum | tractatusdepotes00wycl=dum		4	accept
 107	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-110	R4	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10		4	plate
-125	NW	latinworks19wycl=por | johanniswyclift00mattgoog=por | johanniswyclift01mattgoog=por | tractatusdepotes00wycl=por		4	plate
-126	NW	latinworks19wycl=tamus | johanniswyclift00mattgoog=tamus | johanniswyclift01mattgoog=tanius | tractatusdepotes00wycl=tamus		4	plate
-131	INS?	a	2	4	plate
-158	NW	latinworks19wycl=planeta | johanniswyclift00mattgoog=planeta | johanniswyclift01mattgoog=planeta | tractatusdepotes00wycl=planeta		4	plate
+110	PLATE	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10		4	accept
+125	PLATE	latinworks19wycl=por | johanniswyclift00mattgoog=por | johanniswyclift01mattgoog=por | tractatusdepotes00wycl=por		4	accept
+126	PLATE	latinworks19wycl=tamus | johanniswyclift00mattgoog=tamus | johanniswyclift01mattgoog=tanius | tractatusdepotes00wycl=tamus		4	accept
+131	INS?	a	2	4	plate: a
+158	PLATE	latinworks19wycl=planeta | johanniswyclift00mattgoog=planeta | johanniswyclift01mattgoog=planeta | tractatusdepotes00wycl=planeta		4	accept
 171	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 174	R2	latinworks19wycl=hix | johanniswyclift00mattgoog=lux | johanniswyclift01mattgoog=lux | tractatusdepotes00wycl=lux		4	accept
 177	R2	latinworks19wycl=hominibus | johanniswyclift00mattgoog=hominibus | johanniswyclift01mattgoog=houiihibus | tractatusdepotes00wycl=hominibus		4	accept
-178	R4	latinworks19wycl=daimatic | johanniswyclift00mattgoog=g | johanniswyclift01mattgoog=g | tractatusdepotes00wycl=it		4	plate
+178	PLATE	latinworks19wycl=daimatic | johanniswyclift00mattgoog=g | johanniswyclift01mattgoog=g | tractatusdepotes00wycl=it		4	accept
 179	R3a	latinworks19wycl=es | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
 180	R2	latinworks19wycl=amd | johanniswyclift00mattgoog=aliud | johanniswyclift01mattgoog=aliud | tractatusdepotes00wycl=aliud		4	accept
-188	NW	latinworks19wycl=leuite | johanniswyclift00mattgoog=leuite | johanniswyclift01mattgoog=leuite | tractatusdepotes00wycl=leuite		4	plate
+188	PLATE	latinworks19wycl=leuite | johanniswyclift00mattgoog=leuite | johanniswyclift01mattgoog=leuite | tractatusdepotes00wycl=leuite		4	accept
 199	R3a	latinworks19wycl=primo | johanniswyclift00mattgoog=prime | johanniswyclift01mattgoog=primo | tractatusdepotes00wycl=primo		4	accept

@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 10	R2	latinworks19wycl=nunquam | johanniswyclift00mattgoog=nunquam | johanniswyclift01mattgoog=motquam | tractatusdepotes00wycl=nunquam		4	accept
-15	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	plate
+15	PLATE	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
 17	R5a	latinworks19wycl=iilii | johanniswyclift00mattgoog=fiiii | johanniswyclift01mattgoog=iilii | tractatusdepotes00wycl=iiiii		4	accept
 18	R2	latinworks19wycl=eitts | johanniswyclift00mattgoog=eins | johanniswyclift01mattgoog=eius | tractatusdepotes00wycl=eius		4	accept
 21	R2	latinworks19wycl=benedictunt | johanniswyclift00mattgoog=benedictum | johanniswyclift01mattgoog=behediclnnt | tractatusdepotes00wycl=benedictum		4	accept
@@ -14,7 +14,7 @@ pos	rule	forms	support	voters	resolution
 59	R2	latinworks19wycl=exeqnendas | johanniswyclift00mattgoog=exequendas | johanniswyclift01mattgoog=exibenedictus | tractatusdepotes00wycl=exequendas		4	accept
 67	R3a	latinworks19wycl=multis | johanniswyclift00mattgoog=mullis | johanniswyclift01mattgoog=multis | tractatusdepotes00wycl=multis		4	accept
 74	R2	latinworks19wycl=soltts | johanniswyclift00mattgoog=solus | johanniswyclift01mattgoog=solus | tractatusdepotes00wycl=sohts		4	accept
-77	R3	latinworks19wycl=impleret | johanniswyclift00mattgoog=impuret | johanniswyclift01mattgoog=impkrel | tractatusdepotes00wycl=impleret		4	plate
+77	PLATE	latinworks19wycl=impleret | johanniswyclift00mattgoog=impuret | johanniswyclift01mattgoog=impkrel | tractatusdepotes00wycl=impleret		4	accept
 82	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
 83	R2	latinworks19wycl=uno | johanniswyclift00mattgoog=uno | johanniswyclift01mattgoog=uho | tractatusdepotes00wycl=uno		4	accept
 86	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
@@ -28,4 +28,4 @@ pos	rule	forms	support	voters	resolution
 195	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=tiuud | tractatusdepotes00wycl=quod		4	accept
 203	R3a	latinworks19wycl=cardinalium | johanniswyclift00mattgoog=cardinalium | johanniswyclift01mattgoog=pupa | tractatusdepotes00wycl=cardinalium		4	accept
 204	R2	latinworks19wycl=papa | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=papa		4	accept
-209	THIN	latinworks19wycl=romadeciino		1	plate
+209	PLATE	latinworks19wycl=romadeciino		1	accept

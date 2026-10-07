@@ -3,7 +3,7 @@ pos	rule	forms	support	voters	resolution
 59	R3a	latinworks19wycl=carnis | johanniswyclift00mattgoog=camis | johanniswyclift01mattgoog=carnis | tractatusdepotes00wycl=carnis		4	accept
 92	R3a	latinworks19wycl=consorcium | johanniswyclift00mattgoog=consortium | johanniswyclift01mattgoog=consorcium | tractatusdepotes00wycl=consorcium		4	accept
 111	R3a	latinworks19wycl=munes | johanniswyclift00mattgoog=munes | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=munes		4	accept
-113	NW	latinworks19wycl=mduet | johanniswyclift00mattgoog=mduet | johanniswyclift01mattgoog=mduet | tractatusdepotes00wycl=mduet		4	plate
+113	PLATE	latinworks19wycl=mduet | johanniswyclift00mattgoog=mduet | johanniswyclift01mattgoog=mduet | tractatusdepotes00wycl=mduet		4	accept
 114	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=m		4	accept
 124	R2	latinworks19wycl=enim | johanniswyclift00mattgoog=enim | johanniswyclift01mattgoog=eitim | tractatusdepotes00wycl=enim		4	accept
 128	R3a	latinworks19wycl=ueteris | johanniswyclift00mattgoog=ueteris | johanniswyclift01mattgoog=ueleris | tractatusdepotes00wycl=ueteris		4	accept

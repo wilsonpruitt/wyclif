@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
-55	R3	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=gitur		4	plate
+55	PLATE	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=gitur		4	accept
 56	R2	latinworks19wycl=igitur | johanniswyclift00mattgoog=igitur | johanniswyclift01mattgoog=igitur | tractatusdepotes00wycl=∅		4	accept
 69	R2	latinworks19wycl=noc | johanniswyclift00mattgoog=hoc | johanniswyclift01mattgoog=hoc | tractatusdepotes00wycl=hoc		4	accept
 70	R3a	latinworks19wycl=octo | johanniswyclift00mattgoog=docto | johanniswyclift01mattgoog=docto | tractatusdepotes00wycl=docto		4	accept
-84	R4	latinworks19wycl=numana | johanniswyclift00mattgoog=biunana | johanniswyclift01mattgoog=humana | tractatusdepotes00wycl=numana		4	plate
+84	PLATE	latinworks19wycl=numana | johanniswyclift00mattgoog=biunana | johanniswyclift01mattgoog=humana | tractatusdepotes00wycl=numana		4	accept
 162	R2	latinworks19wycl=mnuxum | johanniswyclift00mattgoog=influxum | tractatusdepotes00wycl=lnfluxum		3	accept
 164	R4a	latinworks19wycl=preemmencie | johanniswyclift00mattgoog=preeminencie | tractatusdepotes00wycl=preemmencie		3	accept
-180	R4	latinworks19wycl=constat | johanniswyclift00mattgoog=co | johanniswyclift01mattgoog=constat | tractatusdepotes00wycl=co		4	plate
-181	INS?	stat	2	4	plate
-196	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+180	PLATE	latinworks19wycl=constat | johanniswyclift00mattgoog=co | johanniswyclift01mattgoog=constat | tractatusdepotes00wycl=co		4	accept
+181	INS?	stat	2	4	plate: ∅
+196	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept

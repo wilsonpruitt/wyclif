@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 16	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
-108	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
-129	R4	latinworks19wycl=ciuit | johanniswyclift00mattgoog=iciuit | johanniswyclift01mattgoog=ciuit | tractatusdepotes00wycl=iciuit		4	plate
+108	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
+129	PLATE	latinworks19wycl=ciuit | johanniswyclift00mattgoog=iciuit | johanniswyclift01mattgoog=ciuit | tractatusdepotes00wycl=iciuit		4	accept
 148	R2	latinworks19wycl=exitt | johanniswyclift00mattgoog=extti | johanniswyclift01mattgoog=exiii | tractatusdepotes00wycl=exiit		4	accept
 150	R2	latinworks19wycl=seminat | johanniswyclift00mattgoog=semtnai | johanniswyclift01mattgoog=seminal | tractatusdepotes00wycl=seminat		4	accept
 174	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=romana | tractatusdepotes00wycl=romana		4	accept

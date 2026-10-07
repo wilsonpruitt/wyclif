@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
-55	NW	latinworks19wycl=singulanter | johanniswyclift00mattgoog=singulariter | johanniswyclift01mattgoog=singulanter | tractatusdepotes00wycl=singulanter		4	plate
-65	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+55	PLATE	latinworks19wycl=singulanter | johanniswyclift00mattgoog=singulariter | johanniswyclift01mattgoog=singulanter | tractatusdepotes00wycl=singulanter		4	accept
+65	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 80	R5a	latinworks19wycl=heb | johanniswyclift00mattgoog=heb | johanniswyclift01mattgoog=heb | tractatusdepotes00wycl=heb		4	accept
 83	R5a	latinworks19wycl=heb | johanniswyclift00mattgoog=heb | johanniswyclift01mattgoog=heb | tractatusdepotes00wycl=heb		4	accept
 84	R5a	latinworks19wycl=uii | johanniswyclift00mattgoog=uii | johanniswyclift01mattgoog=uii | tractatusdepotes00wycl=uii		4	accept

@@ -10,7 +10,7 @@ pos	rule	forms	support	voters	resolution
 49	R3a	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicui | johanniswyclift01mattgoog=sictu | tractatusdepotes00wycl=sicut		4	accept
 59	R2	latinworks19wycl=suum | johanniswyclift00mattgoog=suum | johanniswyclift01mattgoog=stttim | tractatusdepotes00wycl=suum		4	accept
 83	R3a	latinworks19wycl=propter | johanniswyclift00mattgoog=propter | johanniswyclift01mattgoog=roter | tractatusdepotes00wycl=propter		4	accept
-88	R4	latinworks19wycl=ubii | johanniswyclift00mattgoog=ubii | johanniswyclift01mattgoog=nbi | tractatusdepotes00wycl=ubi		4	plate
+88	PLATE	latinworks19wycl=ubii | johanniswyclift00mattgoog=ubii | johanniswyclift01mattgoog=nbi | tractatusdepotes00wycl=ubi		4	accept
 99	R2	latinworks19wycl=pastor | johanniswyclift00mattgoog=pastor | johanniswyclift01mattgoog=uaslnr | tractatusdepotes00wycl=pastor		4	accept
 117	R3a	latinworks19wycl=potestatem | johanniswyclift00mattgoog=potestatem | johanniswyclift01mattgoog=pot | tractatusdepotes00wycl=potestatem		4	accept
 138	R3a	latinworks19wycl=plus | johanniswyclift00mattgoog=plus | johanniswyclift01mattgoog=5 | tractatusdepotes00wycl=plus		4	accept

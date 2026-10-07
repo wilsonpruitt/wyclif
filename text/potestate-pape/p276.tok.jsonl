@@ -101,7 +101,7 @@
 {"t": "omnino,", "leaf": 337, "row": 14, "para": false, "head": false, "pos": 100}
 {"t": "ne", "leaf": 337, "row": 14, "para": false, "head": false, "pos": 101}
 {"t": "ex", "leaf": 337, "row": 14, "para": false, "head": false, "pos": 102}
-{"t": "pre-i", "leaf": 337, "row": 14, "para": false, "head": false, "pos": 103}
+{"t": "pre", "leaf": 337, "row": 14, "para": false, "head": false, "pos": 103}
 {"t": "sumpcione", "leaf": 337, "row": 15, "para": false, "head": false, "pos": 104}
 {"t": "temeraria", "leaf": 337, "row": 15, "para": false, "head": false, "pos": 105}
 {"t": "det", "leaf": 337, "row": 15, "para": false, "head": false, "pos": 106}
@@ -204,12 +204,8 @@
 {"t": "ordinum,", "leaf": 337, "row": 32, "para": false, "head": false, "pos": 203}
 {"t": "28.", "leaf": 337, "row": 34, "para": true, "head": false, "pos": 211}
 {"t": "St.", "leaf": 337, "row": 34, "para": false, "head": false, "pos": 212}
-{"t": "Dionysii", "leaf": 337, "row": 34, "para": false, "head": false, "pos": 213}
-{"t": "Arcop.", "leaf": 337, "row": 34, "para": false, "head": false, "pos": 214}
 {"t": "De", "leaf": 337, "row": 34, "para": false, "head": false, "pos": 215}
 {"t": "Eccles.", "leaf": 337, "row": 34, "para": false, "head": false, "pos": 216}
-{"t": "Hierarch.", "leaf": 337, "row": 34, "para": false, "head": false, "pos": 217}
 {"t": "(Ed.", "leaf": 337, "row": 34, "para": false, "head": false, "pos": 218}
-{"t": "Lugd.", "leaf": 337, "row": 34, "para": false, "head": false, "pos": 219}
 {"t": "pag.", "leaf": 337, "row": 35, "para": false, "head": false, "pos": 220}
 {"t": "151.", "leaf": 337, "row": 35, "para": false, "head": false, "pos": 221}

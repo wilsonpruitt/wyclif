@@ -13,6 +13,6 @@ pos	rule	forms	support	voters	resolution
 170	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=iu | tractatusdepotes00wycl=ut		4	accept
 172	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=iil | tractatusdepotes00wycl=ut		4	accept
 182	R2	latinworks19wycl=eorum | johanniswyclift00mattgoog=eorum | johanniswyclift01mattgoog=eorura | tractatusdepotes00wycl=eorum		4	accept
-200	NW	latinworks19wycl=animabus | johanniswyclift00mattgoog=animabus | johanniswyclift01mattgoog=animabus | tractatusdepotes00wycl=animabus		4	plate
+200	PLATE	latinworks19wycl=animabus | johanniswyclift00mattgoog=animabus | johanniswyclift01mattgoog=animabus | tractatusdepotes00wycl=animabus		4	accept
 213	R3a	latinworks19wycl=multas | johanniswyclift00mattgoog=multas | johanniswyclift01mattgoog=inultas | tractatusdepotes00wycl=multas		4	accept
 234	R5a	latinworks19wycl=iesu | johanniswyclift00mattgoog=iesu | johanniswyclift01mattgoog=iesu | tractatusdepotes00wycl=iesu		4	accept

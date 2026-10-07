@@ -1,8 +1,8 @@
 pos	rule	forms	support	voters	resolution
 7	R2	latinworks19wycl=mirum | johanniswyclift00mattgoog=mirum | johanniswyclift01mattgoog=ttiirum | tractatusdepotes00wycl=mirum		4	accept
 20	R2	latinworks19wycl=fructu | johanniswyclift00mattgoog=fhictu | johanniswyclift01mattgoog=fructu | tractatusdepotes00wycl=fructu		4	accept
-97	R6	latinworks19wycl=that | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=that		4	plate
+97	PLATE	latinworks19wycl=that | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=that		4	accept
 99	R3a	latinworks19wycl=contra | johanniswyclift00mattgoog=coutra | johanniswyclift01mattgoog=centra | tractatusdepotes00wycl=contra		4	accept
-114	NW	latinworks19wycl=utilitatem | johanniswyclift00mattgoog=utihtatem | johanniswyclift01mattgoog=utihtatem | tractatusdepotes00wycl=utihtatem		4	plate
+114	PLATE	latinworks19wycl=utilitatem | johanniswyclift00mattgoog=utihtatem | johanniswyclift01mattgoog=utihtatem | tractatusdepotes00wycl=utihtatem		4	accept
 209	EDGE	latinworks19wycl=hic | tractatusdepotes00wycl=hic		2	accept
 210	EDGE	latinworks19wycl=supponitur | tractatusdepotes00wycl=supponitur		2	accept

@@ -8,13 +8,13 @@ pos	rule	forms	support	voters	resolution
 128	R2	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicul | johanniswyclift01mattgoog=steal | tractatusdepotes00wycl=sicut		4	accept
 133	R2	latinworks19wycl=ordinatus | johanniswyclift00mattgoog=ordiuatus | johanniswyclift01mattgoog=ordiitiiius | tractatusdepotes00wycl=ordinatus		4	accept
 134	R3a	latinworks19wycl=nisi | johanniswyclift00mattgoog=nisi | johanniswyclift01mattgoog=hi | tractatusdepotes00wycl=nisi		4	accept
-138	R4	latinworks19wycl=miuistret | johanniswyclift00mattgoog=miuistret | johanniswyclift01mattgoog=niiuistrel | tractatusdepotes00wycl=ministret		4	plate
+138	PLATE	latinworks19wycl=miuistret | johanniswyclift00mattgoog=miuistret | johanniswyclift01mattgoog=niiuistrel | tractatusdepotes00wycl=ministret		4	accept
 139	R4a	latinworks19wycl=ofiicinm | johanniswyclift00mattgoog=ofiicium | johanniswyclift01mattgoog=ofiicium | tractatusdepotes00wycl=officium		4	accept
 141	R2	latinworks19wycl=eciam | johanniswyclift00mattgoog=eclam | johanniswyclift01mattgoog=ccimn | tractatusdepotes00wycl=eciam		4	accept
 142	R2	latinworks19wycl=maiora | johanniswyclift00mattgoog=maiora | johanniswyclift01mattgoog=maiuta | tractatusdepotes00wycl=maiora		4	accept
 147	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=non		4	accept
 150	R2	latinworks19wycl=iamen | johanniswyclift00mattgoog=tamen | johanniswyclift01mattgoog=lameh | tractatusdepotes00wycl=tamen		4	accept
-155	R3	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hou | tractatusdepotes00wycl=nou		4	plate
+155	PLATE	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hou | tractatusdepotes00wycl=nou		4	accept
 161	R2	latinworks19wycl=multorum | johanniswyclift00mattgoog=multorum | johanniswyclift01mattgoog=mtilturnm | tractatusdepotes00wycl=multorum		4	accept
 162	R3a	latinworks19wycl=tunc | johanniswyclift00mattgoog=tunc | johanniswyclift01mattgoog=time | tractatusdepotes00wycl=tunc		4	accept
-164	R4	latinworks19wycl=honore | johanniswyclift00mattgoog=itonorc | johanniswyclift01mattgoog=houore | tractatusdepotes00wycl=houore		4	plate
+164	PLATE	latinworks19wycl=honore | johanniswyclift00mattgoog=itonorc | johanniswyclift01mattgoog=houore | tractatusdepotes00wycl=houore		4	accept

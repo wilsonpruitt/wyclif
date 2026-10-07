@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
-0	HEAD	CAPITULUM SECUNDUM.			plate
+0	HEAD	CAPITULUM SECUNDUM.			plate: CAPITULUM SECUNDUM.
 2	EDGE	latinworks19wycl=has		1	accept
-132	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+132	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 151	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 168	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 174	R2	latinworks19wycl=intendere | johanniswyclift00mattgoog=intendere | johanniswyclift01mattgoog=inar | tractatusdepotes00wycl=in25		4	accept
-175	INS?	tendere	2	4	plate
-184	INS?	i	2	4	plate
+175	INS?	tendere	2	4	plate: ∅
+184	INS?	i	2	4	plate: ∅
 185	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
 193	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept

@@ -6,7 +6,7 @@ pos	rule	forms	support	voters	resolution
 125	R2	latinworks19wycl=morum | johanniswyclift00mattgoog=morum | johanniswyclift01mattgoog=soraorum | tractatusdepotes00wycl=omorum		4	accept
 158	R2	latinworks19wycl=de | johanniswyclift00mattgoog=de | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 159	R2	latinworks19wycl=exitu | johanniswyclift00mattgoog=exitu | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
-169	NW	latinworks19wycl=concomitanter | johanniswyclift00mattgoog=concomitanter | johanniswyclift01mattgoog=concomitanter | tractatusdepotes00wycl=concomitanter		4	plate
+169	PLATE	latinworks19wycl=concomitanter | johanniswyclift00mattgoog=concomitanter | johanniswyclift01mattgoog=concomitanter | tractatusdepotes00wycl=concomitanter		4	accept
 181	R2	latinworks19wycl=multe | johanniswyclift00mattgoog=multe | johanniswyclift01mattgoog=raulte | tractatusdepotes00wycl=multe		4	accept
 196	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 203	R2	latinworks19wycl=iniuncto | johanniswyclift00mattgoog=iniuncto | johanniswyclift01mattgoog=iniuitclo | tractatusdepotes00wycl=iniuncto		4	accept

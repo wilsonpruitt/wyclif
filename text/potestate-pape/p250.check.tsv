@@ -11,7 +11,7 @@ pos	rule	forms	support	voters	resolution
 67	R2	latinworks19wycl=minus | johanniswyclift00mattgoog=miftus | johanniswyclift01mattgoog=ihthtts | tractatusdepotes00wycl=minus		4	accept
 68	R2	latinworks19wycl=perite | johanniswyclift00mattgoog=perite | johanniswyclift01mattgoog=pcrtlc | tractatusdepotes00wycl=perite		4	accept
 69	R2	latinworks19wycl=aut | johanniswyclift00mattgoog=ant | johanniswyclift01mattgoog=iiitt | tractatusdepotes00wycl=aut		4	accept
-70	R3	latinworks19wycl=parum | johanniswyclift00mattgoog=parunt | johanniswyclift01mattgoog=pafuth | tractatusdepotes00wycl=parum		4	plate
+70	PLATE	latinworks19wycl=parum | johanniswyclift00mattgoog=parunt | johanniswyclift01mattgoog=pafuth | tractatusdepotes00wycl=parum		4	accept
 71	R3a	latinworks19wycl=caute | johanniswyclift00mattgoog=caute | johanniswyclift01mattgoog=cauie | tractatusdepotes00wycl=caute		4	accept
 81	R2	latinworks19wycl=sedem | johanniswyclift00mattgoog=sedem | johanniswyclift01mattgoog=sedetn | tractatusdepotes00wycl=sedem		4	accept
 83	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
@@ -23,13 +23,13 @@ pos	rule	forms	support	voters	resolution
 99	R2	latinworks19wycl=imperitum | johanniswyclift00mattgoog=imperitum | johanniswyclift01mattgoog=iuipertfitm | tractatusdepotes00wycl=imperitum		4	accept
 100	R2	latinworks19wycl=aut | johanniswyclift00mattgoog=autio | johanniswyclift01mattgoog=autii | tractatusdepotes00wycl=attt		4	accept
 104	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=ton | tractatusdepotes00wycl=non		4	accept
-107	R3	latinworks19wycl=hereticitm | johanniswyclift00mattgoog=hereticam | johanniswyclift01mattgoog=hereticum | tractatusdepotes00wycl=hereticum		4	plate
+107	PLATE	latinworks19wycl=hereticitm | johanniswyclift00mattgoog=hereticam | johanniswyclift01mattgoog=hereticum | tractatusdepotes00wycl=hereticum		4	accept
 109	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ex | tractatusdepotes00wycl=et		4	accept
 112	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=romana | tractatusdepotes00wycl=romana		4	accept
 119	R2	latinworks19wycl=concedente | johanniswyclift00mattgoog=concedente | johanniswyclift01mattgoog=cohcedaik | tractatusdepotes00wycl=concedente		4	accept
 127	R2	latinworks19wycl=futuro | johanniswyclift00mattgoog=fnturo | johanniswyclift01mattgoog=fnliiro | tractatusdepotes00wycl=futuro		4	accept
 129	R2	latinworks19wycl=sine | johanniswyclift00mattgoog=sine | johanniswyclift01mattgoog=sitte | tractatusdepotes00wycl=sine		4	accept
-130	R3	latinworks19wycl=ulta | johanniswyclift00mattgoog=uua | johanniswyclift01mattgoog=uua | tractatusdepotes00wycl=ulla		4	plate
+130	PLATE	latinworks19wycl=ulta | johanniswyclift00mattgoog=uua | johanniswyclift01mattgoog=uua | tractatusdepotes00wycl=ulla		4	accept
 134	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 148	R5a	latinworks19wycl=romane | johanniswyclift00mattgoog=romane | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept
 181	R2	latinworks19wycl=notare | johanniswyclift00mattgoog=tare | johanniswyclift01mattgoog=notir | tractatusdepotes00wycl=notare		4	accept

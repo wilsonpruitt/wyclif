@@ -1,15 +1,15 @@
 pos	rule	forms	support	voters	resolution
-6	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
-26	NW	latinworks19wycl=testinacionem | johanniswyclift00mattgoog=testinacionem | johanniswyclift01mattgoog=testinacionem | tractatusdepotes00wycl=testinacionem		4	plate
+6	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
+26	PLATE	latinworks19wycl=testinacionem | johanniswyclift00mattgoog=testinacionem | johanniswyclift01mattgoog=testinacionem | tractatusdepotes00wycl=testinacionem		4	accept
 38	R3a	latinworks19wycl=primo | johanniswyclift00mattgoog=prime | johanniswyclift01mattgoog=primo | tractatusdepotes00wycl=primo		4	accept
 89	R2	latinworks19wycl=sumus | johanniswyclift00mattgoog=sumus | johanniswyclift01mattgoog=siimns | tractatusdepotes00wycl=sumus		4	accept
 93	R3a	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=1 | tractatusdepotes00wycl=1		4	accept
 102	R2	latinworks19wycl=cuncta | johanniswyclift00mattgoog=cuncta | johanniswyclift01mattgoog=ciihctu | tractatusdepotes00wycl=cuncta		4	accept
 103	R2	latinworks19wycl=animalia | johanniswyclift00mattgoog=animalia | johanniswyclift01mattgoog=iimtmitlta | tractatusdepotes00wycl=animalia		4	accept
 104	R2	latinworks19wycl=terre | johanniswyclift00mattgoog=terre | johanniswyclift01mattgoog=lerrc | tractatusdepotes00wycl=terre		4	accept
-115	R3	latinworks19wycl=metum | johanniswyclift00mattgoog=metunt | johanniswyclift01mattgoog=tnetum | tractatusdepotes00wycl=metum		4	plate
+115	PLATE	latinworks19wycl=metum | johanniswyclift00mattgoog=metunt | johanniswyclift01mattgoog=tnetum | tractatusdepotes00wycl=metum		4	accept
 125	R2	latinworks19wycl=animalibus | johanniswyclift00mattgoog=animalibns | johanniswyclift01mattgoog=atiimalibiis | tractatusdepotes00wycl=animalibus		4	accept
 127	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=ex | tractatusdepotes00wycl=ex		4	accept
 168	R3a	latinworks19wycl=pastoris | johanniswyclift00mattgoog=pastoris | johanniswyclift01mattgoog=pastori | tractatusdepotes00wycl=pastoris		4	accept
 176	R2	latinworks19wycl=ad | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=ail | tractatusdepotes00wycl=ad		4	accept
-193	R4	latinworks19wycl=interopellet | johanniswyclift00mattgoog=interpellet | johanniswyclift01mattgoog=interpellet | tractatusdepotes00wycl=interopellet		4	plate
+193	PLATE	latinworks19wycl=interopellet | johanniswyclift00mattgoog=interpellet | johanniswyclift01mattgoog=interpellet | tractatusdepotes00wycl=interopellet		4	accept

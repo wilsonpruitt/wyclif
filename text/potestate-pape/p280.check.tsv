@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
-29	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | tractatusdepotes00wycl=sicut		3	plate
+29	PLATE	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | tractatusdepotes00wycl=sicut		3	accept
 42	R2	latinworks19wycl=aurum | johanniswyclift00mattgoog=aurum | johanniswyclift01mattgoog=aiirtiiii | tractatusdepotes00wycl=atirum		4	accept
-47	R3	latinworks19wycl=loquitur | johanniswyclift00mattgoog=quitur | johanniswyclift01mattgoog=quitur | tractatusdepotes00wycl=loquitur		4	plate
-52	R4	latinworks19wycl=coloris | johanniswyclift00mattgoog=cons | johanniswyclift01mattgoog=cons | tractatusdepotes00wycl=coloris		4	plate
+47	PLATE	latinworks19wycl=loquitur | johanniswyclift00mattgoog=quitur | johanniswyclift01mattgoog=quitur | tractatusdepotes00wycl=loquitur		4	accept
+52	PLATE	latinworks19wycl=coloris | johanniswyclift00mattgoog=cons | johanniswyclift01mattgoog=cons | tractatusdepotes00wycl=coloris		4	accept
 103	R3a	latinworks19wycl=uerme | johanniswyclift00mattgoog=uerme | johanniswyclift01mattgoog=uenne | tractatusdepotes00wycl=uerme		4	accept
-217	TAIL	3. Eodcm exemplo utitur W. De Civili Dominio I, 34, I. 26. 7. Prov. XVII, 3.	3	4	plate
+217	TAIL	3. Eodcm exemplo utitur W. De Civili Dominio I, 34, I. 26. 7. Prov. XVII, 3.	3	4	plate: ∅

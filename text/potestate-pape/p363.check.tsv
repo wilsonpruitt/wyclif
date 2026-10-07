@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 124	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=cum | tractatusdepotes00wycl=lum		4	accept
-132	R4	latinworks19wycl=sohuiusmodi | johanniswyclift00mattgoog=huiusmodi | johanniswyclift01mattgoog=huiusmodi | tractatusdepotes00wycl=sohuiusmodi		4	plate
+132	PLATE	latinworks19wycl=sohuiusmodi | johanniswyclift00mattgoog=huiusmodi | johanniswyclift01mattgoog=huiusmodi | tractatusdepotes00wycl=sohuiusmodi		4	accept
 153	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cunt | johanniswyclift01mattgoog=cum | tractatusdepotes00wycl=cum		4	accept
 154	R2	latinworks19wycl=curam | johanniswyclift00mattgoog=curam | johanniswyclift01mattgoog=ciiram | tractatusdepotes00wycl=curam		4	accept
 165	R2	latinworks19wycl=igitur | johanniswyclift00mattgoog=igitur | johanniswyclift01mattgoog=igiinr | tractatusdepotes00wycl=igitur		4	accept
@@ -9,7 +9,7 @@ pos	rule	forms	support	voters	resolution
 171	R2	latinworks19wycl=uiuunt | johanniswyclift00mattgoog=uiuunt | johanniswyclift01mattgoog=uiutml | tractatusdepotes00wycl=uiuunt		4	accept
 172	R2	latinworks19wycl=qua | johanniswyclift00mattgoog=qua | johanniswyclift01mattgoog=qtui | tractatusdepotes00wycl=qua		4	accept
 176	R3a	latinworks19wycl=properat | johanniswyclift00mattgoog=properat | johanniswyclift01mattgoog=properai | tractatusdepotes00wycl=properat		4	accept
-181	R3	latinworks19wycl=portat | johanniswyclift00mattgoog=portai | johanniswyclift01mattgoog=portal | tractatusdepotes00wycl=portat		4	plate
+181	PLATE	latinworks19wycl=portat | johanniswyclift00mattgoog=portai | johanniswyclift01mattgoog=portal | tractatusdepotes00wycl=portat		4	accept
 187	R2	latinworks19wycl=quisque | johanniswyclift00mattgoog=qnisque | johanniswyclift01mattgoog=qnisqnc | tractatusdepotes00wycl=quisque		4	accept
 190	R2	latinworks19wycl=locum | johanniswyclift00mattgoog=locum | johanniswyclift01mattgoog=loctim | tractatusdepotes00wycl=locum		4	accept
 192	R2	latinworks19wycl=assumere | johanniswyclift00mattgoog=assumere | johanniswyclift01mattgoog=assnmcte | tractatusdepotes00wycl=assumere		4	accept

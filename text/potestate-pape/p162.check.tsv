@@ -1,15 +1,15 @@
 pos	rule	forms	support	voters	resolution
-0	THIN	latinworks19wycl=omtiis		1	plate
+0	PLATE	latinworks19wycl=omtiis		1	accept
 1	EDGE	latinworks19wycl=homo | tractatusdepotes00wycl=homo		2	accept
 2	EDGE	latinworks19wycl=uiuit | tractatusdepotes00wycl=uiuit		2	accept
 3	EDGE	latinworks19wycl=tam | tractatusdepotes00wycl=tam		2	accept
 4	EDGE	latinworks19wycl=proprietarie | tractatusdepotes00wycl=proprietarie		2	accept
 5	EDGE	latinworks19wycl=quam | tractatusdepotes00wycl=quam		2	accept
-9	NW	latinworks19wycl=mponunt | johanniswyclift00mattgoog=mponunt | johanniswyclift01mattgoog=inponunt | tractatusdepotes00wycl=mponunt		4	plate
+9	PLATE	latinworks19wycl=mponunt | johanniswyclift00mattgoog=mponunt | johanniswyclift01mattgoog=inponunt | tractatusdepotes00wycl=mponunt		4	accept
 14	R2	latinworks19wycl=111 | johanniswyclift00mattgoog=111 | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=111		4	accept
 19	R4a	latinworks19wycl=nostns | johanniswyclift00mattgoog=nostris | johanniswyclift01mattgoog=nostriei | tractatusdepotes00wycl=nostns		4	accept
 29	R3a	latinworks19wycl=notum | johanniswyclift00mattgoog=notum | johanniswyclift01mattgoog=notum | tractatusdepotes00wycl=inlotum		4	accept
-36	R3	latinworks19wycl=preterito | johanniswyclift00mattgoog=preterite | johanniswyclift01mattgoog=preterite | tractatusdepotes00wycl=preterito		4	plate
-38	R4	latinworks19wycl=presenti | johanniswyclift00mattgoog=present | johanniswyclift01mattgoog=present | tractatusdepotes00wycl=presenti		4	plate
+36	PLATE	latinworks19wycl=preterito | johanniswyclift00mattgoog=preterite | johanniswyclift01mattgoog=preterite | tractatusdepotes00wycl=preterito		4	accept
+38	PLATE	latinworks19wycl=presenti | johanniswyclift00mattgoog=present | johanniswyclift01mattgoog=present | tractatusdepotes00wycl=presenti		4	accept
 105	R4a	latinworks19wycl=secularmm | johanniswyclift00mattgoog=seculanum | johanniswyclift01mattgoog=secularium | tractatusdepotes00wycl=secularmm		4	accept
 116	R3a	latinworks19wycl=ue | johanniswyclift00mattgoog=uel | johanniswyclift01mattgoog=uel | tractatusdepotes00wycl=uel		4	accept

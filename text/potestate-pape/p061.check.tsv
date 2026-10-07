@@ -9,7 +9,7 @@ pos	rule	forms	support	voters	resolution
 100	R6a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=of | tractatusdepotes00wycl=iretrus		4	accept
 132	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 163	R2	latinworks19wycl=augustinus | johanniswyclift00mattgoog=auguasstinus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=augustinus		4	accept
-164	R4	latinworks19wycl=atnat | johanniswyclift00mattgoog=amat | johanniswyclift01mattgoog=atnat | tractatusdepotes00wycl=amat		4	plate
+164	PLATE	latinworks19wycl=atnat | johanniswyclift00mattgoog=amat | johanniswyclift01mattgoog=atnat | tractatusdepotes00wycl=amat		4	accept
 165	R2	latinworks19wycl=nos | johanniswyclift00mattgoog=nos | johanniswyclift01mattgoog=ttos | tractatusdepotes00wycl=nos		4	accept
 167	R2	latinworks19wycl=miseros | johanniswyclift00mattgoog=miseros | johanniswyclift01mattgoog=uiistros | tractatusdepotes00wycl=miseros		4	accept
 168	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quam | johanniswyclift01mattgoog=quant | tractatusdepotes00wycl=quam		4	accept

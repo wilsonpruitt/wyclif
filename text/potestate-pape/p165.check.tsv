@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
-0	HEAD	CAPITULUM OCTAVUM.			plate
+0	HEAD	CAPITULUM OCTAVUM.			plate: CAPITULUM OCTAVUM.
 2	EDGE	latinworks19wycl=iam | tractatusdepotes00wycl=iam		2	accept
-9	R4	latinworks19wycl=pontificem | johanniswyclift00mattgoog=pontmcem | tractatusdepotes00wycl=pontmcem		3	plate
-69	R4	latinworks19wycl=et | johanniswyclift00mattgoog=el | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	plate
+9	PLATE	latinworks19wycl=pontificem | johanniswyclift00mattgoog=pontmcem | tractatusdepotes00wycl=pontmcem		3	accept
+69	PLATE	latinworks19wycl=et | johanniswyclift00mattgoog=el | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 70	R2	latinworks19wycl=uocabitur | johanniswyclift00mattgoog=uocahitur | johanniswyclift01mattgoog=uocuhifitr | tractatusdepotes00wycl=uocabitur		4	accept
 71	R2	latinworks19wycl=nomen | johanniswyclift00mattgoog=nomen | johanniswyclift01mattgoog=iiomcii | tractatusdepotes00wycl=nomen		4	accept
 73	R2	latinworks19wycl=admirabilis | johanniswyclift00mattgoog=admirabilis | johanniswyclift01mattgoog=ciiltmrnnlis | tractatusdepotes00wycl=admirabilis		4	accept
-75	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=dens		4	plate
+75	PLATE	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=dens		4	accept
 76	R3a	latinworks19wycl=fortis | johanniswyclift00mattgoog=fortis | johanniswyclift01mattgoog=foriis | tractatusdepotes00wycl=fortis		4	accept
 80	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=autera | tractatusdepotes00wycl=autem		4	accept
 90	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uill | tractatusdepotes00wycl=uiii		4	accept
@@ -16,10 +16,10 @@ pos	rule	forms	support	voters	resolution
 103	R2	latinworks19wycl=ieronimus | johanniswyclift00mattgoog=ieronimus | johanniswyclift01mattgoog=ieronifttiis | tractatusdepotes00wycl=ieronimus		4	accept
 113	R3a	latinworks19wycl=libros | johanniswyclift00mattgoog=libros | johanniswyclift01mattgoog=libras | tractatusdepotes00wycl=libros		4	accept
 114	R2	latinworks19wycl=beatissimi | johanniswyclift00mattgoog=beatissimi | johanniswyclift01mattgoog=bciuissimi | tractatusdepotes00wycl=beatissimi		4	accept
-119	R5	latinworks19wycl=sanctiiatem | johanniswyclift00mattgoog=sanctuatem | tractatusdepotes00wycl=sanctiiatem		3	plate
-125	R3	latinworks19wycl=quos | johanniswyclift00mattgoog=quos | johanniswyclift01mattgoog=qtios | tractatusdepotes00wycl=auos		4	plate
+119	PLATE	latinworks19wycl=sanctiiatem | johanniswyclift00mattgoog=sanctuatem | tractatusdepotes00wycl=sanctiiatem		3	accept
+125	PLATE	latinworks19wycl=quos | johanniswyclift00mattgoog=quos | johanniswyclift01mattgoog=qtios | tractatusdepotes00wycl=auos		4	accept
 127	R2	latinworks19wycl=nonnullos | johanniswyclift00mattgoog=nonnullos | johanniswyclift01mattgoog=nommllos | tractatusdepotes00wycl=nonnullos		4	accept
 128	R3a	latinworks19wycl=imperitissimos | johanniswyclift00mattgoog=imperii | johanniswyclift01mattgoog=imperiiissiinos | tractatusdepotes00wycl=imperitissimos		4	accept
 144	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
 153	R2	latinworks19wycl=pape | johanniswyclift00mattgoog=pape | johanniswyclift01mattgoog=pape | tractatusdepotes00wycl=ibpapeaurelio		4	accept
-154	R4	latinworks19wycl=aurelio | johanniswyclift00mattgoog=aurelio | johanniswyclift01mattgoog=aiirclio | tractatusdepotes00wycl=∅		4	plate
+154	PLATE	latinworks19wycl=aurelio | johanniswyclift00mattgoog=aurelio | johanniswyclift01mattgoog=aiirclio | tractatusdepotes00wycl=∅		4	accept

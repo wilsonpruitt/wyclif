@@ -5,7 +5,7 @@ pos	rule	forms	support	voters	resolution
 42	R6a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petnim | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
 73	R3a	latinworks19wycl=porte | johanniswyclift00mattgoog=porte | johanniswyclift01mattgoog=porta | tractatusdepotes00wycl=porte		4	accept
 87	R2	latinworks19wycl=sanguisuge | johanniswyclift01mattgoog=satttiisuge | tractatusdepotes00wycl=sanguisuge		3	accept
-93	R3	latinworks19wycl=affer | johanniswyclift01mattgoog=offer | tractatusdepotes00wycl=affer		3	plate
+93	PLATE	latinworks19wycl=affer | johanniswyclift01mattgoog=offer | tractatusdepotes00wycl=affer		3	accept
 107	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=rton | tractatusdepotes00wycl=non		4	accept
 117	R5a	latinworks19wycl=marci | johanniswyclift00mattgoog=marci | johanniswyclift01mattgoog=marci | tractatusdepotes00wycl=marci		4	accept
 128	R2	latinworks19wycl=qui | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=qtti		4	accept

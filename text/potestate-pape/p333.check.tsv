@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 30	R3a	latinworks19wycl=titubare | johanniswyclift00mattgoog=titubare | johanniswyclift01mattgoog=titubate | tractatusdepotes00wycl=titubare		4	accept
-114	R3	latinworks19wycl=ydolorum | johanniswyclift00mattgoog=ydolorum | johanniswyclift01mattgoog=idolorum | tractatusdepotes00wycl=irdolorum		4	plate
-136	R3	latinworks19wycl=dommari | johanniswyclift00mattgoog=dominari | johanniswyclift01mattgoog=doniinan | tractatusdepotes00wycl=dominari		4	plate
-142	NW	latinworks19wycl=dommacio | johanniswyclift00mattgoog=dominacio | johanniswyclift01mattgoog=doramacio | tractatusdepotes00wycl=dommacio		4	plate
+114	PLATE	latinworks19wycl=ydolorum | johanniswyclift00mattgoog=ydolorum | johanniswyclift01mattgoog=idolorum | tractatusdepotes00wycl=irdolorum		4	accept
+136	PLATE	latinworks19wycl=dommari | johanniswyclift00mattgoog=dominari | johanniswyclift01mattgoog=doniinan | tractatusdepotes00wycl=dominari		4	accept
+142	PLATE	latinworks19wycl=dommacio | johanniswyclift00mattgoog=dominacio | johanniswyclift01mattgoog=doramacio | tractatusdepotes00wycl=dommacio		4	accept
 164	R2	latinworks19wycl=uitam | johanniswyclift00mattgoog=uitam | johanniswyclift01mattgoog=uitara | tractatusdepotes00wycl=uitam		4	accept
 201	R2	latinworks19wycl=suam | johanniswyclift00mattgoog=suam | johanniswyclift01mattgoog=suara | tractatusdepotes00wycl=suam		4	accept

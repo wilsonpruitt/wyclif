@@ -1,16 +1,16 @@
 pos	rule	forms	support	voters	resolution
 29	R5a	latinworks19wycl=uii | johanniswyclift00mattgoog=uii | johanniswyclift01mattgoog=uii | tractatusdepotes00wycl=uii		4	accept
-41	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ni | tractatusdepotes00wycl=ut		4	plate
+41	PLATE	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ni | tractatusdepotes00wycl=ut		4	accept
 42	R2	latinworks19wycl=non | johanniswyclift00mattgoog=nan | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=non		4	accept
 43	R2	latinworks19wycl=sohim | johanniswyclift00mattgoog=solum | johanniswyclift01mattgoog=solum | tractatusdepotes00wycl=solum		4	accept
 45	R2	latinworks19wycl=magni | johanniswyclift00mattgoog=magni | johanniswyclift01mattgoog=magtti | tractatusdepotes00wycl=magni		4	accept
-46	R4	latinworks19wycl=canis | johanniswyclift00mattgoog=cants | johanniswyclift01mattgoog=cants | tractatusdepotes00wycl=canis		4	plate
+46	PLATE	latinworks19wycl=canis | johanniswyclift00mattgoog=cants | johanniswyclift01mattgoog=cants | tractatusdepotes00wycl=canis		4	accept
 50	R2	latinworks19wycl=modo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=tnodo | tractatusdepotes00wycl=modo		4	accept
 51	R3a	latinworks19wycl=insuper | johanniswyclift00mattgoog=insuper | johanniswyclift01mattgoog=instiper | tractatusdepotes00wycl=insuper		4	accept
-72	NW	latinworks19wycl=contratas | johanniswyclift00mattgoog=contratas | johanniswyclift01mattgoog=contratas | tractatusdepotes00wycl=contratas		4	plate
+72	PLATE	latinworks19wycl=contratas | johanniswyclift00mattgoog=contratas | johanniswyclift01mattgoog=contratas | tractatusdepotes00wycl=contratas		4	accept
 74	R3a	latinworks19wycl=multe | johanniswyclift00mattgoog=multe | johanniswyclift01mattgoog=multo | tractatusdepotes00wycl=multe		4	accept
 85	R2	latinworks19wycl=locum | johanniswyclift00mattgoog=locum | johanniswyclift01mattgoog=locutn | tractatusdepotes00wycl=locum		4	accept
-86	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+86	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
 102	R2	latinworks19wycl=ardmacanus | johanniswyclift00mattgoog=ardmacanus | johanniswyclift01mattgoog=ardii | tractatusdepotes00wycl=ardmacanus		4	accept
 105	R2	latinworks19wycl=mihi | johanniswyclift00mattgoog=afiai | johanniswyclift01mattgoog=mihif | tractatusdepotes00wycl=mihi		4	accept
 109	R2	latinworks19wycl=papatus | johanniswyclift00mattgoog=papatus | johanniswyclift01mattgoog=papahis | tractatusdepotes00wycl=papatus		4	accept

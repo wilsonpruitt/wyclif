@@ -4,7 +4,7 @@ pos	rule	forms	support	voters	resolution
 118	R2	latinworks19wycl=qitid | johanniswyclift00mattgoog=quid | johanniswyclift01mattgoog=quid | tractatusdepotes00wycl=quid		4	accept
 119	R2	latinworks19wycl=dimisit | johanniswyclift00mattgoog=dimisu | johanniswyclift01mattgoog=dhnisii | tractatusdepotes00wycl=dimisit		4	accept
 120	R3a	latinworks19wycl=tibi | johanniswyclift00mattgoog=hbi | johanniswyclift01mattgoog=libi | tractatusdepotes00wycl=tibi		4	accept
-124	R4	latinworks19wycl=hdbeo | johanniswyclift00mattgoog=habeo | johanniswyclift01mattgoog=habeo | tractatusdepotes00wycl=hdbeo		4	plate
+124	PLATE	latinworks19wycl=hdbeo | johanniswyclift00mattgoog=habeo | johanniswyclift01mattgoog=habeo | tractatusdepotes00wycl=hdbeo		4	accept
 126	R3a	latinworks19wycl=tibi | johanniswyclift00mattgoog=ubi | johanniswyclift01mattgoog=tibi | tractatusdepotes00wycl=tibi		4	accept
 132	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non		4	accept
 136	R2	latinworks19wycl=argentum | johanniswyclift00mattgoog=argentum | johanniswyclift01mattgoog=argeulunt | tractatusdepotes00wycl=argentum		4	accept
@@ -13,11 +13,11 @@ pos	rule	forms	support	voters	resolution
 143	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non		4	accept
 149	R3a	latinworks19wycl=utere | johanniswyclift00mattgoog=utere | johanniswyclift01mattgoog=niere | tractatusdepotes00wycl=utere		4	accept
 150	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=non		4	accept
-159	R3	latinworks19wycl=iliis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=illis | tractatusdepotes00wycl=illis		4	plate
+159	PLATE	latinworks19wycl=iliis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=illis | tractatusdepotes00wycl=illis		4	accept
 161	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non		4	accept
 169	R2	latinworks19wycl=spectant | johanniswyclift00mattgoog=spectant | johanniswyclift01mattgoog=specianli | tractatusdepotes00wycl=spectani		4	accept
 170	R2	latinworks19wycl=cuiusmodi | johanniswyclift00mattgoog=cuiusmodi | johanniswyclift01mattgoog=ciiiusniodi | tractatusdepotes00wycl=cuiusmodi		4	accept
-172	R3	latinworks19wycl=diuicie | johanniswyclift00mattgoog=diuide | johanniswyclift01mattgoog=diuide | tractatusdepotes00wycl=diuicie		4	plate
+172	PLATE	latinworks19wycl=diuicie | johanniswyclift00mattgoog=diuide | johanniswyclift01mattgoog=diuide | tractatusdepotes00wycl=diuicie		4	accept
 180	R2	latinworks19wycl=usus | johanniswyclift00mattgoog=usus | johanniswyclift01mattgoog=i4sns | tractatusdepotes00wycl=usus		4	accept
 200	R2	latinworks19wycl=iure | johanniswyclift00mattgoog=iure | johanniswyclift01mattgoog=itire | tractatusdepotes00wycl=iure		4	accept
 205	R3a	latinworks19wycl=dare | johanniswyclift00mattgoog=dare | johanniswyclift01mattgoog=dure | tractatusdepotes00wycl=dare		4	accept

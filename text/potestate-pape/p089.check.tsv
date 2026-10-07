@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
 13	R2	latinworks19wycl=quomodocumque | johanniswyclift00mattgoog=quoiatdonporunu | johanniswyclift01mattgoog=quomodocumque | tractatusdepotes00wycl=quoiafon		4	accept
-14	INS?	modocumque	2	4	plate
+14	INS?	modocumque	2	4	plate: ∅
 51	R2	latinworks19wycl=1ii1 | johanniswyclift00mattgoog=illi | johanniswyclift01mattgoog=illi | tractatusdepotes00wycl=llli		4	accept
 52	R3a	latinworks19wycl=mentorie | johanniswyclift00mattgoog=meritorie | johanniswyclift01mattgoog=meritorie | tractatusdepotes00wycl=mentone		4	accept
-68	THIN	latinworks19wycl=nostns | tractatusdepotes00wycl=nostris		2	plate
-69	THIN	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	plate
-70	THIN	latinworks19wycl=pnas | tractatusdepotes00wycl=phas		2	plate
+68	PLATE	latinworks19wycl=nostns | tractatusdepotes00wycl=nostris		2	accept
+69	PLATE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept
+70	PLATE	latinworks19wycl=pnas | tractatusdepotes00wycl=phas		2	accept
 201	R2	latinworks19wycl=omnes | johanniswyclift00mattgoog=omnes | johanniswyclift01mattgoog=otnnes | tractatusdepotes00wycl=omnes		4	accept

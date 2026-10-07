@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
 4	R2	latinworks19wycl=tamen | johanniswyclift00mattgoog=tamen | johanniswyclift01mattgoog=taraen | tractatusdepotes00wycl=tamen		4	accept
-27	R4	latinworks19wycl=bisfamis | johanniswyclift00mattgoog=bicfamis | johanniswyclift01mattgoog=3biifamis | tractatusdepotes00wycl=biefamis		4	plate
+27	PLATE	latinworks19wycl=bisfamis | johanniswyclift00mattgoog=bicfamis | johanniswyclift01mattgoog=3biifamis | tractatusdepotes00wycl=biefamis		4	accept
 29	R3a	latinworks19wycl=coniugatis | johanniswyclift00mattgoog=coniuiratis | johanniswyclift01mattgoog=coniuiratis | tractatusdepotes00wycl=coniuaratis		4	accept
 87	R3a	latinworks19wycl=suo | johanniswyclift00mattgoog=suo | johanniswyclift01mattgoog=sue | tractatusdepotes00wycl=suo		4	accept
-98	R4	latinworks19wycl=5uel | johanniswyclift00mattgoog=uel | johanniswyclift01mattgoog=5uel | tractatusdepotes00wycl=uel		4	plate
+98	PLATE	latinworks19wycl=5uel | johanniswyclift00mattgoog=uel | johanniswyclift01mattgoog=5uel | tractatusdepotes00wycl=uel		4	accept
 119	R3a	latinworks19wycl=ai | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=ad | tractatusdepotes00wycl=ad		4	accept
-180	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+180	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 199	R3a	latinworks19wycl=generaoliter | johanniswyclift00mattgoog=generaliter | johanniswyclift01mattgoog=genera | tractatusdepotes00wycl=generaliter		4	accept
 217	R2	latinworks19wycl=licitis | johanniswyclift00mattgoog=ileitis | johanniswyclift01mattgoog=licitis | tractatusdepotes00wycl=licitis		4	accept

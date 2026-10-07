@@ -6,7 +6,7 @@ pos	rule	forms	support	voters	resolution
 49	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 59	R3a	latinworks19wycl=16 | johanniswyclift00mattgoog=16 | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=16		4	accept
 74	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-92	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+92	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
 97	R5a	latinworks19wycl=messiam | johanniswyclift00mattgoog=messiam | johanniswyclift01mattgoog=messiam | tractatusdepotes00wycl=messiam		4	accept
 129	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 135	R3a	latinworks19wycl=ouis | johanniswyclift00mattgoog=quis | johanniswyclift01mattgoog=quis | tractatusdepotes00wycl=quis		4	accept
@@ -14,11 +14,11 @@ pos	rule	forms	support	voters	resolution
 139	R2	latinworks19wycl=uincit | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=uiitcit | tractatusdepotes00wycl=uincit		4	accept
 145	R2	latinworks19wycl=ihesus | johanniswyclift00mattgoog=ihesus | johanniswyclift01mattgoog=ikestts | tractatusdepotes00wycl=ihesus		4	accept
 171	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-172	R4	latinworks19wycl=adomino | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=adomino		3	plate
+172	PLATE	latinworks19wycl=adomino | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=adomino		3	accept
 179	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 181	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=non		4	accept
 182	R2	latinworks19wycl=reuelauit | johanniswyclift00mattgoog=reuelauit | johanniswyclift01mattgoog=reuehwit | tractatusdepotes00wycl=reuelauit		4	accept
-186	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus		4	plate
+186	PLATE	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus		4	accept
 207	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 208	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 209	R2	latinworks19wycl=super | johanniswyclift00mattgoog=super | johanniswyclift01mattgoog=sttpcr | tractatusdepotes00wycl=super		4	accept

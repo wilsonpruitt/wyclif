@@ -1,5 +1,5 @@
 pos	rule	forms	support	voters	resolution
-50	R3	latinworks19wycl=christianus | johanniswyclift00mattgoog=christianus | johanniswyclift01mattgoog=chnstianus | tractatusdepotes00wycl=chnstianus		4	plate
+50	PLATE	latinworks19wycl=christianus | johanniswyclift00mattgoog=christianus | johanniswyclift01mattgoog=chnstianus | tractatusdepotes00wycl=chnstianus		4	accept
 85	R3a	latinworks19wycl=doctorum | johanniswyclift00mattgoog=doctorum | johanniswyclift01mattgoog=docturum | tractatusdepotes00wycl=doctorum		4	accept
 92	R3a	latinworks19wycl=composito | johanniswyclift00mattgoog=composite | johanniswyclift01mattgoog=composito | tractatusdepotes00wycl=composito		4	accept
 104	R3a	latinworks19wycl=separare | johanniswyclift00mattgoog=separare | johanniswyclift01mattgoog=separate | tractatusdepotes00wycl=separare		4	accept

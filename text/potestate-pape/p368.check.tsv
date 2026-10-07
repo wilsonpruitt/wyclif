@@ -1,5 +1,5 @@
 pos	rule	forms	support	voters	resolution
 6	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-45	R4	latinworks19wycl=testamenti | johanniswyclift00mattgoog=testament | johanniswyclift01mattgoog=testament | tractatusdepotes00wycl=testamenti		4	plate
-185	NW	latinworks19wycl=preemmencie | johanniswyclift00mattgoog=preemmencie | johanniswyclift01mattgoog=preeminencie | tractatusdepotes00wycl=preemmencie		4	plate
+45	PLATE	latinworks19wycl=testamenti | johanniswyclift00mattgoog=testament | johanniswyclift01mattgoog=testament | tractatusdepotes00wycl=testamenti		4	accept
+185	PLATE	latinworks19wycl=preemmencie | johanniswyclift00mattgoog=preemmencie | johanniswyclift01mattgoog=preeminencie | tractatusdepotes00wycl=preemmencie		4	accept
 190	R4a	latinworks19wycl=lllud | johanniswyclift00mattgoog=luud | johanniswyclift01mattgoog=illud | tractatusdepotes00wycl=lllud		4	accept

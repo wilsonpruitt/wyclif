@@ -2,8 +2,8 @@ pos	rule	forms	support	voters	resolution
 6	R3a	latinworks19wycl=parte | johanniswyclift00mattgoog=parte | johanniswyclift01mattgoog=parto | tractatusdepotes00wycl=parte		4	accept
 7	R3a	latinworks19wycl=uero | johanniswyclift00mattgoog=uero | johanniswyclift01mattgoog=uro | tractatusdepotes00wycl=uero		4	accept
 36	R2	latinworks19wycl=incomprehensibilis | johanniswyclift00mattgoog=incomprehenhopcof | johanniswyclift01mattgoog=incompreheniioicm | tractatusdepotes00wycl=incomprehensibilis		4	accept
-37	INS?	sibilis	2	4	plate
+37	INS?	sibilis	2	4	plate: ∅
 116	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=ex		4	accept
 135	R3a	latinworks19wycl=christianus | johanniswyclift00mattgoog=chnstianus | johanniswyclift01mattgoog=christianus | tractatusdepotes00wycl=christianus		4	accept
-194	NW	latinworks19wycl=difndencia | johanniswyclift00mattgoog=dimdencia | johanniswyclift01mattgoog=dimdencia | tractatusdepotes00wycl=ditlidencia		4	plate
+194	PLATE	latinworks19wycl=difndencia | johanniswyclift00mattgoog=dimdencia | johanniswyclift01mattgoog=dimdencia | tractatusdepotes00wycl=ditlidencia		4	accept
 195	R4a	latinworks19wycl=in | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=rn		4	accept

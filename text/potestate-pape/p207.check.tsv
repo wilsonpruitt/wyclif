@@ -6,7 +6,7 @@ pos	rule	forms	support	voters	resolution
 32	R3a	latinworks19wycl=ire | johanniswyclift00mattgoog=ire | johanniswyclift01mattgoog=e | tractatusdepotes00wycl=ire		4	accept
 41	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=it | tractatusdepotes00wycl=est		4	accept
 66	R2	latinworks19wycl=oiuxta | johanniswyclift00mattgoog=iuxta | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=iuxta		4	accept
-71	R4	latinworks19wycl=tnxta | johanniswyclift00mattgoog=itixia | johanniswyclift01mattgoog=luxia | tractatusdepotes00wycl=iuxta		4	plate
+71	PLATE	latinworks19wycl=tnxta | johanniswyclift00mattgoog=itixia | johanniswyclift01mattgoog=luxia | tractatusdepotes00wycl=iuxta		4	accept
 72	R2	latinworks19wycl=iter | johanniswyclift00mattgoog=iter | johanniswyclift01mattgoog=her | tractatusdepotes00wycl=iter		4	accept
 73	R2	latinworks19wycl=scandalum | johanniswyclift00mattgoog=scandatum | johanniswyclift01mattgoog=scaitialum | tractatusdepotes00wycl=scandaium		4	accept
 74	R3a	latinworks19wycl=postierunt | johanniswyclift00mattgoog=posuernnt | johanniswyclift01mattgoog=posueruut | tractatusdepotes00wycl=posuerunt		4	accept
@@ -14,5 +14,5 @@ pos	rule	forms	support	voters	resolution
 134	R2	latinworks19wycl=exaltat | johanniswyclift00mattgoog=exaliat | johanniswyclift01mattgoog=cxaltiit | tractatusdepotes00wycl=exaltat		4	accept
 135	R2	latinworks19wycl=humiliabiiur | johanniswyclift00mattgoog=humiliabitur | johanniswyclift01mattgoog=liumiliiihitur | tractatusdepotes00wycl=humitiabitur		4	accept
 138	R2	latinworks19wycl=se | johanniswyclift00mattgoog=se | johanniswyclift01mattgoog=ifs | tractatusdepotes00wycl=se		4	accept
-176	R3	latinworks19wycl=specu | johanniswyclift00mattgoog=speculo | johanniswyclift01mattgoog=speculo | tractatusdepotes00wycl=specu		4	plate
+176	PLATE	latinworks19wycl=specu | johanniswyclift00mattgoog=speculo | johanniswyclift01mattgoog=speculo | tractatusdepotes00wycl=specu		4	accept
 207	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=soet | tractatusdepotes00wycl=et		4	accept

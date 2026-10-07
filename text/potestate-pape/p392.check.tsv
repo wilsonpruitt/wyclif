@@ -1,15 +1,15 @@
 pos	rule	forms	support	voters	resolution
 17	R2	latinworks19wycl=regum | johanniswyclift00mattgoog=regm | johanniswyclift01mattgoog=regiira | tractatusdepotes00wycl=regum		4	accept
-49	NW	latinworks19wycl=preficiendo | johanniswyclift00mattgoog=preficiendo | johanniswyclift01mattgoog=preficiendo | tractatusdepotes00wycl=preficiendo		4	plate
+49	PLATE	latinworks19wycl=preficiendo | johanniswyclift00mattgoog=preficiendo | johanniswyclift01mattgoog=preficiendo | tractatusdepotes00wycl=preficiendo		4	accept
 50	R2	latinworks19wycl=chices | johanniswyclift00mattgoog=iuces | johanniswyclift01mattgoog=duces | tractatusdepotes00wycl=duces		4	accept
 83	R2	latinworks19wycl=ymo | johanniswyclift00mattgoog=ymo | johanniswyclift01mattgoog=yraoicum | tractatusdepotes00wycl=ymo		4	accept
 84	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=cum		4	accept
-109	INS?	i	2	4	plate
+109	INS?	i	2	4	plate: ∅
 126	R2	latinworks19wycl=sua | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=sua		4	accept
 165	R2	latinworks19wycl=qtiod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=quod		4	accept
 166	R2	latinworks19wycl=rector | johanniswyclift00mattgoog=rector | johanniswyclift01mattgoog=rcclof | tractatusdepotes00wycl=rector		4	accept
 169	R2	latinworks19wycl=cunctis | johanniswyclift00mattgoog=antctis | johanniswyclift01mattgoog=ciiiicis | tractatusdepotes00wycl=cunctis		4	accept
-170	R3	latinworks19wycl=contemplacione | johanniswyclift00mattgoog=coniemplacione | johanniswyclift01mattgoog=coittewpliciotte | tractatusdepotes00wycl=contemplacioue		4	plate
+170	PLATE	latinworks19wycl=contemplacione | johanniswyclift00mattgoog=coniemplacione | johanniswyclift01mattgoog=coittewpliciotte | tractatusdepotes00wycl=contemplacioue		4	accept
 171	R2	latinworks19wycl=suspensus | johanniswyclift00mattgoog=suspensns | johanniswyclift01mattgoog=shspensiis | tractatusdepotes00wycl=suspensus		4	accept
 172	R2	latinworks19wycl=internorum | johanniswyclift00mattgoog=iiiteruontui | johanniswyclift01mattgoog=intertwrum | tractatusdepotes00wycl=internorum		4	accept
 175	R2	latinworks19wycl=exteriorum | johanniswyclift00mattgoog=extcriornm | johanniswyclift01mattgoog=exurioriim | tractatusdepotes00wycl=extcriorum		4	accept

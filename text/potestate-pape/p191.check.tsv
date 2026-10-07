@@ -3,8 +3,8 @@ pos	rule	forms	support	voters	resolution
 32	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
 36	R4a	latinworks19wycl=christiani | johanniswyclift00mattgoog=christian | johanniswyclift01mattgoog=chnstiani | tractatusdepotes00wycl=chnstiani		4	accept
 45	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=dutttii | tractatusdepotes00wycl=autem		4	accept
-60	R3	latinworks19wycl=tidit | johanniswyclift00mattgoog=tulit | johanniswyclift01mattgoog=luii | tractatusdepotes00wycl=tulii		4	plate
+60	PLATE	latinworks19wycl=tidit | johanniswyclift00mattgoog=tulit | johanniswyclift01mattgoog=luii | tractatusdepotes00wycl=tulii		4	accept
 78	R2	latinworks19wycl=christianum | johanniswyclift00mattgoog=christianum | johanniswyclift01mattgoog=chrisliamim | tractatusdepotes00wycl=christianum		4	accept
 96	R2	latinworks19wycl=martyrium | johanniswyclift00mattgoog=martyrium | johanniswyclift01mattgoog=inartyriuitii | tractatusdepotes00wycl=martyrium		4	accept
 120	R2	latinworks19wycl=quecumque | johanniswyclift00mattgoog=quecumque | johanniswyclift01mattgoog=qnecutttqiie | tractatusdepotes00wycl=quecumque		4	accept
-201	THIN	latinworks19wycl=decoiiare		1	plate
+201	PLATE	latinworks19wycl=decoiiare		1	accept

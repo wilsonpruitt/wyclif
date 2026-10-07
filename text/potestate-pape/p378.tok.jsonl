@@ -44,7 +44,6 @@
 {"t": "facinoris", "leaf": 439, "row": 6, "para": false, "head": false, "pos": 43}
 {"t": "est", "leaf": 439, "row": 6, "para": false, "head": false, "pos": 44}
 {"t": "censendus.", "leaf": 439, "row": 6, "para": false, "head": false, "pos": 45}
-{"t": "or", "leaf": 439, "row": 7, "para": false, "head": false, "pos": 46}
 {"t": "Secundo", "leaf": 439, "row": 7, "para": false, "head": false, "pos": 47}
 {"t": "patet", "leaf": 439, "row": 7, "para": false, "head": false, "pos": 48}
 {"t": "quod", "leaf": 439, "row": 7, "para": false, "head": false, "pos": 49}
@@ -125,8 +124,9 @@
 {"t": "glossa", "leaf": 439, "row": 18, "para": false, "head": false, "pos": 124}
 {"t": "ordinaria", "leaf": 439, "row": 18, "para": false, "head": false, "pos": 125}
 {"t": "super", "leaf": 439, "row": 18, "para": false, "head": false, "pos": 126}
-{"t": "XXVquestione", "leaf": 439, "row": 19, "para": false, "head": false, "pos": 127}
-{"t": "Suut", "leaf": 439, "row": 19, "para": false, "head": false, "pos": 128}
+{"t": "XXV", "leaf": 439, "row": 19, "para": false, "head": false, "pos": 127}
+{"t": "questione", "leaf": 439, "row": 19, "para": false, "head": false, "pos": 127}
+{"t": "Sunt", "leaf": 439, "row": 19, "para": false, "head": false, "pos": 128}
 {"t": "quidam,", "leaf": 439, "row": 19, "para": false, "head": false, "pos": 129}
 {"t": "ubi", "leaf": 439, "row": 19, "para": false, "head": false, "pos": 130}
 {"t": "dicit", "leaf": 439, "row": 19, "para": false, "head": false, "pos": 131}
@@ -211,11 +211,8 @@
 {"t": "destrueret", "leaf": 439, "row": 31, "para": false, "head": false, "pos": 210}
 {"t": "quartum", "leaf": 439, "row": 31, "para": false, "head": false, "pos": 211}
 {"t": "regnum.", "leaf": 439, "row": 31, "para": false, "head": false, "pos": 212}
-{"t": "s.", "leaf": 439, "row": 32, "para": true, "head": false, "pos": 213}
 {"t": "Codd.", "leaf": 439, "row": 32, "para": false, "head": false, "pos": 214}
 {"t": "in", "leaf": 439, "row": 32, "para": false, "head": false, "pos": 215}
 {"t": "marg.:", "leaf": 439, "row": 32, "para": false, "head": false, "pos": 216}
 {"t": "Regis", "leaf": 439, "row": 32, "para": false, "head": false, "pos": 217}
-{"t": "qfjicium", "leaf": 439, "row": 32, "para": false, "head": false, "pos": 218}
-{"t": "tmpedtens", "leaf": 439, "row": 32, "para": false, "head": false, "pos": 219}
 {"t": "peccat.", "leaf": 439, "row": 32, "para": false, "head": false, "pos": 220}

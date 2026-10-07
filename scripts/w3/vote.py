@@ -448,6 +448,7 @@ def run(slug, first=None, last=None):
     item, offset = off['item'], int(off['offset'])
     first = int(first or off.get('first_page') or 1)
     last = int(last or off.get('last_page') or 9999)
+    prange = (first, last)                      # `last` is reused below for a word position
     base = f'{ROOT}/text/{slug}'
     raw_pivot = load(f'{base}/witnesses/{item}.jsonl')
     # heading lines in the pivot, by (leaf, line), for structure
@@ -534,7 +535,9 @@ def run(slug, first=None, last=None):
                     d = pick(decisions, pg, k, rule='HEAD')
                     if d and d['rule'] == 'HEAD':
                         checks.append((k, 'HEAD', htxt, '', '', 'plate: ' + d['reading']))
-                        out_tokens.append(dict(t=d['reading'], n=norm(d['reading']), hl=True, head_fixed=key, leaf=t['leaf'], line=t['line']))
+                        nothead = 'not a heading' in (d.get('note') or '').lower()   # a verse line read as one
+                        out_tokens.append(dict(t=d['reading'], n=norm(d['reading']), hl=not nothead, para=nothead,
+                                               head_fixed=key, leaf=t['leaf'], line=t['line']))
                         stats['PLATE'] += 1
                     else:
                         checks.append((k, 'HEAD', htxt, '', '', 'plate'))
@@ -840,7 +843,7 @@ def run(slug, first=None, last=None):
     old = set(open(p).read().split()) if os.path.exists(p) else set()
     open(p, 'w').write('\n'.join(sorted(old | agreed_new)) + '\n')
     words = sum(stats[r] for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'EDGE', 'R3', 'R4', 'R5', 'R6', 'THIN', 'DEL', 'PLATE'))
-    print(f'{slug} pp.{first}-{last}: {stats["pages"]} pages, mean voters {stats["voters"] / max(1, stats["pages"]):.1f}, {words} pivot words')
+    print(f'{slug} pp.{prange[0]}-{prange[1]}: {stats["pages"]} pages, mean voters {stats["voters"] / max(1, stats["pages"]):.1f}, {words} pivot words')
     for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'EDGE', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP', 'NW'):
         print(f'  {r:5} {stats[r]:6}  {100 * stats[r] / max(1, words):5.2f}%')
     print(f'  plate queue: {len(queue)}  ({1000 * len(queue) / max(1, words):.1f} per 1,000 words); '
@@ -848,7 +851,7 @@ def run(slug, first=None, last=None):
     for st_ in stale:
         print('   STALE', st_)
     for (pg_, w_), used in paramerge.items():
-        if not used and first <= pg_ <= last:
+        if not used and prange[0] <= pg_ <= prange[1]:
             print('   STALE paramerge', pg_, w_)
     return stats, queue
 

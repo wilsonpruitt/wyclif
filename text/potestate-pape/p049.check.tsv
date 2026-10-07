@@ -3,13 +3,13 @@ pos	rule	forms	support	voters	resolution
 56	R3a	latinworks19wycl=maxime | johanniswyclift00mattgoog=maxime | johanniswyclift01mattgoog=maxima | tractatusdepotes00wycl=maxime		4	accept
 62	R3a	latinworks19wycl=ioh | johanniswyclift00mattgoog=ion | johanniswyclift01mattgoog=ioh | tractatusdepotes00wycl=ioh		4	accept
 117	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-121	R4	latinworks19wycl=dbsit | johanniswyclift00mattgoog=absit | johanniswyclift01mattgoog=absu | tractatusdepotes00wycl=dbsit		4	plate
+121	PLATE	latinworks19wycl=dbsit | johanniswyclift00mattgoog=absit | johanniswyclift01mattgoog=absu | tractatusdepotes00wycl=dbsit		4	accept
 142	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
 170	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 177	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
 180	R2	latinworks19wycl=ipsum | johanniswyclift00mattgoog=ipsum | johanniswyclift01mattgoog=ipsiim | tractatusdepotes00wycl=ipsum		4	accept
 181	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
-194	R3	latinworks19wycl=io | johanniswyclift00mattgoog=10 | johanniswyclift01mattgoog=10 | tractatusdepotes00wycl=io		4	plate
+194	PLATE	latinworks19wycl=io | johanniswyclift00mattgoog=10 | johanniswyclift01mattgoog=10 | tractatusdepotes00wycl=io		4	accept
 201	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
 223	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 226	R2	latinworks19wycl=domino | johanniswyclift00mattgoog=domino | johanniswyclift01mattgoog=doramo | tractatusdepotes00wycl=domino		4	accept

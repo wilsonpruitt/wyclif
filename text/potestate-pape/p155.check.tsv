@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
 12	R3a	latinworks19wycl=iuit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=fuit | tractatusdepotes00wycl=tuit		4	accept
-29	R3	latinworks19wycl=carni | johanniswyclift00mattgoog=cami | johanniswyclift01mattgoog=cami | tractatusdepotes00wycl=carni		4	plate
-38	NW	latinworks19wycl=punctali | johanniswyclift00mattgoog=punctali | johanniswyclift01mattgoog=punctali | tractatusdepotes00wycl=punctali		4	plate
+29	PLATE	latinworks19wycl=carni | johanniswyclift00mattgoog=cami | johanniswyclift01mattgoog=cami | tractatusdepotes00wycl=carni		4	accept
+38	PLATE	latinworks19wycl=punctali | johanniswyclift00mattgoog=punctali | johanniswyclift01mattgoog=punctali | tractatusdepotes00wycl=punctali		4	accept
 66	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 115	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
 116	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
 117	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
-167	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+167	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
 193	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept

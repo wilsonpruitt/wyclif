@@ -3,10 +3,10 @@ pos	rule	forms	support	voters	resolution
 27	R2	latinworks19wycl=spiritualiter | johanniswyclift00mattgoog=spiritualiter | johanniswyclift01mattgoog=spiritualiter | tractatusdepotes00wycl=spm		4	accept
 33	R2	latinworks19wycl=autumpnales | johanniswyclift00mattgoog=antnmpnalcs | johanniswyclift01mattgoog=autumpmdes | tractatusdepotes00wycl=autumpnales		4	accept
 81	R3a	latinworks19wycl=quantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=ouantum		4	accept
-87	R3	latinworks19wycl=peccatum | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=ps | tractatusdepotes00wycl=peccatum		4	plate
+87	PLATE	latinworks19wycl=peccatum | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=ps | tractatusdepotes00wycl=peccatum		4	accept
 93	R2	latinworks19wycl=fluclns | johanniswyclift00mattgoog=flucius | johanniswyclift01mattgoog=iiucims | tractatusdepotes00wycl=fluctus		4	accept
-94	R4	latinworks19wycl=icui | johanniswyclift00mattgoog=iyi | johanniswyclift01mattgoog=iyi | tractatusdepotes00wycl=ym		4	plate
-95	R3	latinworks19wycl=maris | johanniswyclift00mattgoog=mauis | johanniswyclift01mattgoog=fiifis | tractatusdepotes00wycl=maris		4	plate
+94	PLATE	latinworks19wycl=icui | johanniswyclift00mattgoog=iyi | johanniswyclift01mattgoog=iyi | tractatusdepotes00wycl=ym		4	accept
+95	PLATE	latinworks19wycl=maris | johanniswyclift00mattgoog=mauis | johanniswyclift01mattgoog=fiifis | tractatusdepotes00wycl=maris		4	accept
 97	R3a	latinworks19wycl=suas | johanniswyclift00mattgoog=suas | johanniswyclift01mattgoog=sitas | tractatusdepotes00wycl=suas		4	accept
 140	R2	latinworks19wycl=t | johanniswyclift00mattgoog=icitur | johanniswyclift01mattgoog=icitur | tractatusdepotes00wycl=∅		4	accept
 141	R2	latinworks19wycl=dicitur | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=dicitur		4	accept

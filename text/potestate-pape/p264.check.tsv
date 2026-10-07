@@ -5,12 +5,12 @@ pos	rule	forms	support	voters	resolution
 117	R2	latinworks19wycl=nunc | johanniswyclift00mattgoog=ntmc | johanniswyclift01mattgoog=nunc | tractatusdepotes00wycl=nnnc		4	accept
 123	R2	latinworks19wycl=nullus | johanniswyclift00mattgoog=nnllns | johanniswyclift01mattgoog=tntlhts | tractatusdepotes00wycl=nullus		4	accept
 126	R2	latinworks19wycl=ausus | johanniswyclift00mattgoog=ausus | johanniswyclift01mattgoog=atisus | tractatusdepotes00wycl=ausus		4	accept
-129	R5	latinworks19wycl=marcellinum | johanniswyclift01mattgoog=marcellinnm | tractatusdepotes00wycl=marcellinum		3	plate
-130	R3	latinworks19wycl=papam | johanniswyclift01mattgoog=papant | tractatusdepotes00wycl=papam		3	plate
+129	PLATE	latinworks19wycl=marcellinum | johanniswyclift01mattgoog=marcellinnm | tractatusdepotes00wycl=marcellinum		3	accept
+130	PLATE	latinworks19wycl=papam | johanniswyclift01mattgoog=papant | tractatusdepotes00wycl=papam		3	accept
 132	R2	latinworks19wycl=seutenciam | johanniswyclift01mattgoog=schienciam | tractatusdepotes00wycl=sentenciam		3	accept
-141	R3	latinworks19wycl=uostro | johanniswyclift00mattgoog=nostro | johanniswyclift01mattgoog=nostra | tractatusdepotes00wycl=nostro		4	plate
-153	R5	latinworks19wycl=legemdei | johanniswyclift00mattgoog=legemdei | tractatusdepotes00wycl=legemdei		3	plate
-154	NW	latinworks19wycl=quain | johanniswyclift00mattgoog=quain | johanniswyclift01mattgoog=quain | tractatusdepotes00wycl=quain		4	plate
+141	PLATE	latinworks19wycl=uostro | johanniswyclift00mattgoog=nostro | johanniswyclift01mattgoog=nostra | tractatusdepotes00wycl=nostro		4	accept
+153	PLATE	latinworks19wycl=legemdei | johanniswyclift00mattgoog=legemdei | tractatusdepotes00wycl=legemdei		3	accept
+154	PLATE	latinworks19wycl=quain | johanniswyclift00mattgoog=quain | johanniswyclift01mattgoog=quain | tractatusdepotes00wycl=quain		4	accept
 159	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petruni | tractatusdepotes00wycl=petrum		4	accept
 170	R6a	latinworks19wycl=hcet | johanniswyclift00mattgoog=hcet | johanniswyclift01mattgoog=licet | tractatusdepotes00wycl=hcet		4	accept
 172	R3a	latinworks19wycl=corripere | johanniswyclift00mattgoog=compere | johanniswyclift01mattgoog=corripere | tractatusdepotes00wycl=corripere		4	accept

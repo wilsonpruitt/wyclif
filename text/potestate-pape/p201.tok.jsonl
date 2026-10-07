@@ -113,7 +113,7 @@
 {"t": "Apostoli", "leaf": 262, "row": 16, "para": false, "head": false, "pos": 112}
 {"t": "Phil.", "leaf": 262, "row": 17, "para": false, "head": false, "pos": 113}
 {"t": "primo:", "leaf": 262, "row": 17, "para": false, "head": false, "pos": 114}
-{"t": "Panhis", "leaf": 262, "row": 17, "para": false, "head": false, "pos": 115}
+{"t": "Paulus", "leaf": 262, "row": 17, "para": false, "head": false, "pos": 115}
 {"t": "et", "leaf": 262, "row": 17, "para": false, "head": false, "pos": 116}
 {"t": "Thymotheus,", "leaf": 262, "row": 17, "para": false, "head": false, "pos": 117}
 {"t": "servus", "leaf": 262, "row": 17, "para": false, "head": false, "pos": 118}
@@ -136,9 +136,9 @@
 {"t": "I.", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 135}
 {"t": "Pet.", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 136}
 {"t": "V,", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 137}
-{"t": "i,", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 138}
+{"t": "1,", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 138}
 {"t": "2:", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 139}
-{"t": "Seuiores", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 140}
+{"t": "Seniores", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 140}
 {"t": "igitur,", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 141}
 {"t": "qui", "leaf": 262, "row": 20, "para": false, "head": false, "pos": 142}
 {"t": "in", "leaf": 262, "row": 21, "para": false, "head": false, "pos": 143}
@@ -177,7 +177,7 @@
 {"t": "Jeronymi", "leaf": 262, "row": 25, "para": false, "head": false, "pos": 176}
 {"t": "sic", "leaf": 262, "row": 26, "para": false, "head": false, "pos": 177}
 {"t": "recitatur", "leaf": 262, "row": 26, "para": false, "head": false, "pos": 178}
-{"t": "expressms:", "leaf": 262, "row": 26, "para": false, "head": false, "pos": 179}
+{"t": "expressius:", "leaf": 262, "row": 26, "para": false, "head": false, "pos": 179}
 {"t": "Olym", "leaf": 262, "row": 26, "para": false, "head": false, "pos": 180}
 {"t": "idem", "leaf": 262, "row": 26, "para": false, "head": false, "pos": 181}
 {"t": "presbiter", "leaf": 262, "row": 26, "para": false, "head": false, "pos": 182}
@@ -185,7 +185,7 @@
 {"t": "et", "leaf": 262, "row": 27, "para": false, "head": false, "pos": 184}
 {"t": "episcopus,", "leaf": 262, "row": 27, "para": false, "head": false, "pos": 185}
 {"t": "et", "leaf": 262, "row": 27, "para": false, "head": false, "pos": 186}
-{"t": "autequam", "leaf": 262, "row": 27, "para": false, "head": false, "pos": 187}
+{"t": "antequam", "leaf": 262, "row": 27, "para": false, "head": false, "pos": 187}
 {"t": "instinctu", "leaf": 262, "row": 27, "para": false, "head": false, "pos": 188}
 {"t": "dyaboli", "leaf": 262, "row": 27, "para": false, "head": false, "pos": 189}
 {"t": "studia", "leaf": 262, "row": 27, "para": false, "head": false, "pos": 190}
@@ -198,7 +198,6 @@
 {"t": "populis:", "leaf": 262, "row": 28, "para": false, "head": false, "pos": 197}
 {"t": "Ego", "leaf": 262, "row": 28, "para": false, "head": false, "pos": 198}
 {"t": "sum", "leaf": 262, "row": 28, "para": false, "head": false, "pos": 199}
-{"t": "?o", "leaf": 262, "row": 29, "para": false, "head": false, "pos": 200}
 {"t": "Pauli,", "leaf": 262, "row": 29, "para": false, "head": false, "pos": 200}
 {"t": "ego", "leaf": 262, "row": 29, "para": false, "head": false, "pos": 201}
 {"t": "sum", "leaf": 262, "row": 29, "para": false, "head": false, "pos": 202}
@@ -235,14 +234,10 @@
 {"t": "consuetudine", "leaf": 262, "row": 33, "para": false, "head": false, "pos": 233}
 {"t": "quam", "leaf": 262, "row": 33, "para": false, "head": false, "pos": 234}
 {"t": "14.", "leaf": 262, "row": 34, "para": true, "head": false, "pos": 235}
-{"t": "Decr.", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 236}
 {"t": "Prima", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 237}
 {"t": "pars;", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 238}
 {"t": "Dist.", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 239}
-{"t": "XCIII,", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 240}
 {"t": "cap.", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 241}
 {"t": "XXIV.", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 242}
 {"t": "18.", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 243}
-{"t": "Pil.", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 244}
 {"t": "I,", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 245}
-{"t": "r.", "leaf": 262, "row": 34, "para": false, "head": false, "pos": 246}

@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 37	R3a	latinworks19wycl=faccio | johanniswyclift00mattgoog=faccio | johanniswyclift01mattgoog=faccio | tractatusdepotes00wycl=taccio		4	accept
-103	NW	latinworks19wycl=intrusoris | johanniswyclift00mattgoog=intrusoris | johanniswyclift01mattgoog=intrusoris | tractatusdepotes00wycl=intrusoris		4	plate
+103	PLATE	latinworks19wycl=intrusoris | johanniswyclift00mattgoog=intrusoris | johanniswyclift01mattgoog=intrusoris | tractatusdepotes00wycl=intrusoris		4	accept
 125	R3a	latinworks19wycl=uel | johanniswyclift00mattgoog=uel | johanniswyclift01mattgoog=uti | tractatusdepotes00wycl=uel		4	accept
 138	R3a	latinworks19wycl=mundo | johanniswyclift00mattgoog=mundo | johanniswyclift01mattgoog=inundo | tractatusdepotes00wycl=mundo		4	accept
 177	R5a	latinworks19wycl=xycena | johanniswyclift00mattgoog=nycena | johanniswyclift01mattgoog=nycena | tractatusdepotes00wycl=nycena		4	accept
@@ -8,7 +8,7 @@ pos	rule	forms	support	voters	resolution
 181	R2	latinworks19wycl=contulit | johanniswyclift00mattgoog=conttilu | johanniswyclift01mattgoog=coiihtlit | tractatusdepotes00wycl=contulit		4	accept
 183	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
 185	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ul | tractatusdepotes00wycl=ut		4	accept
-186	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | johanniswyclift01mattgoog=siciit | tractatusdepotes00wycl=sictit		4	plate
+186	PLATE	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | johanniswyclift01mattgoog=siciit | tractatusdepotes00wycl=sictit		4	accept
 187	R2	latinworks19wycl=augustus | johanniswyclift00mattgoog=augustus | johanniswyclift01mattgoog=anghsius | tractatusdepotes00wycl=augustus		4	accept
 194	R3a	latinworks19wycl=ceteris | johanniswyclift00mattgoog=ceteris | johanniswyclift01mattgoog=ceteris | tractatusdepotes00wycl=celeris		4	accept
 200	R2	latinworks19wycl=uelut | johanniswyclift00mattgoog=uelut | johanniswyclift01mattgoog=uelnl | tractatusdepotes00wycl=uelut		4	accept

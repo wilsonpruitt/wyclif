@@ -45,7 +45,7 @@
 {"t": "vicem", "leaf": 423, "row": 7, "para": false, "head": false, "pos": 44}
 {"t": "Christi", "leaf": 423, "row": 7, "para": false, "head": false, "pos": 45}
 {"t": "m", "leaf": 423, "row": 7, "para": false, "head": false, "pos": 46}
-{"t": "terns,", "leaf": 423, "row": 7, "para": false, "head": false, "pos": 47}
+{"t": "terris,", "leaf": 423, "row": 7, "para": false, "head": false, "pos": 47}
 {"t": "sic", "leaf": 423, "row": 8, "para": false, "head": false, "pos": 48}
 {"t": "quod", "leaf": 423, "row": 8, "para": false, "head": false, "pos": 49}
 {"t": "ipse", "leaf": 423, "row": 8, "para": false, "head": false, "pos": 50}
@@ -128,7 +128,8 @@
 {"t": "vocatur;", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 127}
 {"t": "igitur", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 128}
 {"t": "necesse", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 129}
-{"t": "estut", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 130}
+{"t": "est", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 130}
+{"t": "ut", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 130}
 {"t": "sit", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 131}
 {"t": "cogitacione", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 132}
 {"t": "mundus,", "leaf": 423, "row": 20, "para": false, "head": false, "pos": 133}
@@ -138,7 +139,6 @@
 {"t": "cunctis", "leaf": 423, "row": 21, "para": false, "head": false, "pos": 137}
 {"t": "contemplacione", "leaf": 423, "row": 21, "para": false, "head": false, "pos": 138}
 {"t": "suspensus.", "leaf": 423, "row": 21, "para": false, "head": false, "pos": 139}
-{"t": "true", "leaf": 423, "row": 23, "para": false, "head": false, "pos": 140}
 {"t": "Item,", "leaf": 423, "row": 23, "para": false, "head": false, "pos": 141}
 {"t": "ad", "leaf": 423, "row": 23, "para": false, "head": false, "pos": 142}
 {"t": "esse", "leaf": 423, "row": 23, "para": false, "head": false, "pos": 143}

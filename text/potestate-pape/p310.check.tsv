@@ -2,4 +2,4 @@ pos	rule	forms	support	voters	resolution
 36	R2	latinworks19wycl=hic | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=hic		4	accept
 158	R2	latinworks19wycl=legittimum | johanniswyclift00mattgoog=legittimum | johanniswyclift01mattgoog=legittirauni | tractatusdepotes00wycl=legittimum		4	accept
 173	R2	latinworks19wycl=sufficiens | johanniswyclift00mattgoog=sufficiens | johanniswyclift01mattgoog=sufficiens | tractatusdepotes00wycl=sutnciens		4	accept
-183	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+183	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept

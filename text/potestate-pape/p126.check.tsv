@@ -6,7 +6,7 @@ pos	rule	forms	support	voters	resolution
 50	R2	latinworks19wycl=eius | johanniswyclift00mattgoog=eius | johanniswyclift01mattgoog=eiits | tractatusdepotes00wycl=eius		4	accept
 51	R2	latinworks19wycl=malignis | johanniswyclift00mattgoog=malignis | johanniswyclift01mattgoog=utalights | tractatusdepotes00wycl=malignis		4	accept
 64	R3a	latinworks19wycl=persone | johanniswyclift00mattgoog=persone | johanniswyclift01mattgoog=persona | tractatusdepotes00wycl=persone		4	accept
-123	R4	latinworks19wycl=says | johanniswyclift00mattgoog=suut | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=says		4	plate
+123	PLATE	latinworks19wycl=says | johanniswyclift00mattgoog=suut | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=says		4	accept
 124	R2	latinworks19wycl=sunt | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sunt | tractatusdepotes00wycl=sunt		4	accept
 162	R2	latinworks19wycl=omnis | johanniswyclift00mattgoog=omnis | johanniswyclift01mattgoog=oranis | tractatusdepotes00wycl=omnis		4	accept
 169	R2	latinworks19wycl=may | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=may		4	accept

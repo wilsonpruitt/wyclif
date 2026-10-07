@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 24	R2	latinworks19wycl=catholicam | johanniswyclift00mattgoog=catholicam | johanniswyclift01mattgoog=car | tractatusdepotes00wycl=catholicam		4	accept
-33	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+33	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 57	R3a	latinworks19wycl=komanus | johanniswyclift00mattgoog=romanus | johanniswyclift01mattgoog=komanus | tractatusdepotes00wycl=komanus		4	accept
 58	R2	latinworks19wycl=sit | johanniswyclift00mattgoog=sit | johanniswyclift01mattgoog=stt | tractatusdepotes00wycl=sit		4	accept
-83	R3	latinworks19wycl=irnam | johanniswyclift00mattgoog=inam | johanniswyclift01mattgoog=irnam | tractatusdepotes00wycl=nam		4	plate
+83	PLATE	latinworks19wycl=irnam | johanniswyclift00mattgoog=inam | johanniswyclift01mattgoog=irnam | tractatusdepotes00wycl=nam		4	accept
 193	R2	latinworks19wycl=omnis | johanniswyclift00mattgoog=omnis | johanniswyclift01mattgoog=oniriis | tractatusdepotes00wycl=omms		4	accept

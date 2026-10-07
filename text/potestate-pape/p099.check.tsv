@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=michi		1	accept
-1	THIN	latinworks19wycl=iacobns		1	plate
+1	PLATE	latinworks19wycl=iacobns		1	accept
 16	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=tit | tractatusdepotes00wycl=ut		3	accept
-22	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | tractatusdepotes00wycl=in		3	plate
+22	PLATE	latinworks19wycl=iu | johanniswyclift00mattgoog=in | tractatusdepotes00wycl=in		3	accept
 77	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 90	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
 92	R2	latinworks19wycl=ubi | johanniswyclift00mattgoog=ubi | johanniswyclift01mattgoog=iibi | tractatusdepotes00wycl=ubi		4	accept
-99	R4	latinworks19wycl=miserunt | johanniswyclift00mattgoog=ibmiserunt | johanniswyclift01mattgoog=miserunt | tractatusdepotes00wycl=ibmiserunt		4	plate
+99	PLATE	latinworks19wycl=miserunt | johanniswyclift00mattgoog=ibmiserunt | johanniswyclift01mattgoog=miserunt | tractatusdepotes00wycl=ibmiserunt		4	accept
 100	R6a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=pelntni | tractatusdepotes00wycl=petrum		4	accept
 101	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 106	R4a	latinworks19wycl=contirmandum | johanniswyclift00mattgoog=connrmandum | johanniswyclift01mattgoog=connrmandum | tractatusdepotes00wycl=confirmandum		4	accept

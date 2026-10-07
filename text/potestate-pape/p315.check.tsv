@@ -9,7 +9,7 @@ pos	rule	forms	support	voters	resolution
 143	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non		4	accept
 145	R2	latinworks19wycl=nec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=itec | tractatusdepotes00wycl=nec		4	accept
 150	R2	latinworks19wycl=ieiunia | johanniswyclift00mattgoog=ieiunia | johanniswyclift01mattgoog=ieimtia | tractatusdepotes00wycl=ieiunia		4	accept
-155	R3	latinworks19wycl=esse | johanniswyclift00mattgoog=esse | johanniswyclift01mattgoog=besse | tractatusdepotes00wycl=ibesse		4	plate
+155	PLATE	latinworks19wycl=esse | johanniswyclift00mattgoog=esse | johanniswyclift01mattgoog=besse | tractatusdepotes00wycl=ibesse		4	accept
 156	R2	latinworks19wycl=ieiunandumi | johanniswyclift00mattgoog=ieiuftandum | johanniswyclift01mattgoog=ieiunandiini | tractatusdepotes00wycl=ieiunandum		4	accept
-158	R4	latinworks19wycl=uideatur | johanniswyclift00mattgoog=uidealnr | johanniswyclift01mattgoog=uidealnr | tractatusdepotes00wycl=uideatur		4	plate
+158	PLATE	latinworks19wycl=uideatur | johanniswyclift00mattgoog=uidealnr | johanniswyclift01mattgoog=uidealnr | tractatusdepotes00wycl=uideatur		4	accept
 163	R3a	latinworks19wycl=eciam | johanniswyclift00mattgoog=eciam | johanniswyclift01mattgoog=iciam | tractatusdepotes00wycl=eciam		4	accept

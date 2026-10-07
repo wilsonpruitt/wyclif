@@ -6,7 +6,7 @@ pos	rule	forms	support	voters	resolution
 4	EDGE	latinworks19wycl=oculi | tractatusdepotes00wycl=oculi		2	accept
 5	EDGE	latinworks19wycl=sunt | tractatusdepotes00wycl=sunt		2	accept
 6	EDGE	latinworks19wycl=cuncti | tractatusdepotes00wycl=cuncti		2	accept
-7	THIN	latinworks19wycl=presnni | tractatusdepotes00wycl=presunt		2	plate
+7	PLATE	latinworks19wycl=presnni | tractatusdepotes00wycl=presunt		2	accept
 19	R2	latinworks19wycl=oblia | johanniswyclift00mattgoog=oblitenentur | johanniswyclift01mattgoog=obligati | tractatusdepotes00wycl=oblinrati		4	accept
 20	R2	latinworks19wycl=tenentur | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=tenentur | tractatusdepotes00wycl=tenentur		4	accept
 25	R3a	latinworks19wycl=a | johanniswyclift00mattgoog=mundi | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
@@ -19,7 +19,7 @@ pos	rule	forms	support	voters	resolution
 124	R3a	latinworks19wycl=apostolos | johanniswyclift00mattgoog=apostolos | johanniswyclift01mattgoog=apostolus | tractatusdepotes00wycl=apostolos		4	accept
 128	R3a	latinworks19wycl=ministrandum | johanniswyclift00mattgoog=ministrandum | johanniswyclift01mattgoog=mini | tractatusdepotes00wycl=ministrandum		4	accept
 161	R3a	latinworks19wycl=istis | johanniswyclift00mattgoog=istis | johanniswyclift01mattgoog=itis | tractatusdepotes00wycl=istis		4	accept
-167	R4	latinworks19wycl=onus | johanniswyclift00mattgoog=onusa | johanniswyclift01mattgoog=onusa | tractatusdepotes00wycl=onus		4	plate
+167	PLATE	latinworks19wycl=onus | johanniswyclift00mattgoog=onusa | johanniswyclift01mattgoog=onusa | tractatusdepotes00wycl=onus		4	accept
 195	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=nonso | johanniswyclift01mattgoog=nou | tractatusdepotes00wycl=non		4	accept
-199	R4	latinworks19wycl=patrimonn | johanniswyclift00mattgoog=patnmonu | johanniswyclift01mattgoog=iiatrimonii | tractatusdepotes00wycl=patrimonu		4	plate
+199	PLATE	latinworks19wycl=patrimonn | johanniswyclift00mattgoog=patnmonu | johanniswyclift01mattgoog=iiatrimonii | tractatusdepotes00wycl=patrimonu		4	accept
 201	R4a	latinworks19wycl=rehquerat | johanniswyclift00mattgoog=rehquerat | johanniswyclift01mattgoog=reuquerat | tractatusdepotes00wycl=reliquerat		4	accept

@@ -1,6 +1,6 @@
 {"t": "raciones", "leaf": 272, "row": 0, "para": false, "head": false, "pos": 0}
 {"t": "Deo", "leaf": 272, "row": 0, "para": false, "head": false, "pos": 1}
-{"t": "cibsconditas,", "leaf": 272, "row": 0, "para": false, "head": false, "pos": 2}
+{"t": "absconditas,", "leaf": 272, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "nunc", "leaf": 272, "row": 0, "para": false, "head": false, "pos": 3}
 {"t": "uno", "leaf": 272, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "modo,", "leaf": 272, "row": 0, "para": false, "head": false, "pos": 5}
@@ -106,6 +106,7 @@
 {"t": "II,", "leaf": 272, "row": 14, "para": false, "head": false, "pos": 105}
 {"t": "5,", "leaf": 272, "row": 14, "para": false, "head": false, "pos": 106}
 {"t": "6.", "leaf": 272, "row": 14, "para": false, "head": false, "pos": 107}
+{"t": "9", "leaf": 272, "row": 14, "para": false, "head": false, "pos": null}
 {"t": "Neque,", "leaf": 272, "row": 15, "para": false, "head": false, "pos": 108}
 {"t": "inquit.", "leaf": 272, "row": 15, "para": false, "head": false, "pos": 109}
 {"t": "aliquando", "leaf": 272, "row": 15, "para": false, "head": false, "pos": 110}
@@ -184,8 +185,9 @@
 {"t": "primatum", "leaf": 272, "row": 27, "para": false, "head": false, "pos": 183}
 {"t": "desiderare", "leaf": 272, "row": 27, "para": false, "head": false, "pos": 184}
 {"t": "et", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 185}
-{"t": "siracio", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 186}
-{"t": "11011", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 187}
+{"t": "si", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 186}
+{"t": "racio", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 186}
+{"t": "non", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 187}
 {"t": "est,", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 188}
 {"t": "tamen", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 189}
 {"t": "causa", "leaf": 272, "row": 28, "para": false, "head": false, "pos": 190}

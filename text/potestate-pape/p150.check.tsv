@@ -2,7 +2,7 @@ pos	rule	forms	support	voters	resolution
 19	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=t | tractatusdepotes00wycl=et		4	accept
 26	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 81	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-132	R3	latinworks19wycl=tempora | johanniswyclift00mattgoog=tempera | johanniswyclift01mattgoog=tempera | tractatusdepotes00wycl=tempora		4	plate
+132	PLATE	latinworks19wycl=tempora | johanniswyclift00mattgoog=tempera | johanniswyclift01mattgoog=tempera | tractatusdepotes00wycl=tempora		4	accept
 140	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=esi | tractatusdepotes00wycl=est		4	accept
 144	R2	latinworks19wycl=nunquam | johanniswyclift00mattgoog=nunquam | johanniswyclift01mattgoog=tmnquainfuit | tractatusdepotes00wycl=nunquam		4	accept
 145	R2	latinworks19wycl=fuit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fuit		4	accept

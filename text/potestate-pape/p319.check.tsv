@@ -10,6 +10,6 @@ pos	rule	forms	support	voters	resolution
 127	R5a	latinworks19wycl=cesare | johanniswyclift00mattgoog=cesare | johanniswyclift01mattgoog=cesare | tractatusdepotes00wycl=cesare		4	accept
 133	R3a	latinworks19wycl=foret | johanniswyclift00mattgoog=loret | johanniswyclift01mattgoog=toret | tractatusdepotes00wycl=foret		4	accept
 171	R2	latinworks19wycl=christus | johanniswyclift00mattgoog=christus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=christus		4	accept
-188	R4	latinworks19wycl=o | johanniswyclift00mattgoog=sodominum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	plate
+188	PLATE	latinworks19wycl=o | johanniswyclift00mattgoog=sodominum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 189	R2	latinworks19wycl=dominum | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=dominum | tractatusdepotes00wycl=dominum		4	accept
 199	R2	latinworks19wycl=proclamant | johanniswyclift00mattgoog=proclamant | johanniswyclift01mattgoog=prochristus | tractatusdepotes00wycl=proclamant		4	accept

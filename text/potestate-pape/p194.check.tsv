@@ -1,5 +1,5 @@
 pos	rule	forms	support	voters	resolution
-40	HEAD	CAPITULUM NONUM.			plate
+40	HEAD	CAPITULUM NONUM.			plate: CAPITULUM NONUM.
 42	R2	latinworks19wycl=be | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=be		4	accept
 49	R2	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=in		4	accept
 72	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=autetn | tractatusdepotes00wycl=autem		4	accept
@@ -11,14 +11,14 @@ pos	rule	forms	support	voters	resolution
 166	R3a	latinworks19wycl=ordine | johanniswyclift00mattgoog=ordine | johanniswyclift01mattgoog=ordiue | tractatusdepotes00wycl=ordine		4	accept
 168	R2	latinworks19wycl=imperator | johanniswyclift00mattgoog=hnperaior | johanniswyclift01mattgoog=imperator | tractatusdepotes00wycl=hnperator		4	accept
 170	R2	latinworks19wycl=iudex | johanniswyclift00mattgoog=itidex | johanniswyclift01mattgoog=prouiucie | tractatusdepotes00wycl=iudex		4	accept
-171	R3	latinworks19wycl=unus | johanniswyclift00mattgoog=nttns | johanniswyclift01mattgoog=roma		3	plate
+171	PLATE	latinworks19wycl=unus | johanniswyclift00mattgoog=nttns | johanniswyclift01mattgoog=roma		3	accept
 172	R2	latinworks19wycl=prouincie | johanniswyclift00mattgoog=prouincie | johanniswyclift01mattgoog=ciniem		3	accept
-173	THIN	latinworks19wycl=romaautem | johanniswyclift01mattgoog=coniita		2	plate
+173	PLATE	latinworks19wycl=romaautem | johanniswyclift01mattgoog=coniita		2	accept
 174	R2	latinworks19wycl=condita | johanniswyclift01mattgoog=dtiosfralres | tractatusdepotes00wycl=condita		3	accept
 175	R3a	latinworks19wycl=duosfratres | johanniswyclift00mattgoog=duosfratres | johanniswyclift01mattgoog=reges | tractatusdepotes00wycl=duosfratres		4	accept
-176	R3	latinworks19wycl=regessimnl | johanniswyclift00mattgoog=regessimnl | johanniswyclift01mattgoog=simul | tractatusdepotes00wycl=reges		4	plate
+176	PLATE	latinworks19wycl=regessimnl | johanniswyclift00mattgoog=regessimnl | johanniswyclift01mattgoog=simul | tractatusdepotes00wycl=reges		4	accept
 178	R3a	latinworks19wycl=uou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=non		4	accept
 179	R2	latinworks19wycl=potuit | johanniswyclift00mattgoog=potnil | johanniswyclift01mattgoog=poluit | tractatusdepotes00wycl=potuit		4	accept
-184	R5	latinworks19wycl=rebecce | johanniswyclift00mattgoog=rebecce | tractatusdepotes00wycl=rebecce		3	plate
+184	PLATE	latinworks19wycl=rebecce | johanniswyclift00mattgoog=rebecce | tractatusdepotes00wycl=rebecce		3	accept
 190	EDGE	latinworks19wycl=gesserunt		1	accept
 191	EDGE	latinworks19wycl=sic		1	accept

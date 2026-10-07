@@ -1,13 +1,13 @@
 pos	rule	forms	support	voters	resolution
 5	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 23	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
-33	THIN	latinworks19wycl=adeo | tractatusdepotes00wycl=adeo		2	plate
-34	THIN	latinworks19wycl=qnid | tractatusdepotes00wycl=quid		2	plate
-37	R3	latinworks19wycl=tu | johanniswyclift00mattgoog=iu | johanniswyclift01mattgoog=lu | tractatusdepotes00wycl=tu		4	plate
+33	PLATE	latinworks19wycl=adeo | tractatusdepotes00wycl=adeo		2	accept
+34	PLATE	latinworks19wycl=qnid | tractatusdepotes00wycl=quid		2	accept
+37	PLATE	latinworks19wycl=tu | johanniswyclift00mattgoog=iu | johanniswyclift01mattgoog=lu | tractatusdepotes00wycl=tu		4	accept
 65	R2	latinworks19wycl=castigandi | johanniswyclift00mattgoog=castigandi | johanniswyclift01mattgoog=castiiidi | tractatusdepotes00wycl=castigandi		4	accept
 200	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 210	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 218	R2	latinworks19wycl=neque | johanniswyclift01mattgoog=neqnccnmpoieslateysediili | tractatusdepotes00wycl=neque		3	accept
 219	R2	latinworks19wycl=cum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=cum		3	accept
 220	R2	latinworks19wycl=potestate | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=potestate		3	accept
-221	R6	latinworks19wycl=sedfili | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sedfili		3	plate
+221	PLATE	latinworks19wycl=sedfili | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sedfili		3	accept

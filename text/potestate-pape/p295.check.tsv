@@ -8,9 +8,9 @@ pos	rule	forms	support	voters	resolution
 40	R3a	latinworks19wycl=aut | johanniswyclift00mattgoog=aut | johanniswyclift01mattgoog=an | tractatusdepotes00wycl=aut		4	accept
 41	R2	latinworks19wycl=nunquam | johanniswyclift00mattgoog=nunquam | johanniswyclift01mattgoog=niinqiiam | tractatusdepotes00wycl=nunquam		4	accept
 43	R2	latinworks19wycl=possunt | johanniswyclift00mattgoog=possunt | johanniswyclift01mattgoog=possmti | tractatusdepotes00wycl=possunt		4	accept
-46	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu		4	plate
+46	PLATE	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu		4	accept
 50	R3a	latinworks19wycl=secuti | johanniswyclift00mattgoog=seeuti | johanniswyclift01mattgoog=seculi | tractatusdepotes00wycl=secuti		4	accept
-54	NW	latinworks19wycl=iribuitur | johanniswyclift00mattgoog=tribuitur | johanniswyclift01mattgoog=iribuitur | tractatusdepotes00wycl=iribuitur		4	plate
+54	PLATE	latinworks19wycl=iribuitur | johanniswyclift00mattgoog=tribuitur | johanniswyclift01mattgoog=iribuitur | tractatusdepotes00wycl=iribuitur		4	accept
 60	R2	latinworks19wycl=ouamuis | johanniswyclift00mattgoog=quamuis | johanniswyclift01mattgoog=onamuis | tractatusdepotes00wycl=quamuis		4	accept
 61	R2	latinworks19wycl=euim | johanniswyclift00mattgoog=enim | johanniswyclift01mattgoog=euitti | tractatusdepotes00wycl=enim		4	accept
 68	R3a	latinworks19wycl=fidem | johanniswyclift00mattgoog=fidem | johanniswyclift01mattgoog=idem | tractatusdepotes00wycl=fidem		4	accept
@@ -21,7 +21,7 @@ pos	rule	forms	support	voters	resolution
 83	R3a	latinworks19wycl=liberam | johanniswyclift00mattgoog=liberam | johanniswyclift01mattgoog=liberaui | tractatusdepotes00wycl=liberam		4	accept
 85	R3a	latinworks19wycl=oneibribus | johanniswyclift00mattgoog=oneibribus | johanniswyclift01mattgoog=onetbribus | tractatusdepotes00wycl=oneribus		4	accept
 95	R2	latinworks19wycl=tempus | johanniswyclift00mattgoog=tempus | johanniswyclift01mattgoog=ienipus | tractatusdepotes00wycl=tempus		4	accept
-99	NW	latinworks19wycl=uerunt | johanniswyclift00mattgoog=ueruntt | johanniswyclift01mattgoog=uerunt | tractatusdepotes00wycl=uerunt		4	plate
+99	PLATE	latinworks19wycl=uerunt | johanniswyclift00mattgoog=ueruntt | johanniswyclift01mattgoog=uerunt | tractatusdepotes00wycl=uerunt		4	accept
 103	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non		4	accept
 106	R2	latinworks19wycl=subiciuntur | johanniswyclift00mattgoog=snbieiuntur | johanniswyclift01mattgoog=snbieiuuiur | tractatusdepotes00wycl=subiciuntur		4	accept
 107	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=pix | tractatusdepotes00wycl=ex		4	accept

@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
-12	INS?	ex	2	4	plate
+12	INS?	ex	2	4	plate: ex
 164	R3a	latinworks19wycl=qui2s | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=quia | tractatusdepotes00wycl=qui		4	accept
 191	R3a	latinworks19wycl=dicunt | johanniswyclift00mattgoog=infideliter | johanniswyclift01mattgoog=infideliter | tractatusdepotes00wycl=infideliter		4	accept
 192	DEL	latinworks19wycl=liter | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
-199	INS?	dicunt	2	4	plate
+199	INS?	dicunt	2	4	plate: dicunt
 199	R3a	latinworks19wycl=primo | johanniswyclift00mattgoog=dicunt | johanniswyclift01mattgoog=primo | tractatusdepotes00wycl=primo		4	accept

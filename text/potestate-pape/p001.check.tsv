@@ -1,10 +1,10 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=iam | tractatusdepotes00wycl=iam		2	accept
-1	GAP	am indebted to the kindness of Director of the Landesarchiv. I lake this opportthem both, and also the Director of the Prague Library, and Dr. Eichler, of the Grraz University spared no trouble to procure the MSS. J. Loserth. lam	2	4	plate
+1	GAP	am indebted to the kindness of Director of the Landesarchiv. I lake this opportthem both, and also the Director of the Prague Library, and Dr. Eichler, of the Grraz University spared no trouble to procure the MSS. J. Loserth. lam	2	4	plate: ∅
 6	R3a	latinworks19wycl=dommus | johanniswyclift00mattgoog=dommus | johanniswyclift01mattgoog=dominus | tractatusdepotes00wycl=dommus		4	accept
-99	R5	latinworks19wycl=u | johanniswyclift00mattgoog=u | tractatusdepotes00wycl=u		3	plate
+99	PLATE	latinworks19wycl=u | johanniswyclift00mattgoog=u | tractatusdepotes00wycl=u		3	accept
 103	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
-111	THIN	latinworks19wycl=atit | tractatusdepotes00wycl=aut		2	plate
+111	PLATE	latinworks19wycl=atit | tractatusdepotes00wycl=aut		2	accept
 112	EDGE	latinworks19wycl=in | tractatusdepotes00wycl=in		2	accept
 113	EDGE	latinworks19wycl=quantum | tractatusdepotes00wycl=quantum		2	accept
 114	EDGE	latinworks19wycl=alterum | tractatusdepotes00wycl=alterum		2	accept

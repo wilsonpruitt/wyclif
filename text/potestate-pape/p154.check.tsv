@@ -5,13 +5,13 @@ pos	rule	forms	support	voters	resolution
 39	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non		4	accept
 87	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=ill | tractatusdepotes00wycl=iii		4	accept
 91	R2	latinworks19wycl=de | johanniswyclift00mattgoog=de | johanniswyclift01mattgoog=cic | tractatusdepotes00wycl=de		4	accept
-115	NW	latinworks19wycl=qninquaginta | johanniswyclift00mattgoog=qninquaginta | johanniswyclift01mattgoog=qninquaginta | tractatusdepotes00wycl=qninquaginta		4	plate
+115	PLATE	latinworks19wycl=qninquaginta | johanniswyclift00mattgoog=qninquaginta | johanniswyclift01mattgoog=qninquaginta | tractatusdepotes00wycl=qninquaginta		4	accept
 116	R2	latinworks19wycl=trium | johanniswyclift00mattgoog=trium | johanniswyclift01mattgoog=irimn | tractatusdepotes00wycl=trium		4	accept
 117	R2	latinworks19wycl=magnorum | johanniswyclift00mattgoog=magnorum | johanniswyclift01mattgoog=maguorutn | tractatusdepotes00wycl=magnorum		4	accept
 154	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=nt | tractatusdepotes00wycl=ut		4	accept
 156	R3a	latinworks19wycl=grana | johanniswyclift00mattgoog=grana | johanniswyclift01mattgoog=gratia | tractatusdepotes00wycl=grana		4	accept
 158	R2	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=itt | tractatusdepotes00wycl=in		4	accept
-169	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
-194	INS?	i	2	4	plate
+169	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
+194	INS?	i	2	4	plate: ∅
 202	R3a	latinworks19wycl=uiri | johanniswyclift00mattgoog=uir | johanniswyclift01mattgoog=uir | tractatusdepotes00wycl=uir		4	accept
 212	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus		4	accept

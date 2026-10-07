@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
-22	NW	latinworks19wycl=odiunt | johanniswyclift00mattgoog=odiunt | johanniswyclift01mattgoog=odiunt | tractatusdepotes00wycl=odiunt		4	plate
+22	PLATE	latinworks19wycl=odiunt | johanniswyclift00mattgoog=odiunt | johanniswyclift01mattgoog=odiunt | tractatusdepotes00wycl=odiunt		4	accept
 33	R3a	latinworks19wycl=tam | johanniswyclift00mattgoog=tarn | johanniswyclift01mattgoog=tani | tractatusdepotes00wycl=tam		4	accept
-54	R6	latinworks19wycl=that | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=that		3	plate
+54	PLATE	latinworks19wycl=that | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=that		3	accept
 66	R2	latinworks19wycl=loatur | johanniswyclift00mattgoog=igitur | johanniswyclift01mattgoog=iizitur | tractatusdepotes00wycl=lgitur		4	accept
 68	R2	latinworks19wycl=secularibus | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=seculanbus | tractatusdepotes00wycl=secularibus		4	accept
 69	R2	latinworks19wycl=sit | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sit | tractatusdepotes00wycl=sit		4	accept

@@ -3,12 +3,12 @@ pos	rule	forms	support	voters	resolution
 17	R2	latinworks19wycl=elemosine | johanniswyclift00mattgoog=elemosine | johanniswyclift01mattgoog=elemo | tractatusdepotes00wycl=elemosine		4	accept
 24	R2	latinworks19wycl=necessarior | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=necessarior | tractatusdepotes00wycl=necessarior		4	accept
 78	R3a	latinworks19wycl=caritati | johanniswyclift00mattgoog=caritati | johanniswyclift01mattgoog=cantati | tractatusdepotes00wycl=caritati		4	accept
-165	R5	latinworks19wycl=interhec | johanniswyclift00mattgoog=interhec | tractatusdepotes00wycl=interhec		3	plate
+165	PLATE	latinworks19wycl=interhec | johanniswyclift00mattgoog=interhec | tractatusdepotes00wycl=interhec		3	accept
 181	R2	latinworks19wycl=magis | johanniswyclift00mattgoog=ntagis | johanniswyclift01mattgoog=magis | tractatusdepotes00wycl=magis		4	accept
 182	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quant | johanniswyclift01mattgoog=quam | tractatusdepotes00wycl=quam		4	accept
 183	R2	latinworks19wycl=ouium | johanniswyclift00mattgoog=ouium | johanniswyclift01mattgoog=ouiutn | tractatusdepotes00wycl=ouium		4	accept
 189	R2	latinworks19wycl=factitabat | johanniswyclift00mattgoog=factitabat | johanniswyclift01mattgoog=faclhahat | tractatusdepotes00wycl=factitabat		4	accept
 190	R6a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=pelrtis | tractatusdepotes00wycl=petrus		4	accept
 203	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=mon | tractatusdepotes00wycl=non		4	accept
-208	R4	latinworks19wycl=tenes | johanniswyclift00mattgoog=tenes | johanniswyclift01mattgoog=ienes | tractatusdepotes00wycl=ienes		4	plate
+208	PLATE	latinworks19wycl=tenes | johanniswyclift00mattgoog=tenes | johanniswyclift01mattgoog=ienes | tractatusdepotes00wycl=ienes		4	accept
 212	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept

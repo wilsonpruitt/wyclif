@@ -5,6 +5,7 @@
 {"t": "quibus", "leaf": 163, "row": 0, "para": false, "head": false, "pos": 4}
 {"t": "crevit", "leaf": 163, "row": 0, "para": false, "head": false, "pos": 5}
 {"t": "ecclesia", "leaf": 163, "row": 0, "para": false, "head": false, "pos": 6}
+{"t": "se", "leaf": 163, "row": 0, "para": false, "head": false, "pos": 7}
 {"t": "Domino", "leaf": 163, "row": 0, "para": false, "head": false, "pos": 7}
 {"t": "conformarunt.", "leaf": 163, "row": 1, "para": false, "head": false, "pos": 8}
 {"t": "Tercio", "leaf": 163, "row": 1, "para": false, "head": false, "pos": 9}
@@ -78,7 +79,7 @@
 {"t": "pastores,", "leaf": 163, "row": 11, "para": false, "head": false, "pos": 77}
 {"t": "subiunxit", "leaf": 163, "row": 11, "para": false, "head": false, "pos": 78}
 {"t": "doctores,", "leaf": 163, "row": 11, "para": false, "head": false, "pos": 79}
-{"t": "tit", "leaf": 163, "row": 11, "para": false, "head": false, "pos": 80}
+{"t": "ut", "leaf": 163, "row": 11, "para": false, "head": false, "pos": 80}
 {"t": "pastores", "leaf": 163, "row": 11, "para": false, "head": false, "pos": 81}
 {"t": "intelligerent", "leaf": 163, "row": 11, "para": false, "head": false, "pos": 82}
 {"t": "ad", "leaf": 163, "row": 12, "para": false, "head": false, "pos": 83}
@@ -159,7 +160,6 @@
 {"t": "facta.", "leaf": 163, "row": 23, "para": false, "head": false, "pos": 158}
 {"t": "CAPITULUM", "leaf": 163, "row": 24, "para": false, "head": true, "pos": null}
 {"t": "SEXTUM.", "leaf": 163, "row": 24, "para": false, "head": true, "pos": null}
-{"t": "had", "leaf": 163, "row": 25, "para": false, "head": false, "pos": 161}
 {"t": "Septima", "leaf": 163, "row": 25, "para": false, "head": false, "pos": 162}
 {"t": "facta", "leaf": 163, "row": 25, "para": false, "head": false, "pos": 163}
 {"t": "sentencia", "leaf": 163, "row": 25, "para": false, "head": false, "pos": 164}
@@ -174,7 +174,7 @@
 {"t": "potestatem", "leaf": 163, "row": 26, "para": false, "head": false, "pos": 173}
 {"t": "quantam", "leaf": 163, "row": 27, "para": false, "head": false, "pos": 174}
 {"t": "habuit", "leaf": 163, "row": 27, "para": false, "head": false, "pos": 175}
-{"t": "Chnstus", "leaf": 163, "row": 27, "para": false, "head": false, "pos": 176}
+{"t": "Christus", "leaf": 163, "row": 27, "para": false, "head": false, "pos": 176}
 {"t": "humanitus,", "leaf": 163, "row": 27, "para": false, "head": false, "pos": 177}
 {"t": "sic", "leaf": 163, "row": 27, "para": false, "head": false, "pos": 178}
 {"t": "nec", "leaf": 163, "row": 27, "para": false, "head": false, "pos": 179}

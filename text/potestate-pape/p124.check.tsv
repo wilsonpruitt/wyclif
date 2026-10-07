@@ -1,9 +1,9 @@
 pos	rule	forms	support	voters	resolution
-48	THIN	latinworks19wycl=mferioritatem | tractatusdepotes00wycl=mferioritatem		2	plate
-49	THIN	latinworks19wycl=celans | tractatusdepotes00wycl=celans		2	plate
-57	R4	latinworks19wycl=toh | johanniswyclift00mattgoog=ioh | johanniswyclift01mattgoog=ioh | tractatusdepotes00wycl=toh		4	plate
+48	PLATE	latinworks19wycl=mferioritatem | tractatusdepotes00wycl=mferioritatem		2	accept
+49	PLATE	latinworks19wycl=celans | tractatusdepotes00wycl=celans		2	accept
+57	PLATE	latinworks19wycl=toh | johanniswyclift00mattgoog=ioh | johanniswyclift01mattgoog=ioh | tractatusdepotes00wycl=toh		4	accept
 62	R2	latinworks19wycl=m | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=into | tractatusdepotes00wycl=in		4	accept
-103	R3	latinworks19wycl=pene | johanniswyclift00mattgoog=pane | johanniswyclift01mattgoog=pane | tractatusdepotes00wycl=pene		4	plate
+103	PLATE	latinworks19wycl=pene | johanniswyclift00mattgoog=pane | johanniswyclift01mattgoog=pane | tractatusdepotes00wycl=pene		4	accept
 147	R3a	latinworks19wycl=modo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=mode | tractatusdepotes00wycl=modo		4	accept
 165	R2	latinworks19wycl=domi25 | johanniswyclift00mattgoog=dominandi | johanniswyclift01mattgoog=domiinandi | tractatusdepotes00wycl=dominandi		4	accept
 166	DEL	latinworks19wycl=nandi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept

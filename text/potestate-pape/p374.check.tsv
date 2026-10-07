@@ -1,16 +1,16 @@
 pos	rule	forms	support	voters	resolution
 22	R2	latinworks19wycl=qui | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=iiui | tractatusdepotes00wycl=qui		4	accept
-30	NW	latinworks19wycl=iocale | johanniswyclift00mattgoog=iocale | johanniswyclift01mattgoog=iocale | tractatusdepotes00wycl=iocale		4	plate
+30	PLATE	latinworks19wycl=iocale | johanniswyclift00mattgoog=iocale | johanniswyclift01mattgoog=iocale | tractatusdepotes00wycl=iocale		4	accept
 49	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=lit | tractatusdepotes00wycl=et		4	accept
 59	R2	latinworks19wycl=tam | johanniswyclift00mattgoog=tam | johanniswyclift01mattgoog=lam | tractatusdepotes00wycl=tam		4	accept
-60	INS?	i	2	4	plate
+60	INS?	i	2	4	plate: ∅
 65	R2	latinworks19wycl=a | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
 123	R3a	latinworks19wycl=prepositus | johanniswyclift00mattgoog=prepositus | johanniswyclift01mattgoog=propositus | tractatusdepotes00wycl=prepositus		4	accept
-148	NW	latinworks19wycl=dommorum | johanniswyclift00mattgoog=dommorum | johanniswyclift01mattgoog=dominorum | tractatusdepotes00wycl=dommorum		4	plate
-149	NW	latinworks19wycl=mduratum | johanniswyclift00mattgoog=mduratum | johanniswyclift01mattgoog=induratum | tractatusdepotes00wycl=mduratum		4	plate
+148	PLATE	latinworks19wycl=dommorum | johanniswyclift00mattgoog=dommorum | johanniswyclift01mattgoog=dominorum | tractatusdepotes00wycl=dommorum		4	accept
+149	PLATE	latinworks19wycl=mduratum | johanniswyclift00mattgoog=mduratum | johanniswyclift01mattgoog=induratum | tractatusdepotes00wycl=mduratum		4	accept
 174	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ht | tractatusdepotes00wycl=et		4	accept
 180	R2	latinworks19wycl=collegiis | johanniswyclift00mattgoog=colicgus | johanniswyclift01mattgoog=collegiis | tractatusdepotes00wycl=collegiis		4	accept
 186	R2	latinworks19wycl=noc | johanniswyclift01mattgoog=hoc | tractatusdepotes00wycl=hoc		3	accept
-187	R3	latinworks19wycl=iacmus | johanniswyclift01mattgoog=facinus | tractatusdepotes00wycl=racinus		3	plate
-189	R3	latinworks19wycl=defendunt | johanniswyclift01mattgoog=defendunt | tractatusdepotes00wycl=detendunt		3	plate
+187	PLATE	latinworks19wycl=iacmus | johanniswyclift01mattgoog=facinus | tractatusdepotes00wycl=racinus		3	accept
+189	PLATE	latinworks19wycl=defendunt | johanniswyclift01mattgoog=defendunt | tractatusdepotes00wycl=detendunt		3	accept
 206	R3a	latinworks19wycl=ita | johanniswyclift00mattgoog=ita | johanniswyclift01mattgoog=itai | tractatusdepotes00wycl=ita		4	accept

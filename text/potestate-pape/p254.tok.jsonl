@@ -10,6 +10,7 @@
 {"t": "contra", "leaf": 315, "row": 1, "para": false, "head": false, "pos": 9}
 {"t": "sanctam", "leaf": 315, "row": 1, "para": false, "head": false, "pos": 10}
 {"t": "ecclesiam;", "leaf": 315, "row": 1, "para": false, "head": false, "pos": 11}
+{"t": "ex", "leaf": 315, "row": 1, "para": false, "head": false, "pos": null}
 {"t": "quo", "leaf": 315, "row": 2, "para": true, "head": false, "pos": 12}
 {"t": "patenter", "leaf": 315, "row": 2, "para": false, "head": false, "pos": 13}
 {"t": "implicant", "leaf": 315, "row": 2, "para": false, "head": false, "pos": 14}
@@ -196,6 +197,7 @@
 {"t": "Nostri", "leaf": 315, "row": 31, "para": false, "head": false, "pos": 196}
 {"t": "autem", "leaf": 315, "row": 31, "para": false, "head": false, "pos": 197}
 {"t": "theologi", "leaf": 315, "row": 31, "para": false, "head": false, "pos": 198}
+{"t": "dicunt", "leaf": 315, "row": 31, "para": false, "head": false, "pos": null}
 {"t": "primo,", "leaf": 315, "row": 32, "para": false, "head": false, "pos": 199}
 {"t": "quod", "leaf": 315, "row": 32, "para": false, "head": false, "pos": 200}
 {"t": "licet", "leaf": 315, "row": 32, "para": false, "head": false, "pos": 201}

@@ -5,7 +5,7 @@ pos	rule	forms	support	voters	resolution
 116	R3a	latinworks19wycl=illuminaret | johanniswyclift00mattgoog=illuminaret | johanniswyclift01mattgoog=11 | tractatusdepotes00wycl=illuminaret		4	accept
 133	R2	latinworks19wycl=nec | johanniswyclift00mattgoog=nec | johanniswyclift01mattgoog=hcc | tractatusdepotes00wycl=nec		4	accept
 138	R2	latinworks19wycl=nnbutus | johanniswyclift00mattgoog=imbutus | johanniswyclift01mattgoog=mibutus | tractatusdepotes00wycl=lmbutus		4	accept
-141	NW	latinworks19wycl=ritus | johanniswyclift00mattgoog=ntus | johanniswyclift01mattgoog=ntus | tractatusdepotes00wycl=ntus		4	plate
+141	PLATE	latinworks19wycl=ritus | johanniswyclift00mattgoog=ntus | johanniswyclift01mattgoog=ntus | tractatusdepotes00wycl=ntus		4	accept
 167	R3a	latinworks19wycl=eleccionem | johanniswyclift00mattgoog=eieccionem | johanniswyclift01mattgoog=eleccionem | tractatusdepotes00wycl=eleccionem		4	accept
-180	R4	latinworks19wycl=racionaliter | johanniswyclift00mattgoog=raciona25 | johanniswyclift01mattgoog=racionaliter | tractatusdepotes00wycl=raciona25		4	plate
-181	INS?	liter	2	4	plate
+180	PLATE	latinworks19wycl=racionaliter | johanniswyclift00mattgoog=raciona25 | johanniswyclift01mattgoog=racionaliter | tractatusdepotes00wycl=raciona25		4	accept
+181	INS?	liter	2	4	plate: ∅

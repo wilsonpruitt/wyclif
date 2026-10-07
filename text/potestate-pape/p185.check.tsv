@@ -1,12 +1,12 @@
 pos	rule	forms	support	voters	resolution
-109	INS?	ut michi	2	4	plate
+109	INS?	ut michi	2	4	plate: ut
 110	DEL	latinworks19wycl=ut | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
-114	R3	latinworks19wycl=michi | johanniswyclift00mattgoog=probabile | johanniswyclift01mattgoog=ao | tractatusdepotes00wycl=probabile		4	plate
+114	PLATE	latinworks19wycl=michi | johanniswyclift00mattgoog=probabile | johanniswyclift01mattgoog=ao | tractatusdepotes00wycl=probabile		4	accept
 115	R2	latinworks19wycl=oprobabile | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=probabile | tractatusdepotes00wycl=∅		4	accept
 125	R3a	latinworks19wycl=multi | johanniswyclift00mattgoog=mulli | johanniswyclift01mattgoog=mnlli | tractatusdepotes00wycl=mulli		4	accept
 129	R3a	latinworks19wycl=suo | johanniswyclift00mattgoog=suo | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=suo		4	accept
 134	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 166	R2	latinworks19wycl=4 | johanniswyclift00mattgoog=4 | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=4		4	accept
-175	R4	latinworks19wycl=ueniat | johanniswyclift00mattgoog=uenial | johanniswyclift01mattgoog=uenial | tractatusdepotes00wycl=ueniat		4	plate
+175	PLATE	latinworks19wycl=ueniat | johanniswyclift00mattgoog=uenial | johanniswyclift01mattgoog=uenial | tractatusdepotes00wycl=ueniat		4	accept
 188	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=detis | tractatusdepotes00wycl=deus		4	accept
 212	R5a	latinworks19wycl=auinione | johanniswyclift00mattgoog=auinione | johanniswyclift01mattgoog=auinioue | tractatusdepotes00wycl=auinione		4	accept

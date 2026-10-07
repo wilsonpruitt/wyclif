@@ -6,12 +6,12 @@ pos	rule	forms	support	voters	resolution
 103	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=rnmana | tractatusdepotes00wycl=romana		4	accept
 111	R2	latinworks19wycl=domino | johanniswyclift00mattgoog=domino | johanniswyclift01mattgoog=dmniiio | tractatusdepotes00wycl=domino		4	accept
 112	R2	latinworks19wycl=primatnm | johanniswyclift00mattgoog=printafum | johanniswyclift01mattgoog=primafum | tractatusdepotes00wycl=primatum		4	accept
-113	R3	latinworks19wycl=obtinnit | johanniswyclift00mattgoog=obtinuiu | johanniswyclift01mattgoog=oniuuii | tractatusdepotes00wycl=obtinuit		4	plate
+113	PLATE	latinworks19wycl=obtinnit | johanniswyclift00mattgoog=obtinuiu | johanniswyclift01mattgoog=oniuuii | tractatusdepotes00wycl=obtinuit		4	accept
 129	R3a	latinworks19wycl=excellentissimam | johanniswyclift00mattgoog=excellentissimam | johanniswyclift01mattgoog=exi | tractatusdepotes00wycl=excellentissimam		4	accept
 167	R5a	latinworks19wycl=romanem | johanniswyclift00mattgoog=romanem | johanniswyclift01mattgoog=romanem | tractatusdepotes00wycl=romanem		4	accept
-173	NW	latinworks19wycl=putndum | johanniswyclift00mattgoog=putndum | johanniswyclift01mattgoog=putncluni | tractatusdepotes00wycl=putndum		4	plate
+173	PLATE	latinworks19wycl=putndum | johanniswyclift00mattgoog=putndum | johanniswyclift01mattgoog=putncluni | tractatusdepotes00wycl=putndum		4	accept
 176	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
-183	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+183	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
 191	R2	latinworks19wycl=petrns | johanniswyclift00mattgoog=petrns | johanniswyclift01mattgoog=pclrus | tractatusdepotes00wycl=petrus		4	accept
 193	R2	latinworks19wycl=panlns | johanniswyclift00mattgoog=paulus | johanniswyclift01mattgoog=patthis | tractatusdepotes00wycl=paulus		4	accept
 194	R2	latinworks19wycl=erant | johanniswyclift00mattgoog=erant | johanniswyclift01mattgoog=eraui | tractatusdepotes00wycl=erant		4	accept

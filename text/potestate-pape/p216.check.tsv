@@ -1,30 +1,30 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=christianismum		1	accept
-1	THIN	latinworks19wycl=caputomnium		1	plate
-2	THIN	latinworks19wycl=aliarnm		1	plate
+1	PLATE	latinworks19wycl=caputomnium		1	accept
+2	PLATE	latinworks19wycl=aliarnm		1	accept
 3	EDGE	latinworks19wycl=ecclesiarum		1	accept
-4	THIN	latinworks19wycl=constittieret		1	plate
+4	PLATE	latinworks19wycl=constittieret		1	accept
 5	EDGE	latinworks19wycl=cederet		1	accept
 6	EDGE	latinworks19wycl=ceteris		1	accept
-7	THIN	latinworks19wycl=paribtis		1	plate
-8	THIN	latinworks19wycl=capitalitas		1	plate
-9	THIN	latinworks19wycl=romane		1	plate
-10	THIN	latinworks19wycl=ecctesie		1	plate
-19	R4	latinworks19wycl=seculari | johanniswyclift00mattgoog=secular | johanniswyclift01mattgoog=secular | tractatusdepotes00wycl=seculari		4	plate
+7	PLATE	latinworks19wycl=paribtis		1	accept
+8	PLATE	latinworks19wycl=capitalitas		1	accept
+9	PLATE	latinworks19wycl=romane		1	accept
+10	PLATE	latinworks19wycl=ecctesie		1	accept
+19	PLATE	latinworks19wycl=seculari | johanniswyclift00mattgoog=secular | johanniswyclift01mattgoog=secular | tractatusdepotes00wycl=seculari		4	accept
 35	R3a	latinworks19wycl=eieccio | johanniswyclift00mattgoog=eleccio | johanniswyclift01mattgoog=eleccio | tractatusdepotes00wycl=eleccio		4	accept
-47	R6	latinworks19wycl=s | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=s		4	plate
-53	THIN	latinworks19wycl=predestinobis | tractatusdepotes00wycl=predestinacio		2	plate
+47	PLATE	latinworks19wycl=s | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=s		4	accept
+53	PLATE	latinworks19wycl=predestinobis | tractatusdepotes00wycl=predestinacio		2	accept
 66	R2	latinworks19wycl=ui | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=∅		4	accept
 67	R2	latinworks19wycl=7 | johanniswyclift00mattgoog=7 | johanniswyclift01mattgoog=7 | tractatusdepotes00wycl=∅		4	accept
 69	R2	latinworks19wycl=nonne | johanniswyclift00mattgoog=nonne | johanniswyclift01mattgoog=nonfic | tractatusdepotes00wycl=nonne		4	accept
 76	R2	latinworks19wycl=uobis | johanniswyclift00mattgoog=uobis | johanniswyclift01mattgoog=uobis | tractatusdepotes00wycl=uolns		4	accept
 77	R2	latinworks19wycl=dyabolus | johanniswyclift00mattgoog=dyabolus | johanniswyclift01mattgoog=dyabottis | tractatusdepotes00wycl=dydbolus		4	accept
 85	R3a	latinworks19wycl=beati | johanniswyclift00mattgoog=beat | johanniswyclift01mattgoog=beati | tractatusdepotes00wycl=beati		4	accept
-91	R4	latinworks19wycl=ouoniam | johanniswyclift00mattgoog=ouoniam | johanniswyclift01mattgoog=ottoniath | tractatusdepotes00wycl=quoniam		4	plate
+91	PLATE	latinworks19wycl=ouoniam | johanniswyclift00mattgoog=ouoniam | johanniswyclift01mattgoog=ottoniath | tractatusdepotes00wycl=quoniam		4	accept
 92	R2	latinworks19wycl=uetus | johanniswyclift00mattgoog=uetns | johanniswyclift01mattgoog=ueins | tractatusdepotes00wycl=uetus		4	accept
 100	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=romana | tractatusdepotes00wycl=romana		4	accept
 127	R2	latinworks19wycl=ouicumque | johanniswyclift00mattgoog=quicumque | johanniswyclift01mattgoog=quicuminc | tractatusdepotes00wycl=quicumque		4	accept
-129	R3	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non		4	plate
+129	PLATE	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non		4	accept
 147	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=romana | tractatusdepotes00wycl=romana		4	accept
 178	R3a	latinworks19wycl=romani | johanniswyclift00mattgoog=romani | johanniswyclift01mattgoog=roman | tractatusdepotes00wycl=romani		4	accept
 180	R3a	latinworks19wycl=dici | johanniswyclift00mattgoog=die | johanniswyclift01mattgoog=dici | tractatusdepotes00wycl=dici		4	accept

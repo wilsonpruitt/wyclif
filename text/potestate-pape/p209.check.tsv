@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
-23	NW	latinworks19wycl=dommos | johanniswyclift00mattgoog=dominos | johanniswyclift01mattgoog=dommos | tractatusdepotes00wycl=dommos		4	plate
+23	PLATE	latinworks19wycl=dommos | johanniswyclift00mattgoog=dominos | johanniswyclift01mattgoog=dommos | tractatusdepotes00wycl=dommos		4	accept
 34	R2	latinworks19wycl=citui | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=cum | tractatusdepotes00wycl=cum		4	accept
-35	R4	latinworks19wycl=facis | johanniswyclift00mattgoog=facts | johanniswyclift01mattgoog=facts | tractatusdepotes00wycl=facis		4	plate
+35	PLATE	latinworks19wycl=facis | johanniswyclift00mattgoog=facts | johanniswyclift01mattgoog=facts | tractatusdepotes00wycl=facis		4	accept
 38	R3a	latinworks19wycl=cenam | johanniswyclift00mattgoog=cenant | johanniswyclift01mattgoog=cenam | tractatusdepotes00wycl=cenam		4	accept
 41	R2	latinworks19wycl=amicos | johanniswyclift00mattgoog=amicos | johanniswyclift01mattgoog=amkos | tractatusdepotes00wycl=amicos		4	accept
 42	R2	latinworks19wycl=tuos | johanniswyclift00mattgoog=ttios | johanniswyclift01mattgoog=tnos | tractatusdepotes00wycl=tuos		4	accept
@@ -11,14 +11,14 @@ pos	rule	forms	support	voters	resolution
 54	R2	latinworks19wycl=te | johanniswyclift00mattgoog=te | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=te		4	accept
 55	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=et		4	accept
 56	R2	latinworks19wycl=fiat | johanniswyclift00mattgoog=fiat | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fiat		4	accept
-61	R4	latinworks19wycl=facis | johanniswyclift00mattgoog=facts | johanniswyclift01mattgoog=facts | tractatusdepotes00wycl=facis		4	plate
-67	R4	latinworks19wycl=cecos | johanniswyclift00mattgoog=cecosy | johanniswyclift01mattgoog=cecos | tractatusdepotes00wycl=cecosy		4	plate
+61	PLATE	latinworks19wycl=facis | johanniswyclift00mattgoog=facts | johanniswyclift01mattgoog=facts | tractatusdepotes00wycl=facis		4	accept
+67	PLATE	latinworks19wycl=cecos | johanniswyclift00mattgoog=cecosy | johanniswyclift01mattgoog=cecos | tractatusdepotes00wycl=cecosy		4	accept
 68	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 70	R3a	latinworks19wycl=eris | johanniswyclift00mattgoog=eris | johanniswyclift01mattgoog=ens | tractatusdepotes00wycl=eris		4	accept
 133	R5a	latinworks19wycl=hii | johanniswyclift00mattgoog=hii | johanniswyclift01mattgoog=hii | tractatusdepotes00wycl=hii		4	accept
-195	R4	latinworks19wycl=quin | johanniswyclift00mattgoog=quin | johanniswyclift01mattgoog=oquin | tractatusdepotes00wycl=oquin		4	plate
+195	PLATE	latinworks19wycl=quin | johanniswyclift00mattgoog=quin | johanniswyclift01mattgoog=oquin | tractatusdepotes00wycl=oquin		4	accept
 200	R5a	latinworks19wycl=iudas | johanniswyclift00mattgoog=iudas | johanniswyclift01mattgoog=iudas | tractatusdepotes00wycl=iudas		4	accept
-201	R3	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=ouantum		4	plate
+201	PLATE	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=ouantum		4	accept
 204	R2	latinworks19wycl=iuoum | johanniswyclift00mattgoog=iugum | johanniswyclift01mattgoog=iuiruni | tractatusdepotes00wycl=iuofum		4	accept
 206	R4a	latinworks19wycl=concernit | johanniswyclift00mattgoog=concemit | johanniswyclift01mattgoog=concemit | tractatusdepotes00wycl=concernitthose		4	accept
 250	EDGE	latinworks19wycl=potestate | tractatusdepotes00wycl=potestate		2	accept

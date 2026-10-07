@@ -11,7 +11,6 @@
 {"t": "est", "leaf": 146, "row": 1, "para": false, "head": false, "pos": 10}
 {"t": "amare", "leaf": 146, "row": 1, "para": false, "head": false, "pos": 11}
 {"t": "sapienciam", "leaf": 146, "row": 1, "para": false, "head": false, "pos": 12}
-{"t": "id", "leaf": 146, "row": 2, "para": false, "head": false, "pos": 13}
 {"t": "incarnatam,", "leaf": 146, "row": 2, "para": false, "head": false, "pos": 14}
 {"t": "igitur", "leaf": 146, "row": 2, "para": false, "head": false, "pos": 15}
 {"t": "melius", "leaf": 146, "row": 2, "para": false, "head": false, "pos": 16}
@@ -125,7 +124,7 @@
 {"t": "nec", "leaf": 146, "row": 18, "para": false, "head": false, "pos": 124}
 {"t": "aliam", "leaf": 146, "row": 18, "para": false, "head": false, "pos": 125}
 {"t": "sacerdotalem", "leaf": 146, "row": 18, "para": false, "head": false, "pos": 126}
-{"t": "ministracionem,", "leaf": 146, "row": 18, "para": false, "head": false, "pos": 127}
+{"t": "ministracionem", "leaf": 146, "row": 18, "para": false, "head": false, "pos": 127}
 {"t": "sed", "leaf": 146, "row": 19, "para": false, "head": false, "pos": 128}
 {"t": "ad", "leaf": 146, "row": 19, "para": false, "head": false, "pos": 129}
 {"t": "vite", "leaf": 146, "row": 19, "para": false, "head": false, "pos": 130}
@@ -155,7 +154,7 @@
 {"t": "tantum", "leaf": 146, "row": 22, "para": false, "head": false, "pos": 154}
 {"t": "viciui", "leaf": 146, "row": 23, "para": false, "head": false, "pos": 155}
 {"t": "meo", "leaf": 146, "row": 23, "para": false, "head": false, "pos": 156}
-{"t": "prele", "leaf": 146, "row": 23, "para": false, "head": false, "pos": 157}
+{"t": "prebe", "leaf": 146, "row": 23, "para": false, "head": false, "pos": 157}
 {"t": "necessaria.", "leaf": 146, "row": 23, "para": false, "head": false, "pos": 158}
 {"t": "Consideremus", "leaf": 146, "row": 23, "para": false, "head": false, "pos": 159}
 {"t": "igitur", "leaf": 146, "row": 23, "para": false, "head": false, "pos": 160}

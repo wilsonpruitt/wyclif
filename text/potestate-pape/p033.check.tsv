@@ -6,6 +6,6 @@ pos	rule	forms	support	voters	resolution
 73	R3a	latinworks19wycl=legitur | johanniswyclift00mattgoog=2 | johanniswyclift01mattgoog=legitur | tractatusdepotes00wycl=legitur		4	accept
 91	R5a	latinworks19wycl=yudas | johanniswyclift00mattgoog=yudas | johanniswyclift01mattgoog=yudas | tractatusdepotes00wycl=yudas		4	accept
 92	R2	latinworks19wycl=fuit | johanniswyclift00mattgoog=fiiit | johanniswyclift01mattgoog=fuit | tractatusdepotes00wycl=fuit		4	accept
-105	R3	latinworks19wycl=primo | johanniswyclift00mattgoog=primo | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=irrimo		4	plate
-112	NW	latinworks19wycl=probabihs | johanniswyclift00mattgoog=probabihs | johanniswyclift01mattgoog=probabihs | tractatusdepotes00wycl=probabilis		4	plate
-188	R4	latinworks19wycl=aaronita | johanniswyclift00mattgoog=aaronita | johanniswyclift01mattgoog=soaaronita | tractatusdepotes00wycl=soaaronita		4	plate
+105	PLATE	latinworks19wycl=primo | johanniswyclift00mattgoog=primo | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=irrimo		4	accept
+112	PLATE	latinworks19wycl=probabihs | johanniswyclift00mattgoog=probabihs | johanniswyclift01mattgoog=probabihs | tractatusdepotes00wycl=probabilis		4	accept
+188	PLATE	latinworks19wycl=aaronita | johanniswyclift00mattgoog=aaronita | johanniswyclift01mattgoog=soaaronita | tractatusdepotes00wycl=soaaronita		4	accept

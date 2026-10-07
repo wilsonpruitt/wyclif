@@ -3,8 +3,8 @@ pos	rule	forms	support	voters	resolution
 28	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
 65	R3a	latinworks19wycl=pessimian | johanniswyclift00mattgoog=pessimian | johanniswyclift01mattgoog=pessimi | tractatusdepotes00wycl=pessimian		4	accept
 66	R3a	latinworks19wycl=tichristi | johanniswyclift00mattgoog=tichristi | johanniswyclift01mattgoog=antichristi | tractatusdepotes00wycl=tichristi		4	accept
-77	R5	latinworks19wycl=seductosin | johanniswyclift00mattgoog=seductosin | tractatusdepotes00wycl=seductosin		3	plate
-132	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
-152	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
-179	NW	latinworks19wycl=prestanciori | johanniswyclift00mattgoog=prestancion | johanniswyclift01mattgoog=prestancion | tractatusdepotes00wycl=prestancion		4	plate
+77	PLATE	latinworks19wycl=seductosin | johanniswyclift00mattgoog=seductosin | tractatusdepotes00wycl=seductosin		3	accept
+132	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
+152	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
+179	PLATE	latinworks19wycl=prestanciori | johanniswyclift00mattgoog=prestancion | johanniswyclift01mattgoog=prestancion | tractatusdepotes00wycl=prestancion		4	accept
 184	R5a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=m		4	accept
