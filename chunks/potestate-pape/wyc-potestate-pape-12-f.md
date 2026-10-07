@@ -25,25 +25,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 333.20: Heresy of maintaining ,.. .. . .... ,.. that bishops should rule . .... because qualified by . .... .1, • wisdom.
-- 334.1: in ruiing they forsake their _ . 1 r . . . r otfice for a lower one.
-- 335.14: oUr bishops found their o • i a • ry , • i ., a tt practices on
-- 335.16: iscariot, Ananias and , . _ . . sapphira.
-- 335.34: esse deest.
-- 336.17: ciirist's laws
-- 336.18: setgainfuif°r traditions.
-- 336.34: cerelatam.
-- 337.9: iIlstead of
-- 337.11: sairSrcanonized for Pa)'ment-
-- 337.21: we shouid
-- 337.22: mpkatronS andUr
-- 337.23: praye^to him.
-- 338.9: What preaching , ^ . . . shouid be.
-- 338.31: No laws Chnst s needed.
+- 333.20: Heresy of maintaining that bishops should rule because qualified by wisdom.
+- 334.1: In ruling they forsake their office for a lower one.
+- 335.14: Our bishops found their practices on those of Iscariot, Ananias and Sapphira,
+- 336.17: Christ's laws set aside for gainful traditions.
+- 337.9: Instead of obeying Christ's teaching we follow modern saints canonized for payment.
+- 337.21: We should make Jesus our patron and address all prayers to him.
 
 ## Notes
 

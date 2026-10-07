@@ -43,28 +43,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 66.1: Laws wouid
-- 66.2: a?ide except so far as they . . . - _ , were bereticai.
-- 66.19: it is argued that without A eiections order would fail in the church.
-- 66.26: This is doing
-- 66.27: ^ma^come^
-- 66.32: c.od has not
-- 66.33: con1iarmdan°v eiection made.
-- 67.4: Eiectors often
-- 67.10: The apostie* clected Matthias f f . .
-- 67.11: by lot.
-- 67.33: marg.: 3.
-- 67.33: 12. Act. I, 20. 2'3. Act. I. 24, 25.
-- 68.8: Fout ways of choice : i. Lot. 2. Bishop's . ... appointment. 3. Hereditary . succession; 4. Election as ..... . as now practised. ... . . ,
-- 68.24: it mav be to select to thc ■» * * . • * best of our
-- 68.26: and then cast lols, as did the .... . . .. „ aposties.
-- 69.1: jins wouid nrevent the ., , , • objection that the lot might . . • ... ... taii on oiie
-- 69.12: Appointment bv bishops t\ j , might be good, t»ut is now /^•i , a j • i • -r» -r-» -i ruined by aii
-- 69.15: traditfons.
+- 66.19: It is argued that without elections order would fail in the Church.
+- 66.26: This is doing evil that good may come.
+- 66.32: (;od has not engaged to confirm any election made.
+- 67.4: Electors often err.
+- 67.10: The apostles elected Matthias by lot.
+- 68.8: Four ways of choice: 1. Lot. 2. Bishop's appointment. 3. Hereditary succession; 4. Election as as now practised.
+- 68.24: It may be well to select to the best of our judgement and then cast lots, as did the apostles.
+- 69.1: This would prevent the objection that the lot might fall on one quite unfit.
+- 69.12: Appointment by bishops might be good, but is now ruined by all kinds of traditions.
 
 ## Notes
 

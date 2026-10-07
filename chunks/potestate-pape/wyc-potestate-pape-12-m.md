@@ -49,20 +49,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 360.28: Thc pope bound to be — . the hoiiest
-- 360.30: men, . . .
-- 360.33: papa esse.
-- 361.1: if not, he sliould not . J . . v . take thc name Of pope. n 1 i* -r - • . , ,
-- 361.24: So too of tne honours that . ne ciaims,
-- 362.7: »nd of the powers that . . * . . . . . . . . he is supposed to wield. .
-- 362.24: To be a pope he niust
-- 362.25: bc CGo5n
-- 363.14: Hence nonc should take . , . . ^ papai honours who does not . . . know himseif called of God; ... . butnonecan
-- 363.34: 23. De Gura Past. I, 9.
+- 360.28: The pope is bound to be the holiest of men,
+- 361.1: if not, he should not take the name of pope.
+- 361.24: So too of the honours that he claims,
+- 362.7: and of the powers that he is supposed to wield.
+- 362.24: To be a true pope he must be chosen by God.
+- 363.14: Hence none should take papal honours who does not know himself called of God; but none can know this.
 
 ## Notes
 

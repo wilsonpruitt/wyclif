@@ -43,27 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 214.3: FmakeSean°n
-- 214.4: apa°postoiic.ot
-- 215.4: A s^c|Jot
-- 215.5: follows Chnst and Peter<
-- 215.19: The papai
-- 215.20: foun^edVn a
-- 215.21: cmperor who had no right A , ^ . to make such.
-- 216.11: Even ciu-ist
-- 216.25: The Roman 2? Clmrch is wherever the mass of the faithful are.
-- 216.31: 16. Cap. XXV.
-- 217.14: _ Pr9ud and Cesanan priosts J J ar* An,icnrists-
-- 217.28: Sucn are more numerous in . . . Engiand than true priests. , . , . , . . , ,
-- 218.7: Obedience
-- 218.8: Roiuniesshitrcb
-- 218.9: miin8returnUly
-- 218.25: 1'lace is 2?
-- 218.26: importance.
+- 214.3: False election makes an apostate, not apostolic.
+- 215.4: A pope is not truly such unless he follows Christ and Peter.
+- 215.19: The papal dignity is founded on a grant of the emperor who had no right to make such.
+- 216.11: Even Christ s election is not enough without predestination as Judas shews,
+- 216.25: The Roman Church is wherever the mass of the faithful are.
+- 217.14: Proud and Cesarian priests are Antichrists.
+- 217.28: Such are more numerous in England than true priests.
+- 218.7: Obedience is not due to the Roman Church unless it ministers truly in return.
 
 ## Notes
 

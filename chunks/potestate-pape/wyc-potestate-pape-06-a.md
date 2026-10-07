@@ -49,27 +49,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 102.26: Nd apostie all Chrisfs ~. . human powers, nor has every 'm _ , pope aii the
-- 103.1: powers of an aP°stlt-
-- 103.8: Christ could
-- 103.9: iifeyandWtake1Sit again, which T . v . • | • . . . oniy God can do.
-- 103.20: Christ had power
-- 103.21: to redeein thc luanaii race.
-- 103.32: 1 1. Opp. tom. III, 610.
-- 104.1: This power was due to the , ,, ,. . , . n ,. two natures in Christ. , ,. . ,
-- 104.9: Some argue that God can . . . , . givetoaman the grace ^« • and power
-- 104.12: Christ's° humanity.
-- 105.1: In treating or tlie Incarnation we have said that Christ was of the same spccies with his brothers but by the hypostatic union his power and beauty were other than man's.
-- 105.27: A quality cannot exist without a subject and those who fancy it may do so in the Host injure the
-- 105.31: Church.
-- 106.11: Thepopeshave not all the . r r powers of the apostles. .
-- 106.14: cannot preiates
-- 106.15: ™re&notS needed l5
-- 106.16: now.
+- 102.26: No apostle had all Christ's human powers, nor has every pope all the
+- 103.1: powers of an apostle.
+- 103.8: Christ could lay down his life and take it again, which only God can do,
+- 103.20: Christ had power to redeem the human race.
+- 104.1: This power was due to the two natures in Christ.
+- 104.9: Some argue that God can give toa man the grace and power given to Christ's humanity.
+- 105.1: In treating of the Incarnation we have said that Christ was of the same species with his brothers but by the hypostatic union his power and beauty were other than man's,
+- 105.27: A quality cannot exist without a subject and those who fancy it may do so in the Host injure the Church.
+- 106.11: The popes have not all the powers of the apostles.
+- 106.14: Our prelates cannot work miracles, which are not needed now.
 
 ## Notes
 

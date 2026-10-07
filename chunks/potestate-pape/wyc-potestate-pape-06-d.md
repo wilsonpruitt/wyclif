@@ -37,38 +37,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 114.5: So shouid it be with priests now, who should . . . . ■ . . speak in the name of the . . ... Lord.
-- 114.13: i ^iifwouid 1891
-- 114.14: iaw an^d^order in the Church. i5
-- 114.22: 2. There be degrees . . ... of amhority, evcn if it rests . 1 ' on hoiiness.
-- 114.30: 3. in receiving 3o orders a man . ... receives authority and . .
-- 114.32: ruie.
-- 115.11: 1. repiy
-- 115.12: ^houf/reif7 only on divine ,. . ., ,. autnority,
-- 115.14: iato donwithng civil power. __
-- 115.28: aii authority
-- 115.29: God°nmar?s
-- 115.30: ^Vniy1 1S
-- 115.31: Plomulsatlon'
-- 116.6: We do not know what . race or power God has given to any man, and we try „ . , to make up for our .
-- 116.10: ^ignorance degrees Tn The
-- 116.11: clergy. ....
-- 116.32: 2. Hoiiness a sign but not . a measure or authority. .
-- 117.1: Baiaam and
-- 117.2: prophesied though wicked. . . . .
-- 117.16: 3. The power of orders is * 1 A
-- 117.17: aiso^power
-- 117.23: but^curate receive it by a bishop's i x . ?appointment unless he is a faithfui
-- 117.26: hera]d of God> from whom the §ift comes- ' r _
-- 117.35: i5. A in marg. : 3.
-- 118.6: Apontiffwho
-- 118.7: vic?rhwhiie
-- 118.8: ^the^worsrof Antichrists.
-- 118.29: The whoie bodyofthe /t f , • • r reprobaie arc Antichrist; so is each of
+- 114.30: 3, In receiving orders a man receives authority and rule,
+- 115.11: I reply: 1. The clergy should rely only on divine authority, having nothing to do with civil power.
+- 115.28: All authority belongs to God; man's part in it is only promulgation,
+- 116.6: We do not know what grace or power God has given to any man, and we try to make up for our ignorance by ordaining degrees in the clergy.
+- 116.32: 2. Holiness is a sign but not a measure of authority.
+- 117.1: Balaam and others prophesied though wicked.
+- 117.16: 3. The power of orders is also a power to rule,
+- 117.23: but a curate does not receive it by a bishop's appointment unless he is a faithful herald of God, from whom the gift comes.
 
 ## Notes
 

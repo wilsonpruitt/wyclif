@@ -37,24 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 106.11: Thepopeshave not all the . r r powers of the apostles. .
-- 106.14: cannot preiates
-- 106.15: ™re&notS needed l5
-- 106.16: now.
-- 107.4: The aposties ,iacl power to _T _ , , . . . ocast out deviis and to deliver . _ . offenders to Satan.
-- 107.18: ah are not ahke in grace . . ' . or power.
-- 108.1: Even in the ministrations of sacraments the Apostles . . . had greater
-- 108.4: P°Ver
-- 108.18: it our preiates have these . . . great powers thev should . use them.
-- 108.25: Our priests cannot rule books to be canonical, . . _ TT
-- 109.3: nor have their vvritings anv ...... o i • ciaim to such authoritv as . . . . . beiongs' to Scripture. _ ,. .
-- 109.11: i88fl
-- 110.11: if they such ( power / x theoiogicai ,; studv and ; * . . canon law would be . . useiess.
-- 110.29: it wouid rhat God gave . . . an imperfect law to the 1 . . aposties.
+- 107.4: The apostles had power to cast out devils and to deliver offenders to Satan.
+- 107.18: All are not alike in grace or power,.
+- 108.1: Even in the ministrations of sacraments the Apostles had greater power.
+- 108.18: It our prelates have these great powers they should use them.
+- 108.25: Our priests cannot rule books to be canonical,
+- 109.3: nor have their writings any claim to such authority as belongs to Scripture.
+- 110.11: If they had such power theological study and canon law would be useless,
 
 ## Notes
 

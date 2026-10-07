@@ -55,19 +55,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
+- 135.13: Causes of Peter's primacy.
 - 135.22: Humility.
-- 135.24: 2 5 acceptavit.
 - 135.25: Mildness.
-- 137.21: ic»5a
-- 137.25: 2 Great
-- 137.25: authoritv of 7 7 x st. Bemard.
-- 137.33: 33. Cap. XXVII.
-- 138.3: He taught that the Pope should . not exercise secular rule. ■ * . . . ,
-- 138.19: ig5b
+- 138.3: He taught that the Pope should not exercise secular rule.
 
 ## Notes
 

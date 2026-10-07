@@ -31,27 +31,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 218.7: Obedience
-- 218.8: Roiuniesshitrcb
-- 218.9: miin8returnUly
-- 218.25: 1'lace is 2?
-- 218.26: importance.
-- 219.8: of thc four chief sees thre to * d ; _
-- 219.9: are now schismat:c. . .
-- 219.24: going"fip a mountain, like , , . , , tne Samaritanv
-- 219.26: saiomo^s
-- 219.27: ^mpljeeJske
-- 221.17: Thc P°ff*om abomiiiation
-- 221.19: "{JJ^J]^^ Christ.
-- 222.1: a Masphemous hvpocrite b * t usurps ChrisCs
-- 222.3: place. ,
-- 222.20: itisargued that the pope s .
-- 222.21: secufar greatness is 1 r needed tor the protection . . the Church.
-- 222.31: niarg. : /.
+- 218.25: Place is of little importance.
+- 219.8: Of the four chief sees three are now schismatic.
+- 219.23: We gain nothing by going up a mountain, like the Samaritans, or into Salomon's temple, like the Jews.
+- 221.17: The popedom is the abomination of desolation spoken of by Daniel and Christ.
+- 222.1: A blasphemous hypocrite usurps Christ's place.
 
 ## Notes
 

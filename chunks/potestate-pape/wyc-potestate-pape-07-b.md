@@ -31,28 +31,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 138.3: He taught that the Pope should . not exercise secular rule. ■ * . . . ,
-- 138.19: ig5b
-- 139.1: Peter was not to maintain x . nis primacy
-- 139.21: iq5c
-- 140.10: The gift of keys was to . Peter as attornev for the cimrch.
-- 140.22: Paui heid the keys(know!edge. ... ., ^ and power) even better . than Peter.
-- 141.16: Joim x\n an
-- 141.17: keys which
-- 141.18: l9b* simple men
-- 141.18: to thcir ....... tyranny.
-- 141.29: it is faise that the keys mean , - , ,
-- 141.30: 3o excommuni-
-- 141.30: cation and absoiution.
-- 141.34: 32. B: ad deest.
-- 142.14: wandnn|SonnthePetri
-- 142.15: Sfthorfty "o his vicar.
-- 142.32: His courage should be an . ,. ,. , .. , , , exampie,
-- 142.34: 1. Cap. VI.
+- 139.1: Peter was not to maintain his primacy by force,
+- 140.10: The gift of the keys was to Peter as attorney for the Church.
+- 140.22: Paul held the keys (knowledge and power) even better than Peter.
+- 141.16: John XXII an others forged keys which subjected simple men to their tyranny.
+- 141.29: It is false that the keys mean excommunication and absolution.
 
 ## Notes
 

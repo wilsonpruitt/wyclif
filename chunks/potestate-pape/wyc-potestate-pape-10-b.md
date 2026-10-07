@@ -25,33 +25,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 223.13: tT^ec jjj4^*
-- 223.14: c^sh\vhenVe
-- 223.15: Poor-
-- 223.23: Attempt at extortion by tne pope's legate Otto. .
-- 223.32: sidio.
-- 224.22: How it was
-- 224.23: Icpc c '
-- 225.9: Tne request was scandalous.
-- 225.20: It claimed much more than was needed
-- 225.28: and did not follow the precedent of St. Paul.
-- 226.12: Expenence sfaews erll ot
-- 226.23: The oope
-- 226.24: exact money trom England. . .
-- 227.7: Constantine's donation gives . - - . ,rrTTT no dominion
-- 227.21: Harm done by
-- 227.22: in weakenig the Empire. . . - ., . , ,. . .
-- 227.30: Limits of
-- 227.31: the Pope.
-- 228.14: ^toVaveVis1^
-- 228.15: P7romyGod?ct i5
-- 228.26: This is true only of a pope . .1. who foiiows Peter and Paul
-- 228.33: and of a
-- 228.34: primacy.
+- 223.13: The plea is false, tor the Church throve most when poor.
+- 223.23: Attempt at extortion by the pope's legate Otto.
+- 224.22: How it was repelled.
+- 225.9: The request was scandalous.
+- 225.20: It claimed much more than was needed and did not follow the precedent of St. Paul.
+- 226.12: Experience shews evil of endowment.
+- 226.23: The pope has no right to exact money from England.
+- 227.7: Constantine's donation gives no dominion here.
+- 227.21: Harm done by the popes in weakenig the Empire.
+- 227.30: Limits of obedience to the Pope.
 
 ## Notes
 

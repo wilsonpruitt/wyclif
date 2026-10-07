@@ -37,22 +37,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 237.1: it is said that withdrawing m - • • t 1,.- . • endowment would ruin ihe ... . ~
-- 237.3: Church.
-- 237.28: Answer.
-- 237.29: tbrbidden by
-- 237.32: tI. Cap. IX.
-- 238.16: 2. Endowment lias spread . . discord in the Churcli.
-- 238.21: 3. it is a constant source ... r . of error and contention.
-- 239.16: Lavmen should
-- 239.17: eXc?mmuni-
-- 239.18: wt?hdraw?ng cndowments-
-- 240.6: The saints wlio appioved cndowment now know that _ # they erred.
-- 241.8: We must helieve that t!ie 1 . . ' saints who approved 11 , . endowment repented. 1 t-» • 1
+- 237.28: Answer. 1. It is forbidden by God.
+- 238.16: 2. Endowment has spread discord in the Church.
+- 238.21: 3. It is a constant source of error and contention.
+- 239.16: Laymen should not fear excommunication for withdrawing endowments.
+- 240.6: The saints who approved endowment now know that they erred.
+- 241.8: We must believe that the saints who approved endowment repented.
 
 ## Notes
 

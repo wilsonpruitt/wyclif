@@ -43,29 +43,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 110.11: if they such ( power / x theoiogicai ,; studv and ; * . . canon law would be . . useiess.
-- 110.29: it wouid rhat God gave . . . an imperfect law to the 1 . . aposties.
-- 111.3: We are not bound to , , beiieve that tne pope is .... , liead of the Church. wiiat it rivai popes arc . . . ciected?
-- 112.12: One pope revokes the °
-- 112.13: danCoteher°f
-- 112.24: 1 wouid rather rely on the four . . . . _ . t , great doctors.
-- 113.6: if the poPe's
-- 113.7: allowed, thc
-- 113.8: wouid be ot
-- 113.9: 1 8oa than the
-- 113.10: s°sPes-
-- 113.20: ah the
-- 113.20: Scripture is of ... . . . . equai authoritv, as were all thc • aposties.
-- 114.5: So shouid it be with priests now, who should . . . . ■ . . speak in the name of the . . ... Lord.
-- 114.13: i ^iifwouid 1891
-- 114.14: iaw an^d^order in the Church. i5
-- 114.22: 2. There be degrees . . ... of amhority, evcn if it rests . 1 ' on hoiiness.
-- 114.30: 3. in receiving 3o orders a man . ... receives authority and . .
-- 114.32: ruie.
+- 110.29: It would imply that God gave an imperfect law to the apostles.
+- 111.3: We are not bound to believe that the pope is head of the Church. What if rival popes are elected?
+- 112.12: One pope revokes the decrees of another.
+- 112.24: I would rather rely on the four great doctors.
+- 113.6: If the pope's claims are allowed, the decretals would be of more authority than the gospels.
+- 113.20: All the Scripture is of equal authority, as were all the apostles.
+- 114.5: So should it be with priests now, who should speak in the name of the Lord,
+- 114.13: Objection: 1. This would confuse all law and order in the Church.
+- 114.22: 2. There must be degrees of authority, even if it rests on holiness.
 
 ## Notes
 

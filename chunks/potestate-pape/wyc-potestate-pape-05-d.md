@@ -25,35 +25,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 89.1: Another foiiy
-- 89.2: lafd^on ponents
-- 89.3: assaainUiness0t
-- 89.8: a third foiiy is to argue . ...... . , . that if aims were rightly , , , ... . received they
-- 89.11: withdrawn, even though , . - , . the conditions
-- 89.13: ° are81 disregarded. . r .
-- 89.21: Fndowments
-- 89.22: 83a WoSier if we
-- 89.23: thev are the
-- 89.24: property1 of the
-- 90.1: We ciaim wealth as . ..... ^ Ch«st's use it as worldly , . . property.
-- 91.11: it mav bc bcbt
-- 91.12: man to¥e15 a state that is not ,. r ' xt • . , the best.
-- 91.20: Even the devils protit . iiie church accidentally. .
-- 92.1: aii pnests should live , , r ... aiike and oniy
-- 92.16: The pope should set the . , n , . . , exampie.
-- 93.10: That the pope
-- 93.11: %hmulh wel?th°
-- 93.12: 4a 'chantyf*
-- 93.18: u peter.
-- 93.19: borhSiw£?Mod
-- 93.20: ^f^power^o?1
-- 93.21: neallns-
-- 93.31: Exampies ot Silvester and ....... _ »6 Gregory.
-- 93.33: deest.
+- 89.21: Endowments would be quite other if we recognized that they are the common property of the poor.
+- 90.1: We claim wealth as Christ's heritage but use it as worldly property.
+- 90.13: Danger of riches.
+- 91.11: It may be best for a given man to be in a state that is not the best.
+- 91.20: Even the devils profit the church accidentally.
+- 92.1: All priests should live alike and only on alms.
+- 92.16: The pope should set the example.
+- 93.10: That the pope should have so much wealth is against charity,
+- 93.18: If like Peter, he had not gold or silver, God might give him the power of healing.
 
 ## Notes
 

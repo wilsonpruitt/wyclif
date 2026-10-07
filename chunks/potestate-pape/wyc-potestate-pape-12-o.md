@@ -55,28 +55,16 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 369.1: i'opc Nichoias is said to have ordained that the Pope should aiways be a Franciscan. .
-- 369.10: This ordinance can be repealed . oniy by a franciscan Pope mx ... and has not
-- 369.13: repeaied.
-- 369.20: aii such decrees are , void.
-- 370.2: it is madness to set svmbols tr o i above the
-- 370.4: symboiized.
-- 370.16: confentwfth
-- 370.17: thihelaepostiesh
-- 370.18: kachHsi'om
-- 370.25: Ruiers shouid
-- 370.26: endowments abused by . . . tii ciergy.
-- 371.1: To do so is not to rob the . Church but to protect it. . ...
-- 372.17: To maintain tlie ordinances '
-- 372.18: workhofScharft far higher than worldly gifts. *
-- 372.27: Otherwise the
-- 372.27: state ot . _ possessioners is higher . . than ihat
-- 373.9: As the worid grows older . . avarice increases and . . . . ,. . r "eeds to be m0l'c rcsisted- 1 ° i i •
-- 373.29: The fifth commandment . . teaches us to honour our . mother the church and .... remove aii. blots fr°m her. , , . ,.
+- 369.1: Pope Nicholas is said to have ordained that the Pope should always be a Franciscan.
+- 369.10: This ordinance can be repealed only by a franciscan Pope and has not been so repealed,
+- 369.20: All such decrees are void.
+- 370.2: It is madness to set symbols above the virtue symbolized.
+- 370.16: Let us be content with the rites which the apostles learned from Christ.
+- 370.25: Rulers should withdraw endowments abused by the clergy.
+- 371.1: To do so is not Church but to protect it.
+- 372.17: To maintain the ordinances of Christ is a work of charity far higher than worldly gifts.
+- 372.27: Otherwise the state of possessioners is higher than that of Friars.
+- 373.9: As the world grows older avarice increases and needs to be more resisted.
 
 ## Notes
 

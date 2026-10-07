@@ -49,24 +49,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 320.9: ordamedPby ChbySgiad°yld
-- 320.11: such^wouM*
-- 320.12: by EoHness not
-- 320.13: eTection*"
-- 320.23: The defenders of the Pope . . - . shouid prove his authoritv . trom Scriptufe or the value . . . . . _ of his infiuence
-- 320.27: Church.
-- 321.11: Nor can he establish a ^ ^ r ' J1 reiation between God and man. ...
-- 321.26: The endowed pope is r» i f " • i . Antichrist.
-- 322.18: The
-- 322.19: is the abomination . , i v • '±. ±. • • • ot desoiation.
-- 322.35: 35. B: includo.
-- 323.22: it is argued lliat Antichrist TT _ TT sits in the temple and so . 7 7-v • 7 • • cannot s tand.
-- 323.31: There is no contradiction.
-- 324.31: ditur.
+- 320.23: The defenders of the Pope should prove his authority from Scripture or the value of his influence — over the Church.
+- 321.11: Nor can he establish a relation between God and man.
+- 321.26: The endowed pope is Antichrist.
+- 322.18: The pseudopope is the abomination of desolation.
+- 323.22: It is argued that Antichrist sits in the temple and so cannot stand.
+- 323.31: 'There is no contradiction.
 
 ## Notes
 

@@ -43,26 +43,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 40.4: aii are bound, to serve Christ, . ... , each in his own wav. . . .. . . .
-- 40.31: Difference
-- 40.32: memberSiip
-- 40.33: of\ehe°cimrch.
-- 41.20: Members wlio
-- 41.21: sin lose their D0Wer-
-- 41.29: i7ia
-- 42.26: Aithough vvicked lose . . . . power, the
-- 42.28: pfofit°by their
-- 42.34: 29, A in marg.: Nota.
-- 43.1: riic greatest powcr God , . -r f . . i'i «\ grants is that
-- 43.3: predestination.
-- 43.11: The power of lc °pt*
-- 43.16: We must first decide which oi • , • ' • j ■ . • j • , i« • the aposties
-- 43.18: primacy!
-- 43.22: Fitzraiph's proofs of Pctcrs 1 r 1 • • j_ j» • 1 t preeminence.
+- 40.31: Difference between membership of the body and of the Church.
+- 41.20: Members who tall into mortal sin lose their power.
+- 42.26: Although the wicked lose power, the righteous may profit by their ministrations,
+- 43.1: The greatest power God grants is that of predestination.
 
 ## Notes
 

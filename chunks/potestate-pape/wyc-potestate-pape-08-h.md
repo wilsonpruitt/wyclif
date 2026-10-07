@@ -25,17 +25,9 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 192.10: Our preiates deny in deed.
-- 193.12: What it is to redeem thc . . - time.
-- 193.26: It is _to^forego
-- 193.27: 209^ indnigcnce
-- 193.34: modo deest.
-- 194.8: There must a pope, but he *■ must be of Chrisfs t \ appointing.
-- 194.29: r 2 5. Gap. XLI.
+- 192.10: Our prelates deny Christ in deed.
+- 193.12: What it is to redeem the time.
+- 193.26: It is to forego a life of self indulgence
 
 ## Notes
 

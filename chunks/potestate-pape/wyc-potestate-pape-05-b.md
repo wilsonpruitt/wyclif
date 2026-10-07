@@ -25,33 +25,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 83.4: ^^ildP
-- 83.5: anSiftawbich
-- 83.6: injgj"e*rthe
-- 83.16: no perfection
-- 83.17: in ordering it properly, but . . , , . thjs is noyhe
-- 83.19: dergy
-- 83.28: who shouid desire all civil - , , , mie to be in
-- 84.23: Wouid that
-- 84.24: °U]ike1Stheps
-- 84.25: a e?ampieeofan
-- 84.26: and^drew others to it.
-- 85.8: Evangeiicai
-- 85.9: ^J^Sonsist8
-- 85.10: weaith,inbSutn?n
-- 85.11: which^weafth
-- 85.12: he,d'
-- 85.25: 2 For our work
-- 85.25: "s priests w neecfno^civif dominion.
-- 86.3: Aims sufficed
-- 86.4: for *t,£Pests Christians were fewer
-- 86.6: thertithese "°
-- 86.14: Chrisfs
-- 86.14: urdinances are expiained awav i3 or disregarded. - . ,
+- 83.28: who should desire all civil rule to be in the laity.
+- 84.23: Would that our bishops like the apostles set an example of perfection and drew others to it.
+- 85.8: Evangelical poverty does not consist in having no wealth, but in the spirit in which wealth is held,
+- 85.25: For our work as priests we need no civil dominion.
+- 86.3: Alms sufficed for the priests when Christians were fewer and there were no tithes.
+- 86.14: Christ's ordinances are explained away or disregarded.
 
 ## Notes
 

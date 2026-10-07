@@ -49,23 +49,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 394.2: FalSofPtheition cndowed; icv owc more
-- 394.4: S whicbfmaieftS
-- 394.5: capTbieSof servicc.
-- 394.30: st. Cregoty's 3o gift of all his ... . . .. . patrimony involved veriial . . . .
-- 394.32: sin.
-- 395.8: Why Constantine . . is not
-- 395.9: canonizcd as in thc Eastcrn Churcli. i • ttt
-- 395.29: Because he burdened thc r x . church with endowments .
-- 396.1: took which lie the Eastern Church
-- 396.16: Wyciif protcst of r . intention to honour and . ... servc the Church; r . . . .
-- 396.27: which is most
-- 396.28: advanced by^
-- 396.29: BnTegroom"
+- 394.2: False position of the endowed; they owe more service for gifts which make them less capable of service.
+- 394.30: St. Gregory's gift of all his patrimony involved venial sin.
+- 395.8: Why Constantine is not
+- 395.10: canonized as in the Eastern Church.
+- 395.29: Because he burdened the church with endowments
+- 396.1: which he took from the Eastern Church.
+- 396.16: Wyclif's protest of intention to honour and serve the Church;
+- 396.27: which is most honoured and advanced by following the Bridegroom.
 
 ## Notes
 

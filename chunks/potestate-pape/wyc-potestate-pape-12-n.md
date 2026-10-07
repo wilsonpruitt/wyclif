@@ -49,25 +49,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 365.7: The true papacy consists in service. 11 1 • 1 , 1 ...
-- 365.25: Ambition of
-- 365.26: that a man
-- 365.27: biin^efby atdn'
-- 366.12: Z: ::::: :r_;.::: ex:-;:::::. es: .; R ::::;.::; r ;::r-
-- 366.16: r:r :;^r . ;::::;: r:::::;;; ; : :;;n: : :iu::: :e:r.r -
-- 367.4: objection: The pope would be ,. subject to deprivation for , . every sin.
-- 367.14: in this matter much depends ... . on the^meaning
-- 367.21: whether it connotes _ _ , . hoiiness or worldlv ,. . ? „. . supremacy.
-- 368.11: objection: Every
-- 368.12: pope1 since every ought
-- 368.14: ^hoiinfss6^
-- 368.20: Even among the saints there . . are degrees of holiness,
-- 368.27: and it is devilish * ^ . . t •, presumption to claim tlie .. . j highcst.
-- 368.34: B: ex.
+- 365.7: The true papacy consists In service.
+- 365.25: Ambition of office shews that a man has been blinded by Satan.
+- 366.13: The pope should not appoint prelates.
+- 367.4: Objection: The pope would be subject to deprivation for every sin.
+- 367.14: In this matter much depends on the meaning of Pope;
+- 367.21: whether it connotes holiness or worldly supremacy.
+- 368.11: Objection: Every one ought to be pope, since every one ought to attain the highest holiness.
+- 368.20: Even among the saints there are degrees of holiness,
+- 368.27: and it is devilish presumption to claim the highest.
 
 ## Notes
 

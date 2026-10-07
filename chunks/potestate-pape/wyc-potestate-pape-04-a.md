@@ -55,33 +55,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 62.11: contimfedto his successors. i • , • , • ,
-- 62.21: what is
-- 62.22: Peeter£evicar
-- 62.23: makeThlm such
-- 63.9: Wo must
-- 63.10: f0hf8?wayteofin
-- 63.11: hav/Juthority
-- 63.27: Human choice avails nothing . . . . _ uniess it declares God's . r ....
-- 64.20: Ruiers are
-- 64.21: so* far as^hey
-- 64.22: HfeanTwiifof
-- 64.23: Chnst'
-- 65.8: The succcss of
-- 65.9: '"1 befudged
-- 65.10: work^of^the eIected-
-- 65.30: marg. : 1.
-- 66.1: Laws wouid
-- 66.2: a?ide except so far as they . . . - _ , were bereticai.
-- 66.19: it is argued that without A eiections order would fail in the church.
-- 66.26: This is doing
-- 66.27: ^ma^come^
-- 66.32: c.od has not
-- 66.33: con1iarmdan°v eiection made.
+- 62.10: Peter's primacy was continued to his successors.
+- 62.21: What is required of Peter's vicar and what makes him such.
+- 63.9: We must follow Peter in his way of life, and must have authority from God.
+- 63.27: Human choice avails nothing unless it declares God's will.
+- 64.20: Rulers are to be obeyed so far as they set forth the life and will of Christ.
+- 65.8: The success of an election is to be judged by the good works of the elected.
+- 66.1: Laws would not be set aside except so far as they were heretical.
 
 ## Notes
 

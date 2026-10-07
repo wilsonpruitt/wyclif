@@ -43,43 +43,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 93.10: That the pope
-- 93.11: %hmulh wel?th°
-- 93.12: 4a 'chantyf*
-- 93.18: u peter.
-- 93.19: borhSiw£?Mod
-- 93.20: ^f^power^o?1
-- 93.21: neallns-
-- 93.31: Exampies ot Silvester and ....... _ »6 Gregory.
-- 93.33: deest.
-- 94.9: Tveniai?y ed
-- 94.15: iVJ
-- 94.24: Let us foiiow the Holiest and . , . , . , . the virtues shown in his . . . . . , . , members.
-- 95.5: 5 tale.
-- 95.5: i am said to have admitted , ,. ,. ,. the distinction between povers .. . i • .... . i i i given by orders anc' powers ot ... -yttt t>w r^. «i governmcnt; and the pope is . . . said to have the latter over 7. . . ., 7 , the whoie Chnrch. ....
-- 95.19: i do not
-- 95.20: fact^Pbut deny tieautlont>
-- 95.27: Every priCSt 0t
-- 95.28: samTpower^by
-- 95.29: 3o ins orders.
-- 96.3: There is a
-- 96.4: ofrgov!rnmInt.
-- 96.5: Gods orcfiiiance
-- 96.6: fofiowed.6
-- 96.21: Fitzralph
-- 96.22: athereSmust
-- 97.6: it is said that special powers i -tn • were given by Christ to . . , Pcter.
-- 97.13: Such primacy was given only . . ,. because^ he was
-- 97.15: and humbif than the rest. f . . , . rZ . . .
-- 97.26: jhe power of
-- 97.27: %£*xl S
-- 97.28: atLrepr?esthoof
-- 97.29: anpdriviiegerSon0
-- 97.30: thp0n0iffan
+- 93.31: Examples of Silvester and Gregory.
+- 94.9: They sinned venially.
+- 94.24: Let us follow the Holiest and the virtues shown in his members,
+- 95.5: I am said to have admitted the distinction between powers given by orders and powers of government; and the pope is said to have the latter over the whole Church.
+- 95.19: I do not dispute the fact, but deny the authority.
+- 95.27: Every priest of Christ has the same power by his orders.
+- 96.3: There is a varying power of government. but in thus Gods ordinance should be followed.
+- 96.21: Fitzralph argues that there must be a head to rule the Church.
+- 97.6: It is said that special powers were given by Christ to Peter,
 
 ## Notes
 

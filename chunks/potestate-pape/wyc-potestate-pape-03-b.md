@@ -37,25 +37,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 47.9: confirmed primacy
-- 47.9: frofn
-- 47.10: other parts of Scripture. ....
-- 48.4: Oniy to Peter were given the keys ot heaven.
-- 49.8: Peter's confession a r . .... . check to Antichrist. . .
-- 49.32: P*er's waiking on the watei . j , %'
-- 50.4: into^the^sea?
-- 50.12: ^ciirist s
-- 50.13: in Gethsemane.
-- 50.17: Hthednen!o8
-- 50.18: ,and-
-- 51.6: Christ's charge to him to feed . . .
-- 51.7: 173" the sheep.
-- 51.11: a mysticai sense was . . . . . . intended
-- 51.13: passages.
+- 48.4: Only to Peter Were given the keys of heaven.
+- 49.8: Peter's confession a check to Antichrist.
+- 49.32: Peter's Walking on the water.
+- 50.4: His plunging into the sea.
+- 50.12: Christ's address to him in Gethsemane.
+- 50.17: His dragging the net to land.
+- 51.6: Christ's charge to him to feed the sheep.
 
 ## Notes
 

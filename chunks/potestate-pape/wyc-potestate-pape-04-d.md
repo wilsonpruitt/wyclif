@@ -31,26 +31,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 72.8: Hereditary
-- 72.9: allowed in the
-- 72.10: °ld law'
-- 72.16: Reasons against its present use. x 1 x
-- 73.7: There may be
-- 73.8: "bishopTn °ane
-- 73.9: work^fogrther llsetllll>'
-- 74.12: No essentiai distinction
-- 74.13: 1 andeebisfiopsts
-- 75.9: bilfwps a?the same time'
-- 75.21: We need not conceni 1 * °
-- 75.22: oursdves aboui
-- 75.22: clash ol jurisdictions.
-- 76.2: pVeachedSanci
-- 76.3: withoutrafking
-- 76.4: from^Peter
+- 72.16: Reasons against its present use.
+- 73.7: There may be more than one bishop in a diocese if all work together usefully.
+- 74.12: No essential distinction between priests and bishops.
+- 75.8: Peter and Paul were Roman bishops at the same time.
+- 75.21: We need not concern ourselves about clash of jurisdictions.
+- 76.2: The apostles preached and suffered without asking authority from Peter.
 
 ## Notes
 

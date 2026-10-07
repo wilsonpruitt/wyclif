@@ -31,22 +31,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 204.10: he pricst not.know
-- 204.11: ife hasVers
-- 205.6: Gc0dn|rmSaH0t
-- 205.7: |£os?nggof"hc
-- 205.8: Pnest-
-- 205.28: state-
-- 206.6: Nccd ot nuroUity.
-- 206.34: Christus.
-- 207.8: The proud
-- 207.9: i n tlie wav
-- 207.23: We must nct
-- 207.24: '"of^men^for holmess-
+- 205.6: God does not confirm all binding and loosing of the priest.
+- 205.27: Danger of pride in order or State.
+- 206.6: Need of humility.
+- 207.8: The proud cannot walk in the wavy Which is Christ
 
 ## Notes
 

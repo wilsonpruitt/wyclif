@@ -61,27 +61,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 312.1: it is objected that orders wouid be done away with. . . . .
+- 312.1: It is objected that orders would be done away with.
 - 312.8: This we deny.
-- 312.23: it is notproved that Joan's acts . ... . . as pope were
-- 313.9: gb ^CreSahiS
-- 313.10: if noepe0^ere
-- 313.19: it wouid be 8ood t0 8et rid . ... -kt 11 i i of the many bishops ot m i i« i Nowhere.
-- 313.26: Sham pnests and bishops. • . .
-- 314.14: ordination a simple pnest sufficieift
-- 315.1: in apostoiic timcs there ^ 1 t 1 . . r wcre oniy two orders: priests 17 ... and deacons.
-- 315.9: chrtstian has aii orders.
-- 315.28: Friars get bishopnes ■'•
-- 315.29: results.
-- 316.16: wftnesTthat
-- 316.17: pries^erethe
-- 316.18: same.
-- 316.25: Extravagant
-- 316.26: the need for endowed pope. *■
+- 312.23: It is not proved that Joan's acts as pope were invalid,
+- 313.9: The sacraments would remain if there were no pope.
+- 313.19: It would be good to get rid of the many bishops of Nowhere.
+- 313.26: Sham priests and bishops.
+- 314.14: Ordination by a simple priest may be sufficient.
+- 315.1: In apostolic times there were only two orders: priests and deacons.
+- 315.9: A good chrtstian has all orders.
+- 315.28: Friars get bishopries with bad results.
+- 316.16: Jerome's witness that bishop and priest were the same.
 
 ## Notes
 

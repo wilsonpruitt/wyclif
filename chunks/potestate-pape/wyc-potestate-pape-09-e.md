@@ -43,25 +43,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 207.8: The proud
-- 207.9: i n tlie wav
-- 207.23: We must nct
-- 207.24: '"of^men^for holmess-
-- 208.9: 1 'toMdUt°ribuatcm
-- 208.10: ^he^saints0*
-- 209.3: Those whose hospitality is . . for pieasurcand
-- 209.4: show.
-- 209.31: Those who not preaching are ... . nke wateriess clouds. . . * ,
-- 210.4: Those who like fruitless 1 ' r ^ r . . trees.
-- 210.15: Uke°wiidhwaves
-- 210.16: ainlrbuCm°emVo\c the devii.
-- 210.24: like wandering stars who in ligh place afire Church ai
-- 210.26: pride
-- 210.35: 2. B : radicionem.
+- 207.23: We must not claim praise of men for holiness.
+- 208.9: Falsity of claim to distribute the merits of the Saints.
+- 209.3: Those whose hospitality is for pleasure and show.
+- 209.31: Those who not preaching are like waterless clouds,
+- 210.4: Those who are like fruitless trees.
 
 ## Notes
 

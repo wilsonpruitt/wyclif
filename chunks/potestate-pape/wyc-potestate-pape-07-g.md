@@ -25,33 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 156.3: The vicar of St. Peter should . . j • r . . preach to bring men to Christ, •, • • . j shouid heip the fallen and i i • • r • i • r *x -r» confirm the
-- 156.26: behaviour at Jerusalem. ot
-- 157.17: ^eter ciaimed no authority . . over James.
-- 157.29: 2oob
-- 157.34: 33. Codd. : movebat.
-- 157.34: 7. Act. XV, i3, 14, 19.
-- 158.19: Our
-- 158.20: pielfno\hPereach
-- 158.21: 80cpeist,hs!n
-- 158.29: 2GOo
-- 159.1: a scandaious reason is given why the Popc should ... , ,. not preach.
-- 159.21: how cimsfs
-- 159.22: vlCcorrectlld others-
-- 159.25: lt He shouid
-- 159.26: 2ood keciPeaVlSfelt
-- 159.27: 2. He^must
-- 159.28: wiseiy!
-- 159.31: 3 He must
-- 159.32: he^is^serlant of the Church-
-- 159.33: 5. Cap. VI.
-- 160.1: ^Churchts6
-- 160.2: greater^than
-- 160.7: it was for his £rc3.t lovc that Peter was chosen to feed , . ,. , - _ Chrisfs sheep.
+- 156.26: Peter's behaviour at the council of Jerusalem.
+- 158.19: Our prelates preach another gospel than Christ's.
+- 159.1: A scandalous reason is given why the Pope should not preach.
+- 159.21: How Christ's vicar should correct others.
+- 159.25: 1. He should keep himself clear of fault. 2. He must correct wisely.
+- 159.31: 3. He must remember that he is a servant of the Church.
+- 160.1: 4. That the Church is greater than he.
 
 ## Notes
 

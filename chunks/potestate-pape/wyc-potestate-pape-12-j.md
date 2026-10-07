@@ -61,24 +61,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 349.27: The Pope should abstain , , „. . . .
-- 349.28: from provisions. ,. . . .
-- 350.8: A1,boundnto are
-- 350.9: ^Eest^ma?6
-- 350.23: and not to promote one , ,
-- 350.24: inferior^because favours hfm.
-- 351.1: Papai appointments tr » ofien bad.
-- 351.21: Any preiate notoriouslv . . - ~ . . r~ . faiiing in duty
-- 351.23: tithes and
-- 351.24: withdrawn.
-- 352.26: Jn paying
-- 352.26: we are supporting Antichrist's , , k ... discipies.
-- 352.32: ^catioTfor"
-- 352.33: refmlytbepay disregarded.
+- 349.27: The Pope should abstain from provisions.
+- 350.8: All patrons are bound to appoint the best man,
+- 350.23: and not to promote one inferior because the king favours him.
+- 351.1: Papal appointments often bad.
+- 351.21: Any prelate notoriously failing in duty may have his tithes and offering withdrawn.
+- 352.26: In paying such we are supporting Antichrist's disciples.
 
 ## Notes
 

@@ -43,24 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 176.5: does not^make
-- 176.6: aGodPteoonnasS chosen inm.
-- 177.5: An eieciion requires . t . acceptance by the subjects.
-- 177.21: 0J^l *St%G name tp°Pe'-
-- 178.7: sole right
-- 178.8: first granted by tlie Emperor
-- 178.9: Phocas.
-- 178.17: Local claims as strong in other cities as 111 Pome.
-- 179.8: au these claims are groundiess and wrong; . , ,. the worst is a
-- 179.11: begged^om the Emperor.
-- 179.24: 3obd
-- 180.21: matter not faith that Oement
-- 180.23: wthe mo5ernin 206*
-- 180.24: ust
+- 176.5: Man's election does not make a pope unless God too has chosen him.
+- 177.5: An election requires acceptance by the subjects.
+- 177.21: The true origin of the name 'Pope'.
+- 178.7: The right to be sole pope was first granted by the Emperor Phocas.
+- 178.17: Local claims as strong in other cities as in Rome.
+- 179.8: All these claims are groundless and wrong; the worst is a privilege begged from the Emperor.
+- 180.21: It is not a matter of faith that Clement and others were popes in the modern use.
 
 ## Notes
 

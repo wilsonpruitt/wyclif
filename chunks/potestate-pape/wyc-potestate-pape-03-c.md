@@ -31,25 +31,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 51.6: Christ's charge to him to feed . . .
-- 51.7: 173" the sheep.
-- 51.11: a mysticai sense was . . . . . . intended
-- 51.13: passages.
-- 52.3: Peter's distinction . . . . . . continned after the Ascension. . .
-- 52.10: His vision ot . he great sheet, m A m .
-- 52.16: Meaning of that
-- 52.16: vision.
-- 53.3: iy3d
-- 53.4: 'cler^s lcad
-- 53.9: and on the
-- 53.10: Pentecost.
-- 53.17: Othcr instanccs.
-- 54.10: Testimony St, Dionisvus. . .
-- 55.27: Christ chose Peter tor his ~ \ , . fitness to ruie the Church. r . _ .
+- 51.11: A mystical sense was intended in these passages.
+- 52.3: Peter's distinction continued after the Ascension.
+- 52.10: His vision of the great sheet.
+- 52.16: Meaning of that vision.
+- 53.4: Peter's lead in electing Matthias,
+- 53.9: and on the day of Pentecost.
+- 53.17: Other Instances.
+- 54.10: Testimony of St. Dionisyus.
 
 ## Notes
 

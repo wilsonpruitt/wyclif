@@ -37,30 +37,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 9.6: Dignity: This is self cvident. .... , ,.
-- 9.11: Antiqoity: It is believed . «ii i • _ . that Adam and Cain had a sort . . . of priesthood.
-- 9.26: in God however the . kingiy power has jSriority. . .
-- 9.33: et seqq.
-- 10.1: Objections
-- 10.2: ^Hugo'"8
-- 10.3: i . Both1 powers
-- 10.4: onc' persone/g.
-- 10.5: ^A^sfmffar
-- 10.6: Powers°in
-- 10.7: 3 . andTnkings,
-- 10.8: beiong^to^them
-- 10.9: t0 vhCtue!se
-- 10.25: Spirituai power is a power of .... . . the Spirit to direct a . . rationai creature . . . . according to the girts of . r r . r. grace.
-- 11.12: gmro/nfture
-- 11.17: Different kinds
-- 11.18: powen the
-- 11.19: in orders and
-- 11.20: 20 common to aii
-- 11.21: .. christians. , . . , .
+- 9.11: Antiquity: It is believed that Adam and Cain had a sort of priesthood.
+- 9.26: In God however the kingly power has priority.
+- 10.1: Objections to accepting Hugo's description. 1. Both powers were united in one person e. g. Melchizedek. 2. A similar union of powers in clerics, 3. and in kings, since it belongs to them to increase virtue.
+- 10.25: Spiritual power is a power of the Spirit to direct a rational creature according to the gifts of grace.
+- 11.10: Corporal power is the ordering of the creature according to gifts of nature or fortune.
+- 11.17: Different kinds of spiritual power; the power given in orders and that which is common to all christians.
 
 ## Notes
 

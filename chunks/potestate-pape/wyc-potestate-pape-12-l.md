@@ -49,34 +49,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 356.3: ^submit
-- 356.4: patientfy aWjudgmentd
-- 356.27: We are bound
-- 356.27: support
-- 356.28: God'sministers.
-- 357.11: sh notgtak«
-- 357.12: stipends
-- 357.13: ministering.
-- 357.18: They shouid not accept too '
-- 357.19: much.
-- 357.33: 21. Opp. tom. XII, 26.
-- 358.4: Mostofaii they must avoid cursing because x
-- 358.6: temrc?used are
-- 358.15: it is said i5 if the laity judge they wiii depnve even
-- 358.17: the ot°theCreigy
-- 358.18: support.
-- 358.25: withdrawn
-- 358.26: Sappiiede 2
-- 358.27: to pious uses.
-- 359.16: Appropriations should cease i «ii -i • i -i -r- • i where duty is not done. . , , - . .
-- 359.25: might err, but . . .... . . there is more danger on the . , . other side. In the worst . . the ciergy might be maintained like Christ and the & . . , . , aposties.
-- 360.28: Thc pope bound to be — . the hoiiest
-- 360.30: men, . . .
-- 360.33: papa esse.
+- 356.27: We are bound to support God's ministers.
+- 357.11: The clergy should not take stipends without ministering.
+- 357.18: They should not accept too much.
+- 358.4: Most of all they must avoid cursing because temporals are refused.
+- 358.15: It is said that if the laity judge they will deprive even the good clergy of their support.
+- 358.25: All money withdrawn should be applied to pious uses.
+- 359.16: Appropriations should cease where duty is not done.
+- 359.25: Tithepayers might err, but there is more danger on the other side. In the worst case the clergy might be maintained like Christ and the apostles.
 
 ## Notes
 

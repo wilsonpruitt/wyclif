@@ -43,27 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 58.32: in dccst.
-- 59.8: Grosscteste*s
-- 59.9: 8 ChUmfflty! °
-- 59.25: peter's
-- 59.26: jnewn \n
-- 59.27: paai?reproof
-- 59.31: in his behaviour to . . Corneiius.
-- 60.23: Different ways
-- 60.32: 20. Joh. XXI, 15.
-- 61.8: i75tl
-- 61.13: Petcr represents the active part . . of the cimrch,
-- 61.15: contempiative.
-- 61.33: 3. B: eorum.
-- 62.11: contimfedto his successors. i • , • , • ,
-- 62.21: what is
-- 62.22: Peeter£evicar
-- 62.23: makeThlm such
+- 58.8: 2. Peter's humility.
+- 59.8: Grosseteste's 8 conditions of humility.
+- 59.25: Peter's humility shewn in submitting to Paul's reproof;
+- 59.31: in his behaviour to Cornelius.
+- 60.10: 3. Peters charity.
+- 60.23: Different ways of love.
+- 61.13: Peter represents the active part of the Church, John the contemplative,
 
 ## Notes
 

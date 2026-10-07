@@ -49,21 +49,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 345.27: Godiess
-- 345.28: Boniface vm.
-- 346.18: to^y^that^Goa 247*
-- 346.19: laws^mTdeiJy thc pope.
-- 346.35: 10. B: preelegit.
-- 347.10: How
-- 347.10: appointment to . . benefices shouid
-- 348.27: The Pope oftcn appoints persons or whom he . , knows
-- 348.30: "° "ng' 3o
-- 349.27: The Pope should abstain , , „. . . .
-- 349.28: from provisions. ,. . . .
+- 345.27: Godless laws of Boniface VIII.
+- 346.18: It is blasphemy to say that God confirms all laws made by the pope.
+- 347.10: How appointment to benefices should be made.
+- 347.32: Dangers attending choice.
+- 348.27: The Pope often appoints persons of whom he knows nothing,
 
 ## Notes
 

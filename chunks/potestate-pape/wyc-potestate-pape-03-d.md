@@ -25,18 +25,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 55.27: Christ chose Peter tor his ~ \ , . fitness to ruie the Church. r . _ .
-- 56.5: He excciied
-- 56.6: faith, ft . . _
-- 56.6: humiiitv and charity. . „ r,
-- 56.11: i.Faith.
-- 57.21: interpretation.
-- 57.33: 22. Cap. XVII.
-- 58.32: in dccst.
+- 55.27: Christ chose Peter for his fitness to rule the Church.
+- 56.5: He excelled in faith, humility and charity.
+- 56.11: 1. Faith.
+- 57.20: St. Gregory's allegorical interpretation.
 
 ## Notes
 

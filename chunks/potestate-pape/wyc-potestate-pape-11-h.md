@@ -55,32 +55,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 290.1: Excessive auention to . ... . rites and and vestments. ... , ,
-- 290.20: Now the signiricance of , , , , • , aii the hishop's ornaments is changed to
-- 290.28: r ie Cross,
-- 290.32: The Rmg.
-- 291.1: The Sandais.
+- 290.28: The Cross.
+- 290.32: The Ring.
+- 291.1: The Sandals.
 - 291.7: The Mitre.
-- 291.12: jhe cioves.
-- 291.15: The Paii.
-- 291.23: Since we neglect the 1 r ; \. r thing signihed we should be . . . better without the sign. ■~ .
-- 292.13: Absurd and lanciful . , „ symboiizing.
-- 292.29: 3^ argument:
-- 292.30: powersof 3o
-- 292.31: preiates^order wouid pensh.
-- 293.12: Answer. It may he well _ to have a pope butnotsuchas , ... . 5 ^ . , we moderns
-- 293.24: petcr ciaimed
-- 293.25: (.* authority over
-- 293.26: his followcrs. • 1 • • • j_ • ^ j_ 1 ±
-- 293.29: why pretend
-- 293.30: m^onsterYs
-- 293.31: christ'sabody(
-- 294.7: it is weii keep good customs, but those are of , . . . . ,.r
-- 294.9: most importance *. r Z,, . . . which are expressly enjoined in Scripture. . .
+- 291.12: The Gloves.
+- 291.15: The Pall.
+- 291.23: Since we neglect the thing signified we should be better without the sign.
+- 292.13: Absurd and fanciful symbolizing.
+- 292.29: 3rd argument: But for the powers of pope and prelates order would perish.
+- 293.12: Answer. It may be well to have a pope but not such as we moderns have.
+- 293.24: Peter claimed no such authority over his followers.
+- 293.29: Why pretend that this monster is the head of Christ's body.
 
 ## Notes
 

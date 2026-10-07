@@ -43,26 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 160.1: ^Churchts6
-- 160.2: greater^than
-- 160.7: it was for his £rc3.t lovc that Peter was chosen to feed , . ,. , - _ Chrisfs sheep.
-- 161.9: How the
-- 161.10: graduaify^feil
-- 161.11: aTife of°trueh P°xerty-
-- 161.25: 2oib
-- 162.1: Antichrisfs disciples sav .... there is no" distinction . , between the states of r ■ . . povertv and possession. .
-- 162.14: Endowments
-- 162.15: difference, i5 since thev are , . , , . . , . maintained by
-- 162.17: authoritv.
-- 163.9: The Pope should protect , . .... the priviiege
-- 163.11: "which^lo
-- 163.12: 'ue t!n?e!llsher
-- 163.22: Christ has. given authonty t0 no to make the ' church worse-
-- 164.11: God knows our weakness and enjoins the safer state. . . .
+- 160.7: It was for his great love that Peter was chosen to feed Christ's sheep,
+- 161.9: How the Church gradually fell away from the life of true poverty.
+- 162.1: Antichrist's disciples say there is no distinction between the States of poverty and possession.
+- 162.14: Endowments make the difference, since they are maintained by secular authority.
+- 163.9: The Pope should protect the privilege of the clergy, which is, to live the higher life.
+- 163.22: Christ has given authority to no one to make the church worse.
+- 164.11: God knows our weakness and enjoins the safer state.
 
 ## Notes
 

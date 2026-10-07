@@ -55,37 +55,19 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 32.9: How the power ot orders is c r conterred.
-- 32.13: Godby rhists
-- 32.14: ^outward^sig^ns3
-- 32.15: unimportant
-- 32.33: dotes.
-- 33.15: In such matters we may be -r^ . , ., . contentVith what Scripture , , .,. , . , , ., .
-- 33.17: teiis us.
-- 33.23: Christ
-- 33.24: oppo j£tbeadbltyhem
-- 33.25: 25 wlthout. ,an)'
-- 33.26: sacrament.
-- 34.7: Fitzraiph arguesthat thev . ... ~ must have been made ... .... priests at once and *•■•*• 7. . compieteiy, or the sacraments wouid be divisible. _ . .
-- 34.17: There is no real objection V to such division. .
-- 34.27: We must that powers are given according the . need of each
-- 34.32: We do not know what . . powers are necessarv to a .
-- 34.34: priest
-- 35.5: Our legislators
-- 35.6: burden the Church beyond , j
-- 35.7: what.
-- 35.8: ciearVy^bids.
-- 35.12: The Pope * )ften errs ir ibsolving or or ixcommu
-- 35.14: cating).
-- 35.21: st. Paui teiis us that our , ., . a j* • • • ' ' . Lord grants various graces, ,.. , • • , i •
-- 36.3: which he enumerates.
-- 36.10: 1. Aposties. io
-- 36.28: 2. Prophcts.
-- 36.32: secundus.
+- 32.9: How the power of orders is conferred.
+- 32.13: God grants it by his inspiration, and outward signs are unimportant.
+- 33.15: In such matters we may be content with what Scripture tells us.
+- 33.23: Christ probably oppointed them without any sensible sacrament.
+- 34.7: Fitzralph argues that they must have been made priests at once and completely, or the sacraments would be divisible.
+- 34.17: There is no real objection to such division.
+- 34.27: We must allow that powers are given according the need of each case,
+- 34.32: We do not know what powers are necessary to a priest.
+- 35.5: Our legislators should not burden the Church beyond what. Scripture clearly bids.
+- 35.12: The Pope often errs in absolving or or excommunicating).
+- 35.21: St. Paul tells us that our Lord grants various graces,
+- 36.3: which he enumerates,
+- 36.10: 1. Apostles.
 
 ## Notes
 

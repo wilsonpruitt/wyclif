@@ -37,19 +37,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 299.1: Miracles likc
-- 299.2: would plcase
-- 299.12: The dignity of
-- 299.13: consists in
-- 299.14: Christlike' life.
-- 300.19: Christendom should unitc c v / to destroy thc errors of thc r r p°Pes-
-- 301.5: Exampie ot St. Gregory, -r^ • • who wouid not be called . . 7 Tr;. universai Pope.
-- 302.16: it is said the hierarchy . ' . , , , is to the " honour of the . . . . , Church.
-- 302.33: dotacione.
+- 299.12: The dignity of the clergy consists in poverty and Christlike life.
+- 300.19: Christendom should unite to destroy the errors of the popes.
+- 301.5: Example of St. Gregory, who would not be called universal pope.
+- 302.1: Danger of using such titles.
+- 302.16: It is said that the hierarchy is to the honour of the Church.
 
 ## Notes
 

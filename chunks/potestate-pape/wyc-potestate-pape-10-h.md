@@ -61,31 +61,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 246.2: Phuma?/ appointment necessary to salvation.
-- 246.10: For 3oo years
-- 246.11: prfistsVere the
-- 246.22: The church would be better - . ., .t. without such prelates and . .*»''. ■,•
-- 246.24: mdowments.
-- 247.4: 11 is t°1bjtected disendowment
-- 247.6: the oatns destroy services by 1 1 1 * which men are bound to the &
-- 247.8: P°Pe-
-- 247.15: Such bonds must be . . . . . . ,. conditionai or men would .. . _ _ . . find themseives bound to -, , r . -w— v • • Antichrist e. g. in swearing to _ . . . . Robert or Urban.
-- 248.6: obey the°pope and only so tar as
-- 248.8: witi! ChrTst
-- 248.17: Christ has
-- 248.18: °Schism to make thiscieai.
-- 249.6: 1 should be ashamed to _ , , . , . . . shew miseif at
-- 249.8: Qad upneid
-- 249.9: obedience in tne schools. . .
-- 249.18: Hait
-- 249.19: wouid be lost eternal,y-
-- 250.10: st. Jerome's rehance on the Roman Church.
-- 250.28: We must note
-- 250.29: sp?aLJorf°the predestmate. 3o
+- 246.22: The Church would be better without such prelates and without endowments.
+- 247.4: It is objected that disendowment would destroy the oaths and services by which men are bound to the pope.
+- 247.15: Such bonds must be conditional or men would find themselves bound to Antichrist e. g. in swearing to Robert or Urban.
+- 248.6: We should obey the pope and prelates only so far as they accord with Christ.
+- 248.17: Christ has ordained the Schism to make this clear,
+- 249.6: I should be ashamed to shew miself at Oxford, if I had upheld such obedience in the schools.
+- 249.18: Half Christendom would be lost eternally.
+- 250.10: St. Jerome's reliance on the Roman Church.
 
 ## Notes
 

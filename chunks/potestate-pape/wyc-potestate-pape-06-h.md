@@ -31,24 +31,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 129.4: Thc state oi being without ... . ... . . ... property is,
-- 129.6: bettcr than that of a civil ,. ...... owner.
-- 130.19: A ?na sevlrL states at once.
-- 130.24: The higher man's state, . m 1 r thc worse his
-- 131.17: a man's state is not changed - . by his sin.
-- 132.1: We cannot judge ot the . ... . . spirimai state of others. , . .
-- 132.11: Change may be in substance
-- 132.12: or in
-- 132.12: concomitant A . . . good or evii.
-- 132.24: it is in the
-- 132.25: state^iwltered1.
-- 133.1: As doctors
-- 133.2: state of the bodv, so priests - , . , . shouid of the
-- 133.26: Duty ot reproving superiors.
+- 130.19: A man may be in several states at once.
+- 130.24: The higher a man's state, the worse his sin.
+- 131.17: A man's state is not changed by his sin.
+- 132.1: We cannot judge of the spiritual state of others.
+- 132.11: Change may be in substance or in concomitant good or evil.
+- 132.24: It is in the latter way that state is altered,
+- 133.1: As doctors treat of the state of the body, so priests should of the soul.
 
 ## Notes
 

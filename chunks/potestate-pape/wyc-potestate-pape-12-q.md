@@ -43,30 +43,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 377.24: Thc kjng ot
-- 377.25: 25 ^f(!r"cdasl!-?qh
-- 377.26: prdates 'and cler^>-
-- 377.34: 3o. Opp. tom. VI, 792.
-- 378.8: The pope anv othcr whu . 1 . hinders this action is . . . , Antichrist. 2:
-- 378.20: Accurscd thc Gloss.
-- 379.1: it is tiic sin <>t the clergy that r . ... raost dismrbs
-- 379.14: nurham is an cvidcnce of . ,. . ^ - . . . , .
-- 379.15: this.
-- 379.24: i)jssensions wiii
-- 379.25: the0tkinCghbrin"s
-- 379.26: thLCtheestateCk
-- 379.27: oldcinCsdt.bv
-- 380.1: Thc ornamcnis of thc clergy . 1 &. r 1 ... are of smaii importance. . * «¥-».'••
-- 380.32: 8. III. Reg. XXII, n.
-- 381.3: Dispensations as to ordination ~ . or matnmonv arc lawtul only * ° wheiuthey express the will o to
-- 381.6: of God-
-- 381.25: 2 We m do
-- 381.26: rea«onabie
-- 381.27: ^Sbout^ticense of Prelates-
+- 377.24: The king of England should enforce a right life in his prelates and clergy.
+- 378.8: The pope or any other who hinders this action is Antichrist.
+- 378.20: Accursed error in the Gloss.
+- 379.1: It is the sin of the clergy that most disturbs peace.
+- 379.14: Durham is an evidence oft this,
+- 379.24: Dissensions will not cease till the king brings the clergy back to the state ordained by Christ.
+- 380.1: The ornaments of the clergy are of small importance.
 
 ## Notes
 

@@ -37,20 +37,9 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 69.1: jins wouid nrevent the ., , , • objection that the lot might . . • ... ... taii on oiie
-- 69.12: Appointment bv bishops t\ j , might be good, t»ut is now /^•i , a j • i • -r» -r-» -i ruined by aii
-- 69.15: traditfons.
-- 70.4: Chrysastom in favour of ° lot where ? choice is doubtfui.
-- 71.5: 1 he apo*ifes
-- 71.6: gmdance m tneir choice. . T . . n — ,
-- 72.8: Hereditary
-- 72.9: allowed in the
-- 72.10: °ld law'
-- 72.16: Reasons against its present use. x 1 x
+- 70.4: Chrysostom is in favour of lot where choice is doubtful.
+- 71.5: The apostles had divine guidance in their choice.
+- 72.8: Hereditary succession was allowed in the old law.
 
 ## Notes
 

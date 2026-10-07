@@ -55,31 +55,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 165.2: Derivalion of
-- 165.3: ^Pope."
-- 165.14: bishops.
-- 166.12: it has come
-- 166.13: bisiufp^who nearest to , . . Christ in life
-- 166.15: an woiv.
-- 166.19: How came it to be assigned to the Roman pontift:
-- 166.26: Armachanus
-- 166.28: Chdstendom.
-- 167.14: if so, what ot the popes who fatten at
-- 167.15: 'gn°n
-- 167.20: 20 Their first duty
-- 167.21: where thcy
-- 167.22: dominjon.
-- 167.32: Capitais may be changed. . . ~ . . . .
-- 168.13: There are empires greater . . . than the
-- 168.16: separa from
-- 168.17: pontificate.
-- 168.22: With this faiis the plea that . _ . r „, . . in the capitai the clergv had . . . more infTuence for the good of , , .... the ciiurch.
-- 169.10: made^Se^fergy
-- 169.11: du^of teaching and reproot-
+- 165.2: „Pope."
+- 165.13: Formerly used of other bishops.
+- 166.12: It has come to mean the bishop who is nearest to Christ in life and work.
+- 166.19: How came it to be assigned to the Roman pontiff:
+- 166.26: Armachanus says: Because Rome was the chief city of Christendom.
+- 167.14: If so, what of the popes who fatten at Avignon.
+- 167.20: Their first duty is to Rome where they claim dominion.
+- 167.32: Capitals may be changed.
+- 168.13: There are empires greater than the Roman.
+- 168.16: The papacy separable from the Roman pontificate.
+- 168.22: With this falls the plea that in the capital the clergy had more influence for the good of the Church.
+- 169.10: Endowment made the clergy shirk their duty of teaching and reproof.
 
 ## Notes
 

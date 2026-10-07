@@ -43,31 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 210.4: Those who like fruitless 1 ' r ^ r . . trees.
-- 210.15: Uke°wiidhwaves
-- 210.16: ainlrbuCm°emVo\c the devii.
-- 210.24: like wandering stars who in ligh place afire Church ai
-- 210.26: pride
-- 210.35: 2. B : radicionem.
-- 211.4: au preiates should shun . . huraan praise.
-- 212.5: Desire of Church , . , . .
-- 212.6: digmties wrong 214"
-- 212.15: The contemion of the rival . . . popes marks them as - / , -. Antichrists.
-- 212.31: Pnmacy
-- 212.32: respons^niy
-- 212.33: fjudSgmen?andestomi:
-- 212.34: seiV1eanh.'c
-- 213.1: Ruicrs of the Clmich shonld h • • . . 1
-- 213.2: 2I4' sacrifice their
-- 213.2: own advantage "~ , ... iri aii things.
-- 213.16: The.du,ies are a pnmacy !KlI.d and deta,l,t m lt dangerous.
-- 213.35: 18. B: mumbo.
-- 214.3: FmakeSean°n
-- 214.4: apa°postoiic.ot
+- 210.15: Those who are like wild waves and become the instruments of the devil.
+- 210.24: Those are like wandering stars who in high place in the Church are afire with pride.
+- 211.4: All prelates should shun human praise.
+- 212.5: Desire of Church dignities wrong and foolish.
+- 212.15: The contention of the rival popes marks them as Antichrists.
+- 212.31: Primacy involves responsibility for souls at the judgment and service here on earth.
+- 213.1: Rulers of the Church should sacrifice their own advantage in all things.
+- 213.16: The duties of a primacy are hard and default in it dangerous,
 
 ## Notes
 

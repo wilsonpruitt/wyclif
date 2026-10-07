@@ -31,20 +31,7 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 222.1: a Masphemous hvpocrite b * t usurps ChrisCs
-- 222.3: place. ,
-- 222.20: itisargued that the pope s .
-- 222.21: secufar greatness is 1 r needed tor the protection . . the Church.
-- 222.31: niarg. : /.
-- 223.13: tT^ec jjj4^*
-- 223.14: c^sh\vhenVe
-- 223.15: Poor-
-- 223.23: Attempt at extortion by tne pope's legate Otto. .
-- 223.32: sidio.
+- 222.20: It is argued that the pope's secular greatness is needed for the protection of the Church.
 
 ## Notes
 

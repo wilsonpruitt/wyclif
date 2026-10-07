@@ -25,20 +25,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 250.10: st. Jerome's rehance on the Roman Church.
-- 250.28: We must note
-- 250.29: sp?aLJorf°the predestmate. 3o
-- 251.1: Their faith sprang from . . ... Rome, b»t is not restricted . . . . n to Rome or any place.
-- 251.15: Se°of°his true church-
-- 251.25: jer0me may
-- 251.26: 224" reve7ation as
-- 251.27: t0 whom PoDe t0 submitted.
-- 252.6: Contradietory ulterances of various popcs.
-- 253.12: Mutuai charges of heresy-
+- 250.28: We must note how Jerome speaks of the predestinate.
+- 251.1: Their faith sprang from Rome, but is not restricted to Rome or any place.
+- 251.15: We know not who are of this true church.
+- 251.25: Jerome may have had a revelation as to the Pope to whom he submitted.
+- 252.6: Contradictory utterances of various popes.
+- 253.12: Mutual charges of heresy.
 
 ## Notes
 

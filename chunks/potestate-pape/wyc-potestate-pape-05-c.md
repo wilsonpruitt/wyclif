@@ -25,35 +25,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 86.3: Aims sufficed
-- 86.4: for *t,£Pests Christians were fewer
-- 86.6: thertithese "°
-- 86.14: Chrisfs
-- 86.14: urdinances are expiained awav i3 or disregarded. - . ,
-- 87.11: Let preiates
-- 87.12: tliemselves to
-- 87.13: Bervicefand welcome tlie - ... . . contempt of
-- 87.20: We are so
-- 87.21: persecute^ilos
-- 87.23: doctnne.
-- 88.9: it is urged many saints m x x m m have approved ot endowment. . . 1 A . ...
-- 88.22: aii samts are
-- 88.23: fo"?owcdbin all things; even the
-- 88.25: committed
-- 89.1: Another foiiy
-- 89.2: lafd^on ponents
-- 89.3: assaainUiness0t
-- 89.8: a third foiiy is to argue . ...... . , . that if aims were rightly , , , ... . received they
-- 89.11: withdrawn, even though , . - , . the conditions
-- 89.13: ° are81 disregarded. . r .
-- 89.21: Fndowments
-- 89.22: 83a WoSier if we
-- 89.23: thev are the
-- 89.24: property1 of the
+- 87.11: Let prelates devote themselves to Christ's service and welcome the contempt of the world.
+- 87.20: We are so blinded that we persecute those who teach Christ's doctrine.
+- 88.9: It is urged that many saints have approved of endowment.
+- 88.22: All saints are not to be followed in all things; even the apostles committed faults.
+- 89.1: Another folly is the weight laid on portents as a proof of saintliness.
+- 89.8: A third folly is to argue that if alms were rightly received they must not be withdrawn, even though the conditions of the gift are disregarded.
 
 ## Notes
 

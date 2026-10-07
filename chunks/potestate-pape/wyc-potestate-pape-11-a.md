@@ -37,17 +37,7 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 265.7: Case of Marcellinus. -k ir „. . «. , - .
-- 265.18: it js argued
-- 265.19: J^ldl Sf th?ngs
-- 265.20: 1 nw° rar?'bTundh
-- 265.21: to keep'
-- 267.33: struosa r?s r-v.'-:..*:^
-- 268.28: Ho\v to discem a Laesarian r priest from a disciple ot Christ.
+- 265.18: It is argued that God has made all things in order, which we are bound to keep.
 
 ## Notes
 

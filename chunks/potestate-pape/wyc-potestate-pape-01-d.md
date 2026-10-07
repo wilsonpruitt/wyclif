@@ -43,26 +43,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 12.6: So secuiar powcr may be x civii, of the
-- 12.8: common by which the \ individuai ID4a directs his m m \ . privatc affairs.
-- 12.16: Every man must have ° common power both spintual x x and sccuiar.
-- 12.22: Wrongfui claims of thc ^ r ciergy as to jundiction. L '
-- 12.33: Objections
-- 12.34: muitipiication of human powers.
-- 13.20: p0Wer the s:
-- 13.21: '"eniSrgeTo restncted
-- 14.11: ^owS^i^he direGodlft °f
-- 14.30: The pope 3o cannot confer . , A authority on othcrs,
-- 15.15: or revokc or increase power ... , , , -T-N -\ , given by God.
-- 15.30: yet De may
-- 15.31: ^oFauthentfc1
-- 15.32: oFwhaf^God has 0ldained-
-- 16.22: Power given
-- 16.23: be enlarged or diminished, but . , . .. , the acts orising from it may be . ... 1,1 controiied.
+- 12.6: So secular power may be civil, of the ruler, or common, by which the individual directs his private affairs.
+- 12.16: Every man must have common power both spiritual and secular.
+- 12.22: Wrongful claims of the clergy as to juridiction.
+- 12.33: Objections to the multiplication of human powers.
+- 13.20: Power the same in kind may be enlarged or restricted.
+- 14.11: All spiritual power is the direct gift of God,
+- 14.30: The pope cannot confer authority on others,
+- 15.15: or revoke or increase power given by God.
+- 15.30: Yet be may have the right of authentic promulgation of what God has ordained.
 
 ## Notes
 

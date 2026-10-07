@@ -43,30 +43,19 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 286.8: How the vestmemts _ . , . -r» ia_i sinnify parts tlie universe. , , . _
-- 286.30: Certain ornaments , .... reserved to the
-- 286.32: »gi pnest.
-- 287.1: Vestments common to all .... . pnests and
-- 287.3: signiiicance,
+- 286.30: Certain ornaments reserved to the high priest.
+- 287.1: Vestments common to all priests and their significance,
 - 287.7: The Amice.
-- 287.14: Tne Aib.
-- 287.21: The Manipie.
-- 287.27: The stoie.
-- 288.8: The chasubie.
-- 288.28: The
-- 289.1: it signifies for deacons . , . what the chasuble does . , , , , . . , . . .. . for priests.
-- 289.13: Signilication ot lhe tonsure'
-- 289.22: b too often
-- 289.23: signified.
-- 289.32: prava.
-- 290.1: Excessive auention to . ... . rites and and vestments. ... , ,
-- 290.20: Now the signiricance of , , , , • , aii the hishop's ornaments is changed to
-- 290.28: r ie Cross,
-- 290.32: The Rmg.
+- 287.14: The Alb.
+- 287.21: The Maniple.
+- 287.27: The Stole.
+- 288.8: The Chasuble.
+- 288.28: The Dalmatic.
+- 289.1: It signifies for deacons what the chasuble does for priests.
+- 289.13: Signification of the tonsure,
+- 289.22: too often falsely signified.
+- 290.1: attention to rites and and vestments.
+- 290.20: Now the significance of all the hishop's ornaments is changed to evil.
 
 ## Notes
 

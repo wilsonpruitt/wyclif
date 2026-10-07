@@ -25,19 +25,7 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 146.2: iQ7b
-- 146.5: The rich man
-- 146.6: "by chris^sd
-- 146.7: but tPh°eWway of povertyissafer.
-- 146.34: iQ7e
-- 146.35: 9. B : et facilius.
-- 147.4: a man engaged in worldlv . . .11 1 . pursuits sees spiritual things . _ confusediy.
-- 147.27: Tne vicar of
-- 147.28: Peaewatchfuibe guardfl02k?f the
+- 147.4: A man engaged in worldly pursuits sees spiritual things confusedly.
 
 ## Notes
 

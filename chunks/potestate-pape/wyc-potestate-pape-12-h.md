@@ -49,16 +49,8 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 342.8: Christ's law should be followed even
-- 342.10: counsels.
-- 344.7: Attention to human law . ~ 1 ' distracts us irom God and r . his law.
-- 344.26: Fraud and injustice in . .... human law.
-- 345.27: Godiess
-- 345.28: Boniface vm.
+- 344.7: Attention to human law distracts us from God and his law.
+- 344.26: Fraud and injustice in human law.
 
 ## Notes
 

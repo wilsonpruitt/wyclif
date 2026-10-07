@@ -37,21 +37,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 125.1: Chrisfs disciples A made no money bv x ... preiacies, tb< pope makes a appointment a matter ot 1 .
-- 125.5: sain.
-- 126.21: The pope that the clcrical .... . . perfect than state is more . . . the lay and that the laitv ^ # have no rigfit to judge the ^ . . . ciergy. He says too A that the man and his state 1 A j. are one.
-- 126.28: a man and must judge of deeds open x J and visibie.
-- 127.5: tfthe man and
-- 127.6: r one evcry cicric
-- 127.6: is intinitelv . morc perfect
-- 127.8: laymaru Moreover the . . state of every man and angel wouid be unchangeable. . . .
-- 127.34: marg. : Nota.
-- 129.4: Thc state oi being without ... . ... . . ... property is,
-- 129.6: bettcr than that of a civil ,. ...... owner.
+- 126.21: The pope says that the clerical state is more perfect than the lay and that the laity have no right to judge the clergy. He says too that the man and his state are one.
+- 126.28: A man may and must judge of deeds open and visible.
+- 127.5: If the man and his state are one every cleric is infinitely more perfect than any layman. Moreover the state of every man and angel would be unchangeable.
+- 129.4: The state of being without property is, as a State, better than that of a civil owner.
 
 ## Notes
 

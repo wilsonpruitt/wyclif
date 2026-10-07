@@ -49,19 +49,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 283.1: The breastpiatc
+- 283.1: The breastplate of judgment.
 - 284.17: The Mitre.
-- 285.4: The goid piate on the mitre. . . r , . ,
-- 285.21: There were
-- 285.22: nngs etc. reckoned as parts of the garments mentioned.
-- 285.31: Four reasons for thus adorning the pnests. & ' .
-- 286.8: How the vestmemts _ . , . -r» ia_i sinnify parts tlie universe. , , . _
-- 286.30: Certain ornaments , .... reserved to the
-- 286.32: »gi pnest.
+- 285.4: The gold plate on the mitre.
+- 285.21: There were besides rings etc. reckoned as parts of the garments mentioned.
+- 285.31: Four reasons for thus adorning the priests.
+- 286.8: How the vestmemts signify parts of the universe.
 
 ## Notes
 

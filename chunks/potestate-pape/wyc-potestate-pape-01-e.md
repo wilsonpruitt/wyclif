@@ -67,31 +67,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 16.22: Power given
-- 16.23: be enlarged or diminished, but . , . .. , the acts orising from it may be . ... 1,1 controiied.
-- 17.2: in what sensc Free will mav , f. , be augmented or diminished. . ,. , . , .
-- 17.18: In lhe
-- 17.19: MtJSS^ts
-- 17.20: 20 COOD^but°n
-- 17.21: GodCgnvesr5tne
-- 18.10: Conceming
-- 18.11: thereTuch^a
-- 18.12: about the grant,
-- 18.13: ^resfriction ofd
-- 18.14: powers!
-- 18.23: Righteousness
-- 18.24: sigliof power.
-- 18.32: restriccio >
-- 19.10: cod aione givcs civil
-- 19.11: 2 power,
+- 16.22: Power given by God cannot be enlarged or diminished, but the acts orising from it may be controlled.
+- 17.2: In what sense Free will may be augmented or diminished.
+- 17.18: In the sacraments man's cooperation is but secondary; God gives the grace.
+- 18.10: Concerning nothing is there such a flood of lies as about the grant, withdrawal and restriction of spiritual powers.
+- 18.23: Righteousness in the chief sign of power.
+- 19.10: God alone gives civil power,
 - 19.23: as Christ declared to Pilate.
-- 20.14: Four icssons irom Christ's .
-- 20.15: words.
-- 21.12: Power is not a selt existent thing, but a grant to a «i . . , . , creature to act .iti God's name. , , ,. .
+- 20.14: Four lessons from Christ's words.
+- 21.12: Power is not a self existent thing, but a grant to a creature to act in God's name.
 
 ## Notes
 

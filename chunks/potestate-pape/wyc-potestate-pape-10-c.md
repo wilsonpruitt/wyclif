@@ -49,26 +49,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 228.14: ^toVaveVis1^
-- 228.15: P7romyGod?ct i5
-- 228.26: This is true only of a pope . .1. who foiiows Peter and Paul
-- 228.33: and of a
-- 228.34: primacy.
-- 230.4: Perpiexity in which the popes are involved by their claims.
-- 230.22: ihe rishtto
-- 230.23: increased because ^ . &
-- 230.24: ubjects submit
-- 231.1: Scandaious saying of a a i> i i~\ i pope.
-- 231.26: 2iQa
-- 232.1: The absoiving power ot the ~ . . . . pope cannot
-- 232.3: proved. . .
-- 232.19: a decretai
-- 232.20: pope^primacy
-- 232.21: /heEmperor.
+- 228.14: The pope said to have his primacy direct from God.
+- 228.26: This is true only of a pope who follows Peter and Paul
+- 228.33: and of a spiritual primacy.
+- 230.4: Perplexity in which the popes are involved by their claims.
+- 230.22: The right to rule is not increased because subjects submit rashly.
+- 231.1: Scandalous saying of a pope.
+- 232.1: The absolving power of the pope cannot be proved.
 
 ## Notes
 

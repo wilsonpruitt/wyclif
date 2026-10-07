@@ -49,26 +49,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 122.4: 5. Christ bade his disciples to go out through the world
-- 122.6: preaching ; the false pope dwells in a rich palace and does not preach.
-- 122.18: 6. Christ taught his disciples to submit to persecution ; the pope teaches his to fight for dominion.
-- 122.30: 7. Christ forbade his disciples to take the sword
-- 123.1: the pope uses the spoils of r , . the poor to hire soldiers. A
-- 123.9: Christ wouid not call down . . fire on the Samaritans; tt t-xt t» • the pope curses all who . ,. , , 0 . . % . do no^obey
-- 123.12: him.
-- 123.21: 9- Christ retused to be . . a judge; the pope is always graspin^" at jurisdiction.
-- 123.33: 25. AB: ortaiur.
-- 124.8: 10. chnst umbly hid his . deity under cover ot his manhood; the pope . . ciamis^to be
-- 124.12: earth,
-- 124.28: and fuifiis
-- 124.29: prophecy of the man of sin. 3o
-- 124.34: 8. AB in marg.: 10.
-- 125.1: Chrisfs disciples A made no money bv x ... preiacies, tb< pope makes a appointment a matter ot 1 .
-- 125.5: sain.
+- 122.30: 7. Christ forbade his disciples to take the sword;
+- 123.1: the pope uses the spoils of the poor to hire soldiers,
+- 123.9: Christ would not call down fire on the Samaritans; the pope curses all who do not obey him.
+- 123.21: 9. Christ refused to be a judge; the pope is always grasping at jurisdiction.
+- 124.8: 10. Christ humbly hid his deity under cover of his manhood; the pope claims to be God in earth,
+- 124.28: and fulfils St. Paul's prophecy of the man of sin.
+- 125.1: Christ's disciples made no money by prelacies, the pope makes all appointments a matter of gain.
 
 ## Notes
 

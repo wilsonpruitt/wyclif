@@ -31,20 +31,9 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 236.1: Some argue 220* that the ° 1 ^ \ powers
-- 236.2: ascribed to the . .. .... pope tend to pietv, though . . ... they cannot be proved. , _ . _
-- 236.27: Then sliould credit ° . , every pnest
-- 236.29: poIsWie^ower and admit ihe . pretensions 3o of Antichrist. ~ . , . . , .
-- 236.34: nencia.
-- 237.1: it is said that withdrawing m - • • t 1,.- . • endowment would ruin ihe ... . ~
-- 237.3: Church.
-- 237.28: Answer.
-- 237.29: tbrbidden by
-- 237.32: tI. Cap. IX.
+- 236.1: Some argue that the powers ascribed to the pope tend to piety, though they cannot be proved,
+- 236.27: Then we should credit every priest with every possible power and admit the pretensions of Antichrist.
+- 237.1: It is said that withdrawing endowment would ruin the Church.
 
 ## Notes
 

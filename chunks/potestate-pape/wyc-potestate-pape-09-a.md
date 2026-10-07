@@ -43,33 +43,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 194.8: There must a pope, but he *■ must be of Chrisfs t \ appointing.
-- 194.29: r 2 5. Gap. XLI.
-- 195.7: Onh- God can make a popc. ...
-- 195.20: The cardinais' election is of . r . no effect.
-- 195.30: The modern form of election
-- 195.31: 209* is as scandai.
-- 195.34: Eleccio pape.
-- 196.1: The aposties would not elect an apostie.
-- 196.7: The cardinais
-- 196.8: introduced
-- 196.9: authority.
-- 196.14: Tney do not take the place ° ° J JJ ) JJ of the aposties i5 who were all bishops.
-- 196.24: They heap up benefices and devour the goods of the 53 &
-- 196.26: poor.
-- 196.27: They surpass Gehazi and r ^ . . simon.
-- 196.30: They do not 3o evc npiacePo? thc 210"
-- 196.32: eacons"
-- 197.3: What ciaim have there , » 'monsters' to appoint a head , ' .11 t 1 i« ot the Church.
-- 197.21: it is not lawfui for the Church j t 1 1 % i_ •• to abandon the
-- 197.23: f\bheraposties0t
-- 197.29: The israejites
-- 197.30: wantinga king,-
-- 197.31: TppcSntfng1 a pope*
+- 194.8: There must be a pope, but he must be of Christ's appointing.
+- 195.7: Only God can make a pope,
+- 195.20: The cardinals' election is of no effect.
+- 195.30: The modern form of election is as scandal,
+- 196.1: The apostles would not elect an apostle,
+- 196.7: The cardinals have been introduced without authority.
+- 196.14: They do not take the place of the apostles who were all bishops.
+- 196.24: They heap up benefices and devour the goods of the poor.
+- 196.27: They surpass Gehazi and Simon.
+- 196.30: They do not even supply the place of deacons,
+- 197.3: What claim have there 'monsters' to appoint a head of the Church,
+- 197.21: It is not lawful tor the Church to abandon the observances of the apostles.
 
 ## Notes
 

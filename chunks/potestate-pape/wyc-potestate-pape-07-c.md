@@ -37,32 +37,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 142.14: wandnn|SonnthePetri
-- 142.15: Sfthorfty "o his vicar.
-- 142.32: His courage should be an . ,. ,. , .. , , , exampie,
-- 142.34: 1. Cap. VI.
-- 143.1: teaching us not to fear worldly ,. . .-. . , troubie.
-- 143.14: in the
-- 143.14: Apocalypse the .. . ~7. . , woman is tne
-- 143.16: changing moon
-- 143.17: feet a symboi
-- 143.18: temporal.
-- 144.6: The dragon signifies the . . .
-- 144.7: chief Antichrist. __ J ^ . ^ r .
-- 145.1: How the ship Of the Church . c . . . | |is to bc
-- 145.3: :97a navigatc
-- 145.15: The navigator must follow ......... Chnst in
-- 145.17: poverty.
-- 146.2: iQ7b
-- 146.5: The rich man
-- 146.6: "by chris^sd
-- 146.7: but tPh°eWway of povertyissafer.
-- 146.34: iQ7e
-- 146.35: 9. B : et facilius.
+- 142.13: Peter's boldness in walking on the sea gives no authority to his vicar.
+- 142.32: His courage should be an example,
+- 143.1: teaching us not to fear worldly trouble,
+- 143.14: In the Apocalypse the woman is the Church and the changing moon beneath her feet a symbol of things temporal.
+- 144.6: The dragon signifies the chief Antichrist.
+- 145.1: How the ship of the Church is to be navigated.
+- 145.15: The navigator must follow Christ in humility and poverty.
+- 146.5: The rich man may be saved by Christ's power, but the way of poverty is safer.
 
 ## Notes
 

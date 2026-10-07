@@ -55,20 +55,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 338.9: What preaching , ^ . . . shouid be.
-- 338.31: No laws Chnst s needed.
-- 339.27: Chrisfs law makes us at , . . ... peace witn
-- 340.15: woufdbreed
-- 340.16: charfty
-- 340.27: and God would provide for . .... justice.
-- 341.1: To advocate endowment , ... _ . is a heresy.
-- 341.18: God's word is the food of ^ r . the soui.
-- 342.8: Christ's law should be followed even
-- 342.10: counsels.
+- 338.9: What preaching should be.
+- 338.31: No laws but Christ's needed.
+- 339.27: Christ's law makes us at peace with God.
+- 340.15: Christ's law would breed more charity,
+- 340.27: and God would provide for justice.
+- 341.1: To advocate endowment Is a heresy.
+- 341.18: God's word is the food of the soul.
+- 342.8: Christ's law should be followed even as to its counsels.
 
 ## Notes
 

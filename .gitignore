@@ -9,5 +9,5 @@ text/*/raw/
 text/*/witnesses/
 __pycache__/
 .env
-text/*/sidecrops/
+text/*/sidecrops*/
 catalog/lexicon/pl_forms.txt

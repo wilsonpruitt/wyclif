@@ -55,38 +55,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 97.6: it is said that special powers i -tn • were given by Christ to . . , Pcter.
-- 97.13: Such primacy was given only . . ,. because^ he was
-- 97.15: and humbif than the rest. f . . , . rZ . . .
-- 97.26: jhe power of
-- 97.27: %£*xl S
-- 97.28: atLrepr?esthoof
-- 97.29: anpdriviiegerSon0
-- 97.30: thp0n0iffan
-- 98.28: acctpt authority or lic£"tceerfrom
-- 98.31: 2K. A in marg : j>.
-- 99.4: iie iiad
-- 99.5: preached three . .
-- 99.5: hcfore hc
-- 99.15: Peter was sent to Samaria . . hy the aposties.
-- 99.34: 3. vero; A : non.
-- 100.1: IOO
-- 100.1: The aposties would not ~. . have given licence to one x . , ,. , , vho hadaireadv leceived it of . _ _ .
-- 100.4: God.
-- 100.23: The aposties consorted on . terms of mutnal service and honour.
-- 100.30: So shouid priests and ° . bishops do.
-- 100.35: 2. vasis ; ita cod.
-- 101.1: it Christ were to revisit the . earth, he wouid find few . . , . . faithfui servants. . .
-- 101.13: We priesta ^
-- 101.14: ourseives entirely to rn . 0. priestiy duties.
+- 97.13: Such primacy was given only because he was more loving and humble than the rest.
+- 97.26: The power of the keys was given to him as representing the priesthood and confers no privilege on the Roman pontiff.
+- 98.28: Paul did not accept authority or licence from Peter.
+- 99.4: He had preached three years before he met Peter.
+- 99.15: Peter was sent to Samaria by the apostles.
+- 100.1: The apostles would not have given licence to one who had already received it of God.
+- 100.23: The apostles consorted on terms of mutual service and honour.
+- 100.30: So should our priests and bishops do.
+- 101.1: If Christ were to revisit the earth, he would find few faithful servants.
+- 101.13: We priests ought to devote ourselves entirely to priestly duties.
 - 101.23: The pope should not judge in secular business.
-- 101.29: He shouid give up all
-- 101.30: :ndowments.
-- 102.26: Nd apostie all Chrisfs ~. . human powers, nor has every 'm _ , pope aii the
+- 101.29: He should give up all cesarean endowments.
 
 ## Notes
 

@@ -25,22 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 232.1: The absoiving power ot the ~ . . . . pope cannot
-- 232.3: proved. . .
-- 232.19: a decretai
-- 232.20: pope^primacy
-- 232.21: /heEmperor.
-- 233.1: Fastcrn CUristians ~ .. . - . . disregard its indulgences . . and pmiieges.
-- 233.10: The Cardinais revolted from ^ , Urban Vf, becauss he x \ . . tried to keep them to the » ^ . & apostoiic life.
-- 234.1: Many Roman pontiffs have . . £ , r , , • been woridiy.
-- 234.11: ci2msScausSe
-- 234.12: loss of jurisdiction.
-- 235.4: Why do not modern popes exert tne power they claim. _ , . , T1 . . , , .
-- 235.29: Paui had tne power of . . edifying even more than , 111 Peter.
+- 232.19: A decretal attributes the pope's primacy to the gift of the Emperor.
+- 233.1: Eastern Christians disregard its indulgences and privileges.
+- 233.10: The Cardinals revolted from Urban VI, because he tried to keep them to the apostolic life.
+- 234.1: Many Roman pontiffs have been worldly.
+- 234.11: These false claims cause a - Joss of jurisdiction.
+- 235.4: Why do not modern popes exert the power they claim.
+- 235.29: Paul had the power of edifying even more than Peter.
 
 ## Notes
 

@@ -43,25 +43,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 188.6: There is not one sole . . . , Antichrist but
-- 188.18: seekVthe^praise
-- 188.19: notnofnGodd
-- 188.32: 22. B : facit.
-- 189.11: Antichrist claims that 0 ... . without obedience x tohimisno salvation. x
-- 189.27: He rests his
-- 189.28: witness of men.
-- 190.1: igo
-- 190.1: See how Hke the Romaa , -ctttt pontiffs are to Antichrist. rr . .
-- 190.16: Grosseteste
-- 190.16: and
-- 190.17: innocent iv.
-- 191.6: 5 zelaverunt.
-- 191.6: Repentance ailc* martvrdom ' 1 ... of Marceiiinus.
-- 192.10: Our preiates deny in deed.
+- 188.18: Antichrist seeks the praise of man and not of God.
+- 189.11: Antichrist claims that without obedience to him is no salvation,
+- 189.27: He rests his claims on witness of men,
+- 190.1: See how like the Roman pontiffs are to Antichrist.
+- 190.16: Grosseteste and Innocent IV.
+- 191.6: Repentance and martyrdom of Marcellinus.
 
 ## Notes
 

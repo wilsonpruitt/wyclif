@@ -31,28 +31,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 76.2: pVeachedSanci
-- 76.3: withoutrafking
-- 76.4: from^Peter
-- 77.1: Thev acted
-- 77.2: COmmandSgiven Wltb Promi8e<
-- 77.9: 1 7od PauPs rejection
-- 77.10: 0t llUmatl T"» • • • anthonty,
-- 77.32: ecclesie.
-- 78.16: Christ s commission to . the aposties extended to the . whoie worid.
-- 78.32: est omnibus.
-- 79.14: He gave no charge to ... . Peter to controi the other , . . . apostics.
-- 79.28: Our preiates quarrel over ..... , . ... . Hmits of jurisdiction for ,. . .
-- 79.30: 3o the sake of
-- 80.1: it is said that none can be ; .... saved who do not pav the . . . Parai dues. i8oc
-- 80.12: HriinsT amT
-- 80.13: °be saveT11'
-- 80.26: Chrisfs chiet-vicar . . , , shouid be free
-- 80.28: woiidlv cares.
+- 77.1: They acted on Christ's command given with promise.
+- 77.9: Paul's rejection of human authority,
+- 78.16: Christ's commission to the apostles extended to the whole world.
+- 79.14: He gave no charge to Peter to control the other apostles.
+- 79.28: Our prelates quarrel over limits of jurisdiction for the sake of gain.
+- 80.1: It is said that none can be saved who do not pay the Papal dues.
+- 80.12: He who loves Christ, and only he, will be saved.
 
 ## Notes
 

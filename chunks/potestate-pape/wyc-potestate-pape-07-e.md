@@ -25,28 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 147.4: a man engaged in worldlv . . .11 1 . pursuits sees spiritual things . _ confusediy.
-- 147.27: Tne vicar of
-- 147.28: Peaewatchfuibe guardfl02k?f the
-- 148.5: if not, the faithful shoukl . . ... not foiiow him.
-- 148.29: christ s prophecy of Antichi ist. 3o
-- 149.10: u may refer to those who i" •/-»«• • , 1 1 • , now ciaim
-- 149.12: t0 be popes'
-- 149.28: 3b jhey shouid
-- 149.29: fo^a^deciSon and meanwhile o j • , 1 j_
-- 149.30: 00 serve the
-- 149.31: trae"priests.
-- 150.9: They have no
-- 150.10: ciaim°tr?bute
-- 150.11: nations
-- 150.12: a5owIdthe?r
-- 150.13: lordship.
-- 150.28: Wyciif wiii better. "
-- 152.14: Danger accepting the 1 x oftice of pope from wrong x % motives.
+- 147.27: The vicar of Peter must be a watchful guardian of the flock.
+- 148.5: If not, the faithful should not follow him.
+- 148.29: Christ's prophecy of Antichrist.
+- 149.10: It may refer to those who now claim to be popes.
+- 149.28: They should Walt patiently for a decision and meanwhile serve the Church as true priests.
+- 150.9: They have no authority to claim tribute and the nations should not allow their lordship.
+- 150.28: Wyclif will recant if taught better.
 
 ## Notes
 

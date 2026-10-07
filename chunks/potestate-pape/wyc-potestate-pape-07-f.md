@@ -31,18 +31,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 152.14: Danger accepting the 1 x oftice of pope from wrong x % motives.
-- 153.16: Prevaience ot simon>-
-- 154.16: riie mysticai
-- 154.17: ^"iishes!116
-- 155.2: Various significations - . to be drawn from the , . f . . . number i53.
+- 152.14: Danger of accepting the office of Pope from wrong motives.
+- 153.16: Prevalence of simony.
+- 154.16: The mystical meaning of the 153 fishes.
+- 155.2: Various significations to be drawn from the number 153.
 - 155.29: The fishes are the elect.
-- 156.3: The vicar of St. Peter should . . j • r . . preach to bring men to Christ, •, • • . j shouid heip the fallen and i i • • r • i • r *x -r» confirm the
-- 156.26: behaviour at Jerusalem. ot
+- 156.3: The vicar of St. Peter should preach to bring men to Christ, should help the fallen and confirm the sickly.
 
 ## Notes
 

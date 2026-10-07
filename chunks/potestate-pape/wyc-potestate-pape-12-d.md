@@ -49,25 +49,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 328.1: that there one Chief- . . , . antichrist, who is the . . _.-*•_. chief opponent of God's law ^ _ . . . . . and who be damned. , . _ . - ,
-- 328.11: He thinks likely the pope .
-- 328.12: is that Antichrist. * *
-- 328.21: Becauseonc pope
-- 328.22: Antichrist
-- 328.23: that aii^popes
-- 328.32: Fides
-- 329.3: Wc nccd not believc all . . canonized to bc
-- 329.4: saints.
-- 329.18: in such mauers
-- 329.19: depend on
-- 329.19: ence'
-- 330.3: the The higher
-- 330.3: degree g grea^ter the
-- 330.7: A wicked pope is the wbrst of hypocrites.
+- 328.21: Because one pope is Antichrist and does not follow that all popes are.
+- 329.3: We need not believe all canonized to be Saints.
+- 329.18: In such matters we must depend on evidence.
+- 330.3: The higher the degree the greater the sin.
+- 330.7: A wicked pope is the worst of hypocrites.
 
 ## Notes
 

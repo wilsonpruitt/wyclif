@@ -49,22 +49,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 271.22: Caviijthat doctrine would . ... . make the B! Virgin . , .,. . pope.
-- 271.31: a v.-oman may not be pope. ...
-- 272.5: mi^tYe^pope
-- 272.18: even though he had _ r \ . f. .
-- 272.19: no degree and had not been . , ... ordained by man. . .
-- 273.12: wuh Chrisfs
-- 273.13: ritesTof the old law are r rv ■ • • , done away.
-- 273.28: We shouid take as model ... the church triumphant. . . . r
-- 274.8: Christ the one high-priest. .
-- 274.16: The aposties
-- 274.17: themseives1
-- 274.18: ofPthe°Church!
+- 271.22: Cavil; that doctrine would make the B. Virgin pope.
+- 271.31: A woman may not be pope.
+- 272.5: A lay man might be pope,
+- 272.18: even though he had no degree and had not been ordained by man.
+- 273.12: With Christ's coming the rites of the old law are done away.
+- 273.28: We should take as model the Church triumphant.
+- 274.8: Christ the one high-priest.
+- 274.16: The apostles did not call themselves popes or heads of the Church.
 
 ## Notes
 

@@ -37,31 +37,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 242.6: shVuid^correct
-- 242.7: insteaJolf
-- 242.8: endolments
-- 242.13: The best to correct is to . . take away the occasion of evii.
-- 243.1: Mammon sows liis gifts , . among the clergv, inviting . . .
-- 243.3: "GocTs vengeance. .... .
-- 244.17: Except for
-- 244.18: bielsings^we
-- 244.19: mSodeUratebin ourprayei^
-- 244.21: S(iod'sSw?n!0
-- 244.32: deest.
-- 245.1: The priests °* t,le °,d v, • /r 1 ,ttt -1 I •
-- 245.2: 2 were lcss
-- 245.3: corrupt than .... . J,, .
-- 245.3: ours.
-- 245.15: There must be popes and A , , bishops, but tney must be / ^ ^ s"ch as God has chosen. x #
-- 246.2: Phuma?/ appointment necessary to salvation.
-- 246.10: For 3oo years
-- 246.11: prfistsVere the
-- 246.22: The church would be better - . ., .t. without such prelates and . .*»''. ■,•
-- 246.24: mdowments.
+- 242.6: It is said we should correct the clergy instead of taking away endowments.
+- 242.13: The best way to correct is to take away the occasion of evil,
+- 243.1: Mammon sows his gifts among the clergy, inviting God's vengeance.
+- 244.17: Except for spiritual blessings We should be moderate in our prayers and submissive to God's will.
+- 245.1: The priests of the Old Law were less corrupt than ours.
+- 245.15: There must be popes and bishops, but they must be such as God has chosen.
+- 246.2: Popes of human appointment not necessary to salvation.
+- 246.10: For 300 years
+- 246.11: bishops and priests were the same.
 
 ## Notes
 

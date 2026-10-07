@@ -127,26 +127,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 180.21: matter not faith that Oement
-- 180.23: wthe mo5ernin 206*
-- 180.24: ust
-- 181.11: Such modem popedoni is , . ... of man's invention.
-- 181.20: 20 TJ1C history of
-- 181.20: Bonitace and o '
-- 181.21: ^ho^great*8
-- 181.22: o6b ot the th,e ruler.
-- 181.22: Jay
-- 182.1: other instances of rival popes as reiated by Ralph de . r r Diceto.
-- 183.20: jhe emperor
-- 183.21: (lii^soiomon)
-- 183.22: cmefSpontlff.
-- 183.32: norum.
-- 183.32: menlum.
-- 184.7: o\orrivirpopCeesS
+- 181.11: Such modern popedom is of man's invention.
+- 181.20: The history of Boniface and Eulalius shews how great was the power of the lay ruler.
+- 182.1: Other instances of rival popes as related by Ralph de Diceto.
+- 183.20: The emperor Henry IV (like Solomon) deposed the chief pontiff.
+- 184.7: More instances of rival popes.
 
 ## Notes
 

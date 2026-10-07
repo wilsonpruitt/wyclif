@@ -37,29 +37,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 43.1: riic greatest powcr God , . -r f . . i'i «\ grants is that
-- 43.3: predestination.
-- 43.11: The power of lc °pt*
-- 43.16: We must first decide which oi • , • ' • j ■ . • j • , i« • the aposties
-- 43.18: primacy!
-- 43.22: Fitzraiph's proofs of Pctcrs 1 r 1 • • j_ j» • 1 t preeminence.
-- 44.6: Expianation i7ic the 'sifting'. J .
-- 44.33: 2. Lucae XXII, 3 1 — 32.
-- 45.13: ciirist suggests
-- 45.15: as if he fvere
-- 45.15: Clu,rcn-
-- 45.16: the
-- 45.33: 28. Codd.: Joh. XX.
-- 46.2: Behaviour of Peter and John 5 J? 6 r 'F . . rr 1 .
-- 46.3: at the Sepulchre. ... - . ....
-- 46.12: Joim more fervent in contempiative, Peter in 7 . ... practicai love.
-- 47.9: confirmed primacy
-- 47.9: frofn
-- 47.10: other parts of Scripture. ....
+- 43.11: The power of the Pope.
+- 43.16: We must first decide which of the apostles held the primacy,
+- 43.22: Fitzralph's proofs of Peters preeminence.
+- 44.6: Explanation of the 'sifting'.
+- 45.13: Christ suggests the primacy of Peter in addressing him as if he were the Church.
+- 46.2: Behaviour of Peter and John at the Sepulchre,
+- 46.12: John more fervent in contemplative, Peter in practical love.
+- 47.9: Peters primacy confirmed from other parts of Scripture.
 
 ## Notes
 

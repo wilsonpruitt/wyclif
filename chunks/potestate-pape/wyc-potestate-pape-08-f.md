@@ -37,28 +37,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 185.1: in every "
-- 185.2: endowrnent tliere have . . o 1 1 1 • been quarreis
-- 185.4: popedom.
-- 185.14: This strife has been due to - < , . ambition or
-- 185.19: c°hrist's
-- 185.20: P^ldSs^ refers-
-- 185.34: 25. HUSS 220b.
-- 186.2: irfhtheWrivai
-- 186.3: po&es tnsy antichrists.
-- 186.12: would ?huurch
-- 186.13: witof !theinther
-- 186.31: We Eugiish should uot . . . ^ . .. accept either.
-- 187.1: The Sjgns 0f
-- 187.2: A?aughtSbyS Aug,istine
-- 188.6: There is not one sole . . . , Antichrist but
-- 188.18: seekVthe^praise
-- 188.19: notnofnGodd
-- 188.32: 22. B : facit.
+- 185.1: In every century since endowment there have been quarrels for the popedom.
+- 185.14: This strife has been due to ambition or avarice.
+- 185.19: It is to such that Christ's prophecy of Antichrist refers.
+- 186.2: The works of the rival popes shews they are antichrists.
+- 186.12: The Church would be better without either of them.
+- 186.31: We English should not accept either.
+- 187.1: The signs of Antichrist as taught by Augustine.
+- 188.6: There is not one sole Antichrist but many.
 
 ## Notes
 

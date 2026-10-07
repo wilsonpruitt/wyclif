@@ -25,18 +25,8 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 133.1: As doctors
-- 133.2: state of the bodv, so priests - , . , . shouid of the
-- 133.26: Duty ot reproving superiors.
-- 134.15: Our attack on l5 the pseudopope ... ..... ,. . ,., is not personai except to any . . who feeis that it fits him. „ r f . .
-- 134.34: ad deest.
-- 135.22: Humility.
-- 135.24: 2 5 acceptavit.
-- 135.25: Mildness.
+- 133.26: Duty of reproving superiors.
+- 134.15: Our attack on the pseudopope is not personal except to any who feels that it fits him.
 
 ## Notes
 

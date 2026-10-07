@@ -61,26 +61,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 385.6: Reason^for thc
-- 385.7: exlen.*'°" ot
-- 385.8: prohibitions.
-- 385.32: popefa
-- 385.33: as'toSherSes valuele5a-
-- 386.27: Tweive abuses oi the pope. . - *; 1. Method of election. • . ,...*-
-- 387.1: 2. ciaim* oi worldlv honours,
+- 385.32: Pope's judgment as to heresies valueless.
+- 386.27: Twelve abuses of the pope. 1. Method of election.
+- 387.1: 2. Claims of honours,
+- 387.1: 2. Claims of worldly honours,
 - 387.22: 3. and of secular rule.
-- 388.3: 4. Much boasting with .
-- 388.4: nttie
-- 388.4: pertormance. .
-- 388.13: 5. Encouragement to war, 1 . 1 A especiaiiy in 257c support ot his 1 m own power.
-- 388.31: 6. Unauthorized claims to rule. . ; . .
-- 389.28: 7- Faiiure to
-- 389.29: imercession for his subjects.
-- 389.34: marg. : 7.
+- 388.3: 4. Much boasting with little performance.
+- 388.13: 5. Encouragement to war, especially in support of his own power.
+- 388.31: 6. Unauthorized claims to rule.
 
 ## Notes
 

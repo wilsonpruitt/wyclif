@@ -31,18 +31,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 268.28: Ho\v to discem a Laesarian r priest from a disciple ot Christ.
-- 269.7: Thc two may be confused at • . . ,. . , . times but not finally. ' . .
-- 269.32: Bernh.
-- 270.1: st. Bernard's
-- 270.10: He did not say the pope ot his 1 m time was such.
-- 270.21: Christ is chief priest; . no other shouid claim the ... .... office.
-- 271.22: Caviijthat doctrine would . ... . make the B! Virgin . , .,. . pope.
-- 271.31: a v.-oman may not be pope. ...
+- 268.28: How to discern a Caesarian priest from a disciple of Christ.
+- 269.7: The two may be confused at times but not finally.
+- 270.1: St. Bernard's ideal pope.
+- 270.10: He did not say the pope of his time was such.
+- 270.21: Christ is the chief priest; no other should claim the office.
 
 ## Notes
 

@@ -61,29 +61,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 324.31: ditur.
-- 325.26: The tempie God prophes -r-x • ... A , . , ot is the Church. . , . r , , . . .
-- 326.28: How
-- 326.28: Antichrist is to . . lead men astray in ..... . , , . tempqrai as 3o in spiritual matters e. g, indulgences,
-- 327.2: and ciaims to civil rulc. . ......... .
-- 327.10: Antichrist tron
-- 327.11: the ciergy.
-- 327.16: Degrees of
-- 327.17: disbeiief.
-- 327.26: Wyciif tuiiv
-- 327.27: Antichrist is described in . - ......... . the scnptures quoted ; - .
-- 327.33: 6. I. Joh. II, 18.
-- 328.1: that there one Chief- . . , . antichrist, who is the . . _.-*•_. chief opponent of God's law ^ _ . . . . . and who be damned. , . _ . - ,
-- 328.11: He thinks likely the pope .
-- 328.12: is that Antichrist. * *
-- 328.21: Becauseonc pope
-- 328.22: Antichrist
-- 328.23: that aii^popes
-- 328.32: Fides
+- 324.8: Augustine's exposition.
+- 325.26: The temple of God prophesied of is the Church.
+- 326.28: How Antichrist is to lead men astray in temporal as in spiritual matters e. g. indulgences,
+- 327.2: and claims to civil rule.
+- 327.10: Antichrist is tocome from the clergy.
+- 327.16: Degrees of belief and disbelief,
+- 327.26: Wyclif fully believes that Antichrist is described in the scriptures quoted;
+- 328.1: that there is one Chiefantichrist, who is the chief opponent of God's law and who will be damned.
+- 328.11: He thinks it likely the pope is that Antichrist.
 
 ## Notes
 

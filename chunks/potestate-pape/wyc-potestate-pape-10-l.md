@@ -67,23 +67,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 261.8: Wc are not
-- 261.9: believe tliat everv Roman ., ... ., bishop is pope.
-- 262.20: if he does not follow Christ n he is a devii and antipope. * .
-- 262.28: decfaSrethat no one may reprove them. *■- , .
-- 263.2: it is said falselv that , between equais
-- 263.4: authority?
-- 263.6: 5 pares.
-- 264.24: Such a ciaim implies that ~ Z. the pope is 2: impeccable. . ...
-- 265.7: Case of Marcellinus. -k ir „. . «. , - .
-- 265.18: it js argued
-- 265.19: J^ldl Sf th?ngs
-- 265.20: 1 nw° rar?'bTundh
-- 265.21: to keep'
+- 261.8: We are not bound to believe that every Roman bishop is pope.
+- 262.20: If he does not follow Christ he is a devil and antipope.
+- 262.28: Popes even declare that no one may reprove them.
+- 263.2: It is said falsely that between equals there is no authority.
+- 264.24: Such a claim implies that the pope is impeccable.
+- 265.7: Case of Marcellinus.
 
 ## Notes
 

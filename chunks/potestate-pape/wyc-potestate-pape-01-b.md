@@ -49,28 +49,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 5.11: Besides aii these meanings 17 1 ° /power' denotes an 1 1 x order °f angeis.
-- 5.22: au these meanings must , ,. . . . . ,. be aiiowed since they are . _ . . , , in common
-- 6.29: restricting
-- 6.30: rationaf power 3o
-- 6.31: exermand- by i62c
-- 7.1: it is of many
-- 7.1: kinds. ... ,. . ,. . .
-- 7.18: There are powers spiritual and secuiar of which the heads r > f are respecm-eiy P°Pe and kins- . . m
-- 8.18: polver^iTsdd
-- 8.19: k> UieSsecular
-- 8.20: dignTty an5 usefuiness.
-- 8.29: TheSJewsewere
-- 8.30: s°byerthis tfflly
-- 8.31: thesauie ot
-- 9.6: Dignity: This is self cvident. .... , ,.
-- 9.11: Antiqoity: It is believed . «ii i • _ . that Adam and Cain had a sort . . . of priesthood.
-- 9.26: in God however the . kingiy power has jSriority. . .
-- 9.33: et seqq.
+- 5.22: All these meanings must be allowed since they are in common use.
+- 6.29: Even restricting the word to a free rational power exercised by man;
+- 7.1: it is of many kinds.
+- 7.18: There are powers spiritual and secular of which the heads are respectively pope and king.
+- 8.18: The spiritual power is said to be superior 10 the secular in antiquity, dignity and usefulness.
+- 8.29: Usefulness: The Jews were governed only by this till the time of Saul.
+- 9.6: Dignity: This is self evident.
 
 ## Notes
 

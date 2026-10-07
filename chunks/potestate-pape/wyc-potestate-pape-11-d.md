@@ -37,22 +37,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 275.3: Sacerdotai powers are . t . . 7 7 , equaiiv and indivisiblv in 7. 7 7. . . 7. aii priests,
-- 275.16: yet some acts may be limited . . ... . to those fittes to perform , ... ,. . . , them.
-- 276.7: Yet the danger
-- 276.8: distinctions
-- 276.9: kept in mind.
-- 277.11: Too much stress is laid ... n . . . . x on dirfercnce in orders. ,
-- 277.33: 21. Cap. XII.
-- 278.8: Vestments mav
-- 278.9: ^Thel^orig^' and purpose.
-- 278.22: wiiat were used in the old ^ J
-- 278.23: The^Aib
-- 279.16: The girdie of tour colours. Their signiticance. .
+- 275.4: Sacerdotal powers are equally and indivisibly in all priests, yet some acts may be limited to those fittes to perform them.
+- 276.7: Yet the danger of such distinctions must always be kept in mind.
+- 277.11: Too much stress is laid on difference in orders.
+- 278.8: Vestments may be rightly used. Their origin and purpose.
+- 278.22: What were used in the old law.
+- 278.23: The Alb.
 
 ## Notes
 

@@ -49,20 +49,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 389.28: 7- Faiiure to
-- 389.29: imercession for his subjects.
-- 389.34: marg. : 7.
-- 390.23: 8. Readiness accept unduc _ burdens for the sake of lionour . . .. . or reward.
-- 391.11: 9. ciaims ot Datronage-
-- 391.28: 10. Faise
-- 391.29: induigence.
-- 391.34: marg.: 10.
-- 392.9: patronageSfoJ seifish cnds.
-- 392.22: lfn 2udySandn deed to Chrisfs
+- 389.28: 7. Failure to make intercession for his subjects.
+- 390.23: 8. Readiness to accept undue burdens for the sake of honour or reward.
+- 391.11: g. Claims of patronage.
+- 391.28: 10. False grants of indulgence.
+- 392.9: 11. Grants of patronage for selfish ends.
+- 392.22: 12. Opposition in study and deed to Christ's law.
 
 ## Notes
 

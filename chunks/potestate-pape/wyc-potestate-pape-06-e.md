@@ -61,31 +61,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 118.6: Apontiffwho
-- 118.7: vic?rhwhiie
-- 118.8: ^the^worsrof Antichrists.
-- 118.29: The whoie bodyofthe /t f , • • r reprobaie arc Antichrist; so is each of
-- 119.7: Antichrist originate
-- 119.8: fl3Sgye
-- 119.31: The speciai sin of Antichrist . . is hypocrisy.
-- 120.13: a man may
-- 120.14: name, PySVave the conditions . • ., of Antichrist. i5
-- 120.21: 1. He says he is a follower of . . • .c j i • • Christ, yet goes IQO*
-- 120.23: others astray.
-- 120.27: 2. He does miitate Christ . . n . n . in his poverty,
-- 121.1: but ciaims rule over the .... whoie worid.
-- 121.10: 3. Against Chrisfs 1 ? \ . prohibition new llc makes . ... . -i-» i laws not founded in Scripture.
-- 121.29: Christ chose
-- 121.30: men for his disciples ; ... . njr the pope chooses such ^rTSr . T, , as are illustrious ' & * ' . or astute.
-- 121.35: 29. AB in marg. : 4.
-- 122.4: 5. Christ bade his disciples to go out through the world
-- 122.6: preaching ; the false pope dwells in a rich palace and does not preach.
-- 122.18: 6. Christ taught his disciples to submit to persecution ; the pope teaches his to fight for dominion.
-- 122.30: 7. Christ forbade his disciples to take the sword
+- 118.6: A pontiff who claims to be Christ's Vicar while leaving his way is the worst of Antichrists.
+- 118.29: The whole body of the reprobate are Antichrist; so is each of its members.
+- 119.7: Antichrist must originate from the clergy.
+- 119.31: The special sin of Antichrist is hypocrisy.
+- 120.13: A man may be a pope in name, yet have the conditions of Antichrist.
+- 120.21: 1. He says he is a follower of Christ, yet goes and leads others astray.
+- 120.27: 2. He does not imitate Christ in his poverty,
+- 121.1: but claims rule over the whole world.
+- 121.10: 3. Against Christ's prohibition he makes new laws not founded in Scripture.
+- 121.29: Christ chose poor simple men for his disciples; the pope chooses such as are illustrious or astute.
+- 122.4: 5. Christ bade his disciples to go out through the world preaching; the false pope dwells in a rich palace and does not preach.
+- 122.18: 6. Christ taught his disciples to submit to persecution; the pope teaches his to fight for dominion.
 
 ## Notes
 

@@ -31,27 +31,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 173.7: Endowment would Iiave x L trindercd the apostles' ' 1 A m joumeys.
-- 173.21: ^da^J1"
-- 173.22: ^JJJfJg ^the
-- 173.23: fgP^An^ifch
-- 174.2: Nor does Clement\s succession to the bishopric carry the papacy. . . .
-- 174.8: Why ciement rather than m m i James?
-- 174.12: presume to Chrisfs
-- 174.14: a^reveStiS?
-- 174.24: Was John the Evangelist & ; 1 ... subject to Clement? . . .
-- 174.33: Th?s ludf
-- 175.1: by human election is . .. truc to fact DUt lacl<s • • r \ ' M« J reiigious sanction.
-- 175.15: Man cannot clioose a pope
-- 175.16: truiy,
-- 175.21: ^ since it
-- 175.22: grace which man cannot judge.
-- 176.5: does not^make
-- 176.6: aGodPteoonnasS chosen inm.
+- 174.2: Nor does Clement's succession to the bishopric carry the papacy.
+- 174.8: Why Clement rather than James?
+- 174.12: Peter would not presume to choose Christ's vicar without a revelation,
+- 174.24: Was John the Evangelist subject to Clement?
+- 174.33: That the pope is such
+- 175.1: by human election is true to fact but lacks religious sanction.
+- 175.15: Man cannot choose a pope truly,
+- 175.21: since it depends on grace which man cannot judge.
 
 ## Notes
 

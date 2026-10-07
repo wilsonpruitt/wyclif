@@ -43,16 +43,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 279.16: The girdie of tour colours. Their signiticance. .
-- 281.4: How to tanic
-- 281.18: The breeches a symbol ot
-- 281.19: 23 tb chastity.
-- 282.3: Ttunicner
-- 282.17: svmbol of 23 ic fortitude and . , j , patience.
+- 279.16: The girdle of four colours. Their significance.
+- 281.4: How to tame the flesh.
+- 281.18: The breeches a symbol of chastity.
+- 282.3: The inner tunic.
+- 282.16: The Ephod patience.
 
 ## Notes
 

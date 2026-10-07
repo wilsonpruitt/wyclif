@@ -49,33 +49,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 307.1: aii orders confer . . .
-- 307.2: cssentiaiiy the same powers. . . .
-- 307.11: Christ wiii noi torbid a priest s^. . - to fuifii the
-- 307.13: he himseif laid
-- 308.2: follow refases
-- 308.3: conclasions thev this.
-- 308.15: Lay allowed i because of its necessity;
-- 308.17: sacraments
-- 308.18: necessarv.
-- 308.27: Vet sin is the greatest obstacle to ministration ot the sacraments.
-- 308.34: heresim.
-- 309.8: story of pope
-- 309.8: Joan.
-- 310.7: Distinction between baptism and
-- 310.8: other sacraments.
+- 308.2: yclif refuses follow opponents into the conclusions they draw from this.
+- 308.15: Lay baptism is allowed because of its necessity; other sacraments are less necessary.
+- 308.27: Yet sin is the greatest obstacle to ministration of the sacraments.
+- 309.8: Story of pope Joan.
+- 310.7: Distinction between baptism and other sacraments.
 - 310.16: Penitence.
-- 310.27: Verbal
-- 310.27: contession not absolutely neccssary.
-- 310.33: 27. B : est deest.
-- 311.3: Mischfef of reserved absoiution.
-- 311.19: whi(;h is made up for 00 *
-- 311.20: 20 by accicfentai
-- 311.20: benefits. ° . r r
+- 310.27: Verbal confession not absolutely necessary.
+- 311.3: Mischief of reserved absolution,
+- 311.19: which is not made up for by accidental benefits.
 
 ## Notes
 

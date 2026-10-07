@@ -25,32 +25,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 294.7: it is weii keep good customs, but those are of , . . . . ,.r
-- 294.9: most importance *. r Z,, . . . which are expressly enjoined in Scripture. . .
-- 295.18: How our pharisees
-- 295.19: °^][^hthe
-- 295.33: 20. A : fecerunl.
-- 295.33: 1. Cap. XII.
+- 294.7: It is well to keep good customs, but those are of most importance which are expressly enjoined in Scripture.
+- 295.18: How our pharisees oppress the Church,
 - 296.5: and give no good reasons for their traditions.
-- 296.24: We shouid pav little . . rr» — aitention to thcm and .... dcpend on tiic law of God. ° . B ° ,
-- 297.7: xhe
-- 297.8: j* of government
-- 297.9: should not be modelled on
-- 297.10: 10 th<state.the
-- 297.30: Scripiure authorizes . . , , secuiari ruie.
-- 298.5: Faise ciaims
-- 298.6: s^apaibiawhe
-- 298.29: Some say: Endowment replaces ihe 3o power of working miracles.
-- 298.34: 20. B: repugnante.
-- 299.1: Miracles likc
-- 299.2: would plcase
-- 299.12: The dignity of
-- 299.13: consists in
-- 299.14: Christlike' life.
+- 296.24: We should pay little attention to them and depend on the law of God.
+- 297.7: The government of the Church should not be modelled on thet of the State.
+- 297.30: Scripture authorizes seculari rule.
+- 298.5: False claims set up by the papal law.
+- 298.29: Some say: Endowment replaces the power of working miracles.
+- 299.1: Miracles like St. John's would please them.
 
 ## Notes
 

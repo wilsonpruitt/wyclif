@@ -73,30 +73,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 303.1: aii things, even evil, proiit the ... , .
-- 303.2: ciiurch accidentally.
-- 304.20: accidental benefits.
-- 305.7: Tliree ways
-- 305.8: "i!ePchurci?.
-- 305.19: We may not know who wil • 1 j . 1 , , • profit by disendowmenl • • , j ■■_ , . , j. rr- • . it is.enough
-- 305.22: ^inGod''0^ honoLir-
-- 305.33: destinatis.
-- 305.33: 3i. Cap. II.
-- 306.7: Scrip??re 2?
-- 306.8: hurtofsome!
-- 306.9: not^go^beyond our authonty.
-- 306.19: Lacking
-- 306.19: prelates, simple admimster may
-- 306.20: any _
-- 306.21: sacrament.
-- 307.1: aii orders confer . . .
-- 307.2: cssentiaiiy the same powers. . . .
-- 307.11: Christ wiii noi torbid a priest s^. . - to fuifii the
-- 307.13: he himseif laid
+- 303.1: All things, even evil, profit the Church accidentally.
+- 304.19: Sin is not to be committed for its accidental benefits.
+- 305.7: Three ways of profiting the Church.
+- 305.19: We may not know who will profit by disendowment, it is enough that it is done in God's honour,
+- 306.7: We must obey Scripture even though to the hurt of some, but we must not go beyond our authority.
+- 306.19: Lacking prelates, simple priests may administer any sacrament,
+- 307.1: All orders confer essentially the same powers.
+- 307.11: Christ will not forbid a priest to fulfil the duties which he himself laid on the clergy.
 
 ## Notes
 

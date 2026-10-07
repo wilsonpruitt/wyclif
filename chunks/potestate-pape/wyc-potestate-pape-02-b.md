@@ -25,49 +25,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 26.9: Man cannot
-- 26.10: 8USpiritH°ly
-- 26.24: a bisiiop has
-- 26.25: power but he
-- 26.26: the^Spint^at 167° his wiil, , .
-- 27.1: Nor can the
-- 27.2: ^any popes
-- 27.3: ha7ackedSft.Ves
-- 27.27: The power of
-- 27.28: aon°yUGod:
-- 27.28: sin'
-- 27.29: take* away
-- 28.21: God himseif
-- 28.22: ab^okiUoifs^ve
-- 28.23: he°hTsefiTtedmto iecene lt.
-- 29.6: jhe priests in
-- 29.7: thnot 1cureWthe,d
-- 29.8: d!c?aredUhis
-- 29.9: ^Vbsoiution8 the neNV Iaw<
-- 29.26: how bad
-- 29.27: ^hToffice^of
-- 29.32: ve a est.
-- 30.17: Thev shouid
-- 30.18: tifemseWes^he
-- 30.19: Servant°and
-- 30.20: poweTto God.
-- 30.31: Exampie by the apostles. F x
-- 31.10: simgie pricst absoiution to the contrite as . . weii as the
-- 31.25: so as to
-- 31.26: caTSn^nTman
-- 31.27: h*| Junishingf
-- 31.28: thGodh'asS
-- 31.29: Pun?sheci.
-- 31.31: 29. B : Ex hinc.
-- 32.9: How the power ot orders is c r conterred.
-- 32.13: Godby rhists
-- 32.14: ^outward^sig^ns3
-- 32.15: unimportant
-- 32.33: dotes.
+- 26.9: Man cannot give the Holy Spirit.
+- 26.24: A bishop has a spiritual power but he cannot grant the Spirit at his will.
+- 27.1: Nor can the pope; indeed many popes have themselves lacked it.
+- 27.27: The power of absolution: Only God takes away sin.
+- 28.21: God himself cannot give absolution save to one whom he has fitted to receive it.
+- 29.6: The priests in the old law did not cure the leper but declared his state; so it is as to absolution in the new law.
+- 29.26: How bad priests usurp the office of God,
+- 30.17: They should attribute to themselves the office of a servant and ascribe all power to God.
+- 30.31: Example set by the apostles.
+- 31.10: A simple priest can declare absolution to the contrite as well as the Pope.
+- 31.25: So as to excommunication, no man has the power of punishing thus unless God has already punished.
 
 ## Notes
 

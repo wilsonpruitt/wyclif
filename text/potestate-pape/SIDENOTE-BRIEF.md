@@ -52,3 +52,7 @@ added, and anything you could not settle (band number + why). Do not paste the r
 **This volume:** Loserth's notes name *Fitzralph* (so printed, one word), *Chrysostom*, *Dionysius* and others: proper
 names and old spellings (*shewn*) are kept exactly as printed; only OCR errors change (*orising* → *arising*, *Thev* →
 *They*, *guarrel* → *quarrel*, *povers* → *powers*, if the ink shows so).
+
+**Result (2026-10-07):** 559 bands read by 4 Sonnet agents (661K); 743 notes ship (266 plate-read, 477 re-OCR).
+Control of the unflagged (`--spot 30`, 13 notes, coordinator): 12 exact, 1 punctuation slip (12.33 *powers,* →
+*powers.*), fixed in `sidenotes.reads.part99.tsv` with 7 first halves of cut notes the agents reported.

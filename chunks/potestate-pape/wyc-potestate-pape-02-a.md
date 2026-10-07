@@ -79,27 +79,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 22.2: No one power to do anything but vvhat God wiiis.
-- 22.8: This is made an excuse by ± ^ idie priests.
-- 22.22: But we must
-- 22.23: difference between what , . ' , ,. , God wiiis we
-- 22.25: his wiii that
-- 23.4: Idleness of
-- 23.5: condemiicd jy St. Paul.
-- 23.12: The fauit is double; , . . r. negiigence of those who & &. / 1 . have power.
-- 23.18: 2. Hindrances of jurisdiction. ...
-- 24.8: preiates have less power now than in the primitive ' * x * Church. >o
-- 24.26: Miracies 167' works done by x A ° . , God aione and all his works . are miracies.
-- 25.13: attenSon to wonders-
-- 26.9: Man cannot
-- 26.10: 8USpiritH°ly
-- 26.24: a bisiiop has
-- 26.25: power but he
-- 26.26: the^Spint^at 167° his wiil, , .
+- 22.2: No one has power to do anything but what God wills,
+- 22.8: This is made an excuse by idle priests.
+- 22.22: But we must note the difference between what God wills we should do and his will that we do it,
+- 23.4: Idleness of priests condemned by St. Paul.
+- 23.12: The fault is double; I. negligence of those who have power.
+- 23.18: 2. Hindrances of jurisdiction.
+- 24.8: Prelates have less power now than in the primitive Church.
+- 24.26: Miracles are works done by God alone and all his works are miracles,
+- 25.12: Danger of too much attention to wonders.
 
 ## Notes
 

@@ -25,17 +25,8 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 330.3: the The higher
-- 330.3: degree g grea^ter the
-- 330.7: A wicked pope is the wbrst of hypocrites.
 - 331.1: Worse than the
-- 331.1: dcvil.
-- 332.8: pieaTha/ popc is needcd to determine . *■ ecciesiasticai causes.
-- 333.20: Heresy of maintaining ,.. .. . .... ,.. that bishops should rule . .... because qualified by . .... .1, • wisdom.
+- 332.8: Falsity of the plea that the pope is needed to determine ecclesiastical causes.
 
 ## Notes
 

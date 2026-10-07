@@ -25,31 +25,13 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 80.1: it is said that none can be ; .... saved who do not pav the . . . Parai dues. i8oc
-- 80.12: HriinsT amT
-- 80.13: °be saveT11'
-- 80.26: Chrisfs chiet-vicar . . , , shouid be free
-- 80.28: woiidlv cares.
-- 81.5: xhc aposties
-- 81.6: i8od churches^0
-- 81.7: j5hn8couid
-- 81.8: edoneso.ve
-- 81.19: christ chose a P°°r lite r ..... - ~ for himseif
-- 81.21: aposties. Nicholas III. . . praised the Minorites _ . . for their poverty.
-- 82.1: The utmost we can inter . . . from the contradiction . . . . . ofjohnxxn is that neither , °. . pope speaks with authoritv. .... . ' * ,
-- 82.6: i8ia
-- 82.24: The emperors are pontiffs and A * if endowment of pontiffs is ... . good, they should keep lt . . -r ... . for themseives.
-- 83.4: ^^ildP
-- 83.5: anSiftawbich
-- 83.6: injgj"e*rthe
-- 83.16: no perfection
-- 83.17: in ordering it properly, but . . , , . thjs is noyhe
-- 83.19: dergy
-- 83.28: who shouid desire all civil - , , , mie to be in
+- 80.26: Christ's chief-vicar should be free from all worldly cares.
+- 81.5: The apostles did not endow churches, though St. John could easily have done so.
+- 81.19: Christ chose a poor lite for himself and his apostles. Nicholas III. praised the Minorites for their poverty.
+- 82.1: The utmost we can infer from the contradiction of John XXII is that neither pope speaks with authority.
+- 82.24: The emperors are pontiffs and if endowment of pontiffs is good, they should keep it for themselves,
+- 83.4: The clergy should not accept a gift which injures the giver.
+- 83.15: There is no perfection in wealth save in ordering it properly, but this is not the duty of the clergy
 
 ## Notes
 

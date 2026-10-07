@@ -61,27 +61,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 169.10: made^Se^fergy
-- 169.11: du^of teaching and reproot-
-- 170.1: iyo
-- 170.1: it is faise that 20V Clirist ruled , .... t- • • • -, •• and that it becomes his . . . discipies,
-- 170.18: iftheciergv
-- 170.19: they SoTt^by' Cesarsiaw.
-- 170.32: libro Ul.
-- 171.16: Woridiy gifts
-- 171.17: the church but injure it. , _ . . .
-- 171.29: Another piea
-- 172.3: Against this may its poiiution by mucn wickedness.
-- 172.14: Moreover Jerusalem has _ higher ciaims. i5
+- 170.1: It is false that Christ ruled and that it becomes his disciples, to do so.
+- 170.18: If the clergy hold property, they do it by Cesar's law.
+- 171.16: Worldly gifts do not aid the Church but injure it.
+- 171.29: Another plea is sanctity of Rome for its many martyrs,
+- 172.3: Against this may be set its pollution by much wickedness.
+- 172.14: Moreover Jerusalem has higher claims.
 - 172.31: It is not proved that the bishop of Rome must be pope.
-- 173.7: Endowment would Iiave x L trindercd the apostles' ' 1 A m joumeys.
-- 173.21: ^da^J1"
-- 173.22: ^JJJfJg ^the
-- 173.23: fgP^An^ifch
+- 173.7: Endowment would have hindered the apostles' journeys.
+- 173.21: That Peter ordained Clement proves nothing or the papacy might be at Antioch.
 
 ## Notes
 

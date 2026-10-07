@@ -31,27 +31,12 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 197.3: What ciaim have there , » 'monsters' to appoint a head , ' .11 t 1 i« ot the Church.
-- 197.21: it is not lawfui for the Church j t 1 1 % i_ •• to abandon the
-- 197.23: f\bheraposties0t
-- 197.29: The israejites
-- 197.30: wantinga king,-
-- 197.31: TppcSntfng1 a pope*
-- 198.8: The poison ot
-- 198.9: entn^Xrchin
-- 198.10: p7hiaDevii.by
-- 198.27: Heresy soon followed on . . * ^ endowment.
-- 198.29: 2ioc
-- 199.15: 1 Endowment ied
-- 199.16: Liberius astray. , ,. -r ., r
-- 199.20: Before endowment . tnere was no distinction . r , . between eiders, bishdps and . priests.
-- 200.5: Evidence Scnpture. ' 1 & ' n
-- 200.30: ^nrdeTwafof 3o
-- 200.31: deacons.
+- 197.29: The Israelites sinned in wanting a king; we worse in appointing a pope.
+- 198.8: The poison of endowment in the Church proclaimed by the Devil.
+- 198.27: Heresy soon followed on endowment.
+- 199.15: Endowment led Liberius astray.
+- 199.20: Before endowment there was no distinction between elders, bishops and priests.
+- 200.5: Evidence from Scripture,
 
 ## Notes
 

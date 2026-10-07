@@ -61,24 +61,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 253.12: Mutuai charges of heresy-
-- 254.1: Preiates go so
-- 254.2: chYrgethe
-- 254.3: klhne?esy.th
-- 254.28: The cardinais clected Urban
-- 254.30: dthcn
-- 254.31: declared that his election was not lawful.
-- 255.6: We think Urban is probably a
-- 255.8: ^that ^JbeVf^s
-- 255.9: member e"f the Gllurcn-
-- 255.21: others may
-- 255.22: ^pposite!
-- 257.14: firosseteste's claims for the 1 m pope are conditional A x on his being what he ought A m
-- 257.17: to be.
+- 254.1: Prelates go so far as to charge the king with heresy.
+- 254.28: The cardinals elected Urban and then declared that his election was not lawful.
+- 255.6: We think Urban is probably a true pope, and that Robert is not even a member of the Church.
+- 255.21: Others may think the Opposite.
+- 257.14: Grosseteste's claims for the pope are conditional on his being what he ought to be.
 
 ## Notes
 

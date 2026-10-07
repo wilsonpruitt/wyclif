@@ -25,20 +25,10 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 373.9: As the worid grows older . . avarice increases and . . . . ,. . r "eeds to be m0l'c rcsisted- 1 ° i i •
-- 373.29: The fifth commandment . . teaches us to honour our . mother the church and .... remove aii. blots fr°m her. , , . ,.
-- 374.21: Thosc who should advise . .. . _ the uing
-- 374.26: Prciatcs maiutain falsc ... . r . . r counseiiors,
-- 374.28: theoiogians.
-- 375.11: n is the duty 6f kings to . . . put down new sccts anc* i . ceremonies.
-- 377.24: Thc kjng ot
-- 377.25: 25 ^f(!r"cdasl!-?qh
-- 377.26: prdates 'and cler^>-
-- 377.34: 3o. Opp. tom. VI, 792.
+- 373.29: The fifth commandment teaches us to honour our mother the church and remove all. blots from her.
+- 374.21: Those who should advise the king mislead him.
+- 374.26: Prelates maintain false counsellors, lawyers and theologians.
+- 375.11: It is the duty of kings to put down new sects and ceremonies.
 
 ## Notes
 

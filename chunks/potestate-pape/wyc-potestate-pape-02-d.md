@@ -61,34 +61,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 36.3: which he enumerates.
-- 36.10: 1. Aposties. io
-- 36.28: 2. Prophcts.
-- 36.32: secundus.
+- 36.28: 2. Prophets.
 - 37.12: 3. Doctors.
-- 37.19: A second hierarchy.
-- 37.21: members of ad the Church
-- 37.22: the° SpSSt^by
-- 37.23: vlrtues-
-- 38.5: 2. Those iici.li inc siCKi
-- 38.12: 3. Who aid
-- 38.12: poor. A
-- 38.21: hierarchv Preiates who
-- 38.22: need
-- 38.23: ofSspid"sent
-- 38.24: 3 * andgth?ir interpretation.
-- 39.5: Thcsc .ftg
-- 39.6: the^membcrs0 of the body-
-- 39.24: inter-
-- 39.25: daeirmember°[
-- 40.4: aii are bound, to serve Christ, . ... , each in his own wav. . . .. . . .
-- 40.31: Difference
-- 40.32: memberSiip
-- 40.33: of\ehe°cimrch.
+- 37.19: A second hierarchy. 1. Lower members of the Church who manifest the Spirit by various virtues.
+- 38.5: 2, Those who heal the sick,
+- 38.12: 3. Who aid the poor.
+- 38.21: Third hierarchy. Prelates who need 1. discernment of Spirits, 2. tongnes, 3. and their interpretation.
+- 39.5: These gifts correspond to the members of the body.
+- 39.24: Interdependence of all members;
+- 40.4: all are bound, to serve Christ, each in his own way.
 
 ## Notes
 

@@ -59,31 +59,18 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 1.1: our subject is: What kind of i ^ . . . hierarchy Christ ordained . . for his Church.
-- 1.9: We must first make clear * ' what power is and what are ' 1 m m its accidents.
-- 1.15: Power is that by which we effect movement
-- 1.17: another.
-- 2.8: Yarious meanings assigned to 'power' by Aristotle. io
-- 2.23: created be uncreated.
-- 2.32: creata deest.
-- 3.8: Created power 7 raay be ' corporai or spintual.
-- 3.20: 2. Power may be passive, r
-- 3.21: 162" responding to
-- 3.21: power.
-- 3.24: 3. Power is what enables us . . r - , to do things
-- 3.26: according to our wishes. 7 . . . . .
-- 3.32: VIII. 2.
-- 4.1: The inaiienabie
-- 4.2: Prightis cauelf by Anselm . ,., „ -r-v -r «i • 7- • Free wiii.
-- 4.11: 4. Power be an acquired . . . accident, e. medicinal skill. . .
-- 4.18: it may be supernatural, _ ... . . ,. n . as in the ministiation of ... .. .. the sacraments,
-- 4.21: or civil, . _ . , ... intiicting penalties on . . . . rebe^ ^ the Church.
-- 5.11: Besides aii these meanings 17 1 ° /power' denotes an 1 1 x order °f angeis.
-- 5.22: au these meanings must , ,. . . . . ,. be aiiowed since they are . _ . . , , in common
+- 1.1: Our subject is: What kind of hierarchy Christ ordained for his Church.
+- 1.9: We must first make clear what power is and what are its accidents.
+- 1.15: Power is that by which we effect movement or change in another.
+- 2.8: Various meanings assigned to 'power' by Aristotle.
+- 2.23: It may be created or uncreated.
+- 3.8: Created power may be corporal or spiritual.
+- 3.20: 2. Power may be passive, responding to active power.
+- 3.24: 3. Power is what enables us to do things well; i. e. according to our wishes.
+- 4.1: The inalienable power of doing right is called by Anselm Free will.
+- 4.11: 4. Power may be an acquired accident, e. g. medicinal skill.
+- 4.18: It may be supernatural, as in the ministration of the sacraments, or civil, inflicting penalties on rebels to the Church,
+- 5.11: Besides all these meanings 'power' denotes an order of angels,
 
 ## Notes
 

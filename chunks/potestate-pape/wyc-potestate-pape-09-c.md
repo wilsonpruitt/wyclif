@@ -43,25 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 200.5: Evidence Scnpture. ' 1 & ' n
-- 200.30: ^nrdeTwafof 3o
-- 200.31: deacons.
-- 202.3: These eiections
-- 202.3: prevent rn . . preaching, which is a .. . . priest's first o
-- 202.5: duty. . . . . f .
-- 202.32: Papai eiection imiltiplies . . ...... hireimgs.
-- 203.5: Doctors flatter
-- 203.6: hope o? reward .
-- 203.21: Eycn a true pnest has noi 1 tne power they
-- 203.23: cJaim. . . . .
-- 203.30: 3o The fceys have
-- 203.30: been flourished , . , . - ..r~ tm thejtar«
-- 204.10: he pricst not.know
-- 204.11: ife hasVers
+- 200.30: The only other order was of deacons.
+- 201.26: Jerome's authority.
+- 202.3: These elections prevent preaching, which is a priest's first duty.
+- 202.32: Papal election multiplies hirelings,
+- 203.5: Doctors flatter the pope in hope of reward.
+- 203.21: Even a true priest has not the power they claim.
+- 203.30: The keys have been flourished till they are discredited.
+- 204.10: The priest cannot, know what powers he has,
 
 ## Notes
 

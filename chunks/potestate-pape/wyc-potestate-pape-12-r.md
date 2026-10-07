@@ -43,30 +43,14 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 381.3: Dispensations as to ordination ~ . or matnmonv arc lawtul only * ° wheiuthey express the will o to
-- 381.6: of God-
-- 381.25: 2 We m do
-- 381.26: rea«onabie
-- 381.27: ^Sbout^ticense of Prelates-
-- 382.14: obedience to
-- 382.15: ?aJseiyamade i3
-- 382.16: righteousness.
-- 382.30: Capaeity
-- 382.31: popes.
-- 382.33: 2. 15 : quod dcest.
-- 383.3: i.ogicai difficulty. 6 r , , ,
-- 384.5: orders ot pope or prelate , ... cannot atfect reward or • -»■»-, • i •■ ■ punishment. which depends _ _ ■ ■ ■•» .
-- 384.9: u gment.
-- 384.28: iji^pensation as to probibited ... ~ degrees useiess.
-- 385.6: Reason^for thc
-- 385.7: exlen.*'°" ot
-- 385.8: prohibitions.
-- 385.32: popefa
-- 385.33: as'toSherSes valuele5a-
+- 381.3: Dispensations as to ordination or matrimony are lawful only when they express the will of God.
+- 381.25: We may do what is reasonable and edifying without license of prelates.
+- 382.14: Obedience to papal law is falsely made the test of righteousness.
+- 382.30: Rapacity of the popes.
+- 383.3: Logical difficulty.
+- 384.5: Orders of pope or prelate cannot affect reward or punishment, which depends on God's judgment.
+- 384.28: Dispensation as to prohibited degrees useless.
+- 385.6: Reason for the gradual extension of such prohibitions.
 
 ## Notes
 

@@ -61,23 +61,11 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 257.14: firosseteste's claims for the 1 m pope are conditional A x on his being what he ought A m
-- 257.17: to be.
-- 258.19: fa^itYs0" matter the faith
-- 258.20: pope
-- 258.21: ofspirituai6 profit.
-- 259.1: If so, aii the
-- 259.2: ^rimitive christians were , ,. , , . , , damned.
-- 259.9: Jhe DOpe. owcd his position to v * bein» the emperor's r J bishop.
-- 259.24: Faith is not
-- 259.25: dXenpope°n
-- 260.21: Expiicit and implicit beiiet".
-- 261.8: Wc are not
-- 261.9: believe tliat everv Roman ., ... ., bishop is pope.
+- 258.19: Some even say it is a matter of faith that the pope is the source of spiritual profit.
+- 259.1: If so, all the apostles and primitive christians were damned.
+- 259.9: The pope owed his position to being the emperor's bishop.
+- 259.24: Faith is not dependent on the pope.
+- 260.21: Explicit and implicit belief.
 
 ## Notes
 

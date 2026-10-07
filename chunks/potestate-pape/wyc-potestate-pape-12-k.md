@@ -43,32 +43,15 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 352.26: Jn paying
-- 352.26: we are supporting Antichrist's , , k ... discipies.
-- 352.32: ^catioTfor"
-- 352.33: refmlytbepay disregarded.
-- 353.7: Such excommuni- . . . . cation is wrongful or ... m • -i i • superfluous.
-- 353.21: The schism teaches many . cathoiic truths, especially as to * .
-- 353.23: the
-- 353.24: unimportance . . ..... of excommunication. . . ,
-- 353.32: 49a Secuiar laws
-- 353.32: less unjust . Antichrist. of
-- 354.20: The pope claims tliat . . ^hoever he appoints is to . ... . , , .,. be taken as qualified. , n ,
-- 355.5: °aimsnfo be^ given willingl . , j , , and with
-- 355.7: ,u 8men
-- 355.12: Payments to
-- 355.13: are^oV^anothe
-- 355.23: Exactions
-- 355.24: excommunication should , r . 11., • . be resisted
-- 356.3: ^submit
-- 356.4: patientfy aWjudgmentd
-- 356.27: We are bound
-- 356.27: support
-- 356.28: God'sministers.
+- 352.32: Excommunication for refusal to pay may be disregarded.
+- 353.7: Such excommunication is wrongful or superfluous.
+- 353.21: The schism teaches many catholic truths, especially as to the unimportance of excommunication.
+- 353.32: Secular laws less unjust than those of Antichrist.
+- 354.20: The pope claims that whoever he appoints is to be taken as qualified.
+- 355.4: Tithes and offerings are alms to be given willingly and with judgment.
+- 355.12: Payments to secular lords are on another footing.
+- 355.23: Exactions enforced by excommunication should be resisted
+- 356.3: We should submit to injustice patiently, awaiting God's judgment.
 
 ## Notes
 

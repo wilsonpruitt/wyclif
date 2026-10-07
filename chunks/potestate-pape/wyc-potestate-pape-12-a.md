@@ -67,36 +67,17 @@ status: draft
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/potestate-pape/raw/leaves/ or archive.org/download/latinworks19wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 316.16: wftnesTthat
-- 316.17: pries^erethe
-- 316.18: same.
-- 316.25: Extravagant
-- 316.26: the need for endowed pope. *■
-- 317.1: It without that
-- 317.2: sccuiar government would fa,K
-- 317.11: Both church
-- 317.12: wouid be tiie
-- 317.17: and more conformed to , - . the iaw of
-- 317.25: 25 ot the Church.
-- 318.2: and civii law.
-- 318.9: existed ihe popes were endowed.
+- 316.25: Extravagant notions as to the need for an endowed pope.
+- 317.1: It is said that without one secular sovernment would fall,
+- 317.11: Both church and state, would be the better,
+- 317.17: and more conformed to the law of God,
+- 317.25: of the Church.
+- 318.2: and civil law.
+- 318.9: Civil rule existed before the popes were endowed,
 - 318.31: We must distinguish between Caesarean prelates
-- 318.34: 11. Opp. tom. VI, 816.
-- 319.1: and simple
-- 319.2: ministers.
-- 319.17: apostiesciaimed such rule over , - , , the Church and
-- 319.19: presumptuons ot" the Lmperor , . . . . to appoint
-- 319.21: PhfsCeb1shop.in
-- 320.9: ordamedPby ChbySgiad°yld
-- 320.11: such^wouM*
-- 320.12: by EoHness not
-- 320.13: eTection*"
-- 320.23: The defenders of the Pope . . - . shouid prove his authoritv . trom Scriptufe or the value . . . . . _ of his infiuence
-- 320.27: Church.
+- 319.1: and simple christian ministers.
+- 319.16: Neither Peter nor any of the apostles claimed such rule over the Church and it was presumptuons of the Emperor to appoint precedence in his bishop.
+- 320.9: Any pope ordained by Christ should by gladly received, but such would be marked out by holiness not by human election.
 
 ## Notes
 
