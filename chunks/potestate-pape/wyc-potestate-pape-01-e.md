@@ -81,9 +81,9 @@ And it seems to me, fifthly, that the master teaches a mystery of [metaphysics]{
 
 [^1]: **C.** *quod licet facere … quoad Deum*: the loosing or restricting of the execution is lawful, but before God only for a reasonable cause; *quoad Deum* may instead go with *causa rationalis* ("a cause reasonable in God's sight"). B in the margin (16.22): *ad 2m*.
 
-[^2]: **S/C.** Decretum, C. 24 q. 1 c. 37, *Miramur* (Loserth 16.28; the modern form is ours) (LEDGER P01e-1, editor). The canon takes up *potestas officii* with *potencia*: the two words name one power here, and both are "power". Hus repeats 16.22–33 (Loserth: "Hussii Opp." 213b–214a) (LEDGER P01e-2, editor).
+[^2]: **S/C.** Decretum, C. 24 q. 1 c. 37, *Miramur* (Loserth 16.28; the modern form is ours) ; the words are Gratian's dictum after the canon, d.p.c. 37 §1, Friedberg I, 981, which Wyclif cites by the canon's incipit (LEDGER P01e-1). The dictum takes up *potestas officii* with *potencia*: the two words name one power here, and both are "power". Hus repeats 16.22–33 (Loserth: "Hussii Opp." 213b–214a) (LEDGER P01e-2, editor).
 
-[^3]: **S/C.** Anselm, *De libertate arbitrii* (Loserth 17.4: "De Libero Arbitrio", chapter illegible in the scan) (LEDGER P01e-3, editor, to be checked). Augustine, *Enchiridion*: Loserth quotes *Libero arbitrio male utens homo et se perdidit et ipsum* (LEDGER P01e-4, editor; chapter to be checked). The "equivocation": the doctors use *liberum arbitrium* of the natural power (Anselm) and of the proximate sufficiency given by grace (Augustine).
+[^3]: **S/C.** Anselm, *De libertate arbitrii* (Loserth 17.4: "De Libero Arbitrio 121", the page of the 1721 *Opera*; the doctrine is in chs. 3 and 11–12, PL 158, 493–494, 502–504) (LEDGER P01e-3). Augustine, *Enchiridion*: Loserth quotes *Libero arbitrio male utens homo et se perdidit et ipsum* (*Enchiridion* 30, PL 40, 246) (LEDGER P01e-4). The "equivocation": the doctors use *liberum arbitrium* of the natural power (Anselm) and of the proximate sufficiency given by grace (Augustine).
 
 [^4]: **C.** *illa consistens in successione*: the adventitious power, a successive thing, which grows and shrinks like age though it has no parts of bulk. At 17.12 Loserth notes that the codex has *stringitur*; he prints *restringitur*, translated.
 
@@ -103,7 +103,7 @@ And it seems to me, fifthly, that the master teaches a mystery of [metaphysics]{
 
 [^12]: **C.** *hoc signum nisi … pro si non*: the logical sign "except" (*nisi*) is read as "if not" (*si non*): no power is given if God has not first given it.
 
-[^13]: **S.** Augustine, *Tractatus in Iohannem*: the text says "Homily 116"; Loserth (19.27) gives "in Ev. Joannis cap. XIX, tract. CXVII" (LEDGER P01e-5, editor; the number to be checked). John 19:10–11: Wyclif omits Pilate's "Speakest thou not to me?". AB in the margin (19.29): *Christus sepe tacuit*; A numbers the three reasons 1 (19.30), 2 (19.32), 3 (20.2).
+[^13]: **S.** Augustine, *Tractatus in Iohannem*: the text says "Homily 116"; Loserth (19.27) gives "in Ev. Joannis cap. XIX, tract. CXVII" ; the text is right: the passage is *Tract.* 116.4–5 (PL 35), and Loserth's 117 is wrong (LEDGER P01e-5). John 19:10–11: Wyclif omits Pilate's "Speakest thou not to me?". AB in the margin (19.29): *Christus sepe tacuit*; A numbers the three reasons 1 (19.30), 2 (19.32), 3 (20.2).
 
 [^14]: **S.** Wyclif cites Isaiah 53:7, but his words are those of Acts 8:32, which quotes it (Vulgate *sicut agnus coram tondente se sine voce sic non aperuit os suum*); the DR of Acts 8:32 is used. Isaiah 53:7 Vulgate: *quasi agnus coram tondente se obmutescet*. Matthew 12:19.
 
@@ -113,7 +113,7 @@ And it seems to me, fifthly, that the master teaches a mystery of [metaphysics]{
 
 [^17]: **C.** *maioritatem peccati in sacerdote*: the "greater sin" of John 19:11, laid on the priest who handed Christ over; *excusare* here is "to explain away".
 
-[^18]: **T/S.** *non solum … non solum* (21.3–4): the second *non solum* looks doubled; translated as printed. The words in quotation marks are Augustine's (Loserth 20.30: "Augustinus ut supra") (LEDGER P01e-6, to be checked). AB in the margin (20.30): *Pilatus habuit potestatem et peccavit*.
+[^18]: **T/S.** *non solum … non solum* (21.3–4): the second *non solum* looks doubled; translated as printed. The words in quotation marks are Augustine's (Loserth 20.30: "Augustinus ut supra") (*Tract.* 116.5) (LEDGER P01e-6). AB in the margin (20.30): *Pilatus habuit potestatem et peccavit*.
 
 [^19]: **C.** *qui potuit pretendere se dare potestatem adversum Dominum, sed non Deus*: Caesar could claim to give power against the Lord, but God could not give it; alternatively "but [Caesar could] not [as] God".
 

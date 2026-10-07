@@ -113,9 +113,9 @@ As to the first, it seems to me that a miracle can be called a deed or making wh
 
 [^11]: **G.** *Globus potestatis*: of a thing, "mass" (GLOSSARY *globus*, untagged in this sense): power imagined as a stock God could set down anywhere, against Wyclif's view that power answers to the merit of the one who uses it.
 
-[^12]: **S.** "Augustine on John, in a homily": Loserth compares Augustine, *Sermo* 80 (on John 6) and *Sermo* 126 (LEDGER P02a-1). The theme, that God's daily works are not wondered at because they are customary, is also in *In Ioannis evangelium tractatus* 24.1 (LEDGER P02a-2). **C.** *Quicunque creat* (24.32) is taken as *quecunque* ("whatever [things] he creates"); as printed the masculine has no construal.
+[^12]: **S.** "Augustine on John, in a homily": Loserth compares Augustine, *Sermo* 80 (on John 6) and *Sermo* 126, which has the thought (126.3: *quotidiana miracula Dei non facilitate, sed assiduitate viluerant*) (LEDGER P02a-1). The theme, that God's daily works are not wondered at because they are customary, is also in *In Ioannis evangelium tractatus* 24.1 and 9.1 (*quotidiana miracula … assiduitate viluerunt*), which answer Wyclif's "on John" best (LEDGER P02a-2). **C.** *Quicunque creat* (24.32) is taken as *quecunque* ("whatever [things] he creates"); as printed the masculine has no construal.
 
-[^13]: **S.** "In the matter of universals": Wyclif's *Tractatus de universalibus*, on creation and annihilation as God's alone (LEDGER P02a-3).
+[^13]: **S.** "In the matter of universals": Wyclif's *Tractatus de universalibus* (place untraced): creating belongs to God alone, and annihilating, as Wyclif says here, to no one (LEDGER P02a-3).
 
 [^14]: **T.** "By understanding" renders Loserth's *intellectu* (25.11); the codices read *intellectum*, which he corrects.
 

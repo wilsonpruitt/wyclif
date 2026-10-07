@@ -39,6 +39,7 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 - Pushed to GitHub 2026-10-07 (cf1ae5b). NOT deployed: the analytics snippet waits for an OK'd deploy, and the Vercel CLI is logged in to the covenant-austin account; run `npx vercel login` (wilson-pruitts-projects) first.
 
 ## Running log (stage 7–8)
-- **Wave 1** (01-b … 02-c, 2 briefs, 332K): 14 scars, 4 print misprints kept with T notes, 3 connective fixes; ledger 45 rows → `_verify/RESULTS-1.md`.
+- **Wave 1** (01-b … 02-c, 2 briefs, 332K): 14 scars, 4 print misprints kept with T notes, 3 connective fixes; ledger 45 rows closed (`_verify/RESULTS-1.md`: 38 verified, 2 editor, 5 untraced; Loserth wrong 4×, incl. *De civ. dom.* II ch. 8 "non extat"); 26 note changes applied. Verify agent cost 267K / 140 tool calls: give it fewer rows per run.
 - **Wave 2a** (02-d … 03-b, 184K): 13 scars; *emissa* for printed *omissa* at 47.18 accepted (T note, our emendation).
 - ⚠ **Folio-mark scar:** the editor's folio change `|` (with 167ᵃ etc. in the margin) is read as a stray *I*, *j* or *!* (7 so far). Translators catch it; read each on the plate (the vote cannot, every scan has it).
+- ⬜ **Outside sources wanted** (untraced for want of a text): FitzRalph, *Summa in quaest. Armen.* (Paris 1511/12; try BSB / Gallica; recurs all volume), Guido de Baysio *Rosarium* (incunables), Wyclif *De universalibus* (Mueller 1985). Hus parallels checked in Schaff's English only.

@@ -101,7 +101,7 @@ As to the third, namely the order of powers, it is commonly said that, just as t
 
 [^15]: **C.** *Capitis*: of the head, Christ. *Gerere vicem Christi*, "to bear the place of Christ", the formula of the vicar.
 
-[^16]: **T.** Loserth prints *habeat* (36.22); the codices read *habeant*, as the plural *apostoli*. **S.** Loserth: in book IV (*De civili dominio* II) the place is not found (editor; LEDGER P02c-2). Barnabas, Acts 14:13; Matthias, Acts 1:26. "The seven orders": the seven orders of the church, which Christ is said to have fulfilled in his own person (LEDGER P02c-3).
+[^16]: **T.** Loserth prints *habeat* (36.22); the codices read *habeant*, as the plural *apostoli*. **S.** Loserth says the place is not found in book IV (*De civili dominio* II), but it is there: ch. 8 (ed. Loserth, p. 73), where Wyclif names the seven orders and says that Christ gathered every mode of correction in himself, exercising it *ministratorie* (LEDGER P02c-2). Barnabas, Acts 14:13; Matthias, Acts 1:26. "The seven orders": the seven orders of the church, which Christ is said to have fulfilled in his own person (so Lombard, *Sent.* IV d.24, of each order: *hoc officio usus est Christus*) (LEDGER P02c-3).
 
 ## Transcription notes
 

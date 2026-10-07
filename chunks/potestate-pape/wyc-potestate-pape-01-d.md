@@ -55,7 +55,7 @@ Likewise, supposing that the lord [pope]{g:papa} commits power by bulls into Eng
 
 ## Notes
 
-[^1]: **S.** The verse names the seven spiritual works of mercy, the mnemonic line *Consule, castiga, solare, remitte, fer, ora* with *doce* (LEDGER P01d-1, to be checked). It completes the sentence left open at 11.32.
+[^1]: **S.** The verse names the seven spiritual works of mercy, the mnemonic line *Consule, castiga, solare, remitte, fer, ora* with *doce* (LEDGER P01d-1; the line recurs in Hus, *De ecclesia* ch. 10). It completes the sentence left open at 11.32.
 
 [^2]: **S/C.** John 1:12 (Loserth 12.1), DR "as many as received him, he gave them power to be made the sons of God"; the quoted words follow Loserth's italics, and Wyclif adds *Christum fide formata*, "by formed faith" (faith formed by charity). *corripiendo*: Matthew 18:15, "rebuke him between thee and him alone". Hus repeats 12.1–20 (Loserth: "Hussii Opp." 213b) (LEDGER P01d-2, editor).
 
@@ -71,7 +71,7 @@ Likewise, supposing that the lord [pope]{g:papa} commits power by bulls into Eng
 
 [^8]: **T.** 14.12–15: the words from *quantitatem* to *producendo* are wanting in A and B; in A another hand adds them in the margin (Loserth). Within them *quantitatem*, "quantity", stands where the minor premiss and 14.24 have *qualitas*, "quality", which the argument needs; translated as printed. The minor premiss has no connective. B in the margin (14.11): 3.
 
-[^9]: **S/C.** Augustine, *De Genesi ad litteram* XII (Loserth: "St. Augustini Opp. tom. III, 1, p." with the page lost in the scan) (LEDGER P01d-3, editor, to be checked). Loserth italicises *Omnis potentatus est substancia materialis*, but the sentence may be Wyclif's minor premiss rather than Augustine's words. *potentatus* here, and at 15.13, 16.17 and 20.28, is the holder of power, "potentate", not the abstract "sovereignty".
+[^9]: **S/C.** Augustine, *De Genesi ad litteram* XII XII.16.33 (PL 34, 467: *nec sane putandum est facere aliquid corpus in spiritu … praestantior est qui facit, ea re de qua aliquid facit*; Loserth's page is lost in the scan) (LEDGER P01d-3). Loserth italicises *Omnis potentatus est substancia materialis*, but the sentence may be Wyclif's minor premiss rather than Augustine's words. *potentatus* here, and at 15.13, 16.17 and 20.28, is the holder of power, "potentate", not the abstract "sovereignty".
 
 [^10]: **T.** *in produccione subdita* (14.25): so the print; A reads *subita*, "sudden", which gives the sense (cf. *subito*, 15.4) and is translated. B in the margin (14.23): 4.
 

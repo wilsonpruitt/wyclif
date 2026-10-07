@@ -61,7 +61,7 @@ In this matter, at any rate, it must be held as constant that spiritual power, a
 
 [^1]: **C.** *racionalis potencia*: the first *potencia* in this part, here "potency", the rational potency of the analysis of *dynamis*. Wyclif uses *potestas* and *potencia* interchangeably (*potestas vel potencia*, 4.7); outside that analysis both are "power" (6.5–6).
 
-[^2]: **T.** *vox sensitiva ad placitum*: so the print. The logicians' definition of a name is *vox significativa ad placitum*, "a sound significant by convention" (Aristotle, *De interpretatione* 2; LEDGER P01b-1, to be checked); *sensitiva* may stand for *significativa*. Translated as printed.
+[^2]: **T.** *vox sensitiva ad placitum*: so the print. The logicians' definition of a name is *vox significativa ad placitum*, "a sound significant by convention" (Aristotle, *De interpretatione* 2; 16a19; Boethius, *vox significativa ad placitum*; LEDGER P01b-1); *sensitiva* may stand for *significativa*. Translated as printed.
 
 [^3]: **T.** *in primo libro prophetico*: Loserth's foot to 5.28 notes *primo* and offers a better reading (*rectius: in illo …*) that the scan of the foot does not let us recover. The book meant is the Apocalypse.
 
@@ -69,9 +69,9 @@ In this matter, at any rate, it must be held as constant that spiritual power, a
 
 [^5]: **C.** *potestatem … potenciam*: both "power". The scruple is over the word: Wyclif knows no authority (*auctor*) for saying that God has *potestas* to produce *ad intra*, within the Godhead, though he grants him *potencia* for "all the producibles intrinsic to himself". The *licet* clause runs on into *nec … dicimus*; the stops are the print's.
 
-[^6]: **S.** Augustine, *Retractationes* I.32 (so the text; Loserth's foot gives *l.c.* and quotes *sponte homo in libero arbitrio cadere potuit*); *De libero arbitrio* III; *De spiritu et anima* 26, a work received in Wyclif's day as Augustine's (LEDGER P01b-2, editor's *l.c.*; chapters and attribution to be checked).
+[^6]: **S.** Augustine, *Retractationes* I.32 (so the text; Book I has 27 chapters, and the words Loserth's foot quotes, *sponte homo, id est libero arbitrio, cadere potuit*, are I.9.6, PL 32, 598); *De libero arbitrio* III.3.7 (*nihil tam in nostra potestate, quam ipsa voluntas est*); *De spiritu et anima* 26 (so the text; the matter is ch. 48, PL 40, 814, ch. 26 being on apparitions), a pseudo-Augustinian work printed among Augustine's spuria and received in Wyclif's day as his (LEDGER P01b-2).
 
-[^7]: **S/C.** Augustine: Loserth gives *Retractationes* II.2–3 (LEDGER P01b-3, editor, to be checked). Aristotle: Loserth gives *Nic. Eth.* II.9 with a query; the doctrine that praise and blame attach to what is voluntary opens book III (LEDGER P01b-4, to be checked). The two non-sequiturs state one rule: of two convertibles, or of antecedent and consequent, one may be in our power and the other not, as the two examples show.
+[^7]: **S/C.** Augustine, *Retractationes* I.22.4 (PL 32, 620), word for word: *in potestate nostra non est, nisi quod nostram sequitur voluntatem*; Loserth's II.2–3 is wrong (LEDGER P01b-3). Aristotle: Loserth gives *Nic. Eth.* II.9 with a query; the place is *Eth.* II.5, 1105b28–1106a10 (we are neither praised nor blamed for what we have by nature), and the doctrine that praise and blame attach to the voluntary opens book III (LEDGER P01b-4). The two non-sequiturs state one rule: of two convertibles, or of antecedent and consequent, one may be in our power and the other not, as the two examples show.
 
 [^8]: **T/R.** *a racionalem potenciam*: so the print; the sense wants *ad*, translated "to". AB in the margin (6.29): *Potestas multiplex libera*. Hus repeats 6.31–7.4 (Loserth: "Hussii Opp." 213b), as he does Wyclif's account of power at 5.11–19 (Hus, *De ecclesia* fol. 217b, "verbotenus") (LEDGER P01b-5, editor).
 

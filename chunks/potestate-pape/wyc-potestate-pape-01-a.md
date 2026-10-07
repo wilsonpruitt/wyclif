@@ -182,12 +182,12 @@ according to what pertains to the matter under discussion.
 [^1]: **S/T.** *capitulo XIV libri proximi*, "chapter 14 of the nearest book". Loserth takes
     *libri proximi* for a scribal error: the nearest book is *De officio regis*, which treats only
     royal power, while the establishing of scripture's authority runs through *De veritate sacre
-    scripture* (ed. Buddensieg). Which chapter 14 is meant is to be checked (LEDGER P01a-1).
+    scripture* (ed. Buddensieg). *De officio regis* has only twelve chapters, and chapter 14 of *De veritate* (on keeping silent about the truth) does not treat the point; the chapter meant is untraced (LEDGER P01a-1).
 
 [^2]: **G/S.** *Quiditas*, "quiddity", is what a thing is; its accidents are what belong to it
     beyond that. *A priori procedere* is "to proceed from what is prior", not the modern
     epistemic sense. The phrase *innata … nobis via* recalls Aristotle, *Physics* I.1 (*innata
-    autem est nobis via ex notioribus nobis*), to be checked (LEDGER P01a-2).
+    autem est nobis via ex notioribus nobis*), 184a16 (LEDGER P01a-2).
 
 [^3]: **S.** Aristotle, *Metaphysics* Δ 12 (Wyclif's book V). Loserth: "rectius Metaph. IV, 12, ed.
     acad. Borussica" (*principium motus aut transmutacionis in altero aut prout alterum est*); the
@@ -228,7 +228,7 @@ according to what pertains to the matter under discussion.
     is carrying Aristotle's division into the Trinity.
 
 [^12]: **S/T.** The second species of quality is natural capacity or incapacity (Aristotle,
-    *Categories* 8, 9a14), to be checked (LEDGER P01a-6). *Indelebilis* is Loserth's form (codd.
+    *Categories* 8, 9a14) (LEDGER P01a-6). *Indelebilis* is Loserth's form (codd.
     *indelibilis*); for *delebilis* (3.16) B reads *debilis*, "weak".
 
 [^13]: **S/T.** Aristotle, *Metaph.* Δ 12, 1019a23–26 (*kata proairesin*); Loserth refers 3.26 to
@@ -238,7 +238,7 @@ according to what pertains to the matter under discussion.
     for the ordinals 3° and 1°, the ° printed as a zero, chapters. Loserth: "Rectius Metaph. VIII, 2"
     (= Θ 2, 1046b, on rational potencies; our modern form) (LEDGER P01a-8).
 
-[^15]: **S.** Anselm, *De libertate arbitrii* 3, to be checked (LEDGER P01a-9); Loserth gives
+[^15]: **S.** Anselm, *De libertate arbitrii* 3 (PL 158, 494B: *libertas arbitrii est potestas servandi rectitudinem voluntatis propter ipsam rectitudinem*) (LEDGER P01a-9); Loserth gives
     Anselm, *Opera* (Paris, 1721), p. 118 (LEDGER P01a-10).
 
 [^16]: **C.** *potestas vel potencia*, "power or potency" (so *potestatem sive potenciam*, 4.11):

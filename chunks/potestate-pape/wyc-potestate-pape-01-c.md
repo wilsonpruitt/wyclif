@@ -46,7 +46,7 @@ Therefore spiritual power takes a manifold subdivision, since some is of order a
 
 ## Notes
 
-[^1]: **S.** Loserth refers the place to *De civili dominio* III, p. 425 of the Society's edition (LEDGER P01c-1, editor); the "fifth book" would be that work counted within Wyclif's *Summa theologie* (to be checked).
+[^1]: **S.** Loserth refers the place to *De civili dominio* III, p. 425 of the Society's edition (LEDGER P01c-1), where chapter 21 begins; the "fifth book" is that work counted within Wyclif's *Summa theologie*, as Wyclif numbers it himself on that page (*capitulo XI huius V*).
 
 [^2]: **C.** *ante peccatum*: "before sin", most naturally the first sin; but Cain was born after the fall, so Wyclif may mean before Cain's own sin. *progenitum*: "offspring".
 
