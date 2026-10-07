@@ -21,7 +21,7 @@ pos	rule	forms	support	voters	resolution
 121	R2	latinworks19wycl=omnes | johanniswyclift00mattgoog=omnes | johanniswyclift01mattgoog=oimies | tractatusdepotes00wycl=omnes		4	accept
 125	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu		4	accept
 160	R3a	latinworks19wycl=anglie | johanniswyclift00mattgoog=anglie | johanniswyclift01mattgoog=angue | tractatusdepotes00wycl=anglie		4	accept
-176	R2	latinworks19wycl=legichristi | johanniswyclift00mattgoog=legichristi | johanniswyclift01mattgoog=leufi | tractatusdepotes00wycl=legichristi		4	accept
+176	PLATE	latinworks19wycl=legichristi | johanniswyclift00mattgoog=legichristi | johanniswyclift01mattgoog=leufi | tractatusdepotes00wycl=legichristi		4	accept
 197	PLATE	latinworks19wycl=seo | johanniswyclift00mattgoog=seo | johanniswyclift01mattgoog=seo | tractatusdepotes00wycl=seo		4	accept
 198	PLATE	latinworks19wycl=cundum | johanniswyclift00mattgoog=cundum | johanniswyclift01mattgoog=cundum | tractatusdepotes00wycl=cundum		4	accept
 204	PLATE	latinworks19wycl=imperfecti | johanniswyclift00mattgoog=imperfect | johanniswyclift01mattgoog=imperfect | tractatusdepotes00wycl=imperfecti		4	accept

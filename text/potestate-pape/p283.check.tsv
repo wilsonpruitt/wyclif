@@ -5,4 +5,4 @@ pos	rule	forms	support	voters	resolution
 84	PLATE	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=∅		4	accept
 90	R2	latinworks19wycl=librum | johanniswyclift00mattgoog=librum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=librum		4	accept
 111	PLATE	latinworks19wycl=urin | johanniswyclift00mattgoog=urin | johanniswyclift01mattgoog=urin | tractatusdepotes00wycl=urin		4	accept
-123	R3a	latinworks19wycl=tetragramatonuirtute | johanniswyclift00mattgoog=tetragpramatonuirtute | johanniswyclift01mattgoog=o | tractatusdepotes00wycl=tetragramatonuirtute		4	accept
+123	PLATE	latinworks19wycl=tetragramatonuirtute | johanniswyclift00mattgoog=tetragpramatonuirtute | johanniswyclift01mattgoog=o | tractatusdepotes00wycl=tetragramatonuirtute		4	accept

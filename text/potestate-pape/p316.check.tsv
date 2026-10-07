@@ -1,8 +1,8 @@
 pos	rule	forms	support	voters	resolution
 2	PLATE	latinworks19wycl=claustrale | johanniswyclift01mattgoog=claustrale | tractatusdepotes00wycl=claustrale		3	accept
-31	R5a	latinworks19wycl=heritis | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=herins | tractatusdepotes00wycl=herius		4	accept
+31	PLATE	latinworks19wycl=heritis | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=herins | tractatusdepotes00wycl=herius		4	accept
 35	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=ttoh | tractatusdepotes00wycl=non		4	accept
-65	R5a	latinworks19wycl=herius | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=ilerius | tractatusdepotes00wycl=herius		4	accept
+65	PLATE	latinworks19wycl=herius | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=ilerius | tractatusdepotes00wycl=herius		4	accept
 85	R2	latinworks19wycl=olim | johanniswyclift00mattgoog=olim | johanniswyclift01mattgoog=oliyn | tractatusdepotes00wycl=olim		4	accept
 87	R2	latinworks19wycl=fuit | johanniswyclift00mattgoog=ftiii | johanniswyclift01mattgoog=fuit | tractatusdepotes00wycl=fuit		4	accept
 104	R2	latinworks19wycl=mundum | johanniswyclift00mattgoog=mundn | johanniswyclift01mattgoog=mundum | tractatusdepotes00wycl=mundum		4	accept

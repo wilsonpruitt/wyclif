@@ -32,7 +32,8 @@
 {"t": "vel", "leaf": 184, "row": 4, "para": false, "head": false, "pos": 31}
 {"t": "amicicia", "leaf": 184, "row": 5, "para": false, "head": false, "pos": 32}
 {"t": "nisi", "leaf": 184, "row": 5, "para": false, "head": false, "pos": 33}
-{"t": "interhomines", "leaf": 184, "row": 5, "para": false, "head": false, "pos": 34}
+{"t": "inter", "leaf": 184, "row": 5, "para": false, "head": false, "pos": 34}
+{"t": "homines", "leaf": 184, "row": 5, "para": false, "head": false, "pos": 34}
 {"t": "prope", "leaf": 184, "row": 5, "para": false, "head": false, "pos": 35}
 {"t": "pares,", "leaf": 184, "row": 5, "para": false, "head": false, "pos": 36}
 {"t": "Et", "leaf": 184, "row": 5, "para": false, "head": false, "pos": 37}
@@ -91,7 +92,7 @@
 {"t": "materiali", "leaf": 184, "row": 13, "para": false, "head": false, "pos": 90}
 {"t": "gladio", "leaf": 184, "row": 13, "para": false, "head": false, "pos": 91}
 {"t": "fingit", "leaf": 184, "row": 13, "para": false, "head": false, "pos": 92}
-{"t": "isfulmen", "leaf": 184, "row": 14, "para": false, "head": false, "pos": 93}
+{"t": "fulmen", "leaf": 184, "row": 14, "para": false, "head": false, "pos": 93}
 {"t": "anathematis", "leaf": 184, "row": 14, "para": false, "head": false, "pos": 94}
 {"t": "in", "leaf": 184, "row": 14, "para": false, "head": false, "pos": 95}
 {"t": "eos,", "leaf": 184, "row": 14, "para": false, "head": false, "pos": 96}

@@ -9,7 +9,7 @@ pos	rule	forms	support	voters	resolution
 54	R2	latinworks19wycl=eorum | johanniswyclift00mattgoog=eorum | johanniswyclift01mattgoog=eorttm | tractatusdepotes00wycl=eorum		4	accept
 59	R2	latinworks19wycl=eifecit | johanniswyclift00mattgoog=effecit | johanniswyclift01mattgoog=elfecii | tractatusdepotes00wycl=effecit		4	accept
 120	R3a	latinworks19wycl=peccatum | johanniswyclift00mattgoog=peccatum | johanniswyclift01mattgoog=peccatura | tractatusdepotes00wycl=peccatum		4	accept
-200	R3a	latinworks19wycl=augusostinus | johanniswyclift00mattgoog=augustinus | johanniswyclift01mattgoog=auguostinus | tractatusdepotes00wycl=augusostinus		4	accept
+200	PLATE	latinworks19wycl=augusostinus | johanniswyclift00mattgoog=augustinus | johanniswyclift01mattgoog=auguostinus | tractatusdepotes00wycl=augusostinus		4	accept
 212	EDGE	latinworks19wycl=quem | tractatusdepotes00wycl=quem		2	accept
 213	EDGE	latinworks19wycl=uoluit | tractatusdepotes00wycl=uoluit		2	accept
 214	EDGE	latinworks19wycl=sed | tractatusdepotes00wycl=sed		2	accept

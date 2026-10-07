@@ -5,6 +5,7 @@ pos	rule	forms	support	voters	resolution
 35	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=ut		4	accept
 41	R3a	latinworks19wycl=facio | johanniswyclift00mattgoog=facto | johanniswyclift01mattgoog=facio | tractatusdepotes00wycl=facio		4	accept
 52	PLATE	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichrist | johanniswyclift01mattgoog=antichrist | tractatusdepotes00wycl=antichristi		4	accept
+68	PLATE	latinworks19wycl=ausfustinus | johanniswyclift00mattgoog=aucrustinus | johanniswyclift01mattgoog=augustinus | tractatusdepotes00wycl=augustinus		4	accept
 94	R2	latinworks19wycl=a | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
 99	R2	latinworks19wycl=sumus | johanniswyclift00mattgoog=sumus | johanniswyclift01mattgoog=suntus | tractatusdepotes00wycl=sumus		4	accept
 102	PLATE	latinworks19wycl=facite | johanniswyclift00mattgoog=acite | johanniswyclift01mattgoog=acite | tractatusdepotes00wycl=facite		4	accept

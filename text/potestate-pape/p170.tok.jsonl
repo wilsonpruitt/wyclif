@@ -115,7 +115,7 @@
 {"t": "habet", "leaf": 231, "row": 18, "para": false, "head": false, "pos": 114}
 {"t": "proprietatem", "leaf": 231, "row": 18, "para": false, "head": false, "pos": 115}
 {"t": "secularis", "leaf": 231, "row": 18, "para": false, "head": false, "pos": 116}
-{"t": "dominii,^", "leaf": 231, "row": 18, "para": false, "head": false, "pos": 117}
+{"t": "dominii,", "leaf": 231, "row": 18, "para": false, "head": false, "pos": 117}
 {"t": "nisi", "leaf": 231, "row": 18, "para": false, "head": false, "pos": null}
 {"t": "ex", "leaf": 231, "row": 18, "para": false, "head": false, "pos": null}
 {"t": "lege", "leaf": 231, "row": 18, "para": false, "head": false, "pos": null}
@@ -159,7 +159,7 @@
 {"t": "est", "leaf": 231, "row": 24, "para": false, "head": false, "pos": 155}
 {"t": "aurum", "leaf": 231, "row": 24, "para": false, "head": false, "pos": 156}
 {"t": "neque", "leaf": 231, "row": 24, "para": false, "head": false, "pos": 157}
-{"t": "argentum,^", "leaf": 231, "row": 24, "para": false, "head": false, "pos": 158}
+{"t": "argentum", "leaf": 231, "row": 24, "para": false, "head": false, "pos": 158}
 {"t": "cum", "leaf": 231, "row": 25, "para": false, "head": false, "pos": 159}
 {"t": "ipse", "leaf": 231, "row": 25, "para": false, "head": false, "pos": 160}
 {"t": "dicat:", "leaf": 231, "row": 25, "para": false, "head": false, "pos": 161}

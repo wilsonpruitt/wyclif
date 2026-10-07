@@ -2,10 +2,12 @@ pos	rule	forms	support	voters	resolution
 19	R3a	latinworks19wycl=fures | johanniswyclift00mattgoog=fores | johanniswyclift01mattgoog=fares | tractatusdepotes00wycl=fures		4	accept
 46	R2	latinworks19wycl=plus | johanniswyclift00mattgoog=phis | johanniswyclift01mattgoog=plus | tractatusdepotes00wycl=plus		4	accept
 60	R2	latinworks19wycl=et | johanniswyclift00mattgoog=t | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+68	PLATE	latinworks19wycl=germinantes | johanniswyclift00mattgoog=germinantes | johanniswyclift01mattgoog=yerminantes | tractatusdepotes00wycl=germinantes		4	accept
 73	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=iuud | tractatusdepotes00wycl=quod		4	accept
 94	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nun | tractatusdepotes00wycl=non		4	accept
 96	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 111	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+119	PLATE	latinworks19wycl=greogorio | johanniswyclift00mattgoog=grciogorio | johanniswyclift01mattgoog=greaogorio | tractatusdepotes00wycl=greogorio		4	accept
 125	PLATE	latinworks19wycl=curaui | johanniswyclift01mattgoog=ciirain | tractatusdepotes00wycl=curam		3	accept
 129	R2	latinworks19wycl=suscipit | johanniswyclift00mattgoog=suscipit | johanniswyclift01mattgoog=siiscfpi | tractatusdepotes00wycl=suscipit		4	accept
 130	R2	latinworks19wycl=quasi | johanniswyclift00mattgoog=quasi | johanniswyclift01mattgoog=citiasi | tractatusdepotes00wycl=quasi		4	accept

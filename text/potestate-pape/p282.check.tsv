@@ -15,7 +15,7 @@ pos	rule	forms	support	voters	resolution
 110	PLATE	latinworks19wycl=planeta | johanniswyclift00mattgoog=planeta | johanniswyclift01mattgoog=planeta | tractatusdepotes00wycl=planeta		4	accept
 146	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autent | johanniswyclift01mattgoog=autem | tractatusdepotes00wycl=autem		4	accept
 148	R2	latinworks19wycl=fortitudinem | johanniswyclift00mattgoog=fortitudinem | johanniswyclift01mattgoog=foriiiudinetn | tractatusdepotes00wycl=fortitudinem		4	accept
-164	R2	latinworks19wycl=onirf | johanniswyclift00mattgoog=onichini | johanniswyclift01mattgoog=onichiui | tractatusdepotes00wycl=onichini		4	accept
+164	PLATE	latinworks19wycl=onirf | johanniswyclift00mattgoog=onichini | johanniswyclift01mattgoog=onichiui | tractatusdepotes00wycl=onichini		4	accept
 165	DEL	latinworks19wycl=chini | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 173	R3a	latinworks19wycl=seuiorum | johanniswyclift00mattgoog=seniorum | johanniswyclift01mattgoog=seniorum | tractatusdepotes00wycl=seniorum		4	accept
 212	EDGE	latinworks19wycl=simplici | tractatusdepotes00wycl=simplici		2	accept

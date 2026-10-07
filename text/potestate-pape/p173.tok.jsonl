@@ -99,11 +99,14 @@
 {"t": "racio,", "leaf": 234, "row": 14, "para": false, "head": false, "pos": 98}
 {"t": "quare", "leaf": 234, "row": 14, "para": false, "head": false, "pos": 99}
 {"t": "Christus", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 100}
-{"t": "nonfuit", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 101}
+{"t": "non", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 101}
+{"t": "fuit", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 101}
 {"t": "affectus", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 102}
 {"t": "templo,", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 103}
 {"t": "ut", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 104}
-{"t": "patetMar.XIII,", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 105}
+{"t": "patet", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 105}
+{"t": "Mar.", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 105}
+{"t": "XIII,", "leaf": 234, "row": 15, "para": false, "head": false, "pos": 105}
 {"t": "sed", "leaf": 234, "row": 16, "para": false, "head": false, "pos": 106}
 {"t": "predicavit", "leaf": 234, "row": 16, "para": false, "head": false, "pos": 107}
 {"t": "sub", "leaf": 234, "row": 16, "para": false, "head": false, "pos": 108}

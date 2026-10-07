@@ -3,7 +3,7 @@ pos	rule	forms	support	voters	resolution
 62	PLATE	latinworks19wycl=ini | johanniswyclift00mattgoog=innee | johanniswyclift01mattgoog=inp | tractatusdepotes00wycl=innec		4	accept
 63	R2	latinworks19wycl=fluere | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=fluere | tractatusdepotes00wycl=∅		4	accept
 64	R2	latinworks19wycl=nec | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=∅		4	accept
-77	R3a	latinworks19wycl=dtcitur | johanniswyclift00mattgoog=dtcttur | johanniswyclift01mattgoog=dtcitur | tractatusdepotes00wycl=dicitur		4	accept
+77	PLATE	latinworks19wycl=dtcitur | johanniswyclift00mattgoog=dtcttur | johanniswyclift01mattgoog=dtcitur | tractatusdepotes00wycl=dicitur		4	accept
 78	R2	latinworks19wycl=deus | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus		4	accept
 91	PLATE	latinworks19wycl=blasphemius | johanniswyclift00mattgoog=basphemius | johanniswyclift01mattgoog=blasphemius | tractatusdepotes00wycl=blasphemius		4	accept
 110	R2	latinworks19wycl=spirituale | johanniswyclift00mattgoog=spirituale | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=spirituale		4	accept

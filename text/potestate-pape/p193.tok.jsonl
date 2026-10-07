@@ -36,7 +36,8 @@
 {"t": "layci", "leaf": 254, "row": 5, "para": false, "head": false, "pos": 35}
 {"t": "clericis", "leaf": 254, "row": 5, "para": false, "head": false, "pos": 36}
 {"t": "oppido", "leaf": 254, "row": 5, "para": false, "head": false, "pos": 37}
-{"t": "suntinfesti;", "leaf": 254, "row": 5, "para": false, "head": false, "pos": 38}
+{"t": "sunt", "leaf": 254, "row": 5, "para": false, "head": false, "pos": 38}
+{"t": "infesti;", "leaf": 254, "row": 5, "para": false, "head": false, "pos": 38}
 {"t": "antichristiana", "leaf": 254, "row": 5, "para": false, "head": false, "pos": 39}
 {"t": "deliramenta", "leaf": 254, "row": 6, "para": false, "head": false, "pos": 40}
 {"t": "sunt", "leaf": 254, "row": 6, "para": false, "head": false, "pos": 41}
@@ -72,7 +73,7 @@
 {"t": "secundum", "leaf": 254, "row": 10, "para": false, "head": false, "pos": 72}
 {"t": "legem", "leaf": 254, "row": 10, "para": false, "head": false, "pos": 73}
 {"t": "Dei", "leaf": 254, "row": 11, "para": false, "head": false, "pos": 74}
-{"t": "prog-reditur", "leaf": 254, "row": 11, "para": false, "head": false, "pos": 75}
+{"t": "progreditur", "leaf": 254, "row": 11, "para": false, "head": false, "pos": 75}
 {"t": "et", "leaf": 254, "row": 11, "para": false, "head": false, "pos": 76}
 {"t": "allocatur", "leaf": 254, "row": 11, "para": false, "head": false, "pos": 77}
 {"t": "in", "leaf": 254, "row": 11, "para": false, "head": false, "pos": 78}

@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 12	R3a	latinworks19wycl=reperit | johanniswyclift00mattgoog=reperit | johanniswyclift01mattgoog=repent | tractatusdepotes00wycl=reperit		4	accept
 25	R3a	latinworks19wycl=unde | johanniswyclift00mattgoog=unde | johanniswyclift01mattgoog=undo | tractatusdepotes00wycl=unde		4	accept
-26	R3a	latinworks19wycl=papapetrus | johanniswyclift00mattgoog=papapetrus | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=papapetrus		4	accept
+26	PLATE	latinworks19wycl=papapetrus | johanniswyclift00mattgoog=papapetrus | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=papapetrus		4	accept
 27	PLATE	latinworks19wycl=ilpetri | johanniswyclift00mattgoog=ii | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=ilpetri		4	accept
 33	R2	latinworks19wycl=eruut | johanniswyclift00mattgoog=eruui | johanniswyclift01mattgoog=eniiil | tractatusdepotes00wycl=erunt		4	accept
 35	R2	latinworks19wycl=pseudopropkete | johanniswyclift00mattgoog=psendoprophete | johanniswyclift01mattgoog=pseuiio3 | tractatusdepotes00wycl=pseudoprophete		4	accept

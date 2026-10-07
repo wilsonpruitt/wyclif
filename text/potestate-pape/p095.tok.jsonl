@@ -25,7 +25,7 @@
 {"t": "inducit", "leaf": 156, "row": 3, "para": false, "head": false, "pos": 24}
 {"t": "plurimos", "leaf": 156, "row": 3, "para": false, "head": false, "pos": 25}
 {"t": "in", "leaf": 156, "row": 3, "para": false, "head": false, "pos": 26}
-{"t": "morSed", "leaf": 156, "row": 3, "para": false, "head": false, "pos": 27}
+{"t": "mor", "leaf": 156, "row": 3, "para": false, "head": false, "pos": 27}
 {"t": "tercio", "leaf": 156, "row": 4, "para": false, "head": false, "pos": 28}
 {"t": "arguitur", "leaf": 156, "row": 4, "para": false, "head": false, "pos": 29}
 {"t": "contra", "leaf": 156, "row": 4, "para": false, "head": false, "pos": 30}
@@ -103,7 +103,7 @@
 {"t": "iurisdicione", "leaf": 156, "row": 15, "para": false, "head": false, "pos": 102}
 {"t": "loquentibus;", "leaf": 156, "row": 15, "para": false, "head": false, "pos": 103}
 {"t": "oportet", "leaf": 156, "row": 15, "para": false, "head": false, "pos": 104}
-{"t": "ig-itur", "leaf": 156, "row": 15, "para": false, "head": false, "pos": 105}
+{"t": "igitur", "leaf": 156, "row": 15, "para": false, "head": false, "pos": 105}
 {"t": "docere", "leaf": 156, "row": 15, "para": false, "head": false, "pos": 106}
 {"t": "quod", "leaf": 156, "row": 16, "para": false, "head": false, "pos": 107}
 {"t": "officium", "leaf": 156, "row": 16, "para": false, "head": false, "pos": 108}

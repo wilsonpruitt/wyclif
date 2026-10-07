@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 10	R2	latinworks19wycl=nunquam | johanniswyclift00mattgoog=nunquam | johanniswyclift01mattgoog=motquam | tractatusdepotes00wycl=nunquam		4	accept
 15	PLATE	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
-17	R5a	latinworks19wycl=iilii | johanniswyclift00mattgoog=fiiii | johanniswyclift01mattgoog=iilii | tractatusdepotes00wycl=iiiii		4	accept
+17	PLATE	latinworks19wycl=iilii | johanniswyclift00mattgoog=fiiii | johanniswyclift01mattgoog=iilii | tractatusdepotes00wycl=iiiii		4	accept
 18	R2	latinworks19wycl=eitts | johanniswyclift00mattgoog=eins | johanniswyclift01mattgoog=eius | tractatusdepotes00wycl=eius		4	accept
 21	R2	latinworks19wycl=benedictunt | johanniswyclift00mattgoog=benedictum | johanniswyclift01mattgoog=behediclnnt | tractatusdepotes00wycl=benedictum		4	accept
 23	R2	latinworks19wycl=constitiaint | johanniswyclift00mattgoog=constitnnnty | johanniswyclift01mattgoog=cnnsthiinnl | tractatusdepotes00wycl=constituunt		4	accept

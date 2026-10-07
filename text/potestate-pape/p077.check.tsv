@@ -20,7 +20,7 @@ pos	rule	forms	support	voters	resolution
 98	R3a	latinworks19wycl=deinde | johanniswyclift00mattgoog=deiude | johanniswyclift01mattgoog=delude | tractatusdepotes00wycl=deinde		4	accept
 103	R3a	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=r | tractatusdepotes00wycl=i		4	accept
 104	INS?	2	2	4	plate: 2
-105	R2	latinworks19wycl=auuos | johanniswyclift00mattgoog=auuos | johanniswyclift01mattgoog=anitos | tractatusdepotes00wycl=anuos		4	accept
+105	PLATE	latinworks19wycl=auuos | johanniswyclift00mattgoog=auuos | johanniswyclift01mattgoog=anitos | tractatusdepotes00wycl=anuos		4	accept
 107	R2	latinworks19wycl=itcrum | johanniswyclift00mattgoog=iterum | johanniswyclift01mattgoog=licrnm | tractatusdepotes00wycl=iterum		4	accept
 114	R4a	latinworks19wycl=baruaba | johanniswyclift00mattgoog=baruaba | johanniswyclift01mattgoog=bariiaba | tractatusdepotes00wycl=barnaba		4	accept
 116	R5a	latinworks19wycl=tito | johanniswyclift00mattgoog=tito | johanniswyclift01mattgoog=tito | tractatusdepotes00wycl=tito		4	accept

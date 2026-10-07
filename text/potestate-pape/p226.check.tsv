@@ -2,6 +2,7 @@ pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=hic | tractatusdepotes00wycl=hic		2	accept
 10	PLATE	latinworks19wycl=annuali | johanniswyclift00mattgoog=annual | johanniswyclift01mattgoog=annual | tractatusdepotes00wycl=annuali		4	accept
 22	R3a	latinworks19wycl=es | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
+29	PLATE	latinworks19wycl=rapina | johanniswyclift00mattgoog=rapina | johanniswyclift01mattgoog=rapina | tractatusdepotes00wycl=rapina		4	accept
 51	R2	latinworks19wycl=regxd | johanniswyclift00mattgoog=regni | johanniswyclift01mattgoog=regni | tractatusdepotes00wycl=regni		4	accept
 77	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 82	R3a	latinworks19wycl=iis | johanniswyclift00mattgoog=aliis | johanniswyclift01mattgoog=aliis | tractatusdepotes00wycl=aliis		4	accept

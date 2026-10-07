@@ -5,7 +5,7 @@ pos	rule	forms	support	voters	resolution
 19	PLATE	latinworks19wycl=1 | tractatusdepotes00wycl=tercio		2	accept
 20	PLATE	latinworks19wycl=ercio | tractatusdepotes00wycl=∅		2	accept
 60	R2	latinworks19wycl=it | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=it		4	accept
-67	R3a	latinworks19wycl=gfradu | johanniswyclift00mattgoog=cfradu | johanniswyclift01mattgoog=gradu | tractatusdepotes00wycl=gfradu		4	accept
+67	PLATE	latinworks19wycl=gfradu | johanniswyclift00mattgoog=cfradu | johanniswyclift01mattgoog=gradu | tractatusdepotes00wycl=gfradu		4	accept
 76	R4a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=ln		4	accept
 80	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=aniem | tractatusdepotes00wycl=autem		4	accept
 83	R2	latinworks19wycl=sum | johanniswyclift00mattgoog=stun | johanniswyclift01mattgoog=sum | tractatusdepotes00wycl=sum		4	accept

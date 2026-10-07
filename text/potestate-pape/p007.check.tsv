@@ -14,7 +14,7 @@ pos	rule	forms	support	voters	resolution
 59	R2	latinworks19wycl=naturalis | johanniswyclift00mattgoog=naturalis | johanniswyclift01mattgoog=hattiralis | tractatusdepotes00wycl=naturalis		4	accept
 75	R2	latinworks19wycl=secunda | johanniswyclift00mattgoog=secunda | johanniswyclift01mattgoog=seainda | tractatusdepotes00wycl=secunda		4	accept
 78	R2	latinworks19wycl=anima | johanniswyclift00mattgoog=anima | johanniswyclift01mattgoog=aninta | tractatusdepotes00wycl=anima		4	accept
-96	R3a	latinworks19wycl=possit | johanniswyclift00mattgoog=ibpossit | johanniswyclift01mattgoog=tbpossit | tractatusdepotes00wycl=ibpossit		4	accept
+96	PLATE	latinworks19wycl=possit | johanniswyclift00mattgoog=ibpossit | johanniswyclift01mattgoog=tbpossit | tractatusdepotes00wycl=ibpossit		4	accept
 100	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=in		4	accept
 130	R2	latinworks19wycl=uno | johanniswyclift00mattgoog=uno | johanniswyclift01mattgoog=uho | tractatusdepotes00wycl=uno		4	accept
 140	R2	latinworks19wycl=principio | johanniswyclift00mattgoog=prtnctpto | johanniswyclift01mattgoog=rcipto | tractatusdepotes00wycl=principio		4	accept

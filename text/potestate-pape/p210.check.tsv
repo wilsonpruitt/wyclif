@@ -1,7 +1,7 @@
 pos	rule	forms	support	voters	resolution
 14	DEL	latinworks19wycl=arc | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 27	R2	latinworks19wycl=spiritualiter | johanniswyclift00mattgoog=spiritualiter | johanniswyclift01mattgoog=spiritualiter | tractatusdepotes00wycl=spm		4	accept
-33	R2	latinworks19wycl=autumpnales | johanniswyclift00mattgoog=antnmpnalcs | johanniswyclift01mattgoog=autumpmdes | tractatusdepotes00wycl=autumpnales		4	accept
+33	PLATE	latinworks19wycl=autumpnales | johanniswyclift00mattgoog=antnmpnalcs | johanniswyclift01mattgoog=autumpmdes | tractatusdepotes00wycl=autumpnales		4	accept
 81	R3a	latinworks19wycl=quantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=ouantum		4	accept
 87	PLATE	latinworks19wycl=peccatum | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=ps | tractatusdepotes00wycl=peccatum		4	accept
 93	R2	latinworks19wycl=fluclns | johanniswyclift00mattgoog=flucius | johanniswyclift01mattgoog=iiucims | tractatusdepotes00wycl=fluctus		4	accept

@@ -18,7 +18,7 @@ pos	rule	forms	support	voters	resolution
 64	R2	latinworks19wycl=fundamenta | johanniswyclift00mattgoog=fundamenta | johanniswyclift01mattgoog=fiiudiimeula | tractatusdepotes00wycl=fundamenta		4	accept
 66	R2	latinworks19wycl=terrarum | johanniswyclift00mattgoog=terrarum | johanniswyclift01mattgoog=terrarion | tractatusdepotes00wycl=terrarum		4	accept
 100	PLATE	latinworks19wycl=suo | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=suo		4	accept
-101	R2	latinworks19wycl=preemincnti | johanniswyclift00mattgoog=preeminenii | johanniswyclift01mattgoog=preeiuincnli | tractatusdepotes00wycl=preeminenii		4	accept
+101	PLATE	latinworks19wycl=preemincnti | johanniswyclift00mattgoog=preeminenii | johanniswyclift01mattgoog=preeiuincnli | tractatusdepotes00wycl=preeminenii		4	accept
 103	R3a	latinworks19wycl=mundi | johanniswyclift00mattgoog=mundi | johanniswyclift01mattgoog=tuundi | tractatusdepotes00wycl=mundi		4	accept
 109	PLATE	latinworks19wycl=moluque | johanniswyclift01mattgoog=moluque | tractatusdepotes00wycl=motuque		3	accept
 110	R3a	latinworks19wycl=suo | johanniswyclift00mattgoog=suo | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=suo		4	accept

@@ -14,7 +14,7 @@ pos	rule	forms	support	voters	resolution
 188	PLATE	latinworks19wycl=snbditornm | tractatusdepotes00wycl=subditorum		2	accept
 189	PLATE	latinworks19wycl=cansis | tractatusdepotes00wycl=causis		2	accept
 190	PLATE	latinworks19wycl=sna | tractatusdepotes00wycl=sua		2	accept
-195	R2	latinworks19wycl=seqnnntnr | johanniswyclift00mattgoog=osequuntur | johanniswyclift01mattgoog=sequuniur | tractatusdepotes00wycl=osequuntur		4	accept
+195	PLATE	latinworks19wycl=seqnnntnr | johanniswyclift00mattgoog=osequuntur | johanniswyclift01mattgoog=sequuniur | tractatusdepotes00wycl=osequuntur		4	accept
 202	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=ctim | tractatusdepotes00wycl=cum		4	accept
 207	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=iihod | tractatusdepotes00wycl=quod		4	accept
 212	R3a	latinworks19wycl=ilia | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept

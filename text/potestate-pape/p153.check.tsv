@@ -15,7 +15,7 @@ pos	rule	forms	support	voters	resolution
 72	R2	latinworks19wycl=utrum | johanniswyclift00mattgoog=utrum | johanniswyclift01mattgoog=uirunt | tractatusdepotes00wycl=utrum		4	accept
 77	R5a	latinworks19wycl=augustino | johanniswyclift00mattgoog=augusiino | johanniswyclift01mattgoog=attgustino | tractatusdepotes00wycl=augustino		4	accept
 86	R2	latinworks19wycl=scis | johanniswyclift00mattgoog=sets | johanniswyclift01mattgoog=scis | tractatusdepotes00wycl=scis		4	accept
-88	R2	latinworks19wycl=dixiy | johanniswyclift00mattgoog=dixif | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=dixiy		4	accept
+88	PLATE	latinworks19wycl=dixiy | johanniswyclift00mattgoog=dixif | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=dixiy		4	accept
 89	R2	latinworks19wycl=scis | johanniswyclift00mattgoog=scis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=scis		4	accept
 90	R2	latinworks19wycl=quia | johanniswyclift00mattgoog=quia | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=quia		4	accept
 91	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=non		4	accept

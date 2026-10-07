@@ -1404,3 +1404,126 @@ page	pos	rule	forms	reading	note
 404	159	R4	latinworks19wycl=terc | johanniswyclift00mattgoog=tercio | johanniswyclift01mattgoog=tercio | tractatusdepotes00wycl=terc	Tercio	25 is the line number
 405	184	R4	latinworks19wycl=dembeat | johanniswyclift00mattgoog=desobeat | johanniswyclift01mattgoog=debeat | tractatusdepotes00wycl=desobeat	debeat	hyphenated de-|beat (30 line number); main token holds the whole word
 406	7	NW	latinworks19wycl=elleccione | johanniswyclift00mattgoog=elleccione | johanniswyclift01mattgoog=elleccione | tractatusdepotes00wycl=elleccione	elleccione	print has double l (elleccione), kept as printed
+24	49	OVERRIDE-SCAR	latinworks19wycl=hmitat | johanniswyclift00mattgoog=hmitat | johanniswyclift01mattgoog=limitat | tractatusdepotes00wycl=hmitat	Limitat	W1: Hmitat -> Limitat (scans: hmitat | hmitat | limitat | hmitat)
+46	79	OVERRIDE-SCAR	latinworks19wycl=christum | johanniswyclift00mattgoog=chnstum | johanniswyclift01mattgoog=chnstum | tractatusdepotes00wycl=chnstum	Christum	W1: Chnstum -> Christum (scans: christum | chnstum | chnstum | chnstum)
+52	71	OVERRIDE-SCAR	latinworks19wycl=supernciem | johanniswyclift00mattgoog=superficiem | johanniswyclift01mattgoog=supernciem | tractatusdepotes00wycl=supernciem	superficiem	W1: supernciem -> superficiem (scans: supernciem | superficiem | supernciem | supernciem)
+53	150	OVERRIDE-SCAR	latinworks19wycl=insymonem | johanniswyclift00mattgoog=insymonem | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=insymonem	in Symonem	W-split: inSymonem -> in Symonem (x1 in the volume; scans: insymonem | insymonem | in | insymonem)
+57	6	OVERRIDE-SCAR	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrns | tractatusdepotes00wycl=petrus	Petrus	W1: Petrns -> Petrus (scans: petrus | petrns | petrus)
+61	93	OVERRIDE-SCAR	latinworks19wycl=quodisti | johanniswyclift00mattgoog=quodisti | johanniswyclift01mattgoog=quodisti | tractatusdepotes00wycl=quod	quod isti	W-split: quodisti -> quod isti (two words run together)
+107	28	OVERRIDE-SCAR	latinworks19wycl=chnstus | johanniswyclift00mattgoog=christus | johanniswyclift01mattgoog=chnstus | tractatusdepotes00wycl=chnstus	Christus:	W1: Chnstus: -> Christus: (scans: chnstus | christus | chnstus | chnstus)
+120	98	OVERRIDE-SCAR	latinworks19wycl=nommetenus | johanniswyclift00mattgoog=nommetenus | johanniswyclift01mattgoog=nominetenus | tractatusdepotes00wycl=nommetenus	nominetenus	W1: nommetenus -> nominetenus (scans: nommetenus | nommetenus | nominetenus | nommetenus)
+123	34	OVERRIDE-SCAR	latinworks19wycl=interhomines | johanniswyclift00mattgoog=interhomines | johanniswyclift01mattgoog=intor | tractatusdepotes00wycl=interhomines	inter homines	W-split: interhomines -> inter homines (two words run together)
+125	69	OVERRIDE-SCAR	latinworks19wycl=spectatin | johanniswyclift00mattgoog=spectatin | johanniswyclift01mattgoog=pectat | tractatusdepotes00wycl=spectatin	spectat in	W-split: spectatin -> spectat in (two words run together)
+134	114	OVERRIDE-SCAR	latinworks19wycl=efncaciter | johanniswyclift00mattgoog=eincaciter | johanniswyclift01mattgoog=efficaciter | tractatusdepotes00wycl=efncaciter	efficaciter	W1: efncaciter -> efficaciter (scans: efncaciter | eincaciter | efficaciter | efncaciter)
+142	210	OVERRIDE-SCAR	latinworks19wycl=audacns | johanniswyclift00mattgoog=audacus | johanniswyclift01mattgoog=audaciis | tractatusdepotes00wycl=audacns	audaciis,	W1: audacns, -> audaciis, (scans: audacns | audacus | audaciis | audacns)
+143	116	OVERRIDE-SCAR	latinworks19wycl=christi | johanniswyclift00mattgoog=chnsti | johanniswyclift01mattgoog=cnnsti | tractatusdepotes00wycl=chnsti	Christi,	W1: Chnsti, -> Christi, (scans: christi | chnsti | cnnsti | chnsti)
+148	35	OVERRIDE-SCAR	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichnsti | johanniswyclift01mattgoog=antichnsti | tractatusdepotes00wycl=antichnsti	Antichristi,	W1: Antichnsti, -> Antichristi, (scans: antichristi | antichnsti | antichnsti | antichnsti)
+193	38	OVERRIDE-SCAR	latinworks19wycl=suntinfesti | johanniswyclift00mattgoog=suntinfesti | johanniswyclift01mattgoog=sunt | tractatusdepotes00wycl=suntinfesti	sunt infesti;	W-split: suntinfesti; -> sunt infesti; (two words run together)
+208	26	OVERRIDE-SCAR	latinworks19wycl=papapetrus | johanniswyclift00mattgoog=papapetrus | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=papapetrus	papa Petrus	W-split: papaPetrus -> papa Petrus (x1 in the volume; scans: papapetrus | papapetrus | papa | papapetrus)
+228	191	OVERRIDE-SCAR	latinworks19wycl=petrns | johanniswyclift00mattgoog=petrns | johanniswyclift01mattgoog=pclrus | tractatusdepotes00wycl=petrus	Petrus	W1: Petrns -> Petrus (scans: petrns | petrns | pclrus | petrus)
+264	170	OVERRIDE-SCAR	latinworks19wycl=hcet | johanniswyclift00mattgoog=hcet | johanniswyclift01mattgoog=licet | tractatusdepotes00wycl=hcet	licet	W1: hcet -> licet (scans: hcet | hcet | licet | hcet)
+270	72	OVERRIDE-SCAR	latinworks19wycl=descripcionibus | johanniswyclift00mattgoog=descnpciombus | johanniswyclift01mattgoog=descripciombus | tractatusdepotes00wycl=descripciombus	descripcionibus	W1: descripciombus -> descripcionibus (scans: descripcionibus | descnpciombus | descripciombus | descripciombus)
+276	17	OVERRIDE-SCAR	latinworks19wycl=quareigitur | johanniswyclift00mattgoog=quare | johanniswyclift01mattgoog=quareigitur | tractatusdepotes00wycl=quareigitur	Quare igitur	W-split: Quareigitur -> Quare igitur (two words run together)
+278	60	OVERRIDE-SCAR	latinworks19wycl=sintaccepte | johanniswyclift00mattgoog=sint | johanniswyclift01mattgoog=sintaccepte | tractatusdepotes00wycl=sintaccepte	sint accepte,	W-split: sintaccepte, -> sint accepte, (two words run together)
+325	101	OVERRIDE-SCAR	latinworks19wycl=aliampartem | johanniswyclift00mattgoog=aliampartem | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=aliampartem	aliam partem	W-split: aliampartem -> aliam partem (two words run together)
+337	48	OVERRIDE-SCAR	latinworks19wycl=sodomorum | johanniswyclift00mattgoog=sodomornm | johanniswyclift01mattgoog=sodomornm | tractatusdepotes00wycl=sodomoriim	Sodomorum	W1: Sodomornm -> Sodomorum (scans: sodomorum | sodomornm | sodomornm | sodomoriim)
+343	30	OVERRIDE-SCAR	latinworks19wycl=papiniauus | johanniswyclift00mattgoog=papinianus | johanniswyclift01mattgoog=papiuianns | tractatusdepotes00wycl=papiniauus	Papinianus,	W1: Papiniauus, -> Papinianus, (scans: papiniauus | papinianus | papiuianns | papiniauus)
+353	195	OVERRIDE-SCAR	latinworks19wycl=etpatet | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=etpatet | tractatusdepotes00wycl=etpatet	Et patet,	W-split: Etpatet, -> Et patet, (two words run together)
+356	70	OVERRIDE-SCAR	latinworks19wycl=oolla | johanniswyclift00mattgoog=ooua | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=oolla	Oolla	W1: OoUa -> Oolla (scans: oolla | ooua | oolla)
+362	110	OVERRIDE-SCAR	latinworks19wycl=oporfet | johanniswyclift00mattgoog=oporiet | johanniswyclift01mattgoog=oportet | tractatusdepotes00wycl=oporfet	Oportet	W1: Oporfet -> Oportet (scans: oporfet | oporiet | oportet | oporfet)
+3	147	OVERRIDE-SCARPLATE	latinworks19wycl=2dprmcipio	principio	LEFT-odd: 25 is the line number
+7	96	OVERRIDE-SCARPLATE	latinworks19wycl=possit	possit	LEFT-nw: italic; print = possit
+8	168	OVERRIDE-SCARPLATE	latinworks19wycl=maior	Maior	LEFT-nw: italic, capital M
+21	94	OVERRIDE-SCARPLATE	latinworks19wycl=msi	nisi	LEFT-nw: italic; print = nisi
+28	20	OVERRIDE-SCARPLATE	latinworks19wycl=ftuuio	fluvio	LEFT-nw: italic, v as printed; stop after not carried
+31	200	OVERRIDE-SCARPLATE	latinworks19wycl=augusostinus	Augustinus	LEFT-nw: Augu- | stinus split by line break; whole word per main-scan token; 30 is line number
+32	102	OVERRIDE-SCARPLATE	latinworks19wycl=communicaueritcreaturequia	communicaverit creature quia	S-split: three words; comma after creature not carried
+35	40	OVERRIDE-SCARPLATE	latinworks19wycl=actendere	attendere	S-split: one word, print = attendere
+41	195	OVERRIDE-SCARPLATE	latinworks19wycl=seqnnntnr	sequuntur	LEFT-odd: italic; stop after not carried
+45	202	OVERRIDE-SCARPLATE	latinworks19wycl=iosuas	suas	LEFT-odd: italic; 30 is line number; semicolon not carried
+46	9	OVERRIDE-SCARPLATE	latinworks19wycl=singnificans	singnificans	LEFT-odd: ink shows -gn- spelling as in main scans; kept as printed; comma not carried
+47	179	OVERRIDE-SCARPLATE	latinworks19wycl=18	18—	LEFT-odd: box on the dash of 18—19; print has 19 after it
+52	20	OVERRIDE-SCARPLATE	latinworks19wycl=probabmter	probabiliter	LEFT-nw: print = probabiliter (scan readings are OCR noise)
+77	105	OVERRIDE-SCARPLATE	latinworks19wycl=auuos	annos	LEFT-nw: italic; print = annos
+80	156	OVERRIDE-SCARPLATE	latinworks19wycl=exproprietane	exproprietarie	LEFT-nw: one word; print = exproprietarie
+82	168	OVERRIDE-SCARPLATE	latinworks19wycl=exproprietarie	exproprietarie	S-split: one word, no split in print
+86	150	OVERRIDE-SCARPLATE	latinworks19wycl=correspondenter	correspondenter	LEFT-odd: box covers only a speck/tick before ad; no word [coordinator: the box was the junk glued to the word; the word stands]
+95	27	OVERRIDE-SCARPLATE	latinworks19wycl=morsed	mor	S-split: mor- | tale at line end; hyphen not carried, other half tale on next line
+97	197	OVERRIDE-SCARPLATE	latinworks19wycl=uirtute	virtute	LEFT-nw: 30 is the line number
+111	98	OVERRIDE-SCARPLATE	latinworks19wycl=apostolis	apostolis	LEFT-odd: comma not carried
+123	93	OVERRIDE-SCARPLATE	latinworks19wycl=fulmen	fulmen	LEFT-nw: 15 is the line number
+127	101	OVERRIDE-SCARPLATE	latinworks19wycl=methaphisicam	methaphisicam	LEFT-nw: metha- | phisicam across lines; whole word per main-scan token
+129	34	OVERRIDE-SCARPLATE	latinworks19wycl=exproprietarie	exproprietarie	S-split: one word, no split
+142	33	OVERRIDE-SCARPLATE	latinworks19wycl=aliter	aliter	S-split: one word; print = aliter (no s); margin figure after it is a line number
+143	9	OVERRIDE-SCARPLATE	latinworks19wycl=chnstum	Christum	W2: print = Christum (OCR chnstum is noise)
+148	50	OVERRIDE-SCARPLATE	latinworks19wycl=instdbunt	instabunt	LEFT-nw: print = instabunt
+153	88	OVERRIDE-SCARPLATE	latinworks19wycl=dixiy	dixi	S-split: one word, italic; comma not carried
+161	130	OVERRIDE-SCARPLATE	latinworks19wycl=expropriacione	expropriacione	LEFT-nw: print = expropriacione
+170	158	OVERRIDE-SCARPLATE	latinworks19wycl=argentumib	argentum	LEFT-odd: italic; comma not carried; 25 is the line number
+183	17	OVERRIDE-SCARPLATE	latinworks19wycl=iilii	filii	W2: italic f (long-s-like f); print = filii
+189	68	OVERRIDE-SCARPLATE	latinworks19wycl=ausfustinus	Augustinus	LEFT-odd: print = Augustinus
+193	153	OVERRIDE-SCARPLATE	latinworks19wycl=15	15—	LEFT-odd: box on the dash of 15—16; print has 16 after it
+194	175	OVERRIDE-SCARPLATE	latinworks19wycl=duosfratres	duos fratres	S-split: two words, italic, tightly spaced
+197	143	OVERRIDE-SCARPLATE	latinworks19wycl=obseruancns	observanciis	LEFT-nw: print = observanciis
+200	28	OVERRIDE-SCARPLATE	latinworks19wycl=27	27—	LEFT-odd: box on the dash of 27—28
+200	221	OVERRIDE-SCARPLATE	latinworks19wycl=bilingues	bilingues,	LEFT-odd: box on a folio bar before non; no word [coordinator: the box was the junk glued to the word; the word stands]
+209	32	OVERRIDE-SCARPLATE	latinworks19wycl=12	12—	LEFT-odd: dash between numerals; print 12—14
+210	33	OVERRIDE-SCARPLATE	latinworks19wycl=autumpnales	autumpnales.	LEFT-nw: print = printed
+217	90	OVERRIDE-SCARPLATE	latinworks19wycl=teronymi	Jeronymi	S-split: one word; initial is J, not T
+220	144	OVERRIDE-SCARPLATE	latinworks19wycl=difformem	difformem	LEFT-nw: print = printed; line number 20 follows
+222	113	OVERRIDE-SCARPLATE	latinworks19wycl=aruitur	arguitur	LEFT-odd: box sits on Contra; word with junk is arguitur, line number 20 at line end; print clean
+225	196	OVERRIDE-SCARPLATE	latinworks19wycl=releuamine	relevamine	LEFT-nw: hyphenated rele-|vamine; print has v
+226	29	OVERRIDE-SCARPLATE	latinworks19wycl=rapina	rapina	LEFT-odd: box in blank gap after rapina; nothing printed there
+228	160	OVERRIDE-SCARPLATE	latinworks19wycl=supponis	supponi	LEFT-odd: supponi + glued line number 25
+233	177	OVERRIDE-SCARPLATE	latinworks19wycl=xxip	XXIIª distinccione,	LEFT-nw: two printed words, superscript a after XXII
+234	58	OVERRIDE-SCARPLATE	latinworks19wycl=pontificem	pontificem.	LEFT-odd: glued line number 10
+238	146	OVERRIDE-SCARPLATE	latinworks19wycl=legibus	legibus	LEFT-nw: print = printed
+240	66	OVERRIDE-SCARPLATE	latinworks19wycl=insufficientissima	insufficientissima	LEFT-nw: hyphenated insuffi-|cientissima
+241	117	OVERRIDE-SCARPLATE	latinworks19wycl=21	21-	LEFT-odd: box on Matth.; token is verse number 21 followed by dash before dicit
+241	182	OVERRIDE-SCARPLATE	latinworks19wycl=huius	huius	LEFT-odd: box in blank gap after huius
+246	79	OVERRIDE-SCARPLATE	latinworks19wycl=insutus	institutus	LEFT-odd: print = institutus
+248	110	OVERRIDE-SCARPLATE	latinworks19wycl=istarum	istarum	LEFT-odd: print = istarum
+253	137	OVERRIDE-SCARPLATE	latinworks19wycl=soimponunt	imponunt	LEFT-nw: line number 20 glued; print = imponunt
+256	101	OVERRIDE-SCARPLATE	latinworks19wycl=preemincnti	preeminenti	S-split: one word
+261	57	OVERRIDE-SCARPLATE	latinworks19wycl=komanus	Romanus	LEFT-nw: capital R
+277	179	OVERRIDE-SCARPLATE	latinworks19wycl=tam	tam	LEFT-odd: box in blank gap after tam
+279	58	OVERRIDE-SCARPLATE	latinworks19wycl=atiriium	attritum	LEFT-nw: italic; t before r and u read as t (one crossbar tall t)
+281	166	OVERRIDE-SCARPLATE	latinworks19wycl=inconiugati	inconiugati	S-split: one word
+282	164	OVERRIDE-SCARPLATE	latinworks19wycl=onirf	onichini,	LEFT-nw: hyphenated oni-|chini, ; line number 25 follows
+283	123	OVERRIDE-SCARPLATE	latinworks19wycl=tetragramatonuirtute	tetragramaton, virtute	LEFT-nw: two printed words, comma between
+287	193	OVERRIDE-SCARPLATE	latinworks19wycl=longenimitatis	longenimitatis	LEFT-nw: hyphenated longe-|nimitatis
+291	137	OVERRIDE-SCARPLATE	latinworks19wycl=quibusprimo	quibus primo	S-split: two words
+295	85	OVERRIDE-SCARPLATE	latinworks19wycl=oneibribus	oneribus	LEFT-nw: hyphenated one-|ribus
+295	180	OVERRIDE-SCARPLATE	latinworks19wycl=solicet	licet	S-split: line number 30 glued (read as so)
+301	31	OVERRIDE-SCARPLATE	latinworks19wycl=eulogio	Eulogio	LEFT-odd: print = Eulogio
+305	45	OVERRIDE-SCARPLATE	latinworks19wycl=fontaliter	fontaliter,	S-split: one word, italic
+307	18	OVERRIDE-SCARPLATE	latinworks19wycl=lunsdicioms	iurisdicionis	S-split: one word
+313	57	OVERRIDE-SCARPLATE	latinworks19wycl=eis	eis,	LEFT-odd: print = printed; side-note word adjacent
+315	64	OVERRIDE-SCARPLATE	latinworks19wycl=specialiter	specialiter	LEFT-odd: box misplaced on variare; word is speci-|aliter with folio bar
+315	136	OVERRIDE-SCARPLATE	latinworks19wycl=doctrinata	doctrinata	LEFT-nw: hyphenated doctri-|nata
+316	31	OVERRIDE-SCARPLATE	latinworks19wycl=heritis	Herius	W2: capital H, italic
+316	65	OVERRIDE-SCARPLATE	latinworks19wycl=herius	Herius	LEFT-nw: capital H
+321	77	OVERRIDE-SCARPLATE	latinworks19wycl=dtcitur	dicitur	LEFT-nw: print = dicitur
+327	66	OVERRIDE-SCARPLATE	latinworks19wycl=tichristi	tichristi;	LEFT-nw: second half of An-|tichristi
+328	67	OVERRIDE-SCARPLATE	latinworks19wycl=gfradu	gradu	LEFT-nw: print = gradu
+335	197	OVERRIDE-SCARPLATE	latinworks19wycl=soirretitus	irretitus	LEFT-nw: line number 30 glued
+337	154	OVERRIDE-SCARPLATE	latinworks19wycl=sophisticaciones	sophisticaciones	LEFT-nw: hyphenated sophisti-|caciones
+340	132	OVERRIDE-SCARPLATE	latinworks19wycl=per	per	LEFT-odd: first half of per-|cucienti; box misplaced on Domini
+340	137	OVERRIDE-SCARPLATE	latinworks19wycl=u39	V 39,	LEFT-odd: print has V and 39, separated by a space; box misplaced
+343	24	OVERRIDE-SCARPLATE	latinworks19wycl=leges	leges	LEFT-odd: specks above e in leges (print: leges)
+359	100	OVERRIDE-SCARPLATE	latinworks19wycl=ludicium	iudicium	LEFT-nw: print = iudicium
+375	200	OVERRIDE-SCARPLATE	latinworks19wycl=oregibus	regibus	LEFT-odd: line number 30 glued
+376	71	OVERRIDE-SCARPLATE	latinworks19wycl=ariotorum	ariolorum,	LEFT-odd: folio bar after comma, not text
+377	176	OVERRIDE-SCARPLATE	latinworks19wycl=legichristi	legi Christi;	S-split: two words
+381	29	OVERRIDE-SCARPLATE	latinworks19wycl=coniugatis	coniugatis	LEFT-nw: print = coniugatis
+384	147	OVERRIDE-SCARPLATE	latinworks19wycl=ad	ad	LEFT-odd: small stray mark before ad; kept as ad
+385	41	OVERRIDE-SCARPLATE	latinworks19wycl=proximam	proximam	LEFT-odd: box in blank gap after proximam
+390	108	OVERRIDE-SCARPLATE	latinworks19wycl=nouimus	novimus,	LEFT-odd: folio bar after comma, not text
+390	161	OVERRIDE-SCARPLATE	latinworks19wycl=hns	hiis	W2: print = hiis
+391	68	OVERRIDE-SCARPLATE	latinworks19wycl=germinantes	germinantes,	LEFT-odd: ink has comma
+391	119	OVERRIDE-SCARPLATE	latinworks19wycl=greogorio	Gregorio	LEFT-odd: Gre-|gorio hyphenated, line number 20 glued
+393	49	OVERRIDE-SCARPLATE	latinworks19wycl=atteudite	Attendite	W2: italic, print = Attendite
+393	62	OVERRIDE-SCARPLATE	latinworks19wycl=adoiunxit	adiunxit:	LEFT-odd: hyphenated ad-|iunxit:
+396	24	OVERRIDE-SCARPLATE	latinworks19wycl=gloria	gloria	LEFT-odd: print = gloria; box on vel
+399	182	OVERRIDE-SCARPLATE	latinworks19wycl=oiohanne	Johanne	LEFT-odd: capital J; line number 30 glued
+401	57	OVERRIDE-SCARPLATE	latinworks19wycl=capitulum	Capitulum	LEFT-odd: specks before C; line number 10 glued

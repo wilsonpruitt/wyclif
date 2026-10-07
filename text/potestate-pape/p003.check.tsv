@@ -7,6 +7,7 @@ pos	rule	forms	support	voters	resolution
 96	PLATE	latinworks19wycl=estperpetuaindelebilis | johanniswyclift01mattgoog=estperpetuaindelebilis | tractatusdepotes00wycl=estperpetuaindelebilis		3	accept
 97	PLATE	latinworks19wycl=sedrestiingibilis | johanniswyclift01mattgoog=sedrestiingibilis | tractatusdepotes00wycl=sed		3	accept
 131	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+147	PLATE	latinworks19wycl=2dprmcipio | johanniswyclift00mattgoog=2dprmcipio | johanniswyclift01mattgoog=2principio | tractatusdepotes00wycl=prmcipio		4	accept
 148	R3a	latinworks19wycl=iaciendi | johanniswyclift00mattgoog=faciendi | johanniswyclift01mattgoog=faciendi | tractatusdepotes00wycl=faciendi		4	accept
 175	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 183	R3a	latinworks19wycl=malos | johanniswyclift00mattgoog=males | johanniswyclift01mattgoog=malos | tractatusdepotes00wycl=malos		4	accept

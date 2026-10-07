@@ -1,12 +1,13 @@
 pos	rule	forms	support	voters	resolution
 104	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
 105	R2	latinworks19wycl=cuncti | johanniswyclift00mattgoog=cuncti | johanniswyclift01mattgoog=cuttcii | tractatusdepotes00wycl=cuncti		4	accept
+108	PLATE	latinworks19wycl=nouimus | johanniswyclift00mattgoog=nouintus | johanniswyclift01mattgoog=nouimus | tractatusdepotes00wycl=nouimus		4	accept
 131	R3a	latinworks19wycl=iram | johanniswyclift00mattgoog=tram | johanniswyclift01mattgoog=irant | tractatusdepotes00wycl=iram		4	accept
 134	R2	latinworks19wycl=accendeus | johanniswyclift00mattgoog=accendensi | johanniswyclift01mattgoog=acceudcus | tractatusdepotes00wycl=accendens		4	accept
 142	PLATE	latinworks19wycl=ruine | johanniswyclift00mattgoog=rttine | johanniswyclift01mattgoog=mine | tractatusdepotes00wycl=ruine		4	accept
 143	PLATE	latinworks19wycl=to | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=to		4	accept
 157	R2	latinworks19wycl=gregorius | johanniswyclift00mattgoog=iregorius | johanniswyclift01mattgoog=tiregonus | tractatusdepotes00wycl=gregonus		4	accept
-161	R3a	latinworks19wycl=hns | johanniswyclift00mattgoog=hus | johanniswyclift01mattgoog=inis | tractatusdepotes00wycl=hiis		4	accept
+161	PLATE	latinworks19wycl=hns | johanniswyclift00mattgoog=hus | johanniswyclift01mattgoog=inis | tractatusdepotes00wycl=hiis		4	accept
 163	R2	latinworks19wycl=hiucprecipites | johanniswyclift00mattgoog=uinc | tractatusdepotes00wycl=hinc		3	accept
 164	INS?	precipites	2	4	plate: precipites
 169	R3a	latinworks19wycl=proprio | johanniswyclift00mattgoog=proprio | johanniswyclift01mattgoog=propria | tractatusdepotes00wycl=proprio		4	accept

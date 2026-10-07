@@ -1,11 +1,11 @@
 pos	rule	forms	support	voters	resolution
 5	R5a	latinworks19wycl=q | johanniswyclift00mattgoog=q | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=q		4	accept
 7	R2	latinworks19wycl=ouodcumque | johanniswyclift00mattgoog=quodcumque | johanniswyclift01mattgoog=otiodatmqne | tractatusdepotes00wycl=quodcumque		4	accept
-33	R3a	latinworks19wycl=aliter | johanniswyclift00mattgoog=aliters | johanniswyclift01mattgoog=aliters | tractatusdepotes00wycl=aliters		4	accept
+33	PLATE	latinworks19wycl=aliter | johanniswyclift00mattgoog=aliters | johanniswyclift01mattgoog=aliters | tractatusdepotes00wycl=aliters		4	accept
 85	PLATE	latinworks19wycl=a | johanniswyclift00mattgoog=ptri | johanniswyclift01mattgoog=ad | tractatusdepotes00wycl=ao		4	accept
 98	PLATE	latinworks19wycl=ai | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=aci		3	accept
 127	R2	latinworks19wycl=ad | johanniswyclift00mattgoog=adao | johanniswyclift01mattgoog=ad | tractatusdepotes00wycl=ad		4	accept
 157	R3a	latinworks19wycl=per | johanniswyclift00mattgoog=peras | johanniswyclift01mattgoog=per | tractatusdepotes00wycl=per		4	accept
 175	PLATE	latinworks19wycl=iudicium | johanniswyclift00mattgoog=indicium | johanniswyclift01mattgoog=indicium | tractatusdepotes00wycl=iudicium		4	accept
 206	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
-210	R3a	latinworks19wycl=audacns | johanniswyclift00mattgoog=audacus | johanniswyclift01mattgoog=audaciis | tractatusdepotes00wycl=audacns		4	accept
+210	PLATE	latinworks19wycl=audacns | johanniswyclift00mattgoog=audacus | johanniswyclift01mattgoog=audaciis | tractatusdepotes00wycl=audacns		4	accept

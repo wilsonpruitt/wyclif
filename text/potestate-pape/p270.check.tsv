@@ -21,7 +21,7 @@ pos	rule	forms	support	voters	resolution
 63	DEL	latinworks19wycl=uuus | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅		3	accept
 64	DEL	latinworks19wycl=omuium | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅		3	accept
 65	DEL	latinworks19wycl=1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅		3	accept
-72	R3a	latinworks19wycl=descripcionibus | johanniswyclift00mattgoog=descnpciombus | johanniswyclift01mattgoog=descripciombus | tractatusdepotes00wycl=descripciombus		4	accept
+72	PLATE	latinworks19wycl=descripcionibus | johanniswyclift00mattgoog=descnpciombus | johanniswyclift01mattgoog=descripciombus | tractatusdepotes00wycl=descripciombus		4	accept
 131	R3a	latinworks19wycl=illi | johanniswyclift00mattgoog=illi | johanniswyclift01mattgoog=ili | tractatusdepotes00wycl=illi		4	accept
 135	PLATE	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the		4	accept
 136	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ex		4	accept

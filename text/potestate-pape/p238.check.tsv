@@ -13,6 +13,6 @@ pos	rule	forms	support	voters	resolution
 98	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 116	PLATE	latinworks19wycl=recompense | johanniswyclift00mattgoog=recompense | johanniswyclift01mattgoog=recompense | tractatusdepotes00wycl=recompense		4	accept
 137	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
-146	R3a	latinworks19wycl=legibus | johanniswyclift00mattgoog=lecfibus | johanniswyclift01mattgoog=leeribus | tractatusdepotes00wycl=leeribus		4	accept
+146	PLATE	latinworks19wycl=legibus | johanniswyclift00mattgoog=lecfibus | johanniswyclift01mattgoog=leeribus | tractatusdepotes00wycl=leeribus		4	accept
 180	PLATE	latinworks19wycl=quia | johanniswyclift00mattgoog=quias | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=quis		4	accept
 230	INS?	i	2	4	plate: ∅

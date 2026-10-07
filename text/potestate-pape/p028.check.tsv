@@ -4,7 +4,7 @@ pos	rule	forms	support	voters	resolution
 2	EDGE	latinworks19wycl=attendite | tractatusdepotes00wycl=attendite		2	accept
 6	PLATE	latinworks19wycl=iniendebat | johanniswyclift00mattgoog=intendebat | johanniswyclift01mattgoog=iniendebat | tractatusdepotes00wycl=intendebat		4	accept
 10	PLATE	latinworks19wycl=erant | johanniswyclift00mattgoog=erani | johanniswyclift01mattgoog=erani | tractatusdepotes00wycl=erant		4	accept
-20	R2	latinworks19wycl=ftuuio | johanniswyclift00mattgoog=ftuuio | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fiuuio		4	accept
+20	PLATE	latinworks19wycl=ftuuio | johanniswyclift00mattgoog=ftuuio | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fiuuio		4	accept
 79	R5a	latinworks19wycl=q | johanniswyclift00mattgoog=q | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=q		4	accept
 80	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
 94	PLATE	latinworks19wycl=leuita | johanniswyclift00mattgoog=leuita | johanniswyclift01mattgoog=leuua | tractatusdepotes00wycl=leuita		4	accept

@@ -1,0 +1,73 @@
+page	pos	rule	forms	reading	note
+3	147	LEFT-odd	latinworks19wycl=	principio	25 is the line number
+4	146	LEFT-odd	latinworks19wycl=	rebelles	box sits on rebelles at line start; print = rebelles
+5	45	LEFT-odd	latinworks19wycl=	dicit	print = printed word at box
+7	96	LEFT-nw	latinworks19wycl=possit | johanniswyclift00mattgoog=ibpossit | johanniswyclift01mattgoog=tbpossit | tractatusdepotes00wycl=ibpossit	possit	italic; print = possit
+8	168	LEFT-nw	latinworks19wycl=maior | johanniswyclift00mattgoog=maiorib | johanniswyclift01mattgoog=maiorib | tractatusdepotes00wycl=maiorib	Maior	italic, capital M
+17	9	LEFT-odd	latinworks19wycl=	et	box on et at line start
+21	94	LEFT-nw	latinworks19wycl=msi | johanniswyclift00mattgoog=ntst | johanniswyclift01mattgoog=ntst | tractatusdepotes00wycl=nist	nisi	italic; print = nisi
+24	167	LEFT-odd	latinworks19wycl=	∅	box on English side-note word 'are'; nothing Latin
+28	20	LEFT-nw	latinworks19wycl=ftuuio | johanniswyclift00mattgoog=ftuuio | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fiuuio	fluvio	italic, v as printed; stop after not carried
+31	200	LEFT-nw	latinworks19wycl=augusostinus | johanniswyclift00mattgoog=augustinus | johanniswyclift01mattgoog=auguostinus | tractatusdepotes00wycl=augusostinus	Augustinus	Augu- | stinus split by line break; whole word per main-scan token; 30 is line number
+32	55	LEFT-odd	latinworks19wycl=	Sed	print = Sed
+32	102	S-split	latinworks19wycl=communicaueritcreaturequia | johanniswyclift00mattgoog=eommunieauerit | johanniswyclift01mattgoog=communicaueritcreaturequia | tractatusdepotes00wycl=communicaueritcreaturequia	communicaverit creature quia	three words; comma after creature not carried
+32	171	LEFT-odd	latinworks19wycl=	confeccione	print = confeccione
+35	40	S-split	latinworks19wycl=actendere | johanniswyclift00mattgoog=actendere | johanniswyclift01mattgoog=attendere | tractatusdepotes00wycl=actendere	attendere	one word, print = attendere
+41	195	LEFT-odd	latinworks19wycl=seqnnntnr | johanniswyclift00mattgoog=osequuntur | johanniswyclift01mattgoog=sequuniur | tractatusdepotes00wycl=osequuntur	sequuntur	italic; stop after not carried
+45	202	LEFT-odd	latinworks19wycl=iosuas | johanniswyclift00mattgoog=osuas | johanniswyclift01mattgoog=suas | tractatusdepotes00wycl=iosuas	suas	italic; 30 is line number; semicolon not carried
+46	9	LEFT-odd	latinworks19wycl=singnificans | johanniswyclift00mattgoog=sinsmcslns | johanniswyclift01mattgoog=sinffnificans | tractatusdepotes00wycl=singnificans	singnificans	ink shows -gn- spelling as in main scans; kept as printed; comma not carried
+46	17	LEFT-odd	latinworks19wycl=	tamen	box on tamen at line start; print = tamen
+47	179	LEFT-odd	latinworks19wycl=	18—	box on the dash of 18—19; print has 19 after it
+49	220	LEFT-odd	latinworks19wycl=	Quid	print = Quid
+52	20	LEFT-nw	latinworks19wycl=probabmter | johanniswyclift00mattgoog=probabmter | johanniswyclift01mattgoog=probabiliterconuinci | tractatusdepotes00wycl=probabihter	probabiliter	print = probabiliter (scan readings are OCR noise)
+55	27	LEFT-odd	latinworks19wycl=	Marcellus	box on Marcellus at line start
+55	57	LEFT-odd	latinworks19wycl=	In	italic In of 'In novo'
+65	114	LEFT-odd	latinworks19wycl=	Pauli	box on Pauli; colon not carried
+74	135	LEFT-odd	latinworks19wycl=	Jeronimi	print = Jeronimi
+77	105	LEFT-nw	latinworks19wycl=auuos | johanniswyclift00mattgoog=auuos | johanniswyclift01mattgoog=anitos | tractatusdepotes00wycl=anuos	annos	italic; print = annos
+80	75	LEFT-odd	latinworks19wycl=	cum	box on cum at line start
+80	156	LEFT-nw	latinworks19wycl=exproprietane | johanniswyclift00mattgoog=expropnetane | johanniswyclift01mattgoog=expropnetane | tractatusdepotes00wycl=exproprietarie	exproprietarie	one word; print = exproprietarie
+82	16	LEFT-odd	latinworks19wycl=	alteri	box on alteri at line start
+82	168	S-split	latinworks19wycl=exproprietarie | johanniswyclift00mattgoog=cxpropnetane | johanniswyclift01mattgoog=exproprietarie | tractatusdepotes00wycl=exproprietarie	exproprietarie	one word, no split in print
+86	150	LEFT-odd	latinworks19wycl=	∅	box covers only a speck/tick before ad; no word
+95	27	S-split	latinworks19wycl=morsed | johanniswyclift00mattgoog=mortale | johanniswyclift01mattgoog=morsed | tractatusdepotes00wycl=morsed	mor	mor- | tale at line end; hyphen not carried, other half tale on next line
+95	105	LEFT-odd	latinworks19wycl=	iurisdicione	print = iurisdicione
+97	197	LEFT-nw	latinworks19wycl=uirtute | johanniswyclift00mattgoog=souirtute | johanniswyclift01mattgoog=souirtute | tractatusdepotes00wycl=souirtute	virtute	30 is the line number
+99	143	LEFT-odd	latinworks19wycl=	et	box on et at line start
+111	98	LEFT-odd	latinworks19wycl=	apostolis	comma not carried
+111	139	LEFT-odd	latinworks19wycl=	preterquam	italic
+111	142	LEFT-odd	latinworks19wycl=	thema	italic; ana- | thema, second half
+111	147	LEFT-odd	latinworks19wycl=	∅	box on a speck between Gal: and doctrina; no word
+111	149	LEFT-odd	latinworks19wycl=	∅	box on a speck between Gal: and doctrina; no word
+114	130	LEFT-odd	latinworks19wycl=	Ubi	print = Ubi
+123	93	LEFT-nw	latinworks19wycl=fulmen | johanniswyclift00mattgoog=isfulmen | johanniswyclift01mattgoog=tifulmen | tractatusdepotes00wycl=isfulmen	fulmen	15 is the line number
+127	101	LEFT-nw	latinworks19wycl=methaphisicam | johanniswyclift00mattgoog=methaphisicam | johanniswyclift01mattgoog=metha | tractatusdepotes00wycl=methaphisicam	methaphisicam	metha- | phisicam across lines; whole word per main-scan token
+129	34	S-split	latinworks19wycl=exproprietarie | johanniswyclift00mattgoog=exproprietarie | johanniswyclift01mattgoog=expropnetane | tractatusdepotes00wycl=exproprietarie	exproprietarie	one word, no split
+142	33	S-split	latinworks19wycl=aliter | johanniswyclift00mattgoog=aliters | johanniswyclift01mattgoog=aliters | tractatusdepotes00wycl=aliters	aliter	one word; print = aliter (no s); margin figure after it is a line number
+143	9	W2	latinworks19wycl=chnstum | johanniswyclift00mattgoog=cnnstum | johanniswyclift01mattgoog=lhnstum | tractatusdepotes00wycl=chnstum	Christum	print = Christum (OCR chnstum is noise)
+143	57	LEFT-odd	latinworks19wycl=	∅	box on a folio bar, not text
+148	50	LEFT-nw	latinworks19wycl=instdbunt | johanniswyclift00mattgoog=instdbunt | johanniswyclift01mattgoog=instdbuni | tractatusdepotes00wycl=instabunt	instabunt	print = instabunt
+153	88	S-split	latinworks19wycl=dixiy | johanniswyclift00mattgoog=dixif | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=dixiy	dixi	one word, italic; comma not carried
+154	31	LEFT-odd	latinworks19wycl=	Jeronimi	print = Jeronimi
+161	130	LEFT-nw	latinworks19wycl=expropriacione | johanniswyclift00mattgoog=expropriacione | johanniswyclift01mattgoog=exiiruprtacione | tractatusdepotes00wycl=expropriacione	expropriacione	print = expropriacione
+164	96	LEFT-odd	latinworks19wycl=	fragili	box on fragili at line start
+167	163	LEFT-odd	latinworks19wycl=	deterior	italic; comma not carried
+170	117	LEFT-odd	latinworks19wycl=	clerus	box on clerus at line start
+170	158	LEFT-odd	latinworks19wycl=argentumib | johanniswyclift00mattgoog=argenlum2b | johanniswyclift01mattgoog=argehtumcum | tractatusdepotes00wycl=argentum	argentum	italic; comma not carried; 25 is the line number
+173	105	LEFT-odd	latinworks19wycl=	Christus	box on Christus at line start
+175	15	LEFT-odd	latinworks19wycl=	nimis	box on nimis at line start
+175	145	LEFT-odd	latinworks19wycl=	propinque	box on propinque at line start
+176	138	LEFT-odd	latinworks19wycl=	cum	box on cum at line start
+179	67	LEFT-odd	latinworks19wycl=	privilegium	print = privilegium
+183	17	W2	latinworks19wycl=iilii | johanniswyclift00mattgoog=fiiii | johanniswyclift01mattgoog=iilii | tractatusdepotes00wycl=iiiii	filii	italic f (long-s-like f); print = filii
+188	168	LEFT-odd	latinworks19wycl=	Johannis	print = Johannis
+189	68	LEFT-odd	latinworks19wycl=	Augustinus	print = Augustinus
+192	135	LEFT-odd	latinworks19wycl=	pericula	italic; comma not carried
+193	75	LEFT-odd	latinworks19wycl=	Dei	box on Dei at line start
+193	153	LEFT-odd	latinworks19wycl=	15—	box on the dash of 15—16; print has 16 after it
+194	175	S-split	latinworks19wycl=duosfratres | johanniswyclift00mattgoog=duosfratres | johanniswyclift01mattgoog=reges | tractatusdepotes00wycl=duosfratres	duos fratres	two words, italic, tightly spaced
+197	143	LEFT-nw	latinworks19wycl=obseruancns | johanniswyclift00mattgoog=obseruances | johanniswyclift01mattgoog=obseruanciis | tractatusdepotes00wycl=obseruancns	observanciis	print = observanciis
+200	28	LEFT-odd	latinworks19wycl=	27—	box on the dash of 27—28
+200	30	LEFT-odd	latinworks19wycl=	∅	box is the same dash as row 9.5 (27—28); legitur is two words on, not at the box
+200	221	LEFT-odd	latinworks19wycl=	∅	box on a folio bar before non; no word
+202	36	LEFT-odd	latinworks19wycl=	est	box on est at line start

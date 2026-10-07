@@ -1,5 +1,6 @@
 pos	rule	forms	support	voters	resolution
 37	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nor | tractatusdepotes00wycl=non		4	accept
+57	PLATE	latinworks19wycl=capitulum | johanniswyclift00mattgoog=capitulum | johanniswyclift01mattgoog=capitulum | tractatusdepotes00wycl=capitulum		4	accept
 91	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
 108	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
 131	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept

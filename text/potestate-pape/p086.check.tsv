@@ -3,6 +3,7 @@ pos	rule	forms	support	voters	resolution
 17	R2	latinworks19wycl=elemosine | johanniswyclift00mattgoog=elemosine | johanniswyclift01mattgoog=elemo | tractatusdepotes00wycl=elemosine		4	accept
 24	R2	latinworks19wycl=necessarior | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=necessarior | tractatusdepotes00wycl=necessarior		4	accept
 78	R3a	latinworks19wycl=caritati | johanniswyclift00mattgoog=caritati | johanniswyclift01mattgoog=cantati | tractatusdepotes00wycl=caritati		4	accept
+150	PLATE	latinworks19wycl=correspondenter | johanniswyclift00mattgoog=correspondenter | johanniswyclift01mattgoog=correspondenter | tractatusdepotes00wycl=correspondenter		4	accept
 165	PLATE	latinworks19wycl=interhec | johanniswyclift00mattgoog=interhec | tractatusdepotes00wycl=interhec		3	accept
 181	R2	latinworks19wycl=magis | johanniswyclift00mattgoog=ntagis | johanniswyclift01mattgoog=magis | tractatusdepotes00wycl=magis		4	accept
 182	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quant | johanniswyclift01mattgoog=quam | tractatusdepotes00wycl=quam		4	accept

@@ -1,0 +1,64 @@
+page	pos	rule	forms	reading	note
+209	32	LEFT-odd	latinworks19wycl=	12—	dash between numerals; print 12—14
+210	33	LEFT-nw	latinworks19wycl=autumpnales | johanniswyclift00mattgoog=antnmpnalcs | johanniswyclift01mattgoog=autumpmdes | tractatusdepotes00wycl=autumpnales	autumpnales.	print = printed
+217	90	S-split	latinworks19wycl=teronymi | johanniswyclift00mattgoog=ieronymi | johanniswyclift01mattgoog=teronynii | tractatusdepotes00wycl=teronymi	Jeronymi	one word; initial is J, not T
+220	144	LEFT-nw	latinworks19wycl=difformem | johanniswyclift00mattgoog=difformem | johanniswyclift01mattgoog=diflfomieni | tractatusdepotes00wycl=difformem	difformem	print = printed; line number 20 follows
+222	113	LEFT-odd	latinworks19wycl=	arguitur	box sits on Contra; word with junk is arguitur, line number 20 at line end; print clean
+225	196	LEFT-nw	latinworks19wycl=releuamine | johanniswyclift00mattgoog=relesouamine | johanniswyclift01mattgoog=releiouamine | tractatusdepotes00wycl=relesouamine	relevamine	hyphenated rele-|vamine; print has v
+226	29	LEFT-odd	latinworks19wycl=	rapina	box in blank gap after rapina; nothing printed there
+228	160	LEFT-odd	latinworks19wycl=	supponi	supponi + glued line number 25
+233	177	LEFT-nw	latinworks19wycl=xxip | johanniswyclift00mattgoog=xxiidistinccione | johanniswyclift01mattgoog=xxiidistinccione | tractatusdepotes00wycl=xxipdistinccione	XXIIª distinccione,	two printed words, superscript a after XXII
+234	58	LEFT-odd	latinworks19wycl=	pontificem.	glued line number 10
+238	146	LEFT-nw	latinworks19wycl=legibus | johanniswyclift00mattgoog=lecfibus | johanniswyclift01mattgoog=leeribus | tractatusdepotes00wycl=leeribus	legibus	print = printed
+240	66	LEFT-nw	latinworks19wycl=insufficientissima | johanniswyclift00mattgoog=insufficientissima | johanniswyclift01mattgoog=insuffim | tractatusdepotes00wycl=insufficientissima	insufficientissima	hyphenated insuffi-|cientissima
+241	117	LEFT-odd	latinworks19wycl=	21-	box on Matth.; token is verse number 21 followed by dash before dicit
+241	182	LEFT-odd	latinworks19wycl=	huius	box in blank gap after huius
+246	79	LEFT-odd	latinworks19wycl=insutus | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=instltutus | tractatusdepotes00wycl=∅	institutus	print = institutus
+248	110	LEFT-odd	latinworks19wycl=	istarum	print = istarum
+253	137	LEFT-nw	latinworks19wycl=soimponunt | johanniswyclift00mattgoog=iniponunt | johanniswyclift01mattgoog=aoimponunt | tractatusdepotes00wycl=soimponunt	imponunt	line number 20 glued; print = imponunt
+256	101	S-split	latinworks19wycl=preemincnti | johanniswyclift00mattgoog=preeminenii | johanniswyclift01mattgoog=preeiuincnli | tractatusdepotes00wycl=preeminenii	preeminenti	one word
+261	57	LEFT-nw	latinworks19wycl=komanus | johanniswyclift00mattgoog=romanus | johanniswyclift01mattgoog=komanus | tractatusdepotes00wycl=komanus	Romanus	capital R
+277	179	LEFT-odd	latinworks19wycl=	tam	box in blank gap after tam
+279	58	LEFT-nw	latinworks19wycl=atiriium | johanniswyclift00mattgoog=atiriium | johanniswyclift01mattgoog=allrhum | tractatusdepotes00wycl=attriium	attritum	italic; t before r and u read as t (one crossbar tall t)
+281	166	S-split	latinworks19wycl=inconiugati | johanniswyclift00mattgoog=inconiugati | johanniswyclift01mattgoog=incouingaii | tractatusdepotes00wycl=inconiugati	inconiugati	one word
+282	164	LEFT-nw	latinworks19wycl=onirf | johanniswyclift00mattgoog=onichini | johanniswyclift01mattgoog=onichiui | tractatusdepotes00wycl=onichini	onichini,	hyphenated oni-|chini, ; line number 25 follows
+283	123	LEFT-nw	latinworks19wycl=tetragramatonuirtute | johanniswyclift00mattgoog=tetragpramatonuirtute | johanniswyclift01mattgoog=o | tractatusdepotes00wycl=tetragramatonuirtute	tetragramaton, virtute	two printed words, comma between
+287	193	LEFT-nw	latinworks19wycl=longenimitatis | johanniswyclift00mattgoog=longenimitatis | johanniswyclift01mattgoog=longeo | tractatusdepotes00wycl=longenimitatis	longenimitatis	hyphenated longe-|nimitatis
+288	43	LEFT-odd	latinworks19wycl=3ei | johanniswyclift00mattgoog=gi | johanniswyclift01mattgoog=ggi | tractatusdepotes00wycl=gei	Sed	box on Sed; no gei-like token found on strip or page near pos 43; low confidence
+291	137	S-split	latinworks19wycl=quibusprimo | johanniswyclift00mattgoog=quibusprimo | johanniswyclift01mattgoog=quibus | tractatusdepotes00wycl=quibusprimo	quibus primo	two words
+295	85	LEFT-nw	latinworks19wycl=oneibribus | johanniswyclift00mattgoog=oneibribus | johanniswyclift01mattgoog=onetbribus | tractatusdepotes00wycl=oneribus	oneribus	hyphenated one-|ribus
+295	180	S-split	latinworks19wycl=solicet | johanniswyclift00mattgoog=licet | johanniswyclift01mattgoog=solicet | tractatusdepotes00wycl=bolicet	licet	line number 30 glued (read as so)
+301	31	LEFT-odd	latinworks19wycl=	Eulogio	print = Eulogio
+305	45	S-split	latinworks19wycl=fontaliter | johanniswyclift00mattgoog=fonialiier | johanniswyclift01mattgoog=fohtalher | tractatusdepotes00wycl=fontaliter	fontaliter,	one word, italic
+307	18	S-split	latinworks19wycl=lunsdicioms | johanniswyclift00mattgoog=lurisdicionis | johanniswyclift01mattgoog=iurisdicionis | tractatusdepotes00wycl=mrisdicionis	iurisdicionis	one word
+313	57	LEFT-odd	latinworks19wycl=eis | johanniswyclift00mattgoog=is | johanniswyclift01mattgoog=eis | tractatusdepotes00wycl=eis	eis,	print = printed; side-note word adjacent
+315	64	LEFT-odd	latinworks19wycl=	specialiter	box misplaced on variare; word is speci-|aliter with folio bar
+315	136	LEFT-nw	latinworks19wycl=doctrinata | johanniswyclift00mattgoog=doctrinata | johanniswyclift01mattgoog=ioclritnila | tractatusdepotes00wycl=doctrinata	doctrinata	hyphenated doctri-|nata
+316	31	W2	latinworks19wycl=heritis | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=herins | tractatusdepotes00wycl=herius	Herius	capital H, italic
+316	65	LEFT-nw	latinworks19wycl=herius | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=ilerius | tractatusdepotes00wycl=herius	Herius	capital H
+321	77	LEFT-nw	latinworks19wycl=dtcitur | johanniswyclift00mattgoog=dtcttur | johanniswyclift01mattgoog=dtcitur | tractatusdepotes00wycl=dicitur	dicitur	print = dicitur
+327	66	LEFT-nw	latinworks19wycl=tichristi | johanniswyclift00mattgoog=tichristi | johanniswyclift01mattgoog=antichristi | tractatusdepotes00wycl=tichristi	tichristi;	second half of An-|tichristi
+328	67	LEFT-nw	latinworks19wycl=gfradu | johanniswyclift00mattgoog=cfradu | johanniswyclift01mattgoog=gradu | tractatusdepotes00wycl=gfradu	gradu	print = gradu
+335	197	LEFT-nw	latinworks19wycl=soirretitus | johanniswyclift00mattgoog=irretitus | johanniswyclift01mattgoog=oirretitus | tractatusdepotes00wycl=soirretitus	irretitus	line number 30 glued
+337	154	LEFT-nw	latinworks19wycl=sophisticaciones | johanniswyclift00mattgoog=sophisticaciones | johanniswyclift01mattgoog=sophistii | tractatusdepotes00wycl=sophisticaciones	sophisticaciones	hyphenated sophisti-|caciones
+338	93	LEFT-odd	latinworks19wycl=adi | johanniswyclift00mattgoog=aduerbiorum | johanniswyclift01mattgoog=adi | tractatusdepotes00wycl=adi	ad	first half of ad-|verbiorum; 15 is line number
+338	94	LEFT-nw	latinworks19wycl=uerbiorum | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=uerbiorum | tractatusdepotes00wycl=uerbiorum	verbiorum,	second half of ad-|verbiorum
+340	132	LEFT-odd	latinworks19wycl=	per	first half of per-|cucienti; box misplaced on Domini
+340	137	LEFT-odd	latinworks19wycl=	V 39,	print has V and 39, separated by a space; box misplaced
+343	24	LEFT-odd	latinworks19wycl=	leges	specks above e in leges (print: leges)
+359	100	LEFT-nw	latinworks19wycl=ludicium | johanniswyclift00mattgoog=ludicium | johanniswyclift01mattgoog=ludicium | tractatusdepotes00wycl=ludicmm	iudicium	print = iudicium
+375	200	LEFT-odd	latinworks19wycl=	regibus	line number 30 glued
+376	71	LEFT-odd	latinworks19wycl=	ariolorum,	folio bar after comma, not text
+377	176	S-split	latinworks19wycl=legichristi | johanniswyclift00mattgoog=legichristi | johanniswyclift01mattgoog=leufi | tractatusdepotes00wycl=legichristi	legi Christi;	two words
+381	29	LEFT-nw	latinworks19wycl=coniugatis | johanniswyclift00mattgoog=coniuiratis | johanniswyclift01mattgoog=coniuiratis | tractatusdepotes00wycl=coniuaratis	coniugatis	print = coniugatis
+384	147	LEFT-odd	latinworks19wycl=	ad	small stray mark before ad; kept as ad
+385	41	LEFT-odd	latinworks19wycl=	proximam	box in blank gap after proximam
+390	108	LEFT-odd	latinworks19wycl=	novimus,	folio bar after comma, not text
+390	161	W2	latinworks19wycl=hns | johanniswyclift00mattgoog=hus | johanniswyclift01mattgoog=inis | tractatusdepotes00wycl=hiis	hiis	print = hiis
+391	68	LEFT-odd	latinworks19wycl=	germinantes,	ink has comma
+391	119	LEFT-odd	latinworks19wycl=	Gregorio	Gre-|gorio hyphenated, line number 20 glued
+393	49	W2	latinworks19wycl=atteudite | johanniswyclift00mattgoog=attendile | johanniswyclift01mattgoog=aleudife | tractatusdepotes00wycl=atteudite	Attendite	italic, print = Attendite
+393	62	LEFT-odd	latinworks19wycl=adoiunxit | johanniswyclift00mattgoog=adoinnxit | johanniswyclift01mattgoog=aduiinnxit | tractatusdepotes00wycl=adoiunxit	adiunxit:	hyphenated ad-|iunxit:
+396	24	LEFT-odd	latinworks19wycl=	gloria	print = gloria; box on vel
+399	182	LEFT-odd	latinworks19wycl=oiohanne | johanniswyclift00mattgoog=oiohanne | johanniswyclift01mattgoog=iohanne | tractatusdepotes00wycl=oiohanne	Johanne	capital J; line number 30 glued
+401	57	LEFT-odd	latinworks19wycl=	Capitulum	specks before C; line number 10 glued

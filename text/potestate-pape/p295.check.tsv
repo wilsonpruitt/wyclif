@@ -19,11 +19,11 @@ pos	rule	forms	support	voters	resolution
 75	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
 78	R4a	latinworks19wycl=sacrameutis | johanniswyclift00mattgoog=saeramentis | johanniswyclift01mattgoog=sacrameutis | tractatusdepotes00wycl=sacramentis		4	accept
 83	R3a	latinworks19wycl=liberam | johanniswyclift00mattgoog=liberam | johanniswyclift01mattgoog=liberaui | tractatusdepotes00wycl=liberam		4	accept
-85	R3a	latinworks19wycl=oneibribus | johanniswyclift00mattgoog=oneibribus | johanniswyclift01mattgoog=onetbribus | tractatusdepotes00wycl=oneribus		4	accept
+85	PLATE	latinworks19wycl=oneibribus | johanniswyclift00mattgoog=oneibribus | johanniswyclift01mattgoog=onetbribus | tractatusdepotes00wycl=oneribus		4	accept
 95	R2	latinworks19wycl=tempus | johanniswyclift00mattgoog=tempus | johanniswyclift01mattgoog=ienipus | tractatusdepotes00wycl=tempus		4	accept
 99	PLATE	latinworks19wycl=uerunt | johanniswyclift00mattgoog=ueruntt | johanniswyclift01mattgoog=uerunt | tractatusdepotes00wycl=uerunt		4	accept
 103	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non		4	accept
 106	R2	latinworks19wycl=subiciuntur | johanniswyclift00mattgoog=snbieiuntur | johanniswyclift01mattgoog=snbieiuuiur | tractatusdepotes00wycl=subiciuntur		4	accept
 107	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=pix | tractatusdepotes00wycl=ex		4	accept
 124	R3a	latinworks19wycl=legis | johanniswyclift00mattgoog=legs | johanniswyclift01mattgoog=les | tractatusdepotes00wycl=legis		4	accept
-180	R3a	latinworks19wycl=solicet | johanniswyclift00mattgoog=licet | johanniswyclift01mattgoog=solicet | tractatusdepotes00wycl=bolicet		4	accept
+180	PLATE	latinworks19wycl=solicet | johanniswyclift00mattgoog=licet | johanniswyclift01mattgoog=solicet | tractatusdepotes00wycl=bolicet		4	accept

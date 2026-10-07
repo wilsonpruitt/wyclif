@@ -17,6 +17,6 @@ pos	rule	forms	support	voters	resolution
 146	R2	latinworks19wycl=deuter | johanniswyclift00mattgoog=enter | johanniswyclift01mattgoog=deuter | tractatusdepotes00wycl=deuter		4	accept
 166	R5a	latinworks19wycl=heb | johanniswyclift00mattgoog=heb | johanniswyclift01mattgoog=heb | tractatusdepotes00wycl=heb		4	accept
 167	R5a	latinworks19wycl=uii | johanniswyclift00mattgoog=uii | johanniswyclift01mattgoog=uii | tractatusdepotes00wycl=uii		4	accept
-168	R6a	latinworks19wycl=maior | johanniswyclift00mattgoog=maiorib | johanniswyclift01mattgoog=maiorib | tractatusdepotes00wycl=maiorib		4	accept
+168	PLATE	latinworks19wycl=maior | johanniswyclift00mattgoog=maiorib | johanniswyclift01mattgoog=maiorib | tractatusdepotes00wycl=maiorib		4	accept
 200	R2	latinworks19wycl=p0pu | johanniswyclift00mattgoog=populi | johanniswyclift01mattgoog=populi | tractatusdepotes00wycl=populi		4	accept
 208	R5a	latinworks19wycl=saul | johanniswyclift00mattgoog=saul | johanniswyclift01mattgoog=saul | tractatusdepotes00wycl=saul		4	accept

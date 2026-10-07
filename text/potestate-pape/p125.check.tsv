@@ -5,7 +5,7 @@ pos	rule	forms	support	voters	resolution
 52	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
 55	R2	latinworks19wycl=accepistis | johanniswyclift00mattgoog=accepistis | johanniswyclift01mattgoog=acccpisih | tractatusdepotes00wycl=accepistis		4	accept
 64	R3a	latinworks19wycl=palliat | johanniswyclift00mattgoog=palliate | johanniswyclift01mattgoog=palliat | tractatusdepotes00wycl=palliat		4	accept
-69	R3a	latinworks19wycl=spectatin | johanniswyclift00mattgoog=spectatin | johanniswyclift01mattgoog=pectat | tractatusdepotes00wycl=spectatin		4	accept
+69	PLATE	latinworks19wycl=spectatin | johanniswyclift00mattgoog=spectatin | johanniswyclift01mattgoog=pectat | tractatusdepotes00wycl=spectatin		4	accept
 77	PLATE	latinworks19wycl=i | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=i		4	accept
 78	R2	latinworks19wycl=riec | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=nec		4	accept
 109	R3a	latinworks19wycl=earum | johanniswyclift00mattgoog=earum | johanniswyclift01mattgoog=arum | tractatusdepotes00wycl=earum		4	accept

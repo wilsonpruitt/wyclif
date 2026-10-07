@@ -53,7 +53,7 @@
 {"t": "Sed", "leaf": 93, "row": 8, "para": true, "head": false, "pos": 52}
 {"t": "tercio", "leaf": 93, "row": 8, "para": false, "head": false, "pos": 53}
 {"t": "principaliter", "leaf": 93, "row": 8, "para": false, "head": false, "pos": 54}
-{"t": "arg-uitur", "leaf": 93, "row": 8, "para": false, "head": false, "pos": 55}
+{"t": "arguitur", "leaf": 93, "row": 8, "para": false, "head": false, "pos": 55}
 {"t": "de", "leaf": 93, "row": 8, "para": false, "head": false, "pos": 56}
 {"t": "modo", "leaf": 93, "row": 8, "para": false, "head": false, "pos": 57}
 {"t": "committendi", "leaf": 93, "row": 8, "para": false, "head": false, "pos": 58}
@@ -99,7 +99,8 @@
 {"t": "Deus", "leaf": 93, "row": 15, "para": false, "head": false, "pos": 99}
 {"t": "potestatem", "leaf": 93, "row": 15, "para": false, "head": false, "pos": 100}
 {"t": "talem", "leaf": 93, "row": 16, "para": false, "head": false, "pos": 101}
-{"t": "communicaveritcreature.", "leaf": 93, "row": 16, "para": false, "head": false, "pos": 102}
+{"t": "communicaverit", "leaf": 93, "row": 16, "para": false, "head": false, "pos": 102}
+{"t": "creature", "leaf": 93, "row": 16, "para": false, "head": false, "pos": 102}
 {"t": "quia", "leaf": 93, "row": 16, "para": false, "head": false, "pos": 102}
 {"t": "oportet", "leaf": 93, "row": 16, "para": false, "head": false, "pos": 103}
 {"t": "omnino", "leaf": 93, "row": 17, "para": false, "head": false, "pos": 104}
@@ -169,8 +170,7 @@
 {"t": "facite", "leaf": 93, "row": 26, "para": false, "head": false, "pos": 168}
 {"t": "in", "leaf": 93, "row": 26, "para": false, "head": false, "pos": 169}
 {"t": "meam", "leaf": 93, "row": 26, "para": false, "head": false, "pos": 170}
-{"t": "com~", "leaf": 93, "row": 26, "para": false, "head": false, "pos": 171}
-{"t": "memoracionem,", "leaf": 93, "row": 27, "para": false, "head": false, "pos": 172}
+{"t": "commemoracionem,", "leaf": 93, "row": 26, "para": false, "head": false, "pos": 171}
 {"t": "de", "leaf": 93, "row": 27, "para": false, "head": false, "pos": 173}
 {"t": "quo", "leaf": 93, "row": 27, "para": false, "head": false, "pos": 174}
 {"t": "Luce", "leaf": 93, "row": 27, "para": false, "head": false, "pos": 175}

@@ -18,7 +18,7 @@ pos	rule	forms	support	voters	resolution
 80	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=non		4	accept
 87	R2	latinworks19wycl=dicatur | johanniswyclift00mattgoog=dicatur | johanniswyclift01mattgoog=tur | tractatusdepotes00wycl=dicatur		4	accept
 94	R2	latinworks19wycl=peccatum | johanniswyclift00mattgoog=peccatum | johanniswyclift01mattgoog=pec | tractatusdepotes00wycl=peccatum		4	accept
-101	R3a	latinworks19wycl=methaphisicam | johanniswyclift00mattgoog=methaphisicam | johanniswyclift01mattgoog=metha | tractatusdepotes00wycl=methaphisicam		4	accept
+101	PLATE	latinworks19wycl=methaphisicam | johanniswyclift00mattgoog=methaphisicam | johanniswyclift01mattgoog=metha | tractatusdepotes00wycl=methaphisicam		4	accept
 106	R2	latinworks19wycl=qua | johanniswyclift00mattgoog=qua | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=qua		4	accept
 112	R2	latinworks19wycl=respectu | johanniswyclift00mattgoog=respectu | johanniswyclift01mattgoog=ctu | tractatusdepotes00wycl=respectu		4	accept
 121	R2	latinworks19wycl=status | johanniswyclift00mattgoog=status | johanniswyclift01mattgoog=s | tractatusdepotes00wycl=status		4	accept

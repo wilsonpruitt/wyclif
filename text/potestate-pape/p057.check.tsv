@@ -1,6 +1,6 @@
 pos	rule	forms	support	voters	resolution
 0	EDGE	latinworks19wycl=non | tractatusdepotes00wycl=non		2	accept
-6	R4a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrns | tractatusdepotes00wycl=petrus		3	accept
+6	PLATE	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrns | tractatusdepotes00wycl=petrus		3	accept
 10	R3a	latinworks19wycl=antem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=aulem | tractatusdepotes00wycl=autem		4	accept
 11	R2	latinworks19wycl=erat | johanniswyclift00mattgoog=erat | johanniswyclift01mattgoog=cral | tractatusdepotes00wycl=erat		4	accept
 28	R3a	latinworks19wycl=auiem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=auum | tractatusdepotes00wycl=autem		4	accept

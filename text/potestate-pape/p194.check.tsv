@@ -15,7 +15,7 @@ pos	rule	forms	support	voters	resolution
 172	R2	latinworks19wycl=prouincie | johanniswyclift00mattgoog=prouincie | johanniswyclift01mattgoog=ciniem		3	accept
 173	PLATE	latinworks19wycl=romaautem | johanniswyclift01mattgoog=coniita		2	accept
 174	R2	latinworks19wycl=condita | johanniswyclift01mattgoog=dtiosfralres | tractatusdepotes00wycl=condita		3	accept
-175	R3a	latinworks19wycl=duosfratres | johanniswyclift00mattgoog=duosfratres | johanniswyclift01mattgoog=reges | tractatusdepotes00wycl=duosfratres		4	accept
+175	PLATE	latinworks19wycl=duosfratres | johanniswyclift00mattgoog=duosfratres | johanniswyclift01mattgoog=reges | tractatusdepotes00wycl=duosfratres		4	accept
 176	PLATE	latinworks19wycl=regessimnl | johanniswyclift00mattgoog=regessimnl | johanniswyclift01mattgoog=simul | tractatusdepotes00wycl=reges		4	accept
 178	R3a	latinworks19wycl=uou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=non		4	accept
 179	R2	latinworks19wycl=potuit | johanniswyclift00mattgoog=potnil | johanniswyclift01mattgoog=poluit | tractatusdepotes00wycl=potuit		4	accept

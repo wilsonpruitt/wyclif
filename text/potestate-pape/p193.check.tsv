@@ -1,11 +1,12 @@
 pos	rule	forms	support	voters	resolution
-38	R3a	latinworks19wycl=suntinfesti | johanniswyclift00mattgoog=suntinfesti | johanniswyclift01mattgoog=sunt | tractatusdepotes00wycl=suntinfesti		4	accept
+38	PLATE	latinworks19wycl=suntinfesti | johanniswyclift00mattgoog=suntinfesti | johanniswyclift01mattgoog=sunt | tractatusdepotes00wycl=suntinfesti		4	accept
 58	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 71	PLATE	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	accept
 77	PLATE	latinworks19wycl=allocatur | johanniswyclift00mattgoog=allocatur | johanniswyclift01mattgoog=allocatur | tractatusdepotes00wycl=allocatur		4	accept
 92	PLATE	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
 102	R3a	latinworks19wycl=dico | johanniswyclift00mattgoog=dico | johanniswyclift01mattgoog=dice | tractatusdepotes00wycl=dico		4	accept
 152	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+153	PLATE	latinworks19wycl=15 | johanniswyclift00mattgoog=15 | johanniswyclift01mattgoog=15 | tractatusdepotes00wycl=15		4	accept
 157	PLATE	latinworks19wycl=quomodo | johanniswyclift00mattgoog=modo | tractatusdepotes00wycl=quomodo		3	accept
 158	PLATE	latinworks19wycl=caute | johanniswyclift00mattgoog=cauie | tractatusdepotes00wycl=caute		3	accept
 163	DEL	latinworks19wycl=a5 | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=∅		3	accept

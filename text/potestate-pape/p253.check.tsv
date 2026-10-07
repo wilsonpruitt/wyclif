@@ -27,7 +27,7 @@ pos	rule	forms	support	voters	resolution
 38	R2	latinworks19wycl=totum | johanniswyclift00mattgoog=totttm | johanniswyclift01mattgoog=totum | tractatusdepotes00wycl=totum		4	accept
 39	PLATE	latinworks19wycl=uno | johanniswyclift00mattgoog=nuo | johanniswyclift01mattgoog=tino | tractatusdepotes00wycl=uno		4	accept
 47	R2	latinworks19wycl=fnit | johanniswyclift00mattgoog=full | johanniswyclift01mattgoog=fiiit | tractatusdepotes00wycl=fuit		4	accept
-137	R2	latinworks19wycl=soimponunt | johanniswyclift00mattgoog=iniponunt | johanniswyclift01mattgoog=aoimponunt | tractatusdepotes00wycl=soimponunt		4	accept
+137	PLATE	latinworks19wycl=soimponunt | johanniswyclift00mattgoog=iniponunt | johanniswyclift01mattgoog=aoimponunt | tractatusdepotes00wycl=soimponunt		4	accept
 207	PLATE	latinworks19wycl=x | johanniswyclift00mattgoog=x | tractatusdepotes00wycl=x		3	accept
 212	PLATE	latinworks19wycl=belzebub | johanniswyclift00mattgoog=behebub | johanniswyclift01mattgoog=betzebub | tractatusdepotes00wycl=beizehuh		4	accept
 214	R3a	latinworks19wycl=quanto | johanniswyclift00mattgoog=quanto | johanniswyclift01mattgoog=quanta | tractatusdepotes00wycl=quanto		4	accept

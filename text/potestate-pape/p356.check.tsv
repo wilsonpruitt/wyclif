@@ -6,7 +6,7 @@ pos	rule	forms	support	voters	resolution
 28	DEL	latinworks19wycl=s | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
 33	R3a	latinworks19wycl=uia | johanniswyclift00mattgoog=uia | johanniswyclift01mattgoog=ia | tractatusdepotes00wycl=uia		4	accept
 52	R3a	latinworks19wycl=igitur | johanniswyclift00mattgoog=igitur | johanniswyclift01mattgoog=itur | tractatusdepotes00wycl=igitur		4	accept
-70	R4a	latinworks19wycl=oolla | johanniswyclift00mattgoog=ooua | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=oolla		4	accept
+70	PLATE	latinworks19wycl=oolla | johanniswyclift00mattgoog=ooua | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=oolla		4	accept
 71	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=et		4	accept
 72	R2	latinworks19wycl=oolliba | johanniswyclift00mattgoog=oolliba | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=oolliba		4	accept
 123	R3a	latinworks19wycl=dum | johanniswyclift00mattgoog=dum | johanniswyclift01mattgoog=dura | tractatusdepotes00wycl=dum		4	accept

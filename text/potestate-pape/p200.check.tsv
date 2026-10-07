@@ -1,6 +1,7 @@
 pos	rule	forms	support	voters	resolution
 5	PLATE	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicui | johanniswyclift01mattgoog=sictit | tractatusdepotes00wycl=sicut		4	accept
 24	DEL	latinworks19wycl=from | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+28	PLATE	latinworks19wycl=27 | johanniswyclift00mattgoog=27 | johanniswyclift01mattgoog=27 | tractatusdepotes00wycl=27		4	accept
 39	R5a	latinworks19wycl=ephesiorum | johanniswyclift00mattgoog=ephesiorum | johanniswyclift01mattgoog=ephesiorum | tractatusdepotes00wycl=ephesiorum		4	accept
 42	R2	latinworks19wycl=n011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=noit | tractatusdepotes00wycl=non		4	accept
 47	R2	latinworks19wycl=dei | johanniswyclift00mattgoog=dei | johanniswyclift01mattgoog=dti | tractatusdepotes00wycl=dei		4	accept
@@ -21,3 +22,4 @@ pos	rule	forms	support	voters	resolution
 169	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
 196	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=ill | johanniswyclift01mattgoog=ill | tractatusdepotes00wycl=iii		4	accept
 197	R2	latinworks19wycl=2 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=2		4	accept
+221	PLATE	latinworks19wycl=bilingues | johanniswyclift00mattgoog=bilingues | tractatusdepotes00wycl=bilingues		3	accept

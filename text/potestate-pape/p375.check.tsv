@@ -16,6 +16,7 @@ pos	rule	forms	support	voters	resolution
 165	R2	latinworks19wycl=omnibus | johanniswyclift00mattgoog=omnibus | johanniswyclift01mattgoog=ommhtis | tractatusdepotes00wycl=omnibus		4	accept
 167	R2	latinworks19wycl=officinm | johanniswyclift00mattgoog=offtdum | johanniswyclift01mattgoog=ofiidnm | tractatusdepotes00wycl=officium		4	accept
 173	R2	latinworks19wycl=si | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=si		4	accept
+200	PLATE	latinworks19wycl=oregibus | johanniswyclift00mattgoog=oregibus | johanniswyclift01mattgoog=oregibus | tractatusdepotes00wycl=soregibus		4	accept
 201	PLATE	latinworks19wycl=conuenire | tractatusdepotes00wycl=conuenire		2	accept
 202	PLATE	latinworks19wycl=qualiter | tractatusdepotes00wycl=qualiter		2	accept
 216	PLATE	latinworks19wycl=iusticia | johanniswyclift00mattgoog=insticia | johanniswyclift01mattgoog=iuslida | tractatusdepotes00wycl=iusticia		4	accept

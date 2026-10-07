@@ -4,6 +4,7 @@ pos	rule	forms	support	voters	resolution
 2	EDGE	latinworks19wycl=dominice		1	accept
 89	R2	latinworks19wycl=sanctii | johanniswyclift00mattgoog=sanctitatem | johanniswyclift01mattgoog=sanctitatem | tractatusdepotes00wycl=sanctitatem		4	accept
 90	DEL	latinworks19wycl=tatem | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+98	PLATE	latinworks19wycl=apostolis | johanniswyclift00mattgoog=apostolis | johanniswyclift01mattgoog=apostolis | tractatusdepotes00wycl=apostolis		4	accept
 115	INS	similiter	3	4	accept
 124	INS	i	3	4	accept
 131	R2	latinworks19wycl=angelns | johanniswyclift00mattgoog=angelus | johanniswyclift01mattgoog=aneltis | tractatusdepotes00wycl=angehis		4	accept

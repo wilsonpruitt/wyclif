@@ -1,7 +1,8 @@
 pos	rule	forms	support	voters	resolution
 5	R2	latinworks19wycl=quis | johanniswyclift00mattgoog=qtiis | tractatusdepotes00wycl=quis		3	accept
 16	R2	latinworks19wycl=unum | johanniswyclift00mattgoog=untim | tractatusdepotes00wycl=unum		3	accept
-30	R2	latinworks19wycl=papiniauus | johanniswyclift00mattgoog=papinianus | johanniswyclift01mattgoog=papiuianns | tractatusdepotes00wycl=papiniauus		4	accept
+24	PLATE	latinworks19wycl=leges | johanniswyclift00mattgoog=leges | johanniswyclift01mattgoog=leges | tractatusdepotes00wycl=leges		4	accept
+30	PLATE	latinworks19wycl=papiniauus | johanniswyclift00mattgoog=papinianus | johanniswyclift01mattgoog=papiuianns | tractatusdepotes00wycl=papiniauus		4	accept
 41	PLATE	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
 44	R3a	latinworks19wycl=atque | johanniswyclift00mattgoog=aique | johanniswyclift01mattgoog=atque | tractatusdepotes00wycl=atque		4	accept
 45	R2	latinworks19wycl=adulterio | johanniswyclift00mattgoog=adulierio | johanniswyclift01mattgoog=adiiherio | tractatusdepotes00wycl=adulterio		4	accept

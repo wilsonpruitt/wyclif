@@ -12,6 +12,6 @@ pos	rule	forms	support	voters	resolution
 153	PLATE	latinworks19wycl=legemdei | johanniswyclift00mattgoog=legemdei | tractatusdepotes00wycl=legemdei		3	accept
 154	PLATE	latinworks19wycl=quain | johanniswyclift00mattgoog=quain | johanniswyclift01mattgoog=quain | tractatusdepotes00wycl=quain		4	accept
 159	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petruni | tractatusdepotes00wycl=petrum		4	accept
-170	R6a	latinworks19wycl=hcet | johanniswyclift00mattgoog=hcet | johanniswyclift01mattgoog=licet | tractatusdepotes00wycl=hcet		4	accept
+170	PLATE	latinworks19wycl=hcet | johanniswyclift00mattgoog=hcet | johanniswyclift01mattgoog=licet | tractatusdepotes00wycl=hcet		4	accept
 172	R3a	latinworks19wycl=corripere | johanniswyclift00mattgoog=compere | johanniswyclift01mattgoog=corripere | tractatusdepotes00wycl=corripere		4	accept
 189	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
