@@ -49,7 +49,7 @@ status: draft
 
 ## ¶6 · 66.1–66.18
 
-> [p. 66] Sed negetur illud, nisi forte vocentur leges hereses. quibus intricatur ecclesia. Nichil enim est magis hereticum quam pertinaciter defendere quod eo ipso quo electores vel maior pars eorum consenserit viva voce secundum ritus hominum in personam aliquam, eo ipso illa persona legittime est electa; oportet enim subducere subduccionem. quia stat in culpatis electoribus quod electus sit pessimus antichristus et stat illos amore vel odio eligere personam in quam Deus non consenserit, sicut stat ipsos male eligere personam cuius eleccionem passivam Deus approbat. Ideo idem hoc foret credere et electores extollere super Deum; quia ratificare per eos eleccionem quoad personam apud Deum inhabilem, quod Trinitas non potest facere. Ideo illi qui religiosius eligunt subducta revelacione solum probabili reputacione pronuncciant pro electo.
+> [p. 66] Sed negetur illud, nisi forte vocentur leges hereses, quibus intricatur ecclesia. Nichil enim est magis hereticum quam pertinaciter defendere quod eo ipso quo electores vel maior pars eorum consenserit viva voce secundum ritus hominum in personam aliquam, eo ipso illa persona legittime est electa; oportet enim subducere subduccionem, quia stat in culpatis electoribus quod electus sit pessimus antichristus et stat illos amore vel odio eligere personam in quam Deus non consenserit, sicut stat ipsos male eligere personam cuius eleccionem passivam Deus approbat. Ideo idem hoc foret credere et electores extollere super Deum; quia ratificare per eos eleccionem quoad personam apud Deum inhabilem, quod Trinitas non potest facere. Ideo illi qui religiosius eligunt subducta revelacione solum probabili reputacione pronuncciant pro electo.
 
 [ENGLISH]
 

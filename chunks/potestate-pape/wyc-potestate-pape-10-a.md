@@ -19,13 +19,13 @@ status: draft
 
 ## ¶1 · 222.20–222.28
 
-> [p. 222] Contra dicta arguitur per multa media tam raciones quam testimonia. et primo per deducens ad inconsequens probatur quod oportet papam esse dominum terre potissimum. quia aliter non sufficeret pro illo ministerio, sed subditi. eciam clerici. forent sibi inproporcionales quoad mundanam potenciam; ymo in possessione mundana vel securitate eius est occasio virtutis non vicii. et per consequens est racionabiliter appetenda.
+> [p. 222] Contra dicta arguitur per multa media tam raciones quam testimonia, et primo per deducens ad inconsequens probatur quod oportet papam esse dominum terre potissimum, quia aliter non sufficeret pro illo ministerio, sed subditi, eciam clerici, forent sibi inproporcionales quoad mundanam potenciam; ymo in possessione mundana vel securitate eius est occasio virtutis non vicii, et per consequens est racionabiliter appetenda.
 
 [ENGLISH]
 
 ## ¶2 · 222.29–223.12
 
-> [p. 222] In isto oportet ex fide credere summo medico Ihesu Christo, cuius est palatum oris mentis sanissimum. omnes autem infecti febribus, et [p. 223] cum alio genere morborum spiritualium, patimur discrasiam. Ideo sibi debemus credere, postposito nostro iudicio. Ipse autem verbis docuit et facto ac vita exposuit quod in diviciarum mundi affluencia est periculum et in earum parcitate ac remocione a seculo medicina, ideo reservavit illud regimen carioribus eius discipulis, ut patet Luce XVII et testatur Augustinus in De Ecclesiasticis Dogmatibus: Bonum est facultates cum dispensacione erogare pauperibus, sed melius est pro intencione sequendi Dominum semel donare, et absolutum sollicitudine egere cum Christo.
+> [p. 222] In isto oportet ex fide credere summo medico Ihesu Christo, cuius est palatum oris mentis sanissimum, omnes autem infecti febribus, et [p. 223] cum alio genere morborum spiritualium, patimur discrasiam. Ideo sibi debemus credere, postposito nostro iudicio. Ipse autem verbis docuit et facto ac vita exposuit quod in diviciarum mundi affluencia est periculum et in earum parcitate ac remocione a seculo medicina, ideo reservavit illud regimen carioribus eius discipulis, ut patet Luce XVII et testatur Augustinus in De Ecclesiasticis Dogmatibus: Bonum est facultates cum dispensacione erogare pauperibus, sed melius est pro intencione sequendi Dominum semel donare, et absolutum sollicitudine egere cum Christo.
 
 [ENGLISH]
 

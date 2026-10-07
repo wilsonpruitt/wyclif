@@ -25,7 +25,7 @@ But in the third principal place it is argued about the manner of committing pow
 
 ## ¶2 · 33.6–33.14
 
-> [p. 33] Sed doctor reprobat omnes istas sex opiniones per hoc quod, quando fecit eos apostolos dedit eis potestatem sui officii, que est potestas sacerdocii; nec sequitur quod primo, quando precipit eis hec facere. habuerunt huiusmodi potestatem. Nam Joh. IV, legitur quod vivente Baptista apostoli baptizarunt et sic predicarunt et multa sacerdotis officia ante mortem Christi exercuerant, cum Yudas fuit episcopus, ut dicitur Actuum primo.
+> [p. 33] Sed doctor reprobat omnes istas sex opiniones per hoc quod, quando fecit eos apostolos dedit eis potestatem sui officii, que est potestas sacerdocii; nec sequitur quod primo, quando precipit eis hec facere, habuerunt huiusmodi potestatem. Nam Joh. IV, legitur quod vivente Baptista apostoli baptizarunt et sic predicarunt et multa sacerdotis officia ante mortem Christi exercuerant, cum Yudas fuit episcopus, ut dicitur Actuum primo.
 
 But the doctor rejects all these six opinions on the ground that, when he made them apostles, he gave them the power of their office, which is the power of the priesthood; nor does [it follow]{g:sequitur} that they first had power of this kind when he commanded them to do these things. For in John 4 it is read that while the Baptist was living the apostles baptized, and so they preached and had exercised many offices of a priest before Christ's death, since Judas was a [bishop]{g:episcopus}, as is said in Acts 1.[^4]
 
@@ -37,7 +37,7 @@ On this matter it seems to me that three things are to be said. First, that this
 
 ## ¶4 · 34.7–34.11
 
-> [p. 34] Sed tercio videtur doctorem arguere ex inconveniencia quod oportuit simul et plene fieri sacerdotes. quia aliter (ut inquit) sacramentum sacerdocii foret partibile et non indivisibile ut reliqua sacramenta.
+> [p. 34] Sed tercio videtur doctorem arguere ex inconveniencia quod oportuit simul et plene fieri sacerdotes, quia aliter (ut inquit) sacramentum sacerdocii foret partibile et non indivisibile ut reliqua sacramenta.
 
 But thirdly the doctor seems to argue from an [absurdity]{g:inconveniencia} that they had to be made priests at once and fully, since otherwise (as he says) "the sacrament of priesthood would be divisible and not indivisible, like the other sacraments".[^7]
 

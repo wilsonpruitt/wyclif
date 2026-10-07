@@ -37,6 +37,12 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    readings as OVERRIDE rows → merge into `plate_decisions.tsv` → `vote.py` (stale must be 0) →
    `relatin.py SLUG` (Latin of DRAFT chunks only). Add confirmed pairs to `catalog/lexicon/ocr_artifacts.tsv`.
    Measured on *De ecclesia*: ~230 by rule, 142 on the plates, 224K tokens.
+   **Commas read as stops (from 2026-10-07):** every scan reads many of the print's commas as full stops. Loserth
+   capitalises after every stop, so `vote.py` turns `word. lower` within one line into `word, lower` (*De potestate
+   pape*: 418; plate sample 12/13). Line-end cases go to `commas_eol.tsv`: read them on the plate and write pair
+   tokenfix rows (`word. next` → `word, || next`); *De pot. pape* 111 → 84 commas, 12 stops, 2 no stop. That file
+   is rewritten by every vote run, so run the FULL vote before reading it. Earlier volumes (Dialogus, *De ecclesia*) still
+   carry the stops: a re-vote would fix their Latin. Side-note English (*may*, *is*, *has*) often sits right after one.
    One-off fixes no rule reaches and no position can carry: `text/SLUG/tokenfix.tsv` (page, printed, fixed),
    applied by the vote's writer. After any Latin change, `relatin.py SLUG --also <translated> --dry` must show 0.
    ⛔ **tokenfix repairs the OCR, never the print.** If the plate shows the "wrong" form (Loserth's misprint:

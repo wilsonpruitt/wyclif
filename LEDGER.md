@@ -1044,3 +1044,18 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | P03b-4 | potestate-pape-03-b / n8 | Augustine "Sermo IV", *ubi supra* p. 320 | editor | Loserth p. 50 n. 3; identify the sermon |
 | P03b-5 | potestate-pape-03-b / n12 | the incipit *Aspiciens Ihesus in discipulos suos* resembles a lectionary incipit | to-verify | from memory |
 | P03b-6 | potestate-pape-03-b / n12 | "VIII capitulo IV huius et XXIV cap. V libri" = *De civ. dom.* II, 62 and III, 519 | editor | Loserth p. 51 |
+| P03c-1 | potestate-pape-03-c / n13 | Ps.-Dionysius, *De div. nom.* 3 (Loserth: text has only "summa … theologorum summitas", ed. Col. 1536) | editor | to be checked |
+| P03c-2 | potestate-pape-03-c / n14 | Ps.-Dionysius, *De eccl. hier.* 5, "discipulorum summum" | editor | to be checked |
+| P03c-3 | potestate-pape-03-c / n15 | apocryphal letter of Dionysius to Timothy (Pitra, *Anal. sacra* IV) | editor | to be checked |
+| P03c-4 | potestate-pape-03-c / n16 | Decretum C.24 q.1 c.15 *Rogamus* (form ours) | editor | |
+| P03c-5 | potestate-pape-03-c / n17 | D.21 c.2 *In novo*; D.22 c.1 *Omnes*, c.2 *Sacrosancta*; C.24 q.3 c.6 *De illicita* | editor | |
+| P03c-6 | potestate-pape-03-c / n18 | Ambrosiaster, *Quaest. VNT* ch. 75 (Loserth corrects 79) | editor | to be checked |
+| P03c-7 | potestate-pape-03-c / n19 | prayer *Ad Spiritum Sanctum*, Aug. *Opp.* III App. | editor | to be checked |
+| P03d-1 | potestate-pape-03-d / n4 | Aug. *Tract. in Ioh.* 124.5 (Loserth *Opp.* IV, 1207) | editor | to be checked |
+| P03d-2 | potestate-pape-03-d / n7 | Decretum C.24 q.1 c.17 *Si Petrus* (Gregory) | editor | to be checked |
+| P03d-3 | potestate-pape-03-d / n8 | Gregory, *Hom. in Ev.* 22 (John = synagogue, Peter = gentiles) | to-verify | check |
+| P03e-1 | potestate-pape-03-e / n2 | Aug. *De verbis Domini* sermon 10 (= *Sermo* 69), *Opp.* V, 1688 | editor | to be checked |
+| P03e-2 | potestate-pape-03-e / n4 | Grosseteste, sermon on humility (eight signs); Loserth: *Trialogus* p. 166, *Serm.* II, 149 | editor | Grosseteste text to be checked |
+| P03e-3 | potestate-pape-03-e / n11 | Aug. *Tract. in Ioh.* 124.4–5, *Opp.* III, 2, 820 | editor | to be checked |
+| P03e-4 | potestate-pape-03-e / n12 | Aug. *Tract.* 124.5, "minus amat nos Christus miseros …" | editor | to be checked |
+| P03e-5 | potestate-pape-03-e / n14 | Aug. *Tract.* 124.5, "loosely quoted" | editor | to be checked |

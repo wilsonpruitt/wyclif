@@ -37,7 +37,7 @@ status: draft
 
 ## ¶4 · 330.3–330.6
 
-> [p. 330] Quod confirmatur tripliciter, primo per hoc quod quanto gradus est alcior. ideo casu supposito secundum legem datam de Lucifero est gravior.
+> [p. 330] Quod confirmatur tripliciter, primo per hoc quod quanto gradus est alcior, ideo casu supposito secundum legem datam de Lucifero est gravior.
 
 [ENGLISH]
 

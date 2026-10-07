@@ -37,13 +37,13 @@ status: draft
 
 ## ¶4 · 259.24–259.32
 
-> [p. 259] Item, non est possibile quod fidei orthodoxe sit falsitas substrata; sed sepe contingit quod Romanus pontifex non est papa, ymo posito quod sit; non est tantum necessarium ad salutem cuiuslibet christiani hoc credere. quod sine hoc non posset salvari, nam papa mortuo vel perverso non ex hoc titubat fides in quolibet christiano; et illud testarentur conversi per apostolos nostram nimirum demenciam deridendo.
+> [p. 259] Item, non est possibile quod fidei orthodoxe sit falsitas substrata; sed sepe contingit quod Romanus pontifex non est papa, ymo posito quod sit; non est tantum necessarium ad salutem cuiuslibet christiani hoc credere, quod sine hoc non posset salvari, nam papa mortuo vel perverso non ex hoc titubat fides in quolibet christiano; et illud testarentur conversi per apostolos nostram nimirum demenciam deridendo.
 
 [ENGLISH]
 
 ## ¶5 · 259.33–260.20
 
-> [p. 259] Assumptum patet ex hoc quod aliter Deus necessitaret hominem ad menciendum et per consequens ad peccandum. et unus alius ymo sic [p. 260] illusus pie crederet eius contradiccionem, sicut christianus credit implicite esse verum; et sic oportet utramque sectam Urbani et Roberti dicere quod reliqua sit heretica. quia articuli fidei non limitantur sic ad loca, ut in ista villa teneantur credi et in proxima villa discredi. Nec valent sophismata quibus putantes subtiliare referunt quod papa potest facere novos articulos fidei et per consequens facere antiquos cessare. ymo facere christianos teneri credere falsitati. quia si quelibet veritas sit articulus fidei, tunc sacramenta potest facere, novos articulos ymo musca; sed et illum articulum sollempnizatum, quod iste sit papa, potest nedum imperator facere vel electores, sed quodcumque animatum vel inanimatum fuerit ad hoc movens. Sed evidencius foret, quod quis rogando Deum et perficiens papale officium, faciat se ipsum et plus timeat quod venenum peccati quam quod venenum corporis corrumpat istum christiane fidei articulum.
+> [p. 259] Assumptum patet ex hoc quod aliter Deus necessitaret hominem ad menciendum et per consequens ad peccandum, et unus alius ymo sic [p. 260] illusus pie crederet eius contradiccionem, sicut christianus credit implicite esse verum; et sic oportet utramque sectam Urbani et Roberti dicere quod reliqua sit heretica, quia articuli fidei non limitantur sic ad loca, ut in ista villa teneantur credi et in proxima villa discredi. Nec valent sophismata quibus putantes subtiliare referunt quod papa potest facere novos articulos fidei et per consequens facere antiquos cessare, ymo facere christianos teneri credere falsitati, quia si quelibet veritas sit articulus fidei, tunc sacramenta potest facere, novos articulos ymo musca; sed et illum articulum sollempnizatum, quod iste sit papa, potest nedum imperator facere vel electores, sed quodcumque animatum vel inanimatum fuerit ad hoc movens. Sed evidencius foret, quod quis rogando Deum et perficiens papale officium, faciat se ipsum et plus timeat quod venenum peccati quam quod venenum corporis corrumpat istum christiane fidei articulum.
 
 [ENGLISH]
 

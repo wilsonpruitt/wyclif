@@ -17,6 +17,10 @@ from collections import Counter, defaultdict
 
 sys.path.insert(0, os.path.dirname(__file__))
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+# abbreviations whose stop is not a sentence end (the comma rule leaves them alone)
+STOP_ABBR = set('cap Joh Act Matth Gal Rom Cor Luc Marc Apoc Eph Heb Phil Col Thess Tim Petr Jac Gen Exod Lev Num '
+                'Deut Reg Par Esdr Ps Prov Eccl Sap Eccli Isai Jer Ezech Dan Os Mal dist Dist tit lib Sent Decret '
+                'Extrav Opp Hom tract art fol col pag sec tom Doc'.split())
 
 # ---------------------------------------------------------------- normalisation
 def norm(t):
@@ -504,6 +508,7 @@ def run(slug, first=None, last=None):
     if os.path.exists(f'{base}/wordsplits.tsv'):
         splits = {r['form']: r['split'] for r in csv.DictReader(open(f'{base}/wordsplits.tsv'), delimiter='\t')}
     queue, stats = [], Counter()
+    comma_eol = []
     hints = {w: None for w in others}
     agreed_new = set()
     for pg in range(first, last + 1):
@@ -775,6 +780,21 @@ def run(slug, first=None, last=None):
             if pair in tokenfix:                     # 'a || b' sets both tokens (keeps the second's ¶ flag)
                 fx = tokenfix[pair].split(' || ')
                 out_tokens[i]['t'], out_tokens[i + 1]['t'] = fx[0], (fx[1] if len(fx) > 1 else '')
+        # a comma read as a full stop: Loserth capitalises after every stop, so 'word. lower' inside one line is
+        # his comma (De pot. pape, 2026-10-07: 12 of 13 sampled on the plate; the 13th, a real stop, ended its
+        # line). Line-end cases are listed in commas_eol.tsv for the plate, and a read one is kept by tokenfix.
+        live = [i for i, x in enumerate(out_tokens) if x['t'] and not x.get('hl')]
+        for i, j in zip(live, live[1:]):
+            a, b = out_tokens[i], out_tokens[j]
+            m = re.fullmatch(r'([A-Za-z]{3,})\.', a['t'])
+            if not m or m.group(1) in STOP_ABBR or re.fullmatch(r'[IVXLC]+', m.group(1)) \
+                    or not re.match(r'[a-z]{2}', b['t']) or (pg, a['t']) in tokenfix:
+                continue
+            if (a.get('leaf'), a.get('line')) == (b.get('leaf'), b.get('line')) and a.get('line') is not None:
+                a['t'] = a['t'][:-1] + ','
+                stats['commas'] = stats.get('commas', 0) + 1
+            else:
+                comma_eol.append((pg, a.get('leaf'), a.get('line'), a['t'], b['t']))
         # write page
         lines, cur, cur_head = [], [], False
         prev_t = ''
@@ -862,6 +882,11 @@ def run(slug, first=None, last=None):
     print(f'{slug} pp.{prange[0]}-{prange[1]}: {stats["pages"]} pages, mean voters {stats["voters"] / max(1, stats["pages"]):.1f}, {words} pivot words')
     for r in ('R1', 'R2', 'R3a', 'R3b', 'R4a', 'R5a', 'R6a', 'EDGE', 'DEL', 'INS', 'R3', 'R4', 'R5', 'R6', 'THIN', 'INS?', 'HEAD', 'TAIL', 'GAP', 'NW'):
         print(f'  {r:5} {stats[r]:6}  {100 * stats[r] / max(1, words):5.2f}%')
+    with open(f'{base}/commas_eol.tsv', 'w') as f:
+        f.write('page\tleaf\tline\ttoken\tnext\n')
+        for r in comma_eol:
+            f.write('\t'.join(str(x) for x in r) + '\n')
+    print(f"  commas restored (word. lower, same line): {stats['commas']}; line-end cases for the plate: {len(comma_eol)} (commas_eol.tsv)")
     print(f'  plate queue: {len(queue)}  ({1000 * len(queue) / max(1, words):.1f} per 1,000 words); '
           f'plate decisions applied: {stats["PLATE"]}; stale: {len(stale)}')
     for st_ in stale:

@@ -31,7 +31,7 @@ status: draft
 
 ## ¶3 · 197.3–197.20
 
-> [p. 197] Nec valet indagare ex ritibus veteris testamenti, quia nec subest causa neque licencia; ymo quando doctores residebant Jerusalem, ut dicitur fuisse tempore Christi, tunc maxime dissipaverant legem Dei. Ideo nisi dominus dissipaverit consilium Achitophel, possent talia monstra crescere in ecclesia, in specie, in numero et in spoliacione sine fine. Unde igitur talibus monstris innominatis in scriptura potestas ad constituendum caput ecclesie. cum non sit opus hominis facere aliquod membrum ecclesie. Principem autem super eos quantumcumque indignum possunt eligere, eum papam instar sui nominare extranee, sed non possunt constituere caput ecclesie; quod si Deus elegerit et ipsi instinctu Dei in talem consenserint, possunt illum populo intimare. Sed unde talibus ultra apostolos a Deo auctoritas ad eligendum caput ecclesie?
+> [p. 197] Nec valet indagare ex ritibus veteris testamenti, quia nec subest causa neque licencia; ymo quando doctores residebant Jerusalem, ut dicitur fuisse tempore Christi, tunc maxime dissipaverant legem Dei. Ideo nisi dominus dissipaverit consilium Achitophel, possent talia monstra crescere in ecclesia, in specie, in numero et in spoliacione sine fine. Unde igitur talibus monstris innominatis in scriptura potestas ad constituendum caput ecclesie, cum non sit opus hominis facere aliquod membrum ecclesie. Principem autem super eos quantumcumque indignum possunt eligere, eum papam instar sui nominare extranee, sed non possunt constituere caput ecclesie; quod si Deus elegerit et ipsi instinctu Dei in talem consenserint, possunt illum populo intimare. Sed unde talibus ultra apostolos a Deo auctoritas ad eligendum caput ecclesie?
 
 [ENGLISH]
 
