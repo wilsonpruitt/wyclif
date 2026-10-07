@@ -49,7 +49,9 @@ notes and the transcription notes; set `status: translated`; lint; report.
 - **Headings:** keep `## ¶k · range` exactly. **Never change a range; never split a paragraph.**
   (The pilot headed its paragraphs with Loserth's alinea letters A, B, C; the scaffolds do not
   carry them, so leave the ¶ numbers.)
-- **Never alter the Latin.** A word that looks wrong: read the apparatus for that line first; then,
+- **Never alter the Latin.** OCR scars you find (a stray mark, an English side-note word, a broken word) are
+  REPORTED, never repaired in your file: the coordinator repairs the established text (`text/potestate-pape/
+  tokenfix.tsv`) and refreshes the chunk's Latin. A Latin block you receive may already carry such repairs. A word that looks wrong: read the apparatus for that line first; then,
   if still doubtful, the plate (`text/potestate-pape/raw/leaves/nLEAF.jpg`, LEAF = page + 61 padded to four digits: p. 1 = `n0062.jpg`;
   ⚠ **p. 266** is faded blank in that scan: use `https://archive.org/download/tractatusdepotes00wycl/page/n327.jpg`). A variant
   that gives the sense → translate it + **T** note citing the siglum; a compelling emendation →
@@ -64,7 +66,11 @@ notes and the transcription notes; set `status: translated`; lint; report.
   carries Loserth's **italic runs** per page (from the scan's OCR; a side-note can split one run in two,
   and an apparatus phrase occasionally slips in). They are the editor's judgement of where a quotation
   runs, not the manuscript's: follow them by default, depart where the source shows otherwise (say so in
-  a note). Reviews do not check quotation bounds against the italics.
+  a note). Reviews do not check quotation bounds against the italics. Italicised scripture inside
+  indirect speech is quoted too (the italic words in quotation marks, the English syntax around them); where
+  quoting would garble the sentence, leave it unquoted and give the reference in an **S** note.
+- **Ordinals:** a degree-sign ordinal can print or OCR like a two-digit number (*30 et 10* = 3° and 1°, *Pot.
+  pape* 3.28). Read both forms the same way, and check the plate when a citation looks impossible.
 - **Formulae of the disputation** (GLOSSARY §C, ruled 2026-10-01), rendered the same way throughout: *instatur* "it is objected" ·
   *obicitur* "it is objected" · *arguitur* "it is argued" (with *per*: GLOSSARY) · *dicitur* "it is
   said" (in an answer: "the answer is") · *respondetur* "the reply is" · *conclusio* "conclusion" ·
@@ -85,9 +91,13 @@ notes and the transcription notes; set `status: translated`; lint; report.
    wayfarer · *ex fide* as faith teaches · *sentencia* teaching (the rest: GLOSSARY).
    ⚠ **This volume's own term is *potestas*** and its kin (*potencia*, *auctoritas*, *iurisdiccio*,
    *primatus*, *dotacio*, *papa cesareus*): check GLOSSARY for each; where it has no row, render
-   consistently within your brief and PROPOSE the row (the coordinator rules between briefs). Keep
-   *potestas* "power" and *potencia* distinct in the English wherever Wyclif distinguishes them (ch. 1
-   sets them side by side).
+   consistently within your brief and PROPOSE the row (the coordinator rules between briefs).
+   **Ruled (Wilson, 2026-10-07):** *potestas* is always "power". *potencia* is CONTEXTUAL: "potency" inside
+   Aristotle's analysis of *dynamis* (active / passive potency, rational potency, the potency terminated),
+   "power" elsewhere (God's power, free choice, ordinary might); *potencia absoluta* stays "absolute power".
+   Wyclif uses the two words interchangeably (*potestas vel potencia* 4.7, *potestatem sive potenciam* 4.11):
+   render such a pair "power or potency" and write a **C** note at the first one in your chunk. Never write a
+   note or headnote that claims the two words differ in sense; ch. 1 shows they do not.
 2. **Connectives carry the argument.** ⛔ Never omit one, never turn one into filler.
 
    | Latin | English | Never |
@@ -100,11 +110,14 @@ notes and the transcription notes; set `status: translated`; lint; report.
    | cum (concessive / causal) | although / since | "whenever" |
    | tamen | yet, nevertheless | "therefore" |
    | item | again, also | "now" |
+   | vero (continuative) | and; but (adversative) | "now", "truly" |
+   | verumtamen | nevertheless | "but truly" |
+   | unde | hence, so | "whence" (archaic), "where" |
    | per idem | by the same token | "in the same way" |
    | ymmo | indeed, rather (correcting upward) | (omitted) |
    | patet; constat | it is clear; it is evident | |
 
-   "Now" is reserved for the minor premiss, or the step that brings a new premiss to bear (*Illos
+   *nunc … aliquando* ("at one time … at another") is never "now". "Now" is reserved for the minor premiss, or the step that brings a new premiss to bear (*Illos
    autem parentes debemus …*, 1.17). An *autem* that only extends the same step is "and" (*Illis autem
    cultis …*, 1.19). ⚠ The commonest error in *De ecclesia* (close-out, ~50 of 69 connective fixes): a
    *sed* that brings the minor premiss of a syllogism closed by *ergo / ideo / igitur* rendered "but".
@@ -144,8 +157,9 @@ are Wyclif's, the verse numbers Loserth's (the headnote says so once).
 ## Model of register
 
 `pilots/wyc-ecclesia-01a.md` (De ecclesia pp. 1–5) is a reviewed model of register and note style:
-read it for that only (it predates some GLOSSARY rulings; **GLOSSARY governs**). **Chunk 01-a** fills
-`## Headnote` (work, date, editor, sigla, the compendium), marking each unverified claim `[verify]`.
+read it for that only (it predates some GLOSSARY rulings; **GLOSSARY governs**). **Chunk 01-a** carries
+the `## Headnote` (CONVENTIONS §12 order: occasion, text, the work's move, where it is answered; date, editor,
+sigla, the compendium), each unverified claim marked `[verify]`.
 
 ## Side-notes
 
