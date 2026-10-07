@@ -69,9 +69,15 @@ def main(slug):
         for r in csv.DictReader(f, delimiter='\t', quoting=csv.QUOTE_NONE):
             plate.add((int(r['page']), int(r['pos'])))
     side = collections.defaultdict(set)              # page -> words of its side-notes
-    with open(f'{base}/sidenotes.fixed.tsv') as f:
-        for r in csv.DictReader(f, delimiter='\t', quoting=csv.QUOTE_NONE):
-            side[int(r['page'])].update(w.lower() for w in re.findall(r'[A-Za-z]+', r['text']))
+    if os.path.exists(f'{base}/sidenotes.fixed.tsv'):
+        with open(f'{base}/sidenotes.fixed.tsv') as f:
+            for r in csv.DictReader(f, delimiter='\t', quoting=csv.QUOTE_NONE):
+                side[int(r['page'])].update(w.lower() for w in re.findall(r'[A-Za-z]+', r['text']))
+    else:                                            # before stage 5: the raw side-note OCR, keyed by leaf (2026-10-07)
+        off = int({r['slug']: r for r in csv.DictReader(open(f'{ROOT}/catalog/plate_offsets.tsv'), delimiter='\t')}[slug]['offset'])
+        with open(f'{ROOT}/sidenotes/{slug}.tsv') as f:
+            for r in csv.DictReader(f, delimiter='\t', quoting=csv.QUOTE_NONE):
+                side[int(r['leaf']) - off].update(w.lower() for w in re.findall(r'[A-Za-z]+', r['text']))
     pages = {}
     last = LAST.get(slug, 10 ** 4)
     for p in sorted(glob.glob(f'{base}/p[0-9][0-9][0-9].tok.jsonl')):
@@ -190,7 +196,7 @@ def main(slug):
 
 
 SHORT = {'et', 'ex', 'in', 'ad', 'ab', 'de', 'si', 'ut', 'ne', 'ob', 'ac', 'nec', 'sed', 'non', 'est', 'per', 'cum', 'pro', 'sub', 'hoc', 'id'}
-LAST = {'ecclesia': 587}                       # pp. 589-600 are the index (M5-RESUME)
+LAST = {'ecclesia': 587, 'potestate-pape': 406}                       # pp. 589-600 are the index (M5-RESUME)
 L_EN = set()
 _p = f'{ROOT}/catalog/lexicon/english_extra.txt'
 if os.path.exists(_p):

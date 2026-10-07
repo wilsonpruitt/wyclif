@@ -12,21 +12,23 @@ the plate are left alone. A row is applied by the vote only if its `forms` match
 which come from pNNN.check.tsv; a position with no check row (a unanimous real word) cannot take a decision
 and is listed as `nosig` for the coordinator.
 """
-import csv, json, os, re, sys
+import csv, glob, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 from vote import norm  # noqa: E402
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
-FULL = ['iohanniswycliftr00wycluoft', 'tractatusdeeccle00wycl']      # the full independent scans
-PIVOT = 'latinworks10wycl'
+# the full independent scans = every other scan with a completeness report (complete.py); the pivot from
+# catalog/plate_offsets.tsv (per volume since 2026-10-07; De ecclesia's were hard-coded here)
 RULE_OK = {'S-glyph', 'S-pct', 'S-num', 'S-deg', 'S-quote', 'S-amp', 'S-dot', 'S-caps', 'S-alinea', 'S-eng',
            'S-J', 'S-edge', 'W1'}
 
 
 def main(slug):
     base = f'{ROOT}/text/{slug}'
-    off = int({r['slug']: r for r in csv.DictReader(open(f'{ROOT}/catalog/plate_offsets.tsv'), delimiter='\t', quoting=csv.QUOTE_NONE)}[slug]['offset'])
+    offrow = {r['slug']: r for r in csv.DictReader(open(f'{ROOT}/catalog/plate_offsets.tsv'), delimiter='\t', quoting=csv.QUOTE_NONE)}[slug]
+    off, PIVOT = int(offrow['offset']), offrow['item']
+    FULL = sorted(os.path.basename(p)[len('complete.'):-len('.tsv')] for p in glob.glob(f'{base}/complete.*.tsv'))
     rows = list(csv.DictReader(open(f'{base}/scars.tsv'), delimiter='\t', quoting=csv.QUOTE_NONE))
     sigs = {}
     for r in rows:

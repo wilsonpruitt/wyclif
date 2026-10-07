@@ -1,0 +1,136 @@
+page	pos	rule	forms	leaf	box	printed	proposed
+3	147	LEFT-odd	latinworks19wycl=	64	286,2702,696,2764	2Dprmcipio	
+4	146	LEFT-odd	latinworks19wycl=	65	674,2616,979,2666	sen-sibilem	
+5	45	LEFT-odd	latinworks19wycl=	66	372,1084,569,1134	po~	
+7	96	LEFT-nw	latinworks19wycl=possit | johanniswyclift00mattgoog=ibpossit | johanniswyclift01mattgoog=tbpossit | tractatusdepotes00wycl=ibpossit	68	354,1834,575,1900	ibpossit	
+8	168	LEFT-nw	latinworks19wycl=maior | johanniswyclift00mattgoog=maiorib | johanniswyclift01mattgoog=maiorib | tractatusdepotes00wycl=maiorib	69	2122,2680,2319,2731	Maiorib	
+17	9	LEFT-odd	latinworks19wycl=	78	278,741,392,781	restring-i,	
+21	94	LEFT-nw	latinworks19wycl=msi | johanniswyclift00mattgoog=ntst | johanniswyclift01mattgoog=ntst | tractatusdepotes00wycl=nist	82	1867,1883,1980,1918	ntst	
+24	167	LEFT-odd	latinworks19wycl=	85	624,2758,818,2806	arg-uitur	
+28	20	LEFT-nw	latinworks19wycl=ftuuio | johanniswyclift00mattgoog=ftuuio | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fiuuio	89	2206,756,2409,822	ftuvio.	
+31	200	LEFT-nw	latinworks19wycl=augusostinus | johanniswyclift00mattgoog=augustinus | johanniswyclift01mattgoog=auguostinus | tractatusdepotes00wycl=augusostinus	92	1791,3057,2083,3131	AuguSostinus	
+32	55	LEFT-odd	latinworks19wycl=	93	814,1301,965,1355	arg-uitur	
+32	102	S-split	latinworks19wycl=communicaueritcreaturequia | johanniswyclift00mattgoog=eommunieauerit | johanniswyclift01mattgoog=communicaueritcreaturequia | tractatusdepotes00wycl=communicaueritcreaturequia	93	1174,2009,2163,2076	communicaveritcreature.	communicaverit creature.
+32	171	LEFT-odd	latinworks19wycl=	93	745,2888,1175,2939	com~	
+35	40	S-split	latinworks19wycl=actendere | johanniswyclift00mattgoog=actendere | johanniswyclift01mattgoog=attendere | tractatusdepotes00wycl=actendere	96	1053,1154,1432,1201	actendere	ac tendere
+41	195	LEFT-odd	latinworks19wycl=seqnnntnr | johanniswyclift00mattgoog=osequuntur | johanniswyclift01mattgoog=sequuniur | tractatusdepotes00wycl=osequuntur	102	333,3186,714,3252	-osequuntur.	
+45	202	LEFT-odd	latinworks19wycl=iosuas | johanniswyclift00mattgoog=osuas | johanniswyclift01mattgoog=suas | tractatusdepotes00wycl=iosuas	106	306,3148,582,3209	'iosuas;	
+46	9	LEFT-odd	latinworks19wycl=singnificans | johanniswyclift00mattgoog=sinsmcslns | johanniswyclift01mattgoog=sinffnificans | tractatusdepotes00wycl=singnificans	107	1129,653,1554,714	sing-nificans,	
+46	17	LEFT-odd	latinworks19wycl=	107	716,748,940,791	fervore••	
+47	179	LEFT-odd	latinworks19wycl=	108	622,3013,687,3017	18—	
+49	220	LEFT-odd	latinworks19wycl=	110	390,3320,601,3373	intellig-i,	
+52	20	LEFT-nw	latinworks19wycl=probabmter | johanniswyclift00mattgoog=probabmter | johanniswyclift01mattgoog=probabiliterconuinci | tractatusdepotes00wycl=probabihter	113	1456,876,1867,938	probabmter	
+55	27	LEFT-odd	latinworks19wycl=	116	359,871,704,922	fratres,///	
+55	57	LEFT-odd	latinworks19wycl=	116	1467,1225,1566,1275	capitulo.///	
+65	114	LEFT-odd	latinworks19wycl=	126	362,2025,615,2077	adi-piscendi	
+74	135	LEFT-odd	latinworks19wycl=	135	1035,2238,1373,2304	Olim;™	
+77	105	LEFT-nw	latinworks19wycl=auuos | johanniswyclift00mattgoog=auuos | johanniswyclift01mattgoog=anitos | tractatusdepotes00wycl=anuos	138	1071,1955,1317,2006	auuos	
+80	75	LEFT-odd	latinworks19wycl=	141	765,1637,917,1699	ip-sum	
+80	156	LEFT-nw	latinworks19wycl=exproprietane | johanniswyclift00mattgoog=expropnetane | johanniswyclift01mattgoog=expropnetane | tractatusdepotes00wycl=exproprietarie	141	1066,3178,1590,3237	expropnetane	
+82	16	LEFT-odd	latinworks19wycl=	143	782,772,990,820	leg-is	
+82	168	S-split	latinworks19wycl=exproprietarie | johanniswyclift00mattgoog=cxpropnetane | johanniswyclift01mattgoog=exproprietarie | tractatusdepotes00wycl=exproprietarie	143	1096,2882,1613,2949	exproprietarie	ex proprietarie
+86	150	LEFT-odd	latinworks19wycl=	147	1581,2693,1627,2742	correspondenter'	
+95	27	S-split	latinworks19wycl=morsed | johanniswyclift00mattgoog=mortale | johanniswyclift01mattgoog=morsed | tractatusdepotes00wycl=morsed	156	1855,869,2016,903	morSed	morS ed
+95	105	LEFT-odd	latinworks19wycl=	156	353,1992,784,2044	ig-itur	
+97	197	LEFT-nw	latinworks19wycl=uirtute | johanniswyclift00mattgoog=souirtute | johanniswyclift01mattgoog=souirtute | tractatusdepotes00wycl=souirtute	158	258,3160,611,3218	Sovirtute	
+99	143	LEFT-odd	latinworks19wycl=	160	360,2383,474,2426	-convertendum	
+111	98	LEFT-odd	latinworks19wycl=	172	355,1957,685,2023	apostolis/	
+111	139	LEFT-odd	latinworks19wycl=	172	564,2488,1008,2552	ana~	
+111	142	LEFT-odd	latinworks19wycl=	172	352,2573,565,2624	do.autem	
+111	147	LEFT-odd	latinworks19wycl=	172	681,2662,709,2712	Gal:~	
+111	149	LEFT-odd	latinworks19wycl=	172	681,2662,709,2712	:Apostoli	
+114	130	LEFT-odd	latinworks19wycl=	175	727,2204,887,2256	-sentencia	
+123	93	LEFT-nw	latinworks19wycl=fulmen | johanniswyclift00mattgoog=isfulmen | johanniswyclift01mattgoog=tifulmen | tractatusdepotes00wycl=isfulmen	184	373,1857,639,1909	isfulmen	
+127	101	LEFT-nw	latinworks19wycl=methaphisicam | johanniswyclift00mattgoog=methaphisicam | johanniswyclift01mattgoog=metha | tractatusdepotes00wycl=methaphisicam	188	1798,1823,2012,1872	methaphisicam	
+129	34	S-split	latinworks19wycl=exproprietarie | johanniswyclift00mattgoog=exproprietarie | johanniswyclift01mattgoog=expropnetane | tractatusdepotes00wycl=exproprietarie	190	1532,1025,2029,1092	exproprietarie	ex proprietarie
+142	33	S-split	latinworks19wycl=aliter | johanniswyclift00mattgoog=aliters | johanniswyclift01mattgoog=aliters | tractatusdepotes00wycl=aliters	203	2221,896,2408,947	aliters	ali ters
+143	9	W2	latinworks19wycl=chnstum | johanniswyclift00mattgoog=cnnstum | johanniswyclift01mattgoog=lhnstum | tractatusdepotes00wycl=chnstum	204	1783,682,2184,731	Chnstum	Christum
+143	57	LEFT-odd	latinworks19wycl=	204	994,1295,1035,1366	3—	
+148	50	LEFT-nw	latinworks19wycl=instdbunt | johanniswyclift00mattgoog=instdbunt | johanniswyclift01mattgoog=instdbuni | tractatusdepotes00wycl=instabunt	209	1250,1174,1604,1225	instdbunt	
+153	88	S-split	latinworks19wycl=dixiy | johanniswyclift00mattgoog=dixif | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=dixiy	214	521,1692,696,1755	dixiy	dix iy
+154	31	LEFT-odd	latinworks19wycl=	215	874,925,1202,990	in$	
+161	130	LEFT-nw	latinworks19wycl=expropriacione | johanniswyclift00mattgoog=expropriacione | johanniswyclift01mattgoog=exiiruprtacione | tractatusdepotes00wycl=expropriacione	222	1086,2378,1641,2445	expropriacione	
+164	96	LEFT-odd	latinworks19wycl=	225	756,1832,976,1900	iniung-it	
+167	163	LEFT-odd	latinworks19wycl=	228	600,2800,918,2866	ig-itur	
+170	117	LEFT-odd	latinworks19wycl=	231	708,2143,944,2192	dominii,^	
+170	158	LEFT-odd	latinworks19wycl=argentumib | johanniswyclift00mattgoog=argenlum2b | johanniswyclift01mattgoog=argehtumcum | tractatusdepotes00wycl=argentum	231	2044,2673,2437,2735	argentum,^	
+173	105	LEFT-odd	latinworks19wycl=	234	432,1934,716,1987	patetMar.XIII,	
+175	15	LEFT-odd	latinworks19wycl=	236	350,796,562,846	elong-atur	
+175	145	LEFT-odd	latinworks19wycl=	236	345,2377,709,2444	vestigia;•	
+176	138	LEFT-odd	latinworks19wycl=	237	753,2429,909,2479	summi-tatem	
+179	67	LEFT-odd	latinworks19wycl=	240	611,1510,1044,1570	donare,^	
+183	17	W2	latinworks19wycl=iilii | johanniswyclift00mattgoog=fiiii | johanniswyclift01mattgoog=iilii | tractatusdepotes00wycl=iiiii	244	1510,775,1675,841	Jilii	Filii
+188	168	LEFT-odd	latinworks19wycl=	249	709,2670,1035,2734	vobis,^	
+189	68	LEFT-odd	latinworks19wycl=	250	399,1493,852,1554	Aug-ustinus	
+192	135	LEFT-odd	latinworks19wycl=	253	692,2242,1032,2308	quiescere,™	
+193	75	LEFT-odd	latinworks19wycl=	254	341,1560,513,1611	prog-reditur	
+193	153	LEFT-odd	latinworks19wycl=	254	770,2564,839,2568	15—	
+194	175	S-split	latinworks19wycl=duosfratres | johanniswyclift00mattgoog=duosfratres | johanniswyclift01mattgoog=reges | tractatusdepotes00wycl=duosfratres	255	1665,3093,2069,3159	duosfratres	duos fratres
+197	143	LEFT-nw	latinworks19wycl=obseruancns | johanniswyclift00mattgoog=obseruances | johanniswyclift01mattgoog=obseruanciis | tractatusdepotes00wycl=obseruancns	258	1617,2478,2053,2527	observancns	
+200	28	LEFT-odd	latinworks19wycl=	261	1427,929,1501,973	27—	
+200	30	LEFT-odd	latinworks19wycl=	261	1427,929,1501,973	leg-itur,	
+200	221	LEFT-odd	latinworks19wycl=	261	2017,3483,2057,3552	bilingues,\	
+202	36	LEFT-odd	latinworks19wycl=	263	755,1005,886,1049	ig-itur	
+209	32	LEFT-odd	latinworks19wycl=	270	1636,1012,1699,1016	12—	
+210	33	LEFT-nw	latinworks19wycl=autumpnales | johanniswyclift00mattgoog=antnmpnalcs | johanniswyclift01mattgoog=autumpmdes | tractatusdepotes00wycl=autumpnales	271	750,1093,1225,1160	autumpnales.	
+217	90	S-split	latinworks19wycl=teronymi | johanniswyclift00mattgoog=ieronymi | johanniswyclift01mattgoog=teronynii | tractatusdepotes00wycl=teronymi	278	1683,1753,2006,1812	Teronymi	Tero nymi
+220	144	LEFT-nw	latinworks19wycl=difformem | johanniswyclift00mattgoog=difformem | johanniswyclift01mattgoog=diflfomieni | tractatusdepotes00wycl=difformem	281	2084,2240,2438,2291	difformem	
+222	113	LEFT-odd	latinworks19wycl=	283	843,2472,1119,2524	arg^uitur	
+225	196	LEFT-nw	latinworks19wycl=releuamine | johanniswyclift00mattgoog=relesouamine | johanniswyclift01mattgoog=releiouamine | tractatusdepotes00wycl=relesouamine	286	1812,3100,1961,3148	releSovamine	
+226	29	LEFT-odd	latinworks19wycl=	287	1269,890,1297,959	rapina[	
+228	160	LEFT-odd	latinworks19wycl=	289	779,2644,891,2697	supponi^S	
+233	177	LEFT-nw	latinworks19wycl=xxip | johanniswyclift00mattgoog=xxiidistinccione | johanniswyclift01mattgoog=xxiidistinccione | tractatusdepotes00wycl=xxipdistinccione	294	740,2890,973,2941	XXIIdistinccione,	
+234	58	LEFT-odd	latinworks19wycl=	295	678,1341,2362,1408	pontificem.^	
+238	146	LEFT-nw	latinworks19wycl=legibus | johanniswyclift00mattgoog=lecfibus | johanniswyclift01mattgoog=leeribus | tractatusdepotes00wycl=leeribus	299	817,2280,1089,2344	leeribus	
+240	66	LEFT-nw	latinworks19wycl=insufficientissima | johanniswyclift00mattgoog=insufficientissima | johanniswyclift01mattgoog=insuffim | tractatusdepotes00wycl=insufficientissima	301	2127,1323,2344,1373	insufficientissima	
+241	117	LEFT-odd	latinworks19wycl=	302	393,2264,640,2317	21-	
+241	182	LEFT-odd	latinworks19wycl=	302	1305,3151,1347,3217	huius[	
+246	79	LEFT-odd	latinworks19wycl=insutus | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=instltutus | tractatusdepotes00wycl=∅	307	824,1501,1174,1553	ins^utus	
+248	110	LEFT-odd	latinworks19wycl=	309	814,1931,1077,1983	istarum°	
+253	137	LEFT-nw	latinworks19wycl=soimponunt | johanniswyclift00mattgoog=iniponunt | johanniswyclift01mattgoog=aoimponunt | tractatusdepotes00wycl=soimponunt	314	270,2280,685,2348	soimponunt	
+256	101	S-split	latinworks19wycl=preemincnti | johanniswyclift00mattgoog=preeminenii | johanniswyclift01mattgoog=preeiuincnli | tractatusdepotes00wycl=preeminenii	317	1482,1836,1906,1901	preeminenii	preemine nii
+261	57	LEFT-nw	latinworks19wycl=komanus | johanniswyclift00mattgoog=romanus | johanniswyclift01mattgoog=komanus | tractatusdepotes00wycl=komanus	322	1574,1400,1959,1445	Komanus	
+277	179	LEFT-odd	latinworks19wycl=	338	1140,3190,1181,3259	tam[	
+279	58	LEFT-nw	latinworks19wycl=atiriium | johanniswyclift00mattgoog=atiriium | johanniswyclift01mattgoog=allrhum | tractatusdepotes00wycl=attriium	340	1577,1318,1878,1368	atiriium	
+281	166	S-split	latinworks19wycl=inconiugati | johanniswyclift00mattgoog=inconiugati | johanniswyclift01mattgoog=incouingaii | tractatusdepotes00wycl=inconiugati	342	1297,2905,1701,2971	inconiugati	in coniugati
+282	164	LEFT-nw	latinworks19wycl=onirf | johanniswyclift00mattgoog=onichini | johanniswyclift01mattgoog=onichiui | tractatusdepotes00wycl=onichini	343	2298,2687,2493,2738	onichini,	
+283	123	LEFT-nw	latinworks19wycl=tetragramatonuirtute | johanniswyclift00mattgoog=tetragpramatonuirtute | johanniswyclift01mattgoog=o | tractatusdepotes00wycl=tetragramatonuirtute	344	441,2292,1174,2359	tetragramaton,	
+287	193	LEFT-nw	latinworks19wycl=longenimitatis | johanniswyclift00mattgoog=longenimitatis | johanniswyclift01mattgoog=longeo | tractatusdepotes00wycl=longenimitatis	348	1773,3038,1977,3103	longenimitatis	
+288	43	LEFT-odd	latinworks19wycl=3ei | johanniswyclift00mattgoog=gi | johanniswyclift01mattgoog=ggi | tractatusdepotes00wycl=gei	349	824,1160,1012,1214	ge(j	
+291	137	S-split	latinworks19wycl=quibusprimo | johanniswyclift00mattgoog=quibusprimo | johanniswyclift01mattgoog=quibus | tractatusdepotes00wycl=quibusprimo	352	1643,2564,2171,2626	quibusprimo	quibus primo
+295	85	LEFT-nw	latinworks19wycl=oneibribus | johanniswyclift00mattgoog=oneibribus | johanniswyclift01mattgoog=onetbribus | tractatusdepotes00wycl=oneribus	356	1941,1766,2073,1802	oneibribus	
+295	180	S-split	latinworks19wycl=solicet | johanniswyclift00mattgoog=licet | johanniswyclift01mattgoog=solicet | tractatusdepotes00wycl=bolicet	356	329,3168,578,3220	Solicet	Sol icet
+301	31	LEFT-odd	latinworks19wycl=	362	600,1038,903,1096	Eulog-io	
+305	45	S-split	latinworks19wycl=fontaliter | johanniswyclift00mattgoog=fonialiier | johanniswyclift01mattgoog=fohtalher | tractatusdepotes00wycl=fontaliter	366	366,1340,779,1408	fontaliter,	fontali ter,
+307	18	S-split	latinworks19wycl=lunsdicioms | johanniswyclift00mattgoog=lurisdicionis | johanniswyclift01mattgoog=iurisdicionis | tractatusdepotes00wycl=mrisdicionis	368	1451,802,1899,848	iurisdicionis	iuris dicionis
+313	57	LEFT-odd	latinworks19wycl=eis | johanniswyclift00mattgoog=is | johanniswyclift01mattgoog=eis | tractatusdepotes00wycl=eis	374	1913,1307,2140,1387	eis/^	
+315	64	LEFT-odd	latinworks19wycl=	376	291,1417,678,1479	specialiter[	
+315	136	LEFT-nw	latinworks19wycl=doctrinata | johanniswyclift00mattgoog=doctrinata | johanniswyclift01mattgoog=ioclritnila | tractatusdepotes00wycl=doctrinata	376	1808,2389,2022,2440	doctrinata	
+316	31	W2	latinworks19wycl=heritis | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=herins | tractatusdepotes00wycl=herius	377	1447,1024,1706,1075	Herius	Serius
+316	65	LEFT-nw	latinworks19wycl=herius | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=ilerius | tractatusdepotes00wycl=herius	377	1070,1465,1319,1516	Herius	
+321	77	LEFT-nw	latinworks19wycl=dtcitur | johanniswyclift00mattgoog=dtcttur | johanniswyclift01mattgoog=dtcitur | tractatusdepotes00wycl=dicitur	382	1570,1551,1835,1602	dtcitur	
+327	66	LEFT-nw	latinworks19wycl=tichristi | johanniswyclift00mattgoog=tichristi | johanniswyclift01mattgoog=antichristi | tractatusdepotes00wycl=tichristi	388	351,1483,666,1547	tichristi;	
+328	67	LEFT-nw	latinworks19wycl=gfradu | johanniswyclift00mattgoog=cfradu | johanniswyclift01mattgoog=gradu | tractatusdepotes00wycl=gfradu	389	776,1522,1004,1580	gfradu	
+335	197	LEFT-nw	latinworks19wycl=soirretitus | johanniswyclift00mattgoog=irretitus | johanniswyclift01mattgoog=oirretitus | tractatusdepotes00wycl=soirretitus	396	252,3156,625,3209	Soirretitus	
+337	154	LEFT-nw	latinworks19wycl=sophisticaciones | johanniswyclift00mattgoog=sophisticaciones | johanniswyclift01mattgoog=sophistii | tractatusdepotes00wycl=sophisticaciones	398	1745,2614,2018,2682	sophisticaciones	
+338	93	LEFT-odd	latinworks19wycl=adi | johanniswyclift00mattgoog=aduerbiorum | johanniswyclift01mattgoog=adi | tractatusdepotes00wycl=adi	399	2351,1785,2518,1836	ad-i	
+338	94	LEFT-nw	latinworks19wycl=uerbiorum | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=uerbiorum | tractatusdepotes00wycl=uerbiorum	399	783,1873,1165,1938	verbiorum,	
+340	132	LEFT-odd	latinworks19wycl=	401	783,2132,1065,2185	per~	
+340	137	LEFT-odd	latinworks19wycl=	401	783,2223,1045,2274	V39,	
+343	24	LEFT-odd	latinworks19wycl=	404	340,885,524,954	lege^s	
+359	100	LEFT-nw	latinworks19wycl=ludicium | johanniswyclift00mattgoog=ludicium | johanniswyclift01mattgoog=ludicium | tractatusdepotes00wycl=ludicmm	420	832,2110,1142,2154	ludicium	
+375	200	LEFT-odd	latinworks19wycl=	436	286,3167,631,3233	?oregibus	
+376	71	LEFT-odd	latinworks19wycl=	437	724,1485,983,1536	ariolorum,\	
+377	176	S-split	latinworks19wycl=legichristi | johanniswyclift00mattgoog=legichristi | johanniswyclift01mattgoog=leufi | tractatusdepotes00wycl=legichristi	438	652,2903,1066,2972	legiChristi;	legi Christi;
+381	29	LEFT-nw	latinworks19wycl=coniugatis | johanniswyclift00mattgoog=coniuiratis | johanniswyclift01mattgoog=coniuiratis | tractatusdepotes00wycl=coniuaratis	442	781,964,1156,1017	coniuiratis	
+384	147	LEFT-odd	latinworks19wycl=	445	735,2443,1151,2509	-ad	
+385	41	LEFT-odd	latinworks19wycl=	446	1010,1149,1052,1219	proximam[	
+390	108	LEFT-odd	latinworks19wycl=	451	1354,1950,1395,2019	novimus,\	
+390	161	W2	latinworks19wycl=hns | johanniswyclift00mattgoog=hus | johanniswyclift01mattgoog=inis | tractatusdepotes00wycl=hiis	451	1735,2658,1874,2707	hns	hus
+391	68	LEFT-odd	latinworks19wycl=	452	403,1585,890,1653	g-erminantes.	
+391	119	LEFT-odd	latinworks19wycl=	452	402,2200,572,2251	Gre^ogorio	
+393	49	W2	latinworks19wycl=atteudite | johanniswyclift00mattgoog=attendile | johanniswyclift01mattgoog=aleudife | tractatusdepotes00wycl=atteudite	454	936,1229,1245,1280	Atteudite	Attendite
+393	62	LEFT-odd	latinworks19wycl=adoiunxit | johanniswyclift00mattgoog=adoinnxit | johanniswyclift01mattgoog=aduiinnxit | tractatusdepotes00wycl=adoiunxit	454	1952,1317,2060,1366	ad\oiunxit:	
+396	24	LEFT-odd	latinworks19wycl=	457	773,814,911,867	g-loria	
+399	182	LEFT-odd	latinworks19wycl=oiohanne | johanniswyclift00mattgoog=oiohanne | johanniswyclift01mattgoog=iohanne | tractatusdepotes00wycl=oiohanne	460	304,3150,687,3214	?oiohanne	
+401	57	LEFT-odd	latinworks19wycl=	462	452,1408,855,1481	%Capitulum	

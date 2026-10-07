@@ -744,7 +744,8 @@ def run(slug, first=None, last=None):
         starts = [i for i, x in enumerate(out_tokens) if i == 0 or x.get('para')] + [len(out_tokens)]
         for s_, e_ in zip(starts, starts[1:]):
             para = ' '.join(x['t'] for x in out_tokens[s_:e_])
-            if re.match(r'\d{1,2}\.\s', para) and (re.search(r'in marg|[Cc]odd|\b[ABD]₁?[,:]|corr\.', para) or
+            if re.match(r'\d{1,2}\.\s', para) and (re.search(r'in marg|[Cc]odd|\b[ABD]₁?[,:]|corr\.|\bcap\. [IVXL]|\bDist\.|'
+                                                     r'Decret|Ed\. pag|\bOpp\.|\btom\.|\bpag\. \d', para) or
                     len(re.findall(r'\b(?:the|of|was|and|from|to)\b', para)) >= 2):
                 for x in out_tokens[s_:e_]:
                     x['t'] = ''
@@ -753,6 +754,16 @@ def run(slug, first=None, last=None):
         i0 = next((i for i, x in enumerate(out_tokens) if x['t'] and not x.get('hl')), None)
         if i0 is not None and (pg, '^' + out_tokens[i0]['t']) in tokenfix:
             out_tokens[i0]['t'] = tokenfix[(pg, '^' + out_tokens[i0]['t'])]
+        # the apparatus run on after the page's last sentence ('quartum regnum. Codd. in marg.: Regis peccat.', De pot.
+        # pape p. 378): from 'Codd.'/'A in marg.' at the last line(s) to the page end, all dropped (2026-10-07)
+        live = [i for i, x in enumerate(out_tokens) if x['t']]
+        for j, i in enumerate(live[:-1]):
+            nxt = out_tokens[live[j + 1]]['t']
+            if (re.fullmatch(r'(Codd|[ABC]₁?)\.?', out_tokens[i]['t']) and nxt == 'in' and j >= len(live) - 25
+                    and j + 2 < len(live) and out_tokens[live[j + 2]]['t'].startswith('marg')):
+                for k in live[j:]:
+                    out_tokens[k]['t'] = ''
+                break
         # tokenfix entries naming TWO consecutive tokens ('nec essitate' -> necessitate), for a split word whose
         # first half recurs on the page (2026-10-02)
         for i in range(len(out_tokens) - 1):
