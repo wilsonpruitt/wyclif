@@ -137,6 +137,10 @@ Clementine Vulgate, use the **Douay–Rheims wording**. Where he departs, transl
 an **S** note giving the Vulgate. Modern references in the English (Luke 17:23). The chapter numbers
 are Wyclif's, the verse numbers Loserth's (the headnote says so once).
 
+## Already glossed in this work (no second first-occurrence note)
+
+*prescitus* "the foreknown" (03-a) · *satrapa* (04-e) · *curatus* (02-d) · *potencia* CONTEXTUAL (01-a) · *dominus Ardmacanus* / *Armachanus* (01-a, 02-c) · *Lincolniensis* "Lincoln" (03-e). Gloss a term again only where its sense here differs.
+
 ## Notes
 
 - `[^n]` from 1, the marker placed in the same edit as its note, each opening with a type letter:
