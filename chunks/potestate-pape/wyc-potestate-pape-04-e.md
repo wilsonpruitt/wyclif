@@ -41,7 +41,7 @@ And to the same point goes the second saying, that those apostles rejoiced that 
 
 ## Notes
 
-[^1]: **S.** Johannes Balbus of Genoa (*Januensis*), *Catholicon*; Loserth compares *De civili dominio* III, 425 (LEDGER P04e-1). The list is the italic run of the print, so Loserth takes it as quotation; to be checked against the *Catholicon*. *Partica* is *pertica*, the fuller's pole; *Salamia* is Salamis in Cyprus. **R.** B in the margin: *Natalicia apostolorum*; A: *Apostolorum mortes*.
+[^1]: **S.** Johannes Balbus of Genoa (*Januensis*), *Catholicon*; Loserth compares *De civili dominio* III, 425 (LEDGER P04e-1). The list is the italic run of the print, so Loserth takes it as quotation; the *Catholicon* has not been checked. *Partica* is *pertica*, the fuller's pole; *Salamia* is Salamis in Cyprus. **R.** B in the margin: *Natalicia apostolorum*; A: *Apostolorum mortes*.
 
 [^2]: **S.** Gal. 1:17–18, retold in the third person (DR "Neither went I to Jerusalem, to the apostles who were before me: but I went into Arabia … Then, after three years, I went to Jerusalem to see Peter: and I tarried with him fifteen days"). Wyclif's *predicavit* ("preached") for the Vulgate's *abii* ("went") is his own.
 

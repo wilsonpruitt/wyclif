@@ -43,19 +43,19 @@ There remain three other [teachings]{g:sentencia} to be set out first. The first
 
 [^4]: **S.** Nicholas III, *Exiit qui seminat* (1279), in the *Liber Sextus*, *De verborum significatione*, Sext 5.12.3 (Loserth "De Verborum Signif. V, 12, 3"; the modern form is ours) (LEDGER P05a-2). **R.** A in the margin: *Decretales invicem contradicunt scilicet Nicolai III et Johannis XXII*.
 
-[^5]: **S.** John XXII's decretals on Franciscan poverty (e.g. *Ad conditorem canonum*, *Cum inter nonnullos*), which Loserth does not name (LEDGER P05a-3); to be checked.
+[^5]: **S.** John XXII's decretals on Franciscan poverty (e.g. *Ad conditorem canonum*, *Cum inter nonnullos*), Extrav. Ioann. XXII 14.3 and 14.4, which Loserth does not name (LEDGER P05a-3).
 
 [^6]: **G.** *imperficeret*, "would make imperfect": Wyclif's coinage against *perficere*; it returns as *inperfecerant* and *imperfecerunt*.
 
 [^7]: **S.** *Decretum* D.10 c.9 (Loserth "Dist. X, cap. IX: Leges imperatorum custodiri oportet"; the modern form is ours) (LEDGER P05a-4). **C.** The argument runs on the opponent's premiss that riches perfect a pontiff: if so, the endowed caesars were the better pontiffs.
 
-[^8]: **S.** *Decretum* C.14 q.5 c.10 *Denique* (Loserth "Decreti Secunda pars, causa XIV, q. V, cap. X"; the modern form is ours) (LEDGER P05a-5). **C.** *si non potest* is read with the canon's incipit, as Loserth's italic run takes it; *sacerdos* begins the rule Wyclif draws from it.
+[^8]: **S.** *Decretum* C.14 q.5 c.10 *Denique* (Ambrose, *De officiis* III.9; PL 187, 963A) (Loserth "Decreti Secunda pars, causa XIV, q. V, cap. X"; the modern form is ours) (LEDGER P05a-5). **C.** *si non potest* is read with the canon's incipit, as Loserth's italic run takes it; *sacerdos* begins the rule Wyclif draws from it.
 
 [^9]: **S.** John 19:12 (DR "whosoever maketh himself a king speaketh against Caesar"), with Wyclif's clause *per quod diminueretur imperium* inserted: the endowing lord diminishes his own lordship.
 
 [^10]: **S.** 1 Tim. 6:8–9 (DR "having food, and wherewith to be covered, with these we are content. For they that will become rich fall into temptation …"), given by sense.
 
-[^11]: **S.** "Riches are a weight on the soul": not identified by Loserth; a commonplace of the fathers (Gregory the Great?) (LEDGER P05a-6); to be checked. Matt. 6 is the sermon on solicitude, 6:25–34.
+[^11]: **S.** "Riches are a weight on the soul": not identified by Loserth; a commonplace of the fathers (Gregory the Great?) (LEDGER P05a-6; not found by phrase search in the PL or the Society volumes). Matt. 6 is the sermon on solicitude, 6:25–34.
 
 ## Transcription notes
 

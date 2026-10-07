@@ -49,11 +49,11 @@ It is to be noted, however, that [temporal goods]{g:temporalia} poison the [chur
 
 [^6]: **S/G.** *varietatem*: the "variety" of Psalm 44:10 (88.13 above), which Christ instituted, against the spots added by endowment. *matrem nostram*: the church as our mother (GLOSSARY *mater nostra*).
 
-[^7]: **S/T.** Matthew 18:6: Wyclif's *Expedit scandalizanti* compresses the Vulgate (*qui autem scandalizaverit … expedit ei*); DR's wording otherwise. Gregory, *Regula pastoralis* I.2 (Loserth: "I pars, cap. II. Loosely quoted"; Wyclif's *II* stands as printed; the modern form is ours) (LEDGER P05d-1, editor): better for such a man to fall in a lay state than in sacred office. *prelato prescito*: B reads *clerico prescito*; translated as printed. *prescitus*: one whom God foreknows will be damned (GLOSSARY).
+[^7]: **S/T.** Matthew 18:6: Wyclif's *Expedit scandalizanti* compresses the Vulgate (*qui autem scandalizaverit … expedit ei*); DR's wording otherwise. Gregory, *Regula pastoralis* I.2 (Loserth: "I pars, cap. II. Loosely quoted"; Wyclif's *II* stands as printed; the modern form is ours) (PL 77, 16A; LEDGER P05d-1): better for such a man to fall in a lay state than in sacred office. *prelato prescito*: B reads *clerico prescito*; translated as printed. *prescitus*: one whom God foreknows will be damned (GLOSSARY).
 
 [^8]: **C.** *Petro*: Peter as the logicians' sample name, any man.
 
-[^9]: **T/S.** *membrorum suorum* (91.20): so the print; the manuscripts read *membrorum ecclesie*, "of the members of the church"; translated as printed. Augustine on the profit of Peter's fall: no reference in Loserth (LEDGER P05d-2, to be checked).
+[^9]: **T/S.** *membrorum suorum* (91.20): so the print; the manuscripts read *membrorum ecclesie*, "of the members of the church"; translated as printed. Augustine on the profit of Peter's fall: no reference in Loserth; *De civitate Dei* XIV.13: *superbis esse utile cadere in aliquod apertum manifestumque peccatum … Salubrius enim Petrus sibi displicuit quando flevit, quam sibi placuit quando praesumpsit* (LEDGER P05d-2).
 
 [^10]: **C.** *quod per se superaddit*: what the endowment adds of itself (*per se*, against *per accidens* above). *signancius*: "more signally", more markedly.
 
@@ -65,7 +65,7 @@ It is to be noted, however, that [temporal goods]{g:temporalia} poison the [chur
 
 [^14]: **S/T.** *ex dictis in fine tercii capituli*: ch. 3 (Loserth). *elemosinantem*: one manuscript has *eliantem* (Loserth). *elemosinans*: the giver of the endowment (GLOSSARY "almsgiver").
 
-[^15]: **S/C.** Bernard, *De consideratione* IV.2.3, quoted at 87.5 (LEDGER P05d-3, editor). Jerome: Loserth identifies *Olim* as Decretum D.95 c.5 (Jerome, on Titus, *Olim idem presbyter qui episcopus*) and finds the words not in the distinction *Absit*; Wyclif's "XCII" stands as printed (LEDGER P05d-4, editor; the modern form is ours). *tale sacramentum superioritas*: so the print, construed with *superioritas* in apposition; the phrase may be corrupt.
+[^15]: **S/C.** Bernard, *De consideratione* IV.3.6 (PL 182, 776A), quoted at 87.5 (Loserth "Cap. III. V. p. 87"; LEDGER P05d-3). Jerome: Loserth identifies *Olim* as Decretum D.95 c.5 (Jerome, on Titus, *Olim idem presbyter qui episcopus*) and finds the words not in the distinction *Absit*; Wyclif's "XCII" stands as printed (LEDGER P05d-4, editor; the modern form is ours). *tale sacramentum superioritas*: so the print, construed with *superioritas* in apposition; the phrase may be corrupt.
 
 [^16]: **S.** 1 Peter 5:3 (Loserth; Wyclif "IV"), DR "Neither as lording it over the clergy but being made a pattern of the flock from the heart". Loserth's italics include *seniores et prepositi*, which Wyclif makes the subject; the quotation marks keep the scriptural words.
 

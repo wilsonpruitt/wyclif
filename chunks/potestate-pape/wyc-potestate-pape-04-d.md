@@ -48,7 +48,7 @@ Thirdly, it is confirmed from rectors and their bishops, who are at once bishops
 
 [^4]: **C.** The subject is *eedem persone* (those ordained), and *eos* the apostles who ordained them: the new bishops did not shut the apostles out of their oversight but helped them. A reading with *eos* = the new bishops (the apostles did not exclude them) would need *persone* as object, which the nominative does not allow.
 
-[^5]: **S.** The pseudo-Clementine *Epistola Clementis ad Iacobum* (Clement I, *Epist. decret.*), cited by Loserth from Migne, *PG* 1, 464 (LEDGER P04d-1); to be checked.
+[^5]: **S.** The pseudo-Clementine *Epistola Clementis ad Iacobum* (Clement I, *Epist. decret.*), cited by Loserth from Migne, *PG* 1, 464 (LEDGER P04d-1, editor); FitzRalph tells the story from the same letter, *Summa* VII.19.
 
 [^6]: **C.** *cum simul cum eo fuit summus pontifex*: Peter is the subject, Christ the *eo*: Peter was highest pontiff at the same time as Christ. *Paulative*, "little by little", is set against *simul*: taken as successive tenure.
 

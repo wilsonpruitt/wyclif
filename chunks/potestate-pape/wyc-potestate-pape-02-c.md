@@ -71,7 +71,7 @@ As to the third, namely the order of powers, it is commonly said that, just as t
 
 ## Notes
 
-[^1]: **S.** Richard FitzRalph (Armachanus, archbishop of Armagh), *Summa in quaestionibus Armenorum* II; Loserth gives no chapter (LEDGER P02c-1). He lists six opinions to reject them; the seventh is his own (¶2). A and B in marg.: *Apostoli quando facti sunt sacerdotes*; B reads *dicit quod* (32.26).
+[^1]: **S.** Richard FitzRalph (Armachanus, archbishop of Armagh), *Summa in quaestionibus Armenorum* II; Loserth gives no chapter; the place is not in book II of the Paris 1512 print, which concerns the Messiah (LEDGER P02c-1). He lists six opinions to reject them; the seventh is his own (¶2). A and B in marg.: *Apostoli quando facti sunt sacerdotes*; B reads *dicit quod* (32.26).
 
 [^2]: **S.** Matt. 18:18 (Wyclif's *Quodcunque ligaveritis … erit ligatum*, singular, for the Vulgate's *quaecumque alligaveritis … erunt ligata*); Luke 22:19; John 20:22–23, where the Vulgate has *remittuntur* (DR "they are forgiven"); Wyclif's future *remittentur* is translated.
 

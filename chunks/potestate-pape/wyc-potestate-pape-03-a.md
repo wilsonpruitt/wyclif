@@ -48,7 +48,7 @@ From this ranking a pious theologian can gather, as from a foundation, that Pete
 
 ## Notes
 
-[^1]: **S.** Richard FitzRalph, *Summa in quaestionibus Armenorum* VII; Loserth gives no chapter (LEDGER P03a-1; awaiting the 1512 print). *Primatus* is rendered "primacy" throughout; *preeminenciam capitalem*, "a preeminence as head" (cf. *capitaliter*). A in marg.: *Petrus si ut caput ecclesie primatum tenuit* (43.21).
+[^1]: **S.** Richard FitzRalph, *Summa in quaestionibus Armenorum* VII; VII.3–5 (Paris 1512, fol. XLVv–XLVI; ch. 3 opens from Luke 22, *facta est autem contentio inter eos quis eorum videretur esse maior … Simon ecce sathanas expetiit vos*); Loserth gives no chapter (LEDGER P03a-1). *Primatus* is rendered "primacy" throughout; *preeminenciam capitalem*, "a preeminence as head" (cf. *capitaliter*). A in marg.: *Petrus si ut caput ecclesie primatum tenuit* (43.21).
 
 [^2]: **S.** Wyclif cites Matt. 20 (the request for the sons of Zebedee, 20:20–28), but the contention and the answer are Luke 22:24, 26 (DR "which of them should seem to be the greater"; "he that is the greater among you, let him become as the younger"). His *fiat ut minor* is translated.
 

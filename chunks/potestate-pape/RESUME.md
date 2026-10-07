@@ -1,7 +1,18 @@
 # RESUME — *De potestate pape* (queue 3; M5, the second volume after the Dialogus)
 
-*Read this first in a new session, then `WORKFLOW.md` (stages 7–10) and this volume's `CARD.md`. Started 2026-10-07
+*Read this first in a new session, then `WORKFLOW.md` (stages 7–10), this volume's `CARD.md` and `WAVE-PROMPTS.md`. Started 2026-10-07
 on Wilson's "opus go" (estimate given: ≈12–13M Opus for the volume).*
+
+## ⏸ PAUSED 2026-10-07 (Wilson: "run the checks and then pause") — resume at 06-e
+
+- **Translated: 33 of 107 chunks** (01-a … 06-d, pp. 1–118), every one through the per-wave checks: scars fixed + relatin'd, connectives (waves 1–4: 309 checked, 8 fixed), ledger closed for all rows P01a … P06d (waves 1–4), glossary conformed, lint 0.
+- **Next:** `.venv/bin/python scripts/w3/brief.py potestate-pape 06-e 06-f 06-g` → one Opus agent per brief (≤ 2 at once); then 06-h 06-i 07-a … in order. After each wave: scars (plate-read every real-word/numeral row) → `tokenfix.tsv` → `vote.py SLUG p p` (FOREGROUND) → `relatin.py SLUG --also <ids>`; ledger rows → LEDGER.md; every ~2 briefs run the connective + ledger agents (WAVE-PROMPTS.md; `_connectives/extract.py W ids`, `_connectives/apply.py W`; ledger note changes applied by script).
+- **Cost so far ≈ 6.2M** (2.5M stages 1–6; translation 1.43M for 30 chunks ≈ 12K/page; checks 1.25M; coordinator ~1M). Projected total ≈ 13–14M, slightly over the estimate because of the per-wave ledger agents (130–270K each).
+- **FitzRalph** *Summa* 1512 on disk, scan pp. 1–200 (book VII located: VII.3–5 at scan p. 98, VII.18–21 at pp. 107–108). Wyclif's "II.4" (P01a-4, P02c-1) is NOT the print's book II: try book XI.8 ff. (scan p. 178 ff.) or later books when pp. 201–363 arrive (Wilson downloading from MDZ; save as `sources/fitzralph-summa-1512-p201-300.pdf`, `-p301-363.pdf`).
+- Untraced, waiting on outside sources: two Aristotle rows (P04a-2, P05b-1: Perseus was down), Guido de Baysio *Rosarium*, *De universalibus*, PG 56 (*Opus imperfectum*), the 1377 bulls (P05b-2).
+
+## Earlier status (stages 1–6)
+
 
 ## Status 2026-10-07 — stages 1–6 DONE; next: stage 7 (translate in briefs)
 

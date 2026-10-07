@@ -69,7 +69,7 @@ The second way is probable, error on the part of the one instituting being exclu
 
 [^7]: **C.** The third objection argues from the apostles' example for the lot; *obiectus eque moverent contra apostolos*: the objections to the lot would tell equally against the apostles' own practice.
 
-[^8]: **S/R.** Richard FitzRalph, *Summa in quaestionibus Armenorum*, book 7; Loserth gives no reference (LEDGER P04b-1, to be checked). A in marg.: *Eleccio pontificis quatuor modis*; B in marg.: *Quatuor vie eligendi pontifices* (68.8).
+[^8]: **S/R.** Richard FitzRalph, *Summa in quaestionibus Armenorum*, book 7, chs. 18–21 (election, ch. 18; nomination or ordination by the predecessor, ch. 19; lot, ch. 20; hereditary succession, ch. 21; Paris 1512, fol. L); Loserth gives no reference (LEDGER P04b-1). A in marg.: *Eleccio pontificis quatuor modis*; B in marg.: *Quatuor vie eligendi pontifices* (68.8).
 
 [^9]: **C/G/R.** *Quia ista argumenta procederent*: Wyclif's answer to the first objection follows at once, without a formula. *Orator* is here one who prays to God over the lot ("suppliant", GLOSSARY, CONTEXTUAL), not a *bedesman* praying for a benefactor. A in marg.: *1* (68.16).
 
@@ -77,7 +77,7 @@ The second way is probable, error on the part of the one instituting being exclu
 
 [^11]: **C/R.** A in marg.: *3* (69.1). *Delete … exonerarent*: the participle carries the condition, "once deleted, would unburden". *Ad illos regulandum* refers to the elections (*illos* as printed).
 
-[^12]: **C/R.** A in marg.: *Secunda via* (69.12). The pairs run in order, Mark at Antioch and Clement at Rome, as printed; the common tradition puts Mark at Alexandria (LEDGER P04b-2, to be checked).
+[^12]: **C/R.** A in marg.: *Secunda via* (69.12). The pairs run in order, Mark at Antioch and Clement at Rome, as printed; the common tradition puts Mark at Alexandria, and so does FitzRalph, Wyclif's source in this chapter (*Summa* VII.16: *beatus petrus clementem voluit in urbe roma et marcum in alexandria episcopos remanere*) (LEDGER P04b-2).
 
 [^13]: **T/S.** Loserth notes that a word is missing after *superadduntur* ("deest verbum", 69.17); we supply "[ceremonies]" from *tali cerimonia* below. *Sicut dicit Crisostomus*: the passage from *De laudibus sancti Pauli* at 65.17–20, where the unordained man who fulfils the care of many is most worthy of honour.
 

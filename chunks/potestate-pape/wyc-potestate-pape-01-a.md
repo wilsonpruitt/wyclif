@@ -197,7 +197,7 @@ according to what pertains to the matter under discussion.
     "power was given to them").
 
 [^5]: **S/G.** FitzRalph, *Summa in quaestionibus Armenorum* II.4, as Wyclif cites it; Loserth
-    could not check it ("mihi ad manum non est") (LEDGER P01a-4). The Latin is *potestas est
+    could not check it ("mihi ad manum non est"); in the Paris 1512 print, book II is on Old Testament proofs that the Messiah is God (II.4 is on Ps. 109), so Wyclif's numbering does not match the print, and the words were not found in XI.1–7 either (LEDGER P01a-4). The Latin is *potestas est
     extensior quam nature racionalis potencia*. The comparison is of extent (power in general, which
     the locusts have, against the power of rational nature), not of two concepts, so *potencia* is
     "power" here. Wyclif treats *potestas* and *potencia* as interchangeable in this chapter (see n.

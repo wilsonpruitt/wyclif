@@ -46,7 +46,7 @@ Again, according to the principles of the philosophers it is better [85] to phil
 
 [^5]: **T/C.** *inducendo* (84.28): so the print; the manuscripts read *induendo* (Loserth), "putting on [themselves] their imperfection", i.e. the perfect taking on the civil property of their inferiors. Translated as printed; *eorum* is the inferiors'.
 
-[^6]: **S/T.** The maxim is Aristotle, *Topics* III.2 (118a10–11), "to philosophize is better than to make money", as current in the schools (LEDGER P05b-1, to be checked). At 85.4 the manuscripts read *ditare*; the print's *ditari* is translated.
+[^6]: **S/T.** The maxim is Aristotle, *Topics* III.2 (118a10–11), "to philosophize is better than to make money", as current in the schools (LEDGER P05b-1; the Bekker lines are still to be read). At 85.4 the manuscripts read *ditare*; the print's *ditari* is translated.
 
 [^7]: **T/R.** *si quod* (85.9): so the print; read as *sic quod*, "so that" (our construal), since *si* gives no sense. B in the margin (85.8): *Paupertas evangelica in quo stat*, "In what evangelical poverty consists".
 

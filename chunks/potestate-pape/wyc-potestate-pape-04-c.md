@@ -45,15 +45,15 @@ As to the fourth mode of instituting the high priest, by hereditary [right]{g:iu
 
 [^1]: **C.** *Intelliguntur de legibus humanis*: the contrary laws are to be read as human laws, binding only so far as they serve conformity with God's judgement, and as aimed at those disobedient to the church triumphant. The construal is uncertain: *de legibus humanis* may instead mean "[as] concerning human [elections]".
 
-[^2]: **S/G/R.** Chrysostom, *Homilies on 1 Timothy*, hom. 5; Loserth: "In Epist. I ad Timoth. cap. I, Hom. V (Migne), tom. XI" (70.4): Wyclif's "V" is the homily, not the chapter (LEDGER P04c-1, to be checked). *Magisterium* is the teaching office here, beside the priesthood (GLOSSARY §D); *sentencia Dei* is God's decision, "sentence" (CONTEXTUAL), and *isti sentencie* in the next sentence is "teaching". B in marg.: *Nota* (70.7).
+[^2]: **S/G/R.** Chrysostom, *Homilies on 1 Timothy*, hom. 5; Loserth: "In Epist. I ad Timoth. cap. I, Hom. V (Migne), tom. XI" (70.4): Wyclif's "V" is the homily, not the chapter (LEDGER P04c-1, editor). *Magisterium* is the teaching office here, beside the priesthood (GLOSSARY §D); *sentencia Dei* is God's decision, "sentence" (CONTEXTUAL), and *isti sentencie* in the next sentence is "teaching". B in marg.: *Nota* (70.7).
 
 [^3]: **T.** The manuscripts read *respicientes* (70.11) and B *participant* (70.15); at 70.17 the manuscripts read *cum Mathiam* (the note is unclear in the scan). They lack *fieri oporteret*, which Loserth supplied from Chrysostom's text (70.19). The quotation runs to *apud Deum* by Loserth's italics.
 
 [^4]: **C.** *Committendo sibi*: committing the judgement to God. *Diffiniret*, "should define": determine the case.
 
-[^5]: **S.** Loserth gives Chrysostom's words: *si vero manifesta pretermittimus, quomodo nobis Deus obscura et incerta revelabit?* (71.1; LEDGER P04c-2, to be checked). Wyclif paraphrases; we follow Loserth's italics in quoting.
+[^5]: **S.** Loserth gives Chrysostom's words: *si vero manifesta pretermittimus, quomodo nobis Deus obscura et incerta revelabit?* (71.1, where Loserth's foot gives the sentence from *Ad nos in extremam ignaviam delapsi*; LEDGER P04c-2, editor). Wyclif paraphrases; we follow Loserth's italics in quoting.
 
-[^6]: **T/S.** 1 Kings (1 Sam.) 10:22: the Vulgate reads *ecce absconditus est domi* (DR "Behold he is hidden at home"); "among the vessels" is Chrysostom's (LEDGER P04c-3, to be checked). *Iustis* is Loserth's correction; the manuscripts read *in istis* (71.10). Acts 13:2: Wyclif reads *Paulum* for the Vulgate's *Saulum* (DR "Separate me Saul and Barnabas"). Acts 16:3 (Timothy circumcised).
+[^6]: **T/S.** 1 Kings (1 Sam.) 10:22: the Vulgate reads *ecce absconditus est domi* (DR "Behold he is hidden at home"); "among the vessels" (*in vasis*) is the Greek Bible's wording (LXX 1 Kgdms 10:22, *idou autos kekryptai en tois skeuesin*), which Wyclif has by way of Chrysostom (LEDGER P04c-3). *Iustis* is Loserth's correction; the manuscripts read *in istis* (71.10). Acts 13:2: Wyclif reads *Paulum* for the Vulgate's *Saulum* (DR "Separate me Saul and Barnabas"). Acts 16:3 (Timothy circumcised).
 
 [^7]: **S.** 1 Tim. 6:20 (DR "keep that which is committed to thy trust"). *Recoleret*, "might call it to mind": that God, not man, chose him.
 

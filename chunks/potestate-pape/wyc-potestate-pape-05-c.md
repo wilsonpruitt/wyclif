@@ -36,7 +36,7 @@ Second, [it is objected, by appeal to]{g:obicitur-per} this, that many saints ap
 
 ## Notes
 
-[^1]: **S/T/R.** Bernard, *De consideratione* IV.2.3 (Loserth: cap. II, Migne, Opp. I, p. 776; the modern form is ours) (LEDGER P05c-1, editor). *Si amas me, pasce oves meas* is Bernard's compression of John 21:15–17 (Loserth: John 21:15; DR 21:17 "lovest thou me? … Feed my sheep"). One manuscript has *implere* for *impleri* (87.4). A in the margin (86.17): *Papa ornatus seculariter*, "The pope adorned in secular fashion". Loserth: cf. Hus, Opp. 212b (LEDGER P05c-2, editor).
+[^1]: **S/T/R.** Bernard, *De consideratione* IV.3.6 (PL 182, 776A: *Si amas me, pasce oves meas. In his successisti, non Petro, sed Constantino*; Loserth here "cap. II", but "Cap. III" at 92.30; Migne, Opp. I, p. 776) (LEDGER P05c-1). *Si amas me, pasce oves meas* is Bernard's compression of John 21:15–17 (Loserth: John 21:15; DR 21:17 "lovest thou me? … Feed my sheep"). One manuscript has *implere* for *impleri* (87.4). A in the margin (86.17): *Papa ornatus seculariter*, "The pope adorned in secular fashion". Loserth: cf. Hus, Opp. 212b (LEDGER P05c-2, editor).
 
 [^2]: **C.** A doubtful construal. *Inconsequens igitur foret quod sequitur quod …*: taken as Wyclif's comment that, prelates having succeeded Constantine, it would not follow that worldly glory is buried in them; *quod sequitur* may instead mean "what follows [in Bernard]". *in ipso abscondita*: cf. Colossians 3:3, "your life is hid with Christ in God".
 
