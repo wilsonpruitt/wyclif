@@ -7,7 +7,7 @@ Why: the translation cost is the agent LOOP (every turn re-sends the growing con
 So the agent gets everything in ONE file and writes each chunk once. The brief holds: the working
 instructions, the volume's CARD.md, only the GLOSSARY rows whose Latin occurs in the batch, and per chunk
 its scaffold plus the editor's page-foot apparatus for its pages (text/<slug>/apparatus.json, from
-witness.py). Output: chunks/<slug>/_briefs/<slug>-NN-NN.md, and the agent prompt to paste is printed.
+witness.py) and his italic runs (text/<slug>/italics.tsv, from italics.py). Output: chunks/<slug>/_briefs/<slug>-NN-NN.md, and the agent prompt to paste is printed.
 """
 import csv, json, os, re, subprocess, sys
 
@@ -83,6 +83,11 @@ def main(slug, nums):
     offset = int(off[slug]['offset']) if slug in off else None
     app_path = os.path.join(ROOT, 'text', slug, 'apparatus.json')
     app = json.load(open(app_path)) if os.path.exists(app_path) else {}
+    it_path = os.path.join(ROOT, 'text', slug, 'italics.tsv')      # the editor's italic runs (italics.py)
+    italics = {}
+    if os.path.exists(it_path):
+        for r in csv.DictReader(open(it_path), delimiter='\t', quoting=csv.QUOTE_NONE):
+            italics.setdefault(int(r['page']), []).append(r['text'])
     chunks, latin, paths = [], [], []
     for n in nums:
         rel = f'chunks/{slug}/wyc-{slug}-{n}.md'
@@ -99,8 +104,10 @@ def main(slug, nums):
         a = '\n\n'.join(f'p. {p}:\n{app.get(str(p + offset), "(none)").strip()}' for p in pages) if offset is not None and app else \
             '(no apparatus extracted for this volume: run witness.py, which now saves it)'
         dest = os.path.join(ROOT, 'chunks', slug, '_pilot', 'brief-test', os.path.basename(rel)) if FROM_GIT else os.path.join(ROOT, rel)
+        it = '\n'.join(f'p. {p}: ' + ' | '.join(italics[p]) for p in pages if p in italics) or '(none recorded)'
         chunks.append(f'\n\n---\n\n## Chunk {n}: write to `{dest}`\n\n### Scaffold\n\n````markdown\n{text.strip()}\n````\n\n'
-                      f'### Apparatus (editor\'s page-foot notes, OCR; line numbers are the printed page\'s)\n\n```\n{a}\n```')
+                      f'### Apparatus (editor\'s page-foot notes, OCR; line numbers are the printed page\'s)\n\n```\n{a}\n```\n\n'
+                      f'### Italics (the editor\'s italic runs, OCR, one per |: his quotation bounds, evidence only)\n\n```\n{it}\n```')
         paths.append(os.path.relpath(dest, ROOT))
     gl, kept = glossary_rows(' '.join(latin))
     work = re.search(r'^work_la:\s*(.+)$', chunks[0], re.M).group(1).strip()

@@ -41,16 +41,18 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    more things (lessons of the *De ecclesia* close-out, which paid for them at the end instead):
    - **Italics — track, don't verify.** Italics are the editor's call (Loserth marking what he took for a
      quotation), not the manuscript's (Wilson, 2026-10-04). So: record the italic runs only as a by-product of
-     this plate pass (page.line, first and last words → `text/SLUG/italics.tsv`), and `brief.py` inlines them
-     (⬜ build before the next volume's stage 7) so the translator sees the editor's quotation bounds as
-     evidence. No separate italics pass, no review rows for quotation bounds, no close-out check of them.
-     First see whether a witness already carries italics (`vote.py` keeps an `it` flag per token, empty for
-     *De ecclesia*); if the Fordham text or the hOCR has font styles, take them from there instead.
+     this plate pass, and `brief.py` inlines them per page so the translator sees the editor's quotation
+     bounds as evidence. No separate italics pass, no review rows for quotation bounds, no close-out check of
+     them. ✅ **From the data, not the plates (2026-10-07):** the primary scan's `_abbyy.gz` marks italics, so
+     `python3 scripts/w3/italics.py SLUG` → `text/SLUG/italics.tsv` (page, text; pages numbered from the
+     running heads, since ABBYY indices drift against the leaves; apparatus runs dropped). Read the plate
+     only for a scan without ABBYY.
    - **Boundaries.** `python3 scripts/w3/boundaries.py SLUG` lists every ¶ or chunk end without a stop
      (*De ecclesia*: 58). Read each on the plate: a false ¶ break (an alinea letter read as a break) is
      merged before translation; it lost *plus* at 46.24 (and the S2 plate check found four more lost words).
-     A merge needs a `vote.py` override (⬜ not built: a page/token list that clears the `para` flag), since
-     `pNNN.la.txt` is regenerated on every vote. A chunk split inside a sentence is moved to the
+     A merge is a row in `text/SLUG/paramerge.tsv` (page, first, note: the first word of the false ¶ as it
+     stands in `pNNN.la.txt`; ✅ built 2026-10-07), since `pNNN.la.txt` is regenerated on every vote;
+     `vote.py` reports an unmatched row as STALE. A chunk split inside a sentence is moved to the
      nearest stop (12-c ended on *patet*). Verse lines and headings stay.
 6. **Volume card.** `chunks/SLUG/CARD.md`, adapted from `chunks/dialogus/CARD.md` (editor, sigla, the
    volume's register). Per PLAN, the FIRST chunk is translated and reviewed in a fresh session against the

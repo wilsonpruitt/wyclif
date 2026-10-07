@@ -476,6 +476,13 @@ def run(slug, first=None, last=None):
     if os.path.exists(f'{base}/tokenfix.tsv'):
         for r in csv.DictReader(open(f'{base}/tokenfix.tsv'), delimiter='\t', quoting=csv.QUOTE_NONE):
             tokenfix[(int(r['page']), r['printed'])] = r['fixed']
+    # paramerge.tsv (page, first, note): a false ¶ break (an alinea letter or side-note read as a break) is merged
+    # by clearing the para flag on the first token of the paragraph that opens with FIRST on PAGE (2026-10-07;
+    # boundaries.py lists the candidates, each is read on the plate first). An unmatched row is reported as stale.
+    paramerge = {}
+    if os.path.exists(f'{base}/paramerge.tsv'):
+        for r in csv.DictReader(open(f'{base}/paramerge.tsv'), delimiter='\t', quoting=csv.QUOTE_NONE):
+            paramerge[(int(r['page']), r['first'])] = False
     if os.path.exists(f'{base}/wordsplits.tsv'):
         splits = {r['form']: r['split'] for r in csv.DictReader(open(f'{base}/wordsplits.tsv'), delimiter='\t')}
     queue, stats = [], Counter()
@@ -766,6 +773,9 @@ def run(slug, first=None, last=None):
                 continue
             if cur_head:
                 lines.append('## ' + ' '.join(cur)); cur = []; cur_head = False
+            if x.get('para') and cur and paramerge.get((pg, x['t'])) is False:   # paramerge.tsv: a false ¶ break
+                x['para'] = False                                                 # (first match on the page)
+                paramerge[(pg, x['t'])] = True
             if x.get('para') and cur:
                 lines.append(' '.join(cur)); lines.append(''); cur = []
             w = x['t']
@@ -811,6 +821,9 @@ def run(slug, first=None, last=None):
           f'plate decisions applied: {stats["PLATE"]}; stale: {len(stale)}')
     for st_ in stale:
         print('   STALE', st_)
+    for (pg_, w_), used in paramerge.items():
+        if not used and first <= pg_ <= last:
+            print('   STALE paramerge', pg_, w_)
     return stats, queue
 
 
