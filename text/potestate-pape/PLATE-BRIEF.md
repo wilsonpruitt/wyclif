@@ -39,6 +39,14 @@ emend, or judge the sense.
 - Pp. 398–406 are the medieval *compendium* of the chapters (still the reading text); the indexes after it are
   not in the queue.
 
+**Settled on sheets 1–40 of this volume (keep them):**
+- Abbreviations: `Joh.` → `Joh` (the vote restores the scan's punctuation; `reading` never carries it).
+- A word split by a folio bar, not a hyphen (`tur | pissime`): give the printed part with no hyphen (`tur`), note it.
+- An INS? that completes a verse range (`10—11,`, `1, 2)`): the bare numeral (`11`, `2`), no dash or bracket.
+- An INS? the main scan already holds (the second half of a hyphenated word it has whole, a folio bar read as
+  `i`, a page-opening slip repeating the last page, a GAP line already present at the next positions): `∅`.
+- A misprint visible in the ink is kept as printed (`nou`, `oslendit`, `teclus`) with the evidence in `note`.
+
 **Conventions settled on *De ecclesia* (keep them):**
 - Superscripts as printed: `Iª`, `XXIVª`, `III°`; no trailing punctuation in `reading`.
 - A word hyphenated across lines: if the main scan's token holds the whole word, give the whole word;

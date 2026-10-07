@@ -25,6 +25,11 @@ META = {  # per volume: what the scaffold cannot derive
     'ecclesia': dict(work_la='Tractatus de ecclesia', work_en='On the Church', short='De eccl.',
                      editor='Johann Loserth', year=1886, label='De ecclesia',
                      pilot='pilots/wyc-ecclesia-01a.md'),
+    'potestate-pape': dict(work_la='Tractatus de potestate pape', work_en='On the Power of the Pope',
+                           short='De pot. pape', editor='Johann Loserth', year=1907, label='De potestate pape',
+                           pilot='pilots/wyc-ecclesia-01a.md',
+                           # the medieval compendium of the chapters after the Explicit (pp. 398-406)
+                           extra_heads=[(398, 'Sentencia libri in compendio', 'comp', 'Compendium')]),
 }
 MS_MARK = re.compile(r'^[A-D][¹1l]?\s*\.?\s*\d{1,3}\s*[a-d]\s*\.?$|^\d{2,3}\s*[a-d]?\s*\.$')
 BOOKS = ('Gen', 'Exod', 'Lev', 'Num', 'Deut', 'Josh', 'Judg', 'Ruth', 'Sam', 'Kings', 'Chron', 'Ezra',
