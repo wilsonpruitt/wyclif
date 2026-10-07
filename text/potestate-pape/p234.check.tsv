@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=romani		1	accept
+1	EDGE	latinworks19wycl=pontifices		1	accept
+2	THIN	latinworks19wycl=smt		1	plate
+3	THIN	latinworks19wycl=preemmenter		1	plate
+7	R4	latinworks19wycl=mtelhguntur | johanniswyclift00mattgoog=iiitelliguntur | tractatusdepotes00wycl=lntelliguntur		3	plate
+59	R3	latinworks19wycl=ex | johanniswyclift00mattgoog=radice | tractatusdepotes00wycl=ex		3	plate
+60	R3	latinworks19wycl=sta | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=ista		3	plate
+61	R3	latinworks19wycl=race | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=radice		3	plate
+67	R2	latinworks19wycl=indiffinite | johanniswyclift00mattgoog=indiffinite | johanniswyclift01mattgoog=indiffinite | tractatusdepotes00wycl=iunsdiction		4	accept
+68	R2	latinworks19wycl=concedere | johanniswyclift00mattgoog=concedere | johanniswyclift01mattgoog=concedere | tractatusdepotes00wycl=∅		4	accept
+92	R5a	latinworks19wycl=grecia | johanniswyclift00mattgoog=grecia | johanniswyclift01mattgoog=irecia | tractatusdepotes00wycl=grecia		4	accept
+125	R5a	latinworks19wycl=yndos | johanniswyclift00mattgoog=yndos | johanniswyclift01mattgoog=yndos | tractatusdepotes00wycl=yndos		4	accept
+168	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+215	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | tractatusdepotes00wycl=illa		3	plate

@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+43	R3	latinworks19wycl=opposito | johanniswyclift00mattgoog=opposite | johanniswyclift01mattgoog=opposite | tractatusdepotes00wycl=opposito		4	plate
+109	R4	latinworks19wycl=s | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=ihta | tractatusdepotes00wycl=∅		4	plate
+110	R2	latinworks19wycl=ista | johanniswyclift00mattgoog=ista | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ista		4	accept
+120	R3a	latinworks19wycl=matris | johanniswyclift00mattgoog=matris | johanniswyclift01mattgoog=malris | tractatusdepotes00wycl=matris		4	accept
+137	INS?	intendo	2	4	plate
+146	R2	latinworks19wycl=enim | johanniswyclift00mattgoog=enim | johanniswyclift01mattgoog=eniiii | tractatusdepotes00wycl=enim		4	accept
+150	R3a	latinworks19wycl=mandato | johanniswyclift00mattgoog=mandate | johanniswyclift01mattgoog=mandato | tractatusdepotes00wycl=mandato		4	accept
+155	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+193	R3a	latinworks19wycl=que | johanniswyclift00mattgoog=que | johanniswyclift01mattgoog=que | tractatusdepotes00wycl=tue		4	accept
+194	R3a	latinworks19wycl=ab | johanniswyclift00mattgoog=ab | johanniswyclift01mattgoog=ab | tractatusdepotes00wycl=ad		4	accept
+199	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=lit | tractatusdepotes00wycl=et		4	accept
+200	R3a	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=cura | tractatusdepotes00wycl=cum		4	accept

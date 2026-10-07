@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
+1	EDGE	latinworks19wycl=uiuificauit | tractatusdepotes00wycl=uiuificauit		2	accept
+3	R5	latinworks19wycl=lazare | johanniswyclift01mattgoog=lazare | tractatusdepotes00wycl=lazare		3	plate
+7	R2	latinworks19wycl=postmodum | johanniswyclift00mattgoog=postmodum | johanniswyclift01mattgoog=poslmodtim | tractatusdepotes00wycl=postmodum		4	accept
+11	R2	latinworks19wycl=fuerat | johanniswyclift00mattgoog=fuerai | johanniswyclift01mattgoog=fiwrat | tractatusdepotes00wycl=fuerat		4	accept
+16	R2	latinworks19wycl=solutus | johanniswyclift00mattgoog=solnins | johanniswyclift01mattgoog=solutus | tractatusdepotes00wycl=solutus		4	accept
+62	R2	latinworks19wycl=amittere | johanniswyclift00mattgoog=amittere | johanniswyclift01mattgoog=aniiitere | tractatusdepotes00wycl=amittere		4	accept
+66	R2	latinworks19wycl=abutitur | johanniswyclift00mattgoog=abuiiiur | johanniswyclift01mattgoog=abniiiur | tractatusdepotes00wycl=abutitur		4	accept
+67	R2	latinworks19wycl=potestate | johanniswyclift00mattgoog=potestate | johanniswyclift01mattgoog=poieslale | tractatusdepotes00wycl=potestate		4	accept
+164	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the		4	plate
+174	R5a	latinworks19wycl=q | johanniswyclift00mattgoog=q | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=q		4	accept
+180	R2	latinworks19wycl=id | johanniswyclift00mattgoog=id | johanniswyclift01mattgoog=td | tractatusdepotes00wycl=id		4	accept
+186	R2	latinworks19wycl=diuisos | johanniswyclift00mattgoog=diuisos | johanniswyclift01mattgoog=dwtsos | tractatusdepotes00wycl=diuisos		4	accept
+189	R2	latinworks19wycl=aliquid | johanniswyclift00mattgoog=altqutd | johanniswyclift01mattgoog=aliquid | tractatusdepotes00wycl=aliquid		4	accept
+210	R3	latinworks19wycl=prepositi | johanniswyclift00mattgoog=propositi | johanniswyclift01mattgoog=propositi | tractatusdepotes00wycl=prepositi		4	plate
+217	EDGE	latinworks19wycl=9 | tractatusdepotes00wycl=9		2	accept
+218	THIN	latinworks19wycl=ibid | tractatusdepotes00wycl=lbid		2	plate
+219	EDGE	latinworks19wycl=cap | tractatusdepotes00wycl=cap		2	accept
+220	EDGE	latinworks19wycl=lxiii | tractatusdepotes00wycl=lxiii		2	accept
+221	EDGE	latinworks19wycl=27 | tractatusdepotes00wycl=27		2	accept
+222	EDGE	latinworks19wycl=decreti | tractatusdepotes00wycl=decreti		2	accept
+223	EDGE	latinworks19wycl=secunda | tractatusdepotes00wycl=secunda		2	accept
+224	EDGE	latinworks19wycl=pars | tractatusdepotes00wycl=pars		2	accept
+225	EDGE	latinworks19wycl=causa | tractatusdepotes00wycl=causa		2	accept
+226	EDGE	latinworks19wycl=xxiu | tractatusdepotes00wycl=xxiu		2	accept
+227	THIN	latinworks19wycl=q | tractatusdepotes00wycl=q		2	plate
+228	EDGE	latinworks19wycl=i | tractatusdepotes00wycl=i		2	accept
+229	EDGE	latinworks19wycl=cap | tractatusdepotes00wycl=cap		2	accept
+230	EDGE	latinworks19wycl=xxxi | tractatusdepotes00wycl=xxxi		2	accept
+231	EDGE	latinworks19wycl=didicimus | tractatusdepotes00wycl=didicimus		2	accept

@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+35	R5a	latinworks19wycl=herode | johanniswyclift00mattgoog=herode | johanniswyclift01mattgoog=herode | tractatusdepotes00wycl=herode		4	accept
+67	HEAD	CAPITULUM SEPTIMUM.			plate
+96	R2	latinworks19wycl=xxii | johanniswyclift00mattgoog=xxii | johanniswyclift01mattgoog=xixil | tractatusdepotes00wycl=xxii		4	accept
+152	INS?	acceptauit	2	4	plate
+154	R2	latinworks19wycl=xxii | johanniswyclift00mattgoog=xxii | johanniswyclift01mattgoog=xxii | tractatusdepotes00wycl=∅		4	accept
+155	R3	latinworks19wycl=26 | johanniswyclift00mattgoog=sic | johanniswyclift01mattgoog=26 | tractatusdepotes00wycl=∅		4	plate
+156	R3	latinworks19wycl=sicloquitur | johanniswyclift00mattgoog=loquitur | tractatusdepotes00wycl=sicloquitur		3	plate
+157	R5	latinworks19wycl=ouimaior | johanniswyclift00mattgoog=quimaior | tractatusdepotes00wycl=quimaior		3	plate
+169	R3a	latinworks19wycl=ii | johanniswyclift00mattgoog=ii | johanniswyclift01mattgoog=11 | tractatusdepotes00wycl=ii		4	accept

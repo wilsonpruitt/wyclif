@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=docy		1	accept
+1	EDGE	latinworks19wycl=consul | tractatusdepotes00wycl=consul		2	accept
+2	EDGE	latinworks19wycl=castiga | tractatusdepotes00wycl=castiga		2	accept
+59	R2	latinworks19wycl=i | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=i		4	accept
+128	R3a	latinworks19wycl=sit | johanniswyclift00mattgoog=sit | johanniswyclift01mattgoog=it | tractatusdepotes00wycl=sit		4	accept
+144	R4	latinworks19wycl=ouod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=ouod		4	plate
+162	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=kt | tractatusdepotes00wycl=et		4	accept
+205	R6	latinworks19wycl=to | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=to		4	plate
+212	R2	latinworks19wycl=arsfuitur | johanniswyclift00mattgoog=arcfxiitur | johanniswyclift01mattgoog=arguitur | tractatusdepotes00wycl=arguitur		4	accept

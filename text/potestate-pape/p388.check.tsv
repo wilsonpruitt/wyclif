@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+4	THIN	latinworks19wycl=intoxicat | tractatusdepotes00wycl=intoxicat		2	plate
+5	THIN	latinworks19wycl=ani | tractatusdepotes00wycl=ani		2	plate
+6	THIN	latinworks19wycl=mum | tractatusdepotes00wycl=mum		2	plate
+25	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=m		4	accept
+32	R2	latinworks19wycl=gregorius | johanniswyclift00mattgoog=gregonus | johanniswyclift01mattgoog=gregorius | tractatusdepotes00wycl=iregorms		4	accept
+37	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=qtiod | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=ouod		4	accept
+39	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=ttoh | tractatusdepotes00wycl=non		4	accept
+43	R2	latinworks19wycl=episcopus | johanniswyclift00mattgoog=episcopus | johanniswyclift01mattgoog=eptscoptis | tractatusdepotes00wycl=episcopus		4	accept
+60	R3a	latinworks19wycl=quanto | johanniswyclift00mattgoog=quanto | johanniswyclift01mattgoog=quanta | tractatusdepotes00wycl=quanto		4	accept
+76	R4	latinworks19wycl=ouinta | johanniswyclift00mattgoog=quinta | johanniswyclift01mattgoog=quinta | tractatusdepotes00wycl=ouinta		4	plate
+85	THIN	latinworks19wycl=euanoelica | johanniswyclift01mattgoog=euanffelica		2	plate
+86	THIN	latinworks19wycl=i | johanniswyclift01mattgoog=i		2	plate
+87	THIN	latinworks19wycl=inducendi | johanniswyclift01mattgoog=inducendi		2	plate
+89	R4a	latinworks19wycl=filialem | johanniswyclift01mattgoog=nlialem | tractatusdepotes00wycl=nlialem		3	accept
+91	R2	latinworks19wycl=innitatur | johanniswyclift00mattgoog=innitatut | johanniswyclift01mattgoog=mnltatuu | tractatusdepotes00wycl=mmtatur		4	accept
+128	R2	latinworks19wycl=onod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=quod		4	accept
+132	R2	latinworks19wycl=ille | johanniswyclift01mattgoog=ilkt | tractatusdepotes00wycl=ille		3	accept
+134	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=iu | tractatusdepotes00wycl=in		4	accept
+137	R2	latinworks19wycl=moram | johanniswyclift00mattgoog=moram | johanniswyclift01mattgoog=moruut | tractatusdepotes00wycl=moram		4	accept
+138	R3	latinworks19wycl=facit | johanniswyclift00mattgoog=facii | johanniswyclift01mattgoog=facil | tractatusdepotes00wycl=facit		4	plate
+139	R2	latinworks19wycl=dominus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=dotnihus | tractatusdepotes00wycl=dominus		4	accept
+140	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=metis | tractatusdepotes00wycl=meus		4	plate
+145	R3a	latinworks19wycl=conseruos | johanniswyclift00mattgoog=conserues | johanniswyclift01mattgoog=conseruos | tractatusdepotes00wycl=conseruos		4	accept
+146	R2	latinworks19wycl=suos | johanniswyclift00mattgoog=suos | johanniswyclift01mattgoog=sttos | tractatusdepotes00wycl=stios		4	accept
+147	R3a	latinworks19wycl=dominus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=domituts | tractatusdepotes00wycl=dominiis		4	accept
+149	R4	latinworks19wycl=inopinate | johanniswyclift00mattgoog=inopinaie | johanniswyclift01mattgoog=inopinaie | tractatusdepotes00wycl=inopinate		4	plate
+152	R2	latinworks19wycl=ponet | johanniswyclift00mattgoog=ponet | johanniswyclift01mattgoog=pottel | tractatusdepotes00wycl=ponet		4	accept
+154	R2	latinworks19wycl=eius | johanniswyclift00mattgoog=eins | johanniswyclift01mattgoog=eiits | tractatusdepotes00wycl=eius		4	accept
+160	R2	latinworks19wycl=iure | johanniswyclift00mattgoog=inre | johanniswyclift01mattgoog=itire | tractatusdepotes00wycl=iure		4	accept
+161	R2	latinworks19wycl=depufatur | johanniswyclift00mattgoog=deputatnr | johanniswyclift01mattgoog=deptttaittr | tractatusdepotes00wycl=deputatur		4	accept
+168	R4	latinworks19wycl=uerlit | johanniswyclift00mattgoog=uertit | johanniswyclift01mattgoog=uerlit | tractatusdepotes00wycl=uertit		4	plate
+170	R2	latinworks19wycl=usum | johanniswyclift00mattgoog=nsnm | johanniswyclift01mattgoog=tisttm | tractatusdepotes00wycl=usum		4	accept
+202	R4	latinworks19wycl=prediis | johanniswyclift00mattgoog=predus | johanniswyclift01mattgoog=prediis | tractatusdepotes00wycl=predus		4	plate

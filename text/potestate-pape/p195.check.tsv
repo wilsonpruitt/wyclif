@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=singuli | tractatusdepotes00wycl=singuli		2	accept
+1	EDGE	latinworks19wycl=ecclesiarum | tractatusdepotes00wycl=ecclesiarum		2	accept
+2	EDGE	latinworks19wycl=episcopi | tractatusdepotes00wycl=episcopi		2	accept
+3	EDGE	latinworks19wycl=singuli | tractatusdepotes00wycl=singuli		2	accept
+4	THIN	latinworks19wycl=archipresbiteri | tractatusdepotes00wycl=archipresbiteri		2	plate
+26	R2	latinworks19wycl=omnis | johanniswyclift00mattgoog=omnis | johanniswyclift01mattgoog=otnnis | tractatusdepotes00wycl=omnis		4	accept
+40	R3	latinworks19wycl=ahenum | johanniswyclift00mattgoog=alienum | johanniswyclift01mattgoog=ahenum | tractatusdepotes00wycl=alienum		4	plate
+43	R3	latinworks19wycl=lstis | johanniswyclift00mattgoog=istis | johanniswyclift01mattgoog=istis | tractatusdepotes00wycl=lstis		4	plate
+106	R2	latinworks19wycl=alaior | johanniswyclift00mattgoog=maior | johanniswyclift01mattgoog=maior | tractatusdepotes00wycl=maior		4	accept
+112	R3a	latinworks19wycl=uerbis | johanniswyclift00mattgoog=uerbis | johanniswyclift01mattgoog=uerbi | tractatusdepotes00wycl=uerbis		4	accept
+165	R5a	latinworks19wycl=matthiam | johanniswyclift00mattgoog=matthiam | johanniswyclift01mattgoog=matthiam | tractatusdepotes00wycl=matthiam		4	accept
+196	NW	latinworks19wycl=scan | johanniswyclift00mattgoog=scan | johanniswyclift01mattgoog=scan | tractatusdepotes00wycl=scan		4	plate

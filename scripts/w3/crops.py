@@ -22,10 +22,10 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 
 
-def leaf_image(slug, item, leaf):
+def leaf_image(slug, item, leaf, other=False):
     d = f'{ROOT}/text/{slug}/raw/leaves'
     os.makedirs(d, exist_ok=True)
-    p = f'{d}/n{leaf:04d}.jpg'
+    p = f'{d}/{item}_n{leaf:04d}.jpg' if other else f'{d}/n{leaf:04d}.jpg'   # another scan's leaf (pivotpatch)
     if not os.path.exists(p) or os.path.getsize(p) < 5000:
         subprocess.run(['curl', '-sL', '-o', p, f'https://archive.org/download/{item}/page/n{leaf}.jpg'],
                        check=True)
@@ -54,9 +54,10 @@ def main(slug, first=None, last=None, per=8, queue='plate_queue.tsv', outdir='cr
         batch = q[s:s + per]
         strips = []
         for n, r in enumerate(batch, 1):
-            leaf = int(r['leaf'])
+            src, _, leaf = r['leaf'].rpartition(':')      # 'witness:leaf' = a page pivot-patched from another scan
+            leaf = int(leaf)
             l, t, rr, b = (int(x) for x in r['box'].split(','))
-            im = Image.open(leaf_image(slug, item, leaf)).convert('RGB')
+            im = Image.open(leaf_image(slug, src or item, leaf, other=bool(src))).convert('RGB')
             h = max(b - t, 20)
             box = (0, max(0, int(t - 2.2 * h)), im.width, min(im.height, int(b + 2.0 * h)))
             strip = im.crop(box)

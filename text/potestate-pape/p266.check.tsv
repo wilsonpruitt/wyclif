@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+3	R5	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii		3	plate
+18	R4a	latinworks19wycl=hic | johanniswyclift00mattgoog=hie | johanniswyclift01mattgoog=hie		3	accept
+74	R5	latinworks19wycl=preponderancie | johanniswyclift00mattgoog=preponderancie | johanniswyclift01mattgoog=preponderancie		3	plate
+111	R4a	latinworks19wycl=nec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee		3	accept
+118	R4a	latinworks19wycl=nec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee		3	accept
+150	R5	latinworks19wycl=dan | johanniswyclift00mattgoog=dan | johanniswyclift01mattgoog=dan		3	plate
+178	R3	latinworks19wycl=materie | johanniswyclift00mattgoog=materia | johanniswyclift01mattgoog=materie		3	plate
+189	R5	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis		3	plate
+191	EDGE	latinworks19wycl=consideres | johanniswyclift01mattgoog=consideres		2	accept
+192	EDGE	latinworks19wycl=ante | johanniswyclift01mattgoog=ante		2	accept
+193	EDGE	latinworks19wycl=omnia | johanniswyclift01mattgoog=omnia		2	accept
+194	THIN	latinworks19wycl=sanctam | johanniswyclift01mattgoog=sanclam		2	plate
+195	EDGE	latinworks19wycl=romanam | johanniswyclift01mattgoog=romanam		2	accept
+196	EDGE	latinworks19wycl=ecclesiam | johanniswyclift01mattgoog=ecclesiam		2	accept
+197	EDGE	latinworks19wycl=cui | johanniswyclift01mattgoog=cui		2	accept
+198	EDGE	latinworks19wycl=deo | johanniswyclift01mattgoog=deo		2	accept
+199	THIN	latinworks19wycl=atttore		1	plate
+200	EDGE	latinworks19wycl=prees		1	accept

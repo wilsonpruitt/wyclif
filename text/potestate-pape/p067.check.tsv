@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+14	R3a	latinworks19wycl=poterit | johanniswyclift00mattgoog=poterit | johanniswyclift01mattgoog=potent | tractatusdepotes00wycl=poterit		4	accept
+18	R3a	latinworks19wycl=esset | johanniswyclift00mattgoog=esset | johanniswyclift01mattgoog=asset | tractatusdepotes00wycl=esset		4	accept
+58	R5a	latinworks19wycl=mathiam | johanniswyclift00mattgoog=mathiam | johanniswyclift01mattgoog=mathiam | tractatusdepotes00wycl=mathiam		4	accept
+71	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+85	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept
+96	R5a	latinworks19wycl=iude | johanniswyclift00mattgoog=iude | johanniswyclift01mattgoog=iude | tractatusdepotes00wycl=iude		4	accept
+110	DEL	latinworks19wycl=u | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+112	R5a	latinworks19wycl=mathiam | johanniswyclift00mattgoog=mathiam | johanniswyclift01mattgoog=mathiam | tractatusdepotes00wycl=mathiam		4	accept
+114	R3a	latinworks19wycl=diuino | johanniswyclift00mattgoog=diuino | johanniswyclift01mattgoog=diuine | tractatusdepotes00wycl=diuino		4	accept
+143	R2	latinworks19wycl=tu | johanniswyclift00mattgoog=tit | johanniswyclift01mattgoog=tu | tractatusdepotes00wycl=tu		4	accept
+144	R2	latinworks19wycl=domine | johanniswyclift00mattgoog=domhte | johanniswyclift01mattgoog=domine | tractatusdepotes00wycl=domine		4	accept
+149	R2	latinworks19wycl=hominum | johanniswyclift00mattgoog=hominuntf | johanniswyclift01mattgoog=hnmhiiim | tractatusdepotes00wycl=hominum		4	accept
+150	R2	latinworks19wycl=ostende | johanniswyclift00mattgoog=osiende | johanniswyclift01mattgoog=oseiidc | tractatusdepotes00wycl=ostende		4	accept
+152	R2	latinworks19wycl=elegeris | johanniswyclift00mattgoog=elegeris | johanniswyclift01mattgoog=fituu | tractatusdepotes00wycl=elegeris		4	accept
+154	R6a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=litis | tractatusdepotes00wycl=hiis		4	accept
+155	NW	latinworks19wycl=dnobus | johanniswyclift00mattgoog=duobiis | johanniswyclift01mattgoog=dunbus | tractatusdepotes00wycl=dnobus		4	plate
+156	R3	latinworks19wycl=ihunum | johanniswyclift00mattgoog=umum | johanniswyclift01mattgoog=latum | tractatusdepotes00wycl=unum		4	plate
+158	R2	latinworks19wycl=locuni | johanniswyclift01mattgoog=locititi | tractatusdepotes00wycl=locum		3	accept
+160	R2	latinworks19wycl=huius | johanniswyclift00mattgoog=huius | johanniswyclift01mattgoog=hiiius | tractatusdepotes00wycl=liuius		4	accept
+180	R2	latinworks19wycl=ostende | johanniswyclift00mattgoog=ostende | johanniswyclift01mattgoog=nsiettdc | tractatusdepotes00wycl=ostende		4	accept
+181	R2	latinworks19wycl=quem | johanniswyclift00mattgoog=quem | johanniswyclift01mattgoog=quctn | tractatusdepotes00wycl=quem		4	accept
+182	R2	latinworks19wycl=elegeris | johanniswyclift00mattgoog=elegeris | johanniswyclift01mattgoog=eueris | tractatusdepotes00wycl=elegeris		4	accept

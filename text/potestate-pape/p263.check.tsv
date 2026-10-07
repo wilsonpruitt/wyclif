@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks19wycl=m		1	plate
+1	EDGE	latinworks19wycl=forma		1	accept
+2	EDGE	latinworks19wycl=quam		1	accept
+3	THIN	latinworks19wycl=m		1	plate
+4	THIN	latinworks19wycl=matena		1	plate
+5	THIN	latinworks19wycl=m		1	plate
+54	R2	latinworks19wycl=catholica | johanniswyclift00mattgoog=catholica | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=catholica		4	accept
+74	R2	latinworks19wycl=huius | johanniswyclift00mattgoog=huius | johanniswyclift01mattgoog=itiiius | tractatusdepotes00wycl=huius		4	accept
+176	R4	latinworks19wycl=noster | johanniswyclift00mattgoog=nosier | johanniswyclift01mattgoog=nosier | tractatusdepotes00wycl=noster		4	plate
+177	R5a	latinworks19wycl=hebre | johanniswyclift00mattgoog=hebre | johanniswyclift01mattgoog=hebre | tractatusdepotes00wycl=hebre		4	accept
+184	R4	latinworks19wycl=souniuersaliter | johanniswyclift00mattgoog=souniuersaliter | johanniswyclift01mattgoog=uniuersaliter | tractatusdepotes00wycl=uniuersaliter		4	plate
+186	R4	latinworks19wycl=peccauerit | johanniswyclift00mattgoog=peccaueril | johanniswyclift01mattgoog=peccaueril | tractatusdepotes00wycl=peccauerit		4	plate
+188	R3	latinworks19wycl=te | johanniswyclift00mattgoog=le | johanniswyclift01mattgoog=le | tractatusdepotes00wycl=te		4	plate
+189	R4	latinworks19wycl=frater | johanniswyclift00mattgoog=fraler | johanniswyclift01mattgoog=fraler | tractatusdepotes00wycl=frater		4	plate
+190	R2	latinworks19wycl=tnns | johanniswyclift00mattgoog=inns | johanniswyclift01mattgoog=liitis | tractatusdepotes00wycl=tuus		4	accept
+196	R3a	latinworks19wycl=uiator | johanniswyclift00mattgoog=uiator | johanniswyclift01mattgoog=nator | tractatusdepotes00wycl=uiator		4	accept

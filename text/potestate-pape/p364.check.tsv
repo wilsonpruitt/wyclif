@@ -1,0 +1,29 @@
+pos	rule	forms	support	voters	resolution
+43	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+65	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
+69	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=nt | tractatusdepotes00wycl=ut		4	accept
+80	R2	latinworks19wycl=impar | johanniswyclift00mattgoog=impar | johanniswyclift01mattgoog=hnpar | tractatusdepotes00wycl=impar		4	accept
+81	R5a	latinworks19wycl=his | johanniswyclift00mattgoog=his | johanniswyclift01mattgoog=his | tractatusdepotes00wycl=his		4	accept
+87	R2	latinworks19wycl=culminis | johanniswyclift00mattgoog=cutminis | johanniswyclift01mattgoog=cttltnitiis | tractatusdepotes00wycl=culminis		4	accept
+88	R2	latinworks19wycl=ducatum | johanniswyclift00mattgoog=ducatum | johanniswyclift01mattgoog=iliicatum | tractatusdepotes00wycl=ducatum		4	accept
+102	R2	latinworks19wycl=mei | johanniswyclift00mattgoog=met | johanniswyclift01mattgoog=mei | tractatusdepotes00wycl=mei		4	accept
+114	R2	latinworks19wycl=supernorum | johanniswyclift00mattgoog=supemorum | johanniswyclift01mattgoog=stipernortim | tractatusdepotes00wycl=supernorum		4	accept
+123	R3a	latinworks19wycl=cetis | johanniswyclift00mattgoog=celis | johanniswyclift01mattgoog=celis | tractatusdepotes00wycl=celis		4	accept
+124	R3a	latinworks19wycl=scriptum | johanniswyclift00mattgoog=scriptum | johanniswyclift01mattgoog=scriplum | tractatusdepotes00wycl=scriptum		4	accept
+137	R2	latinworks19wycl=eum | johanniswyclift00mattgoog=eum | johanniswyclift01mattgoog=ent | tractatusdepotes00wycl=eum		4	accept
+138	R2	latinworks19wycl=regem | johanniswyclift00mattgoog=regem | johanniswyclift01mattgoog=etiin | tractatusdepotes00wycl=regem		4	accept
+139	R2	latinworks19wycl=fugit | johanniswyclift00mattgoog=fugit | johanniswyclift01mattgoog=regemfugii | tractatusdepotes00wycl=fugit		4	accept
+162	R3	latinworks19wycl=carne | johanniswyclift00mattgoog=came | johanniswyclift01mattgoog=came | tractatusdepotes00wycl=carne		4	plate
+167	R3a	latinworks19wycl=nos | johanniswyclift00mattgoog=nos | johanniswyclift01mattgoog=hos | tractatusdepotes00wycl=nos		4	accept
+172	R2	latinworks19wycl=eciam | johanniswyclift00mattgoog=eciant | johanniswyclift01mattgoog=eciam | tractatusdepotes00wycl=eciam		4	accept
+176	R2	latinworks19wycl=exemplum | johanniswyclift00mattgoog=exemplnm | johanniswyclift01mattgoog=excniplum | tractatusdepotes00wycl=exemplum		4	accept
+182	R2	latinworks19wycl=noluit | johanniswyclift00mattgoog=nolnit | johanniswyclift01mattgoog=nohiif | tractatusdepotes00wycl=noluit		4	accept
+183	R2	latinworks19wycl=ad | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=ad | tractatusdepotes00wycl=dd		4	accept
+198	THIN	latinworks19wycl=membra		1	plate
+199	THIN	latinworks19wycl=eins		1	plate
+202	R2	latinworks19wycl=mundi | johanniswyclift00mattgoog=mundi | johanniswyclift01mattgoog=uiutidi | tractatusdepotes00wycl=mundi		4	accept
+206	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=noh | tractatusdepotes00wycl=non		4	accept
+211	THIN	latinworks19wycl=diligerei | tractatusdepotes00wycl=diligere		2	plate
+212	EDGE	latinworks19wycl=timendo | tractatusdepotes00wycl=timendo		2	accept
+213	EDGE	latinworks19wycl=prospera | tractatusdepotes00wycl=prospera		2	accept
+214	EDGE	latinworks19wycl=declinare | tractatusdepotes00wycl=declinare		2	accept

@@ -1,0 +1,12 @@
+pos	rule	forms	support	voters	resolution
+19	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=t | tractatusdepotes00wycl=et		4	accept
+26	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+81	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+132	R3	latinworks19wycl=tempora | johanniswyclift00mattgoog=tempera | johanniswyclift01mattgoog=tempera | tractatusdepotes00wycl=tempora		4	plate
+140	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=esi | tractatusdepotes00wycl=est		4	accept
+144	R2	latinworks19wycl=nunquam | johanniswyclift00mattgoog=nunquam | johanniswyclift01mattgoog=tmnquainfuit | tractatusdepotes00wycl=nunquam		4	accept
+145	R2	latinworks19wycl=fuit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fuit		4	accept
+160	R5a	latinworks19wycl=yude | johanniswyclift00mattgoog=yude | johanniswyclift01mattgoog=yude | tractatusdepotes00wycl=yude		4	accept
+177	R2	latinworks19wycl=sentenciam | johanniswyclift00mattgoog=sefiteficiam | johanniswyclift01mattgoog=senteuctam | tractatusdepotes00wycl=sentenciam		4	accept
+178	R2	latinworks19wycl=docto | johanniswyclift00mattgoog=docto | johanniswyclift01mattgoog=dodo | tractatusdepotes00wycl=docto		4	accept
+182	R3a	latinworks19wycl=fidei | johanniswyclift00mattgoog=iidei | johanniswyclift01mattgoog=fidet | tractatusdepotes00wycl=fidei		4	accept

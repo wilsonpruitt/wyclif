@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+60	R2	latinworks19wycl=dicimiis | johanniswyclift00mattgoog=dicimns | johanniswyclift01mattgoog=iliciinus | tractatusdepotes00wycl=dicimus		4	accept
+62	R4	latinworks19wycl=peccatum | johanniswyclift00mattgoog=peccaium | johanniswyclift01mattgoog=peccaium | tractatusdepotes00wycl=peccatuni		4	plate
+64	R4	latinworks19wycl=habewius | johanniswyclift00mattgoog=habemits | johanniswyclift01mattgoog=habemns | tractatusdepotes00wycl=kabemus		4	plate
+65	R3a	latinworks19wycl=nos | johanniswyclift00mattgoog=nos | johanniswyclift01mattgoog=uos | tractatusdepotes00wycl=nos		4	accept
+67	R2	latinworks19wycl=seducimus | johanniswyclift00mattgoog=sedttcinins | johanniswyclift01mattgoog=seiiucimtts | tractatusdepotes00wycl=seducimus		4	accept
+68	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
+70	R3a	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
+75	R3	latinworks19wycl=ioh | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iob | tractatusdepotes00wycl=ioh		4	plate
+76	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1		4	plate
+77	R2	latinworks19wycl=8 | johanniswyclift00mattgoog=8 | johanniswyclift01mattgoog=s | tractatusdepotes00wycl=8		4	accept
+92	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+98	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+116	NW	latinworks19wycl=recompense | johanniswyclift00mattgoog=recompense | johanniswyclift01mattgoog=recompense | tractatusdepotes00wycl=recompense		4	plate
+137	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
+146	R3a	latinworks19wycl=legibus | johanniswyclift00mattgoog=lecfibus | johanniswyclift01mattgoog=leeribus | tractatusdepotes00wycl=leeribus		4	accept
+180	R3	latinworks19wycl=quia | johanniswyclift00mattgoog=quias | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=quis		4	plate
+230	INS?	i	2	4	plate

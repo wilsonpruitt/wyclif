@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+21	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+49	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petruni | tractatusdepotes00wycl=petrum		4	accept
+53	R2	latinworks19wycl=illius | johanniswyclift00mattgoog=illius | johanniswyclift01mattgoog=niius | tractatusdepotes00wycl=illius		4	accept
+83	INS?	i	2	4	plate
+129	R5a	latinworks19wycl=rom | johanniswyclift00mattgoog=rom | johanniswyclift01mattgoog=rom | tractatusdepotes00wycl=rom		4	accept
+133	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+182	R4a	latinworks19wycl=m | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=rn		4	accept
+187	R3a	latinworks19wycl=iorte | johanniswyclift00mattgoog=forte | johanniswyclift01mattgoog=lorte | tractatusdepotes00wycl=torte		4	accept
+191	R2	latinworks19wycl=coniornnter | johanniswyclift00mattgoog=conformiter | johanniswyclift01mattgoog=coniormiter | tractatusdepotes00wycl=conformiter		4	accept
+207	R2	latinworks19wycl=unum | johanniswyclift00mattgoog=unum | johanniswyclift01mattgoog=unura | tractatusdepotes00wycl=unum		4	accept

@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+46	R6	latinworks19wycl=or | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=or		4	plate
+65	R2	latinworks19wycl=i | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=i		4	accept
+84	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+127	THIN	latinworks19wycl=xxuquestione | johanniswyclift01mattgoog=xxuquestione		2	plate
+128	THIN	latinworks19wycl=suut | johanniswyclift01mattgoog=sunt		2	plate
+129	THIN	latinworks19wycl=quidam | johanniswyclift01mattgoog=iiiiidam		2	plate
+159	R2	latinworks19wycl=a | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
+182	R3a	latinworks19wycl=totum | johanniswyclift00mattgoog=totum | johanniswyclift01mattgoog=titum | tractatusdepotes00wycl=totum		4	accept
+185	R3a	latinworks19wycl=inficere | johanniswyclift00mattgoog=inficere | johanniswyclift01mattgoog=inlicere | tractatusdepotes00wycl=inficere		4	accept
+202	R2	latinworks19wycl=antichristo | johanniswyclift00mattgoog=antichristo | johanniswyclift01mattgoog=anti3a | tractatusdepotes00wycl=antichristo		4	accept
+213	THIN	latinworks19wycl=s		1	plate
+214	EDGE	latinworks19wycl=codd		1	accept
+215	EDGE	latinworks19wycl=in		1	accept
+216	EDGE	latinworks19wycl=marg		1	accept
+217	EDGE	latinworks19wycl=regis		1	accept
+218	THIN	latinworks19wycl=qfiicium		1	plate
+219	THIN	latinworks19wycl=tmpedtens		1	plate
+220	EDGE	latinworks19wycl=peccat		1	accept

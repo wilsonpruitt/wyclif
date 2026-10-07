@@ -1,0 +1,67 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=principes | johanniswyclift00mattgoog=principes		2	accept
+1	EDGE	latinworks19wycl=super | johanniswyclift00mattgoog=super		2	accept
+5	R2	latinworks19wycl=tu | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=tu		3	accept
+6	R2	latinworks19wycl=successisti | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=successisti		3	accept
+8	EDGE	latinworks19wycl=hereditatem | tractatusdepotes00wycl=hereditatem		2	accept
+9	EDGE	latinworks19wycl=ita | tractatusdepotes00wycl=ita		2	accept
+10	THIN	latinworks19wycl=tn | tractatusdepotes00wycl=tu		2	plate
+12	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | tractatusdepotes00wycl=et		3	plate
+18	R2	latinworks19wycl=porcio | johanniswyclift00mattgoog=porch | johanniswyclift01mattgoog=porcio | tractatusdepotes00wycl=porcio		4	accept
+19	R2	latinworks19wycl=te | johanniswyclift00mattgoog=ie | johanniswyclift01mattgoog=te | tractatusdepotes00wycl=te		4	accept
+24	R2	latinworks19wycl=pensandum | johanniswyclift00mattgoog=pensandum | johanniswyclift01mattgoog=peusaniiini | tractatusdepotes00wycl=pensandum		4	accept
+29	R2	latinworks19wycl=omnem | johanniswyclift00mattgoog=omnetn | johanniswyclift01mattgoog=otttuem | tractatusdepotes00wycl=omnem		4	accept
+30	R2	latinworks19wycl=modum | johanniswyclift00mattgoog=modnm | johanniswyclift01mattgoog=moilum | tractatusdepotes00wycl=modum		4	accept
+33	R4	latinworks19wycl=quodamtemts | johanniswyclift00mattgoog=quodamienus | johanniswyclift01mattgoog=qnodaiuiettus | tractatusdepotes00wycl=quodamtenus		4	plate
+37	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+38	R3a	latinworks19wycl=tibi | johanniswyclift00mattgoog=iibi | johanniswyclift01mattgoog=ubi | tractatusdepotes00wycl=tibi		4	accept
+40	R3	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=es | tractatusdepotes00wycl=est		4	plate
+56	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus		4	plate
+60	R2	latinworks19wycl=usurpat | johanniswyclift00mattgoog=usurpat | johanniswyclift01mattgoog=nsurpal | tractatusdepotes00wycl=usurpat		4	accept
+67	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus		4	plate
+68	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
+74	R2	latinworks19wycl=kon | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=non		4	accept
+81	R3a	latinworks19wycl=erit | johanniswyclift00mattgoog=erii | johanniswyclift01mattgoog=erit | tractatusdepotes00wycl=erit		4	accept
+88	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
+92	R3a	latinworks19wycl=ueudicat | johanniswyclift00mattgoog=uendicai | johanniswyclift01mattgoog=ucndicat | tractatusdepotes00wycl=uendicat		4	accept
+94	R3	latinworks19wycl=iure | johanniswyclift00mattgoog=lure | johanniswyclift01mattgoog=lure | tractatusdepotes00wycl=iure		4	plate
+96	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+99	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ct | tractatusdepotes00wycl=et		4	accept
+102	R2	latinworks19wycl=cui | johanniswyclift00mattgoog=cui | johanniswyclift01mattgoog=cut | tractatusdepotes00wycl=cui		4	accept
+106	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
+110	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	plate
+113	R2	latinworks19wycl=gentes | johanniswyclift00mattgoog=genies | johanniswyclift01mattgoog=geules | tractatusdepotes00wycl=gentes		4	accept
+116	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+118	R2	latinworks19wycl=tuam | johanniswyclift00mattgoog=tuafn | johanniswyclift01mattgoog=tuaihb | tractatusdepotes00wycl=tuam		4	accept
+122	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+126	R3a	latinworks19wycl=tu | johanniswyclift00mattgoog=iu | johanniswyclift01mattgoog=tu | tractatusdepotes00wycl=tu		4	accept
+131	R2	latinworks19wycl=tua | johanniswyclift00mattgoog=iua | johanniswyclift01mattgoog=tua | tractatusdepotes00wycl=tua		4	accept
+134	R3a	latinworks19wycl=ue | johanniswyclift00mattgoog=ne | johanniswyclift01mattgoog=ne | tractatusdepotes00wycl=ne		4	accept
+144	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
+146	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+151	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=mm | johanniswyclift01mattgoog=cum | tractatusdepotes00wycl=cum		4	accept
+159	R3	latinworks19wycl=eciam | johanniswyclift00mattgoog=edam | johanniswyclift01mattgoog=ecianiii | tractatusdepotes00wycl=eciani		4	plate
+161	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
+163	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+167	R2	latinworks19wycl=ita | johanniswyclift00mattgoog=iia | johanniswyclift01mattgoog=ita | tractatusdepotes00wycl=ita		4	accept
+168	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+169	R3a	latinworks19wycl=tuf | johanniswyclift00mattgoog=iu | johanniswyclift01mattgoog=tu | tractatusdepotes00wycl=tu		4	accept
+172	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+174	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+176	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ttt | tractatusdepotes00wycl=ut		4	plate
+178	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+181	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+184	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+189	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+192	R3a	latinworks19wycl=escam | johanniswyclift00mattgoog=escam | johanniswyclift01mattgoog=escant | tractatusdepotes00wycl=escam		4	accept
+196	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=est | tractatusdepotes00wycl=est		4	accept
+197	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+200	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+204	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+206	R2	latinworks19wycl=te | johanniswyclift00mattgoog=ie | johanniswyclift01mattgoog=te | tractatusdepotes00wycl=te		4	accept
+207	R3a	latinworks19wycl=nou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=non		4	accept
+208	R2	latinworks19wycl=affectes | johanniswyclift00mattgoog=affectes | johanniswyclift01mattgoog=aifcctcs | tractatusdepotes00wycl=aifectes		4	accept
+210	R2	latinworks19wycl=homo | johanniswyclift00mattgoog=homo | johanniswyclift01mattgoog=hotno | tractatusdepotes00wycl=homo		4	accept
+216	R4	latinworks19wycl=x | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=irx		3	plate
+217	R2	latinworks19wycl=istis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=istis		3	accept
+231	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept

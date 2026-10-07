@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=non		1	accept
+1	THIN	latinworks19wycl=admberet		1	plate
+2	INS?	ante finem correpcionis tercie in quo uiderit fratrem suum non esse apcius corrigendum tercio debet notare quod sit socius et minister ecclesie aliter enim non adhiberet	2	4	plate
+22	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
+24	R2	latinworks19wycl=octauam | johanniswyclift00mattgoog=octaucin | johanniswyclift01mattgoog=octauam | tractatusdepotes00wycl=octauam		4	accept
+29	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+46	R2	latinworks19wycl=petri | johanniswyclift00mattgoog=petn | johanniswyclift01mattgoog=fetn | tractatusdepotes00wycl=retri		4	accept
+51	R4a	latinworks19wycl=fuerit | johanniswyclift00mattgoog=fuent | johanniswyclift01mattgoog=fuent | tractatusdepotes00wycl=tuerit		4	accept
+54	R3	latinworks19wycl=amori | johanniswyclift00mattgoog=amoris | johanniswyclift01mattgoog=amori | tractatusdepotes00wycl=amoris		4	plate
+58	NW	latinworks19wycl=papatui | johanniswyclift00mattgoog=papatui | johanniswyclift01mattgoog=papatui | tractatusdepotes00wycl=papatui		4	plate
+105	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
+125	R3	latinworks19wycl=ex | johanniswyclift00mattgoog=exao | johanniswyclift01mattgoog=exi | tractatusdepotes00wycl=ex		4	plate
+171	R2	latinworks19wycl=si | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=si		4	accept
+182	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept

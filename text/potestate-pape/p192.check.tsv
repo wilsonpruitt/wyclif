@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks19wycl=unlt		1	plate
+1	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
+2	EDGE	latinworks19wycl=corpus | tractatusdepotes00wycl=corpus		2	accept
+3	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
+4	EDGE	latinworks19wycl=caput | tractatusdepotes00wycl=caput		2	accept
+5	THIN	latinworks19wycl=couatur | tractatusdepotes00wycl=conatur		2	plate
+31	R3a	latinworks19wycl=negare | johanniswyclift00mattgoog=negare | johanniswyclift01mattgoog=negate | tractatusdepotes00wycl=negare		4	accept
+32	R2	latinworks19wycl=christum | johanniswyclift00mattgoog=christunt | johanniswyclift01mattgoog=chrislutn | tractatusdepotes00wycl=christum		4	accept
+38	R2	latinworks19wycl=christum | johanniswyclift00mattgoog=christum | johanniswyclift01mattgoog=stum | tractatusdepotes00wycl=christum		4	accept
+39	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=noil | tractatusdepotes00wycl=non		4	accept
+46	R3	latinworks19wycl=uobiscum | johanniswyclift00mattgoog=nobiscum | tractatusdepotes00wycl=nobiscum		3	plate
+50	R2	latinworks19wycl=ipsum | johanniswyclift00mattgoog=ipsum | johanniswyclift01mattgoog=ipsutn | tractatusdepotes00wycl=ipsum		4	accept
+56	R3	latinworks19wycl=iiii | johanniswyclift00mattgoog=hit | johanniswyclift01mattgoog=illi | tractatusdepotes00wycl=illi		4	plate
+62	R2	latinworks19wycl=contempnitis | johanniswyclift00mattgoog=contempnitis | johanniswyclift01mattgoog=coiiiempnilis | tractatusdepotes00wycl=contempnitis		4	accept
+65	R3	latinworks19wycl=ceto | johanniswyclift01mattgoog=celo | tractatusdepotes00wycl=celo		3	plate
+66	R2	latinworks19wycl=et | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=t		3	accept
+116	R2	latinworks19wycl=ouisquis | johanniswyclift00mattgoog=qitisquis | johanniswyclift01mattgoog=otiisqiiis | tractatusdepotes00wycl=quisquis		4	accept
+124	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
+130	R2	latinworks19wycl=pericnla | johanniswyclift00mattgoog=pericula | johanniswyclift01mattgoog=pcriciila | tractatusdepotes00wycl=pericula		4	accept
+134	R2	latinworks19wycl=possunt | johanniswyclift00mattgoog=possunt | johanniswyclift01mattgoog=posshiif | tractatusdepotes00wycl=possunt		4	accept
+138	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=iu | tractatusdepotes00wycl=in		4	accept
+139	R3a	latinworks19wycl=faisis | johanniswyclift00mattgoog=falsis | johanniswyclift01mattgoog=alsis | tractatusdepotes00wycl=falsis		4	accept
+146	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non		4	accept
+147	R2	latinworks19wycl=nouerunt | johanniswyclift00mattgoog=nouerunf | johanniswyclift01mattgoog=uoueruu | tractatusdepotes00wycl=nouerunt		4	accept
+148	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=et		4	accept
+178	R2	latinworks19wycl=substauciam | johanniswyclift00mattgoog=substanciam | johanniswyclift01mattgoog=snbsiaitciam | tractatusdepotes00wycl=substanciam		4	accept
+179	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=nt | johanniswyclift01mattgoog=itl | tractatusdepotes00wycl=ut		4	plate
+182	R3a	latinworks19wycl=uon | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=noti | tractatusdepotes00wycl=non		4	accept
+198	R2	latinworks19wycl=ideo | johanniswyclift00mattgoog=ideo | johanniswyclift01mattgoog=iiieo | tractatusdepotes00wycl=ideo		4	accept

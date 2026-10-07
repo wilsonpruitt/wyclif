@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+5	R3a	latinworks19wycl=ornamenta | johanniswyclift00mattgoog=omamenta | johanniswyclift01mattgoog=ornamento | tractatusdepotes00wycl=ornamenta		4	accept
+15	NW	latinworks19wycl=manipulam | johanniswyclift00mattgoog=manipulam | johanniswyclift01mattgoog=inanipulam | tractatusdepotes00wycl=manipulam		4	plate
+46	THIN	latinworks19wycl=misse | tractatusdepotes00wycl=misse		2	plate
+47	THIN	latinworks19wycl=ne | tractatusdepotes00wycl=ne		2	plate
+48	THIN	latinworks19wycl=adulterinis | tractatusdepotes00wycl=adulterinis		2	plate
+49	THIN	latinworks19wycl=sensacionibus | tractatusdepotes00wycl=sensacionibus		2	plate
+50	THIN	latinworks19wycl=temptet | tractatusdepotes00wycl=temptet		2	plate
+51	THIN	latinworks19wycl=mentem | tractatusdepotes00wycl=mentem		2	plate
+52	THIN	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	plate
+70	R2	latinworks19wycl=si | johanniswyclift00mattgoog=si | johanniswyclift01mattgoog=6u | tractatusdepotes00wycl=si		4	accept
+77	R5a	latinworks19wycl=petr | johanniswyclift00mattgoog=petr | johanniswyclift01mattgoog=petr | tractatusdepotes00wycl=petr		4	accept
+79	R3a	latinworks19wycl=11 | johanniswyclift00mattgoog=11 | johanniswyclift01mattgoog=ii | tractatusdepotes00wycl=11		4	accept
+90	R3	latinworks19wycl=stricta | johanniswyclift00mattgoog=striata | johanniswyclift01mattgoog=striata | tractatusdepotes00wycl=stricta		4	plate
+124	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+193	R2	latinworks19wycl=longenimitatis | johanniswyclift00mattgoog=longenimitatis | johanniswyclift01mattgoog=longeo | tractatusdepotes00wycl=longenimitatis		4	accept

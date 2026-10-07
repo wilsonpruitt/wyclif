@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+34	R2	latinworks19wycl=interhomines | johanniswyclift00mattgoog=interhomines | johanniswyclift01mattgoog=intor | tractatusdepotes00wycl=interhomines		4	accept
+37	R2	latinworks19wycl=t | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+69	R3a	latinworks19wycl=helye | johanniswyclift00mattgoog=helue | johanniswyclift01mattgoog=helye | tractatusdepotes00wycl=helye		4	accept
+71	R2	latinworks19wycl=reg | johanniswyclift00mattgoog=recf | johanniswyclift01mattgoog=reg | tractatusdepotes00wycl=reg		4	accept
+72	R3a	latinworks19wycl=primo | johanniswyclift00mattgoog=pnmo | johanniswyclift01mattgoog=prime | tractatusdepotes00wycl=primo		4	accept
+93	R3a	latinworks19wycl=fulmen | johanniswyclift00mattgoog=isfulmen | johanniswyclift01mattgoog=tifulmen | tractatusdepotes00wycl=isfulmen		4	accept
+146	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=es | tractatusdepotes00wycl=est		4	accept
+147	R2	latinworks19wycl=delictum | johanniswyclift00mattgoog=dehcimn | johanniswyclift01mattgoog=delictum | tractatusdepotes00wycl=delictum		4	accept
+151	R3a	latinworks19wycl=iudicia | johanniswyclift00mattgoog=indicia | johanniswyclift01mattgoog=iudicia | tractatusdepotes00wycl=iudicia		4	accept
+218	R2	latinworks19wycl=quare | johanniswyclift00mattgoog=quare | johanniswyclift01mattgoog=qitare | tractatusdepotes00wycl=quare		4	accept
+222	EDGE	latinworks19wycl=patimini | tractatusdepotes00wycl=patimini		2	accept
+223	EDGE	latinworks19wycl=per | tractatusdepotes00wycl=per		2	accept

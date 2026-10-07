@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+14	R3a	latinworks19wycl=ecclesie | johanniswyclift00mattgoog=ecclesia | johanniswyclift01mattgoog=ecclesie | tractatusdepotes00wycl=ecclesie		4	accept
+23	R3a	latinworks19wycl=malo | johanniswyclift00mattgoog=malo | johanniswyclift01mattgoog=male | tractatusdepotes00wycl=malo		4	accept
+36	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+41	DEL	latinworks19wycl=to | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+73	R3a	latinworks19wycl=forent | johanniswyclift00mattgoog=torent | johanniswyclift01mattgoog=forent | tractatusdepotes00wycl=forent		4	accept
+91	R3a	latinworks19wycl=inuolucro | johanniswyclift00mattgoog=inuolucro | johanniswyclift01mattgoog=inuolucre | tractatusdepotes00wycl=inuolucro		4	accept
+109	R2	latinworks19wycl=ordinem | johanniswyclift00mattgoog=ordiuent | johanniswyclift01mattgoog=ordinem | tractatusdepotes00wycl=ordinem		4	accept
+110	R2	latinworks19wycl=fiant | johanniswyclift00mattgoog=iiant | johanniswyclift01mattgoog=fiiint | tractatusdepotes00wycl=fiant		4	accept

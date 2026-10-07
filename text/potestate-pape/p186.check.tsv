@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+6	R4	latinworks19wycl=cu | johanniswyclift00mattgoog=opinio | johanniswyclift01mattgoog=opinio | tractatusdepotes00wycl=cu		4	plate
+7	R6	latinworks19wycl=pmi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=pmi		4	plate
+75	R2	latinworks19wycl=romanus | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=romaiius | tractatusdepotes00wycl=romanus		4	accept
+80	R2	latinworks19wycl=uidetur | johanniswyclift00mattgoog=uidetur | johanniswyclift01mattgoog=uidctiir | tractatusdepotes00wycl=uidetur		4	accept
+82	R2	latinworks19wycl=cnm | johanniswyclift00mattgoog=chfit | tractatusdepotes00wycl=cum		3	accept
+83	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=melius | tractatusdepotes00wycl=meus		3	plate
+84	R2	latinworks19wycl=foret | johanniswyclift00mattgoog=fotct | tractatusdepotes00wycl=foret		3	accept
+87	R2	latinworks19wycl=nullus | johanniswyclift00mattgoog=nullus | johanniswyclift01mattgoog=ttullns | tractatusdepotes00wycl=nullus		4	accept
+88	R2	latinworks19wycl=foret | johanniswyclift00mattgoog=foret | johanniswyclift01mattgoog=ford | tractatusdepotes00wycl=foret		4	accept
+89	R2	latinworks19wycl=huiusmodi | johanniswyclift00mattgoog=huiusmodi | johanniswyclift01mattgoog=huitisniodi | tractatusdepotes00wycl=huiusmodi		4	accept
+93	R2	latinworks19wycl=ante | johanniswyclift00mattgoog=ante | johanniswyclift01mattgoog=attic | tractatusdepotes00wycl=ante		4	accept
+98	R2	latinworks19wycl=regutabatur | johanniswyclift00mattgoog=regulabatur | johanniswyclift01mattgoog=regnlabaliir | tractatusdepotes00wycl=regulabatur		4	accept
+102	R2	latinworks19wycl=pro | johanniswyclift00mattgoog=pro | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=pro		4	accept
+205	R2	latinworks19wycl=prepositum | johanniswyclift00mattgoog=prepositum | johanniswyclift01mattgoog=prepo | tractatusdepotes00wycl=prepositum		4	accept
+232	R3a	latinworks19wycl=capite | johanniswyclift00mattgoog=capite | johanniswyclift01mattgoog=capita | tractatusdepotes00wycl=capite		4	accept

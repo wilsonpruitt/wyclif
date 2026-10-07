@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=et		1	accept
+1	INS?	sic docuerunt mediate uel immediate omnia genera gentium grecos latinos et barbaros a	2	4	plate
+1	EDGE	latinworks19wycl=patet | tractatusdepotes00wycl=patet		2	accept
+2	EDGE	latinworks19wycl=secundo | tractatusdepotes00wycl=secundo		2	accept
+3	EDGE	latinworks19wycl=quomodo | tractatusdepotes00wycl=quomodo		2	accept
+4	EDGE	latinworks19wycl=christus | tractatusdepotes00wycl=christus		2	accept
+5	EDGE	latinworks19wycl=tempore | tractatusdepotes00wycl=tempore		2	accept
+6	EDGE	latinworks19wycl=quo | tractatusdepotes00wycl=quo		2	accept
+23	R3a	latinworks19wycl=consilia | johanniswyclift00mattgoog=consilia | johanniswyclift01mattgoog=consilii | tractatusdepotes00wycl=consilia		4	accept
+54	R4	latinworks19wycl=omnibns | johanniswyclift00mattgoog=omuihus | johanniswyclift01mattgoog=omiiibns | tractatusdepotes00wycl=omuibus		4	plate
+55	R4	latinworks19wycl=laborauit | johanniswyclift00mattgoog=laborauif | johanniswyclift01mattgoog=laborauil | tractatusdepotes00wycl=laborauil		4	plate
+108	R3a	latinworks19wycl=ceteros | johanniswyclift00mattgoog=ceteris | johanniswyclift01mattgoog=ceteros | tractatusdepotes00wycl=ceteros		4	accept
+157	R3a	latinworks19wycl=quin | johanniswyclift00mattgoog=uin | johanniswyclift01mattgoog=quin | tractatusdepotes00wycl=quin		4	accept
+162	R3a	latinworks19wycl=proticere | johanniswyclift00mattgoog=proflcere | johanniswyclift01mattgoog=prolicere | tractatusdepotes00wycl=proficere		4	accept
+168	NW	latinworks19wycl=dyocesi | johanniswyclift00mattgoog=dyocesi | johanniswyclift01mattgoog=dyocesi | tractatusdepotes00wycl=dyocesf		4	plate
+198	NW	latinworks19wycl=pnmeua | johanniswyclift00mattgoog=inmeua | johanniswyclift01mattgoog=pnmeua | tractatusdepotes00wycl=pnraeua		4	plate
+200	R3a	latinworks19wycl=cupiaitate | johanniswyclift00mattgoog=cupioditate | johanniswyclift01mattgoog=cupiditate | tractatusdepotes00wycl=cupio		4	accept
+224	R5a	latinworks19wycl=romane | johanniswyclift00mattgoog=romane | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept

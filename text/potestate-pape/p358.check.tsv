@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=cum		1	accept
+1	THIN	latinworks19wycl=ipsara		1	plate
+78	R3a	latinworks19wycl=inter | johanniswyclift00mattgoog=inter | johanniswyclift01mattgoog=infer | tractatusdepotes00wycl=inter		4	accept
+87	R4	latinworks19wycl=that | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=ged		4	plate
+88	DEL	latinworks19wycl=gei | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+95	R4	latinworks19wycl=hanc | johanniswyclift00mattgoog=hanc5 | johanniswyclift01mattgoog=hanc | tractatusdepotes00wycl=hanc5		4	plate
+96	R2	latinworks19wycl=uiam | johanniswyclift00mattgoog=yiam | johanniswyclift01mattgoog=uiam | tractatusdepotes00wycl=∅		4	accept
+155	R3a	latinworks19wycl=deficientibus | johanniswyclift00mattgoog=deticientibus | johanniswyclift01mattgoog=delicientibus | tractatusdepotes00wycl=deficientibus		4	accept

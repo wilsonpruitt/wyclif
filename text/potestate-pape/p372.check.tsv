@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=illum | tractatusdepotes00wycl=illum		2	accept
+99	R4	latinworks19wycl=elemosne | johanniswyclift00mattgoog=elemosine | johanniswyclift01mattgoog=elemogine | tractatusdepotes00wycl=elemosne		4	plate
+100	R2	latinworks19wycl=spirrtualis | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=spiritualis | tractatusdepotes00wycl=spiritualis		4	accept
+105	R2	latinworks19wycl=misericordie | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=misericordie | tractatusdepotes00wycl=misericordie		4	accept
+106	R4	latinworks19wycl=uei | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=yg | tractatusdepotes00wycl=uei		4	plate
+136	NW	latinworks19wycl=peiorasset | johanniswyclift00mattgoog=peiorasset | johanniswyclift01mattgoog=peiorasset | tractatusdepotes00wycl=peiorasset		4	plate
+170	R3a	latinworks19wycl=tacerent | johanniswyclift00mattgoog=facerent | johanniswyclift01mattgoog=facerent | tractatusdepotes00wycl=facerent		4	accept
+172	NW	latinworks19wycl=proprietanos | johanniswyclift00mattgoog=proprietaries | johanniswyclift01mattgoog=proprietanos | tractatusdepotes00wycl=proprietanos		4	plate

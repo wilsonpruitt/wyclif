@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	Sacramentum pingne dabo			plate
+3	EDGE	latinworks19wycl=non | tractatusdepotes00wycl=non		2	accept
+8	R2	latinworks19wycl=signa | johanniswyclift00mattgoog=sigtia | johanniswyclift01mattgoog=signa | tractatusdepotes00wycl=signa		4	accept
+50	R5	latinworks19wycl=omniain | johanniswyclift01mattgoog=omniain | tractatusdepotes00wycl=omniain		3	plate
+119	R3a	latinworks19wycl=triumphanti | johanniswyclift00mattgoog=triumphanti | johanniswyclift01mattgoog=triumphant | tractatusdepotes00wycl=triumphanti		4	accept
+141	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept
+158	R2	latinworks19wycl=mutus | johanniswyclift00mattgoog=mtitus | johanniswyclift01mattgoog=uitilus | tractatusdepotes00wycl=mutus		4	accept
+191	R4	latinworks19wycl=orci | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iq | tractatusdepotes00wycl=orci		4	plate

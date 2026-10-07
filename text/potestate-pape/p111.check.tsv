@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=finali		1	accept
+1	EDGE	latinworks19wycl=legis		1	accept
+2	EDGE	latinworks19wycl=dominice		1	accept
+89	R2	latinworks19wycl=sanctii | johanniswyclift00mattgoog=sanctitatem | johanniswyclift01mattgoog=sanctitatem | tractatusdepotes00wycl=sanctitatem		4	accept
+90	DEL	latinworks19wycl=tatem | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+115	INS	similiter	3	4	accept
+124	INS	i	3	4	accept
+131	R2	latinworks19wycl=angelns | johanniswyclift00mattgoog=angelus | johanniswyclift01mattgoog=aneltis | tractatusdepotes00wycl=angehis		4	accept
+140	R2	latinworks19wycl=thema | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=thema		3	accept
+184	R4	latinworks19wycl=o | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=go		4	plate
+195	R2	latinworks19wycl=quis | johanniswyclift01mattgoog=qiiis | tractatusdepotes00wycl=quis		3	accept
+196	R2	latinworks19wycl=apposuerit | johanniswyclift01mattgoog=appnsneru | tractatusdepotes00wycl=apposuerit		3	accept
+197	R3	latinworks19wycl=ad | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=ai		3	plate
+199	R2	latinworks19wycl=apponet | johanniswyclift01mattgoog=appottel | tractatusdepotes00wycl=apponet		3	accept
+202	R3	latinworks19wycl=illum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		3	plate
+206	THIN	latinworks19wycl=lihro		1	plate

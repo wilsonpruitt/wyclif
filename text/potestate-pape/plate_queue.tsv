@@ -1,0 +1,1406 @@
+page	pos	rule	forms	leaf	box
+1	1	GAP	am indebted to the kindness of Director of the Landesarchiv. I lake this opportthem both, and also the Director of the Prague Library, and Dr. Eichler, of the Grraz University spared no trouble to procure the MSS. J. Loserth. lam	62	556,1375,811,1427
+1	99	R5	latinworks19wycl=u | johanniswyclift00mattgoog=u | tractatusdepotes00wycl=u	62	1685,2788,1786,2838
+1	111	THIN	latinworks19wycl=atit | tractatusdepotes00wycl=aut	62	999,2967,1138,3016
+2	21	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | johanniswyclift01mattgoog=stent | tractatusdepotes00wycl=sicut	63	682,841,879,892
+3	16	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	64	1547,758,1704,809
+3	96	R5	latinworks19wycl=estperpetuaindelebilis | johanniswyclift01mattgoog=estperpetuaindelebilis | tractatusdepotes00wycl=estperpetuaindelebilis	64	363,1815,1142,1882
+3	97	R4	latinworks19wycl=sedrestiingibilis | johanniswyclift01mattgoog=sedrestiingibilis | tractatusdepotes00wycl=sed	64	1142,1815,1709,1884
+3	175	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	64	1929,2963,2026,3014
+3	185	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	64	855,3138,991,3190
+4	65	R4	latinworks19wycl=poteg | johanniswyclift00mattgoog=potestatem | johanniswyclift01mattgoog=potestatem | tractatusdepotes00wycl=poteg	65	2157,1476,2331,1536
+4	66	R6	latinworks19wycl=statem | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=statem	65	673,1563,915,1607
+5	5	NW	latinworks19wycl=coactiuo | johanniswyclift00mattgoog=coactiuo | johanniswyclift01mattgoog=coactiuo | tractatusdepotes00wycl=coactiuo	66	1584,643,1898,695
+5	101	R3	latinworks19wycl=5 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=∅	66	302,1876,373,1928
+6	179	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	67	1460,2808,1618,2858
+6	192	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the	67	550,3069,731,3143
+7	0	THIN	latinworks19wycl=multiphcem | johanniswyclift01mattgoog=multiphcem	68	773,604,1202,668
+7	2	THIN	latinworks19wycl=termmos | johanniswyclift01mattgoog=termmos	68	1300,604,1628,652
+7	3	THIN	latinworks19wycl=magistrales | johanniswyclift01mattgoog=mainstrales	68	1628,604,2062,668
+7	37	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	68	1028,1131,1165,1181
+7	141	R4	latinworks19wycl=deducti | johanniswyclift00mattgoog=deductt | johanniswyclift01mattgoog=deductt | tractatusdepotes00wycl=deducti	68	546,2366,813,2415
+7	145	R4	latinworks19wycl=relati | johanniswyclift00mattgoog=relatt | johanniswyclift01mattgoog=relatt | tractatusdepotes00wycl=relati	68	1241,2366,1495,2415
+8	116	R4	latinworks19wycl=antiquiiaie | johanniswyclift01mattgoog=antiquii | tractatusdepotes00wycl=antiquiaiet	69	2080,2065,2319,2130
+8	117	R4	latinworks19wycl=n | johanniswyclift01mattgoog=t | tractatusdepotes00wycl=n	69	828,2152,929,2208
+8	118	R3	latinworks19wycl=dignitate | johanniswyclift01mattgoog=iu | tractatusdepotes00wycl=dignitate	69	929,2152,1235,2216
+8	125	R4	latinworks19wycl=prius | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=p | tractatusdepotes00wycl=prus	69	650,2241,864,2305
+9	16	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	70	1053,785,1190,836
+9	32	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	70	1355,961,1466,1014
+9	76	R3	latinworks19wycl=ht | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=lit | tractatusdepotes00wycl=et	70	610,1672,714,1719
+10	0	THIN	latinworks19wycl=to | tractatusdepotes00wycl=to	71	685,595,845,655
+10	16	R5	latinworks19wycl=insant | johanniswyclift00mattgoog=insant | tractatusdepotes00wycl=insant	71	1897,771,2133,824
+11	14	R3	latinworks19wycl=nou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=nou	72	1012,714,1154,760
+11	37	R4	latinworks19wycl=angelorurm | johanniswyclift00mattgoog=angelorum | johanniswyclift01mattgoog=angelorum | tractatusdepotes00wycl=angelorurm	72	1574,973,1939,1039
+12	144	R4	latinworks19wycl=ouod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=ouod	73	733,2458,978,2511
+12	205	R6	latinworks19wycl=to | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=to	73	639,3427,805,3474
+14	67	R4	latinworks19wycl=prducendo | johanniswyclift00mattgoog=producendo | johanniswyclift01mattgoog=producendo | tractatusdepotes00wycl=prducendo	75	881,1513,1321,1578
+15	125	R4	latinworks19wycl=oconcurrat | johanniswyclift00mattgoog=concurrat | johanniswyclift01mattgoog=oconcurrat | tractatusdepotes00wycl=concurrat	76	224,2265,661,2314
+16	170	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	77	1353,2870,1573,2920
+17	83	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	78	1472,1697,1599,1749
+17	166	NW	latinworks19wycl=concomitanter | johanniswyclift00mattgoog=concomitanter | johanniswyclift01mattgoog=concomitanter | tractatusdepotes00wycl=concomitanter	78	1038,2934,1576,2984
+19	65	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	80	1838,1507,1854,1538
+19	148	INS?	n	80	304,2545,439,2596
+19	214	R5	latinworks19wycl=aperuitos | johanniswyclift00mattgoog=aperuitos | tractatusdepotes00wycl=aperuitos	80	1139,3342,1475,3407
+20	88	R4	latinworks19wycl=ubii | johanniswyclift00mattgoog=ubii | johanniswyclift01mattgoog=nbi | tractatusdepotes00wycl=ubi	81	761,1671,914,1739
+21	3	R4	latinworks19wycl=talem | johanniswyclift00mattgoog=talent | johanniswyclift01mattgoog=talent | tractatusdepotes00wycl=talem	82	1122,633,1374,697
+21	5	R3	latinworks19wycl=dens | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus	82	1606,634,1790,685
+21	9	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=itt | tractatusdepotes00wycl=ut	82	974,725,1075,772
+21	190	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	82	1077,3014,1233,3065
+22	0	HEAD	CAPITULUM SECUNDUM.	83	1022,778,1622,858
+22	132	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	83	1973,2554,2087,2605
+22	175	INS?	tendere	83	1052,3083,1267,3146
+22	184	INS?	i	83	992,3171,1267,3239
+23	17	NW	latinworks19wycl=uolitum | johanniswyclift00mattgoog=uolitum | johanniswyclift01mattgoog=uolitum | tractatusdepotes00wycl=uolitum	84	472,776,759,826
+23	31	R3	latinworks19wycl=hortamur | johanniswyclift00mattgoog=horiamur | johanniswyclift01mattgoog=horiamur | tractatusdepotes00wycl=hortamur	84	1664,949,1997,1003
+23	90	NW	latinworks19wycl=penculosior | johanniswyclift00mattgoog=penculosior | johanniswyclift01mattgoog=penculosior | tractatusdepotes00wycl=penculosior	84	417,1744,843,1811
+23	120	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	84	1324,2094,1516,2145
+24	164	R6	latinworks19wycl=are | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=are	85	624,2758,818,2806
+24	223	THIN	latinworks19wycl=eay	85	2144,3478,2293,3529
+28	0	THIN	latinworks19wycl=mnndi	89	750,577,1025,630
+28	6	R4	latinworks19wycl=iniendebat | johanniswyclift00mattgoog=intendebat | johanniswyclift01mattgoog=iniendebat | tractatusdepotes00wycl=intendebat	89	2233,575,2407,631
+28	10	R3	latinworks19wycl=erant | johanniswyclift00mattgoog=erani | johanniswyclift01mattgoog=erani | tractatusdepotes00wycl=erant	89	1823,667,2021,718
+28	94	NW	latinworks19wycl=leuita | johanniswyclift00mattgoog=leuita | johanniswyclift01mattgoog=leuua | tractatusdepotes00wycl=leuita	89	1527,1726,1743,1776
+28	108	R5	latinworks19wycl=leuita | johanniswyclift00mattgoog=leuita | tractatusdepotes00wycl=leuita	89	747,1901,982,1953
+28	129	R4	latinworks19wycl=ligantur | johanniswyclift00mattgoog=liganiur | johanniswyclift01mattgoog=liganiur | tractatusdepotes00wycl=ligantur	89	747,2167,1047,2232
+28	167	R4	latinworks19wycl=ieus | johanniswyclift00mattgoog=iig | johanniswyclift01mattgoog=ieus | tractatusdepotes00wycl=deus	89	748,2609,960,2660
+29	101	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=tu | tractatusdepotes00wycl=tu	90	1439,1772,1537,1823
+29	104	R5	latinworks19wycl=tamenamplius | johanniswyclift00mattgoog=tamenamplius | tractatusdepotes00wycl=tamenamplius	90	658,1859,1152,1927
+29	130	R4	latinworks19wycl=graciam | johanniswyclift00mattgoog=gaciam | johanniswyclift01mattgoog=gaciam | tractatusdepotes00wycl=graciam	90	334,2212,673,2280
+30	79	R4	latinworks19wycl=precipit | johanniswyclift00mattgoog=precipii | johanniswyclift01mattgoog=precipii | tractatusdepotes00wycl=precipit	91	1648,1550,1957,1615
+32	74	R4	latinworks19wycl=u | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=n	93	676,1653,818,1712
+32	147	R3	latinworks19wycl=18 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=is | tractatusdepotes00wycl=18	93	1888,2624,2030,2675
+32	168	R3	latinworks19wycl=facite | johanniswyclift00mattgoog=facile | johanniswyclift01mattgoog=facile | tractatusdepotes00wycl=facite	93	1688,2888,1919,2954
+32	193	INS?	miseritis	93	1055,3241,1350,3307
+32	200	R4	latinworks19wycl=ouarta | johanniswyclift00mattgoog=quarta | johanniswyclift01mattgoog=ouarta | tractatusdepotes00wycl=quarta	93	747,3327,1046,3379
+33	105	R3	latinworks19wycl=primo | johanniswyclift00mattgoog=primo | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=irrimo	94	324,1904,567,1952
+33	112	NW	latinworks19wycl=probabihs | johanniswyclift00mattgoog=probabihs | johanniswyclift01mattgoog=probabihs | tractatusdepotes00wycl=probabilis	94	1852,1911,2042,1968
+33	188	R4	latinworks19wycl=aaronita | johanniswyclift00mattgoog=aaronita | johanniswyclift01mattgoog=soaaronita | tractatusdepotes00wycl=soaaronita	94	252,3134,647,3185
+34	63	R4	latinworks19wycl=nic | johanniswyclift00mattgoog=hie | johanniswyclift01mattgoog=hie | tractatusdepotes00wycl=hic	95	1000,1544,1133,1588
+35	185	R4	latinworks19wycl=datur | johanniswyclift00mattgoog=daiur | johanniswyclift01mattgoog=daiur | tractatusdepotes00wycl=datur	96	316,3091,546,3141
+36	3	THIN	latinworks19wycl=propkecia | tractatusdepotes00wycl=prophecia	97	1603,592,1989,658
+36	31	R3	latinworks19wycl=prinio | johanniswyclift00mattgoog=prima | johanniswyclift01mattgoog=primal | tractatusdepotes00wycl=primo	97	2221,947,2444,1012
+36	42	NW	latinworks19wycl=opitulacioues | johanniswyclift00mattgoog=opitulacioues | johanniswyclift01mattgoog=opitulacioues | tractatusdepotes00wycl=opitulacioues	97	1998,1122,2422,1187
+36	152	NW	latinworks19wycl=debents | johanniswyclift00mattgoog=debents | johanniswyclift01mattgoog=debent | tractatusdepotes00wycl=debents	97	2220,2709,2512,2759
+36	176	R3	latinworks19wycl=preterito | johanniswyclift00mattgoog=preterite | johanniswyclift01mattgoog=preterite | tractatusdepotes00wycl=preterito	97	1541,3150,1873,3218
+37	62	INS?	ego	98	641,1398,832,1448
+37	128	INS?	ad	98	983,2365,1284,2432
+37	151	R4	latinworks19wycl=2 | johanniswyclift00mattgoog=ssuis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅	98	290,2718,363,2768
+37	215	R3	latinworks19wycl=linguis | johanniswyclift00mattgoog=unguis | johanniswyclift01mattgoog=unguis | tractatusdepotes00wycl=linguis	98	471,3514,743,3583
+38	71	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the	99	624,1515,778,1566
+38	117	R4	latinworks19wycl=miki | johanniswyclift00mattgoog=mihi | johanniswyclift01mattgoog=mihi | tractatusdepotes00wycl=miki	99	1532,2045,1729,2097
+40	0	THIN	latinworks19wycl=inscribittir	101	749,601,1169,653
+40	211	R4	latinworks19wycl=of | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=diucrsitas | tractatusdepotes00wycl=of	101	683,3334,753,3392
+41	134	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=llla	102	1498,2388,1641,2440
+41	184	THIN	latinworks19wycl=snbditis | tractatusdepotes00wycl=subditis	102	1398,3011,1706,3061
+41	185	THIN	latinworks19wycl=nequetmt | tractatusdepotes00wycl=nequeunt	102	1706,3016,2000,3077
+41	186	THIN	latinworks19wycl=qtti | tractatusdepotes00wycl=qui	102	335,3095,465,3165
+41	187	THIN	latinworks19wycl=iu | tractatusdepotes00wycl=in	102	505,3097,604,3150
+41	188	THIN	latinworks19wycl=snbditornm | tractatusdepotes00wycl=subditorum	102	604,3099,1008,3150
+41	189	THIN	latinworks19wycl=cansis | tractatusdepotes00wycl=causis	102	1008,3100,1239,3150
+41	190	THIN	latinworks19wycl=sna | tractatusdepotes00wycl=sua	102	1239,3100,1389,3150
+42	3	R5	latinworks19wycl=lazare | johanniswyclift01mattgoog=lazare | tractatusdepotes00wycl=lazare	103	1473,582,1766,645
+42	164	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the	103	635,2791,820,2840
+42	210	R3	latinworks19wycl=prepositi | johanniswyclift00mattgoog=propositi | johanniswyclift01mattgoog=propositi | tractatusdepotes00wycl=prepositi	103	1029,3319,1367,3387
+42	218	THIN	latinworks19wycl=ibid | tractatusdepotes00wycl=lbid	103	909,3702,1049,3742
+42	227	THIN	latinworks19wycl=q | tractatusdepotes00wycl=q	103	749,3776,826,3829
+43	9	R3	latinworks19wycl=ion | johanniswyclift00mattgoog=ion | johanniswyclift01mattgoog=ioh | tractatusdepotes00wycl=ioh	104	872,706,1056,766
+43	63	HEAD	CAPITULUM TERCIUM.	104	628,1586,1220,1664
+43	142	R3	latinworks19wycl=iacta | johanniswyclift00mattgoog=facta | johanniswyclift01mattgoog=facta | tractatusdepotes00wycl=tacta	104	586,2851,784,2896
+43	157	R4	latinworks19wycl=ut | johanniswyclift00mattgoog=tit | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=ut	104	940,3024,1036,3074
+43	163	R3	latinworks19wycl=nt | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=ut	104	1912,3027,1973,3074
+44	18	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=siciu | johanniswyclift01mattgoog=sicttl | tractatusdepotes00wycl=sicut	105	2309,777,2454,827
+44	29	R3	latinworks19wycl=tua | johanniswyclift00mattgoog=iua | johanniswyclift01mattgoog=ina | tractatusdepotes00wycl=tua	105	1013,954,1196,1013
+44	31	R3	latinworks19wycl=tu | johanniswyclift00mattgoog=tu | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu	105	1302,952,1426,1002
+44	34	THIN	latinworks19wycl=confirma | tractatusdepotes00wycl=confirma	105	2170,952,2477,1016
+44	35	THIN	latinworks19wycl=of | tractatusdepotes00wycl=∅	105	719,1038,791,1087
+44	187	NW	latinworks19wycl=subterfugium | johanniswyclift00mattgoog=subterfugum | johanniswyclift01mattgoog=subterfugium | tractatusdepotes00wycl=subterfugium	105	1892,3150,2400,3218
+45	206	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	106	1150,3166,1166,3198
+46	20	R3	latinworks19wycl=errectu | johanniswyclift00mattgoog=enectu | johanniswyclift01mattgoog=effectu | tractatusdepotes00wycl=eirectu	107	1915,750,2174,793
+46	80	R4	latinworks19wycl=dilexerit | johanniswyclift00mattgoog=duexent | johanniswyclift01mattgoog=duexent | tractatusdepotes00wycl=dilexent	107	1083,1625,1438,1684
+46	99	NW	latinworks19wycl=archana | johanniswyclift00mattgoog=archana | johanniswyclift01mattgoog=archana | tractatusdepotes00wycl=archana	107	1284,1888,1558,1940
+46	210	INS?	i	107	910,3388,1186,3456
+46	227	THIN	latinworks19wycl=coniugiurm	107	2028,3562,2408,3629
+47	93	R5	latinworks19wycl=hecprimus | johanniswyclift00mattgoog=hecprimus | tractatusdepotes00wycl=hecprimus	108	759,1833,1159,1886
+48	8	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | tractatusdepotes00wycl=et	109	1073,658,1174,708
+48	32	R3	latinworks19wycl=dommus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=dominus | tractatusdepotes00wycl=dommus	109	1420,922,1733,971
+49	121	R4	latinworks19wycl=dbsit | johanniswyclift00mattgoog=absit | johanniswyclift01mattgoog=absu | tractatusdepotes00wycl=dbsit	110	620,2173,802,2224
+49	194	R3	latinworks19wycl=io | johanniswyclift00mattgoog=10 | johanniswyclift01mattgoog=10 | tractatusdepotes00wycl=io	110	747,3073,867,3122
+50	84	R4	latinworks19wycl=simon | johanniswyclift00mattgoog=stfhoh | johanniswyclift01mattgoog=6f0m | tractatusdepotes00wycl=otmon	111	1331,1665,1575,1717
+50	86	R3	latinworks19wycl=non | johanniswyclift00mattgoog=nott | johanniswyclift01mattgoog=noit | tractatusdepotes00wycl=non	111	1882,1665,2043,1716
+50	87	R4	latinworks19wycl=potuisti | johanniswyclift00mattgoog=potntstt | johanniswyclift01mattgoog=poiltlstl | tractatusdepotes00wycl=potutsh	111	2043,1667,2323,1732
+51	65	R4	latinworks19wycl=ouamuis | johanniswyclift00mattgoog=quamuis | johanniswyclift01mattgoog=quamuis | tractatusdepotes00wycl=ouamuis	112	427,1513,769,1566
+51	102	NW	latinworks19wycl=literali | johanniswyclift00mattgoog=literati | johanniswyclift01mattgoog=literali | tractatusdepotes00wycl=literali	112	596,1955,892,2015
+51	132	R4	latinworks19wycl=figurasorunt | johanniswyclift00mattgoog=figurarunt | johanniswyclift01mattgoog=figurasorunt | tractatusdepotes00wycl=figurarunt	112	1800,2219,2012,2286
+52	19	R3	latinworks19wycl=uentas | johanniswyclift00mattgoog=ueritas | johanniswyclift01mattgoog=uentas | tractatusdepotes00wycl=ueritas	113	1217,876,1456,926
+52	28	NW	latinworks19wycl=lmtheum | johanniswyclift00mattgoog=imtheum | johanniswyclift01mattgoog=lintneum | tractatusdepotes00wycl=lmtheum	113	1721,965,2048,1015
+52	99	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	113	1101,1845,1251,1895
+52	111	NW	latinworks19wycl=dominos | johanniswyclift00mattgoog=dommos | johanniswyclift01mattgoog=dommos | tractatusdepotes00wycl=dommos	113	746,2021,1074,2072
+52	221	THIN	latinworks19wycl=cibum | johanniswyclift01mattgoog=cibtim	113	1819,3349,2028,3400
+52	222	THIN	latinworks19wycl=habeo | johanniswyclift01mattgoog=itabeo	113	2028,3349,2241,3400
+52	223	THIN	latinworks19wycl=manducarc | johanniswyclift01mattgoog=manducare	113	2241,3363,2413,3399
+52	244	R3	latinworks19wycl=con35 | johanniswyclift00mattgoog=conterit | johanniswyclift01mattgoog=conii | tractatusdepotes00wycl=conterit	113	2281,3619,2486,3663
+53	19	R4	latinworks19wycl=ostendit | johanniswyclift00mattgoog=osiendit | johanniswyclift01mattgoog=osleiuih | tractatusdepotes00wycl=osiendit	114	1666,807,1940,857
+53	27	R4	latinworks19wycl=yude | johanniswyclift00mattgoog=yiide | johanniswyclift01mattgoog=yttde | tractatusdepotes00wycl=yude	114	393,983,614,1035
+53	93	R4	latinworks19wycl=i3eis | johanniswyclift00mattgoog=i3eis | johanniswyclift01mattgoog=eis | tractatusdepotes00wycl=eis	114	318,1864,526,1915
+53	101	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	114	640,1969,725,2020
+53	118	NW	latinworks19wycl=prenominacionem | johanniswyclift00mattgoog=prenominacionem | johanniswyclift01mattgoog=prenominacionem | tractatusdepotes00wycl=prenominacionem	114	1374,2126,1994,2197
+54	37	R4	latinworks19wycl=et | johanniswyclift00mattgoog=el | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	115	1871,1012,1946,1061
+54	38	R3	latinworks19wycl=mitte | johanniswyclift00mattgoog=mille | johanniswyclift01mattgoog=nullc | tractatusdepotes00wycl=milte	115	1946,1012,2125,1062
+54	40	R4	latinworks19wycl=et | johanniswyclift00mattgoog=el | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	115	715,1099,794,1149
+54	47	R4	latinworks19wycl=aperto | johanniswyclift00mattgoog=aperlo | johanniswyclift01mattgoog=aperlo | tractatusdepotes00wycl=aperto	115	2056,1103,2283,1165
+54	52	R3	latinworks19wycl=illum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	115	1521,1187,1728,1237
+54	61	R4	latinworks19wycl=of | johanniswyclift00mattgoog=tcfcio | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=of	115	628,1362,788,1411
+54	67	R4	latinworks19wycl=testimon | johanniswyclift00mattgoog=testimonio | johanniswyclift01mattgoog=testimonio | tractatusdepotes00wycl=testimon	115	2033,1363,2405,1414
+54	182	R3	latinworks19wycl=ouium | johanniswyclift00mattgoog=auium | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ouium	115	1480,2863,1723,2913
+55	28	THIN	latinworks19wycl=non | tractatusdepotes00wycl=non	116	459,963,618,1012
+55	29	THIN	latinworks19wycl=aliud | tractatusdepotes00wycl=alltid	116	618,961,824,1012
+55	30	THIN	latinworks19wycl=doceatis | tractatusdepotes00wycl=doceatis	116	824,958,1107,1012
+55	31	THIN	latinworks19wycl=quam | tractatusdepotes00wycl=quam	116	1148,961,1371,1028
+55	35	R4	latinworks19wycl=pelro | johanniswyclift00mattgoog=pelro | johanniswyclift01mattgoog=petro | tractatusdepotes00wycl=petro	116	1851,961,2018,1011
+55	58	R3	latinworks19wycl=iwuo | johanniswyclift00mattgoog=nouo | johanniswyclift01mattgoog=irio | tractatusdepotes00wycl=in	116	1566,1224,1751,1290
+55	182	R3	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=ouantum	116	420,2897,759,2950
+56	92	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	117	1174,1756,1376,1807
+56	172	R4	latinworks19wycl=adomino | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=adomino	117	2086,2728,2441,2779
+56	186	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus	117	1721,2907,1945,2972
+57	30	NW	latinworks19wycl=pro | johanniswyclift00mattgoog=bpro | johanniswyclift01mattgoog=bpro | tractatusdepotes00wycl=bpro	118	374,983,542,1046
+57	31	R4	latinworks19wycl=te | johanniswyclift00mattgoog=ie | johanniswyclift01mattgoog=te | tractatusdepotes00wycl=ie	118	542,982,647,1040
+57	33	R3	latinworks19wycl=uou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=lion | tractatusdepotes00wycl=non	118	748,977,899,1028
+57	35	NW	latinworks19wycl=iides | johanniswyclift00mattgoog=iides | johanniswyclift01mattgoog=fides | tractatusdepotes00wycl=iides	118	1158,977,1353,1042
+57	164	R3	latinworks19wycl=nou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=nou	118	944,2573,1110,2622
+57	167	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=in	118	1607,2572,1722,2622
+57	170	R4	latinworks19wycl=habebaut | johanniswyclift00mattgoog=habebant | johanniswyclift01mattgoog=debenl | tractatusdepotes00wycl=habebaut	118	523,2658,883,2711
+58	65	NW	latinworks19wycl=edificii | johanniswyclift00mattgoog=edificii | johanniswyclift01mattgoog=edificii | tractatusdepotes00wycl=edificii	119	2159,1372,2416,1437
+58	69	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	119	1391,1477,1462,1522
+58	80	R4	latinworks19wycl=celornm | johanniswyclift00mattgoog=celornm | johanniswyclift01mattgoog=cdonim | tractatusdepotes00wycl=celorum	119	1566,1548,1865,1599
+59	86	R3	latinworks19wycl=uou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non	120	564,1742,703,1792
+59	105	R3	latinworks19wycl=malo | johanniswyclift00mattgoog=malo | johanniswyclift01mattgoog=mala | tractatusdepotes00wycl=mato	120	1115,1921,1334,1985
+59	116	R4	latinworks19wycl=equaies | johanniswyclift00mattgoog=equates | johanniswyclift01mattgoog=equates | tractatusdepotes00wycl=equales	120	1760,2009,1987,2073
+59	228	NW	latinworks19wycl=mstruxit | johanniswyclift00mattgoog=mstruxit | johanniswyclift01mattgoog=instruxit | tractatusdepotes00wycl=mstruxit	120	1511,3340,1866,3398
+60	111	NW	latinworks19wycl=preficientem | johanniswyclift00mattgoog=preficientem | johanniswyclift01mattgoog=preficientem | tractatusdepotes00wycl=preficientem	121	1249,2009,1683,2076
+61	164	R4	latinworks19wycl=atnat | johanniswyclift00mattgoog=amat | johanniswyclift01mattgoog=atnat | tractatusdepotes00wycl=amat	122	595,2731,811,2778
+62	8	R3	latinworks19wycl=ab | johanniswyclift00mattgoog=ah | johanniswyclift01mattgoog=nh | tractatusdepotes00wycl=ab	123	1431,647,1548,696
+62	32	R5	latinworks19wycl=teptus | johanniswyclift00mattgoog=teplus | tractatusdepotes00wycl=teplus	123	1377,909,1598,974
+62	33	R4	latinworks19wycl=kiis | johanniswyclift00mattgoog=hits | tractatusdepotes00wycl=hiis	123	1598,909,1735,960
+62	43	R4	latinworks19wycl=caritatem | johanniswyclift00mattgoog=cariiatem | johanniswyclift01mattgoog=cariiatem | tractatusdepotes00wycl=caritatem	123	1807,997,2146,1048
+62	48	R4	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrtts | johanniswyclift01mattgoog=petrtts | tractatusdepotes00wycl=petrus	123	1227,1083,1468,1135
+62	59	HEAD	CAPITULUM QUARTUM.	123	1054,1438,1646,1518
+63	83	INS?	i	124	515,1673,748,1740
+63	133	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	124	1522,2290,1658,2341
+64	174	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	125	1798,2790,1886,2840
+64	177	R4	latinworks19wycl=mei | johanniswyclift00mattgoog=met | johanniswyclift01mattgoog=met | tractatusdepotes00wycl=mei	125	748,2879,900,2930
+65	138	R4	latinworks19wycl=miuistret | johanniswyclift00mattgoog=miuistret | johanniswyclift01mattgoog=niiuistrel | tractatusdepotes00wycl=ministret	126	1564,2380,1892,2431
+65	155	R3	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hou | tractatusdepotes00wycl=nou	126	647,2644,814,2695
+65	164	R4	latinworks19wycl=honore | johanniswyclift00mattgoog=itonorc | johanniswyclift01mattgoog=houore | tractatusdepotes00wycl=houore	126	1679,2733,1952,2783
+66	18	R3	latinworks19wycl=detendere | johanniswyclift00mattgoog=defendere | johanniswyclift01mattgoog=defendere | tractatusdepotes00wycl=detendere	127	2084,782,2410,826
+66	39	R4	latinworks19wycl=illapersona | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illapersona	127	1715,1040,2114,1107
+66	152	R3	latinworks19wycl=iit | johanniswyclift00mattgoog=lit | johanniswyclift01mattgoog=iit | tractatusdepotes00wycl=ut	127	2361,2546,2420,2593
+66	153	R4	latinworks19wycl=bontim | johanniswyclift00mattgoog=bonunt | johanniswyclift01mattgoog=bnirum | tractatusdepotes00wycl=bopittm	127	752,2636,1004,2687
+67	155	NW	latinworks19wycl=dnobus | johanniswyclift00mattgoog=duobiis | johanniswyclift01mattgoog=dunbus | tractatusdepotes00wycl=dnobus	128	1776,2679,1994,2731
+67	156	R3	latinworks19wycl=ihunum | johanniswyclift00mattgoog=umum | johanniswyclift01mattgoog=latum | tractatusdepotes00wycl=unum	128	256,2765,547,2817
+68	52	R3	latinworks19wycl=dommus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=diiniinus | tractatusdepotes00wycl=dominus	129	770,1286,1086,1337
+68	63	R4	latinworks19wycl=pontmces | johanniswyclift00mattgoog=pontitices | johanniswyclift01mattgoog=pontifices | tractatusdepotes00wycl=pontmces	129	768,1470,1168,1528
+68	142	R6	latinworks19wycl=weii | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=weii	129	653,2610,841,2658
+68	159	R3	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=iuantum	129	1845,2785,2183,2839
+68	170	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	129	894,2961,1063,3012
+69	72	R4	latinworks19wycl=retrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=fetrus | tractatusdepotes00wycl=petrus	130	916,1672,1189,1715
+70	38	R3	latinworks19wycl=itt | johanniswyclift00mattgoog=nt | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=ut	131	1046,1030,1151,1075
+70	65	R4	latinworks19wycl=iiebat | johanniswyclift00mattgoog=iiebat | johanniswyclift01mattgoog=iicbai | tractatusdepotes00wycl=fiebat	131	2072,1293,2314,1357
+70	69	R3	latinworks19wycl=iit | johanniswyclift00mattgoog=fit | johanniswyclift01mattgoog=iit | tractatusdepotes00wycl=fit	131	1009,1380,1150,1443
+71	6	THIN	latinworks19wycl=et | tractatusdepotes00wycl=ef	132	1981,608,2025,656
+71	15	R3	latinworks19wycl=dens | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus	132	649,778,842,829
+71	32	R3	latinworks19wycl=que | johanniswyclift00mattgoog=otic | johanniswyclift01mattgoog=otie | tractatusdepotes00wycl=ouc	132	592,1044,764,1100
+71	36	R3	latinworks19wycl=ml | johanniswyclift00mattgoog=nil | johanniswyclift01mattgoog=ml | tractatusdepotes00wycl=nit	132	1583,1044,1702,1092
+71	38	R4	latinworks19wycl=fiebant | johanniswyclift00mattgoog=iicbanty | johanniswyclift01mattgoog=fttrbanf | tractatusdepotes00wycl=iicbaut	132	360,1132,640,1197
+71	40	GAP	prop/ieaa et spiritn sancto Jtebant,	132	711,1132,1067,1197
+71	46	R4	latinworks19wycl=eniui | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=euim	132	599,1219,794,1267
+71	54	R4	latinworks19wycl=cnm | johanniswyclift00mattgoog=cnm | johanniswyclift01mattgoog=iim | tractatusdepotes00wycl=cum	132	605,1303,765,1357
+71	55	R3	latinworks19wycl=saul | johanniswyclift00mattgoog=sunt | johanniswyclift01mattgoog=saul | tractatusdepotes00wycl=saui	132	765,1303,935,1357
+71	63	R3	latinworks19wycl=dens | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus	132	1148,1393,1343,1444
+71	67	R3	latinworks19wycl=ei | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	132	1981,1399,2028,1444
+71	80	THIN	latinworks19wycl=thimoteus | tractatusdepotes00wycl=thimoteus	132	1352,1569,1709,1621
+71	81	THIN	latinworks19wycl=electus | tractatusdepotes00wycl=eiectus	132	1709,1572,1952,1620
+71	102	R3	latinworks19wycl=non | johanniswyclift00mattgoog=nan | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=11011	132	1356,1835,1507,1885
+72	48	R3	latinworks19wycl=iure | johanniswyclift00mattgoog=lure | johanniswyclift01mattgoog=lure | tractatusdepotes00wycl=mre	133	1347,1290,1511,1342
+72	103	NW	latinworks19wycl=hereditario | johanniswyclift00mattgoog=hereditano | johanniswyclift01mattgoog=hereditano | tractatusdepotes00wycl=hereditano	133	2038,1995,2414,2049
+72	190	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	133	2207,3139,2345,3192
+73	61	R3	latinworks19wycl=necessar | johanniswyclift00mattgoog=necessario | johanniswyclift01mattgoog=uecessario | tractatusdepotes00wycl=necessar	134	1676,1301,2055,1361
+73	89	R4	latinworks19wycl=7s1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sl	134	234,1835,430,1895
+74	80	R3	latinworks19wycl=iui | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=l	135	983,1620,1104,1687
+74	136	R3	latinworks19wycl=otim | johanniswyclift00mattgoog=olim | tractatusdepotes00wycl=olim	135	760,2326,972,2396
+74	151	NW	latinworks19wycl=iierent | johanniswyclift00mattgoog=iierent | johanniswyclift01mattgoog=iierent | tractatusdepotes00wycl=iierent	135	752,2505,1005,2569
+74	167	R3	latinworks19wycl=ecclcsie | johanniswyclift00mattgoog=ecclesie | johanniswyclift01mattgoog=ecclesie | tractatusdepotes00wycl=ecclcsie	135	1044,2683,1315,2733
+75	123	R4	latinworks19wycl=episcopatus | johanniswyclift00mattgoog=episcoopatus | johanniswyclift01mattgoog=episcopatus | tractatusdepotes00wycl=episcoopatus	136	1785,2167,2011,2235
+75	128	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	136	1709,2256,1912,2307
+76	9	R4	latinworks19wycl=eul | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=petri	137	763,671,981,728
+76	15	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	137	2243,669,2420,738
+76	16	R3	latinworks19wycl=tam | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=qui	137	938,760,1131,817
+76	21	R4	latinworks19wycl=nariuit | johanniswyclift00mattgoog=uit | johanniswyclift01mattgoog=liabuit | tractatusdepotes00wycl=hbuit	137	764,846,1015,913
+76	110	R4	latinworks19wycl=sepnicrum | johanniswyclift00mattgoog=sepitlcrum | johanniswyclift01mattgoog=septdcrutu | tractatusdepotes00wycl=sepnlcrum	137	1351,1993,1736,2060
+77	38	R3	latinworks19wycl=17 | johanniswyclift00mattgoog=1 | johanniswyclift01mattgoog=17 | tractatusdepotes00wycl=∅	138	1953,1089,2007,1136
+77	43	R3	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=iton | tractatusdepotes00wycl=nou	138	1451,1162,1619,1214
+77	57	R3	latinworks19wycl=tres | johanniswyclift00mattgoog=ires | johanniswyclift01mattgoog=trcs | tractatusdepotes00wycl=ires	138	1367,1338,1516,1388
+77	73	THIN	latinworks19wycl=non | tractatusdepotes00wycl=non	138	1244,1514,1359,1565
+77	74	THIN	latinworks19wycl=fuil | tractatusdepotes00wycl=fuit	138	1359,1514,1497,1580
+77	75	THIN	latinworks19wycl=factus | tractatusdepotes00wycl=factus	138	1497,1513,1726,1579
+77	104	INS?	2	138	878,1960,1071,2020
+77	200	R4	latinworks19wycl=soleuitate | johanniswyclift00mattgoog=leuitate | johanniswyclift01mattgoog=leuitate | tractatusdepotes00wycl=soleuitate	138	282,3187,636,3241
+78	123	R4	latinworks19wycl=docete | johanniswyclift00mattgoog=docele | johanniswyclift01mattgoog=docele | tractatusdepotes00wycl=docete	139	763,2285,1013,2336
+78	143	NW	latinworks19wycl=euangelinm | johanniswyclift00mattgoog=euangelium | johanniswyclift01mattgoog=euangeliiim | tractatusdepotes00wycl=euangelinm	139	1399,2549,1802,2616
+79	1	INS?	sic docuerunt mediate uel immediate omnia genera gentium grecos latinos et barbaros a	140	472,628,697,696
+79	54	R4	latinworks19wycl=omnibns | johanniswyclift00mattgoog=omuihus | johanniswyclift01mattgoog=omiiibns | tractatusdepotes00wycl=omuibus	140	1735,1244,1995,1293
+79	55	R4	latinworks19wycl=laborauit | johanniswyclift00mattgoog=laborauif | johanniswyclift01mattgoog=laborauil | tractatusdepotes00wycl=laborauil	140	333,1329,661,1392
+79	168	NW	latinworks19wycl=dyocesi | johanniswyclift00mattgoog=dyocesi | johanniswyclift01mattgoog=dyocesi | tractatusdepotes00wycl=dyocesf	140	849,2741,1158,2807
+79	198	NW	latinworks19wycl=pnmeua | johanniswyclift00mattgoog=inmeua | johanniswyclift01mattgoog=pnmeua | tractatusdepotes00wycl=pnraeua	140	1057,3102,1369,3162
+80	1	THIN	latinworks19wycl=quocl	141	1078,579,1265,646
+80	67	THIN	latinworks19wycl=aposto	141	2289,1480,2424,1529
+80	68	THIN	latinworks19wycl=qud	141	1086,1549,1288,1616
+80	136	HEAD	CAPITULUM QUINTUM.	141	1080,2704,1678,2786
+80	148	R4	latinworks19wycl=quicumque | johanniswyclift00mattgoog=quicumque | johanniswyclift01mattgoog=quicumques | tractatusdepotes00wycl=quicumques	141	2083,2992,2460,3059
+81	108	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	142	1080,2031,1219,2083
+81	129	R4	latinworks19wycl=ciuit | johanniswyclift00mattgoog=iciuit | johanniswyclift01mattgoog=ciuit | tractatusdepotes00wycl=iciuit	142	994,2300,1221,2348
+82	155	R4	latinworks19wycl=ccipitulis | johanniswyclift00mattgoog=cauuuhs | johanniswyclift01mattgoog=capilulis | tractatusdepotes00wycl=capuulis	143	939,2705,1314,2768
+83	32	R4	latinworks19wycl=deteriorac | johanniswyclift00mattgoog=deterioracio | johanniswyclift01mattgoog=deterioracio | tractatusdepotes00wycl=deteriorac	144	1594,961,2044,1018
+83	92	R4	latinworks19wycl=1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=oclerico	144	263,1838,329,1887
+83	114	THIN	latinworks19wycl=clenco | tractatusdepotes00wycl=clenco	144	329,2103,600,2167
+83	115	THIN	latinworks19wycl=lgitur | tractatusdepotes00wycl=lgitur	144	600,2107,814,2168
+83	156	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	144	767,2626,919,2678
+83	188	R3	latinworks19wycl=cantatis | johanniswyclift00mattgoog=caritatis | johanniswyclift01mattgoog=caritatis | tractatusdepotes00wycl=cantatis	144	334,3070,632,3119
+84	130	R4	latinworks19wycl=elemosine | johanniswyclift00mattgoog=elemosineso | johanniswyclift01mattgoog=elemosineso | tractatusdepotes00wycl=elemosine	145	2106,2290,2454,2342
+84	132	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	145	1156,2379,1292,2430
+84	158	R4	latinworks19wycl=relinquendo | johanniswyclift00mattgoog=relin3 | johanniswyclift01mattgoog=relina | tractatusdepotes00wycl=relin25	145	2263,2730,2453,2786
+85	13	R4	latinworks19wycl=id | johanniswyclift00mattgoog=incamatam | johanniswyclift01mattgoog=incamatam | tractatusdepotes00wycl=∅	146	267,767,350,815
+85	127	R4	latinworks19wycl=ministracionerm | johanniswyclift00mattgoog=ministracionem | johanniswyclift01mattgoog=ministracionem | tractatusdepotes00wycl=ministracionerm	146	1488,2170,2000,2223
+85	157	NW	latinworks19wycl=prele | johanniswyclift00mattgoog=prele | johanniswyclift01mattgoog=prebe | tractatusdepotes00wycl=prele	146	706,2613,919,2680
+86	165	R5	latinworks19wycl=interhec | johanniswyclift00mattgoog=interhec | tractatusdepotes00wycl=interhec	147	2169,2868,2438,2919
+86	208	R4	latinworks19wycl=tenes | johanniswyclift00mattgoog=tenes | johanniswyclift01mattgoog=ienes | tractatusdepotes00wycl=ienes	147	1973,3395,2159,3448
+87	6	THIN	latinworks19wycl=teclus | tractatusdepotes00wycl=teclus	148	1661,602,1874,649
+87	7	THIN	latinworks19wycl=anro | tractatusdepotes00wycl=auro	148	1874,614,2021,650
+87	13	THIN	latinworks19wycl=stipatns | tractatusdepotes00wycl=stipatus	148	1166,684,1439,750
+87	19	THIN	latinworks19wycl=itiis | tractatusdepotes00wycl=hiis	148	1397,772,1555,823
+87	37	R4	latinworks19wycl=petro | johanniswyclift00mattgoog=peiro | johanniswyclift01mattgoog=peiro | tractatusdepotes00wycl=petro	148	1854,947,2020,998
+87	94	R3	latinworks19wycl=miurie | johanniswyclift00mattgoog=iniurie | johanniswyclift01mattgoog=iniune | tractatusdepotes00wycl=miurie	148	1364,1755,1630,1799
+87	190	R3	latinworks19wycl=iudicium | johanniswyclift00mattgoog=indicium | johanniswyclift01mattgoog=indicium | tractatusdepotes00wycl=iudicium	148	341,3054,645,3105
+88	22	NW	latinworks19wycl=odiunt | johanniswyclift00mattgoog=odiunt | johanniswyclift01mattgoog=odiunt | tractatusdepotes00wycl=odiunt	149	1591,820,1830,870
+88	54	R6	latinworks19wycl=that | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=that	149	648,1257,822,1307
+89	14	INS?	modocumque	150	839,776,1082,831
+89	68	THIN	latinworks19wycl=nostns | tractatusdepotes00wycl=nostris	150	350,1570,641,1626
+89	69	THIN	latinworks19wycl=nec | tractatusdepotes00wycl=nec	150	641,1579,793,1615
+89	70	THIN	latinworks19wycl=pnas | tractatusdepotes00wycl=phas	150	793,1571,998,1630
+90	17	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	151	1960,767,2085,819
+90	117	R4	latinworks19wycl=kic | johanniswyclift00mattgoog=hie | johanniswyclift01mattgoog=hie | tractatusdepotes00wycl=hic	151	1441,2084,1569,2135
+91	43	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ttt | tractatusdepotes00wycl=ut	152	361,1140,458,1189
+91	87	R3	latinworks19wycl=llle | johanniswyclift00mattgoog=lue | johanniswyclift01mattgoog=ille | tractatusdepotes00wycl=ille	152	357,1668,512,1713
+92	2	THIN	latinworks19wycl=expropnetarium	153	1134,603,1716,662
+92	3	THIN	latinworks19wycl=simihs	153	1716,603,1960,653
+92	79	NW	latinworks19wycl=leuite | johanniswyclift00mattgoog=leuite | johanniswyclift01mattgoog=leuite | tractatusdepotes00wycl=leuite	153	977,1654,1207,1704
+92	102	NW	latinworks19wycl=coraula | johanniswyclift00mattgoog=coraula | johanniswyclift01mattgoog=coraula | tractatusdepotes00wycl=coraula	153	2162,1919,2419,1977
+92	105	R3	latinworks19wycl=ruit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=fuit | tractatusdepotes00wycl=iuit	153	1295,2010,1460,2058
+92	127	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	153	1481,2271,1621,2322
+92	197	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis	153	2027,3150,2207,3217
+92	212	THIN	latinworks19wycl=etxcu | tractatusdepotes00wycl=etxcu	153	755,3414,1037,3466
+93	10	R4	latinworks19wycl=dyabolo | johanniswyclift00mattgoog=dydbolo | johanniswyclift01mattgoog=dyabolo | tractatusdepotes00wycl=dydbolo	154	582,697,897,767
+93	101	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	154	354,1930,506,1980
+93	164	R4	latinworks19wycl=sanandi | johanniswyclift00mattgoog=sa23nandi | johanniswyclift01mattgoog=saa5nandi | tractatusdepotes00wycl=saa5nandi	154	1930,2651,2015,2684
+94	58	R3	latinworks19wycl=se | johanniswyclift00mattgoog=sed | johanniswyclift01mattgoog=sad | tractatusdepotes00wycl=sed	155	1113,1275,1263,1334
+94	230	THIN	latinworks19wycl=imbundancie	155	2203,3474,2422,3523
+95	47	R3	latinworks19wycl=aha | johanniswyclift00mattgoog=alia | johanniswyclift01mattgoog=aha | tractatusdepotes00wycl=alia	156	925,1206,1096,1254
+95	67	R4	latinworks19wycl=saceraotwus | johanniswyclift00mattgoog=saceraottbtis | johanniswyclift01mattgoog=saccrdotibns | tractatusdepotes00wycl=sacerdotibns	156	1204,1470,1619,1517
+95	216	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	156	866,3491,1003,3543
+96	13	R3	latinworks19wycl=lue | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=1 | tractatusdepotes00wycl=lue	157	759,759,916,827
+96	14	R4	latinworks19wycl=fait | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=f | tractatusdepotes00wycl=fait	157	916,759,1068,814
+96	21	R3	latinworks19wycl=est | johanniswyclift00mattgoog=st | johanniswyclift01mattgoog=t | tractatusdepotes00wycl=est	157	761,847,909,903
+96	27	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	157	2150,846,2301,903
+96	104	NW	latinworks19wycl=tur | johanniswyclift00mattgoog=tur | johanniswyclift01mattgoog=tur | tractatusdepotes00wycl=tur	157	2033,1900,2152,1953
+97	50	R3	latinworks19wycl=llla | johanniswyclift00mattgoog=lua | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	158	1060,1228,1185,1276
+97	181	R4	latinworks19wycl=celornm | johanniswyclift00mattgoog=celornm | johanniswyclift01mattgoog=cehrtim | tractatusdepotes00wycl=celorum	158	1510,2902,1833,2966
+98	51	R4	latinworks19wycl=figurata | johanniswyclift00mattgoog=iigurata | johanniswyclift01mattgoog=iiiiuriiia | tractatusdepotes00wycl=iigurata	159	1392,1292,1710,1357
+98	84	NW	latinworks19wycl=qnodcumque | johanniswyclift00mattgoog=quodcuntque | johanniswyclift01mattgoog=quodcuutque | tractatusdepotes00wycl=qnodcumque	159	1201,1734,1645,1798
+98	91	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=hi | tractatusdepotes00wycl=in	159	1337,1821,1453,1871
+98	94	R4	latinworks19wycl=quodcunuque | johanniswyclift00mattgoog=quodcumgue | johanniswyclift01mattgoog=qnodcumque | tractatusdepotes00wycl=quodcumqne	159	1761,1821,2201,1886
+98	169	R3	latinworks19wycl=ue | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ed	159	850,2967,1029,3025
+99	1	THIN	latinworks19wycl=iacobns	160	612,616,912,667
+99	22	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | tractatusdepotes00wycl=in	160	1971,791,2027,839
+99	99	R4	latinworks19wycl=miserunt | johanniswyclift00mattgoog=ibmiserunt | johanniswyclift01mattgoog=miserunt | tractatusdepotes00wycl=ibmiserunt	160	361,1846,689,1900
+100	89	NW	latinworks19wycl=abortiunm | johanniswyclift00mattgoog=abortiuttm | johanniswyclift01mattgoog=aborliunm | tractatusdepotes00wycl=abortiunm	161	1647,1704,2027,1755
+100	118	R4	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10	161	1633,2057,1786,2108
+100	186	R6	latinworks19wycl=our | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=our	161	641,3122,749,3161
+101	12	NW	latinworks19wycl=pohciam | johanniswyclift00mattgoog=policiam | johanniswyclift01mattgoog=pohctam | tractatusdepotes00wycl=pohciam	162	339,816,653,880
+101	30	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	162	1340,987,1547,1039
+101	87	R3	latinworks19wycl=in | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=an | tractatusdepotes00wycl=m	162	1652,1783,1753,1834
+101	146	R4	latinworks19wycl=iudicando | johanniswyclift00mattgoog=33iudicando | johanniswyclift01mattgoog=33iudicando | tractatusdepotes00wycl=iudicando	162	271,2752,701,2804
+101	165	R3	latinworks19wycl=implicat | johanniswyclift00mattgoog=implicai | johanniswyclift01mattgoog=impucal | tractatusdepotes00wycl=implicat	162	980,2933,1270,2998
+102	7	R4	latinworks19wycl=sedomino | johanniswyclift00mattgoog=domino | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sedomino	163	2082,601,2417,652
+102	80	R3	latinworks19wycl=tit | johanniswyclift00mattgoog=nt | tractatusdepotes00wycl=ut	163	1849,1572,1928,1618
+102	98	R4	latinworks19wycl=tit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ut	163	1081,1835,1179,1883
+102	115	R3	latinworks19wycl=inquii | johanniswyclift00mattgoog=inquit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=inquit	163	2225,2010,2422,2074
+102	159	HEAD	CAPITULUM SEXTUM.	163	1100,2896,1690,2974
+102	161	R4	latinworks19wycl=had | johanniswyclift00mattgoog=seotima | johanniswyclift01mattgoog=septuiia | tractatusdepotes00wycl=had	163	658,3086,836,3135
+102	176	R5	latinworks19wycl=chnstus | johanniswyclift00mattgoog=chnstus | johanniswyclift01mattgoog=chnstus	163	1291,3264,1583,3313
+104	13	R4	latinworks19wycl=ldemptificari | johanniswyclift00mattgoog=idemptificari | johanniswyclift01mattgoog=idemptihcan | tractatusdepotes00wycl=ldemptmcan	165	1568,648,2016,712
+104	113	NW	latinworks19wycl=parificata | johanniswyclift00mattgoog=parificata | johanniswyclift01mattgoog=parificata | tractatusdepotes00wycl=parificata	165	1852,2056,2217,2125
+104	188	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	165	724,3029,861,3080
+105	92	NW	latinworks19wycl=parificari | johanniswyclift00mattgoog=parificari | johanniswyclift01mattgoog=parificari | tractatusdepotes00wycl=parificari	166	1363,1756,1692,1826
+106	168	R5	latinworks19wycl=primathim | johanniswyclift00mattgoog=primathim | tractatusdepotes00wycl=primathim	167	728,2764,1139,2830
+106	169	R5	latinworks19wycl=u | johanniswyclift00mattgoog=u | tractatusdepotes00wycl=u	167	1139,2763,1246,2815
+107	13	NW	latinworks19wycl=sathana | johanniswyclift00mattgoog=sathana | johanniswyclift01mattgoog=sathana | tractatusdepotes00wycl=sathana	168	430,768,723,821
+107	29	R3	latinworks19wycl=otgna | johanniswyclift00mattgoog=signa | johanniswyclift01mattgoog=ia | tractatusdepotes00wycl=bigna	168	1838,953,2050,1008
+107	35	R4	latinworks19wycl=sequenfur | johanniswyclift00mattgoog=seqnentur | johanniswyclift01mattgoog=seiitteitlnr | tractatusdepotes00wycl=sequentnr	168	1336,1036,1638,1097
+107	37	R4	latinworks19wycl=nomtne | johanniswyclift00mattgoog=nomtne | johanniswyclift01mattgoog=nomine | tractatusdepotes00wycl=nomine	168	1790,1045,2083,1082
+107	45	R3	latinworks19wycl=tollent | johanniswyclift00mattgoog=tollenti | johanniswyclift01mattgoog=iolleni | tractatusdepotes00wycl=tollent	168	584,1213,841,1268
+107	119	R3	latinworks19wycl=dommus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=dominus | tractatusdepotes00wycl=dommus	168	1479,2182,1816,2230
+107	138	NW	latinworks19wycl=parificantur | johanniswyclift00mattgoog=parificantur | johanniswyclift01mattgoog=parificantur | tractatusdepotes00wycl=parificantur	168	803,2445,1245,2512
+107	207	NW	latinworks19wycl=parificatur | johanniswyclift00mattgoog=parificatur | johanniswyclift01mattgoog=parificatur | tractatusdepotes00wycl=parificatur	168	1690,3241,2029,3309
+109	12	NW	latinworks19wycl=parificare | johanniswyclift00mattgoog=parificare | johanniswyclift01mattgoog=parificare | tractatusdepotes00wycl=parificare	170	932,704,1294,771
+109	57	R4	latinworks19wycl=fictum | johanniswyclift00mattgoog=fictuniy | johanniswyclift01mattgoog=fiduni | tractatusdepotes00wycl=iictntn	170	459,1322,726,1386
+109	101	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	170	1123,1762,1273,1814
+109	175	NW	latinworks19wycl=parificare | johanniswyclift00mattgoog=parificare | johanniswyclift01mattgoog=parificare | tractatusdepotes00wycl=parificare	170	576,2820,948,2887
+110	60	R6	latinworks19wycl=had | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=had	171	617,1468,836,1518
+110	99	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	171	931,1997,1067,2049
+110	125	R4	latinworks19wycl=relig | johanniswyclift00mattgoog=religio | johanniswyclift01mattgoog=religio | tractatusdepotes00wycl=relig	171	2218,2262,2452,2330
+110	152	R4	latinworks19wycl=siium | johanniswyclift00mattgoog=snitm | johanniswyclift01mattgoog=siitim | tractatusdepotes00wycl=suum	171	1691,2631,1904,2667
+110	183	R4	latinworks19wycl=pendei | johanniswyclift00mattgoog=pendei | tractatusdepotes00wycl=pendet	171	1197,2971,1443,3035
+111	184	R4	latinworks19wycl=o | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=go	172	282,3188,425,3247
+111	197	R3	latinworks19wycl=ad | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=ai	172	1779,3280,1903,3331
+111	202	R3	latinworks19wycl=illum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	172	1025,3369,1225,3419
+111	206	THIN	latinworks19wycl=lihro	172	1868,3370,2012,3419
+112	4	THIN	latinworks19wycl=dimiuuerit | tractatusdepotes00wycl=diminuerit	173	1271,587,1651,637
+112	6	THIN	latinworks19wycl=ueubis | tractatusdepotes00wycl=uerbis	173	1753,587,1964,638
+112	9	THIN	latinworks19wycl=kuius | tractatusdepotes00wycl=huius	173	760,673,987,739
+112	13	THIN	latinworks19wycl=eitts | tractatusdepotes00wycl=eius	173	1693,676,1853,727
+112	39	R4	latinworks19wycl=non | johanniswyclift00mattgoog=nonb | johanniswyclift01mattgoog=koh | tractatusdepotes00wycl=nonb	173	2297,942,2446,995
+112	83	NW	latinworks19wycl=parificare | johanniswyclift00mattgoog=parificare | johanniswyclift01mattgoog=parificare | tractatusdepotes00wycl=parificare	173	1919,1473,2269,1541
+112	86	R4	latinworks19wycl=ieon | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=leg | tractatusdepotes00wycl=qo	173	895,1560,1060,1612
+113	172	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	174	1074,2863,1223,2913
+114	79	R3	latinworks19wycl=e | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed	175	803,1584,967,1646
+114	87	R3	latinworks19wycl=cta | johanniswyclift00mattgoog=nullus | johanniswyclift01mattgoog=dicta | tractatusdepotes00wycl=icta	175	729,1673,950,1733
+114	161	R4	latinworks19wycl=quias | johanniswyclift00mattgoog=quias | johanniswyclift01mattgoog=quia | tractatusdepotes00wycl=quia2d	175	2265,2647,2469,2715
+117	56	R4	latinworks19wycl=iqqui | johanniswyclift00mattgoog=oqui | johanniswyclift01mattgoog=oqui | tractatusdepotes00wycl=qui	178	339,1427,554,1494
+117	116	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	178	910,2221,1039,2272
+117	177	R4	latinworks19wycl=grecisy | johanniswyclift00mattgoog=greets | johanniswyclift01mattgoog=irrecis | tractatusdepotes00wycl=irecis	178	557,3018,811,3082
+117	178	R4	latinworks19wycl=lahnis | johanniswyclift00mattgoog=latinis | johanniswyclift01mattgoog=laltnts | tractatusdepotes00wycl=latims	178	811,3018,1077,3069
+118	83	NW	latinworks19wycl=literalis | johanniswyclift00mattgoog=literalis | johanniswyclift01mattgoog=literalis | tractatusdepotes00wycl=literalis	179	712,1841,999,1892
+118	110	R3	latinworks19wycl=18 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=18	179	1986,2108,2122,2159
+119	110	R3	latinworks19wycl=carne | johanniswyclift00mattgoog=came | johanniswyclift01mattgoog=came | tractatusdepotes00wycl=carne	180	382,2222,646,2283
+119	211	R5	latinworks19wycl=traditoriam | johanniswyclift00mattgoog=traditoriam | tractatusdepotes00wycl=traditoriam	180	1873,3460,2044,3513
+120	71	NW	latinworks19wycl=placencius | johanniswyclift00mattgoog=placencius | johanniswyclift01mattgoog=placencius | tractatusdepotes00wycl=placencius	181	1477,1482,1866,1549
+120	145	R3	latinworks19wycl=uicarium | johanniswyclift00mattgoog=uicanum | johanniswyclift01mattgoog=uicanum | tractatusdepotes00wycl=uicarium	181	2084,2472,2439,2520
+120	174	R6	latinworks19wycl=not | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=not	181	628,2897,795,2951
+121	121	R3	latinworks19wycl=2i | johanniswyclift00mattgoog=21 | johanniswyclift01mattgoog=21 | tractatusdepotes00wycl=2i	182	866,2208,1012,2261
+121	146	INS?	12	182	1509,2561,1692,2612
+121	197	THIN	latinworks19wycl=lstepseudo | tractatusdepotes00wycl=istepseudo	182	605,3358,1013,3407
+121	198	THIN	latinworks19wycl=ehsfit | tractatusdepotes00wycl=elisfit	182	1013,3358,1208,3410
+121	219	R4	latinworks19wycl=discipulus | johanniswyclift00mattgoog=33discipulus | johanniswyclift01mattgoog=33discipulus | tractatusdepotes00wycl=discipulus	182	387,3620,767,3687
+122	10	NW	latinworks19wycl=cacdbus | johanniswyclift00mattgoog=cacabus | johanniswyclift01mattgoog=cacabus | tractatusdepotes00wycl=cacabus	183	2074,677,2317,727
+122	154	R3	latinworks19wycl=de | johanniswyclift00mattgoog=deas | johanniswyclift01mattgoog=dei | tractatusdepotes00wycl=de	183	2250,2706,2346,2759
+122	158	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	183	1405,2799,1471,2848
+122	166	R3	latinworks19wycl=recte | johanniswyclift00mattgoog=rede | johanniswyclift01mattgoog=rede | tractatusdepotes00wycl=recte	183	1525,2885,1749,2938
+122	173	R4	latinworks19wycl=uite | johanniswyclift00mattgoog=uiie | johanniswyclift01mattgoog=uiie | tractatusdepotes00wycl=uite	183	1256,2976,1401,3026
+122	177	R4	latinworks19wycl=refrigerium | johanniswyclift00mattgoog=refrigeriunt | johanniswyclift01mattgoog=refrigeriunt | tractatusdepotes00wycl=refrigerium	183	1951,2972,2323,3038
+124	48	THIN	latinworks19wycl=mferioritatem | tractatusdepotes00wycl=mferioritatem	185	719,1282,1216,1331
+124	49	THIN	latinworks19wycl=celans | tractatusdepotes00wycl=celans	185	1216,1282,1464,1330
+124	57	R4	latinworks19wycl=toh | johanniswyclift00mattgoog=ioh | johanniswyclift01mattgoog=ioh | tractatusdepotes00wycl=toh	185	1494,1368,1657,1419
+124	103	R3	latinworks19wycl=pene | johanniswyclift00mattgoog=pane | johanniswyclift01mattgoog=pane | tractatusdepotes00wycl=pene	185	2230,1914,2388,1964
+125	77	R4	latinworks19wycl=i | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=i	186	863,1575,903,1645
+125	185	R4	latinworks19wycl=soecclesia | johanniswyclift00mattgoog=soecclesia | johanniswyclift01mattgoog=cclesia | tractatusdepotes00wycl=ecclesia	186	262,3167,685,3227
+126	123	R4	latinworks19wycl=says | johanniswyclift00mattgoog=suut | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=says	187	647,2323,838,2377
+127	4	R5	latinworks19wycl=uii | johanniswyclift00mattgoog=uii | tractatusdepotes00wycl=uii	188	1456,586,1618,652
+127	6	R3	latinworks19wycl=attendeue | johanniswyclift00mattgoog=attendere | tractatusdepotes00wycl=attendere	188	1724,590,2009,640
+127	30	R4	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=cumif | tractatusdepotes00wycl=cumif	188	1879,949,2025,995
+127	51	R3	latinworks19wycl=in | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=dem | tractatusdepotes00wycl=m	188	345,1294,446,1344
+127	67	R4	latinworks19wycl=mmus | johanniswyclift00mattgoog=minus | johanniswyclift01mattgoog=s | tractatusdepotes00wycl=mmus	188	348,1485,568,1519
+127	69	R3	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=tx | tractatusdepotes00wycl=iit	188	935,1470,1040,1519
+127	149	R4	latinworks19wycl=corporali | johanniswyclift00mattgoog=corporal | johanniswyclift01mattgoog=corporal | tractatusdepotes00wycl=corporali	188	1618,2441,1954,2508
+128	169	R4	latinworks19wycl=incepc | johanniswyclift00mattgoog=incepcio | johanniswyclift01mattgoog=incepcioas | tractatusdepotes00wycl=incepc	189	2143,2684,2443,2751
+130	12	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	191	1440,725,1645,776
+130	111	R3	latinworks19wycl=be | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=∅	191	672,2130,820,2193
+131	43	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis	192	1146,1099,1323,1166
+131	46	R3	latinworks19wycl=fiet | johanniswyclift00mattgoog=fieiy | johanniswyclift01mattgoog=fid | tractatusdepotes00wycl=fiet	192	1739,1100,1914,1165
+132	162	R3	latinworks19wycl=non | johanniswyclift00mattgoog=nou | johanniswyclift01mattgoog=nou | tractatusdepotes00wycl=non	193	1169,2685,1347,2736
+132	166	R3	latinworks19wycl=con25 | johanniswyclift00mattgoog=concomitatiue | johanniswyclift01mattgoog=coni | tractatusdepotes00wycl=concomitatiue	193	2222,2689,2427,2734
+133	169	NW	latinworks19wycl=concomitanter | johanniswyclift00mattgoog=concomitanter | johanniswyclift01mattgoog=concomitanter | tractatusdepotes00wycl=concomitanter	194	1088,2904,1603,2965
+134	32	R3	latinworks19wycl=corripere | johanniswyclift00mattgoog=compere | johanniswyclift01mattgoog=compere | tractatusdepotes00wycl=corripere	195	1099,1007,1490,1074
+134	104	NW	latinworks19wycl=condicionahbus | johanniswyclift00mattgoog=condicionalibus | johanniswyclift01mattgoog=condicionahbus | tractatusdepotes00wycl=condicionahbus	195	1570,1890,2126,1951
+135	67	HEAD	CAPITULUM SEPTIMUM.	196	626,1720,1220,1800
+135	152	INS?	acceptauit	196	407,3045,732,3115
+135	155	R3	latinworks19wycl=26 | johanniswyclift00mattgoog=sic | johanniswyclift01mattgoog=26 | tractatusdepotes00wycl=∅	196	1150,3046,1245,3097
+135	156	R3	latinworks19wycl=sicloquitur | johanniswyclift00mattgoog=loquitur | tractatusdepotes00wycl=sicloquitur	196	1245,3045,1675,3114
+135	157	R5	latinworks19wycl=ouimaior | johanniswyclift00mattgoog=quimaior | tractatusdepotes00wycl=quimaior	196	1675,3045,1997,3099
+136	124	R4	latinworks19wycl=hdbeo | johanniswyclift00mattgoog=habeo | johanniswyclift01mattgoog=habeo | tractatusdepotes00wycl=hdbeo	197	1225,2239,1470,2300
+136	159	R3	latinworks19wycl=iliis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=illis | tractatusdepotes00wycl=illis	197	1459,2591,1615,2643
+136	172	R3	latinworks19wycl=diuicie | johanniswyclift00mattgoog=diuide | johanniswyclift01mattgoog=diuide | tractatusdepotes00wycl=diuicie	197	830,2769,1090,2832
+137	75	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus	198	737,1489,938,1540
+137	106	R4	latinworks19wycl=audiamus | johanniswyclift00mattgoog=ibaudiamus | johanniswyclift01mattgoog=audiamus | tractatusdepotes00wycl=ibaudiamus	198	391,1842,747,1893
+137	169	NW	latinworks19wycl=hereticare | johanniswyclift00mattgoog=hereticare | johanniswyclift01mattgoog=hereticare | tractatusdepotes00wycl=hereticare	198	1017,2638,1390,2690
+138	1	THIN	latinworks19wycl=scripttiram	199	1012,582,1394,648
+138	3	THIN	latinworks19wycl=qtiam	199	1675,582,1871,649
+139	33	THIN	latinworks19wycl=adeo | tractatusdepotes00wycl=adeo	200	1024,1072,1298,1123
+139	34	THIN	latinworks19wycl=qnid | tractatusdepotes00wycl=quid	200	1298,1072,1488,1138
+139	37	R3	latinworks19wycl=tu | johanniswyclift00mattgoog=iu | johanniswyclift01mattgoog=lu | tractatusdepotes00wycl=tu	200	1711,1076,1809,1123
+139	221	R6	latinworks19wycl=sedfili | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sedfili	200	995,3458,1243,3526
+140	56	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the	201	564,1357,741,1406
+140	96	R4	latinworks19wycl=supereminenter | johanniswyclift00mattgoog=supereminenter | johanniswyclift01mattgoog=superemii | tractatusdepotes00wycl=superemii	201	2017,1797,2336,1865
+140	97	INS?	nenter	201	932,1903,1100,1955
+142	85	R3	latinworks19wycl=a | johanniswyclift00mattgoog=ptri | johanniswyclift01mattgoog=ad | tractatusdepotes00wycl=ao	203	928,1690,1030,1750
+142	98	R3	latinworks19wycl=ai | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=aci	203	725,1871,856,1920
+142	175	R3	latinworks19wycl=iudicium | johanniswyclift00mattgoog=indicium | johanniswyclift01mattgoog=indicium | tractatusdepotes00wycl=iudicium	203	1221,2930,1551,2981
+143	200	NW	latinworks19wycl=animabus | johanniswyclift00mattgoog=animabus | johanniswyclift01mattgoog=animabus | tractatusdepotes00wycl=animabus	204	1772,3066,2076,3118
+144	2	THIN	latinworks19wycl=genuu	205	1024,566,1293,634
+144	51	NW	latinworks19wycl=pretensionem | johanniswyclift00mattgoog=pretensionem | johanniswyclift01mattgoog=pretensionem | tractatusdepotes00wycl=pretensionem	205	1593,1190,2097,1251
+144	105	R4	latinworks19wycl=etdecem | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=etdecem	205	718,1979,1043,2030
+145	64	R3	latinworks19wycl=uelo | johanniswyclift00mattgoog=ueto | tractatusdepotes00wycl=uelo	206	1977,1302,2096,1351
+145	118	R3	latinworks19wycl=tu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=tii | tractatusdepotes00wycl=tu	206	1006,2093,1119,2140
+145	207	R4	latinworks19wycl=somistico | johanniswyclift00mattgoog=mistico | johanniswyclift01mattgoog=mistico | tractatusdepotes00wycl=somistico	206	345,3146,722,3213
+146	50	THIN	latinworks19wycl=uce | tractatusdepotes00wycl=xuiii	207	652,1135,854,1189
+146	51	THIN	latinworks19wycl=yill | tractatusdepotes00wycl=∅	207	854,1135,1131,1200
+146	52	THIN	latinworks19wycl=24 | tractatusdepotes00wycl=24	207	1131,1153,1195,1197
+146	53	THIN	latinworks19wycl=27 | tractatusdepotes00wycl=27	207	1277,1141,1391,1202
+147	19	R4	latinworks19wycl=morali | johanniswyclift00mattgoog=moral | johanniswyclift01mattgoog=moral | tractatusdepotes00wycl=morali	208	1966,808,2083,841
+147	31	NW	latinworks19wycl=spintualibus | johanniswyclift00mattgoog=spirituaubus | johanniswyclift01mattgoog=spirituahbus | tractatusdepotes00wycl=spintualibus	208	1556,970,2007,1034
+147	32	NW	latinworks19wycl=mcertum | johanniswyclift00mattgoog=incertum | johanniswyclift01mattgoog=mcertum | tractatusdepotes00wycl=mcertum	208	2007,981,2137,1017
+148	28	R5	latinworks19wycl=sequitalem | johanniswyclift00mattgoog=sequitalem | tractatusdepotes00wycl=sequitalem	209	772,908,1186,970
+148	46	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	209	2130,1088,2202,1137
+148	127	R3	latinworks19wycl=sedi | johanniswyclift00mattgoog=sed | johanniswyclift01mattgoog=sedo | tractatusdepotes00wycl=sed	209	2177,2233,2349,2282
+149	206	R3	latinworks19wycl=responso | johanniswyclift00mattgoog=response | johanniswyclift01mattgoog=response | tractatusdepotes00wycl=responso	210	1086,3215,1460,3266
+150	132	R3	latinworks19wycl=tempora | johanniswyclift00mattgoog=tempera | johanniswyclift01mattgoog=tempera | tractatusdepotes00wycl=tempora	211	1094,2436,1392,2504
+151	115	R3	latinworks19wycl=fit | johanniswyclift00mattgoog=iity | johanniswyclift01mattgoog=iit | tractatusdepotes00wycl=iit	212	569,2044,711,2109
+152	1	THIN	latinworks19wycl=idbor	213	739,581,941,633
+152	2	THIN	latinworks19wycl=exprimitnr	213	941,582,1329,647
+152	17	R3	latinworks19wycl=uerbo | johanniswyclift00mattgoog=uerba | tractatusdepotes00wycl=uerbo	213	1576,764,1796,813
+152	32	R4	latinworks19wycl=terrena | johanniswyclift00mattgoog=lerrena | johanniswyclift01mattgoog=lerrena | tractatusdepotes00wycl=terrena	213	1578,943,1850,990
+152	80	R6	latinworks19wycl=of | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=of	213	518,1731,707,1780
+153	22	R3	latinworks19wycl=opposito | johanniswyclift00mattgoog=opposite | johanniswyclift01mattgoog=opposite | tractatusdepotes00wycl=opposito	214	950,898,1266,967
+153	46	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=ut	214	658,1253,744,1304
+153	57	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ul | tractatusdepotes00wycl=tit	214	1193,1343,1300,1390
+153	92	R3	latinworks19wycl=tacuiy | johanniswyclift00mattgoog=iacui | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=tacui	214	1161,1692,1374,1756
+154	115	NW	latinworks19wycl=qninquaginta | johanniswyclift00mattgoog=qninquaginta | johanniswyclift01mattgoog=qninquaginta | tractatusdepotes00wycl=qninquaginta	215	1268,2072,1767,2137
+154	169	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	215	1133,2866,1322,2917
+154	194	INS?	i	215	979,3219,1207,3287
+155	29	R3	latinworks19wycl=carni | johanniswyclift00mattgoog=cami | johanniswyclift01mattgoog=cami | tractatusdepotes00wycl=carni	216	1801,973,1958,1024
+155	38	NW	latinworks19wycl=punctali | johanniswyclift00mattgoog=punctali | johanniswyclift01mattgoog=punctali | tractatusdepotes00wycl=punctali	216	561,1151,882,1217
+155	167	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	216	1793,2917,1955,2968
+156	26	R5	latinworks19wycl=ammo | johanniswyclift00mattgoog=ammo | johanniswyclift01mattgoog=ammo	217	1898,846,2136,891
+156	97	R3	latinworks19wycl=tu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=ttt | tractatusdepotes00wycl=tu	217	1845,1810,1944,1861
+156	106	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=17 | johanniswyclift01mattgoog=17 | tractatusdepotes00wycl=1	217	2373,1915,2388,1947
+156	132	R4	latinworks19wycl=quatuor | johanniswyclift00mattgoog=quatuoro | johanniswyclift01mattgoog=quatuor | tractatusdepotes00wycl=quatuoro	217	2182,2256,2456,2318
+158	53	R4	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10	219	1570,1159,1688,1203
+158	171	R3	latinworks19wycl=uniuerso | johanniswyclift00mattgoog=uniuerse | johanniswyclift01mattgoog=iihiucrso | tractatusdepotes00wycl=uniuerso	219	786,2651,1090,2702
+158	253	THIN	latinworks19wycl=migne | tractatusdepotes00wycl=migne	219	1458,3752,1655,3803
+158	254	THIN	latinworks19wycl=p | tractatusdepotes00wycl=p	219	1655,3748,1729,3803
+159	132	R4	latinworks19wycl=et | johanniswyclift00mattgoog=aoet | johanniswyclift01mattgoog=aoet | tractatusdepotes00wycl=et	220	317,2271,420,2322
+160	1	THIN	latinworks19wycl=admberet	221	969,511,1344,581
+160	2	INS?	ante finem correpcionis tercie in quo uiderit fratrem suum non esse apcius corrigendum tercio debet notare quod sit socius et minister ecclesie aliter enim non adhiberet	221	1344,519,1513,581
+160	54	R3	latinworks19wycl=amori | johanniswyclift00mattgoog=amoris | johanniswyclift01mattgoog=amori | tractatusdepotes00wycl=amoris	221	964,1315,1237,1380
+160	58	NW	latinworks19wycl=papatui | johanniswyclift00mattgoog=papatui | johanniswyclift01mattgoog=papatui | tractatusdepotes00wycl=papatui	221	1672,1316,2006,1384
+160	125	R3	latinworks19wycl=ex | johanniswyclift00mattgoog=exao | johanniswyclift01mattgoog=exi | tractatusdepotes00wycl=ex	221	2362,2215,2462,2249
+161	25	R4	latinworks19wycl=elesmosina | johanniswyclift00mattgoog=ele3mosina | johanniswyclift01mattgoog=elemosina | tractatusdepotes00wycl=elesmosina	222	1984,884,2098,933
+162	0	THIN	latinworks19wycl=omtiis	223	725,587,966,637
+162	9	NW	latinworks19wycl=mponunt | johanniswyclift00mattgoog=mponunt | johanniswyclift01mattgoog=inponunt | tractatusdepotes00wycl=mponunt	223	1426,684,1763,736
+162	36	R3	latinworks19wycl=preterito | johanniswyclift00mattgoog=preterite | johanniswyclift01mattgoog=preterite | tractatusdepotes00wycl=preterito	223	1375,1027,1706,1094
+162	38	R4	latinworks19wycl=presenti | johanniswyclift00mattgoog=present | johanniswyclift01mattgoog=present | tractatusdepotes00wycl=presenti	223	1918,1028,2226,1095
+163	3	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	224	1122,637,1350,688
+163	123	R3	latinworks19wycl=ita | johanniswyclift00mattgoog=lia | johanniswyclift01mattgoog=ila | tractatusdepotes00wycl=ita	224	822,2135,941,2186
+163	176	R3	latinworks19wycl=quam | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=qttam | tractatusdepotes00wycl=quam	224	366,2843,583,2908
+163	216	NW	latinworks19wycl=recompense | johanniswyclift00mattgoog=recompense | johanniswyclift01mattgoog=recompense | tractatusdepotes00wycl=recompense	224	1948,3301,2034,3333
+163	223	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	224	703,3459,920,3509
+164	33	R5	latinworks19wycl=pascuasemper | johanniswyclift00mattgoog=pascuasemper | tractatusdepotes00wycl=pascuasemper	225	2290,958,2439,1018
+165	0	HEAD	CAPITULUM OCTAVUM.	226	672,662,1262,740
+165	9	R4	latinworks19wycl=pontificem | johanniswyclift00mattgoog=pontmcem | tractatusdepotes00wycl=pontmcem	226	636,882,1021,948
+165	69	R4	latinworks19wycl=et | johanniswyclift00mattgoog=el | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	226	1634,1583,1742,1633
+165	75	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=dens	226	1643,1669,1831,1722
+165	119	R5	latinworks19wycl=sanctiiatem | johanniswyclift00mattgoog=sanctuatem | tractatusdepotes00wycl=sanctiiatem	226	1106,2289,1494,2339
+165	125	R3	latinworks19wycl=quos | johanniswyclift00mattgoog=quos | johanniswyclift01mattgoog=qtios | tractatusdepotes00wycl=auos	226	946,2378,1122,2444
+165	154	R4	latinworks19wycl=aurelio | johanniswyclift00mattgoog=aurelio | johanniswyclift01mattgoog=aiirclio | tractatusdepotes00wycl=∅	226	525,2813,758,2867
+166	31	R4	latinworks19wycl=accessusy | johanniswyclift00mattgoog=accessusy | johanniswyclift01mattgoog=accessus | tractatusdepotes00wycl=accessus	227	2259,930,2353,964
+166	71	R3	latinworks19wycl=rato | johanniswyclift00mattgoog=racione | johanniswyclift01mattgoog=racione | tractatusdepotes00wycl=rato	227	2270,1459,2353,1491
+166	96	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	227	1628,1794,1840,1844
+167	21	R3	latinworks19wycl=detis | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus	228	852,863,1057,914
+167	161	R3	latinworks19wycl=deterior | johanniswyclift00mattgoog=deteriory | johanniswyclift01mattgoog=delerior | tractatusdepotes00wycl=deterior	228	600,2800,918,2866
+167	202	R4	latinworks19wycl=rac | johanniswyclift00mattgoog=racio | johanniswyclift01mattgoog=racio | tractatusdepotes00wycl=rac	228	1901,3327,2115,3377
+168	41	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ni | tractatusdepotes00wycl=ut	229	1064,1100,1165,1147
+168	46	R4	latinworks19wycl=canis | johanniswyclift00mattgoog=cants | johanniswyclift01mattgoog=cants | tractatusdepotes00wycl=canis	229	2083,1097,2298,1150
+168	72	NW	latinworks19wycl=contratas | johanniswyclift00mattgoog=contratas | johanniswyclift01mattgoog=contratas | tractatusdepotes00wycl=contratas	229	2053,1456,2369,1515
+168	86	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	229	1927,1624,2129,1675
+170	1	THIN	latinworks19wycl=dommatus	231	915,558,1326,609
+170	10	R3	latinworks19wycl=lt | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=tt | tractatusdepotes00wycl=lt	231	1525,653,1641,697
+170	13	R3	latinworks19wycl=mendacn | johanniswyclift00mattgoog=mendacii | johanniswyclift01mattgoog=mendacu | tractatusdepotes00wycl=mendacu	231	2086,650,2374,699
+170	47	R3	latinworks19wycl=parce | johanniswyclift00mattgoog=arce | johanniswyclift01mattgoog=parce | tractatusdepotes00wycl=axce	231	1225,1181,1456,1240
+170	107	R3	latinworks19wycl=ouo | johanniswyclift00mattgoog=qiio | johanniswyclift01mattgoog=quo | tractatusdepotes00wycl=quo	231	1155,2053,1332,2104
+170	118	GAP	nisi ex lege	231	1135,2230,1403,2280
+170	214	THIN	latinworks19wycl=uenaices | johanniswyclift01mattgoog=uenaices	231	2109,3288,2417,3338
+171	8	THIN	latinworks19wycl=quod | tractatusdepotes00wycl=qnod	232	1910,587,2059,649
+171	9	THIN	latinworks19wycl=11011 | tractatusdepotes00wycl=non	232	399,671,548,721
+171	14	THIN	latinworks19wycl=lioc | tractatusdepotes00wycl=hoc	232	1495,672,1634,722
+171	54	R3	latinworks19wycl=autem | johanniswyclift00mattgoog=antem | johanniswyclift01mattgoog=autem | tractatusdepotes00wycl=atttem	232	540,1202,781,1249
+171	90	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis	232	859,1729,1017,1779
+171	103	NW	latinworks19wycl=blastema | johanniswyclift00mattgoog=biasfema | johanniswyclift01mattgoog=biasfema | tractatusdepotes00wycl=blasrema	232	1903,1904,2099,1954
+171	106	R4	latinworks19wycl=dommia | johanniswyclift00mattgoog=dominia | johanniswyclift01mattgoog=donnnia | tractatusdepotes00wycl=dommia	232	1219,1996,1515,2040
+172	7	INS?	i	233	928,665,1102,714
+172	68	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	233	1231,1451,1433,1501
+172	90	R3	latinworks19wycl=sanctmcat | johanniswyclift00mattgoog=sanctificat | johanniswyclift01mattgoog=sanctificati | tractatusdepotes00wycl=sanctmcat	233	1087,1806,1468,1865
+172	199	R3	latinworks19wycl=istis | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=istis | tractatusdepotes00wycl=ss	233	963,3210,1146,3261
+173	16	R3	latinworks19wycl=inclite | johanniswyclift00mattgoog=indite | johanniswyclift01mattgoog=indite | tractatusdepotes00wycl=inclite	234	718,793,975,844
+173	32	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	234	1575,964,1791,1016
+174	145	INS?	i	235	989,2456,1311,2524
+174	163	R4	latinworks19wycl=beaturn | johanniswyclift00mattgoog=beatum | johanniswyclift01mattgoog=beatutti | tractatusdepotes00wycl=beaturn	235	709,2721,989,2772
+175	11	NW	latinworks19wycl=propmqua | johanniswyclift00mattgoog=propmqua | johanniswyclift01mattgoog=propinqua | tractatusdepotes00wycl=propmqua	236	1239,704,1603,766
+177	103	NW	latinworks19wycl=intrusoris | johanniswyclift00mattgoog=intrusoris | johanniswyclift01mattgoog=intrusoris | tractatusdepotes00wycl=intrusoris	238	1310,1923,1656,1976
+177	186	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | johanniswyclift01mattgoog=siciit | tractatusdepotes00wycl=sictit	238	1889,2984,2032,3032
+178	56	THIN	latinworks19wycl=beatipetri | tractatusdepotes00wycl=beatipetri	239	1918,1207,2264,1258
+178	57	THIN	latinworks19wycl=rome | tractatusdepotes00wycl=rome	239	2264,1208,2370,1258
+178	83	THIN	latinworks19wycl=papaheret | johanniswyclift01mattgoog=papafieret	239	787,1645,1165,1714
+178	84	THIN	latinworks19wycl=uagusutolim | johanniswyclift01mattgoog=uagusutolim	239	1165,1645,1622,1714
+178	86	R4	latinworks19wycl=nulliloco | johanniswyclift00mattgoog=nuui | johanniswyclift01mattgoog=nuli | tractatusdepotes00wycl=nulliloco	239	1707,1646,2021,1697
+178	143	R3	latinworks19wycl=chrisii | johanniswyclift00mattgoog=christi | johanniswyclift01mattgoog=chrisll | tractatusdepotes00wycl=christi	239	887,2345,1151,2400
+179	51	NW	latinworks19wycl=lmpertmenciam | johanniswyclift00mattgoog=impertinenciam | johanniswyclift01mattgoog=impertinenciam | tractatusdepotes00wycl=impertinenciam	240	663,1338,1224,1400
+179	120	R5	latinworks19wycl=sithuic | johanniswyclift01mattgoog=sithuic | tractatusdepotes00wycl=sithuic	240	557,2211,806,2263
+179	156	R4	latinworks19wycl=istis | johanniswyclift00mattgoog=5istis | johanniswyclift01mattgoog=istis | tractatusdepotes00wycl=5istis	240	293,2738,541,2792
+180	67	R5	latinworks19wycl=etspeculum | johanniswyclift00mattgoog=etspeculum | tractatusdepotes00wycl=etspeculum	241	1715,1385,2127,1451
+180	140	R3	latinworks19wycl=quod | johanniswyclift00mattgoog=qol | johanniswyclift01mattgoog=1 | tractatusdepotes00wycl=quod	241	752,2439,931,2507
+181	59	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ulnm | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	242	1452,1411,1645,1462
+181	109	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	242	978,2114,1126,2165
+181	129	INS?	i	242	358,2379,530,2446
+181	139	R4	latinworks19wycl=facius | johanniswyclift00mattgoog=actus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=facius	242	1071,2464,1331,2528
+181	143	R3	latinworks19wycl=hunc | johanniswyclift00mattgoog=a | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=hunc	242	1879,2469,2051,2520
+182	3	THIN	latinworks19wycl=ccccxciii | tractatusdepotes00wycl=ccccxciii	243	1573,560,2017,617
+182	5	THIN	latinworks19wycl=symachum | tractatusdepotes00wycl=symachum	243	2262,561,2367,626
+182	6	THIN	latinworks19wycl=pauam | tractatusdepotes00wycl=papam	243	1035,650,1311,710
+182	7	THIN	latinworks19wycl=ordtnatur | tractatusdepotes00wycl=ordmatur	243	1311,650,1671,701
+182	9	THIN	latinworks19wycl=uer | tractatusdepotes00wycl=per	243	2081,664,2238,700
+182	10	R5	latinworks19wycl=contenctonem | johanniswyclift00mattgoog=contenctonem | tractatusdepotes00wycl=contenaonem	243	2238,664,2370,700
+182	14	R5	latinworks19wycl=dcclxuiii | johanniswyclift00mattgoog=dcclxuiii | tractatusdepotes00wycl=dcclxuiii	243	1536,823,2008,878
+182	143	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus	243	1653,2672,1833,2721
+182	179	THIN	latinworks19wycl=domimco	243	1119,3111,1446,3161
+183	15	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et	244	1280,776,1366,827
+183	77	R3	latinworks19wycl=impleret | johanniswyclift00mattgoog=impuret | johanniswyclift01mattgoog=impkrel | tractatusdepotes00wycl=impleret	244	1782,1654,2056,1720
+183	209	THIN	latinworks19wycl=romadeciino	244	1833,3327,2049,3379
+184	6	R4	latinworks19wycl=papatu | johanniswyclift00mattgoog=papain | johanniswyclift01mattgoog=papain | tractatusdepotes00wycl=papatu	245	811,659,1079,725
+184	32	R4	latinworks19wycl=occubuit | johanniswyclift00mattgoog=occubuii | johanniswyclift01mattgoog=occubuii | tractatusdepotes00wycl=occubuit	245	1089,1024,1400,1090
+184	72	R3	latinworks19wycl=factus | johanniswyclift00mattgoog=actus | johanniswyclift01mattgoog=actus | tractatusdepotes00wycl=factus	245	713,1653,929,1719
+185	109	INS?	ut michi	246	629,2222,901,2289
+185	114	R3	latinworks19wycl=michi | johanniswyclift00mattgoog=probabile | johanniswyclift01mattgoog=ao | tractatusdepotes00wycl=probabile	246	1893,2223,2235,2280
+185	175	R4	latinworks19wycl=ueniat | johanniswyclift00mattgoog=uenial | johanniswyclift01mattgoog=uenial | tractatusdepotes00wycl=ueniat	246	860,3021,1089,3072
+186	6	R4	latinworks19wycl=cu | johanniswyclift00mattgoog=opinio | johanniswyclift01mattgoog=opinio | tractatusdepotes00wycl=cu	247	716,653,865,715
+186	7	R6	latinworks19wycl=pmi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=pmi	247	865,653,1115,720
+186	83	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=melius | tractatusdepotes00wycl=meus	247	873,1620,1106,1683
+187	25	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	248	1978,864,2025,910
+187	26	R4	latinworks19wycl=suam | johanniswyclift00mattgoog=bsuam | johanniswyclift01mattgoog=bsuam | tractatusdepotes00wycl=suam	248	365,951,591,1001
+187	157	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	248	520,2625,728,2675
+188	10	R4	latinworks19wycl=ille | johanniswyclift00mattgoog=tile | johanniswyclift01mattgoog=tile | tractatusdepotes00wycl=ille	249	1094,647,1254,700
+188	43	R3	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichrist | johanniswyclift01mattgoog=antichnsti | tractatusdepotes00wycl=antichnsti	249	1271,1086,1694,1138
+188	59	R4	latinworks19wycl=et | johanniswyclift00mattgoog=el | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	249	2204,1264,2291,1314
+189	52	R4	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichrist | johanniswyclift01mattgoog=antichrist | tractatusdepotes00wycl=antichristi	250	1306,1227,1714,1293
+189	102	R4	latinworks19wycl=facite | johanniswyclift00mattgoog=acite | johanniswyclift01mattgoog=acite | tractatusdepotes00wycl=facite	250	1954,1847,2063,1913
+189	222	R4	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichrist | johanniswyclift01mattgoog=antichrist | tractatusdepotes00wycl=antichristi	250	1545,3258,1954,3319
+190	11	R4	latinworks19wycl=bonitacn | johanniswyclift00mattgoog=bonifacii | tractatusdepotes00wycl=bonnacn	251	1896,678,2239,726
+190	14	R3	latinworks19wycl=sanctam | johanniswyclift00mattgoog=sanciam | johanniswyclift01mattgoog=banciam | tractatusdepotes00wycl=sanctam	251	964,764,1299,814
+190	95	R3	latinworks19wycl=pauio | johanniswyclift00mattgoog=paulo | tractatusdepotes00wycl=pauto	251	1595,1817,1812,1880
+190	107	R3	latinworks19wycl=papam | johanniswyclift00mattgoog=papath | johanniswyclift01mattgoog=papattt | tractatusdepotes00wycl=papam	251	1156,1990,1441,2058
+190	161	R3	latinworks19wycl=iudicium | johanniswyclift00mattgoog=indicium | johanniswyclift01mattgoog=indicium | tractatusdepotes00wycl=iudicium	251	1862,2609,2190,2668
+191	60	R3	latinworks19wycl=tidit | johanniswyclift00mattgoog=tulit | johanniswyclift01mattgoog=luii | tractatusdepotes00wycl=tulii	252	1002,1485,1165,1534
+191	201	THIN	latinworks19wycl=decoiiare	252	1784,3251,2064,3299
+192	0	THIN	latinworks19wycl=unlt	253	698,569,850,618
+192	5	THIN	latinworks19wycl=couatur | tractatusdepotes00wycl=conatur	253	1453,568,1720,618
+192	46	R3	latinworks19wycl=uobiscum | johanniswyclift00mattgoog=nobiscum | tractatusdepotes00wycl=nobiscum	253	697,1097,1009,1146
+192	56	R3	latinworks19wycl=iiii | johanniswyclift00mattgoog=hit | johanniswyclift01mattgoog=illi | tractatusdepotes00wycl=illi	253	1310,1185,1435,1234
+192	65	R3	latinworks19wycl=ceto | johanniswyclift01mattgoog=celo | tractatusdepotes00wycl=celo	253	1897,1276,2024,1324
+192	179	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=nt | johanniswyclift01mattgoog=itl | tractatusdepotes00wycl=ut	253	1465,2861,1574,2911
+193	71	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	254	1342,1471,1459,1521
+193	77	NW	latinworks19wycl=allocatur | johanniswyclift00mattgoog=allocatur | johanniswyclift01mattgoog=allocatur | tractatusdepotes00wycl=allocatur	254	1077,1559,1407,1611
+193	92	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	254	1195,1737,1383,1788
+193	157	R3	latinworks19wycl=quomodo | johanniswyclift00mattgoog=modo | tractatusdepotes00wycl=quomodo	254	1866,2548,2005,2597
+193	158	R3	latinworks19wycl=caute | johanniswyclift00mattgoog=cauie | tractatusdepotes00wycl=caute	254	534,2622,734,2672
+193	181	R4	latinworks19wycl=augustinum | johanniswyclift00mattgoog=auguslinum | johanniswyclift01mattgoog=auguslinum | tractatusdepotes00wycl=augustinum	254	1720,2883,2077,2951
+194	40	HEAD	CAPITULUM NONUM.	255	1102,1234,1694,1313
+194	171	R3	latinworks19wycl=unus | johanniswyclift00mattgoog=nttns | johanniswyclift01mattgoog=roma	255	2107,3022,2274,3057
+194	173	THIN	latinworks19wycl=romaautem | johanniswyclift01mattgoog=coniita	255	981,3094,1410,3146
+194	176	R3	latinworks19wycl=regessimnl | johanniswyclift00mattgoog=regessimnl | johanniswyclift01mattgoog=simul | tractatusdepotes00wycl=reges	255	2069,3093,2424,3159
+194	184	R5	latinworks19wycl=rebecce | johanniswyclift00mattgoog=rebecce | tractatusdepotes00wycl=rebecce	255	762,3271,1043,3322
+195	4	THIN	latinworks19wycl=archipresbiteri | tractatusdepotes00wycl=archipresbiteri	256	1544,598,2019,665
+195	40	R3	latinworks19wycl=ahenum | johanniswyclift00mattgoog=alienum | johanniswyclift01mattgoog=ahenum | tractatusdepotes00wycl=alienum	256	566,1216,860,1265
+195	43	R3	latinworks19wycl=lstis | johanniswyclift00mattgoog=istis | johanniswyclift01mattgoog=istis | tractatusdepotes00wycl=lstis	256	1106,1216,1271,1265
+195	196	NW	latinworks19wycl=scan | johanniswyclift00mattgoog=scan | johanniswyclift01mattgoog=scan | tractatusdepotes00wycl=scan	256	1546,3248,1720,3299
+196	93	R3	latinworks19wycl=affer | johanniswyclift01mattgoog=offer | tractatusdepotes00wycl=affer	257	2056,1733,2277,1792
+197	93	R4	latinworks19wycl=instar | johanniswyclift00mattgoog=inslar | johanniswyclift01mattgoog=inslar | tractatusdepotes00wycl=instar	258	627,1860,866,1910
+197	115	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	258	889,2122,1089,2174
+197	210	INS?	a	258	356,3447,662,3498
+198	191	NW	latinworks19wycl=magcrum | johanniswyclift00mattgoog=magcrum | johanniswyclift01mattgoog=magcrum | tractatusdepotes00wycl=magcrum	259	1871,3056,2213,3124
+199	10	R4	latinworks19wycl=cui | johanniswyclift00mattgoog=cut | johanniswyclift01mattgoog=cut | tractatusdepotes00wycl=cui	260	1246,727,1376,778
+199	27	NW	latinworks19wycl=lib | johanniswyclift00mattgoog=lib | johanniswyclift01mattgoog=lib | tractatusdepotes00wycl=lib	260	1220,901,1362,952
+199	69	R4	latinworks19wycl=papatus | johanniswyclift00mattgoog=papains | johanniswyclift01mattgoog=papains | tractatusdepotes00wycl=papatus	260	1770,1435,2028,1496
+199	144	NW	latinworks19wycl=nomma | johanniswyclift00mattgoog=nomma | johanniswyclift01mattgoog=nomina | tractatusdepotes00wycl=nomma	260	1055,2490,1321,2539
+200	5	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicui | johanniswyclift01mattgoog=sictit | tractatusdepotes00wycl=sicut	261	2075,575,2281,625
+200	88	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	261	1111,1736,1126,1767
+200	93	R4	latinworks19wycl=bonunt | johanniswyclift00mattgoog=honum | johanniswyclift01mattgoog=bonunt | tractatusdepotes00wycl=bonum	261	2188,1719,2389,1769
+200	138	R3	latinworks19wycl=tribus | johanniswyclift00mattgoog=iribns | johanniswyclift01mattgoog=iribus | tractatusdepotes00wycl=tribus	261	1354,2338,1561,2387
+200	150	R4	latinworks19wycl=quodgracia | johanniswyclift00mattgoog=qulodgracia | johanniswyclift01mattgoog=quodr7at | tractatusdepotes00wycl=qnod	261	735,2514,1147,2581
+201	115	R4	latinworks19wycl=panhis | johanniswyclift00mattgoog=panhts | tractatusdepotes00wycl=pattltis	262	792,2134,1062,2185
+201	138	R3	latinworks19wycl=i | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=1 | tractatusdepotes00wycl=1	262	1168,2417,1254,2465
+201	140	R3	latinworks19wycl=seuiores | johanniswyclift00mattgoog=seniores | johanniswyclift01mattgoog=scniores | tractatusdepotes00wycl=seniores	262	1373,2398,1676,2451
+201	179	NW	latinworks19wycl=expressms | johanniswyclift00mattgoog=expressms | johanniswyclift01mattgoog=expressius | tractatusdepotes00wycl=expressms	262	784,2932,1208,2997
+201	187	NW	latinworks19wycl=autequam | johanniswyclift00mattgoog=antequam | johanniswyclift01mattgoog=uulequam | tractatusdepotes00wycl=autequam	262	832,3021,1170,3085
+201	200	R5	latinworks19wycl=sopauli | johanniswyclift00mattgoog=opauli | tractatusdepotes00wycl=opauli	262	267,3194,566,3261
+201	203	R5	latinworks19wycl=apollo | johanniswyclift00mattgoog=apollo | tractatusdepotes00wycl=apoilo	262	877,3196,1148,3262
+201	236	THIN	latinworks19wycl=decr | tractatusdepotes00wycl=decr	262	532,3755,681,3795
+201	240	THIN	latinworks19wycl=xciii | tractatusdepotes00wycl=xciu	262	1128,3755,1311,3806
+201	244	THIN	latinworks19wycl=pil | tractatusdepotes00wycl=pil	262	1803,3755,1907,3799
+201	246	THIN	latinworks19wycl=r	262	1967,3768,2000,3800
+202	112	R4	latinworks19wycl=peccata | johanniswyclift00mattgoog=peccata | johanniswyclift01mattgoog=peccala | tractatusdepotes00wycl=peccala	263	742,2059,1045,2122
+202	123	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=tt | tractatusdepotes00wycl=et	263	1950,2148,2037,2194
+202	124	R3	latinworks19wycl=iamen | johanniswyclift00mattgoog=amen | johanniswyclift01mattgoog=lumen | tractatusdepotes00wycl=iamen	263	2037,2144,2275,2194
+202	126	R4	latinworks19wycl=uidetur | johanniswyclift00mattgoog=uideiur | johanniswyclift01mattgoog=uideiur | tractatusdepotes00wycl=uidetur	263	747,2233,998,2284
+202	164	NW	latinworks19wycl=uec | johanniswyclift00mattgoog=uec | johanniswyclift01mattgoog=uec | tractatusdepotes00wycl=uec	263	749,2674,887,2724
+202	165	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	263	887,2673,1095,2724
+202	223	THIN	latinworks19wycl=semmat	263	2162,3381,2408,3424
+203	37	INS?	sibilis	264	549,1156,929,1225
+203	194	NW	latinworks19wycl=difndencia | johanniswyclift00mattgoog=dimdencia | johanniswyclift01mattgoog=dimdencia | tractatusdepotes00wycl=ditlidencia	264	1843,3282,2054,3330
+204	23	THIN	latinworks19wycl=intelligentes | tractatusdepotes00wycl=intelligentes	265	2323,749,2415,798
+204	24	THIN	latinworks19wycl=sumunt | tractatusdepotes00wycl=sumunt	265	1099,836,1352,886
+204	25	THIN	latinworks19wycl=aliquid | tractatusdepotes00wycl=aliquid	265	1352,836,1592,900
+204	29	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=ut	265	759,925,858,974
+204	64	R4	latinworks19wycl=discernuuf | johanniswyclift00mattgoog=discernuni | johanniswyclift01mattgoog=discernunl | tractatusdepotes00wycl=discemunt	265	2077,1276,2417,1336
+204	65	R3	latinworks19wycl=ia | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=ita | tractatusdepotes00wycl=na	265	761,1362,883,1411
+204	67	R4	latinworks19wycl=itic | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=hie | tractatusdepotes00wycl=fofc	265	969,1362,1152,1414
+205	35	R3	latinworks19wycl=autem | johanniswyclift00mattgoog=antem | johanniswyclift01mattgoog=auletii | tractatusdepotes00wycl=autem	266	996,959,1228,1005
+205	209	THIN	latinworks19wycl=uirgiginalis | tractatusdepotes00wycl=uirgiginalis	266	1795,3338,1977,3403
+206	1	THIN	latinworks19wycl=qnam	267	1308,530,1507,594
+206	12	THIN	latinworks19wycl=humilitatem | tractatusdepotes00wycl=liumilitatem	267	1138,705,1576,757
+206	20	R3	latinworks19wycl=tu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=tu	267	1048,794,1145,844
+206	24	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	267	2042,798,2121,845
+206	28	R4	latinworks19wycl=hnmilitatem | johanniswyclift00mattgoog=hutnilitatem | johanniswyclift01mattgoog=hnmililatem | tractatusdepotes00wycl=kuniilitatem	267	980,883,1406,946
+207	71	R4	latinworks19wycl=tnxta | johanniswyclift00mattgoog=itixia | johanniswyclift01mattgoog=luxia | tractatusdepotes00wycl=iuxta	268	1460,1380,1668,1431
+207	176	R3	latinworks19wycl=specu | johanniswyclift00mattgoog=speculo | johanniswyclift01mattgoog=speculo | tractatusdepotes00wycl=specu	268	1742,2692,2096,2774
+208	27	R4	latinworks19wycl=ilpetri | johanniswyclift00mattgoog=ii | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=ilpetri	269	2194,851,2434,902
+208	38	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | johanniswyclift01mattgoog=scuf | tractatusdepotes00wycl=sicut	269	1468,1030,1662,1079
+208	105	R5	latinworks19wycl=iestatem | johanniswyclift00mattgoog=iestatem | tractatusdepotes00wycl=iestatem	269	952,1908,1249,1959
+208	124	R4	latinworks19wycl=hii | johanniswyclift00mattgoog=hit | johanniswyclift01mattgoog=hit | tractatusdepotes00wycl=hii	269	1999,2087,2134,2136
+209	23	NW	latinworks19wycl=dommos | johanniswyclift00mattgoog=dominos | johanniswyclift01mattgoog=dommos | tractatusdepotes00wycl=dommos	270	1031,893,1353,944
+209	35	R4	latinworks19wycl=facis | johanniswyclift00mattgoog=facts | johanniswyclift01mattgoog=facts | tractatusdepotes00wycl=facis	270	326,1070,539,1134
+209	61	R4	latinworks19wycl=facis | johanniswyclift00mattgoog=facts | johanniswyclift01mattgoog=facts | tractatusdepotes00wycl=facis	270	647,1333,847,1398
+209	67	R4	latinworks19wycl=cecos | johanniswyclift00mattgoog=cecosy | johanniswyclift01mattgoog=cecos | tractatusdepotes00wycl=cecosy	270	615,1425,827,1487
+209	195	R4	latinworks19wycl=quin | johanniswyclift00mattgoog=quin | johanniswyclift01mattgoog=oquin | tractatusdepotes00wycl=oquin	270	317,3183,499,3250
+209	201	R3	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=ouantum	270	389,3271,727,3323
+210	87	R3	latinworks19wycl=peccatum | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=ps | tractatusdepotes00wycl=peccatum	271	759,1883,1099,1952
+210	94	R4	latinworks19wycl=icui | johanniswyclift00mattgoog=iyi | johanniswyclift01mattgoog=iyi | tractatusdepotes00wycl=ym	271	759,1971,945,2038
+210	95	R3	latinworks19wycl=maris | johanniswyclift00mattgoog=mauis | johanniswyclift01mattgoog=fiifis | tractatusdepotes00wycl=maris	271	945,1971,1170,2024
+211	2	THIN	latinworks19wycl=cibsconditas	272	1133,621,1553,682
+211	108	INS?	9	272	406,1940,651,2006
+211	186	THIN	latinworks19wycl=siracio	272	474,3091,730,3141
+211	187	THIN	latinworks19wycl=11011	272	730,3095,872,3141
+212	25	R4	latinworks19wycl=sno | johanniswyclift00mattgoog=stio | johanniswyclift01mattgoog=sno | tractatusdepotes00wycl=suo	273	746,806,893,859
+212	223	R4	latinworks19wycl=crysoad | johanniswyclift00mattgoog=crysostomi | johanniswyclift01mattgoog=crysostomi | tractatusdepotes00wycl=crysoad	273	2204,3269,2414,3338
+212	224	INS?	ad	273	1159,3356,1385,3408
+212	230	NW	latinworks19wycl=animabus | johanniswyclift00mattgoog=auimabus | johanniswyclift01mattgoog=animabus | tractatusdepotes00wycl=animabus	273	1087,3443,1435,3495
+213	12	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=facere | tractatusdepotes00wycl=facere	274	1516,721,1544,765
+213	27	R4	latinworks19wycl=fiunt | johanniswyclift00mattgoog=iiunt | johanniswyclift01mattgoog=iiuyit | tractatusdepotes00wycl=iiunt	274	382,979,600,1045
+213	40	R4	latinworks19wycl=suas | johanniswyclift00mattgoog=stias | johanniswyclift01mattgoog=snas | tractatusdepotes00wycl=stias	274	1597,1067,1777,1117
+213	83	NW	latinworks19wycl=legiorum | johanniswyclift00mattgoog=legiorum | johanniswyclift01mattgoog=legiorum | tractatusdepotes00wycl=legiorum	274	1751,1593,2046,1659
+214	178	R4	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec	275	1771,2751,1941,2802
+216	1	THIN	latinworks19wycl=caputomnium	277	1192,556,1668,622
+216	2	THIN	latinworks19wycl=aliarnm	277	1668,557,1958,607
+216	4	THIN	latinworks19wycl=constittieret	277	668,643,1081,709
+216	7	THIN	latinworks19wycl=paribtis	277	1563,645,1852,711
+216	8	THIN	latinworks19wycl=capitalitas	277	1852,644,2210,710
+216	9	THIN	latinworks19wycl=romane	277	2210,644,2325,694
+216	10	THIN	latinworks19wycl=ecctesie	277	881,731,1187,782
+216	19	R4	latinworks19wycl=seculari | johanniswyclift00mattgoog=secular | johanniswyclift01mattgoog=secular | tractatusdepotes00wycl=seculari	277	1893,819,2176,870
+216	47	R6	latinworks19wycl=s | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=s	277	614,1265,670,1317
+216	53	THIN	latinworks19wycl=predestinobis | tractatusdepotes00wycl=predestinacio	277	2049,1257,2332,1324
+216	91	R4	latinworks19wycl=ouoniam | johanniswyclift00mattgoog=ouoniam | johanniswyclift01mattgoog=ottoniath | tractatusdepotes00wycl=quoniam	277	682,1960,1016,2011
+216	129	R3	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=no | tractatusdepotes00wycl=non	277	899,2490,1050,2538
+217	40	R3	latinworks19wycl=non | johanniswyclift00mattgoog=lion | johanniswyclift01mattgoog=noh | tractatusdepotes00wycl=11011	278	463,1138,614,1188
+217	51	R3	latinworks19wycl=non | johanniswyclift00mattgoog=non | tractatusdepotes00wycl=11011	278	1068,1229,1216,1275
+217	73	R3	latinworks19wycl=ita | johanniswyclift00mattgoog=ista | johanniswyclift01mattgoog=ita | tractatusdepotes00wycl=ista	278	1870,1489,1984,1539
+217	158	R4	latinworks19wycl=tribtis | johanniswyclift00mattgoog=tribns | johanniswyclift01mattgoog=iribtts | tractatusdepotes00wycl=trihus	278	683,2724,892,2774
+217	183	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu	278	925,2990,1023,3039
+218	10	R4	latinworks19wycl=heretici | johanniswyclift00mattgoog=heretic | johanniswyclift01mattgoog=heretic | tractatusdepotes00wycl=heretici	279	1255,631,1543,682
+218	50	NW	latinworks19wycl=fienda | johanniswyclift00mattgoog=fienda | johanniswyclift01mattgoog=fienda | tractatusdepotes00wycl=fienda	279	1863,1159,2101,1217
+218	58	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	279	915,1333,1052,1384
+218	155	R4	latinworks19wycl=et | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=∅	279	788,2655,920,2705
+218	193	R4	latinworks19wycl=apud | johanniswyclift00mattgoog=apnd | johanniswyclift01mattgoog=apitd | tractatusdepotes00wycl=apnd	279	1499,3096,1684,3162
+218	207	THIN	latinworks19wycl=antliiochiam	279	1407,3271,1862,3336
+218	209	THIN	latinworks19wycl=petrus	279	1985,3271,2214,3323
+219	1	THIN	latinworks19wycl=uencrat	280	842,626,1127,690
+219	5	THIN	latinworks19wycl=ignacium | tractatusdepotes00wycl=ignacium	280	1703,623,2002,690
+219	6	THIN	latinworks19wycl=episcopnm | tractatusdepotes00wycl=episcopum	280	350,714,730,779
+219	8	THIN	latinworks19wycl=nbi | tractatusdepotes00wycl=ubi	280	1092,713,1238,763
+219	10	THIN	latinworks19wycl=christiauorum | tractatusdepotes00wycl=christianorum	280	1559,712,2004,763
+219	12	THIN	latinworks19wycl=exortnm | tractatusdepotes00wycl=exortum	280	612,805,928,852
+219	13	THIN	latinworks19wycl=esty | tractatusdepotes00wycl=est	280	928,806,1091,866
+219	51	R4	latinworks19wycl=humititatis | johanniswyclift00mattgoog=humilttatis | johanniswyclift01mattgoog=hnmuttalts | tractatusdepotes00wycl=htimititatis	280	985,1328,1377,1376
+219	54	R4	latinworks19wycl=ht | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ht | tractatusdepotes00wycl=et	280	1932,1328,2114,1375
+219	145	R3	latinworks19wycl=ueri | johanniswyclift00mattgoog=uert | johanniswyclift01mattgoog=uert | tractatusdepotes00wycl=ueri	280	1107,2476,1279,2525
+219	215	THIN	latinworks19wycl=iii | tractatusdepotes00wycl=iii	280	1543,3359,1705,3412
+220	40	R4	latinworks19wycl=iipi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ed	281	619,1004,820,1086
+221	148	INS?	loco	282	1195,2648,1449,2705
+222	78	R4	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec	283	1067,1675,1244,1727
+222	109	HEAD	CAPITULUM DECIMUM.	283	1078,2296,1674,2374
+222	125	R3	latinworks19wycl=ai | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the	283	768,2650,887,2700
+223	91	R4	latinworks19wycl=ut | johanniswyclift00mattgoog=i3ut | johanniswyclift01mattgoog=i3ut | tractatusdepotes00wycl=ut	284	294,1838,460,1882
+223	144	R4	latinworks19wycl=flores | johanniswyclift00mattgoog=for5 | johanniswyclift01mattgoog=for5 | tractatusdepotes00wycl=flores	284	638,2449,861,2501
+224	2	THIN	latinworks19wycl=naturaies	285	1451,539,1797,596
+224	27	R4	latinworks19wycl=peuitus | johanniswyclift00mattgoog=peniins | johanniswyclift01mattgoog=pcnitiis | tractatusdepotes00wycl=peuitus	285	712,890,999,953
+224	58	NW	latinworks19wycl=obtiuere | johanniswyclift00mattgoog=obiinere | johanniswyclift01mattgoog=obtiuert | tractatusdepotes00wycl=obtiuere	285	995,1329,1319,1381
+224	135	R4	latinworks19wycl=muilorum | johanniswyclift00mattgoog=muuorum | tractatusdepotes00wycl=muitorum	285	1935,2300,2278,2350
+224	138	R4	latinworks19wycl=cierus | johanniswyclift00mattgoog=clems | tractatusdepotes00wycl=cierus	285	1433,2389,1647,2439
+225	85	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	286	405,1678,545,1730
+225	165	R3	latinworks19wycl=810 | johanniswyclift00mattgoog=8io | johanniswyclift01mattgoog=8 | tractatusdepotes00wycl=810	286	1136,2743,1390,2805
+225	173	R4	latinworks19wycl=cupiditas | johanniswyclift00mattgoog=cttpiditas | johanniswyclift01mattgoog=cttpiditas | tractatusdepotes00wycl=cupiditas	286	1221,2833,1548,2898
+225	184	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=iiiis | tractatusdepotes00wycl=kiis	286	603,3008,754,3059
+226	10	R4	latinworks19wycl=annuali | johanniswyclift00mattgoog=annual | johanniswyclift01mattgoog=annual | tractatusdepotes00wycl=annuali	287	1624,629,1919,681
+226	84	R4	latinworks19wycl=osr | johanniswyclift00mattgoog=nostn | johanniswyclift01mattgoog=nostn | tractatusdepotes00wycl=nostri	287	1088,1599,1307,1648
+227	96	R4	latinworks19wycl=r | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i3subsidium | tractatusdepotes00wycl=∅	288	250,1836,318,1885
+227	200	R4	latinworks19wycl=souite | johanniswyclift00mattgoog=uite | johanniswyclift01mattgoog=uite | tractatusdepotes00wycl=souite	288	233,3160,470,3214
+228	113	R3	latinworks19wycl=obtinnit | johanniswyclift00mattgoog=obtinuiu | johanniswyclift01mattgoog=oniuuii | tractatusdepotes00wycl=obtinuit	289	2184,2031,2433,2082
+228	173	NW	latinworks19wycl=putndum | johanniswyclift00mattgoog=putndum | johanniswyclift01mattgoog=putncluni | tractatusdepotes00wycl=putndum	289	779,2912,1169,2978
+228	183	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	289	1718,2999,1919,3050
+229	123	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deiis | tractatusdepotes00wycl=deus	290	625,2217,841,2283
+231	71	R3	latinworks19wycl=literis | johanniswyclift00mattgoog=uteris | johanniswyclift01mattgoog=uteris | tractatusdepotes00wycl=literis	292	1816,1518,2002,1569
+231	84	NW	latinworks19wycl=beueficio | johanniswyclift00mattgoog=beneiicio | johanniswyclift01mattgoog=bateficio | tractatusdepotes00wycl=beneiicio	292	1161,1698,1479,1764
+232	12	NW	latinworks19wycl=msensibilis | johanniswyclift00mattgoog=msensibilis | johanniswyclift01mattgoog=insensibihs | tractatusdepotes00wycl=msensibilis	293	1859,620,2267,679
+232	117	R3	latinworks19wycl=negare | johanniswyclift00mattgoog=negate | johanniswyclift01mattgoog=negate | tractatusdepotes00wycl=negare	293	1040,2113,1319,2181
+232	122	R4	latinworks19wycl=quarto | johanniswyclift00mattgoog=quauto | johanniswyclift01mattgoog=quauto | tractatusdepotes00wycl=quarto	293	981,2204,1226,2269
+232	131	R3	latinworks19wycl=111 | johanniswyclift00mattgoog=fit | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=ut	293	1632,2305,1731,2342
+232	141	R3	latinworks19wycl=iudices | johanniswyclift00mattgoog=indices | johanniswyclift01mattgoog=indices | tractatusdepotes00wycl=iudices	293	1749,2379,1989,2429
+232	167	R5	latinworks19wycl=anthiochinam | johanniswyclift00mattgoog=anthiochinam | tractatusdepotes00wycl=anthiochinam	293	1983,2730,2442,2786
+232	168	R4	latinworks19wycl=i | johanniswyclift00mattgoog=ierusolimitanam | tractatusdepotes00wycl=ierusolimitanam	293	777,2819,821,2871
+233	11	NW	latinworks19wycl=contratis | johanniswyclift00mattgoog=contratis | johanniswyclift01mattgoog=contratis | tractatusdepotes00wycl=contratis	294	856,690,1167,739
+233	16	R3	latinworks19wycl=no | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=011 | tractatusdepotes00wycl=non	294	552,793,622,828
+233	64	R4	latinworks19wycl=ouam | johanniswyclift00mattgoog=quam | johanniswyclift01mattgoog=quam | tractatusdepotes00wycl=ouam	294	1083,1389,1314,1443
+233	74	R5	latinworks19wycl=cardinahbus | johanniswyclift00mattgoog=cardmahbus | tractatusdepotes00wycl=cardmahbus	294	1623,1477,2091,1527
+233	75	R4	latinworks19wycl=grreoforii | johanniswyclift00mattgoog=grregorii | tractatusdepotes00wycl=gregorn	294	357,1567,690,1628
+233	129	R4	latinworks19wycl=primeua | johanniswyclift00mattgoog=primeua | johanniswyclift01mattgoog=soprimeua | tractatusdepotes00wycl=soprimeua	294	284,2273,689,2340
+233	179	R4	latinworks19wycl=dcconstantinopolitana | johanniswyclift00mattgoog=tana | johanniswyclift01mattgoog=coustatiliuopoliiana | tractatusdepotes00wycl=constantinopoiitana	294	1405,2889,2017,2958
+233	201	R4	latinworks19wycl=equales | johanniswyclift00mattgoog=equates | johanniswyclift01mattgoog=equates | tractatusdepotes00wycl=equales	294	763,3248,1061,3313
+234	2	THIN	latinworks19wycl=smt	295	1309,557,1453,601
+234	3	THIN	latinworks19wycl=preemmenter	295	1453,551,1923,612
+234	7	R4	latinworks19wycl=mtelhguntur | johanniswyclift00mattgoog=iiitelliguntur | tractatusdepotes00wycl=lntelliguntur	295	829,640,1278,705
+234	59	R3	latinworks19wycl=ex | johanniswyclift00mattgoog=radice | tractatusdepotes00wycl=ex	295	858,1436,960,1491
+234	60	R3	latinworks19wycl=sta | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=ista	295	960,1429,1100,1491
+234	61	R3	latinworks19wycl=race | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=radice	295	1100,1429,1325,1491
+234	168	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	295	1003,2842,1164,2893
+234	215	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | tractatusdepotes00wycl=illa	295	1654,3460,1788,3510
+235	128	R4	latinworks19wycl=quas | johanniswyclift00mattgoog=aoquas | johanniswyclift01mattgoog=aoquas | tractatusdepotes00wycl=quas	296	355,2317,553,2384
+236	1	THIN	latinworks19wycl=mdulpenciis	297	966,546,1440,608
+236	4	THIN	latinworks19wycl=lpsi	297	1822,548,1982,608
+236	96	THIN	latinworks19wycl=in | tractatusdepotes00wycl=in	297	2359,1774,2490,1825
+236	97	THIN	latinworks19wycl=quantumtalis | tractatusdepotes00wycl=quantumtalis	297	760,1863,1219,1929
+236	206	R4	latinworks19wycl=kx | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=kx | tractatusdepotes00wycl=ex	297	1548,3188,1666,3236
+236	227	INS?	i	297	1896,3449,2333,3501
+237	4	R4	latinworks19wycl=sufnciens | johanniswyclift00mattgoog=sutnciens | tractatusdepotes00wycl=suinciens	298	313,678,696,739
+237	10	NW	latinworks19wycl=preemmencia | johanniswyclift00mattgoog=preeminencia | johanniswyclift01mattgoog=preemmencia | tractatusdepotes00wycl=preemmencia	298	1530,687,2035,740
+237	181	R4	latinworks19wycl=peccauerunt | johanniswyclift00mattgoog=peceauerunt | johanniswyclift01mattgoog=peccasouerunt | tractatusdepotes00wycl=peccasouerunt	298	1785,3078,2046,3129
+238	62	R4	latinworks19wycl=peccatum | johanniswyclift00mattgoog=peccaium | johanniswyclift01mattgoog=peccaium | tractatusdepotes00wycl=peccatuni	299	901,1316,1244,1377
+238	64	R4	latinworks19wycl=habewius | johanniswyclift00mattgoog=habemits | johanniswyclift01mattgoog=habemns | tractatusdepotes00wycl=kabemus	299	1392,1313,1733,1375
+238	75	R3	latinworks19wycl=ioh | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iob | tractatusdepotes00wycl=ioh	299	1759,1399,1928,1451
+238	76	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1	299	1928,1399,2016,1461
+238	92	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	299	1316,1574,1452,1625
+238	98	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	299	865,1662,1015,1713
+238	116	NW	latinworks19wycl=recompense | johanniswyclift00mattgoog=recompense | johanniswyclift01mattgoog=recompense | tractatusdepotes00wycl=recompense	299	1673,1837,2114,1900
+238	180	R3	latinworks19wycl=quia | johanniswyclift00mattgoog=quias | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=quis	299	2295,2632,2465,2700
+238	230	INS?	i	299	1206,3436,1353,3481
+239	56	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	300	1568,1302,1759,1352
+241	134	R5	latinworks19wycl=iithym | johanniswyclift01mattgoog=iithym | tractatusdepotes00wycl=iithym	302	1758,2441,2053,2510
+241	135	R5	latinworks19wycl=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii	302	391,2529,538,2587
+241	136	R4	latinworks19wycl=r | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=1	302	538,2547,621,2595
+242	1	NW	latinworks19wycl=itaqae | johanniswyclift00mattgoog=itaqae | johanniswyclift01mattgoog=itaqae | tractatusdepotes00wycl=itaqae	303	1356,525,1618,592
+242	32	R3	latinworks19wycl=e | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=ec	303	786,960,965,1022
+242	44	R3	latinworks19wycl=auerre | johanniswyclift00mattgoog=tre | johanniswyclift01mattgoog=auferre | tractatusdepotes00wycl=auerre	303	714,1137,1011,1200
+243	2	R5	latinworks19wycl=legistas | johanniswyclift01mattgoog=legistas | tractatusdepotes00wycl=legistas	304	1027,615,1337,682
+243	123	R4	latinworks19wycl=faciat | johanniswyclift00mattgoog=facial | johanniswyclift01mattgoog=facial | tractatusdepotes00wycl=faciat	304	1636,2112,1888,2179
+243	180	R4	latinworks19wycl=liii | johanniswyclift00mattgoog=liu | johanniswyclift01mattgoog=liu | tractatusdepotes00wycl=liii	304	727,2907,941,2959
+244	80	R3	latinworks19wycl=nt | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ul | tractatusdepotes00wycl=ut	305	1758,1428,1846,1477
+245	8	R6	latinworks19wycl=elemosme | johanniswyclift00mattgoog=elemosme | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅	306	419,724,785,786
+245	34	NW	latinworks19wycl=bin | johanniswyclift00mattgoog=bin | johanniswyclift01mattgoog=bin | tractatusdepotes00wycl=bin	306	375,990,520,1039
+245	41	R4	latinworks19wycl=quectimque | johanniswyclift00mattgoog=qnecnmqtte | johanniswyclift01mattgoog=cpiecumquc | tractatusdepotes00wycl=qnecnmquc	306	1938,1002,2071,1052
+245	44	R3	latinworks19wycl=facite | johanniswyclift00mattgoog=facile | johanniswyclift01mattgoog=facik | tractatusdepotes00wycl=facite	306	1211,1076,1471,1141
+246	65	R4	latinworks19wycl=ftiit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=fnii | tractatusdepotes00wycl=fttit	307	1488,1326,1645,1391
+246	78	R3	latinworks19wycl=same | johanniswyclift00mattgoog=institutus | johanniswyclift01mattgoog=ii | tractatusdepotes00wycl=institutus	307	469,1495,824,1546
+246	159	R3	latinworks19wycl=pontmcis | johanniswyclift00mattgoog=pontincis | johanniswyclift01mattgoog=pontificis | tractatusdepotes00wycl=pontificis	307	890,2565,1274,2624
+247	28	NW	latinworks19wycl=lisfe | johanniswyclift00mattgoog=lige | johanniswyclift01mattgoog=lige | tractatusdepotes00wycl=lige	308	1357,968,1519,1028
+247	43	NW	latinworks19wycl=lige | johanniswyclift00mattgoog=lige | johanniswyclift01mattgoog=lige | tractatusdepotes00wycl=lige	308	1083,1231,1230,1299
+247	53	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	308	632,1407,787,1457
+247	153	NW	latinworks19wycl=legistarum | johanniswyclift00mattgoog=legistarum | johanniswyclift01mattgoog=legistarum | tractatusdepotes00wycl=legistarum	308	991,2726,1395,2793
+248	36	R4	latinworks19wycl=preiates | johanniswyclift01mattgoog=gi | tractatusdepotes00wycl=stat	309	443,1050,836,1096
+248	37	R3	latinworks19wycl=in | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=in	309	836,1052,934,1103
+248	38	R4	latinworks19wycl=1s0 | johanniswyclift01mattgoog=igq | tractatusdepotes00wycl=isto	309	934,1051,1127,1103
+248	119	R3	latinworks19wycl=creiq | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=credo | tractatusdepotes00wycl=creo	309	672,2108,920,2158
+248	120	R3	latinworks19wycl=quoi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=quoci	309	920,2107,1149,2174
+248	183	NW	latinworks19wycl=matica | johanniswyclift00mattgoog=matica | johanniswyclift01mattgoog=matica | tractatusdepotes00wycl=matica	309	1886,2899,2173,2954
+249	74	R3	latinworks19wycl=publice | johanniswyclift00mattgoog=publico | johanniswyclift01mattgoog=publico | tractatusdepotes00wycl=publice	310	1761,1494,2002,1563
+250	70	R3	latinworks19wycl=parum | johanniswyclift00mattgoog=parunt | johanniswyclift01mattgoog=pafuth | tractatusdepotes00wycl=parum	311	2026,1452,2278,1515
+250	107	R3	latinworks19wycl=hereticitm | johanniswyclift00mattgoog=hereticam | johanniswyclift01mattgoog=hereticum | tractatusdepotes00wycl=hereticum	311	2131,1890,2437,1940
+250	130	R3	latinworks19wycl=ulta | johanniswyclift00mattgoog=uua | johanniswyclift01mattgoog=uua | tractatusdepotes00wycl=ulla	311	1497,2241,1656,2294
+251	90	R3	latinworks19wycl=sedi | johanniswyclift00mattgoog=sedii | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed	312	1893,1844,2150,1922
+251	102	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	312	751,2023,878,2075
+251	163	NW	latinworks19wycl=legistarum | johanniswyclift00mattgoog=legistarum | johanniswyclift01mattgoog=legistarum | tractatusdepotes00wycl=legistarum	312	989,2818,1398,2886
+251	173	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	312	355,2998,493,3048
+252	74	R3	latinworks19wycl=uomine | johanniswyclift00mattgoog=nomine | johanniswyclift01mattgoog=iiomiiu | tractatusdepotes00wycl=uomine	313	785,1608,1041,1660
+252	88	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	313	1232,1788,1360,1838
+252	135	R4	latinworks19wycl=suis | johanniswyclift00mattgoog=stiis | johanniswyclift01mattgoog=snis | tractatusdepotes00wycl=stiis	313	2324,2314,2447,2366
+252	172	R4	latinworks19wycl=iangilur | johanniswyclift00mattgoog=taugitur | johanniswyclift01mattgoog=taugilur | tractatusdepotes00wycl=iangitur	313	786,2937,1082,3002
+253	5	THIN	latinworks19wycl=etrestitutns	314	1273,609,1646,661
+253	8	THIN	latinworks19wycl=iferum | tractatusdepotes00wycl=itemm	314	458,700,695,749
+253	10	THIN	latinworks19wycl=eiectus | tractatusdepotes00wycl=eiecius	314	801,696,1069,760
+253	15	THIN	latinworks19wycl=iohauui | tractatusdepotes00wycl=iohanni	314	1745,696,1998,748
+253	16	THIN	latinworks19wycl=archipreshtero | tractatusdepotes00wycl=archipresbitero	314	338,781,865,854
+253	19	R5	latinworks19wycl=latinam | johanniswyclift00mattgoog=latinam | tractatusdepotes00wycl=latinam	314	1316,783,1662,848
+253	34	R4	latinworks19wycl=montes | johanniswyclift00mattgoog=monies | johanniswyclift01mattgoog=monies | tractatusdepotes00wycl=montes	314	1398,961,1655,1010
+253	35	R4	latinworks19wycl=translatus | johanniswyclift00mattgoog=iranslatus | johanniswyclift01mattgoog=iranslatus | tractatusdepotes00wycl=translafns	314	1655,961,1996,1016
+253	39	R3	latinworks19wycl=uno | johanniswyclift00mattgoog=nuo | johanniswyclift01mattgoog=tino | tractatusdepotes00wycl=uno	314	778,1062,930,1097
+253	207	R5	latinworks19wycl=x | johanniswyclift00mattgoog=x | tractatusdepotes00wycl=x	314	1841,3078,1945,3141
+253	212	R4	latinworks19wycl=belzebub | johanniswyclift00mattgoog=behebub | johanniswyclift01mattgoog=betzebub | tractatusdepotes00wycl=beizehuh	314	1308,3167,1652,3219
+254	12	INS?	ex	315	819,713,995,773
+254	199	INS?	dicunt	315	704,3175,953,3242
+255	35	R3	latinworks19wycl=preter | johanniswyclift00mattgoog=preier | johanniswyclift01mattgoog=prefer | tractatusdepotes00wycl=pueter	316	1828,949,2026,1011
+255	97	R4	latinworks19wycl=oeundem | johanniswyclift00mattgoog=eundem | johanniswyclift01mattgoog=eundem | tractatusdepotes00wycl=oeundem	316	295,1822,659,1873
+256	36	R3	latinworks19wycl=non | johanniswyclift00mattgoog=uon | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=noui	317	1747,1045,1907,1096
+256	47	THIN	latinworks19wycl=fidei | tractatusdepotes00wycl=fidei	317	1085,1221,1261,1285
+256	48	THIN	latinworks19wycl=deicitur | tractatusdepotes00wycl=deicitur	317	1261,1221,1535,1275
+256	49	THIN	latinworks19wycl=fixe | tractatusdepotes00wycl=fixe	317	1535,1221,1689,1285
+256	50	THIN	latinworks19wycl=innititur | tractatusdepotes00wycl=innititur	317	1689,1221,1980,1272
+256	100	R3	latinworks19wycl=suo | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=sua | tractatusdepotes00wycl=suo	317	1348,1836,1482,1885
+256	109	R3	latinworks19wycl=moluque | johanniswyclift01mattgoog=moluque | tractatusdepotes00wycl=motuque	317	707,2013,1025,2074
+256	116	R4	latinworks19wycl=ordinat | johanniswyclift00mattgoog=ordinal | johanniswyclift01mattgoog=ordinal | tractatusdepotes00wycl=ordinat	317	1268,2097,1538,2148
+256	174	R4	latinworks19wycl=administratorios | johanniswyclift00mattgoog=adminislratorios | johanniswyclift01mattgoog=adminislratorios | tractatusdepotes00wycl=administratorios	317	1412,2889,2002,2956
+256	194	THIN	latinworks19wycl=redemptoucm | tractatusdepotes00wycl=redemptorem	317	1442,3153,1909,3220
+256	196	THIN	latinworks19wycl=ceiestem | tractatusdepotes00wycl=celestem	317	2280,3166,2368,3201
+256	198	THIN	latinworks19wycl=spiritibtis | tractatusdepotes00wycl=spiritibus	317	1033,3241,1367,3308
+257	0	THIN	latinworks19wycl=adunatant	318	349,621,724,685
+257	35	THIN	latinworks19wycl=feruentissimus | tractatusdepotes00wycl=feruentissimus	318	944,1055,1436,1120
+257	36	THIN	latinworks19wycl=anwr	318	1436,1055,1662,1111
+257	37	THIN	latinworks19wycl=subiectissi111	318	1662,1055,2006,1105
+257	38	THIN	latinworks19wycl=us	318	412,1144,515,1193
+257	39	THIN	latinworks19wycl=timor | tractatusdepotes00wycl=timor	318	515,1143,770,1194
+257	42	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis	318	1047,1143,1212,1193
+258	51	NW	latinworks19wycl=secnlo | johanniswyclift00mattgoog=secnlo | johanniswyclift01mattgoog=secnlo | tractatusdepotes00wycl=seculo	319	1752,1157,2018,1218
+258	62	R3	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non	319	782,1332,929,1382
+258	135	R4	latinworks19wycl=ns | johanniswyclift01mattgoog=iiii | tractatusdepotes00wycl=n	319	785,2295,954,2354
+258	136	R3	latinworks19wycl=creat | johanniswyclift01mattgoog=credat | tractatusdepotes00wycl=creat	319	954,2294,1209,2354
+258	165	R3	latinworks19wycl=totum | johanniswyclift00mattgoog=to | johanniswyclift01mattgoog=lotum | tractatusdepotes00wycl=totum	319	1598,2645,1795,2695
+260	86	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	321	1288,1595,1506,1646
+261	33	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	322	967,1043,1129,1094
+261	83	R3	latinworks19wycl=irnam | johanniswyclift00mattgoog=inam | johanniswyclift01mattgoog=irnam | tractatusdepotes00wycl=nam	322	296,1831,538,1883
+262	104	R3	latinworks19wycl=secundi | johanniswyclift00mattgoog=secundi | johanniswyclift01mattgoog=sei5i | tractatusdepotes00wycl=sei	323	2291,1769,2403,1803
+262	105	INS?	cundi	323	940,1839,1109,1906
+263	0	THIN	latinworks19wycl=m	324	559,573,672,624
+263	3	THIN	latinworks19wycl=m	324	1114,580,1222,623
+263	4	THIN	latinworks19wycl=matena	324	1222,580,1539,635
+263	5	THIN	latinworks19wycl=m	324	1539,573,1646,623
+263	176	R4	latinworks19wycl=noster | johanniswyclift00mattgoog=nosier | johanniswyclift01mattgoog=nosier | tractatusdepotes00wycl=noster	324	743,3033,974,3085
+263	184	R4	latinworks19wycl=souniuersaliter | johanniswyclift00mattgoog=souniuersaliter | johanniswyclift01mattgoog=uniuersaliter | tractatusdepotes00wycl=uniuersaliter	324	302,3120,860,3179
+263	186	R4	latinworks19wycl=peccauerit | johanniswyclift00mattgoog=peccaueril | johanniswyclift01mattgoog=peccaueril | tractatusdepotes00wycl=peccauerit	324	943,3124,1306,3188
+263	188	R3	latinworks19wycl=te | johanniswyclift00mattgoog=le | johanniswyclift01mattgoog=le | tractatusdepotes00wycl=te	324	1405,3123,1478,3173
+263	189	R4	latinworks19wycl=frater | johanniswyclift00mattgoog=fraler | johanniswyclift01mattgoog=fraler | tractatusdepotes00wycl=frater	324	1478,3123,1720,3188
+264	129	R5	latinworks19wycl=marcellinum | johanniswyclift01mattgoog=marcellinnm | tractatusdepotes00wycl=marcellinum	325	1942,2096,2353,2147
+264	130	R3	latinworks19wycl=papam | johanniswyclift01mattgoog=papant | tractatusdepotes00wycl=papam	325	680,2185,956,2252
+264	141	R3	latinworks19wycl=uostro | johanniswyclift00mattgoog=nostro | johanniswyclift01mattgoog=nostra | tractatusdepotes00wycl=nostro	325	1564,2273,1787,2323
+264	153	R5	latinworks19wycl=legemdei | johanniswyclift00mattgoog=legemdei | tractatusdepotes00wycl=legemdei	325	1317,2446,1695,2514
+264	154	NW	latinworks19wycl=quain | johanniswyclift00mattgoog=quain | johanniswyclift01mattgoog=quain | tractatusdepotes00wycl=quain	325	1695,2445,1906,2513
+265	41	R5	latinworks19wycl=marcellmi | johanniswyclift01mattgoog=marcellini | tractatusdepotes00wycl=marcellini	326	740,1204,1142,1261
+265	114	R3	latinworks19wycl=suam | johanniswyclift00mattgoog=siiam | johanniswyclift01mattgoog=sitam | tractatusdepotes00wycl=suam	326	1453,2401,1672,2454
+266	3	R5	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii	tractatusdepotes00wycl:327	1081,373,1258,424
+266	74	R5	latinworks19wycl=preponderancie | johanniswyclift00mattgoog=preponderancie | johanniswyclift01mattgoog=preponderancie	tractatusdepotes00wycl:327	1467,1131,1877,1185
+266	150	R5	latinworks19wycl=dan | johanniswyclift00mattgoog=dan | johanniswyclift01mattgoog=dan	tractatusdepotes00wycl:327	1203,1961,1350,2004
+266	178	R3	latinworks19wycl=materie | johanniswyclift00mattgoog=materia | johanniswyclift01mattgoog=materie	tractatusdepotes00wycl:327	1668,2238,1877,2288
+266	189	R5	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis	tractatusdepotes00wycl:327	937,2379,1059,2419
+266	194	THIN	latinworks19wycl=sanctam | johanniswyclift01mattgoog=sanclam	tractatusdepotes00wycl:327	555,2448,784,2489
+266	199	THIN	latinworks19wycl=atttore	tractatusdepotes00wycl:327	1555,2450,1729,2488
+267	1	THIN	latinworks19wycl=mafrem	328	853,618,1155,664
+267	17	R4	latinworks19wycl=ceiero | johanniswyclift00mattgoog=ceiero | tractatusdepotes00wycl=cetero	328	771,792,978,839
+267	28	R4	latinworks19wycl=bassertorem | johanniswyclift00mattgoog=bassertorem | tractatusdepotes00wycl=assertorem	328	379,965,824,1015
+267	40	R5	latinworks19wycl=paranimfum | johanniswyclift00mattgoog=paranimfum | tractatusdepotes00wycl=paranimfum	328	667,1139,1154,1206
+267	42	R5	latinworks19wycl=ordinaiorem | johanniswyclift00mattgoog=ordinatorem | tractatusdepotes00wycl=ordinatorem	328	1331,1140,1791,1191
+267	53	THIN	latinworks19wycl=tuiorem | johanniswyclift00mattgoog=tutor	328	354,1404,725,1454
+267	54	THIN	latinworks19wycl=puri | johanniswyclift00mattgoog=em	328	725,1404,922,1467
+267	55	THIN	latinworks19wycl=rum | johanniswyclift00mattgoog=pupillorum	328	922,1405,1160,1454
+267	64	R3	latinworks19wycl=nliorem | johanniswyclift00mattgoog=ultor | tractatusdepotes00wycl=ultorem	328	1996,1491,2091,1541
+267	81	R3	latinworks19wycl=terretorbis | johanniswyclift00mattgoog=ter | tractatusdepotes00wycl=terre	328	775,1842,1146,1905
+267	88	THIN	latinworks19wycl=do	328	1304,1928,1387,1980
+267	89	THIN	latinworks19wycl=miui	328	1400,1931,1583,1989
+267	90	THIN	latinworks19wycl=posiremc	328	1583,1928,1901,1995
+267	117	R5	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | tractatusdepotes00wycl=iii	328	1399,2278,1528,2329
+267	134	R3	latinworks19wycl=e | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et	328	1782,2458,1857,2506
+267	136	R3	latinworks19wycl=infimus | johanniswyclift00mattgoog=iniimus | tractatusdepotes00wycl=infimus	328	415,2544,711,2609
+267	140	R3	latinworks19wycl=uia | johanniswyclift00mattgoog=uita | tractatusdepotes00wycl=uita	328	1247,2546,1387,2594
+267	144	R3	latinworks19wycl=ei | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et	328	638,2637,744,2682
+267	149	R3	latinworks19wycl=e | johanniswyclift00mattgoog=et | tractatusdepotes00wycl=et	328	1782,2632,1871,2682
+267	167	R5	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | tractatusdepotes00wycl=iii	328	591,2896,722,2947
+267	170	R3	latinworks19wycl=modifica | johanniswyclift00mattgoog=modificat | tractatusdepotes00wycl=modificat	328	1133,2898,1483,2948
+267	190	THIN	latinworks19wycl=pc	328	1427,3179,1516,3228
+267	191	THIN	latinworks19wycl=er	328	1516,3162,1631,3211
+267	192	THIN	latinworks19wycl=iara	328	1631,3160,1849,3212
+267	193	THIN	latinworks19wycl=rbebant	328	2003,3178,2087,3209
+267	195	THIN	latinworks19wycl=fsriissimi	328	910,3250,1276,3316
+267	196	THIN	latinworks19wycl=beiiai	328	1276,3252,1468,3301
+267	197	THIN	latinworks19wycl=res	328	1483,3267,1609,3302
+267	198	THIN	latinworks19wycl=e	328	1609,3267,1691,3301
+267	199	THIN	latinworks19wycl=5	328	1827,3267,1857,3301
+267	200	THIN	latinworks19wycl=u	328	1857,3265,1897,3301
+267	201	THIN	latinworks19wycl=bebant	328	416,3339,687,3403
+267	206	R4	latinworks19wycl=confortatus | johanniswyclift00mattgoog=con | tractatusdepotes00wycl=confortatus	328	1950,3353,2091,3388
+267	210	THIN	latinworks19wycl=comstumh	328	1609,3426,1962,3479
+268	10	THIN	latinworks19wycl=tn | tractatusdepotes00wycl=tu	329	1359,618,1457,666
+268	12	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | tractatusdepotes00wycl=et	329	1656,617,1744,666
+268	33	R4	latinworks19wycl=quodamtemts | johanniswyclift00mattgoog=quodamienus | johanniswyclift01mattgoog=qnodaiuiettus | tractatusdepotes00wycl=quodamtenus	329	1324,876,1821,942
+268	37	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	329	1065,965,1260,1014
+268	40	R3	latinworks19wycl=est | johanniswyclift00mattgoog=esi | johanniswyclift01mattgoog=es | tractatusdepotes00wycl=est	329	1633,969,1758,1028
+268	56	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus	329	1661,1139,1872,1190
+268	67	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=mens | tractatusdepotes00wycl=meus	329	689,1315,898,1365
+268	94	R3	latinworks19wycl=iure | johanniswyclift00mattgoog=lure | johanniswyclift01mattgoog=lure | tractatusdepotes00wycl=iure	329	691,1576,843,1627
+268	110	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et	329	2133,1663,2215,1713
+268	159	R3	latinworks19wycl=eciam | johanniswyclift00mattgoog=edam | johanniswyclift01mattgoog=ecianiii | tractatusdepotes00wycl=eciani	329	2175,2188,2354,2237
+268	176	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ttt | tractatusdepotes00wycl=ut	329	696,2455,799,2499
+268	216	R4	latinworks19wycl=x | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=irx	329	765,2888,913,2938
+269	50	R3	latinworks19wycl=christianus | johanniswyclift00mattgoog=christianus | johanniswyclift01mattgoog=chnstianus | tractatusdepotes00wycl=chnstianus	330	1944,1204,2130,1252
+270	9	R5	latinworks19wycl=patriarchatu | johanniswyclift00mattgoog=patriarchatu | tractatusdepotes00wycl=patriarchatu	331	1388,635,1819,700
+270	10	R5	latinworks19wycl=abraham | johanniswyclift00mattgoog=abraham | tractatusdepotes00wycl=abraham	331	1819,635,2166,694
+270	20	R5	latinworks19wycl=petrus | johanniswyclift00mattgoog=peirus | tractatusdepotes00wycl=petrus	331	1558,809,1808,876
+270	21	R3	latinworks19wycl=unctione | johanniswyclift00mattgoog=unccicnte | tractatusdepotes00wycl=unccione	331	1808,807,2098,860
+270	31	R3	latinworks19wycl=et | johanniswyclift00mattgoog=eto | tractatusdepotes00wycl=et	331	2320,903,2408,948
+270	135	R6	latinworks19wycl=the | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=the	331	597,2299,784,2346
+270	145	R3	latinworks19wycl=sacerdotah | johanniswyclift00mattgoog=sacerdotali | johanniswyclift01mattgoog=sacerdo | tractatusdepotes00wycl=sacerdotah	331	1049,2386,1439,2435
+270	155	R4	latinworks19wycl=mmtantur | johanniswyclift00mattgoog=mnitantur | johanniswyclift01mattgoog=innitantur | tractatusdepotes00wycl=mmtantur	331	2039,2479,2377,2535
+271	144	NW	latinworks19wycl=nommis | johanniswyclift00mattgoog=nommis | johanniswyclift01mattgoog=nominis | tractatusdepotes00wycl=nommis	332	1188,2534,1485,2584
+272	141	NW	latinworks19wycl=ritus | johanniswyclift00mattgoog=ntus | johanniswyclift01mattgoog=ntus | tractatusdepotes00wycl=ntus	333	1550,2208,1739,2255
+272	180	R4	latinworks19wycl=racionaliter | johanniswyclift00mattgoog=raciona25 | johanniswyclift01mattgoog=racionaliter | tractatusdepotes00wycl=raciona25	333	2122,2642,2383,2693
+272	181	INS?	liter	333	878,2731,1074,2781
+273	79	R4	latinworks19wycl=lam | johanniswyclift00mattgoog=iam | johanniswyclift01mattgoog=tarn | tractatusdepotes00wycl=lam	334	1464,1753,1633,1798
+273	179	THIN	latinworks19wycl=cessat	334	1272,3165,1490,3210
+273	180	THIN	latinworks19wycl=omnis	334	1490,3162,1706,3209
+273	181	THIN	latinworks19wycl=tahs	334	1706,3162,1867,3209
+273	182	THIN	latinworks19wycl=ngura	334	1867,3173,2058,3223
+273	199	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	334	808,3425,1012,3476
+274	55	NW	latinworks19wycl=singulanter | johanniswyclift00mattgoog=singulariter | johanniswyclift01mattgoog=singulanter | tractatusdepotes00wycl=singulanter	335	1544,1232,1966,1297
+274	65	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	335	695,1403,846,1455
+275	24	R4	latinworks19wycl=utdettir | johanniswyclift00mattgoog=uidelur | johanniswyclift01mattgoog=uidelitr | tractatusdepotes00wycl=utdetur	336	1044,844,1333,900
+275	30	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et	336	976,930,1061,978
+275	43	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=beneiicendi | tractatusdepotes00wycl=et	336	838,1105,927,1154
+275	59	R4	latinworks19wycl=osua | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=osua | tractatusdepotes00wycl=sua	336	348,1371,562,1417
+275	69	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et	336	946,1454,1034,1505
+275	104	R4	latinworks19wycl=equales | johanniswyclift00mattgoog=equates | johanniswyclift01mattgoog=equates | tractatusdepotes00wycl=equales	336	1842,1808,2081,1872
+276	77	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	337	1153,1498,1356,1549
+276	103	R3	latinworks19wycl=prei | johanniswyclift00mattgoog=prei | johanniswyclift01mattgoog=presumpcione | tractatusdepotes00wycl=presumpcione	337	2215,1766,2421,1826
+276	213	THIN	latinworks19wycl=dionysii	337	970,3647,1195,3701
+276	214	THIN	latinworks19wycl=arcop	337	1195,3646,1390,3698
+276	217	THIN	latinworks19wycl=hierarch	337	1671,3640,1921,3682
+276	219	THIN	latinworks19wycl=lugd	337	2045,3636,2216,3692
+278	10	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	339	1492,678,1655,741
+278	106	R4	latinworks19wycl=foris | johanniswyclift00mattgoog=forts | johanniswyclift01mattgoog=forts | tractatusdepotes00wycl=foris	339	907,1999,1097,2065
+278	127	R3	latinworks19wycl=uoui | johanniswyclift00mattgoog=noui | johanniswyclift01mattgoog=houi | tractatusdepotes00wycl=noui	339	879,2263,1054,2314
+278	144	R3	latinworks19wycl=primo | johanniswyclift00mattgoog=prima | tractatusdepotes00wycl=primo	339	1987,2440,2205,2500
+279	1	THIN	latinworks19wycl=apokxix | tractatusdepotes00wycl=apokxix	340	615,612,982,679
+279	6	R3	latinworks19wycl=nt | johanniswyclift00mattgoog=tit | tractatusdepotes00wycl=ut	340	1618,614,1693,663
+279	9	R5	latinworks19wycl=bissino | johanniswyclift00mattgoog=bissino | tractatusdepotes00wycl=bissino	340	2010,616,2113,666
+279	22	THIN	latinworks19wycl=mundiciamquam | tractatusdepotes00wycl=mundiciamquam	340	882,877,1481,943
+279	23	THIN	latinworks19wycl=exnatura | tractatusdepotes00wycl=exnatura	340	1481,881,1803,928
+279	24	THIN	latinworks19wycl=non | tractatusdepotes00wycl=non	340	1803,878,1942,928
+279	31	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=sictit | johanniswyclift01mattgoog=stent | tractatusdepotes00wycl=sicut	340	1620,965,1812,1014
+279	60	R3	latinworks19wycl=oin | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=tiith | tractatusdepotes00wycl=1074	340	387,1404,568,1456
+279	146	R4	latinworks19wycl=signat | johanniswyclift00mattgoog=signal | johanniswyclift01mattgoog=signal | tractatusdepotes00wycl=signat	340	1922,2465,2116,2530
+279	155	R4	latinworks19wycl=itic | johanniswyclift00mattgoog=hie | johanniswyclift01mattgoog=hie | tractatusdepotes00wycl=hic	340	810,2639,951,2692
+279	210	INS?	i	340	1514,3349,1713,3413
+280	29	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=stent | tractatusdepotes00wycl=sicut	341	708,891,883,944
+280	47	R3	latinworks19wycl=loquitur | johanniswyclift00mattgoog=quitur | johanniswyclift01mattgoog=quitur | tractatusdepotes00wycl=loquitur	341	710,1152,1012,1221
+280	52	R4	latinworks19wycl=coloris | johanniswyclift00mattgoog=cons | johanniswyclift01mattgoog=cons | tractatusdepotes00wycl=coloris	341	2280,1169,2373,1203
+280	217	TAIL	3. Eodcm exemplo utitur W. De Civili Dominio I, 34, I. 26. 7. Prov. XVII, 3.	341	0,3443,100000,3765
+281	113	NW	latinworks19wycl=mduet | johanniswyclift00mattgoog=mduet | johanniswyclift01mattgoog=mduet | tractatusdepotes00wycl=mduet	342	1165,2200,1410,2248
+282	1	THIN	latinworks19wycl=cottidiana | tractatusdepotes00wycl=cottidiana	343	873,571,1227,624
+282	5	R5	latinworks19wycl=offerrendi | johanniswyclift00mattgoog=offerrendi | tractatusdepotes00wycl=offerrendi	343	2102,576,2414,642
+282	110	NW	latinworks19wycl=planeta | johanniswyclift00mattgoog=planeta | johanniswyclift01mattgoog=planeta | tractatusdepotes00wycl=planeta	343	1855,1981,2177,2047
+283	5	R5	latinworks19wycl=logyon | johanniswyclift01mattgoog=logyon | tractatusdepotes00wycl=logyon	344	1454,622,1714,682
+283	10	THIN	latinworks19wycl=fouanune | tractatusdepotes00wycl=foramine	344	875,710,1235,775
+283	84	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=∅	344	751,1763,809,1820
+283	111	NW	latinworks19wycl=urin | johanniswyclift00mattgoog=urin | johanniswyclift01mattgoog=urin | tractatusdepotes00wycl=urin	344	1061,2116,1241,2167
+284	3	THIN	latinworks19wycl=habltus | tractatusdepotes00wycl=habiuis	345	1699,573,1970,623
+284	46	R3	latinworks19wycl=antiquo | johanniswyclift00mattgoog=antique | johanniswyclift01mattgoog=antique | tractatusdepotes00wycl=antiquo	345	1606,1098,1891,1165
+284	86	R4	latinworks19wycl=doceat | johanniswyclift00mattgoog=doceal | johanniswyclift01mattgoog=doceal | tractatusdepotes00wycl=doceat	345	716,1716,966,1766
+286	62	R4	latinworks19wycl=lunicai | johanniswyclift00mattgoog=iunica | johanniswyclift01mattgoog=lunica | tractatusdepotes00wycl=lumca	347	2125,1334,2375,1383
+287	15	NW	latinworks19wycl=manipulam | johanniswyclift00mattgoog=manipulam | johanniswyclift01mattgoog=inanipulam | tractatusdepotes00wycl=manipulam	348	861,744,1298,812
+287	46	THIN	latinworks19wycl=misse | tractatusdepotes00wycl=misse	348	301,1184,508,1249
+287	47	THIN	latinworks19wycl=ne | tractatusdepotes00wycl=ne	348	508,1185,595,1235
+287	48	THIN	latinworks19wycl=adulterinis | tractatusdepotes00wycl=adulterinis	348	595,1185,950,1236
+287	49	THIN	latinworks19wycl=sensacionibus | tractatusdepotes00wycl=sensacionibus	348	950,1185,1413,1236
+287	50	THIN	latinworks19wycl=temptet | tractatusdepotes00wycl=temptet	348	1413,1191,1685,1252
+287	51	THIN	latinworks19wycl=mentem | tractatusdepotes00wycl=mentem	348	1685,1192,1959,1247
+287	52	THIN	latinworks19wycl=nec | tractatusdepotes00wycl=nec	348	302,1274,457,1323
+287	90	R3	latinworks19wycl=stricta | johanniswyclift00mattgoog=striata | johanniswyclift01mattgoog=striata | tractatusdepotes00wycl=stricta	348	1761,1624,1965,1675
+288	110	R4	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10	349	2349,1971,2407,2004
+288	125	NW	latinworks19wycl=por | johanniswyclift00mattgoog=por | johanniswyclift01mattgoog=por | tractatusdepotes00wycl=por	349	1037,2219,1186,2286
+288	126	NW	latinworks19wycl=tamus | johanniswyclift00mattgoog=tamus | johanniswyclift01mattgoog=tanius | tractatusdepotes00wycl=tamus	349	1228,2226,1460,2270
+288	131	INS?	a	349	749,2306,1020,2358
+288	158	NW	latinworks19wycl=planeta | johanniswyclift00mattgoog=planeta | johanniswyclift01mattgoog=planeta | tractatusdepotes00wycl=planeta	349	1295,2661,1587,2727
+288	178	R4	latinworks19wycl=daimatic | johanniswyclift00mattgoog=g | johanniswyclift01mattgoog=g | tractatusdepotes00wycl=it	349	503,2923,949,2969
+288	188	NW	latinworks19wycl=leuite | johanniswyclift00mattgoog=leuite | johanniswyclift01mattgoog=leuite | tractatusdepotes00wycl=leuite	349	1559,3013,1804,3079
+289	10	R4	latinworks19wycl=habet | johanniswyclift00mattgoog=nabet | johanniswyclift01mattgoog=habet | tractatusdepotes00wycl=nabet	350	1559,716,1784,763
+289	17	NW	latinworks19wycl=leuitis | johanniswyclift00mattgoog=leuitis | johanniswyclift01mattgoog=leuitis | tractatusdepotes00wycl=leuitis	350	1499,802,1768,860
+289	132	INS?	i	350	662,2473,865,2540
+289	186	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	350	755,3179,890,3230
+290	1	THIN	latinworks19wycl=lauci	351	1122,595,1334,646
+290	2	THIN	latinworks19wycl=leqentes	351	1334,596,1665,657
+290	9	NW	latinworks19wycl=cenmonias | johanniswyclift00mattgoog=cenmonias | johanniswyclift01mattgoog=cenmomas | tractatusdepotes00wycl=cerimomas	351	1804,693,2200,733
+290	12	R3	latinworks19wycl=humamtus | johanniswyclift00mattgoog=humanitus | johanniswyclift01mattgoog=humanitas | tractatusdepotes00wycl=humamtus	351	1018,774,1411,822
+290	151	R3	latinworks19wycl=caritate | johanniswyclift00mattgoog=caritateas | johanniswyclift01mattgoog=caritate | tractatusdepotes00wycl=caritates	351	2193,2712,2432,2762
+290	187	R3	latinworks19wycl=carne | johanniswyclift00mattgoog=came | johanniswyclift01mattgoog=came | tractatusdepotes00wycl=carne	351	2011,3239,2226,3290
+290	193	NW	latinworks19wycl=ingemmata | johanniswyclift00mattgoog=ingemmata | johanniswyclift01mattgoog=ingemmata | tractatusdepotes00wycl=ingemmata	351	1883,3329,2313,3395
+291	4	NW	latinworks19wycl=funo | johanniswyclift00mattgoog=funo | johanniswyclift01mattgoog=funo | tractatusdepotes00wycl=funo	352	1042,626,1227,677
+291	91	R4	latinworks19wycl=nouel | johanniswyclift00mattgoog=nouello | johanniswyclift01mattgoog=nouello | tractatusdepotes00wycl=nouel	352	1828,1859,2162,1908
+291	197	TAIL	Sacramentum pingue dabo	352	0,3362,100000,3504
+292	0	HEAD	Sacramentum pingne dabo	353	1090,573,1567,625
+292	50	R5	latinworks19wycl=omniain | johanniswyclift01mattgoog=omniain | tractatusdepotes00wycl=omniain	353	1885,1306,2180,1358
+292	191	R4	latinworks19wycl=orci | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iq | tractatusdepotes00wycl=orci	353	720,3335,909,3386
+293	70	R3	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=ouantum	354	479,1574,833,1627
+293	191	R4	latinworks19wycl=sotalis | johanniswyclift00mattgoog=talis | johanniswyclift01mattgoog=talis | tractatusdepotes00wycl=sotalis	354	319,3166,563,3218
+294	36	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	355	703,1000,840,1051
+295	46	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu	356	1444,1223,1548,1274
+295	54	NW	latinworks19wycl=iribuitur | johanniswyclift00mattgoog=tribuitur | johanniswyclift01mattgoog=iribuitur | tractatusdepotes00wycl=iribuitur	356	1630,1311,1957,1361
+295	99	NW	latinworks19wycl=uerunt | johanniswyclift00mattgoog=ueruntt | johanniswyclift01mattgoog=uerunt | tractatusdepotes00wycl=uerunt	356	409,2018,665,2075
+296	143	R3	latinworks19wycl=et | johanniswyclift00mattgoog=etio | johanniswyclift01mattgoog=eti | tractatusdepotes00wycl=eto	357	2349,2225,2428,2269
+296	185	NW	latinworks19wycl=ehquate | johanniswyclift00mattgoog=eliquate | johanniswyclift01mattgoog=ehquate | tractatusdepotes00wycl=ehquate	357	926,2838,1215,2902
+297	70	R4	latinworks19wycl=unitatem | johanniswyclift00mattgoog=unitalem | johanniswyclift01mattgoog=unitalem | tractatusdepotes00wycl=unitatem	358	398,1563,741,1614
+297	160	R4	latinworks19wycl=socia2lem | johanniswyclift00mattgoog=socia2lem | johanniswyclift01mattgoog=socialem | tractatusdepotes00wycl=socialem	358	1880,2621,2064,2672
+298	183	R3	latinworks19wycl=mali | johanniswyclift00mattgoog=malt | johanniswyclift01mattgoog=malt | tractatusdepotes00wycl=mali	359	749,2911,932,2962
+299	77	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=llla	360	713,1659,853,1710
+299	153	NW	latinworks19wycl=habcs | johanniswyclift00mattgoog=habcs | johanniswyclift01mattgoog=habcs | tractatusdepotes00wycl=habes	360	392,2630,605,2693
+300	207	INS?	i	361	1111,3452,1278,3502
+300	212	R4	latinworks19wycl=terc | johanniswyclift00mattgoog=tercio | johanniswyclift01mattgoog=tercio | tractatusdepotes00wycl=terc	361	2215,3451,2458,3502
+301	59	THIN	latinworks19wycl=nec | tractatusdepotes00wycl=nec	362	1081,1388,1232,1437
+301	60	THIN	latinworks19wycl=honorem | tractatusdepotes00wycl=honorem	362	1232,1388,1561,1438
+301	77	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=metis | tractatusdepotes00wycl=meus	362	1896,1580,2058,1613
+301	114	R4	latinworks19wycl=recedant | johanniswyclift00mattgoog=recedani | johanniswyclift01mattgoog=recedani | tractatusdepotes00wycl=recedant	362	1557,2005,1868,2055
+301	160	R4	latinworks19wycl=2 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iderogatur | tractatusdepotes00wycl=∅	362	316,2712,386,2760
+301	200	INS?	i	362	637,3243,774,3292
+302	97	R6	latinworks19wycl=that | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=that	363	604,1862,800,1913
+302	114	NW	latinworks19wycl=utilitatem | johanniswyclift00mattgoog=utihtatem | johanniswyclift01mattgoog=utihtatem | tractatusdepotes00wycl=utihtatem	363	727,2042,1083,2091
+303	195	R4	latinworks19wycl=facit | johanniswyclift00mattgoog=sofacit | johanniswyclift01mattgoog=facit | tractatusdepotes00wycl=sofacit	364	303,3161,552,3214
+304	16	INS?	i	365	1020,833,1152,885
+304	164	R3	latinworks19wycl=infert | johanniswyclift00mattgoog=infertas | johanniswyclift01mattgoog=infert | tractatusdepotes00wycl=infertss	365	2269,2682,2516,2734
+306	33	R3	latinworks19wycl=euen | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=euen	367	635,1131,833,1204
+306	34	R6	latinworks19wycl=n | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=n	367	833,1131,941,1190
+306	41	R3	latinworks19wycl=et | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=e	367	762,1226,861,1279
+306	48	R3	latinworks19wycl=se | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=se	367	761,1308,942,1366
+306	120	R4	latinworks19wycl=al | johanniswyclift00mattgoog=alio | johanniswyclift01mattgoog=alioaoi | tractatusdepotes00wycl=al	367	2309,2279,2444,2330
+307	88	R4	latinworks19wycl=i3potestate | johanniswyclift00mattgoog=i3potestate | johanniswyclift01mattgoog=y | tractatusdepotes00wycl=potestate	368	306,1854,715,1921
+308	29	R4	latinworks19wycl=conficiendi | johanniswyclift00mattgoog=conficiend | johanniswyclift01mattgoog=conficiendii | tractatusdepotes00wycl=conficiend	369	2019,934,2387,986
+308	41	R4	latinworks19wycl=xec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=nee | tractatusdepotes00wycl=nec	369	2236,1111,2363,1162
+308	46	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=iltum | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=ilium	369	1832,1199,2042,1250
+309	99	R4	latinworks19wycl=collosseum | johanniswyclift00mattgoog=cou | johanniswyclift01mattgoog=colet | tractatusdepotes00wycl=collosseum	370	1924,1836,2044,1890
+310	183	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	371	1646,3223,1784,3274
+312	39	R3	latinworks19wycl=iiic | johanniswyclift00mattgoog=hi | johanniswyclift01mattgoog=iic | tractatusdepotes00wycl=hic	373	804,1157,988,1209
+312	127	R3	latinworks19wycl=eto | johanniswyclift00mattgoog=etao | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et	373	2325,2217,2476,2268
+313	174	NW	latinworks19wycl=mtencione | johanniswyclift00mattgoog=mtencione | johanniswyclift01mattgoog=intencione | tractatusdepotes00wycl=mtencione	374	1255,2913,1638,2958
+314	18	R3	latinworks19wycl=prelato | johanniswyclift00mattgoog=prelate | johanniswyclift01mattgoog=prelate | tractatusdepotes00wycl=prelato	375	1629,757,1893,822
+314	81	R3	latinworks19wycl=by | johanniswyclift00mattgoog=e | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=by	375	693,1723,847,1769
+314	82	R4	latinworks19wycl=t | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=it	375	847,1723,986,1775
+315	155	R3	latinworks19wycl=esse | johanniswyclift00mattgoog=esse | johanniswyclift01mattgoog=besse | tractatusdepotes00wycl=ibesse	376	358,2742,514,2792
+315	158	R4	latinworks19wycl=uideatur | johanniswyclift00mattgoog=uidealnr | johanniswyclift01mattgoog=uidealnr | tractatusdepotes00wycl=uideatur	376	1048,2741,1338,2792
+316	2	R5	latinworks19wycl=claustrale | johanniswyclift01mattgoog=claustrale | tractatusdepotes00wycl=claustrale	377	1321,584,1687,635
+316	156	THIN	latinworks19wycl=possetde2 | tractatusdepotes00wycl=posset	377	2085,2968,2495,3028
+316	157	THIN	latinworks19wycl=an | tractatusdepotes00wycl=dean	377	695,3068,765,3101
+316	158	THIN	latinworks19wycl=esse | tractatusdepotes00wycl=esse	377	765,3068,939,3108
+316	177	R4	latinworks19wycl=priuilegia | johanniswyclift00mattgoog=pririlegia | johanniswyclift01mattgoog=pririlegia | tractatusdepotes00wycl=priuilegia	377	2250,3231,2422,3300
+317	121	NW	latinworks19wycl=placencius | johanniswyclift00mattgoog=placencius | johanniswyclift01mattgoog=placencius | tractatusdepotes00wycl=placencius	378	1488,2197,1907,2266
+317	124	INS?	i	378	666,2285,966,2338
+318	162	R4	latinworks19wycl=numquids | johanniswyclift00mattgoog=numquid | johanniswyclift01mattgoog=numquid | tractatusdepotes00wycl=numquids	379	2113,2684,2485,2752
+319	188	R4	latinworks19wycl=o | johanniswyclift00mattgoog=sodominum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅	380	277,3139,349,3191
+320	55	R3	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=gitur	381	783,1272,873,1331
+320	84	R4	latinworks19wycl=numana | johanniswyclift00mattgoog=biunana | johanniswyclift01mattgoog=humana | tractatusdepotes00wycl=numana	381	781,1627,1071,1686
+320	180	R4	latinworks19wycl=constat | johanniswyclift00mattgoog=co | johanniswyclift01mattgoog=constat | tractatusdepotes00wycl=co	381	777,3043,1067,3095
+320	181	INS?	stat	381	1067,3043,1327,3107
+320	196	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	381	1366,3218,1585,3269
+321	62	R4	latinworks19wycl=ini | johanniswyclift00mattgoog=innee | johanniswyclift01mattgoog=inp | tractatusdepotes00wycl=innec	382	1932,1285,2009,1336
+321	91	NW	latinworks19wycl=blasphemius | johanniswyclift00mattgoog=basphemius | johanniswyclift01mattgoog=blasphemius | tractatusdepotes00wycl=blasphemius	382	344,1814,804,1880
+321	140	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	382	620,2432,745,2482
+321	168	R4	latinworks19wycl=infidehus | johanniswyclift00mattgoog=intidelius | tractatusdepotes00wycl=inhdelius	382	1921,2784,2044,2835
+321	174	NW	latinworks19wycl=tacionem | johanniswyclift00mattgoog=tacionem | johanniswyclift01mattgoog=tacionem | tractatusdepotes00wycl=tacionem	382	1706,2881,2075,2925
+322	13	NW	latinworks19wycl=blasfemius | johanniswyclift00mattgoog=blasfemius | johanniswyclift01mattgoog=blasfemius | tractatusdepotes00wycl=blasfemius	383	783,728,1193,779
+324	57	NW	latinworks19wycl=scnpturam | johanniswyclift00mattgoog=scnpturam | johanniswyclift01mattgoog=scripturam | tractatusdepotes00wycl=scnpturam	385	2071,1275,2422,1335
+324	106	R4	latinworks19wycl=filius | johanniswyclift00mattgoog=iilius | johanniswyclift01mattgoog=iihhs | tractatusdepotes00wycl=iilius	385	1728,1973,1918,2040
+324	200	R4	latinworks19wycl=apudzo | johanniswyclift00mattgoog=apudzo | johanniswyclift01mattgoog=apud | tractatusdepotes00wycl=apud	385	2270,3121,2501,3186
+326	12	R5	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | tractatusdepotes00wycl=petrum	387	1608,629,1873,681
+326	51	NW	latinworks19wycl=lam | johanniswyclift00mattgoog=lam | johanniswyclift01mattgoog=lam | tractatusdepotes00wycl=iam	387	1752,1155,1924,1207
+326	102	R3	latinworks19wycl=concertacionis | johanniswyclift00mattgoog=coni | johanniswyclift01mattgoog=concertacionis | tractatusdepotes00wycl=coni	387	2314,1788,2451,1822
+326	103	INS?	certacionis	387	1189,1859,1439,1911
+326	126	R5	latinworks19wycl=estmultum | johanniswyclift00mattgoog=estmultum | tractatusdepotes00wycl=estmultum	387	1107,2124,1495,2175
+326	170	INS?	post	387	800,2741,1219,2795
+326	192	NW	latinworks19wycl=spirituan | johanniswyclift00mattgoog=spintuali | johanniswyclift01mattgoog=spintuali | tractatusdepotes00wycl=spintuali	387	1021,3102,1368,3162
+326	202	NW	latinworks19wycl=prodigiis | johanniswyclift00mattgoog=prodigns | johanniswyclift01mattgoog=prodigns | tractatusdepotes00wycl=prodigns	387	1453,3182,1770,3249
+327	77	R5	latinworks19wycl=seductosin | johanniswyclift00mattgoog=seductosin | tractatusdepotes00wycl=seductosin	388	1404,1572,1801,1624
+327	132	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	388	449,2367,588,2418
+327	152	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	388	1919,2545,2015,2597
+327	179	NW	latinworks19wycl=prestanciori | johanniswyclift00mattgoog=prestancion | johanniswyclift01mattgoog=prestancion | tractatusdepotes00wycl=prestancion	388	711,2996,1148,3056
+328	17	THIN	latinworks19wycl=antichnstum | tractatusdepotes00wycl=antichristum	389	1660,730,2103,777
+328	18	THIN	latinworks19wycl=wiii | tractatusdepotes00wycl=wiii	389	653,820,864,864
+328	19	THIN	latinworks19wycl=1 | tractatusdepotes00wycl=tercio	389	864,820,912,867
+328	20	THIN	latinworks19wycl=ercio | tractatusdepotes00wycl=∅	389	912,831,1114,868
+328	114	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	389	773,2134,951,2198
+329	119	INS?	in	390	356,2199,653,2267
+330	77	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicui | johanniswyclift01mattgoog=sicui | tractatusdepotes00wycl=sicut	391	1933,1686,2141,1739
+330	85	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et	391	2075,1775,2162,1825
+330	109	R4	latinworks19wycl=penafutura | johanniswyclift00mattgoog=penafutura | johanniswyclift01mattgoog=penafnlnra	391	777,2128,1162,2195
+330	110	R4	latinworks19wycl=habebit | johanniswyclift00mattgoog=habebii | johanniswyclift01mattgoog=habebii	391	1162,2128,1422,2180
+330	127	R3	latinworks19wycl=xl | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=xl	391	1466,2303,1634,2355
+330	128	R3	latinworks19wycl=sipapa | johanniswyclift00mattgoog=quo | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=sipapa	391	1634,2303,1917,2371
+330	129	R3	latinworks19wycl=quomodo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=ottomodo | tractatusdepotes00wycl=quomodo	391	1917,2303,2249,2370
+330	159	R3	latinworks19wycl=uou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=non	391	2330,2673,2440,2707
+331	8	R4	latinworks19wycl=dydbolo | johanniswyclift00mattgoog=dyabolo | johanniswyclift01mattgoog=dyabolo | tractatusdepotes00wycl=dydbolo	392	347,699,641,763
+332	5	NW	latinworks19wycl=preficiendo | johanniswyclift00mattgoog=preficiendo | johanniswyclift01mattgoog=preficiendo | tractatusdepotes00wycl=preficiendo	393	1565,566,1988,633
+332	44	R4	latinworks19wycl=the | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=the	393	655,1182,847,1272
+332	45	R3	latinworks19wycl=e | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sed	393	847,1182,1014,1249
+332	197	INS?	i	393	1113,3216,1479,3269
+333	114	R3	latinworks19wycl=ydolorum | johanniswyclift00mattgoog=ydolorum | johanniswyclift01mattgoog=idolorum | tractatusdepotes00wycl=irdolorum	394	658,2101,1039,2165
+333	136	R3	latinworks19wycl=dommari | johanniswyclift00mattgoog=dominari | johanniswyclift01mattgoog=doniinan | tractatusdepotes00wycl=dominari	394	1700,2366,2060,2426
+333	142	NW	latinworks19wycl=dommacio | johanniswyclift00mattgoog=dominacio | johanniswyclift01mattgoog=doramacio | tractatusdepotes00wycl=dommacio	394	1311,2454,1686,2505
+334	0	THIN	latinworks19wycl=rpsos	395	1058,560,1280,604
+334	1	THIN	latinworks19wycl=iii	395	1280,544,1394,594
+335	100	R4	latinworks19wycl=hii | johanniswyclift00mattgoog=hu | johanniswyclift01mattgoog=hii | tractatusdepotes00wycl=hu	396	745,1919,879,1970
+335	109	NW	latinworks19wycl=umdicta | johanniswyclift00mattgoog=umdicta | johanniswyclift01mattgoog=umdicta | tractatusdepotes00wycl=uindicta	396	989,2010,1290,2058
+336	140	NW	latinworks19wycl=opcrtet | johanniswyclift00mattgoog=opcrtet | johanniswyclift01mattgoog=oportet | tractatusdepotes00wycl=opcrtet	397	2205,2309,2445,2371
+337	38	NW	latinworks19wycl=odita | johanniswyclift00mattgoog=odita | johanniswyclift01mattgoog=odita | tractatusdepotes00wycl=odita	398	1243,1028,1456,1080
+337	67	R4	latinworks19wycl=omittentesdoctrinamchristieacig | johanniswyclift00mattgoog=omittentesdoctrinamchristitmchlngwe | johanniswyclift01mattgoog=omittentesdoctrinamchristieiiigwe | tractatusdepotes00wycl=omittentesdoctrinamchristiachfg	398	1101,1367,2281,1454
+338	193	R4	latinworks19wycl=but | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=∅	399	681,3196,1050,3244
+339	185	R4	latinworks19wycl=tradic | johanniswyclift00mattgoog=tradicio | johanniswyclift01mattgoog=tradicio | tractatusdepotes00wycl=tradic	400	1772,2968,2099,3017
+340	103	R4	latinworks19wycl=copiosiusi | johanniswyclift00mattgoog=copiosiusi | johanniswyclift01mattgoog=copiosius | tractatusdepotes00wycl=copiosius	401	2143,1779,2520,1848
+340	207	R4	latinworks19wycl=accederet | johanniswyclift00mattgoog=accederetso | johanniswyclift01mattgoog=accederet | tractatusdepotes00wycl=accederetso	401	2128,3103,2464,3155
+341	60	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	402	660,1415,854,1467
+341	66	R3	latinworks19wycl=preponderat | johanniswyclift00mattgoog=preponderate | johanniswyclift01mattgoog=iconuertibiliter | tractatusdepotes00wycl=preponderat	402	329,1503,810,1572
+341	104	NW	latinworks19wycl=toxice | johanniswyclift00mattgoog=toxice | johanniswyclift01mattgoog=toxice | tractatusdepotes00wycl=toxice	402	1784,1946,1988,1998
+342	41	R4	latinworks19wycl=ex | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=x	403	830,1196,981,1246
+343	41	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et	404	1813,1063,1887,1114
+343	51	R4	latinworks19wycl=aucillulas | johanniswyclift00mattgoog=ancillulas | johanniswyclift01mattgoog=aucillulas | tractatusdepotes00wycl=ancilhdas	404	880,1240,1216,1291
+343	56	THIN	latinworks19wycl=dignitas | tractatusdepotes00wycl=dignitas	404	624,1328,916,1395
+343	57	THIN	latinworks19wycl=faciat | tractatusdepotes00wycl=faciat	404	916,1328,1184,1396
+343	100	INS?	i	404	492,1856,869,1923
+343	124	R3	latinworks19wycl=deinde | johanniswyclift00mattgoog=delude | johanniswyclift01mattgoog=delude | tractatusdepotes00wycl=deinde	404	997,2122,1240,2174
+343	142	NW	latinworks19wycl=pallacio | johanniswyclift00mattgoog=pallacio | johanniswyclift01mattgoog=pallacio | tractatusdepotes00wycl=pallacio	404	866,2387,1178,2453
+343	171	R3	latinworks19wycl=iudicium | johanniswyclift00mattgoog=indicium | johanniswyclift01mattgoog=indicium | tractatusdepotes00wycl=iudicium	404	667,2740,1038,2791
+344	41	R3	latinworks19wycl=ouis | johanniswyclift00mattgoog=quis | johanniswyclift01mattgoog=quis | tractatusdepotes00wycl=ouis	405	1321,1092,1497,1146
+344	100	R3	latinworks19wycl=diligenter | johanniswyclift01mattgoog=dili | tractatusdepotes00wycl=diligenter	405	2272,1800,2437,1850
+344	150	R4	latinworks19wycl=iohxiu | johanniswyclift00mattgoog=iohxiu | tractatusdepotes00wycl=ioh	405	2007,2416,2356,2482
+345	0	THIN	latinworks19wycl=cauonicatum	406	349,633,811,686
+345	8	R5	latinworks19wycl=canonicatum | johanniswyclift00mattgoog=canonicatum | tractatusdepotes00wycl=canonicatum	406	537,723,1000,781
+345	38	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis	406	443,1073,580,1126
+345	188	R4	latinworks19wycl=preferre | johanniswyclift00mattgoog=sopreferre | johanniswyclift01mattgoog=preferre | tractatusdepotes00wycl=sopreferre	406	274,3189,657,3257
+346	116	THIN	latinworks19wycl=asserrere | tractatusdepotes00wycl=toisabthathgodasserrere	407	789,2077,1156,2140
+346	117	THIN	latinworks19wycl=iuod | tractatusdepotes00wycl=iuod	407	1156,2077,1369,2143
+346	118	THIN	latinworks19wycl=e | tractatusdepotes00wycl=e	407	1369,2076,1481,2140
+346	120	R4	latinworks19wycl=iuo | johanniswyclift00mattgoog=quo | tractatusdepotes00wycl=iuo	407	1682,2093,1841,2143
+346	123	THIN	latinworks19wycl=sta | tractatusdepotes00wycl=sta	407	2201,2074,2315,2140
+346	124	THIN	latinworks19wycl=tuit | tractatusdepotes00wycl=tuit	407	2339,2076,2509,2140
+346	125	THIN	latinworks19wycl=eciam | tractatusdepotes00wycl=eciam	407	789,2163,1016,2222
+346	132	R4	latinworks19wycl=uei | johanniswyclift00mattgoog=yei | johanniswyclift01mattgoog=uel | tractatusdepotes00wycl=yei	407	787,2253,926,2303
+347	105	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	408	884,2051,1011,2102
+348	178	NW	latinworks19wycl=mexpertarum | johanniswyclift00mattgoog=mexpertarum | johanniswyclift01mattgoog=inexpertarum | tractatusdepotes00wycl=mexpertarum	409	1144,2970,1663,3030
+349	24	NW	latinworks19wycl=preficiendi | johanniswyclift00mattgoog=preficiendi | johanniswyclift01mattgoog=preficiendt | tractatusdepotes00wycl=preficiendi	410	1641,864,1991,931
+349	119	R4	latinworks19wycl=ideo | johanniswyclift00mattgoog=aoideo | johanniswyclift01mattgoog=aoideo | tractatusdepotes00wycl=ideo	410	247,2272,513,2324
+349	183	R4	latinworks19wycl=edmcacionem | johanniswyclift00mattgoog=edincacionem | johanniswyclift01mattgoog=edmcacionem | tractatusdepotes00wycl=edificacionem	410	1221,3072,1702,3120
+350	108	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	411	1130,1949,1351,2000
+350	155	R5	latinworks19wycl=rnstanciam | johanniswyclift00mattgoog=mstanciam | tractatusdepotes00wycl=mstanciam	411	1898,2574,2292,2618
+350	196	R4	latinworks19wycl=offic | johanniswyclift00mattgoog=officio | johanniswyclift01mattgoog=officio | tractatusdepotes00wycl=offic	411	2251,3096,2503,3148
+351	142	R3	latinworks19wycl=orac | johanniswyclift00mattgoog=omcio | johanniswyclift01mattgoog=officio | tractatusdepotes00wycl=offic	412	1802,2454,2036,2489
+351	185	R3	latinworks19wycl=ula | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	412	577,3055,721,3109
+352	12	R3	latinworks19wycl=prepositus | johanniswyclift00mattgoog=propositus | johanniswyclift01mattgoog=propositus | tractatusdepotes00wycl=prepositus	413	1231,724,1636,792
+352	148	THIN	latinworks19wycl=iii | tractatusdepotes00wycl=iii	413	2184,2573,2319,2638
+352	149	THIN	latinworks19wycl=1 | tractatusdepotes00wycl=10	413	2319,2590,2349,2624
+352	150	THIN	latinworks19wycl=o | tractatusdepotes00wycl=∅	413	2349,2590,2402,2624
+352	157	R6	latinworks19wycl=such | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=such	413	634,2749,823,2798
+352	175	R3	latinworks19wycl=necessana | johanniswyclift00mattgoog=necessana | johanniswyclift01mattgoog=necessaria | tractatusdepotes00wycl=necessaria	413	1821,2931,2236,2988
+352	194	R4	latinworks19wycl=t | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=t	413	826,3280,941,3334
+353	36	NW	latinworks19wycl=allocanda | johanniswyclift00mattgoog=allocanda | johanniswyclift01mattgoog=allocanda | tractatusdepotes00wycl=allocanda	414	1647,1055,1968,1106
+355	195	INS?	i	416	616,3156,740,3205
+356	13	R3	latinworks19wycl=utod | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=gei	417	616,748,825,825
+356	20	R3	latinworks19wycl=pugnis | johanniswyclift00mattgoog=pugis | johanniswyclift01mattgoog=puis | tractatusdepotes00wycl=pugnis	417	2192,751,2411,820
+357	130	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hns	418	1604,2214,1761,2262
+357	186	R5	latinworks19wycl=calligis | johanniswyclift00mattgoog=calligis | tractatusdepotes00wycl=calligis	418	1888,2833,1994,2881
+358	1	THIN	latinworks19wycl=ipsara	419	924,616,1168,683
+358	87	R4	latinworks19wycl=that | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=ged	419	617,1848,816,1893
+358	95	R4	latinworks19wycl=hanc | johanniswyclift00mattgoog=hanc5 | johanniswyclift01mattgoog=hanc | tractatusdepotes00wycl=hanc5	419	2252,1850,2430,1899
+359	103	R3	latinworks19wycl=elemosmis | johanniswyclift00mattgoog=elemosinis | johanniswyclift01mattgoog=elemosmis | tractatusdepotes00wycl=elemosinis	420	1677,2110,2017,2155
+359	109	R4	latinworks19wycl=personis | johanniswyclift00mattgoog=personis | johanniswyclift01mattgoog=aopersonis | tractatusdepotes00wycl=aopersonis	420	356,2281,675,2352
+359	149	NW	latinworks19wycl=lacet | johanniswyclift00mattgoog=lacet | johanniswyclift01mattgoog=lacet | tractatusdepotes00wycl=lacet	420	814,2814,1020,2864
+359	169	R4	latinworks19wycl=legfale | johanniswyclift00mattgoog=lecrale | johanniswyclift01mattgoog=lecrale | tractatusdepotes00wycl=legale	420	516,3080,765,3138
+359	170	R4	latinworks19wycl=legis | johanniswyclift00mattgoog=lecfis | johanniswyclift01mattgoog=lecfis | tractatusdepotes00wycl=legis	420	765,3080,960,3138
+359	179	NW	latinworks19wycl=morahtatem | johanniswyclift00mattgoog=moralitatem | johanniswyclift01mattgoog=morahtatem | tractatusdepotes00wycl=morahtatem	420	1267,3168,1712,3217
+359	180	NW	latinworks19wycl=mclusam | johanniswyclift00mattgoog=inclusam | johanniswyclift01mattgoog=mclusam | tractatusdepotes00wycl=mclusam	420	1712,3168,2111,3228
+360	178	R4	latinworks19wycl=of | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=of	421	658,3038,748,3076
+360	180	R4	latinworks19wycl=pontmce | johanniswyclift00mattgoog=pontifice | johanniswyclift01mattgoog=pontmce | tractatusdepotes00wycl=pontifice	421	1017,3034,1348,3092
+361	2	THIN	latinworks19wycl=maerna	422	788,615,1054,671
+361	13	THIN	latinworks19wycl=testimoniumbernhardi	422	374,794,1134,844
+361	14	THIN	latinworks19wycl=etlyncolmensis	422	1134,794,1677,860
+361	165	R4	latinworks19wycl=ibpater | johanniswyclift00mattgoog=pater | tractatusdepotes00wycl=ibpater	422	296,2734,557,2797
+361	166	R4	latinworks19wycl=ueatissimns | johanniswyclift00mattgoog=beatisstmus | tractatusdepotes00wycl=beahssimus	422	557,2735,955,2783
+361	199	R4	latinworks19wycl=uerisotatem | johanniswyclift00mattgoog=ueritatem | johanniswyclift01mattgoog=ueritatem | tractatusdepotes00wycl=uerisotatem	422	1880,3083,2030,3134
+362	29	R3	latinworks19wycl=antecedenti | johanniswyclift00mattgoog=antecedent | johanniswyclift01mattgoog=antecedent | tractatusdepotes00wycl=antecedenti	423	1148,944,1587,995
+362	41	R3	latinworks19wycl=gerit | johanniswyclift00mattgoog=gent | johanniswyclift01mattgoog=iierit | tractatusdepotes00wycl=gerit	423	745,1212,944,1270
+362	47	NW	latinworks19wycl=terris | johanniswyclift00mattgoog=terns | johanniswyclift01mattgoog=terns | tractatusdepotes00wycl=terns	423	2213,1217,2404,1270
+362	111	R3	latinworks19wycl=namque | johanniswyclift00mattgoog=nantque | johanniswyclift01mattgoog=nantque | tractatusdepotes00wycl=namqite	423	1401,2093,1688,2155
+362	127	R3	latinworks19wycl=uocatur | johanniswyclift00mattgoog=uacatur | johanniswyclift01mattgoog=uacatur | tractatusdepotes00wycl=uocatur	423	740,2355,1030,2415
+362	130	R5	latinworks19wycl=estut | johanniswyclift00mattgoog=estut | tractatusdepotes00wycl=estut	423	1487,2355,1668,2406
+362	139	THIN	latinworks19wycl=suspensus | tractatusdepotes00wycl=suspensus	423	2300,2459,2400,2494
+362	140	THIN	latinworks19wycl=true | tractatusdepotes00wycl=true	423	609,2616,811,2666
+362	141	THIN	latinworks19wycl=item | tractatusdepotes00wycl=item	423	811,2616,1039,2680
+362	148	R4	latinworks19wycl=by | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=dei	423	642,2707,923,2764
+362	172	INS?	i	423	1068,2973,1272,3040
+363	132	R4	latinworks19wycl=sohuiusmodi | johanniswyclift00mattgoog=huiusmodi | johanniswyclift01mattgoog=huiusmodi | tractatusdepotes00wycl=sohuiusmodi	424	310,2307,770,2359
+363	181	R3	latinworks19wycl=portat | johanniswyclift00mattgoog=portai | johanniswyclift01mattgoog=portal | tractatusdepotes00wycl=portat	424	631,2926,915,2994
+364	162	R3	latinworks19wycl=carne | johanniswyclift00mattgoog=came | johanniswyclift01mattgoog=came | tractatusdepotes00wycl=carne	425	1445,2707,1674,2755
+364	198	THIN	latinworks19wycl=membra	425	1944,3142,2289,3212
+364	199	THIN	latinworks19wycl=eins	425	2289,3142,2461,3195
+364	211	THIN	latinworks19wycl=diligerei | tractatusdepotes00wycl=diligere	425	1867,3319,2161,3387
+365	3	THIN	latinworks19wycl=siplus | tractatusdepotes00wycl=siplus	426	1202,599,1419,667
+365	66	R3	latinworks19wycl=prelato | johanniswyclift00mattgoog=prelate | johanniswyclift01mattgoog=prelate | tractatusdepotes00wycl=prelato	426	1802,1392,2034,1459
+365	206	INS?	i	426	582,3241,981,3308
+366	0	THIN	latinworks19wycl=rerrcae	427	1030,592,1315,633
+366	74	R3	latinworks19wycl=fice | johanniswyclift00mattgoog=patet | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=patet	427	1031,1726,1229,1779
+366	75	GAP	patet quam extraneum est a Romano pontifice,	427	1229,1726,1628,1794
+366	104	GAP	propter reputatum commodum temporale	427	1197,2167,1399,2219
+366	157	THIN	latinworks19wycl=ir	427	1043,2874,1112,2924
+366	158	THIN	latinworks19wycl=sis	427	1112,2874,1250,2923
+366	159	THIN	latinworks19wycl=5circirir	427	1250,2874,1592,2923
+366	160	THIN	latinworks19wycl=r	427	1608,2890,1736,2923
+366	161	THIN	latinworks19wycl=e	427	1736,2890,1856,2923
+366	162	THIN	latinworks19wycl=ru	427	1856,2876,2219,2924
+366	163	THIN	latinworks19wycl=re	427	2219,2872,2455,2924
+366	164	THIN	latinworks19wycl=eccleie	427	2455,2872,2707,2923
+368	45	R4	latinworks19wycl=testamenti | johanniswyclift00mattgoog=testament | johanniswyclift01mattgoog=testament | tractatusdepotes00wycl=testamenti	429	1350,1098,1767,1149
+368	185	NW	latinworks19wycl=preemmencie | johanniswyclift00mattgoog=preemmencie | johanniswyclift01mattgoog=preeminencie | tractatusdepotes00wycl=preemmencie	429	1193,2956,1676,3014
+369	18	NW	latinworks19wycl=ordmasse | johanniswyclift00mattgoog=ordmasse | johanniswyclift01mattgoog=ordinasse | tractatusdepotes00wycl=ordmasse	430	1308,780,1692,841
+369	38	THIN	latinworks19wycl=insexto | johanniswyclift00mattgoog=insexto	430	929,1043,1265,1095
+369	39	THIN	latinworks19wycl=exiit | johanniswyclift00mattgoog=exiit	430	1265,1044,1442,1095
+369	44	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	430	570,1134,702,1185
+369	78	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=llla	430	349,1574,501,1625
+369	109	R3	latinworks19wycl=cras | johanniswyclift00mattgoog=eras | johanniswyclift01mattgoog=eras | tractatusdepotes00wycl=cras	430	352,1928,518,1978
+369	131	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	430	695,2190,832,2241
+370	16	R3	latinworks19wycl=thymu | johanniswyclift00mattgoog=rhym | johanniswyclift01mattgoog=rhymi | tractatusdepotes00wycl=thym	431	2239,798,2462,866
+370	106	R3	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=omnino | tractatusdepotes00wycl=e	431	783,2122,883,2176
+371	46	NW	latinworks19wycl=predanter | johanniswyclift00mattgoog=predanter | johanniswyclift01mattgoog=predanter | tractatusdepotes00wycl=predanter	432	884,1154,1235,1220
+371	203	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	432	1500,3360,1702,3413
+372	99	R4	latinworks19wycl=elemosne | johanniswyclift00mattgoog=elemosine | johanniswyclift01mattgoog=elemogine | tractatusdepotes00wycl=elemosne	433	2213,2042,2427,2090
+372	106	R4	latinworks19wycl=uei | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=yg | tractatusdepotes00wycl=uei	433	769,2216,925,2265
+372	136	NW	latinworks19wycl=peiorasset | johanniswyclift00mattgoog=peiorasset | johanniswyclift01mattgoog=peiorasset | tractatusdepotes00wycl=peiorasset	433	1920,2570,2294,2636
+372	172	NW	latinworks19wycl=proprietanos | johanniswyclift00mattgoog=proprietaries | johanniswyclift01mattgoog=proprietanos | tractatusdepotes00wycl=proprietanos	433	1115,3107,1592,3166
+374	30	NW	latinworks19wycl=iocale | johanniswyclift00mattgoog=iocale | johanniswyclift01mattgoog=iocale | tractatusdepotes00wycl=iocale	435	1362,981,1599,1032
+374	60	INS?	i	435	880,1421,1258,1473
+374	148	NW	latinworks19wycl=dommorum | johanniswyclift00mattgoog=dommorum | johanniswyclift01mattgoog=dominorum | tractatusdepotes00wycl=dommorum	435	1885,2486,2299,2531
+374	149	NW	latinworks19wycl=mduratum | johanniswyclift00mattgoog=mduratum | johanniswyclift01mattgoog=induratum | tractatusdepotes00wycl=mduratum	435	2299,2498,2383,2531
+374	187	R3	latinworks19wycl=iacmus | johanniswyclift01mattgoog=facinus | tractatusdepotes00wycl=racinus	435	2158,2937,2385,2972
+374	189	R3	latinworks19wycl=defendunt | johanniswyclift01mattgoog=defendunt | tractatusdepotes00wycl=detendunt	435	849,3009,1235,3061
+375	73	R4	latinworks19wycl=repum | johanniswyclift00mattgoog=recfum | johanniswyclift01mattgoog=reiium | tractatusdepotes00wycl=resfum	436	1264,1490,1563,1541
+375	85	NW	latinworks19wycl=extmguere | johanniswyclift00mattgoog=extmguere | johanniswyclift01mattgoog=extmguere | tractatusdepotes00wycl=extinguere	436	619,1670,1067,1736
+375	150	R4	latinworks19wycl=inde | johanniswyclift00mattgoog=hide | johanniswyclift01mattgoog=hide | tractatusdepotes00wycl=inde	436	1585,2460,1766,2512
+375	152	R3	latinworks19wycl=semet | johanniswyclift00mattgoog=semel | johanniswyclift01mattgoog=scmel | tractatusdepotes00wycl=semet	436	1852,2466,2025,2513
+375	163	R3	latinworks19wycl=ut | johanniswyclift00mattgoog=nt | johanniswyclift01mattgoog=itt | tractatusdepotes00wycl=ut	436	1336,2638,1447,2687
+375	164	NW	latinworks19wycl=subiectis | johanniswyclift00mattgoog=snbiectis | johanniswyclift01mattgoog=snbiectis | tractatusdepotes00wycl=siibiectis	436	1447,2638,1762,2689
+375	201	THIN	latinworks19wycl=conuenire | tractatusdepotes00wycl=conuenire	436	631,3167,1017,3219
+375	202	THIN	latinworks19wycl=qualiter | tractatusdepotes00wycl=qualiter	436	1017,3166,1318,3230
+375	216	R3	latinworks19wycl=iusticia | johanniswyclift00mattgoog=insticia | johanniswyclift01mattgoog=iuslida | tractatusdepotes00wycl=iusticia	436	994,3344,1278,3395
+376	24	R3	latinworks19wycl=iudicare | johanniswyclift00mattgoog=indicare | tractatusdepotes00wycl=iudicare	437	1817,870,2140,933
+376	133	R3	latinworks19wycl=regem | johanniswyclift00mattgoog=regent | johanniswyclift01mattgoog=regent | tractatusdepotes00wycl=regem	437	2201,2287,2417,2341
+376	181	R3	latinworks19wycl=mutti | johanniswyclift00mattgoog=multi | johanniswyclift01mattgoog=niulli | tractatusdepotes00wycl=multi	437	1921,2981,2135,3032
+376	194	R4	latinworks19wycl=hostiuiu | johanniswyclift00mattgoog=hostiuiti | johanniswyclift01mattgoog=hostiuni | tractatusdepotes00wycl=hosthim	437	1859,3157,2136,3208
+377	35	R4	latinworks19wycl=piacuhim | johanniswyclift00mattgoog=piaculum | johanniswyclift01mattgoog=piaculum | tractatusdepotes00wycl=piacuhim	438	672,1058,1031,1122
+377	44	NW	latinworks19wycl=iiliorum | johanniswyclift00mattgoog=iiliorum | johanniswyclift01mattgoog=iiliornw | tractatusdepotes00wycl=filiorum	438	1388,1143,1704,1209
+377	73	THIN	latinworks19wycl=popuiorum | tractatusdepotes00wycl=populorum	438	1373,1497,1757,1561
+377	74	THIN	latinworks19wycl=tutamentum | tractatusdepotes00wycl=tutamentum	438	1757,1498,2043,1545
+377	197	NW	latinworks19wycl=seo | johanniswyclift00mattgoog=seo | johanniswyclift01mattgoog=seo | tractatusdepotes00wycl=seo	438	1964,3098,2049,3131
+377	198	NW	latinworks19wycl=cundum | johanniswyclift00mattgoog=cundum | johanniswyclift01mattgoog=cundum | tractatusdepotes00wycl=cundum	438	386,3170,705,3220
+377	204	R4	latinworks19wycl=imperfecti | johanniswyclift00mattgoog=imperfect | johanniswyclift01mattgoog=imperfect | tractatusdepotes00wycl=imperfecti	438	639,3257,1025,3324
+378	46	R6	latinworks19wycl=or | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=or	439	663,1244,832,1295
+378	127	THIN	latinworks19wycl=xxuquestione | johanniswyclift01mattgoog=xxuquestione	439	755,2301,1309,2369
+378	128	THIN	latinworks19wycl=suut | johanniswyclift01mattgoog=sunt	439	1309,2302,1478,2354
+378	129	THIN	latinworks19wycl=quidam | johanniswyclift01mattgoog=iiiiidam	439	1478,2303,1774,2369
+378	213	THIN	latinworks19wycl=s	439	838,3562,901,3596
+378	218	THIN	latinworks19wycl=qfiicium	439	1431,3559,1629,3607
+378	219	THIN	latinworks19wycl=tmpedtens	439	1629,3561,1859,3607
+379	57	R3	latinworks19wycl=quis | johanniswyclift00mattgoog=onis | johanniswyclift01mattgoog=inis | tractatusdepotes00wycl=quis	440	725,1327,904,1395
+379	102	NW	latinworks19wycl=diocesi | johanniswyclift00mattgoog=diocesi | johanniswyclift01mattgoog=diocesi | tractatusdepotes00wycl=diocesi	440	687,1858,941,1907
+379	106	R4	latinworks19wycl=turbac | johanniswyclift00mattgoog=turbacio | johanniswyclift01mattgoog=turbacio | tractatusdepotes00wycl=turbac	440	1764,1858,2189,1906
+379	178	INS?	ii	440	376,2911,607,2965
+379	236	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | tractatusdepotes00wycl=illa	440	1397,3620,1535,3671
+380	1	THIN	latinworks19wycl=reem	441	1101,626,1330,686
+380	15	R3	latinworks19wycl=ieremias | johanniswyclift00mattgoog=leremias | johanniswyclift01mattgoog=leremias | tractatusdepotes00wycl=ieremias	441	1281,802,1592,851
+380	133	INS?	rata	441	924,2386,1287,2436
+380	203	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	441	1468,3357,1593,3410
+381	27	R4	latinworks19wycl=bisfamis | johanniswyclift00mattgoog=bicfamis | johanniswyclift01mattgoog=3biifamis | tractatusdepotes00wycl=biefamis	442	386,965,680,1024
+381	98	R4	latinworks19wycl=5uel | johanniswyclift00mattgoog=uel | johanniswyclift01mattgoog=5uel | tractatusdepotes00wycl=uel	442	319,1844,522,1894
+381	180	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	442	745,2902,880,2957
+382	183	NW	latinworks19wycl=parificatur | johanniswyclift00mattgoog=parificatur | johanniswyclift01mattgoog=parificatur | tractatusdepotes00wycl=parificatur	443	1445,3076,1826,3144
+382	192	NW	latinworks19wycl=mulctare | johanniswyclift00mattgoog=mulctare | johanniswyclift01mattgoog=mulctares | tractatusdepotes00wycl=mulctare	443	2169,3165,2477,3215
+384	57	R4	latinworks19wycl=iufi | johanniswyclift00mattgoog=illud | johanniswyclift01mattgoog=iiimi | tractatusdepotes00wycl=n	445	1031,1299,1224,1350
+385	7	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	446	563,711,753,762
+385	16	R4	latinworks19wycl=couiunxit | johanniswyclift00mattgoog=conimixity | johanniswyclift01mattgoog=cohiuuxii | tractatusdepotes00wycl=coniuuxit	446	762,799,1102,856
+385	102	NW	latinworks19wycl=ligam | johanniswyclift00mattgoog=ligam | johanniswyclift01mattgoog=ligam | tractatusdepotes00wycl=ligam	446	1860,1944,2037,2014
+386	22	R3	latinworks19wycl=congregare | johanniswyclift00mattgoog=congregate | johanniswyclift01mattgoog=congregate | tractatusdepotes00wycl=congregare	447	1257,859,1679,926
+386	156	R3	latinworks19wycl=quam | johanniswyclift00mattgoog=uain | johanniswyclift01mattgoog=uani | tractatusdepotes00wycl=quam	447	712,2538,928,2599
+387	64	R3	latinworks19wycl=tu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=tu	448	715,1413,831,1464
+387	80	R3	latinworks19wycl=cuni | johanniswyclift01mattgoog=cmn | tractatusdepotes00wycl=cum	448	785,1591,955,1641
+387	114	R4	latinworks19wycl=equales | johanniswyclift00mattgoog=equates | johanniswyclift01mattgoog=equates | tractatusdepotes00wycl=equales	448	1486,1940,1767,2007
+387	128	R3	latinworks19wycl=uesciebat | johanniswyclift01mattgoog=nesciebat | tractatusdepotes00wycl=nesciebat	448	1202,2119,1533,2179
+387	162	R3	latinworks19wycl=ae | johanniswyclift01mattgoog=ne | tractatusdepotes00wycl=ne	448	1393,2559,1505,2609
+388	4	THIN	latinworks19wycl=intoxicat | tractatusdepotes00wycl=intoxicat	449	1839,524,2138,577
+388	5	THIN	latinworks19wycl=ani | tractatusdepotes00wycl=ani	449	2138,528,2259,578
+388	6	THIN	latinworks19wycl=mum | tractatusdepotes00wycl=mum	449	600,625,797,662
+388	76	R4	latinworks19wycl=ouinta | johanniswyclift00mattgoog=quinta | johanniswyclift01mattgoog=quinta | tractatusdepotes00wycl=ouinta	449	670,1577,909,1631
+388	85	THIN	latinworks19wycl=euanoelica | johanniswyclift01mattgoog=euanffelica	449	910,1666,1293,1718
+388	86	THIN	latinworks19wycl=i | johanniswyclift01mattgoog=i	449	1293,1666,1333,1719
+388	87	THIN	latinworks19wycl=inducendi | johanniswyclift01mattgoog=inducendi	449	1333,1667,1699,1718
+388	138	R3	latinworks19wycl=facit | johanniswyclift00mattgoog=facii | johanniswyclift01mattgoog=facil | tractatusdepotes00wycl=facit	449	1577,2284,1771,2350
+388	140	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=metis | tractatusdepotes00wycl=meus	449	2097,2300,2259,2335
+388	149	R4	latinworks19wycl=inopinate | johanniswyclift00mattgoog=inopinaie | johanniswyclift01mattgoog=inopinaie | tractatusdepotes00wycl=inopinate	449	800,2463,1149,2528
+388	168	R4	latinworks19wycl=uerlit | johanniswyclift00mattgoog=uertit | johanniswyclift01mattgoog=uerlit | tractatusdepotes00wycl=uertit	449	592,2726,783,2776
+388	202	R4	latinworks19wycl=prediis | johanniswyclift00mattgoog=predus | johanniswyclift01mattgoog=prediis | tractatusdepotes00wycl=predus	449	896,3253,1161,3322
+389	6	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	450	474,727,601,779
+389	26	NW	latinworks19wycl=testinacionem | johanniswyclift00mattgoog=testinacionem | johanniswyclift01mattgoog=testinacionem | tractatusdepotes00wycl=testinacionem	450	477,990,984,1043
+389	115	R3	latinworks19wycl=metum | johanniswyclift00mattgoog=metunt | johanniswyclift01mattgoog=tnetum | tractatusdepotes00wycl=metum	450	1917,2056,2132,2102
+389	193	R4	latinworks19wycl=interopellet | johanniswyclift00mattgoog=interpellet | johanniswyclift01mattgoog=interpellet | tractatusdepotes00wycl=interopellet	450	1950,3109,2150,3160
+390	142	R3	latinworks19wycl=ruine | johanniswyclift00mattgoog=rttine | johanniswyclift01mattgoog=mine | tractatusdepotes00wycl=ruine	451	836,2394,1012,2444
+390	143	R6	latinworks19wycl=to | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=to	451	560,2479,700,2529
+390	164	INS?	precipites	451	973,2745,1299,2810
+390	184	R3	latinworks19wycl=tiniuerunt | johanniswyclift01mattgoog=timuerunt | tractatusdepotes00wycl=timuerunt	451	2217,2923,2289,2972
+391	125	R3	latinworks19wycl=curaui | johanniswyclift01mattgoog=ciirain | tractatusdepotes00wycl=curam	452	1861,2305,2067,2340
+391	132	R4	latinworks19wycl=egruiu | johanniswyclift00mattgoog=egrutn | johanniswyclift01mattgoog=egritut | tractatusdepotes00wycl=egruni	452	1865,2388,2067,2443
+391	151	R4	latinworks19wycl=2 | johanniswyclift00mattgoog=23specularis | tractatusdepotes00wycl=∅	452	329,2729,402,2779
+391	193	R3	latinworks19wycl=approbat | johanniswyclift00mattgoog=approbate | tractatusdepotes00wycl=approbat	452	1210,3260,1550,3325
+391	213	R3	latinworks19wycl=proficeret | johanniswyclift00mattgoog=proficeret | johanniswyclift01mattgoog=ruficetet | tractatusdepotes00wycl=proiiceret	452	1018,3521,1364,3589
+392	49	NW	latinworks19wycl=preficiendo | johanniswyclift00mattgoog=preficiendo | johanniswyclift01mattgoog=preficiendo | tractatusdepotes00wycl=preficiendo	453	1976,1244,2342,1311
+392	109	INS?	i	453	902,2212,1195,2263
+392	170	R3	latinworks19wycl=contemplacione | johanniswyclift00mattgoog=coniemplacione | johanniswyclift01mattgoog=coittewpliciotte | tractatusdepotes00wycl=contemplacioue	453	1875,2915,2351,2986
+393	31	R3	latinworks19wycl=iudicia | johanniswyclift00mattgoog=indicia | tractatusdepotes00wycl=iudicia	454	1264,965,1522,1015
+393	33	R3	latinworks19wycl=uento | johanniswyclift00mattgoog=uenio | tractatusdepotes00wycl=uento	454	1908,967,2063,1014
+393	46	R4	latinworks19wycl=compesceret | johanniswyclift00mattgoog=compescerel | johanniswyclift01mattgoog=compescerel | tractatusdepotes00wycl=compesceret	454	1676,1144,2063,1206
+393	59	R4	latinworks19wycl=ebrietate | johanniswyclift00mattgoog=ebrielate | johanniswyclift01mattgoog=ebrielate | tractatusdepotes00wycl=ebrietate	454	1320,1317,1642,1382
+393	67	R3	latinworks19wycl=uite | johanniswyclift00mattgoog=uile | johanniswyclift01mattgoog=uile | tractatusdepotes00wycl=uite	454	1302,1404,1471,1456
+393	76	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	454	1722,1493,1857,1545
+393	138	R3	latinworks19wycl=iudicia | johanniswyclift00mattgoog=indicia | johanniswyclift01mattgoog=indicia | tractatusdepotes00wycl=iudicia	454	574,2378,865,2443
+393	144	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu	454	400,2466,497,2517
+393	167	R3	latinworks19wycl=fouis | johanniswyclift00mattgoog=oris | johanniswyclift01mattgoog=oris | tractatusdepotes00wycl=foris	454	1186,2730,1383,2795
+393	180	THIN	latinworks19wycl=stuito | tractatusdepotes00wycl=stulto	454	1341,2908,1536,2959
+393	199	THIN	latinworks19wycl=o | tractatusdepotes00wycl=∅	454	331,3173,398,3223
+393	200	THIN	latinworks19wycl=erudiendos | tractatusdepotes00wycl=erudiendos	454	398,3173,777,3223
+393	201	THIN	latinworks19wycl=populos | tractatusdepotes00wycl=popuios	454	777,3172,1072,3239
+393	203	NW	latinworks19wycl=archana | johanniswyclift00mattgoog=arcliana | johanniswyclift01mattgoog=arcftatta | tractatusdepotes00wycl=archana	454	1452,3174,1750,3224
+393	224	THIN	latinworks19wycl=uon	454	1628,3439,1795,3488
+394	7	THIN	latinworks19wycl=presnni | tractatusdepotes00wycl=presunt	455	820,654,1147,721
+394	167	R4	latinworks19wycl=onus | johanniswyclift00mattgoog=onusa | johanniswyclift01mattgoog=onusa | tractatusdepotes00wycl=onus	455	2202,2686,2371,2729
+394	199	R4	latinworks19wycl=patrimonn | johanniswyclift00mattgoog=patnmonu | johanniswyclift01mattgoog=iiatrimonii | tractatusdepotes00wycl=patrimonu	455	1652,3212,2058,3273
+395	194	R5	latinworks19wycl=dampnmcauerat | johanniswyclift00mattgoog=dampniiicauerat | tractatusdepotes00wycl=dampnmcauerat	456	1290,3256,1871,3321
+396	43	R3	latinworks19wycl=opposito | johanniswyclift00mattgoog=opposite | johanniswyclift01mattgoog=opposite | tractatusdepotes00wycl=opposito	457	1977,994,2300,1062
+396	109	R4	latinworks19wycl=s | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=ihta | tractatusdepotes00wycl=∅	457	664,1877,850,1926
+396	137	INS?	intendo	457	781,2235,1011,2302
+398	0	HEAD	Pape.	459	1462,1315,1684,1412
+398	2	GAP	W. Pape. Senteneia	459	1158,1491,1320,1543
+398	143	R3	latinworks19wycl=creatura | johanniswyclift00mattgoog=creaaf | johanniswyclift01mattgoog=crea | tractatusdepotes00wycl=creatura	459	2262,3445,2413,3480
+399	194	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	460	1065,3326,1266,3378
+400	148	R3	latinworks19wycl=primo | johanniswyclift00mattgoog=prime | johanniswyclift01mattgoog=priitio | tractatusdepotes00wycl=primo	461	668,2660,908,2711
+400	221	INS?	siam	461	876,3632,1026,3682
+400	232	INS?	ct negans illam uniuersalem potestatem	461	1999,3727,2098,3770
+401	139	R5	latinworks19wycl=quodprobat | johanniswyclift01mattgoog=quodprobat | tractatusdepotes00wycl=quodprobat	462	403,2555,830,2622
+401	173	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa	462	1676,2996,1813,3047
+402	82	R3	latinworks19wycl=nomine | johanniswyclift00mattgoog=uomine | johanniswyclift01mattgoog=homine | tractatusdepotes00wycl=nomine	463	1510,1645,1767,1695
+402	87	R3	latinworks19wycl=sunt | johanniswyclift01mattgoog=sum | tractatusdepotes00wycl=sum	463	851,1731,1044,1783
+402	99	R4	latinworks19wycl=concertantibus | johanniswyclift00mattgoog=concertandbus | johanniswyclift01mattgoog=concertantibus | tractatusdepotes00wycl=concertandbus	463	2019,1825,2389,1870
+402	192	INS?	i	463	996,3143,1178,3195
+404	1	THIN	latinworks19wycl=stul | tractatusdepotes00wycl=stul	465	908,609,1059,661
+404	106	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum	465	1116,2102,1318,2153
+404	159	R4	latinworks19wycl=terc | johanniswyclift00mattgoog=tercio | johanniswyclift01mattgoog=tercio | tractatusdepotes00wycl=terc	465	2149,2722,2387,2774
+405	184	R4	latinworks19wycl=dembeat | johanniswyclift00mattgoog=desobeat | johanniswyclift01mattgoog=debeat | tractatusdepotes00wycl=desobeat	466	1978,3075,2074,3124
+406	7	NW	latinworks19wycl=elleccione | johanniswyclift00mattgoog=elleccione | johanniswyclift01mattgoog=elleccione | tractatusdepotes00wycl=elleccione	467	1325,655,1719,706

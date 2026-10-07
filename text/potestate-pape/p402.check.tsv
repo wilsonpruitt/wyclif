@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+26	R3a	latinworks19wycl=ambulare | johanniswyclift00mattgoog=ambulare | johanniswyclift01mattgoog=ambulate | tractatusdepotes00wycl=ambulare		4	accept
+79	R2	latinworks19wycl=multi | johanniswyclift00mattgoog=mnlti | johanniswyclift01mattgoog=mtilti | tractatusdepotes00wycl=multi		4	accept
+82	R3	latinworks19wycl=nomine | johanniswyclift00mattgoog=uomine | johanniswyclift01mattgoog=homine | tractatusdepotes00wycl=nomine		4	plate
+83	R2	latinworks19wycl=meo | johanniswyclift00mattgoog=nteo | johanniswyclift01mattgoog=weo | tractatusdepotes00wycl=meo		4	accept
+87	R3	latinworks19wycl=sunt | johanniswyclift01mattgoog=sum | tractatusdepotes00wycl=sum		3	plate
+99	R4	latinworks19wycl=concertantibus | johanniswyclift00mattgoog=concertandbus | johanniswyclift01mattgoog=concertantibus | tractatusdepotes00wycl=concertandbus		4	plate
+107	R3a	latinworks19wycl=beati | johanniswyclift00mattgoog=beat | johanniswyclift01mattgoog=beati | tractatusdepotes00wycl=beati		4	accept
+142	R3a	latinworks19wycl=pape | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=pape | tractatusdepotes00wycl=pape		4	accept
+192	INS?	i	2	4	plate

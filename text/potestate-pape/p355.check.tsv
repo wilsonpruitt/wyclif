@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+19	R2	latinworks19wycl=sed | johanniswyclift00mattgoog=sad | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed		4	accept
+40	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=at | tractatusdepotes00wycl=et		4	accept
+195	INS?	i	2	4	plate
+217	R3a	latinworks19wycl=contemptum | johanniswyclift00mattgoog=eon | johanniswyclift01mattgoog=contemptum | tractatusdepotes00wycl=contemptum		4	accept
+223	EDGE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept
+224	EDGE	latinworks19wycl=sit | tractatusdepotes00wycl=sit		2	accept
+225	EDGE	latinworks19wycl=fides | tractatusdepotes00wycl=fides		2	accept
+226	EDGE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept
+227	EDGE	latinworks19wycl=elemosina | tractatusdepotes00wycl=elemosina		2	accept

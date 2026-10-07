@@ -1,0 +1,25 @@
+pos	rule	forms	support	voters	resolution
+13	R2	latinworks19wycl=agrum | johanniswyclift00mattgoog=agrum | johanniswyclift01mattgoog=agrtim | tractatusdepotes00wycl=agrum		4	accept
+16	R2	latinworks19wycl=iniquitatis | johanniswyclift00mattgoog=iniquitaiis | johanniswyclift01mattgoog=iuiqnitaiis | tractatusdepotes00wycl=iniquitatis		4	accept
+19	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+22	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
+46	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=romana | tractatusdepotes00wycl=romana		4	accept
+97	R5a	latinworks19wycl=rom | johanniswyclift00mattgoog=rom | johanniswyclift01mattgoog=rom | tractatusdepotes00wycl=rom		4	accept
+109	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept
+112	R3a	latinworks19wycl=paulus | johanniswyclift00mattgoog=paulus | johanniswyclift01mattgoog=paulas | tractatusdepotes00wycl=paulus		4	accept
+123	R3	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deiis | tractatusdepotes00wycl=deus		4	plate
+124	R2	latinworks19wycl=cui | johanniswyclift00mattgoog=cni | johanniswyclift01mattgoog=cut | tractatusdepotes00wycl=cui		4	accept
+127	R2	latinworks19wycl=spiritu | johanniswyclift00mattgoog=spiritu | johanniswyclift01mattgoog=spiriln | tractatusdepotes00wycl=spiritu		4	accept
+128	R3a	latinworks19wycl=meo | johanniswyclift00mattgoog=meo | johanniswyclift01mattgoog=ineo | tractatusdepotes00wycl=meo		4	accept
+132	R2	latinworks19wycl=eiiisy | johanniswyclift01mattgoog=eius | tractatusdepotes00wycl=eius		3	accept
+136	R2	latinworks19wycl=memoriam | johanniswyclift00mattgoog=memoriam | johanniswyclift01mattgoog=utemoriatn | tractatusdepotes00wycl=memoriam		4	accept
+138	R3a	latinworks19wycl=facio | johanniswyclift00mattgoog=faeio | johanniswyclift01mattgoog=facto | tractatusdepotes00wycl=facio		4	accept
+179	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+186	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
+191	R3a	latinworks19wycl=sanctam | johanniswyclift00mattgoog=sanctum | johanniswyclift01mattgoog=sanclam | tractatusdepotes00wycl=sanctam		4	accept
+212	R2	latinworks19wycl=tunm | johanniswyclift00mattgoog=tuum | johanniswyclift01mattgoog=inttni | tractatusdepotes00wycl=tuum		4	accept
+215	R2	latinworks19wycl=uerum | johanniswyclift00mattgoog=uerum | johanniswyclift01mattgoog=uernni | tractatusdepotes00wycl=uerum		4	accept
+224	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
+227	EDGE	latinworks19wycl=pontifices | tractatusdepotes00wycl=pontifices		2	accept
+228	EDGE	latinworks19wycl=quod | tractatusdepotes00wycl=quod		2	accept
+229	EDGE	latinworks19wycl=imperatore | tractatusdepotes00wycl=imperatore		2	accept

@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+19	R3a	latinworks19wycl=fures | johanniswyclift00mattgoog=fores | johanniswyclift01mattgoog=fares | tractatusdepotes00wycl=fures		4	accept
+46	R2	latinworks19wycl=plus | johanniswyclift00mattgoog=phis | johanniswyclift01mattgoog=plus | tractatusdepotes00wycl=plus		4	accept
+60	R2	latinworks19wycl=et | johanniswyclift00mattgoog=t | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+73	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=iuud | tractatusdepotes00wycl=quod		4	accept
+94	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nun | tractatusdepotes00wycl=non		4	accept
+96	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+111	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+125	R3	latinworks19wycl=curaui | johanniswyclift01mattgoog=ciirain | tractatusdepotes00wycl=curam		3	plate
+129	R2	latinworks19wycl=suscipit | johanniswyclift00mattgoog=suscipit | johanniswyclift01mattgoog=siiscfpi | tractatusdepotes00wycl=suscipit		4	accept
+130	R2	latinworks19wycl=quasi | johanniswyclift00mattgoog=quasi | johanniswyclift01mattgoog=citiasi | tractatusdepotes00wycl=quasi		4	accept
+131	R3a	latinworks19wycl=acl | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=ad		4	accept
+132	R4	latinworks19wycl=egruiu | johanniswyclift00mattgoog=egrutn | johanniswyclift01mattgoog=egritut | tractatusdepotes00wycl=egruni		4	plate
+133	R2	latinworks19wycl=medicus | johanniswyclift00mattgoog=medicns | johanniswyclift01mattgoog=mciicns | tractatusdepotes00wycl=medicus		4	accept
+142	R3a	latinworks19wycl=tam | johanniswyclift00mattgoog=tarn | johanniswyclift01mattgoog=tani | tractatusdepotes00wycl=tam		4	accept
+143	R2	latinworks19wycl=amplas | johanniswyclift00mattgoog=amplas | johanniswyclift01mattgoog=alraplas | tractatusdepotes00wycl=amplas		4	accept
+145	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nfn | tractatusdepotes00wycl=non		4	accept
+151	R4	latinworks19wycl=2 | johanniswyclift00mattgoog=23specularis | tractatusdepotes00wycl=∅		3	plate
+152	R2	latinworks19wycl=specularis | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=specularis		3	accept
+166	R3a	latinworks19wycl=magis | johanniswyclift00mattgoog=magis | johanniswyclift01mattgoog=maiis | tractatusdepotes00wycl=magis		4	accept
+182	DEL	latinworks19wycl=o | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+193	R3	latinworks19wycl=approbat | johanniswyclift00mattgoog=approbate | tractatusdepotes00wycl=approbat		3	plate
+213	R3	latinworks19wycl=proficeret | johanniswyclift00mattgoog=proficeret | johanniswyclift01mattgoog=ruficetet | tractatusdepotes00wycl=proiiceret		4	plate

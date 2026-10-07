@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=is | tractatusdepotes00wycl=is		2	accept
+17	THIN	latinworks19wycl=antichnstum | tractatusdepotes00wycl=antichristum		2	plate
+18	THIN	latinworks19wycl=wiii | tractatusdepotes00wycl=wiii		2	plate
+19	THIN	latinworks19wycl=1 | tractatusdepotes00wycl=tercio		2	plate
+20	THIN	latinworks19wycl=ercio | tractatusdepotes00wycl=∅		2	plate
+60	R2	latinworks19wycl=it | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=it		4	accept
+67	R3a	latinworks19wycl=gfradu | johanniswyclift00mattgoog=cfradu | johanniswyclift01mattgoog=gradu | tractatusdepotes00wycl=gfradu		4	accept
+76	R4a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=ln		4	accept
+80	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=aniem | tractatusdepotes00wycl=autem		4	accept
+83	R2	latinworks19wycl=sum | johanniswyclift00mattgoog=stun | johanniswyclift01mattgoog=sum | tractatusdepotes00wycl=sum		4	accept
+84	R3a	latinworks19wycl=cuicumque | johanniswyclift00mattgoog=cuicumquc | johanniswyclift01mattgoog=cnicumque | tractatusdepotes00wycl=cuicumque		4	accept
+87	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=qtiam | johanniswyclift01mattgoog=qiiam | tractatusdepotes00wycl=quam		4	accept
+92	R3a	latinworks19wycl=pocior | johanniswyclift00mattgoog=pocior | johanniswyclift01mattgoog=pociori | tractatusdepotes00wycl=pocior		4	accept
+114	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+123	R2	latinworks19wycl=sed | johanniswyclift00mattgoog=gd | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed		4	accept
+130	R3a	latinworks19wycl=antichristus | johanniswyclift00mattgoog=anti | johanniswyclift01mattgoog=antichristus | tractatusdepotes00wycl=antichristus		4	accept
+131	R2	latinworks19wycl=tunc | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=tunc | tractatusdepotes00wycl=tunc		4	accept
+165	R2	latinworks19wycl=et | johanniswyclift00mattgoog=t | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept

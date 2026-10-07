@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+10	R5a	latinworks19wycl=p | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=p | tractatusdepotes00wycl=p		4	accept
+124	R2	latinworks19wycl=limicapitulum | johanniswyclift00mattgoog=limitata | johanniswyclift01mattgoog=limitata | tractatusdepotes00wycl=litiiitata		4	accept
+125	INS	capitulum	3	4	accept
+148	R3	latinworks19wycl=primo | johanniswyclift00mattgoog=prime | johanniswyclift01mattgoog=priitio | tractatusdepotes00wycl=primo		4	plate
+220	R2	latinworks19wycl=ecclesiam | johanniswyclift00mattgoog=eccle3 | johanniswyclift01mattgoog=eccie5 | tractatusdepotes00wycl=ecclesiam		4	accept
+221	INS?	siam	2	4	plate
+232	INS?	ct negans illam uniuersalem potestatem	2	4	plate
+232	EDGE	latinworks19wycl=et | johanniswyclift01mattgoog=et		2	accept
+233	EDGE	latinworks19wycl=negans | johanniswyclift01mattgoog=negans		2	accept

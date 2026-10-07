@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+19	R4	latinworks19wycl=morali | johanniswyclift00mattgoog=moral | johanniswyclift01mattgoog=moral | tractatusdepotes00wycl=morali		4	plate
+20	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+29	R3a	latinworks19wycl=habent | johanniswyclift00mattgoog=habeat | johanniswyclift01mattgoog=habent | tractatusdepotes00wycl=habent		4	accept
+31	NW	latinworks19wycl=spintualibus | johanniswyclift00mattgoog=spirituaubus | johanniswyclift01mattgoog=spirituahbus | tractatusdepotes00wycl=spintualibus		4	plate
+32	NW	latinworks19wycl=mcertum | johanniswyclift00mattgoog=incertum | johanniswyclift01mattgoog=mcertum | tractatusdepotes00wycl=mcertum		4	plate
+62	R2	latinworks19wycl=fixis | johanniswyclift00mattgoog=fixis | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fixis		4	accept
+99	R2	latinworks19wycl=imaginatur | johanniswyclift00mattgoog=imaginatur | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=imaginatur		4	accept
+112	R2	latinworks19wycl=uideres | johanniswyclift00mattgoog=uideres | johanniswyclift01mattgoog=iimaginatur | tractatusdepotes00wycl=uideres		4	accept
+115	R2	latinworks19wycl=animam | johanniswyclift00mattgoog=animafh | johanniswyclift01mattgoog=animatti | tractatusdepotes00wycl=animam		4	accept
+117	R2	latinworks19wycl=trementem | johanniswyclift00mattgoog=trementem | johanniswyclift01mattgoog=trementcni | tractatusdepotes00wycl=trementem		4	accept
+118	R2	latinworks19wycl=uerecundantem | johanniswyclift00mattgoog=uerecundahtem | johanniswyclift01mattgoog=lauerecundattletu | tractatusdepotes00wycl=uerecundantem		4	accept
+166	R5a	latinworks19wycl=p | johanniswyclift00mattgoog=p | johanniswyclift01mattgoog=p | tractatusdepotes00wycl=p		4	accept
+192	R2	latinworks19wycl=ysrahel | johanniswyclift00mattgoog=ysrahel | johanniswyclift01mattgoog=ysralid | tractatusdepotes00wycl=ysrahel		4	accept

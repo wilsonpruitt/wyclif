@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+3	R6a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petnis | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+6	R2	latinworks19wycl=membrum | johanniswyclift00mattgoog=membinim | johanniswyclift01mattgoog=membrum | tractatusdepotes00wycl=membrum		4	accept
+33	R3a	latinworks19wycl=sacerdos | johanniswyclift00mattgoog=sacerdos | johanniswyclift01mattgoog=sacer | tractatusdepotes00wycl=sacerdos		4	accept
+47	R3a	latinworks19wycl=dommi | johanniswyclift00mattgoog=domini | johanniswyclift01mattgoog=domini | tractatusdepotes00wycl=domini		4	accept
+79	R3	latinworks19wycl=e | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed		4	plate
+87	R3	latinworks19wycl=cta | johanniswyclift00mattgoog=nullus | johanniswyclift01mattgoog=dicta | tractatusdepotes00wycl=icta		4	plate
+88	R2	latinworks19wycl=nuuns | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=nullus | tractatusdepotes00wycl=nullus		4	accept
+108	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+135	DEL	latinworks19wycl=must | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+161	R4	latinworks19wycl=quias | johanniswyclift00mattgoog=quias | johanniswyclift01mattgoog=quia | tractatusdepotes00wycl=quia2d		4	plate

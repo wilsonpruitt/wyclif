@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=est | tractatusdepotes00wycl=est		2	accept
+1	THIN	latinworks19wycl=cottidiana | tractatusdepotes00wycl=cottidiana		2	plate
+2	EDGE	latinworks19wycl=necessitas | tractatusdepotes00wycl=necessitas		2	accept
+5	R5	latinworks19wycl=offerrendi | johanniswyclift00mattgoog=offerrendi | tractatusdepotes00wycl=offerrendi		3	plate
+20	R2	latinworks19wycl=utroque | johanniswyclift00mattgoog=utroque | johanniswyclift01mattgoog=ulroqiie | tractatusdepotes00wycl=utroque		4	accept
+22	R2	latinworks19wycl=utuntur | johanniswyclift00mattgoog=utuntur | johanniswyclift01mattgoog=uinutur | tractatusdepotes00wycl=utuntur		4	accept
+32	R2	latinworks19wycl=duplex | johanniswyclift00mattgoog=duplex | johanniswyclift01mattgoog=dui | tractatusdepotes00wycl=duplex		4	accept
+76	R3a	latinworks19wycl=ideo | johanniswyclift00mattgoog=ideo | johanniswyclift01mattgoog=idea | tractatusdepotes00wycl=ideo		4	accept
+77	R2	latinworks19wycl=uocatur | johanniswyclift00mattgoog=uocatur | johanniswyclift01mattgoog=uocainr | tractatusdepotes00wycl=uocatur		4	accept
+81	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=ut		4	accept
+84	R2	latinworks19wycl=muudicianu | johanniswyclift00mattgoog=mundiciam | johanniswyclift01mattgoog=ntundiciam | tractatusdepotes00wycl=mundiciam		4	accept
+90	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=ill | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
+99	R2	latinworks19wycl=ouinta | johanniswyclift00mattgoog=quinta | johanniswyclift01mattgoog=oiiinta | tractatusdepotes00wycl=quinta		4	accept
+110	NW	latinworks19wycl=planeta | johanniswyclift00mattgoog=planeta | johanniswyclift01mattgoog=planeta | tractatusdepotes00wycl=planeta		4	plate
+146	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autent | johanniswyclift01mattgoog=autem | tractatusdepotes00wycl=autem		4	accept
+148	R2	latinworks19wycl=fortitudinem | johanniswyclift00mattgoog=fortitudinem | johanniswyclift01mattgoog=foriiiudinetn | tractatusdepotes00wycl=fortitudinem		4	accept
+164	R2	latinworks19wycl=onirf | johanniswyclift00mattgoog=onichini | johanniswyclift01mattgoog=onichiui | tractatusdepotes00wycl=onichini		4	accept
+165	DEL	latinworks19wycl=chini | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+173	R3a	latinworks19wycl=seuiorum | johanniswyclift00mattgoog=seniorum | johanniswyclift01mattgoog=seniorum | tractatusdepotes00wycl=seniorum		4	accept
+212	EDGE	latinworks19wycl=simplici | tractatusdepotes00wycl=simplici		2	accept
+213	EDGE	latinworks19wycl=ueritati | tractatusdepotes00wycl=ueritati		2	accept

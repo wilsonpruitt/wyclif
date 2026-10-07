@@ -1,0 +1,39 @@
+pos	rule	forms	support	voters	resolution
+12	R2	latinworks19wycl=primo | johanniswyclift00mattgoog=primo | johanniswyclift01mattgoog=prirao | tractatusdepotes00wycl=primo		4	accept
+74	R2	latinworks19wycl=sciat | johanniswyclift00mattgoog=saa | johanniswyclift01mattgoog=sciat | tractatusdepotes00wycl=sciat		4	accept
+77	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=sicui | johanniswyclift01mattgoog=sicui | tractatusdepotes00wycl=sicut		4	plate
+81	R2	latinworks19wycl=primtis | johanniswyclift00mattgoog=primus | johanniswyclift01mattgoog=prinins | tractatusdepotes00wycl=primus		4	accept
+85	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	plate
+99	R2	latinworks19wycl=sub | johanniswyclift00mattgoog=sub | johanniswyclift01mattgoog=sub | tractatusdepotes00wycl=siib		4	accept
+106	R2	latinworks19wycl=modo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=utodo | tractatusdepotes00wycl=modo		4	accept
+109	R4	latinworks19wycl=penafutura | johanniswyclift00mattgoog=penafutura | johanniswyclift01mattgoog=penafnlnra		3	plate
+110	R4	latinworks19wycl=habebit | johanniswyclift00mattgoog=habebii | johanniswyclift01mattgoog=habebii		3	plate
+126	R3a	latinworks19wycl=distinccione | johanniswyclift00mattgoog=si | johanniswyclift01mattgoog=distinccionexl | tractatusdepotes00wycl=distinccione		4	accept
+127	R3	latinworks19wycl=xl | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=xl		4	plate
+128	R3	latinworks19wycl=sipapa | johanniswyclift00mattgoog=quo | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=sipapa		4	plate
+129	R3	latinworks19wycl=quomodo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=ottomodo | tractatusdepotes00wycl=quomodo		4	plate
+150	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=til | tractatusdepotes00wycl=est		4	accept
+151	R2	latinworks19wycl=iusticie | johanniswyclift00mattgoog=iusticie | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=iusticie		4	accept
+152	R2	latinworks19wycl=uniuersorum | johanniswyclift00mattgoog=uniuersoritm | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=uniuersorum		4	accept
+153	R2	latinworks19wycl=ita | johanniswyclift00mattgoog=iia | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ita		4	accept
+154	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=et		4	accept
+155	R2	latinworks19wycl=peccans | johanniswyclift00mattgoog=peccans | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=peccans		4	accept
+156	R2	latinworks19wycl=super | johanniswyclift00mattgoog=super | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=super		4	accept
+157	R2	latinworks19wycl=omnes | johanniswyclift00mattgoog=omnes | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=omnes		4	accept
+158	R2	latinworks19wycl=punitur | johanniswyclift00mattgoog=punitur | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=punitur		4	accept
+159	R3	latinworks19wycl=uou | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=non		4	plate
+160	R2	latinworks19wycl=solum | johanniswyclift00mattgoog=solum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=solum		4	accept
+161	R2	latinworks19wycl=propter | johanniswyclift00mattgoog=propter | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=propter		4	accept
+162	R2	latinworks19wycl=sua | johanniswyclift00mattgoog=sua | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sua		4	accept
+163	R2	latinworks19wycl=peccata | johanniswyclift00mattgoog=peccata | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=peccata		4	accept
+164	R2	latinworks19wycl=sed | johanniswyclift00mattgoog=sed | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sed		4	accept
+165	R2	latinworks19wycl=propter | johanniswyclift00mattgoog=propter | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=propter		4	accept
+166	R2	latinworks19wycl=omuium | johanniswyclift00mattgoog=omnium | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=omnium		4	accept
+167	R2	latinworks19wycl=quia | johanniswyclift00mattgoog=quia | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=quia		4	accept
+168	R2	latinworks19wycl=ipse | johanniswyclift00mattgoog=ipse | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ipse		4	accept
+169	R2	latinworks19wycl=causa | johanniswyclift00mattgoog=causa | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=causa		4	accept
+170	R2	latinworks19wycl=fit | johanniswyclift00mattgoog=fit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fit		4	accept
+172	R3a	latinworks19wycl=ad | johanniswyclift00mattgoog=ad | johanniswyclift01mattgoog=ai | tractatusdepotes00wycl=ad		4	accept
+181	R3a	latinworks19wycl=oui | johanniswyclift00mattgoog=quif | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=qui		4	accept
+183	R2	latinworks19wycl=fingunt | johanniswyclift00mattgoog=fingunt | johanniswyclift01mattgoog=iinguni | tractatusdepotes00wycl=fingunt		4	accept
+195	R2	latinworks19wycl=agunt | johanniswyclift00mattgoog=aguniso | johanniswyclift01mattgoog=agunt | tractatusdepotes00wycl=agunt		4	accept

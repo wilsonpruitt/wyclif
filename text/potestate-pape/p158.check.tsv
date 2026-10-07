@@ -1,0 +1,28 @@
+pos	rule	forms	support	voters	resolution
+11	R3a	latinworks19wycl=maxime | johanniswyclift00mattgoog=maxima | johanniswyclift01mattgoog=maxime | tractatusdepotes00wycl=maxime		4	accept
+35	R3a	latinworks19wycl=minimus | johanniswyclift00mattgoog=minimus | johanniswyclift01mattgoog=mittimus | tractatusdepotes00wycl=minimus		4	accept
+37	R2	latinworks19wycl=suus | johanniswyclift00mattgoog=suus | johanniswyclift01mattgoog=suits | tractatusdepotes00wycl=suus		4	accept
+38	R3a	latinworks19wycl=fuit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=nil | tractatusdepotes00wycl=fuit		4	accept
+50	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
+53	R4	latinworks19wycl=10 | johanniswyclift00mattgoog=lo | johanniswyclift01mattgoog=lo | tractatusdepotes00wycl=10		4	plate
+77	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus		4	accept
+143	R3a	latinworks19wycl=iste | johanniswyclift00mattgoog=iste | johanniswyclift01mattgoog=late | tractatusdepotes00wycl=iste		4	accept
+167	R2	latinworks19wycl=euangelium | johanniswyclift00mattgoog=euangelium | johanniswyclift01mattgoog=euaitgdinni | tractatusdepotes00wycl=euangelium		4	accept
+170	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=in		4	accept
+171	R3	latinworks19wycl=uniuerso | johanniswyclift00mattgoog=uniuerse | johanniswyclift01mattgoog=iihiucrso | tractatusdepotes00wycl=uniuerso		4	plate
+172	R2	latinworks19wycl=mundo | johanniswyclift00mattgoog=mundo | johanniswyclift01mattgoog=tnnndo | tractatusdepotes00wycl=mundo		4	accept
+216	R2	latinworks19wycl=quecumque | johanniswyclift00mattgoog=quecumque | johanniswyclift01mattgoog=quccurnqne | tractatusdepotes00wycl=quecumque		4	accept
+219	R2	latinworks19wycl=facite | johanniswyclift00mattgoog=facite | johanniswyclift01mattgoog=acife | tractatusdepotes00wycl=facite		4	accept
+225	R2	latinworks19wycl=dicunt | johanniswyclift00mattgoog=dicunt | johanniswyclift01mattgoog=dicuui | tractatusdepotes00wycl=dicunt		4	accept
+226	R2	latinworks19wycl=enim | johanniswyclift00mattgoog=enim | johanniswyclift01mattgoog=ettim | tractatusdepotes00wycl=enim		4	accept
+244	EDGE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept
+245	EDGE	latinworks19wycl=dicunt | tractatusdepotes00wycl=dicunt		2	accept
+246	EDGE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept
+247	EDGE	latinworks19wycl=faciunt | tractatusdepotes00wycl=faciunt		2	accept
+248	EDGE	latinworks19wycl=9 | tractatusdepotes00wycl=9		2	accept
+249	EDGE	latinworks19wycl=opp | tractatusdepotes00wycl=opp		2	accept
+250	EDGE	latinworks19wycl=tom | tractatusdepotes00wycl=tom		2	accept
+251	EDGE	latinworks19wycl=ui | tractatusdepotes00wycl=ui		2	accept
+252	EDGE	latinworks19wycl=ed | tractatusdepotes00wycl=ed		2	accept
+253	THIN	latinworks19wycl=migne | tractatusdepotes00wycl=migne		2	plate
+254	THIN	latinworks19wycl=p | tractatusdepotes00wycl=p		2	plate

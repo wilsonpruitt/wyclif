@@ -1,0 +1,26 @@
+pos	rule	forms	support	voters	resolution
+15	R2	latinworks19wycl=preponderat | johanniswyclift00mattgoog=preponderat | johanniswyclift01mattgoog=preponut | tractatusdepotes00wycl=preponderat		4	accept
+16	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ut		4	accept
+21	R5a	latinworks19wycl=romane | johanniswyclift00mattgoog=romane | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept
+27	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=ill | johanniswyclift01mattgoog=ill | tractatusdepotes00wycl=iii		4	accept
+29	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+48	R5a	latinworks19wycl=agnes | johanniswyclift00mattgoog=agfnes | johanniswyclift01mattgoog=agnes | tractatusdepotes00wycl=agnes		4	accept
+63	R2	latinworks19wycl=uominata | johanniswyclift00mattgoog=nominata | johanniswyclift01mattgoog=uoutinala | tractatusdepotes00wycl=nominata		4	accept
+75	R2	latinworks19wycl=habens | johanniswyclift00mattgoog=hahens | johanniswyclift01mattgoog=intbens | tractatusdepotes00wycl=hdbens		4	accept
+84	R2	latinworks19wycl=suxim | johanniswyclift00mattgoog=suum | johanniswyclift01mattgoog=snum | tractatusdepotes00wycl=suum		4	accept
+91	R3a	latinworks19wycl=ab | johanniswyclift00mattgoog=ab | johanniswyclift01mattgoog=ah | tractatusdepotes00wycl=ab		4	accept
+95	R2	latinworks19wycl=angustiata | johanniswyclift00mattgoog=angustiata | johanniswyclift01mattgoog=augnsiiata | tractatusdepotes00wycl=angustiata		4	accept
+97	R3a	latinworks19wycl=doloribus | johanniswyclift00mattgoog=doloribus | johanniswyclift01mattgoog=dolor | tractatusdepotes00wycl=doloribus		4	accept
+99	R4	latinworks19wycl=collosseum | johanniswyclift00mattgoog=cou | johanniswyclift01mattgoog=colet | tractatusdepotes00wycl=collosseum		4	plate
+101	R2	latinworks19wycl=sanctum | johanniswyclift00mattgoog=sanctum | johanniswyclift01mattgoog=sepitlta | tractatusdepotes00wycl=sanctum		4	accept
+102	R2	latinworks19wycl=clementem | johanniswyclift00mattgoog=clementem | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=clementem		4	accept
+103	R2	latinworks19wycl=peperit | johanniswyclift00mattgoog=peperit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=peperit		4	accept
+104	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=et		4	accept
+105	R2	latinworks19wycl=postmodum | johanniswyclift00mattgoog=postmodum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=postmodum		4	accept
+106	R2	latinworks19wycl=ibi | johanniswyclift00mattgoog=ibi | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ibi		4	accept
+107	R2	latinworks19wycl=fuit | johanniswyclift00mattgoog=uit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fuit		4	accept
+108	R2	latinworks19wycl=mortua | johanniswyclift00mattgoog=mortua | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=mortua		4	accept
+109	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=et		4	accept
+110	R2	latinworks19wycl=sepulta | johanniswyclift00mattgoog=sepulta | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sepulta		4	accept
+132	R2	latinworks19wycl=hominum | johanniswyclift00mattgoog=hominum | johanniswyclift01mattgoog=ilosseum | tractatusdepotes00wycl=hominum		4	accept
+195	EDGE	latinworks19wycl=dignius | johanniswyclift01mattgoog=dignius		2	accept

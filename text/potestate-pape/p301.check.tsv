@@ -1,0 +1,37 @@
+pos	rule	forms	support	voters	resolution
+12	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=not | tractatusdepotes00wycl=non		4	accept
+40	R2	latinworks19wycl=uniuersalem | johanniswyclift00mattgoog=nniuersalem | johanniswyclift01mattgoog=uyituersakm | tractatusdepotes00wycl=uniuersalem		4	accept
+42	R2	latinworks19wycl=inquit | johanniswyclift00mattgoog=inquit | johanniswyclift01mattgoog=subtrahitnr | tractatusdepotes00wycl=inquit		4	accept
+43	R2	latinworks19wycl=subtrahitur | johanniswyclift00mattgoog=subtrahitur | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=subtrahitur		4	accept
+47	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quant | johanniswyclift01mattgoog=quam | tractatusdepotes00wycl=quam		4	accept
+50	R2	latinworks19wycl=prebetur | johanniswyclift00mattgoog=prebetur | johanniswyclift01mattgoog=prebeliir | tractatusdepotes00wycl=prebetur		4	accept
+53	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non		4	accept
+56	R2	latinworks19wycl=prosperari | johanniswyclift00mattgoog=prosperari | johanniswyclift01mattgoog=prospeiinquit | tractatusdepotes00wycl=prosperari		4	accept
+59	THIN	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	plate
+60	THIN	latinworks19wycl=honorem | tractatusdepotes00wycl=honorem		2	plate
+64	R2	latinworks19wycl=quo | johanniswyclift00mattgoog=quo | johanniswyclift01mattgoog=qtiofratres | tractatusdepotes00wycl=quo		4	accept
+65	R2	latinworks19wycl=fratres | johanniswyclift00mattgoog=fr | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fratres		4	accept
+68	R2	latinworks19wycl=suum | johanniswyclift00mattgoog=suum | johanniswyclift01mattgoog=snitm | tractatusdepotes00wycl=suum		4	accept
+71	R3a	latinworks19wycl=meus | johanniswyclift00mattgoog=meus | johanniswyclift01mattgoog=metis | tractatusdepotes00wycl=meus		4	accept
+72	R2	latinworks19wycl=namque | johanniswyclift00mattgoog=namque | johanniswyclift01mattgoog=iiamqiic | tractatusdepotes00wycl=namque		4	accept
+77	R3	latinworks19wycl=meus | johanniswyclift00mattgoog=mens | johanniswyclift01mattgoog=metis | tractatusdepotes00wycl=meus		4	plate
+90	R2	latinworks19wycl=quibusque | johanniswyclift00mattgoog=quibusque | johanniswyclift01mattgoog=qtiibiisqtie | tractatusdepotes00wycl=quibusque		4	accept
+92	R2	latinworks19wycl=deibbitus | johanniswyclift00mattgoog=debitus | johanniswyclift01mattgoog=deihbittts | tractatusdepotes00wycl=debitus		4	accept
+101	R2	latinworks19wycl=sanctitas | johanniswyclift00mattgoog=sanctitas | johanniswyclift01mattgoog=suticiiias | tractatusdepotes00wycl=sanctitas		4	accept
+110	R2	latinworks19wycl=uniuersum | johanniswyclift00mattgoog=uniuersum | johanniswyclift01mattgoog=utiiuersttm | tractatusdepotes00wycl=uniuersum		4	accept
+114	R4	latinworks19wycl=recedant | johanniswyclift00mattgoog=recedani | johanniswyclift01mattgoog=recedani | tractatusdepotes00wycl=recedant		4	plate
+119	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+125	R2	latinworks19wycl=nullus | johanniswyclift00mattgoog=nullus | johanniswyclift01mattgoog=ntdlus | tractatusdepotes00wycl=nultus		4	accept
+127	R2	latinworks19wycl=uniuersalitatis | johanniswyclift00mattgoog=uniuersalitalis | johanniswyclift01mattgoog=nuiuersalibboas | tractatusdepotes00wycl=uniuersaiitatis		4	accept
+130	R2	latinworks19wycl=utatur | johanniswyclift00mattgoog=utatur | johanniswyclift01mattgoog=ulalur | tractatusdepotes00wycl=utatur		4	accept
+133	R2	latinworks19wycl=unus | johanniswyclift00mattgoog=unus | johanniswyclift01mattgoog=units | tractatusdepotes00wycl=unus		4	accept
+138	R2	latinworks19wycl=nomen | johanniswyclift00mattgoog=nomen | johanniswyclift01mattgoog=ttomen | tractatusdepotes00wycl=nomen		4	accept
+140	R2	latinworks19wycl=derogatur | johanniswyclift00mattgoog=derogatur | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=derogatur		4	accept
+151	R2	latinworks19wycl=unde | johanniswyclift00mattgoog=unde | johanniswyclift01mattgoog=unde | tractatusdepotes00wycl=tmde		4	accept
+158	R2	latinworks19wycl=minuere | johanniswyclift00mattgoog=minuere | johanniswyclift01mattgoog=mimtere | tractatusdepotes00wycl=minuere		4	accept
+160	R4	latinworks19wycl=2 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iderogatur | tractatusdepotes00wycl=∅		4	plate
+161	R2	latinworks19wycl=quapropter | johanniswyclift00mattgoog=quapropter | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=quapropter		4	accept
+167	R2	latinworks19wycl=suis | johanniswyclift00mattgoog=suis | johanniswyclift01mattgoog=stiis | tractatusdepotes00wycl=suis		4	accept
+195	R2	latinworks19wycl=summus | johanniswyclift00mattgoog=summus | johanniswyclift01mattgoog=sitmmtis | tractatusdepotes00wycl=summus		4	accept
+200	INS?	i	2	4	plate
+201	R2	latinworks19wycl=tantum | johanniswyclift00mattgoog=tantum | johanniswyclift01mattgoog=lantttm | tractatusdepotes00wycl=tantum		4	accept

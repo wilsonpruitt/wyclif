@@ -1,0 +1,25 @@
+pos	rule	forms	support	voters	resolution
+10	R4	latinworks19wycl=heretici | johanniswyclift00mattgoog=heretic | johanniswyclift01mattgoog=heretic | tractatusdepotes00wycl=heretici		4	plate
+36	R2	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichristi | johanniswyclift01mattgoog=ant | tractatusdepotes00wycl=antichristi		4	accept
+50	NW	latinworks19wycl=fienda | johanniswyclift00mattgoog=fienda | johanniswyclift01mattgoog=fienda | tractatusdepotes00wycl=fienda		4	plate
+51	R5a	latinworks19wycl=romane | johanniswyclift00mattgoog=roroane | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept
+58	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+71	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+123	R2	latinworks19wycl=membrum | johanniswyclift00mattgoog=membrum | johanniswyclift01mattgoog=membnim | tractatusdepotes00wycl=membrum		4	accept
+139	R3a	latinworks19wycl=quanto | johanniswyclift00mattgoog=quanto | johanniswyclift01mattgoog=quanta | tractatusdepotes00wycl=quanto		4	accept
+144	R3a	latinworks19wycl=uere | johanniswyclift00mattgoog=uere | johanniswyclift01mattgoog=uero | tractatusdepotes00wycl=uere		4	accept
+155	R4	latinworks19wycl=et | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=∅		4	plate
+162	R3a	latinworks19wycl=de | johanniswyclift00mattgoog=do | johanniswyclift01mattgoog=de | tractatusdepotes00wycl=de		4	accept
+172	R2	latinworks19wycl=sacrosancta | johanniswyclift00mattgoog=sacrosancia | johanniswyclift01mattgoog=sacrosamcin | tractatusdepotes00wycl=sacrosancta		4	accept
+175	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=roinana | tractatusdepotes00wycl=romana		4	accept
+177	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=ion | tractatusdepotes00wycl=non		4	accept
+178	R3a	latinworks19wycl=ab | johanniswyclift00mattgoog=ah | johanniswyclift01mattgoog=ab | tractatusdepotes00wycl=ab		4	accept
+183	R2	latinworks19wycl=primatum | johanniswyclift00mattgoog=printaiuin | johanniswyclift01mattgoog=prfmafum | tractatusdepotes00wycl=primaimn		4	accept
+184	R2	latinworks19wycl=obtinuit | johanniswyclift00mattgoog=ohiinnit | johanniswyclift01mattgoog=ohfinnit | tractatusdepotes00wycl=oblinnit		4	accept
+187	R2	latinworks19wycl=iilam | johanniswyclift00mattgoog=iuant | johanniswyclift01mattgoog=ilfam | tractatusdepotes00wycl=illam		4	accept
+193	R4	latinworks19wycl=apud | johanniswyclift00mattgoog=apnd | johanniswyclift01mattgoog=apitd | tractatusdepotes00wycl=apnd		4	plate
+197	R5a	latinworks19wycl=marco | johanniswyclift00mattgoog=marco | johanniswyclift01mattgoog=marco | tractatusdepotes00wycl=marco		4	accept
+207	THIN	latinworks19wycl=antliiochiam		1	plate
+208	EDGE	latinworks19wycl=ubi		1	accept
+209	THIN	latinworks19wycl=petrus		1	plate
+210	EDGE	latinworks19wycl=antequam		1	accept

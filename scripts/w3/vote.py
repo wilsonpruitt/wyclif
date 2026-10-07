@@ -164,7 +164,9 @@ def locate(page, stream, idx, hint):
     if hint is not None:                        # prefer anchors near where we expect to be
         near = [c for c in cands if abs(c - hint) < 3 * len(page) + 200]
         cands = near or cands
-    cands.sort()
+    else:                                       # no hint (the first page): the densest cluster, not the median,
+        cands = max(([d for d in cands if abs(d - c) <= 60] for c in cands), key=len)   # which the
+    cands.sort()                                # introduction's Latin quotations pull off (De pot. pape p. 1)
     return cands[len(cands) // 2]
 
 
@@ -462,6 +464,21 @@ def run(slug, first=None, last=None):
             continue
         s = prep(load(f'{base}/witnesses/{fn}'))
         others[wid] = (s, anchor_index(s))
+    # pivotpatch.tsv (page, witness, leaf, note): a page the pivot scan has no OCR for (De potestate pape p. 266:
+    # the Princeton leaf is faded blank) takes its pivot tokens from another scan's leaf; that scan does not
+    # vote on the page, and its plate items crop that scan's image (leaf written 'witness:leaf'). 2026-10-07
+    patched = {}
+    if os.path.exists(f'{base}/pivotpatch.tsv'):
+        for r in csv.DictReader(open(f'{base}/pivotpatch.tsv'), delimiter='\t'):
+            pg_, wid_, leaf_ = int(r['page']), r['witness'], int(r['leaf'])
+            if any(t['pg'] == pg_ for t in pivot):
+                print(f'   pivotpatch p. {pg_}: the pivot has this page; row ignored')
+                continue
+            hl_ = {(t['leaf'], t['line']) for t in load(f'{base}/witnesses/{wid_}.jsonl') if t.get('head')}
+            new = [dict(t, pg=pg_, hl=(t['leaf'], t['line']) in hl_) for t in others[wid_][0] if t['leaf'] == leaf_]
+            at = next((i for i, t in enumerate(pivot) if t['pg'] > pg_), len(pivot))
+            pivot[at:at] = new
+            patched[pg_] = (wid_, leaf_)
     lex = Lexicon()
     # plate decisions (crops.py): keyed by page+pos, checked against the forms voted
     decisions = {}
@@ -495,6 +512,8 @@ def run(slug, first=None, last=None):
         per_wit, tails = {}, {}
         nxt_head = [t['n'] for t in pivot if t['pg'] == pg + 1 and not t['hl']][:4]
         for wid, (s, idx) in others.items():
+            if patched.get(pg, (None,))[0] == wid:          # the patch's own scan does not vote on its page
+                continue
             st_ = locate(page, s, idx, hints[wid])
             if st_ is None:
                 continue
@@ -808,6 +827,8 @@ def run(slug, first=None, last=None):
     with open(f'{base}/plate_queue.tsv', 'w') as f:
         f.write('page\tpos\trule\tforms\tleaf\tbox\n')
         for q in queue:
+            if q[0] in patched:
+                q = q[:4] + (f'{patched[q[0]][0]}:{patched[q[0]][1]}',) + q[5:]
             f.write('\t'.join(str(x) for x in q[:5]) + '\t' + ','.join(str(b) for b in q[5]) + '\n')
     # grow the corpus lexicon
     p = f'{ROOT}/catalog/lexicon/agreed.txt'

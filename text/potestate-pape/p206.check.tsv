@@ -1,0 +1,26 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=sanctitas		1	accept
+1	THIN	latinworks19wycl=qnam		1	plate
+2	EDGE	latinworks19wycl=pudicicia | tractatusdepotes00wycl=pudicicia		2	accept
+3	EDGE	latinworks19wycl=coniugata | tractatusdepotes00wycl=coniugata		2	accept
+4	EDGE	latinworks19wycl=sed | tractatusdepotes00wycl=sed		2	accept
+5	EDGE	latinworks19wycl=attende | tractatusdepotes00wycl=attende		2	accept
+6	EDGE	latinworks19wycl=superbiam | tractatusdepotes00wycl=superbiam		2	accept
+7	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
+8	EDGE	latinworks19wycl=humilitatem | tractatusdepotes00wycl=humilitatem		2	accept
+9	EDGE	latinworks19wycl=iungeque | tractatusdepotes00wycl=iungeque		2	accept
+10	EDGE	latinworks19wycl=uirginitati | tractatusdepotes00wycl=uirginitati		2	accept
+11	EDGE	latinworks19wycl=tue | tractatusdepotes00wycl=tue		2	accept
+12	THIN	latinworks19wycl=humilitatem | tractatusdepotes00wycl=liumilitatem		2	plate
+16	R2	latinworks19wycl=tua | johanniswyclift00mattgoog=ttia | johanniswyclift01mattgoog=tiia | tractatusdepotes00wycl=tua		4	accept
+20	R3	latinworks19wycl=tu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=tit | tractatusdepotes00wycl=tu		4	plate
+24	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	plate
+25	R2	latinworks19wycl=mater | johanniswyclift00mattgoog=mater | johanniswyclift01mattgoog=uialer | tractatusdepotes00wycl=mater		4	accept
+26	R2	latinworks19wycl=tua | johanniswyclift00mattgoog=ttia | johanniswyclift01mattgoog=tua | tractatusdepotes00wycl=tua		4	accept
+28	R4	latinworks19wycl=hnmilitatem | johanniswyclift00mattgoog=hutnilitatem | johanniswyclift01mattgoog=hnmililatem | tractatusdepotes00wycl=kuniilitatem		4	plate
+42	R2	latinworks19wycl=magis | johanniswyclift00mattgoog=magis | johanniswyclift01mattgoog=tnagis | tractatusdepotes00wycl=magis		4	accept
+55	R3a	latinworks19wycl=malo | johanniswyclift00mattgoog=malo | johanniswyclift01mattgoog=male | tractatusdepotes00wycl=malo		4	accept
+97	R3a	latinworks19wycl=humiliter | johanniswyclift00mattgoog=humiliter | johanniswyclift01mattgoog=humilitor | tractatusdepotes00wycl=humiliter		4	accept
+151	R2	latinworks19wycl=hec | johanniswyclift00mattgoog=h6c | johanniswyclift01mattgoog=hec | tractatusdepotes00wycl=hec		4	accept
+174	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+227	R3a	latinworks19wycl=penetrare | johanniswyclift00mattgoog=penetrare | johanniswyclift01mattgoog=penetrate | tractatusdepotes00wycl=penetrare		4	accept

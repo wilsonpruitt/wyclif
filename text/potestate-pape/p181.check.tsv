@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+32	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
+50	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
+59	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ulnm | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+73	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=m		4	accept
+109	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+129	INS?	i	2	4	plate
+130	R3a	latinworks19wycl=ii | johanniswyclift00mattgoog=ii | johanniswyclift01mattgoog=11 | tractatusdepotes00wycl=ii		4	accept
+132	R2	latinworks19wycl=anno | johanniswyclift00mattgoog=anno | johanniswyclift01mattgoog=antio | tractatusdepotes00wycl=anno		4	accept
+138	R2	latinworks19wycl=boni | johanniswyclift00mattgoog=bonif | johanniswyclift01mattgoog=bomifacius | tractatusdepotes00wycl=boni		4	accept
+139	R4	latinworks19wycl=facius | johanniswyclift00mattgoog=actus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=facius		4	plate
+141	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+143	R3	latinworks19wycl=hunc | johanniswyclift00mattgoog=a | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=hunc		4	plate
+144	R3a	latinworks19wycl=ordinato | johanniswyclift00mattgoog=ordinate | johanniswyclift01mattgoog=ordinato | tractatusdepotes00wycl=ordinato		4	accept
+151	R2	latinworks19wycl=ambo | johanniswyclift00mattgoog=antbo | johanniswyclift01mattgoog=ambo | tractatusdepotes00wycl=ambo		4	accept
+152	R2	latinworks19wycl=iussu | johanniswyclift00mattgoog=inssu | johanniswyclift01mattgoog=iiissu | tractatusdepotes00wycl=iussu		4	accept
+154	R2	latinworks19wycl=augusti | johanniswyclift00mattgoog=augnsti | johanniswyclift01mattgoog=angnsh | tractatusdepotes00wycl=augusti		4	accept
+159	R3a	latinworks19wycl=reprobato | johanniswyclift00mattgoog=reprobato | johanniswyclift01mattgoog=reprobate | tractatusdepotes00wycl=reprobato		4	accept
+167	R2	latinworks19wycl=fiieraty | johanniswyclift00mattgoog=fueraty | johanniswyclift01mattgoog=ftterat | tractatusdepotes00wycl=fuerat		4	accept
+193	R2	latinworks19wycl=temporales | johanniswyclift00mattgoog=temporales | johanniswyclift01mattgoog=tenipitrales | tractatusdepotes00wycl=temporales		4	accept

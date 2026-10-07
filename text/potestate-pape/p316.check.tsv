@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+2	R5	latinworks19wycl=claustrale | johanniswyclift01mattgoog=claustrale | tractatusdepotes00wycl=claustrale		3	plate
+31	R5a	latinworks19wycl=heritis | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=herins | tractatusdepotes00wycl=herius		4	accept
+35	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=ttoh | tractatusdepotes00wycl=non		4	accept
+65	R5a	latinworks19wycl=herius | johanniswyclift00mattgoog=herius | johanniswyclift01mattgoog=ilerius | tractatusdepotes00wycl=herius		4	accept
+85	R2	latinworks19wycl=olim | johanniswyclift00mattgoog=olim | johanniswyclift01mattgoog=oliyn | tractatusdepotes00wycl=olim		4	accept
+87	R2	latinworks19wycl=fuit | johanniswyclift00mattgoog=ftiii | johanniswyclift01mattgoog=fuit | tractatusdepotes00wycl=fuit		4	accept
+104	R2	latinworks19wycl=mundum | johanniswyclift00mattgoog=mundn | johanniswyclift01mattgoog=mundum | tractatusdepotes00wycl=mundum		4	accept
+128	R2	latinworks19wycl=multi | johanniswyclift00mattgoog=multi | johanniswyclift01mattgoog=raulti | tractatusdepotes00wycl=multi		4	accept
+156	THIN	latinworks19wycl=possetde2 | tractatusdepotes00wycl=posset		2	plate
+157	THIN	latinworks19wycl=an | tractatusdepotes00wycl=dean		2	plate
+158	THIN	latinworks19wycl=esse | tractatusdepotes00wycl=esse		2	plate
+165	R2	latinworks19wycl=unum | johanniswyclift00mattgoog=unum | johanniswyclift01mattgoog=unura | tractatusdepotes00wycl=unum		4	accept
+177	R4	latinworks19wycl=priuilegia | johanniswyclift00mattgoog=pririlegia | johanniswyclift01mattgoog=pririlegia | tractatusdepotes00wycl=priuilegia		4	plate

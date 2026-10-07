@@ -1,0 +1,29 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=ad		1	accept
+1	THIN	latinworks19wycl=reem		1	plate
+2	EDGE	latinworks19wycl=pertinet | johanniswyclift00mattgoog=pertinet		2	accept
+3	EDGE	latinworks19wycl=sequestrare | johanniswyclift00mattgoog=sequestrare		2	accept
+4	EDGE	latinworks19wycl=in | johanniswyclift00mattgoog=in		2	accept
+5	EDGE	latinworks19wycl=scriptura | johanniswyclift00mattgoog=scriptura		2	accept
+15	R3	latinworks19wycl=ieremias | johanniswyclift00mattgoog=leremias | johanniswyclift01mattgoog=leremias | tractatusdepotes00wycl=ieremias		4	plate
+18	R3a	latinworks19wycl=mandato | johanniswyclift00mattgoog=mandato | johanniswyclift01mattgoog=mandate | tractatusdepotes00wycl=mandato		4	accept
+31	R3a	latinworks19wycl=fracturam | johanniswyclift00mattgoog=fracturam | johanniswyclift01mattgoog=tracturam | tractatusdepotes00wycl=fracturam		4	accept
+39	R2	latinworks19wycl=ferream | johanniswyclift00mattgoog=ferream | johanniswyclift01mattgoog=ferreaitii | tractatusdepotes00wycl=ferream		4	accept
+49	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
+66	R3a	latinworks19wycl=fecit | johanniswyclift00mattgoog=fecity | johanniswyclift01mattgoog=feci | tractatusdepotes00wycl=fecit		4	accept
+69	R2	latinworks19wycl=sedechias | johanniswyclift00mattgoog=sedechias | johanniswyclift01mattgoog=sededtrns | tractatusdepotes00wycl=sedechias		4	accept
+70	R2	latinworks19wycl=filius | johanniswyclift00mattgoog=iilins | johanniswyclift01mattgoog=filins | tractatusdepotes00wycl=iiliiis		4	accept
+72	R2	latinworks19wycl=cornua | johanniswyclift00mattgoog=cornua | johanniswyclift01mattgoog=cormia | tractatusdepotes00wycl=counua		4	accept
+75	R2	latinworks19wycl=ait | johanniswyclift00mattgoog=ait | johanniswyclift01mattgoog=ail | tractatusdepotes00wycl=ait		4	accept
+78	R2	latinworks19wycl=dominus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=domittiis | tractatusdepotes00wycl=dominns		4	accept
+79	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus		4	accept
+80	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis		4	accept
+82	R5a	latinworks19wycl=syriam | johanniswyclift00mattgoog=syriam | johanniswyclift01mattgoog=syriam | tractatusdepotes00wycl=syriam		4	accept
+83	R2	latinworks19wycl=donec | johanniswyclift00mattgoog=donee | johanniswyclift01mattgoog=douce | tractatusdepotes00wycl=donec		4	accept
+132	R2	latinworks19wycl=ligurata | johanniswyclift00mattgoog=figu20 | johanniswyclift01mattgoog=figfai20 | tractatusdepotes00wycl=figurata		4	accept
+133	INS?	rata	2	4	plate
+155	R2	latinworks19wycl=eius | johanniswyclift00mattgoog=eitis | johanniswyclift01mattgoog=eiiis | tractatusdepotes00wycl=eius		4	accept
+156	R2	latinworks19wycl=induaniur | johanniswyclift00mattgoog=induantur | johanniswyclift01mattgoog=indiiantnr | tractatusdepotes00wycl=induantur		4	accept
+157	R2	latinworks19wycl=insticiam | johanniswyclift00mattgoog=insticiant | johanniswyclift01mattgoog=iusticiam | tractatusdepotes00wycl=iusticiam		4	accept
+193	R3a	latinworks19wycl=debet | johanniswyclift00mattgoog=debet | johanniswyclift01mattgoog=de | tractatusdepotes00wycl=debet		4	accept
+203	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate

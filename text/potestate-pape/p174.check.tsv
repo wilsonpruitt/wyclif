@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+4	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+7	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
+15	R2	latinworks19wycl=pontificem | johanniswyclift00mattgoog=pontificem | johanniswyclift01mattgoog=pontificem | tractatusdepotes00wycl=ponttncem		4	accept
+17	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+20	R4a	latinworks19wycl=ncticia | johanniswyclift00mattgoog=ftcticia | johanniswyclift01mattgoog=ficticia | tractatusdepotes00wycl=ncticia		4	accept
+24	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+25	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
+26	R2	latinworks19wycl=obiit | johanniswyclift00mattgoog=obut | johanniswyclift01mattgoog=obiit | tractatusdepotes00wycl=obiit		4	accept
+47	R2	latinworks19wycl=a | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
+82	R2	latinworks19wycl=solum | johanniswyclift00mattgoog=solum | johanniswyclift01mattgoog=soltun | tractatusdepotes00wycl=solum		4	accept
+118	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=cutn | tractatusdepotes00wycl=cum		4	accept
+129	R3a	latinworks19wycl=eleccione | johanniswyclift00mattgoog=eleccione | johanniswyclift01mattgoog=elecciune | tractatusdepotes00wycl=eleccione		4	accept
+130	R5a	latinworks19wycl=mathie | johanniswyclift00mattgoog=mathie | johanniswyclift01mattgoog=mathie | tractatusdepotes00wycl=mathie		4	accept
+145	INS?	i	2	4	plate
+148	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+161	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
+163	R4	latinworks19wycl=beaturn | johanniswyclift00mattgoog=beatum | johanniswyclift01mattgoog=beatutti | tractatusdepotes00wycl=beaturn		4	plate
+168	R3a	latinworks19wycl=maiori | johanniswyclift00mattgoog=maioria | johanniswyclift01mattgoog=maioris | tractatusdepotes00wycl=maiori23		4	accept
+216	DEL	latinworks19wycl=pe | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+217	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=∅		4	accept
+219	R3a	latinworks19wycl=istis | johanniswyclift00mattgoog=istis | johanniswyclift01mattgoog=istis | tractatusdepotes00wycl=ss		4	accept
+225	R2	latinworks19wycl=uiam | johanniswyclift00mattgoog=uiara | johanniswyclift01mattgoog=uiam | tractatusdepotes00wycl=uiam		4	accept

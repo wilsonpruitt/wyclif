@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks19wycl=rerrcae		1	plate
+7	R2	latinworks19wycl=rrimirlm | johanniswyclift00mattgoog=primatum | johanniswyclift01mattgoog=primatuni | tractatusdepotes00wycl=primatum		4	accept
+8	R2	latinworks19wycl=rr5rur | johanniswyclift00mattgoog=ecclesiasticum | johanniswyclift01mattgoog=ecclesiasticura | tractatusdepotes00wycl=ecclesiasticum		4	accept
+9	R2	latinworks19wycl=crlrr | johanniswyclift00mattgoog=obtinendum | johanniswyclift01mattgoog=obtinenduni | tractatusdepotes00wycl=obtinendum		4	accept
+10	R2	latinworks19wycl=u | johanniswyclift00mattgoog=quia | johanniswyclift01mattgoog=quia | tractatusdepotes00wycl=quia		4	accept
+12	INS	pure	3	4	accept
+56	R3a	latinworks19wycl=nt | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+72	R2	latinworks19wycl=dyabofidebent | johanniswyclift00mattgoog=dyaboli | johanniswyclift01mattgoog=dyaboudebent | tractatusdepotes00wycl=dyabolidebent		4	accept
+74	R3	latinworks19wycl=fice | johanniswyclift00mattgoog=patet | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=patet		4	plate
+75	GAP	patet quam extraneum est a Romano pontifice,	3	4	plate
+87	R2	latinworks19wycl=alio | johanniswyclift00mattgoog=alio | johanniswyclift01mattgoog=alio | tractatusdepotes00wycl=al		4	accept
+103	R2	latinworks19wycl=rale | johanniswyclift00mattgoog=ambiguo | johanniswyclift01mattgoog=ambiiuo | tractatusdepotes00wycl=ambiguo		4	accept
+104	GAP	propter reputatum commodum temporale	3	4	plate
+157	THIN	latinworks19wycl=ir		1	plate
+158	THIN	latinworks19wycl=sis		1	plate
+159	THIN	latinworks19wycl=5circirir		1	plate
+160	THIN	latinworks19wycl=r		1	plate
+161	THIN	latinworks19wycl=e		1	plate
+162	THIN	latinworks19wycl=ru		1	plate
+163	THIN	latinworks19wycl=re		1	plate
+164	THIN	latinworks19wycl=eccleie		1	plate
+204	R3a	latinworks19wycl=po | johanniswyclift00mattgoog=potenciam | johanniswyclift01mattgoog=potenciam | tractatusdepotes00wycl=potenciam		4	accept
+205	R3a	latinworks19wycl=sei | johanniswyclift00mattgoog=sed | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=sed		4	accept
+206	R2	latinworks19wycl=ree5e | johanniswyclift00mattgoog=necesse | johanniswyclift01mattgoog=necesse | tractatusdepotes00wycl=necesse		4	accept
+207	R2	latinworks19wycl=ribe | johanniswyclift00mattgoog=habet | johanniswyclift01mattgoog=habet | tractatusdepotes00wycl=habet		4	accept
+208	R3a	latinworks19wycl=ire | johanniswyclift00mattgoog=stabilire | johanniswyclift01mattgoog=stabilire | tractatusdepotes00wycl=stabilire		4	accept

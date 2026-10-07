@@ -1,0 +1,25 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=caput		1	accept
+1	EDGE	latinworks19wycl=namque		1	accept
+2	EDGE	latinworks19wycl=subiectorum		1	accept
+3	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
+4	EDGE	latinworks19wycl=oculi | tractatusdepotes00wycl=oculi		2	accept
+5	EDGE	latinworks19wycl=sunt | tractatusdepotes00wycl=sunt		2	accept
+6	EDGE	latinworks19wycl=cuncti | tractatusdepotes00wycl=cuncti		2	accept
+7	THIN	latinworks19wycl=presnni | tractatusdepotes00wycl=presunt		2	plate
+19	R2	latinworks19wycl=oblia | johanniswyclift00mattgoog=oblitenentur | johanniswyclift01mattgoog=obligati | tractatusdepotes00wycl=oblinrati		4	accept
+20	R2	latinworks19wycl=tenentur | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=tenentur | tractatusdepotes00wycl=tenentur		4	accept
+25	R3a	latinworks19wycl=a | johanniswyclift00mattgoog=mundi | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
+26	R2	latinworks19wycl=muncn | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=mundi | tractatusdepotes00wycl=munci		4	accept
+30	R3a	latinworks19wycl=illis | johanniswyclift00mattgoog=illis | johanniswyclift01mattgoog=iui | tractatusdepotes00wycl=illis		4	accept
+35	R2	latinworks19wycl=minus | johanniswyclift00mattgoog=minus | johanniswyclift01mattgoog=iiiinus | tractatusdepotes00wycl=minus		4	accept
+53	R2	latinworks19wycl=totum | johanniswyclift00mattgoog=totum | johanniswyclift01mattgoog=totura | tractatusdepotes00wycl=totum		4	accept
+85	R3a	latinworks19wycl=habere | johanniswyclift00mattgoog=habere | johanniswyclift01mattgoog=liabere | tractatusdepotes00wycl=habere		4	accept
+120	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=kt | tractatusdepotes00wycl=et		4	accept
+124	R3a	latinworks19wycl=apostolos | johanniswyclift00mattgoog=apostolos | johanniswyclift01mattgoog=apostolus | tractatusdepotes00wycl=apostolos		4	accept
+128	R3a	latinworks19wycl=ministrandum | johanniswyclift00mattgoog=ministrandum | johanniswyclift01mattgoog=mini | tractatusdepotes00wycl=ministrandum		4	accept
+161	R3a	latinworks19wycl=istis | johanniswyclift00mattgoog=istis | johanniswyclift01mattgoog=itis | tractatusdepotes00wycl=istis		4	accept
+167	R4	latinworks19wycl=onus | johanniswyclift00mattgoog=onusa | johanniswyclift01mattgoog=onusa | tractatusdepotes00wycl=onus		4	plate
+195	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=nonso | johanniswyclift01mattgoog=nou | tractatusdepotes00wycl=non		4	accept
+199	R4	latinworks19wycl=patrimonn | johanniswyclift00mattgoog=patnmonu | johanniswyclift01mattgoog=iiatrimonii | tractatusdepotes00wycl=patrimonu		4	plate
+201	R4a	latinworks19wycl=rehquerat | johanniswyclift00mattgoog=rehquerat | johanniswyclift01mattgoog=reuquerat | tractatusdepotes00wycl=reliquerat		4	accept

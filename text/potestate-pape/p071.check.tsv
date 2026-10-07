@@ -1,0 +1,54 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=crysostomum		1	accept
+1	EDGE	latinworks19wycl=cum		1	accept
+2	EDGE	latinworks19wycl=ista		1	accept
+3	EDGE	latinworks19wycl=uia | tractatusdepotes00wycl=uia		2	accept
+4	EDGE	latinworks19wycl=sit | tractatusdepotes00wycl=sit		2	accept
+5	EDGE	latinworks19wycl=secura | tractatusdepotes00wycl=secura		2	accept
+6	THIN	latinworks19wycl=et | tractatusdepotes00wycl=ef		2	plate
+7	EDGE	latinworks19wycl=magis | tractatusdepotes00wycl=magis		2	accept
+8	EDGE	latinworks19wycl=utilis | tractatusdepotes00wycl=utilis		2	accept
+15	R3	latinworks19wycl=dens | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus		3	plate
+32	R3	latinworks19wycl=que | johanniswyclift00mattgoog=otic | johanniswyclift01mattgoog=otie | tractatusdepotes00wycl=ouc		4	plate
+33	R4a	latinworks19wycl=mquit | johanniswyclift00mattgoog=inquit | johanniswyclift01mattgoog=iniiuit | tractatusdepotes00wycl=mquit		4	accept
+35	R2	latinworks19wycl=secundum | johanniswyclift00mattgoog=sccnnditin | johanniswyclift01mattgoog=secnnctitm | tractatusdepotes00wycl=sccundum		4	accept
+36	R3	latinworks19wycl=ml | johanniswyclift00mattgoog=nil | johanniswyclift01mattgoog=ml | tractatusdepotes00wycl=nit		4	plate
+37	R2	latinworks19wycl=numanum | johanniswyclift00mattgoog=hnmannni | johanniswyclift01mattgoog=lintuaiiinti | tractatusdepotes00wycl=humanum		4	accept
+38	R4	latinworks19wycl=fiebant | johanniswyclift00mattgoog=iicbanty | johanniswyclift01mattgoog=fttrbanf | tractatusdepotes00wycl=iicbaut		4	plate
+40	GAP	prop/ieaa et spiritn sancto Jtebant,	2	4	plate
+41	R2	latinworks19wycl=et | johanniswyclift00mattgoog=enini | tractatusdepotes00wycl=et		3	accept
+42	R2	latinworks19wycl=spintu | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=spiritu		3	accept
+43	R2	latinworks19wycl=sancto | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=sancto		3	accept
+44	R2	latinworks19wycl=fiebant | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=iiebant		3	accept
+45	R2	latinworks19wycl=prophecia | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=prophecia		3	accept
+46	R4	latinworks19wycl=eniui | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=euim		3	plate
+49	R2	latinworks19wycl=solum | johanniswyclift00mattgoog=sdnm | johanniswyclift01mattgoog=sultuu | tractatusdepotes00wycl=soium		4	accept
+51	R2	latinworks19wycl=futura | johanniswyclift00mattgoog=fntnra | johanniswyclift01mattgoog=fithira | tractatusdepotes00wycl=futura		4	accept
+54	R4	latinworks19wycl=cnm | johanniswyclift00mattgoog=cnm | johanniswyclift01mattgoog=iim | tractatusdepotes00wycl=cum		4	plate
+55	R3	latinworks19wycl=saul | johanniswyclift00mattgoog=sunt | johanniswyclift01mattgoog=saul | tractatusdepotes00wycl=saui		4	plate
+56	R2	latinworks19wycl=secundum | johanniswyclift00mattgoog=secnndnni | johanniswyclift01mattgoog=seciindimi | tractatusdepotes00wycl=secukdum		4	accept
+57	R2	latinworks19wycl=propheciam | johanniswyclift00mattgoog=pmplteciuni | johanniswyclift01mattgoog=prupiteciant | tractatusdepotes00wycl=propheciam		4	accept
+59	R2	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=gsi | tractatusdepotes00wycl=est		4	accept
+60	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu		4	accept
+63	R3	latinworks19wycl=dens | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus		4	plate
+64	R2	latinworks19wycl=enim | johanniswyclift00mattgoog=enint | johanniswyclift01mattgoog=enim | tractatusdepotes00wycl=enim		4	accept
+66	R3a	latinworks19wycl=reuelat | johanniswyclift00mattgoog=reuelat | johanniswyclift01mattgoog=reuelai | tractatusdepotes00wycl=reuelat		4	accept
+67	R3	latinworks19wycl=ei | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	plate
+68	R2	latinworks19wycl=prophecia | johanniswyclift00mattgoog=prupliecia | johanniswyclift01mattgoog=ptophecia | tractatusdepotes00wycl=prophecia		4	accept
+69	R3a	latinworks19wycl=fuit | johanniswyclift00mattgoog=fnit | johanniswyclift01mattgoog=nit | tractatusdepotes00wycl=fuit		4	accept
+73	R4a	latinworks19wycl=iuquit | johanniswyclift00mattgoog=inqnit | johanniswyclift01mattgoog=iuquit | tractatusdepotes00wycl=inquit		4	accept
+74	R3a	latinworks19wycl=michi | johanniswyclift00mattgoog=mictu | johanniswyclift01mattgoog=michi | tractatusdepotes00wycl=michi		4	accept
+75	R2	latinworks19wycl=pautuui | johanniswyclift00mattgoog=paulnm | johanniswyclift01mattgoog=panlitm | tractatusdepotes00wycl=paulum		4	accept
+80	THIN	latinworks19wycl=thimoteus | tractatusdepotes00wycl=thimoteus		2	plate
+81	THIN	latinworks19wycl=electus | tractatusdepotes00wycl=eiectus		2	plate
+86	R2	latinworks19wycl=multas | johanniswyclift01mattgoog=nudtas | tractatusdepotes00wycl=multas		3	accept
+92	R2	latinworks19wycl=thimoteum | johanniswyclift00mattgoog=titimoteum | johanniswyclift01mattgoog=tkimoleiint | tractatusdepotes00wycl=thimoteum		4	accept
+93	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+94	R2	latinworks19wycl=intronizauit | johanniswyclift00mattgoog=intronizauit | johanniswyclift01mattgoog=idrohiaui | tractatusdepotes00wycl=inironirauit		4	accept
+99	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus		4	accept
+100	R2	latinworks19wycl=eum | johanniswyclift00mattgoog=enm | johanniswyclift01mattgoog=etini | tractatusdepotes00wycl=eum		4	accept
+102	R3	latinworks19wycl=non | johanniswyclift00mattgoog=nan | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=11011		4	plate
+103	R2	latinworks19wycl=humanum | johanniswyclift00mattgoog=itnmannm | johanniswyclift01mattgoog=humantim | tractatusdepotes00wycl=humanum		4	accept
+128	R2	latinworks19wycl=legitima | johanniswyclift00mattgoog=legitima | johanniswyclift01mattgoog=legi3utinia | tractatusdepotes00wycl=legitima		4	accept
+155	R2	latinworks19wycl=motum | johanniswyclift00mattgoog=motum | johanniswyclift01mattgoog=niotuni | tractatusdepotes00wycl=motum		4	accept
+195	R3a	latinworks19wycl=labori | johanniswyclift00mattgoog=labori | johanniswyclift01mattgoog=labor | tractatusdepotes00wycl=labori		4	accept

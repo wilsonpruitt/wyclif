@@ -1,0 +1,12 @@
+pos	rule	forms	support	voters	resolution
+30	R3a	latinworks19wycl=statum | johanniswyclift00mattgoog=statura | johanniswyclift01mattgoog=statum | tractatusdepotes00wycl=statum		4	accept
+105	R3a	latinworks19wycl=uoco | johanniswyclift00mattgoog=uoco | johanniswyclift01mattgoog=uoce | tractatusdepotes00wycl=uoco		4	accept
+114	R3a	latinworks19wycl=concedo | johanniswyclift00mattgoog=concede | johanniswyclift01mattgoog=concedo | tractatusdepotes00wycl=concedo		4	accept
+121	R3a	latinworks19wycl=indignum | johanniswyclift00mattgoog=indigum | johanniswyclift01mattgoog=indignura | tractatusdepotes00wycl=indignum		4	accept
+125	R2	latinworks19wycl=morum | johanniswyclift00mattgoog=morum | johanniswyclift01mattgoog=soraorum | tractatusdepotes00wycl=omorum		4	accept
+158	R2	latinworks19wycl=de | johanniswyclift00mattgoog=de | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+159	R2	latinworks19wycl=exitu | johanniswyclift00mattgoog=exitu | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+169	NW	latinworks19wycl=concomitanter | johanniswyclift00mattgoog=concomitanter | johanniswyclift01mattgoog=concomitanter | tractatusdepotes00wycl=concomitanter		4	plate
+181	R2	latinworks19wycl=multe | johanniswyclift00mattgoog=multe | johanniswyclift01mattgoog=raulte | tractatusdepotes00wycl=multe		4	accept
+196	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+203	R2	latinworks19wycl=iniuncto | johanniswyclift00mattgoog=iniuncto | johanniswyclift01mattgoog=iniuitclo | tractatusdepotes00wycl=iniuncto		4	accept

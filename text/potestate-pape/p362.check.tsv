@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+6	R2	latinworks19wycl=ii | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=ii | tractatusdepotes00wycl=ii		4	accept
+29	R3	latinworks19wycl=antecedenti | johanniswyclift00mattgoog=antecedent | johanniswyclift01mattgoog=antecedent | tractatusdepotes00wycl=antecedenti		4	plate
+41	R3	latinworks19wycl=gerit | johanniswyclift00mattgoog=gent | johanniswyclift01mattgoog=iierit | tractatusdepotes00wycl=gerit		4	plate
+42	R2	latinworks19wycl=smsailariter | johanniswyclift00mattgoog=singulariter | johanniswyclift01mattgoog=sinituianter | tractatusdepotes00wycl=smgulariter		4	accept
+43	R3a	latinworks19wycl=uicanam | johanniswyclift00mattgoog=uicanam | johanniswyclift01mattgoog=uicanam | tractatusdepotes00wycl=uicariam		4	accept
+45	R2	latinworks19wycl=christi | johanniswyclift00mattgoog=chnsti | johanniswyclift01mattgoog=cnnsti | tractatusdepotes00wycl=christi		4	accept
+46	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=m | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=m		4	accept
+47	NW	latinworks19wycl=terris | johanniswyclift00mattgoog=terns | johanniswyclift01mattgoog=terns | tractatusdepotes00wycl=terns		4	plate
+51	R2	latinworks19wycl=mfmitum | johanniswyclift00mattgoog=mnnitum | johanniswyclift01mattgoog=infinitum | tractatusdepotes00wycl=lnnnitum		4	accept
+110	R6a	latinworks19wycl=oporfet | johanniswyclift00mattgoog=oporiet | johanniswyclift01mattgoog=oportet | tractatusdepotes00wycl=oporfet		4	accept
+111	R3	latinworks19wycl=namque | johanniswyclift00mattgoog=nantque | johanniswyclift01mattgoog=nantque | tractatusdepotes00wycl=namqite		4	plate
+127	R3	latinworks19wycl=uocatur | johanniswyclift00mattgoog=uacatur | johanniswyclift01mattgoog=uacatur | tractatusdepotes00wycl=uocatur		4	plate
+130	R5	latinworks19wycl=estut | johanniswyclift00mattgoog=estut | tractatusdepotes00wycl=estut		3	plate
+134	R3a	latinworks19wycl=accione | johanniswyclift00mattgoog=acetone | johanniswyclift01mattgoog=accione | tractatusdepotes00wycl=accione		4	accept
+139	THIN	latinworks19wycl=suspensus | tractatusdepotes00wycl=suspensus		2	plate
+140	THIN	latinworks19wycl=true | tractatusdepotes00wycl=true		2	plate
+141	THIN	latinworks19wycl=item | tractatusdepotes00wycl=item		2	plate
+147	R2	latinworks19wycl=oriodnaiis | johanniswyclift00mattgoog=originalis | johanniswyclift01mattgoog=originalis | tractatusdepotes00wycl=orisinalis		4	accept
+148	R4	latinworks19wycl=by | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=dei		4	plate
+172	INS?	i	2	4	plate

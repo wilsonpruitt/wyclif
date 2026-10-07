@@ -1,0 +1,12 @@
+pos	rule	forms	support	voters	resolution
+33	R2	latinworks19wycl=regnum | johanniswyclift00mattgoog=regnum | johanniswyclift01mattgoog=regmnn | tractatusdepotes00wycl=regnum		4	accept
+35	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
+41	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+43	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
+49	R6a	latinworks19wycl=hmitat | johanniswyclift00mattgoog=hmitat | johanniswyclift01mattgoog=limitat | tractatusdepotes00wycl=hmitat		4	accept
+52	R3a	latinworks19wycl=suo | johanniswyclift00mattgoog=suo | johanniswyclift01mattgoog=sue | tractatusdepotes00wycl=suo		4	accept
+60	R3a	latinworks19wycl=prepositi | johanniswyclift00mattgoog=prepositi | johanniswyclift01mattgoog=propositi | tractatusdepotes00wycl=prepositi		4	accept
+164	R6	latinworks19wycl=are | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=are		4	plate
+168	R2	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=i		4	accept
+223	THIN	latinworks19wycl=eay		1	plate
+224	EDGE	latinworks19wycl=non		1	accept

@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=superioritas | tractatusdepotes00wycl=superioritas		2	accept
+5	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+6	R2	latinworks19wycl=tunc | johanniswyclift00mattgoog=tunc | johanniswyclift01mattgoog=tmic | tractatusdepotes00wycl=tunc		4	accept
+10	R4	latinworks19wycl=dyabolo | johanniswyclift00mattgoog=dydbolo | johanniswyclift01mattgoog=dyabolo | tractatusdepotes00wycl=dydbolo		4	plate
+21	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+33	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+77	R3a	latinworks19wycl=copiosa | johanniswyclift00mattgoog=copiosa | johanniswyclift01mattgoog=copies | tractatusdepotes00wycl=copiosa		4	accept
+101	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+123	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
+126	R2	latinworks19wycl=argenhim | johanniswyclift00mattgoog=argefiium | johanniswyclift01mattgoog=argenfitm | tractatusdepotes00wycl=argentum		4	accept
+128	R2	latinworks19wycl=et | johanniswyclift00mattgoog=eorswertod | tractatusdepotes00wycl=ethorhste		3	accept
+132	R2	latinworks19wycl=michi | johanniswyclift00mattgoog=ntichi | johanniswyclift01mattgoog=utichi | tractatusdepotes00wycl=michi		4	accept
+152	R2	latinworks19wycl=ouod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=qitod | tractatusdepotes00wycl=quod		4	accept
+164	R4	latinworks19wycl=sanandi | johanniswyclift00mattgoog=sa23nandi | johanniswyclift01mattgoog=saa5nandi | tractatusdepotes00wycl=saa5nandi		4	plate

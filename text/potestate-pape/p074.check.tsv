@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+12	R3a	latinworks19wycl=fuit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=iuit | tractatusdepotes00wycl=fuit		4	accept
+59	R5a	latinworks19wycl=abraham | johanniswyclift00mattgoog=abraham | johanniswyclift01mattgoog=abraham | tractatusdepotes00wycl=abraham		4	accept
+61	R5a	latinworks19wycl=loth | johanniswyclift00mattgoog=loth | johanniswyclift01mattgoog=loth | tractatusdepotes00wycl=loth		4	accept
+71	R5a	latinworks19wycl=gen | johanniswyclift00mattgoog=gen | johanniswyclift01mattgoog=gen | tractatusdepotes00wycl=gen		4	accept
+80	R3	latinworks19wycl=iui | johanniswyclift00mattgoog=qui | johanniswyclift01mattgoog=qui | tractatusdepotes00wycl=l		4	plate
+90	R2	latinworks19wycl=quoad | johanniswyclift00mattgoog=quoad | johanniswyclift01mattgoog=ciuoad | tractatusdepotes00wycl=quoad		4	accept
+109	INS	i	3	4	accept
+136	R3	latinworks19wycl=otim | johanniswyclift00mattgoog=olim | tractatusdepotes00wycl=olim		3	plate
+145	R2	latinworks19wycl=antequam | johanniswyclift00mattgoog=antequam | johanniswyclift01mattgoog=antcqitam | tractatusdepotes00wycl=antequam		4	accept
+147	R2	latinworks19wycl=instinctu | johanniswyclift00mattgoog=iustiiutu | johanniswyclift01mattgoog=iiistiiictu | tractatusdepotes00wycl=instinctu		4	accept
+151	NW	latinworks19wycl=iierent | johanniswyclift00mattgoog=iierent | johanniswyclift01mattgoog=iierent | tractatusdepotes00wycl=iierent		4	plate
+160	R5a	latinworks19wycl=apollo | johanniswyclift00mattgoog=apollo | johanniswyclift01mattgoog=apollo | tractatusdepotes00wycl=apollo		4	accept
+167	R3	latinworks19wycl=ecclcsie | johanniswyclift00mattgoog=ecclesie | johanniswyclift01mattgoog=ecclesie | tractatusdepotes00wycl=ecclcsie		4	plate
+170	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=anient | johanniswyclift01mattgoog=atttent | tractatusdepotes00wycl=autem		4	accept
+171	R2	latinworks19wycl=unusquisque | johanniswyclift00mattgoog=unusquisque | johanniswyclift01mattgoog=uhusqiiisqite | tractatusdepotes00wycl=unusquisque		4	accept
+178	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=nou		4	accept
+179	R3a	latinworks19wycl=christi | johanniswyclift00mattgoog=chrisii | johanniswyclift01mattgoog=christi | tractatusdepotes00wycl=christi		4	accept
+182	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=nt | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+183	R2	latinworks19wycl=unus | johanniswyclift00mattgoog=nuns | johanniswyclift01mattgoog=units | tractatusdepotes00wycl=unus		4	accept
+189	R2	latinworks19wycl=semina | johanniswyclift00mattgoog=semina | johanniswyclift01mattgoog=semthii | tractatusdepotes00wycl=semina		4	accept

@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=hic | tractatusdepotes00wycl=hic		2	accept
+1	EDGE	latinworks19wycl=possumus | tractatusdepotes00wycl=possumus		2	accept
+2	EDGE	latinworks19wycl=palpare | tractatusdepotes00wycl=palpare		2	accept
+3	THIN	latinworks19wycl=siplus | tractatusdepotes00wycl=siplus		2	plate
+46	R2	latinworks19wycl=legem | johanniswyclift00mattgoog=lecfem | johanniswyclift01mattgoog=legem | tractatusdepotes00wycl=legem		4	accept
+66	R3	latinworks19wycl=prelato | johanniswyclift00mattgoog=prelate | johanniswyclift01mattgoog=prelate | tractatusdepotes00wycl=prelato		4	plate
+96	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=i3cimi | johanniswyclift01mattgoog=cum | tractatusdepotes00wycl=cum		4	accept
+138	R5a	latinworks19wycl=cesari | johanniswyclift00mattgoog=cesari | johanniswyclift01mattgoog=cesari | tractatusdepotes00wycl=cesari		4	accept
+206	INS?	i	2	4	plate

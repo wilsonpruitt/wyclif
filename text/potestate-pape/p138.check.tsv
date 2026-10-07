@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=intelligit		1	accept
+1	THIN	latinworks19wycl=scripttiram		1	plate
+2	EDGE	latinworks19wycl=sacram		1	accept
+3	THIN	latinworks19wycl=qtiam		1	plate
+4	EDGE	latinworks19wycl=spiritus | tractatusdepotes00wycl=spiritus		2	accept
+5	EDGE	latinworks19wycl=sanctus | tractatusdepotes00wycl=sanctus		2	accept
+6	EDGE	latinworks19wycl=flagitat | tractatusdepotes00wycl=flagitat		2	accept
+10	R2	latinworks19wycl=expresse | johanniswyclift00mattgoog=expresse | johanniswyclift01mattgoog=gttesse | tractatusdepotes00wycl=expresse		4	accept
+21	R2	latinworks19wycl=sermone | johanniswyclift00mattgoog=seinione | johanniswyclift01mattgoog=sermone | tractatusdepotes00wycl=sermone		4	accept
+26	R3a	latinworks19wycl=christi | johanniswyclift00mattgoog=christi | johanniswyclift01mattgoog=lhnsti | tractatusdepotes00wycl=christi		4	accept
+28	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
+101	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
+107	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
+131	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
+161	R2	latinworks19wycl=malas | johanniswyclift00mattgoog=malas | johanniswyclift01mattgoog=tualas | tractatusdepotes00wycl=malas		4	accept
+165	R2	latinworks19wycl=tttis | johanniswyclift00mattgoog=tuisy | johanniswyclift01mattgoog=tuis | tractatusdepotes00wycl=tuis		4	accept
+168	R2	latinworks19wycl=tui | johanniswyclift00mattgoog=tui | johanniswyclift01mattgoog=tut | tractatusdepotes00wycl=tui		4	accept
+202	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
+207	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petxus | tractatusdepotes00wycl=petrus		4	accept

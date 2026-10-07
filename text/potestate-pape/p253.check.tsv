@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=siluester | tractatusdepotes00wycl=siluester		2	accept
+1	EDGE	latinworks19wycl=sed | tractatusdepotes00wycl=sed		2	accept
+2	EDGE	latinworks19wycl=iste | tractatusdepotes00wycl=iste		2	accept
+3	EDGE	latinworks19wycl=deiectus | tractatusdepotes00wycl=deiectus		2	accept
+4	EDGE	latinworks19wycl=est		1	accept
+5	THIN	latinworks19wycl=etrestitutns		1	plate
+6	EDGE	latinworks19wycl=benedictus | tractatusdepotes00wycl=benedictus		2	accept
+7	EDGE	latinworks19wycl=qui | tractatusdepotes00wycl=qui		2	accept
+8	THIN	latinworks19wycl=iferum | tractatusdepotes00wycl=itemm		2	plate
+9	EDGE	latinworks19wycl=est | tractatusdepotes00wycl=est		2	accept
+10	THIN	latinworks19wycl=eiectus | tractatusdepotes00wycl=eiecius		2	plate
+11	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
+12	EDGE	latinworks19wycl=datus | tractatusdepotes00wycl=datus		2	accept
+13	EDGE	latinworks19wycl=est | tractatusdepotes00wycl=est		2	accept
+14	EDGE	latinworks19wycl=papatus | tractatusdepotes00wycl=papatus		2	accept
+15	THIN	latinworks19wycl=iohauui | tractatusdepotes00wycl=iohanni		2	plate
+16	THIN	latinworks19wycl=archipreshtero | tractatusdepotes00wycl=archipresbitero		2	plate
+19	R5	latinworks19wycl=latinam | johanniswyclift00mattgoog=latinam | tractatusdepotes00wycl=latinam		3	plate
+20	R2	latinworks19wycl=cui | johanniswyclift00mattgoog=cut | tractatusdepotes00wycl=cui		3	accept
+25	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+27	R3a	latinworks19wycl=ab | johanniswyclift00mattgoog=ab | johanniswyclift01mattgoog=ah | tractatusdepotes00wycl=ab		4	accept
+32	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+34	R4	latinworks19wycl=montes | johanniswyclift00mattgoog=monies | johanniswyclift01mattgoog=monies | tractatusdepotes00wycl=montes		4	plate
+35	R4	latinworks19wycl=translatus | johanniswyclift00mattgoog=iranslatus | johanniswyclift01mattgoog=iranslatus | tractatusdepotes00wycl=translafns		4	plate
+36	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+38	R2	latinworks19wycl=totum | johanniswyclift00mattgoog=totttm | johanniswyclift01mattgoog=totum | tractatusdepotes00wycl=totum		4	accept
+39	R3	latinworks19wycl=uno | johanniswyclift00mattgoog=nuo | johanniswyclift01mattgoog=tino | tractatusdepotes00wycl=uno		4	plate
+47	R2	latinworks19wycl=fnit | johanniswyclift00mattgoog=full | johanniswyclift01mattgoog=fiiit | tractatusdepotes00wycl=fuit		4	accept
+137	R2	latinworks19wycl=soimponunt | johanniswyclift00mattgoog=iniponunt | johanniswyclift01mattgoog=aoimponunt | tractatusdepotes00wycl=soimponunt		4	accept
+207	R5	latinworks19wycl=x | johanniswyclift00mattgoog=x | tractatusdepotes00wycl=x		3	plate
+212	R4	latinworks19wycl=belzebub | johanniswyclift00mattgoog=behebub | johanniswyclift01mattgoog=betzebub | tractatusdepotes00wycl=beizehuh		4	plate
+214	R3a	latinworks19wycl=quanto | johanniswyclift00mattgoog=quanto | johanniswyclift01mattgoog=quanta | tractatusdepotes00wycl=quanto		4	accept
+239	R2	latinworks19wycl=prorum5punt | johanniswyclift00mattgoog=prorumpunt | johanniswyclift01mattgoog=prorum3 | tractatusdepotes00wycl=prorumpunt		4	accept

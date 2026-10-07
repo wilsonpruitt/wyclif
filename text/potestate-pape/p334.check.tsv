@@ -1,0 +1,12 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks19wycl=rpsos		1	plate
+1	THIN	latinworks19wycl=iii		1	plate
+36	R2	latinworks19wycl=declinacione | johanniswyclift00mattgoog=declinacione | johanniswyclift01mattgoog=declii | tractatusdepotes00wycl=declinacione		4	accept
+72	R3a	latinworks19wycl=18 | johanniswyclift00mattgoog=18 | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=18		4	accept
+74	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+79	R2	latinworks19wycl=agrttm | johanniswyclift00mattgoog=agrum | johanniswyclift01mattgoog=agrtim | tractatusdepotes00wycl=agrum		4	accept
+88	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+128	R2	latinworks19wycl=ierusalem | johanniswyclift00mattgoog=ierusalem | johanniswyclift01mattgoog=ierusciera | tractatusdepotes00wycl=ierusalem		4	accept
+172	R5a	latinworks19wycl=iudas | johanniswyclift00mattgoog=iudas | johanniswyclift01mattgoog=iudas | tractatusdepotes00wycl=iudas		4	accept
+210	R5a	latinworks19wycl=yudas | johanniswyclift00mattgoog=yudas | johanniswyclift01mattgoog=yudas | tractatusdepotes00wycl=yudas		4	accept
+227	EDGE	latinworks19wycl=adultera | tractatusdepotes00wycl=adultera		2	accept

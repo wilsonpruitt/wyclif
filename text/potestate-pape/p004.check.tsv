@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+9	R2	latinworks19wycl=liberum | johanniswyclift00mattgoog=liberum | johanniswyclift01mattgoog=uberuui | tractatusdepotes00wycl=liberum		4	accept
+16	R2	latinworks19wycl=iie | johanniswyclift00mattgoog=de | johanniswyclift01mattgoog=de | tractatusdepotes00wycl=de		4	accept
+19	R2	latinworks19wycl=liberum | johanniswyclift00mattgoog=lberunii | johanniswyclift01mattgoog=libenim | tractatusdepotes00wycl=liberum		4	accept
+25	R2	latinworks19wycl=rectitudinem | johanniswyclift00mattgoog=rectitudinem | johanniswyclift01mattgoog=rectiludinctn | tractatusdepotes00wycl=rectitudinem		4	accept
+59	R2	latinworks19wycl=may | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=may		4	accept
+65	R4	latinworks19wycl=poteg | johanniswyclift00mattgoog=potestatem | johanniswyclift01mattgoog=potestatem | tractatusdepotes00wycl=poteg		4	plate
+66	R6	latinworks19wycl=statem | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=statem		4	plate
+80	R2	latinworks19wycl=mutatum | johanniswyclift00mattgoog=mutatum | johanniswyclift01mattgoog=mutatuniiut | tractatusdepotes00wycl=mutatum		4	accept
+81	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ut		4	accept
+150	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+164	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
+168	R2	latinworks19wycl=gencium | johanniswyclift00mattgoog=gencium | johanniswyclift01mattgoog=geucittm | tractatusdepotes00wycl=gencium		4	accept
+169	R2	latinworks19wycl=dominantur | johanniswyclift00mattgoog=dominantur | johanniswyclift01mattgoog=dotiluititur | tractatusdepotes00wycl=dominantur		4	accept
+189	R2	latinworks19wycl=suos | johanniswyclift00mattgoog=snos | johanniswyclift01mattgoog=siios | tractatusdepotes00wycl=suos		4	accept
+192	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=nt | tractatusdepotes00wycl=ut		4	accept

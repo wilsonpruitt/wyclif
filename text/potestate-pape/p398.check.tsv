@@ -1,0 +1,7 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	Pape.			plate
+1	EDGE	latinworks19wycl=sentencia | tractatusdepotes00wycl=sentencia		2	accept
+2	GAP	W. Pape. Senteneia	2	4	plate
+8	R3a	latinworks19wycl=capitulum | johanniswyclift00mattgoog=capital | johanniswyclift01mattgoog=capitulum | tractatusdepotes00wycl=capitulum		4	accept
+108	R3a	latinworks19wycl=humana | johanniswyclift00mattgoog=humana | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=humana		4	accept
+143	R3	latinworks19wycl=creatura | johanniswyclift00mattgoog=creaaf | johanniswyclift01mattgoog=crea | tractatusdepotes00wycl=creatura		4	plate

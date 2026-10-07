@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+29	R2	latinworks19wycl=ritu | johanniswyclift00mattgoog=ritu | johanniswyclift01mattgoog=ritii | tractatusdepotes00wycl=ritu		4	accept
+45	R3a	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=quantum		4	accept
+52	R3	latinworks19wycl=dommus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=diiniinus | tractatusdepotes00wycl=dominus		4	plate
+55	R5a	latinworks19wycl=uii | johanniswyclift00mattgoog=uii | johanniswyclift01mattgoog=uii | tractatusdepotes00wycl=uii		4	accept
+63	R4	latinworks19wycl=pontmces | johanniswyclift00mattgoog=pontitices | johanniswyclift01mattgoog=pontifices | tractatusdepotes00wycl=pontmces		4	plate
+90	R3a	latinworks19wycl=nec | johanniswyclift00mattgoog=nee | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=nec		4	accept
+142	R6	latinworks19wycl=weii | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=weii		4	plate
+153	R5a	latinworks19wycl=mathiam | johanniswyclift00mattgoog=mathiam | johanniswyclift01mattgoog=mathiam | tractatusdepotes00wycl=mathiam		4	accept
+154	R4a	latinworks19wycl=ldeo | johanniswyclift00mattgoog=ideo | johanniswyclift01mattgoog=iden | tractatusdepotes00wycl=ldeo		4	accept
+159	R3	latinworks19wycl=ouantum | johanniswyclift00mattgoog=quantum | johanniswyclift01mattgoog=quantum | tractatusdepotes00wycl=iuantum		4	plate
+161	R2	latinworks19wycl=illud | johanniswyclift00mattgoog=illud | johanniswyclift01mattgoog=illud | tractatusdepotes00wycl=lllua		4	accept
+166	R4a	latinworks19wycl=multitudmem | johanniswyclift00mattgoog=multitudmem | johanniswyclift01mattgoog=multitudinftni | tractatusdepotes00wycl=multitudinem		4	accept
+170	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+179	R2	latinworks19wycl=statuerunt | johanniswyclift00mattgoog=siaiuernnt | johanniswyclift01mattgoog=statueruni | tractatusdepotes00wycl=statuerunt		4	accept
+208	EDGE	latinworks19wycl=mittant | tractatusdepotes00wycl=mittant		2	accept
+209	EDGE	latinworks19wycl=sortem | tractatusdepotes00wycl=sortem		2	accept

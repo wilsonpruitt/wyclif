@@ -1,0 +1,32 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=uel | tractatusdepotes00wycl=uel		2	accept
+1	EDGE	latinworks19wycl=gemmis | tractatusdepotes00wycl=gemmis		2	accept
+2	EDGE	latinworks19wycl=ornatus | tractatusdepotes00wycl=ornatus		2	accept
+3	EDGE	latinworks19wycl=uel | tractatusdepotes00wycl=uel		2	accept
+4	EDGE	latinworks19wycl=sericis | tractatusdepotes00wycl=sericis		2	accept
+5	EDGE	latinworks19wycl=non | tractatusdepotes00wycl=non		2	accept
+6	THIN	latinworks19wycl=teclus | tractatusdepotes00wycl=teclus		2	plate
+7	THIN	latinworks19wycl=anro | tractatusdepotes00wycl=auro		2	plate
+8	EDGE	latinworks19wycl=uel | tractatusdepotes00wycl=uel		2	accept
+9	EDGE	latinworks19wycl=uectus | tractatusdepotes00wycl=uectus		2	accept
+10	EDGE	latinworks19wycl=equo | tractatusdepotes00wycl=equo		2	accept
+11	EDGE	latinworks19wycl=albo | tractatusdepotes00wycl=albo		2	accept
+12	EDGE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept
+13	THIN	latinworks19wycl=stipatns | tractatusdepotes00wycl=stipatus		2	plate
+14	EDGE	latinworks19wycl=milite | tractatusdepotes00wycl=milite		2	accept
+15	EDGE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept
+16	EDGE	latinworks19wycl=circumstrepentibus | tractatusdepotes00wycl=circumstrepentibus		2	accept
+17	EDGE	latinworks19wycl=ministris | tractatusdepotes00wycl=ministris		2	accept
+18	EDGE	latinworks19wycl=absque | tractatusdepotes00wycl=absque		2	accept
+19	THIN	latinworks19wycl=itiis | tractatusdepotes00wycl=hiis		2	plate
+20	EDGE	latinworks19wycl=tamen | tractatusdepotes00wycl=tamen		2	accept
+26	R2	latinworks19wycl=mandatum | johanniswyclift00mattgoog=mandatum | johanniswyclift01mattgoog=wandattim | tractatusdepotes00wycl=mandatum		4	accept
+29	R3a	latinworks19wycl=me | johanniswyclift00mattgoog=mey | johanniswyclift01mattgoog=me | tractatusdepotes00wycl=me		4	accept
+34	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept
+37	R4	latinworks19wycl=petro | johanniswyclift00mattgoog=peiro | johanniswyclift01mattgoog=peiro | tractatusdepotes00wycl=petro		4	plate
+94	R3	latinworks19wycl=miurie | johanniswyclift00mattgoog=iniurie | johanniswyclift01mattgoog=iniune | tractatusdepotes00wycl=miurie		4	plate
+110	R2	latinworks19wycl=momenti | johanniswyclift00mattgoog=momenti | johanniswyclift01mattgoog=nionienti | tractatusdepotes00wycl=momenti		4	accept
+173	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+176	R2	latinworks19wycl=bonum | johanniswyclift00mattgoog=bonum | johanniswyclift01mattgoog=bonuut | tractatusdepotes00wycl=bonum		4	accept
+186	R3a	latinworks19wycl=iudicium | johanniswyclift00mattgoog=indicium | johanniswyclift01mattgoog=iudicium | tractatusdepotes00wycl=iudicium		4	accept
+190	R3	latinworks19wycl=iudicium | johanniswyclift00mattgoog=indicium | johanniswyclift01mattgoog=indicium | tractatusdepotes00wycl=iudicium		4	plate

@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+25	R2	latinworks19wycl=extollitur | johanniswyclift00mattgoog=extollitur | johanniswyclift01mattgoog=exiolliiur | tractatusdepotes00wycl=extolhuir		4	accept
+27	R2	latinworks19wycl=omne | johanniswyclift00mattgoog=omne | johanniswyclift01mattgoog=ontne | tractatusdepotes00wycl=omne		4	accept
+30	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus		4	accept
+74	R3a	latinworks19wycl=hinc | johanniswyclift00mattgoog=hine | johanniswyclift01mattgoog=hinc | tractatusdepotes00wycl=hinc		4	accept
+83	R5a	latinworks19wycl=mathiam | johanniswyclift00mattgoog=mathiam | johanniswyclift01mattgoog=mathiam | tractatusdepotes00wycl=mathiam		4	accept
+98	R3a	latinworks19wycl=cum | johanniswyclift00mattgoog=eum | johanniswyclift01mattgoog=cum | tractatusdepotes00wycl=cum		4	accept
+106	R5a	latinworks19wycl=uei | johanniswyclift00mattgoog=uei | johanniswyclift01mattgoog=uei | tractatusdepotes00wycl=uei		4	accept
+116	THIN	latinworks19wycl=asserrere | tractatusdepotes00wycl=toisabthathgodasserrere		2	plate
+117	THIN	latinworks19wycl=iuod | tractatusdepotes00wycl=iuod		2	plate
+118	THIN	latinworks19wycl=e | tractatusdepotes00wycl=e		2	plate
+120	R4	latinworks19wycl=iuo | johanniswyclift00mattgoog=quo | tractatusdepotes00wycl=iuo		3	plate
+123	THIN	latinworks19wycl=sta | tractatusdepotes00wycl=sta		2	plate
+124	THIN	latinworks19wycl=tuit | tractatusdepotes00wycl=tuit		2	plate
+125	THIN	latinworks19wycl=eciam | tractatusdepotes00wycl=eciam		2	plate
+129	R3a	latinworks19wycl=tunc | johanniswyclift00mattgoog=tune | johanniswyclift01mattgoog=tunc | tractatusdepotes00wycl=tunc		4	accept
+132	R4	latinworks19wycl=uei | johanniswyclift00mattgoog=yei | johanniswyclift01mattgoog=uel | tractatusdepotes00wycl=yei		4	plate
+133	R3a	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=quod | tractatusdepotes00wycl=quoi		4	accept
+235	EDGE	latinworks19wycl=ethnici | tractatusdepotes00wycl=ethnici		2	accept
+236	EDGE	latinworks19wycl=et | tractatusdepotes00wycl=et		2	accept
+237	EDGE	latinworks19wycl=publicani | tractatusdepotes00wycl=publicani		2	accept

@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks19wycl=mnndi		1	plate
+1	EDGE	latinworks19wycl=iam | tractatusdepotes00wycl=iam		2	accept
+2	EDGE	latinworks19wycl=attendite | tractatusdepotes00wycl=attendite		2	accept
+6	R4	latinworks19wycl=iniendebat | johanniswyclift00mattgoog=intendebat | johanniswyclift01mattgoog=iniendebat | tractatusdepotes00wycl=intendebat		4	plate
+10	R3	latinworks19wycl=erant | johanniswyclift00mattgoog=erani | johanniswyclift01mattgoog=erani | tractatusdepotes00wycl=erant		4	plate
+20	R2	latinworks19wycl=ftuuio | johanniswyclift00mattgoog=ftuuio | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=fiuuio		4	accept
+79	R5a	latinworks19wycl=q | johanniswyclift00mattgoog=q | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=q		4	accept
+80	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+94	NW	latinworks19wycl=leuita | johanniswyclift00mattgoog=leuita | johanniswyclift01mattgoog=leuua | tractatusdepotes00wycl=leuita		4	plate
+104	R5a	latinworks19wycl=q | johanniswyclift00mattgoog=q | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=q		4	accept
+107	R2	latinworks19wycl=is | johanniswyclift00mattgoog=isib | tractatusdepotes00wycl=is		3	accept
+108	R5	latinworks19wycl=leuita | johanniswyclift00mattgoog=leuita | tractatusdepotes00wycl=leuita		3	plate
+125	R2	latinworks19wycl=mirum | johanniswyclift00mattgoog=mirum | johanniswyclift01mattgoog=mirntn | tractatusdepotes00wycl=mirum		4	accept
+129	R4	latinworks19wycl=ligantur | johanniswyclift00mattgoog=liganiur | johanniswyclift01mattgoog=liganiur | tractatusdepotes00wycl=ligantur		4	plate
+139	R2	latinworks19wycl=merita | johanniswyclift00mattgoog=merita | johanniswyclift01mattgoog=utcriia | tractatusdepotes00wycl=merita		4	accept
+144	R2	latinworks19wycl=et | johanniswyclift00mattgoog=etao | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+148	R5a	latinworks19wycl=q | johanniswyclift00mattgoog=q | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=q		4	accept
+150	R3a	latinworks19wycl=ubi | johanniswyclift00mattgoog=ubi | johanniswyclift01mattgoog=uti | tractatusdepotes00wycl=ubi		4	accept
+161	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=quod		4	accept
+167	R4	latinworks19wycl=ieus | johanniswyclift00mattgoog=iig | johanniswyclift01mattgoog=ieus | tractatusdepotes00wycl=deus		4	plate

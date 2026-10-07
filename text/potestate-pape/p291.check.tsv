@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+4	NW	latinworks19wycl=funo | johanniswyclift00mattgoog=funo | johanniswyclift01mattgoog=funo | tractatusdepotes00wycl=funo		4	plate
+61	R2	latinworks19wycl=prudenciam | johanniswyclift00mattgoog=prudenciam | johanniswyclift01mattgoog=pnidenciani | tractatusdepotes00wycl=prudenciam		4	accept
+91	R4	latinworks19wycl=nouel | johanniswyclift00mattgoog=nouello | johanniswyclift01mattgoog=nouello | tractatusdepotes00wycl=nouel		4	plate
+104	R2	latinworks19wycl=atque | johanniswyclift00mattgoog=atque | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=atque		4	accept
+130	DEL	latinworks19wycl=33d | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+137	R3a	latinworks19wycl=quibusprimo | johanniswyclift00mattgoog=quibusprimo | johanniswyclift01mattgoog=quibus | tractatusdepotes00wycl=quibusprimo		4	accept
+143	R3a	latinworks19wycl=palln | johanniswyclift00mattgoog=pallii | johanniswyclift01mattgoog=pallu | tractatusdepotes00wycl=pallii		4	accept
+145	R3a	latinworks19wycl=tenore | johanniswyclift00mattgoog=tenore | johanniswyclift01mattgoog=fenore | tractatusdepotes00wycl=tenore		4	accept
+152	R3a	latinworks19wycl=pallii | johanniswyclift00mattgoog=pallu | johanniswyclift01mattgoog=pallii | tractatusdepotes00wycl=pallii		4	accept
+197	TAIL	Sacramentum pingue dabo	2	4	plate

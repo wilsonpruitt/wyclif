@@ -1,0 +1,25 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks19wycl=cauonicatum		1	plate
+1	EDGE	latinworks19wycl=contulit | tractatusdepotes00wycl=contulit		2	accept
+5	R2	latinworks19wycl=cui | johanniswyclift00mattgoog=cut | tractatusdepotes00wycl=cui		3	accept
+8	R5	latinworks19wycl=canonicatum | johanniswyclift00mattgoog=canonicatum | tractatusdepotes00wycl=canonicatum		3	plate
+9	EDGE	latinworks19wycl=ignorante | tractatusdepotes00wycl=ignorante		2	accept
+10	EDGE	latinworks19wycl=executore | tractatusdepotes00wycl=executore		2	accept
+15	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autent | johanniswyclift01mattgoog=autem | tractatusdepotes00wycl=autem		4	accept
+26	R2	latinworks19wycl=prius | johanniswyclift00mattgoog=prius | johanniswyclift01mattgoog=pritis | tractatusdepotes00wycl=prius		4	accept
+28	R3a	latinworks19wycl=erit | johanniswyclift00mattgoog=serit | johanniswyclift01mattgoog=eril | tractatusdepotes00wycl=erit		4	accept
+32	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
+38	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis		4	plate
+39	R2	latinworks19wycl=tribus | johanniswyclift00mattgoog=tribus | johanniswyclift01mattgoog=iribits | tractatusdepotes00wycl=tribus		4	accept
+43	R3a	latinworks19wycl=spectat | johanniswyclift00mattgoog=spectat | johanniswyclift01mattgoog=spectai | tractatusdepotes00wycl=spectat		4	accept
+46	R2	latinworks19wycl=maior | johanniswyclift00mattgoog=maior | johanniswyclift01mattgoog=ntaior | tractatusdepotes00wycl=maior		4	accept
+48	R2	latinworks19wycl=eorum | johanniswyclift00mattgoog=eorunt | johanniswyclift01mattgoog=eorum | tractatusdepotes00wycl=eorum		4	accept
+49	R2	latinworks19wycl=tenetur | johanniswyclift00mattgoog=tenetur | johanniswyclift01mattgoog=teneinr | tractatusdepotes00wycl=tenetur		4	accept
+53	R2	latinworks19wycl=fructu | johanniswyclift00mattgoog=fructu | johanniswyclift01mattgoog=frucln | tractatusdepotes00wycl=fructu		4	accept
+65	R2	latinworks19wycl=illorum | johanniswyclift00mattgoog=iltornm | johanniswyclift01mattgoog=illortim | tractatusdepotes00wycl=illorum		4	accept
+100	R3a	latinworks19wycl=capitali | johanniswyclift00mattgoog=capitali | johanniswyclift01mattgoog=capital | tractatusdepotes00wycl=capitali		4	accept
+117	R3a	latinworks19wycl=iudicium | johanniswyclift00mattgoog=iudicium | johanniswyclift01mattgoog=indicium | tractatusdepotes00wycl=iudicium		4	accept
+175	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
+184	R2	latinworks19wycl=enim | johanniswyclift00mattgoog=enim | johanniswyclift01mattgoog=enira | tractatusdepotes00wycl=enim		4	accept
+188	R4	latinworks19wycl=preferre | johanniswyclift00mattgoog=sopreferre | johanniswyclift01mattgoog=preferre | tractatusdepotes00wycl=sopreferre		4	plate
+199	R5a	latinworks19wycl=iudas | johanniswyclift00mattgoog=iudas | johanniswyclift01mattgoog=iudas | tractatusdepotes00wycl=iudas		4	accept

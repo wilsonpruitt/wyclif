@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=ego		1	accept
+1	EDGE	latinworks19wycl=uos		1	accept
+2	THIN	latinworks19wycl=genuu		1	plate
+11	R2	latinworks19wycl=mei | johanniswyclift00mattgoog=ntei | johanniswyclift01mattgoog=met | tractatusdepotes00wycl=mei		4	accept
+12	R2	latinworks19wycl=qitos | johanniswyclift00mattgoog=quos | johanniswyclift01mattgoog=quos | tractatusdepotes00wycl=quos		4	accept
+51	NW	latinworks19wycl=pretensionem | johanniswyclift00mattgoog=pretensionem | johanniswyclift01mattgoog=pretensionem | tractatusdepotes00wycl=pretensionem		4	plate
+97	R3a	latinworks19wycl=ue | johanniswyclift00mattgoog=uel | johanniswyclift01mattgoog=uel5 | tractatusdepotes00wycl=uel		4	accept
+105	R4	latinworks19wycl=etdecem | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=etdecem		3	plate
+156	R2	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=i		4	accept
+158	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+166	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=cum		4	accept
+180	R5a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
+188	R2	latinworks19wycl=nullum | johanniswyclift00mattgoog=nullum | johanniswyclift01mattgoog=uuumn | tractatusdepotes00wycl=nullum		4	accept
+192	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quam | johanniswyclift01mattgoog=qmim | tractatusdepotes00wycl=quam		4	accept

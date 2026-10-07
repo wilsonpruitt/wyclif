@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+2	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
+19	R3a	latinworks19wycl=16 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=16 | tractatusdepotes00wycl=16		4	accept
+20	R2	latinworks19wycl=ue | johanniswyclift00mattgoog=flf | johanniswyclift01mattgoog=ue | tractatusdepotes00wycl=ue		4	accept
+21	R2	latinworks19wycl=mihi | johanniswyclift00mattgoog=mihiy | johanniswyclift01mattgoog=ntihi | tractatusdepotes00wycl=mihi		4	accept
+44	R5a	latinworks19wycl=rom | johanniswyclift00mattgoog=rom | johanniswyclift01mattgoog=rom | tractatusdepotes00wycl=rom		4	accept
+46	R3a	latinworks19wycl=18 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=18 | tractatusdepotes00wycl=18		4	accept
+51	R2	latinworks19wycl=audeo | johanniswyclift00mattgoog=audeo | johanniswyclift01mattgoog=auico | tractatusdepotes00wycl=audeo		4	accept
+54	R2	latinworks19wycl=eorum | johanniswyclift00mattgoog=eorum | johanniswyclift01mattgoog=eorttm | tractatusdepotes00wycl=eorum		4	accept
+59	R2	latinworks19wycl=eifecit | johanniswyclift00mattgoog=effecit | johanniswyclift01mattgoog=elfecii | tractatusdepotes00wycl=effecit		4	accept
+120	R3a	latinworks19wycl=peccatum | johanniswyclift00mattgoog=peccatum | johanniswyclift01mattgoog=peccatura | tractatusdepotes00wycl=peccatum		4	accept
+200	R3a	latinworks19wycl=augusostinus | johanniswyclift00mattgoog=augustinus | johanniswyclift01mattgoog=auguostinus | tractatusdepotes00wycl=augusostinus		4	accept
+212	EDGE	latinworks19wycl=quem | tractatusdepotes00wycl=quem		2	accept
+213	EDGE	latinworks19wycl=uoluit | tractatusdepotes00wycl=uoluit		2	accept
+214	EDGE	latinworks19wycl=sed | tractatusdepotes00wycl=sed		2	accept

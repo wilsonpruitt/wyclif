@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=ac		1	accept
+1	THIN	latinworks19wycl=idbor		1	plate
+2	THIN	latinworks19wycl=exprimitnr		1	plate
+13	R2	latinworks19wycl=sanctitatis | johanniswyclift00mattgoog=sattcii | tractatusdepotes00wycl=sanctitatis		3	accept
+17	R3	latinworks19wycl=uerbo | johanniswyclift00mattgoog=uerba | tractatusdepotes00wycl=uerbo		3	plate
+26	R2	latinworks19wycl=hunc | johanniswyclift00mattgoog=hunc | johanniswyclift01mattgoog=huttc | tractatusdepotes00wycl=hunc		4	accept
+32	R4	latinworks19wycl=terrena | johanniswyclift00mattgoog=lerrena | johanniswyclift01mattgoog=lerrena | tractatusdepotes00wycl=terrena		4	plate
+39	R2	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=itt | tractatusdepotes00wycl=in		4	accept
+63	R3a	latinworks19wycl=peruerso | johanniswyclift00mattgoog=peruerse | johanniswyclift01mattgoog=peruerso | tractatusdepotes00wycl=peruerso		4	accept
+67	R5a	latinworks19wycl=romano | johanniswyclift00mattgoog=romano | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romano		4	accept
+80	R6	latinworks19wycl=of | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=of		4	plate
+95	R2	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=inn | tractatusdepotes00wycl=im		4	accept
+183	R2	latinworks19wycl=alium | johanniswyclift00mattgoog=limn | johanniswyclift01mattgoog=alium | tractatusdepotes00wycl=alium		4	accept
+185	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quam | johanniswyclift01mattgoog=qttam | tractatusdepotes00wycl=quam		4	accept

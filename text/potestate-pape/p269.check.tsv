@@ -1,0 +1,12 @@
+pos	rule	forms	support	voters	resolution
+50	R3	latinworks19wycl=christianus | johanniswyclift00mattgoog=christianus | johanniswyclift01mattgoog=chnstianus | tractatusdepotes00wycl=chnstianus		4	plate
+85	R3a	latinworks19wycl=doctorum | johanniswyclift00mattgoog=doctorum | johanniswyclift01mattgoog=docturum | tractatusdepotes00wycl=doctorum		4	accept
+92	R3a	latinworks19wycl=composito | johanniswyclift00mattgoog=composite | johanniswyclift01mattgoog=composito | tractatusdepotes00wycl=composito		4	accept
+104	R3a	latinworks19wycl=separare | johanniswyclift00mattgoog=separare | johanniswyclift01mattgoog=separate | tractatusdepotes00wycl=separare		4	accept
+115	R2	latinworks19wycl=eodem | johanniswyclift00mattgoog=eodem | johanniswyclift01mattgoog=eodera | tractatusdepotes00wycl=eodem		4	accept
+168	R5a	latinworks19wycl=petrum | johanniswyclift00mattgoog=petrum | johanniswyclift01mattgoog=petrum | tractatusdepotes00wycl=petrum		4	accept
+196	R2	latinworks19wycl=koc | johanniswyclift00mattgoog=hoc | johanniswyclift01mattgoog=hoc | tractatusdepotes00wycl=hoc		4	accept
+200	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quant | johanniswyclift01mattgoog=quam | tractatusdepotes00wycl=quam		4	accept
+211	R4a	latinworks19wycl=magnns | johanniswyclift00mattgoog=magnns | tractatusdepotes00wycl=magnus		3	accept
+214	EDGE	latinworks19wycl=tu | tractatusdepotes00wycl=tu		2	accept
+215	EDGE	latinworks19wycl=princeps | tractatusdepotes00wycl=princeps		2	accept

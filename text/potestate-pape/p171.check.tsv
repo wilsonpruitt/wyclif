@@ -1,0 +1,44 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=sed | tractatusdepotes00wycl=sed		2	accept
+1	EDGE	latinworks19wycl=non | tractatusdepotes00wycl=non		2	accept
+2	EDGE	latinworks19wycl=apostolico | tractatusdepotes00wycl=apostolico		2	accept
+3	EDGE	latinworks19wycl=iure | tractatusdepotes00wycl=iure		2	accept
+4	EDGE	latinworks19wycl=nec | tractatusdepotes00wycl=nec		2	accept
+5	EDGE	latinworks19wycl=enim | tractatusdepotes00wycl=enim		2	accept
+6	EDGE	latinworks19wycl=tibi | tractatusdepotes00wycl=tibi		2	accept
+7	EDGE	latinworks19wycl=dare | tractatusdepotes00wycl=dare		2	accept
+8	THIN	latinworks19wycl=quod | tractatusdepotes00wycl=qnod		2	plate
+9	THIN	latinworks19wycl=11011 | tractatusdepotes00wycl=non		2	plate
+10	EDGE	latinworks19wycl=habuit | tractatusdepotes00wycl=habuit		2	accept
+11	EDGE	latinworks19wycl=potuit | tractatusdepotes00wycl=potuit		2	accept
+12	EDGE	latinworks19wycl=quod | tractatusdepotes00wycl=quod		2	accept
+13	EDGE	latinworks19wycl=habuit | tractatusdepotes00wycl=habuit		2	accept
+14	THIN	latinworks19wycl=lioc | tractatusdepotes00wycl=hoc		2	plate
+15	EDGE	latinworks19wycl=dedit | tractatusdepotes00wycl=dedit		2	accept
+16	EDGE	latinworks19wycl=sollicitudinem | tractatusdepotes00wycl=sollicitudinem		2	accept
+25	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nou | tractatusdepotes00wycl=non		4	accept
+27	R2	latinworks19wycl=ait | johanniswyclift00mattgoog=aii | johanniswyclift01mattgoog=ait | tractatusdepotes00wycl=ait		4	accept
+34	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
+37	R2	latinworks19wycl=dictum | johanniswyclift00mattgoog=dictum | johanniswyclift01mattgoog=diclntn | tractatusdepotes00wycl=dictum		4	accept
+51	R2	latinworks19wycl=dominantur | johanniswyclift00mattgoog=dominantur | johanniswyclift01mattgoog=dotmirianiur | tractatusdepotes00wycl=dominantur		4	accept
+54	R3	latinworks19wycl=autem | johanniswyclift00mattgoog=antem | johanniswyclift01mattgoog=autem | tractatusdepotes00wycl=atttem		4	plate
+55	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non		4	accept
+66	R3a	latinworks19wycl=manifeste | johanniswyclift00mattgoog=manifesto | johanniswyclift01mattgoog=nianifeste | tractatusdepotes00wycl=manifeste		4	accept
+73	R2	latinworks19wycl=bernhardus | johanniswyclift00mattgoog=bernhardus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=bernhardus		4	accept
+75	R3a	latinworks19wycl=manifeste | johanniswyclift00mattgoog=manifesto | johanniswyclift01mattgoog=manifeste | tractatusdepotes00wycl=manifeste		4	accept
+78	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nun | tractatusdepotes00wycl=non		4	accept
+90	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis		4	plate
+93	R2	latinworks19wycl=petro | johanniswyclift00mattgoog=petro | johanniswyclift01mattgoog=pciro | tractatusdepotes00wycl=petro		4	accept
+95	R2	latinworks19wycl=constantino | johanniswyclift00mattgoog=constantino | johanniswyclift01mattgoog=conibernhardus | tractatusdepotes00wycl=conet		4	accept
+96	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+97	R2	latinworks19wycl=patet | johanniswyclift00mattgoog=patet | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=patet		4	accept
+103	NW	latinworks19wycl=blastema | johanniswyclift00mattgoog=biasfema | johanniswyclift01mattgoog=biasfema | tractatusdepotes00wycl=blasrema		4	plate
+106	R4	latinworks19wycl=dommia | johanniswyclift00mattgoog=dominia | johanniswyclift01mattgoog=donnnia | tractatusdepotes00wycl=dommia		4	plate
+109	R3a	latinworks19wycl=patet | johanniswyclift00mattgoog=patet | johanniswyclift01mattgoog=latet | tractatusdepotes00wycl=fatet		4	accept
+121	R2	latinworks19wycl=sed | johanniswyclift00mattgoog=sed | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sed		4	accept
+135	R5a	latinworks19wycl=dan | johanniswyclift00mattgoog=dan | johanniswyclift01mattgoog=dan | tractatusdepotes00wycl=dan		4	accept
+170	R2	latinworks19wycl=sebastiano | johanniswyclift00mattgoog=sebastiano | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sebastiano		4	accept
+171	R5a	latinworks19wycl=martino | johanniswyclift00mattgoog=martino | johanniswyclift01mattgoog=martino | tractatusdepotes00wycl=martino		4	accept
+205	R2	latinworks19wycl=ii | johanniswyclift00mattgoog=ii | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=ii		4	accept
+207	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+213	R3a	latinworks19wycl=genere | johanniswyclift00mattgoog=genere | johanniswyclift01mattgoog=genera | tractatusdepotes00wycl=genere		4	accept

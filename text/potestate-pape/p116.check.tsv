@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+29	R2	latinworks19wycl=dicit | johanniswyclift00mattgoog=dicit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=dicit		4	accept
+37	R2	latinworks19wycl=illud | johanniswyclift00mattgoog=illud | johanniswyclift01mattgoog=dlud | tractatusdepotes00wycl=illud		4	accept
+52	R2	latinworks19wycl=riapa | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=papa | tractatusdepotes00wycl=papa		4	accept
+77	R3a	latinworks19wycl=ideo | johanniswyclift00mattgoog=idee | johanniswyclift01mattgoog=ideo | tractatusdepotes00wycl=ideo		4	accept
+157	R2	latinworks19wycl=scripture | johanniswyclift00mattgoog=scripture | johanniswyclift01mattgoog=scripture | tractatusdepotes00wycl=scrip25		4	accept
+195	R2	latinworks19wycl=obiectum | johanniswyclift00mattgoog=ob30 | johanniswyclift01mattgoog=obiectum | tractatusdepotes00wycl=obiectum		4	accept
+196	R2	latinworks19wycl=is | johanniswyclift00mattgoog=iectum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=is		4	accept
+206	R2	latinworks19wycl=signo | johanniswyclift00mattgoog=sigtio | johanniswyclift01mattgoog=signo | tractatusdepotes00wycl=signo		4	accept

@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+48	THIN	latinworks19wycl=mferioritatem | tractatusdepotes00wycl=mferioritatem		2	plate
+49	THIN	latinworks19wycl=celans | tractatusdepotes00wycl=celans		2	plate
+57	R4	latinworks19wycl=toh | johanniswyclift00mattgoog=ioh | johanniswyclift01mattgoog=ioh | tractatusdepotes00wycl=toh		4	plate
+62	R2	latinworks19wycl=m | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=into | tractatusdepotes00wycl=in		4	accept
+103	R3	latinworks19wycl=pene | johanniswyclift00mattgoog=pane | johanniswyclift01mattgoog=pane | tractatusdepotes00wycl=pene		4	plate
+147	R3a	latinworks19wycl=modo | johanniswyclift00mattgoog=modo | johanniswyclift01mattgoog=mode | tractatusdepotes00wycl=modo		4	accept
+165	R2	latinworks19wycl=domi25 | johanniswyclift00mattgoog=dominandi | johanniswyclift01mattgoog=domiinandi | tractatusdepotes00wycl=dominandi		4	accept
+166	DEL	latinworks19wycl=nandi | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+179	R3a	latinworks19wycl=ii | johanniswyclift00mattgoog=11 | johanniswyclift01mattgoog=ii | tractatusdepotes00wycl=ii		4	accept
+198	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=deusi | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus		4	accept
+203	R2	latinworks19wycl=extollitur | johanniswyclift00mattgoog=extollitur | johanniswyclift01mattgoog=extouilur | tractatusdepotes00wycl=extollitur		4	accept
+204	R3a	latinworks19wycl=super | johanniswyclift00mattgoog=super | johanniswyclift01mattgoog=superit | tractatusdepotes00wycl=super		4	accept
+207	R2	latinworks19wycl=dicitur | johanniswyclift00mattgoog=dicitur | johanniswyclift01mattgoog=diciliir | tractatusdepotes00wycl=dicitur		4	accept
+208	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus		4	accept

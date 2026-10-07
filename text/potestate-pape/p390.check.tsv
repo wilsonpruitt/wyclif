@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+104	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
+105	R2	latinworks19wycl=cuncti | johanniswyclift00mattgoog=cuncti | johanniswyclift01mattgoog=cuttcii | tractatusdepotes00wycl=cuncti		4	accept
+131	R3a	latinworks19wycl=iram | johanniswyclift00mattgoog=tram | johanniswyclift01mattgoog=irant | tractatusdepotes00wycl=iram		4	accept
+134	R2	latinworks19wycl=accendeus | johanniswyclift00mattgoog=accendensi | johanniswyclift01mattgoog=acceudcus | tractatusdepotes00wycl=accendens		4	accept
+142	R3	latinworks19wycl=ruine | johanniswyclift00mattgoog=rttine | johanniswyclift01mattgoog=mine | tractatusdepotes00wycl=ruine		4	plate
+143	R6	latinworks19wycl=to | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=to		4	plate
+157	R2	latinworks19wycl=gregorius | johanniswyclift00mattgoog=iregorius | johanniswyclift01mattgoog=tiregonus | tractatusdepotes00wycl=gregonus		4	accept
+161	R3a	latinworks19wycl=hns | johanniswyclift00mattgoog=hus | johanniswyclift01mattgoog=inis | tractatusdepotes00wycl=hiis		4	accept
+163	R2	latinworks19wycl=hiucprecipites | johanniswyclift00mattgoog=uinc | tractatusdepotes00wycl=hinc		3	accept
+164	INS?	precipites	2	4	plate
+169	R3a	latinworks19wycl=proprio | johanniswyclift00mattgoog=proprio | johanniswyclift01mattgoog=propria | tractatusdepotes00wycl=proprio		4	accept
+174	R2	latinworks19wycl=uietuunt | johanniswyclift00mattgoog=inetnunt | johanniswyclift01mattgoog=metunni | tractatusdepotes00wycl=metuunt		4	accept
+179	R2	latinworks19wycl=ducaiuni | johanniswyclift00mattgoog=ducatum | johanniswyclift01mattgoog=ducatum | tractatusdepotes00wycl=ducatum		4	accept
+183	R2	latinworks19wycl=iubcnte | johanniswyclift01mattgoog=iubchie | tractatusdepotes00wycl=iubente		3	accept
+184	R3	latinworks19wycl=tiniuerunt | johanniswyclift01mattgoog=timuerunt | tractatusdepotes00wycl=timuerunt		3	plate
+189	R2	latinworks19wycl=infirmus | johanniswyclift00mattgoog=inhrntus | johanniswyclift01mattgoog=iuhrmus | tractatusdepotes00wycl=inhrmus		4	accept
+195	R2	latinworks19wycl=anhelat | johanniswyclift00mattgoog=anhelaio | johanniswyclift01mattgoog=anheiai | tractatusdepotes00wycl=anhelat		4	accept
+199	R2	latinworks19wycl=casum | johanniswyclift00mattgoog=casnm | johanniswyclift01mattgoog=casiim | tractatusdepotes00wycl=casum		4	accept
+216	EDGE	latinworks19wycl=auget | tractatusdepotes00wycl=auget		2	accept
+217	EDGE	latinworks19wycl=quod | tractatusdepotes00wycl=quod		2	accept

@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+7	INS?	i	2	4	plate
+24	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=m		4	accept
+35	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
+45	R3a	latinworks19wycl=locum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=locum | tractatusdepotes00wycl=locum		4	accept
+68	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+90	R3	latinworks19wycl=sanctmcat | johanniswyclift00mattgoog=sanctificat | johanniswyclift01mattgoog=sanctificati | tractatusdepotes00wycl=sanctmcat		4	plate
+128	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+133	R2	latinworks19wycl=te | johanniswyclift00mattgoog=te | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=te		4	accept
+187	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
+198	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=colugitur | johanniswyclift01mattgoog=ex | tractatusdepotes00wycl=x		4	accept
+199	R3	latinworks19wycl=istis | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=istis | tractatusdepotes00wycl=ss		4	plate
+200	R2	latinworks19wycl=colligitur | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=colligitur | tractatusdepotes00wycl=colligitur		4	accept
+229	EDGE	latinworks19wycl=illa | tractatusdepotes00wycl=illa		2	accept
+230	EDGE	latinworks19wycl=cum | tractatusdepotes00wycl=cum		2	accept
+231	EDGE	latinworks19wycl=gente | tractatusdepotes00wycl=gente		2	accept

@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=prohibent | tractatusdepotes00wycl=prohibent		2	accept
+20	R2	latinworks19wycl=imperii | johanniswyclift00mattgoog=imperii | johanniswyclift01mattgoog=tniptrii | tractatusdepotes00wycl=imperii		4	accept
+25	R2	latinworks19wycl=suos | johanniswyclift00mattgoog=suos | johanniswyclift01mattgoog=siios | tractatusdepotes00wycl=suos		4	accept
+26	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+31	R2	latinworks19wycl=hereditatem | johanniswyclift00mattgoog=hereditatem | johanniswyclift01mattgoog=hercditatan | tractatusdepotes00wycl=hereditatem		4	accept
+35	R4	latinworks19wycl=piacuhim | johanniswyclift00mattgoog=piaculum | johanniswyclift01mattgoog=piaculum | tractatusdepotes00wycl=piacuhim		4	plate
+38	R2	latinworks19wycl=satomouis | johanniswyclift00mattgoog=salomonis | johanniswyclift01mattgoog=salotnotiis | tractatusdepotes00wycl=salomonis		4	accept
+41	R2	latinworks19wycl=domiuus | johanniswyclift00mattgoog=dominus | johanniswyclift01mattgoog=dowiutts | tractatusdepotes00wycl=dominus		4	accept
+44	NW	latinworks19wycl=iiliorum | johanniswyclift00mattgoog=iiliorum | johanniswyclift01mattgoog=iiliornw | tractatusdepotes00wycl=filiorum		4	plate
+47	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=d | tractatusdepotes00wycl=et		4	accept
+55	R2	latinworks19wycl=ems | johanniswyclift00mattgoog=eius | johanniswyclift01mattgoog=eiiis | tractatusdepotes00wycl=eius		4	accept
+56	R3a	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
+69	R2	latinworks19wycl=patet | johanniswyclift00mattgoog=patet | johanniswyclift01mattgoog=palel | tractatusdepotes00wycl=patet		4	accept
+73	THIN	latinworks19wycl=popuiorum | tractatusdepotes00wycl=populorum		2	plate
+74	THIN	latinworks19wycl=tutamentum | tractatusdepotes00wycl=tutamentum		2	plate
+78	R2	latinworks19wycl=munimentum | johanniswyclift00mattgoog=munimentum | johanniswyclift01mattgoog=iniininientiiin | tractatusdepotes00wycl=munimentum		4	accept
+106	R2	latinworks19wycl=hominnm | johanniswyclift00mattgoog=hominum | johanniswyclift01mattgoog=houiiunm | tractatusdepotes00wycl=hominum		4	accept
+108	R2	latinworks19wycl=constitutus | johanniswyclift00mattgoog=constitutus | johanniswyclift01mattgoog=cunstilntns | tractatusdepotes00wycl=constitutus		4	accept
+111	R2	latinworks19wycl=ct | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=cl | tractatusdepotes00wycl=et		4	accept
+121	R2	latinworks19wycl=omnes | johanniswyclift00mattgoog=omnes | johanniswyclift01mattgoog=oimies | tractatusdepotes00wycl=omnes		4	accept
+125	R3a	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=iu		4	accept
+160	R3a	latinworks19wycl=anglie | johanniswyclift00mattgoog=anglie | johanniswyclift01mattgoog=angue | tractatusdepotes00wycl=anglie		4	accept
+176	R2	latinworks19wycl=legichristi | johanniswyclift00mattgoog=legichristi | johanniswyclift01mattgoog=leufi | tractatusdepotes00wycl=legichristi		4	accept
+197	NW	latinworks19wycl=seo | johanniswyclift00mattgoog=seo | johanniswyclift01mattgoog=seo | tractatusdepotes00wycl=seo		4	plate
+198	NW	latinworks19wycl=cundum | johanniswyclift00mattgoog=cundum | johanniswyclift01mattgoog=cundum | tractatusdepotes00wycl=cundum		4	plate
+204	R4	latinworks19wycl=imperfecti | johanniswyclift00mattgoog=imperfect | johanniswyclift01mattgoog=imperfect | tractatusdepotes00wycl=imperfecti		4	plate

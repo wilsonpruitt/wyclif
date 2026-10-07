@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+12	R3a	latinworks19wycl=indicem | johanniswyclift00mattgoog=iudicemi | johanniswyclift01mattgoog=iudicem | tractatusdepotes00wycl=iudicem		4	accept
+16	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=mtm | tractatusdepotes00wycl=non		4	accept
+18	R3a	latinworks19wycl=iudicium | johanniswyclift00mattgoog=iudicium | johanniswyclift01mattgoog=indicium | tractatusdepotes00wycl=iudicium		4	accept
+25	R4	latinworks19wycl=sno | johanniswyclift00mattgoog=stio | johanniswyclift01mattgoog=sno | tractatusdepotes00wycl=suo		4	plate
+39	R2	latinworks19wycl=i | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=wrongpapatum		4	accept
+40	R2	latinworks19wycl=papatum | johanniswyclift00mattgoog=papatum | johanniswyclift01mattgoog=papatum | tractatusdepotes00wycl=∅		4	accept
+51	R2	latinworks19wycl=primatus | johanniswyclift00mattgoog=pnmatus | johanniswyclift01mattgoog=pnmatxis | tractatusdepotes00wycl=primatus		4	accept
+59	R2	latinworks19wycl=humana | johanniswyclift00mattgoog=humana | johanniswyclift01mattgoog=haniana | tractatusdepotes00wycl=humana		4	accept
+124	R2	latinworks19wycl=quicumque | johanniswyclift00mattgoog=qnicnntque | johanniswyclift01mattgoog=quicumque | tractatusdepotes00wycl=quicumqne		4	accept
+223	R4	latinworks19wycl=crysoad | johanniswyclift00mattgoog=crysostomi | johanniswyclift01mattgoog=crysostomi | tractatusdepotes00wycl=crysoad		4	plate
+224	INS?	ad	2	4	plate
+228	R3a	latinworks19wycl=deo | johanniswyclift00mattgoog=deo | johanniswyclift01mattgoog=iy | tractatusdepotes00wycl=ndeo		4	accept
+229	R2	latinworks19wycl=pro | johanniswyclift00mattgoog=pro | johanniswyclift01mattgoog=piq | tractatusdepotes00wycl=pro		4	accept
+230	NW	latinworks19wycl=animabus | johanniswyclift00mattgoog=auimabus | johanniswyclift01mattgoog=animabus | tractatusdepotes00wycl=animabus		4	plate
+235	R2	latinworks19wycl=iudicii | johanniswyclift00mattgoog=ludicu | johanniswyclift01mattgoog=iudicii | tractatusdepotes00wycl=iudicii		4	accept

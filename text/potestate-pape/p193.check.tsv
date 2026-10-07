@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+38	R3a	latinworks19wycl=suntinfesti | johanniswyclift00mattgoog=suntinfesti | johanniswyclift01mattgoog=sunt | tractatusdepotes00wycl=suntinfesti		4	accept
+58	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+71	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+77	NW	latinworks19wycl=allocatur | johanniswyclift00mattgoog=allocatur | johanniswyclift01mattgoog=allocatur | tractatusdepotes00wycl=allocatur		4	plate
+92	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+102	R3a	latinworks19wycl=dico | johanniswyclift00mattgoog=dico | johanniswyclift01mattgoog=dice | tractatusdepotes00wycl=dico		4	accept
+152	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+157	R3	latinworks19wycl=quomodo | johanniswyclift00mattgoog=modo | tractatusdepotes00wycl=quomodo		3	plate
+158	R3	latinworks19wycl=caute | johanniswyclift00mattgoog=cauie | tractatusdepotes00wycl=caute		3	plate
+163	DEL	latinworks19wycl=a5 | johanniswyclift00mattgoog=∅ | tractatusdepotes00wycl=∅		3	accept
+165	R3a	latinworks19wycl=mali | johanniswyclift00mattgoog=mali | johanniswyclift01mattgoog=malt | tractatusdepotes00wycl=mali		4	accept
+181	R4	latinworks19wycl=augustinum | johanniswyclift00mattgoog=auguslinum | johanniswyclift01mattgoog=auguslinum | tractatusdepotes00wycl=augustinum		4	plate

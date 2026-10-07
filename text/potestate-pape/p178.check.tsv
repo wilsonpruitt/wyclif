@@ -1,0 +1,28 @@
+pos	rule	forms	support	voters	resolution
+5	R2	latinworks19wycl=c011stantinus | johanniswyclift00mattgoog=constaniinus | johanniswyclift01mattgoog=cohstanliniis | tractatusdepotes00wycl=constantinus		4	accept
+33	R6a	latinworks19wycl=romana | johanniswyclift00mattgoog=ro5 | johanniswyclift01mattgoog=romana | tractatusdepotes00wycl=romana		4	accept
+43	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+45	R6a	latinworks19wycl=ir | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
+46	DEL	latinworks19wycl=7 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+48	R2	latinworks19wycl=bonifacius | johanniswyclift00mattgoog=bonifacius | johanniswyclift01mattgoog=bohtfadus | tractatusdepotes00wycl=bonifacius		4	accept
+50	R2	latinworks19wycl=impetrauit | johanniswyclift00mattgoog=intuefrauit | johanniswyclift01mattgoog=inipetrauh | tractatusdepotes00wycl=impetrauit		4	accept
+53	R5a	latinworks19wycl=cesare | johanniswyclift00mattgoog=cesare | johanniswyclift01mattgoog=cesare | tractatusdepotes00wycl=cesare		4	accept
+56	THIN	latinworks19wycl=beatipetri | tractatusdepotes00wycl=beatipetri		2	plate
+57	THIN	latinworks19wycl=rome | tractatusdepotes00wycl=rome		2	plate
+64	R2	latinworks19wycl=constantinopolitane | johanniswyclift00mattgoog=constantinopolitane | johanniswyclift01mattgoog=conslant | tractatusdepotes00wycl=constantinopolitane		4	accept
+67	R3a	latinworks19wycl=papam | johanniswyclift00mattgoog=papam | johanniswyclift01mattgoog=papatu | tractatusdepotes00wycl=papam		4	accept
+68	R2	latinworks19wycl=ouotlibet | johanniswyclift00mattgoog=quotlibet | johanniswyclift01mattgoog=ouotubet | tractatusdepotes00wycl=quotlibet		4	accept
+83	THIN	latinworks19wycl=papaheret | johanniswyclift01mattgoog=papafieret		2	plate
+84	THIN	latinworks19wycl=uagusutolim | johanniswyclift01mattgoog=uagusutolim		2	plate
+86	R4	latinworks19wycl=nulliloco | johanniswyclift00mattgoog=nuui | johanniswyclift01mattgoog=nuli | tractatusdepotes00wycl=nulliloco		4	plate
+120	R3a	latinworks19wycl=pape | johanniswyclift00mattgoog=pape | johanniswyclift01mattgoog=pane | tractatusdepotes00wycl=pape		4	accept
+131	R2	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=i		4	accept
+133	R5a	latinworks19wycl=uii | johanniswyclift00mattgoog=uii | johanniswyclift01mattgoog=uii | tractatusdepotes00wycl=uii		4	accept
+139	R2	latinworks19wycl=onod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=oitod | tractatusdepotes00wycl=ouod		4	accept
+140	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=peirus | johanniswyclift01mattgoog=pelrus | tractatusdepotes00wycl=petrus		4	accept
+142	R2	latinworks19wycl=fitit | johanniswyclift00mattgoog=fuit | johanniswyclift01mattgoog=fuit | tractatusdepotes00wycl=ftiit		4	accept
+143	R3	latinworks19wycl=chrisii | johanniswyclift00mattgoog=christi | johanniswyclift01mattgoog=chrisll | tractatusdepotes00wycl=christi		4	plate
+148	R2	latinworks19wycl=simitior | johanniswyclift00mattgoog=similior | johanniswyclift01mattgoog=similinr | tractatusdepotes00wycl=siuniliou		4	accept
+164	R3a	latinworks19wycl=sit | johanniswyclift00mattgoog=sit | johanniswyclift01mattgoog=it | tractatusdepotes00wycl=sit		4	accept
+206	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+210	R2	latinworks19wycl=multis | johanniswyclift00mattgoog=multis | johanniswyclift01mattgoog=mulds | tractatusdepotes00wycl=multis		4	accept

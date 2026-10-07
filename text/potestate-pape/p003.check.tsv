@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+10	R2	latinworks19wycl=ipsam | johanniswyclift00mattgoog=ipsanl | johanniswyclift01mattgoog=ipsam | tractatusdepotes00wycl=ipsam		4	accept
+11	R2	latinworks19wycl=et | johanniswyclift00mattgoog=t | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+16	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+44	R2	latinworks19wycl=et | johanniswyclift00mattgoog=t | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+58	R3a	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ula | tractatusdepotes00wycl=illa		4	accept
+96	R5	latinworks19wycl=estperpetuaindelebilis | johanniswyclift01mattgoog=estperpetuaindelebilis | tractatusdepotes00wycl=estperpetuaindelebilis		3	plate
+97	R4	latinworks19wycl=sedrestiingibilis | johanniswyclift01mattgoog=sedrestiingibilis | tractatusdepotes00wycl=sed		3	plate
+131	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+148	R3a	latinworks19wycl=iaciendi | johanniswyclift00mattgoog=faciendi | johanniswyclift01mattgoog=faciendi | tractatusdepotes00wycl=faciendi		4	accept
+175	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+183	R3a	latinworks19wycl=malos | johanniswyclift00mattgoog=males | johanniswyclift01mattgoog=malos | tractatusdepotes00wycl=malos		4	accept
+185	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate

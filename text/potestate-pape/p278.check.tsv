@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=oneretur | tractatusdepotes00wycl=oneretur		2	accept
+1	EDGE	latinworks19wycl=tam | tractatusdepotes00wycl=tam		2	accept
+10	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+60	R3a	latinworks19wycl=sintaccepte | johanniswyclift00mattgoog=sint | johanniswyclift01mattgoog=sintaccepte | tractatusdepotes00wycl=sintaccepte		4	accept
+61	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=accepte | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+87	R5a	latinworks19wycl=hugo | johanniswyclift00mattgoog=hugo | johanniswyclift01mattgoog=hugo | tractatusdepotes00wycl=hugo		4	accept
+101	R2	latinworks19wycl=traditur | johanniswyclift00mattgoog=tradiiur | johanniswyclift01mattgoog=imdilur | tractatusdepotes00wycl=traditur		4	accept
+102	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ui | johanniswyclift01mattgoog=ut | tractatusdepotes00wycl=ut		4	accept
+106	R4	latinworks19wycl=foris | johanniswyclift00mattgoog=forts | johanniswyclift01mattgoog=forts | tractatusdepotes00wycl=foris		4	plate
+112	R2	latinworks19wycl=ostendatur | johanniswyclift00mattgoog=osiehdaiur | johanniswyclift01mattgoog=ostettdatur | tractatusdepotes00wycl=ostendatur		4	accept
+114	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=auient | johanniswyclift01mattgoog=autem | tractatusdepotes00wycl=autem		4	accept
+126	R3a	latinworks19wycl=patribus | johanniswyclift00mattgoog=patribus | johanniswyclift01mattgoog=putribus | tractatusdepotes00wycl=patribus		4	accept
+127	R3	latinworks19wycl=uoui | johanniswyclift00mattgoog=noui | johanniswyclift01mattgoog=houi | tractatusdepotes00wycl=noui		4	plate
+132	R6a	latinworks19wycl=exod | johanniswyclift00mattgoog=exodo | johanniswyclift01mattgoog=exod | tractatusdepotes00wycl=exod		4	accept
+136	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+139	R2	latinworks19wycl=moyses | johanniswyclift00mattgoog=afoyss | johanniswyclift01mattgoog=moyses | tractatusdepotes00wycl=moyses		4	accept
+144	R3	latinworks19wycl=primo | johanniswyclift00mattgoog=prima | tractatusdepotes00wycl=primo		3	plate
+165	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=nan | tractatusdepotes00wycl=non		4	accept
+178	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+181	R2	latinworks19wycl=superfluum | johanniswyclift00mattgoog=superfluum | johanniswyclift01mattgoog=snperiiuum | tractatusdepotes00wycl=superfluum		4	accept
+182	R3a	latinworks19wycl=aut | johanniswyclift00mattgoog=aut | johanniswyclift01mattgoog=out | tractatusdepotes00wycl=aut		4	accept
+212	R2	latinworks19wycl=spem | johanniswyclift00mattgoog=spent | tractatusdepotes00wycl=spem		3	accept

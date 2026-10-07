@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=scitis | tractatusdepotes00wycl=scitis		2	accept
+1	EDGE	latinworks19wycl=ut | tractatusdepotes00wycl=ut		2	accept
+2	EDGE	latinworks19wycl=reueletur | tractatusdepotes00wycl=reueletur		2	accept
+15	R2	latinworks19wycl=nunc | johanniswyclift00mattgoog=nunc | johanniswyclift01mattgoog=nimc | tractatusdepotes00wycl=nunc		4	accept
+26	R4a	latinworks19wycl=quem | johanniswyclift00mattgoog=quern | johanniswyclift01mattgoog=quern | tractatusdepotes00wycl=qnem		4	accept
+38	R2	latinworks19wycl=eum | johanniswyclift00mattgoog=eum | johanniswyclift01mattgoog=etim | tractatusdepotes00wycl=eum		4	accept
+47	R2	latinworks19wycl=uirtute | johanniswyclift00mattgoog=uirtute | johanniswyclift01mattgoog=uirluie | tractatusdepotes00wycl=uirtute		4	accept
+53	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+58	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept
+65	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=non		4	accept
+70	R3a	latinworks19wycl=ideo | johanniswyclift00mattgoog=ideo | johanniswyclift01mattgoog=idea | tractatusdepotes00wycl=ideo		4	accept
+73	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=deus | johanniswyclift01mattgoog=dens | tractatusdepotes00wycl=deus		4	accept
+76	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=tu | tractatusdepotes00wycl=ut		4	accept
+101	R3a	latinworks19wycl=aliampartem | johanniswyclift00mattgoog=aliampartem | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=aliampartem		4	accept
+124	R3a	latinworks19wycl=omne | johanniswyclift00mattgoog=omne | johanniswyclift01mattgoog=omne | tractatusdepotes00wycl=orane		4	accept
+181	R4a	latinworks19wycl=primo | johanniswyclift00mattgoog=pnmo | johanniswyclift01mattgoog=pnmo | tractatusdepotes00wycl=frimo		4	accept
+190	R2	latinworks19wycl=quem | johanniswyclift00mattgoog=quem | johanniswyclift01mattgoog=quera | tractatusdepotes00wycl=quem		4	accept

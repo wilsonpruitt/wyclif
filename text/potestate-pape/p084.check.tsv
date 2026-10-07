@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+130	R4	latinworks19wycl=elemosine | johanniswyclift00mattgoog=elemosineso | johanniswyclift01mattgoog=elemosineso | tractatusdepotes00wycl=elemosine		4	plate
+132	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+153	R2	latinworks19wycl=laycos | johanniswyclift00mattgoog=laycos | johanniswyclift01mattgoog=layers | tractatusdepotes00wycl=laycos		4	accept
+158	R4	latinworks19wycl=relinquendo | johanniswyclift00mattgoog=relin3 | johanniswyclift01mattgoog=relina | tractatusdepotes00wycl=relin25		4	plate
+159	INS	quendo	3	4	accept
+160	R3a	latinworks19wycl=coaccionem | johanniswyclift00mattgoog=coaccionem | johanniswyclift01mattgoog=coaccionem | tractatusdepotes00wycl=coactionem		4	accept
+164	R2	latinworks19wycl=debent | johanniswyclift00mattgoog=igigt | johanniswyclift01mattgoog=debent | tractatusdepotes00wycl=ebent		4	accept
+198	R3a	latinworks19wycl=opere | johanniswyclift00mattgoog=opere | johanniswyclift01mattgoog=opera | tractatusdepotes00wycl=opere		4	accept

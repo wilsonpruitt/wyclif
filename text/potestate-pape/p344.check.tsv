@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+41	R3	latinworks19wycl=ouis | johanniswyclift00mattgoog=quis | johanniswyclift01mattgoog=quis | tractatusdepotes00wycl=ouis		4	plate
+48	R2	latinworks19wycl=hominum | johanniswyclift00mattgoog=nommum | johanniswyclift01mattgoog=hominura | tractatusdepotes00wycl=hominum		4	accept
+55	R3a	latinworks19wycl=superflue | johanniswyclift00mattgoog=superfine | johanniswyclift01mattgoog=superflue | tractatusdepotes00wycl=superflue		4	accept
+86	R3a	latinworks19wycl=nocte | johanniswyclift00mattgoog=node | johanniswyclift01mattgoog=nocte | tractatusdepotes00wycl=nocte		4	accept
+89	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
+100	R3	latinworks19wycl=diligenter | johanniswyclift01mattgoog=dili | tractatusdepotes00wycl=diligenter		3	plate
+120	R2	latinworks19wycl=erunt | johanniswyclift00mattgoog=erunt | johanniswyclift01mattgoog=ertini | tractatusdepotes00wycl=erunt		4	accept
+123	R2	latinworks19wycl=que | johanniswyclift00mattgoog=que | johanniswyclift01mattgoog=qnt | tractatusdepotes00wycl=que		4	accept
+131	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+150	R4	latinworks19wycl=iohxiu | johanniswyclift00mattgoog=iohxiu | tractatusdepotes00wycl=ioh		3	plate
+150	GLUE2	Joh.XIV,		3	keep XIV,
+172	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=s | tractatusdepotes00wycl=et		4	accept
+184	R2	latinworks19wycl=miurie | johanniswyclift00mattgoog=mmne | johanniswyclift01mattgoog=iniurie | tractatusdepotes00wycl=iniurie		4	accept
+188	R3a	latinworks19wycl=de | johanniswyclift00mattgoog=de | johanniswyclift01mattgoog=do | tractatusdepotes00wycl=de		4	accept

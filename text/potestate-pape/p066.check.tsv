@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=sed | tractatusdepotes00wycl=sed		2	accept
+1	EDGE	latinworks19wycl=negetur | tractatusdepotes00wycl=negetur		2	accept
+18	R3	latinworks19wycl=detendere | johanniswyclift00mattgoog=defendere | johanniswyclift01mattgoog=defendere | tractatusdepotes00wycl=detendere		4	plate
+21	R2	latinworks19wycl=ipso | johanniswyclift00mattgoog=ipso | johanniswyclift01mattgoog=ipsfi | tractatusdepotes00wycl=ipso		4	accept
+37	R3a	latinworks19wycl=eo | johanniswyclift00mattgoog=eo | johanniswyclift01mattgoog=eu | tractatusdepotes00wycl=eo		4	accept
+39	R4	latinworks19wycl=illapersona | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illapersona		4	plate
+67	R3a	latinworks19wycl=deus | johanniswyclift00mattgoog=dens | johanniswyclift01mattgoog=deus | tractatusdepotes00wycl=deus		4	accept
+152	R3	latinworks19wycl=iit | johanniswyclift00mattgoog=lit | johanniswyclift01mattgoog=iit | tractatusdepotes00wycl=ut		4	plate
+153	R4	latinworks19wycl=bontim | johanniswyclift00mattgoog=bonunt | johanniswyclift01mattgoog=bnirum | tractatusdepotes00wycl=bopittm		4	plate
+221	INS	et	3	4	accept
+224	EDGE	latinworks19wycl=fuerit | johanniswyclift01mattgoog=fuerit		2	accept
+225	EDGE	latinworks19wycl=confirmare | johanniswyclift01mattgoog=confirmare		2	accept

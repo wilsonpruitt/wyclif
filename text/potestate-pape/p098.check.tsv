@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+4	R3a	latinworks19wycl=procuratori | johanniswyclift00mattgoog=procuratori | johanniswyclift01mattgoog=procurator | tractatusdepotes00wycl=procuratori		4	accept
+11	R3a	latinworks19wycl=recipienti | johanniswyclift00mattgoog=recipienti | johanniswyclift01mattgoog=recipient | tractatusdepotes00wycl=recipienti		4	accept
+40	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
+43	R6a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=pelriis | tractatusdepotes00wycl=petrus		4	accept
+48	R2	latinworks19wycl=sui | johanniswyclift00mattgoog=sui | johanniswyclift01mattgoog=stii | tractatusdepotes00wycl=sui		4	accept
+49	R2	latinworks19wycl=primatum | johanniswyclift00mattgoog=prifnatnm | johanniswyclift01mattgoog=primatttm | tractatusdepotes00wycl=primatum		4	accept
+51	R4	latinworks19wycl=figurata | johanniswyclift00mattgoog=iigurata | johanniswyclift01mattgoog=iiiiuriiia | tractatusdepotes00wycl=iigurata		4	plate
+82	R2	latinworks19wycl=celorum | johanniswyclift00mattgoog=celorum | johanniswyclift01mattgoog=celonim | tractatusdepotes00wycl=celorum		4	accept
+83	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+84	NW	latinworks19wycl=qnodcumque | johanniswyclift00mattgoog=quodcuntque | johanniswyclift01mattgoog=quodcuutque | tractatusdepotes00wycl=qnodcumque		4	plate
+90	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
+91	R3	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=hi | tractatusdepotes00wycl=in		4	plate
+93	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+94	R4	latinworks19wycl=quodcunuque | johanniswyclift00mattgoog=quodcumgue | johanniswyclift01mattgoog=qnodcumque | tractatusdepotes00wycl=quodcumqne		4	plate
+100	R3a	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	accept
+125	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=petrus | tractatusdepotes00wycl=petrus		4	accept
+169	R3	latinworks19wycl=ue | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=ed		3	plate
+190	R2	latinworks19wycl=9 | johanniswyclift00mattgoog=9 | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=9		4	accept
+191	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=cunt | tractatusdepotes00wycl=cum		4	accept

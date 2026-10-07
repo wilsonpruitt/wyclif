@@ -1,0 +1,26 @@
+pos	rule	forms	support	voters	resolution
+8	R2	latinworks19wycl=successit | johanniswyclift00mattgoog=sttccessit | johanniswyclift01mattgoog=sitcassil | tractatusdepotes00wycl=successit		4	accept
+9	R5a	latinworks19wycl=marcus | johanniswyclift00mattgoog=marcus | johanniswyclift01mattgoog=marcus | tractatusdepotes00wycl=marcus		4	accept
+10	R4	latinworks19wycl=cui | johanniswyclift00mattgoog=cut | johanniswyclift01mattgoog=cut | tractatusdepotes00wycl=cui		4	plate
+12	R5a	latinworks19wycl=iulius | johanniswyclift00mattgoog=iulius | johanniswyclift01mattgoog=iulitts | tractatusdepotes00wycl=iulius		4	accept
+16	R2	latinworks19wycl=exilium | johanniswyclift00mattgoog=exilium | johanniswyclift01mattgoog=exitinnt | tractatusdepotes00wycl=exilium		4	accept
+17	R2	latinworks19wycl=decennale | johanniswyclift00mattgoog=dccennalcy | johanniswyclift01mattgoog=decennale | tractatusdepotes00wycl=decennale		4	accept
+21	R3a	latinworks19wycl=successit | johanniswyclift00mattgoog=successit | johanniswyclift01mattgoog=successu | tractatusdepotes00wycl=successit		4	accept
+27	NW	latinworks19wycl=lib | johanniswyclift00mattgoog=lib | johanniswyclift01mattgoog=lib | tractatusdepotes00wycl=lib		4	plate
+35	R2	latinworks19wycl=tribus | johanniswyclift00mattgoog=tribus | johanniswyclift01mattgoog=iribns | tractatusdepotes00wycl=tribus		4	accept
+40	R2	latinworks19wycl=noluit | johanniswyclift00mattgoog=noluit | johanniswyclift01mattgoog=uoiuil | tractatusdepotes00wycl=noluit		4	accept
+59	R3a	latinworks19wycl=audito | johanniswyclift00mattgoog=audito | johanniswyclift01mattgoog=audita | tractatusdepotes00wycl=audito		4	accept
+69	R4	latinworks19wycl=papatus | johanniswyclift00mattgoog=papains | johanniswyclift01mattgoog=papains | tractatusdepotes00wycl=papatus		4	plate
+88	R2	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ul | tractatusdepotes00wycl=ut		4	accept
+101	R3a	latinworks19wycl=uero | johanniswyclift00mattgoog=uero | johanniswyclift01mattgoog=uera | tractatusdepotes00wycl=uero		4	accept
+144	NW	latinworks19wycl=nomma | johanniswyclift00mattgoog=nomma | johanniswyclift01mattgoog=nomina | tractatusdepotes00wycl=nomma		4	plate
+153	R2	latinworks19wycl=oracia | johanniswyclift00mattgoog=omcia | johanniswyclift01mattgoog=orhcia | tractatusdepotes00wycl=officia		4	accept
+173	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+185	R3a	latinworks19wycl=reliqui | johanniswyclift00mattgoog=6 | johanniswyclift01mattgoog=reliqui | tractatusdepotes00wycl=reliqui		4	accept
+188	R3a	latinworks19wycl=ut | johanniswyclift00mattgoog=ut | johanniswyclift01mattgoog=ui | tractatusdepotes00wycl=ut		4	accept
+199	R2	latinworks19wycl=quis | johanniswyclift00mattgoog=quis | johanniswyclift01mattgoog=qni | tractatusdepotes00wycl=qnis		4	accept
+206	R4a	latinworks19wycl=fitios | johanniswyclift00mattgoog=iilios | johanniswyclift01mattgoog=iilios | tractatusdepotes00wycl=filios		4	accept
+209	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=hon | tractatusdepotes00wycl=non		4	accept
+210	R3a	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
+220	EDGE	latinworks19wycl=presbiteri | tractatusdepotes00wycl=presbiteri		2	accept
+221	EDGE	latinworks19wycl=oportet | tractatusdepotes00wycl=oportet		2	accept

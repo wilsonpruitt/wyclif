@@ -1,0 +1,6 @@
+pos	rule	forms	support	voters	resolution
+25	R6a	latinworks19wycl=m | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=m | tractatusdepotes00wycl=m		4	accept
+29	R4a	latinworks19wycl=mncta | johanniswyclift00mattgoog=iuncta | johanniswyclift01mattgoog=luncta | tractatusdepotes00wycl=mncta		4	accept
+44	R3a	latinworks19wycl=nominatur | johanniswyclift00mattgoog=nominatur | johanniswyclift01mattgoog=nominator | tractatusdepotes00wycl=nominatur		4	accept
+87	DEL	latinworks19wycl=r | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+155	R3a	latinworks19wycl=inferiori | johanniswyclift00mattgoog=inferiori | johanniswyclift01mattgoog=inferior | tractatusdepotes00wycl=inferiori		4	accept

@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+10	R2	latinworks19wycl=nunquam | johanniswyclift00mattgoog=nunquam | johanniswyclift01mattgoog=motquam | tractatusdepotes00wycl=nunquam		4	accept
+15	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=ei | tractatusdepotes00wycl=et		4	plate
+17	R5a	latinworks19wycl=iilii | johanniswyclift00mattgoog=fiiii | johanniswyclift01mattgoog=iilii | tractatusdepotes00wycl=iiiii		4	accept
+18	R2	latinworks19wycl=eitts | johanniswyclift00mattgoog=eins | johanniswyclift01mattgoog=eius | tractatusdepotes00wycl=eius		4	accept
+21	R2	latinworks19wycl=benedictunt | johanniswyclift00mattgoog=benedictum | johanniswyclift01mattgoog=behediclnnt | tractatusdepotes00wycl=benedictum		4	accept
+23	R2	latinworks19wycl=constitiaint | johanniswyclift00mattgoog=constitnnnty | johanniswyclift01mattgoog=cnnsthiinnl | tractatusdepotes00wycl=constituunt		4	accept
+26	R2	latinworks19wycl=ronta | johanniswyclift00mattgoog=roma | johanniswyclift01mattgoog=roma | tractatusdepotes00wycl=roma		4	accept
+37	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=el		4	accept
+39	R2	latinworks19wycl=benedictus | johanniswyclift00mattgoog=benedictus | johanniswyclift01mattgoog=rennitnr | tractatusdepotes00wycl=benedictus		4	accept
+40	R2	latinworks19wycl=renuitur | johanniswyclift00mattgoog=renuitur | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=renuitur		4	accept
+52	R2	latinworks19wycl=rudis | johanniswyclift00mattgoog=rudis | johanniswyclift01mattgoog=riidis | tractatusdepotes00wycl=rudis		4	accept
+53	R3a	latinworks19wycl=lioterarum | johanniswyclift00mattgoog=liter | johanniswyclift01mattgoog=liierarnm | tractatusdepotes00wycl=literarum		4	accept
+59	R2	latinworks19wycl=exeqnendas | johanniswyclift00mattgoog=exequendas | johanniswyclift01mattgoog=exibenedictus | tractatusdepotes00wycl=exequendas		4	accept
+67	R3a	latinworks19wycl=multis | johanniswyclift00mattgoog=mullis | johanniswyclift01mattgoog=multis | tractatusdepotes00wycl=multis		4	accept
+74	R2	latinworks19wycl=soltts | johanniswyclift00mattgoog=solus | johanniswyclift01mattgoog=solus | tractatusdepotes00wycl=sohts		4	accept
+77	R3	latinworks19wycl=impleret | johanniswyclift00mattgoog=impuret | johanniswyclift01mattgoog=impkrel | tractatusdepotes00wycl=impleret		4	plate
+82	R5a	latinworks19wycl=rome | johanniswyclift00mattgoog=rome | johanniswyclift01mattgoog=rome | tractatusdepotes00wycl=rome		4	accept
+83	R2	latinworks19wycl=uno | johanniswyclift00mattgoog=uno | johanniswyclift01mattgoog=uho | tractatusdepotes00wycl=uno		4	accept
+86	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+87	R3a	latinworks19wycl=duobus | johanniswyclift00mattgoog=duobus | johanniswyclift01mattgoog=ductus | tractatusdepotes00wycl=duobus		4	accept
+91	R2	latinworks19wycl=papatu | johanniswyclift00mattgoog=papatu | johanniswyclift01mattgoog=papain | tractatusdepotes00wycl=papatu		4	accept
+102	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+107	R2	latinworks19wycl=presidet | johanniswyclift00mattgoog=presidet | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=presidet		4	accept
+122	R2	latinworks19wycl=nunquam | johanniswyclift00mattgoog=nunquam | johanniswyclift01mattgoog=nttnqnam | tractatusdepotes00wycl=mtnquam		4	accept
+134	R6a	latinworks19wycl=iii | johanniswyclift00mattgoog=iii | johanniswyclift01mattgoog=111 | tractatusdepotes00wycl=iii		4	accept
+180	DEL	latinworks19wycl=i | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept
+195	R2	latinworks19wycl=quod | johanniswyclift00mattgoog=quod | johanniswyclift01mattgoog=tiuud | tractatusdepotes00wycl=quod		4	accept
+203	R3a	latinworks19wycl=cardinalium | johanniswyclift00mattgoog=cardinalium | johanniswyclift01mattgoog=pupa | tractatusdepotes00wycl=cardinalium		4	accept
+204	R2	latinworks19wycl=papa | johanniswyclift00mattgoog=papa | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=papa		4	accept
+209	THIN	latinworks19wycl=romadeciino		1	plate

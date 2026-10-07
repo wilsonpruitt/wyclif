@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+26	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=oo | tractatusdepotes00wycl=non		4	accept
+42	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=g | tractatusdepotes00wycl=ex		4	accept
+59	R4a	latinworks19wycl=diffmit | johanniswyclift00mattgoog=diffinit | johanniswyclift01mattgoog=dtffinit | tractatusdepotes00wycl=diffmit		4	accept
+143	R3	latinworks19wycl=et | johanniswyclift00mattgoog=etio | johanniswyclift01mattgoog=eti | tractatusdepotes00wycl=eto		4	plate
+161	R2	latinworks19wycl=legum | johanniswyclift00mattgoog=legum | johanniswyclift01mattgoog=legixm | tractatusdepotes00wycl=legum		4	accept
+176	R2	latinworks19wycl=kntur | johanniswyclift00mattgoog=igitur | johanniswyclift01mattgoog=liiitur | tractatusdepotes00wycl=igitur		4	accept
+180	R2	latinworks19wycl=legfes | johanniswyclift00mattgoog=leges | johanniswyclift01mattgoog=icires | tractatusdepotes00wycl=leoes		4	accept
+183	R2	latinworks19wycl=lesfe | johanniswyclift00mattgoog=lege | johanniswyclift01mattgoog=leire | tractatusdepotes00wycl=lege		4	accept
+184	R3a	latinworks19wycl=dommi | johanniswyclift00mattgoog=domini | johanniswyclift01mattgoog=dommi | tractatusdepotes00wycl=dommi		4	accept
+185	NW	latinworks19wycl=ehquate | johanniswyclift00mattgoog=eliquate | johanniswyclift01mattgoog=ehquate | tractatusdepotes00wycl=ehquate		4	plate

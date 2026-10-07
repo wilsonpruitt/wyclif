@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks19wycl=adunatant		1	plate
+1	EDGE	latinworks19wycl=status | johanniswyclift01mattgoog=status		2	accept
+9	R2	latinworks19wycl=stio | johanniswyclift00mattgoog=stto | johanniswyclift01mattgoog=suo | tractatusdepotes00wycl=suo		4	accept
+15	R2	latinworks19wycl=summo | johanniswyclift00mattgoog=summo | johanniswyclift01mattgoog=sntnmo | tractatusdepotes00wycl=summo		4	accept
+22	R5a	latinworks19wycl=romane | johanniswyclift00mattgoog=romane | johanniswyclift01mattgoog=romane | tractatusdepotes00wycl=romane		4	accept
+35	THIN	latinworks19wycl=feruentissimus | tractatusdepotes00wycl=feruentissimus		2	plate
+36	THIN	latinworks19wycl=anwr		1	plate
+37	THIN	latinworks19wycl=subiectissi111		1	plate
+38	THIN	latinworks19wycl=us		1	plate
+39	THIN	latinworks19wycl=timor | tractatusdepotes00wycl=timor		2	plate
+42	R4	latinworks19wycl=hiis | johanniswyclift00mattgoog=hits | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=hiis		4	plate
+46	R2	latinworks19wycl=debentur | johanniswyclift00mattgoog=debentnr | johanniswyclift01mattgoog=debeittnr | tractatusdepotes00wycl=debentur		4	accept
+49	R2	latinworks19wycl=forcius | johanniswyclift00mattgoog=forcins | johanniswyclift01mattgoog=farcins | tractatusdepotes00wycl=forcius		4	accept
+61	R2	latinworks19wycl=et | johanniswyclift00mattgoog=oet | johanniswyclift01mattgoog=toet | tractatusdepotes00wycl=et		4	accept
+111	R2	latinworks19wycl=gerit | johanniswyclift00mattgoog=gerit | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=gerit		4	accept
+128	R3a	latinworks19wycl=aliter | johanniswyclift00mattgoog=alitor | johanniswyclift01mattgoog=aliter | tractatusdepotes00wycl=aliter		4	accept
+187	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept

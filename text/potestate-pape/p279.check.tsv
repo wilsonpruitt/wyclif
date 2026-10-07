@@ -1,0 +1,32 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=illud | tractatusdepotes00wycl=illud		2	accept
+1	THIN	latinworks19wycl=apokxix | tractatusdepotes00wycl=apokxix		2	plate
+3	R2	latinworks19wycl=datum | johanniswyclift00mattgoog=datum | tractatusdepotes00wycl=datiim		3	accept
+6	R3	latinworks19wycl=nt | johanniswyclift00mattgoog=tit | tractatusdepotes00wycl=ut		3	plate
+9	R5	latinworks19wycl=bissino | johanniswyclift00mattgoog=bissino | tractatusdepotes00wycl=bissino		3	plate
+14	R2	latinworks19wycl=bissinuui | johanniswyclift00mattgoog=bissinum | johanniswyclift01mattgoog=tinm | tractatusdepotes00wycl=bissinum		4	accept
+15	R2	latinworks19wycl=enim | johanniswyclift00mattgoog=enim | johanniswyclift01mattgoog=enirii | tractatusdepotes00wycl=enini		4	accept
+17	R2	latinworks19wycl=snnt | johanniswyclift00mattgoog=sunt | johanniswyclift01mattgoog=sinst | tractatusdepotes00wycl=sunt		4	accept
+22	THIN	latinworks19wycl=mundiciamquam | tractatusdepotes00wycl=mundiciamquam		2	plate
+23	THIN	latinworks19wycl=exnatura | tractatusdepotes00wycl=exnatura		2	plate
+24	THIN	latinworks19wycl=non | tractatusdepotes00wycl=non		2	plate
+31	R3	latinworks19wycl=sicut | johanniswyclift00mattgoog=sictit | johanniswyclift01mattgoog=stent | tractatusdepotes00wycl=sicut		4	plate
+34	R2	latinworks19wycl=linum | johanniswyclift00mattgoog=linum | johanniswyclift01mattgoog=ihnint | tractatusdepotes00wycl=linum		4	accept
+35	R2	latinworks19wycl=candorem | johanniswyclift00mattgoog=candorem | johanniswyclift01mattgoog=catidoreiit | tractatusdepotes00wycl=candorem		4	accept
+36	R2	latinworks19wycl=suum | johanniswyclift00mattgoog=suum | johanniswyclift01mattgoog=suuiii | tractatusdepotes00wycl=suum		4	accept
+43	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+52	R3a	latinworks19wycl=illustracione | johanniswyclift00mattgoog=illustracione | johanniswyclift01mattgoog=illustracioue | tractatusdepotes00wycl=illustracione		4	accept
+58	R2	latinworks19wycl=atiriium | johanniswyclift00mattgoog=atiriium | johanniswyclift01mattgoog=allrhum | tractatusdepotes00wycl=attriium		4	accept
+60	R3	latinworks19wycl=oin | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=tiith | tractatusdepotes00wycl=1074		4	plate
+65	R3a	latinworks19wycl=castigare | johanniswyclift00mattgoog=castigate | johanniswyclift01mattgoog=castigare | tractatusdepotes00wycl=castigare		4	accept
+115	R2	latinworks19wycl=stncta | johanniswyclift00mattgoog=stricta | johanniswyclift01mattgoog=stncla | tractatusdepotes00wycl=stricta		4	accept
+116	R2	latinworks19wycl=tunica | johanniswyclift00mattgoog=tunica | johanniswyclift01mattgoog=ttimca | tractatusdepotes00wycl=tunica		4	accept
+119	R2	latinworks19wycl=renes | johanniswyclift00mattgoog=renes | johanniswyclift01mattgoog=rchcs | tractatusdepotes00wycl=renes		4	accept
+123	R2	latinworks19wycl=tinccionem | johanniswyclift00mattgoog=tinccionem | johanniswyclift01mattgoog=tiucciohcm | tractatusdepotes00wycl=tinccionem		4	accept
+128	R3a	latinworks19wycl=nuilo | johanniswyclift00mattgoog=nullo | johanniswyclift01mattgoog=nulla | tractatusdepotes00wycl=nullo		4	accept
+146	R4	latinworks19wycl=signat | johanniswyclift00mattgoog=signal | johanniswyclift01mattgoog=signal | tractatusdepotes00wycl=signat		4	plate
+149	R3a	latinworks19wycl=uero | johanniswyclift00mattgoog=uero | johanniswyclift01mattgoog=uera | tractatusdepotes00wycl=uero		4	accept
+155	R4	latinworks19wycl=itic | johanniswyclift00mattgoog=hie | johanniswyclift01mattgoog=hie | tractatusdepotes00wycl=hic		4	plate
+156	R3a	latinworks19wycl=11011 | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=non | tractatusdepotes00wycl=non		4	accept
+163	R5a	latinworks19wycl=exod | johanniswyclift00mattgoog=exod | johanniswyclift01mattgoog=exod | tractatusdepotes00wycl=exod		4	accept
+210	INS?	i	2	4	plate

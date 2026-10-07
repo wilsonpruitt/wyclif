@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+15	R5a	latinworks19wycl=q | johanniswyclift00mattgoog=q | johanniswyclift01mattgoog=q | tractatusdepotes00wycl=q		4	accept
+16	R5a	latinworks19wycl=u | johanniswyclift00mattgoog=u | johanniswyclift01mattgoog=u | tractatusdepotes00wycl=u		4	accept
+32	R4	latinworks19wycl=deteriorac | johanniswyclift00mattgoog=deterioracio | johanniswyclift01mattgoog=deterioracio | tractatusdepotes00wycl=deteriorac		4	plate
+78	R2	latinworks19wycl=imperium | johanniswyclift00mattgoog=imperium | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=imperium		4	accept
+80	R5a	latinworks19wycl=cesari | johanniswyclift00mattgoog=cesari | johanniswyclift01mattgoog=cesari | tractatusdepotes00wycl=cesari		4	accept
+92	R4	latinworks19wycl=1 | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=oclerico		4	plate
+93	R2	latinworks19wycl=clerico | johanniswyclift00mattgoog=clerico | johanniswyclift01mattgoog=clerico | tractatusdepotes00wycl=∅		4	accept
+111	R2	latinworks19wycl=officium | johanniswyclift00mattgoog=ofncium | johanniswyclift01mattgoog=officium | tractatusdepotes00wycl=otncium		4	accept
+114	THIN	latinworks19wycl=clenco | tractatusdepotes00wycl=clenco		2	plate
+115	THIN	latinworks19wycl=lgitur | tractatusdepotes00wycl=lgitur		2	plate
+122	R3a	latinworks19wycl=thim | johanniswyclift00mattgoog=thim | johanniswyclift01mattgoog=thini | tractatusdepotes00wycl=ihim		4	accept
+138	R3a	latinworks19wycl=hinc | johanniswyclift00mattgoog=bine | johanniswyclift01mattgoog=hinc | tractatusdepotes00wycl=hinc		4	accept
+142	R3a	latinworks19wycl=diuicie | johanniswyclift00mattgoog=diuide | johanniswyclift01mattgoog=diuicie | tractatusdepotes00wycl=diuicie		4	accept
+156	R3	latinworks19wycl=illa | johanniswyclift00mattgoog=ilia | johanniswyclift01mattgoog=ilia | tractatusdepotes00wycl=illa		4	plate
+167	R5a	latinworks19wycl=math | johanniswyclift00mattgoog=math | johanniswyclift01mattgoog=math | tractatusdepotes00wycl=math		4	accept
+188	R3	latinworks19wycl=cantatis | johanniswyclift00mattgoog=caritatis | johanniswyclift01mattgoog=caritatis | tractatusdepotes00wycl=cantatis		4	plate

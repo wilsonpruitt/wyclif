@@ -1,0 +1,12 @@
+pos	rule	forms	support	voters	resolution
+12	R3	latinworks19wycl=prepositus | johanniswyclift00mattgoog=propositus | johanniswyclift01mattgoog=propositus | tractatusdepotes00wycl=prepositus		4	plate
+67	R3a	latinworks19wycl=prepositus | johanniswyclift00mattgoog=propositus | johanniswyclift01mattgoog=prepositus | tractatusdepotes00wycl=prepositus		4	accept
+148	THIN	latinworks19wycl=iii | tractatusdepotes00wycl=iii		2	plate
+149	THIN	latinworks19wycl=1 | tractatusdepotes00wycl=10		2	plate
+150	THIN	latinworks19wycl=o | tractatusdepotes00wycl=∅		2	plate
+152	R2	latinworks19wycl=non | johanniswyclift01mattgoog=itoh | tractatusdepotes00wycl=non		3	accept
+153	R3a	latinworks19wycl=laborat | johanniswyclift00mattgoog=laborat | johanniswyclift01mattgoog=laborai | tractatusdepotes00wycl=laborat		4	accept
+157	R6	latinworks19wycl=such | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=such		4	plate
+165	R3a	latinworks19wycl=antichristi | johanniswyclift00mattgoog=antichristi | johanniswyclift01mattgoog=antichristi | tractatusdepotes00wycl=antichnsti		4	accept
+175	R3	latinworks19wycl=necessana | johanniswyclift00mattgoog=necessana | johanniswyclift01mattgoog=necessaria | tractatusdepotes00wycl=necessaria		4	plate
+194	R4	latinworks19wycl=t | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=t		4	plate

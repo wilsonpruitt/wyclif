@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=in | tractatusdepotes00wycl=in		2	accept
+1	EDGE	latinworks19wycl=signum | tractatusdepotes00wycl=signum		2	accept
+2	EDGE	latinworks19wycl=quod | tractatusdepotes00wycl=quod		2	accept
+3	THIN	latinworks19wycl=habltus | tractatusdepotes00wycl=habiuis		2	plate
+11	R2	latinworks19wycl=totum | johanniswyclift00mattgoog=totunt | johanniswyclift01mattgoog=toiiim | tractatusdepotes00wycl=totum		4	accept
+35	R2	latinworks19wycl=summo | johanniswyclift00mattgoog=summo | johanniswyclift01mattgoog=sunnmo | tractatusdepotes00wycl=summo		4	accept
+46	R3	latinworks19wycl=antiquo | johanniswyclift00mattgoog=antique | johanniswyclift01mattgoog=antique | tractatusdepotes00wycl=antiquo		4	plate
+69	R2	latinworks19wycl=istum | johanniswyclift00mattgoog=istum | johanniswyclift01mattgoog=istura | tractatusdepotes00wycl=istum		4	accept
+86	R4	latinworks19wycl=doceat | johanniswyclift00mattgoog=doceal | johanniswyclift01mattgoog=doceal | tractatusdepotes00wycl=doceat		4	plate
+99	R3a	latinworks19wycl=primo | johanniswyclift00mattgoog=primo | johanniswyclift01mattgoog=prime | tractatusdepotes00wycl=primo		4	accept
+101	R2	latinworks19wycl=ihesus | johanniswyclift01mattgoog=iliesiis | tractatusdepotes00wycl=ihesus		3	accept
+103	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+148	R2	latinworks19wycl=uirum | johanniswyclift00mattgoog=uiruuty | johanniswyclift01mattgoog=uirum | tractatusdepotes00wycl=uirum		4	accept
+153	R2	latinworks19wycl=et | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=el | tractatusdepotes00wycl=et		4	accept
+156	R2	latinworks19wycl=deum | johanniswyclift00mattgoog=deum | johanniswyclift01mattgoog=detim | tractatusdepotes00wycl=deum		4	accept

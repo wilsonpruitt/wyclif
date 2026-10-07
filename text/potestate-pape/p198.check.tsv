@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+20	R5a	latinworks19wycl=romana | johanniswyclift00mattgoog=romana | johanniswyclift01mattgoog=romano | tractatusdepotes00wycl=romana		4	accept
+25	R3a	latinworks19wycl=facta | johanniswyclift00mattgoog=fata | johanniswyclift01mattgoog=facta | tractatusdepotes00wycl=facta		4	accept
+27	R2	latinworks19wycl=magis | johanniswyclift00mattgoog=ntagis | johanniswyclift01mattgoog=magis | tractatusdepotes00wycl=magis		4	accept
+34	R2	latinworks19wycl=quam | johanniswyclift00mattgoog=quant | johanniswyclift01mattgoog=qnam | tractatusdepotes00wycl=quam		4	accept
+46	R2	latinworks19wycl=proinde | johanniswyclift00mattgoog=protude | johanniswyclift01mattgoog=proiitde | tractatusdepotes00wycl=proinde		4	accept
+49	R2	latinworks19wycl=antiquus | johanniswyclift00mattgoog=antiquus | johanniswyclift01mattgoog=aittiqiius | tractatusdepotes00wycl=antiquus		4	accept
+53	R3a	latinworks19wycl=hac | johanniswyclift00mattgoog=hac | johanniswyclift01mattgoog=hoc | tractatusdepotes00wycl=hac		4	accept
+58	R2	latinworks19wycl=publice | johanniswyclift00mattgoog=publice | johanniswyclift01mattgoog=pubucc | tractatusdepotes00wycl=publice		4	accept
+59	R2	latinworks19wycl=in | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=th | tractatusdepotes00wycl=in		4	accept
+60	R2	latinworks19wycl=aere | johanniswyclift00mattgoog=aere | johanniswyclift01mattgoog=otre | tractatusdepotes00wycl=aere		4	accept
+65	R2	latinworks19wycl=uenenum | johanniswyclift00mattgoog=uenenum | johanniswyclift01mattgoog=to | tractatusdepotes00wycl=uenenum		4	accept
+71	R3a	latinworks19wycl=iu | johanniswyclift00mattgoog=in | johanniswyclift01mattgoog=in | tractatusdepotes00wycl=in		4	accept
+73	R2	latinworks19wycl=patrum | johanniswyclift00mattgoog=patrunti | johanniswyclift01mattgoog=patrfim | tractatusdepotes00wycl=patrum		4	accept
+118	R2	latinworks19wycl=autem | johanniswyclift00mattgoog=autem | johanniswyclift01mattgoog=autero | tractatusdepotes00wycl=autem		4	accept
+150	R2	latinworks19wycl=inde | johanniswyclift00mattgoog=inde | johanniswyclift01mattgoog=indfl | tractatusdepotes00wycl=inde		4	accept
+185	R3a	latinworks19wycl=komani | johanniswyclift00mattgoog=romani | johanniswyclift01mattgoog=romam | tractatusdepotes00wycl=romani		4	accept
+191	NW	latinworks19wycl=magcrum | johanniswyclift00mattgoog=magcrum | johanniswyclift01mattgoog=magcrum | tractatusdepotes00wycl=magcrum		4	plate

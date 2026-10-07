@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+13	NW	latinworks19wycl=blasfemius | johanniswyclift00mattgoog=blasfemius | johanniswyclift01mattgoog=blasfemius | tractatusdepotes00wycl=blasfemius		4	plate
+17	R2	latinworks19wycl=yma | johanniswyclift00mattgoog=yma | johanniswyclift01mattgoog=yraa | tractatusdepotes00wycl=yma		4	accept
+54	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=ciim | tractatusdepotes00wycl=cum		4	accept
+67	R3a	latinworks19wycl=sancto | johanniswyclift00mattgoog=sancto | johanniswyclift01mattgoog=saco | tractatusdepotes00wycl=sancto		4	accept
+96	R2	latinworks19wycl=a | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=a | tractatusdepotes00wycl=a		4	accept
+132	R2	latinworks19wycl=lmagmis | johanniswyclift00mattgoog=imaginis | johanniswyclift01mattgoog=imaginis | tractatusdepotes00wycl=lmagims		4	accept
+167	R2	latinworks19wycl=ab2 | johanniswyclift00mattgoog=abhominacio | johanniswyclift01mattgoog=abhominacio | tractatusdepotes00wycl=abhominacio		4	accept
+168	DEL	latinworks19wycl=hominacio | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=∅		4	accept

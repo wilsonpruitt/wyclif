@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=esse		1	accept
+1	EDGE	latinworks19wycl=nimis		1	accept
+2	THIN	latinworks19wycl=maerna		1	plate
+7	R2	latinworks19wycl=beati | johanniswyclift00mattgoog=bead | johanniswyclift01mattgoog=beati | tractatusdepotes00wycl=beati		4	accept
+10	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
+13	THIN	latinworks19wycl=testimoniumbernhardi		1	plate
+14	THIN	latinworks19wycl=etlyncolmensis		1	plate
+27	R3a	latinworks19wycl=igitur | johanniswyclift00mattgoog=igitur | johanniswyclift01mattgoog=itur | tractatusdepotes00wycl=igitur		4	accept
+77	R2	latinworks19wycl=libro | johanniswyclift00mattgoog=libro | johanniswyclift01mattgoog=hbru | tractatusdepotes00wycl=libro		4	accept
+165	R4	latinworks19wycl=ibpater | johanniswyclift00mattgoog=pater | tractatusdepotes00wycl=ibpater		3	plate
+166	R4	latinworks19wycl=ueatissimns | johanniswyclift00mattgoog=beatisstmus | tractatusdepotes00wycl=beahssimus		3	plate
+199	R4	latinworks19wycl=uerisotatem | johanniswyclift00mattgoog=ueritatem | johanniswyclift01mattgoog=ueritatem | tractatusdepotes00wycl=uerisotatem		4	plate

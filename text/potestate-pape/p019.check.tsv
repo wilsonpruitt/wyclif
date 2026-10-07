@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+8	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
+63	R5a	latinworks19wycl=rom | johanniswyclift00mattgoog=rom | johanniswyclift01mattgoog=rom | tractatusdepotes00wycl=rom		4	accept
+65	R3	latinworks19wycl=1 | johanniswyclift00mattgoog=i | johanniswyclift01mattgoog=i | tractatusdepotes00wycl=1		4	plate
+74	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=0 | tractatusdepotes00wycl=non		4	accept
+91	R2	latinworks19wycl=illis | johanniswyclift00mattgoog=illis | johanniswyclift01mattgoog=hits | tractatusdepotes00wycl=illis		4	accept
+96	R2	latinworks19wycl=qitia | johanniswyclift00mattgoog=quia | johanniswyclift01mattgoog=iiuia | tractatusdepotes00wycl=quia		4	accept
+102	R2	latinworks19wycl=nisi | johanniswyclift00mattgoog=nisi | johanniswyclift01mattgoog=ttisi | tractatusdepotes00wycl=nisi		4	accept
+148	INS?	n	2	4	plate
+159	R3a	latinworks19wycl=te | johanniswyclift00mattgoog=te | johanniswyclift01mattgoog=le | tractatusdepotes00wycl=te		4	accept
+162	R2	latinworks19wycl=habeo | johanniswyclift00mattgoog=habeo | johanniswyclift01mattgoog=ihaheo | tractatusdepotes00wycl=habeo		4	accept
+166	R5a	latinworks19wycl=iesus | johanniswyclift00mattgoog=iesus | johanniswyclift01mattgoog=iesus | tractatusdepotes00wycl=iesus		4	accept
+182	R5a	latinworks19wycl=cxui | johanniswyclift00mattgoog=cxui | johanniswyclift01mattgoog=cxui | tractatusdepotes00wycl=cxui		4	accept
+198	R5a	latinworks19wycl=herode | johanniswyclift00mattgoog=herode | johanniswyclift01mattgoog=herode | tractatusdepotes00wycl=herode		4	accept
+204	R3a	latinworks19wycl=scriptum | johanniswyclift00mattgoog=scriptum | johanniswyclift01mattgoog=scriptura | tractatusdepotes00wycl=scriptum		4	accept
+206	R5a	latinworks19wycl=liii | johanniswyclift00mattgoog=liii | johanniswyclift01mattgoog=liii | tractatusdepotes00wycl=liii		4	accept
+213	INS	uoce sic	3	4	accept
+214	R5	latinworks19wycl=aperuitos | johanniswyclift00mattgoog=aperuitos | tractatusdepotes00wycl=aperuitos		3	plate

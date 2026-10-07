@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+50	THIN	latinworks19wycl=uce | tractatusdepotes00wycl=xuiii		2	plate
+51	THIN	latinworks19wycl=yill | tractatusdepotes00wycl=∅		2	plate
+52	THIN	latinworks19wycl=24 | tractatusdepotes00wycl=24		2	plate
+53	THIN	latinworks19wycl=27 | tractatusdepotes00wycl=27		2	plate
+55	R2	latinworks19wycl=difficile | johanniswyclift01mattgoog=iuxficiu | tractatusdepotes00wycl=difftcile		3	accept
+57	R2	latinworks19wycl=pecunias | johanniswyclift00mattgoog=pccuhios | johanniswyclift01mattgoog=pecumias | tractatusdepotes00wycl=pecunias		4	accept
+61	R2	latinworks19wycl=introibunt | johanniswyclift00mattgoog=introibunt | johanniswyclift01mattgoog=inlroibiiiit | tractatusdepotes00wycl=introibunt		4	accept
+66	R2	latinworks19wycl=foramen | johanniswyclift00mattgoog=foramen | johanniswyclift01mattgoog=foranun | tractatusdepotes00wycl=foramen		4	accept
+67	R2	latinworks19wycl=acus | johanniswyclift00mattgoog=acus | johanniswyclift01mattgoog=actts | tractatusdepotes00wycl=acus		4	accept
+82	R3a	latinworks19wycl=saluus | johanniswyclift00mattgoog=saluus | johanniswyclift01mattgoog=salutis | tractatusdepotes00wycl=saluus		4	accept
+85	R2	latinworks19wycl=ait | johanniswyclift00mattgoog=ait | johanniswyclift01mattgoog=ail | tractatusdepotes00wycl=ait		4	accept
+91	R2	latinworks19wycl=homines | johanniswyclift00mattgoog=homines | johanniswyclift01mattgoog=hotttiites | tractatusdepotes00wycl=homines		4	accept
+93	R2	latinworks19wycl=sunt | johanniswyclift00mattgoog=sunt | johanniswyclift01mattgoog=hmt | tractatusdepotes00wycl=sunt		4	accept
+103	R5a	latinworks19wycl=petrus | johanniswyclift00mattgoog=petrus | johanniswyclift01mattgoog=pettus | tractatusdepotes00wycl=petrus		4	accept
+154	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=iix | tractatusdepotes00wycl=ex		4	accept
+202	R2	latinworks19wycl=ex | johanniswyclift00mattgoog=ex | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=ex		4	accept
+203	R2	latinworks19wycl=temporalium | johanniswyclift00mattgoog=temporalium | johanniswyclift01mattgoog=tamponiium | tractatusdepotes00wycl=temporalium		4	accept
+207	R3a	latinworks19wycl=est | johanniswyclift00mattgoog=est | johanniswyclift01mattgoog=o | tractatusdepotes00wycl=est		4	accept
+209	R2	latinworks19wycl=martyrium | johanniswyclift00mattgoog=martyrium | johanniswyclift01mattgoog=muturium | tractatusdepotes00wycl=martyrium		4	accept
+225	R3a	latinworks19wycl=pape | johanniswyclift00mattgoog=pape | johanniswyclift01mattgoog=pap | tractatusdepotes00wycl=pape		4	accept
+241	EDGE	latinworks19wycl=populum | tractatusdepotes00wycl=populum		2	accept

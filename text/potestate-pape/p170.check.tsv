@@ -1,0 +1,36 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks19wycl=quod		1	accept
+1	THIN	latinworks19wycl=dommatus		1	plate
+10	R3	latinworks19wycl=lt | johanniswyclift00mattgoog=et | johanniswyclift01mattgoog=tt | tractatusdepotes00wycl=lt		4	plate
+13	R3	latinworks19wycl=mendacn | johanniswyclift00mattgoog=mendacii | johanniswyclift01mattgoog=mendacu | tractatusdepotes00wycl=mendacu		4	plate
+38	R3a	latinworks19wycl=alteri | johanniswyclift00mattgoog=alter | johanniswyclift01mattgoog=alteri | tractatusdepotes00wycl=alteri		4	accept
+47	R3	latinworks19wycl=parce | johanniswyclift00mattgoog=arce | johanniswyclift01mattgoog=parce | tractatusdepotes00wycl=axce		4	plate
+81	R2	latinworks19wycl=constantinus | johanniswyclift00mattgoog=constantinus | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=constantinus		4	accept
+93	R2	latinworks19wycl=illam | johanniswyclift00mattgoog=illam | johanniswyclift01mattgoog=ulannsi | tractatusdepotes00wycl=illam		4	accept
+106	R5a	latinworks19wycl=uiii | johanniswyclift00mattgoog=uiii | johanniswyclift01mattgoog=uiii | tractatusdepotes00wycl=uiii		4	accept
+107	R3	latinworks19wycl=ouo | johanniswyclift00mattgoog=qiio | johanniswyclift01mattgoog=quo | tractatusdepotes00wycl=quo		4	plate
+108	R2	latinworks19wycl=inre | johanniswyclift00mattgoog=iuuc | johanniswyclift01mattgoog=iiire | tractatusdepotes00wycl=iure		4	accept
+118	GAP	nisi ex lege	3	4	plate
+118	R5a	latinworks19wycl=cesaris | johanniswyclift00mattgoog=cesaris | johanniswyclift01mattgoog=cesaris | tractatusdepotes00wycl=cesaris		4	accept
+129	R6a	latinworks19wycl=iii | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=iii | tractatusdepotes00wycl=iii		4	accept
+134	R5a	latinworks19wycl=hiis | johanniswyclift00mattgoog=hiis | johanniswyclift01mattgoog=hiis | tractatusdepotes00wycl=hiis		4	accept
+143	R2	latinworks19wycl=sanctus | johanniswyclift00mattgoog=sancins | johanniswyclift01mattgoog=sithctns | tractatusdepotes00wycl=sanctus		4	accept
+149	R3a	latinworks19wycl=tibi | johanniswyclift00mattgoog=libi | johanniswyclift01mattgoog=tibi | tractatusdepotes00wycl=tibi		4	accept
+152	R2	latinworks19wycl=illud | johanniswyclift00mattgoog=illud | johanniswyclift01mattgoog=hind | tractatusdepotes00wycl=illud		4	accept
+153	R2	latinworks19wycl=certe | johanniswyclift00mattgoog=certe | johanniswyclift01mattgoog=eerie | tractatusdepotes00wycl=certe		4	accept
+154	R2	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=uoh | tractatusdepotes00wycl=non		4	accept
+156	R2	latinworks19wycl=aurum | johanniswyclift00mattgoog=aurum | johanniswyclift01mattgoog=aurtim | tractatusdepotes00wycl=aurum		4	accept
+158	R2	latinworks19wycl=argentumib | johanniswyclift00mattgoog=argenlum2b | johanniswyclift01mattgoog=argehtumcum | tractatusdepotes00wycl=argentum		4	accept
+159	R2	latinworks19wycl=cum | johanniswyclift00mattgoog=cum | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=cum		4	accept
+161	R3a	latinworks19wycl=dicat | johanniswyclift00mattgoog=dicat | johanniswyclift01mattgoog=dicai | tractatusdepotes00wycl=dicat		4	accept
+164	R2	latinworks19wycl=aurum | johanniswyclift00mattgoog=aurum | johanniswyclift01mattgoog=ahnttn | tractatusdepotes00wycl=aurum		4	accept
+168	R2	latinworks19wycl=si | johanniswyclift00mattgoog=∅ | johanniswyclift01mattgoog=si | tractatusdepotes00wycl=si		4	accept
+180	R3a	latinworks19wycl=utens | johanniswyclift00mattgoog=ntens | johanniswyclift01mattgoog=ulcus | tractatusdepotes00wycl=utens		4	accept
+184	R3a	latinworks19wycl=uteus | johanniswyclift00mattgoog=utens | johanniswyclift01mattgoog=ulcus | tractatusdepotes00wycl=utens		4	accept
+191	R2	latinworks19wycl=spectat | johanniswyclift00mattgoog=spectat | johanniswyclift01mattgoog=special | tractatusdepotes00wycl=spectat		4	accept
+194	R2	latinworks19wycl=stmt | johanniswyclift00mattgoog=sunt | johanniswyclift01mattgoog=sunt | tractatusdepotes00wycl=sunt		4	accept
+196	R3a	latinworks19wycl=mala | johanniswyclift00mattgoog=mala | johanniswyclift01mattgoog=mala | tractatusdepotes00wycl=maia		4	accept
+199	R2	latinworks19wycl=horum | johanniswyclift00mattgoog=horum | johanniswyclift01mattgoog=bormn | tractatusdepotes00wycl=horum		4	accept
+200	R2	latinworks19wycl=bomis | johanniswyclift00mattgoog=bonhs | johanniswyclift01mattgoog=bonusio | tractatusdepotes00wycl=bonus		4	accept
+205	R2	latinworks19wycl=questus | johanniswyclift00mattgoog=questus | johanniswyclift01mattgoog=quealus | tractatusdepotes00wycl=questus		4	accept
+214	THIN	latinworks19wycl=uenaices | johanniswyclift01mattgoog=uenaices		2	plate

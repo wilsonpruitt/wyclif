@@ -1,0 +1,8 @@
+pos	rule	forms	support	voters	resolution
+5	NW	latinworks19wycl=preficiendo | johanniswyclift00mattgoog=preficiendo | johanniswyclift01mattgoog=preficiendo | tractatusdepotes00wycl=preficiendo		4	plate
+23	R2	latinworks19wycl=et | johanniswyclift00mattgoog=t | johanniswyclift01mattgoog=et | tractatusdepotes00wycl=et		4	accept
+44	R4	latinworks19wycl=the | johanniswyclift01mattgoog=sed | tractatusdepotes00wycl=the		3	plate
+45	R3	latinworks19wycl=e | johanniswyclift01mattgoog=∅ | tractatusdepotes00wycl=sed		3	plate
+85	R2	latinworks19wycl=finem | johanniswyclift00mattgoog=finem | johanniswyclift01mattgoog=fineiii | tractatusdepotes00wycl=finem		4	accept
+192	R3a	latinworks19wycl=tam | johanniswyclift00mattgoog=tarn | johanniswyclift01mattgoog=tani | tractatusdepotes00wycl=tam		4	accept
+197	INS?	i	2	4	plate

@@ -1,0 +1,29 @@
+pos	rule	forms	support	voters	resolution
+8	R3a	latinworks19wycl=commnni | johanniswyclift00mattgoog=com | johanniswyclift01mattgoog=communi | tractatusdepotes00wycl=communi		4	accept
+21	R2	latinworks19wycl=oincmm | johanniswyclift00mattgoog=officium | johanniswyclift01mattgoog=officium | tractatusdepotes00wycl=officium		4	accept
+28	R3a	latinworks19wycl=suspenso | johanniswyclift00mattgoog=suspenso | johanniswyclift01mattgoog=suspense | tractatusdepotes00wycl=suspenso		4	accept
+101	R5a	latinworks19wycl=x | johanniswyclift00mattgoog=x | johanniswyclift01mattgoog=x | tractatusdepotes00wycl=x		4	accept
+111	R2	latinworks19wycl=loqni | johanniswyclift00mattgoog=loqui | johanniswyclift01mattgoog=hqtii | tractatusdepotes00wycl=loqui		4	accept
+112	R4	latinworks19wycl=peccata | johanniswyclift00mattgoog=peccata | johanniswyclift01mattgoog=peccala | tractatusdepotes00wycl=peccala		4	plate
+113	R2	latinworks19wycl=aut | johanniswyclift00mattgoog=aut | johanniswyclift01mattgoog=aul | tractatusdepotes00wycl=aut		4	accept
+120	R2	latinworks19wycl=aliquid | johanniswyclift00mattgoog=alignid | johanniswyclift01mattgoog=aliqitid | tractatusdepotes00wycl=aliquid		4	accept
+123	R3	latinworks19wycl=et | johanniswyclift00mattgoog=ei | johanniswyclift01mattgoog=tt | tractatusdepotes00wycl=et		4	plate
+124	R3	latinworks19wycl=iamen | johanniswyclift00mattgoog=amen | johanniswyclift01mattgoog=lumen | tractatusdepotes00wycl=iamen		4	plate
+126	R4	latinworks19wycl=uidetur | johanniswyclift00mattgoog=uideiur | johanniswyclift01mattgoog=uideiur | tractatusdepotes00wycl=uidetur		4	plate
+128	R4a	latinworks19wycl=alicnius | johanniswyclift00mattgoog=alicuius | johanniswyclift01mattgoog=alicnius | tractatusdepotes00wycl=alicuitis		4	accept
+133	R2	latinworks19wycl=unde | johanniswyclift00mattgoog=uude | johanniswyclift01mattgoog=tiude | tractatusdepotes00wycl=unde		4	accept
+145	R3a	latinworks19wycl=iuum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	accept
+153	R2	latinworks19wycl=guttur | johanniswyclift00mattgoog=guttur | johanniswyclift01mattgoog=gullur | tractatusdepotes00wycl=guttur		4	accept
+155	R2	latinworks19wycl=trahi | johanniswyclift00mattgoog=trahi | johanniswyclift01mattgoog=iraki | tractatusdepotes00wycl=trahi		4	accept
+160	R3a	latinworks19wycl=non | johanniswyclift00mattgoog=non | johanniswyclift01mattgoog=uou | tractatusdepotes00wycl=non		4	accept
+164	NW	latinworks19wycl=uec | johanniswyclift00mattgoog=uec | johanniswyclift01mattgoog=uec | tractatusdepotes00wycl=uec		4	plate
+165	R3	latinworks19wycl=illum | johanniswyclift00mattgoog=ilium | johanniswyclift01mattgoog=ilium | tractatusdepotes00wycl=illum		4	plate
+167	R2	latinworks19wycl=ne | johanniswyclift00mattgoog=ne | johanniswyclift01mattgoog=tie | tractatusdepotes00wycl=ne		4	accept
+169	R2	latinworks19wycl=commoda | johanniswyclift00mattgoog=commoda | johanniswyclift01mattgoog=connuoda | tractatusdepotes00wycl=commoda		4	accept
+195	R2	latinworks19wycl=seairos | johanniswyclift00mattgoog=seciiros | johanniswyclift01mattgoog=securos | tractatusdepotes00wycl=securos		4	accept
+200	R2	latinworks19wycl=sanctus | johanniswyclift00mattgoog=sattctus | johanniswyclift01mattgoog=situcus | tractatusdepotes00wycl=sanctus		4	accept
+202	R2	latinworks19wycl=ezechielem | johanniswyclift00mattgoog=ezechielem | johanniswyclift01mattgoog=ezechielem | tractatusdepotes00wycl=∅		4	accept
+203	R2	latinworks19wycl=xxxiii | johanniswyclift00mattgoog=xxxiii | johanniswyclift01mattgoog=xxxiii | tractatusdepotes00wycl=∅		4	accept
+221	EDGE	latinworks19wycl=beneficiorum | johanniswyclift00mattgoog=beneficiorum		2	accept
+222	EDGE	latinworks19wycl=distribucio | johanniswyclift00mattgoog=distribucio		2	accept
+223	THIN	latinworks19wycl=semmat		1	plate
