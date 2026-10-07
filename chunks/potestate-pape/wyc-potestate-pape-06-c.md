@@ -66,8 +66,8 @@ But against this [it is argued by appeal to]{g:arguitur-per} the fact that, acco
 [^9]: **C.** *Sed facta sua falsificat*: by revoking, one pope declares false what the other did. The *sed* is odd; *et* would be smoother.
 [^10]: **C.** *Postponere*, "put after", against the faith of scripture just named.
 [^11]: **C.** The protasis runs on with *et cum*: "if every pope had … and since he would not exceed …". *Citra Petrum*, "short of Peter", as *citra Christum*.
-[^12]: **S/C.** Augustine, *De doctrina christiana* 4.6 (LEDGER P06c-2). The sentence has no verb; we supply "[does] … [speak]" from the context of speaking with God's authority.
-[^13]: **S.** Gal. 2:11–14, Paul's rebuke of Peter at Antioch; that Peter rejoiced at it is not in the text of Galatians (LEDGER P06c-3).
+[^12]: **S/C.** Augustine, *De doctrina christiana* 4.6.9 (PL 34, 93: the scriptural authors are *viros summa auctoritate dignissimos planeque divinos*; LEDGER P06c-2). The sentence has no verb; we supply "[does] … [speak]" from the context of speaking with God's authority.
+[^13]: **S.** Gal. 2:11–14, Paul's rebuke of Peter at Antioch; that Peter rejoiced at it is not in the text of Galatians; the nearest is Augustine, Ep. 82.22 (PL 33, 286), Peter accepting the correction *sanctae ac benignae pietate humilitatis* (LEDGER P06c-3; a source for *gaudebat* not found).
 [^14]: **C.** *Sub non gradu*, literally "under a non-degree": taken as "under no degree". It may stand for *sub nullo gradu* or *sine gradu*.
 [^15]: **T.** The print has *papalis sentencia*; the manuscripts read *papali* (apparatus 114.20). *Majoritas*, "greatness", as with *prioritas*, "priority".
 [^16]: **C.** *Quam evangelium*: the objection draws an absurd consequence: if authority follows holiness, a holier man would have greater authority than the gospel. *Alius*, "than the other", would be the expected comparison.

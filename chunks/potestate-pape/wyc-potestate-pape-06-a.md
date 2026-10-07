@@ -66,7 +66,7 @@ As to miracles, it is clear that they cease today in our [bishops]{g:episcopus},
 
 [^2]: **C.** *primogenitura*: Christ as firstborn (Colossians 1:15, 18); the power of the firstborn belongs to him as man but cannot pass to a vicar without making the vicar God and man.
 
-[^3]: **S.** John 10:18, DR "I have power to lay it down: and I have power to take it up again"; DR's "it" is the life (*anima*); "soul" is kept because the next sentence argues from body and soul. Augustine, *In Iohannis evangelium tractatus* 47; no reference in Loserth (LEDGER P06a-1, to be checked).
+[^3]: **S.** John 10:18, DR "I have power to lay it down: and I have power to take it up again"; DR's "it" is the life (*anima*); "soul" is kept because the next sentence argues from body and soul. Augustine, *In Iohannis evangelium tractatus* 47.11 (Loserth: *Opp.* tom. III, 610; PL 35, 1739: *nemo habet potestatem sumere quod posuerit: Christus autem … quando voluit, sumpsit*) (LEDGER P06a-1).
 
 [^4]: **T.** *naturam terciam* (103.14): Loserth notes "sic in codd." and suggests *separatam*, "separate"; translated as printed. *corpus vero*: continuative, "and".
 
@@ -82,7 +82,7 @@ As to miracles, it is clear that they cease today in our [bishops]{g:episcopus},
 
 [^10]: **C.** *Stat … augere*: "it stands", it is consistent, that God increase. *per se ponere*: to place a quality by itself, without a subject; the third argument rests on the separable accident, which Wyclif rejects below.
 
-[^11]: **S/C.** Loserth: cf. *De benedicta incarnacione* cap. XI, p. 189 (his query) (LEDGER P06a-2, editor). *non potuit … verumtamen potuit facillime si voluisset*: Christ could not as things stand (he did not will it), yet could have done so with ease had he willed; the conditional, not the absolute, impossibility.
+[^11]: **S/C.** Loserth: cf. *De benedicta incarnacione* cap. XI, p. 189 (his query; confirmed at p. 189.14–15: *Christus non potest aliam naturam assumere*) (LEDGER P06a-2). *non potuit … verumtamen potuit facillime si voluisset*: Christ could not as things stand (he did not will it), yet could have done so with ease had he willed; the conditional, not the absolute, impossibility. The qualification is Wyclif's here: *De benedicta incarnacione* says only that it *est impossibile*.
 
 [^12]: **C.** *universitatem creatam*: the created universe; *individua … universalia*: the incarnation adds new individuals and new species (Christ's grace and power are of another species).
 

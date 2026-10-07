@@ -72,7 +72,7 @@ From these would follow three [conclusions]{g:conclusio} gracious to the church.
 
 [^1]: **C/T.** *turpiter petitur quod probaretur*: the fallacy of begging the question. *hoc fuit obligare obedire minoribus*: the preeminence was itself a bond to obey those beneath him. Loserth reports a corrupt A reading at 97.15–16 (*fiunt humilior*); translated as printed.
 
-[^2]: **S/R.** Augustine on Peter's humility under Paul's rebuke; Loserth: "St. Augustini Opp. tom. II, 85"; Wyclif's *Epistola IX* stands as printed (LEDGER P05f-1, editor; the modern letter number to be checked). A in the margin (97.23): *Petrus habuit primatum super apostolos*, "Peter had primacy over the apostles".
+[^2]: **S/R.** Augustine on Peter's humility under Paul's rebuke; Loserth: "St. Augustini Opp. tom. II, 85"; Wyclif's *Epistola IX* stands as printed (LEDGER P05f-1, editor; the matching passage is Ep. 82.22, PL 33, 285–86: Peter took Paul's correction *sanctae ac benignae pietate humilitatis*; whether Loserth's column and Wyclif's *IX* point to Ep. 82 or to Ep. 40 is not confirmed). A in the margin (97.23): *Petrus habuit primatum super apostolos*, "Peter had primacy over the apostles".
 
 [^3]: **G.** *viantis ecclesie*: the church of those on the road (GLOSSARY *viantes*), the church in this life.
 
@@ -80,15 +80,15 @@ From these would follow three [conclusions]{g:conclusio} gracious to the church.
 
 [^5]: **T/G.** B reads *diffinitum fuerit modo preter* (98.4). *limitatum*: "assigned", laid down (GLOSSARY *limitare*), not restricted. *habiles*: qualified (GLOSSARY *habilis*).
 
-[^6]: **S/T/C.** Augustine, *In Iohannis evangelium tractatus* 124.5; Loserth refers instead to *Enarr. in Ps.* 108 (LEDGER P05f-2, to be checked). The print's *super X* and the manuscripts' *super 10* (98.7) both seem to stand for *super Jo[hannem]*; we supply "John" (our emendation). B lacks *apostolus* (98.12). Matthew 16:19, DR. *que fundatur in Christo*: the feminine relative after the quotation takes *petram*, the rock founded in Christ; B's *qui* (98.19) makes it Peter. Loserth at 98.20: cf. Hus, Opp. 210 (LEDGER P05f-3, editor).
+[^6]: **S/T/C.** Augustine, *In Iohannis evangelium tractatus* 124.5; Loserth refers instead to *Enarr. in Ps.* 108 (PL 35, 1973: *gerebat figurata generalitate personam*, Wyclif's wording; LEDGER P05f-2). The print's *super X* and the manuscripts' *super 10* (98.7) both seem to stand for *super Jo[hannem]*; we supply "John" (our emendation). B lacks *apostolus* (98.12). Matthew 16:19, DR. *que fundatur in Christo*: the feminine relative after the quotation takes *petram*, the rock founded in Christ; B's *qui* (98.19) makes it Peter. Loserth at 98.20: cf. Hus, Opp. 210 (LEDGER P05f-3, editor).
 
-[^7]: **C/S.** *potenciam … potestatis*: both "power" here (GLOSSARY *potencia*, CONTEXTUAL; Wyclif uses the two words interchangeably). The reserved cases of penance: the bishop binds by withholding his own power and suspending the priest's. *in materia de sacramento penitencie*: Wyclif's cross-reference (LEDGER P05f-4, to be checked). B lacks *populum* (98.24).
+[^7]: **C/S.** *potenciam … potestatis*: both "power" here (GLOSSARY *potencia*, CONTEXTUAL; Wyclif uses the two words interchangeably). The reserved cases of penance: the bishop binds by withholding his own power and suspending the priest's. *in materia de sacramento penitencie*: Wyclif's cross-reference, not identified; the reservation of absolution is attacked later in *De eucharistia et poenitentia* (ed. Loserth 1892, p. 340), but as reservation to the curia (LEDGER P05f-4). B lacks *populum* (98.24).
 
 [^8]: **S/T.** Galatians 2:9, DR. The print's stray parenthesis after *cognovissent* is not carried.
 
 [^9]: **S.** Galatians 1:17–18: Paul went to see Peter "after three years".
 
-[^10]: **S.** Jerome on the common counsel of the apostles and priests: presumably the *Olim* of Decretum D.95 c.5, cited at 96.27 (LEDGER P05f-5, to be checked).
+[^10]: **S.** Jerome on the common counsel of the apostles and priests: the *Olim* of Decretum D.95 c.5, cited at 96.27 (PL 187, 448C: *communi presbyterorum consilio ecclesiae gubernabantur*; LEDGER P05f-5).
 
 [^11]: **S/C/G.** Acts 13:2, DR "Separate me Saul and Barnabas". The subject of *precepit* is God (the Holy Ghost in Acts). *ymmo*: "indeed", correcting upward. *falsarius*: the opponent's epithet.
 
@@ -112,7 +112,7 @@ From these would follow three [conclusions]{g:conclusio} gracious to the church.
 
 [^21]: **S/G.** John 21:15–17 (DR 21:17 "Feed my sheep"). *limitato*: "assigned" (GLOSSARY *limitare*).
 
-[^22]: **S/T/R.** Augustine, Ep. 149 to Paulinus (Loserth: "Ep. CXLIX. Opp. tom. II, pag. 508"; Wyclif's *CXLI* stands as printed; LEDGER P05f-6, editor; the section to be checked). Ephesians 4:11, DR "other some pastors and doctors". *intelligamus* (102.11) is Loserth's supplement, lacking in the manuscripts; translated. B reads *agit* for *ait* (102.14). AB in the margin (102.6): *Pastores debent esse doctores plebem exemplo et verbo docentes*, "Pastors ought to be doctors, teaching the people by example and word".
+[^22]: **S/T/R.** Augustine, Ep. 149 to Paulinus (Loserth: "Ep. CXLIX. Opp. tom. II, pag. 508"; Wyclif's *CXLI* stands as printed; Ep. 149.11, PL 33, 635, whose *intelligamus* confirms Loserth's supplement; LEDGER P05f-6). Ephesians 4:11, DR "other some pastors and doctors". *intelligamus* (102.11) is Loserth's supplement, lacking in the manuscripts; translated. B reads *agit* for *ait* (102.14). AB in the margin (102.6): *Pastores debent esse doctores plebem exemplo et verbo docentes*, "Pastors ought to be doctors, teaching the people by example and word".
 
 [^23]: **C/T.** *prescisso organo et officio laycali*: the worldly means and lay office cut away, the bishop is left empty. B lacks *facta* (102.26). A in the margin (102.25): *C. VI.*, the next chapter.
 

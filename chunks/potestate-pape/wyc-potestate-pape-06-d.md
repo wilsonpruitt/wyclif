@@ -52,7 +52,7 @@ To the third it is clear that the power of order is a [power]{g:potestas} of rul
 
 [^2]: **S.** Luke 24:49 and Acts 1:4, the apostles staying in Jerusalem until the Spirit came; *limitatus*, "assigned", as a people assigned to a bishop.
 
-[^3]: **S.** Dan. 4 (Vulgate 4:27, "Is not this the great Babylon, which I have built … by the strength of my power"). The boast that the king is God is closer to Judith 3:13 and 6:2 (LEDGER P06d-1).
+[^3]: **S.** Dan. 4 (Vulgate 4:27, "Is not this the great Babylon, which I have built … by the strength of my power"). The boast that the king is God is closer to Judith 3:13 (DR "that he only might be called God") and 6:2 ("there is no God, but Nabuchodonosor") (LEDGER P06d-1).
 
 [^4]: **S.** Luke 22:25–26 ("The kings of the Gentiles lord it over them … But you not so"); Matt. 20:25–26.
 
@@ -70,7 +70,7 @@ To the third it is clear that the power of order is a [power]{g:potestas} of rul
 
 [^11]: **S.** Exod. 18:21, the "rulers of thousands, and of hundreds, … and of tens" (Vulgate *tribunos, et centuriones, et quinquagenarios, et decanos*).
 
-[^12]: **S.** The eightfold humility is treated earlier in this treatise (place to be located; LEDGER P06d-2).
+[^12]: **S.** The eightfold humility is treated earlier in this treatise, ch. 3, 59.8 ff.: the eight conditions of the truly humble from Grosseteste's sermon on humility (see 03-e n4) (LEDGER P06d-2).
 
 [^13]: **G.** *Gradus remississimus*, "the most remiss degree", the lowest degree in the scholastic intension and remission of qualities: the bare priestly power, which higher powers of order exceed.
 

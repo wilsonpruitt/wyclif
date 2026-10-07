@@ -67,7 +67,7 @@ Secondly, it is argued by appeal to the fact that many things were said and gran
 
 [^6]: **T/S.** Loserth notes *3° causat* in the manuscripts (95.3). Revelation 3:16, DR "I will begin to vomit thee out of my mouth"; the words are not quoted.
 
-[^7]: **S/R.** FitzRalph, *Summa in quaestionibus Armenorum* VII.6, as Wyclif cites it; no reference in Loserth (LEDGER P05e-1, to be checked). B spells the name *Archidmanus* (95.9). A in the margin (95.8): *Nota de duplici potestate scilicet iurisdiccionis et ordinis*, "Note on the twofold power, namely of jurisdiction and of order".
+[^7]: **S/R.** FitzRalph, *Summa in quaestionibus Armenorum* VII.6, as Wyclif cites it; no reference in Loserth (LEDGER P05e-1; awaiting the 1512 print, with P03a-1 and P04b-1). B spells the name *Archidmanus* (95.9). A in the margin (95.8): *Nota de duplici potestate scilicet iurisdiccionis et ordinis*, "Note on the twofold power, namely of jurisdiction and of order".
 
 [^8]: **C.** Where the objection ends is not marked; we take it to run to *vetitum*. *quod officium* is read as an interrogative, "what office", beside *quid sit … vetitum*.
 
@@ -79,7 +79,7 @@ Secondly, it is argued by appeal to the fact that many things were said and gran
 
 [^12]: **C/R.** *sed ille*: the minor premiss of FitzRalph's first argument, so "now". A in the margin (96.21) numbers it *1*; the second follows at 97.6.
 
-[^13]: **S.** Jerome, *Olim*: Decretum D.95 c.5, to which Loserth refers back ("Vide supra pag. 92"; the modern form is ours) (LEDGER P05e-2, editor). Jerome's own words (on Titus 1:5) speak of the common counsel of presbyters; Wyclif writes *sacerdotum*.
+[^13]: **S.** Jerome, *Olim*: Decretum D.95 c.5, to which Loserth refers back ("Vide supra pag. 92"; the modern form is ours) (PL 187, 448C: *communi presbyterorum consilio ecclesiae gubernabantur*; LEDGER P05e-2). Jerome's own words (on Titus 1:5) speak of the common counsel of presbyters; Wyclif writes *sacerdotum*.
 
 [^14]: **S.** Galatians 2:9 names James first among the pillars. Acts 8:14. The election of Matthias is Acts 1:15–26 (DR 1:26); Wyclif's *Act. II* stands as printed.
 
