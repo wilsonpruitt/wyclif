@@ -45,6 +45,10 @@ emend, or judge the sense.
 - An INS? that completes a verse range (`10—11,`, `1, 2)`): the bare numeral (`11`, `2`), no dash or bracket.
 - An INS? the main scan already holds (the second half of a hyphenated word it has whole, a folio bar read as
   `i`, a page-opening slip repeating the last page, a GAP line already present at the next positions): `∅`.
+- A main-scan token that spans a page break (`romadeciino` = *Roma-norum* | p. 184 *Decimo*): give only this
+  page's word, and name the other page's word in `note` (the coordinator restores it there).
+- A damaged letter (part of the stroke missing) is read as the letter its height and shape show; it is not a misprint.
+- An INS? that is a real word the main scan lost (*acceptavit*, *libro I*, *a*): give the word.
 - A misprint visible in the ink is kept as printed (`nou`, `oslendit`, `teclus`) with the evidence in `note`.
 
 **Conventions settled on *De ecclesia* (keep them):**
