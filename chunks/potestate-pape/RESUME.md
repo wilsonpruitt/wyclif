@@ -3,7 +3,7 @@
 *Read this first in a new session, then `WORKFLOW.md` (stages 7–10), this volume's `CARD.md` and `WAVE-PROMPTS.md`. Started 2026-10-07
 on Wilson's "opus go" (estimate given: ≈12–13M Opus for the volume).*
 
-## ▶ RESUMED 2026-10-08 — 60/107 translated (through 09-f, p. 214); 09-g … 10-a running
+## ▶ RESUMED 2026-10-08 — 63/107 translated (ch. 1–9 + 10-a, p. 223); 10-b … 10-d running
 
 - **Translated: 33 of 107 chunks** (01-a … 06-d, pp. 1–118), every one through the per-wave checks: scars fixed + relatin'd, connectives (waves 1–4: 309 checked, 8 fixed), ledger closed for all rows P01a … P06d (waves 1–4), glossary conformed, lint 0.
 - **Next:** `.venv/bin/python scripts/w3/brief.py potestate-pape 06-e 06-f 06-g` → one Opus agent per brief (≤ 2 at once); then 06-h 06-i 07-a … in order. After each wave: scars (plate-read every real-word/numeral row) → `tokenfix.tsv` → `vote.py SLUG p p` (FOREGROUND) → `relatin.py SLUG --also <ids>`; ledger rows → LEDGER.md; every ~2 briefs run the connective + ledger agents (WAVE-PROMPTS.md; `_connectives/extract.py W ids`, `_connectives/apply.py W`; ledger note changes applied by script).
@@ -73,4 +73,6 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 - **Wave 7** (08-c … 09-f, 4 briefs): ledger 7a (P08c … P08h, 30 rows: 28 verified, 1 untraced; Higden IV.26 not IV.36, Sermo 129.9). Print confirmed: *cursiv* 207.7 (read *vita*, our emendation), *ad implere*, *uti*, impossible verses Mark IX, 3 / Matth. XVI, 29 (English gives the true verse, T note). *Cestrensis* ruled "the Chester [chronicler]" and conformed. ⚠ `~/douay-glossa/raw/DRC.json` Acts 20:27 reads "spread" for "spared" (other project's data; told Wilson). Connectives wave 7 (110) running; ledger 7b (P09a … P09f, 24 rows) next.
 - Running: 09-g … 10-a.
 - ⛔ **08-c lost and redone (2026-10-08):** its translation was overwritten by a `relatin.py` run (vote range 159–173 touched p. 173 while 08-c was still a draft in an agent's hands); found by the wave-7 connective agent (¶2 still `[ENGLISH]`), not by lint. Re-translating as a single brief (P08c-1 kept). Rule now in WORKFLOW 7. Wave-7 connectives: 104 checked, 3 fixed (09-a, 09-c, 09-d); 08-c's 6 *sed* to check after the redo.
+- **08-c redone** (97K, single brief). **Wave 8a** (09-g … 10-a, 130K; ch. 9 done): the OCR had LOST *non* in *qui Christi non est* (216.24, every scan) — the translator caught it from the italics and the repeat at 217.4; restored by pair tokenfix. Print confirmed: *dominio* 218.23, *inconsequens* 222.21. 6 glossary rows; 15 ledger rows (P08c-2, P09g, P09h, P10a).
+- Running: 10-b … 10-d; ledger 7b (P08c-2 + P09a … P09f, 24 rows). Then: connectives for 08-c + 09-g … 10-d; ledger 8 (P09g … P10d).
 
