@@ -46,7 +46,7 @@ Thirdly, it is to be noted that all the laws which speak of the papacy and of th
 - 214.3: False election makes an apostate, not apostolic.
 - 215.4: A pope is not truly such unless he follows Christ and Peter.
 - 215.19: The papal dignity is founded on a grant of the emperor who had no right to make such.
-- 216.11: Even Christ s election is not enough without predestination as Judas shews,
+- 216.11: Even Christ's election is not enough without predestination as Judas shews,
 - 216.25: The Roman Church is wherever the mass of the faithful are.
 - 217.14: Proud and Cesarian priests are Antichrists.
 - 217.28: Such are more numerous in England than true priests.

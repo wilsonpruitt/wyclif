@@ -29,7 +29,7 @@ To the fifth [argument]: it is clear from that [passage] of Mark 14 that Peter a
 - 148.5: If not, the faithful should not follow him.
 - 148.29: Christ's prophecy of Antichrist.
 - 149.10: It may refer to those who now claim to be popes.
-- 149.28: They should Walt patiently for a decision and meanwhile serve the Church as true priests.
+- 149.28: They should wait patiently for a decision and meanwhile serve the Church as true priests.
 - 150.9: They have no authority to claim tribute and the nations should not allow their lordship.
 - 150.28: Wyclif will recant if taught better.
 

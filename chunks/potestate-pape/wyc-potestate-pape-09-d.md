@@ -34,7 +34,7 @@ As to the second object of [boasting]{g:pompare}, which is the dignity of order 
 - 205.6: God does not confirm all binding and loosing of the priest.
 - 205.27: Danger of pride in order or State.
 - 206.6: Need of humility.
-- 207.8: The proud cannot walk in the wavy Which is Christ
+- 207.8: The proud cannot walk in the way which is Christ
 
 ## Notes
 

@@ -600,6 +600,9 @@ otherwise.
 | media (of an argument) | middle terms | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 222.20). |
 | policia | polity | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 174.30). |
 | carismata | charisms | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 176.1). |
+| primicia (virtutum) | being first (in the virtues) | Kept apart from *primatus* "primacy" and *primitas* "firstness". Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 228.33). |
+| bipapalis | two-pope | Of the church under two popes (1378). Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 234.30). |
+| defidare | distrust | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 233.1). |
 | laxus | lax | Ruled 2026-10-02 (*Eccl.* 23). |
 | episcopus Nullatensis | a bishop "of Nowhere" | Ruled 2026-10-02 (*Eccl.* 23). |
 | demereri | to demerit | Ruled 2026-10-02 (*Eccl.* 23). |
