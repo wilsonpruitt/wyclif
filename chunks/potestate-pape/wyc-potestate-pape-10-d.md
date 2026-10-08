@@ -35,19 +35,19 @@ And it is clear from what has been said how the [Roman pontiff]{g:romanus-pontif
 
 ## Notes
 
-[^1]: **S/T.** Gratian, *Decretum* D.96 c.14 *Constantinus*, the Donation of Constantine (Loserth 232.18: "Cap. XIV. Loosely quoted"; the modern form is ours; LEDGER P10d-1). *Tam super quatuor sedes* has no answering *quam*: the Donation goes on "as over all the churches of God in the whole world" (LEDGER P10d-2), which the quotation here leaves out; we translate *tam* "as well". The manuscripts note in the margin (232.19): *Pape institucio a cesare*.
+[^1]: **S/T.** Gratian, *Decretum* D.96 c.14 *Constantinus*, the Donation of Constantine (Loserth 232.18: "Cap. XIV. Loosely quoted"; the modern form is ours; LEDGER P10d-1). *Tam super quatuor sedes* has no answering *quam*: the Donation goes on "as over all the churches of God in the whole world" (PL 187, 461: *tam super quatuor praecipuas sedes … quam etiam super omnes in universo orbe terrarum ecclesias Dei*; LEDGER P10d-2), which the quotation here leaves out; we translate *tam* "as well". The manuscripts note in the margin (232.19): *Pape institucio a cesare*.
 [^2]: **T.** *Yndiam*: Loserth's foot reads "Indiam; recte: Judeam" (232.30): the Donation names Judaea. The print is translated; Wyclif's own argument takes "India" up below (233.1, 234.12).
 [^3]: **S.** Grosseteste, *Epistolae*, ed. Luard, p. 90 (Loserth 233.4; LEDGER P10d-3).
 [^4]: **T/S/C.** "[avarice or luxury]": Loserth's supplement after *eorum* ("adde: avariciam vel luxuriam", 233.13); the print does not construe without a noun. *Qui excessit* is singular: we take Gregory (XI) as its subject; the manuscripts carry a marginal note here that Loserth's foot gives only in part ("… falsus Gregorius XI", 233.12). *Robertum Gilbonensem*: Robert of Geneva, elected by the rebel cardinals in 1378 as Clement VII (LEDGER P10d-4). *Limitare* in its restricting sense, "limited".
 [^5]: **S.** Luke 17:23. Wyclif's *abire* stands for the Vulgate's *ire* (DR "Go ye not after, nor follow them"), and his gloss turns on it ("go away from the first religion"); his Latin is translated. *Edos*: the kids (goats) of Matt. 25:33.
 [^6]: **T.** *Precurrat* is Loserth's correction; the manuscripts read *precucurrit* (233.23).
-[^7]: **S/T.** Gratian, *Decretum* D.22 c.4 *De Constantinopolitana*, under Gregory's name (LEDGER P10d-5; Loserth's foot at 233.27 reads "Cap. IX" in our OCR, to be checked). The bracketed "[otherwise]" fills the ellipsis of *cum culpa non exigit*.
+[^7]: **S/T.** Gratian, *Decretum* D.22 c.4 *De Constantinopolitana*, under Gregory's name (LEDGER P10d-5; Loserth's foot at 233.27 reads "Cap. IV" on the plate, where the OCR has "IX"). The bracketed "[otherwise]" fills the ellipsis of *cum culpa non exigit*.
 [^8]: **T.** *Sint* (234.1): Loserth's foot "recte: fuerint" ("have been"); the print is translated. *Consensum* is his correction; the manuscripts read *consensui* (234.4).
-[^9]: **S.** The proverb from Aristotle, *De caelo* 1.5, 271b8–13 (LEDGER P10d-6).
+[^9]: **S.** The proverb from Aristotle, *De caelo* 1.5, 271b8–13: "the least initial deviation from the truth is multiplied later a thousandfold" (LEDGER P10d-6).
 [^10]: **T/C.** *Bipapalem*: the division of the schism of 1378, two popes. Loserth reports *Codd.: ut* against a printed *vel* at 234.31 (that is, *ut diminueretur* or *vel populus*); the print is translated. *Ad non quantum*: to nothing, "no quantity".
 [^11]: **C.** *Subiective in spiritu*: the power inheres in the soul as in its subject, so (like the character of orders) it cannot be lost: a deposed pope would remain pope, hence "many popes at once".
 [^12]: **S.** Wis. 6:6: "a most severe judgment shall be for them that bear rule." Loserth marks no italics here; we quote the scriptural words.
-[^13]: **S.** Gregory the Great, *Homiliae in Evangelia* 17 (Loserth: "Gregor. l. c. Opp. (ed. Migne) II, 1148"; LEDGER P10d-7).
+[^13]: **S.** Gregory the Great, *Homiliae in Evangelia* 17 (Loserth: "Gregor. l. c. Opp. (ed. Migne) II, 1148", i.e. PL 76, 1148: *Ibi Petrus cum Judaea conversa, quam post se traxit, apparebit*; LEDGER P10d-7).
 [^14]: **C.** The objectors' "fiction" claims a double power: the apostles' power under the law of Christ, and a power to rule by the pope's own laws, required by the change of the times.
 [^15]: **S.** 2 Thess. 2:3–4 (Loserth 235.23). Wyclif's *super* is the Vulgate's *supra*; DR is kept.
 

@@ -69,12 +69,12 @@ As to the second member, it is no sign that God revealed this teaching to them, 
 [^8]: **G.** *Color*: a plausible ground, as in "colour of title"; not "pretext".
 [^9]: **C.** *Potencia* here is "power", as *potestas* in the same sentence; Wyclif uses the two words for the same thing.
 [^10]: **C.** We take *blasfema* with *subieccione* (ablative): "from such blasphemous subjection". Taken with *carencia* it gives "a blasphemous lack of dignity follows".
-[^11]: **S.** A vacancy at Durham: Loserth refers to Walsingham, *Ypodigma Neustriae* p. 283, and *Historia Anglicana* 2.382, with his own *Studien zur Kirchenpolitik Englands im 14. Jahrhundert*, *Sitzungsberichte* Vienna 136, 27 (LEDGER P10c-4). *Promotus pape*: the man the pope has provided to the benefice.
+[^11]: **S.** A vacancy at Durham: Loserth refers to Walsingham, *Ypodigma Neustriae* p. 284 (Loserth: 283), and *Historia Anglicana* 2.382 (appendix); the vacancy is that of 1345, when Clement VI gave Durham at the king's request to his secretary Thomas Hatfield and answered the objecting cardinals *si Rex pro asino supplicasset, obtinuisset*, with his own *Studien zur Kirchenpolitik Englands im 14. Jahrhundert*, *Sitzungsberichte* Vienna 136, 27 (LEDGER P10c-4). *Promotus pape*: the man the pope has provided to the benefice.
 [^12]: **S.** Gratian, *Decretum* C.11 q.3 c.63 *Privilegium* (Loserth 231.18 "Cap. LXIII"; the modern form is ours; LEDGER P10c-5), under Gregory's name. *Excedisse*: he has gone out of, forfeited, the privilege.
 [^13]: **T.** *Ista autem fallacia* is Loserth's correction; the manuscripts read *Istam autem fallaciam* (231.21). At *si instituitur* (231.25) the manuscripts read *si*; Loserth asks whether *sed* is meant ("but he is instituted [only] in human traditions"). The print *si* is translated.
 [^14]: **C.** *Suam sentenciam*: "their teaching", the doctors'; *suam* could refer to Christ ("his teaching").
 [^15]: **C.** *Tante distancium*: men far removed (in time from the apostles, or from the things they testify to, which cannot be perceived). The third part has two members: the doctors as witnesses (¶4) and as receivers of revelation (¶5).
-[^16]: **S/R.** Augustine says this of his own writings repeatedly, e.g. *Epistula* 82 and *De Trinitate* 3 prooem. (LEDGER P10c-6). The manuscripts note in the margin (232.8): *Credere doctoribus quando debemus* ("when we ought to believe the doctors"). The "four greater doctors" are Ambrose, Augustine, Jerome and Gregory.
+[^16]: **S/R.** Augustine says this of his own writings at *De Trinitate* 3 prooem. 2 (PL 42, 869: *Noli meis litteris quasi Scripturis canonicis inservire*), and of all writers outside the canon at *Epistula* 82.3 (PL 33, 277) (LEDGER P10c-6). The manuscripts note in the margin (232.8): *Credere doctoribus quando debemus* ("when we ought to believe the doctors"). The "four greater doctors" are Ambrose, Augustine, Jerome and Gregory.
 
 ## Transcription notes
 

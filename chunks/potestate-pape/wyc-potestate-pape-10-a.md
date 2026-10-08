@@ -39,7 +39,7 @@ In this one must, [as faith teaches]{g:ex-fide}, believe the supreme physician J
 [^2]: **T/C.** *Per deducens ad inconsequens*: literally "by [an argument] leading to what does not follow", i.e. leading the opposite view to an untenable result; the usual form is *ad inconveniens* ("to an absurdity"), and *inconsequens* may be a slip, but the print stands. **C.** *Potencia* here is "power" (worldly might), not Aristotle's potency.
 [^3]: **C.** *Discrasia* (dyscrasia) is the physicians' term for a bad mixture of the humours, "distemper"; the image is the healthy palate that alone judges taste rightly. *Autem* here sets "all of us" against Christ: "but".
 [^4]: **S.** "Luke 17" is the print; the counsel to sell all and follow is Luke 18:22 (cf. Luke 14:33). We keep Wyclif's reference.
-[^5]: **S.** Gennadius of Marseilles, *Liber de ecclesiasticis dogmatibus* 38 (71 in some editions), transmitted under Augustine's name; Loserth refers to the Maurist Augustine, vol. 8, appendix, p. 79, c. 38 (LEDGER P10a-1).
+[^5]: **S.** Gennadius of Marseilles, *Liber de ecclesiasticis dogmatibus* 38 (71 in some editions), transmitted under Augustine's name; Loserth refers to the Maurist Augustine, vol. 8, appendix, p. 79, c. 38 (PL 58, 997, cap. 71: *Bonum est facultates cum dispensatione pauperibus erogare. Melius est pro intentione sequendi Dominum insimul donare, et absolutum sollicitudine cum Christo egere*; LEDGER P10a-1).
 
 ## Transcription notes
 
