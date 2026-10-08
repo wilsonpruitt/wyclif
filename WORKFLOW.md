@@ -44,7 +44,7 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    is rewritten by every vote run, so run the FULL vote before reading it. Earlier volumes (Dialogus, *De ecclesia*) still
    carry the stops: a re-vote would fix their Latin. Side-note English (*may*, *is*, *has*) often sits right after one.
    One-off fixes no rule reaches and no position can carry: `text/SLUG/tokenfix.tsv` (page, printed, fixed),
-   applied by the vote's writer. After any Latin change, `relatin.py SLUG --also <translated> --dry` must show 0.
+   applied by the vote's writer. ⚠ A folio mark is still glued to its token when PAIR rows apply (`no| mine`, `an| tipapa.`): write the pair with the `|`. After any Latin change, `relatin.py SLUG --also <translated> --dry` must show 0.
    ⛔ **tokenfix repairs the OCR, never the print.** If the plate shows the "wrong" form (Loserth's misprint:
    *faciendo*, *69*, *novam* in *De ecclesia*), the Latin keeps it and the English follows a conjecture with a
    T note "our emendation" (standing rule). A row whose printed form is a real word or a numeral needs "plate:"
