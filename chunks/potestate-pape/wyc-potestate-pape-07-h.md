@@ -60,7 +60,7 @@ Again, the pope does not have power from God to make the church worse but to mak
 [^5]: **S.** *Rapinam … cum gaudio susceperunt* echoes Heb. 10:34, "took with joy the being stripped of your own goods"; the DR phrase is kept and *oblacionem* ("offering") added. **C.** The early clergy took gifts and losses alike without affection.
 [^6]: **G.** *Propriacio* here and at 163.21 is the opposite of *expropriacio* "renunciation of property": "owning", making a thing one's own. It is not *appropriacio* (the annexing of a church, 162.21). **C.** *In affectum*: into the will, while the renunciation stood "in fact".
 [^7]: **C.** *Summe* may go with *oblito* ("that office being utterly forgotten") rather than with *contenditur*; we take it with the verb.
-[^8]: **S.** Nicholas III's decretal *Exiit qui seminat* (1279), which defined the Franciscans' use of goods without lordship (*Sext.* 5.12.3; the form is ours; LEDGER P07h-1, to be checked).
+[^8]: **S.** Nicholas III's decretal *Exiit qui seminat* (1279), which defined the Franciscans' use of goods without lordship (*Sext.* 5.12.3, Friedberg II; the form is ours; LEDGER P07h-1).
 [^9]: **T.** A reads *spernis* for *spinis* (Loserth). **S.** The thorns of the parable, Matt. 13:7, 22.
 [^10]: **C.** The *status morum* is a man's moral condition; the propertyless state is a state of life and can hold bad men. The same pair returns at 164.24.
 [^11]: **S.** *In quo locutus est Christus* echoes 2 Cor. 13:3, "of Christ that speaketh in me".
@@ -69,8 +69,8 @@ Again, the pope does not have power from God to make the church worse but to mak
 [^14]: **C.** The three participles agree with their nouns: the diet preserves, the ease is "providing" (*preparantem*), the security shuts out. An alternative takes all three with *dietam*.
 [^15]: **C.** Loserth notes that the subject of *suffocetur* is *semen*, the seed. *Frugum contrario*: the thorns' growth is contrary to the crops. **S.** Matt. 13:7, 22.
 [^16]: **T.** The print reads *antichristo Romano*; Loserth reports *Romani* in the manuscripts ("the antichrist of the Roman").
-[^17]: **R.** *Nos curati*: Wyclif counts himself among the curates (he held the rectory of Lutterworth from 1374; LEDGER P07h-2, to be checked).
-[^18]: **S.** Jerome, *Commentary on Matthew* 3, on Matt. 19:27: leaving is not enough, so Peter adds what is perfect, "and have followed thee" (LEDGER P07h-3, to be checked). Loserth places the reference to Matt. 19:27 in the margin.
+[^17]: **R.** *Nos curati*: Wyclif counts himself among the curates (the Crown presented him to the rectory of Lutterworth on 7 April 1374; LEDGER P07h-2).
+[^18]: **S.** Jerome, *Commentary on Matthew* 3, on Matt. 19:27: leaving is not enough, so Peter adds what is perfect, "and have followed thee" (PL 26, 138: *Et quia non sufficit tantum relinquere, jungit quod perfectum est: et secuti sumus te*; LEDGER P07h-3). Loserth places the reference to Matt. 19:27 in the margin.
 [^19]: **S.** Matt. 7:15, "who come to you in the clothing of sheep".
 [^20]: **T.** The print reads *viis*; Loserth reports that the manuscripts read *aviis* ("the trackless ways"). For *preparabitur* he proposes supplying *via*, which we give in brackets.
 

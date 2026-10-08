@@ -74,15 +74,15 @@ As to the second [fiction]{g:ficticia}, for colouring the aforesaid connexion of
 ## Notes
 
 [^1]: **C.** *Sessivam* (so the manuscripts, Loserth): read as a form of *seisina*, "seisin", the possession of a fief that perfects a feudal title; the figure answers *possessionem* in the next clause. **R.** AB in the margin: *Possessio pape data est a Caesare, non a Christo vel Petro*.
-[^2]: **S.** *Decretum* D.96 c.14, *Constantinus*, the Donation of Constantine (Loserth's reference; the form is ours; LEDGER P08b-1, editor). **T.** The print reads *donavit cece partem illam*; *cece* does not construe and is left untranslated (checked on the plate, leaf n0231: the print has *cece*). B reads *formans* for *formam*.
-[^3]: **S.** *Decretum* D.8 c.1, *Quo iure*, from Augustine on John, tract. 6 (Loserth's reference; the form is ours; LEDGER P08b-2, editor; the Augustine source LEDGER P08b-3, to be checked).
-[^4]: **S.** Bernard, *De consideratione* 2.6.10 (Loserth: "St. Bern. pag. 748"; LEDGER P08b-4, editor). "Above": not located in this session (LEDGER P08b-5, to be checked). Acts 3:6 is quoted within.
+[^2]: **S.** *Decretum* D.96 c.14, *Constantinus*, the Donation of Constantine (Loserth's reference; the form is ours; PL 187, 460; LEDGER P08b-1). **T.** The print reads *donavit cece partem illam*; *cece* does not construe and is left untranslated (checked on the plate, leaf n0231: the print has *cece*). B reads *formans* for *formam*.
+[^3]: **S.** *Decretum* D.8 c.1, *Quo iure*, from Augustine on John, tract. 6 (Loserth's reference; the form is ours; PL 187, 44; Augustine, tract. 6.25, PL 35, 1436–37; LEDGER P08b-2, P08b-3).
+[^4]: **S/T.** Bernard, *De consideratione* 2.6.10 (Loserth: "St. Bern. pag. 748"; PL 182, 748; LEDGER P08b-4). The print has *libro II, III*, the manuscripts *libro III* (170.21); Bernard's book is II. "Above": 136.17–137.10, where the same passage is quoted at length (LEDGER P08b-5). Acts 3:6 is quoted within.
 [^5]: **S.** 1 Cor. 7:31, "they that use this world, as if they used it not".
 [^6]: **T.** The print's *venaices* is a misprint (plate: no ascender, so not *vendices*); we translate *vendices*, "claim", the reading of Bernard's text (our emendation).
 [^7]: **S.** 2 Cor. 11:28, "the solicitude for all the churches". *Sollicitudo* is "anxiety" in both places in Bernard's sentence.
 [^8]: **S.** 1 Pet. 5:3 and Luke 22:25–26, both as Bernard quotes them; Bernard's *dominantes* stands in the print as *dominanies*. **G.** Bernard's *dominatus* is "lordly rule", kept apart from *dominium* "lordship" and *dominacio* "exercise of lordship".
-[^9]: **S.** Bernard, *De consideratione* 4.3.6 (Loserth: cap. 3, p. 776; LEDGER P08b-6, editor).
-[^10]: **S.** Dan. 2:41–43, the divided kingdom of iron and clay. "Below": the forward reference is not located in this session (LEDGER P08b-7, to be checked).
+[^9]: **S.** Bernard, *De consideratione* 4.3.6 (Loserth: cap. 3, p. 776; PL 182, 776: *In his successisti, non Petro, sed Constantino*; LEDGER P08b-6).
+[^10]: **S.** Dan. 2:41–43, the divided kingdom of iron and clay. "Below": no exposition of Dan. 2 has been found later in the treatise; the nearest is 379 (ch. 12), *ut patet Daniel II*, on the dissension of kingdoms (LEDGER P08b-7, untraced).
 [^11]: **R.** Sebastian, the martyr of the Roman guard, and Martin of Tours, the soldier-bishop: holy men who stood beside the knighthood.
 [^12]: **C.** "The fifth cause": Wyclif counts on from FitzRalph's three reasons (166.29–168.26) and a fourth not set out in these pages; cf. "these five reasons", 172.32.
 [^13]: **S.** 2 Macc. 5:19, "God did not choose the people for the place's sake, but the place for the people's sake."
@@ -94,8 +94,8 @@ As to the second [fiction]{g:ficticia}, for colouring the aforesaid connexion of
 [^19]: **S.** Wyclif's citation omits the Vulgate's *enim*; DR's "For" is dropped.
 [^20]: **S.** Mark 13:1–2, the prophecy of the temple's destruction.
 [^21]: **S.** The fig tree with leaves and no fruit, Matt. 21:19; Mark 11:13. **T.** The manuscripts read *ficticium* (Loserth).
-[^22]: **R.** So the print: the common tradition makes Mark bishop of Alexandria and Evodius Peter's successor at Antioch (LEDGER P08b-8, to be checked).
-[^23]: **S.** Peter's chair at Antioch (feast of 22 February) and Acts 11:26 (LEDGER P08b-9, to be checked).
+[^22]: **R.** So the print: the common tradition makes Mark bishop of Alexandria and Evodius Peter's successor at Antioch (Eusebius, *Hist. eccl.* 2.16 and 3.22; LEDGER P08b-8).
+[^23]: **S.** Peter's chair at Antioch (22 February, assigned to Antioch in the *Martyrologium Hieronymianum*) and Acts 11:26, "at Antioch the disciples were first named Christians" (LEDGER P08b-9).
 
 ## Transcription notes
 
