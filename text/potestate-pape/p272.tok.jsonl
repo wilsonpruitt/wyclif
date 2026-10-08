@@ -29,7 +29,7 @@
 {"t": "Anglicus,", "leaf": 333, "row": 3, "para": false, "head": false, "pos": 28}
 {"t": "cum", "leaf": 333, "row": 3, "para": false, "head": false, "pos": 29}
 {"t": "ceteris", "leaf": 333, "row": 3, "para": false, "head": false, "pos": 30}
-{"t": "pseudoPapis?", "leaf": 333, "row": 3, "para": false, "head": false, "pos": 31}
+{"t": "pseudopapis,", "leaf": 333, "row": 3, "para": false, "head": false, "pos": 31}
 {"t": "patet", "leaf": 333, "row": 4, "para": false, "head": false, "pos": 32}
 {"t": "quod", "leaf": 333, "row": 4, "para": false, "head": false, "pos": 33}
 {"t": "false", "leaf": 333, "row": 4, "para": false, "head": false, "pos": 34}
@@ -67,7 +67,6 @@
 {"t": "desit", "leaf": 333, "row": 8, "para": false, "head": false, "pos": 66}
 {"t": "clerus", "leaf": 333, "row": 9, "para": false, "head": false, "pos": 67}
 {"t": "ecclesie,", "leaf": 333, "row": 9, "para": false, "head": false, "pos": 68}
-{"t": "j", "leaf": 333, "row": 9, "para": false, "head": false, "pos": 69}
 {"t": "quod", "leaf": 333, "row": 9, "para": false, "head": false, "pos": 70}
 {"t": "esset", "leaf": 333, "row": 9, "para": false, "head": false, "pos": 71}
 {"t": "magis", "leaf": 333, "row": 9, "para": false, "head": false, "pos": 72}
@@ -127,7 +126,8 @@
 {"t": "de", "leaf": 333, "row": 17, "para": false, "head": false, "pos": 126}
 {"t": "sorte", "leaf": 333, "row": 17, "para": false, "head": false, "pos": 127}
 {"t": "Domini:", "leaf": 333, "row": 17, "para": false, "head": false, "pos": 128}
-{"t": "ettunc", "leaf": 333, "row": 17, "para": false, "head": false, "pos": 129}
+{"t": "et", "leaf": 333, "row": 17, "para": false, "head": false, "pos": 129}
+{"t": "tunc", "leaf": 333, "row": 17, "para": false, "head": false, "pos": 129}
 {"t": "foret", "leaf": 333, "row": 18, "para": false, "head": false, "pos": 130}
 {"t": "clericus,", "leaf": 333, "row": 18, "para": false, "head": false, "pos": 131}
 {"t": "licet", "leaf": 333, "row": 18, "para": false, "head": false, "pos": 132}
