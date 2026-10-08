@@ -1169,3 +1169,24 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | P08b-7 | potestate-pape-08-b / n10 | the forward reference "exponitur inferius" (Dan. 2) | to-verify | search the later chapters |
 | P08b-8 | potestate-pape-08-b / n22 | tradition: Mark at Alexandria, Evodius at Antioch | to-verify | check |
 | P08b-9 | potestate-pape-08-b / n23 | Peter's chair at Antioch (22 Feb.) and Acts 11:26 | to-verify | check |
+| P07e-1 | potestate-pape-07-e / n2 | Chrysostom, Hom. 8 in 2 Tim. (on 3:1), Opp. XI 643 | editor | Loserth 148.7 |
+| P07e-2 | potestate-pape-07-e / n4 | "Dyabolus … sicut dii" loosely quoted from the same homily | editor | Loserth 148.17 |
+| P07e-3 | potestate-pape-07-e / n9 | the two claimants are Urban VI and Clement VII (1378) | to-verify | memory |
+| P07e-4 | potestate-pape-07-e / n10 | Chrysostom, "Nudis foliis verborum …": source | to-verify | no foot reference |
+| P07e-5 | potestate-pape-07-e / n14 | this protestation is missing from Höfler's *Protestationes* (Denkschr. Wien 1870/71, p. 147) | editor | Loserth 150.28 |
+| P07e-6 | potestate-pape-07-e / n15 | "de necessitate salutis" echoes *Unam sanctam*, *Extrav. comm.* 1.8.1 | to-verify | memory |
+| P07e-7 | potestate-pape-07-e / n17 | Gregory, *Regula pastoralis* I.2 | editor | Loserth 151.10 |
+| P07e-8 | potestate-pape-07-e / n18 | "Causa sunt ruine populi sacerdotes mali" is not verbatim scripture | to-verify | find the source |
+| P07e-9 | potestate-pape-07-e / n19 | Hus reuses the passage, *De ecclesia* fol. 224b | editor | Loserth 151.10, 152.10 |
+| P07e-10 | potestate-pape-07-e / n20 | Gregory reads *utcumque* where the print has *utrumque* | to-verify | check *Reg. past.* I.2 |
+| P07f-1 | potestate-pape-07-f / n3 | "cap. XXIII quinti libri" = *De civ. dom.* III, 485 ff. | editor | Loserth 152.24 |
+| P07f-2 | potestate-pape-07-f / n4 | Grosseteste to Hugh of Pateshull, ed. Luard p. 99 | editor | Loserth 152.29 |
+| P07f-3 | potestate-pape-07-f / n6 | the speaker of "Consule, inquit" is still Grosseteste | to-verify | check Luard |
+| P07f-4 | potestate-pape-07-f / n6 | Augustine, *De verbis Domini* serm. 49, "Domine tu scis …" | to-verify | locate |
+| P07f-5 | potestate-pape-07-f / n9 | Decretum D.40 c.2, *Non est facile* (Jerome) | editor | Loserth 154.5 "Cap. II" |
+| P07f-6 | potestate-pape-07-f / n11 | Augustine, Opp. V App. 131/32 (spurious sermon) | editor | Loserth 154.20 |
+| P07f-7 | potestate-pape-07-f / n12 | *De div. quaest. 83*, q. 57 | editor | Loserth 154.26 |
+| P07f-8 | potestate-pape-07-f / n15 | "cap. XXIII, V huius" = *De civ. dom.* III, 485 | editor | Loserth 155.11 |
+| P07g-1 | potestate-pape-07-g / n6 | Ps.-Chrysostom, *Opus imperfectum*, hom. 1, on Rehoboam | to-verify | no foot reference |
+| P07g-2 | potestate-pape-07-g / n10 | Gregory set out to convert the English (Bede, *HE* II.1) | to-verify | memory |
+| P07g-3 | potestate-pape-07-g / n10 | Decretum D.40 c.6 *Si papa* ("nisi deprehendatur a fide devius") | to-verify | no foot reference |
