@@ -81,6 +81,11 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    `chunks/SLUG/_briefs/…md` and the one-line agent prompt. One Opus agent per brief, one brief at a time
    (8 GB). Between briefs the coordinator rules glossary proposals (census + dikaiosune rule; Wilson for
    genuinely doubtful register) and commits.
+   ⛔ **Never re-vote or `relatin.py` pages that a RUNNING translation agent's chunks cover** (incl. a chunk's first
+   page shared with the previous chunk's last). relatin refreshes every DRAFT chunk whose Latin changed, and a chunk
+   still in an agent's hands is a draft: *De pot. pape* 08-c's finished translation was overwritten this way
+   (2026-10-08) and had to be redone. Before each commit: every chunk an agent reported must show `status: translated`
+   and no `[ENGLISH]` (`grep -L 'status: translated'`; `grep -l '\[ENGLISH\]'`).
 8. **Per-wave checks, not at the end** (the Dialogus close-out cost 1.3M doing them at the end; *De ecclesia*
    ~5.3M, because two of these were skipped or deferred):
    - ledger rows from the agent's report → `LEDGER.md`, and verify THAT wave's rows against the sources
