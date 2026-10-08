@@ -1190,3 +1190,17 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | P07g-1 | potestate-pape-07-g / n6 | Ps.-Chrysostom, *Opus imperfectum*, hom. 1, on Rehoboam | to-verify | no foot reference |
 | P07g-2 | potestate-pape-07-g / n10 | Gregory set out to convert the English (Bede, *HE* II.1) | to-verify | memory |
 | P07g-3 | potestate-pape-07-g / n10 | Decretum D.40 c.6 *Si papa* ("nisi deprehendatur a fide devius") | to-verify | no foot reference |
+| P08c-1 | potestate-pape-08-c / n8 | FitzRalph, *Summa* 7.18: two pontificates and two elections (codd. cap. XIX; Loserth "loosely quoted") | to-verify | check *Summa* VII.18–19 (1512 print, scan pp. 107–108) |
+| P08d-1 | potestate-pape-08-d / n7 | Higden, *Polychronicon* 4.36 = Rolls Series V, 140 (codd. cap. XIV, corrected by Loserth) | editor | Loserth 177.25 |
+| P08d-2 | potestate-pape-08-d / n8 | *Constantinus* = *Decretum* D.96 c.14 (print XLVI, read XCVI) | to-verify | check the distinction |
+| P08d-3 | potestate-pape-08-d / n9 | *Polychronicon* 5.10 = Rolls Series V, 417 (codd. cap. LVII) | editor | Loserth 178.6 |
+| P08d-4 | potestate-pape-08-d / n10 | FitzRalph *Summa* 7.21: Peter was vicar because more like Christ in virtue | to-verify | no reference at the foot; 1512 print |
+| P08d-5 | potestate-pape-08-d / n16 | *Quo vadis* story: Ambrose, *Sermo contra Auxentium* 13 | to-verify | from memory |
+| P08d-6 | potestate-pape-08-d / n16 | place of the *Quo vadis* story in FitzRalph | to-verify | locate in the *Summa* |
+| P08e-1 | potestate-pape-08-e / n3 | Diceto, ed. Stubbs I, 83 (Boniface/Eulalius) | editor | Loserth 181 |
+| P08e-2 | potestate-pape-08-e / n3 | Wyclif's earlier telling of the Chester chronicle's account ("narravi alias") | to-verify | locate the work |
+| P08e-3 | potestate-pape-08-e / n6 | Diceto pp. 89, 124, 137, 142, 151 (years corrected to 855, 903, 963) | editor | Loserth 182 |
+| P08e-4 | potestate-pape-08-e / n9 | Diceto page for the Benedict/Otto entry | editor | plate: Loserth's foot to 183.1 reads "Ibid. p. 11." (vol. II?) — check |
+| P08e-5 | potestate-pape-08-e / n10 | Diceto p. 187 | editor | Loserth 183.8 ("Radulfi de Diceto pag. 187. Huss 230a") |
+| P08e-6 | potestate-pape-08-e / n15 | Diceto pp. 200, 211, 216, 246, 303 | editor | Loserth 184 |
+| P08e-7 | potestate-pape-08-e / n11 | Diceto *Ibid.* at 183.14 | editor | Loserth |

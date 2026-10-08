@@ -3,7 +3,7 @@
 *Read this first in a new session, then `WORKFLOW.md` (stages 7–10), this volume's `CARD.md` and `WAVE-PROMPTS.md`. Started 2026-10-07
 on Wilson's "opus go" (estimate given: ≈12–13M Opus for the volume).*
 
-## ▶ RESUMED 2026-10-08 — 42/107 translated (through 07-d); 07-e … 08-b running
+## ▶ RESUMED 2026-10-08 — 48/107 translated (through 08-b, p. 173); 08-c … 08-e running
 
 - **Translated: 33 of 107 chunks** (01-a … 06-d, pp. 1–118), every one through the per-wave checks: scars fixed + relatin'd, connectives (waves 1–4: 309 checked, 8 fixed), ledger closed for all rows P01a … P06d (waves 1–4), glossary conformed, lint 0.
 - **Next:** `.venv/bin/python scripts/w3/brief.py potestate-pape 06-e 06-f 06-g` → one Opus agent per brief (≤ 2 at once); then 06-h 06-i 07-a … in order. After each wave: scars (plate-read every real-word/numeral row) → `tokenfix.tsv` → `vote.py SLUG p p` (FOREGROUND) → `relatin.py SLUG --also <ids>`; ledger rows → LEDGER.md; every ~2 briefs run the connective + ledger agents (WAVE-PROMPTS.md; `_connectives/extract.py W ids`, `_connectives/apply.py W`; ledger note changes applied by script).
@@ -64,4 +64,6 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 - **Wave 5 checks done:** connectives 35 / 0 fixed. Ledger 29 rows (24 verified, 4 editor, 1 untraced: P07a-1 Ambrose "epistola"); 23 note changes. Loserth wrong: X 5.32.2 for X 5.7.12 (same incipit *Quum ex iniuncto*), Boethius PL 63, 724 not 720, Bernard *De cons.* III.1.2 PL 182, 759 not 769. Wyclif merges *Quaest. VNT* q. 35 and q. 101 (Caiaphas); Higden's voice is the devil's, Wyclif's an angel's (facts in the notes).
 - **Wave 6a** (07-b … 07-d, 147K): 5 scars; plates confirm the PRINT has *erivatis* (147.16), *sol iusticia* (143.18), *Si tu est* (145.18): Latin kept, English follows the emendation with a T note. ⚠ A Loserth misprint can look exactly like an OCR scar: plate-read before writing a tokenfix row for any letter-loss "scar". 4 glossary rows (+ *exproprietarius* adj., *capitaliter* "at her head" of a crown). 12 ledger rows filed (to verify with wave 6).
 - Running: 07-e … 07-g and 07-h … 08-b.
+- **Wave 6b** (07-e … 08-b, 2 briefs, 336K): 18 scars, all read on the plates. Print confirmed (Latin kept, English emends with T note where needed): *electis* → *elementis* 155.8, *venaices* → *vendices* 170.27, *cece* 170.15 (left untranslated, T note), *fit* 167.29 ("is made"), *prodessendum*, *ex corpore*, *mellifluum*; no lost *non* at 151.9 or 156.6. A word split by the folio mark across a page turn (*no|mine* 147 / *tenus* 148): tokenfix pair `no| mine` (the mark is still on the token when pairs apply) + `^tenus` → empty. A whole reference lost (*Genes. III, 5*, 148.20) found via commas_eol. 8 glossary rows + 3 extended; 44 ledger rows filed.
+- **Wave 6 checks:** ledger 6a (P07b … P07g, 33 rows) running; ledger 6b (P07h … P08b, 23 rows) + connectives (07-b … 08-b) next.
 
