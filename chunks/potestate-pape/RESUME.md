@@ -3,7 +3,7 @@
 *Read this first in a new session, then `WORKFLOW.md` (stages 7–10), this volume's `CARD.md` and `WAVE-PROMPTS.md`. Started 2026-10-07
 on Wilson's "opus go" (estimate given: ≈12–13M Opus for the volume).*
 
-## ▶ RESUMED 2026-10-08 — 54/107 translated (through 08-h, p. 194: ch. 1–8 done); 09-a … 09-c running
+## ▶ RESUMED 2026-10-08 — 60/107 translated (through 09-f, p. 214); 09-g … 10-a running
 
 - **Translated: 33 of 107 chunks** (01-a … 06-d, pp. 1–118), every one through the per-wave checks: scars fixed + relatin'd, connectives (waves 1–4: 309 checked, 8 fixed), ledger closed for all rows P01a … P06d (waves 1–4), glossary conformed, lint 0.
 - **Next:** `.venv/bin/python scripts/w3/brief.py potestate-pape 06-e 06-f 06-g` → one Opus agent per brief (≤ 2 at once); then 06-h 06-i 07-a … in order. After each wave: scars (plate-read every real-word/numeral row) → `tokenfix.tsv` → `vote.py SLUG p p` (FOREGROUND) → `relatin.py SLUG --also <ids>`; ledger rows → LEDGER.md; every ~2 briefs run the connective + ledger agents (WAVE-PROMPTS.md; `_connectives/extract.py W ids`, `_connectives/apply.py W`; ledger note changes applied by script).
@@ -69,4 +69,7 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 - **Wave 6 checks:** connectives 97 / 0 fixed. Ledger 6a (33 rows: 22 verified, 8 editor, 3 untraced), 21 note changes: three notes said "no reference" where Loserth's foot has one (read his foot FIRST); Gregory's journey is John the Deacon, not Bede. `_verify/apply.py W` now applies any RESULTS file. Ledger 6b (P07h … P08b, 23 rows) running.
 - **Wave 7a** (08-c … 08-h, 2 briefs, 292K; ch. 8 done): 19 scars on the plates. Print confirmed: *XLVI distinccione* (read XCVI, our emendation), *affflixit*, *Chrisus* (T note), *cecata*, *universalibus*, *magis facit*, *erant dampnati*. OCR word order (*Ex ut quibus* → *Ex quibus ut*: two chained pair rows); a lost verse number (*15—16*); side-note English *be* leaked into ch. 9's first line (found through commas_eol). 9 glossary rows; 30 ledger rows filed (P08c … P08h not yet verified).
 - Running: 09-a … 09-c.
+- **Wave 6b ledger** (23 rows: 18 verified, 3 untraced): Ep. 112 is Jerome's (Aug. Ep. 75); FitzRalph's capital reasons VII.15, the empire list VII.16 is John's (interlocutor).
+- **Wave 7** (08-c … 09-f, 4 briefs): ledger 7a (P08c … P08h, 30 rows: 28 verified, 1 untraced; Higden IV.26 not IV.36, Sermo 129.9). Print confirmed: *cursiv* 207.7 (read *vita*, our emendation), *ad implere*, *uti*, impossible verses Mark IX, 3 / Matth. XVI, 29 (English gives the true verse, T note). *Cestrensis* ruled "the Chester [chronicler]" and conformed. ⚠ `~/douay-glossa/raw/DRC.json` Acts 20:27 reads "spread" for "spared" (other project's data; told Wilson). Connectives wave 7 (110) running; ledger 7b (P09a … P09f, 24 rows) next.
+- Running: 09-g … 10-a.
 
