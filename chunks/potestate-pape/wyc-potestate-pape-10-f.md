@@ -50,7 +50,7 @@ status: translated
 
 [^2]: **S.** Rom. 3:23; Wyclif reads *gracia Dei* where the Vulgate has *gloria Dei* (DR "the glory of God").
 
-[^3]: **S/C.** Gratian, *Decretum* D. 8 c. 9 (*Si solus Christus*), from Augustine (LEDGER P10f-1); Loserth gives no reference here. *Vel alios de quanto sequamur ipsum*: literally "or others in so far as we follow him", i.e. other teachers are to be followed only as far as following them is following Christ.
+[^3]: **S/C.** Gratian, *Decretum* D. 8 c. 9 (*Si solus Christus*), from Cyprian, *Ep.* 63 to Caecilius (Gratian's inscription *Idem … ad Caecilium*, PL 187, 48B); Loserth's foot gives only "Cap. IX" (LEDGER P10f-1). *Vel alios de quanto sequamur ipsum*: literally "or others in so far as we follow him", i.e. other teachers are to be followed only as far as following them is following Christ.
 
 [^4]: **S.** 1 John 1:8. Wyclif's *Si dicimus quia … nos ipsos* departs slightly from the Vulgate (*Si dixerimus quoniam … ipsi nos*) without changing the sense; the Douay–Rheims wording is kept.
 
@@ -64,9 +64,9 @@ status: translated
 
 [^9]: **C.** *Elemosina foret expergefacere illum statum*: to rouse the clergy back to Christ's state would itself be a work of alms, the kind of alms the laity owe the clergy.
 
-[^10]: **S/T.** *Instar phariseorum Matth. V*: so the print. The Pharisees' rule that a gift vowed to the temple frees a man from his duty to his parents stands at Matt. 15:5 (DR "The gift whatsoever proceedeth from me, shall profit thee"), which may be the passage meant (LEDGER P10f-3). *Facta* are the acts or deeds of gift. At 239.15 the manuscripts read *non curant postponere*; Loserth prints *non curant*, which we translate.
+[^10]: **S/T.** *Instar phariseorum Matth. V*: so the print. The Pharisees' rule that a gift vowed to the temple frees a man from his duty to his parents stands at Matt. 15:5 (DR "The gift whatsoever proceedeth from me, shall profit thee"), the passage meant: Wyclif cites it as *Matth. XV* for the same point at 245.2, so *V* has lost an *X* (LEDGER P10f-3). *Facta* are the acts or deeds of gift. At 239.15 the manuscripts read *non curant postponere*; Loserth prints *non curant*, which we translate.
 
-[^11]: **S.** Glossa ordinaria on Gratian C. 24 q. 1 c. 1 (modern form ours); Loserth cites the Venice 1595 edition, vol. I, p. 1295 (LEDGER P10f-4). "As the gloss says", later in the paragraph, refers to the same gloss (LEDGER P10f-5).
+[^11]: **S.** Glossa ordinaria on Gratian C. 24 q. 1 c. 1 (modern form ours); Loserth cites the Venice 1595 edition, vol. I, p. 1295 (LEDGER P10f-4). "As the gloss says", later in the paragraph, is taken to refer to the same gloss; this has not been checked against the gloss (LEDGER P10f-5).
 
 [^12]: **C.** *Quod sit Christiano plurior*: *Christiano* is a dative of comparison standing for the Christian party, "more numerous than the Christian [party]". *Celebrare* (239.28) is to say mass: the case is a priest under an unjust sentence.
 
@@ -80,11 +80,11 @@ status: translated
 
 [^17]: **T.** 240.27 *augemur*: Loserth marks it *Ita codd.* ("so the manuscripts"), signalling doubt; we translate it ("we are swollen"). *Ambobus partibus* is taken as the two moves just named, amplifying the fault and abandoning the perfection.
 
-[^18]: **S.** The story that Gregory the Great, after his death, appeared to his successor Sabinian and struck him for his avarice, so that he died; told at chapter 8. The source (e.g. John the Deacon's *Life of Gregory*) is to be checked (LEDGER P10f-7).
+[^18]: **S.** The story that Gregory the Great, after his death, appeared to his successor Sabinian and struck him for his avarice, so that he died; told at chapter 8. Wyclif there follows Higden, *Polychronicon* V, 412; the story is in Paul the Deacon's *Life of Gregory* 29 (PL 75, 58C–D) and Sigebert of Gembloux, *Chronica*, a. 607 (PL 160, 114B) (LEDGER P10f-7).
 
 [^19]: **R.** 241.4: the manuscripts in the margin, *Dotacionis argumentum* ("an argument for endowment").
 
-[^20]: **T/S.** *Possidonius*: so the print; Loserth notes *Recte: Possidius*, and the English gives the right name. Possidius, *Life of Augustine*, where Augustine offers to give back the church's estates to the people of Hippo (chapter to be checked, LEDGER P10f-8); Loserth compares *De civili dominio* III, 225 (LEDGER P10f-9). *De sorte Domini*: the Lord's lot (*kleros*), the root of the word "cleric", and the Levites' portion in the old law.
+[^20]: **T/S.** *Possidonius*: so the print; Loserth notes *Recte: Possidius*, and the English gives the right name. Possidius, *Life of Augustine*, where Augustine offers to give back the church's estates to the people of Hippo (chapter 23, PL 32, 53: *paratum se esse illis cedere … Sed nunquam id laici suscipere voluerunt*; LEDGER P10f-8); Loserth compares *De civili dominio* III, 225 (LEDGER P10f-9). *De sorte Domini*: the Lord's lot (*kleros*), the root of the word "cleric", and the Levites' portion in the old law.
 
 [^21]: **G.** *Appropriacione* here is the clergy's making the endowment their own, not only the canonists' appropriation of a parish church.
 

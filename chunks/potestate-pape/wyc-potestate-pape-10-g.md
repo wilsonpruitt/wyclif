@@ -71,7 +71,7 @@ status: translated
 
 [^11]: **T/C.** 243.24 *dacionem*: B reads *dotacionem* "endowment". *Quod eis obedit*: "in that he obeys them", i.e. God grants the wish of the unworthy as a punishment; the margin of both manuscripts at 243.17: *Dat Deus indignis ad penam peccati* ("God gives to the unworthy for the punishment of sin"), and at 243.30, *Exaudiuntur mali a Deo sibi in penam* ("the wicked are heard by God to their own punishment").
 
-[^12]: **S.** Augustine, *De verbis Domini* sermon 53, as Wyclif cites it; Loserth refers to Augustine's *Opera*, tom. V, col. 1378, where the words run *Aliquando Deus iratus dat quod petis et Deus propitius negat quod petis* ("sometimes God in anger gives what you ask, and God when gracious refuses what you ask"). Wyclif's wording is his own paraphrase (LEDGER P10g-1); the modern sermon number is to be checked (LEDGER P10g-2).
+[^12]: **S.** Augustine, *De verbis Domini* sermon 53, as Wyclif cites it; Loserth refers to Augustine's *Opera*, tom. V, col. 1378, where the words run *Aliquando Deus iratus dat quod petis et Deus propitius negat quod petis* ("sometimes God in anger gives what you ask, and God when gracious refuses what you ask"). Wyclif's wording is his own paraphrase (LEDGER P10g-1); the passage is *Sermo* 354.7 (*Ad continentes*), PL 39, 1567 (LEDGER P10g-2).
 
 [^13]: **S/T.** Job 1:12; Mark 5:12–13 (Loserth gives Matt. 8:32); the quails, Num. 11:33; Ps. 77:30–31 in the Douay–Rheims wording. The manuscripts read *Psalm. LXXIX*; Loserth corrects to LXXVII. He notes the same three examples in Augustine's sermon (LEDGER P10g-3). *In sui confusionem*: *sui* is the devil.
 
