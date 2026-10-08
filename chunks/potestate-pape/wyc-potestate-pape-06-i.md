@@ -30,7 +30,7 @@ To the third it is clear that a state is blackened or made bright only concomita
 
 ## Notes
 
-[^1]: **T/S/R.** "The third" is the third argument (131.30 ff.). *Solummodo* is Loserth's reading; the manuscript has *sodo* (133.27). *Cum ex iniuncto* is Innocent III's decretal in *Decretales Gregorii IX* 5.7.12, under *De haereticis* (from memory; LEDGER P06i-1, to-verify); Loserth's reference reads "Decr. Greg. IX, Lib. V, tit. XXXII, cap. 2" (133.32; LEDGER P06i-2, editor), which does not agree with the title *De haereticis* and is to be checked with P06i-1. AB in marg.: *Ad tercium* (133.26); *Corripere potest subditus prepositum* (133.30).
+[^1]: **T/S/R.** "The third" is the third argument (131.30 ff.). *Solummodo* is Loserth's reading; the manuscript has *sodo* (133.27). *Cum ex iniuncto* is Innocent III's decretal in *Decretales Gregorii IX* 5.7.12, under *De haereticis*, whose close forbids *patrem suum etiam delinquentem reprehendere manifeste* (LEDGER P06i-1); Loserth's reference reads "Decr. Greg. IX, Lib. V, tit. XXXII, cap. 2" (133.32; LEDGER P06i-2, editor), which is the homonymous X 5.32.2 (*De novi operis nunciatione*, also *Quum ex iniuncto*), not the decretal meant. AB in marg.: *Ad tercium* (133.26); *Corripere potest subditus prepositum* (133.30).
 
 [^2]: **S/T/C.** Matt. 18:15–17 (DR "tell the church", 18:17). B omits *patres* (134.13). *Racio patris*: what makes a man a father, here "the character of father".
 

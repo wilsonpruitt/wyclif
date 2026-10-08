@@ -154,7 +154,7 @@
 {"t": "signat", "leaf": 203, "row": 23, "para": false, "head": false, "pos": 152}
 {"t": "suppeditacionem", "leaf": 203, "row": 24, "para": false, "head": false, "pos": 153}
 {"t": "temporalium", "leaf": 203, "row": 24, "para": false, "head": false, "pos": 154}
-{"t": "sub-", "leaf": 203, "row": 24, "para": false, "head": false, "pos": 155}
+{"t": "sub", "leaf": 203, "row": 24, "para": false, "head": false, "pos": 155}
 {"t": "affeccione", "leaf": 203, "row": 24, "para": false, "head": false, "pos": 156}
 {"t": "per", "leaf": 203, "row": 24, "para": false, "head": false, "pos": 157}
 {"t": "quam", "leaf": 203, "row": 25, "para": false, "head": false, "pos": 158}

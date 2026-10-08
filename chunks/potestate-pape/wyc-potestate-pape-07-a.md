@@ -70,27 +70,27 @@ And therefore in book 2, declaring the pope's office, he says: "If you do these 
 
 [^4]: **T/S.** B omits *infantes qui magis* (135.29). 1 Pet. 2:2 (DR "As newborn babes"). Matt. 20:26–27 (DR "whosoever is the greater among you, let him be your minister"). *Primas*: the holder of the primacy.
 
-[^5]: **S/C.** Ambrose, "in an epistle": not identified (LEDGER P07a-1, to-verify). Augustine, *De verbis Domini* sermon 8: Loserth, *Opera* V, 373 (136.3; LEDGER P07a-2, editor); the wording is to be checked (LEDGER P07a-3). *Hominem coaptatum unam fecit Deus cum servo personam* is construed with *Deus* as subject: the man fitted to the Word, and one person with the "form of a servant" (Phil. 2:7); alternatively "God made the man he fitted [to himself] one person with the servant". *Necessarior ac mitior* are comparatives without a stated term.
+[^5]: **S/C.** Ambrose, "in an epistle": not identified (LEDGER P07a-1, untraced). Augustine, *De verbis Domini* sermon 8 (Loserth, *Opera* V, 373; 136.3): the words are *Sermo* 67.7 (PL 38, 436), *suscepit plenum hominem: coaptat sibi, unam facit Dominus cum servo personam* (LEDGER P07a-2, P07a-3). *Hominem coaptatum unam fecit Deus cum servo personam* is construed with *Deus* as subject: the man fitted to the Word, and one person with the "form of a servant" (Phil. 2:7); alternatively "God made the man he fitted [to himself] one person with the servant". *Necessarior ac mitior* are comparatives without a stated term.
 
 [^6]: **T/S.** *Virtutum*: the manuscripts read *veritatum* (136.7); Loserth's correction is translated. Gentile lordly rule: Luke 22:25.
 
-[^7]: **S/T/R.** Bernard, *De consideratione* II.6.10 (Loserth: ch. 6, *Opera* (Migne) I, 748; 136.19; LEDGER P07a-4, editor). Acts 3:6 (DR "Silver and gold I have none; but what I have, I give thee"); 1 Cor. 7:31 (DR "as if they used it not"). *Utere* is Loserth's correction; the manuscripts read *vere* (136.23); at 136.24 they read *malicia temporis*, apparently for *pro tempore*. A in marg.: *Nota. Nota beatum Bernardum contra dominacionem cleri sed non contra temporalium possessionem et appropriacionem evangelicam*; B in marg.: *Quid dimisit Petrus suis successoribus* (136.18).
+[^7]: **S/T/R.** Bernard, *De consideratione* II.6.10 (PL 182, 748, as Loserth: ch. 6, *Opera* (Migne) I, 748; 136.19; the quotation runs into II.6.11; LEDGER P07a-4). Acts 3:6 (DR "Silver and gold I have none; but what I have, I give thee"); 1 Cor. 7:31 (DR "as if they used it not"). *Utere* is Loserth's correction; the manuscripts read *vere* (136.23); at 136.24 they read *malicia temporis*, apparently for *pro tempore*. A in marg.: *Nota. Nota beatum Bernardum contra dominacionem cleri sed non contra temporalium possessionem et appropriacionem evangelicam*; B in marg.: *Quid dimisit Petrus suis successoribus* (136.18).
 
-[^8]: **S/T.** 1 Pet. 5:3 (DR, without "from the heart"); Luke 22:25–26 (DR). *Et igitur tu tibi usurpare audes* is translated as printed; Bernard's text as usually cited has *I ergo tu, et tibi usurpare aude* ("Go then, and dare …", ironic; from memory, LEDGER P07a-5, to-verify). The manuscripts read *aut dominus … aut apostolatus dominium* (137.7–8); Loserth prints Bernard's *aut dominans apostolatum aut apostolicus dominatum*.
+[^8]: **S/T.** 1 Pet. 5:3 (DR, without "from the heart"); Luke 22:25–26 (DR). *Et igitur tu tibi usurpare audes* is translated as printed; Bernard's text (II.6.11, PL 182, 748) has *I ergo tu, et tibi usurpare aude* ("Go then, and dare …", ironic; LEDGER P07a-5). The manuscripts read *aut dominus … aut apostolatus dominium* (137.7–8); Loserth prints Bernard's *aut dominans apostolatum aut apostolicus dominatum*.
 
 [^9]: **S/T.** Hos. 8:4 (DR "They have reigned, but not by me: they have been princes, and I knew not"; Bernard adds *eos*, "them"). Luke 22:26 (DR "he that is the leader, as he that serveth"; Bernard has *vestrum*); Luke 22:27 (DR; *tamquam* for *sicut*). *Que et commendatur* is wanting in the manuscripts and supplied by Loserth (137.18); they read *adiungi* for *adiungit* (137.19).
 
 [^10]: **C.** *Sentenciam sepedictam*: the teaching that Peter's preeminence lies in service, not in lordship (135.15 ff.). *Dictavit* is singular with the two laws as subject.
 
-[^11]: **S.** Decretum C.24 q.3 c.27 *Heresis* (Jerome), from memory; Loserth gives no reference (LEDGER P07a-6, to-verify). The canon, as remembered, reads *quam sensus Spiritus Sancti flagitat*; Wyclif's wording is translated (to be checked with P07a-6). *Scripturam* and *quam* were read on the plate.
+[^11]: **S.** Decretum C.24 q.3 c.27 *Heresis* (Jerome, on Gal. 5); Loserth gives no reference (LEDGER P07a-6). The canon reads *quam sensus Spiritus sancti flagitat*; Wyclif drops *sensus*, and *adiuncta pertinacia* is his own; his wording is translated. *Scripturam* and *quam* were read on the plate.
 
 [^12]: **C.** *Autem* brings the second premiss: whoever understands scripture otherwise than the Spirit demands, pertinaciously, is a heretic; now Bernard understood it so; the conclusion, that those who condemn him on this point fall under the canon, is left implicit. *Ex titulo elemosine … subducto seculari dominio*: the clergy hold temporal goods as alms of the lords, lordship being withdrawn from the clergy.
 
-[^13]: **S.** Bernard, *De consideratione* III.1.2 (Loserth: ch. 1, p. 769; 138.18; LEDGER P07a-7, editor). *Formido* is the verb, "I fear", not the noun "misgiving".
+[^13]: **S.** Bernard, *De consideratione* III.1.2 (PL 182, 759; Loserth prints "p. 769"; 138.18; LEDGER P07a-7). *Formido* is the verb, "I fear", not the noun "misgiving".
 
 [^14]: **S/C.** "Luke 20" as printed; the first testimony was Luke 22 (135.15), and *XX* may be a slip for *XXII*. The subject of *non sequitur* is unexpressed: "lordship" is supplied from the context; alternatively "it does not follow … that Peter is preeminent, but its opposite", which sits ill with *quo docetur*.
 
-[^15]: **S/T.** Bernard, *De consideratione* II.6.13 (Loserth: ch. 6, p. 749; 138.24; LEDGER P07a-8, editor). Loserth notes that Bernard reads *ministerium tuum et ministerium te* (you honour your ministry, and your ministry you); the print is translated. *Vocata ecclesia*: the church so called, not the true church.
+[^15]: **S/T.** Bernard, *De consideratione* II.6.13 (PL 182, 749, as Loserth: ch. 6, p. 749; 138.24; LEDGER P07a-8). Loserth notes that Bernard reads *ministerium tuum et ministerium te* (you honour your ministry, and your ministry you); the print is translated. *Vocata ecclesia*: the church so called, not the true church.
 
 ## Transcription notes
 
