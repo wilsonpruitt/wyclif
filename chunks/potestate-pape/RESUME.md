@@ -85,4 +85,5 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 - **Next translation:** `.venv/bin/python scripts/w3/brief.py potestate-pape 11-h 11-i 11-j` → then 11-k 11-l 11-m, 12-a …, comp-a, comp-b (26 chunks left: 11-h … 11-m, 12-a … 12-u?, comp-a, comp-b — `ls chunks/potestate-pape/` for the list).
 - **Cost:** ≈14.5–15.5M so far (this session: ≈5.4M in agents + the coordinator, for 48 chunks and their checks). Remaining 26 chunks ≈ 4.5–5M → volume ≈ 19–20M, well over the 12–13M estimate. Say so to Wilson before resuming.
 - Committed locally; **NOT pushed** (push is Wilson's per-action OK). Site not built or deployed for this volume.
+- **FitzRalph *Summa* 1512 now complete on disk (2026-10-08):** `sources/fitzralph-summa-1512-p201-363.pdf` (164 pp. incl. cover; PDF page = scan page − 199; scan p. 201 = fol. XCVII r). With `-p001-100` and `-p101-200` the whole print is local (gitignored). Wyclif's "II.4" (P01a-4, P02c-1) and other untraced FitzRalph rows can now be tried in books XI ff.
 
