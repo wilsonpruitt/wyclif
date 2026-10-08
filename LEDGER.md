@@ -1277,3 +1277,16 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | P10d-5 | potestate-pape-10-d / n7 | Decretum D.22 c.4 *De Constantinopolitana* | to-verify | Loserth's foot reads "Cap. IX" in the OCR: read it on the plate |
 | P10d-6 | potestate-pape-10-d / n9 | Aristotle, *De caelo* 1.5, 271b: a small error at the beginning | to-verify | from memory |
 | P10d-7 | potestate-pape-10-d / n13 | Gregory, *Hom. in Evang.* 17 | editor | Loserth: Migne II, 1148 |
+| P10e-1 | potestate-pape-10-e / n8 | *concessio Cesaris* (237.6) = the Donation of Constantine | to-verify | confirm in context |
+| P10f-1 | potestate-pape-10-f / n3 | *Si solus Christus* = Gratian D.8 c.9 (Augustine) | to-verify | read Loserth's foot first |
+| P10f-2 | potestate-pape-10-f / n7 | the cause maxim (*posita causa …*) is "the philosophers'" | to-verify | no editor reference |
+| P10f-3 | potestate-pape-10-f / n10 | "Matth. V" Pharisees = the gift vowed to the temple, Matt. 15:5 | to-verify | print reads V (plate) |
+| P10f-4 | potestate-pape-10-f / n11 | Glossa ordinaria on C.24 q.1 c.1 | editor | Loserth: Venice 1595, I, 1295; modern form ours |
+| P10f-5 | potestate-pape-10-f / n11 | the second "ut dicit glossa" (celebrate secretly) is the same gloss | to-verify | check the gloss text |
+| P10f-6 | potestate-pape-10-f / n13 | *Non mediocriter* = De cons. D.5 c.24 (Jerome) | editor | Loserth "Cap. XXIV"; modern form ours |
+| P10f-7 | potestate-pape-10-f / n18 | Gregory struck Sabinian after death (John the Deacon, *Vita Gregorii*?) | to-verify | cf. P08g-5 (*Polychronicon* V, 412) |
+| P10f-8 | potestate-pape-10-f / n20 | Possidius, *Vita Augustini*: Augustine offers to give the estates back to Hippo | to-verify | chapter (23?) |
+| P10f-9 | potestate-pape-10-f / n20 | cf. *De civili dominio* III, 225 | editor | Loserth |
+| P10g-1 | potestate-pape-10-g / n12 | Augustine, *De verbis Domini* s. 53 = Loserth *Opp.* V, 1378 ("Aliquando Deus iratus dat …") | editor | Loserth; cf. P09d-3 (Sermo 354, Loserth's numbering off by one) |
+| P10g-2 | potestate-pape-10-g / n12 | modern number for *De verbis Domini* 53 | to-verify | PL 38–39 |
+| P10g-3 | potestate-pape-10-g / n13 | the same three examples are in Augustine's sermon | editor | Loserth "l. c." |

@@ -603,6 +603,11 @@ otherwise.
 | primicia (virtutum) | being first (in the virtues) | Kept apart from *primatus* "primacy" and *primitas* "firstness". Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 228.33). |
 | bipapalis | two-pope | Of the church under two popes (1378). Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 234.30). |
 | defidare | distrust | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 233.1). |
+| replicatur; replicatum | it is rejoined; rejoinder | A further objection against an answer; kept apart from *respondetur* "the reply is" (so 04-b). Ruled 2026-10-08 (coordinator, delegated; conformed 10-e, 10-g). |
+| potestas vicaria | vicarial power | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 236.10). |
+| locus a simili | the topic from likeness | Dialectical topic. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 240.10). |
+| ordo cesareus / divinus | the caesarean / divine order | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 245.15). |
+| malum culpe / pene | the evil of fault / of penalty | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 245.19). |
 | laxus | lax | Ruled 2026-10-02 (*Eccl.* 23). |
 | episcopus Nullatensis | a bishop "of Nowhere" | Ruled 2026-10-02 (*Eccl.* 23). |
 | demereri | to demerit | Ruled 2026-10-02 (*Eccl.* 23). |
