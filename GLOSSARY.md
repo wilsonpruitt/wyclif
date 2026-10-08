@@ -582,6 +582,11 @@ otherwise.
 | impertinens; impertinencia | irrelevant; irrelevance | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 179–180). |
 | eleccio equivoca | equivocal election | Ch. 8's two elections (God's and men's). Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 177.4). |
 | apostolicus (noun, not the papal title) | an apostolic man | Where it is the pope's title, "the apostolic [lord]" with a G note. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 175.24). |
+| connexio | conditional (proposition) | Logic: the "if … then" proposition. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 189.1). |
+| tenacia | tight-fistedness | Avarice's vice of holding on. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 190.12). |
+| irregularitas | irregularity | Canonical impediment to orders or office. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 190.30). |
+| negociacio | dealing | Pairs with *negociatores* "dealers". Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 194.5). |
+| allocari (in an account) | be allowed | Accounting sense. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 193.18). |
 | laxus | lax | Ruled 2026-10-02 (*Eccl.* 23). |
 | episcopus Nullatensis | a bishop "of Nowhere" | Ruled 2026-10-02 (*Eccl.* 23). |
 | demereri | to demerit | Ruled 2026-10-02 (*Eccl.* 23). |

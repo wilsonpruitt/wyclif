@@ -1204,3 +1204,19 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | P08e-5 | potestate-pape-08-e / n10 | Diceto p. 187 | editor | Loserth 183.8 ("Radulfi de Diceto pag. 187. Huss 230a") |
 | P08e-6 | potestate-pape-08-e / n15 | Diceto pp. 200, 211, 216, 246, 303 | editor | Loserth 184 |
 | P08e-7 | potestate-pape-08-e / n11 | Diceto *Ibid.* at 183.14 | editor | Loserth |
+| P08f-1 | potestate-pape-08-f / n6 | "division" = the schism of 1378, Rome vs Avignon | to-verify | historical; check |
+| P08f-2 | potestate-pape-08-f / n11 | Aug. *De verbis Domini* s. 45 = Sermo 129, Opp. V, 633 | editor | Loserth p. 187 foot |
+| P08f-3 | potestate-pape-08-f / n16 | Augustine quotation at 187.23–188.2 = Sermo 129 | editor | Loserth 188.3 |
+| P08f-4 | potestate-pape-08-f / n17 | *oppositorum eadem disciplina* is Aristotelian | to-verify | locate (Topics / Metaphysics) |
+| P08f-5 | potestate-pape-08-f / n19 | legend of Antichrist born of a friar and a nun | to-verify | find the source |
+| P08g-1 | potestate-pape-08-g / n4 | Aug. "ubi supra" = Sermo 129, Opp. V, 636 | editor | Loserth p. 189 foot |
+| P08g-2 | potestate-pape-08-g / n5 | Augustine's text reads *quod Deus avertat* | to-verify | check Sermo 129 |
+| P08g-3 | potestate-pape-08-g / n8 | Chrysostom "superius" (earlier in ch. 8) | to-verify | find the earlier citation |
+| P08g-4 | potestate-pape-08-g / n9 | *Unam sanctam* = *Extrav. comm.* 1.8.1 | editor | form ours |
+| P08g-5 | potestate-pape-08-g / n10 | Sabinian story = *Polychronicon* V, 412 | editor | Loserth p. 190 foot |
+| P08g-6 | potestate-pape-08-g / n11 | Grosseteste story = *Polychronicon* VIII, 240; the pope is Innocent IV | editor | Loserth p. 190 foot |
+| P08g-7 | potestate-pape-08-g / n14 | Marcellinus = D.21 c.7 + ordinary gloss (Venice 1595, p. 91) | editor | form ours |
+| P08g-8 | potestate-pape-08-g / n18 | Sermo 130 (Opp. V, 637) / *De verbis Domini* 46 (V, 230) | editor | Loserth p. 191 foot |
+| P08h-1 | potestate-pape-08-h / n3 | Aug. *De verbis Domini* s. 89, Opp. V, 803/4 | editor | modern sermon number to be checked |
+| P08h-2 | potestate-pape-08-h / n9 | *qui creavit te sine te …* = Augustine, Sermo 169 | to-verify | check |
+| P08h-3 | potestate-pape-08-h / n11 | "that bishop" = the bishop's arbitration in Augustine's sermon | to-verify | check the sermon |
