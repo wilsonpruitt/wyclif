@@ -139,7 +139,7 @@ And in the chronicles of the Chester [chronicler] I have related elsewhere how m
 
 [^2]: **T.** *huiusmodi*: the codices lack *-modi* (apparatus 181.4), reading *huius*; the print is translated. B reads *gerit* for *gerat* (181.3).
 
-[^3]: **S.** Ralph de Diceto, dean of St Paul's, London (d. 1202 or 1203), *Abbreviationes chronicorum*; Loserth cites the edition of Stubbs, vol. 1, p. 83 (LEDGER P08e-1). Where Wyclif "related elsewhere" the Chester chronicle's account is not identified here; to be checked (LEDGER P08e-2). **R.** Loserth notes Hus's reuse, *Opera* fol. 230a. AB in the margin (181.20): *Deposicio paparum*.
+[^3]: **S.** Ralph de Diceto, dean of St Paul's, London (d. 1202 or 1203), *Abbreviationes chronicorum*; Loserth cites the edition of Stubbs, vol. 1, p. 83, where the entry stands as Wyclif gives it (LEDGER P08e-1). Wyclif "related elsewhere" the Chester chronicle's account at *De civili dominio* II, cap. 11 (ed. Loserth, pp. 116–118), where, citing Higden, he lists popes deposed by emperors and disputed elections they settled (Symmachus and Laurentius, John XII and Leo VIII, Benedict IX, Gregory VI) (LEDGER P08e-2). **R.** Loserth notes Hus's reuse, *Opera* fol. 230a. AB in the margin (181.20): *Deposicio paparum*.
 
 [^4]: **C.** The quotation bounds follow Loserth's italics, which run from the year to *restituitur*. **T.** *quia prior*: the codices read *qui* (apparatus 181.26); Loserth's *quia* is translated.
 
@@ -151,11 +151,11 @@ And in the chronicles of the Chester [chronicler] I have related elsewhere how m
 
 [^8]: **T.** *excusaturum*: Loserth notes *Recte: excusatum*; either way "to excuse himself". *nominandam synodum*: the codices read *nominanda synodus* (182.21–22), corrected by Loserth. *meus*: the codices read *nimis* (182.25). *manserunt*: Loserth gives the codices' reading as *mansuerunt*, correct *remanserunt*. B reads *cessavit* for *cassavit*. **C.** *Quicumque … eo ordinante erant dampnati*: as printed, "whoever stood condemned through his ordaining"; the sense requires those whom Leo had ordained, and a word such as *ordinati* may have fallen out; "[as ordained]" supplies it. **R.** Hus, *Opera* fol. 230a (Loserth).
 
-[^9]: **C.** *contigit Romanos … constituunt*: the infinitive construction after *contigit* gives way to a finite verb; translated by the sense. Diceto's page for this entry is unreadable in the apparatus OCR (LEDGER P08e-4).
+[^9]: **C.** *contigit Romanos … constituunt*: the infinitive construction after *contigit* gives way to a finite verb; translated by the sense. Diceto, ed. Stubbs, vol. 1, p. 151, the page of the sixth entry (Loserth's "Ibid. p. 151", which the apparatus OCR reads "p. 1 1") (LEDGER P08e-4).
 
 [^10]: **S.** Diceto, ed. Stubbs, vol. 1, p. 187 (Loserth) (LEDGER P08e-5).
 
-[^11]: **S.** Diceto, as before (Loserth, *Ibid.*, at 183.14) (LEDGER P08e-7).
+[^11]: **S.** Diceto, as before, vol. 1, p. 187 (Loserth, *Ibid.*, at 183.14) (LEDGER P08e-7).
 
 [^12]: **S.** 3 Kings 2:35 (DR), "Sadoc, the priest, he put in the place of Abiathar": Solomon deposed the priest Abiathar (2:27) and put Sadoc in his place. **R.** AB in the margin (183.14): *Juramentum imperatoris dicitur necessarium sacramentum*, "the emperor's oath is called a necessary sacrament".
 

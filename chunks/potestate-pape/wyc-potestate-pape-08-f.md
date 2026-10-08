@@ -58,15 +58,15 @@ The second testimony is that of John 5:43, touched on above: "I am come in the n
 [^8]: **C.** *Per socios*: "through fellows", i.e. by companions of equal standing, with no single head over them.
 [^9]: **C.** *Cum tota vita sua debet capi relicto ambiguo*: construal doubtful. Taken as: each claimant's whole life is the evidence to be weighed, and what is ambiguous (the election) set aside.
 [^10]: **C.** *Sentencia* (CONTEXTUAL) is "teaching" here: the position held on which claimant is pope. *Persone aggregate religiosorum*: the religious taken as bodies (the orders).
-[^11]: **S.** Augustine, *De verbis Domini* sermo 45 in Wyclif's numbering; Loserth: Sermo 129, Opp. tom. V, 633 (LEDGER P08f-2).
+[^11]: **S.** Augustine, *De verbis Domini* sermo 45 in Wyclif's numbering; Loserth: Sermo 129, Opp. tom. V, 633 (PL 38, 720–25; LEDGER P08f-2).
 [^12]: **S/T.** Romans 10:3 in Augustine's form (Vulgate *suam quaerentes statuere*, DR "seeking to establish their own … have not submitted themselves"). The manuscripts read "Rom. 1"; Loserth corrects to X (apparatus 187.4).
 [^13]: **T.** *Ego iustifico*: Loserth's emendation; the codex reads *ego sanctifico* twice (apparatus 187.10).
 [^14]: **T/C.** The clause *et cum illi habent pseudodiscipulos …* has no main verb: a word or clause may have been lost (187.18–20). *Universalibus* does not construe with *melius*; it is translated as *universalius*, "more universally".
 [^15]: **S.** John 5:43, with Wyclif's *accepistis* (Vulgate *accipitis*, DR "you receive me not"); the English gives his perfect.
-[^16]: **S/T.** Augustine, Sermo 129 (Loserth's reference repeated at 188.3; LEDGER P08f-3), quoting John 5:43 (with *suscepistis … suscipietis*) and 1 John 2:18 (Loserth's reference, 187.28). *Ibi credidi*: Loserth's emendation; the codex reads *et* (apparatus 188.1). The exchange is with an opponent who denies the subject is clean because he was not baptized "there", among his own party.
-[^17]: **T/C.** *Oppositorum est eadem disciplina*: the scholastic maxim that the same science treats of opposites (Aristotle; LEDGER P08f-4). A omits *eadem* (apparatus 188.4). *Autem* here brings the minor premiss.
+[^16]: **S/T.** Augustine, Sermo 129.6 (PL 38, 723; Loserth's reference repeated at 188.3; LEDGER P08f-3), quoting John 5:43 (with *suscepistis … suscipietis*) and 1 John 2:18 (Loserth's reference, 187.28). *Ibi credidi*: Loserth's emendation; the codex reads *et* (apparatus 188.1). The exchange is with an opponent who denies the subject is clean because he was not baptized "there", among his own party.
+[^17]: **T/C.** *Oppositorum est eadem disciplina*: the scholastic maxim that the same science treats of opposites (Aristotle, *Metaph.* Γ.2, 1004a9–10: "it is the province of one science to study opposites"; LEDGER P08f-4). A omits *eadem* (apparatus 188.4). *Autem* here brings the minor premiss.
 [^18]: **S.** John 5:39 (Loserth's reference), slightly reworded (Vulgate *quia vos putatis in ipsis vitam aeternam habere*); "the aforesaid chapter" is John 5, cited for 5:43.
-[^19]: **R.** The tale that Antichrist will be born of a friar and a nun (LEDGER P08f-5).
+[^19]: **R.** The tale that Antichrist will be born of a friar and a nun; Loserth gives no source and it has not been traced (LEDGER P08f-5, untraced).
 
 ## Transcription notes
 

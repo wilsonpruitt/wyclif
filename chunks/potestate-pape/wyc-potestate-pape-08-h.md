@@ -33,15 +33,15 @@ And lest the denial of this denial be [cloaked]{g:palliare}, a denial which cons
 
 [^1]: **C.** *Huius negacionis negacio*: construal doubtful. Taken as the denial of Christ just described (Augustine's *negamus*, 192.6–8), here said to lie chiefly in deed; "this denial" may be the genitive of definition, "the denial that this is".
 [^2]: **S/C.** Ezekiel 34, against the shepherds who do not tend the flock. *Legem Christi ignorando* is taken with *contempnere*: they despise the pious in ignorance of Christ's law. *Pericula eorum*: the dangers that beset the pious.
-[^3]: **S/R.** Augustine, *De verbis Domini* sermo 89 in Wyclif's numbering; Loserth: Opp. tom. V, 803/4 (LEDGER P08h-1). The Apostle's perils: 2 Corinthians 11:26 ("in perils from false brethren"). A and B note: "the peril of false brethren".
+[^3]: **S/R.** Augustine, *De verbis Domini* sermo 89 in Wyclif's numbering; Loserth: Opp. tom. V, 803/4; now Sermo 167.2–3 (PL 38, 910) (LEDGER P08h-1). The Apostle's perils: 2 Corinthians 11:26 ("in perils from false brethren"). A and B note: "the peril of false brethren".
 [^4]: **S/C/R.** Ephesians 5:16, in Wyclif's (or Augustine's) form, with *quantum* for the Vulgate's *quoniam*; taken as "inasmuch as". The quotation bounds follow the italics only from *hoc est*. A and B note: "What it is to redeem the time."
 [^5]: **S/T.** "His vessel": Paul, the "vessel of election" (Acts 9:15). The print has *Chrisus* (192.27, so the plate), a misprint for *Christus*.
 [^6]: **T.** The apparatus at 193.11 records a manuscript reading *sensum legem* (OCR rough); Loserth's *sensus* is translated.
 [^7]: **T/C.** *Allocatur*: Loserth's emendation; the codex reads *allocaciter* (apparatus 193.12). An accounting term: the man is "allowed" (credited) in his account on the last day for the time he has spent. *Sibi ipsi proficit* stands without a connective; the sentence is construed as two clauses.
 [^8]: **S.** "Acceptable time": 2 Corinthians 6:2 ("now is the acceptable time").
-[^9]: **S.** Augustine's saying, *qui creavit te sine te, non iustificat te sine te* (Sermo 169; LEDGER P08h-2).
+[^9]: **S.** Augustine's saying, *qui creavit te sine te, non iustificat te sine te* (Sermo 169.13, PL 38, 923: *Qui ergo fecit te sine te, non te justificat sine te*; Wyclif has *creavit*; LEDGER P08h-2).
 [^10]: **S.** Ephesians 5:15–16, shortened (DR "See therefore, brethren, how you walk circumspectly: not as unwise, But as wise: redeeming the time, because the days are evil").
-[^11]: **C.** *Iudicium illius episcopi*: the bishop's arbitration of disputes, to which Augustine's sermon points the litigant; the referent is not stated in the text (LEDGER P08h-3).
+[^11]: **C.** *Iudicium illius episcopi*: the bishop's arbitration of disputes, to which Augustine's sermon points the litigant; the bishop is Augustine himself, who in Sermo 167.4 speaks of the cases that come before him for judgment (*quando ad nos judicanda veniunt … quia episcopum audivit*; PL 38, 910–11) (LEDGER P08h-3).
 [^12]: **S/C.** Luke 16:8 ("the children of this world are wiser … than the children of light"). *Ut ex stultis commerciis* is taken as the purpose of their craft.
 [^13]: **S.** Psalm 83:11 ("better is one day in thy courts above thousands"). *Negociacio* "dealing" keeps it beside *negociatores* "dealers" (GLOSSARY).
 

@@ -28,8 +28,8 @@
 {"t": "Petrus", "leaf": 269, "row": 3, "para": false, "head": false, "pos": 26}
 {"t": "II", "leaf": 269, "row": 3, "para": false, "head": false, "pos": 27}
 {"t": "Petri", "leaf": 269, "row": 3, "para": false, "head": false, "pos": 27}
-{"t": "II.", "leaf": 269, "row": 4, "para": false, "head": false, "pos": 28}
-{"t": "i", "leaf": 269, "row": 4, "para": false, "head": false, "pos": 29}
+{"t": "II,", "leaf": 269, "row": 4, "para": false, "head": false, "pos": 28}
+{"t": "1", "leaf": 269, "row": 4, "para": false, "head": false, "pos": 29}
 {"t": "prophetat", "leaf": 269, "row": 4, "para": false, "head": false, "pos": 30}
 {"t": "de", "leaf": 269, "row": 4, "para": false, "head": false, "pos": 31}
 {"t": "talibus:", "leaf": 269, "row": 4, "para": false, "head": false, "pos": 32}
@@ -61,7 +61,8 @@
 {"t": "ignorant", "leaf": 269, "row": 8, "para": false, "head": false, "pos": 58}
 {"t": "blasfemantes.", "leaf": 269, "row": 8, "para": false, "head": false, "pos": 59}
 {"t": "Tales", "leaf": 269, "row": 8, "para": false, "head": false, "pos": 60}
-{"t": "forentilli,", "leaf": 269, "row": 8, "para": false, "head": false, "pos": 61}
+{"t": "forent", "leaf": 269, "row": 8, "para": false, "head": false, "pos": 61}
+{"t": "illi,", "leaf": 269, "row": 8, "para": false, "head": false, "pos": 61}
 {"t": "qui", "leaf": 269, "row": 8, "para": false, "head": false, "pos": 62}
 {"t": "dicerent,", "leaf": 269, "row": 8, "para": false, "head": false, "pos": 63}
 {"t": "quod", "leaf": 269, "row": 9, "para": false, "head": false, "pos": 64}
@@ -91,7 +92,8 @@
 {"t": "indulgencias", "leaf": 269, "row": 12, "para": false, "head": false, "pos": 88}
 {"t": "sine", "leaf": 269, "row": 12, "para": false, "head": false, "pos": 89}
 {"t": "fine.", "leaf": 269, "row": 13, "para": false, "head": false, "pos": 90}
-{"t": "Ettales", "leaf": 269, "row": 13, "para": false, "head": false, "pos": 91}
+{"t": "Et", "leaf": 269, "row": 13, "para": false, "head": false, "pos": 91}
+{"t": "tales", "leaf": 269, "row": 13, "para": false, "head": false, "pos": 91}
 {"t": "communiter", "leaf": 269, "row": 13, "para": false, "head": false, "pos": 92}
 {"t": "ignorant", "leaf": 269, "row": 13, "para": false, "head": false, "pos": 93}
 {"t": "voces", "leaf": 269, "row": 13, "para": false, "head": false, "pos": 94}
