@@ -83,6 +83,6 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 ## ⏸ Pause state (2026-10-08) — where to pick up
 - **Translated and per-wave checked through 11-d** (scars, connectives, ledger all closed). **11-e … 11-g:** translated, scars fixed + relatin'd, glossary ruled, ledger rows filed — still owed: **connectives (11-e … 11-g)** and **ledger P11b … P11g** (13 + 16 = 29 rows; split in two runs).
 - **Next translation:** `.venv/bin/python scripts/w3/brief.py potestate-pape 11-h 11-i 11-j` → then 11-k 11-l 11-m, 12-a …, comp-a, comp-b (26 chunks left: 11-h … 11-m, 12-a … 12-u?, comp-a, comp-b — `ls chunks/potestate-pape/` for the list).
-- **Cost:** ≈15.7M so far (≈9.5M this session for 48 chunks + checks ≈ 200K/chunk all-in). Remaining 26 chunks ≈ 4.5–5M → volume ≈ 20–21M, well over the 12–13M estimate. Say so to Wilson before resuming.
+- **Cost:** ≈14.5–15.5M so far (this session: ≈5.4M in agents + the coordinator, for 48 chunks and their checks). Remaining 26 chunks ≈ 4.5–5M → volume ≈ 19–20M, well over the 12–13M estimate. Say so to Wilson before resuming.
 - Committed locally; **NOT pushed** (push is Wilson's per-action OK). Site not built or deployed for this volume.
 
