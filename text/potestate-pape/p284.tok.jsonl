@@ -32,7 +32,7 @@
 {"t": "secundum", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 31}
 {"t": "lineam", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 32}
 {"t": "protensam", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 33}
-{"t": "a:", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 34}
+{"t": "a", "leaf": 345, "row": 4, "para": false, "head": false, "pos": 34}
 {"t": "summo", "leaf": 345, "row": 5, "para": false, "head": false, "pos": 35}
 {"t": "in", "leaf": 345, "row": 5, "para": false, "head": false, "pos": 36}
 {"t": "infimum", "leaf": 345, "row": 5, "para": false, "head": false, "pos": 37}
@@ -98,6 +98,7 @@
 {"t": "illud", "leaf": 345, "row": 14, "para": false, "head": false, "pos": 97}
 {"t": "Act.", "leaf": 345, "row": 14, "para": false, "head": false, "pos": 98}
 {"t": "primo,", "leaf": 345, "row": 14, "para": false, "head": false, "pos": 99}
+{"t": "1:", "leaf": 345, "row": 14, "para": false, "head": false, "pos": 99}
 {"t": "Cepit", "leaf": 345, "row": 15, "para": false, "head": false, "pos": 100}
 {"t": "Ihesus", "leaf": 345, "row": 15, "para": false, "head": false, "pos": 101}
 {"t": "facere", "leaf": 345, "row": 15, "para": false, "head": false, "pos": 102}
@@ -136,7 +137,8 @@
 {"t": "regere.", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 135}
 {"t": "Sic", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 136}
 {"t": "enim", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 137}
-{"t": "loquiturApostolus", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 138}
+{"t": "loquitur", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 138}
+{"t": "Apostolus", "leaf": 345, "row": 20, "para": false, "head": false, "pos": 138}
 {"t": "prima", "leaf": 345, "row": 21, "para": false, "head": false, "pos": 139}
 {"t": "Cor.", "leaf": 345, "row": 21, "para": false, "head": false, "pos": 140}
 {"t": "XI", "leaf": 345, "row": 21, "para": false, "head": false, "pos": 141}

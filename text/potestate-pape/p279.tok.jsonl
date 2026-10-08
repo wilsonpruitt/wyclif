@@ -104,7 +104,8 @@
 {"t": "accensus.", "leaf": 340, "row": 14, "para": false, "head": false, "pos": 99}
 {"t": "Secunda", "leaf": 340, "row": 15, "para": true, "head": false, "pos": 100}
 {"t": "vestis", "leaf": 340, "row": 15, "para": false, "head": false, "pos": 101}
-{"t": "estzona,", "leaf": 340, "row": 15, "para": false, "head": false, "pos": 102}
+{"t": "est", "leaf": 340, "row": 15, "para": false, "head": false, "pos": 102}
+{"t": "zona,", "leaf": 340, "row": 15, "para": false, "head": false, "pos": 102}
 {"t": "baltheus", "leaf": 340, "row": 15, "para": false, "head": false, "pos": 103}
 {"t": "vel", "leaf": 340, "row": 15, "para": false, "head": false, "pos": 104}
 {"t": "cingulum,", "leaf": 340, "row": 15, "para": false, "head": false, "pos": 105}
@@ -134,11 +135,13 @@
 {"t": "incentivorum", "leaf": 340, "row": 19, "para": false, "head": false, "pos": 129}
 {"t": "estu,", "leaf": 340, "row": 19, "para": false, "head": false, "pos": 130}
 {"t": "cogitacione", "leaf": 340, "row": 19, "para": false, "head": false, "pos": 131}
-{"t": "velopere", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 132}
+{"t": "vel", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 132}
+{"t": "opere", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 132}
 {"t": "dissolvatur,", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 133}
 {"t": "iuxta", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 134}
 {"t": "illud", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 135}
-{"t": "LuceXII,", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 136}
+{"t": "Luce", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 136}
+{"t": "XII,", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 136}
 {"t": "35:", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 137}
 {"t": "Sint", "leaf": 340, "row": 20, "para": false, "head": false, "pos": 138}
 {"t": "lumbi", "leaf": 340, "row": 21, "para": false, "head": false, "pos": 139}
@@ -228,4 +231,4 @@
 {"t": "ad", "leaf": 340, "row": 33, "para": false, "head": false, "pos": 222}
 {"t": "istas", "leaf": 340, "row": 33, "para": false, "head": false, "pos": 223}
 {"t": "quatuor", "leaf": 340, "row": 33, "para": false, "head": false, "pos": 224}
-{"t": "virtutes.", "leaf": 340, "row": 33, "para": false, "head": false, "pos": 225}
+{"t": "virtutes,", "leaf": 340, "row": 33, "para": false, "head": false, "pos": 225}

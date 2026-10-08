@@ -3,7 +3,7 @@
 *Read this first in a new session, then `WORKFLOW.md` (stages 7–10), this volume's `CARD.md` and `WAVE-PROMPTS.md`. Started 2026-10-07
 on Wilson's "opus go" (estimate given: ≈12–13M Opus for the volume).*
 
-## ▶ RESUMED 2026-10-08 — 75/107 translated (ch. 1–10 + 11-a, p. 269); 11-b … 11-d running
+## ⏸ PAUSED 2026-10-08 (Wilson: "pause after this run") — 81/107 translated (01-a … 11-g, pp. 1–291); resume at 11-h
 
 - **Translated: 33 of 107 chunks** (01-a … 06-d, pp. 1–118), every one through the per-wave checks: scars fixed + relatin'd, connectives (waves 1–4: 309 checked, 8 fixed), ledger closed for all rows P01a … P06d (waves 1–4), glossary conformed, lint 0.
 - **Next:** `.venv/bin/python scripts/w3/brief.py potestate-pape 06-e 06-f 06-g` → one Opus agent per brief (≤ 2 at once); then 06-h 06-i 07-a … in order. After each wave: scars (plate-read every real-word/numeral row) → `tokenfix.tsv` → `vote.py SLUG p p` (FOREGROUND) → `relatin.py SLUG --also <ids>`; ledger rows → LEDGER.md; every ~2 briefs run the connective + ledger agents (WAVE-PROMPTS.md; `_connectives/extract.py W ids`, `_connectives/apply.py W`; ledger note changes applied by script).
@@ -77,4 +77,12 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 - Running: 10-b … 10-d; ledger 7b (P08c-2 + P09a … P09f, 24 rows). Then: connectives for 08-c + 09-g … 10-d; ledger 8 (P09g … P10d).
 - **Waves 8–9** (09-g … 11-a; ch. 9 and 10 done): ledgers 7b (24), 8 (32) closed — Loserth slips: PL 192, 885–89; Tract. 121.4; Sermo 354; Flores II; Ypodigma 284; D.40 c.2 *loco Pauli … gradum Petri* (his *Petri et Pauli* is his emendation); FitzRalph VII.24 350 / *caput aliarum*. Connectives waves 8 (67/5), 9 (58/1). Rulings: *replicatur* "it is rejoined" (conformed); *summus pontifex* "highest pontiff" (stray "supreme" conformed in 03-c, 08-g, 10-j); *papa cesareus* "caesarean pope"; *imperium* "command"; *corripere* "reprove"; *subtiliare* CONTEXTUAL. Side-note OCR typos fixed in tsv AND chunks. ⚠ Folio mark is still on the token when pair rows apply (`an| tipapa.`).
 - Running: 11-b … 11-d; ledger 9 (P10e … P10j, 29 rows). Next: ledger P10k … P11a (19 rows), connectives 10-k … 11-d.
+- **Wave 11a** (11-e … 11-g, 171K): 20 scars, a lost verse number (Act. primo, 1:); translator's plate-checked emendations accepted: *electorum/electa* → *elementorum/elementa* (279–280), *tinccionem* → *cinccionem* (279.18), *occupat* → *occiput* (284.29), all "our emendation" T notes. OT *summus pontifex* = "high priest" (GLOSSARY *summi pontifices*); OT *pontifex* "pontiff". 5 glossary rows; 16 ledger rows filed. Side-note typos (vestmemts, and and, hishop) fixed in tsv + chunks.
+- ⚠ **Disk full during the run** (Mac at 100%, ~820 MB free after deleting scratch crops): one agent write failed and was retried. Check `df -h ~` before resuming; ledger agents download djvu texts.
+
+## ⏸ Pause state (2026-10-08) — where to pick up
+- **Translated and per-wave checked through 11-d** (scars, connectives, ledger all closed). **11-e … 11-g:** translated, scars fixed + relatin'd, glossary ruled, ledger rows filed — still owed: **connectives (11-e … 11-g)** and **ledger P11b … P11g** (13 + 16 = 29 rows; split in two runs).
+- **Next translation:** `.venv/bin/python scripts/w3/brief.py potestate-pape 11-h 11-i 11-j` → then 11-k 11-l 11-m, 12-a …, comp-a, comp-b (26 chunks left: 11-h … 11-m, 12-a … 12-u?, comp-a, comp-b — `ls chunks/potestate-pape/` for the list).
+- **Cost:** ≈15.7M so far (≈9.5M this session for 48 chunks + checks ≈ 200K/chunk all-in). Remaining 26 chunks ≈ 4.5–5M → volume ≈ 20–21M, well over the 12–13M estimate. Say so to Wilson before resuming.
+- Committed locally; **NOT pushed** (push is Wilson's per-action OK). Site not built or deployed for this volume.
 
