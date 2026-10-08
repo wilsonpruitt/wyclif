@@ -163,7 +163,6 @@
 {"t": "est", "leaf": 314, "row": 22, "para": false, "head": false, "pos": 161}
 {"t": "dotacionem", "leaf": 314, "row": 22, "para": false, "head": false, "pos": 162}
 {"t": "pontificis", "leaf": 314, "row": 23, "para": false, "head": false, "pos": 163}
-{"t": "j", "leaf": 314, "row": 23, "para": false, "head": false, "pos": 164}
 {"t": "declamat", "leaf": 314, "row": 23, "para": false, "head": false, "pos": 165}
 {"t": "acucius", "leaf": 314, "row": 23, "para": false, "head": false, "pos": 166}
 {"t": "in", "leaf": 314, "row": 23, "para": false, "head": false, "pos": 167}
@@ -236,7 +235,9 @@
 {"t": "quedam", "leaf": 314, "row": 32, "para": false, "head": false, "pos": 234}
 {"t": "mundana", "leaf": 314, "row": 33, "para": false, "head": false, "pos": 235}
 {"t": "exoritur,", "leaf": 314, "row": 33, "para": false, "head": false, "pos": 236}
-{"t": "quodadtantum", "leaf": 314, "row": 33, "para": false, "head": false, "pos": 237}
+{"t": "quod", "leaf": 314, "row": 33, "para": false, "head": false, "pos": 237}
+{"t": "ad", "leaf": 314, "row": 33, "para": false, "head": false, "pos": 237}
+{"t": "tantum", "leaf": 314, "row": 33, "para": false, "head": false, "pos": 237}
 {"t": "insane", "leaf": 314, "row": 33, "para": false, "head": false, "pos": 238}
 {"t": "prorumpunt", "leaf": 314, "row": 33, "para": false, "head": false, "pos": 239}
 {"t": "satrape", "leaf": 314, "row": 34, "para": false, "head": false, "pos": 240}

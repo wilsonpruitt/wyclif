@@ -201,7 +201,8 @@
 {"t": "neutram", "leaf": 316, "row": 29, "para": false, "head": false, "pos": 200}
 {"t": "sectam", "leaf": 316, "row": 29, "para": false, "head": false, "pos": 201}
 {"t": "dampnat,", "leaf": 316, "row": 29, "para": false, "head": false, "pos": 202}
-{"t": "sedinstar", "leaf": 316, "row": 30, "para": false, "head": false, "pos": 203}
+{"t": "sed", "leaf": 316, "row": 30, "para": false, "head": false, "pos": 203}
+{"t": "instar", "leaf": 316, "row": 30, "para": false, "head": false, "pos": 203}
 {"t": "libertatis", "leaf": 316, "row": 30, "para": false, "head": false, "pos": 204}
 {"t": "christianorum", "leaf": 316, "row": 30, "para": false, "head": false, "pos": 205}
 {"t": "primeve", "leaf": 316, "row": 30, "para": false, "head": false, "pos": 206}
