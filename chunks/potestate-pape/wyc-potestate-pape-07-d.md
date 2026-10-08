@@ -35,7 +35,7 @@ Nor does such variety of sense stand in the way, since in scripture water signif
 
 [^3]: **T.** The print has *erivatis* (147.16, so the plate); we read *derivatis*, "traced" (our emendation).
 
-[^4]: **S/C.** The quotation is Chrysostom's, same homily (Loserth p. 628, 147.19; LEDGER P07d-2, editor; the wording is to be checked, LEDGER P07d-3, to-verify). *Commutari* is "changed into", not the exchange of trade.
+[^4]: **S/C.** The quotation is Chrysostom's, same homily (Loserth p. 628, 147.19; LEDGER P07d-2, editor; NPNF: "you would see it pale and trembling, ashamed, hiding its head, anxiously fearful, and self-condemned", which Wyclif's six terms follow; read in English only, LEDGER P07d-3). *Commutari* is "changed into", not the exchange of trade.
 
 [^5]: **T/C.** *Tamen*: A reads *tantum* ("would be pope only by human reputation, not by the Lord's authority", 147.25); the print construes and is followed. *Licet … tamen* pairs "though … yet".
 

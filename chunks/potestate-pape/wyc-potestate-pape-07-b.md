@@ -41,13 +41,13 @@ Hence John XXII and others who savour the world, because they had not excelled i
 
 [^1]: **S/C.** Matthew 10:2 (DR "The first, Simon who is called Peter"). The words are John 21:22 (DR "what is it to thee? Follow thou me"); the printed verse 19 is where Christ first says "Follow me". The evangelist is John, the figure of the contemplative life. *Sibi similius*: "more like himself", that is, like Christ. *Capitaneus*: captain, kept apart from *caput*.
 
-[^2]: **S/C.** Bernard's *potestatem seculariter castigandi* has no reference from Loserth here (LEDGER P07b-1, to-verify). *Quid sibi et pape vel capiti …*: the idiom of *quid mihi et tibi*, "what has he to do with" the titles "pope" or "head". *Sicut … quod si*: the comparison is completed by the conditional, construed "so if".
+[^2]: **S/C.** Bernard's *potestatem seculariter castigandi* has no reference from Loserth here and is not in *De consideratione*; cf. the sense of IV.3.7 (PL 182, 776: *Quid tu denuo usurpare gladium tentes …?*) (LEDGER P07b-1, untraced). *Quid sibi et pape vel capiti …*: the idiom of *quid mihi et tibi*, "what has he to do with" the titles "pope" or "head". *Sicut … quod si*: the comparison is completed by the conditional, construed "so if".
 
 [^3]: **S/C.** Psalm 25:5 (DR "the assembly of the malignant"); Apocalypse 2:9 (DR "the synagogue of Satan"). *Articulus*: a joint or limb of the body. *Presumendo sic nomen*: construed "presuming the name in this way" (of head).
 
 [^4]: **C/S.** *Potencia* here is ordinary power, a man's ability to go astray, not Aristotle's potency. Luke 9:55–56 (DR); Luke 9:54 names two apostles, James and John, where Wyclif says three. *Miticia … possidebunt terram vivencium*: a paraphrase of Matthew 5:4 (DR "Blessed are the meek: for they shall possess the land") with the "land of the living" of Psalm 26:13; left unquoted.
 
-[^5]: **S.** Chrysostom, homily 5 on 1 Timothy: Loserth, *Opera* XI, 527 (139.31; LEDGER P07b-2, editor); the wording is to be checked (LEDGER P07b-3, to-verify). *Fili Thymothee*: 1 Timothy 1:18 (DR "O son Timothy"). Bernard, *De consideratione* II.6.13, Loserth's *ubi supra* (140.1), quoted already at 138.24 (LEDGER P07b-4, editor).
+[^5]: **S.** Chrysostom, homily 5 on 1 Timothy: Loserth, *Opera* XI, 527 (139.31; LEDGER P07b-2, editor); Chrysostom on 1 Tim. 1:18: Paul charges him "not so much with arbitrary or despotic authority as like a father" (NPNF, read in English only; LEDGER P07b-3). *Fili Thymothee*: 1 Timothy 1:18 (DR "O son Timothy"). Bernard, *De consideratione* II.6.13 (PL 182, 749: *Pascendas utique, non premendas suscepisti*), Loserth's *ubi supra* (140.1), quoted already at 138.24 (LEDGER P07b-4).
 
 [^6]: **G/S.** *Miles*: the Pauline figure, "soldier" (Ephesians 6:17, DR "the sword of the Spirit"). Psalm 9:23 in the Vulgate (DR), which Loserth gives by the Hebrew numbering as Psalm 10:2 (140.9).
 
@@ -61,7 +61,7 @@ Hence John XXII and others who savour the world, because they had not excelled i
 
 [^11]: **C.** *Sacerdos autem*: *autem* continues the figure of the gates ("and"). *Sequela* is the flock's following of Christ, not "what follows".
 
-[^12]: **S/T/C.** 2 Corinthians 4:4 (DR "the god of this world hath blinded"). Gratian, Decretum C. 24 q. 1 c. *Quodcumque* (form ours; Loserth gives no reference; LEDGER P07b-5, to-verify); B reads *Quicunque* (142.1–2). *Potestate … non errante* is an ablative absolute, rendered "when the power … does not err".
+[^12]: **S/T/C.** 2 Corinthians 4:4 (DR "the god of this world hath blinded"). Gratian, Decretum C. 24 q. 1 c. 6 *Quodcumque* (form ours; Loserth, foot: "Cap. VI"; Augustine, *In Ioh.* tr. 50, PL 187, 1267; LEDGER P07b-5); B reads *Quicunque* (142.1–2). *Potestate … non errante* is an ablative absolute, rendered "when the power … does not err".
 
 [^13]: **C.** *Portas suas*: the gates of hell, the second of the "two gates" above. *Quoad materiam … quoad formam* takes up the matter (power) and form (knowledge) of the key.
 

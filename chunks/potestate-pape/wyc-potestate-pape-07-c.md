@@ -64,9 +64,9 @@ From which it seems that the [clergy]{g:clerus}, but the pope above all, ought t
 
 [^8]: **C.** *Potencia* here is ordinary power or might. *Ex consensu*: the blood is shed with his consent, though by others' hands. *Universitas*: the whole number taken together. *Huius principis Antichristi* is construed "this prince, Antichrist"; "this prince of Antichrist" is possible.
 
-[^9]: **S/T.** Bernard, *De consideratione* III.1.2 (Loserth *ubi supra*, 144.28; cf. 138.18; LEDGER P07c-1, editor). In the same quotation at 138.18 Wyclif has *plus formido*; here *plus* is missing and *quam* has no comparative, so "[more]" is supplied. *Iste sentencia*: *iste* for *ista*.
+[^9]: **S/T.** Bernard, *De consideratione* III.1.2 (PL 182, 759; Loserth *ubi supra*, 144.28; cf. 138.18; LEDGER P07c-1). In the same quotation at 138.18 Wyclif has *plus formido*; here *plus* is missing and *quam* has no comparative, so "[more]" is supplied. *Iste sentencia*: *iste* for *ista*.
 
-[^10]: **S/T/R.** Augustine, *De verbis Domini* sermon 14: Loserth, *Opera* V, Appendix, p. 132 (144.31), that is, among the sermons the Maurists judged not Augustine's (LEDGER P07c-2, editor; the attribution and wording are to be checked, LEDGER P07c-3, to-verify). Loserth calls the quotation loose (145.9). *Artemonem*: B in marg. *anlempnam* (for *antennam*, the yard), as Augustine reads (*erigatur antenna*). AB in marg. 145.5: "Peter's little ship".
+[^10]: **S/T/R.** Augustine, *De verbis Domini* sermon 14: Loserth, *Opera* V, Appendix, p. 132 (144.31), that is, among the sermons the Maurists judged not Augustine's (LEDGER P07c-2): ps.-Augustine, *Sermo* 72.2 among the *Sermones suppositii* (PL 39, 1884–85), on Matt. 14:23–32: *erigatur antenna, ut suspensa arbori crucem Christi figuret* and *simplex conversatio et pura confessio … religentur*; *Si tu es … non miror … fac quod mirer* (145.15) is §4 of the same sermon (PL 39, 1886) (LEDGER P07c-3). Loserth calls the quotation loose (145.9). *Artemonem*: B in marg. *anlempnam* (for *antennam*, the yard), as Augustine reads (*erigatur antenna*). AB in marg. 145.5: "Peter's little ship".
 
 [^11]: **S/T.** 1 Peter 2:21 (DR "Christ also suffered for us, leaving you an example that you should follow his steps"): Wyclif has *nobis* for *vobis* and the first person *sequamur* (the manuscripts *sequimur*, Loserth *sequamur*, 145.6). 1 John 3:16 (DR "he hath laid down his life for us: and we ought to lay down our lives for the brethren"), Wyclif's wording translated. The last sentence is Augustine's again, in Loserth's italics.
 
@@ -76,7 +76,7 @@ From which it seems that the [clergy]{g:clerus}, but the pope above all, ought t
 
 [^14]: **S/C.** Luke 18:24–27 (DR); Wyclif's small departures (*introibunt*, no *intrare*) do not change the sense. *Sicut* opens a comparison whose second limb is never stated. Matthew 14:30 (DR "seeing the wind strong … when he began to sink"). *Medium impulsivum*: a means that drives away.
 
-[^15]: **C/S.** *Viare*: the verb of *viator*. *Temptatorum*: of tempters. *Dotacio*: the endowment of the church, Constantine's. The chroniclers' claim has no reference from Loserth (LEDGER P07c-4, to-verify).
+[^15]: **C/S.** *Viare*: the verb of *viator*. *Temptatorum*: of tempters. *Dotacio*: the endowment of the church, Constantine's. The chroniclers' claim has no reference from Loserth; Wyclif makes it again, also unsourced, at *De civili dominio* III, 217 (LEDGER P07c-4, untraced).
 
 ## Transcription notes
 
