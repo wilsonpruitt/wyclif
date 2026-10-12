@@ -648,3 +648,11 @@ otherwise.
 | refuga | deserter | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 325.27). |
 | remisse (of assent) | with slackened [assent] | Opposed to full assent in the degrees of belief. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 328.18). |
 | gradus (of belief) | degree | The four degrees of belief (*Pot. pape* 327.18 ff.). Ruled 2026-10-12 (coordinator, delegated). |
+| potissimus; pocior (Antichristus) | foremost; greater | Superlative and comparative kept visible as a pair. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 329.28, 331.12). |
+| raciones topice | topical arguments | With *evidencia topica*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 329.27). |
+| meander (dyaboli) | meander | Figure for the devil's tortuous wiles, with a C note. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 331.6). |
+| episcopi cesarei | caesarean bishops | Extends *prelatus / sacerdos cesarius*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 331.24). |
+| pseudopontifices | false pontiffs | Cf. *pseudoclerici*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 335.1). |
+| sophisticacio | sophistry | Noun beside *sophisticare*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 337.25). |
+| procuratorium | proctor's mandate | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 336.11). |
+| patronus (a saint) | patron | A second sense beside the benefice row; untagged. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 337.17–19). |
