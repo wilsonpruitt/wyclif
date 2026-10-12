@@ -14,7 +14,7 @@
 {"t": "pompacio", "leaf": 465, "row": 1, "para": false, "head": false, "pos": 13}
 {"t": "ex", "leaf": 465, "row": 1, "para": false, "head": false, "pos": 14}
 {"t": "titulo", "leaf": 465, "row": 1, "para": false, "head": false, "pos": 15}
-{"t": "sanctitatis.", "leaf": 465, "row": 1, "para": false, "head": false, "pos": 16}
+{"t": "sanctitatis,", "leaf": 465, "row": 1, "para": false, "head": false, "pos": 16}
 {"t": "et", "leaf": 465, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "exponens", "leaf": 465, "row": 2, "para": false, "head": false, "pos": 18}
 {"t": "diffuse", "leaf": 465, "row": 2, "para": false, "head": false, "pos": 19}
@@ -193,10 +193,10 @@
 {"t": "Christum", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 193}
 {"t": "est", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 194}
 {"t": "sequendus", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 195}
-{"t": "patet;", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 196}
+{"t": "patet,", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 196}
 {"t": "quod", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 197}
 {"t": "non", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 198}
-{"t": "sequitur;", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 199}
+{"t": "sequitur,", "leaf": 465, "row": 30, "para": false, "head": false, "pos": 199}
 {"t": "si", "leaf": 465, "row": 31, "para": false, "head": false, "pos": 200}
 {"t": "sancti", "leaf": 465, "row": 31, "para": false, "head": false, "pos": 201}
 {"t": "qui", "leaf": 465, "row": 31, "para": false, "head": false, "pos": 202}

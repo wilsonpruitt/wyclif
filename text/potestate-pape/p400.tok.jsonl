@@ -81,8 +81,10 @@
 {"t": "eligendi", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 80}
 {"t": "prepositum", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 81}
 {"t": "eleccio", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 82}
-{"t": "persortem", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 83}
-{"t": "foretmodo", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 84}
+{"t": "per", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 83}
+{"t": "sortem", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 83}
+{"t": "foret", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 84}
+{"t": "modo", "leaf": 461, "row": 12, "para": false, "head": false, "pos": 84}
 {"t": "securior.", "leaf": 461, "row": 13, "para": false, "head": false, "pos": 85}
 {"t": "Sexto", "leaf": 461, "row": 13, "para": false, "head": false, "pos": 86}
 {"t": "notat,", "leaf": 461, "row": 13, "para": false, "head": false, "pos": 87}

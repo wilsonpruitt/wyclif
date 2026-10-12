@@ -43,7 +43,7 @@ The third is that the pope relies on secular [lordship]{g:dominium}. Hence Grego
 
 ## ¶5 · 388.3–388.12
 
-> [p. 388] Quarta quod papa sit dux loquens grandia, magnificando suam potenciam et faciens modicum m effectu. Ex hinc itaque docet beatus Gregorius, ut patet XCIX distinccione: Quod papa non debet vocari universalis episcopus. Hec enim est condicio Antichristi, cum Christus cepit facere et docere, celans suam potenciam, nisi de quanto est necessarium ipsam detegere et credere ad salutem. Mendax autem potestatis ostensio inducit perfidiam Antichristi.
+> [p. 388] Quarta quod papa sit dux loquens grandia, magnificando suam potenciam et faciens modicum in effectu. Ex hinc itaque docet beatus Gregorius, ut patet XCIX distinccione: Quod papa non debet vocari universalis episcopus. Hec enim est condicio Antichristi, cum Christus cepit facere et docere, celans suam potenciam, nisi de quanto est necessarium ipsam detegere et credere ad salutem. Mendax autem potestatis ostensio inducit perfidiam Antichristi.
 
 The fourth: that the pope is a leader speaking great things, magnifying his [power]{g:potencia} and doing little in effect. Hence, accordingly, blessed Gregory teaches, as is clear in Distinction 99: "That the pope ought not to be called universal [bishop]{g:episcopus}." For this is the condition of Antichrist, since Christ began to do and to teach, hiding his power, except so far as it is necessary to [expose]{g:detegere} it and [for it] to be believed unto salvation. But a lying display of power brings in the perfidy of Antichrist.[^10]
 

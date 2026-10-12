@@ -41,7 +41,7 @@
 {"t": "Petro", "leaf": 464, "row": 6, "para": false, "head": false, "pos": 40}
 {"t": "ecclesia", "leaf": 464, "row": 6, "para": false, "head": false, "pos": 41}
 {"t": "est", "leaf": 464, "row": 6, "para": false, "head": false, "pos": 42}
-{"t": "dotata", "leaf": 464, "row": 6, "para": false, "head": false, "pos": 43}
+{"t": "dotata.", "leaf": 464, "row": 6, "para": false, "head": false, "pos": 43}
 {"t": "Quarto", "leaf": 464, "row": 6, "para": false, "head": false, "pos": 44}
 {"t": "probat", "leaf": 464, "row": 6, "para": false, "head": false, "pos": 45}
 {"t": "tripliciter,", "leaf": 464, "row": 6, "para": false, "head": false, "pos": 46}
@@ -214,7 +214,8 @@
 {"t": "primo", "leaf": 464, "row": 33, "para": false, "head": false, "pos": 213}
 {"t": "quam", "leaf": 464, "row": 33, "para": false, "head": false, "pos": 214}
 {"t": "vanum", "leaf": 464, "row": 33, "para": false, "head": false, "pos": 215}
-{"t": "estpompare", "leaf": 464, "row": 33, "para": false, "head": false, "pos": 216}
+{"t": "est", "leaf": 464, "row": 33, "para": false, "head": false, "pos": 216}
+{"t": "pompare", "leaf": 464, "row": 33, "para": false, "head": false, "pos": 216}
 {"t": "de", "leaf": 464, "row": 34, "para": false, "head": false, "pos": 217}
 {"t": "preeminencia", "leaf": 464, "row": 34, "para": false, "head": false, "pos": 218}
 {"t": "huiusmodi", "leaf": 464, "row": 34, "para": false, "head": false, "pos": 219}

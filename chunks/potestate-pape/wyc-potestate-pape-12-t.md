@@ -25,7 +25,7 @@ The seventh: that the [pope]{g:papa} neglects to dispose himself in purity of mi
 
 ## ¶2 · 391.11–391.27
 
-> [p. 391] Et sub ista octava stulticia sunt mille alie germinantes, ut nona abusio est, quod papa presumit per totum christianismum statuere duces spirituales et medicos, pro quorum ducatu oportet ipsum summo iudici respondere. Sic, inquam, non fecerunt Petrus, Gregorius etceteri sancti ecclesie primitive, sed permiserunt aliorum apostolorum instituciones et expertorum elecciones procedere. Nam hoc debet populus plus curare, dicente Gregorio primo Pastoralis IX capitulo: Cum curam populi electus presul suscipit, quasi ad egrum medicus accedit. Unde creditur quod provisiones, reservaciones et privilegiaciones tam amplas induxit non amor salutis subditi vel excellens specularis prudencia sed mater cupiditas; cum ubi lucrum tollitur cessant constituciones huiusmodi, eciam licet magis prodessent ecclesie.
+> [p. 391] Et sub ista octava stulticia sunt mille alie germinantes, ut nona abusio est, quod papa presumit per totum christianismum statuere duces spirituales et medicos, pro quorum ducatu oportet ipsum summo iudici respondere. Sic, inquam, non fecerunt Petrus, Gregorius et ceteri sancti ecclesie primitive, sed permiserunt aliorum apostolorum instituciones et expertorum elecciones procedere. Nam hoc debet populus plus curare, dicente Gregorio primo Pastoralis IX capitulo: Cum curam populi electus presul suscipit, quasi ad egrum medicus accedit. Unde creditur quod provisiones, reservaciones et privilegiaciones tam amplas induxit non amor salutis subditi vel excellens specularis prudencia sed mater cupiditas; cum ubi lucrum tollitur cessant constituciones huiusmodi, eciam licet magis prodessent ecclesie.
 
 And under this eighth folly a thousand others are sprouting, as the ninth abuse is that the pope presumes throughout all Christendom to appoint spiritual leaders and physicians, for whose leadership he must answer to the highest judge. Not so, I say, did Peter, Gregory and the other saints of the primitive [church]{g:ecclesia} do; but they allowed the institutions of the other apostles and the elections of experienced men to proceed. For the people ought to care more for this, as Gregory says, *Pastoral* I, chapter 9: "When the bishop chosen undertakes the care of the people, he comes as a physician to the sick." Hence it is believed that not love of the subject's salvation, nor the excellent prudence of a watchman, but mother cupidity brought in [provisions]{g:provisio}, reservations and [privilegings]{g:privilegiacio} so ample; since where gain is taken away constitutions of this kind cease, even though they would profit the church more.[^5]
 
@@ -51,7 +51,7 @@ The twelfth abuse is that the pope, both in his own person and in his [satraps]{
 
 - 389.28: 7. Failure to make intercession for his subjects.
 - 390.23: 8. Readiness to accept undue burdens for the sake of honour or reward.
-- 391.11: g. Claims of patronage.
+- 391.11: 9. Claims of patronage.
 - 391.28: 10. False grants of indulgence.
 - 392.9: 11. Grants of patronage for selfish ends.
 - 392.22: 12. Opposition in study and deed to Christ's law.
