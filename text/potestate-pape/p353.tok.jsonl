@@ -56,7 +56,8 @@
 {"t": "ecclesie,", "leaf": 414, "row": 8, "para": false, "head": false, "pos": 55}
 {"t": "sed", "leaf": 414, "row": 8, "para": false, "head": false, "pos": 56}
 {"t": "vel", "leaf": 414, "row": 9, "para": false, "head": false, "pos": 57}
-{"t": "errattalis", "leaf": 414, "row": 9, "para": false, "head": false, "pos": 58}
+{"t": "errat", "leaf": 414, "row": 9, "para": false, "head": false, "pos": 58}
+{"t": "talis", "leaf": 414, "row": 9, "para": false, "head": false, "pos": 58}
 {"t": "iudex", "leaf": 414, "row": 9, "para": false, "head": false, "pos": 59}
 {"t": "vel", "leaf": 414, "row": 9, "para": false, "head": false, "pos": 60}
 {"t": "curatus", "leaf": 414, "row": 9, "para": false, "head": false, "pos": 61}
@@ -190,7 +191,8 @@
 {"t": "Domini,", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 189}
 {"t": "ut", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 190}
 {"t": "patet", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 191}
-{"t": "inmateria", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 192}
+{"t": "in", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 192}
+{"t": "materia", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 192}
 {"t": "de", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 193}
 {"t": "excommunicacione.", "leaf": 414, "row": 30, "para": false, "head": false, "pos": 194}
 {"t": "Et", "leaf": 414, "row": 31, "para": false, "head": false, "pos": 195}
@@ -205,7 +207,7 @@
 {"t": "leges", "leaf": 414, "row": 32, "para": false, "head": false, "pos": 203}
 {"t": "Antichristiane,", "leaf": 414, "row": 32, "para": false, "head": false, "pos": 204}
 {"t": "superat", "leaf": 414, "row": 32, "para": false, "head": false, "pos": 205}
-{"t": "m", "leaf": 414, "row": 32, "para": false, "head": false, "pos": 206}
+{"t": "in", "leaf": 414, "row": 32, "para": false, "head": false, "pos": 206}
 {"t": "fraude", "leaf": 414, "row": 32, "para": false, "head": false, "pos": 207}
 {"t": "seculares.", "leaf": 414, "row": 33, "para": false, "head": false, "pos": 208}
 {"t": "Ipsi", "leaf": 414, "row": 33, "para": false, "head": false, "pos": 209}

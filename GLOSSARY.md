@@ -664,3 +664,12 @@ otherwise.
 | persona populi | the person of the people | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 347.10). |
 | dominativa forma | lordly form | After *potestas dominativa*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 349.4). |
 | pagina (of a law) | page | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 349.13). |
+| latitudo (of a quality) | latitude | The intension/remission term. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 352.4). |
+| illibertare | rob of liberty | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 351.13). |
+| provisio (papal) | provision | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* ch. 12). |
+| proventus | proceeds | Kept apart from *redditus* "revenues". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 353.25). |
+| civilitas cesarea | caesarean civil standing | After *civilitas* "civil standing" and *papa cesareus*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 354.31). |
+| decimacio | tithing | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 359.26). |
+| decimantes | tithe-payers | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 359.24). |
+| involucrum | wrapping | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 357.9). |
+| sophisticare quod (with a clause) | argue sophistically that | Takes *sophisticari*'s sense, not "counterfeit" (which needs an object). Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 354.11). |

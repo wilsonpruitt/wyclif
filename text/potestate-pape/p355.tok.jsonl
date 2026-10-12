@@ -150,7 +150,7 @@
 {"t": "autem", "leaf": 416, "row": 22, "para": false, "head": false, "pos": 149}
 {"t": "Antichristi", "leaf": 416, "row": 22, "para": false, "head": false, "pos": 150}
 {"t": "sub", "leaf": 416, "row": 22, "para": false, "head": false, "pos": 151}
-{"t": "Specie", "leaf": 416, "row": 22, "para": false, "head": false, "pos": 152}
+{"t": "specie", "leaf": 416, "row": 22, "para": false, "head": false, "pos": 152}
 {"t": "sanctitatis", "leaf": 416, "row": 23, "para": false, "head": false, "pos": 153}
 {"t": "et", "leaf": 416, "row": 23, "para": false, "head": false, "pos": 154}
 {"t": "legis", "leaf": 416, "row": 23, "para": false, "head": false, "pos": 155}
@@ -200,7 +200,8 @@
 {"t": "civilis", "leaf": 416, "row": 29, "para": false, "head": false, "pos": 199}
 {"t": "exaccionem", "leaf": 416, "row": 29, "para": false, "head": false, "pos": 200}
 {"t": "bonorum", "leaf": 416, "row": 30, "para": false, "head": false, "pos": 201}
-{"t": "fortuneper", "leaf": 416, "row": 30, "para": false, "head": false, "pos": 202}
+{"t": "fortune", "leaf": 416, "row": 30, "para": false, "head": false, "pos": 202}
+{"t": "per", "leaf": 416, "row": 30, "para": false, "head": false, "pos": 202}
 {"t": "viam", "leaf": 416, "row": 30, "para": false, "head": false, "pos": 203}
 {"t": "excommunicacionis", "leaf": 416, "row": 30, "para": false, "head": false, "pos": 204}
 {"t": "vel", "leaf": 416, "row": 30, "para": false, "head": false, "pos": 205}
