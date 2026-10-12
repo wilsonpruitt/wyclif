@@ -137,7 +137,7 @@ otherwise.
 | censura | censure | Ruled 2026-09-28 (coordinator, delegated) (4 sites). |
 | citare; citacio | to cite; citation | Summons to a church court. Ruled 2026-09-28 (coordinator, delegated) (12 sites). |
 | suspendere; suspencio | to suspend; suspension | Note the pun on hanging where live (*Dial.* 57.10–16). Ruled 2026-09-28 (coordinator, delegated). |
-| graduacio; graduati | graduation; graduates | Academic. Ruled 2026-09-28 (coordinator, delegated) (4 sites). |
+| graduacio; graduati | CONTEXTUAL: graduation / gradation; graduates | Academic "graduation" (Dialogus, 4 sites); of rank or lordship (*graduacio dominii*, *Pot. pape* 293.33, 297) "gradation". Ruled 2026-09-28; CONTEXTUAL 2026-10-12 (coordinator, delegated). |
 | prelatus / sacerdos cesarius | caesarean prelate / priest | Extends *clerus cesareus*. Ruled 2026-09-28 (22 sites, *cesar-*). |
 | papa | pope | Ruled 2026-09-28 (34 sites). |
 | indulgencie | indulgences | Ruled 2026-09-28 (7 sites). |
@@ -633,3 +633,7 @@ otherwise.
 | demereri | to demerit | Ruled 2026-10-02 (*Eccl.* 23). |
 | questores | questors | Kept apart from *perdoniste* "pardoners". Ruled 2026-10-02 (*Eccl.* 23, 584). |
 | bonificare | make good | Ruled 2026-10-02 (*Eccl.* 23). |
+| precellenter | pre-excellently | Adverb beside *precellencia* "pre-excellence". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 291.2). |
+| difformitas; difformis | difformity; difform | Paired against *uniformitas*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 297.2, 297.10). |
+| archiprepositus | arch-superior | Formed on *prepositi* "superiors". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 300.17). |
+| correptibilis | open to reproof | Beside *corripere* "reprove". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 301.3). |

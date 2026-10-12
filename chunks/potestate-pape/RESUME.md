@@ -3,7 +3,7 @@
 *Read this first in a new session, then `WORKFLOW.md` (stages 7–10), this volume's `CARD.md` and `WAVE-PROMPTS.md`. Started 2026-10-07
 on Wilson's "opus go" (estimate given: ≈12–13M Opus for the volume).*
 
-## ⏸ PAUSED 2026-10-08 (Wilson: "pause after this run") — 81/107 translated (01-a … 11-g, pp. 1–291); resume at 11-h
+## ▶ RESUMED 2026-10-12 (Wilson: "opus go", est. ≈6–6.5M to finish) — 78/107 translated (01-a … 11-g, pp. 1–291); 29 left (11-h … 11-m, 12-a … 12-u, comp-a, comp-b). The paused note said 81/26: a miscount.
 
 - **Translated: 33 of 107 chunks** (01-a … 06-d, pp. 1–118), every one through the per-wave checks: scars fixed + relatin'd, connectives (waves 1–4: 309 checked, 8 fixed), ledger closed for all rows P01a … P06d (waves 1–4), glossary conformed, lint 0.
 - **Next:** `.venv/bin/python scripts/w3/brief.py potestate-pape 06-e 06-f 06-g` → one Opus agent per brief (≤ 2 at once); then 06-h 06-i 07-a … in order. After each wave: scars (plate-read every real-word/numeral row) → `tokenfix.tsv` → `vote.py SLUG p p` (FOREGROUND) → `relatin.py SLUG --also <ids>`; ledger rows → LEDGER.md; every ~2 briefs run the connective + ledger agents (WAVE-PROMPTS.md; `_connectives/extract.py W ids`, `_connectives/apply.py W`; ledger note changes applied by script).
@@ -82,8 +82,8 @@ Plate 1.03M · scars 0.21M (Sonnet) · side-notes 0.66M (Sonnet) · 01-a 0.11M +
 
 ## ⏸ Pause state (2026-10-08) — where to pick up
 - **Translated and per-wave checked through 11-d** (scars, connectives, ledger all closed). **11-e … 11-g:** translated, scars fixed + relatin'd, glossary ruled, ledger rows filed — still owed: **connectives (11-e … 11-g)** and **ledger P11b … P11g** (13 + 16 = 29 rows; split in two runs).
-- **Next translation:** `.venv/bin/python scripts/w3/brief.py potestate-pape 11-h 11-i 11-j` → then 11-k 11-l 11-m, 12-a …, comp-a, comp-b (26 chunks left: 11-h … 11-m, 12-a … 12-u?, comp-a, comp-b — `ls chunks/potestate-pape/` for the list).
-- **Cost:** ≈14.5–15.5M so far (this session: ≈5.4M in agents + the coordinator, for 48 chunks and their checks). Remaining 26 chunks ≈ 4.5–5M → volume ≈ 19–20M, well over the 12–13M estimate. Say so to Wilson before resuming.
+- **Next translation:** `.venv/bin/python scripts/w3/brief.py potestate-pape 11-h 11-i 11-j` → then 11-k 11-l 11-m, 12-a …, comp-a, comp-b (29 chunks left: 11-h … 11-m, 12-a … 12-u, comp-a, comp-b).
+- **Cost:** ≈14.5–15.5M so far (this session: ≈5.4M in agents + the coordinator, for 48 chunks and their checks). Remaining 29 chunks ≈ 5.5–6M → volume ≈ 21–22M, well over the 12–13M estimate. Say so to Wilson before resuming.
 - Committed locally; **NOT pushed** (push is Wilson's per-action OK). Site not built or deployed for this volume.
 - **FitzRalph *Summa* 1512 now complete on disk (2026-10-08):** `sources/fitzralph-summa-1512-p201-363.pdf` (164 pp. incl. cover; PDF page = scan page − 199; scan p. 201 = fol. XCVII r). With `-p001-100` and `-p101-200` the whole print is local (gitignored). Wyclif's "II.4" (P01a-4, P02c-1) and other untraced FitzRalph rows can now be tried in books XI ff.
 
