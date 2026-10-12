@@ -52,12 +52,12 @@ The fifth vestment is the superhumeral,[^18] which in Hebrew is called ephod, li
 ## Notes
 
 [^1]: **T.** The print's *reticulatam* (so on the plate) agrees with nothing in the sentence (*zona*, *pellis*, *tunica* are nominative); we translate as if *reticulata*.
-[^2]: **T.** The print reads *tinccionem*, "dyeing", which does not suit a girdle that keeps chastity from being "loosened" (*dissolvatur*); we translate *cinccionem*, "girding" (our emendation; *t* and *c* are readily confused). Loserth italicises 279.18–27 (*stricta tunica … iacincto et cocco*) as a quotation; its source is not given (to be checked, LEDGER P11e-1).
+[^2]: **T.** The print reads *tinccionem*, "dyeing", which does not suit a girdle that keeps chastity from being "loosened" (*dissolvatur*); we translate *cinccionem*, "girding" (our emendation; *t* and *c* are readily confused). Loserth italicises 279.18–27 (*stricta tunica … iacincto et cocco*) as a quotation but gives no reference. It is Hugh of St Victor, *De sacramentis* II.4.3 (PL 176, 434C): *tunica linea circa renes fortiter astringitur, ut castitas sacerdotis nullo incentivorum aestu dissolvatur*. Hugh's *astringitur* supports *cinccionem* (LEDGER P11e-1).
 [^3]: **S.** The four-coloured girdle is Exod. 28:39 and 39:28 (Vulgate 39:28 *cingulum vero de bysso retorta, hyacintho, purpura, ac vermiculo bis tincto*), not ch. 27; the words given are not the Vulgate's. Chapter numbers in references are Wyclif's, verse numbers Loserth's.
 [^4]: **S.** Apoc. 14:4 (DR); the print has "XIV, 1".
-[^5]: **T.** The print reads *electorum* (and at 280.25 *electa in mixtis*), both confirmed on the plate; neither construes. The pairing that follows (linen with earth, purple with fire, violet with water, scarlet with air) and *elementi* at 280.32 require *elementorum*, *elementa* (our emendation, both places).
+[^5]: **T.** The print reads *electorum* (and at 280.25 *electa in mixtis*), both confirmed on the plate; neither construes. The pairing that follows (linen with earth, purple with fire, violet with water, scarlet with air) and *elementi* at 280.32 require *elementorum*, *elementa* (our emendation, both places); Hugh of St Victor, whom Wyclif follows here, refers the colours *ad quatuor elementa* (*De sacr.* II.4.3, PL 176, 434).
 [^6]: **C.** The plate has a comma after *virtutes* (279.34), so *cum bissus* continues the sentence: "since". *Terre admodo* is taken as *ad modum terre*, "after the manner of earth".
-[^7]: **S.** Aristotle, *Nic. Eth.* 1.10, 1100b21–22, the good man as "four-square without reproach" (to be checked, LEDGER P11e-2). Loserth notes the same example in *De civili dominio* I, 54, l. 26 (LEDGER P11e-3).
+[^7]: **S.** Aristotle, *Nic. Eth.* 1.10, 1100b21–22, the good man as "four-square without reproach" (LEDGER P11e-2). Loserth notes the same example in *De civili dominio* I, 54, l. 26 (LEDGER P11e-3).
 [^8]: **S.** Loserth refers to Prov. 17:3 ("gold in the furnace", DR); the wording is nearer Ecclus. 2:5, "in the furnace of humiliation" (LEDGER P11e-4).
 [^9]: **C.** *Tincti fuerint* has the sanguine (*sanguineis*) as its subject. *Penalis*, the adjective beside *penalitas* "hardship", is rendered "hard": Christ's life of hardship.
 [^10]: **C.** The plate reads *moribus*, "habits [of conduct]"; we take it forward, to the four practices of continence set out at 281.1–4. *Humoribus* would make it point back to the humours; the print is kept.
@@ -65,10 +65,10 @@ The fifth vestment is the superhumeral,[^18] which in Hebrew is called ephod, li
 [^12]: **G.** *Conversacio* here is converse, dealings with women, not the priest's "manner of life" of 279.25.
 [^13]: **T.** *Profugienda* is read as two words, *pro fugienda*; "is" is supplied, the sentence having no verb.
 [^14]: **C.** *Servando* has no expressed subject: the old priests kept conjugal chastity at all times, and the word of God required a singular chastity in addition while they ministered.
-[^15]: **S.** Loserth italicises 281.19–282.2 and refers to Hugh of St Victor, *De sacramentis* ("l. c., p. 460"), "very loosely quoted" (LEDGER P11e-5).
+[^15]: **S.** Loserth italicises 281.19–282.2 and refers to Hugh of St Victor, *De sacramentis* ("l. c., p. 460", the Mainz 1617 *Opera* III; II.4.4, PL 176, 434D–435B), "very loosely quoted" (LEDGER P11e-5).
 [^16]: **S.** Matt. 13:52, "who bringeth forth out of his treasure new things and old" (DR), said there of the scribe instructed in the kingdom.
 [^17]: **S.** Wyclif's form; the Vulgate reads *Nostra autem conversatio in caelis est*, DR "But our conversation is in heaven". *Conversacio* keeps the glossary's "manner of life".
-[^18]: **G.** *Superhumerale* is the Vulgate's word for the ephod (DR "ephod"); "superhumeral" keeps Wyclif's word visible, as he gives *ephot* beside it. The two onyx stones are Exod. 28:9–12.
+[^18]: **G.** *Superhumerale* is the Vulgate's word for the ephod (DR "ephod"); "superhumeral" keeps Wyclif's word visible, as he gives *ephot* beside it. The two onyx stones are Exod. 28:9–12. Loserth marks no quotation, but 282.3–33 (the inner tunic and the ephod) follows Hugh of St Victor, *De sacramentis* II.4.5–6 (PL 176, 435) closely, as the rest of this account of the vestments does.
 [^19]: **T.** *Pilis*, "hairs, strands"; *filis*, "threads" (cf. *filis iacinctivis*, 285.5), may be the reading.
 [^20]: **C.** *Vere* may stand for *vero*, "but in the time of grace"; the print gives "true grace".
 

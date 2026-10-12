@@ -599,7 +599,7 @@ otherwise.
 | discrasia | distemper | Physicians' term. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 223.1). |
 | media (of an argument) | middle terms | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 222.20). |
 | policia | polity | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 174.30). |
-| carismata | charisms | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 176.1). |
+| carismata; carisma | CONTEXTUAL: charisms / chrism | "Charisms" (gifts; *Pot. pape* 176.1). Singular *misticum carisma* in Augustine's sense of the anointing that names Christians (*chrisma*, *Pot. pape* 312.16) "chrism", with a T note. Ruled 2026-10-08; CONTEXTUAL 2026-10-12 (coordinator, delegated). |
 | primicia (virtutum) | being first (in the virtues) | Kept apart from *primatus* "primacy" and *primitas* "firstness". Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 228.33). |
 | bipapalis | two-pope | Of the church under two popes (1378). Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 234.30). |
 | defidare | distrust | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 233.1). |
@@ -637,3 +637,7 @@ otherwise.
 | difformitas; difformis | difformity; difform | Paired against *uniformitas*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 297.2, 297.10). |
 | archiprepositus | arch-superior | Formed on *prepositi* "superiors". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 300.17). |
 | correptibilis | open to reproof | Beside *corripere* "reprove". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 301.3). |
+| potencia ordinata | ordained power | Pair of *potencia absoluta* "absolute power". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 308.11). |
+| necessarioritas | greater necessity | Non-classical comparative abstract. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 308.1). |
+| inhabilitas | lack of qualification | Beside *inhabilis* "unqualified". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 316.9). |
+| vita suffraganea | the suffragan life | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 313.21). |

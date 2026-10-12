@@ -59,13 +59,13 @@ Hence the staff signifies the shepherd's office of driving and catching the dise
 
 ## Notes
 
-[^1]: **G.** *Summus pontifex*, here the high priest of the old law ("high priest", as GLOSSARY *summi pontifices* for the Jewish priesthood); it is the phrase Wyclif uses of the pope ("highest pontiff"), and the parallel is his point. Loserth refers to Hugh of St Victor, *De sacramentis* II, p. 4, c. 9 ff., for the six vestments that follow (LEDGER P11g-1).
+[^1]: **G.** *Summus pontifex*, here the high priest of the old law ("high priest", as GLOSSARY *summi pontifices* for the Jewish priesthood); it is the phrase Wyclif uses of the pope ("highest pontiff"), and the parallel is his point. Loserth refers to Hugh of St Victor, *De sacramentis* II, p. 4, c. 9 ff. (PL 176, 437–438; stole, chasuble, maniple, dalmatic), for the vestments that follow (LEDGER P11g-1).
 [^2]: **R.** The girdle, third in the list, receives no exposition: after the alb the text passes to the maniple as "fourth". A's margin at 287.11: *Estimo quod scriptor omisit misticacionem de zona*, "I think the scribe left out the mystical reading of the girdle."
 [^3]: **S.** Rom. 8:15 ("the spirit of bondage", DR) and Gal. 4:31 ("by the freedom wherewith Christ has made us free", DR).
 [^4]: **C.** *Longenimitatis* (B *longanimitas*) is taken as a genitive of manner with *sufferendum*; it could also go with *Domini*, "the yoke of the Lord of long-suffering". Matt. 11:29: "Take up my yoke upon you" (DR).
 [^5]: **S.** 2 Cor. 6:7 (DR). The taking up of the cross is Luke 9:23, not Luke 4; the print's "IV" may be a misreading of IX. At 288.3 the manuscripts read *debent*, which Loserth corrects to *debet*.
 [^6]: **C.** *Fuerant … colligata* has no expressed subject: the parts of the old vestments, which Exodus fastens with rings and little chains (Exod. 28:13–14, 22–28).
-[^7]: **S.** Gregory, *Homiliae in Evangelia* 30.2: *Operatur enim magna, si est* ("for it works great things, if it is"), said of the love of God (to be checked, LEDGER P11g-2). The print's *magis* is translated; *magna* may be the reading.
+[^7]: **S.** Gregory, *Homiliae in Evangelia* 30.2 (PL 76, 1221B): *Operatur etenim magna, si est* ("for it works great things, if it is"), said of the love of God (LEDGER P11g-2). The print's *magis* is translated; *magna* may be the reading.
 [^8]: **C.** *Planeta* is both the chasuble (288.8) and a planet, a light in the sky. Loserth refers here to John 1:5 (LEDGER P11g-3); the words Wyclif gives are Matt. 5:16, "So let your light shine before men, that they may see your good works" (DR).
 [^9]: **C.** *Asperius* answers the "rough" corners of the old law above: the deacon's charity is to be more strenuous. Lawrence, the Roman deacon and martyr.
 [^10]: **T.** *Quotlibet* is Loserth's correction (codd. *Quolibet*). For *peroracionis* he suggests *preparacionis*; *perornacionis*, "adornment", would also suit. The print is translated.
