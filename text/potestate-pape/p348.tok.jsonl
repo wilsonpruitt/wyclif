@@ -1,4 +1,4 @@
-{"t": "sua;", "leaf": 409, "row": 0, "para": false, "head": false, "pos": 0}
+{"t": "sua,", "leaf": 409, "row": 0, "para": false, "head": false, "pos": 0}
 {"t": "cum", "leaf": 409, "row": 0, "para": false, "head": false, "pos": 1}
 {"t": "signo", "leaf": 409, "row": 0, "para": false, "head": false, "pos": 2}
 {"t": "ab", "leaf": 409, "row": 0, "para": false, "head": false, "pos": 3}
@@ -89,7 +89,7 @@
 {"t": "signum", "leaf": 409, "row": 13, "para": false, "head": false, "pos": 88}
 {"t": "potissimum", "leaf": 409, "row": 13, "para": false, "head": false, "pos": 89}
 {"t": "Antichristi.", "leaf": 409, "row": 13, "para": false, "head": false, "pos": 90}
-{"t": "Item;", "leaf": 409, "row": 14, "para": false, "head": false, "pos": 91}
+{"t": "Item,", "leaf": 409, "row": 14, "para": false, "head": false, "pos": 91}
 {"t": "est", "leaf": 409, "row": 14, "para": false, "head": false, "pos": 92}
 {"t": "valde", "leaf": 409, "row": 14, "para": false, "head": false, "pos": 93}
 {"t": "possibile", "leaf": 409, "row": 14, "para": false, "head": false, "pos": 94}
@@ -164,6 +164,7 @@
 {"t": "mediocriter", "leaf": 409, "row": 24, "para": false, "head": false, "pos": 163}
 {"t": "peccat,", "leaf": 409, "row": 24, "para": false, "head": false, "pos": 164}
 {"t": "qui", "leaf": 409, "row": 24, "para": false, "head": false, "pos": 165}
+{"t": "maiori", "leaf": 409, "row": 24, "para": false, "head": false, "pos": 165}
 {"t": "bono", "leaf": 409, "row": 25, "para": false, "head": false, "pos": 166}
 {"t": "postposito", "leaf": 409, "row": 25, "para": false, "head": false, "pos": 167}
 {"t": "eligit", "leaf": 409, "row": 25, "para": false, "head": false, "pos": 168}

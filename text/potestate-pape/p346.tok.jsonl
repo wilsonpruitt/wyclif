@@ -104,7 +104,7 @@
 {"t": "statueret", "leaf": 407, "row": 14, "para": false, "head": false, "pos": 103}
 {"t": "legem", "leaf": 407, "row": 15, "para": false, "head": false, "pos": 104}
 {"t": "iniustam", "leaf": 407, "row": 15, "para": false, "head": false, "pos": 105}
-{"t": "vei", "leaf": 407, "row": 15, "para": false, "head": false, "pos": 106}
+{"t": "vel", "leaf": 407, "row": 15, "para": false, "head": false, "pos": 106}
 {"t": "committeret", "leaf": 407, "row": 15, "para": false, "head": false, "pos": 107}
 {"t": "peccatum", "leaf": 407, "row": 15, "para": false, "head": false, "pos": 108}
 {"t": "eciam", "leaf": 407, "row": 15, "para": false, "head": false, "pos": 109}
@@ -121,8 +121,7 @@
 {"t": "quo", "leaf": 407, "row": 17, "para": false, "head": false, "pos": 120}
 {"t": "Papa", "leaf": 407, "row": 17, "para": false, "head": false, "pos": 121}
 {"t": "hoc", "leaf": 407, "row": 17, "para": false, "head": false, "pos": 122}
-{"t": "sta", "leaf": 407, "row": 17, "para": false, "head": false, "pos": 123}
-{"t": "tuit", "leaf": 407, "row": 17, "para": false, "head": false, "pos": 124}
+{"t": "statuit", "leaf": 407, "row": 17, "para": false, "head": false, "pos": 123}
 {"t": "eciam", "leaf": 407, "row": 18, "para": false, "head": false, "pos": 125}
 {"t": "contra", "leaf": 407, "row": 18, "para": false, "head": false, "pos": 126}
 {"t": "decretum", "leaf": 407, "row": 18, "para": false, "head": false, "pos": 127}

@@ -656,3 +656,11 @@ otherwise.
 | sophisticacio | sophistry | Noun beside *sophisticare*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 337.25). |
 | procuratorium | proctor's mandate | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 336.11). |
 | patronus (a saint) | patron | A second sense beside the benefice row; untagged. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 337.17–19). |
+| spissius (vivere) | more closely | Of living to a rule. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 338.13). |
+| evangelizans | preacher of the gospel | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 12-g). |
+| prepositus (participle of *preponere*) | the one preferred | CONTEXTUAL beside *prepositi* "superiors" (the noun); untagged. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 12-h). |
+| capitalis eleccio | the chapter's election | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 12-h). |
+| gracia (papal provision) | grace | The papal grant of a benefice; untagged. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 12-h). |
+| persona populi | the person of the people | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 347.10). |
+| dominativa forma | lordly form | After *potestas dominativa*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 349.4). |
+| pagina (of a law) | page | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 349.13). |

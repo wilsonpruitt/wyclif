@@ -1417,3 +1417,11 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | P12f-2 | potestate-pape-12-f / n9 | Augustine's harmonizing rule, *De consensu evangelistarum* | to-verify | no passage named |
 | P12f-3 | potestate-pape-12-f / n11 | *precium seminis* = bishops' revenue from fines on clerical unchastity | to-verify | our construal |
 | P12f-4 | potestate-pape-12-f / n14 | *sors Domini* = the clergy as the Lord's lot, Jerome *Ep.* 52.5 | to-verify | from memory |
+| P12g-1 | potestate-pape-12-g / n2 | "God rewards adverbs" maxim, source | to-verify | from memory; locate source |
+| P12g-2 | potestate-pape-12-g / n15 | Chrysostom: prelates are the stomach and cook of the church's body | to-verify | no Loserth reference; locate |
+| P12h-1 | potestate-pape-12-h / n2 | Decretum D.12 c.12 *Omnia* (our modern form) | editor | Loserth 342.24 |
+| P12h-2 | potestate-pape-12-h / n2 | Augustine Ep. 55 to Januarius | to-verify | from memory |
+| P12h-3 | potestate-pape-12-h / n3 | Jerome Ep. 77 to Oceanus, PL 22.691 (Wyclif says Ep. 118 to Domitianus) | editor | Loserth 342.29 |
+| P12h-4 | potestate-pape-12-h / n6 | Bernard, *De consideratione* 1.4 ("Opp. I, 732") | editor | check against PL 182 |
+| P12h-5 | potestate-pape-12-h / n13 | *Liber Sextus* 1.3.14 *Duobus* (Wyclif says tit. II) | editor | Loserth 344.30 |
+| P12i-1 | potestate-pape-12-i / n13 | Decretum, *De consecratione* D.5 c.24 (our modern form) | editor | Loserth 348.24 |

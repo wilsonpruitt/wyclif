@@ -101,7 +101,7 @@
 {"t": "per", "leaf": 401, "row": 14, "para": false, "head": false, "pos": 100}
 {"t": "se", "leaf": 401, "row": 14, "para": false, "head": false, "pos": 101}
 {"t": "gigneret", "leaf": 401, "row": 14, "para": false, "head": false, "pos": 102}
-{"t": "copiosius?", "leaf": 401, "row": 14, "para": false, "head": false, "pos": 103}
+{"t": "copiosius", "leaf": 401, "row": 14, "para": false, "head": false, "pos": 103}
 {"t": "caritatem", "leaf": 401, "row": 15, "para": false, "head": false, "pos": 104}
 {"t": "in", "leaf": 401, "row": 15, "para": false, "head": false, "pos": 105}
 {"t": "populo", "leaf": 401, "row": 15, "para": false, "head": false, "pos": 106}
@@ -130,8 +130,7 @@
 {"t": "bona", "leaf": 401, "row": 18, "para": false, "head": false, "pos": 129}
 {"t": "nature", "leaf": 401, "row": 18, "para": false, "head": false, "pos": 130}
 {"t": "prebere", "leaf": 401, "row": 18, "para": false, "head": false, "pos": 131}
-{"t": "per", "leaf": 401, "row": 18, "para": false, "head": false, "pos": 132}
-{"t": "cucienti", "leaf": 401, "row": 19, "para": false, "head": false, "pos": 133}
+{"t": "percucienti", "leaf": 401, "row": 18, "para": false, "head": false, "pos": 132}
 {"t": "maxillam", "leaf": 401, "row": 19, "para": false, "head": false, "pos": 134}
 {"t": "sinistram", "leaf": 401, "row": 19, "para": false, "head": false, "pos": 135}
 {"t": "Matth.", "leaf": 401, "row": 19, "para": false, "head": false, "pos": 136}
