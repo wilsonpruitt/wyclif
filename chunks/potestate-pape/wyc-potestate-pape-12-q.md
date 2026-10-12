@@ -54,14 +54,14 @@ As to the privileges of ornaments, therefore, a Christian ought to regard them a
 ## Notes
 
 [^1]: **C.** "This saint" is the author of *On the Twelve Degrees of Abuses*, quoted as Augustine at the end of the preceding part; the kingdom as one body is Wyclif's summary of him, not a quotation.
-[^2]: **S.** Pseudo-Chrysostom, *Opus imperfectum in Matthaeum*, hom. 31; Loserth gives no reference, to be checked (LEDGER P12q-1).
+[^2]: **S.** Pseudo-Chrysostom, *Opus imperfectum in Matthaeum*, hom. 38 in Migne (PG 56, 839–840, on Matt. 21:12), which Wyclif numbers 31: the priests as the heart and stomach of the church, which digest the word and pass it to the whole body. Loserth gives no reference (LEDGER P12q-1).
 [^3]: **C.** *Talis est capitalis in heresi talis regis*: we take *talis regis* as the king just described, who exalts unworthy bishops, and *capitalis* as "chief" in that heresy. *Talis legis* ("of such a law") would read more easily, but there is no variant; we translate the print.
 [^4]: **S.** Decretum C. 25 q. 1 c. 6 (*Sunt quidam*), with the ordinary gloss; Loserth cites the Venice 1595 edition, I, p. 1347, at the gloss *Papa utrum possit contra Apostolum dispensare* (the modern form is ours; LEDGER P12q-2). Loserth's side-note: "Accursed error in the Gloss."
-[^5]: **S.** Augustine, *De civitate Dei* 20.24 as Wyclif cites it (Loserth: Aug. *Opp.* VII, 606; LEDGER P12q-3), on the fourth kingdom of Daniel. The subject of *destrueret* is the one who hinders the king's power, set beside Antichrist.
+[^5]: **S.** Augustine, *De civitate Dei* 20.23 (PL 41, 694–695), on the fourth kingdom of Daniel; Wyclif writes XXIV (Loserth: Aug. *Opp.* VII, 606; LEDGER P12q-3). The subject of *destrueret* is the one who hinders the king's power, set beside Antichrist.
 [^6]: **C.** *Pax populorum dissolvitur* recalls the first of the twelve evils of the unjust king (*pax sepe ipsorum rumpitur*, 376). The argument: the king's failure breaks the peace, but that failure springs from the clergy's.
 [^7]: **S.** Job 9:4, DR "who hath resisted him, and hath had peace?"; Wyclif reads *sibi* for the Vulgate *ei*.
-[^8]: **R.** Durham, the see on the Scottish border; Loserth compares *De ecclesia* p. 219 (LEDGER P12q-4). The observer is not named.
-[^9]: **C.** *Consensu sextuplici*: the sixfold consent, the ways in which one consents to another's sin, which Wyclif sets out elsewhere (to be checked, LEDGER P12q-5). *Irregulariter* here is "against the rule", not the canonical impediment (*irregularitas*).
+[^8]: **R.** Durham, the see on the Scottish border; Loserth compares *De ecclesia* p. 217, the robbing of cardinals in the county of Durham under Edward II (LEDGER P12q-4). The observer is not named.
+[^9]: **C.** *Consensu sextuplici*: the sixfold consent, the ways in which one consents to another's sin, named in the memorial verse *Consentit operans, defendens, consilium dans, / Ac auctorizans, non iuvans nec reprehendens*, which Wyclif quotes in *Sermones* IV, 359 (LEDGER P12q-5). *Irregulariter* here is "against the rule", not the canonical impediment (*irregularitas*).
 [^10]: **S.** Dan. 2, the statue of the four kingdoms struck by the stone; Wyclif gives the chapter only.
 [^11]: **S.** Jer. 27:2 (DR "Make thee bands, and chains: and thou shalt put them on thy neck") and 28:10–13, where Hananias breaks the yoke and the Lord answers "Thou hast broken chains of wood, and thou shalt make for them chains of iron". Wyclif has one chain, in the singular.
 [^12]: **C/S.** *Fecisse* has no governing verb in its own sentence; we supply *legitur* from the sentence before. The quotation is 3 Kings 22:11 (2 Par. 18:10 is nearly the same), in DR; Wyclif adds *Deus* ("the Lord God").
