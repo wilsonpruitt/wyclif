@@ -57,9 +57,9 @@ Likewise, every such pope is a most lying and blasphemous hypocrite, which the f
 
 ## Notes
 
-[^1]: **S.** Sergius: the monk whom medieval polemic made the teacher of Muhammad (the Bahira legend); the identification is ours, to be checked (LEDGER P12d-1). Each pair answers the inference from one to all: one wicked holder of an office does not make every holder of it wicked.
+[^1]: **S.** Sergius: the monk whom medieval polemic made the teacher of Muhammad (the Bahira legend); so Wyclif himself below, 374.28–30, where Muhammad's two accomplices are a Jew learned in the Old Law and 'Sergius, a crafty Christian monk' (LEDGER P12d-1). Each pair answers the inference from one to all: one wicked holder of an office does not make every holder of it wicked.
 [^2]: **C.** *Stat* with the infinitive is the schoolmen's "it can stand", i.e. it is consistent. *Media opinabilia* are matters between what faith requires and what it forbids.
-[^3]: **C.** *Suam crebram decepcionem*: his being often deceived, not his deceiving. The canonists' admission that the church's judgement "deceives and is deceived" is probably meant; to be checked (LEDGER P12d-2).
+[^3]: **C.** *Suam crebram decepcionem*: his being often deceived, not his deceiving. Probably the papal decretal *A nobis* (X 5.39.28, Innocent III): the church's judgement 'follows opinion, which often happens both to deceive and to be deceived' (LEDGER P12d-2).
 [^4]: **C.** *Potissimus*: "foremost", the superlative of *potis*; the chapter's *pocior Antichristus* (331.12) is its comparative, "greater".
 [^5]: **C.** The minor premiss says "a deeper Antichrist" where the major's middle term ("deeper in hell") is expected; perhaps *in inferno* is understood, perhaps lost. We translate the print.
 [^6]: **C.** *Quanta est gravedo peccati est ipsa contra veritatem*: the measure of a sin's gravity is how far it is against the truth; since the truth is Christ, the graver sinner is the more anti-Christ.

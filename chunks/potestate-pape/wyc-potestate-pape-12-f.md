@@ -36,18 +36,18 @@ And these two parts can be told apart chiefly by this, that the [caesarean clerg
 
 [^1]: **T.** *Defendendis*: Loserth's emendation; the manuscripts read *defendendum* (333.9). We translate the print. **C.** The clergy of Christ's *ostendendum* (333.12), left by Loserth, answers it: both are taken as "for the defending / showing forth of".
 [^2]: **S.** Ephesians 5:5. **C.** *Infidelis hereticus* and *hereticus infidelis*: the two nouns in apposition, the order reversed in the second.
-[^3]: **S.** The maxim that virtue is concerned with the difficult is Aristotle's (*Nicomachean Ethics* 2.3, 1105a9); to be checked (LEDGER P12f-1).
+[^3]: **S.** The maxim that virtue is concerned with the difficult is Aristotle's (*Nicomachean Ethics* 2.3, 1105a9: "art and virtue are always concerned with what is harder") (LEDGER P12f-1).
 [^4]: **C.** *Sunt Antichristi clericis aliena*: the print (confirmed on the plate) is construed "are Antichrist's [things] and foreign to clerics". The sense would run more smoothly with *Christi clericis*, "foreign to the clerics of Christ"; we translate the print.
 [^5]: **S.** Acts 1:18; Wyclif omits the Vulgate's *Et … quidem* (DR "And he indeed").
 [^6]: **S.** The thirty pieces are Matthew 26:15; the purchase of the field by the chief priests is Matthew 27:3–8, which Wyclif cites as ch. 26.
 [^7]: **G.** *Sessinam*: seisin, the feudal possession that perfects title (Loserth, after Matthew: "an English law term"). *Se suspendit* (Matthew 27:5) is "hanged himself"; here *suspendere* carries no pun. **C.** *Possessionem nuncupative dictam*: possession in name only, before the price was paid. **S.** "The theft of the common purse": John 12:6.
 [^8]: **S.** "Does his deeds quickly" alludes to John 13:27, "That which thou dost, do quickly."
-[^9]: **S.** Augustine, *De consensu evangelistarum*, on harmonizing divergent gospel narratives; no passage named, to be checked (LEDGER P12f-2). Acts is called "Peter's gospel" because Peter speaks the verse.
+[^9]: **S.** Augustine, *De consensu evangelistarum*, whose rule is that one evangelist's omitting or telling otherwise what another says is no contradiction, so long as the truth of the facts is the same (e.g. II.19.47; III.17) (LEDGER P12f-2). Acts is called "Peter's gospel" because Peter speaks the verse.
 [^10]: **S.** Matthew 27:6–7 (DR). **C.** *Licet effusi licite*: "though [the blood was] lawfully shed", their own judgement of Christ's death.
-[^11]: **S.** Matthew 27:6 ("to put them into the corbona"). **C.** *Precium seminis*: the price of seed, i.e. the money the bishops took from fines on clerical unchastity, set against the "price of blood". The reference to such fines is our construal, to be checked (LEDGER P12f-3).
+[^11]: **S.** Matthew 27:6 ("to put them into the corbona"). **C.** *Precium seminis*: the price of seed, i.e. money the bishops take on account of sins of the flesh, set against the "price of blood". What money is meant is not traced: fines or commuted penances for unchastity, or fees for reconciling a church polluted "by blood or seed" (Wyclif's own pairing, *Sermones* IV, 304) (LEDGER P12f-3).
 [^12]: **C.** *Quemque autem*: taken as "someone, again" (*quemquam*, *quendam*); the apparatus at 335.26 (B) is cut off in the scan.
 [^13]: **S.** 2 Timothy 3:1 ("dangerous times") and Matthew 24:21 ("such as hath not been from the beginning of the world"), by allusion.
-[^14]: **S.** *Sors Domini*: the clergy as the Lord's lot (*kleros*), whose portion is the Lord (Numbers 18:20; Deuteronomy 18:2); the derivation is Jerome's, *Ep.* 52.5, to be checked (LEDGER P12f-4).
+[^14]: **S.** *Sors Domini*: the clergy as the Lord's lot (*kleros*), whose portion is the Lord (Numbers 18:20; Deuteronomy 18:2); the derivation is Jerome's, *Ep.* 52.5 (LEDGER P12f-4).
 [^15]: **C.** *Tercia pars stricta*: "a strait third part", i.e. a narrower portion still; the sense of "third" is not certain. It answers "a third part of the lay estates" below, the share claimed for the clergy.
 [^16]: **C.** *Tradicionibus onustatis*: "burdensome traditions" (as if *onustis*, "laden"), ironic: Christ's ordinances may be dispensed from, men's donations may not. The second *sed* corrects upward ("indeed"); the third is adversative.
 [^17]: **C.** The argument parodied is the bishops' at 333.22–26: one can avoid the danger, therefore one ought to take up the life. *Sic valet*: "so it holds", introducing the inference as the cloisterer would draw it.
