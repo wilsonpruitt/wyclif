@@ -45,7 +45,7 @@ And it is clear how bare this [quibble]{g:argucia} is as to matter and form. For
 
 > [p. 264] Sed ista argucia nimis claudicat, cum oporteret dicere quod omnis Christi vicarius sit impeccabilis sicut Christus: et sic vere concluditur quod nec papa nec alius debet corripi vel corrigi, in quantum sequitur caput Christum.
 
-But this quibble limps badly, since one would have to say that every [vicar of Christ]{g:vicarius-christi} is impeccable as Christ is; and so it is truly [inferred]{g:concludere} that neither the pope nor another ought to be reproved or corrected in so far as he follows Christ the [head]{g:caput}.[^16]
+But this quibble limps [exceedingly]{g:nimis}, since one would have to say that every [vicar of Christ]{g:vicarius-christi} is impeccable as Christ is; and so it is truly [inferred]{g:concludere} that neither the pope nor another ought to be reproved or corrected in so far as he follows Christ the [head]{g:caput}.[^16]
 
 ## ¶6 · 264.17–264.21
 
@@ -63,7 +63,7 @@ But it is evident that that word of the bishops cannot [dispose of]{g:tollere} t
 
 > [p. 265] Et quantum ad dictum episcoporum de correpcione Marcellini, dicitur quod valde superfluum foret eos ipsum in tali casu corripere, quia perceperunt ex eius contricione quod fuit plene correptus a Domino, Ideo nimis levis evidencia foret ex isto facto concludere quod nullus papa debet in aliquo casu a fratribus reprehendi, ut patet ex libro beati Bernhardi ad papam Eugenium. Mille autem sunt blasfemie cum nonnulla intronizacione pape cesarei introducte.
 
-And as to the saying of the bishops about the reproof of Marcellinus, [the answer is]{g:dicitur} that it would have been quite superfluous for them to reprove him in such a case, because they perceived from his contrition that he had been fully reproved by the Lord. Therefore it would be too light evidence to infer from this fact that no pope ought in any case to be rebuked by his brothers, as is clear from the book of blessed Bernard to Pope Eugenius.[^20] And there are a thousand blasphemies brought in with many an enthronement of a caesarean pope.[^21]
+And as to the saying of the bishops about the reproof of Marcellinus, [the answer is]{g:dicitur} that it would have been quite superfluous for them to reprove him in such a case, because they perceived from his contrition that he had been fully reproved by the Lord. Therefore it would be exceedingly light evidence to infer from this fact that no pope ought in any case to be rebuked by his brothers, as is clear from the book of blessed Bernard to Pope Eugenius.[^20] And there are a thousand blasphemies brought in with many an enthronement of a caesarean pope.[^21]
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 

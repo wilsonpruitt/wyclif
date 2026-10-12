@@ -165,6 +165,13 @@ deferred ("not local" ledger rows), and italics were never captured (52 of 174 r
 4b/5/8 now make those gates; with them the close-out should be the targeted review alone (~1.8M for a
 volume this size, ~3K/page).
 
+**MEASURED, *De potestate pape* (2026-10-07 … 10-12), 406 pp., 107 chunks:** stages 1–6 2.5M · translation +
+per-wave gates (scars, connectives, ledger verified each wave) ≈18M · close-out ≈1.25M: four-class review of
+the 16 longest chunks 0.67M Opus (3 errors, 42 weak, 31 style), applying it 0.33M + *probabiliter/nimis*
+conform 0.10M (Sonnet), coordinator incl. 12 plate reads ≈0.15M. **Volume ≈21.8M (~54K/page).** With the
+per-wave gates the close-out came in at the ~1.8M forecast's lower end and needed no ledger or connective pass;
+the per-wave ledger agents (130–270K each) were the overrun against the 12–13M estimate.
+
 ### Superseded estimate (2026-09-28)
 
 The Latin is no longer established by reading every page image. The vote settles ~99.6% of words

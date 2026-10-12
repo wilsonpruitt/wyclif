@@ -258,7 +258,7 @@ otherwise.
 | viacio | wayfaring | The state of the *viator*. Ruled 2026-10-02 (42.30). |
 | citra Christum | short of Christ | As *citra fidem*. Ruled 2026-10-02 (45.8). |
 | color (*non est color*) | colour (a plausible ground) | The period sense, as in "colour of title"; never "pretext". A **C** note at the first occurrence in each chunk. Ruled 2026-10-02 (Wilson; *Eccl.* 21.18, 23.5, 23.7). |
-| fucus | disguise | Recurs of hypocrisy. Ruled 2026-10-02 (51.23, 53.24). |
+| fucus | disguise; pretence | CONTEXTUAL. "Disguise" of hypocrisy, its recurring use (*Eccl.* 51.23, 53.24). "Pretence" of a specious argument (*ex isto fuco concluditur*, *Pot. pape* 12-f). Ruled 2026-10-02; merged with the *Pot. pape* row 2026-10-12. |
 | glosa | gloss | The noun beside *glosare*. Ruled 2026-10-02 (52.10). |
 | vocatus (*vocata bona, vocata ecclesia*) | so-called | Ruled 2026-10-02 (55.6, 62.7). |
 | libertas arbitrii | freedom of choice | Beside *liberum arbitrium*. Ruled 2026-10-02 (60.18). |
@@ -406,7 +406,7 @@ otherwise.
 | monstracio | muster | Ruled 2026-10-02 (*Eccl.* 16, 384.11). |
 | legalia | the legal precepts | Of the old law, beside *cerimonialia* "ceremonial precepts". Ruled 2026-10-02 (*Eccl.* 17, 389.2–3). |
 | raciuncula | little argument | The opponent's ten arguments. Ruled 2026-10-02 (*Eccl.* 17, 398.15). |
-| signabile | signifiable | Ruled 2026-10-02 (*Eccl.* 17, 398.29). |
+| signabile | signifiable; assignable | CONTEXTUAL. The logical noun (*omne signabile*, what can be signified) is "signifiable" (*Eccl.* 17, 398.29). As an adjective on a degree, instant or step (*in quocumque gradu/profectu signabili*) it is "assignable", any one could name (*Pot. pape* 11-j, 11-k). Ruled 2026-10-02; extended 2026-10-12 (close-out R3). |
 | adequata ecclesia | the adequate church | C note at use. Ruled 2026-10-02 (*Eccl.* 17, 393). |
 | denominacio; denominare | naming; to name | The argument turns on it. Ruled 2026-10-02 (*Eccl.* 17, 391.17, 398.2). |
 | dotes (docium) beatorum | the dowries of the blessed | Ruled 2026-10-02 (*Eccl.* 17, 396.6). |
@@ -529,7 +529,7 @@ otherwise.
 | pseudochristus | false christ | Matt. 24:24 (DR "false Christs"). Ruled 2026-10-07 (*Pot. pape* 28.32). |
 | Ardmacanus; dominus Ardmacanus | Armachanus; the lord of Armagh | Richard FitzRalph. The bare name stays "Armachanus" (as in *De ecclesia*); with *dominus* "the lord of Armagh" (card). Ruled 2026-10-07. |
 | conficere | to consecrate (the eucharist) | Of the priest at the altar; otherwise "to make up, compose". Ruled 2026-10-07 (*Pot. pape* 11.20). |
-| licencia | licence | Permission granted, which Wyclif sets against *potestas*; never "power". Ruled 2026-10-07 (*Pot. pape* 41.21).|
+| licencia | licence | Permission granted; never "power". Wyclif usually sets it against *potestas*, but can also identify the two where power is defined as a grant (*illa licencia est potestas*, *Pot. pape* 21.29): render "licence" either way and let the argument show which. Ruled 2026-10-07 (*Pot. pape* 41.21); qualified 2026-10-12 (close-out R1).|
 | primatus | primacy | Peter's and the pope's; *preeminencia* stays "preeminence". Ruled 2026-10-07 (*Pot. pape* ch. 3). |
 | primitas | firstness | Being first in order, as against *primatus*. Ruled 2026-10-07 (*Pot. pape* ch. 3). |
 | auctoritas | authority | Ruled 2026-10-07 (*Pot. pape* 63.16). |
@@ -694,6 +694,7 @@ otherwise.
 | suadere | make the case | To persuade, not to prove. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 399.2). |
 | ditacio | enrichment | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 401.4). |
 | cesaree (adv.) | in caesarean fashion | After *papa cesareus*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 403.25). |
-| fucus | pretence | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 403). |
 | est dare | one may posit | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 405). |
 | insolubiliter | inextricably | Kept apart from *insolubilia* "insolubles". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 404). |
+| probabiliter | with probability; by probable argument | Scholastic: argued from probable premisses, as against demonstration; not the modern hedge "probably". Ruled 2026-10-12 (close-out R1; *Pot. pape* 52.3). |
+| nimis | exceedingly | Medieval intensive (= *valde*); "too much" only where excess is the point. Ruled 2026-10-12 (close-out R2; *Pot. pape* 169.2). |

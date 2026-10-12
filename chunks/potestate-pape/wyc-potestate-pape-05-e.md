@@ -67,7 +67,7 @@ Secondly, it is argued by appeal to the fact that many things were said and gran
 
 [^6]: **T/S.** Loserth notes *3° causat* in the manuscripts (95.3). Revelation 3:16, DR "I will begin to vomit thee out of my mouth"; the words are not quoted.
 
-[^7]: **S/R.** FitzRalph, *Summa in quaestionibus Armenorum* VII.6, as Wyclif cites it; no reference in Loserth (LEDGER P05e-1; awaiting the 1512 print, with P03a-1 and P04b-1). B spells the name *Archidmanus* (95.9). A in the margin (95.8): *Nota de duplici potestate scilicet iurisdiccionis et ordinis*, "Note on the twofold power, namely of jurisdiction and of order".
+[^7]: **S/R.** FitzRalph, *Summa in quaestionibus Armenorum* VII.6, as Wyclif cites it; no reference in Loserth (LEDGER P05e-1). The 1512 print, VII.6 (scan p. 100), distinguishes *duplicem potestatem*, of order and of rule (*ordinis … regiminis*). B spells the name *Archidmanus* (95.9). A in the margin (95.8): *Nota de duplici potestate scilicet iurisdiccionis et ordinis*, "Note on the twofold power, namely of jurisdiction and of order".
 
 [^8]: **C.** Where the objection ends is not marked; we take it to run to *vetitum*. *quod officium* is read as an interrogative, "what office", beside *quid sit … vetitum*.
 
