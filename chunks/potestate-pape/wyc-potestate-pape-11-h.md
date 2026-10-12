@@ -76,11 +76,11 @@ As to that, it is clear that it is expedient that there be a pope; but, to make 
 [^4]: **C.** *Linicio* is read as "anointing" (from *linire*, smear); *lenicio* "soothing" is possible, and *sopitur* would suit either. **S.** "Two ways": Ecclus. 2:14, "the sinner that goeth on the earth two ways".
 [^5]: **S.** Jas. 3:15, said there of wisdom (*sapientia*); Wyclif applies it to worldly prudence.
 [^6]: **T.** The print has *mulicum* (291.21; the plate confirms it), not a Latin word; we read *muli cum* "of the mule, with" (our emendation).
-[^7]: **S.** *Decretales* 1.8 (*De auctoritate et usu pallii*); Loserth gives cap. 5 and adds that the chapter is rather *Ex tuarum*, not *Ex tenore* (modern form ours; LEDGER P11h-1).
+[^7]: **S.** *Decretales* 1.8 (*De auctoritate et usu pallii*); Loserth gives cap. 5, whose incipit is *Ex tuarum tenore* (Innocent III to the archbishop of Compostela); Wyclif shortens it to *Ex tenore* (modern form ours).
 [^8]: **S.** Matt. 12:39, "an evil and adulterous generation seeketh a sign"; Wyclif plays on *signum*.
 [^9]: **C.** A retrograde verse: read word by word backwards it gives the contrary, *Sacrificabo macrum, non dabo pingue sacramentum* ("I will sacrifice a lean one, I will not give a fat sacrament"). It illustrates *perversio* as a turning of the signs backwards. Loserth prints the two lines in italic as verse.
 [^10]: **S.** 1 Cor. 10:11, "all these things happened to them in figure"; Wyclif's *quibus* takes the place of *illis*, referring to the men of the old law.
-[^11]: **S.** The weathercock as the preacher belongs to the allegories of the church building of the kind collected in Durandus, *Rationale divinorum officiorum* 1.1, to be checked (LEDGER P11h-2).
+[^11]: **S.** The weathercock as the preacher belongs to the allegories of the church building of the kind collected in Durandus, *Rationale divinorum officiorum* 1.1.22 (*Gallus supra ecclesiam positus praedicatores designat*; the cock turns against the wind as the preacher withstands the rebellious).
 [^12]: **S.** Isa. 56:10, "dumb dogs not able to bark"; Wyclif puts the plural into the singular.
 [^13]: **C.** *Necessarius* is read as the neuter comparative ("more necessary"); cf. *necessarior* at 299.13. The objector's point is that if gradation in the clergy fell, gradation among secular lords would fall still more surely.
 [^14]: **C.** *Sic sequuntur* is read "proceed in this way" (the manner of choosing ministers in the gospel); the verb may equally echo *sequentibus* ("follow"), as the next words do.

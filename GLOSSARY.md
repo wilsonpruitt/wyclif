@@ -641,3 +641,10 @@ otherwise.
 | necessarioritas | greater necessity | Non-classical comparative abstract. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 308.1). |
 | inhabilitas | lack of qualification | Beside *inhabilis* "unqualified". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 316.9). |
 | vita suffraganea | the suffragan life | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 313.21). |
+| calumpniator | challenger | Under *calumpnia* "challenge". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 323.10). |
+| pallium privilegii | cloak of privilege | Kept apart from *palliacio* "cloaking". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 12-a). |
+| sacramentum cesareum | caesarean sacrament | Ironic. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 320.23). |
+| interludium | interlude | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 322.25). |
+| refuga | deserter | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 325.27). |
+| remisse (of assent) | with slackened [assent] | Opposed to full assent in the degrees of belief. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 328.18). |
+| gradus (of belief) | degree | The four degrees of belief (*Pot. pape* 327.18 ff.). Ruled 2026-10-12 (coordinator, delegated). |

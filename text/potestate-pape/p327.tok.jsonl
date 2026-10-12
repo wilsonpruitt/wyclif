@@ -63,8 +63,8 @@
 {"t": "ipsi", "leaf": 388, "row": 9, "para": false, "head": false, "pos": 62}
 {"t": "perversi", "leaf": 388, "row": 9, "para": false, "head": false, "pos": 63}
 {"t": "sunt", "leaf": 388, "row": 9, "para": false, "head": false, "pos": 64}
-{"t": "pessimiAn-.", "leaf": 388, "row": 9, "para": false, "head": false, "pos": 65}
-{"t": "tichristi;", "leaf": 388, "row": 10, "para": false, "head": false, "pos": 66}
+{"t": "pessimi", "leaf": 388, "row": 9, "para": false, "head": false, "pos": 65}
+{"t": "Antichristi;", "leaf": 388, "row": 10, "para": false, "head": false, "pos": 66}
 {"t": "Deus", "leaf": 388, "row": 10, "para": false, "head": false, "pos": 67}
 {"t": "autem", "leaf": 388, "row": 10, "para": false, "head": false, "pos": 68}
 {"t": "secundum", "leaf": 388, "row": 10, "para": false, "head": false, "pos": 69}
@@ -83,7 +83,8 @@
 {"t": "credant", "leaf": 388, "row": 12, "para": false, "head": false, "pos": 81}
 {"t": "mendacio", "leaf": 388, "row": 12, "para": false, "head": false, "pos": 82}
 {"t": "in", "leaf": 388, "row": 12, "para": false, "head": false, "pos": 83}
-{"t": "penampeccati.", "leaf": 388, "row": 12, "para": false, "head": false, "pos": 84}
+{"t": "penam", "leaf": 388, "row": 12, "para": false, "head": false, "pos": 84}
+{"t": "peccati.", "leaf": 388, "row": 12, "para": false, "head": false, "pos": 84}
 {"t": "Quod", "leaf": 388, "row": 13, "para": false, "head": false, "pos": 85}
 {"t": "ego", "leaf": 388, "row": 13, "para": false, "head": false, "pos": 86}
 {"t": "credo", "leaf": 388, "row": 13, "para": false, "head": false, "pos": 87}
@@ -183,7 +184,7 @@
 {"t": "ad", "leaf": 388, "row": 27, "para": false, "head": false, "pos": 181}
 {"t": "credendum,", "leaf": 388, "row": 27, "para": false, "head": false, "pos": 182}
 {"t": "ut", "leaf": 388, "row": 27, "para": false, "head": false, "pos": 183}
-{"t": "m", "leaf": 388, "row": 27, "para": false, "head": false, "pos": 184}
+{"t": "in", "leaf": 388, "row": 27, "para": false, "head": false, "pos": 184}
 {"t": "gradu", "leaf": 388, "row": 28, "para": false, "head": false, "pos": 185}
 {"t": "tercio", "leaf": 388, "row": 28, "para": false, "head": false, "pos": 186}
 {"t": "aut", "leaf": 388, "row": 28, "para": false, "head": false, "pos": 187}

@@ -59,8 +59,7 @@
 {"t": "eciam", "leaf": 382, "row": 8, "para": false, "head": false, "pos": 59}
 {"t": "plus", "leaf": 382, "row": 8, "para": false, "head": false, "pos": 60}
 {"t": "tenebrosum", "leaf": 382, "row": 8, "para": false, "head": false, "pos": 61}
-{"t": "in-", "leaf": 382, "row": 8, "para": false, "head": false, "pos": 62}
-{"t": "fluere.", "leaf": 382, "row": 9, "para": false, "head": false, "pos": 63}
+{"t": "influere.", "leaf": 382, "row": 8, "para": false, "head": false, "pos": 62}
 {"t": "Nec", "leaf": 382, "row": 10, "para": true, "head": false, "pos": 64}
 {"t": "valet", "leaf": 382, "row": 10, "para": false, "head": false, "pos": 65}
 {"t": "dicere", "leaf": 382, "row": 10, "para": false, "head": false, "pos": 66}
@@ -170,8 +169,7 @@
 {"t": "porismate,", "leaf": 382, "row": 26, "para": false, "head": false, "pos": 170}
 {"t": "quod", "leaf": 382, "row": 26, "para": false, "head": false, "pos": 171}
 {"t": "post", "leaf": 382, "row": 26, "para": false, "head": false, "pos": 172}
-{"t": "do", "leaf": 382, "row": 26, "para": false, "head": false, "pos": 173}
-{"t": "tacionem", "leaf": 382, "row": 26, "para": false, "head": false, "pos": 174}
+{"t": "dotacionem", "leaf": 382, "row": 26, "para": false, "head": false, "pos": 173}
 {"t": "ecclesia", "leaf": 382, "row": 27, "para": false, "head": false, "pos": 175}
 {"t": "non", "leaf": 382, "row": 27, "para": false, "head": false, "pos": 176}
 {"t": "potest", "leaf": 382, "row": 27, "para": false, "head": false, "pos": 177}

@@ -40,19 +40,19 @@ Yet it is granted that from that, as from any evil, a certain proper benefit acc
 [^1]: **S.** Allusion to Rom. 3:8 ("let us do evil that there may come good? Whose damnation is just"), not a quotation; *absit* is Paul's formula ("God forbid", e.g. Rom. 6:2).
 [^2]: **T.** The argument requires "too diffuse and burdensome" (*nimis*); the print has *minus* "less" (the plate confirms it), translated as it stands; Loserth gives no variant.
 [^3]: **T.** At 294.26 Loserth marks *sacrum* "ita cod." (so the manuscript): he doubted the word but printed it. **C.** The construal of *expressum singulariter in usu sacrum* is uncertain; it is taken as "set out singly in a sacred usage", against the least thing expressed in the law of the Lord.
-[^4]: **S.** Decretum D.12 c.12 (*Omnia talia*), from Augustine, *Ep.* 55.19.35 to Januarius; the identification is ours, to be checked (LEDGER P11i-1). Loserth's italics bound the quotation, as here.
+[^4]: **S.** Decretum D.12 c.12 (*Omnia talia*), from Augustine, *Ep.* 55.19.35 to Januarius; the identification is ours; Wyclif's *legalibus tamen sacramentis* follows Gratian's text, where Augustine has *sarcinis*. Loserth's italics bound the quotation, as here.
 [^5]: **C.** The clause *deminuere autem libertatem … foret nota infidelitatis discipulo Antichristi* is taken as Wyclif's own judgement: to diminish the church's true liberty (Augustine's "free" religion) marks a disciple of Antichrist. It could also continue the pharisees' reasoning ("it would be, they say, a mark of unbelief"). *Vocem propriam ignorantes*: they do not know what their own name (*clericus*) means; perhaps "their own language".
 [^6]: **C.** *Machometice*, "in Mahomet's manner": Wyclif's charge that Islam forbids its law to be disputed. *Voluntas capitis*: the head is the pope.
 [^7]: **C.** *Seculares* are here the secular lords and their lawmakers (GLOSSARY *secularis*: the referent matters). *Ab ipsa* refers to *lex Dei*.
 [^8]: **C.** *Extravagantibus* plays on the *Extravagantes*, the papal decretals "wandering outside" the collections. *Suspensus* is "hanging on" the law of God, intent on it.
 [^9]: **C.** *Distincciones* may glance at the distinctions of the Decretum. *Graduacio* is rendered "gradation" (rank), not GLOSSARY's academic "graduation"; *difformitas, difformis* "difformity, difform", the want of uniformity, against *uniformitas*.
-[^10]: **S.** Paul on himself and Peter: Gal. 2:9–11 (the right hands of fellowship; Paul's resistance to Peter); the decree is not named and is to be identified (LEDGER P11i-2). "The servant … higher": cf. Matt. 23:11.
+[^10]: **S.** Paul on himself and Peter: Gal. 2:9–11 (the right hands of fellowship; Paul's resistance to Peter); the decree is not named; it is probably Decretum C.2 q.7 c.33 (Jerome: Paul rebuked Peter, knowing himself 'not unequal'; greater and less 'not by dignity but by life'), with c.37 (Peter and Paul equal in merit though different in rank). "The servant … higher": cf. Matt. 23:11.
 [^11]: **S.** Luke 10:42, "Mary hath chosen the best part".
 [^12]: **S.** Tribute to Caesar: Matt. 17:26 and 22:21. *Medius status*: the secular lords, between the clergy and the commons.
 [^13]: **C.** The two arguments are set side by side for judgement; the second is ironic (*igitur verum*).
 [^14]: **C.** *Locis a simili*: the topical place "from likeness". *Destruxerat* is pluperfect where a future perfect is meant; *membra sua* are Antichrist's own members.
 [^15]: **S.** Eph. 5:16; Loserth's reference reads "Eph. V, 10" in the OCR of the page foot.
-[^16]: **S.** The Evangelist is John: the legend that he turned rods of the woods into gold and pebbles of the shore into gems (Isidore, *De ortu et obitu patrum* 72, and the *Legenda aurea*; to be checked, LEDGER P11i-3); Loserth's italics bound the phrase as a quotation, and he refers to *De ecclesia* p. 189 and p. 81 above (LEDGER P11i-4). Simon Magus: Acts 8:18, who offered money for the apostles' power.
+[^16]: **S.** The Evangelist is John: the legend that he turned rods of the woods into gold and pebbles of the shore into gems (Isidore, *De ortu et obitu patrum* 72, PL 83, 151C, quoted in the *Legenda aurea* c. 9); Loserth's italics bound the phrase as a quotation, and he refers to *De ecclesia* p. 189 and p. 81 above (LEDGER P11i-4). Simon Magus: Acts 8:18, who offered money for the apostles' power.
 
 ## Transcription notes
 
