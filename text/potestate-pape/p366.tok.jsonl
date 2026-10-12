@@ -14,8 +14,7 @@
 {"t": "vel", "leaf": 427, "row": 2, "para": false, "head": false, "pos": 12}
 {"t": "principaliter", "leaf": 427, "row": 2, "para": false, "head": false, "pos": 13}
 {"t": "intendit", "leaf": 427, "row": 2, "para": false, "head": false, "pos": 14}
-{"t": "edificacion", "leaf": 427, "row": 2, "para": false, "head": false, "pos": 15}
-{"t": "em", "leaf": 427, "row": 2, "para": false, "head": false, "pos": 16}
+{"t": "edificacionem", "leaf": 427, "row": 2, "para": false, "head": false, "pos": 15}
 {"t": "ecclesie,", "leaf": 427, "row": 2, "para": false, "head": false, "pos": 17}
 {"t": "plana", "leaf": 427, "row": 3, "para": false, "head": false, "pos": 18}
 {"t": "est", "leaf": 427, "row": 3, "para": false, "head": false, "pos": 19}
@@ -72,8 +71,9 @@
 {"t": "percepto", "leaf": 427, "row": 10, "para": false, "head": false, "pos": 70}
 {"t": "veneno", "leaf": 427, "row": 10, "para": false, "head": false, "pos": 71}
 {"t": "dyaboli", "leaf": 427, "row": 10, "para": false, "head": false, "pos": 72}
-{"t": "abicere,", "leaf": 427, "row": 11, "para": false, "head": false, "pos": 73}
-{"t": "Et,", "leaf": 427, "row": 12, "para": false, "head": false, "pos": 74}
+{"t": "debent", "leaf": 427, "row": 10, "para": false, "head": false, "pos": 72}
+{"t": "abicere.", "leaf": 427, "row": 11, "para": false, "head": false, "pos": 73}
+{"t": "Et", "leaf": 427, "row": 12, "para": false, "head": false, "pos": 74}
 {"t": "patet", "leaf": 427, "row": 12, "para": false, "head": false, "pos": null}
 {"t": "quam", "leaf": 427, "row": 12, "para": false, "head": false, "pos": null}
 {"t": "extraneum", "leaf": 427, "row": 12, "para": false, "head": false, "pos": null}
@@ -127,7 +127,7 @@
 {"t": "hominum,", "leaf": 427, "row": 17, "para": false, "head": false, "pos": 114}
 {"t": "quos", "leaf": 427, "row": 17, "para": false, "head": false, "pos": 115}
 {"t": "sic", "leaf": 427, "row": 17, "para": false, "head": false, "pos": 116}
-{"t": "prefert", "leaf": 427, "row": 17, "para": false, "head": false, "pos": 117}
+{"t": "prefert.", "leaf": 427, "row": 17, "para": false, "head": false, "pos": 117}
 {"t": "Sic", "leaf": 427, "row": 18, "para": false, "head": false, "pos": 118}
 {"t": "eciam", "leaf": 427, "row": 18, "para": false, "head": false, "pos": 119}
 {"t": "dicitur", "leaf": 427, "row": 18, "para": false, "head": false, "pos": 120}
@@ -166,12 +166,12 @@
 {"t": "habet", "leaf": 427, "row": 23, "para": false, "head": false, "pos": 153}
 {"t": "potestatem", "leaf": 427, "row": 23, "para": false, "head": false, "pos": 154}
 {"t": "in", "leaf": 427, "row": 23, "para": false, "head": false, "pos": 155}
-{"t": "episcopis.", "leaf": 427, "row": 23, "para": false, "head": false, "pos": 156}
+{"t": "episcopis,", "leaf": 427, "row": 23, "para": false, "head": false, "pos": 156}
 {"t": "ipsis", "leaf": 427, "row": 24, "para": false, "head": false, "pos": 157}
 {"t": "sciencioribus", "leaf": 427, "row": 24, "para": false, "head": false, "pos": 159}
-{"t": "et:", "leaf": 427, "row": 24, "para": false, "head": false, "pos": 161}
+{"t": "et", "leaf": 427, "row": 24, "para": false, "head": false, "pos": 161}
 {"t": "copiosius", "leaf": 427, "row": 24, "para": false, "head": false, "pos": 162}
-{"t": "claves?", "leaf": 427, "row": 24, "para": false, "head": false, "pos": 163}
+{"t": "claves", "leaf": 427, "row": 24, "para": false, "head": false, "pos": 163}
 {"t": "ecclesie", "leaf": 427, "row": 24, "para": false, "head": false, "pos": 164}
 {"t": "habentibus", "leaf": 427, "row": 25, "para": false, "head": false, "pos": 165}
 {"t": "potestatem", "leaf": 427, "row": 25, "para": false, "head": false, "pos": 166}

@@ -83,7 +83,7 @@ Now it is proved that every degree of such a latitude follows upon a notorious f
 [^11]: **C.** *color*: "colour", a plausible ground, as in "colour of title". *Racio* runs through the paragraph: the reason or ground of the payment, measured against what a superior is.
 [^12]: **C.** *Est … dare*: the schoolmen's "one must posit". *Latitudo* and *gradus remississimus* are the language of the intension and remission of qualities: a range of unfitness with a lowest degree of worthiness, below which the stipend is unworthily taken.
 [^13]: **T.** *debenti* is Loserth's print; the manuscripts read *debentis* (352.17), which would agree with *Dei*: "in the name of God, who owes [it]", the sense the next sentence supports. The print is translated; strictly *debens* is "one who owes", and "to one to whom it is owed" renders it by sense.
-[^14]: **S.** Augustine: the thought of *Confessions* 1.4.4, *reddis debita nulli debens, donas debita nihil perdens*; to be checked (LEDGER P12j-1). **C.** The sentence is a *cum*-clause without a main verb; it gives the ground of the sentence before.
+[^14]: **S.** Augustine: the thought of *Confessions* 1.4.4, *reddis debita nulli debens, donas debita nihil perdens*, PL 32.663, where it follows *supererogatur tibi ut debeas*, the sense of Wyclif's *obligatur*; Wyclif paraphrases. **C.** The sentence is a *cum*-clause without a main verb; it gives the ground of the sentence before.
 [^15]: **S.** 2 Thessalonians 3:10. Wyclif's *Qui non laborat … non manducet* departs from the Vulgate *si quis non vult operari, nec manducet* (DR "if any man will not work, neither let him eat"); his Latin is translated.
 
 ## Transcription notes

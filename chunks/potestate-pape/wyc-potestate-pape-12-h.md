@@ -55,11 +55,11 @@ From which [it follows]{g:sequitur} plainly that this [porism]{g:porisma} of Ant
 ## Notes
 
 [^1]: **C.** *Post multiplicitatem legum Antichristi*: *post* taken as "in following after" (the church goes after Antichrist's many laws); it could be temporal, "after the multiplying of".
-[^2]: **S.** Augustine, *Ep.* 55 to Januarius (on the multiplying of observances), as *Decretum* D.12 c.12 *Omnia talia*: Loserth gives "Cap. XII" (342.24); the modern form is ours (LEDGER P12h-1). The identification of the letter is to be checked (LEDGER P12h-2).
+[^2]: **S.** Augustine, *Ep.* 55 to Januarius (on the multiplying of observances), as *Decretum* D.12 c.12 *Omnia talia*: Loserth gives "Cap. XII" (342.24); the modern form is ours (LEDGER P12h-1). The letter is *Ep.* 55.19.35 (PL 33.221); Gratian's inscription numbers it *Ep.* 119 in the older numbering.
 [^3]: **S.** Jerome, letter on the death of Fabiola: Loserth (342.29) notes that it is *Ep.* 77 and is addressed to Oceanus, not *Ep.* 118 to Domitianus as Wyclif says (PL 22.691) (LEDGER P12h-3). Matthew 19:9; *manere innuptam*, "remain unmarried", is 1 Corinthians 7:11.
 [^4]: **S.** Jerome's argument from 1 Corinthians 6:16. **T.** Both manuscripts read *scortatori imponitur sociatur* (343.2–3), and B omits *igitur* (343.2); the print's *impuroque* is Jerome's text.
 [^5]: **T.** The manuscripts read *in viris pudicicie* (343.6); the print's *viris inpudicicie* is Jerome's. **R.** A marks the passage *De meretricio*, B *Meretricacio* (343.1). Papinian, the Roman jurist.
-[^6]: **S.** Bernard, *De consideratione* 1.4: Loserth gives "Cap. IV. Opp. I, 732" (343.14); to be checked against PL 182 (LEDGER P12h-4). **R.** B notes in the margin (343.15) that human laws chatter above the law of Christ before the pope.
+[^6]: **S.** Bernard, *De consideratione* 1.4: Loserth gives "Cap. IV. Opp. I, 732" (343.14); = 1.4.5, PL 182.732C–D. **R.** B notes in the margin (343.15) that human laws chatter above the law of Christ before the pope.
 [^7]: **T.** The print has *quem non dico omni die … insudare*, which does not construe; Bernard's sentence requires *quam*, "than to sweat" (our emendation, after the source). B omits *et* at 343.18.
 [^8]: **S.** Psalm 18:8 and Psalm 118:85 (Vulgate numbering), within Bernard's text. *Illam … istas*: the law of the Lord is silent, the lawsuits chatter.
 [^9]: **T.** *Que omnes sunt conclusio ad viacionem superflue*: *conclusio* does not construe (a stray word or a misreading in the established text); it is left untranslated in brackets. **C.** *Occupacio … distrahunt*: a singular subject with a plural verb; we take the busying with the laws as the subject. *Viacio*: the state of the wayfarer on the road to the homeland.

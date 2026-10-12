@@ -673,3 +673,11 @@ otherwise.
 | decimantes | tithe-payers | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 359.24). |
 | involucrum | wrapping | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 357.9). |
 | sophisticare quod (with a clause) | argue sophistically that | Takes *sophisticari*'s sense, not "counterfeit" (which needs an object). Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 354.11). |
+| gravandi | those to be charged | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 360.24). |
+| inhabilitare | disqualify | Beside *inhabilis* "unqualified", *inhabilitas*. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 366.4). |
+| indiffinite | without fixed bounds | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 366.3). |
+| principatus (pl., given to churches) | principalities | I.e. prelacies. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 366.14). |
+| contracta / contrata | district | Loserth glosses "country". Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 372.33). |
+| papatus; racio papatus | papacy; the nature of the papacy | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 365.17). |
+| forum consciencie | court of conscience | Extends the *forum penitencie* row. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 367.19). |
+| dicere (logical use) | signify | Of a term or name. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 367.15). |
