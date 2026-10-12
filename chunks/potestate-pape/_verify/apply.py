@@ -15,7 +15,7 @@ for r in rows:
     assert m, rid
     new = f'| {rid} | {m.group(1)} | {m.group(2)} | {stat} | {how.replace("|", "/")} (see `{res}`) |'
     L = L[:m.start()] + new + L[m.end():]
-    for cm in re.finditer(r'(\d\d-[a-z]) n\d+: ((?:"(?:[^"\\]|\\.)*" → "(?:[^"\\]|\\.)*"(?: and )?)+)', chg):
+    for cm in re.finditer(r'((?:\d\d|comp)-[a-z]) n\d+: ((?:"(?:[^"\\]|\\.)*" → "(?:[^"\\]|\\.)*"(?: and )?)+)', chg):
         f = f'chunks/potestate-pape/wyc-potestate-pape-{cm.group(1)}.md'
         s = open(f).read()
         for old, new_ in re.findall(r'"((?:[^"\\]|\\.)*)" → "((?:[^"\\]|\\.)*)"', cm.group(2)):
