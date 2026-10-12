@@ -62,18 +62,18 @@ From these things it seems that no one should take to himself the papal honour, 
 [^2]: **C.** *Inconveniencia* (CONTEXTUAL): here the absurd consequences of the argument just refuted, not troubles in affairs.
 [^3]: **C.** *Ad gravandos*, "those who are to be charged", i.e. those to be held at fault in what follows; the verb can also mean "to be burdened", which fits the clergy laden with the goods of the poor less well.
 [^4]: **C.** *Color*: a plausible ground, as in "colour of title"; the pope takes the name on the ground of the holiness it claims.
-[^5]: **S.** Wyclif refers back to ch. 10 of this work, where a decree of Jerome is recited with Bernard (*De consideratione*) and Robert Grosseteste, bishop of Lincoln, on what a pope ought to be; to be checked (LEDGER P12m-1). *Reputative*: by men's estimation, as against revelation.
-[^6]: **S.** Gregory, *Regula pastoralis* 2.1; Loserth gives "Greg. l. c." at 361.12, the place to be checked (LEDGER P12m-2).
+[^5]: **S.** Wyclif refers back to ch. 10 of this work, where a decree of Jerome is recited with Bernard (*De consideratione*) and Robert Grosseteste, bishop of Lincoln, on what a pope ought to be: the decree is C.24 q.1 c.14 *Hec est fides* (p. 250), Lincoln is cited at pp. 257–258, and Bernard's book *ad papam Eugenium* at p. 265. *Reputative*: by men's estimation, as against revelation.
+[^6]: **S.** Gregory, *Regula pastoralis* 2.1 (PL 77.25D: *Tantum debet actionem populi actio transcendere praesulis, quantum distare solet a grege vita pastoris*), which Wyclif paraphrases; Loserth gives "Greg. l. c." at 361.12.
 [^7]: **T.** The print's *eque maneret et pasceret eum* does not construe well: *manere* with an object is odd. Perhaps *minaret*, "would drive" (as a shepherd his flock); we translate the print.
-[^8]: **R.** Loserth notes at 361.24 that Hus takes up this passage (Hus, *Opera* I, 229a) (LEDGER P12m-3).
-[^9]: **T.** The print reads *cum honor sit ex quo premium virtutis*; *ex quo* does not construe and is left untranslated (an intrusion, or a word lost). The maxim is Aristotle's, honour the prize of virtue (*Nic. Eth.* 4.3), to be checked (LEDGER P12m-4). James 2 is Wyclif's reference (Jas. 2:1, against respect of persons).
+[^8]: **R.** Loserth at 361.24 compares Hus, *Opera* I, 229a ("Cf. Hussii Opp. I, 229 a") (LEDGER P12m-3).
+[^9]: **T.** The print reads *cum honor sit ex quo premium virtutis*; *ex quo* does not construe and is left untranslated (an intrusion, or a word lost). The maxim is Aristotle's, honour the prize of virtue (*Nic. Eth.* 4.3, 1123b35). James 2 is Wyclif's reference (Jas. 2:1, against respect of persons).
 [^10]: **T.** Loserth marks this place corrupt (362.11, *Hic locus corruptus est*; B omits *et*). We translate the print: *equiparanciis quotquot aliis episcopis et sibi*, "comparisons of any number of other bishops with himself".
-[^11]: **S.** Gregory, *Regula pastoralis* 2.1 (Loserth: "Cap. I"), to be checked (LEDGER P12m-5).
+[^11]: **S.** Gregory, *Regula pastoralis* 2.1 (Loserth: "Cap. I"; PL 77.26D–27A); Wyclif leaves out the qualities Gregory lists between *actione praecipuus* and *prae cunctis contemplatione suspensus*.
 [^12]: **C.** *Maior ex fide sepe dicta supponitur*: *dicta* may agree with *maior* ("the major, often stated") or with *fide* ("from the faith often stated"); we take the first.
 [^13]: **S.** Heb. 5:4 (DR "Neither doth any man take the honour to himself, but he that is called by God, as Aaron was"), given in indirect speech.
-[^14]: **S.** Gregory, *Regula pastoralis* 1.9 and 1.11, as Wyclif cites them; Loserth gives no reference; to be checked (LEDGER P12m-6). The scripture is Lev. 21:17–18; the Vulgate has *Loquere ad Aaron* and the futures *offeret*, *accedet*, where this text has *ad Moysen* and subjunctives.
+[^14]: **S.** Gregory, *Regula pastoralis* 1.9 (PL 77.22D) and 1.11 (PL 77.23D–24A), as Wyclif cites them; Loserth gives no reference. Gregory reads *causam populi* and *in ejus opere* where this text has *curam populi* and *in eius corpore*. The scripture is Lev. 21:17–18, which Gregory introduces with *ad Moysen dicitur: Loquere ad Aaron* and quotes with the Vulgate's futures *offeret*, *accedet*; this text drops *Loquere ad Aaron* and has subjunctives.
 [^15]: **T.** *Ex* (363.34) is Loserth's supply; the manuscripts omit it.
-[^16]: **T.** *Ne temerare … quisquis impar his est audeat* is Loserth's text; the manuscripts read *ne intrare* (364.13) and *quisquis est is nuper audeat* (364.13–14). Gregory, *Regula pastoralis* 1.3, to be checked (LEDGER P12m-7).
+[^16]: **T.** *Ne temerare … quisquis impar his est audeat* is Loserth's text; the manuscripts read *ne intrare* (364.13) and *quisquis est is nuper audeat* (364.13–14). Gregory, *Regula pastoralis* 1.3 (PL 77.16B–C), which reads *ne temerare sacra regimina quisquis his impar est audeat* and so confirms Loserth's emendations.
 [^17]: **S.** Jas. 3:1 (DR). John 6:15 (Loserth): the text omits the Vulgate's first *eum*, *iterum* and *ipse solus* (DR "fled again into the mountains, himself alone"). "Mediator of God and men" is 1 Tim. 2:5.
 
 ## Transcription notes

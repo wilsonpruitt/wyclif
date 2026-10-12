@@ -68,12 +68,12 @@ And by the same token it follows that in [temporal lords]{g:temporales-domini} a
 
 ## Notes
 
-[^1]: **S.** Loserth refers to Higden, *Polychronicon* 8, p. 268 (Rolls Series) for the story (LEDGER P12o-1). The Franciscan pope is Nicholas IV (1288–92), to be checked (LEDGER P12o-2).
+[^1]: **S.** Loserth ("Cf.") refers to Higden, *Polychronicon* VIII, p. 268 (Rolls Series), which says only that Nicholas IV (1288–92) was of the Friars Minor; two of its manuscripts add that he "declared the rule of the Friars Minor by a constitution". The decree confining the papacy to Franciscans, which the manuscripts' margin here also reports, is not in Higden. *Exiit qui seminat* (n2) is Nicholas III's, so Wyclif or his source has run the two Nicholases together.
 [^2]: **S.** *Exiit qui seminat* (Nicholas III, 1279), *Sext* 5.12.3 (Loserth "Tit. XII, Cap. III"; the modern form is ours) (LEDGER P12o-3).
 [^3]: **T.** *Racionales* is Loserth's text; the manuscripts read *irracionales* (369.22), "less irrational".
-[^4]: **S.** *Decretum* D.96 c.14 *Constantinus* (Loserth "Cap. XIV"; the modern form is ours), the Donation of Constantine (LEDGER P12o-4). Chrysostom on 1 or 2 Timothy: Loserth gives "Chrysostomus l. c.", to be checked (LEDGER P12o-5).
+[^4]: **S.** *Decretum* D.96 c.14 *Constantinus* (Loserth "Cap. XIV"; the modern form is ours), the Donation of Constantine (LEDGER P12o-4). Chrysostom on 1 or 2 Timothy: Loserth gives "Chrysostomus l. c."; the image is not found in Chrysostom's homilies on 1 or 2 Timothy (PG 62). The nearest is *In 1 Tim.* hom. 12 on 4:7 (PG 62.559–560), where a grown man still at the nurse's breast is "ridiculus … quod intempestive id agat", said of outworn observances as "old wives' fables".
 [^5]: **C.** *Insanire ultra hoc quod sapuerunt*: the play is on *sapere* "be wise" against *insanire* "be mad". The *honor melancolicus* is the honour that breeds madness (melancholy, the humour of madness).
-[^6]: **S.** *Decretum* C.23 q.5 c.20, from Isidore, *Sententiae* (*De summo bono*) 3, cap. 53 in Loserth's numbering (the modern form is ours) (LEDGER P12o-6).
+[^6]: **S.** *Decretum* C.23 q.5 c.20, from Isidore, *Sententiae* (*De summo bono*) 3.51.4 (PL 83.723B; Loserth "cap. LIII", Gratian's inscription "c. 55"; the modern form is ours) (LEDGER P12o-6).
 [^7]: **C.** *Constat sciolos*: the accusative is irregular (one expects *sciolis*); we take it as "it is evident to the knowing". *Color*: a plausible ground; the argument quoted has none.
 [^8]: **C.** Loserth italicises *Principes debere tueri ecclesiam, non dicit dotare temporaliter vel ditare* as one run; *non dicit* is Wyclif's, so we quote the two halves apart.
 [^9]: **C.** *Licencius*: "more freely" (from *licenter*); "more lawfully" is possible if the word stands for *licitius*.

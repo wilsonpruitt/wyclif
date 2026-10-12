@@ -681,3 +681,5 @@ otherwise.
 | papatus; racio papatus | papacy; the nature of the papacy | Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 365.17). |
 | forum consciencie | court of conscience | Extends the *forum penitencie* row. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 367.19). |
 | dicere (logical use) | signify | Of a term or name. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 367.15). |
+| coloracior | more colourable | Comparative, with the *color* / *colorabilis* rows. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 384.15). |
+| obviare; obvia (logical) | meet; meeting | Of a case or argument. Ruled 2026-10-12 (coordinator, delegated; *Pot. pape* 383). |

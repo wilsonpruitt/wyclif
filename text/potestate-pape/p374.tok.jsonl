@@ -7,7 +7,8 @@
 {"t": "homo", "leaf": 435, "row": 0, "para": false, "head": false, "pos": 6}
 {"t": "sit", "leaf": 435, "row": 0, "para": false, "head": false, "pos": 7}
 {"t": "excommunicatus", "leaf": 435, "row": 1, "para": false, "head": false, "pos": 8}
-{"t": "atquegravis", "leaf": 435, "row": 1, "para": false, "head": false, "pos": 9}
+{"t": "atque", "leaf": 435, "row": 1, "para": false, "head": false, "pos": 9}
+{"t": "gravis", "leaf": 435, "row": 1, "para": false, "head": false, "pos": 9}
 {"t": "sacrilegus", "leaf": 435, "row": 1, "para": false, "head": false, "pos": 10}
 {"t": "qui", "leaf": 435, "row": 1, "para": false, "head": false, "pos": 11}
 {"t": "spoliat", "leaf": 435, "row": 1, "para": false, "head": false, "pos": 12}
@@ -198,7 +199,8 @@
 {"t": "Hebreum", "leaf": 435, "row": 28, "para": false, "head": false, "pos": 197}
 {"t": "peritum", "leaf": 435, "row": 28, "para": false, "head": false, "pos": 198}
 {"t": "in", "leaf": 435, "row": 28, "para": false, "head": false, "pos": 199}
-{"t": "legeveteri,", "leaf": 435, "row": 28, "para": false, "head": false, "pos": 200}
+{"t": "lege", "leaf": 435, "row": 28, "para": false, "head": false, "pos": 200}
+{"t": "veteri,", "leaf": 435, "row": 28, "para": false, "head": false, "pos": 200}
 {"t": "et", "leaf": 435, "row": 29, "para": false, "head": false, "pos": 201}
 {"t": "Sergium", "leaf": 435, "row": 29, "para": false, "head": false, "pos": 202}
 {"t": "monachum", "leaf": 435, "row": 29, "para": false, "head": false, "pos": 203}

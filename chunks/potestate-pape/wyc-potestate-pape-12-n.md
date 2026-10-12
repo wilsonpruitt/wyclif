@@ -61,7 +61,7 @@ The answer here is that in this matter one must beware of the logic of the [comp
 
 ## Notes
 
-[^1]: **S.** The letter to Cyril on Jerome's death is the pseudo-Augustinian *Epistola ad Cyrillum de magnificentiis Hieronymi*, to be checked (LEDGER P12n-1). Loserth (365.4) thinks rather of Augustine, *Ep.* 134 (to Apringius), *cui non tam praeesse quam prodesse desidero* (LEDGER P12n-2). **T.** The manuscripts read *Augustinus*; *Augustinum* is Loserth's.
+[^1]: **S.** The letter to Cyril on Jerome's death is the pseudo-Augustinian *Epistola ad Cyrillum de magnificentiis Hieronymi* (PL 22.288: *Testis enim est Deus … plus affecto omnibus subesse, quam praeesse*). Loserth (365.4) suggested Augustine, *Ep.* 134.1 to Apringius (PL 33.511, *cui non tam praeesse quam prodesse desidero*), which is only a parallel. **T.** The manuscripts read *Augustinus*; *Augustinum* is Loserth's.
 [^2]: **S.** Matt. 20:26–27 (DR "whosoever is the greater among you, let him be your minister"), given in Wyclif's words, so not quoted. **R.** B in the margin (365.8): *Prelatus vere non est dum viciose deficit a ministerio*, "he is not truly a prelate while he fails viciously in ministry".
 [^3]: **C.** *Stante vero nomine eorum*: we take *vero* as the particle ("while yet their name stands"), so that the contradiction is a changed office under an unchanged name; it could also be the adjective, "while their true name stands".
 [^4]: **C.** *Indiffinite*: without bounds of place or charge, as the apostles laboured where they were sent; set against the distant primacy sought at Rome.
