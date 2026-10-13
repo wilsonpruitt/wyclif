@@ -40,7 +40,7 @@ Again, according to the principles of the philosophers it is better [85] to phil
 
 [^2]: **S.** 1 Corinthians 13:5 (Loserth's reference, 84.1), DR "seeketh not her own".
 
-[^3]: **C.** *Et patet horrenda dampnacio istius sentencie tamquam heretice*: construed "the condemnation … is plainly horrible"; also possible, "the horrible condemnation … is evident". *dampnacio* is here a judicial condemnation of a teaching, not "damnation" (GLOSSARY *dampnacio*); the *quod* clause states the condemned teaching. Perhaps the papal condemnation of Wyclif's conclusions in 1377 [verify] (LEDGER P05b-2).
+[^3]: **C.** *Et patet horrenda dampnacio istius sentencie tamquam heretice*: construed "the condemnation … is plainly horrible"; also possible, "the horrible condemnation … is evident". *dampnacio* is here a judicial condemnation of a teaching, not "damnation" (GLOSSARY *dampnacio*); the *quod* clause states the condemned teaching. Perhaps Gregory XI's condemnation of Wyclif's conclusions in the bulls of 1377; the text does not name it (LEDGER P05b-2).
 
 [^4]: **C.** *quod per idem …*: the objection is that, if lay converts gave up their property, clerics should all the more take goods from laymen. *relinquentes* has no expressed noun; construed of the converts, who left civil property, not of the apostles.
 

@@ -17,7 +17,22 @@ WORKS = {
                      title_re=r'^\*Dialogus\*,\s*(?:chapter \d+|Epilog(?:us|ue),? part \w+)\s*[:.]\s*'),
     'ecclesia': dict(n=159, editor='Loserth', name='De ecclesia', year='1378–79', offset=37,
                      plate='https://archive.org/details/latinworks10wycl/page/n{leaf}/mode/1up',
-                     title_re=r'^\*De ecclesia\*,\s*chapter \d+,\s*part \d+\s*[:.]\s*'),
+                     title_re=r'^\*De ecclesia\*,\s*chapter \d+,\s*part \d+\s*[:.]\s*',
+                     sub='On the Church',
+                     lede='''John Wyclif’s treatise on the church, written between early 1378 and early 1379, in the months after
+Gregory XI’s bulls condemned his teaching and as the Great Schism opened. Wyclif settles what the church is before asking
+what its bishops may claim of it, then takes up headship, membership, and the privileges and possessions that were being
+fought over. The Latin of Johann Loserth’s edition (1886), with a new English translation and notes:
+{chapters} chapters in {parts} parts, about {words:,} words of English.'''),
+    'potestate-pape': dict(n=107, editor='Loserth', name='De potestate pape', year='1379', offset=61,
+                     plate='https://archive.org/details/latinworks19wycl/page/n{leaf}/mode/1up',
+                     title_re=r'^\*De potestate pape\*,\s*(?:chapter \d+|Compendium),\s*part \d+\s*[:.]\s*',
+                     sub='On the Power of the Pope',
+                     lede='''John Wyclif’s treatise on papal power, written in 1379, the ninth book of his <i>Summa theologie</i>.
+Wyclif first settles what power is and in how many senses the word is said, then turns to Peter’s primacy, the pope as
+vicar of Christ, papal election, the “caesarean” pope made by the endowment, and Antichrist, answering Richard FitzRalph
+as he goes. The Latin of Johann Loserth’s edition (1907), with a new English translation and notes:
+{chapters} chapters in {parts} parts, and the medieval summary that came down with the work, about {words:,} words of English.'''),
 }
 WORK = WOUT = CHUNKS = PLATE = EDITOR = TITLE_RE = None
 LEAF_OFFSET = 0
@@ -106,7 +121,12 @@ def scrub(t):
     t = re.sub(r'[;,]?\s*\b\d{4}-\d\d-\d\d\b(?=\s*[:;,.)(]|\s*$)', '', t)       # bare process dates
     t = re.sub(r'\s*\(\d{4}-\d\d-\d\d row\)', '', t)
     t = re.sub(r'\b(approved|ruled|conformed) \d{4}-\d\d-\d\d', r'\1', t)
-    t = re.sub('\u2b50\ufe0f? ?', '', t)                              # the star-emoji editorial marker is never published
+    t = re.sub('\u2b50\ufe0f? ?', '', t)
+    t = re.sub(r'\s*\[-SCAR\w*\]', '', t)                          # De potestate pape scar-queue codes
+    t = re.sub(r'\b(?:LEFT-odd|W\d|[SW]-split):\s*', '', t)
+    t = re.sub(r'\[coordinator:\s*', '[', t)
+    t = re.sub(r'\brestored there by tokenfix after the re-vote\b', 'restored there', t)
+    t = re.sub(r'\bthe vote replaced\b', 'the established text replaced', t)                              # the star-emoji editorial marker is never published
     t = t.replace('( )', '').replace('()', '')
     return re.sub(r'  +', ' ', t)
 
@@ -188,9 +208,9 @@ def speeches(para, current):
 # ------------------------------------------------------------------ chunks
 def order_key(f):
     n = re.search(rf'wyc-{WORK}-(\w+(?:-\w)?)\.md', f).group(1)
-    if WORK == 'ecclesia':                                          # 01-a … 23-l
+    if WORK != 'dialogus':                                          # 01-a … 23-l; comp-a, comp-b last
         ch, part = n.split('-')
-        return (int(ch), part)
+        return (999 if ch == 'comp' else int(ch), part)
     return (1, n) if n.startswith('epil') else (0, int(n))
 
 
@@ -222,9 +242,9 @@ def parse(path):
 
 def slug(cid):
     n = cid.split(f'wyc-{WORK}-')[1]
-    if WORK == 'ecclesia':
+    if WORK != 'dialogus':
         ch, part = n.split('-')
-        return f'cap/{int(ch)}/{part}'
+        return f'compendium/{part}' if ch == 'comp' else f'cap/{int(ch)}/{part}'
     return f'epilogus/{n[-1]}' if n.startswith('epil') else f'cap/{int(n)}'
 
 
@@ -243,7 +263,7 @@ def page(title, body, depth, desc='', canonical=''):
 {FONTS}<link rel="icon" href="{up}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{up}style.css?v={ASSET_V}"><script defer src="/_vercel/insights/script.js"></script></head>
 <body>
 <header class="top"><a class="home" href="{up}">Wyclif’s Latin works</a>
-<nav><a href="{up}ecclesia/"><i>De ecclesia</i></a><a href="{up}dialogus/"><i>Dialogus</i></a><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
+<nav><a href="{up}ecclesia/"><i>De ecclesia</i></a><a href="{up}dialogus/"><i>Dialogus</i></a><a href="{up}potestate-pape/"><i>De potestate pape</i></a><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
 <main>{body}</main>
 <footer><p>Latin: the Wyclif Society edition (1883–1922), public domain. English, notes and encoding: Wroot Press, <a href="{up}rights/">CC BY-NC 4.0</a>. A working draft.</p></footer>
 <script src="{up}site.js?v={ASSET_V}" defer></script>
@@ -293,9 +313,9 @@ def build():
 
 def label(c):
     n = c['fm']['chunk_id'].split('-')[-1]
-    if WORK == 'ecclesia':
+    if WORK != 'dialogus':
         ch, part = c['fm']['chunk_id'].split('-')[-2:]
-        return f'Chapter {int(ch)}, part {ord(part) - 96}'
+        return f'Compendium, part {ord(part) - 96}' if ch == 'comp' else f'Chapter {int(ch)}, part {ord(part) - 96}'
     if 'epil' in c['fm']['chunk_id']:
         return 'Epilogue, part ' + ('one' if n == 'a' else 'two')
     return f'Chapter {int(n)}'
@@ -436,26 +456,26 @@ and in a dozen chapters none at all; Truth answers at length. After the third ch
 def render_work_ecclesia(chunks):
     chapters = {}
     for c in chunks:
-        chapters.setdefault(int(c['fm']['chunk_id'].split('-')[-2]), []).append(c)
+        ch = c['fm']['chunk_id'].split('-')[-2]
+        chapters.setdefault('Compendium' if ch == 'comp' else int(ch), []).append(c)
     toc, words = [], 0
     for ch, cs in chapters.items():
         p0 = int(re.match(r'(\d+)', cs[0]['fm']['pages']).group(1))
         p1 = int(re.search(r'(\d+)\.\d+$', cs[-1]['fm']['pages']).group(1))
         words += sum(sum(c['words'].values()) for c in cs)
-        toc.append(f'<h3>Chapter {ch}<span class="range"> · Loserth pp. {p0}–{p1}</span></h3><ol class="toc">' + ''.join(
+        toc.append(f'<h3>{ch if ch == "Compendium" else f"Chapter {ch}"}<span class="range"> · Loserth pp. {p0}–{p1}</span></h3><ol class="toc">' + ''.join(
             f'<li><a href="{c["slug"]}/"><span class="toc-n">Part {ord(c["fm"]["chunk_id"][-1]) - 96}</span> '
             f'<span>{html.escape(short_title(c))}</span></a></li>' for c in cs) + '</ol>')
+    w = WORKS[WORK]
+    nch = sum(1 for k in chapters if k != 'Compendium')
+    lede = w['lede'].format(chapters=nch, parts=sum(len(v) for k, v in chapters.items() if k != 'Compendium'), words=words // 1000 * 1000)
     body = f'''<section class="hero">
-<h1 class="title"><span class="t-la">De ecclesia</span><span class="t-sub">On the Church</span></h1>
-<p class="lede">John Wyclif’s treatise on the church, written between early 1378 and early 1379, in the months after
-Gregory XI’s bulls condemned his teaching and as the Great Schism opened. Wyclif settles what the church is before asking
-what its bishops may claim of it, then takes up headship, membership, and the privileges and possessions that were being
-fought over. The Latin of Johann Loserth’s edition (1886), with a new English translation and notes:
-{len(chapters)} chapters in {len(chunks)} parts, about {words // 1000 * 1000:,} words of English.</p></section>
+<h1 class="title"><span class="t-la">{w['name']}</span><span class="t-sub">{w['sub']}</span></h1>
+<p class="lede">{lede}</p></section>
 <section class="contents"><h2>Contents</h2>{"".join(toc)}</section>'''
     os.makedirs(WOUT, exist_ok=True)
-    open(os.path.join(WOUT, 'index.html'), 'w').write(page('De ecclesia: Latin and English · Wyclif', body, 1,
-        'John Wyclif’s De ecclesia (1378–79): the Latin of Loserth’s edition with a new English translation and notes.', f'{WORK}/'))
+    open(os.path.join(WOUT, 'index.html'), 'w').write(page(f'{w["name"]}: Latin and English · Wyclif', body, 1,
+        f'John Wyclif’s {w["name"]} ({w["year"]}): the Latin of Loserth’s edition with a new English translation and notes.', f'{WORK}/'))
 
 
 # Display titles for the shelf, from the title pages (catalog/volumes.json keeps the working notes).
@@ -470,11 +490,11 @@ SHELF_TITLES = {
     'civ-dom-3b': 'De civili dominio III, part 2', 'misc-phil-2': 'Miscellanea philosophica II', 'veritate': 'De veritate sacrae scripturae I–III',
     'potestate-pape': 'De potestate pape', 'ente-excerpta': 'De ente librorum duorum', 'opera-minora': 'Opera minora', 'mandatis': 'De mandatis divinis',
 }
-READ_NOW = {'dialogus': 'dialogus/', 'ecclesia': 'ecclesia/'}
+READ_NOW = {'dialogus': 'dialogus/', 'ecclesia': 'ecclesia/', 'potestate-pape': 'potestate-pape/'}
 
 
 def render_home(built):
-    chunks, e_chunks = built['dialogus'][0], built['ecclesia'][0]
+    chunks, e_chunks, p_chunks = built['dialogus'][0], built['ecclesia'][0], built['potestate-pape'][0]
     vols = json.load(open(os.path.join(ROOT, 'catalog', 'volumes.json')))
     leaves = {k: int(v) for k, v in json.load(open(os.path.join(ROOT, 'catalog', 'leaves.json'))).items()}
     vols.sort(key=lambda v: (int(v['year'][:4]), v['queue']))
@@ -495,22 +515,26 @@ def render_home(built):
                     f'<td class="v-e">{html.escape(v["editor"])}</td><td class="v-s">{status}</td></tr>')
     d_words = sum(sum(c['words'].values()) for c in chunks)
     e_words = sum(sum(c['words'].values()) for c in e_chunks)
+    p_words = sum(sum(c['words'].values()) for c in p_chunks)
     body = f"""<section class="hero">
 <h1 class="title"><span class="t-la">Wyclif</span><span class="t-sub">The Latin works, in English</span></h1>
 <p class="lede">John Wyclif (c. 1330–1384) wrote in Latin. The Wyclif Society printed his Latin works in {len(vols)} volumes
 between 1883 and 1922, and most of them have never been translated into English in full. This site sets the Society’s
-Latin beside a new English translation, one work at a time. Two are ready to read now, below.</p>
+Latin beside a new English translation, one work at a time. Three are ready to read now, below.</p>
 <figure class="shelf" aria-label="The Wyclif Society edition as a shelf of {len(vols)} volumes">
 <div class="spines">{''.join(spines)}</div>
 <figcaption>The Society’s edition on one shelf, in order of publication, each volume as thick as it is long
 (about {round(total, -3):,} scanned pages in all). The dark spines can be read here now: <a href="ecclesia/"><i>De ecclesia</i></a>
-(Loserth, 1886) and the <a href="dialogus/"><i>Dialogus</i></a> (Pollard, 1886).</figcaption>
+(Loserth, 1886), the <a href="dialogus/"><i>Dialogus</i></a> (Pollard, 1886) and <a href="potestate-pape/"><i>De potestate pape</i></a> (Loserth, 1907).</figcaption>
 </figure></section>
 <section class="now"><h2>Read now</h2>
 <div class="now-cards">
 <a class="work-card" href="ecclesia/"><span class="wc-t"><i>De ecclesia</i></span><span class="wc-s">On the Church</span>
 <span class="wc-d">What the church is, who belongs to it, and what its bishops may claim. Written in 1378–79;
 23 chapters, about {e_words // 1000 * 1000:,} words of English.</span></a>
+<a class="work-card" href="potestate-pape/"><span class="wc-t"><i>De potestate pape</i></span><span class="wc-s">On the Power of the Pope</span>
+<span class="wc-d">What power is, and what the pope's is: Peter's primacy, papal election, the endowment and Antichrist. Written in 1379;
+12 chapters, about {p_words // 1000 * 1000:,} words of English.</span></a>
 <a class="work-card" href="dialogus/"><span class="wc-t"><i>Dialogus</i></span><span class="wc-s">The Mirror of the Church Militant</span>
 <span class="wc-d">Truth and Falsehood argue over whether the church should own property. Written in 1379;
 36 chapters and an Epilogue, about {d_words // 1000 * 1000:,} words of English.</span></a>

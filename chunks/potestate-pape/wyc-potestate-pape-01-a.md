@@ -20,22 +20,23 @@ status: translated
 ## Headnote
 
 **Occasion.** The *Tractatus de potestate pape* is a treatise in twelve chapters, written in 1379
-on Loserth's dating `[verify]`, after *De ecclesia* and *De veritate sacre scripture*, both of
-which it cites `[verify]`. It opens with *Iam ultimo restat*, "it remains, last of all", and so
+on Loserth's dating (intro. §4: not before 1379, at the latest early 1380), after *De ecclesia* and *De veritate
+sacre scripture*, which precede it in Wyclif's *Summa theologie*; its first sentence cites chapter 14 of
+"the book next before", *De veritate*. It opens with *Iam ultimo restat*, "it remains, last of all", and so
 presents itself as the closing stage of a larger inquiry into the church: having treated the
-church, Wyclif now asks how Christ ordered its hierarchy `[verify]` (its place in the sequence of
-his *Summa theologie*). Wyclif speaks in the first person, states conclusions, raises objections
+church, Wyclif now asks how Christ ordered its hierarchy. It is the ninth of the twelve books of
+his *Summa theologie*. Wyclif speaks in the first person, states conclusions, raises objections
 and answers them.
 
 **The text.** Johann Loserth's edition for the Wyclif Society (1907) rests on Prague,
 Metropolitan Chapter C 73 (**A**), his base, with Prague, University Library III F 11 (**B**,
-early fifteenth century), which he judges closely related to A `[verify]`; Prague, University
-Library XI E 3 (**C**) supplies variants only near the end `[verify]`. Loserth prints the
-marginal notes of A and B; A's copyist annotates against Wyclif `[verify]`. Our copy-text is
+early fifteenth century), which he judges a copy of A (B omits words that A has); Prague, University
+Library XI E 3 (**C**) supplies variants only near the end (pp. 395–397). Loserth prints the
+marginal notes of A and B; A's copyist was no friend to Wyclif and annotates against him (*cave foveam*, *hic contradicit sibi*). Our copy-text is
 Loserth's printed text, read against the plates. In the scripture references the chapter numbers
 are Wyclif's, the verse numbers Loserth's. The side-notes are Loserth's own English, printed
 verbatim. Pages 398–406 of the edition print a medieval summary of the chapters (*Sentencia libri
-… in compendio*) that came down with the work `[verify]` (its witnesses); it is translated here
+… in compendio*) that came down with the work as the index in A and B, incomplete in both and breaking off at the same words; it is translated here
 like the text.
 
 **The move.** Before the pope, power. Proceeding, as he says, from what is prior after the manner
@@ -46,12 +47,12 @@ scripture, the angelic order of "powers", sovereign authority, and the pretended
 darkness. Only then does he turn to Peter's primacy, the pope as vicar of Christ, papal election,
 the "caesarean" pope and the endowment, and Antichrist. Richard FitzRalph, archbishop of Armagh
 (*dominus Ardmacanus*), and his *Summa in quaestionibus Armenorum* are quoted and answered
-throughout `[verify]`. *Potestas* is always "power". *Potencia* is "potency" where Wyclif works
+at length. *Potestas* is always "power". *Potencia* is "potency" where Wyclif works
 Aristotle's analysis of power, and "power" elsewhere. Wyclif himself treats the two words as
 interchangeable (*potestas vel potencia*).
 
-**Where it is answered.** Loserth notes passages that Hus took over word for word into his *De
-ecclesia* `[verify]`. A direct answer to the treatise has not yet been traced.
+**Where it is answered.** Loserth's foot-notes mark the passages that Hus took over into his own *De
+ecclesia* ("but an echo" of Wyclif's two treatises, intro. p. i). A direct answer to the treatise has not yet been traced.
 
 ## ¶1 · 1.1–1.14
 
