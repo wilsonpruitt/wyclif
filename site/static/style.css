@@ -216,3 +216,5 @@ body.no-latin .passage { grid-template-columns: 10rem minmax(0, 1fr); }
   .spines { height: 9rem; gap: 1px; }
   .vols .v-e { display: none; }
 }
+
+.dl { margin: 1rem 0 0; font-size: 1rem; color: var(--ink-2); }

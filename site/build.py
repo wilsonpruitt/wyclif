@@ -102,6 +102,7 @@ def scrub(t):
     t = re.sub(r'\bGLOSSARY\s*§[A-D],?\s*', 'the glossary, ', t)
     t = re.sub(r'\(GLOSSARY ', '(glossary: ', t)
     t = re.sub(r'\bGLOSSARY\b', 'the glossary', t)
+    t = re.sub(r'the glossary, (?=[.;)])', 'the glossary', t)           # "GLOSSARY §C." left a dangling comma
     t = re.sub(r'\s*\(?CONVENTIONS §[\d.]+\)?', '', t)
     t = re.sub(r'\s*\[(?:OVERRIDE|R\d[ab]?|THIN|DEL|INS\??|PLATE|HEAD)\]', '', t)
     t = re.sub(r'\s*\(OVERRIDE\)', '', t)
@@ -121,7 +122,7 @@ def scrub(t):
     t = re.sub(r'[;,]?\s*\b\d{4}-\d\d-\d\d\b(?=\s*[:;,.)(]|\s*$)', '', t)       # bare process dates
     t = re.sub(r'\s*\(\d{4}-\d\d-\d\d row\)', '', t)
     t = re.sub(r'\b(approved|ruled|conformed) \d{4}-\d\d-\d\d', r'\1', t)
-    t = re.sub('\u2b50\ufe0f? ?', '', t)
+    t = re.sub('[\u2b50\u26d4\u26a0]\ufe0f? ?', '', t)                    # editorial markers (star, no-entry, warning) are never published
     t = re.sub(r'\s*\[-SCAR\w*\]', '', t)                          # De potestate pape scar-queue codes
     t = re.sub(r'\b(?:LEFT-odd|W\d|[SW]-split):\s*', '', t)
     t = re.sub(r'\[coordinator:\s*', '[', t)
@@ -412,6 +413,18 @@ def trans_html(text, gl):
     return '<ul>' + ''.join(out) + '</ul>'
 
 
+def downloads():
+    """Download line for the current work; copies its PDFs (built by site/pdf.py into ~/wyclif/pdf) next to the pages."""
+    items = []
+    for ed, label in (('bilingual', 'Latin and English'), ('english', 'English only')):
+        src = os.path.join(ROOT, 'pdf', f'{WORK}-{ed}.pdf')
+        if os.path.exists(src):
+            os.makedirs(WOUT, exist_ok=True)
+            shutil.copy(src, os.path.join(WOUT, f'wyclif-{WORK}-{ed}.pdf'))
+            items.append(f'<a href="wyclif-{WORK}-{ed}.pdf" download>{label} (PDF, {os.path.getsize(src) / 1e6:.1f} MB)</a>')
+    return f'<p class="dl">Download: {" · ".join(items)}</p>' if items else ''
+
+
 def render_work(chunks):
     maxw = max(sum(c['words'].values()) for c in chunks)
     groups = [(t, [c for c in chunks if 'epil' not in c['f'] and a <= int(c['fm']['chunk_id'].split('-')[-1]) <= b]) for t, a, b in MOVEMENTS]
@@ -439,6 +452,7 @@ def render_work(chunks):
 <h1 class="title"><span class="t-la">Dialogus</span><span class="t-sub">sive Speculum Ecclesie Militantis</span></h1>
 <p class="lede">John Wyclif’s dialogue between Truth and Falsehood on whether the church should own property,
 written in 1379. The Latin of Alfred Pollard’s edition, with a new English translation and notes.</p>
+{downloads()}
 <figure class="strip" aria-label="The Dialogus chapter by chapter">
 <div class="mvs">{"".join(strip)}</div>
 <p class="mv-legend">In Pollard’s divisions: the case from scripture (1–10), Falsehood’s appeals to authority (11–23), practical objections (24–33), conclusion (34–36), Epilogue.</p>
@@ -471,7 +485,8 @@ def render_work_ecclesia(chunks):
     lede = w['lede'].format(chapters=nch, parts=sum(len(v) for k, v in chapters.items() if k != 'Compendium'), words=words // 1000 * 1000)
     body = f'''<section class="hero">
 <h1 class="title"><span class="t-la">{w['name']}</span><span class="t-sub">{w['sub']}</span></h1>
-<p class="lede">{lede}</p></section>
+<p class="lede">{lede}</p>
+{downloads()}</section>
 <section class="contents"><h2>Contents</h2>{"".join(toc)}</section>'''
     os.makedirs(WOUT, exist_ok=True)
     open(os.path.join(WOUT, 'index.html'), 'w').write(page(f'{w["name"]}: Latin and English · Wyclif', body, 1,
