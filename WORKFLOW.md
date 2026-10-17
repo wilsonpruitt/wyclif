@@ -79,7 +79,7 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    four classes before the rest run; card changes land before stage 7.
 7. **Translate, in briefs.** `.venv/bin/python scripts/w3/brief.py SLUG NN NN NN` (3–5 chunks) →
    `chunks/SLUG/_briefs/…md` and the one-line agent prompt. One Opus agent per brief, one brief at a time
-   (8 GB). Between briefs the coordinator rules glossary proposals (census + dikaiosune rule; Wilson for
+   (so each brief inherits the glossary rulings of the last — not a RAM limit any more). Between briefs the coordinator rules glossary proposals (census + dikaiosune rule; Wilson for
    genuinely doubtful register) and commits.
    ⛔ **Never re-vote or `relatin.py` pages that a RUNNING translation agent's chunks cover** (incl. a chunk's first
    page shared with the previous chunk's last). relatin refreshes every DRAFT chunk whose Latin changed, and a chunk
