@@ -12,7 +12,9 @@ nothing else.
 view spoils it (measured: the corrector kept an error the blind reader did not make).
 
 ## What to transcribe: the main text column only
-In: the chapter heading, the editor's bracketed argument or summary when it is printed in the column, and
+In: the chapter heading, the editor's bracketed argument or summary when it is printed in the column (ALL of
+it: Harris prints a Latin argument and then an italic English summary inside the same bracket; both are `> `
+lines, the English is not a side-note), and
 every line of the body down to the last line above the footnotes. Out: the running head and page number, the
 margin side-notes (English), manuscript sigla in the margin (`[C 37b]`, `[A 75b]`), and the footnote
 apparatus at the page foot.
@@ -28,8 +30,13 @@ apparatus at the page foot.
 - **Paragraphs:** a line that begins a new paragraph (indented in print) starts with `¶`. The first line on a
   page continuing the previous page's paragraph has no `¶`.
 - **Footnote reference numbers** (small raised figures in the text) go as `^N` right after the word they
-  follow, no space (`scripta^2`).
+  follow, no space (`scripta^2`). A figure printed before its word may go before it (`^2et`); either is read.
+- **Quotation marks** as printed, curly (‘ ’ “ ”), not flattened to ASCII.
 - **Manuscript folio bars** (`|` inside the text) are left out.
+- ⛔ **Never correct the print.** Measured on *De benedicta incarnacione* (9 errors in 59,555 words, every one
+  of this kind or a typo): the reader turned *humanitus* (a real word: "in a human way") into *humanitas* three
+  times, "corrected" Harris's misprints *antem* and *moriebatnr*, wrote *sententiam* for the printed
+  *sentenciam* and *racionalis* for *raciocionalis*. An odd form is usually what the page prints: copy it.
 - Words: exactly as printed. Medieval spelling stays (*michi*, *set*, *sicud*, *nichil*, *Cristus*); never
   normalise or modernise; u/v and i/j as printed; capitals and punctuation as printed. Superscript letters
   as modifier letters (`3ᵃ`, `Psⁱ`), the degree sign as printed (`3°`). A word printed in brackets keeps them.

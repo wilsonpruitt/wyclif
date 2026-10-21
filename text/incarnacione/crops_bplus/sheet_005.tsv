@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+5.1	136	203	SUB	bt=arguncie | fordham=argucie | vote=argucie
+5.2	144	123	SUB	bt=in Christo | fordham=ni | vote=inchristo
+5.3	144	158	SUB	bt=Iesum, | fordham=ni | vote=lesum
+5.4	144	175	SUB	bt=‘Verbum, | fordham=ni | vote=yerbum
+5.5	154	5	SUB	bt=hoc—‘passus | fordham=hoc  passus | vote=hoc 1 passus
+5.6	154	123	SUB	bt=humanitas | fordham=humanitus | vote=7 humanitus
+5.7	173	3	SUB	bt=sit—Deum | fordham=sit  deum | vote=ldem sit deum
+5.8	173	5	SUB	bt=hominem—et—hominem | fordham=hominem  et  hominem | vote=hominem et hominem by reason of the hypostatic

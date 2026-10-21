@@ -25,13 +25,20 @@ errors, among them lost foot lines and lost line openings that no scan has. For 
      OFFSET. Pages are independent, so agents may run in parallel (a few at a time).
   3. `.venv/bin/python scripts/w3/bplus.py SLUG`. A word Fordham or the vote supports stands; a run both
      witnesses garble (non-word, other spacing, cut off, known OCR confusion) stands by rule
-     (`bplus_rules.tsv`, for audit); the rest go to `bplus_queue.tsv` (SUB, BT-ONLY, OMIT).
+     (`bplus_rules.tsv`, for audit); the rest go to `bplus_queue.tsv` (SUB, BT-ONLY, OMIT, and AGREE:
+     Fordham and the vote agreeing with each other against the transcription, which always goes to the plate).
   4. `crops.py SLUG --queue bplus_queue.tsv --out crops_bplus --decisions bplus_decisions.tsv`, then one Sonnet
      agent reads the sheets into `bplus_decisions.tsv` (page, pos, rule, forms, reading, note: SUB/BT-ONLY:
      the print's words for the run or `∅`; OMIT: the words the print has there or `∅`).
   5. Re-run `bplus.py`: queue 0, stale 0.
   It writes `pNNN.la.txt` and `pNNN.tok.jsonl` in the vote's format, with the printed line (`ln`) counted on
   the transcription, so stages 5 onward run unchanged.
+- **Measured on *De benedicta incarnacione* (2026-10-21):** 232 pages, 59,555 words, 23 transcription agents
+  ≈ 2.32M (≈10K/page), crop reads 44 + 7 items ≈ 0.1M. The check caught 9 transcription errors, all of them a
+  typo or the reader "correcting" the print (*humanitus* → *humanitas* ×3, Harris's misprints *antem* and
+  *moriebatnr* fixed, *sententiam* for *sentenciam*): the brief now forbids it. Before the AGREE rule the
+  three *humanitus* passed (the lexicon lacks the word): audit `bplus_rules.tsv` for runs where a witness
+  has a different real word.
 - **Pages without Fordham** rest on the vote alone, so expect more queue items there. A volume with no
   Fordham at all is untested.
 - To fix a transcription error found later, edit `bt/pNNN.txt` and re-run `bplus.py`, then `relatin.py`.

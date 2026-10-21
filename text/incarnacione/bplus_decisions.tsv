@@ -1,0 +1,52 @@
+page	pos	rule	forms	reading	note
+1	128	BT-ONLY	bt=opposita. | fordham= | vote=	opposita.	print = bt (word on next line)
+2	37	SUB	bt=homo cum aliis hominibus; | fordham= | vote=nomo cnm alns bominibus 2	homo cum aliis hominibus;	print = bt
+2	202	BT-ONLY	bt=cum | fordham= | vote=	cum	print = bt (cum antiquis, next line)
+13	120	SUB	bt=Nestorius.] Ex | fordham=nestoriusex | vote=as	Nestorius.] Ex	print = bt (heading end, then Ex istis)
+13	153	SUB	bt=li° | fordham=lio | vote=as	li°	print = bt (Historia li° 10°; strip misaligned, checked full page)
+15	107	SUB	bt=Psⁱ· | fordham=nis | vote=ps	Psⁱ·	print = bt
+15	154	SUB	bt=NON, | fordham=nis | vote=nox	NON,	print = bt (small caps)
+18	151	SUB	bt=de | fordham=forma | vote=	de	print = bt (de se ait, next line)
+19	122	BT-ONLY	bt=Maximinianum | fordham= | vote=	Maximinianum	print = bt (next line)
+19	190	SUB	bt=verum, sed | fordham= | vote=of uniuersais are 1 prone to uanous	verum, sed	print = bt
+19	225	BT-ONLY	bt=summe unum | fordham= | vote=	summe unum	print = bt (next line)
+19	283	SUB	bt=postquam | fordham=post | vote=post and pascencius	postquam	print = bt (post- / p.20 quam)
+29	191	SUB	bt=intelligitur: | fordham=in telligitur | vote=christ died and a was buned mto	intelligitur:	print = bt (in | telligitur across MS-fold marker)
+50	247	SUB	bt=ideo | fordham=humanitasideo | vote=eo	ideo	print = bt
+58	284	SUB	bt=infernum, | fordham=in | vote=19 infemum	infernum,	print = bt (in- / p.59 fernum)
+67	176	SUB	bt=‘retribucionemercedis’ | fordham=retribucione mercedis | vote=retribucione 8 mercedis	‘retribucione mercedis’	bt ran the words together; print has two words (footnote 8 between)
+71	71	SUB	bt=hechumanitas, | fordham=hec humanitas | vote=hec 3 humanitas	hec humanitas,	bt ran together; print hec ³ humanitas (two words)
+72	255	SUB	bt=apersecucionibus | fordham=a persecuciouibus | vote=a 10 persecucionibus	a persecucionibus	bt ran together; print a ¹⁰ persecucionibus
+84	227	SUB	bt=hu- manitatem | fordham=humanitatem | vote=15 humanitatem	hu- manitatem	print = bt (hu-/manitatem line break)
+88	58	SUB	bt=ad | fordham=id | vote=es ai	ad	print = bt (Et ad idem)
+89	124	SUB	bt=ciantem | fordham=enunciantem | vote=sensation suffertalia	ciantem	print = bt (enun-/ciantem)
+89	259	SUB	bt=synecdochica—Christus | fordham=synecdochica  christus | vote=synecdochica 10 christus	synecdochica—Christus	print = bt
+94	82	SUB	bt=in nullo alio est | fordham= | vote=11 aii es	in nullo alio est	print = bt
+101	200	SUB	bt=sententiam | fordham=sac | vote=sentenciam	sentenciam	bt has sententiam; print has sentenciam (c)
+104	284	SUB	bt=fuit—propter extraneacionem | fordham=fuit  propter ex | vote=fuit propter exsnpposicionis	fuit—propter extraneacionem	print = bt (ex- / p.105 traneacionem)
+109	80	AGREE	bt=multipli | fordham=multiplici | vote=multiplici	multiplici	bt truncated: print multiplici
+110	110	SUB	bt=carne | fordham=que | vote=came	carne	print = bt
+115	100	SUB	bt=sumus—Pater | fordham=sumus  pater | vote=gi person of pater	sumus—Pater	print = bt (next line)
+124	146	SUB	bt=argucias—Omnis | fordham=argucias  omnis | vote=argucias omnis 13	argucias—Omnis	print = bt
+125	115	SUB	bt=dicto—omnis | fordham=dicto  omnis | vote=dicto omnis lesus	dicto—omnis	print = bt
+125	132	SUB	bt=Iesus—et | fordham=iesus  et | vote=lesus et	Iesus—et	print = bt
+131	248	AGREE	bt=racionalis | fordham=raciocionalis | vote=raciocionalis	raciocionalis	bt racionalis; print racio-/cionalis = raciocionalis (as OCRs)
+136	203	AGREE	bt=arguncie | fordham=argucie | vote=argucie	argucie	bt arguncie; print argucie
+144	123	SUB	bt=in Christo | fordham=ni | vote=inchristo	in Christo	print = bt
+144	158	SUB	bt=Iesum, | fordham=ni | vote=lesum	Iesum,	print = bt
+144	175	SUB	bt=‘Verbum, | fordham=ni | vote=yerbum	‘Verbum,	print = bt
+154	5	SUB	bt=hoc—‘passus | fordham=hoc  passus | vote=hoc 1 passus	hoc—‘passus	print = bt
+154	123	SUB	bt=humanitas | fordham=humanitus | vote=7 humanitus	humanitas	print = bt (humanitas humiliatur)
+173	3	SUB	bt=sit—Deum | fordham=sit  deum | vote=ldem sit deum	sit—Deum	print = bt
+173	5	SUB	bt=hominem—et—hominem | fordham=hominem  et  hominem | vote=hominem et hominem by reason of the hypostatic	hominem—et—hominem	print = bt
+187	27	SUB	bt=sequitur—ista | fordham=sequitur  ista | vote=and substance of kec sequitur ista	sequitur—ista	print = bt
+187	106	SUB	bt=dicere—deitas | fordham=dicere  deitas | vote=2 dicere deitas	dicere—deitas	print = bt
+228	255	SUB	bt=impossibile—Pater | fordham=impos | vote=impospotest impos sibile pater potest	impossibile—Pater	print = bt (impos-/sibile—Pater)
+229	1	SUB	bt=incarnari—vel—quod | fordham=incarnari  uel  quod | vote=incarnari uel qnod	incarnari—vel—quod	print = bt
+21	214	AGREE	bt=autem | fordham=antem | vote=antem	antem	plate: print = antem (Harris misprint for autem); the Latin keeps the print, the English notes it (Opus coordinator)
+62	8	AGREE	bt=moriebatur; | fordham=moriebatnr | vote=moriebatnr	moriebatnr;	plate: print = moriebatnr (turned u; misprint for moriebatur); kept as printed (Opus coordinator)
+76	64	AGREE	bt=2ᶜ· | fordham=2 | vote=2	2ᶜ·	plate: print = bt (raised mark after 2) (Opus coordinator)
+83	167	AGREE	bt=humanitas, | fordham=humanitus | vote=humanitus	humanitus,	plate: print = humanitus; the transcription normalised it (Opus coordinator)
+91	248	AGREE	bt=locucio | fordham=iocucio | vote=iocucio	locucio	plate (full page n0130 l. 28): print = bt (Opus coordinator)
+198	95	AGREE	bt=humanitas, | fordham=humanitus | vote=humanitus	humanitus,	plate: print = humanitus; the transcription normalised it (Opus coordinator)
+198	112	AGREE	bt=humanitas | fordham=humanitus | vote=humanitus	humanitus	plate: print = humanitus; the transcription normalised it (Opus coordinator)

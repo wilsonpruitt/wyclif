@@ -32,7 +32,7 @@ from vote import Lexicon, confusable, norm, offsets, ROOT   # noqa: E402
 
 LINE_NO = re.compile(r'^(\d+)\|\s*')
 FOOT = re.compile(r'\^(\d+)')
-SUP = str.maketrans('ᵃᵇᶜᵈᵉⁱᵒᵘᵐ', 'abcdeioum')
+SUP = str.maketrans('ᵃᵇᶜᵈᵉⁱᵒᵘᵐᵗⁿʳˢ', 'abcdeioumtnrs')
 
 
 def fold(w):
@@ -59,6 +59,7 @@ def parse_page(path):
         para = s.startswith('¶')
         s = s.lstrip('¶').strip()
         s = s.replace(' | ', ' ').replace('|', '')          # manuscript folio bars are not text
+        s = re.sub(r'(?<=\w)(\^\d+)(?=[^\W\d_])', r'\1 ', s)     # a footnote mark between two words (hec^3humanitas)
         lines.append(dict(kind=kind, mark=mark, para=para, words=s.split()))
     return lines
 
@@ -73,6 +74,8 @@ def tokens_of(lines, page):
     for L in lines:
         if L['kind'] != 'body':
             L['ln'] = 0
+            if L['mark'] is not None:              # Harris numbers some heading lines (De incarn. p. 105: '10' at
+                ln, since = L['mark'], []          # Cap. VII.): the body goes on from there
             continue
         ln += 1
         L['ln'] = ln
@@ -268,11 +271,15 @@ def main(slug, first=None, last=None):
             cV = subV[i][2] if i in subV else []
             rw = ' '.join(t['t'] for t in words[i:j])
             have = [c for c in (cF if f else None, cV if v else None) if c is not None]
-            if have and all(garbage(c, run, lex) for c in have if c) and any(have):
+            # Fordham and the vote agreeing with each other against the transcription always go to the plate:
+            # their agreement is evidence, whatever the lexicon says (De incarn. 83, 198: humanitus, a real word)
+            jF, jR = ''.join(cF), ''.join(run)
+            agree = bool(f and v and cF and cF == cV) and jF != jR and not (len(jF) >= 3 and jR.startswith(jF))
+            if not agree and have and all(garbage(c, run, lex) for c in have if c) and any(have):
                 rules.append((pg, pos_of[i], rw, ' '.join(cF), ' '.join(cV)))
                 stats['ruled'] += j - i
             else:
-                rule = 'BT-ONLY' if not any(have) else 'SUB'
+                rule = 'BT-ONLY' if not any(have) else 'AGREE' if agree else 'SUB'
                 forms = f'bt={rw} | fordham={" ".join(cF)} | vote={" ".join(cV)}'
                 d = enqueue(i, rule, forms)
                 if d:
@@ -283,8 +290,10 @@ def main(slug, first=None, last=None):
             if i == -1 and pg in moved:            # the second half of a cross-page hyphenation
                 gf = gf[1:] if gf[:1] == [moved[pg]] else gf
                 gv = gv[1:] if gv[:1] == [moved[pg]] else gv
-            common = [w for w in gf if w in gv and lex.real(w) and not w.isdigit()]
-            if not common:
+            common = [w for w in gf if w in gv and not w.isdigit()]
+            # a real Latin word both have, or 3+ words of any language (the editor's English argument, De incarn.
+            # p. 65: Fordham has no side-notes, so English in both is column text, not a leaked side-note)
+            if not (any(lex.real(w) for w in common) or len(common) >= 3):
                 continue
             forms = f'after={words[i]["t"] if i >= 0 else "^"} | fordham={" ".join(gf)} | vote={" ".join(gv)}'
             d = enqueue(i, 'OMIT', forms)
