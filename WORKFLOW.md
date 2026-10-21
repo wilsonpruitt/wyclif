@@ -43,6 +43,16 @@ errors, among them lost foot lines and lost line openings that no scan has. For 
   Fordham at all is untested.
 - To fix a transcription error found later, edit `bt/pNNN.txt` and re-run `bplus.py`, then `relatin.py`.
   Never edit `pNNN.la.txt`: it is regenerated.
+- **Footnote figures (Harris keys his apparatus by them, not by line):** `bplus.py` keeps them as `foot`
+  tokens and writes them as superscripts on the word before (`Prelibato¹`) in the page text and the
+  scaffolds, so the translator can match figure to apparatus; `boundaries.py` and the word counts ignore
+  them. The transcription's `> ` argument lines (the editor's bracketed chapter summary) become their own
+  ¶ block, marked by a comment; the CARD says what of it is translated.
+- **Stage 5 side-notes are a per-volume decision.** Loserth's are short notes (*De pot. pape*: 559 bands,
+  0.66M); Harris's margin is a running English abstract (*De incarn.*: ≈8,100 OCR lines, 21,500 words,
+  ≈2.3M to transcribe fresh). *De incarn.* drops them (Wilson, 2026-10-21: `META[...]['sidenotes']=False`,
+  the headnote says so once); the margin's scripture references still reach the scaffold as "margin
+  matter". Size the margin (`wc -l sidenotes/SLUG.tsv`) before promising the pass.
 
 ## Stages (SLUG = the volume, e.g. `ecclesia`)
 
