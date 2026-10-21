@@ -1,6 +1,6 @@
 # WORKFLOW — one volume, from scans to site (from M5 on)
 
-*The score for every volume after the Dialogus. Current volume: *De potestate pape*, see `chunks/potestate-pape/RESUME.md` (De ecclesia: `M5-RESUME.md`). Built from what the Dialogus measured (PLAN § Cost,
+*The score for every volume after the Dialogus. Current volume: *De benedicta incarnacione* (the first B+ volume, see § B+ below and `chunks/incarnacione/PILOT-LATIN.md`); *De potestate pape*: `chunks/potestate-pape/RESUME.md` (De ecclesia: `M5-RESUME.md`). Built from what the Dialogus measured (PLAN § Cost,
 2026-09-29). Runs on the Claude Code plan, not the API (no API budget); `scripts/pilot/translate_api.py`
 stays as the priced alternative. Hard stop before each volume: state the estimate, ask "which model, and go?"*
 
@@ -9,6 +9,34 @@ So each stage hands an agent everything it needs in one file, and the agent writ
 Measured on Dialogus ch. 2 + 14: one agent per chunk ≈ 93k tokens/chunk; one agent per brief ≈ 55k/chunk;
 the same shape as a single API call ≈ 40k/chunk at $0.22/page.
 
+## B+: how the Latin is established (Wilson, 2026-10-21; every volume from *De benedicta incarnacione* on)
+
+A blind Sonnet transcription of each page is the text, and Fordham and the vote only check it. The pilot,
+*De incarn.* pp. 3–12, measured it: 0 word errors in ~2,780 words at 9.4K tokens/page. Correcting Fordham
+cost 11.2K/page and kept one of Fordham's errors. The vote with plate crops cost 18K/page and still left 30
+errors, among them lost foot lines and lost line openings that no scan has. For a B+ volume:
+
+- `touch text/SLUG/BPLUS`. `vote.py` then writes its pages to `text/SLUG/vote/` and never overwrites the text.
+- Stages 1–2 run as below (the vote is free). **Stages 3, 3b, 4 and 4b do not run:** their errors are the
+  vote's, not the transcription's. Stage 2B replaces them.
+- **2B. Transcribe and check.**
+  1. `.venv/bin/python scripts/w3/fetchleaves.py SLUG FIRST LAST` (the primary scan's page images).
+  2. Sonnet agents with `scripts/w3/BT-BRIEF.md`, ~10 pages each, give each one SLUG, the pages and the
+     OFFSET. Pages are independent, so agents may run in parallel (a few at a time).
+  3. `.venv/bin/python scripts/w3/bplus.py SLUG`. A word Fordham or the vote supports stands; a run both
+     witnesses garble (non-word, other spacing, cut off, known OCR confusion) stands by rule
+     (`bplus_rules.tsv`, for audit); the rest go to `bplus_queue.tsv` (SUB, BT-ONLY, OMIT).
+  4. `crops.py SLUG --queue bplus_queue.tsv --out crops_bplus --decisions bplus_decisions.tsv`, then one Sonnet
+     agent reads the sheets into `bplus_decisions.tsv` (page, pos, rule, forms, reading, note: SUB/BT-ONLY:
+     the print's words for the run or `∅`; OMIT: the words the print has there or `∅`).
+  5. Re-run `bplus.py`: queue 0, stale 0.
+  It writes `pNNN.la.txt` and `pNNN.tok.jsonl` in the vote's format, with the printed line (`ln`) counted on
+  the transcription, so stages 5 onward run unchanged.
+- **Pages without Fordham** rest on the vote alone, so expect more queue items there. A volume with no
+  Fordham at all is untested.
+- To fix a transcription error found later, edit `bt/pNNN.txt` and re-run `bplus.py`, then `relatin.py`.
+  Never edit `pNNN.la.txt`: it is regenerated.
+
 ## Stages (SLUG = the volume, e.g. `ecclesia`)
 
 1. **Witnesses.** `.venv/bin/python scripts/w3/witness.py SLUG` — all free scans + Fordham → token streams;
@@ -16,7 +44,7 @@ the same shape as a single API call ≈ 40k/chunk at $0.22/page.
    by leaf; the briefs need it). ⚠ *De ecclesia* and *De officio regis* must be rebuilt: delete their
    `text/SLUG/witnesses/` first (witness.py skips existing files).
 2. **Vote.** `.venv/bin/python scripts/w3/vote.py SLUG` → `text/SLUG/pNNN.la.txt` + `plate_queue.tsv`.
-3. **Plate pass (Latin).** `scripts/w3/crops.py SLUG` → crop sheets; one Opus agent per ~40 sheets writes
+3. **Plate pass (Latin; vote-text volumes only, see § B+).** `scripts/w3/crops.py SLUG` → crop sheets; one Opus agent per ~40 sheets writes
    `plate_decisions.tsv`; re-run vote.py.
 3b. **Lost runs (from 2026-10-07; every volume, essential without Fordham).** After the re-vote:
    `.venv/bin/python scripts/w3/lostruns.py SLUG` diffs each page against every other scan for runs of 3+ words

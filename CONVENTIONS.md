@@ -41,7 +41,15 @@ class, and every chunk is checked against all four before it is marked done.
 - `plates` gives the archive.org item and leaf range. `catalog/plate_offsets.tsv` holds each
   volume's calibrated leaf↔page offset.
 
-## 3. The Latin: copy-text, and how it is established (revised 2026-09-28)
+## 3. The Latin: copy-text, and how it is established (revised 2026-09-28; B+ from 2026-10-21)
+
+> **From *De benedicta incarnacione* on (Wilson, 2026-10-21): B+.** The words come from a blind
+> transcription of the page image (Sonnet), checked word by word against Fordham and the vote. A run that
+> neither supports goes to the plate unless both witnesses plainly garble it; a run both witnesses have
+> and the transcription lacks always goes to the plate. Still an exhaustive check: every word is compared
+> with two independent witnesses. The vote (§3.1–3.4) stays as one of those witnesses. It remains the method
+> of record for the volumes already published. Measurement: `chunks/incarnacione/PILOT-LATIN.md`. Procedure:
+> WORKFLOW § B+.
 
 **Copy-text = the Society edition's printed text.** We don't re-OCR it. We **check** it: several
 independent transcriptions of the same printed page vote word by word, and only the words they
@@ -380,3 +388,4 @@ side-notes · Notes · Transcription notes (plate readings, collation, the edito
 | 2026-09-28 | §3.3 refined in M2 against measurement: non-word attribution (OCR confusions, glue, singletons); R3a/R3b/R5a/R6a/DEL/INS/THIN/HEAD; §3.4 crop sheets + decisions file. Principle unchanged | Opus (M2) · **confirmed by Wilson 2026-09-28** |
 | 2026-09-30 | §3.3 for M5 (*De ecclesia*): R4a (one real form, the rest its OCR confusions: 411 settled, sample all correct) and TAIL/GAP (lines the pivot OCR lost, carried by the other scans, always plate-read); the vote runs over the body only (`last_page`, index excluded). Also EDGE (the other scans' window slack had voted the neighbouring page's words at page starts: p. 297 *dat* for *recipiunt*, pp. 341, 373); plate decisions now key on the pivot's token and always apply. Also NW (the majority-error sweep folded into the vote) and `agreed.txt` no longer vouches for a form one OCR confusion from a dictionary word (*ahquis*). Plate queue 3,271 → 1,931. Principle unchanged: a real-word dispute still goes to the plate | Opus (M5), mechanical — for Wilson to confirm |
 | 2026-10-02 | Wilson, "recommendations yes": (1) *color* → "colour" (plausible ground), C note per chunk; (2) Loserth's printed text governs, his emendations included, unless it will not construe; A₁ alone never outweighs the print; T note for every departure (02-c 34.20 and 02-d 38.1 returned to the print); (3) our emendations where the print gives no sense stand with T notes (*austrina* 49.18, *quam* 11.15, "[Roman]" 15.22); (4) the Clement at 37.21 stays open in the note; (5) the verifier may fetch Friedberg's *Corpus iuris canonici* from archive.org (read-only) to check *Unam sanctam* and other canon-law wording; (6) the coordinator's glossary rulings of 2026-10-01/02 confirmed; (7) the "now" rule as clarified in the card (minor premiss, or the step that brings a new premiss; a continuing *autem* is "and"); (8) vote.py stops trusting `agreed.txt` from the NEXT volume (*De officio regis*), not *De ecclesia*. |
+| 2026-10-21 | §3: **B+** adopted for *De benedicta incarnacione* and every later volume: blind Sonnet transcription is the text, Fordham + the vote check it (`scripts/w3/bplus.py`); stages 3/3b/4/4b retire for B+ volumes. Pilot pp. 3–12: blind 0 word errors / ~2,780 at 9.4K tok/page; correct-Fordham 1 kept error at 11.2K; vote+plate 30 errors at 18K | Wilson |

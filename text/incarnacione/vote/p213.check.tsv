@@ -1,0 +1,32 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks03wycl=quod | johanniswycliftr00wycl=quod		2	accept
+1	EDGE	latinworks03wycl=est | johanniswycliftr00wycl=est		2	accept
+2	THIN	latinworks03wycl=inipossibile | johanniswycliftr00wycl=inipossibile		2	plate
+6	INS	organicum	4	6	accept
+12	INS	spiritus	4	6	accept
+19	INS	iuxtaposicionem	4	6	accept
+26	INS	patet itaque	4	6	accept
+34	INS?	christi est	3	6	plate
+41	INS	nisi subiectum	4	6	accept
+42	R3a	latinworks03wycl=primo | fordham=primo | johanniswyclift03wyclgoog=prime | johanniswycliftr00wycl=primo | johanniswycliftr06wycl=primo | tractatusdebened00wycl=primo		6	accept
+44	R2	latinworks03wycl=et | fordham=et | johanniswyclift03wyclgoog=t | johanniswycliftr00wycl=et | johanniswycliftr06wycl=et | tractatusdebened00wycl=et		6	accept
+47	R2	latinworks03wycl=which | fordham=consequenter | johanniswyclift03wyclgoog=consequenter | johanniswycliftr00wycl=which | johanniswycliftr06wycl=consequenter | tractatusdebened00wycl=consequenter		6	accept
+48	DEL	latinworks03wycl=is | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=is | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	plate
+49	DEL	latinworks03wycl=against | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=against | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	plate
+50	DEL	latinworks03wycl=1 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	accept
+51	DEL	latinworks03wycl=euclids | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	accept
+52	DEL	latinworks03wycl=axiom | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	accept
+57	DEL	latinworks03wycl=1 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | tractatusdebened00wycl=∅		5	accept
+60	THIN	latinworks03wycl=euery | johanniswycliftr00wycl=euery		2	plate
+61	THIN	latinworks03wycl=whoie | johanniswycliftr00wycl=whoie		2	plate
+62	THIN	latinworks03wycl=is | johanniswycliftr00wycl=is		2	plate
+63	THIN	latinworks03wycl=greater | johanniswycliftr00wycl=sua		2	plate
+64	THIN	latinworks03wycl=than | johanniswycliftr00wycl=∅		2	plate
+65	THIN	latinworks03wycl=it | johanniswycliftr00wycl=∅		2	plate
+70	DEL	latinworks03wycl=2 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=2 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	plate
+73	R3	latinworks03wycl=part | fordham=assumat | johanniswyclift03wyclgoog=assumat | johanniswycliftr00wycl=part | johanniswycliftr06wycl=assumat | tractatusdebened00wycl=assumat		6	plate
+79	R2	latinworks03wycl=continuaomnium | fordham=continuacionem | johanniswyclift03wyclgoog=continuacionem | johanniswycliftr00wycl=continuaomnium | johanniswycliftr06wycl=continuacionem | tractatusdebened00wycl=continuacionem		6	accept
+80	INS	omnium	4	6	accept
+86	INS	monstrum	4	6	accept
+95	INS	substancie	4	6	accept
+96	R3a	latinworks03wycl=aliter | fordham=aliter | johanniswyclift03wyclgoog=alitor | johanniswycliftr00wycl=aliter | johanniswycliftr06wycl=aliter | tractatusdebened00wycl=aliter		6	accept

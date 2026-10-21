@@ -48,7 +48,8 @@ the Bohemian Wycliffites read most. De ecclesia runs next, then the rest of Tier
 eucharistia*.** It is the surviving work closest to Wyclif's lost *Sentences* lectures (book III). It
 opens with a Latin-method pilot on its first pages: (A) a vision model corrects Fordham, against (B) a
 blind transcription diffed with Fordham, against (C) the three-witness vote. Scorecard:
-`chunks/incarnacione/PILOT-LATIN.md`. The first chunk's review runs in a Fable session (metaphysics
+`chunks/incarnacione/PILOT-LATIN.md`; **B+ (blind transcription) adopted for this and every later volume**,
+WORKFLOW § B+. The first chunk's review runs in a Fable session (metaphysics
 terms for GLOSSARY §C).
 
 ## Milestones

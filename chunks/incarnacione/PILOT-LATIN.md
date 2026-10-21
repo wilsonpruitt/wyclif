@@ -47,7 +47,7 @@ need the full-text Fordham diff to find them, and the plate to fix them.
    101, 113, 128, 144). There, B's second witness should be the vote text, which is free once stages 1–2
    have run.
 
-## Proposed method (for Wilson's ruling, not yet in WORKFLOW)
+## Adopted: B+ (Wilson, 2026-10-21, for this volume and every later one; WORKFLOW § B+, CONVENTIONS §3)
 
 **B+**: a blind Sonnet transcription per page. A script diffs it against Fordham and the vote text. Where
 the other side is a non-word or a fragment, the script rules it; only real word-against-word disputes go
@@ -63,3 +63,8 @@ pages with dense apparatus or verse; side-notes.
 `armB_adjudicated.tsv`, `armC/` (vote text after decisions; `armC_s/` without page headers),
 `armC/lostruns_reads.tsv`, `disputes_CA.tsv`, `disputes_CB.tsv`, `diff.py`. Stage-3 plate decisions for
 pp. 3–12 are real output: `text/incarnacione/plate_decisions.tsv`.
+
+**Built 2026-10-21:** `scripts/w3/bplus.py`, `BT-BRIEF.md` (line-by-line format, so page.line comes from
+the print) and `fetchleaves.py`. Tested on arm B's pp. 3–12: 2,622 words supported, 3 runs ruled by script,
+**0 queued**, and the output equals the reference text word for word. The script's last two fixes were the
+cross-page hyphen (*consideran-*|*dum*) and known OCR confusions (*lesus*).

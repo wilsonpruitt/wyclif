@@ -455,6 +455,10 @@ def run(slug, first=None, last=None):
     prange = (first, last)                      # `last` is reused below for a word position
     base = f'{ROOT}/text/{slug}'
     raw_pivot = load(f'{base}/witnesses/{item}.jsonl')
+    # B+ volume (WORKFLOW stage 2B, 2026-10-21): the blind transcription is the text; the vote is one of its two
+    # checking witnesses, so its page files go to text/<slug>/vote/ and never overwrite bplus.py's output
+    outdir = f'{base}/vote' if os.path.exists(f'{base}/BPLUS') else base
+    os.makedirs(outdir, exist_ok=True)
     # heading lines in the pivot, by (leaf, line), for structure
     head_lines = {(t['leaf'], t['line']) for t in raw_pivot if t.get('head')}
     pivot = prep(raw_pivot)
@@ -852,12 +856,12 @@ def run(slug, first=None, last=None):
             cur.append(w)
         if cur:
             lines.append(('## ' if cur_head else '') + ' '.join(cur))
-        with open(f'{base}/p{pg:03d}.la.txt', 'w') as f:
+        with open(f'{outdir}/p{pg:03d}.la.txt', 'w') as f:
             f.write(f'[p. {pg}]\n' + '\n'.join(lines) + '\n')
         # word positions (leaf, 0-based main-text row) for citation by page.line; insertions
         # take the position of the word before them
         last = (page[0]['leaf'], page[0]['line'])
-        with open(f'{base}/p{pg:03d}.tok.jsonl', 'w') as f:
+        with open(f'{outdir}/p{pg:03d}.tok.jsonl', 'w') as f:
             for x in out_tokens:
                 if not x['t'] or x['t'] == '∅' or (x.get('n') == '∅'):
                     continue
@@ -865,7 +869,7 @@ def run(slug, first=None, last=None):
                 for j, w in enumerate(x['t'].split()):
                     f.write(json.dumps(dict(t=w, leaf=last[0], row=last[1], para=bool(x.get('para')) and j == 0,
                                             head=bool(x.get('hl')), pos=x.get('pos')), ensure_ascii=False) + '\n')
-        with open(f'{base}/p{pg:03d}.check.tsv', 'w') as f:
+        with open(f'{outdir}/p{pg:03d}.check.tsv', 'w') as f:
             f.write('pos\trule\tforms\tsupport\tvoters\tresolution\n')
             for c in checks:
                 f.write('\t'.join(str(x) for x in c) + '\n')

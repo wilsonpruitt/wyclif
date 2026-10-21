@@ -1,6 +1,6 @@
 """Plate-crop sheets for the words the vote cannot settle (CONVENTIONS §3.4).
 
-    .venv/bin/python scripts/w3/crops.py SLUG [FIRST_PAGE LAST_PAGE] [--per 8] [--queue scar_queue.tsv --out crops_scars]
+    .venv/bin/python scripts/w3/crops.py SLUG [FIRST_PAGE LAST_PAGE] [--per 8] [--queue scar_queue.tsv --out crops_scars] [--decisions bplus_decisions.tsv]
 
 For each open queue item (text/<slug>/plate_queue.tsv minus plate_decisions.tsv):
 fetch the page image (cached in text/<slug>/raw/leaves/), cut a strip of the line
@@ -32,11 +32,11 @@ def leaf_image(slug, item, leaf, other=False):
     return p
 
 
-def main(slug, first=None, last=None, per=8, queue='plate_queue.tsv', outdir='crops'):
+def main(slug, first=None, last=None, per=8, queue='plate_queue.tsv', outdir='crops', decisions='plate_decisions.tsv'):
     off = {r['slug']: r for r in csv.DictReader(open(f'{ROOT}/catalog/plate_offsets.tsv'), delimiter='\t')}[slug]
     item = off['item']
     q = list(csv.DictReader(open(f'{ROOT}/text/{slug}/{queue}'), delimiter='\t', quoting=csv.QUOTE_NONE))
-    dpath = f'{ROOT}/text/{slug}/plate_decisions.tsv'
+    dpath = f'{ROOT}/text/{slug}/{decisions}'      # B+: bplus_decisions.tsv
     done = set()
     if os.path.exists(dpath):
         done = {(r['page'], r['pos']) for r in csv.DictReader(open(dpath), delimiter='\t', quoting=csv.QUOTE_NONE)}
@@ -89,7 +89,8 @@ def main(slug, first=None, last=None, per=8, queue='plate_queue.tsv', outdir='cr
 if __name__ == '__main__':
     argv = sys.argv[1:]
     opt = {}
-    for k in ('--per', '--queue', '--out'):
+    for k in ('--per', '--queue', '--out', '--decisions'):
         if k in argv:
             i = argv.index(k); opt[k[2:]] = argv[i + 1]; del argv[i:i + 2]
-    main(*argv, per=int(opt.get('per', 8)), queue=opt.get('queue', 'plate_queue.tsv'), outdir=opt.get('out', 'crops'))
+    main(*argv, per=int(opt.get('per', 8)), queue=opt.get('queue', 'plate_queue.tsv'), outdir=opt.get('out', 'crops'),
+         decisions=opt.get('decisions', 'plate_decisions.tsv'))

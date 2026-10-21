@@ -74,7 +74,10 @@ def main(slug, force=False):
         for l in open(p):
             t = json.loads(l)
             t['pg'] = pg
-            t['page'], t['ln'] = pg_line(marks, offset, t['leaf'], t['row'])
+            if 'ln' in t:               # B+ (bplus.py): the printed line, counted on the transcription
+                t['page'] = pg
+            else:
+                t['page'], t['ln'] = pg_line(marks, offset, t['leaf'], t['row'])
             toks.append(t)
     # chapters: split at heading runs that begin with CAPITULUM
     chapters, cur, head = [], [], None
