@@ -39,9 +39,9 @@ def lint(path, gkeys):
         if not fm.get(k, '').strip().strip('"'):
             errs.append(f'front matter: `{k}` missing or empty')
     src = fm.get('latin_source', '').strip()
-    if src not in ('three-witness', 'plate-read', 'fordham-collated'):
-        errs.append(f'latin_source `{src}` is not three-witness / plate-read')
-    if src == 'three-witness':
+    if src not in ('three-witness', 'plate-read', 'fordham-collated') and not src.startswith('B+ ('):
+        errs.append(f'latin_source `{src}` is not three-witness / plate-read / B+')
+    if src == 'three-witness' or src.startswith('B+ ('):
         for k in ('witnesses', 'check', 'italics'):
             if not fm.get(k, '').strip():
                 errs.append(f'three-witness chunk without `{k}`')

@@ -19,7 +19,8 @@ for f in sorted(glob.glob(f'{root}/chunks/{slug}/wyc-{slug}-*.md')):
     for i, sec in enumerate(secs):
         la = ' '.join(l[1:].strip() for l in sec.splitlines() if l.startswith('>')).strip()
         la = re.sub(r'\s*\[p\. \d+\]\s*$', '', la)
-        if la and not re.search(r'[.?!:;]["»”)\]]*$', la):
+        # a stop may be followed by a closing quote/bracket and, in a B+ volume, the editor's footnote figure (⁷)
+        if la and not re.search(r'[.?!:;][\'’"»”)\]⁰-⁹¹²³*†]*$', la):
             kind = 'chunk end' if i == len(secs) - 1 else '¶ end'
             rows.append((cid, sec.split('\n')[0][3:].strip(), kind, la[-50:]))
         # a ¶ that opens in lower case: a false break even after a stop. In De pot. pape every one marked a line

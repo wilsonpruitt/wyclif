@@ -32,6 +32,8 @@ from vote import Lexicon, confusable, norm, offsets, ROOT   # noqa: E402
 
 LINE_NO = re.compile(r'^(\d+)\|\s*')
 FOOT = re.compile(r'\^(\d+)')
+TO_SUP = str.maketrans('0123456789', '⁰¹²³⁴⁵⁶⁷⁸⁹')
+PREFIX = {'head': '## ', 'arg': '> ', 'body': ''}
 SUP = str.maketrans('ᵃᵇᶜᵈᵉⁱᵒᵘᵐᵗⁿʳˢ', 'abcdeioumtnrs')
 
 
@@ -323,23 +325,31 @@ def main(slug, first=None, last=None):
             for w in insert.get(wi, []):
                 out.append(dict(t, t=w, para=False, wi=wi))
             wi += 1
-        lines, cur, cur_head = [], [], False
+        # the page text: a heading line `## `, an argument line `> ` (the editor's bracketed summary), body ¶s;
+        # a footnote figure (Harris keys his apparatus by them) rides on the word before it as a superscript
+        lines, cur, cur_kind = [], [], None
         for x in out:
-            if x['head'] != cur_head and cur:
-                lines.append(('## ' if cur_head else '') + ' '.join(cur)); cur = []
+            if x.get('foot'):
+                if cur:
+                    cur[-1] += x['t'].translate(TO_SUP)
+                continue
+            kind = 'head' if x['head'] else 'arg' if x.get('arg') else 'body'
+            if kind != cur_kind and cur:
+                lines.append(PREFIX[cur_kind] + ' '.join(cur)); cur = []
             if x['para'] and cur:
                 lines.append(' '.join(cur)); lines.append(''); cur = []
-            cur_head = x['head']
+            cur_kind = kind
             cur.append(x['t'])
         if cur:
-            lines.append(('## ' if cur_head else '') + ' '.join(cur))
+            lines.append(PREFIX[cur_kind] + ' '.join(cur))
         with open(f'{base}/p{pg:03d}.la.txt', 'w', encoding='utf-8') as fh:
             fh.write(f'[p. {pg}]\n' + '\n'.join(lines) + '\n')
         with open(f'{base}/p{pg:03d}.tok.jsonl', 'w', encoding='utf-8') as fh:
             for n, x in enumerate(out):
                 leaf, row = where(x['wi'])
                 fh.write(json.dumps(dict(t=x['t'], leaf=leaf, row=row, ln=x['ln'], para=x['para'], head=x['head'],
-                                         pos=n), ensure_ascii=False) + '\n')
+                                         arg=bool(x.get('arg')), foot=bool(x.get('foot')), wi=x['wi'], pos=n),
+                                    ensure_ascii=False) + '\n')
         stats['pages'] += 1
         stats['words'] += len(words)
         if not f:

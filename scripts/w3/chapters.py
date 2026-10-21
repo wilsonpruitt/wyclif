@@ -12,7 +12,7 @@ title and the headnote, and corrects the side-note draft.
 
 A scaffold that already exists is never overwritten without --force (it may hold a translation).
 """
-import csv, glob, json, os, re, statistics as st, sys
+import csv, glob, itertools, json, os, re, statistics as st, sys
 from collections import Counter, defaultdict
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
@@ -30,7 +30,14 @@ META = {  # per volume: what the scaffold cannot derive
                            pilot='pilots/wyc-ecclesia-01a.md',
                            # the medieval compendium of the chapters after the Explicit (pp. 398-406)
                            extra_heads=[(398, 'Sentencia libri in compendio', 'comp', 'Compendium')]),
+    'incarnacione': dict(work_la='Tractatus de benedicta incarnacione', work_en='On the Blessed Incarnation',
+                         short='De incarn.', editor='Edward Harris', year=1886, label='De benedicta incarnacione',
+                         pilot='pilots/wyc-ecclesia-01a.md',
+                         # pp. 1-2 are a Prologus under the work's title, before Cap. I (B+ volume: the
+                         # transcription flags headings and the editor's bracketed arguments itself)
+                         prologue=True),
 }
+TO_SUP = str.maketrans('0123456789', '⁰¹²³⁴⁵⁶⁷⁸⁹')
 MS_MARK = re.compile(r'^[A-D][¹1l]?\s*\.?\s*\d{1,3}\s*[a-d]\s*\.?$|^\d{2,3}\s*[a-d]?\s*\.$')
 BOOKS = ('Gen', 'Exod', 'Lev', 'Num', 'Deut', 'Josh', 'Judg', 'Ruth', 'Sam', 'Kings', 'Chron', 'Ezra',
          'Neh', 'Esth', 'Job', 'Ps', 'Prov', 'Eccl', 'Cant', 'Isa', 'Jer', 'Lam', 'Ezek', 'Dan', 'Hos',
@@ -79,12 +86,14 @@ def main(slug, force=False):
             else:
                 t['page'], t['ln'] = pg_line(marks, offset, t['leaf'], t['row'])
             toks.append(t)
-    # chapters: split at heading runs that begin with CAPITULUM
+    bplus = os.path.exists(f'{base}/BPLUS')     # WORKFLOW § B+: the transcription is the text; its check tables differ
+    # chapters: split at heading runs that begin with CAPITULUM (a B+ transcription flags every heading itself, so
+    # a 'capitulum 12' in running text never counts: De incarn. 1.19)
     chapters, cur, head = [], [], None
     i = 0
     while i < len(toks):
         t = toks[i]
-        numbered = ((t['t'].upper() == 'CAPITULUM' or t['t'] == 'CAP.') and i + 1 < len(toks)
+        numbered = not bplus and ((t['t'].upper() == 'CAPITULUM' or t['t'] == 'CAP.') and i + 1 < len(toks)
                     and (re.fullmatch(r'[0-9IVXLivxl]+[°m.ᵐ]*\.?', toks[i + 1]['t'])
                          # an unflagged heading in capitals with an ordinal WORD (De pot. pape XI, XII), never the
                          # compendium's running 'Capitulum primum premittens' (2026-10-07)
@@ -104,6 +113,15 @@ def main(slug, force=False):
             cur.append(t)
         i += 1
     chapters.append((head, cur))
+    units = []                          # (id, label, divisions, heading, body)
+    if meta.get('prologue') and chapters and chapters[0][0] is None:
+        _, body = chapters.pop(0)
+        lead = ' '.join(x['t'] for x in itertools.takewhile(lambda x: x['head'], toks))
+        units.append(('prol', 'prologue', f"prologus (heading '{lead}' at {toks[0]['page']}.{toks[0]['ln']})", (lead, toks[0]), body))
+    for n, (head, body) in enumerate(chapters, 1):
+        units.append((f'{n:02d}', f'chapter {n}',
+                      f"cap. {n}" + (f" (heading '{head[0]}' at {head[1]['page']}.{head[1]['ln']})" if head else ' (unheaded in print)'),
+                      head, body))
 
     def paras_of(body):
         ps, c = [], []
@@ -114,15 +132,13 @@ def main(slug, force=False):
         return ps + ([c] if c else [])
 
     sections = []                       # (id, title label, divisions text, heading, paragraphs)
-    for n, (head, body) in enumerate(chapters, 1):
+    for ucid, ulab, udivs, head, body in units:
         cut = None
         for pg, htxt, tag, lab in meta.get('extra_heads', []):
             k = next((i for i, t in enumerate(body) if t['pg'] == pg), None)
             if k:
                 cut = (k, htxt, tag, lab)
-        parts = [(f'{n:02d}', f'chapter {n}',
-                  f"cap. {n}" + (f" (heading '{head[0]}' at {head[1]['page']}.{head[1]['ln']})" if head else ' (unheaded in print)'),
-                  head, body[:cut[0]] if cut else body)]
+        parts = [(ucid, ulab, udivs, head, body[:cut[0]] if cut else body)]
         if cut:
             k, htxt, tag, lab = cut
             parts.append((tag, lab, f"{lab} (heading '{htxt}' above {body[k]['page']}.{body[k]['ln']}, read on the plate)",
@@ -150,11 +166,15 @@ def main(slug, force=False):
                                  divs + f"; part {j + 1} of {len(groups)}, split at the editor's ¶ (CONVENTIONS §1)",
                                  hd if j == 0 else None, g))
 
-    decisions = list(csv.DictReader(open(f'{base}/plate_decisions.tsv'), delimiter='\t'))
+    decisions =list(csv.DictReader(open(f'{base}/{"bplus" if bplus else "plate"}_decisions.tsv'), delimiter='\t'))
     checks = {}
     for p in glob.glob(f'{base}/p*.check.tsv'):
         pg = int(re.search(r'p(\d+)\.check', p).group(1))
         checks[pg] = [r for r in csv.DictReader(open(p), delimiter='\t')]
+    byrule = defaultdict(list)                  # B+: runs both witnesses garbled, stood by rule (page -> word positions)
+    if bplus:
+        for r in csv.DictReader(open(f'{base}/bplus_rules.tsv'), delimiter='\t'):
+            byrule[int(r['page'])].append(int(r['pos']))
     notes = [r for r in csv.DictReader(open(f'{ROOT}/sidenotes/{slug}.tsv'), delimiter='\t', quoting=csv.QUOTE_NONE)]
 
     OUT = os.environ.get('CHUNKS_OUT', f'{ROOT}/chunks/{slug}')
@@ -168,9 +188,10 @@ def main(slug, force=False):
         span = f"{first['page']}.{first['ln']}–{last['page']}.{last['ln']}"
         # check counts over the pivot positions this chapter covers, page by page
         rng = defaultdict(lambda: [10 ** 9, -1])
+        key = 'wi' if bplus else 'pos'          # B+ check tables are keyed by word index, not token position
         for t in body:
-            if t.get('pos') is not None:
-                r = rng[t['pg']]; r[0] = min(r[0], t['pos']); r[1] = max(r[1], t['pos'])
+            if t.get(key) is not None and not t.get('foot'):
+                r = rng[t['pg']]; r[0] = min(r[0], t[key]); r[1] = max(r[1], t[key])
         rules = Counter()
         for pg, (a, b) in rng.items():
             for r in checks.get(pg, []):
@@ -178,30 +199,43 @@ def main(slug, force=False):
                     rules[r['rule']] += 1
         plate = [d for d in decisions if int(d['page']) in rng and rng[int(d['page'])][0] <= int(d['pos']) <= rng[int(d['page'])][1]
                  or (head and d['rule'] == 'HEAD' and int(d['page']) == head[1]['pg'])]
-        words = len(body)
+        words = sum(1 for t in body if not t.get('foot'))
         settled = sum(v for k, v in rules.items() if k in ('R2', 'R3a', 'R3b', 'R5a', 'R6a', 'DEL', 'INS'))
         leaves = sorted({t['leaf'] for t in body})
+        if bplus:
+            stood = sum(1 for pg, (a, b) in rng.items() for p in byrule.get(pg, []) if a <= p <= b)
+            source = 'latin_source: B+ (blind transcription, checked against Fordham and the vote)'
+            check = (f'check: "{words} words; {words - stood - len(plate)} confirmed by Fordham or the vote; {stood} runs stood by '
+                     f'rule (both witnesses garbled); {len(plate)} read on the plate (see Transcription notes)"')
+        else:
+            source = 'latin_source: three-witness'
+            check = (f'check: "{words} words; {words - settled - len(plate)} unanimous or majority-real; {settled} settled by vote '
+                     f'({", ".join(f"{k} {v}" for k, v in sorted(rules.items()) if k in ("R2", "R3a", "R3b", "R5a", "R6a", "DEL", "INS"))}); '
+                     f'{len(plate)} read on the plate (see Transcription notes)"')
         out = ['---', f'chunk_id: wyc-{slug}-{cid}', f"work_la: {meta['work_la']}", f"work_en: {meta['work_en']}",
                f'volume_slug: {slug}', f"editor: {meta['editor']}", f"year: {meta['year']}", f'pages: "{span}"',
-               f'divisions: "{divs}"',
-               'latin_source: three-witness', f'witnesses: [{", ".join(witnesses)}]',
-               f'check: "{words} words; {words - settled - len(plate)} unanimous or majority-real; {settled} settled by vote '
-               f'({", ".join(f"{k} {v}" for k, v in sorted(rules.items()) if k in ("R2", "R3a", "R3b", "R5a", "R6a", "DEL", "INS"))}); '
-               f'{len(plate)} read on the plate (see Transcription notes)"',
+               f'divisions: "{divs}"', source, f'witnesses: [{", ".join(witnesses)}]', check,
                'italics: none', f'plates: "archive.org {item}, leaves n{leaves[0]}–n{leaves[-1]} (printed p. = leaf − {offset})"',
                'status: draft', '---', '', f"# *{meta['label']}*, {lab}: [TITLE]", '']
-        if cid in ('01', '01-a'):
+        if cid == sections[0][0]:
             out += ['## Headnote', '', f"[HEADNOTE: see {meta.get('pilot', 'pilots/wyc-dialogus-01.md')}]", '']
         for k, par in enumerate(paras, 1):
             a, b = par[0], par[-1]
             out.append(f"## ¶{k} · {a['page']}.{a['ln']}–{b['page']}.{b['ln']}")
             out.append('')
+            if all(t.get('arg') for t in par):
+                out += ["<!-- the editor's bracketed argument at the chapter head: a Latin summary, then his own English",
+                        '     summary in the same bracket (see the volume CARD for what is translated) -->', '']
             words, pg = [], None
             for t in par:
                 if t['page'] != pg:
                     if pg is not None or t is not body[0]:
                         words.append(f"[p. {t['page']}]")
                     pg = t['page']
+                if t.get('foot'):               # Harris's footnote figure, keyed to his apparatus: on the word before it
+                    if words and not words[-1].startswith('[p.'):
+                        words[-1] += t['t'].translate(TO_SUP)
+                    continue
                 words.append(t['t'])
             if words and words[0].startswith('[p.'):
                 words = words[1:] if a is body[0] else words

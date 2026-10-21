@@ -1,0 +1,203 @@
+---
+chunk_id: wyc-incarnacione-06-a
+work_la: Tractatus de benedicta incarnacione
+work_en: On the Blessed Incarnation
+volume_slug: incarnacione
+editor: Edward Harris
+year: 1886
+pages: "85.0–89.10"
+divisions: "cap. 6 (heading 'Cap. VI.' at 85.0); part 1 of 5, split at the editor's ¶ (CONVENTIONS §1)"
+latin_source: B+ (blind transcription, checked against Fordham and the vote)
+witnesses: [fordham, johanniswyclift01wyclgoog, johanniswyclift03wyclgoog, johanniswycliftr00wycl, johanniswycliftr06wycl, latinworks03wycl, tractatusdebened00wycl]
+check: "1106 words; 1100 confirmed by Fordham or the vote; 5 runs stood by rule (both witnesses garbled); 1 read on the plate (see Transcription notes)"
+italics: none
+plates: "archive.org latinworks03wycl, leaves n124–n128 (printed p. = leaf − 39)"
+status: draft
+---
+
+# *De benedicta incarnacione*, chapter 6, part 1: [TITLE]
+
+## ¶1 · 85.0–85.0
+
+<!-- the editor's bracketed argument at the chapter head: a Latin summary, then his own English
+     summary in the same bracket (see the volume CARD for what is translated) -->
+
+> [p. 85] [Ostendit quod Christus sit univoce homo cum aliis hominibus; et respondendo obiectibus declarat quod Christus est, secundum multorum doctorum testimonia, creatura. This chapter (A) shows that Christ is a man literally and in the same sense as other men are men; and by the discussion of objections to this statement (B) illustrates further the thesis of Chap. I., that Christ is a creature, in accordance with the testimony of many weighty authorities.]
+
+[ENGLISH]
+
+## ¶2 · 85.2–85.13
+
+> [p. 85] Ex istis videtur consequi quod Christus sit univoce homo cum quolibet fratre suo. Probatur tripliciter. Primo sic. Christus est anima eiusdem racionis cum nostra, sicut et corpus eiusdem specifice racionis, que eciam univoce copulatur; ergo est univoce completa humanitas, et sic homo. Non enim est possibile aliquid complete principiari ex principiis omnino similibus cum adequatis principiis, ex quibus principiatur aliquid, nisi conveniat in natura. Cum ergo humanitas Christi et cuiuscunque alterius hominis sic se respiciunt, sequitur quod sunt idem in specie. Aliter enim Christus non esset pocius homo quam ydolum vel ymago; homo enim solum equivoce non est homo.
+
+[ENGLISH]
+
+## ¶3 · 85.14–86.15
+
+> [p. 85] Confirmatur primo ex hoc, quod nec corpus nec anima, cum sit pars qualitativa suppositi, est¹ per se in specie, sed ipsum suppositum, ad cuius² speciem partes³ huiusmodi reducuntur. Cum ergo Christus secundum deitatem non sit in specie, nec humanitas eius est per se in specie, ut dicunt negantes ipsam esse suppositum; relinquitur quod Christus sit suppositum per se in specie. Sed in qua, rogo, si non fuerit⁴ in humana.⁴ Nec audebit catholicus dicere quod corpus et anima Christi erant solum fantastica non consimilis speciei cum partibus aliorum hominum. Quando autem [p. 86] communicatur cum hominibus ponentibus—‘omnia universalia esse signa,’—oportet aliter loqui: ut posito, quod¹ omnis natura¹ humana sit assumpta² a Verbo, et ipsum proferat voces et³ scripta talia—‘homo est animal racionale’—et⁴ correspondenter eliciat conceptus ut nos facimus; tunc sicut non exinde deficeret species humana ex parte rei, sic⁵ forent talia signa univoca vera ut prius, posito quod isti conceptus maneant post assumpciones significantes⁶ naturaliter et univoce sicut ante. Aliter enim, solo Christo existente de specie humana, vere sciret ad sensum⁷ univocum priorem nedum quod nemo est Deus, sed quod nemo est animal; cum species non esset, deficiente quocunque eius supposito.⁸ Quod videtur mihi insanum dicere, cum Christus maxime perficeret genus suum; et per consequens si omnis homo sit Deus, non exinde tollitur species hominis.
+
+[ENGLISH]
+
+## ¶4 · 86.16–86.29
+
+> [p. 86] 2°. confirmatur ex hoc quod Christus est formaliter homo humanitate consimilis racionis cum humanitate alterius: ergo est univoce homo cum alio. Patet consequencia eo quod, quantumcunque⁹ subiecta variantur, dummodo¹⁰ forme, a quibus recipiunt predicaciones huiusmodi, sunt consimilis racionis, predicaciones sunt univoce; ut, quantumcunque subiecta¹¹ corpora¹¹ variantur, dummodo habent per totum albedines consimilis racionis, sunt alba univoce.¹² Quod autem humanitates¹³ Christi et aliorum essencialiter conveniunt exinde evidet, quod dimissa humanitate foret illa consimilis racionis cum alia; ergo cum unio sit sibi accidentalis, eo quod potest¹⁴ manere eadem essencia denudata;¹⁵ sequitur quod stante unione erit eiusdem racionis substancialis¹⁶ cum alia.
+
+[ENGLISH]
+
+## ¶5 · 86.30–87.13
+
+> [p. 86] 3°. confirmatur ex hoc quod Christus est homo, et non Pater neque¹⁷ Donum; quod non esset, nisi Christus plus conveniret¹⁸ cum homine quam Pater; ergo est maior conveniencia [p. 87] Christi ad hominem quam Patris ad hominem, vel quam ante assumpcionem fuerat. Et cum non¹ sit pertinens conveniencia nisi vel in genere vel in specie, sequitur¹ quod Christus factus homo convenit in genere cum aliis hominibus, et per idem in specie;² quia aliter non foret humanitate nobis similior quam perante, cum conveniencia presupponit unionem.³ Noto ergo gradu⁴ similitudinis⁵ vel conveniencie, tunc, cum omnis conveniencia accidentalis presupponit convenienciam substancie generalem, oportet quod secundum humanitatem, qua factus est nobis similis, conveniat nobiscum in⁶ genere vel in⁶ specie, cum conveniencia in humanitate sit alterius racionis⁷ quam conveniencia in aliquo accidente⁷ novem⁸ generum.
+
+[ENGLISH]
+
+## ¶6 · 87.14–88.2
+
+> [p. 87] Item omne suppositum speciei humane⁹ est homo univoce; Christus est suppositum speciei humane,⁹ cum sit filius hominis; ergo est homo univoce. Maior patet ex hoc, quod omne tale suppositum est illa species, et per consequens quiditas vel racio speciei. Et sic eadem est communis racio illi individuo et cuilibet¹⁰ eidem sibi¹⁰ in specie. Cum ergo illa descriptive dicuntur univoce predicata; quibus competit eadem racio predicati, patet quod non potest esse individuum speciei humane nisi sit homo univoce; aliter enim individuum esset homo, et non diffinicio vel quiditas hominis; et hoc esset ponere hominem non esse hominem. Minor¹¹ autem argumenti patet ex fide. Nam secundum Apostolum ed Hebre. 2. ‘nusquam angelos apprehendit, sed semen Abrahe ut fieret per omnia fratribus consimilis¹²;’ quia tam secundum naturam corpoream quam¹³ incorpoream,¹³ et illa sunt omnia. Et consequenter¹⁴ similatus est fratribus suis secundum omnia accidencia positiva¹⁵ naturaliter consequencia¹⁶ has naturas. Aliter enim non esset ‘mediator [p. 88] Dei et hominum homo Christus,’¹ ut dicit Apostolus prima ad² Thimo. 2.
+
+[ENGLISH]
+
+## ¶7 · 88.3–88.28
+
+> [p. 88] Confirmatur primo ex testimonio Augustini. Nam in De Vera Religione 27; ‘Ipsa, inquit, natura suscipienda erat que liberanda.’ Et 2°. De Visitacione Infirmorum; ‘Homo Deus participatus est nostre³ humanitatis ut nos participemur sue divinitatis;’ et sequitur; ‘quod tu es, fieri dignatus est.’ Et ad idem vadit processus Anselmi in libro suo Cur Deus Homo; et De Incarnacione Verbi; ‘quod aliter non fuisset competens satisfaccio pro peccato primi hominis, nisi individuum eiusdem nature, et sic idem in specie, solveret debitum, quod natura debuit creatori⁴ suo.’ Nec memini me legisse in scripturis alicuius doctoris famosi oppositum. Unde Lincolniensis⁵ in suo Exameron dicit quod Christus est homo eiusdem racionis cum⁶ aliis. Et idem dicit sanctus Thomas et omnes ponentes universalia ex parte rei. Sed et multi non ponentes universalia preter signa; quia multi philosophi, sive fideles sive infideles, conversantes cum Christo et ipsum sencientes, ut apostoli,⁷ haberent conceptum specificum in anima, qui signaret illis⁸ univoce illum cum aliis; quia aliter fuisset Christus illusor maximus, qui ad hoc ostendit eius humanitatem humanis sensibus, et verbo docuit ipsum esse verum hominem. Philosophi ergo habentes terminos vel conceptus specificos, quos vere predicarent de pronominibus demonstrantibus⁹ recto Christum¹⁰ cum aliis, haberent¹⁰ conceptus univocos Christo et aliis: et hoc sufficit ad univocacionem ac ydemptitatem specificam iuxta sic loquentes. Ergo conclusio.
+
+[ENGLISH]
+
+## ¶8 · 88.29–89.10
+
+> [p. 88] Confirmatur tripliciter. Primo ex hoc quod peccatum est illudere communicantes per verba vel signa sophistica; sed sic fecisset Christus potissime, si non habuisset aliquam denominacionem univocam cum aliqua creatura; ergo peccasset maxime. Pro assumpto dicitur Ecclesiastici 37. ‘Qui [p. 89] sophistice loquitur, odibilis est.’ Et Enchiridion 14. ‘Verbis uti ad fallaciam, non ad quod instituta sunt, peccatum est.’ Christus autem sepe¹ dixit se esse filium hominis et naturaliter ostendit se esse accidentatum² multipliciter; necnon et² passionem et mortem et resurreccionem predixit Apostolis ut patet Matth. 16, unde Petro dicenti sibi, ‘Absit hoc a te, Domine;’ respondit Veritas; ‘Vade post me, Sathana: non sapis ea, que Dei sunt.’ Et tamen eandem sentenciam Petri dicunt modo scolastici. Sequitur quod vel Christus fuit falsissimus³ vel illi sunt racionabiliter arguendi.³
+
+[ENGLISH]
+
+## Harris's side-notes (PD, verbatim; not our translation)
+
+<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
+     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
+     page.line where a note is misplaced, and delete this comment. -->
+
+- 85.1: Cap. VI.]
+- 85.2: \_Ostendit
+- 85.3: hominibus
+- 85.4: Christus
+- 85.5: creatura.
+- 85.5: T/iis
+- 85.6: and in the
+- 85.7: discussion
+- 85.8: further the
+- 85.9: accordance
+- 85.11: Ex istis
+- 85.13: cum quolibet
+- 85.14: Christus est
+- 85.15: 5 corpus
+- 85.16: latur ; ergo
+- 85.17: Non enim • • • -ti j i.« .... ., a man simply, cipns omnmo
+- 85.19: principiatur
+- 85.20: 10 humanitas
+- 85.21: respiciunt,
+- 85.22: Christus non
+- 85.22: • . " individuals of a
+- 85.23: homo enim
+- 85.23: such existence
+- 85.23: Confirmatur
+- 85.23: 1 5 cum sit pars
+- 85.23: ipsum
+- 85.23: reducuntur.
+- 85.23: ° a species, nor
+- 85.23: A86a] in specie,
+- 85.23: negantes
+- 85.23: 20 sit suppositum
+- 85.23: 4 fuerit in
+- 85.23: corpus et
+- 85.23: ,. , r\ i he the human
+- 85.23: speciei cum
+- 85.23: 1 est om. 0. 2 eius 0. 3 per
+- 86.1: Another way of stating this argument adapted to meet Nominal- r 1 L ists-
+- 86.16: And (2) christ is formally man ■with a humamty (i.e. form
+- 86.18: humanity^6 'of
+- 86.19: when ""different
+- 86.20: t?c1pateUalSinPara
+- 86.21: that/or»» can be
+- 86.22: each'Caof them
+- 86.23: thesune iense™
+- 86.28: And (3) neither
+- 86.29: Jhe Spwt"; Zt
+- 86.30: man: sinceChrist
+- 86.31: tion toman than the Father or , nQ ^ , , Spirit is,
+- 86.31: 1 posito 3 vel A B 6 signantes 9 et add. 12 unitate A 15 denudata 18 inveniret 0.
+- 87.2: Sjj^^.iJS
+- 87.3: Jjjijjjj^ £
+- 87.4: fpJJIJes ; and in
+- 87.5: 5 genus^andspecies
+- 87.6: man'
+- 87.14: II.— Every individual (supposi-
+- 87.15: 15 of the hu-
+- 87.15: man species is literaiiy and in the same sense L x
+- 87.17: ^ei™n ; S(mhrof
+- 87.18: JndlViduaT-there^ fore ne 1S a man*
+- 87.27: A86b] That Christ ia
+- 87.27: son of man, and . -i , . - ,o did not take on
+- 87.30: 30 cathoiic faith
+- 87.31: based upon Holy . 1fi . . ,. scripture.
+- 87.31: C ; gradu 0.
+- 87.31: om. B. om. B C.
+- 87.31: AB C.
+- 88.3: cSriJttooke<b*t
+- 88.4: upon'8 himtUris
+- 88.5: gus?inef by
+- 88.8: Anseim,
+- 88.14: Grossteste,
+- 88.16: ThomasAquinas, and by all x _ ... Reaiists : even lnany Nominalists admit it; as they needs must,
+- 88.19: no^n^Christian611 phiiosophersconceive of Chnst as 1 7 *
+- 88.21: man-^Tnd if^he
+- 88.22: ^•as theVrSsest of deceners.
+- 88.29: ment ]>roved Ein
+- 88.31: sopMsUcTi use
+- 88.32: EccfesiastTcus8'
+- 88.33: Yxx. and Vuig.
+- 88.33: 1 Iesus add. 4 deo. A B 7 philosophi io_io Chnstum
+- 89.1: Cap. VI.]
+- 89.1: sophistice
+- 89.1: spoke of
+- 89.2: nti ad
+- 89.3: Christus
+- 89.4: raliter ostendit
+- 89.5: 5 et2 passionem
+- 89.6: ut patet
+- 89.7: As St- P6t6r
+- 89.7: Domine ; '
+- 89.8: sapis ea, que
+- 89.9: . • ei ii/^n* ^ ' Christ spoke of
+- 89.9: dicunt modo
+- 89.10: L , . unreal sense, so 10 3 falsissirnus
+- 89.10: , adays need tbe
+- 89.11: 2°. per
+- 89.13: passibilis,
+- 89.15: homo : que
+- 89.17: de virtute
+- 89.17: 1 mg, etc, he had
+- 89.18: 15 ciantem
+- 89.19: secundum
+- 89.20: acciclentatus
+- 89.21: homo est
+- 89.22: ex hoc quod
+- 89.23: 20 dum quod
+- 89.24: sic denominatus,
+- 89.25: Primum
+- 89.26: [A86c] informari |
+- 89.27: humanitatem
+- 89.28: 25 accio. Et
+- 89.29: pati, ascendere,
+- 89.30: B132a] sonales {
+- 89.31: dochica,
+- 89.32: cionem,11
+- 89.33: 30 quod hec
+- 89.34: secunclum
+- 89.35: — cum
+- 89.35: 2- - autenticum 3- 3 falsnm 5 enim 8-8 nec 11 predicacd 0.
+
+## Notes
+
+## Transcription notes
+
+- **Plate readings** (CONVENTIONS §3.4; page · reading · note):
+  - 88: *ad* (print = bt (Et ad idem)) [SUB]
+- **Omitted per §3.5 / kept in the English** (margin matter): reference of™angeis? Heb! (87.29); reference I. Tim. ii. 5. (88.1).
