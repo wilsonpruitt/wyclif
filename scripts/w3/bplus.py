@@ -67,14 +67,26 @@ def tokens_of(lines, page):
     """Lines → tokens with the printed line number; line-end hyphens joined. Footnote marks become their own
     tokens (foot=True), as in the vote's text."""
     toks, ln, problems = [], 0, []
+    # printed line numbers govern: Harris's margin figures do not always match a count of the body lines
+    # (De incarn. p. 3: '5' beside the 4th), so the lines since the last mark shift to agree with it
+    since = []
+    for L in lines:
+        if L['kind'] != 'body':
+            L['ln'] = 0
+            continue
+        ln += 1
+        L['ln'] = ln
+        since.append(L)
+        if L['mark'] is not None:
+            if L['mark'] != ln:
+                problems.append(f'p. {page}: printed line {L["mark"]} counted as {ln}; the print wins')
+                for M in since:
+                    M['ln'] += L['mark'] - ln
+                ln = L['mark']
+            since = []
     carry = None                                  # a hyphenated word waiting for its second half
     for L in lines:
-        if L['kind'] == 'body':
-            ln += 1
-            if L['mark'] is not None and L['mark'] != ln:
-                problems.append(f'p. {page}: printed line {L["mark"]} counted as {ln}; the print wins')
-                ln = L['mark']
-        cur_ln = ln if L['kind'] == 'body' else 0
+        cur_ln = L['ln']
         for k, w in enumerate(L['words']):
             if carry is not None:                 # the second half of a line-end hyphenation
                 carry['t'] += FOOT.sub('', w)
@@ -146,9 +158,11 @@ def garbage(counter, run, lex):
         return True
     if len(c) >= 3 and r.startswith(c):            # cut off (secun, extran)
         return True
-    if len(counter) == 1 and len(run) == 1 and confusable(counter[0], run[0]):
-        return True                                # a known OCR confusion (lesus = Iesus)
-    return not any(lex.real(w) for w in counter)
+    if len(counter) == 1 and len(run) == 1 and (confusable(counter[0], run[0])
+                                                or counter[0].replace('y', 'u') == run[0]):
+        return True                                # a known OCR confusion (lesus = Iesus; Harris's V read as Y)
+    # no real word the transcription lacks (footnote figures aside): partial garble around the same words
+    return not any(lex.real(w) and w not in run for w in counter if not w.isdigit())
 
 
 def main(slug, first=None, last=None):
@@ -160,6 +174,8 @@ def main(slug, first=None, last=None):
     last = int(last or off.get('last_page') or 9999)
     lex = Lexicon()
     ford = load_witness_pages(f'{base}/witnesses/fordham.jsonl')
+    for pg in [p_ for p_, ws in ford.items() if re.match(r'\[?This work begins', ' '.join(ws[:4]))]:
+        del ford[pg]                               # Fordham's placeholder for pages before its text
     rowbox = defaultdict(lambda: [10 ** 6, 10 ** 6, 0, 0])
     for l in open(f'{base}/witnesses/{item}.jsonl', encoding='utf-8'):
         t = json.loads(l)
