@@ -41,53 +41,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 175.1: 1. As man Cbrist'sgooduess is finite ;
-- 175.5: but his goodness and his entity are convertibie;
-- 175.9: C91a] therefore his
-- 175.9: entity as man is ' ' M '
-- 175.10: 10 fimte-
-- 175.17: 2- rfne quantity and quahty oi
-- 175.18: £J|li* ^tyare Jje same*
-- 175.32: 5 isti A B C. ad a b moto C ;
-- 176.3: 3. Every difference. whether x essentiai or accidental, of the '
-- 176.5: dTfference ot the humamty.
-- 176.27: x. The humanity of Christ has . . . . ...... causes and
-- 176.29: cuiiar to man it is therefore '_ . man; and other man than the man christ. [C 91b]
-- 176.33: 1 puno. 4 p~cie A B 6 communicaret
-- 177.2: fat^^l7 bldii
-- 177.3: aftfrThe SuS»
-- 177.4: ^f^/iisfand
-- 177.5: 5 appiieseStoPttbe
-- 177.6: ch"istllty °f
-- 177.23: Soul and body united constitute . ...
-- 177.24: I97dl bumanity ; and
-- 177.24: in tbe case of x , . m #
-- 177.25: 25 christthe incar-
-- 177.25: nation does not interfere witb tbis result. °
-- 177.33: 3 sic A B C. (om. sit) 0. non est om. 0.
-- 178.2: Intrinsic causes (principia) their union con6titute an mdi- r 1 \iduai.
-- 178.5: Christhavingthe intrinsic causes, . . " corpus anitna, . . .
-- 178.9: christ has animal nature ; and x thisnatureisnot debarred by the
-- 178.11: incarnatjonfrom
-- 178.12: < «lon fiom t0 the
-- 178.13: crfaturesMpfthe beaufic vision :
-- 178.24: johnxvii. 3.
-- 178.32: 1 et om. A 4 que 7 assumpta 10 cum om. 13 sed secundo C.
-- 179.12: wberebythatnature attains the denomination of
-- 179.20: ota^umSfper!
-- 179.21: oartcfthe ^ppii?
-- 179.22: r«a?n denommations to the hu- ,. , . manity of christ. His humanitv . , . . , , , , , . . was capabie df
-- 179.25: 25 theother charac-
-- 179.26: teristics of man . . as an animal.
-- 179.33: 3 quid 0.
-- 179.33: om. A B C.
-
 ## Notes
 
 ## Transcription notes

@@ -47,55 +47,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 154.2: When the Fathers say that °
-- 154.3: Chris^u™ufferedf
-- 154.4: that' ^cThrist^in
-- 154.5: suffered^etcT'1116
-- 154.12: Objection iii.
-- 154.13: personaiity nor individualitv in the being which isassumed;) then the assumer, the fC 84b creator, the cause _ are respectiveiy identicalwiththe J thing assumed, created, caused ; r
-- 154.18: assumed G°d
-- 154.22: Repiy. As in the Trinity there is in the divme nature . begetter and begotten, and in
-- 154.25: fective1/^ faher andson; so the Word r
-- 154.31: l-x ideo cum
-- 154.31: 3 specialiter 6- 6 deducendo veniencia C ; 7- 7 humanitas 9 effectus
-- 155.1: inciuding deity, soul, and body, is both the assumer and the being assumed.
-- 155.9: !29a] J$ £ £s G°d
-- 155.10: 10 JeUJSSSimta
-- 155.11: o? lytherecreated nature-
-- 155.13: christ, who is a
-- 155.14: created^suffers*
-- 155.15: - etc. : the divine _ ,t -| i . ,. T. . , lo nature is not
-- 155.16: krs^c™*
-- 155.19: The error of Roscellinus, the
-- 155.20: 20 Nominaiist, is
-- 155.20: answered by Anselm w» . his De Incarnatione. x
-- 155.32: 3 illud A.
-- 156.6: ^naSvft^a
-- 156.7: twofoid fit|j^ion,
-- 156.8: essence.
-- 156.20: Discussion of the filiatio of Christ "(«) eterna, (b) humana.
-- 156.23: ieZna)1 = per
-- 156.32: 1 accidat 4 plus om. 7-7 ergo . 9 potuit 12 oporteret
-- 157.12: To resume tbe general argument; aithough God is not assumed. Christ is assumed. x x
-- 157.15: who anathema- 7 °
-- 157.16: |jfes theSpropo°
-- 157.17: ^n^Thrist^Jesua was assumed-
-- 157.19: And this is Catholic truth. 1 *
-- 157.30: om. B. dei ut AB ;
-- 157.30: dominum A B C.
-- 157.30: verba om. C. et si negatur 0.
-- 158.10: therewapereonal identity of dif- _ ferentnatures, L° in tbe Trinity .... _ ..... . there is an identity of persons in the prima essentia.
-- 158.24: To expiain
-- 158.25: mSueave subtie discussion and ... faii back on the fundamental , ..... factsofthedivine nature and the divine wiii;
-- 158.32: sic duplex
-- 158.32: 3-3 sed est 5 hodie om. 7-7 natura 8 personarum 11 causam
-
 ## Notes
 
 ## Transcription notes

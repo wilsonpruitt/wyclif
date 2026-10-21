@@ -47,63 +47,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 150.17: objectionii. Every man is a person ; if christ did not assume a person, he did not assume man.
-- 150.25: Repiy. This clusion follows from pressing needlessly a dis- 7 7 r tinction of reiation as though lt wereadistinction
-- 150.29: iTin"ne Trinity
-- 150.30: ^SSStedK
-- 150.31: tnegUdivfne pe™
-- 150.32: common" three Persons : • . '• , ••% j ■,
-- 150.33: 1 don (i.e. * plus 7 quod
-- 151.1: and no Person can be thus inade common; nevertheless every di™ peraon ia the divine nature :
-- 151.7: *° t ^ wot"°s
-- 151.8: ~n!ty l° aiS
-- 151.9: J|[j;rd xYsmtJ ' Jill
-- 151.10: 10 tSnbetween^hat
-- 151.11: the
-- 151.11: Eumanity:d
-- 151.12: form of man
-- 151.13: convertibie term with person. . . „ , .
-- 151.18: [A 94c] So Anseim.
-- 151.21: of man consists of two natures essentially dis- u j. x '
-- 151.23: JJJho^' body
-- 151.29: so according to
-- 151.30: 30 creed^God^and
-- 151.31: christ.'
-- 151.33: quieta 0.
-- 152.1: assumea Word [0 228d]
-- 152.2: thTrathe^often say'
-- 152.8: Man is the con-
-- 152.10: e!lhermafor ^the
-- 152.11: pa-Ton of°man.he
-- 152.19: the form^eTsense
-- 152.20: assunJcT mS
-- 152.21: latterf
-- 152.25: Distinction tween humanitas , , , , ..„,. . , and homo: humanitas like _. . . . -. other abstract terms is not . aiways used the strictly ah- . ... stractsense
-- 152.34: 1 de vi vocis 3 sumit A 6 queretur
-- 153.1: of the pure essence apart from accidents.
-- 153.10: Jhe. Fa*ers us.e tneterm humani-
-- 153.11: [Jj£alSJin52
-- 153.12: ^bstract betWand A™gJJfen:e< as
-- 153.32: est quod 0.
-- 153.32: censeo.
-- 154.2: When the Fathers say that °
-- 154.3: Chris^u™ufferedf
-- 154.4: that' ^cThrist^in
-- 154.5: suffered^etcT'1116
-- 154.12: Objection iii.
-- 154.13: personaiity nor individualitv in the being which isassumed;) then the assumer, the fC 84b creator, the cause _ are respectiveiy identicalwiththe J thing assumed, created, caused ; r
-- 154.18: assumed G°d
-- 154.22: Repiy. As in the Trinity there is in the divme nature . begetter and begotten, and in
-- 154.25: fective1/^ faher andson; so the Word r
-- 154.31: l-x ideo cum
-- 154.31: 3 specialiter 6- 6 deducendo veniencia C ; 7- 7 humanitas 9 effectus
-
 ## Notes
 
 ## Transcription notes

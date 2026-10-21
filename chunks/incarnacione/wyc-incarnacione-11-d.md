@@ -35,37 +35,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 197.10: 10 (Godcannotiove
-- 197.11: nature of man so mucb as He loves a nature which Heassumes.)
-- 197.14: AlOOb]
-- 197.22: (Suchhypotheses involve impiety as weii as ab-
-- 198.32: 1 productibilium 2 posito 3 particula 6 homines
-- 199.3: io. Apantheistic hypothesis. *
-- 199.7: that7the
-- 199.8: SS^S^God^
-- 199.9: AlOOc] faSffit^of^iSfl
-- 199.24: which, if not expressly stated, is 1
-- 199.25: 25 nSy^Scriptnre)
-- 199.33: . . . se om. B.
-- 200.5: idie hypotheses based on the divineomnipotence encourage dangerous heresies.
-- 200.31: Many of those who allow such
-- 200.33: 1 iusticionem 3 vie ABC. 4 vel A B C. 5 numeraliter
-- 201.1: hypotheses go further and admit aii kinds of incongruities ° _
-- 201.3: MOOd] concerniug the
-- 201.14: ^jjjj ^hfie^to
-- 201.15: 15 dlscuss-
-- 201.27: What -would haPPen if christ assumed many " " J
-- 201.29: This idle ques-
-- 201.30: untruthase gives rise t0 manifold ■ • i -i -n t •! •
-- 201.30: 20 error.
-- 201.30: 4 illud 0.
-
 ## Notes
 
 ## Transcription notes

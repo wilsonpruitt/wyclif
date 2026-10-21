@@ -41,30 +41,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 121.1: rB 138al in usins this < \-
-- 121.1: pression ' habi- 1 m . tus' of the humanityof Christ. _ 1 _ ...
-- 121.8: Repiy to confirmation 1 (p. 117, *
-- 121.12: to confimatfon
-- 121.16: [A90d] [reference to p.
-- 121.22: to confirmation (P- U7,L 22). . .
-- 121.33: A B C. autem 0.
-- 121.33: A B C.
-- 122.7: The assertion that God is man
-- 122.8: bTiUyof chriT"
-- 122.11: Justine°and ^the
-- 122.12: §SSSfla the [C75a]
-- 122.13: ?^kyto^idem
-- 122.25: 1. Christ is with hisbrethren by his agreement with them m a specific nature. 2. He truly suf-
-- 122.28: f^He was
-- 122.29: jsgsapp"
-- 122.29: 1 sequitur 4 tn (tamen) 7-7 cum . . 10 ypostatice 12 propter convenienciam 0.
-
 ## Notes
 
 ## Transcription notes

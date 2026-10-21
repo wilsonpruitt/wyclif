@@ -23,46 +23,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 158.10: therewapereonal identity of dif- _ ferentnatures, L° in tbe Trinity .... _ ..... . there is an identity of persons in the prima essentia.
-- 158.24: To expiain
-- 158.25: mSueave subtie discussion and ... faii back on the fundamental , ..... factsofthedivine nature and the divine wiii;
-- 158.32: sic duplex
-- 158.32: 3-3 sed est 5 hodie om. 7-7 natura 8 personarum 11 causam
-- 159.7: . accordance with the Chns- 1 & r
-- 159.8: gjjjpture11, Han5
-- 159.9: !^tborityCo"the
-- 159.10: 10 ^ec^the^rare
-- 159.11: wSwlrdftothl
-- 159.12: Se^mysterieiTof
-- 159.13: 6a] tee abundantiy
-- 159.14: pTamed by light
-- 159.15: 15 uiustrated &by
-- 159.16: evidence and examples, and the ,., , , . .. • , • -nsubtie objectors refuted on their . . own ground. Thusthemystery °f the incamation may be illus- x x
-- 159.20: 20 trated . by three
-- 159.21: Twoaccidents
-- 159.22: <iuality» having no separate ex- u * 1
-- 159.23: the same^as the^ir
-- 159.24: 5c] ^M^tter and
-- 159.25: 25 [hemseivesfmay
-- 159.26: one essence-
-- 159.29: The union of
-- 159.30: 30 b°dy
-- 159.31: B C ; sice ne AB C.
-- 159.31: etc. 0.
-- 160.1: and soui in the person of man.
-- 160.16: The moderns say
-- 160.17: manity of Christ
-- 160.18: aithough it is reasonable sub- , , . . ... stance composed ofbodyayidsoul; (cf. p! 127, 1. 12) hecause by the hypostatic union Chrisfs human- 1 1 ityisunitedtoan ahen substance ; and this annuis the negative condition non suppositata suppo-
-- 160.25: which isCa "neces-
-- 160.26: deftnftion of humamty.
-- 160.27: 1 concorditer 3 Ppe 4--4 ut posito 5 composit
-
 ## Notes
 
 ## Transcription notes

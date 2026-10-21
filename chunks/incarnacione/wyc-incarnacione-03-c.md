@@ -47,60 +47,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 36.1: contravene the concurrent testimony of Hoiy Scripture, the * creed, the fatners and doctors, that L r
-- 36.4: m^thJthreedTys11 [C 48a]
-- 36.6: if christ ceased to be man in the three days, it follows that there was a second Incarnation at the resurrection. [0 219d]
-- 36.15: Three reasons against this.
-- 36.16: to ^he^absurd
-- 36.17: hi" clTCsurrection
-- 36.18: generaSn) were ldenticai.
-- 36.28: 1 approbatis 2 lingva 4 errorum 8 et post 11 reloquendo 15 dupliciter 18 vel instanti resurrectionis 20 esset 22 creatum creata anima 23 proporcionalis A B C.
-- 37.5: ^i^rawh^gout
-- 37.6: j{ ^eJtedthhTgs
-- 37.7: ™hee°ra^
-- 37.8: jj?^ nSt
-- 37.9: bound"
-- 37.9: [A 79d] tes^gS^
-- 37.20: gpe^ptJJJ e bira
-- 37.21: Jjjj? ^/tiiree
-- 37.22: andwe^musttake
-- 37.23: „terai!y.e
-- 37.31: om. perficiens 0. pervenissent B.
-- 37.31: venissent add. B
-- 37.31: omnia alia B.
-- 38.2: if we introduce finedrawn philo- . . . sophicai giosses into Scripture, wereach absurd conclusions : . .
-- 38.9: Uohniv. 6, 9.
-- 38.12: as severai examples show.
-- 38.29: isa. n. l.
-- 38.31: non
-- 38.31: 4 eam add. 8-8 relinquet 10 resoluta A 13 veritatem
-- 39.8: rum similia.3
-- 39.11: N°t ™\y was the body of L ... J^[ist °uried,
-- 39.19: 20 christ himseif
-- 39.19: was buried, ° ± r
-- 39.21: christ lay in the
-- 39.22: the ' hypostatic union with the . , . .
-- 39.23: B 122b] Wordremaining;
-- 39.30: A B C,
-- 39.30: quod om. 0. om. A B C.
-- 40.1: in virtue of
-- 40.2: and the water
-- 40.3: from his side were effectual. .
-- 40.9: isa. xi. lo.
-- 40.16: it is not a vaiid objection that, ^ L in speaking of dead body or A ' ■*■ separate soui as a ' raan,' we use ' r
-- 40.22: popuiar not philosophical ( m language.
-- 40.25: The muititude may speak truth :
-- 40.28: Christ himseif
-- 40.29: thar°Theygeaid,
-- 40.30: " chHs^TbiTeth for cver "
-- 40.32: 1 que tunc 4 qui stat 7 obicitur 9 communitate 10 turpe 13 eundem
-
 ## Notes
 
 ## Transcription notes

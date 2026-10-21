@@ -53,50 +53,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 57.7: in thethree days Christ not only had a body, but
-- 57.20: a bodiiy sub-
-- 57.25: [C 54b] in Cowton'*
-- 57.25: summary of
-- 57.26: 25 D««s Scotus it
-- 57.26: is stated that 1 ■L Christ in the three days was
-- 57.28: bu°motmJo^s»'.' bQfdthls wjU not
-- 57.32: et capud B. AB C. sit om. C.
-- 57.32: mortuum om. 0.
-- 58.14: Thecreatedspirit of the Word, , - f . ... being in the 1 three days the soui (aniina) of
-- 58.18: christ^-^not^of course in his divme, but m his human nature .-
-- 58.33: I ac A B 5 per totum 6 anichilata II Christum 14 sortitiretur 17 quoniam
-- 59.12: Christ was therefore human ln * the three days :
-- 59.21: andthemoderns, ■who say that ch™8t the5 had neither body nor A J soui, are in error; and practically r
-- 59.24: ^"^f handeade'
-- 59.25: 25 scent mt0 helL
-- 59.32: 4 quum B.
-- 59.32: nfe (nostrej 0.
-- 60.3: i. PeterLombard condemns thera ; and so does Bonaventura,
-- 60.17: with whom st.
-- 60.18: agrees.
-- 60.22: ii. Thecreedaiso,
-- 60.23: Christ lay8 in the
-- 60.24: cended into heii, implies that he . . . possessed body and soul.
-- 60.31: 1 mensura 4 illam 7 dicentes om. 0. 8 zx (duplex) B. 9 unione unione acca 9° 10 corpus in 12 aliter
-- 61.1: iii. These arguments from authority suppiemented by a
-- 61.3: Continuous per«onaiity impiies the continuous * * * r
-- 61.5: 5 possessionof tbe
-- 61.5: parts which congjjjute the per"
-- 61.11: [As, by anaiogy,
-- 61.12: christ?mystical
-- 61.13: though splritu^11^ dead, are • i • • tq • n i t i-i n • stiii members
-- 61.14: - and not heathen _ . . ly men.]
-- 61.23: Again, if the wonTdied' tne
-- 61.30: substancias 0. extere 0. quia A B C.
-- 61.30: ut fere semper.
-- 61.30: dei est homo
-
 ## Notes
 
 ## Transcription notes

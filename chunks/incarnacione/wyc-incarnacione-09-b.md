@@ -53,66 +53,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 146.1: As deductions they deny that , ... many natures can be the person of the word. And as in every man his individual existence and his essence (homo and nu-
-- 146.6: tinguished are ; dis-
-- 146.7: ash«ume the indi!
-- 146.8: ofdUaal mantebut
-- 146.9: thiT^cannot ^be
-- 146.10: ole 0i>wi!hallythe [C
-- 146.11: itiJnecessary
-- 146.12: wide deviations to assurae the , . , j. t three propositions called in . . . questionabovein the three roots, . , . ... pp. 144, 145, viz. 1. the existence of universais ; 2. the identity r . . . between the and the indi-
-- 146.18: ^the^ideSyof esspnce (abstract)
-- 146.20: enceVidUal "^*"
-- 146.21: tions^cwSde^d"
-- 146.22: ThetCtWord
-- 146.23: by^ssumin^Tu-
-- 146.24: a^pereonT 1C
-- 146.25: Hepiy.
-- 146.26: aiready^being^a person could not . . . _T . n .A become a person.
-- 146.33: The assumption oi personality m — the incarnation
-- 146.34: 1 Vaguani
-- 147.1: istheunitingtwo natures in per- , sonai union. Personal union . may be nnderstood in three senses. 1. A sense in r LL
-- 147.5: 5 whichtheTrinity
-- 147.5: took human na- * ture2. A sense m J r
-- 147.7: naVurVaLumeT
-- 147.8: j£bjh®t ^he^nature of man-
-- 147.11: 3. The sense in which the Word as a personai cause took hu- x A man nature into personal union x L with himseif.
-- 147.19: Further, />ersonal assumption 1 x A J-
-- 147.20: 20 consists in a
-- 147.20: pejson assuming nature-
-- 147.25: 25 person cannot
-- 147.25: assume a person ; J L L [or nothing can be somethmg ri 1 else-
-- 147.33: add. 0.
-- 147.33: iterum 0.
-- 148.3: iii. The incamation is not .
-- 148.7: a generation,
-- 148.14: nor a conversion of substance,
-- 148.16: norachange into something else ;
-- 148.21: but an identification . ...
-- 148.23: of an essence nature, not of an individuai person, with the 1 ' rr WoiT °f the
-- 148.31: 1 uni?* (sic) 3 quomodolibet 4-4 licet 6-6 assumpcio 8 componens 9 tollitur A 11 Psori (i.e.
-- 149.10: Aithough after the assumption ...... . . christ was something other than . . . . he was before,
-- 149.16: [A94b] j.^JeJ "Jjjjjjjj
-- 149.17: a person.
-- 149.29: Theoniyassumption possible is
-- 149.30: 30 assumption of
-- 149.30: substance, not °h\r\n{orma in~
-- 149.33: inherente in
-- 149.33: :quid quod C.
-- 150.17: objectionii. Every man is a person ; if christ did not assume a person, he did not assume man.
-- 150.25: Repiy. This clusion follows from pressing needlessly a dis- 7 7 r tinction of reiation as though lt wereadistinction
-- 150.29: iTin"ne Trinity
-- 150.30: ^SSStedK
-- 150.31: tnegUdivfne pe™
-- 150.32: common" three Persons : • . '• , ••% j ■,
-- 150.33: 1 don (i.e. * plus 7 quod
-
 ## Notes
 
 ## Transcription notes

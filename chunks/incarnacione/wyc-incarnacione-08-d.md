@@ -59,56 +59,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 134.1: Christ is therefore a created person, and therefore has a twofold personality. Answer. Christ did not become a person through taking nature of body
-- 134.6: spirit.
-- 134.7: His personation
-- 134.8: person accidental properties are the cause of individuality ; Christ isaperson^erse.
-- 134.21: As every other before aliquid homo, so Christ is persona before he is hotno.
-- 134.31: d'ite
-- 134.31: 4-4 tunc . 7 concederent 0. * 8 Totus notatus in autem alia 9 esse add. B.
-- 135.1: objection. All that causes a human person is in Christ : therefore the resuit (a human per- A s°n.)Q must aiso
-- 135.11: ^id be acce™^cTmt. Wltness
-- 135.16: Answer. Cause does not , produce effect except by the ^iu of God.
-- 135.27: The Latin word
-- 135.28: BentsthreeGreek words ■ • •
-- 135.29: &92c] ^aTaais, 30 ovaiwais> and
-- 135.30: ovaiov. x Some translate
-- 135.32: the sense of persona by subsis- t . t-w • ™ • i tencia.
-- 136.4: SLhifS [C 79a]
-- 136.5: subsistencia,
-- 136.8: Thosewhowouid regard him as a person in evidence ( p. 135, ..... l. li) the same as other men, L 1 -i7 wouid do bo igrnorance of his divine nature.
-- 136.28: STv1
-- 136.29: Sentity hinS spe-
-- 136.30: men because^of
-- 136.31: the 1 ^inTteria
-- 136.32: Pmen)ma (—
-- 136.33: codd. A
-- 136.33: testimonium 2 indicare 6-5 sed . .
-- 137.2: °fJhimade b°bJ
-- 137.3: "™°ptio°f bynia virsm-
-- 137.5: 5 This objection is
-- 137.5: confirmed by an * opinion of Averroes. * *
-- 137.9: P*EjT- .. . . The divine m- 1.
-- 137.10: 10 h^e^^ffeSed
-- 137.11: the . matena proxima.
-- 137.22: 2. it is not proven that in th's case tbe materia proxuna was not made likethatof other 1 _ 1 '
-- 137.25: 7t),-| men-
-- 137.33: decindere 0. 8 capiti C 0. decidisset B.
-- 137.33: AB C.
-- 138.1: 3. To God the materia proxima 1 r
-- 138.2: Hendufesenag:ent
-- 138.3: according toffis own pieasure.
-- 138.24: «range andg in
-- 138.25: unprecedentedX
-- 138.26: itfreality"0^ °f
-- 138.31: 1 adeptj 4 liniatum 5 caret om. 6 tn (tamen) 7 suppositi 10 tamen C 13 invenio A B C.
-
 ## Notes
 
 ## Transcription notes

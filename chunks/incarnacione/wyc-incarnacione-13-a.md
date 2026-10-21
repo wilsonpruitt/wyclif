@@ -74,51 +74,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 216.7: [Ai02d
-- 216.23: 1. if christ every man, He is stiii oniy one man: for every * .
-- 216.25: used of each Sr viduai man.
-- 216.30: 1 alia C.
-- 217.10: 2: Th^ assumption ol many na- x x
-- 217.11: [^oiv/The as-
-- 217.12: msmy^men ■ na-
-- 217.14: accidems1121"^^
-- 217.15: 15 added)-
-- 217.26: ?■ If the Word is many men
-- 217.27: 5535S2 of hu-
-- 217.28: ^ery^man is&an
-- 217.29: Selte niany imn-
-- 217.30: 30 persons ; ™kicti
-- 217.31: 1S imD0SSlble-
-- 217.31: om. ABC.
-- 217.31: A B C.
-- 218.2: Jheorv^^which
-- 218.3: enceof the?o»io
-- 218.4: pHcatefthe Cproblem'
-- 218.13: 4. if the word is many different men, wherein do they differ? for ' each
-- 218.23: (o) Je«us has body and soul of . . . each individuai as his own parts, . . andconsequentiy every qualitative . . . partofman. Jlnmo in the 1 1 _ . \ concrete is personal term :
-- 218.28: \\ ordCtSaref the acts of the person Jesus Christ who is theWord.
-- 218.32: I supponente 4 ydemptite 7 expositorie 9 Christus om. 0. 10 ex eis om. 0. II ex corpore
-- 219.2: m Jiomines and humanitates are
-- 219.3: m>t^COnvertibie
-- 219.33: valet B. earum A B C. . . Christus 0.
-- 220.1: 5. if christ manv men, then . by graduai dis- [C 106a' missal of assumed natures, many [B 155b men would cease to be Christ.
-- 220.24: gupposing Christ to have assumed
-- 220.25: tieasnychahpUrxii" proved that He would not be
-- 220.27: chapter"1 foiiow-
-- 220.28: proved0that He
-- 220.29: maUly men0;1 be
-- 220.30: fore^be^nSfher
-- 220.31: and yet^it te^cer-
-- 220.32: man;hat He WaS
-- 220.34: nulla
-- 220.34: 4 idem A B
-
 ## Notes
 
 ## Transcription notes

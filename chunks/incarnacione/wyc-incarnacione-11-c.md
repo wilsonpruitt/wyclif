@@ -77,45 +77,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 193.1: And thia agreea -with the testi- , . ^ . _ . _ mony of Augustine. »
-- 193.6: The union Ls after thehumanity regarded as amaterialcause ; hut be/ore the lndiYidual man Chrkt; forpriorlty ln time and ° A -L
-- 193.10: 10 prioritymcausa-
-- 193.10: tion must be °
-- 193.15: illa.
-- 193.16: n a t,e asked,
-- 193.17: Sbject *of tWs
-- 193.18: i9d] bwctIs, that the
-- 193.19: 20 thelfirstnisubject
-- 193.20: the union of ... .. , of the created spirit (spiritus) ; but . the body aiso shares in the union:
-- 193.28: Ji^tiy6 c^aiied a
-- 193.29: 30 So^perfecthoon
-- 193.30: given. ^ratl^
-- 193.31: ) As to the dismissal of the x assumed nature,
-- 194.1: it is proved to be impossible by the words of Christ discussedinchap. v. ; and aiso be-
-- 194.5: aut iS inidPenrScai
-- 194.6: as^chap6 x °hts
-- 194.8: aiumption
-- 194.9: humanity^inlS!
-- 194.10: succeSon ^and
-- 194.11: tion of ethesu™iPe"
-- 194.12: otherPersona(m
-- 194.13: EiL^ten^absurd conclusions . , , wouid foiiow.
-- 194.33: illius .
-- 194.33: 3 humanum 7-7 humanum 10 Ei maneat i3_i3 aliquid
-- 195.17: UOOa]
-- 195.33: iterum add. B. in quo 0.
-- 196.31: quod om. ibi A C ; -6 tanquam assumet coree codd. corpore A B.
-- 197.10: 10 (Godcannotiove
-- 197.11: nature of man so mucb as He loves a nature which Heassumes.)
-- 197.14: AlOOb]
-- 197.22: (Suchhypotheses involve impiety as weii as ab-
-
 ## Notes
 
 ## Transcription notes

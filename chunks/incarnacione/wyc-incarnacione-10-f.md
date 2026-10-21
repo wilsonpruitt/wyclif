@@ -35,49 +35,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 179.12: wberebythatnature attains the denomination of
-- 179.20: ota^umSfper!
-- 179.21: oartcfthe ^ppii?
-- 179.22: r«a?n denommations to the hu- ,. , . manity of christ. His humanitv . , . . , , , , , . . was capabie df
-- 179.25: 25 theother charac-
-- 179.26: teristics of man . . as an animal.
-- 179.33: 3 quid 0.
-- 179.33: om. A B C.
-- 180.3: He had human organs of sight,
-- 180.4: andrsogforthe-ech'
-- 180.12: and performed human acts ;
-- 180.14: Pbu ' 5^8 34'
-- 180.25: these denominations belong to the Word oniy as man, and prove the completeness of his humanity as their subject. * _
-- 180.31: 1 et om. A B C. 2-2 cetera lime etc. B ; 3 propositum 6 quod A B 9 innate B 11 caliter
-- 181.13: Aiso spirituai denominations secundum ani~ mam apply to
-- 181.15: 93a] c^eri^tu.mandtythe
-- 181.16: JJ™* a°[
-- 181.17: Jjy^the^eatific
-- 181.18: 98b] ^£5' by £s™~.
-- 181.19: thG
-- 181.19: IS^Jnationl
-- 181.32: 1 infuerit om. 0.
-- 181.32: indubie om. 0.
-- 182.9: dents(?as**o»S)
-- 182.10: canb^predicated
-- 182.11: fore XeL 'maxL*'
-- 182.16: l.Suchaccidents can only exist formaiiy "in their supposite ; they exist in the humanity of Christ, . . which is itseif the supposite of r '
-- 182.20: the Word^there foreisman. 2. Thepossession of accidentai forms
-- 182.23: dentofly so conl
-- 182.24: andMshumanity
-- 182.25: ditioned1 by^the 2i
-- 182.26: 5o^;athey"are
-- 182.27: same 8°ubject.the
-- 182.32: fs ^not^God hcan
-- 182.33: redeem man- [C |
-- 182.33: 1 temporalis 3-3 a causa 6 mobile om.
-
 ## Notes
 
 ## Transcription notes

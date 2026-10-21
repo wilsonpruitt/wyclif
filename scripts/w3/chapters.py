@@ -35,7 +35,10 @@ META = {  # per volume: what the scaffold cannot derive
                          pilot='pilots/wyc-ecclesia-01a.md',
                          # pp. 1-2 are a Prologus under the work's title, before Cap. I (B+ volume: the
                          # transcription flags headings and the editor's bracketed arguments itself)
-                         prologue=True),
+                         prologue=True,
+                         # Harris's margin is a running English abstract of the whole treatise (~21,500 words),
+                         # not short notes: NOT reproduced (Wilson, 2026-10-21); the headnote says so once
+                         sidenotes=False),
 }
 TO_SUP = str.maketrans('0123456789', '⁰¹²³⁴⁵⁶⁷⁸⁹')
 MS_MARK = re.compile(r'^[A-D][¹1l]?\s*\.?\s*\d{1,3}\s*[a-d]\s*\.?$|^\d{2,3}\s*[a-d]?\s*\.$')
@@ -277,10 +280,13 @@ def main(slug, force=False):
                 margin.append(f'reference {txt} ({where})')
             else:
                 side.append(f'- {where}: {txt}')
-        out += [f"## {meta['editor'].split()[-1]}'s side-notes (PD, verbatim; not our translation)", '',
-                '<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in',
-                f'     text/{slug}/raw/leaves/ or archive.org/download/{item}/page/nLEAF.jpg), fix the',
-                '     page.line where a note is misplaced, and delete this comment. -->', ''] + side + ['']
+        if meta.get('sidenotes', True):
+            out += [f"## {meta['editor'].split()[-1]}'s side-notes (PD, verbatim; not our translation)", '',
+                    '<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in',
+                    f'     text/{slug}/raw/leaves/ or archive.org/download/{item}/page/nLEAF.jpg), fix the',
+                    '     page.line where a note is misplaced, and delete this comment. -->', ''] + side + ['']
+        else:
+            side = []
         out += ['## Notes', '', '## Transcription notes', '']
         if plate:
             out.append('- **Plate readings** (CONVENTIONS §3.4; page · reading · note):')

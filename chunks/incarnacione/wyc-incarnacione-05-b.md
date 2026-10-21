@@ -41,55 +41,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 68.1: and make our [B 12: | God more spite- ... fuithanthe(evii) god of the Mani- . cheans.
-- 68.5: i/00' dismissai
-- 68.6: human^oui '
-- 68.7: SsoiStbefairigit^
-- 68.8: i"ace the kmgUof
-- 68.9: leveiof biissthan any other samt [Al
-- 68.23: for the biiss heaven is continuous,everiasting, and secure. r
-- 68.29: logicaf^objection
-- 68.30: Sist bnot o!dy
-- 68.31: • per Saccidens
-- 68.31: 1 manichiorura
-- 68.31: 6-6 coesse. 8 contingisse n-u Lotus i3_i2 securitas
-- 69.1: it is repiied that blisa is an ° r abstract form, and only oon- A
-- 69.3: p^fcation^per accidens.']
-- 69.21: That of aii creatures Christ is . . . . the most biessed is obvious to all who . hol{\. the doctnne of the r ° ' incamation.
-- 69.31: sed C.
-- 69.31: A B C.
-- 70.5: The assumption of the humanity canies with it the blessedness of that humanity, [A84a]
-- 70.13: tinuitythof that biessedness ;
-- 70.17: wltnessesLe0
-- 70.22: although whilst . R , , , . christ was
-- 70.23: Mtf "Se body/
-- 70.24: was oniy experi-
-- 70.25: earnes?7 ^arraliter).
-- 70.33: 1 cognoverit 5 potest A 9 qualibet 12 uthero
-- 71.1: Proof iit. the humanity 1 1 . . , If the word cah be dismissed. it r r ' 1 , 1 . becomes when dismissed liable x u A
-- 71.4: word can * ____*
-- 71.5: 5 xJ^h is imP0S"
-- 71.16: The modernsadmit that sin in the humanity of the Word implies 1 Jr sin inthe Word-
-- 71.25: 25 And from this
-- 71.25: follow conse- , , . , , ., . , . quences so absurd, t i
-- 71.31: . aliud om. B
-- 71.31: om. B
-- 72.1: as to prove that the hypotbesis of . . , _ . _ . . ,. tbepeccabiiity the human na- _ ture of the Word after dismissal is untenabie.
-- 72.19: hy PgCracele
-- 72.20: heCh inseparahiy
-- 72.21: much more°is
-- 72.22: hypostati^unSon
-- 72.23: united ;ably
-- 72.26: nordoes the cry, 4My God, my . God, why hast thou forsaken me?'Matt.xxvii. 47, imply a dissoiution of the hypostaticumon. J r
-- 72.31: 1 isto C. 2 reniatur revinciatur aut 4 quod om. 6 suffocare 8-8 sibi
-- 72.31: in flagellacionibus iudeorum sed 0.
-
 ## Notes
 
 ## Transcription notes

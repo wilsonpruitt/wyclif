@@ -23,65 +23,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 213.1: Cap. XII.]
-- 213.1: anima generata
-- 213.2: organicum
-- 213.3: spiritus
-- 213.4: iuxtaposicionem
-- 213.5: 5 Patet itaque
-- 213.6: Christi est
-- 213.7: nisi subiectum
-- 213.9: consequenter
-- 213.11: est maius sua
-- 213.12: lOassumat3
-- 213.13: cionem
-- 213.14: monstrum,
-- 213.15: substancie ;
-- 213.15: ponant in numerum.
-- 213.15: 15 3° potest
-- 213.15: naturas
-- 213.15: sit dupla ad
-- 213.15: illis continuatis
-- 213.15: Tunc videtur
-- 213.15: 20 infinitum
-- 213.15: ubicunque
-- 213.15: concomitancie,
-- 213.15: quotlibet locis
-- 213.15: Deus potest
-- 213.15: 25 materias
-- 213.15: partem
-- 213.15: possibile, cum
-- 213.15: ut tactum est
-- 213.15: 104a] Item ex
-- 213.15: 30 assumendo
-- 213.15: hy the use of
-- 213.15: omne nomen
-- 213.15: multiplicantur,
-- 213.15: hoc nomen
-- 213.15: 4 duplam B 7 impossibile
-- 214.1: hvmanitas predicates the suhstantiai quahty
-- 214.7: term 6 uf6 the
-- 214.8: tieraotherUnnmst
-- 214.9: Tf Schri6sUs many
-- 214.10: isTai^men. He [A.101
-- 214.25: Any other treatment of words, such as in eflfect makes nomo to mean deitas,
-- 214.32: l-1 est homo personaliter de 3-3 substanciale 5 signat
-- 215.3: renders language meaningless : . ..
-- 215.26: JJJJy word^migbt
-- 215.27: an ™hinV° "dse
-- 215.28: piamiyWQatdoes mean'
-- 215.33: om. A B C. ergo om. A B.
-- 216.7: [Ai02d
-- 216.23: 1. if christ every man, He is stiii oniy one man: for every * .
-- 216.25: used of each Sr viduai man.
-- 216.30: 1 alia C.
-
 ## Notes
 
 ## Transcription notes

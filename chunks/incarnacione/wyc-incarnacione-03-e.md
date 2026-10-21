@@ -71,56 +71,6 @@ status: draft
 
 [ENGLISH]
 
-## Harris's side-notes (PD, verbatim; not our translation)
-
-<!-- OCR DRAFT, grouped by machine: correct every note against the plate (leaf images in
-     text/incarnacione/raw/leaves/ or archive.org/download/latinworks03wycl/page/nLEAF.jpg), fix the
-     page.line where a note is misplaced, and delete this comment. -->
-
-- 44.7: quotJdhOItoS
-- 44.8: But^Msdoctrine
-- 44.9: °orms8Ubrequire8 modification, as
-- 44.14: shown in the De Anima: else u 7 r aris? difficulties
-- 44.23: My doctrine is
-- 44.24: matter and form it was in the . • ... . . three days the
-- 44.26: Christas before. [A80d]
-- 44.28: T^ee^objections
-- 44.32: I falsisima 5 quantitativa 8-8 nisi 9 novi B. 10 computatus 0. II quam
-- 45.1: objcction i. "Adeadbodvis . . living body."
-- 45.6: Answer a body remains tne same * * ' *
-- 45.7: gl^JI^
-- 45.8: J™111^ a ^itSdrawn«
-- 45.14: objection ii.
-- 45.15: 15 body and soui in
-- 45.15: the three days, . . he was not dead."
-- 45.19: To which there are two answers. o • ia i ™ • i • i . i*i j • i .
-- 45.20: 20 Answer l. The
-- 45.21: body and soul _ . . . were then the body and soul of christ, but not composition. in
-- 45.31: (sic) C.
-- 45.31: quam corpus B.
-- 46.6: bod^and'
-- 46.7: oP Christ* Pbut
-- 46.8: fative' a norah"
-- 46.9: ^quantitative^ tive ' part. , „ . ...
-- 46.17: «^chdstn "was
-- 46.18: nor an" immorta!
-- 46.19: Sree ^daysf and
-- 46.20: man^aii.'"0*
-- 46.26: Answer. fle was both mortai
-- 46.31: 1 capud B 5 inbicem C 8-8 sicut A 11 abtG = 15 ultra om. 18 per hec 21 absolute
-- 47.11: and immortal.
-- 47.14: And there is no real contradic- u 1 1 lL
-- 47.15: 15 tionhere.
-- 47.32: sit om. AB. Iesu A B C. incipiens 0.
-- 48.3: denfai ac™uanuld
-- 48.4: Sguity thof &the terms empioyed.
-- 48.10: He wiii oniy use
-- 48.11: when body and soul are united.
-- 48.17: The author, foilowing Scripture, Augustine, Hugo de St. Victor, u. . ° and true phiiosophy, uses « man ' ° * for body and soui of man, even A when separated. [A 81b]
-- 48.29: Thus christ [0 220d] mained true man . . . . _. and a creature in the three days, . aithough the parts of his hu- r 1 ... __,..., . . _ man nature were then separated.
-- 48.33: specifica
-- 48.33: 3 sophistice 6 ad id'
-
 ## Notes
 
 ## Transcription notes
