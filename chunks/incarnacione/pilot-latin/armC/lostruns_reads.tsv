@@ -1,0 +1,13 @@
+page	pos	verdict	missing_words	note
+3	4	PRESENT		run is text of p. 47 (Sicut enim natura divina...), not on printed p. 3
+4	103	PRESENT		run is p. 47 text (salvatus sit natura humana...), not on printed p. 4
+4	119	PRESENT		run is p. 47 text (Magister Distinctione 22...), not on printed p. 4
+3	10	PRESENT		run is p. 47/48 text (pro illo triduo...), not on printed p. 3
+10	2	PRESENT		run is the end of printed p. 9 (compellantur ... signi-ficari), already in p009.la.txt; p. 10 opens dicere creaturam
+4	250	PRESENT		run is p. 47/48 text (pro illo triduo...), not on printed p. 4
+3	7	PRESENT		run is p. 48 text (Petri vel cuiuscunque sancti...), not on printed p. 3
+4	99	PRESENT		run is p. 47 text (est nunc homo immortalis...), not on printed p. 4
+4	204	PRESENT		run is p. 48 text (Petri vel cuiuscunque...), not on printed p. 4
+9	306	PRESENT		run is the apparatus (footnotes 11-15), not main text; main text of p. 9 intact
+4	7	PRESENT		run is p. 47 text (Ideo conclusio est impossibilis...), not on printed p. 4
+4	267	PRESENT		run is p. 48 text (sicut vocat Hugo de sancto Victore...), not on printed p. 4

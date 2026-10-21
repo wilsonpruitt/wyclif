@@ -1,0 +1,8 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks03wycl=secundum		1	accept
+1	THIN	latinworks03wycl=uiuaccm		1	plate
+2	EDGE	latinworks03wycl=1		1	accept
+6	R2	latinworks03wycl=oughttoabandon | fordham=casus | johanniswycliftr00wycl=casus		3	accept
+12	R2	latinworks03wycl=2 | fordham=∅ | johanniswycliftr00wycl=2		3	accept
+14	R2	latinworks03wycl=cubsionand | fordham=necessarie | johanniswycliftr00wycl=necessarie		3	accept
+22	THIN	latinworks03wycl=necessarftruth		1	plate

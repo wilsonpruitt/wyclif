@@ -1,0 +1,50 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks03wycl=omniuni		1	plate
+4	R2	latinworks03wycl=suis | fordham=suis | johanniswyclift03wyclgoog=suis | johanniswycliftr00wycl=suis | johanniswycliftr06wycl=siiis | tractatusdebened00wycl=suis		6	accept
+7	R2	latinworks03wycl=solu | fordham=solu | johanniswyclift03wyclgoog=soliicionibus | johanniswycliftr06wycl=solu | tractatusdebened00wycl=solu		5	accept
+8	R6a	latinworks03wycl=cionibus | fordham=cionibus | johanniswyclift03wyclgoog=∅ | johanniswycliftr06wycl=cionibus | tractatusdebened00wycl=cionibus		5	accept
+13	R3a	latinworks03wycl=ueri | fordham=ueri | johanniswyclift03wyclgoog=teri | johanniswycliftr00wycl=ueri | johanniswycliftr06wycl=ueri | tractatusdebened00wycl=ueri		6	accept
+26	R2	latinworks03wycl=de | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=de | johanniswycliftr06wycl=de | tractatusdebened00wycl=de		6	accept
+28	R2	latinworks03wycl=clicitur | fordham=dicitur | johanniswyclift03wyclgoog=dicitut | johanniswycliftr00wycl=dicitur | johanniswycliftr06wycl=dicitiit | tractatusdebened00wycl=dicitux		6	accept
+36	R2	latinworks03wycl=sireformetaphyhonoris | fordham=honoris | johanniswyclift03wyclgoog=honoiis | johanniswycliftr06wycl=bonoris | tractatusdebened00wycl=sireformetaphyhouoris		5	accept
+45	R6a	latinworks03wycl=yx | fordham=uix | johanniswycliftr00wycl=yix | tractatusdebened00wycl=yix		4	accept
+46	R3	latinworks03wycl=uos | fordham=duos | johanniswycliftr00wycl=dll0s | tractatusdebened00wycl=duos		4	plate
+53	THIN	latinworks03wycl=of		1	plate
+54	THIN	latinworks03wycl=doctmes		1	plate
+55	THIN	latinworks03wycl=nt		1	plate
+61	R2	latinworks03wycl=cum | fordham=cum | johanniswyclift03wyclgoog=g | johanniswycliftr00wycl=cmn | johanniswycliftr06wycl=f		5	accept
+62	R4	latinworks03wycl=gug | fordham=suis | johanniswyclift03wyclgoog=gyig | johanniswycliftr00wycl=gus | johanniswycliftr06wycl=gig		5	plate
+76	R3a	latinworks03wycl=ut | fordham=ut | johanniswyclift03wyclgoog=nt | johanniswycliftr00wycl=ut | johanniswycliftr06wycl=ut | tractatusdebened00wycl=ut		6	accept
+95	R4	latinworks03wycl=agreeruentpoints | fordham=∅ | johanniswyclift03wyclgoog=posteiiores | johanniswycliftr00wycl=agreementpoints | johanniswycliftr06wycl=∅		5	plate
+96	DEL	latinworks03wycl=x | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=∅		5	accept
+97	R2	latinworks03wycl=posteriores | fordham=posteriores | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=posteriores | johanniswycliftr06wycl=posteriores		5	accept
+112	R2	latinworks03wycl=euen | fordham=∅ | johanniswyclift03wyclgoog=ogse | johanniswycliftr00wycl=euen | johanniswycliftr06wycl=euen | tractatusdebened00wycl=∅		6	accept
+113	R2	latinworks03wycl=contigisse | fordham=contigisse | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=eontiisse | johanniswycliftr06wycl=contigisse | tractatusdebened00wycl=contigisse		6	accept
+114	R4	latinworks03wycl=yerumptamen | fordham=uerumptamen | johanniswyclift03wyclgoog=yerumptamen | johanniswycliftr00wycl=yerumptamen | johanniswycliftr06wycl=uerumptamen | tractatusdebened00wycl=yerumptamen		6	plate
+119	R2	latinworks03wycl=simpliiter | fordham=simpliciter | johanniswyclift03wyclgoog=aimplicitcr | johanniswycliftr00wycl=simpliiter | johanniswycliftr06wycl=simpliciter | tractatusdebened00wycl=simpliciter		6	accept
+125	DEL	latinworks03wycl=1 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=l | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	accept
+131	DEL	latinworks03wycl=2 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=2 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	plate
+139	DEL	latinworks03wycl=3 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=3 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	plate
+158	R2	latinworks03wycl=4enim | fordham=enim | johanniswyclift03wyclgoog=enim | johanniswycliftr00wycl=4enim | johanniswycliftr06wycl=enim | tractatusdebened00wycl=enim		6	accept
+160	R2	latinworks03wycl=disperiret5 | fordham=disperiret | johanniswyclift03wyclgoog=disperiret | johanniswycliftr00wycl=disperiret5 | johanniswycliftr06wycl=disperiret | tractatusdebened00wycl=disperiret		6	accept
+166	R2	latinworks03wycl=ueri | fordham=ueri | johanniswyclift03wyclgoog=ten | johanniswycliftr00wycl=ueri | johanniswycliftr06wycl=yeri | tractatusdebened00wycl=ueri		6	accept
+168	R2	latinworks03wycl=fuerit | fordham=fuerit | johanniswyclift03wyclgoog=f | johanniswycliftr00wycl=fuerit | johanniswycliftr06wycl=fuerit | tractatusdebened00wycl=fuerit		6	accept
+169	R6a	latinworks03wycl=for | fordham=2do | johanniswyclift03wyclgoog=uerit | johanniswycliftr00wycl=for | johanniswycliftr06wycl=for | tractatusdebened00wycl=for		6	accept
+170	R2	latinworks03wycl=2d | fordham=∅ | johanniswyclift03wyclgoog=2 | johanniswycliftr00wycl=2d | johanniswycliftr06wycl=2 | tractatusdebened00wycl=2		6	accept
+178	R3a	latinworks03wycl=3u | fordham=3ii | johanniswyclift03wyclgoog=3 | johanniswycliftr00wycl=3 | johanniswycliftr06wycl=3 | tractatusdebened00wycl=3		6	accept
+183	R4a	latinworks03wycl=mquit | fordham=inquit | johanniswyclift03wyclgoog=inquit | johanniswycliftr00wycl=mquit | johanniswycliftr06wycl=mquit | tractatusdebened00wycl=mquit		6	accept
+193	R3a	latinworks03wycl=omnis | fordham=omnis | johanniswyclift03wyclgoog=omnia | johanniswycliftr00wycl=omnis | johanniswycliftr06wycl=omnis | tractatusdebened00wycl=omnis		6	accept
+203	DEL	latinworks03wycl=6 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=6 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅		6	plate
+205	THIN	latinworks03wycl=uenr | johanniswyclift03wyclgoog=uidetut		2	plate
+206	THIN	latinworks03wycl=mihi | johanniswyclift03wyclgoog=michi		2	plate
+208	R2	latinworks03wycl=argumentum | fordham=argumentum | johanniswyclift03wyclgoog=argumentum | johanniswycliftr00wycl=arguinentuni | johanniswycliftr06wycl=argumentum | tractatusdebened00wycl=argumentum		6	accept
+212	R3	latinworks03wycl=maeria | fordham=materia | johanniswyclift03wyclgoog=quam		3	plate
+213	R2	latinworks03wycl=qnam | fordham=quam | johanniswyclift03wyclgoog=∅		3	accept
+221	R3	latinworks03wycl=eo | fordham=deo | johanniswyclift03wyclgoog=subicitur | johanniswycliftr00wycl=eo | johanniswycliftr06wycl=subicitur		5	plate
+222	R2	latinworks03wycl=sndicitnr | fordham=subicitur | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=subicitur | johanniswycliftr06wycl=∅		5	accept
+228	R4	latinworks03wycl=assumpts | fordham=assumptum | tractatusdebened00wycl=assumpts		3	plate
+229	R4	latinworks03wycl=nm | fordham=∅ | tractatusdebened00wycl=pcccat		3	plate
+230	R2	latinworks03wycl=peccat | fordham=peccat | tractatusdebened00wycl=∅		3	accept
+253	R2	latinworks03wycl=nam | fordham=nam | johanniswyclift03wyclgoog=nam | johanniswycliftr00wycl=2sani | johanniswycliftr06wycl=nam | tractatusdebened00wycl=nam		6	accept
+260	THIN	latinworks03wycl=impospotest | johanniswycliftr06wycl=impospotest		2	plate
+261	TAIL	impos- sibile- Pater potest	3	6	plate

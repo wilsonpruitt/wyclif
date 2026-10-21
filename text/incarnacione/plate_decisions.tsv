@@ -1,0 +1,174 @@
+page	pos	rule	forms	reading	note
+3	0	HEAD	Cap. I.	Cap. I.	heading line; the box is on Cap.
+3	2	THIN	latinworks03wycl=ldeelarando	[Declarando	editor's opening bracket kept
+3	4	THIN	latinworks03wycl=testmoniis	testimoniis	
+3	32	R4	latinworks03wycl=which | fordham=which | johanniswycliftr06wycl=ichich | tractatusdebened00wycl=ichich	which	English summary line
+3	101	R3	latinworks03wycl=omnia | fordham=omnis | johanniswyclift01wyclgoog=omnia | johanniswycliftr06wycl=omnis | tractatusdebened00wycl=omnis	omnis	
+3	119	NW	latinworks03wycl=loh | fordham=ioh | johanniswyclift01wyclgoog=loh | johanniswycliftr06wycl=h | tractatusdebened00wycl=loh	Ioh	
+3	145	R3	latinworks03wycl=yerbum | fordham=uerbum | johanniswyclift01wyclgoog=uerbum | johanniswycliftr06wycl=yerbum | tractatusdebened00wycl=uerbum	Verbum	
+3	185	R3	latinworks03wycl=yerbum | fordham=uerbum | johanniswyclift01wyclgoog=uerbum | johanniswycliftr06wycl=yerbum | tractatusdebened00wycl=yerbum	Verbum	
+3	244	R3	latinworks03wycl=ridentur | fordham=uidentur | johanniswyclift01wyclgoog=tidcntur | johanniswycliftr06wycl=uidentur | tractatusdebened00wycl=uidentur	videntur	
+3	262	THIN	latinworks03wycl=epuogo	epilogo	
+3	263	THIN	latinworks03wycl=diciturin	dicitur	
+4	0	THIN	latinworks03wycl=concipinnt	concipiunt	
+4	3	THIN	latinworks03wycl=secnndum	secundum	
+4	39	DEL	latinworks03wycl=3 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=3 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 3, not text
+4	56	R4	latinworks03wycl=eelicianum | fordham=felicianum | johanniswyclift01wyclgoog=felicianum | johanniswyclift03wyclgoog=felicianum | johanniswycliftr00wycl=eelicianum | johanniswycliftr06wycl=eelicianum | tractatusdebened00wycl=eelicianum	Felicianum	
+4	78	DEL	latinworks03wycl=5 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=5 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 5, not text
+4	83	DEL	latinworks03wycl=6 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=6 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 6, not text
+4	134	R3	latinworks03wycl=unate | johanniswycliftr06wycl=unitate | tractatusdebened00wycl=unitate	unitate	
+4	135	R3	latinworks03wycl=i | johanniswycliftr06wycl=i | tractatusdebened00wycl=1	∅	box is the folio bar, not text
+4	136	R3	latinworks03wycl=person | johanniswycliftr06wycl=persone | tractatusdebened00wycl=persone	persone	
+4	198	R4	latinworks03wycl=xinde | fordham=unde | johanniswyclift01wyclgoog=tinde | johanniswyclift03wyclgoog=unde | johanniswycliftr06wycl=tinde	Unde	capital U
+4	237	R3	latinworks03wycl=1215 | fordham=12 | johanniswyclift01wyclgoog=12 | johanniswyclift03wyclgoog=12 | johanniswycliftr00wycl=1215 | johanniswycliftr06wycl=12 | tractatusdebened00wycl=12	12	superscript 15 is a footnote mark (glued in main scan as 1215)
+5	28	DEL	latinworks03wycl=2 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=2 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 2, not text
+5	35	R3	latinworks03wycl=yerbum | fordham=uerbum | johanniswyclift01wyclgoog=yerbum | johanniswyclift03wyclgoog=yerbum | johanniswycliftr00wycl=yerbum | johanniswycliftr06wycl=yerbum | tractatusdebened00wycl=uerbum	Verbum	
+5	41	R4	latinworks03wycl=u | johanniswyclift03wyclgoog=u | johanniswycliftr00wycl=∅ | tractatusdebened00wycl=yerbum	Verbum	main scan splits V|erbum over two tokens (pos 41, 42); whole word given here, pos 42 is ∅
+5	42	R4	latinworks03wycl=erbum | johanniswyclift03wyclgoog=the | johanniswycliftr00wycl=erbum | tractatusdebened00wycl=∅	∅	second half of Verbum, whole word given at pos 41
+5	73	DEL	latinworks03wycl=5 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=f | johanniswycliftr00wycl=5 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 5, not text
+5	120	DEL	latinworks03wycl=6 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=6 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 6, not text
+5	219	DEL	latinworks03wycl=9 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=9 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 9, not text
+5	227	DEL	latinworks03wycl=9 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=9 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 9, not text
+5	249	R4	latinworks03wycl=h | fordham=ioh | johanniswyclift01wyclgoog=loh | johanniswycliftr00wycl=h | johanniswycliftr06wycl=h | tractatusdebened00wycl=loh	Ioh	
+5	286	R3	latinworks03wycl=carnis | fordham=carnis | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=ciniis | johanniswycliftr06wycl=camis | tractatusdebened00wycl=camis	carnis	
+6	1	THIN	latinworks03wycl=secunduni | johanniswycliftr00wycl=secunduni	secundum	
+6	3	THIN	latinworks03wycl=f | johanniswycliftr00wycl=factnrus	facturus	main scan splits f|acturus (pos 3, 4); whole word here, pos 4 is ∅
+6	4	THIN	latinworks03wycl=acturus | johanniswycliftr00wycl=∅	∅	second half of facturus, whole word given at pos 3
+6	7	THIN	latinworks03wycl=1 | johanniswycliftr00wycl=l	∅	footnote mark 1, not text
+6	10	THIN	latinworks03wycl=infirrnitatem | johanniswycliftr00wycl=infinnitatem2	infirmitatem	printed infirmi- | tatem across lines; whole word given
+6	11	THIN	latinworks03wycl=2 | johanniswycliftr00wycl=∅	∅	footnote mark 2, not text
+6	33	DEL	latinworks03wycl=5 | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=5 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 5, not text
+6	46	R3	latinworks03wycl=quoa | johanniswyclift03wyclgoog=quod | johanniswycliftr00wycl=quoa | tractatusdebened00wycl=quod	quod	
+6	56	INS?	i	∅	box is the folio bar before tu, not text
+6	85	R3	latinworks03wycl=10 | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=uocarit | johanniswycliftr00wycl=10 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 10, not text
+6	116	R4	latinworks03wycl=11 | johanniswyclift01wyclgoog=anteqnam | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=u | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 11, not text
+6	136	THIN	latinworks03wycl=moriebatur13 | johanniswycliftr00wycl=moriebatur13	moriebatur	superscript 13 is a footnote mark, not text
+6	137	THIN	latinworks03wycl=14 | johanniswycliftr00wycl=14	∅	footnote mark 14, not text
+6	138	THIN	latinworks03wycl=iston | johanniswycliftr00wycl=xon	Non	
+6	148	DEL	latinworks03wycl=15 | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=15 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 15, not text
+6	180	DEL	latinworks03wycl=16 | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=16 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 16, not text
+6	239	DEL	latinworks03wycl=19 | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=19 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 19, not text
+7	17	R4	latinworks03wycl=infactum | fordham=infactum | johanniswyclift01wyclgoog=iusfactnm | johanniswyclift03wyclgoog=inlfactam | johanniswycliftr00wycl=inlfactum | johanniswycliftr06wycl=inlfactum | tractatusdebened00wycl=infactum	infactum	printed in|factum with a folio bar, no space; whole word as main scan holds it
+7	48	R3	latinworks03wycl=illum | fordham=illum | johanniswyclift01wyclgoog=ilium | johanniswyclift03wyclgoog=ilium | johanniswycliftr00wycl=illuni | johanniswycliftr06wycl=ilium | tractatusdebened00wycl=illum	illum	
+7	65	DEL	latinworks03wycl=3 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=3 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 3, not text
+7	70	R3	latinworks03wycl=81 | fordham=8i | johanniswyclift01wyclgoog=i | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=8l | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	8ⁱ	superscript i after 8, printed 8ⁱ.
+7	84	DEL	latinworks03wycl=5 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=5 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 5, not text
+7	162	DEL	latinworks03wycl=9 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=9 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 9, not text
+7	175	R3	latinworks03wycl=10 | fordham=∅ | johanniswyclift01wyclgoog=ilia | johanniswycliftr00wycl=10 | tractatusdebened00wycl=∅	∅	footnote mark 10, not text
+7	206	DEL	latinworks03wycl=12 | fordham=∅ | johanniswyclift01wyclgoog=persona | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=12 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 12, not text
+7	208	DEL	latinworks03wycl=13 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=13 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 13, not text
+7	221	R3	latinworks03wycl=14 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=u | johanniswycliftr06wycl=lue | tractatusdebened00wycl=lue	∅	footnote mark 14, not text
+7	250	DEL	latinworks03wycl=15 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=15 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 15, not text
+8	5	R3	latinworks03wycl=uerbum | fordham=uerbum | johanniswyclift01wyclgoog=yerbum | johanniswyclift03wyclgoog=yerbum | johanniswycliftr00wycl=yerbum | johanniswycliftr06wycl=ucrbiim | tractatusdebened00wycl=uerbum	Verbum	
+8	22	R4	latinworks03wycl=1 | fordham=∅ | johanniswyclift01wyclgoog=coasit | johanniswyclift03wyclgoog=ceseit | johanniswycliftr00wycl=l | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 1, not text
+8	104	R3	latinworks03wycl=illa | fordham=illa | johanniswyclift01wyclgoog=ilia | johanniswyclift03wyclgoog=ilia | johanniswycliftr00wycl=illa | johanniswycliftr06wycl=ilia | tractatusdebened00wycl=illa	illa	
+8	196	DEL	latinworks03wycl=i | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=m | tractatusdebened00wycl=i	∅	box is the folio bar before [A 76a], not text
+9	109	DEL	latinworks03wycl=2 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=2 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 2, not text
+9	112	DEL	latinworks03wycl=3 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=3 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 3, not text
+9	190	DEL	latinworks03wycl=8 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=8 | tractatusdebened00wycl=∅	∅	footnote mark 8, not text
+9	228	DEL	latinworks03wycl=12 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswycliftr00wycl=12 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 12, not text
+9	230	INS?	a	a	printed "a principio ab eterno"; main scan lacks the a (p009.la.txt has principio only)
+9	230	R3	latinworks03wycl=principio | fordham=principio | johanniswyclift01wyclgoog=a | johanniswyclift03wyclgoog=principio | johanniswycliftr00wycl=principio | johanniswycliftr06wycl=a | tractatusdebened00wycl=principio	principio	
+9	259	R4	latinworks03wycl=15sed | fordham=sed | johanniswycliftr00wycl=15sed | tractatusdebened00wycl=sed	sed	superscript 15 is a footnote mark glued in main scan (15sed)
+9	273	THIN	latinworks03wycl=abc	∅	footnote-block sigla (A B C.), not reading text
+9	275	THIN	latinworks03wycl=diuersitas | johanniswycliftr00wycl=diuti	∅	footnote-block (apparatus) text, not reading text
+9	278	THIN	latinworks03wycl=sub | johanniswycliftr00wycl=rib	∅	footnote-block (apparatus) text, not reading text
+9	279	THIN	latinworks03wycl=om | johanniswycliftr00wycl=om	∅	footnote-block (apparatus) text, not reading text
+9	286	THIN	latinworks03wycl=anima | johanniswycliftr00wycl=nmui	∅	footnote-block (apparatus) text, not reading text
+9	289	THIN	latinworks03wycl=possibile | johanniswycliftr00wycl=poanbile	∅	footnote-block (apparatus) text, not reading text
+9	292	THIN	latinworks03wycl=om	∅	footnote-block (apparatus) text, not reading text
+9	299	THIN	latinworks03wycl=galath	∅	footnote-block (apparatus) text, not reading text
+9	303	THIN	latinworks03wycl=b	∅	footnote-block (apparatus) text, not reading text
+9	304	THIN	latinworks03wycl=c	∅	footnote-block (apparatus) text, not reading text
+9	307	THIN	latinworks03wycl=om | johanniswycliftr00wycl=om	∅	footnote-block (apparatus) text, not reading text
+9	310	THIN	latinworks03wycl=om | johanniswycliftr00wycl=om	∅	footnote-block (apparatus) text, not reading text
+9	312	THIN	latinworks03wycl=b	∅	footnote-block (apparatus) text, not reading text
+9	313	THIN	latinworks03wycl=c	∅	footnote-block (apparatus) text, not reading text
+9	315	THIN	latinworks03wycl=quitquam	∅	footnote-block (apparatus) text, not reading text
+9	316	THIN	latinworks03wycl=c	∅	footnote-block (apparatus) text, not reading text
+9	319	THIN	latinworks03wycl=c	∅	footnote-block (apparatus) text, not reading text
+9	325	THIN	latinworks03wycl=b	∅	footnote-block (apparatus) text, not reading text
+9	334	THIN	latinworks03wycl=c	∅	footnote-block (apparatus) text, not reading text
+10	0	THIN	latinworks03wycl=clicere | johanniswycliftr00wycl=clicere	dicere	footnote mark 1 follows, not text
+10	2	THIN	latinworks03wycl=2quem | johanniswycliftr00wycl=2quem	quem	footnote mark 2 precedes (glued in main scan), not text
+10	5	THIN	latinworks03wycl=honiinem | johanniswycliftr00wycl=hominem	hominem	footnote mark 2 follows, not text
+10	7	THIN	latinworks03wycl=crucifixuni | johanniswycliftr00wycl=cmcifixum	crucifixum	
+10	86	R3	latinworks03wycl=4 | fordham=ueteris | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=4 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 4, not text
+10	126	DEL	latinworks03wycl=5 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=5 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 5, not text
+10	151	DEL	latinworks03wycl=7 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=7 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 7, not text
+10	174	R4	latinworks03wycl=philoto | fordham=philosophi | johanniswyclift01wyclgoog=piiiloaopbi | johanniswycliftr00wycl=philoto | johanniswycliftr06wycl=philogophi | tractatusdebened00wycl=philogophi	philo	philo- | sophi hyphenated across lines; first half as printed
+10	175	DEL	latinworks03wycl=sophi | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswycliftr00wycl=sophi | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	sophi	second half of philo- | sophi, as printed
+10	184	R3	latinworks03wycl=n | fordham=in | johanniswyclift01wyclgoog=in | johanniswyclift03wyclgoog=ii | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=i	in	
+10	193	DEL	latinworks03wycl=12 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=12 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 12, not text
+10	207	DEL	latinworks03wycl=13 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=13 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 13, not text
+10	224	R4	latinworks03wycl=tinde | fordham=unde | johanniswyclift01wyclgoog=tinde | johanniswyclift03wyclgoog=tinde | johanniswycliftr00wycl=t7nde | johanniswycliftr06wycl=tiude | tractatusdebened00wycl=unde	Unde	
+11	2	THIN	latinworks03wycl=huiusrnodi	huiusmodi	
+11	5	THIN	latinworks03wycl=concer | johanniswycliftr06wycl=concer	concer	concer- | nunt hyphenated across lines; first half as printed
+11	6	THIN	latinworks03wycl=with | johanniswycliftr06wycl=with	∅	English side-note word
+11	7	THIN	latinworks03wycl=ita | johanniswycliftr06wycl=its	∅	English side-note word
+11	8	THIN	latinworks03wycl=reaiity | johanniswycliftr06wycl=reality	∅	English side-note word
+11	18	INS?	alia canonica	alia canonica	printed "tura alia canonica, si non fallor"; main scan p011 lacks both words
+11	25	DEL	latinworks03wycl=2 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=2 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 2, not text
+11	36	THIN	latinworks03wycl=hoiy | johanniswycliftr06wycl=iioiy	∅	English side-note word (Holy)
+11	37	THIN	latinworks03wycl=scripecclesiastica | johanniswycliftr06wycl=scripilicclesiastica	Ecclesiastica	side-note Scrip- glued onto the Latin word; Latin word alone, printed capital E
+11	44	INS?	uerbum	Verbum	printed "est Verbum Dei"; main scan lacks Verbum
+11	51	GAP	Ep 31 declarat	Ep 31 declarat	printed line "Ep 31 declarat | ex textu"; folio bar not text
+11	64	THIN	latinworks03wycl=sapien | johanniswycliftr06wycl=sapien	sapien	sapien- | ciam hyphenated across lines; first half as printed
+11	65	THIN	latinworks03wycl=wisdom | johanniswycliftr06wycl=wisdom	∅	English side-note word
+11	66	THIN	latinworks03wycl=in | johanniswycliftr06wycl=in	∅	English side-note word
+11	74	THIN	latinworks03wycl=ecciesiasticus | johanniswycliftr06wycl=eceiesiasticus	∅	English side-note word
+11	75	THIN	latinworks03wycl=is | johanniswycliftr06wycl=is	∅	English side-note word
+11	76	THIN	latinworks03wycl=1 | johanniswycliftr06wycl=eternahter	∅	no Latin word at the box; marginal side-note/scan noise
+11	77	THIN	latinworks03wycl=x | johanniswycliftr06wycl=∅	∅	no word at box; side-note/scan noise
+11	78	THIN	latinworks03wycl=1 | johanniswycliftr06wycl=∅	∅	no word at box; side-note/scan noise
+11	79	THIN	latinworks03wycl=twofold | johanniswycliftr06wycl=∅	∅	English side-note word (twofold)
+11	88	INS?	creata uel	creata vel	printed "creata vel creanda" (v as printed); main scan lacks creata vel
+11	103	R3	latinworks03wycl=w0rd | fordham=sum | johanniswyclift03wyclgoog=sum | johanniswycliftr06wycl=word	sum	the Latin word at this place is "ordinata sum:'"; main token w0rd is the side-note Word read into the line
+11	104	INS?	primum	primum	printed "sum:' primum ad deitatem"; main scan lacks primum
+11	108	NW	latinworks03wycl=erens | fordham=erens | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=erens | johanniswycliftr00wycl=erens | johanniswycliftr06wycl=erens | tractatusdebened00wycl=erens	erens	printed referens; main scan splits ref|erens, this is the second token, ref is separate (coordinator joins)
+11	111	THIN	latinworks03wycl=prou | johanniswycliftr06wycl=prou	∅	English side-note word (Prov.)
+11	112	THIN	latinworks03wycl=uiii | johanniswycliftr06wycl=uiii	∅	English side-note word (viii.)
+11	113	THIN	latinworks03wycl=22 | johanniswycliftr06wycl=22	∅	English side-note word (22.)
+11	121	R3	latinworks03wycl=come | fordham=eius | johanniswyclift01wyclgoog=eiua | johanniswyclift03wyclgoog=eius | johanniswycliftr00wycl=eius | johanniswycliftr06wycl=come | tractatusdebened00wycl=eius	eius	main token "come" is the side-note read into the Latin stream; the Latin word at this place is eius ("eius humanitate dicit")
+11	122	R3	latinworks03wycl=incamate | fordham=humanitate | johanniswyclift01wyclgoog=humaniat | johanniswyclift03wyclgoog=humanitate | johanniswycliftr00wycl=numanitate | johanniswycliftr06wycl=incarnate | tractatusdebened00wycl=humanitate	humanitate	main token is side-note incarnate; Latin word at this place is humanitate
+11	131	R3	latinworks03wycl=wildom | fordham=atque | johanniswyclift01wyclgoog=atquo | johanniswyclift03wyclgoog=atque | johanniswycliftr00wycl=atque | johanniswycliftr06wycl=wisdom | tractatusdebened00wycl=atque	atque	main token is side-note wisdom; Latin word at this place is atque ("atque descendit etc?")
+11	134	DEL	latinworks03wycl=4 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=4 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 4, not text
+11	143	INS?	si nosti	si nosti	printed "eius, si nosti?'"; main scan lacks both words
+11	149	R3	latinworks03wycl=as | fordham=exposicionem | johanniswyclift01wyclgoog=espobicionem | johanniswyclift03wyclgoog=exikmdonem | johanniswycliftr00wycl=exposicionem | johanniswycliftr06wycl=as | tractatusdebened00wycl=as	exposicionem	main token "as" is the side-note read into the Latin stream; Latin word is exposicionem ("exposicionem Augustini ad Eph.")
+11	157	DEL	latinworks03wycl=6 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=6 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 6, not text
+11	161	THIN	latinworks03wycl=des | johanniswycliftr06wycl=des	des	des- | cendit hyphenated across lines; first half as printed
+11	162	THIN	latinworks03wycl=eph | johanniswycliftr06wycl=eph	∅	English side-note word (Eph.)
+11	163	THIN	latinworks03wycl=iu | johanniswycliftr06wycl=iu	∅	English side-note word (iv.)
+11	164	THIN	latinworks03wycl=9 | johanniswycliftr06wycl=9	∅	English side-note word (9.)
+11	172	INS?	et istum	Et istum	printed "Et istum sensum"; main scan lacks both words
+11	190	R3	latinworks03wycl=ecciesiasticus | fordham=primogenita | johanniswyclift01wyclgoog=primogenita | johanniswyclift03wyclgoog=primogenita | johanniswycliftr00wycl=primogenita | johanniswycliftr06wycl=ecclesiasticus | tractatusdebened00wycl=primogenita	primogenita	main token is the side-note Ecclesiasticus; Latin word at this place is primogenita (starts the next line, after prodii)
+11	214	THIN	latinworks03wycl=the | johanniswycliftr06wycl=the	∅	English side-note word (The)
+11	215	THIN	latinworks03wycl=wisdom | johanniswycliftr06wycl=wisdom	∅	English side-note word (wisdom)
+11	220	DEL	latinworks03wycl=9 | fordham=∅ | johanniswyclift01wyclgoog=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=9 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 9, not text
+11	223	THIN	latinworks03wycl=fuiness | johanniswycliftr06wycl=fulness	∅	English side-note word (fulness)
+11	224	THIN	latinworks03wycl=of | johanniswycliftr06wycl=of	∅	English side-note word (of)
+11	225	THIN	latinworks03wycl=time | johanniswycliftr06wycl=time	∅	English side-note word (time)
+11	231	R4	latinworks03wycl=incar | fordham=incarnandam | johanniswyclift03wyclgoog=incarnandam | johanniswycliftr06wycl=incar	incarnandam	printed incar- | nandam across lines; whole word, the other scans hold it whole
+11	232	R6	latinworks03wycl=to | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr06wycl=to	∅	English side-note word (to)
+11	233	R6	latinworks03wycl=which | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr06wycl=which	∅	English side-note word (which); side-note also/applies follow in the main scan and are not queued
+11	242	R3	latinworks03wycl=pspxl | fordham=ad | johanniswycliftr00wycl=bd | johanniswycliftr06wycl=ps	ad	main token is the side-note Ps. xl. read into the Latin stream; Latin word at this place is ad ("ad Hebre. 10.")
+11	243	INS?	hebre	Hebre	printed "ad Hebre. 10." capital H; main scan lacks it
+11	248	THIN	latinworks03wycl=heb | johanniswycliftr06wycl=heb	∅	English side-note word (Heb.)
+11	249	THIN	latinworks03wycl=x | johanniswycliftr06wycl=x	∅	English side-note word (x.)
+11	250	THIN	latinworks03wycl=5 | johanniswycliftr06wycl=5	∅	English side-note word (5,)
+11	251	THIN	latinworks03wycl=6 | johanniswycliftr06wycl=6	∅	English side-note word (6.)
+11	259	INS?	creauit me	creavit me	printed "creavit me secundum" with v; main scan lacks both words
+12	30	R3	latinworks03wycl=21 | fordham=2 | johanniswyclift03wyclgoog=2 | johanniswycliftr00wycl=21 | johanniswycliftr06wycl=2 | tractatusdebened00wycl=2	2	printed "Colos. 2.¹": the 1 is a footnote mark glued in main scan (21)
+12	40	R3	latinworks03wycl=isam | fordham=nam | johanniswyclift03wyclgoog=am | johanniswycliftr00wycl=nam | johanniswycliftr06wycl=iam | tractatusdebened00wycl=nam	Nam	
+12	68	DEL	latinworks03wycl=2 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=2 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 2, not text
+12	82	DEL	latinworks03wycl=3 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=3 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 3, not text
+12	104	DEL	latinworks03wycl=4 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=4 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 4, not text
+12	107	R3	latinworks03wycl=yerbum | fordham=uerbum | johanniswyclift03wyclgoog=yerbum | johanniswycliftr00wycl=terbum | johanniswycliftr06wycl=yerbum | tractatusdebened00wycl=uerbum	Verbum	
+12	111	INS?	is	∅	the "is" is the English side-note (Wisdom then is); no Latin word here
+12	113	DEL	latinworks03wycl=5 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=5 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 5, not text
+12	132	DEL	latinworks03wycl=7 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=7 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 7, not text
+12	154	DEL	latinworks03wycl=9 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=9 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 9, not text
+12	190	DEL	latinworks03wycl=12 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=12 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 12, not text
+12	198	DEL	latinworks03wycl=13 | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=13 | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=∅	∅	footnote mark 13, not text
+12	200	R4	latinworks03wycl=solum | fordham=solum | johanniswyclift03wyclgoog=golum | johanniswycliftr00wycl=golum | johanniswycliftr06wycl=solum | tractatusdebened00wycl=golum	solum	
+12	208	INS?	sic	sic	printed "et sic licet verum"; main scan lacks sic

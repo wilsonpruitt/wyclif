@@ -1,0 +1,15 @@
+page	x	y	print	winner	note
+3	Cap I			y	heading, not main text; y empty
+3		a		x	English summary text, not main text; x empty
+3	primo	prime	primo	x	
+3	omnis homo	omnishome	omnis homo	x	word break
+3	homo	home	homo	x	
+4	concipientes Christum	concipientesChristum	concipientes Christum	x	word break
+4	auctor et	auctoret	auctor et	x	word break
+5	secundum deitatem et que secundum humanitatem	secun	secun-dum deitatem et que secundum humanitatem	x	y truncated at line-end hyphen
+6	tu genuisti	tugenuisti	tu genuisti	x	word break
+6	extraneam mulierem qua ... convicit	extran	extraneam mulierem qua ... convicit	x	full passage checked against print; y truncated
+7	Domine et	Domineet	Domine et	x	word break
+7	et spiritus	etspiritus	et spiritus	x	word break
+9	eum	eu	eum	x	
+11	nunc	nuuc	nunc	x	

@@ -1,0 +1,38 @@
+pos	rule	forms	support	voters	resolution
+6	R3a	latinworks03wycl=daret | fordham=daret | johanniswyclift03wyclgoog=daret | johanniswycliftr00wycl=daret | johanniswycliftr06wycl=claret | tractatusdebened00wycl=daret		6	accept
+7	R2	latinworks03wycl=moysi | fordham=moysi | johanniswyclift03wyclgoog=moyd | johanniswycliftr00wycl=moysi | johanniswycliftr06wycl=moysi | tractatusdebened00wycl=moysi		6	accept
+8	INS?	euidenciam	3	6	plate
+15	R3	latinworks03wycl=it | fordham=eorum | johanniswyclift03wyclgoog=eorum | johanniswycliftr00wycl=eorum | johanniswycliftr06wycl=it | tractatusdebened00wycl=eorum		6	plate
+16	DEL	latinworks03wycl=is | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=is | tractatusdebened00wycl=∅		6	plate
+17	DEL	latinworks03wycl=the | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=the | tractatusdebened00wycl=∅		6	accept
+18	DEL	latinworks03wycl=term | fordham=∅ | johanniswyclift03wyclgoog=∅ | johanniswycliftr00wycl=∅ | johanniswycliftr06wycl=term | tractatusdebened00wycl=∅		6	accept
+19	R2	latinworks03wycl=non | fordham=non | johanniswyclift03wyclgoog=non | johanniswycliftr00wycl=non | johanniswycliftr06wycl=∅ | tractatusdebened00wycl=non		6	accept
+25	THIN	latinworks03wycl=lmposuit | johanniswycliftr06wycl=imposuit		2	plate
+26	THIN	latinworks03wycl=has | johanniswycliftr06wycl=has		2	plate
+27	THIN	latinworks03wycl=two | johanniswycliftr06wycl=two		2	plate
+28	THIN	latinworks03wycl=senses | johanniswycliftr06wycl=senses		2	plate
+29	R5a	latinworks03wycl=saduceis | fordham=saduceis | johanniswycliftr00wycl=saduceis | johanniswycliftr06wycl=baduceis | tractatusdebened00wycl=saduceis		5	accept
+34	THIN	latinworks03wycl=appiied | johanniswycliftr06wycl=applied		2	plate
+35	THIN	latinworks03wycl=to | johanniswycliftr06wycl=to		2	plate
+36	THIN	latinworks03wycl=thoe | johanniswycliftr06wycl=those		2	plate
+44	THIN	latinworks03wycl=d		1	plate
+45	THIN	latinworks03wycl=tempus		1	plate
+46	THIN	latinworks03wycl=r		1	plate
+47	THIN	latinworks03wycl=r		1	plate
+48	THIN	latinworks03wycl=r		1	plate
+49	THIN	latinworks03wycl=r		1	plate
+50	THIN	latinworks03wycl=or		1	plate
+51	THIN	latinworks03wycl=to		1	plate
+52	THIN	latinworks03wycl=those		1	plate
+58	R3	latinworks03wycl=mortui | fordham=quod | johanniswyclift03wyclgoog=quod | johanniswycliftr00wycl=quod | johanniswycliftr06wycl=mortni | tractatusdebened00wycl=quod		6	plate
+59	R3	latinworks03wycl=morte | fordham=sancti | johanniswyclift03wyclgoog=sancti | johanniswycliftr00wycl=sancti | johanniswycliftr06wycl=morte | tractatusdebened00wycl=sancti		6	plate
+67	INS	frustrandi	4	6	accept
+74	R3a	latinworks03wycl=alii | fordham=alii | johanniswyclift03wyclgoog=a | johanniswycliftr00wycl=alii | johanniswycliftr06wycl=alii | tractatusdebened00wycl=alii		6	accept
+75	INS?	autem presciti	3	6	plate
+81	INS	ista est	4	6	accept
+84	R5a	latinworks03wycl=ome | fordham=ome | johanniswyclift03wyclgoog=ome | johanniswycliftr00wycl=ome | johanniswycliftr06wycl=ome | tractatusdebened00wycl=ome		6	accept
+88	GAP	Ioh. 8: 'Si	4	6	plate
+94	EDGE	latinworks03wycl=iohn | johanniswycliftr06wycl=iohn		2	accept
+95	THIN	latinworks03wycl=uiii | johanniswycliftr06wycl=uiii		2	plate
+96	EDGE	latinworks03wycl=51 | johanniswycliftr06wycl=51		2	accept
+97	TAIL	gustabit in eternum,' JSTec est negandum a sic dicentibus quin angeli sint homines, iuxta testimonium| scripturarum.^ Quod si obicitur scripturam dicere^ angelos esse viros, et per consequens pari auctoritate concedendum esset fore distinccionem sexuum angelorum. Sed sic arguens non recolit quod 'vir' notat etatem, formam, sexum,^ probitatem. Concedendum est ergo sine distinccione sexuum omnem creatui'am racionalem virentem virtutibus virum esse. Unde lerem.* 31. dicitur significanter de beata virgine involvendo^ Christum duplici matricula,' femina circumdabit virum'; non quod tunc fuit vir forma corporis vel etate, sed quia omni genere| carismatum tunc pollebat^; vel quia'' boni angeli| sic virtutibus semper virent,® non ^mirum si^ scriptura sine implicacione distinccionis sexuum verissime tales angelos vocet' viros.' Sed ulterius non est negandum quia Christus habet racionem equivocam individuantem, secundum quam est lesus, que non potest alteri individuo convenire. Aliter enim non esset essenciale principium generis" Christiani, nisi in eo quod esset proprietatum collacio addita nature specifice per	3	6	plate

@@ -44,6 +44,13 @@ praedicamentali · De ente excerpta · Misc. phil. I · De logica I–III · Mis
 short (178 leaves, ~24k Latin words), it has Fordham text that collated clean, and it is the work
 the Bohemian Wycliffites read most. De ecclesia runs next, then the rest of Tier 1 in queue order.
 
+**Second change (Wilson, 2026-10-21): *De benedicta incarnacione* (queue 23) runs before *De
+eucharistia*.** It is the surviving work closest to Wyclif's lost *Sentences* lectures (book III). It
+opens with a Latin-method pilot on its first pages: (A) a vision model corrects Fordham, against (B) a
+blind transcription diffed with Fordham, against (C) the three-witness vote. Scorecard:
+`chunks/incarnacione/PILOT-LATIN.md`. The first chunk's review runs in a Fable session (metaphysics
+terms for GLOSSARY §C).
+
 ## Milestones
 
 **M0: Phase 0.** ✅ Done 2026-09-28 (`PHASE0.md`).

@@ -1,0 +1,9 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks03wycl=dommi		1	accept
+9	R2	latinworks03wycl=modernorum | fordham=modernorum | johanniswyclift03wyclgoog=modemorum | johanniswycliftr00wycl=niodernorum | johanniswycliftr06wycl=luodcmorum | tractatusdebened00wycl=modemorum		6	accept
+12	R3b	latinworks03wycl=uentatis | fordham=ueritatis | johanniswyclift03wyclgoog=teritatis | johanniswycliftr00wycl=uentatis | johanniswycliftr06wycl=ueritatis | tractatusdebened00wycl=ueritatis		6	accept
+24	R3a	latinworks03wycl=in | fordham=in | johanniswyclift03wyclgoog=in | johanniswycliftr00wycl=in | johanniswycliftr06wycl=in | tractatusdebened00wycl=iu		6	accept
+29	R3a	latinworks03wycl=liere | fordham=libere | johanniswyclift03wyclgoog=libere | johanniswycliftr00wycl=libere | johanniswycliftr06wycl=hbere | tractatusdebened00wycl=libere		6	accept
+43	R4a	latinworks03wycl=doniini | fordham=domini | johanniswycliftr00wycl=doniini		3	accept
+45	R5	latinworks03wycl=iesu | fordham=iesu | johanniswycliftr00wycl=iesu		3	plate
+47	THIN	latinworks03wycl=amen1		1	plate

@@ -476,9 +476,9 @@ def run(slug, first=None, last=None):
     if os.path.exists(f'{base}/pivotpatch.tsv'):
         for r in csv.DictReader(open(f'{base}/pivotpatch.tsv'), delimiter='\t'):
             pg_, wid_, leaf_ = int(r['page']), r['witness'], int(r['leaf'])
-            if any(t['pg'] == pg_ for t in pivot):
-                print(f'   pivotpatch p. {pg_}: the pivot has this page; row ignored')
-                continue
+            if any(t['pg'] == pg_ for t in pivot):       # a partial page (De incarn. p. 3: 35 of ~280 words)
+                print(f'   pivotpatch p. {pg_}: the pivot has {sum(t["pg"] == pg_ for t in pivot)} tokens here; replaced')
+                pivot[:] = [t for t in pivot if t['pg'] != pg_]
             hl_ = {(t['leaf'], t['line']) for t in load(f'{base}/witnesses/{wid_}.jsonl') if t.get('head')}
             new = [dict(t, pg=pg_, hl=(t['leaf'], t['line']) in hl_) for t in others[wid_][0] if t['leaf'] == leaf_]
             at = next((i for i, t in enumerate(pivot) if t['pg'] > pg_), len(pivot))
