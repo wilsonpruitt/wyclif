@@ -12,60 +12,87 @@ witnesses: [fordham, johanniswyclift01wyclgoog, johanniswyclift03wyclgoog, johan
 check: "979 words; 976 confirmed by Fordham or the vote; 3 runs stood by rule (both witnesses garbled); 0 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks03wycl, leaves n169–n173 (printed p. = leaf − 39)"
-status: draft
+status: translated
 ---
 
-# *De benedicta incarnacione*, chapter 8, part 3: [TITLE]
+# *De benedicta incarnacione*, chapter 8, part 3: whether Christ is univocally a person with other men
 
 ## ¶1 · 130.8–132.9
 
 > [p. 130] Tercio principaliter arguitur quod Christus non sit univoce homo cum aliis eo quod non est univoce cum alio homine individuum vel persona. Nam solum personalitate⁵ eterna est persona⁶; et illa in nullo univoce⁷ convenit cum personalitate creata: ergo Christus non est univoce persona cum alia creatura. Maior patet ex hoc quod aliter, sicut dixit Nestorius, esset in ipso⁸ duplicitas personarum, quia una personalitas eterna et alia temporalis: nec⁹ dubium quin, si multiplicantur raciones personales multiplicabuntur et persone; quia unius persone una tantum est racio personalis.¹⁰ Et patet minor¹¹ argumenti ex hoc quod non est maior¹¹ conveniencia, imo tanta differencia inter personalitatem eternam et quamlibet aliam temporalem sicut¹² et inter essenciam eternam et quamlibet aliam temporalem¹²: sed quelibet essencia eterna¹³ non convenit eciam in esse univoco cum alia temporali: ergo per idem nec personalitas. Hic videtur michi probabile quod personalitas Christi sit equivoca vel analogica¹⁴ cum personalitate cuiuscunque alterius fratris sui; et tamen conveniunt summe univoce in¹⁵ specie vel natura. Ideo non sequitur, si Christus non sit univoce¹⁵ cum alio homine individuum vel persona, quod exinde non sit cum isto univoce species vel natura: quia notum est quod univocacio in superiori non arguit univocacionem in inferiori; nec equivocacio inferioris arguit [p. 131] equivocacionem communiorum,¹ ut evidet in exemplo.² Nam omnia creata per se³ in genere diverso⁴ per differencias oppositas univocantur in genere et non citra; ut substancia et accidens univocantur quodammodo in analogo transcendente, homo et asinus in genere animalis, et ita de aliis: ydiotes⁵ eciam et Hercules equivocantur in signo hominis, et tamen univocantur in genere corporis sive⁶ substancie: correspondenter Iesus et Petrus equivocantur in signo⁷ personalitatis et tamen univocantur in specie hominis, et in quolibet creato genere plus communi: quia correspondenter, ut aliquid est communius, magis⁸ univocat; et ut particularius, sic et minus: in tantum quod persona vel individuum non potest univocare secum personam aliam; ut persona Verbi non potest assumere quamlibet personam hominis, sicut nec aliquam, quia tunc persona esset summe communicabilis. Univocacio enim realis de qua nunc⁹ [est] sermo, est quando aliqua secundum eandem racionem communicant vel conveniunt in communi; ut quelibet persona hominis est eadem communis species que est homo sub illa communi racione—creatura racionalis ad ymaginem Dei facta—persona autem hominis equivoce communicatur naturis¹⁰ oppositis, cum alia sit racio vel individuandi condicio, que est hoc corpus, et alia racio vel individuandi condicio, que est hic spiritus. Et sic intelligunt illi qui dicunt personam descriptive esse¹¹ naturam racionalem¹¹ incommunicabilis¹² essencie vel¹² existencie. Nec¹³ est negandum quin sub eisdem signis licet equivoce analogicatur tam increata personalitas quam creata; ut quelibet persona divina est racionalis nature individua substancia, et quelibet persona hominis est raciocionalis nature¹⁴ individua substancia; sed nature¹⁴ sunt multum equivoce tam racionales quam essencie¹⁵ vel nature: [p. 132] Petrus eciam est multum equivoce substancia vel individuum respectu persone alterius increate. Sed utrobique est racio creata exemplata analogice in racione superiori eiusdem nominis increata. Ideo laboraverunt priores doctores ad habendum in suis descripcionibus nomina significancia simul licet equivoce tam exemplaria eterna quam eciam exemplata; ut veritas, iusticia, liberum arbitrium; et persona analogicatur¹ secundum Anselmum² et Boecium sub istis nominibus.
 
-[ENGLISH]
+Third, [as a main head]{g:principaliter}, it is argued that Christ is not univocally man with the others, because he is not [univocally]{g:univoce} an [individual]{g:individuum} or [person]{g:persona} with another man. For he is a person only by the eternal personality; and that agrees in nothing univocally with created personality: therefore Christ is not univocally a person with another [creature]{g:creatura}. The major is clear from this, that otherwise, as Nestorius said, there would be in him a doubleness of persons, since one personality [would be] eternal and the other temporal: nor is there doubt that, if personal accounts are multiplied, persons too will be multiplied; since of one person there is only one personal account.[^1] And the minor of the argument is clear from this, that there is no greater [agreement]{g:conveniencia}, indeed as great a difference, between the eternal personality and any other, temporal one as also between the eternal [essence]{g:essencia} and any other, temporal one:[^2] now any eternal essence does not agree even in univocal [being]{g:esse} with another, temporal one: therefore by the same token neither does personality. Here it seems probable to me that Christ's personality is equivocal or analogical with the personality of any other brother of his; and yet they agree supremely univocally in species or [nature]{g:natura}. So it does not follow, if Christ is not univocally an individual or person with another man, that he is not therefore univocally species or nature with him: for it is known that [univocation]{g:univocacio} in the higher does not argue univocation in the lower; nor does [equivocation]{g:equivocacio} of the lower argue [131] equivocation of the more common, as is evident in an example. For all created things that are [of themselves]{g:per-se} in a genus divided[^3] by opposite [differences]{g:differencia} are univocal in the genus and not below it; as substance and [accident]{g:accidens} are univocal in a certain way in a transcendent analogue, man and ass in the genus of animal, and so of the others: an image[^4] and Hercules, too, are equivocal in the [sign]{g:signum} "man", and yet are univocal in the genus of body or substance: correspondingly Jesus and Peter are equivocal in the sign of personality and yet are univocal in the species of man, and in any created genus more common: since correspondingly, the more common something is, the more it makes univocal; and the more particular, so much the less: so much so that a person or individual cannot make another person univocal with itself; as the person of the [Word]{g:verbum} cannot [assume]{g:assumere} every person of a man, as it cannot any, since then the person would be supremely communicable. For real univocation, of which the discussion now is, is when some things communicate or agree according to the same account in something common; as each person of a man is the same common species that is man, under that common account — "a rational creature made to the image of God" —; but the person of a man is communicated equivocally to opposite natures, since one is the account or individuating condition which is this body, and another the account or individuating condition which is this spirit. And so those understand it who say that a person, by way of definition, is a rational nature of incommunicable essence or existence.[^5] Nor is it to be denied that under the same signs, although equivocally, both increate and created personality are said analogically; as each divine person is an individual substance of rational nature, and each person of a man is an individual substance of rational nature;[^6] but the natures are very equivocally both rational and essences or natures: [132] Peter too is very equivocally a substance or individual with respect to another, increate person. But on both sides there is a created account exemplified analogically in the higher, increate account of the same name. So the earlier doctors laboured to have in their [definitions]{g:descripcio} names signifying at once, though equivocally, both the eternal exemplars and the [things exemplified]{g:exemplata}; as truth, justice, [free choice]{g:liberum-arbitrium}; and person is said analogically, according to Anselm and Boethius, under those names.[^7]
 
 ## ¶2 · 132.10–132.12
 
 > [p. 132] Sed obicitur primo per hoc quod Christus est individuum speciei humane, et preter hoc est individuum nature divine: ergo est duplex individuum sicut³ est duplex³ natura.⁴
 
-[ENGLISH]
+But first [it is objected, by appeal to]{g:obicitur-per} this, that Christ is an individual of the human species, and besides this is an individual of the divine nature: therefore he is a twofold individual, as there is a twofold nature.
 
 ## ¶3 · 132.13–132.18
 
 > [p. 132] Hic dicitur negando consequenciam sicut non sequitur, si Christus sit Filius Dei et filius hominis, quod sit duplex filius; idem enim est individuum nature humane et nature divine, sed per accidens individuum nature humane, quia secundum naturam assumptam, per se autem individuum, persona, vel suppositum nature divine.
 
-[ENGLISH]
+Here [the answer is]{g:dicitur}: by denying the [inference]{g:consequencia}, as it does not follow, if Christ is the Son of God and the Son of man, that he is a twofold son; for the same is the individual of the human nature and of the divine nature, but an individual of the human nature [by accident]{g:per-accidens}, since [it is] as to the assumed nature, but of itself the individual, person, or [supposit]{g:suppositum} of the divine nature.
 
 ## ¶4 · 132.19–132.23
 
 > [p. 132] 2°. obicitur per hoc quod universale et singulare dicuntur ad aliquid et per consequens sunt simul natura: sed Christus solum temporaliter est universale: ergo solum temporaliter est singulare; et per consequens aliqua individuatio solum temporaliter inest Christo.
 
-[ENGLISH]
+Second, it is objected, by appeal to this, that [universal]{g:universale} and singular are said relatively and consequently are simultaneous by nature:[^8] now Christ is universal only temporally: therefore he is singular only temporally; and consequently some individuation is in Christ only temporally.
 
 ## ¶5 · 132.24–133.5
 
 > [p. 132] Hic conceditur prima conclusio. Nam singulare et⁵ universale sunt res secunde intencionis que sese mutuo relative respiciunt ita, quod singulare, ut⁶ sic, sit individuum vel suppositum speciei. Ideo nulla persona divina est ad illum sensum⁷ quoad deitatem universalis vel singularis, ut patet in De Questionibus Veteris et Nove Legis. Questione 122; sed est⁸ individuum suppositum vel persona, Cum ista sint nomina significancia analogice extra genus, ut patet de nomine individui in⁹ descripcione Boecii De Persona. Nec est vis¹⁰ quare philosophi sic varie utuntur [p. 133] nominibus. Sicut ergo Christus solum ex tempore est singularis, sic quod singularitas a posteriori accidit sue¹ individuitati vel personalitati, sicut accidit sibi quod sit persona speciei humane: ideo individuitas vel personalitas in Christo non est singularitas que supponitur speciei.
 
-[ENGLISH]
+Here the first [conclusion]{g:conclusio} is granted. For singular and universal are [things of second intention]{g:res-secunde-intencionis} which regard one another relatively, in such a way that the singular, as such, is an individual or supposit of a species. So no divine person is in that sense, as to the [Godhead]{g:deitas}, universal or singular, as is clear in *De quaestionibus Veteris et Novae Legis*, question 122;[^9] but he is an individual, supposit or person, since these are names signifying analogically outside the genus, as is clear of the name "individual" in Boethius's definition, *De persona*. Nor is there any weight in why the philosophers use the [133] names so variously. As, therefore, Christ is singular only from time, so that singularity befalls his individuality or personality a posteriori, as it befalls him that he is a person of the human species: so individuality or personality in Christ is not the singularity that stands as supposit under the species.[^10]
 
 ## ¶6 · 133.6–133.12
 
 > [p. 133] 3°. instatur per hoc quod Christus, quia iste homo, vel in quantum iste homo, est suppositum, individuum vel² persona; ergo ista singularis humanitas est causa personalitatis in Christo, sicut est in suis fratribus, et non est causa personalitatis eterne: ergo est causa personalitatis temporalis: ergo in Christo est duplex personalitas, sicut³ duplex nativitas.
 
-[ENGLISH]
+Third, [it is objected]{g:instatur}, by appeal to this, that Christ, because [he is] this man, or [insofar as]{g:in-quantum} [he is] this man, is a supposit, individual or person; therefore this singular [humanity]{g:humanitas} is the cause of personality in Christ, as it is in his brothers, and it is not the cause of the eternal personality: therefore it is the cause of a temporal personality: therefore in Christ there is a twofold personality, as [there is] a twofold birth.
 
 ## ¶7 · 133.13–133.28
 
 > [p. 133] Hic negatur causalis assumpta eo quod significat circumstanciam cause.⁴ Conceditur tamen de Christo vel aliis quod, quia est iste homo, ideo est persona hominis: sed non, quia persona hominis, ideo est persona; cum habet personalitatem nature superioris quam est eius⁵ humanitas, quod nulli alii homini potest competere; cum ipse solus⁶ sit homo per accidens et cum hoc summe univoce. Est autem in Christi duplex nativitas, una eterna secundum naturam divinam, que eternaliter absolute necessario personaliter nascitur et est natus; et illi accidit alia temporalis non interpellatim⁷ sed simul adveniens, secundum quam fuit natura alia et noviter persona hominis. Non enim sequitur —Christus solum temporaliter vel noviter est persona, individuum, vel suppositum humanum: ergo⁸ sic est suppositum—cum⁸ arguitur ab inferiori ad suum superius cum impedimento habente vim negacionis.
 
-[ENGLISH]
+Here the causal [proposition] assumed is denied,[^11] because it signifies the circumstance of a cause. It is granted, however, of Christ or of the others that, because he is this man, therefore he is a person of a man: but not that, because [he is] a person of a man, therefore he is a person; since he has the personality of a nature higher than his humanity is, which can belong to no other man; since he alone is man by accident and with this supremely univocally.[^12] And there is in Christ a twofold birth, one eternal as to the divine nature, which eternally, absolutely, necessarily, personally is born and has been born; and to it there befalls another, temporal, not at an interval but coming at once,[^13] according to which he was another nature and newly a person of a man. For it does not [follow]{g:sequitur} — "Christ only temporally or newly is a person, individual, or human supposit: therefore he is so a supposit" — since it is argued from the lower to its higher with an impediment having the force of negation.[^14]
 
 ## ¶8 · 133.29–134.3
 
 > [p. 133] 4°. obicitur per hoc quod Christus recenter est tam corpus quam anima, et utrumque illorum est suppositum et persona: ergo Christus recenter est suppositum vel persona: sic⁹ enim Christus⁹ est corpus et spiritus creatus: [p. 134] sed utrumque illorum est per se individuum et persona: ergo Christus est persona creata: et cum eciam sit persona increata, sequitur quod duplex personalitas inest Christo.
 
-[ENGLISH]
+Fourth, it is objected, by appeal to this, that Christ recently is both body and soul, and each of them is a supposit and a person: therefore Christ recently is a supposit or person: for thus Christ is body and created spirit: [134] now each of those is of itself an individual and person: therefore Christ is a created person: and since he is also an increate person, it follows that a twofold personality is in Christ.
 
 ## Notes
 
-## Transcription notes
+[^1]: **C.** *Racio personalis*: "personal account"; *racio* through this chunk is the account (the species-sense of *racio speciei*), not the row's "aspect" (against *substancia*). A B C read *personalitas* for *personalitate* and add *Christi* (130.10–11): "only the eternal personality is Christ's person".
 
+[^2]: **T.** The comparison *sicut et … temporalem* (130.20–21) is in O alone (A B C omit it), and O omits *argumenti … maior* (130.18–19); the print joins the two.
+
+[^3]: **T.** *Diviso* "divided", with O, against the print's *diverso* "diverse" (131.2). With *diverso* the sentence says that things in a diverse genus are univocal in the genus; the example (man and ass in the genus animal) needs one genus divided by opposite differences.
+
+[^4]: **T.** *Ydolum* "an image", with A B O (C *ydioles*), against the print's *ydiotes* "the unlettered man" (131.6). The real man and the image of a man are the stock case of things equivocal in a name (Aristotle, *Categories* 1; LEDGER I08c-1, to be checked), and they are one in genus as bodies; cf. *ydolum vel aliud artificiale* (138.22).
+
+[^5]: **S.** The definition by "incommunicable existence" is Richard of St Victor's, *De Trinitate* IV.22–23 (LEDGER I08c-2, to be checked). *Descriptive*: "by way of definition" (from *descripcio*). O reads *naturalem racionalem* and omits *essencie vel*.
+
+[^6]: **S.** Boethius's definition of person, "an individual substance of rational nature", *Contra Eutychen* 3 (LEDGER I08c-3, to be checked).
+
+[^7]: **S.** Anselm, *De veritate* and *De libertate arbitrii*, whose definitions of truth, justice and free choice hold of God and creature (LEDGER I08c-4, to be checked). *Anselmum*: the print, with O (*añs & boym*); A B C *Augustinum*.
+
+[^8]: **C.** *Dicuntur ad aliquid*: they are relatives, in the category of relation; relatives are "simultaneous by nature" (Aristotle, *Categories* 7, 7b15; LEDGER I08c-5, to be checked).
+
+[^9]: **S.** Pseudo-Augustine (Ambrosiaster), *Quaestiones Veteris et Novi Testamenti*, q. 122 (LEDGER I08c-6, to be checked). "Boethius's definition, *De persona*" is the same *Contra Eutychen* 3 (LEDGER I08c-7, to be checked).
+
+[^10]: **C.** *Prima conclusio*: the objection's first inference, "he is singular only temporally". *Nec est vis*: "it carries no weight". *Supponitur speciei*: stands as supposit under the species, not the formula "it is supposed".
+
+[^11]: **C.** *Causalis assumpta*: the causal proposition the objection took as premiss ("because he is this man, he is a person"); *assumpta* in the logician's sense, not the assumption of the nature. O omits *cause*.
+
+[^12]: **T.** *Eius humanitas*: the print, with A B C; O reads *communis*, "higher than the common humanity" (133.17). A B C read *solum* for *solus* (133.18).
+
+[^13]: **C.** *Non interpellatim* (A B C *interpolatim*): not after an interval; the temporal birth supervenes on the eternal without a gap. *In Christi* (133.19): the print's genitive after *in*, rendered "in Christ".
+
+[^14]: **C.** The impediment is the exclusive *solum* "only", which contains a negation; with it the step from the lower term ("human supposit") to the higher ("supposit") fails. A B C read *ergo sic* (A) or *ergo sit* (B C) *suppositum*.
+
+## Transcription notes

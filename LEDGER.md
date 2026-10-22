@@ -1672,3 +1672,22 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | I08a-2 | incarnacione-08-a / n15 | Vigilius, *Contra Felicianum*: *quamvis enim aliud corpus …* | verified | Vigilius, *Contra Felicianum* c. 11, PL 42, 1166 (7452.xml): *Non alius homo corpus, alius animus: quamvis aliud animus, aliud corpus, unus tamen atque idem homo et corpus docetur et animus*. Wyclif reverses the order of *corpus* and *animus* and has *dicitur* for *docetur*. "Circa medium": c. 11 of 19. 2026-10-22 (see `chunks/incarnacione/_verify/RESULTS-10.md`) |
 | I08a-3 | incarnacione-08-a / n17 | *geminae gigas substantiae* = Ambrose, *Intende qui regis Israel* | verified | As RESULTS-1 I01b-5: Ambrose, hymn *Intende qui regis Israel*, PL 16, 1411 (6982.xml): *Geminae Gigas substantiae*. 2026-10-22 (see `chunks/incarnacione/_verify/RESULTS-10.md`) |
 | I08a-4 | incarnacione-08-a / n20 | first mode of *per se* predication = *An. Post.* I.4, 73a34; Wyclif "2°" | verified | *An. Post.* I.4, 73a34–37 (classics.mit.edu): *Essential attributes are (1) such as belong to their subject as elements in its essential nature … line thus belongs to triangle, point to line*. Harris's Index II has *127. 2 Post. Anal.* with no locus. Book II (definition) does not set out the modes. The "2°" is unexplained, perhaps a slip. 2026-10-22 (see `chunks/incarnacione/_verify/RESULTS-10.md`) |
+| I08b-1 | incarnacione-08-b / n2 | Augustine, *De quantitate animae* 25.47, "rational mortal animal" | to-verify | PL 32; title backs A B C *Quantitate* at 127.11 |
+| I08b-2 | incarnacione-08-b / n3 | Augustine, *De Trin.* XV.7.11, man a rational substance of soul and body | to-verify | PL 42 (cf. I03d-3) |
+| I08b-3 | incarnacione-08-b / n4, n5 | Augustine, *In Ioh. tract.* 19.15: does it read *Filio Dei* and *habet hominem*? | to-verify | PL 35; decides n4, n5 |
+| I08b-4 | incarnacione-08-b / n6 | Hugh, *De sacr.* II.1.11, "rational soul having a body" | to-verify | PL 176 |
+| I08b-5 | incarnacione-08-b / n7 | Grosseteste, *Hexaemeron*, sixth day: definition of man, Gen 2:7 | to-verify | Dales–Gieben (cf. I06a-5) |
+| I08b-6 | incarnacione-08-b / n10 | Augustine, *In Ioh. tract.* 43 on John 8:51–52 | to-verify | PL 35 |
+| I08b-7 | incarnacione-08-b / n15 | Anselm, *Ep. de incarnatione Verbi* (Wyclif "c. 7"), *Quis alius…* | to-verify | Schmitt II |
+| I08c-1 | incarnacione-08-c / n4 | Aristotle, *Cat.* 1: man and image equivocal | to-verify | Bekker 1a1–6 |
+| I08c-2 | incarnacione-08-c / n5 | Richard of St Victor, *De Trin.* IV.22–23, "incommunicable existence" | to-verify | PL 196 |
+| I08c-3 | incarnacione-08-c / n6 | Boethius, *C. Eutychen* 3, *naturae rationabilis individua substantia* | to-verify | PL 64 |
+| I08c-4 | incarnacione-08-c / n7 | Anselm, *De veritate* and *De lib. arb.*: definitions that hold of God and creature | to-verify | Schmitt I |
+| I08c-5 | incarnacione-08-c / n8 | Aristotle, *Cat.* 7, 7b15: relatives simultaneous by nature | to-verify | — |
+| I08c-6 | incarnacione-08-c / n9 | Ps.-Augustine, *Quaest. VNT* q. 122 | to-verify | PL 35 / CSEL 50 |
+| I08c-7 | incarnacione-08-c / n9 | Boethius, *De persona* (= *C. Eutychen* 3) on "individual" | to-verify | PL 64 |
+| I08d-1 | incarnacione-08-d / n6 | Aristotle, *De anima* III.4, 429a: what receives lacks the received nature | to-verify | — |
+| I08d-2 | incarnacione-08-d / n7 | Boethius, *C. Eutychen* 3: ousia / ousiosis / hypostasis | to-verify | PL 64 |
+| I08d-3 | incarnacione-08-d / n9 | Richard of St Victor's definition (136.17) | to-verify | PL 196 |
+| I08d-4 | incarnacione-08-d / n13 | Averroes, *In Phys.* VIII comm. 46, against Avicenna | to-verify | Juntine ed. (archive.org) |
+| I08d-5 | incarnacione-08-d / n20 | Aristotle, *De caelo* I.5, 271b8: small error at the beginning | to-verify | — |
