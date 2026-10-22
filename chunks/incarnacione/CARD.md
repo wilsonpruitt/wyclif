@@ -83,7 +83,10 @@ notes; set `status: translated`; lint; report.
   father's text), translate the manuscripts unless their reading will not construe; Harris's own
   emendations against every manuscript are set aside on the same terms. T note: "*X*, with A B C O,
   against the print's *Y*". Otherwise the print stands: a single manuscript's reading (M's above all, a
-  summary) never outweighs it without cause. Every departure gets a T note giving both readings. ⚠ Harris is a 19th-century editor of a
+  summary) never outweighs it without cause; **the source Wyclif quotes, read and agreeing with that
+  manuscript, is cause** (*In III Sent.* "d. 22", O + Bonaventure against the print's "12", 49.4). **Families:** A B C are one recension (Beer), so A B C alone against the print and O is one witness, not
+  a majority; agreement **across the families** (O with any of A B C) against the print is what outranks it
+  (A C O against B, 65.11). An argument that fails without a manuscript's reading is cause as well (O, 61.22). Every departure gets a T note giving both readings. ⚠ Harris is a 19th-century editor of a
   14th-century schoolman: where the print is grammatical but the argument fails, suspect the editor's
   choice among variants before Wyclif's logic, and read the apparatus.
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is
@@ -208,7 +211,7 @@ not; psalms in Vulgate numbering (Harris's margin uses the Hebrew: Ps. cx = 109)
   `~/patrologia/sources/pl/tei/`). ⛔ Never pass memory off as verified. Id `I<chunk>-<n>` (`I01b-1`; ⚠ `I`, since `P` is *De potestate pape*),
   cited in the note: "(LEDGER I01b-1)". The *sancti* cited are above all Augustine (*De Trinitate*,
   *Enchiridion*, *De fide et symbolo*), Anselm (*Cur Deus homo*, *De incarnatione Verbi*), Damascene,
-  Hilary, the Lombard (*Sent.* III) and Grosseteste; the *moderni* are usually unnamed. ⚠ Thomas's "many men" (one person with several humanities; ch. 12) is the *Scriptum super Sent.* III d. 1 q. 2 a. 5, ⛔ not *ST* III q. 3 a. 7, which concludes "one man" (LEDGER Iprol-3). ⚠ Wyclif counts the Maximinus works as **three books** "contra Maximinianum": his book 1 = the *Collatio cum Maximino* (PL 42, 709–42), books 2–3 = *Contra Maximinum* I–II (his "book 3, c. 22" = II.22); his quotations from book 1 may be Maximinus speaking, not Augustine (LEDGER I01a-9, I02b-4, I02c-5).
+  Hilary, the Lombard (*Sent.* III) and Grosseteste; the *moderni* are usually unnamed. Harris's index (`sources/ia-ocr/latinworks03wycl.txt`, near l. 23680) lists his identifications of Wyclif's own works (*De Trinitate*, *De adnichilacione* …). ⚠ Thomas's "many men" (one person with several humanities; ch. 12) is the *Scriptum super Sent.* III d. 1 q. 2 a. 5, ⛔ not *ST* III q. 3 a. 7, which concludes "one man" (LEDGER Iprol-3). ⚠ Wyclif counts the Maximinus works as **three books** "contra Maximinianum": his book 1 = the *Collatio cum Maximino* (PL 42, 709–42), books 2–3 = *Contra Maximinum* I–II (his "book 3, c. 22" = II.22); his quotations from book 1 may be Maximinus speaking, not Augustine (LEDGER I01a-9, I02b-4, I02c-5).
 
 ## Model of register
 
