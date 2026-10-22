@@ -61,7 +61,7 @@ Third, I agree with the [newer]{g:novelli} [doctors] that Christ [as to the Godh
 [^4]: **S.** Col. 2:9: Wyclif has *habitat* for the Vulgate's *inhabitat*. The Douay-Rheims "Godhead" here renders *divinitatis*.
 [^5]: **C.** *Christus existens illud corpus*, *de corpore quod est ipse*: bare predication, as the argument needs (Christ *is* that body; Peter *is* his body); "as" and the reflexive are the English's only means of keeping it.
 [^6]: **T.** The main clause, *possunt … incarnata* (12.16–18), stands only in O; A B C omit it, leaving the sentence without a verb. *Deitas* (12.14): A B C *divinitas*.
-[^7]: **T.** *duo non parvi pugiles*: all four manuscripts read *non duo* (12.19); Harris prints *duo*, against them. The English follows the print.
+[^7]: **T.** *duo non parvi pugiles* (12.19): all four manuscripts read *non duo*, against the print's *duo*. The English keeps the print: *non duo non parvi pugiles* will not construe as praise ("not two no-small champions" denies the authority the sentence appeals to), and the doubled *non* looks like dittography.
 [^8]: **C.** *est aliud sed non alius*: neuter against masculine, the scholastic form: Christ is another *thing* (nature) than the humanity, not another *one* (person).
 [^9]: **T.** *Eciam* (13.6) is O and M; A B C read *est*.
 
