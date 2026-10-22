@@ -51,7 +51,7 @@ Again, if Christ is not man univocally with the others, then no accident consequ
 
 [^4]: **T.** *Emendando* "by making amends" (90.8), with A B C (*emendando resipiscat*) and O (*emêdo restituat*, read as the abbreviation of *emendando*), against the print's *emerendo* "by meriting", which no manuscript reported at the foot gives; *restituat* is O's and the print's against A B C *resipiscat* "come to its senses".
 
-[^5]: **S.** Anselm, *Cur Deus homo* II.8: satisfaction must be made by one of Adam's race (LEDGER I06b-1, to be checked).
+[^5]: **S.** Anselm, *Cur Deus homo* II.8: satisfaction must be made by one of Adam's race (PL 158, 405–406: *necesse est ut satisfaciens idem sit qui peccator aut ejusdem generis … ut de Adam assumatur homo, per quem restauretur genus Adae*; *verified*, LEDGER I06b-1).
 
 [^6]: **T.** A B C read *post incarnacionem cum angelo quam cum homine* (90.19–20), without *secundum humanitatem*; the print has the qualification from O. The argument is the opponents' own consequence: even as to the humanity, their Christ would agree more with an angel.
 

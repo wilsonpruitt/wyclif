@@ -63,13 +63,13 @@ Again, nothing has God as superior except a creature: Christ so has [him]: there
 
 [^7]: **T.** *In capite* "in the head" (93.31), with A B C O, against the print's *in capite nostro* "in our head", which Harris inserted from M.
 
-[^8]: **S.** Augustine, *De vera religione* 29 and *Enchiridion* 4 (O "40"), as Wyclif cites them (LEDGER I06c-1, I06c-2, to be checked). The inner text is 2 Cor. 8:9, freely: Vulgate *propter vos egenus factus est* (DR "he became poor for your sakes").
+[^8]: **S.** Augustine, *De vera religione* 29 and *Enchiridion* 4 (O "40"), as Wyclif cites them. *De vera religione* 29 is 16.30–31, PL 34, 134–135: *in vero homine apparuit … pauper esse voluit … flagellatus atque cruciatus est … morte multatus est* (*verified*, LEDGER I06c-1). The print's *Enchiridion* 4 fits *Ench.* 4–5, PL 40, 232–233: *certum propriumque fidei catholicae fundamentum Christus est*, which the heretics have *nomine tenus* but not *re ipsa*. O's 40, on the grace of union, does not fit. The quoted words *Nos patimur egencias et dolores …* are not in the *Enchiridion*. Perhaps they are Wyclif's summary of *De vera religione* 16.31 (*untraced*, LEDGER I06c-2). The inner text is 2 Cor. 8:9, freely: Vulgate *propter vos egenus factus est* (DR "he became poor for your sakes").
 
 [^9]: **C.** *Humidum infantile*: the physicians' moisture of infancy (cf. *humidum radicale*, "radical moisture"), abundant in the child; Christ suffered in the middle of life, when it no longer abounds.
 
 [^10]: **S.** The words echo Lam. 1:12 (Vulgate *si est dolor sicut dolor meus*, DR "if there be any sorrow like to my sorrow"), not Isaiah 53, which speaks of the servant's sorrows (53:3–4).
 
-[^11]: **S.** Ps.-Augustine (Ambrosiaster), *Quaestiones Veteris et Novi Testamenti*, as cited: c. 59 (O "79") (LEDGER I06c-3, to be checked).
+[^11]: **S.** Ps.-Augustine (Ambrosiaster), *Quaestiones Veteris et Novi Testamenti*, as cited: c. 59 (O "79") (LEDGER I06c-3). The place is q. 75, PL 35, 2269: *nec enim Salvator aliquid possidebat in mundo, cum sit dominus mundi. Mortuus enim alienis impendiis sepelitur* (*verified*). Neither number is right, but O's 79 is nearer than the print's 59.
 
 [^12]: **T.** The first premiss, "For there would be no evidence … is movable" (94.25–26), is lacking in A B C; the print has it from O. At 94.28 O reads *a quo ad simpliciter* for *a secundum quid ad simpliciter* (A B C, print); cf. 98.12–13, where the print keeps *a quo*.
 
@@ -77,19 +77,19 @@ Again, nothing has God as superior except a creature: Christ so has [him]: there
 
 [^14]: **C.** *Dicit*: signifies (the logical use). Whatever falls in a category signifies a being that is possible for some time at which it is not actual, and so signifies a creature; *neminem*, "none", excludes it from the divine firstness.
 
-[^15]: **S/T.** The words "but 'made of a woman'" (95.27, *sed factum ex muliere*) are added with C O against the print, which ends the quotation at *natum ex muliere*. Bede, on Gal. 4:4 (LEDGER I06c-4, to be checked).
+[^15]: **S/T.** The words "but 'made of a woman'" (95.27, *sed factum ex muliere*) are added with C O against the print, which ends the quotation at *natum ex muliere*. Bede, on Gal. 4:4 as it stands in his exposition of Luke 11:27, *In Lucam* IV, PL 92, 480A (also *Hom.* on the same text, PL 94, 421D): *Neque enim audiendi sunt qui legendum putant, natum ex muliere, factum sub lege, sed, factum ex muliere*, which bears out C O (*verified*, LEDGER I06c-4).
 
-[^16]: **S.** Augustine, *Enchiridion* 29 as cited (in the modern division c. 38) (LEDGER I06c-5, to be checked).
+[^16]: **S.** Augustine, *Enchiridion* 29 as cited (in the modern division c. 38), PL 40, 251: *illam creaturam quam Virgo concepit et peperit, quamvis ad solam personam Filii pertinentem, tota Trinitas fecerit* (*verified*, LEDGER I06c-5).
 
 [^17]: **C.** *Tempore immediate sequente* "in the time following without intermediary" (96.1): the creature was the Son of God from the first moment of its being. O lacks *tempore*, which would give "he makes clear immediately after", of the next words in Augustine's text.
 
-[^18]: **S.** Augustine, a sermon on the vigil of the Epiphany, and *De sermone Domini in monte* (LEDGER I06c-6, I06c-7, to be checked).
+[^18]: **S.** Augustine, a sermon on the vigil of the Epiphany (not found among Augustine's sermons in the PL; *untraced*, LEDGER I06c-6), and *De sermone Domini in monte*. The line is not there, as Harris also found. Wyclif has it, with the attribution, from Scotus, *Ord.* III d. 11 q. 1 (Wadding VII/1, 240), where it is one of the authorities for the opinion Scotus reports: *per August. de sermone Domini in monte: voluit esse creatura, qui est creator* (*untraced* in Augustine, LEDGER I06c-7).
 
 [^19]: **T.** C O read *confessionis vestre* "of your confession" (96.6); the print keeps *nostre* with A B and the Vulgate (Heb. 3:1).
 
-[^20]: **S.** Leo the Great, a sermon, unnamed (LEDGER I06c-8); Robert Grosseteste, bishop of Lincoln, a sermon on the Nativity (LEDGER I06c-9); John Damascene, *De fide orthodoxa*, cc. 50 and 92 in Wyclif's (Latin) numbering (LEDGER I06c-10, I06c-11); all to be checked.
+[^20]: **S.** not Leo but Ps.-Augustine, *Sermo* 128.2, PL 39, 1998: *o nova et inaudita commixtio! Deus qui est et qui erat, fit; creator, creatura*. Wyclif has it, under Leo's name and with *conventio*, from Bonaventure, *In III Sent.* d. 11 a. 2 q. 1 arg. 1 (Quaracchi III, 249), whose editors identify it (*verified*, LEDGER I06c-8); Robert Grosseteste, bishop of Lincoln, a sermon on the Nativity, not traced (Grosseteste's sermons are largely unedited; LEDGER I06c-9); John Damascene, *De fide orthodoxa*, cc. 50 and 92 in Wyclif's (Latin) numbering. These are III.4 (Christ is called *created and uncreated*, as Harris notes) and IV.18 (*God the Word … is called creature*) in the Greek division (LEDGER I06c-10, I06c-11). Wyclif has both, with *creatus et increatus*, from Scotus, *Ord.* III d. 11 q. 1 (Wadding VII/1, 240), whose print reads *cap. 30* and *c. 97*.
 
-[^21]: **S.** Augustine on Phil. 2:7 in "the first book Against Maximinianus", which is the *Collatio cum Maximino* (LEDGER I06c-12, to be checked); Wyclif's book 1 may give Maximinus speaking.
+[^21]: **S.** Augustine on Phil. 2:7 in "the first book Against Maximinianus", which is the *Collatio cum Maximino* (LEDGER I06c-12, *verified*). Here Augustine is speaking, *Collatio* 14, PL 42, 720: *semetipsum exinanivit, formam servi accipiens: agnovisti aequalem, jam incipe agnoscere minorem … Ecce qua forma major est Pater*.
 
 ## Transcription notes
 

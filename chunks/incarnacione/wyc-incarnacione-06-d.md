@@ -61,21 +61,21 @@ And if it troubles anyone that Christ is created or [100] made from nothing: I a
 
 ## Notes
 
-[^1]: **S.** Duns Scotus, on *Sent.* III d. 11, whether "Christ is a creature" is to be granted (LEDGER I06d-1, to be checked).
+[^1]: **S.** Duns Scotus, on *Sent.* III d. 11, whether "Christ is a creature" is to be granted, *Ord.* III d. 11 q. 1 n. 6 (Wadding VII/1, 240): *propositio est simpliciter concedenda, si bene intelligatur: negabatur tamen communiter a Sanctis propter haereses haereticorum dicentium Christum esse puram creaturam*, and n. 7, *Cui ista opinio non placet, potest dicere ipsam esse falsam*. Scotus reports the opinion (*aliter dicitur*), and Wadding's margin gives it to William of Ware (*verified*, LEDGER I06d-1).
 
-[^2]: **S.** Scotus's grant, with Augustine, of "Christ began to be"; the place in Augustine not given (LEDGER I06d-2, to be checked). *Esse* here is existence, as the clause "as he was begotten in time" shows; O lacks *esse* (97.3).
+[^2]: **S.** Scotus's grant, with Augustine, of "Christ began to be"; *Ord.* III d. 11 q. 3 (Wadding VII/1, 249–250): *de vi sermonis posset concedi, quod Christus … incepit esse*, with the argument *quod generatur incipit esse simpliciter … Christus generabatur*. Scotus names no Augustine there. The Augustine is the one the Lombard gives, *Sent.* III d. 12 c. 1, from *In Ioh.* 105, PL 35, 1907: *priusquam mundus esset, nec nos eramus, nec ipse mediator Dei et hominum homo Christus Jesus* (*verified*, LEDGER I06d-2). *Esse* here is existence, as the clause "as he was begotten in time" shows; O lacks *esse* (97.3).
 
-[^3]: **S.** Bonaventure, on *Sent.* III d. 11 (LEDGER I06d-3, to be checked). For *non homo eternus* (97.8) A B C read *unus homo eternus*; the print follows O.
+[^3]: **S.** Bonaventure, *In III Sent.* d. 11 a. 2 q. 1 (Quaracchi III, 249–250): resp. *talis sermo est propinquus errori … male intelligibilis*, and ad 5, *ista admittatur et concedatur: Christus est homo creatus*. The second Adam with his *seniores* is Wyclif's own reason (*verified*, LEDGER I06d-3). For *non homo eternus* (97.8) A B C read *unus homo eternus*; the print follows O.
 
-[^4]: **T/C.** *Et e contrario* "and conversely" (97.16), with A B C, against the print's *nec e contrario* "nor conversely" (O): the second clause states the converse rule (the eternal names are said of that man by reason of the divinity), and "nor" denies it. The first clause, as printed, gives the reverse of the rule the argument applies (what is not proper to God is said of Christ by reason of the humanity): Thomas's wording to be checked, *Summa contra Gentiles* IV.48 (LEDGER I06d-4).
+[^4]: **T/C.** *Et e contrario* "and conversely" (97.16), with A B C, against the print's *nec e contrario* "nor conversely" (O): the second clause states the converse rule (the eternal names are said of that man by reason of the divinity), and "nor" denies it. Thomas, *SCG* IV.48 (end): *Quod autem est personae proprium, de Christo non enuntiatur ratione humanae naturae nisi cum aliqua additione, vel expressa vel subintellecta*. Wyclif's *Deo proprium* is Thomas's *personae proprium* (being created without qualification), and his *nisi racione humanitatis* compresses Thomas's added determination. So the print has lost no negative. What is proper to the person is said of Christ, by reason of the humanity, only with that qualification expressed or understood. The converse clause is Wyclif's own (*verified*, LEDGER I06d-4).
 
-[^5]: **S.** "On the second [book] … question 4" as printed; A B C give question 9 (97.23). The matter is that of *Sent.* III d. 11, Thomas's commentary on which is probably meant (LEDGER I06d-5, to be checked).
+[^5]: **S.** "On the second [book] … question 4" as printed; A B C give question 9 (97.23). The place is Thomas, *In III Sent.* d. 11 q. 1 a. 4 ad 1: *proprietates creatae dicuntur de filio Dei, non quasi ipsa persona aeterna his informetur, sed quia natura assumpta informatur eis*, as Harris saw. The print's 4 is the article, A B C's 9 does not fit, and the second book is an error for the third (*verified*, LEDGER I06d-5).
 
 [^6]: **T.** *A quo ad simpliciter* (98.12–13): the print with O and A's second hand; B reads *a secundum*, C *a s'*, that is, "from 'in a certain respect' to 'without qualification'", the form the print gives at 94.28. All the manuscripts order the words *locucio est vel evidencia*, which changes nothing in the English.
 
 [^7]: **S.** Rom. 1:22 (DR).
 
-[^8]: **S.** Aristotle's account of generation as change from not-being to being in substance (*Physics* V.1; *De generatione* I.3) (LEDGER I06d-6, to be checked).
+[^8]: **S.** Aristotle's account of generation as change from not-being to being in substance (*Physics* V.1, 225a12–17: change from not-being to being, its contradictory, is coming to be, and from unqualified not-being, coming to be without qualification; cf. *De generatione* I.3). Scotus uses the premiss on the same question, *Ord.* III d. 11 q. 3: *secundum Aristotelem 5. Physic. generatio est a non esse ad esse simpliciter* (*verified*, LEDGER I06d-6).
 
 [^9]: **S.** Matt. 1:1, with *Iesu* for the Vulgate's *Jesu Christi* (DR "of Jesus Christ").
 
