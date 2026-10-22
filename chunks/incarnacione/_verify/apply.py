@@ -5,7 +5,7 @@ W = sys.argv[1]
 res = f'chunks/incarnacione/_verify/RESULTS-{W}.md'
 R = open(res).read()
 L = open('LEDGER.md').read()
-rows = [l for l in R.split('\n') if re.match(r'\| P\d\d[a-z]-\d+ ', l)]
+rows = [l for l in R.split('\n') if re.match(r'\| I(?:\d\d[a-z]|prol)-\d+ ', l)]
 nch = 0
 for r in rows:
     cells = [c.strip() for c in r.strip().strip('|').split(' | ')]

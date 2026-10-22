@@ -171,8 +171,8 @@ ancients.
 ## Notes
 
 [^1]: **S.** *Prelibato tractatu De Anima*: the treatise "tasted beforehand" is Wyclif's own *De anima*,
-    which he calls introductory to this one. No work survives under that title; it is usually
-    identified with the *De compositione hominis* (ed. Beer, Wyclif Society, 1884) (LEDGER Iprol-1).
+    which he calls introductory to this one. No work survives under that title; it is sometimes
+    identified with the *De compositione hominis* (ed. Beer, Wyclif Society, 1884), but neither Beer nor Harris says so, and Harris's preface (1886) still counts the *De Anima* among the unedited treatises (LEDGER Iprol-1).
     Harris's apparatus records that A, B and C omit the initial letter (left for the rubricator).
 [^2]: **G.** *sacramentum*: the mystery, as in 1 Tim. 3:16 *magnum pietatis sacramentum* (Douay "mystery"), not one of the seven sacraments; kept as "sacrament" to stay apart from *misterium*, "mystery" (1.3).
 [^3]: **G.** *humanitas sit Christus*: the thesis of the whole treatise. *Humanitas*, "the humanity" (not "the human nature", which renders *natura humana*), is the
@@ -185,8 +185,8 @@ ancients.
 [^5]: **S.** *sapiencia summe mobilis*: Wis. 7:24, *omnibus mobilibus mobilior est sapientia* (Douay "wisdom is more active than all active things"; LEDGER Iprol-5), which chapter 7 quotes (p. 107): Christ as the Wisdom of God, who in the humanity became subject
     to change (*mobilitas*, chapter 7). The phrase "in habit found as a man" is Phil. 2:7, Douay–Rheims "in habit found as a
     man"; Harris gives no reference here (LEDGER Iprol-2).
-[^6]: **S.** Thomas, *Summa theologiae* III q. 3 a. 7, whether one divine person can assume two human
-    natures, which concludes that he would then be not one man but several (LEDGER Iprol-3).
+[^6]: **S.** Thomas, *Scriptum super Sententiis* III d. 1 q. 2 a. 5, whether one person can assume two human
+    natures: in ad 2 and 3 he says that such a person would be called *duo homines*, *plures homines, et non unus homo* (*verified*). The later *Summa theologiae* III q. 3 a. 7 ad 2 reverses this: *diceretur unus homo habens duas naturas humanas* (LEDGER Iprol-3).
 [^7]: **C.** *nec … unus homo nec multi homines, sed et unicus atque multi*: in the case supposed,
     Wyclif denies each horn taken alone ("neither one man nor many men") and grants them together
     ("both one and many"); by this he brings the moderns' teachings into accord with the ancients (*cum antiquis*).

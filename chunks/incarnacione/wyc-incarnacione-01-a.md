@@ -187,10 +187,10 @@ all things under his feet."[^19]
     (*proposiciones*), B *pciones* (probably *predicaciones*), C *p°es*, and that O reads *predicaciones
     secundum humanitatem*, "the predications as to the humanity", for *posiciones secundum habitudinem*
     (p. 4 nn. 10–11); the print is kept.
-[^9]: **S.** The letter to Dardanus is Augustine, *Epistula* 187 (*De praesentia Dei*), §8, PL 33, 836
+[^9]: **S.** The letter to Dardanus is Augustine, *Epistula* 187 (*De praesentia Dei*), §8, PL 33, 835
     (*verified*; Wyclif's text has *considerandum* for Augustine's *observandum*; the *et* before *secundum
     quid* is M's alone, adopted by Harris, p. 5 n. 1); its old number 40 is of Wyclif's day. The letter "12 to Pascentius" (O and M read *125*, p. 4 n. 15) is one of the exchange
-    with Pascentius the Arian, *Epistulae* 238–241 in the received numbering (LEDGER I01a-4).
+    with Pascentius the Arian, *Epistulae* 238–241 in the received numbering: *Ep.* 238.10, PL 33, 1042, *secundum formam Dei … Ego et Pater unum sumus: secundum formam servi, Quoniam Pater major me est* (*verified*, LEDGER I01a-4).
 [^10]: **C.** *color*: a plausible ground (the period sense, as in "colour of title"), the GLOSSARY's
     ruling; the first occurrence in the chunk.
 [^11]: **S.** Augustine, *In Iohannis evangelium tractatus* 47.13 (*ubi super*: the tractate already cited at 3.10; the passage stands a few
@@ -211,8 +211,10 @@ all things under his feet."[^19]
 [^16]: **S.** Jerome, the letter to Paula and Eustochium: the pseudo-Jerome *Cogitis me* (Ep. 9,
     *De assumptione*, PL 30, 122 ff.), which Wyclif names in full at p. 109 (*Epist. de Assumpcione Beate
     Virginis ad Paulam et Eustochium*) and cites again at p. 53; no passage is quoted here (LEDGER I01a-8).
-[^17]: **S.** Augustine, *Contra Maximinum* II (*creatorem constituit*): to-verify (LEDGER I01a-9).
-[^18]: **T.** A B C read *creaturam*, "but appointed a creature"; the print follows O (p. 7 n. 3), which the psalm's *constituisti eum super opera* supports.
+[^17]: **S.** Not Augustine's words, and not in *Contra Maximinum* II: *non creatorem creavit, sed creaturam constituit* is said by Maximinus the Arian, of the Son, in the *Collatio cum Maximino* 15.13 (PL 42, 729; *verified*, LEDGER I01a-9). His *creaturam* bears out A B C (note 18). The quotation before it (*Dicis Patrem infectum … facta sunt omnia*) is Augustine's own, *Collatio* 14 (PL 42, 723), repeated in *Contra Maximinum* I.17 (PL 42, 756).
+[^18]: **T.** A B C read *creaturam*, "but appointed a creature"; the print follows O (p. 7 n. 3). The
+    words are Maximinus's in the *Collatio* (15.13, PL 42, 729), which reads *creaturam*, with A B C
+    (LEDGER I01a-9); the print is translated, but the manuscripts and the source agree against it.
 [^19]: **S.** Ps. 8:6–8, Douay–Rheims; the print adds *Domine* (O omits it, p. 7 n. 6) and ends *sub pedibus* without
     *eius*. "According to the apostle": Heb. 2:7–8, which applies the psalm to Christ. Harris's margin
     gives Ps. viii. 5, 6 and Heb. ii. 7.

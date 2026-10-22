@@ -205,7 +205,7 @@ not; psalms in Vulgate numbering (Harris's margin uses the Hebrew: Ps. cx = 109)
   `~/patrologia/sources/pl/tei/`). ⛔ Never pass memory off as verified. Id `I<chunk>-<n>` (`I01b-1`; ⚠ `I`, since `P` is *De potestate pape*),
   cited in the note: "(LEDGER I01b-1)". The *sancti* cited are above all Augustine (*De Trinitate*,
   *Enchiridion*, *De fide et symbolo*), Anselm (*Cur Deus homo*, *De incarnatione Verbi*), Damascene,
-  Hilary, the Lombard (*Sent.* III) and Grosseteste; the *moderni* are usually unnamed.
+  Hilary, the Lombard (*Sent.* III) and Grosseteste; the *moderni* are usually unnamed. ⚠ Thomas's "many men" (one person with several humanities; ch. 12) is the *Scriptum super Sent.* III d. 1 q. 2 a. 5, ⛔ not *ST* III q. 3 a. 7, which concludes "one man" (LEDGER Iprol-3).
 
 ## Model of register
 

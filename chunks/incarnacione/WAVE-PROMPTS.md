@@ -49,3 +49,12 @@ Rows: `chunks/incarnacione/_verify/rows-{W}.md` (the wave's to-verify / editor r
 > exact replacement note text (chunk, note number, old phrase → new phrase). Format: a table
 > `id | status | how / source | note change (or —)`, then a short list of anything the coordinator must
 > decide. Be economical: don't re-read a source for each row that shares it. Reply in under 60 words.
+
+## Notes from waves 1–2 (2026-10-22)
+
+- Ledger ids are `I…` (`P` is *De potestate pape*); `_verify/apply.py` matches `I\d\d[a-z]-n` and `Iprol-n`.
+- Tell the ledger agent: note changes as `02-b n3: "old exact phrase" → "new phrase"`, no `|` inside a row, never an
+  empty cell (use —); point it at earlier RESULTS-*.md for shared sources. A LEDGER row with an empty last cell breaks
+  apply.py, and a failed apply has already written the rows before it: `git checkout` the files and re-run.
+- Connective checks: waves 1–2 found 0 changes in 63 occurrences.
+
