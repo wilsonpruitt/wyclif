@@ -19,8 +19,7 @@ page	pos	rule	forms	reading	note
 72	255	SUB	bt=apersecucionibus | fordham=a persecuciouibus | vote=a 10 persecucionibus	a persecucionibus	bt ran together; print a ¹⁰ persecucionibus
 84	227	SUB	bt=hu- manitatem | fordham=humanitatem | vote=15 humanitatem	hu- manitatem	print = bt (hu-/manitatem line break)
 88	58	SUB	bt=ad | fordham=id | vote=es ai	ad	print = bt (Et ad idem)
-89	124	SUB	bt=ciantem | fordham=enunciantem | vote=sensation suffertalia	ciantem	print = bt (enun-/ciantem)
-89	259	SUB	bt=synecdochica—Christus | fordham=synecdochica  christus | vote=synecdochica 10 christus	synecdochica—Christus	print = bt
+89	258	SUB	bt=synecdochica—Christus | fordham=synecdochica  christus | vote=synecdochica 10 christus	synecdochica—Christus	print = bt
 94	82	SUB	bt=in nullo alio est | fordham= | vote=11 aii es	in nullo alio est	print = bt
 101	200	SUB	bt=sententiam | fordham=sac | vote=sentenciam	sentenciam	bt has sententiam; print has sentenciam (c)
 104	284	SUB	bt=fuit—propter extraneacionem | fordham=fuit  propter ex | vote=fuit propter exsnpposicionis	fuit—propter extraneacionem	print = bt (ex- / p.105 traneacionem)
@@ -50,3 +49,4 @@ page	pos	rule	forms	reading	note
 91	248	AGREE	bt=locucio | fordham=iocucio | vote=iocucio	locucio	plate (full page n0130 l. 28): print = bt (Opus coordinator)
 198	95	AGREE	bt=humanitas, | fordham=humanitus | vote=humanitus	humanitus,	plate: print = humanitus; the transcription normalised it (Opus coordinator)
 198	112	AGREE	bt=humanitas | fordham=humanitus | vote=humanitus	humanitus	plate: print = humanitus; the transcription normalised it (Opus coordinator)
+83	263	SUB	bt=Infirmorum | fordham=infir morum | vote=yisitacione xng of both i tt hody and soul	Infirmorum	plate: print = Infir | morum, one word split by a folio bar (Opus coordinator)

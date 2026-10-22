@@ -86,7 +86,7 @@ notes; set `status: translated`; lint; report.
   summary) never outweighs it without cause; **the source Wyclif quotes, read and agreeing with that
   manuscript, is cause** (*In III Sent.* "d. 22", O + Bonaventure against the print's "12", 49.4). **Families:** A B C are one recension (Beer), so A B C alone against the print and O is one witness, not
   a majority; agreement **across the families** (O with any of A B C) against the print is what outranks it
-  (A C O against B, 65.11). An argument that fails without a manuscript's reading is cause as well (O, 61.22). Every departure gets a T note giving both readings. ⚠ Harris is a 19th-century editor of a
+  (A C O against B, 65.11). An argument that fails without a manuscript's reading is cause as well (O, 61.22). A **spelling-only** variant the rule adopts (*volucionibus*) changes no English and needs no T note. Every departure gets a T note giving both readings. ⚠ Harris is a 19th-century editor of a
   14th-century schoolman: where the print is grammatical but the argument fails, suspect the editor's
   choice among variants before Wyclif's logic, and read the apparatus.
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is

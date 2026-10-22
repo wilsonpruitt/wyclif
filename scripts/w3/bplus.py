@@ -111,7 +111,7 @@ def tokens_of(lines, page):
                 toks.append(t)
             for n in feet:
                 toks.append(dict(t=n, ln=cur_ln, para=False, head=t['head'], foot=True))
-            if k == len(L['words']) - 1 and base.endswith('-') and len(base) > 1 and not feet:
+            if k == len(L['words']) - 1 and base.endswith('-') and len(base) > 1 and w.endswith('-'):  # a figure before the word (`^15hu-`) still joins
                 t['t'] = base[:-1]
                 if t['t'].lower() in KEEP_HYPHEN:         # a compound's own hyphen, not a word split
                     t['keep'] = True
