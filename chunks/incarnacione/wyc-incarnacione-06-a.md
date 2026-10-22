@@ -74,17 +74,17 @@ This is confirmed in three ways. First from this, that it is a sin to deceive th
 [^2]: **C.** *sciret* has no expressed subject: taken as the Word of the case just put ("he"); it may be impersonal, "one would know". *Nemo* "no man", as the argument needs.
 [^3]: **C.** *dimissa humanitate … foret illa*: the ablative absolute and *illa* name the same humanity, laid aside by the Word. O omits *denudata* (with a gap) and *substancialis*.
 [^4]: **T.** *unionem*, the print with O; A B C read *univocacionem* "univocation", on the word the step turns on. The print is kept.
-[^5]: **S.** *descriptive* "by definition" (cf. *descripcio*): the definition of univocals, things that share both the name and the same account (Aristotle, *Categories* 1). To be checked (LEDGER I06a-1).
+[^5]: **S.** *descriptive* "by definition" (cf. *descripcio*): the definition of univocals, things that share both the name and the same account (Aristotle, *Categories* 1, 1a6–7; in Boethius's Latin, PL 64, 167: *Univoca vero dicuntur quorum nomen commune est, et secundum nomen eadem ratio substantiae*; *verified*, LEDGER I06a-1).
 [^6]: **S.** Heb. 2:16–17, joined: Vulgate *sed semen Abrahae apprehendit. Unde debuit per omnia fratribus similari*; Wyclif's *ut fieret … consimilis* (A B C *similis*) is translated, the Douay–Rheims wording kept where his Latin agrees.
 [^7]: **S.** 1 Tim. 2:5 (Douay–Rheims), without *Iesus* (O adds it).
-[^8]: **S.** Augustine, *De vera religione*, Wyclif's "27". To be checked (LEDGER I06a-2).
-[^9]: **S.** The pseudo-Augustinian *De visitatione infirmorum* II. To be checked (LEDGER I06a-3).
-[^10]: **S.** A summary of Anselm's argument (*Cur Deus homo* II.6–8; *Epistola de incarnatione Verbi*), not a quotation, though the print sets it in quotation marks. To be checked (LEDGER I06a-4). A B C read *Deo* for *creatori*.
-[^11]: **S.** Robert Grosseteste, bishop of Lincoln, *Hexaemeron*; the place to be checked (LEDGER I06a-5).
-[^12]: **S.** Thomas Aquinas; no place given (LEDGER I06a-6).
+[^8]: **S.** Augustine, *De vera religione*, Wyclif's "27". The words are *De vera religione* 16.30, PL 34, 135, *ipsa enim natura suscipienda erat quae liberanda*, exactly (*verified*, LEDGER I06a-2).
+[^9]: **S.** The pseudo-Augustinian *De visitatione infirmorum* II. II.2, PL 40, 1153: *Participatus est nostrae humanitatis, ut nos participaremur suae divinitatis* and *Quod tu es, fieri dignatus est Deus*; Wyclif's *Homo Deus* ends the sentence before (*verified*, LEDGER I06a-3).
+[^10]: **S.** A summary of Anselm's argument (*Cur Deus homo* II.6–8; *Epistola de incarnatione Verbi*), not a quotation, though the print sets it in quotation marks. The points are *Cur Deus homo* II.6 (*nec facere illam debet nisi homo*) and II.8 (*necesse est, ut satisfaciens idem sit qui peccator aut eiusdem generis*) (*verified*, LEDGER I06a-4). A B C read *Deo* for *creatori*.
+[^11]: **S.** Robert Grosseteste, bishop of Lincoln, *Hexaemeron*; the place not found; Harris's index lists this page without a locus (LEDGER I06a-5, untraced).
+[^12]: **S.** Thomas Aquinas; no place given; the doctrine is *ST* III q. 2 a. 5 co., *Christus dicitur homo univoce cum hominibus aliis, utpote eiusdem speciei existens* (*verified*, LEDGER I06a-6).
 [^13]: **T.** *in recto*, with A B O, against the print's *recto*: pronouns that point to Christ in the direct (nominative) case, as against *in obliquo*.
 [^14]: **S.** Ecclus. 37:23 (Douay–Rheims).
-[^15]: **S.** Augustine, *Enchiridion* 22 (c. 7) in the modern division, Wyclif's "14"; *fallacia* here is deception. To be checked (LEDGER I06a-7).
+[^15]: **S.** Augustine, *Enchiridion* 22 (c. 7) in the modern division, Wyclif's "14"; *fallacia* here is deception. PL 40, 243, quoted exactly (*verified*, LEDGER I06a-7).
 [^16]: **S.** Matt. 16:22–23 (Douay–Rheims), shortened: Wyclif adds *hoc* (Vulgate *Absit a te, Domine*) and omits *scandalum es mihi: quia*.
 [^17]: **C.** *arguendi*: gerundive, "to be reproved" (*arguere* in the biblical sense), or "to be argued against". O reads only *falsum vel arguendi*.
 
