@@ -59,4 +59,7 @@ Rows: `chunks/incarnacione/_verify/rows-{W}.md` (the wave's to-verify / editor r
 - Connective checks: waves 1–2 found 0 changes in 63 occurrences.
 - A bt fix that removes or adds a token shifts B+ positions on that page: a `bplus_decisions.tsv` row for a later
   position then goes back to the queue. Shift its `pos` by hand and re-run bplus.py (queue must be 0).
+- Ledger agents: Wyclif often takes his fathers **through Scotus (Ord. III) and Bonaventure (In III Sent.)**: Damascene's
+  chapter numbers, *De sermone Domini*, a ps.-Augustine sermon cited as "Leo" (RESULTS-4, -8). Look there first when a
+  patristic citation's number or attribution is odd.
 
