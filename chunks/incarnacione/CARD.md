@@ -77,10 +77,13 @@ notes; set `status: translated`; lint; report.
   then, if still doubtful, the plate (`text/incarnacione/raw/leaves/nLEAF.jpg`, LEAF = page + 39
   padded to four digits: p. 3 = `n0042.jpg`). A variant that gives the sense → translate it + **T**
   note citing the siglum; a compelling emendation → translate it + **T** note "(our emendation)";
-  neither → translate the print and flag it. Never smooth nonsense into sense. **Harris's printed text
-  governs** (the standing rule of this edition): translate it unless it will not construe; a manuscript
-  reading is chosen only then, and a single manuscript's reading never outweighs the print without
-  cause; every departure gets a T note giving both readings. ⚠ Harris is a 19th-century editor of a
+  neither → translate the print and flag it. Never smooth nonsense into sense. ⛔ **In this volume the manuscripts
+  outrank Harris** (Wilson, 2026-10-22: Harris is less trusted than Loserth). Where the manuscripts agree
+  **against** the print (all of A B C O, or a majority backed by the source Wyclif quotes: the Vulgate, a
+  father's text), translate the manuscripts unless their reading will not construe; Harris's own
+  emendations against every manuscript are set aside on the same terms. T note: "*X*, with A B C O,
+  against the print's *Y*". Otherwise the print stands: a single manuscript's reading (M's above all, a
+  summary) never outweighs it without cause. Every departure gets a T note giving both readings. ⚠ Harris is a 19th-century editor of a
   14th-century schoolman: where the print is grammatical but the argument fails, suspect the editor's
   choice among variants before Wyclif's logic, and read the apparatus.
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is

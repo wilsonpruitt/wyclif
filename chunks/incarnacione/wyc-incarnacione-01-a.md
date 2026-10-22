@@ -148,7 +148,7 @@ the letter to Paula [7] and Eustochium,[^16] and other [reputable doctors]{g:pro
 Maximinus Augustine speaks thus: "You say that the Father is unmade, as if the Son were made, through
 whom all things were made. Know that the Son was made, but in the form of a servant, he who in the form
 of God is so far from being made that through him all things were made." Hence also below, in the
-second book, he says that God the Father did not create a creator, but appointed a creator,[^17][^18]
+second book, he says that God the Father did not create a creator, but appointed a creature,[^17][^18]
 according to that text of Psalm 8, which according to the apostle and according to Augustine is
 [true]{g:verificari} of Christ to the letter: "Thou hast made him a little less than the angels; thou hast crowned
 him with glory and honour, O Lord, and hast set him over the works of thy hands; thou hast subjected
@@ -212,9 +212,9 @@ all things under his feet."[^19]
     *De assumptione*, PL 30, 122 ff.), which Wyclif names in full at p. 109 (*Epist. de Assumpcione Beate
     Virginis ad Paulam et Eustochium*) and cites again at p. 53; no passage is quoted here (LEDGER I01a-8).
 [^17]: **S.** Not Augustine's words, and not in *Contra Maximinum* II: *non creatorem creavit, sed creaturam constituit* is said by Maximinus the Arian, of the Son, in the *Collatio cum Maximino* 15.13 (PL 42, 729; *verified*, LEDGER I01a-9). His *creaturam* bears out A B C (note 18). The quotation before it (*Dicis Patrem infectum … facta sunt omnia*) is Augustine's own, *Collatio* 14 (PL 42, 723), repeated in *Contra Maximinum* I.17 (PL 42, 756).
-[^18]: **T.** A B C read *creaturam*, "but appointed a creature"; the print follows O (p. 7 n. 3). The
-    words are Maximinus's in the *Collatio* (15.13, PL 42, 729), which reads *creaturam*, with A B C
-    (LEDGER I01a-9); the print is translated, but the manuscripts and the source agree against it.
+[^18]: **T.** *creaturam*, with A B C, against the print's *creatorem* (O; p. 7 n. 3): the words are
+    Maximinus's in the *Collatio* (15.13, PL 42, 729), which reads *creaturam* (LEDGER I01a-9), so the
+    manuscripts and the source agree against Harris's choice.
 [^19]: **S.** Ps. 8:6–8, Douay–Rheims; the print adds *Domine* (O omits it, p. 7 n. 6) and ends *sub pedibus* without
     *eius*. "According to the apostle": Heb. 2:7–8, which applies the psalm to Christ. Harris's margin
     gives Ps. viii. 5, 6 and Heb. ii. 7.

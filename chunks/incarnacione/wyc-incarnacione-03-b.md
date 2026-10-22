@@ -77,7 +77,7 @@ Again, according to those who speak thus, [it follows]{g:sequitur} that Christ w
 [^8]: **T.** 33.27 *passio*: A B C *possessio* ("the possession had continued").
 [^9]: **C.** 33.30 *sexto senario*: the sixth six, the 36 hours. Six is a perfect number, and its square, 36, ends again in 6 (multiplied "circularly").
 [^10]: **S.** Col. 1:18.
-[^11]: **S.** The single death of Christ set against our double death (of body and of soul) is Augustine's, *De Trinitate* IV, to be checked (LEDGER I03b-1).
+[^11]: **S.** The single death of Christ set against our double death (of body and of soul) is Augustine's, *De Trinitate* IV.3.5–6, PL 42, 889–891, *Huic ergo duplae morti nostrae Salvator noster impendit simplam suam*; the thirty-six hours and the squared *senarius* are IV.6.10, PL 42, 895, *triginta sex horae sunt, qui est quadratus senarius* (*verified*, LEDGER I03b-1).
 [^12]: **S.** 34.15 *quasi mordens infernum*: after Hos. 13:14, "O hell, I will be thy bite" (quoted at the end of the next paragraph but one).
 [^13]: **C.** 34.23 *numerum insensibilem suo tempore captivorum*: "imperceptible in his time", that is, the captives were not seen to ascend with him; or "a number past perceiving".
 [^14]: **S.** John 1:30 (cf. 1:15): the Vulgate reads *post me venit vir qui ante me factus est* (DR "After me there cometh a man, who is preferred before me").
@@ -89,7 +89,7 @@ Again, according to those who speak thus, [it follows]{g:sequitur} that Christ w
 [^20]: **S.** Eph. 4:12: *in opus ministerii* (the DR text used here prints "for the word of the ministry"; the Vulgate's *opus* is "work").
 [^21]: **S.** Zech. 9:9, 9:11. Wyclif reads *super pullum asine* for the Vulgate's *super pullum filium asinae* (DR "upon a colt, the foal of an ass").
 [^22]: **T.** 36.1 *illa logica subtilis et de virtute sermonis verissima*: A B C read *lingua subtilis et de vi verbi sit vera* ("the language [is] subtle and true by the force of the word"). *Approbatioribus*: A B C *approbatis*, O *approbatoribus*.
-[^23]: **S.** *Obstare principiis*: Ovid, *Remedia amoris* 91 (*principiis obsta*), proverbial, to be checked (LEDGER I03b-2).
+[^23]: **S.** *Obstare principiis*: Ovid, *Remedia amoris* 91 (*principiis obsta*), *Principiis obsta; sero medicina paratur*, proverbial (*verified*, LEDGER I03b-2).
 
 ## Transcription notes
 
