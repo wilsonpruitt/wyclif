@@ -43,16 +43,25 @@ of doubt": only chapters begin a new line in O).
 
 **The page foot** (in your brief as "apparatus", by page) is keyed by **footnote figures**, which stand
 in the Latin as superscripts on the word before them (`Prelibato¹ tractatu`): `1 Litera initialis (P) om.
-A B C. 3 mesterium O.` Read it for sense, not letter by letter (OCR). The figures are the editor's, not
-text: **never carry them into the English**; cite a variant by its page.line.
+A B C. 3 mesterium O.` From 01-b on it is **read from the plate** (`text/incarnacione/foot/`, 2026-10-22),
+not OCR: trust its letters; a `[?]` or `CHECK:` line in it is a doubt to settle on the plate foot. The
+figures are the editor's, not text: **never carry them into the English**; cite a variant by its page.line.
+**Apparatus discipline** (first-chunk review, 2026-10-22: three of its four errors):
+(i) **match a variant to its figure** in the Latin before citing it (a figure *n* belongs to the word
+before ^n, not to a nearby word that resembles the variant); (ii) the foot's abbreviations are
+**rejected readings, to be expanded** in the note (*ppcones* = *proposiciones*), never "beyond certain
+reading"; (iii) where Harris prints **one manuscript (usually O, or M) against A B C** on a word the
+argument turns on, write a **T** note giving both, even though the print is kept; (iv) a reading the
+English follows that is not the print's is a departure: T note, always.
 
 **Harris's margin and brackets.** Harris prints a running English abstract of the whole treatise down
 the margin (≈21,500 words). It is **not reproduced** in this edition (Wilson, 2026-10-21): the headnote
 says so once, and no chunk carries side-notes. At each chapter head he prints, in square brackets, the
 prologue's Latin sentence for that chapter followed by his own English summary. The scaffold gives that
 bracket as its own ¶ block (marked by a comment): **translate the Latin sentence only**, in square
-brackets, worded as the prologue renders it; **drop Harris's English** (it is the editor's, like the
-margin). Write no note on the bracket.
+brackets, worded as the prologue renders it, with **the chapter as subject ("it")**, not Wyclif ("he");
+**drop Harris's English** (it is the editor's, like the margin). Its terms are tagged like any other
+(a first occurrence in the bracket is the chunk's first occurrence). Write no note on the bracket.
 
 ## The job
 
@@ -75,18 +84,25 @@ notes; set `status: translated`; lint; report.
   14th-century schoolman: where the print is grammatical but the argument fails, suspect the editor's
   choice among variants before Wyclif's logic, and read the apparatus.
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is
-  implicit). Supplied words in `[brackets]`, sparingly. **Quotations** in quotation marks. Your brief
+  implicit). Supplied words in `[brackets]`, sparingly, ⛔ **never in italics** (italic emphasis passes a
+  supplied word off as Latin). **Quotations** in quotation marks. Your brief
   carries Harris's **italic runs** per page (from the scan's OCR, rough; his quotation bounds and the
   words he took for titles or Greek). They are the editor's judgement, not the manuscript's: follow them
   by default, depart where the source shows otherwise (say so in a note). Reviews do not check
   quotation bounds against the italics. Italicised scripture inside indirect speech is quoted too; where
   quoting would garble the sentence, leave it unquoted and give the reference in an **S** note.
-- **Formulae of the disputation** (GLOSSARY §C, ruled 2026-10-01), rendered the same way throughout:
+- **Formulae of the disputation** (ruled 2026-10-01; fixed renderings, **tagged only where GLOSSARY has
+  a row**), rendered the same way throughout:
   *instatur* "it is objected" · *obicitur* "it is objected" · *arguitur* "it is argued" (with *per*:
   GLOSSARY) · *dicitur* "it is said" (in an answer: "the answer is") · *respondetur* "the reply is" ·
   *conclusio* "conclusion" · *antecedens / consequens* "antecedent / consequent" · *consequencia*
   "inference", ⛔ never "consequence" · *patet* "it is clear" · *supponitur* "it is supposed" (a premiss
-  laid down) · *probatur* "proof:" or "it is proved" · *confirmatur* "this is confirmed".
+  laid down) · *probatur* "proof:" or "it is proved" · *confirmatur* "this is confirmed" (⛔ not "it is
+  confirmed"). *Ex fide* is the formula "as faith teaches" **only when no verb governs *ex*** (*ut ex fide
+  supponitur* "as is supposed from faith").
+- **Citation formulae:** *ubi supra / ubi super* "in the place cited above" (a reference back to a work
+  already cited, ⛔ never a claim about where a passage stands), *ut supra* "as above", *infra* "below".
+  *Utrobique* "on both sides / in both places", ⛔ not "everywhere" (*ubique*).
 
 ## The four error classes (Thakkar) — check every sentence
 
@@ -103,18 +119,23 @@ notes; set `status: translated`; lint; report.
    "difference" · *subiectum* "subject" · *predicamentum* "category" · *racio* (against *substancia*)
    "aspect" · *successivum / permanens* "successive / permanent entity" · *ampliacio* "ampliation" ·
    *sumitur pro* "is taken for" · *dicitur multipliciter* "is said in many ways" · *quiditas* "quiddity".
+   **Ruled from the first chunk (2026-10-22, Wilson; GLOSSARY §C, end): tag only**, with a G note only
+   for something specific to the passage (⛔ never a note that restates the row): *humanitas* "the
+   humanity" · *incommunicantes* "that do not communicate" · *dimittere / dimissio* "lay aside / the
+   laying-aside" · *assumere / assumpcio* "assume / assumption" (⚠ apart from the logician's *assumptum*,
+   C note where that sense occurs) · *homo assumptus* "the assumed man" · *triduum* "the three days" ·
+   *ydemptitas specifica* "identity of species" · *Verbum* "the Word", pronoun **"he"** · *deitas* "the
+   Godhead" · *natura* "nature" · *persona* "person" · *creatura / creator / creatus* · *posicio /
+   proposicio / predicacio* "position / proposition / predication" (kept apart) · *verificari de* "be
+   true of" · *sacramentum* "sacrament" (G note "= mystery") vs *misterium* "mystery" · *moderni
+   doctores* "the modern doctors" · *sancti* "the saints" · *probabiles doctores* "approved doctors" ·
+   *Magister* "the Master" · *declarare* "make clear" vs *ostendere* "show" · *epilogus* "recapitulation"
+   · *infirmitas* "weakness" · *habitudo* CONTEXTUAL "condition / respect".
    For the rest, **render consistently within your brief and PROPOSE the row** (the coordinator rules
-   between briefs; the FIRST chunk's proposals are ruled by Wilson). Expect at least: *humanitas*
-   (humanity; the human nature — the word on which the first chapter turns: *humanitas sit Christus*),
-   *natura*, *persona*, *suppositum*, *ypostasis*, *res communis* (the common thing), *individuum*,
-   *singulare*, *assumere / assumpcio* (of the nature: assume / assumption — ⚠ GLOSSARY §C has
-   *assumptum* "the assumption" for the logical premiss: keep the two apart with a C note where the
-   logical sense occurs), *unire / unio*, *communicacio ydiomatum*, *materia prima*, *forma*,
-   *compositum*, *triduum* (the three days in the tomb: *in triduo*), *Verbum* (the Word), *deitas*,
-   *creatura* (creature: never "creation" for the created thing), *incommunicans / incommunicantes*
-   (of the three natures that do not communicate), *moderni doctores* (the modern doctors), *sancti*
-   (the saints, i.e. the fathers), *symbolum* (the creed). Render *homo* "man" (the medieval *homo*
-   that *Christus est homo* needs; never "human being" in the formulae).
+   between briefs). Expect: *suppositum*, *ypostasis*, *res communis* (the common thing), *individuum*,
+   *singulare*, *unire / unio*, *communicacio ydiomatum*, *materia prima*, *forma*, *compositum*,
+   *symbolum* (the creed; has a row). Render *homo* "man" (the medieval *homo* that *Christus est homo*
+   needs; never "human being" in the formulae).
    Key rulings carried from the political works that still apply: *ecclesia* church (**lower-case**)
    · *caritas* charity · *viator* wayfarer · *ex fide* as faith teaches · *sentencia* teaching ·
    *opinio* opinion · *evidencia* evidence · *fides* faith.
@@ -152,7 +173,13 @@ notes; set `status: translated`; lint; report.
    Christus*, *Verbum est homo*: Wyclif argues about what is predicated of what, with supposition and
    identity in play. Keep subject and predicate in his order, keep *est* as "is" (never "exists" unless
    the Latin is *existit* or the sense is plainly existential, with a C note), and keep *secundum* ("as
-   to", "according to") visible: *secundum deitatem / humanitatem* "as to his deity / humanity".
+   to", "according to") visible, in its place: *secundum deitatem / humanitatem* "as to the Godhead / as
+   to the humanity". Reduplicative ***secundum quod*** "insofar as", ⛔ never "in that" (heard as
+   "because"). ⛔ **Never supply "as God / as man"** where the Latin has bare apposition (*ipse Deus*) or
+   bare predication: the difference between the bare and the reduplicated form is the treatise's matter.
+   **Propositions in indirect speech:** where an accusative + infinitive names a proposition whose sense
+   is under discussion (*intelligentes Christum non esse creaturam*), render it as the quoted proposition
+   ("who understand 'Christ is not a creature'"), not "understand that …", which asserts it.
 
 ## Scripture
 
@@ -160,7 +187,8 @@ notes; set `status: translated`; lint; report.
 `python3 scripts/w3/bible.py --find "ego et Pater unum sumus"`. Where Wyclif's Latin agrees with the
 Clementine Vulgate, use the **Douay–Rheims wording**. Where he departs, translate *his* Latin and write
 an **S** note giving the Vulgate. Modern references in the English (John 10:30). The chapter numbers
-are Wyclif's, the verse numbers Harris's margin references where he gives them (the headnote says so once).
+are Wyclif's, the verse numbers Harris's margin references where he gives them and ours where he does
+not; psalms in Vulgate numbering (Harris's margin uses the Hebrew: Ps. cx = 109). The headnote says so once.
 
 ## Notes
 
@@ -174,8 +202,8 @@ are Wyclif's, the verse numbers Harris's margin references where he gives them (
   report with a status: `editor` (Harris's source reference at the page foot or in the margin),
   `to-verify` (from memory: every patristic or scholastic identification you did not read in this
   session), `verified` (you read the source text this session: say where; local PL at
-  `~/patrologia/sources/pl/tei/`). ⛔ Never pass memory off as verified. Id `P<chunk>-<n>` (`P01a-1`),
-  cited in the note: "(LEDGER P01a-1)". The *sancti* cited are above all Augustine (*De Trinitate*,
+  `~/patrologia/sources/pl/tei/`). ⛔ Never pass memory off as verified. Id `I<chunk>-<n>` (`I01b-1`; ⚠ `I`, since `P` is *De potestate pape*),
+  cited in the note: "(LEDGER I01b-1)". The *sancti* cited are above all Augustine (*De Trinitate*,
   *Enchiridion*, *De fide et symbolo*), Anselm (*Cur Deus homo*, *De incarnatione Verbi*), Damascene,
   Hilary, the Lombard (*Sent.* III) and Grosseteste; the *moderni* are usually unnamed.
 

@@ -81,7 +81,10 @@ def main(slug, nums):
         sys.exit(f'no {card}: write the volume card first (from the first-chunk review), then brief')
     off = {r['slug']: r for r in csv.DictReader(open(os.path.join(ROOT, 'catalog', 'plate_offsets.tsv')), delimiter='\t')}
     offset = int(off[slug]['offset']) if slug in off else None
-    app_path = os.path.join(ROOT, 'text', slug, 'apparatus.json')
+    app_path = os.path.join(ROOT, 'text', slug, 'apparatus_read.json')     # read from the plates (footread.py)
+    app_src = 'read from the plate'
+    if not os.path.exists(app_path):
+        app_path, app_src = os.path.join(ROOT, 'text', slug, 'apparatus.json'), 'OCR'
     app = json.load(open(app_path)) if os.path.exists(app_path) else {}
     it_path = os.path.join(ROOT, 'text', slug, 'italics.tsv')      # the editor's italic runs (italics.py)
     italics = {}
@@ -106,7 +109,7 @@ def main(slug, nums):
         dest = os.path.join(ROOT, 'chunks', slug, '_pilot', 'brief-test', os.path.basename(rel)) if FROM_GIT else os.path.join(ROOT, rel)
         it = '\n'.join(f'p. {p}: ' + ' | '.join(italics[p]) for p in pages if p in italics) or '(none recorded)'
         chunks.append(f'\n\n---\n\n## Chunk {n}: write to `{dest}`\n\n### Scaffold\n\n````markdown\n{text.strip()}\n````\n\n'
-                      f'### Apparatus (editor\'s page-foot notes, OCR; line numbers are the printed page\'s)\n\n```\n{a}\n```\n\n'
+                      f'### Apparatus (editor\'s page-foot notes, {app_src}; line numbers are the printed page\'s)\n\n```\n{a}\n```\n\n'
                       f'### Italics (the editor\'s italic runs, OCR, one per |: his quotation bounds, evidence only)\n\n```\n{it}\n```')
         paths.append(os.path.relpath(dest, ROOT))
     gl, kept = glossary_rows(' '.join(latin))

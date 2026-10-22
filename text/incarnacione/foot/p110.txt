@@ -1,0 +1,8 @@
+1 philosophia A B C.
+2 inquit *om.* B.
+3 predicasse O.
+4 orat deum A B C.
+5 pro O.
+6 *An* quod *sensus causa omittendum*?
+
+CHECK: the main text has figure 4 twice (both "quibus ⁴" and "Dominum ⁴"), but the foot has only one entry for 4 ("orat deum A B C.").

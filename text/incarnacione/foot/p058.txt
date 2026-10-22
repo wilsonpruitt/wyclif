@@ -1,0 +1,20 @@
+1 ac A B C.
+2 aut *codd. omn.*
+3 aridum O.
+4 nunquam C.
+5 per totum *add.* A C.
+6 dari B.
+7 subiecti O.
+8 anichilata anichilacio A.
+9 modi *om.* O C.
+10 requiritur O.
+11 Christum *om.* O.
+12 cum *om.* O C.
+13 quoniam A C.
+14 sortitiretur O.
+15 uniretur A B C.
+16 quam C.
+17 quoniam A.
+18 ypostaica O.
+19 in A B C.
+CHECK: the main-text figure list has 8 twice, but the foot has only one entry for 8 ("anichilata anichilacio A."), so the second 8 has no separate entry.
