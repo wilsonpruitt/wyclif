@@ -21,7 +21,7 @@ status: translated
 
 > [p. 3] [Declarando ex testimoniis sanctorum quod humanitas sit Christus et per consequens creatura, dat sensum dictorum in scripturis et in symbolo que videntur huic opposita. Discussion as to the sense in which it is catholic truth to say: Christ is a creature.]
 
-[By showing from the testimonies of the saints that the humanity is Christ, and consequently a creature,
+[By showing from the testimonies of the saints that [the humanity]{g:humanitas} is Christ, and consequently a creature,
 he gives the sense of the sayings in the scriptures and in the creed that seem opposed to this.]
 
 ## ¶2 · 3.2–3.20
@@ -31,7 +31,7 @@ he gives the sense of the sayings in the scriptures and in the creed that seem o
 Now since for [those on the road]{g:viantes} in the spirit it is necessary, in learning, first to remove
 what hinders instruction; and in holy scripture and in the holy doctors there are many things written
 of Christ that seem to the unskilled to be contrary; therefore, for their resolution, it is supposed
-in the first place that Christ is three natures that do not communicate with one another,[^1] namely
+in the first place that Christ is three natures [that do not communicate]{g:incommunicantes} with one another,[^1] namely
 the [Godhead]{g:deitas}, a body and a soul. It is clear thus. Christ is God and perfect man, as is
 supposed [as faith teaches]{g:ex-fide}; every God is Godhead; every perfect man is both body and soul;
 therefore the [conclusion]{g:conclusio}. It is confirmed by Augustine on John, homily 47:[^2] "If," he
@@ -102,7 +102,7 @@ showing which scriptures befit him as to the Godhead and which as to the humanit
 Nor is there greater [colour]{g:color}[^9] that he is creator because [he is so] as to the Godhead,
 than, by the same token, that he is a creature because [he is so] as to the humanity,
 especially since he is that complete humanity. For it is certain from the testimony of Augustine
-against Felician that the whole man assumed suffered death, just as the flesh alone lay in the tomb, as
+against Felician that the whole man [assumed]{g:assumere} suffered death, just as the flesh alone lay in the tomb, as
 Augustine witnesses in homily 47, where, above:[^10] "You confess," he says, "that you believe in that
 Christ who died and was buried; therefore you do not deny that Christ was buried. And yet the flesh
 alone was buried; for if the soul was there, he was not dead; but if it was a true death, so that his

@@ -80,7 +80,7 @@ And this treatise is divided into thirteen chapters.
 
 > [p. 1] Quorum primum, declarando ex testimoniis sanctorum quod humanitas sit Christus et per consequens creatura, dat sensum dictorum⁹ in scripturis et in¹⁰ symbolo¹¹ que videntur huic opposita.
 
-Of these the first, by showing from the testimonies of the saints that the humanity is Christ, and
+Of these the first, by showing from the testimonies of the saints that [the humanity]{g:humanitas} is Christ, and
 consequently a creature, gives the sense of the sayings in the scriptures and in the [creed]{g:symbolum}
 that seem opposed to this.[^2]
 
@@ -94,7 +94,7 @@ The second chapter shows how this [teaching]{g:sentencia} differs from the Arian
 
 > [p. 1] Tertium capitulum ostendit quod Christus fuit homo in triduo et obicit multipliciter et dissolvit.
 
-The third chapter shows that Christ was a man during the three days,[^3] and raises objections in many
+The third chapter shows that Christ was a man during [the three days]{g:triduum},[^3] and raises objections in many
 ways and resolves them.
 
 ## ¶6 · 2.1–2.2
@@ -108,8 +108,8 @@ the more.
 
 > [p. 2] Quintum capitulum, supponendo quod Verbum non dimisit humanitatem pro triduo, probat¹ quod nec potuit dimittere naturam quam assumpsit.
 
-The fifth chapter, supposing that the Word did not lay aside the humanity for the three days, proves
-that neither could it lay aside the nature that it assumed.[^4]
+The fifth chapter, supposing that the Word did not [lay aside]{g:dimittere} the humanity for the three days, proves
+that neither could it lay aside the nature that it [assumed]{g:assumere}.[^4]
 
 ## ¶8 · 2.5–2.8
 
@@ -129,7 +129,7 @@ many, how Wisdom, mobile in the highest degree, was "in habit found as a man".[^
 
 > [p. 2] Capitulum octavum obicit tripliciter contra ydemptitatem specificam⁸ Christi cum aliis et⁹ dissolvit.
 
-The eighth chapter objects in three ways against the specific identity of Christ with others,[^6] and
+The eighth chapter objects in three ways against the [identity of species]{g:ydemptitas-specifica} of Christ with others,[^6] and
 resolves the objections.
 
 ## ¶11 · 2.14–2.17
