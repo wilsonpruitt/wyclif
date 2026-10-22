@@ -432,6 +432,17 @@ otherwise.
 | antropospatos | anthropopathos | The figure, kept. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 7). |
 | habitus (of the humanity) | habit | The Lombard's third opinion (*Sent.* III d. 6). Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 7). |
 | reputacio | estimation | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 7). |
+| accidens | accident | The category; *accidit* "befalls". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 7). |
+| habicio | holding | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 119.7). |
+| habitacio | habitation | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 120.14). |
+| denominacio respectiva | relational naming | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 120.17). |
+| figura / figuratum | figure / thing figured | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 121.23). |
+| incepcio | beginning | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 121.16). |
+| exceptiva | exceptive [proposition] | Beside *exclusiva*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 124.31). |
+| conversio (of a proposition) | conversion | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 124.30). |
+| humanitacio | humanation | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 126.12). |
+| quiditativus | quidditative | Beside *quiditas*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 126.24). |
+| deduccio | deduction | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 124.21). |
 | Magister | the Master | Peter Lombard. Ruled 2026-10-22 (Wilson; *Incarn.* 3.24). |
 | declarare / ostendere | make clear / show | Kept apart (both in one sentence, prol 2.5–7). Ruled 2026-10-22 (Wilson). |
 | epilogus / epilogare | recapitulation / recapitulate | Ruled 2026-10-22 (Wilson; *Incarn.* 3.25, prol 2.14). |
