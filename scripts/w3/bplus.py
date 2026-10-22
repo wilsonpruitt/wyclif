@@ -37,6 +37,10 @@ PREFIX = {'head': '## ', 'arg': '> ', 'body': ''}
 SUP = str.maketrans('ᵃᵇᶜᵈᵉⁱᵒᵘᵐᵗⁿʳˢ', 'abcdeioumtnrs')
 
 
+
+# line-end hyphens that belong to a compound (Deus-homo), kept when the halves are joined
+KEEP_HYPHEN = {'deus'}
+
 def fold(w):
     return norm(w.translate(SUP))
 
@@ -94,7 +98,7 @@ def tokens_of(lines, page):
         cur_ln = L['ln']
         for k, w in enumerate(L['words']):
             if carry is not None:                 # the second half of a line-end hyphenation
-                carry['t'] += FOOT.sub('', w)
+                carry['t'] += ('-' if carry.pop('keep', False) else '') + FOOT.sub('', w)
                 for n in FOOT.findall(w):
                     toks.append(dict(t=n, ln=carry['ln'], para=False, head=carry['head'], foot=True))
                 carry = None
@@ -109,6 +113,8 @@ def tokens_of(lines, page):
                 toks.append(dict(t=n, ln=cur_ln, para=False, head=t['head'], foot=True))
             if k == len(L['words']) - 1 and base.endswith('-') and len(base) > 1 and not feet:
                 t['t'] = base[:-1]
+                if t['t'].lower() in KEEP_HYPHEN:         # a compound's own hyphen, not a word split
+                    t['keep'] = True
                 carry = t
     # punctuation printed with a space (Harris: `est :`, `‘ Si`) belongs to a word
     merged, hold = [], ''
