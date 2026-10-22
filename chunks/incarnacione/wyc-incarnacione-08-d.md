@@ -71,13 +71,13 @@ From these, third, it is gathered that it does not matter from what matter God [
 
 [^5]: **T.** *Pollitice*: A's spelling of *politice*, which Harris glosses *civiliter* "civilly" (cf. 136.12); B *pollce*, C *polletice*.
 
-[^6]: **S.** The principle that what receives lacks the nature of what it receives: Aristotle, *De anima* III.4, 429a (LEDGER I08d-1, to be checked). A *permittant*, B *permittunt* (135.26).
+[^6]: **S.** The principle that what receives lacks the nature of what it receives: the schools' maxim from Aristotle, *De anima* III.4, 429a13–24, where the mind, to receive all forms, must be none of them, since the co-presence of what is alien to its nature is a hindrance (*verified*, LEDGER I08d-1). A *permittant*, B *permittunt* (135.26).
 
-[^7]: **S/C.** Boethius, *Contra Eutychen* 3, on *ousia*, *ousiosis* and *hypostasis* (LEDGER I08d-2, to be checked); Wyclif's Latinised Greek is kept, in italic as Harris prints it. The "three substances" are the Godhead, the body and the soul.
+[^7]: **S/C.** Boethius, *Contra Eutychen* 3, PL 64, 1344C–1345B, on *ousia*, *ousiosis* and *hypostasis* (*essentiam quidem οὐσίαν, subsistentiam vero οὐσίωσιν, substantiam ὑπόστασιν*; *verified*, LEDGER I08d-2); Wyclif's Latinised Greek is kept, in italic as Harris prints it. The "three substances" are the Godhead, the body and the soul.
 
 [^8]: **T.** *Acceptarent* "would accept" is Harris's supplement (cf. 135.12): A B leave a gap of twelve letters, C omits from *divinitatis* to *testimonium*, and O lacks the passage (n. 4).
 
-[^9]: **S.** The definition is Richard of St Victor's, as at 131.24–26 (LEDGER I08d-3, to be checked). *Signata*: the definition just signified.
+[^9]: **S.** The definition is Richard of St Victor's, as at 131.24–26; Richard says it of the divine person only, *divinae naturae incommunicabilis existentia* (*De Trinitate* IV.22, PL 196, 945C–D; *verified*, LEDGER I08d-3). *Signata*: the definition just signified.
 
 [^10]: **C.** *Commune principatum*: neuter after *commune*; translated as printed ("principality", rule). *Principiatum* "what proceeds from a principle" is a possible reading, not adopted.
 
@@ -85,7 +85,7 @@ From these, third, it is gathered that it does not matter from what matter God [
 
 [^12]: **T.** The minor premiss *sed … feminei* (136.31–32) is omitted by A B C; the print has it with O, and the syllogism needs it.
 
-[^13]: **S.** Averroes, *In Physicorum* VIII, comm. 46, against Avicenna on the generation of animals from earth (LEDGER I08d-4, to be checked). The print's "9." is probably the manuscripts' sign for *com*-, so "comment".
+[^13]: **S.** Averroes, *In Physicorum* VIII, comm. 46, against Avicenna on the generation of animals from earth (not read here; Scotus, *Ordinatio* I d. 2 p. 2 q. 4, cites the same comment against Avicenna as *VIII Physicorum commento 49*, so the number varies with the division; LEDGER I08d-4, untraced). The print's "9." is probably the manuscripts' sign for *com*-, so "comment".
 
 [^14]: **C.** *In assumpto quod*: the *quod* clause is Wyclif's ground for rejecting the assumption, not its content; *assumptum* is the logician's sense, not the assumption of the nature. A B C read *commixione* "mixture" for *complexione* (137.13, 137.15).
 
@@ -99,7 +99,7 @@ From these, third, it is gathered that it does not matter from what matter God [
 
 [^19]: **T.** *Limitet* … *limitatum* (138.3–4), the print, with O; A B C read *liniet* … *liniatum*.
 
-[^20]: **T/S.** *Caret* is O's alone (A B C omit it); Harris daggers it and suggests *cresceret* "would grow" or *foret* "would be". The English supplies "becomes", after the saying that a small error at the beginning is great at the end (Aristotle, *De caelo* I.5, 271b8; LEDGER I08d-5, to be checked). *Auctoris*: the author of the argument.
+[^20]: **T/S.** *Caret* is O's alone (A B C omit it); Harris daggers it and suggests *cresceret* "would grow" or *foret* "would be". The English supplies "becomes", after the saying that a small error at the beginning is great at the end (Aristotle, *De caelo* I.5, 271b8–9, "the least initial deviation from the truth is multiplied later a thousandfold"; *verified*, LEDGER I08d-5). *Auctoris*: the author of the argument.
 
 [^21]: **C.** *Prima* is taken with *complexione* ("a first complexion"), not as *materia prima* "prime matter"; *facta* is referred to the body. *Adesse* (138.21), one word in the print, is *ad esse* "for the being". A B C read *suppositi* for *compositi* (138.17).
 

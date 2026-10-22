@@ -45,23 +45,23 @@ But further, it is not to be denied that Christ has an equivocal individuating a
 
 [^1]: **C.** *Diffinicio sive descripcio*: both are "definition" (GLOSSARY); the pair is the strict definition and the descriptive one. *Probabilis*: worthy of credence, "reputable". Below, *describere* is "define".
 
-[^2]: **T.** *Quantitate*, with A B C and the title of Augustine's work, against the print's *Qualitate* (A B C are one recension, but the source agrees with them). The chapter number is lacking in all the manuscripts (127.11 n. 7). The definition "rational mortal animal" is discussed in *De quantitate animae* 25.47 (LEDGER I08b-1, to be checked).
+[^2]: **T.** *Quantitate*, with A B C and the title of Augustine's work, against the print's *Qualitate* (A B C are one recension, but the source agrees with them). The chapter number is lacking in all the manuscripts (127.11 n. 7). The definition "rational mortal animal" is Augustine's example of a perfect definition in *De quantitate animae* 25.47, PL 32, 1062: *homo est animal mortale rationale … omne animal rationale mortale homo est* (*verified*, LEDGER I08b-1).
 
-[^3]: **S.** Augustine, *De Trinitate* XV.7.11, "man is a rational substance consisting of soul and body" (LEDGER I08b-2, to be checked).
+[^3]: **S.** Augustine, *De Trinitate* XV.7.11, "man is a rational substance consisting of soul and body" (PL 42, 1065, *Homo est substantia rationalis constans ex anima et corpore*; *verified*, LEDGER I08b-2). The same chapter gives the first definition too, *Homo est enim, sicut veteres definierunt, animal rationale mortale*, behind Wyclif's *sicut veteres describebant*.
 
-[^4]: **T.** *Filio Dei*, with A B C (*filio … filio*), against the print's *Filius Dei* (127.24), which leaves *herendo* "cleaving" with nothing to cleave to; Augustine's text, as remembered, reads *filius hominis Filio Dei* (to be checked). A B C's first *filio* is not followed. The homily is Augustine, *In Iohannis evangelium tractatus* 19.15 (A B C "9"; LEDGER I08b-3, to be checked).
+[^4]: **T.** *Filio Dei*, with A B C (*filio … filio*), against the print's *Filius Dei* (127.24), which leaves *herendo* "cleaving" with nothing to cleave to; Augustine reads *Haerendo enim ad unitatem personae filius hominis Filio Dei* (PL 35, 1553), which supports A B C. A B C's first *filio* is not followed. The homily is Augustine, *In Iohannis evangelium tractatus* 19.15 (A B C "9"; PL 35, 1552–1553; *verified*, LEDGER I08b-3).
 
-[^5]: **T.** The print and the manuscripts read *animam* "a soul" (127.27); Harris asks whether *hominem* "man" should be read, as the comparison and the closing "the Word of God having man" require. Translated as printed; Augustine's text to be checked (LEDGER I08b-3).
+[^5]: **T.** The print and the manuscripts read *animam* "a soul" (127.27); Harris asks whether *hominem* "man" should be read, as the comparison and the closing "the Word of God having man" require. Translated as printed. Augustine reads *Filius Dei, quod est Verbum Dei, habet hominem, tanquam anima corpus* (*In Ioh.* 19.15, PL 35, 1553), and Harris's Notes (to 127.27) say so: *Since the text was printed I have found that hominem is the word in Aug.* (*verified*, LEDGER I08b-3).
 
-[^6]: **S/C.** Hugh of St Victor, *De sacramentis* II.1.11 is the likely place ("man is a rational soul having a body"; LEDGER I08b-4, to be checked). *Sentencia*: the position taught (CONTEXTUAL row, first sense).
+[^6]: **S/C.** Hugh of St Victor, *De sacramentis* II.1.11, PL 176, 406A–411A, teaches it: the rational spirit is properly the person, and the body joined to it is added into the person (*Anima quippe in quantum est spiritus rationalis, ex se et per se habet esse personam*, 409B; *verified*, LEDGER I08b-4). The formula "a rational soul having a body" is Augustine's (*In Ioh.* 19.15), not Hugh's. *Sentencia*: the position taught (CONTEXTUAL row, first sense).
 
-[^7]: **S.** Robert Grosseteste, bishop of Lincoln, *Hexaemeron*, on the sixth day (LEDGER I08b-5, to be checked). Gen 2:7: Wyclif's *spiravit* for the Vulgate's *inspiravit* (DR "breathed into"); "man became a living soul" is the same verse. Matt 22:32: DR "I am the God of Abraham and the God of Isaac and the God of Jacob? He is not the God of the dead but of the living"; the English follows Wyclif's Latin, which lacks the Vulgate's *et* before *Deus Isaac*.
+[^7]: **S.** Robert Grosseteste, bishop of Lincoln, *Hexaemeron*, on the sixth day; the wording not checked, as Dales–Gieben is not in hand and Harris's index gives only *128. Exameron* (LEDGER I08b-5, untraced). Gen 2:7: Wyclif's *spiravit* for the Vulgate's *inspiravit* (DR "breathed into"); "man became a living soul" is the same verse. Matt 22:32: DR "I am the God of Abraham and the God of Isaac and the God of Jacob? He is not the God of the dead but of the living"; the English follows Wyclif's Latin, which lacks the Vulgate's *et* before *Deus Isaac*.
 
 [^8]: **C.** *Obiective beatificans*: God as the object whose possession makes the blessed blessed; that is the "one sense" of *theos* meant. *Cum hodie non daret* gives the reason the words cannot be about time past only: so understood, they would give Moses that day no ground to expect help for the patriarchs' seed (Exod 3:6). The silencing is Matt 22:34, "he had silenced the Sadducees".
 
 [^9]: **G.** *Presciti*: Wyclif's term for those whom God foreknows will be damned; not "the reprobate".
 
-[^10]: **S.** Wyclif's *mortem non gustabit* is the wording of John 8:52 (DR "he shall not taste death for ever"), where the Jews repeat the saying of 8:51 (*mortem non videbit*, "he shall not see death"). Augustine, *In Iohannis evangelium tractatus* 43 (LEDGER I08b-6, to be checked).
+[^10]: **S.** Wyclif's *mortem non gustabit* is the wording of John 8:52 (DR "he shall not taste death for ever"), where the Jews repeat the saying of 8:51 (*mortem non videbit*, "he shall not see death"). Augustine, *In Iohannis evangelium tractatus* 43.10–11, PL 35, 1709–1710, where the death not seen is *mortem secundam, mortem aeternam* (*verified*, LEDGER I08b-6).
 
 [^11]: **C.** Latin has two words that English renders "man": *homo* (the species) and *vir* (the male). Quotation marks mark *vir*; Wyclif plays on *vir*, *virens* "flourishing" and *virtus* "virtue".
 
@@ -71,7 +71,7 @@ But further, it is not to be denied that Christ has an equivocal individuating a
 
 [^14]: **C.** *Racio*: "account", the species-sense (*racio speciei*), not the row's "aspect" (against *substancia*). *Collacio proprietatum*: the "collection of properties" that individuates, not the row's "conferral". Possibly the subject of *esset* is Christ: "he would not be the essential principle of the Christian kind". A B C read *ergo* for *generis* (129.30).
 
-[^15]: **S.** Anselm, *Epistola de incarnatione Verbi* (Wyclif's "c. 7"; LEDGER I08b-7, to be checked). A B C omit *procreatus*.
+[^15]: **S.** Anselm, *Epistola de incarnatione Verbi* (Wyclif's "c. 7"), c. 11 in Schmitt (II, 29.6–9; PL 158, 278D–279A, Migne's c. VI): *personam designamus, quae cum natura collectionem habet proprietatum, quibus homo communis fit singulus et ab aliis singulis distinguitur*. The question *Quis alius … procreatus* is Wyclif's, built on it, not Anselm's words (*verified*, LEDGER I08b-7). A B C omit *procreatus*.
 
 ## Transcription notes
 

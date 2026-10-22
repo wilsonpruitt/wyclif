@@ -73,17 +73,17 @@ Fourth, it is objected, by appeal to this, that Christ recently is both body and
 
 [^3]: **T.** *Diviso* "divided", with O, against the print's *diverso* "diverse" (131.2). With *diverso* the sentence says that things in a diverse genus are univocal in the genus; the example (man and ass in the genus animal) needs one genus divided by opposite differences.
 
-[^4]: **T.** *Ydolum* "an image", with A B O (C *ydioles*), against the print's *ydiotes* "the unlettered man" (131.6). The real man and the image of a man are the stock case of things equivocal in a name (Aristotle, *Categories* 1; LEDGER I08c-1, to be checked), and they are one in genus as bodies; cf. *ydolum vel aliud artificiale* (138.22).
+[^4]: **T.** *Ydolum* "an image", with A B O (C *ydioles*), against the print's *ydiotes* "the unlettered man" (131.6). The real man and the image of a man are the stock case of things equivocal in a name (Aristotle, *Categories* 1, 1a1–3, in Boethius's Latin *ut animal, homo et quod pingitur*, PL 64, 163C; *verified*, LEDGER I08c-1), and they are one in genus as bodies; cf. *ydolum vel aliud artificiale* (138.22).
 
-[^5]: **S.** The definition by "incommunicable existence" is Richard of St Victor's, *De Trinitate* IV.22–23 (LEDGER I08c-2, to be checked). *Descriptive*: "by way of definition" (from *descripcio*). O reads *naturalem racionalem* and omits *essencie vel*.
+[^5]: **S.** The definition by "incommunicable existence" is Richard of St Victor's, *De Trinitate* IV.22, PL 196, 945C–D, said there of the divine person only (*persona divina sit divinae naturae incommunicabilis existentia*); IV.23, 945D–946A, sets it beside Boethius (*rationalis naturae individua existentia* for the uncreated person). The form with "rational nature" is not Richard's wording (*verified*, LEDGER I08c-2). *Descriptive*: "by way of definition" (from *descripcio*). O reads *naturalem racionalem* and omits *essencie vel*.
 
-[^6]: **S.** Boethius's definition of person, "an individual substance of rational nature", *Contra Eutychen* 3 (LEDGER I08c-3, to be checked).
+[^6]: **S.** Boethius's definition of person, "an individual substance of rational nature", *Contra Eutychen* 3, PL 64, 1343C–D: *Persona est naturae rationalis individua substantia* (*verified*, LEDGER I08c-3).
 
-[^7]: **S.** Anselm, *De veritate* and *De libertate arbitrii*, whose definitions of truth, justice and free choice hold of God and creature (LEDGER I08c-4, to be checked). *Anselmum*: the print, with O (*añs & boym*); A B C *Augustinum*.
+[^7]: **S.** Anselm, *De veritate* and *De libertate arbitrii*, whose definitions of truth, justice and free choice hold of God and creature: truth is *rectitudo mente sola perceptibilis* (*De veritate* 11, Schmitt I, 191), justice *rectitudo voluntatis propter se servata* (12, I, 194), and the definition of free choice *in utrisque secundum hoc nomen eadem debet esse*, for God and the good angels and for men (*De libertate arbitrii* 1, I, 208; *verified*, LEDGER I08c-4). *Anselmum*: the print, with O (*añs & boym*); A B C *Augustinum*.
 
-[^8]: **C.** *Dicuntur ad aliquid*: they are relatives, in the category of relation; relatives are "simultaneous by nature" (Aristotle, *Categories* 7, 7b15; LEDGER I08c-5, to be checked).
+[^8]: **C.** *Dicuntur ad aliquid*: they are relatives, in the category of relation; relatives are "simultaneous by nature" (Aristotle, *Categories* 7, 7b15, in Boethius's Latin *Videntur autem ad aliquid simul esse natura*, PL 64, 228B; *verified*, LEDGER I08c-5).
 
-[^9]: **S.** Pseudo-Augustine (Ambrosiaster), *Quaestiones Veteris et Novi Testamenti*, q. 122 (LEDGER I08c-6, to be checked). "Boethius's definition, *De persona*" is the same *Contra Eutychen* 3 (LEDGER I08c-7, to be checked).
+[^9]: **S.** Pseudo-Augustine (Ambrosiaster), *Quaestiones Veteris et Novi Testamenti*, q. 122, PL 35, 2367, where God is called one but not *solitarius*; q. 87, PL 35, 2280, has the word, *Unus quidem est Deus, sed non singularis est* (*verified*, LEDGER I08c-6). "Boethius's definition, *De persona*" is the same *Contra Eutychen* 3, PL 64, 1343C–D, printed in Migne as *De persona et duabus naturis*; *individua* is in the definition because there is person only *in singularibus … atque in individuis* (*verified*, LEDGER I08c-7).
 
 [^10]: **C.** *Prima conclusio*: the objection's first inference, "he is singular only temporally". *Nec est vis*: "it carries no weight". *Supponitur speciei*: stands as supposit under the species, not the formula "it is supposed".
 
