@@ -57,4 +57,6 @@ Rows: `chunks/incarnacione/_verify/rows-{W}.md` (the wave's to-verify / editor r
   empty cell (use —); point it at earlier RESULTS-*.md for shared sources. A LEDGER row with an empty last cell breaks
   apply.py, and a failed apply has already written the rows before it: `git checkout` the files and re-run.
 - Connective checks: waves 1–2 found 0 changes in 63 occurrences.
+- A bt fix that removes or adds a token shifts B+ positions on that page: a `bplus_decisions.tsv` row for a later
+  position then goes back to the queue. Shift its `pos` by hand and re-run bplus.py (queue must be 0).
 

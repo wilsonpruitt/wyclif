@@ -334,10 +334,24 @@ otherwise.
 | nedum | not only | "Let alone" where the sense is a fortiori. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 21, 24). |
 | materia prima | prime matter | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 25). |
 | gracia unionis | the grace of union | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 25). |
-| exinanicio / exinanire | emptying / empty | Phil. 2:7 (Douay "emptied himself"). Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 26). |
+| exinanicio / exinanire / inanicio | emptying / empty | Phil. 2:7 (Douay "emptied himself"); *inanicio* (*Incarn.* 33) the same. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 26). |
 | minoracio | lowering | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 26). |
 | humiliacio | humbling | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 26–28). |
 | coamicus | fellow-friend | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 27). |
+| regnacio | reigning | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 30). |
+| immediate | without intermediary | The scholastic sense, ⛔ not "at once". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 30.30). |
+| humanitus | humanly | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* passim). |
+| spoliare / spoliacio | despoil / despoiling | Of hell. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 31–32). |
+| suscipere (of the soul, the nature) | take up | Kept apart from *assumere* "assume". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 31). |
+| suppositum | supposit | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 34.24). |
+| individuum | individual | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 35.7). |
+| machina (*mundi*) | frame | "The frame of the world". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 35.1). |
+| omagium | homage | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 33.21). |
+| limbus | limbo | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 3). |
+| in quantum (reduplicative) | insofar as | As *secundum quod*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 37.9). |
+| unio | union | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 39). |
+| synecdochica locucio | synecdochic locution | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 39.14). |
+| universitas creaturarum | the totality of creatures | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 37). |
 | Magister | the Master | Peter Lombard. Ruled 2026-10-22 (Wilson; *Incarn.* 3.24). |
 | declarare / ostendere | make clear / show | Kept apart (both in one sentence, prol 2.5–7). Ruled 2026-10-22 (Wilson). |
 | epilogus / epilogare | recapitulation / recapitulate | Ruled 2026-10-22 (Wilson; *Incarn.* 3.25, prol 2.14). |
@@ -535,7 +549,7 @@ otherwise.
 | bona de genere | good in kind | Ruled 2026-10-02 (*Eccl.* 22). |
 | bonum honestum / utile / delectabile | honourable / useful / pleasurable good | Ruled 2026-10-02 (*Eccl.* 22). |
 | exequie | exequies | Ruled 2026-10-02 (*Eccl.* 22). |
-| obsequium (for the dead) | duty | Kept apart from *servicium* "service", *officium* "office". Ruled 2026-10-02 (*Eccl.* 22). |
+| obsequium | CONTEXTUAL: duty / obeisance | "Obeisance" where it is homage paid to a lord (*Incarn.* 35.2, beside *omagium*), with a **C** note; ruled 2026-10-22 (coordinator, delegated). For the dead, "duty": Kept apart from *servicium* "service", *officium* "office". Ruled 2026-10-02 (*Eccl.* 22). |
 | gilda | gild | Ruled 2026-10-02 (*Eccl.* 22). |
 | liga | league | Ruled 2026-10-02 (*Eccl.* 22). |
 | memoriale | memorial | Ruled 2026-10-02 (*Eccl.* 22). |
@@ -622,7 +636,7 @@ otherwise.
 | paterfamilias | householder | DR's word (Matt. 20:1 etc.). Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 164.8). |
 | regulariter | as a rule | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 165.2). |
 | capitalis (civitas, episcopus) | capital (city, bishop) | Rome as capital (ch. 8); *capitalis dominus* stays "chief lord". Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 166.28). |
-| sessiva | seisin | So the manuscripts (Loserth 170.8, *ita cod.*); feudal possession that perfects a title. Ruled 2026-10-08 (coordinator, delegated). |
+| sessiva / sesina | seisin | *Sesina* the spelling at *Incarn.* 33. So the manuscripts (Loserth 170.8, *ita cod.*); feudal possession that perfects a title. Ruled 2026-10-08 (coordinator, delegated). |
 | influencia (celestis) | (celestial) influence | Astrological sense. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 172.1). |
 | quaternarius / denarius / quadragenarius | the four / the ten / the forty | Number exegesis (the 153 fishes, ch. 7). Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 154–155). |
 | heresis realis | real heresy (heresy in deed) | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 159.13). |

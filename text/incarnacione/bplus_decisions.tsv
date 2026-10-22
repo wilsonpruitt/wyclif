@@ -11,7 +11,7 @@ page	pos	rule	forms	reading	note
 19	190	SUB	bt=verum, sed | fordham= | vote=of uniuersais are 1 prone to uanous	verum, sed	print = bt
 19	225	BT-ONLY	bt=summe unum | fordham= | vote=	summe unum	print = bt (next line)
 19	283	SUB	bt=postquam | fordham=post | vote=post and pascencius	postquam	print = bt (post- / p.20 quam)
-29	191	SUB	bt=intelligitur: | fordham=in telligitur | vote=christ died and a was buned mto	intelligitur:	print = bt (in | telligitur across MS-fold marker)
+29	190	SUB	bt=intelligitur: | fordham=in telligitur | vote=christ died and a was buned mto	intelligitur:	print = bt (in | telligitur across MS-fold marker)
 50	247	SUB	bt=ideo | fordham=humanitasideo | vote=eo	ideo	print = bt
 58	284	SUB	bt=infernum, | fordham=in | vote=19 infemum	infernum,	print = bt (in- / p.59 fernum)
 67	176	SUB	bt=‘retribucionemercedis’ | fordham=retribucione mercedis | vote=retribucione 8 mercedis	‘retribucione mercedis’	bt ran the words together; print has two words (footnote 8 between)
