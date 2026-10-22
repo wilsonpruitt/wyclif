@@ -57,6 +57,9 @@ def lint(path, gkeys):
         errs.append(f'note [^{n}] has no definition')
     for n in set(defs) - set(markers):
         errs.append(f'note [^{n}] is defined but not anchored in the text')
+    for m in re.finditer(r'^\[\^(\d+)\]:[ \t]*(\S+)', s, re.M):  # site/build.py strips only `**C.**` / `**S/T.**`
+        if not re.fullmatch(r'\*\*[A-Z/]+\.\*\*', m.group(2)):
+            errs.append(f'note [^{m.group(1)}] must open with its bold code and full stop, e.g. **C.** or **S/T.** (has {m.group(2)!r})')
     for raw in re.findall(r'\{g:([^}]+)\}', text):  # any key: `{g:ex fide}`, `{g:Romanus episcopus}`
         if not re.fullmatch(r'[a-z-]+', raw):  # site/build.py renders only [a-z-] keys (CONVENTIONS §11)
             errs.append(f'glossary tag key {{g:{raw!r}}} must be lower case with hyphens')
