@@ -144,7 +144,7 @@ it convicted them (Matt. 22:42–45)."
 > [p. 6] Et isti regule innititur Augustinus utrobique, ut in libris contra Maximinianum; sicut Ieronimus in Epistula ad Paulam [p. 7] et Eustochium, et alii probabiles doctores. Unde libro primo contra Maximinianum sic loquitur Augustinus: ‘Dicis Patrem infactum quasi Filius factus sit, per quem facta sunt omnia. Scito factum esse Filium sed in¹ forma servi, qui in forma¹ Dei usque adeo non est factus, ut per illum facta sunt omnia.’ Unde et² infra 2° dicit quod Deus Pater non creatorem creavit, sed creatorem³ constituit iuxta illud Psⁱ. 8ⁱ. quod⁴ secundum apostolum et secundum Augustinum⁴ ad litteram verificatur de Christo: ‘minuisti eum⁵ paulo minus ab angelis, gloria et honore coronasti eum, Domine,⁶ et constituisti eum super opera manuum tuarum: omnia subiecisti sub pedibus.’⁷
 
 And Augustine leans on this rule on both sides,[^14] as in the books against Maximinus,[^15] as does Jerome in
-the letter to Paula [7] and Eustochium,[^16] and other [approved doctors]{g:probabiles-doctores}. Hence in the first book against
+the letter to Paula [7] and Eustochium,[^16] and other [reputable doctors]{g:probabiles-doctores}. Hence in the first book against
 Maximinus Augustine speaks thus: "You say that the Father is unmade, as if the Son were made, through
 whom all things were made. Know that the Son was made, but in the form of a servant, he who in the form
 of God is so far from being made that through him all things were made." Hence also below, in the
@@ -156,29 +156,29 @@ all things under his feet."[^19]
 
 ## Notes
 
-[^1]: **C** *tres nature incommunicantes*: three natures of which none is predicated of, or shared
+[^1]: **C.** *tres nature incommunicantes*: three natures of which none is predicated of, or shared
     with, another: Godhead, body, soul. *Christus sit tres nature* keeps Wyclif's bare predication,
     "Christ is three natures", on which the whole argument that follows turns; it is not "has".
-[^2]: **S** Augustine, *In Iohannis evangelium tractatus* 47.12 (on John 10:17–18), PL 35, 1737–38;
+[^2]: **S.** Augustine, *In Iohannis evangelium tractatus* 47.12 (on John 10:17–18), PL 35, 1737–38;
     *verified* against the PL: Wyclif's text differs in small points (*de eo* for *de teipso*; *hec
     tria* for *tria haec*) and omits *est* (LEDGER I01a-1). "Homily" renders *omelia*, Wyclif's word
     for a tractate. The Latin prints a single quotation mark before *Si*.
-[^3]: **C** *Quomodo enim unus homo anima et corpus? sic …*: Harris punctuates a question; the English reads the correlative *quomodo … sic*, "as … so", the form Augustine gives the same comparison to Dardanus (4.32, *sicut … sic*). Read as a question ("For how is one man soul and body? So too one Christ …"), the sense is the same.
-[^4]: **S** Peter Lombard, *Sententiae* III d. 11, *Utrum Christus sit creatura, vel creatus, vel
+[^3]: **C.** *Quomodo enim unus homo anima et corpus? sic …*: Harris punctuates a question; the English reads the correlative *quomodo … sic*, "as … so", the form Augustine gives the same comparison to Dardanus (4.32, *sicut … sic*). Read as a question ("For how is one man soul and body? So too one Christ …"), the sense is the same.
+[^4]: **S.** Peter Lombard, *Sententiae* III d. 11, *Utrum Christus sit creatura, vel creatus, vel
     factus* (PL 192, 777–78), *verified*: that is where the Master rehearses the scriptures for and
     against. The print's "distinction 2" has no variant in the apparatus; it is the manuscripts'
     reading, kept (LEDGER I01a-2).
-[^5]: **C** *secundum deitatem … secundum humanitatem*: "as to the Godhead … as to the humanity". The
+[^5]: **C.** *secundum deitatem … secundum humanitatem*: "as to the Godhead … as to the humanity". The
     rule of reduplication that governs the whole chapter: a predicate is true of Christ *as to* one of
     his natures.
-[^6]: **S** The *De fide contra Felicianum Arianum*, printed among Augustine's works (PL 42, 1157–72) but
+[^6]: **S.** The *De fide contra Felicianum Arianum*, printed among Augustine's works (PL 42, 1157–72) but
     the work of Vigilius of Thapsus; Wyclif takes it for Augustine's. The passage quoted (*Non alius
     homo corpus …*) is *verified* in the form quoted by Benedict of Aniane, *Disputatio adversus
     Felicianam impietatem* (PL 103, 1403), which cites it as Augustine's (LEDGER I01a-3).
-[^7]: **C** *aliud … non alius*: the neuter *aliud* marks a different thing (substance), the masculine
+[^7]: **C.** *aliud … non alius*: the neuter *aliud* marks a different thing (substance), the masculine
     *alius* a different person. Augustine's point is lost in English without the gloss "one [thing] and another
     … not one [person] and another", so it is supplied in brackets.
-[^8]: **C** *posiciones secundum habitudinem concedit simpliciter*: he grants without qualification
+[^8]: **C.** *posiciones secundum habitudinem concedit simpliciter*: he grants without qualification
     the positions [made] according to the respect proper to each, i.e. the paired statements "he
     suffered" and "he made the heavens" are each granted outright of the one Christ, as the quotation
     that follows shows; *habitudo* is the respect under which each is said. The glossary makes
@@ -187,33 +187,33 @@ all things under his feet."[^19]
     (*proposiciones*), B *pciones* (probably *predicaciones*), C *p°es*, and that O reads *predicaciones
     secundum humanitatem*, "the predications as to the humanity", for *posiciones secundum habitudinem*
     (p. 4 nn. 10–11); the print is kept.
-[^9]: **S** The letter to Dardanus is Augustine, *Epistula* 187 (*De praesentia Dei*), §8, PL 33, 836
+[^9]: **S.** The letter to Dardanus is Augustine, *Epistula* 187 (*De praesentia Dei*), §8, PL 33, 836
     (*verified*; Wyclif's text has *considerandum* for Augustine's *observandum*; the *et* before *secundum
     quid* is M's alone, adopted by Harris, p. 5 n. 1); its old number 40 is of Wyclif's day. The letter "12 to Pascentius" (O and M read *125*, p. 4 n. 15) is one of the exchange
     with Pascentius the Arian, *Epistulae* 238–241 in the received numbering (LEDGER I01a-4).
-[^10]: **C** *color*: a plausible ground (the period sense, as in "colour of title"), the GLOSSARY's
+[^10]: **C.** *color*: a plausible ground (the period sense, as in "colour of title"), the GLOSSARY's
     ruling; the first occurrence in the chunk.
-[^11]: **S** Augustine, *In Iohannis evangelium tractatus* 47.13 (*ubi super*: the tractate already cited at 3.10; the passage stands a few
+[^11]: **S.** Augustine, *In Iohannis evangelium tractatus* 47.13 (*ubi super*: the tractate already cited at 3.10; the passage stands a few
     lines after the one quoted there), PL 35, 1738; *verified* (*fuerat* for *erat*; *non est
     sepulta* for *non erat sepulta*). "A little before" (*paulo ante*) refers to §12, *caro Christus*
     (LEDGER I01a-5).
-[^12]: **S** Augustine, *In Iohannis evangelium tractatus* 8.9 (on John 2:1–4), PL 35, 1455–56; the
+[^12]: **S.** Augustine, *In Iohannis evangelium tractatus* 8.9 (on John 2:1–4), PL 35, 1455–56; the
     opening *verified* (PL *et Deus erat et homo*; *secundum divinitatem* where Wyclif has *secundum
     deitatem*). The rest of the long quotation, to *convicit*, runs on from §9 and is not checked word
     for word (LEDGER I01a-6).
-[^13]: **T** *cognosceret* (6.5): A B C read *agnosceret*, O *cognoscit*; the print is kept.
-[^14]: **C** *utrobique*: "on both sides" (or "in both places"), not *ubique*, "everywhere": most likely for both natures, the texts that make Christ creator and those that make him creature; the English keeps the pair.
-[^15]: **T** *contra Maximinianum*: the print's spelling, in both places, of Augustine's *Contra
+[^13]: **T.** *cognosceret* (6.5): A B C read *agnosceret*, O *cognoscit*; the print is kept.
+[^14]: **C.** *utrobique*: "on both sides" (or "in both places"), not *ubique*, "everywhere": most likely for both natures, the texts that make Christ creator and those that make him creature; the English keeps the pair.
+[^15]: **T.** *contra Maximinianum*: the print's spelling, in both places, of Augustine's *Contra
     Maximinum Arianorum episcopum* (PL 42, 743–814); the English gives the name. The quotation (*Scito
     factum esse Filium …*) is *verified*: it stands in *Contra Maximinum* at the chapter numbered 17,
     where Augustine recalls what he had said in the debate; whether the print's "first book" is right
     is left open (LEDGER I01a-7).
-[^16]: **S** Jerome, the letter to Paula and Eustochium: the pseudo-Jerome *Cogitis me* (Ep. 9,
+[^16]: **S.** Jerome, the letter to Paula and Eustochium: the pseudo-Jerome *Cogitis me* (Ep. 9,
     *De assumptione*, PL 30, 122 ff.), which Wyclif names in full at p. 109 (*Epist. de Assumpcione Beate
     Virginis ad Paulam et Eustochium*) and cites again at p. 53; no passage is quoted here (LEDGER I01a-8).
-[^17]: **S** Augustine, *Contra Maximinum* II (*creatorem constituit*): to-verify (LEDGER I01a-9).
-[^18]: **T** A B C read *creaturam*, "but appointed a creature"; the print follows O (p. 7 n. 3), which the psalm's *constituisti eum super opera* supports.
-[^19]: **S** Ps. 8:6–8, Douay–Rheims; the print adds *Domine* (O omits it, p. 7 n. 6) and ends *sub pedibus* without
+[^17]: **S.** Augustine, *Contra Maximinum* II (*creatorem constituit*): to-verify (LEDGER I01a-9).
+[^18]: **T.** A B C read *creaturam*, "but appointed a creature"; the print follows O (p. 7 n. 3), which the psalm's *constituisti eum super opera* supports.
+[^19]: **S.** Ps. 8:6–8, Douay–Rheims; the print adds *Domine* (O omits it, p. 7 n. 6) and ends *sub pedibus* without
     *eius*. "According to the apostle": Heb. 2:7–8, which applies the psalm to Christ. Harris's margin
     gives Ps. viii. 5, 6 and Heb. ii. 7.
 

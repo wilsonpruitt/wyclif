@@ -1510,3 +1510,39 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | I01a-7 | incarnacione-01-a / n15 | Augustine, *Contra Maximinum* (PL 42, 743–814), *Scito factum esse Filium* | verified | Local PL 42 (2026-10-21); whether "first book" is right left open |
 | I01a-8 | incarnacione-01-a / n16 | Jerome to Paula and Eustochium = ps.-Jerome *Cogitis me* (Ep. 9, *De assumptione*), PL 30, 122 ff. | verified | Wyclif's own full title at *Incarn.* p. 109 (bt/p109.txt l. 31), also p. 53; same identification as E06d-3 (2026-10-22). No passage quoted here |
 | I01a-9 | incarnacione-01-a / n17 | Augustine, *Contra Maximinum* II, *creatorem constituit* | to-verify | Local PL 42 |
+| I01b-1 | incarnacione-01-b / n3 | Aug. to Volusian ("Ep. 3") = *Ep.* 137.9–10 | to-verify | from memory |
+| I01b-2 | incarnacione-01-b / n5 | Athanasian creed wording (*a Patre solo est: non factus…*) | to-verify | from memory |
+| I01b-3 | incarnacione-01-b / n7 | "alio simbolo" = the Nicene-Constantinopolitan creed | to-verify | from memory |
+| I01b-4 | incarnacione-01-b / n7 | Augustine's rule *quid et secundum quam naturam* | to-verify | source not identified |
+| I01b-5 | incarnacione-01-b / n9 | *gigas gemine substancie* = Ambrose, *Intende qui regis Israel* | to-verify | from memory |
+| I01b-6 | incarnacione-01-b / n10, n16 | Jerome, *In Gal.* I end (Gal. 3:13); does Jerome read *vermem*? | to-verify | from memory |
+| I01b-7 | incarnacione-01-b / n11 | *Dialogus ad Felicianum* = Vigilius of Thapsus | to-verify | from memory |
+| I01b-8 | incarnacione-01-b / n11 | *Qu. Veteris et Novi Test.* 122 = Ambrosiaster | to-verify | from memory |
+| I01b-9 | incarnacione-01-b / n17 | Wyclif's own *De Trinitate* (10.23) | to-verify | |
+| I01b-10 | incarnacione-01-b / n17 | Augustine "Ep 31" on Prov. 8 and 30 | to-verify | not identified |
+| I01b-11 | incarnacione-01-b / n17 | Augustine's exposition of Eph. 4:10 | to-verify | not identified |
+| I01c-1 | incarnacione-01-c / n3 | "ut patet alibi" (the bodily essence handed down through Christ's forebears): where Wyclif says this | to-verify | not identified |
+| I02a-1 | incarnacione-02-a / n2 | Eusebius "HE 10.13" = Rufinus's continuation, book X | to-verify | from memory |
+| I02a-2 | incarnacione-02-a / n3 | Lombard *Sent.* III "d. 2" (more likely d. 11) | to-verify | from memory |
+| I02a-3 | incarnacione-02-a / n3 | Ambrose *De fide* I.19 (called *De Trinitate* I.9) | to-verify | from memory |
+| I02a-4 | incarnacione-02-a / n5 | Aug. "Epa. 33 ad Bonifacium" = *Ep.* 185.1 | to-verify | from memory |
+| I02a-5 | incarnacione-02-a / n7 | Aug. "Ome 48" = *Tract. in Ioh.* 48 | to-verify | from memory |
+| I02a-6 | incarnacione-02-a / n14 | "Si sermone Dei…" = *Tract. in Ioh.* 48.9 | to-verify | from memory |
+| I02a-7 | incarnacione-02-a / n16 | Aug. "Ome. 47" on the Arians and Sabellians | to-verify | not identified |
+| I02b-1 | incarnacione-02-b / n1 | Augustine, *De haer.* 49 (Arians), citing Epiphanius | to-verify | check the PL text |
+| I02b-2 | incarnacione-02-b / n2 | *De haer.* 55 (Apollinarists) | to-verify | check |
+| I02b-3 | incarnacione-02-b / n3 | "Ep. 127 and two following" to Pascentius = Maurist *Ep.* 238–241 | to-verify | check the numbering |
+| I02b-4 | incarnacione-02-b / n9 | *Contra Maximinum* "I and III, c. 22" (A B C 23) | to-verify | check |
+| I02b-5 | incarnacione-02-b / n10 | Anselm, *Ep. de incarn. Verbi* 1, "dialecticae haeretici" | to-verify | check |
+| I02b-6 | incarnacione-02-b / n11 | Pascentius's abuse and his question *Quis … e tribus personis* | to-verify | check the Pascentius letters |
+| I02b-7 | incarnacione-02-b / n14 | *Homines minus intelligentes quid propter quid…* | to-verify | check |
+| I02b-8 | incarnacione-02-b / n15 | *Hoc nomen Jesus Christus ex dispensacione…* | to-verify | check |
+| I02c-1 | incarnacione-02-c / n5 | "Ep. 40 ad Dardanum" = *Ep.* 187 | to-verify | check |
+| I02c-2 | incarnacione-02-c / n6 | *Tract. in Ioh.* 47 (A B C 40), "totum hominem" | to-verify | check |
+| I02c-3 | incarnacione-02-c / n6 | *De Anima*: Aristotle's, or Wyclif's own treatise? | to-verify | identify |
+| I02c-4 | incarnacione-02-c / n14 | echo of the Athanasian Creed (*neque confundentes…*) | to-verify | check |
+| I02c-5 | incarnacione-02-c / n17 | *Contra Maximinum* I c. 11, the synodal anathema *ex nihilo* | to-verify | check |
+| I02d-1 | incarnacione-02-d / n5 | Anselm, *De incarn. Verbi* c. 6 (all the manuscripts give 6) | to-verify | check the chapter |
+| I02d-2 | incarnacione-02-d / n10 | Aristotle, *Ethics* "8.5": the friend as "another self" (NE IX.4 / IX.9) | to-verify | check |
+| I02d-3 | incarnacione-02-d / n12 | Augustine, *Tract. in Ioh.* 78 on John 14:28 | to-verify | check |
+| I02d-4 | incarnacione-02-d / n13 | Jerome, no work named | to-verify | identify |

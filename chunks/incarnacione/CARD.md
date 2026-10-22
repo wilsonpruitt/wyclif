@@ -86,7 +86,7 @@ notes; set `status: translated`; lint; report.
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is
   implicit). Supplied words in `[brackets]`, sparingly, ⛔ **never in italics** (italic emphasis passes a
   supplied word off as Latin). **Quotations** in quotation marks. Your brief
-  carries Harris's **italic runs** per page (from the scan's OCR, rough; his quotation bounds and the
+  carries Harris's **italic runs** per page (from the scan's OCR, rough, ⚠ page numbers drift: a run not in your page's Latin belongs to another page; his quotation bounds and the
   words he took for titles or Greek). They are the editor's judgement, not the manuscript's: follow them
   by default, depart where the source shows otherwise (say so in a note). Reviews do not check
   quotation bounds against the italics. Italicised scripture inside indirect speech is quoted too; where
@@ -128,7 +128,7 @@ notes; set `status: translated`; lint; report.
    Godhead" · *natura* "nature" · *persona* "person" · *creatura / creator / creatus* · *posicio /
    proposicio / predicacio* "position / proposition / predication" (kept apart) · *verificari de* "be
    true of" · *sacramentum* "sacrament" (G note "= mystery") vs *misterium* "mystery" · *moderni
-   doctores* "the modern doctors" · *sancti* "the saints" · *probabiles doctores* "approved doctors" ·
+   doctores* "the modern doctors" · *sancti* "the saints" · *probabiles doctores* "reputable doctors" vs *approbati doctores* "approved doctors" ·
    *Magister* "the Master" · *declarare* "make clear" vs *ostendere* "show" · *epilogus* "recapitulation"
    · *infirmitas* "weakness" · *habitudo* CONTEXTUAL "condition / respect".
    For the rest, **render consistently within your brief and PROPOSE the row** (the coordinator rules
@@ -192,7 +192,7 @@ not; psalms in Vulgate numbering (Harris's margin uses the Hebrew: Ps. cx = 109)
 
 ## Notes
 
-- `[^n]` from 1, the marker placed in the same edit as its note, each opening with a type letter:
+- `[^n]` from 1, the marker placed in the same edit as its note, each opening with a type letter **with a full stop** (`**C.**`; the site strips only that form):
   **T** text · **C** construal · **G** glossary (passage-specific only; otherwise a tag) · **S** source ·
   **R** reception/context (e.g. a manuscript's marginal note that Harris prints, CONVENTIONS §4; O's
   reader marks *nota bonam rationem*).

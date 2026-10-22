@@ -313,7 +313,31 @@ otherwise.
 | misterium | mystery | Ruled 2026-10-22 (Wilson; *Incarn.* prol 1.3). |
 | moderni doctores / moderniores doctores | the modern doctors / the more modern doctors | Ockham and the *moderni*, usually unnamed. Ruled 2026-10-22 (Wilson; *Incarn.* prol 2.1). |
 | sancti | the saints | The fathers. Ruled 2026-10-22 (Wilson; *Incarn.* prol 1.15). |
-| probabiles doctores | approved doctors | Ruled 2026-10-22 (Wilson; *Incarn.* 7.1). |
+| probabiles doctores | reputable doctors | *Probabilis*: worthy of credence (cf. *probabiliter*). Ruled 2026-10-22 (Wilson; *Incarn.* 7.1) as "approved doctors"; changed the same day (coordinator) to free "approved" for *approbati*. |
+| approbati doctores | approved doctors | Kept apart from *probabiles doctores*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 13.3). |
+| adintra | within | Of the divine life *ad intra*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 10.24). |
+| abstractive | abstractively | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 10.6). |
+| copulative (adv.) | conjunctively | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 9.23). |
+| ypostatice | hypostatically | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 12.2). |
+| novelli | the newer [doctors] | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 13.7). |
+| determinacio | determination | A qualifying addition to a predicate (*cum determinacione*). Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 14.11). |
+| Sermo (beside *Verbum*) | Speech | The divine title, capitalised; *Verbum* stays "the Word". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 16–17). |
+| fontaliter | fontally | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 17.13). |
+| sophistice | sophistically | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 15). |
+| de vi vocis | by the force of the words | Kept apart from *de virtute sermonis* "in the proper sense of the words". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 20, 28). |
+| natura specifica | the nature of the species | After *ydemptitas specifica*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 20). |
+| paralogismus | paralogism | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 20). |
+| nuncupative | nuncupatively | "By name only". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 21). |
+| protervus | obstinate | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 21). |
+| motrix (*anima*, *virtus*) | moving | *Anima motrix* "the moving soul"; as a noun, "mover". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 21, 24). |
+| determinaciones ecclesie | the church's determinations | Rulings of the church, not the logician's *determinacio*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 24). |
+| nedum | not only | "Let alone" where the sense is a fortiori. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 21, 24). |
+| materia prima | prime matter | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 25). |
+| gracia unionis | the grace of union | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 25). |
+| exinanicio / exinanire | emptying / empty | Phil. 2:7 (Douay "emptied himself"). Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 26). |
+| minoracio | lowering | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 26). |
+| humiliacio | humbling | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 26–28). |
+| coamicus | fellow-friend | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 27). |
 | Magister | the Master | Peter Lombard. Ruled 2026-10-22 (Wilson; *Incarn.* 3.24). |
 | declarare / ostendere | make clear / show | Kept apart (both in one sentence, prol 2.5–7). Ruled 2026-10-22 (Wilson). |
 | epilogus / epilogare | recapitulation / recapitulate | Ruled 2026-10-22 (Wilson; *Incarn.* 3.25, prol 2.14). |
