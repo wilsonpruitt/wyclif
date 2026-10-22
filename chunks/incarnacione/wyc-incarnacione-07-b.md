@@ -57,24 +57,24 @@ And there are many other senses adapted to this text. Thus some say that, speaki
 
 [^1]: **S.** John 12:34, the crowd's words.
 [^2]: **S.** Heb. 13:8, Douay "Jesus Christ, yesterday, and today: and the same for ever"; Wyclif's *hodie et cras* ("today and tomorrow") is translated.
-[^3]: **S.** Pseudo-Jerome, *Ep.* 9, *ad Paulam et Eustochium de assumptione* (*Cogitis me*, by Paschasius Radbertus), quoting John 8:56 (LEDGER I07b-1).
-[^4]: **S.** Augustine, *Tract. in Ioh.* 43, on John 8:56, expounding Gen. 24:2–3 (LEDGER I07b-2).
+[^3]: **S.** Pseudo-Jerome, *Ep.* 9, *ad Paulam et Eustochium de assumptione* (*Cogitis me*, by Paschasius Radbertus), §10, PL 30, 132C, which makes the point from John 8:58, *Antequam Abraham fieret, ego sum*; the words with John 8:56 given here are not in the letter, and the verse is the one Augustine expounds next (*verified* as to the letter, LEDGER I07b-1).
+[^4]: **S.** Augustine, *Tract. in Ioh.* 43.16 (PL 35, 1712–13), on John 8:56, expounding Gen. 24:2–3; quoted closely to *Stulti … reprehendunt*, the last sentence being Wyclif's (*verified*, LEDGER I07b-2).
 [^5]: **S.** Gen. 24:2–3, Douay "Put thy hand under my thigh, That I may make thee swear by the Lord, the God of heaven and earth"; Augustine's shorter form is translated.
-[^6]: **S/G.** The same pseudo-Jerome letter (LEDGER I07b-3). *Sacramentum* is the Augustinian "mystery" (1 Tim. 3:16), here the union of God and man.
-[^7]: **S.** The petitions of the litany, *per mysterium sanctae incarnationis tuae ... per nativitatem tuam ...* (LEDGER I07b-4). A B C read *orat deum* for *rogat Dominum*, O *pro* for *per* (p. 110).
+[^6]: **S/G.** The same pseudo-Jerome letter, §§9–10 (PL 30, 132B–C), Isaac's words and *Unde constat tempus non praejudicasse sacramento uniti hominis ac Dei* (*verified*, LEDGER I07b-3). *Sacramentum* is the Augustinian "mystery" (1 Tim. 3:16), here the union of God and man.
+[^7]: **S.** The petitions of the litany, *per mysterium sanctae incarnationis tuae ... per nativitatem tuam ...*; a late-medieval litany (Burnet Psalter, f. 245r) has Wyclif's sequence with *Per circumcisionem tuam*, which the Roman form lacks (*verified*, Sarum text not seen, LEDGER I07b-4). A B C read *orat deum* for *rogat Dominum*, O *pro* for *per* (p. 110).
 [^8]: **T.** The editor brackets the second *quod* (p. 110, last line) and asks whether it should be left out for the sense; the manuscripts have it. It resumes the first *quod* after the long clause, and the English needs neither.
-[^9]: **S.** Jude 1:5, Douay "out of the land of Egypt" (Wyclif *ex Egipto*); 1 Cor. 10:9. Jerome's use of Jude 5 to name Jesus in the exodus (LEDGER I07b-5).
+[^9]: **S.** Jude 1:5, Douay "out of the land of Egypt" (Wyclif *ex Egipto*); 1 Cor. 10:9. Both texts, in this order, are in the same pseudo-Jerome letter, §10 (PL 30, 132C–D), *Quod apostolus Judas volens apertius dilucidare: Jesus, inquit, populum ex Aegypto salvans* (*verified*, LEDGER I07b-5).
 [^10]: **C.** *Significatum* and *signatum* name one thing, what the proposition primarily signifies; the two words are kept apart in English as in the Latin. A B C read *aliquando* for *alicubi* (p. 111), which spoils the parallel of place and time; the print stands.
-[^11]: **S.** Augustine on the one faith of the fathers of both testaments (LEDGER I07b-6).
-[^12]: **S.** Job 33:14, Douay "God speaketh once, and repeateth not the selfsame thing the second time"; Wyclif's futures and *ad ipsum* are translated (A B C omit *ad*). Gregory, *Moralia* XXIII.15, where A B C give "c. 3" (LEDGER I07b-7).
+[^11]: **S.** Augustine on the one faith of the fathers of both testaments; perhaps *Tract. in Ioh.* 45.9 (PL 35, 1722–23), *eadem credebant … sed illi ventura esse, nos autem venisse* (LEDGER I07b-6, untraced).
+[^12]: **S.** Job 33:14, Douay "God speaketh once, and repeateth not the selfsame thing the second time"; Wyclif's futures and *ad ipsum* are translated (A B C omit *ad*). Gregory, *Moralia* XXIII.19.35 (PL 76, 272B–C: *dici in Deo tempus audacter quoslibet licet, unde in eo dici proprie nullum licet*; PL c. 19, older numbering c. 11, matching neither the print's 15 nor A B C), where A B C give "c. 3" (*verified*, LEDGER I07b-7).
 [^13]: **T.** No verb governs *dicere*, and *licet* stands twice (111.29); translated as printed, with "[it is permitted]" supplied from the second *licet*. A B C omit *dici*.
-[^14]: **S.** Gregory, *Moralia* XXX.5, XXXIV.5, and IX.25 for the quotation, on Job 10:5 (LEDGER I07b-8, I07b-9, I07b-10).
-[^15]: **S.** Anselm, *Monologion* 19 (LEDGER I07b-11).
+[^14]: **S.** Gregory, *Moralia* XXXII.5 (PL 76, 638C–D, *Quomodo ergo Deus praeteritorum reminiscitur, cum ipsa quae in semetipsis praetereunt ejus nutui semper praesentia assistunt?*), not XXX.5; XXXIV.7 (PL 76, 724B–C), not XXXIV.5, where Scripture puts future for past and past for future, with Ps. 21 *foderunt manus meas*; and IX.47.72 (PL 75, 899A; older numbering c. 26) for the quotation, on Job 10:5 (*verified*, loci corrected, LEDGER I07b-8, I07b-9, I07b-10).
+[^15]: **S.** Anselm, *Monologion* 20, *Quod illa sit in omni loco et tempore*, numbered 19 in the older division (PL 158, 169), as Harris's index gives it (*verified*, LEDGER I07b-11).
 [^16]: **S.** Sir. 47:13, of David: the Clementine Vulgate has *Dominus purgavit* (Douay "The Lord took away his sins"); Wyclif's *Christus*, on which his point turns, is translated. O reads *pugnavit*.
 [^17]: **C.** The unexpressed subject of *est ... 'summe mobilis'* is taken as God, who "acquires lordships" in time: a change of relation only.
-[^18]: **C.** John's *sermo* (Douay "the word") is read by Augustine, and by Wyclif, of the Word himself, the *Sermo* of the Father. Augustine, *Tract. in Ioh.* 76 (LEDGER I07b-12).
+[^18]: **C.** John's *sermo* (Douay "the word") is read by Augustine, and by Wyclif, of the Word himself, the *Sermo* of the Father. Augustine, *Tract. in Ioh.* 76.5 (PL 35, 1832), abridged (*verified*, LEDGER I07b-12).
 [^19]: **C.** *Anthitesis*: the grammarians' figure of one case put for another (*sermonem* for *sermo*, subject of *est*). Wyclif's right construction takes *sermonem* as object of an understood *non servat*.
-[^20]: **S.** 1 Tim. 6:16, "Who only hath immortality", said of God; "the Father alone" is the exposition's. Augustine, *De Trinitate* I, and *contra Maximinianum* I.10: Wyclif's book 1 is the *Collatio cum Maximino*, where the words may be Maximinus's (LEDGER I07b-13, I07b-14).
+[^20]: **S.** 1 Tim. 6:16, "Who only hath immortality", said of God; "the Father alone" is the exposition's. Augustine, *De Trinitate* I, and *contra Maximinianum* I.10: Wyclif's book 1 is the *Collatio cum Maximino*, where the reading of the verse of the Father alone is Maximinus's (15.14, PL 42, 730–31, *Pater autem vere solus habet immortalitatem, qui ipsam immortalitatem aliunde non est consecutus*), answered by Augustine at 14 (PL 42, 720); in *De Trinitate* I.6.10 (PL 42, 825–26) Augustine reads it of the Trinity; Wyclif's chapter 10 matches neither (*verified*, LEDGER I07b-13, I07b-14).
 
 ## Transcription notes
 

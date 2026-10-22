@@ -45,10 +45,10 @@ But further it is argued that the Word of God is not movable without qualificati
 
 [^1]: **T.** O reads *divinitas* and *divinitate* for *deitas* and *deitate* (p. 114), against A B C; the print stands, and the two words are kept apart in English.
 [^2]: **T.** *Quod est Deus*, *quod est homo* ("that which is God", "that which is man") with O, against the print's *quo* ("that by which", 114.3, 114.4), with A B C. The print makes the person the form by which it is God, while the sentence goes on to make the person the subject that has both forms (114.5) and gives the Godhead as that by which it is God formally; the argument fails without O's reading.
-[^3]: **S.** Augustine on Phil. 2:6, *non rapinam*; not located (LEDGER I07c-1).
+[^3]: **S.** Augustine on Phil. 2:6, *non rapinam*; the syllogism is not found in this form; perhaps Ep. 140.12 (PL 33, 543), *neque enim usurpationis erat, ut rapina diceretur, sed naturae inerat, ut esset aequalis*, recast, with *Tract. in Ioh.* 67.1 (*cui natura est, non rapina*) and, for matter prior *origine* to form, *Confessions* XII.29.40 (LEDGER I07c-1, untraced).
 [^4]: **T.** The minor premiss and conclusion, *sed Christum ... non est rapina*, are O's alone (A B C omit them), as are *hominis et Dei Filius*; A B C also omit *semetipsum* and *dicit* (p. 114).
 [^5]: **T.** *Origine*, with C O, against the print's *originem* (A B); the editor's bracketed *[cum]* (114.24), his own supplement, falls with it. With *origine* the clause construes: matter is "prior in origin" to having form.
-[^6]: **S/G.** Gen. 1:2, where Douay's "void" renders *inanis*, the adjective in *exinanivit*. Augustine, *Confessions* XII (LEDGER I07c-2).
+[^6]: **S/G.** Gen. 1:2, where Douay's "void" renders *inanis*, the adjective in *exinanivit*. Augustine, *Confessions* XII, who reads the verse as *terra erat invisibilis et incomposita* (XII.3.3) and expounds it of formless matter, prior to form *origine* (XII.29.40, PL 32, 842–43) (*verified*, LEDGER I07c-2).
 [^7]: **C.** *Trium naturarum quelibet*: "each one of three natures", predicated of Christ, as at the end of the preceding chapter, *Christus est tres nature* (105.6).
 [^8]: **C.** *De virtute sermonis* taken with *abici*: such predications are not to be shut out of the literal sense on the ground that they are figurative.
 [^9]: **C.** *Concepcio* is the grammarians' figure (syllepsis) by which one plural verb gathers several persons (*sunt unus Deus*), as *antropospatos* is the figure that ascribes a human passion to God; Wyclif's spelling of the Greek is kept.
@@ -56,11 +56,11 @@ But further it is argued that the Word of God is not movable without qualificati
 [^11]: **C.** *Mobile*, neuter with *natura divina* and *omne*, is substantive, "a movable", as on p. 107. O omits *quod est, est mobile*; C reads *quod est mobile* (p. 116).
 [^12]: **C.** *Redargucio* is the respondent's being brought to contradiction in the disputation, his defeat. The subject of *proficeret* is the accusative and infinitive *modum disputandi sophisticum ... esse ... pretermissum*.
 [^13]: **S.** Matt. 5:37, Douay "that which is over and above these, is of evil", the verse on oaths, hence "like the oath".
-[^14]: **S.** Augustine, *De doctrina christiana* II.31 (LEDGER I07c-3).
+[^14]: **S.** Augustine, *De doctrina christiana* II.31.48 (PL 34, 58), *cavenda est libido rixandi, et puerilis quaedam ostentatio* (*verified*, LEDGER I07c-3).
 [^15]: **C.** *Detegit* has no expressed subject; taken as the theologian (O reads *theologum* for *theologos*). *Versucia arundinea*: a cunning as frail as a reed.
 [^16]: **C.** *Color*: a plausible ground, as in "colour of title", here the sophists' semblance of wisdom.
-[^17]: **S.** Pseudo-Augustine (Vigilius of Thapsus), *Contra Felicianum Arianum* (LEDGER I07c-4).
-[^18]: **C.** *Habitus* is the "habit" of Phil. 2:7 (*habitu inventus*), a thing had as a garment is had; the objection treats the humanity so, as the Lombard's third opinion does (LEDGER I07c-5). M reads *accionem* for *laceracionem* (p. 117).
+[^17]: **S.** Pseudo-Augustine (Vigilius of Thapsus), *Contra Felicianum Arianum* 12 (PL 42, 1167), *Genuit ergo Maria et non genuit Filium Dei* (*verified*, LEDGER I07c-4).
+[^18]: **C.** *Habitus* is the "habit" of Phil. 2:7 (*habitu inventus*), a thing had as a garment is had; the objection treats the humanity so, as the Lombard's third opinion does, *Sent.* III d. 6 c. 6 (PL 192, 769–70), *velut indumento … secundum habitum* (*verified*, LEDGER I07c-5). M reads *accionem* for *laceracionem* (p. 117).
 [^19]: **S.** Gen. 22:13, in Douay's words "behind his back ... sticking fast by the horns".
 
 ## Transcription notes

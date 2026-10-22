@@ -53,17 +53,17 @@ So, then, understanding by Wisdom, personally, the Word of God, as Augustine and
 [^5]: **T.** A B C omit *essencia* before *increata*, *mobile* after *suppositum*, *mobilis* after *res*, and *sibi* (p. 107); the print follows O, without which the proof of the minor reads "uncreated essence is a supposit ... it is a thing".
 [^6]: **G.** Douay's "active" renders *mobilis, mobilior*, which the rest of the chapter gives as "movable"; Wyclif omits the Vulgate's *enim* (Wis. 7:24). *Sapiencia* is here the Word in person (108.22), so the pronoun is "he", as for *Verbum*, though the Latin is feminine.
 [^7]: **S.** Isa. 53:5, *attritus est propter scelera nostra* (Douay "he was bruised for our sins").
-[^8]: **S.** Aristotle, *Physics* VIII.1 (250b14), motion "as a kind of life" to all things constituted by nature; Wyclif gives a paraphrase, not the text (LEDGER I07a-1).
+[^8]: **S.** Aristotle, *Physics* VIII.1 (250b14), motion "as a kind of life" to all things constituted by nature; Wyclif gives a paraphrase, not the text, joined to the first movable of *Physics* VIII.6–7 and *Metaphysics* XII.7, the places Harris cites (note on 107.17) (*verified*, LEDGER I07a-1).
 [^9]: **C.** *Motu primo omnium*: taken as "whose motion, the first of all [motions]"; it can also be read adverbially, "by whose motion, first of all". A B C read *omni* for *omnium*.
 [^10]: **T.** The print's *placato et* (107.24) stands in no manuscript as printed: A B C read *et placito*, O *placato* without *et*. The witnesses do not agree against it, and it is kept.
 [^11]: **G.** *De vi sermonis* is neither *de virtute sermonis* "in the proper sense of the words" nor *de vi vocis*; rendered "by the force of the words". A has *aut* before *secundum seriem* (in an erasure), B *sermonis sed causacionem verborum*, and O omits *vi* (p. 107).
 [^12]: **T.** The print reads *perficit [hominem] plus quam motus celi quamlibet creaturam [aliam]* (107.28–29). *Hominem* is the editor's conjecture, in no manuscript; without it the sentence construes, and it is set aside. *Aliam* is O's, bracketed by the editor, and is kept. For *celi* O has an abbreviation the editor takes for *ceteri*; *celi* recurs at 108.11–14.
 [^13]: **T.** *Hodie* (108.2) is omitted by C and O, against A B; with C O, across the families, "today" is not rendered.
-[^14]: **S.** Heb. 1:4; the second quotation is Eph. 1:9–10 (Douay "to re-establish all things in Christ, that are in heaven and on earth"), given in Wyclif's word order. Gregory, *Moralia* XXXI.38 (LEDGER I07a-2).
-[^15]: **S.** Augustine and Jerome on Wisdom as the Word in person; no work is named (LEDGER I07a-3).
-[^16]: **S.** The maxim *principium est minimum quantitate, maximum virtute*: Aristotle, *Sophistical Refutations* 34 (183b22) (LEDGER I07a-4).
-[^17]: **S.** The four kinds of motion by another, pushing, pulling, carrying and whirling: Aristotle, *Physics* VII.2 (243a16 ff.) (LEDGER I07a-5).
-[^18]: **C.** *Passio* is both Christ's passion and Aristotle's being-acted-on, which *Physics* III.3 makes one motion with action (LEDGER I07a-6); the sentence needs both, so "passion" carries both.
+[^14]: **S.** Heb. 1:4; the second quotation is Eph. 1:9–10 (Douay "to re-establish all things in Christ, that are in heaven and on earth"), given in Wyclif's word order. Gregory, *Moralia* XXXI.49.99 (PL 76, 627D–628A), where Christ restores the angels' losses by the redemption of mankind; Wyclif's chapter 38 matches no division (*verified*, LEDGER I07a-2).
+[^15]: **S.** Augustine and Jerome on Wisdom as the Word in person; no work is named, and neither Father quotes Wis. 7:24 in the PL; perhaps a general appeal, as in Augustine, *De Trinitate* I.6.10, where Ecclus. 24 is read *voce Sapientiae* of the Son (LEDGER I07a-3, untraced).
+[^16]: **S.** The maxim *principium est minimum quantitate, maximum virtute*: Aristotle, *Sophistical Refutations* 34 (183b22) (*verified*, LEDGER I07a-4).
+[^17]: **S.** The four kinds of motion by another, pushing, pulling, carrying and whirling: Aristotle, *Physics* VII.2 (243a16 ff.) (*verified*, LEDGER I07a-5).
+[^18]: **C.** *Passio* is both Christ's passion and Aristotle's being-acted-on, which *Physics* III.3 makes one motion with action (*verified*, LEDGER I07a-6); the sentence needs both, so "passion" carries both.
 
 ## Transcription notes
 
