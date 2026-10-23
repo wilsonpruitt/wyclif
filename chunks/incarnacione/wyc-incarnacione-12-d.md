@@ -25,9 +25,9 @@ Again, from the [evidence]{g:evidencia} of St Thomas it seems that Christ, by [a
 
 ## Notes
 
-[^1]: **S/T.** Thomas's argument from the signification of names, as in his *Scriptum super Sententiis* III d. 1 q. 2 a. 5 (LEDGER I12d-1, to be checked; not *Summa theologiae* III q. 3 a. 7, cf. Iprol-3). "Now this name": *sed*, the minor, closed by *ergo*. "'Man' is truly [said] in the plural of him": *est homo vere pluraliter de eodem*, with O, against the print's *et homo vere predicatur pluraliter de eodem* (214.2–3), which no manuscript has: A B C O all read *est homo*, and none *predicatur* (A B *est homo nature personalis personaliter*, C *est homo vere personalis personaliter*). O reads *significancia* for *significata* (213.31); A B C *vere probatur* for *predicatur vere* (213.32).
+[^1]: **S/T.** Thomas's argument from the signification of names, as in his *Scriptum super Sententiis* III d. 1 q. 2 a. 5 ad 2, where the number of a substantive term follows the plurality of the nature it signifies, not of the supposits (LEDGER I12d-1, verified; not *Summa theologiae* III q. 3 a. 7, cf. Iprol-3). "Now this name": *sed*, the minor, closed by *ergo*. "'Man' is truly [said] in the plural of him": *est homo vere pluraliter de eodem*, with O, against the print's *et homo vere predicatur pluraliter de eodem* (214.2–3), which no manuscript has: A B C O all read *est homo*, and none *predicatur* (A B *est homo nature personalis personaliter*, C *est homo vere personalis personaliter*). O reads *significancia* for *significata* (213.31); A B C *vere probatur* for *predicatur vere* (213.32).
 
-[^2]: **S/T.** Aristotle, *Categories* 5 (3b13–21): second substance signifies "a certain qualification" of substance (LEDGER I12d-2, to be checked). "As is clear in the *Metaphysics*": the reference is not identified (LEDGER I12d-3, to be checked). O reads *substanciale qualitate* (214.9); B omits *dii* "gods" (214.6).
+[^2]: **S/T.** Aristotle, *Categories* 5 (3b13–21): second substance signifies "a certain qualification" of substance (while *white* signifies quality only, 3b19; LEDGER I12d-2, verified). "As is clear in the *Metaphysics*": the reference is not identified; Wyclif states the same doctrine in *De compositione hominis* 2 (ed. Beer, p. 23), *album solam qualitatem significat, sicut homo humanitatem*, but refers it there to the *Categories* (LEDGER I12d-3, untraced). O reads *substanciale qualitate* (214.9); B omits *dii* "gods" (214.6).
 
 [^3]: **C.** "From what is assumed": *ex assumpto*, from the humanities assumed; or "from the assumption", the premiss just granted. "The Word is every man": on the case that he assumes all humanities.
 
@@ -41,7 +41,7 @@ Again, from the [evidence]{g:evidencia} of St Thomas it seems that Christ, by [a
 
 [^8]: **C.** "Which is man": *que est homo*, bare predication of the person of the Word; the theologians' "man created the world" is true of the person, not by the term's imposition.
 
-[^9]: **C/S/T.** "This intention of the species, 'man'": *intencio specifica*, the concept of the species in the philosopher's mind. "With true [premisses]": *cum veris*; A B C read *viris* "men" (215.28). "The matter of identification": where Wyclif argues on *ydemptificacio* (LEDGER I12d-4, to be checked).
+[^9]: **C/S/T.** "This intention of the species, 'man'": *intencio specifica*, the concept of the species in the philosopher's mind. "With true [premisses]": *cum veris*; A B C read *viris* "men" (215.28). "The matter of identification": probably the arguments, reported and rejected in chapter 9 (p. 158.10–23), that anything can be identified with anything, *quidlibet potest ydemptificari cuilibet* (LEDGER I12d-4, verified as identified).
 
 [^10]: **C/T.** "[It would not be to be denied] that the same thing": the clause *quod idem est …* depends on *non foret negandum*; or, "whenever a positive is predicated of a positive, [it is because] the same thing is directly signified". "Assertible": what a proposition asserts.
 

@@ -75,7 +75,7 @@ Third, the same is clear, supposing that the Word assume many embryos, and, afte
 
 [^7]: **C/T.** "Doubly better": *in duplo melior*, goodness counted per humanity, the absurdity the argument draws out. O reads *melioratur* (206.28); A B C omit *accidentalibus* "accidental" (206.31), O with the print.
 
-[^8]: **C/S/T.** "Species are not likened to numbers": Aristotle, *Metaphysics* VIII.3 (1043b33–1044a2), that a definition, like a number, becomes another species by any addition (LEDGER I12b-2, to be checked); "admit of more and less": substance does not, *Categories* 5 (3b33–4a9; LEDGER I12b-3, to be checked). *Suscipere* here is "admit of", not the taking-up of a nature. "Rational proportion": a ratio of whole numbers. "So that one would be": *ut unus esset*, with C O, against the print's *ut unus homo esset* (207.5); "any rational proportion": with C O, who omit *reali* "real" (207.7). O reads *suscipiat* (207.5), *est* (207.6); B omits *potest* (207.1).
+[^8]: **C/S/T.** "Species are not likened to numbers": Aristotle, *Metaphysics* VIII.3 (1043b33–1044a11), that a definition, like a number, becomes another species by any addition, and that, as number does not admit of more and less, neither does substance as form (1044a9–11; LEDGER I12b-2, verified); "admit of more and less": substance does not, *Categories* 5 (3b33–4a9; LEDGER I12b-3, verified). *Suscipere* here is "admit of", not the taking-up of a nature. "Rational proportion": a ratio of whole numbers. "So that one would be": *ut unus esset*, with C O, against the print's *ut unus homo esset* (207.5); "any rational proportion": with C O, who omit *reali* "real" (207.7). O reads *suscipiat* (207.5), *est* (207.6); B omits *potest* (207.1).
 
 [^9]: **C.** "Intensively": as a quality grows in degree in one subject, not by adding parts side by side; coextended humanities would compose one quantified thing without extension, so quantity would be intensified, which is impossible.
 
@@ -83,7 +83,7 @@ Third, the same is clear, supposing that the Word assume many embryos, and, afte
 
 [^11]: **C/T.** "After the manner of a ring-dance": *coree*, A B C (O *sefẽ*); Harris asks whether *choreae* is meant, as at 196. The humanities stand in a ring and then all penetrate one another, so that infinite quantity ends as seven feet without loss. A B C omit *Christus secundum* (207.21), and A C first wrote *simul* for *sicut*; B reads *impossibile* (207.24); O omits *sic* (207.27). O and M read *alteracione* "alteration" for *augmentacione* (207.28): the print keeps the pair of quantity, augmentation and diminution.
 
-[^12]: **S.** "As is made clear elsewhere": not identified (LEDGER I12b-4, to be checked).
+[^12]: **S.** "As is made clear elsewhere": not identified; Harris gives no reference, and the Wyclif Society volumes searched have no parallel (cf. the sophismata on *infinitum magnum* and *infinitum parvum* in *De logica*; LEDGER I12b-4, untraced).
 
 [^13]: **C/T.** "Toward the swiftest": *ad velocissimum*, perhaps "up to the swiftest [speed]"; the motion would be infinitely intense though the movable moves however slowly. The "calculator" is one practised in the Oxford calculations of intension and velocity. O reads *coextensionem* for *extensionem* (208.2), in keeping with the coextended humanities; the print stands.
 
@@ -91,7 +91,7 @@ Third, the same is clear, supposing that the Word assume many embryos, and, afte
 
 [^15]: **C/T.** "As a man": *ut homo*; or "so that the man would above all be body and soul". A B C read *forent* "they would be" (208.19). "To be that person": *esse*, A B C *est* (208.22), which Harris thinks may stand for *est esse*.
 
-[^16]: **S.** Thomas, *Scriptum super Sententiis* III d. 1 q. 2 a. 5, where the Word assuming many humanities would be many men; not *Summa theologiae* III q. 3 a. 7, which concludes "one man" (LEDGER I12b-1, to be checked; cf. Iprol-3, I12a-2). "As John, Peter": the humanities of John, of Peter.
+[^16]: **S.** Thomas, *Scriptum super Sententiis* III d. 1 q. 2 a. 5, where the Word assuming many humanities would be many men; not *Summa theologiae* III q. 3 a. 7, which concludes "one man" (ad 2: *Petrus et Jesus non sunt unus homo, sed duo homines*; ad 3: *plures homines, et non unus homo*; LEDGER I12b-1, verified; cf. Iprol-3, I12a-2). "As John, Peter": the humanities of John, of Peter.
 
 [^17]: **C.** The inference turns Thomas's teaching against the alternative: if the Word with many humanities were one man, his being a man would be one humanity common to his being Jesus and his being Peter, a common humanity in place of singular ones.
 
@@ -101,7 +101,7 @@ Third, the same is clear, supposing that the Word assume many embryos, and, afte
 
 [^20]: **T/C.** "Of another mode": A B C read *alterum* "another one" for *alterius modi* (209.17), O with the print; the reply would make the souls accidental forms, against their being of the same kind as the souls that animate bodies. O reads *christum* for *in quantum* (209.19).
 
-[^21]: **S/G.** Aristotle, *De anima* II.6 (418a17–20): number is among the common sensibles (LEDGER I12b-5, to be checked). *Sensibile commune*: the "common sensible" of the schools, perceived by more than one sense.
+[^21]: **S/G.** Aristotle, *De anima* II.6 (418a17–20): number is among the common sensibles (LEDGER I12b-5, verified). *Sensibile commune*: the "common sensible" of the schools, perceived by more than one sense.
 
 ## Transcription notes
 

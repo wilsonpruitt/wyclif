@@ -67,12 +67,12 @@ Third, a case can be posited from God's omnipotence: that he fit infinite bodily
 
 [^12]: **C/T.** "Humanities": the print's *humatatum* (212.32–33) for *humanitatum*. A B C read *species* for *spiritus* (213.3). A body set beside another does not enlarge it unless it becomes its part.
 
-[^13]: **S/C.** Euclid, *Elements* I, common notion 5 (8 in some numberings), "the whole is greater than the part"; Wyclif adds "quantitative" (LEDGER I12c-1, to be checked). "Rejoined": *replicatur*, raised against an answer; continuation would make the whole no greater than its part.
+[^13]: **S/C.** Euclid, *Elements* I, common notion 5, in Campanus's Latin the ninth *communis animi conceptio*, *omne totum est maius sua parte* (Harris: i. axiom 9), "the whole is greater than the part"; Wyclif adds "quantitative" (LEDGER I12c-1, verified). "Rejoined": *replicatur*, raised against an answer; continuation would make the whole no greater than its part.
 
 [^14]: **C/T.** "Make up a number": *ponant in numerum*, count as two. O reads *proposito* for *posito* (213.9) and *assumendo* for *assumat* (213.10).
 
 [^15]: **C/T.** "Double the second": the parts diminish by halves to infinity, as the proportional parts of a continuum. B C read *duplam* (213.17). "Multiplication of concomitance": as Christ's whole body is under each part of the host. "Infinitely small": *infinitum parvus*, the print's paradox, as at 207.31.
 
-[^16]: **S/T.** "The preceding chapter": chapter 11 (LEDGER I12c-2, to be checked). O reads *communicantes* "that communicate" for *incommunicantes* (213.24); B adds *creature* after *materias* (213.25); A reads *impossibile* for *possibile* (213.25).
+[^16]: **S/T.** "The preceding chapter": chapter 11, p. 200.24–30, where a body each of whose quantitative parts were the same as every other would make the part a non-part (LEDGER I12c-2, verified). O reads *communicantes* "that communicate" for *incommunicantes* (213.24); B adds *creature* after *materias* (213.25); A reads *impossibile* for *possibile* (213.25).
 
 ## Transcription notes
