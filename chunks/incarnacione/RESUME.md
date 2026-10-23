@@ -7,11 +7,11 @@
 
 - **Translated:** prol, 01-a … 08-d (36 chunks), every one through the per-wave checks: lint 0, connectives
   (waves 1–11: 357 checked, 5 fixed: three minor premisses "but" → "now", two *non autem* → "but not"), ledger closed for all rows Iprol … I08d (waves 1–11), glossary conformed.
-- **Next:** `.venv/bin/python scripts/w3/brief.py incarnacione 09-a 09-b 09-c` → one Opus agent per brief with the
-  one-line prompt plus the standing addenda (copy them from the last wave's prompt in this file's § Prompt), then
-  09-d 09-e 10-a, 10-b 10-c 10-d, 10-e 10-f 10-g, 11-a 11-b 11-c, 11-d 12-a 12-b, 12-c 12-d 13-a, 13-b 13-c 13-d
-  (≈8 waves). Two agents can overlap (a translator + the previous wave's ledger); the coordinator applies results
-  between them.
+- **Next (corrected 2026-10-23: 08-e was still a draft, chapter 8 was NOT done):** wave 12 = 08-e 09-a 09-b (running
+  2026-10-23); then 09-c 09-d 09-e, 10-a 10-b 10-c, 10-d 10-e 10-f, 10-g 11-a 11-b, 11-c 11-d 12-a, 12-b 12-c 12-d,
+  13-a 13-b 13-c 13-d (8 waves after 12). `.venv/bin/python scripts/w3/brief.py incarnacione <ids>` → one Opus agent
+  per brief with the one-line prompt plus the standing addenda (this file's § Prompt). Two agents can overlap (a
+  translator + the previous wave's ledger); the coordinator applies results between them.
 - **Per wave (coordinator):** (1) status/`[ENGLISH]`/Latin-unchanged check + lint; (2) scars: read on the plate
   (`/tmp` crop at y ≈ 0.125 + (line−1)·0.0205 of the leaf height); only split/glued words and lost hyphens are
   transcription errors (fix `text/incarnacione/bt/pNNN.txt` → `bplus.py` → shift any `bplus_decisions.tsv` pos the

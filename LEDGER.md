@@ -1691,3 +1691,20 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | I08d-3 | incarnacione-08-d / n9 | Richard of St Victor's definition (136.17) | verified | As I08c-2. Richard, *De Trin.* IV.22, PL 196, 945C–D, has *divinae naturae incommunicabilis existentia*, of the divine person. The *racionalis nature incommunicabilis existencia* of 136.17 is the generalised form, which is not in Richard. 2026-10-22 (see `chunks/incarnacione/_verify/RESULTS-11.md`) |
 | I08d-4 | incarnacione-08-d / n13 | Averroes, *In Phys.* VIII comm. 46, against Avicenna | untraced | I did not read Averroes. The Juntine *Physics* volume on archive.org is restricted (`aristotelisopera0004vari_w9z7`, 401). The 1560 *Physica* with Averroes (`2078163`, `ARes12517`) has OCR too corrupt to find comm. 46: its *Auicen-* hits are all in books I–II. Scotus, *Ord.* I d. 2 p. 2 q. 4, n. 327 (logicmuseum.com), cites the same Averroes passage against Avicenna's equivocal generation of man as *in VIII Physicorum commento 49, cuius textus incipit «Utrum unumquodque moventium»*. The English there brackets n. 337 as *Physics* 8 com. 46. So Wyclif's place is perhaps right, and the comment's number varies by edition. 2026-10-22 (see `chunks/incarnacione/_verify/RESULTS-11.md`) |
 | I08d-5 | incarnacione-08-d / n20 | Aristotle, *De caelo* I.5, 271b8: small error at the beginning | verified | Aristotle, *De caelo* I.5, 271b8–9 (classics.mit.edu, Stocks): *the least initial deviation from the truth is multiplied later a thousandfold*. 2026-10-22 (see `chunks/incarnacione/_verify/RESULTS-11.md`) |
+| I08e-1 | incarnacione-08-e / n2 | *raciones seminales* = Augustine, *De Gen. ad litt.* IX.17.32 | to-verify | from memory (wave 12 translator) |
+| I08e-2 | incarnacione-08-e / n3 | females conceiving without the male: Aristotle, *HA* VI.18; Ambrose, *Hexaemeron* V.20.64–65 | to-verify | from memory (wave 12 translator) |
+| I08e-3 | incarnacione-08-e / n6 | *Quicunque* v. 37; Augustine, *In Ioh.* tr. 78.3 and *Ep.* 137.3.11 | to-verify | from memory (wave 12 translator) |
+| I08e-4 | incarnacione-08-e / n7 | four ways of making man = Anselm, *Cur Deus homo* II.8 | to-verify | from memory (wave 12 translator) |
+| I08e-5 | incarnacione-08-e / n8 | generation from putrefaction: Aristotle, *HA* V.1, 539a; *GA* III.11 | to-verify | from memory (wave 12 translator) |
+| I08e-6 | incarnacione-08-e / n15 | Avicenna's man from earth (*De diluviis*) | to-verify | from memory (wave 12 translator) |
+| I08e-7 | incarnacione-08-e / n15 | "forms are given according to the disposition of matter", the Avicennian maxim | to-verify | from memory (wave 12 translator) |
+| I08e-8 | incarnacione-08-e / n19 | five and six as circular numbers: Boethius, *Inst. arith.* II | to-verify | from memory (wave 12 translator) |
+| I09a-1 | incarnacione-09-a / n6 | Anselm, *De incarn. Verbi* "c. 7" ("Sicut in Deo una natura…"); modern chapter may be c. 11 | to-verify | from memory (wave 12 translator) |
+| I09a-2 | incarnacione-09-a / n6 | inner quotation follows *Quicunque* vv. 15–16 | to-verify | from memory (wave 12 translator) |
+| I09a-3 | incarnacione-09-a / n8 | *aliud et aliud, non alius et alius*: Gregory Nazianzen, *Ep.* 101, and Latin fathers | to-verify | from memory (wave 12 translator) |
+| I09a-4 | incarnacione-09-a / n10 | Anselm, *De incarn. Verbi* 1, on universals | to-verify | from memory (wave 12 translator) |
+| I09a-5 | incarnacione-09-a / n11 | Aristotle, *De anima* II.4, 415b13 | to-verify | from memory (wave 12 translator) |
+| I09a-6 | incarnacione-09-a / n12 | Anselm, *De incarn.* "7": universal form the same as its supposits | to-verify | from memory (wave 12 translator) |
+| I09a-7 | incarnacione-09-a / n16 | Nestorians' argument, beginning of Anselm's "c. 7" | to-verify | from memory (wave 12 translator) |
+| I09b-1 | incarnacione-09-b / n2 | Trinity works the union, the Word alone assumes: Lombard, *Sent.* III d. 1 | to-verify | from memory (wave 12 translator) |
+| I09b-2 | incarnacione-09-b / n12 | God Lord from time: Augustine, *De Trin.* V.16.17 | to-verify | from memory (wave 12 translator) |

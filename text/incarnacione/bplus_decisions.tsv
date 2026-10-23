@@ -50,3 +50,4 @@ page	pos	rule	forms	reading	note
 198	95	AGREE	bt=humanitas, | fordham=humanitus | vote=humanitus	humanitus,	plate: print = humanitus; the transcription normalised it (Opus coordinator)
 198	112	AGREE	bt=humanitas | fordham=humanitus | vote=humanitus	humanitus	plate: print = humanitus; the transcription normalised it (Opus coordinator)
 83	263	SUB	bt=Infirmorum | fordham=infir morum | vote=yisitacione xng of both i tt hody and soul	Infirmorum	plate: print = Infir | morum, one word split by a folio bar (Opus coordinator)
+139	166	SUB	bt=non-homine, | fordham=non  homine | vote=non homine 10	non-homine,	print = bt (spaced hyphen "non - homine" on the plate; joined as non-esse 148.9; coordinator 2026-10-23)
