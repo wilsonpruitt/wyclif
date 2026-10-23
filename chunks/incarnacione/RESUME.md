@@ -8,10 +8,14 @@
 - Waves 12–19 + 06-e this session (06-e and 08-e had been skipped by the earlier wave lists; both done). Ledger closed for
   every row I08e … I13d + I06e (RESULTS-12 … -20); connectives checked for all (RESULTS-12, -14, -16, -18, -20); lint 0.
   Cost this session ≈3.3M Opus (9 translators ≈1.6M, 9 ledgers ≈1.3M, 4 connective passes ≈0.4M).
-- **Next = stage 9 close-out (needs Wilson's model + go):** four-class review of the longest/densest chunks (11-a 1256w,
-  06-e 1233w, 13-a 1188w, 13-c 25 notes, 10-a, 09-a; the review prompt and format are `_review/REVIEW-01a.md`); the
-  line-marker plate check below; the headnote sentence on the manuscripts rule (prol); PLAN cost row. Then stage 10
-  site (`site/build.py`, `site/pdf.py incarnacione both`); deploy = Wilson's per-deploy OK.
+- **Stage 9 close-out DONE 2026-10-23** (except the headnote sentence, drafted and waiting on Wilson's wording OK):
+  four-class review of 11-a, 06-e, 13-a, 13-c, 10-a, 09-a (`_review/REVIEW-*.md`, 58 rows, 2 errors; all applied
+  but 13-c row 8, a note the chunk's density does not need; 13-c row 6 put as its own T note at *ut qui*); line
+  markers closed (below); GLOSSARY *ypostaticus*; PLAN cost row. **Next = stage 10:** `site/build.py`,
+  `site/pdf.py incarnacione both`; deploy = Wilson's per-deploy OK.
+- Left from the reviews: LEDGER I11a-1 (Scotus "reports and rejects" what Wyclif calls the Doctor's proofs,
+  186.18–20) wants a second look; 06-e 103.29 *eciam* is O's alone (borderline T note); `italics:` is `none` in
+  every chunk of every volume (a placeholder), though 163.6–7 and 227.5 are italic in the print.
 - Recurring patterns worth knowing at review: Wyclif's Anselm *De inc. Verbi* numbers run one above Migne's; he counts
   Thomas's *Scriptum* III d. 1 articles serially ("q. 8 et 9" = q. 2 a. 4–5); his "De Spiritu Sancto III" for Ambrose
   is the Lombard's mislabel of *De incarn. dom. sacr.*; his *Enchiridion* chapter numbers are not consistent.

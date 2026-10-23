@@ -180,6 +180,12 @@ conform 0.10M (Sonnet), coordinator incl. 12 plate reads ≈0.15M. **Volume ≈2
 per-wave gates the close-out came in at the ~1.8M forecast's lower end and needed no ledger or connective pass;
 the per-wave ledger agents (130–270K each) were the overrun against the 12–13M estimate.
 
+**MEASURED, *De benedicta incarnacione* (2026-10-22 … 10-23), 232 pp., 61 chunks, B+ Latin:** translation + per-wave
+gates (scars, ledger, connectives) ≈8.5M Opus · close-out ≈0.9M: four-class review of the 6 longest/densest chunks
+0.76M Opus (~126K/chunk, 2.4× the *De ecclesia* rate; 58 rows: 2 errors, 21 weak, 35 style; 57 applied, 1
+declined), coordinator (8-page line-marker plate check, applying the review) ≈0.15M. **Volume ≈9.4M (~40K/page).**
+Reviewers now read plate feet themselves; budget ~125K per reviewed chunk.
+
 ### Superseded estimate (2026-09-28)
 
 The Latin is no longer established by reading every page image. The vote settles ~99.6% of words
