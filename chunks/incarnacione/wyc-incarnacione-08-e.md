@@ -39,19 +39,19 @@ And the third say that no one after the first parent can be produced unless he i
 
 [^1]: **T.** "After all" renders *tamen*, with C O, against the print's *tum* "both" (138.25): agreement across the families, and the reading construes (*tamen* closes the objection, which denies the possibility just granted at 138.12–22); *tum* has no second *tum* to answer it. As printed: "both because it is neither authentic nor experienced, and …".
 
-[^2]: **S.** *Raciones seminales*: Augustine's term for the causes God set in created things at the beginning, from which the kinds unfold in time (e.g. *De Genesi ad litteram* IX.17.32; LEDGER I08e-1, to be checked). The objection: if a man could be made otherwise than from seed, the seminal reasons would have been limited to sexual generation for nothing. *Limitate* (138.26), the print, with O; A B C read *linite* (as at 138.3–4).
+[^2]: **S.** *Raciones seminales*: Augustine's term for the causes God set in created things at the beginning, from which the kinds unfold in time (*De Genesi ad litteram* IX.17.32, PL 34, 406, where the Creator can make from things *aliud, quam eorum quasi seminales rationes habent*; *verified*, LEDGER I08e-1). The objection: if a man could be made otherwise than from seed, the seminal reasons would have been limited to sexual generation for nothing. *Limitate* (138.26), the print, with O; A B C read *linite* (as at 138.3–4).
 
-[^3]: **S.** The schools' animal lore of females conceiving without the male (mares by the wind, Aristotle, *Historia animalium* VI.18; vultures, Ambrose, *Hexaemeron* V.20.64–65; LEDGER I08e-2, to be checked). A B C read *commixione* (139.6).
+[^3]: **S.** The schools' animal lore of females conceiving without the male (mares by the wind, Aristotle, *Historia animalium* VI.18; vultures, Ambrose, *Hexaemeron* V.20.64–65, PL 14, 233C–D, *sine ullo masculorum concipere semine*, set there against those who mock the virgin birth; *verified*, LEDGER I08e-2). A B C read *commixione* (139.6).
 
 [^4]: **C.** *Nature complete* is taken as dative after *copulatus sit* "was joined to the complete nature"; it could be genitive with *generacionis*, "at the instant of the generation of the complete nature". A B read *Deus per generacionem*, C *Deus per generacionis* (139.9).
 
 [^5]: **T.** *Ideo … unione* (139.10–13) is O's alone (A B C omit it); the print follows O, and the step "therefore … from faith" stands only there. Wyclif calls the union of mind with body itself "hypostatic"; the creed's likeness follows.
 
-[^6]: **S.** The *Quicunque vult* (the "Athanasian Creed"), v. 37 (LEDGER I08e-3, to be checked); Augustine's use of the likeness, e.g. *In Iohannis evangelium* tr. 78.3 and *Epistula* 137.3.11, is to be checked under the same row. O omits *ita … est* (139.15).
+[^6]: **S.** The *Quicunque vult* (the "Athanasian Creed"), v. 37 (PL 88, 586B). Augustine uses the likeness at *In Iohannis evangelium* tr. 78.3, PL 35, 1836 (*Sicut enim unus est homo anima rationalis et caro, sic unus est Christus Deus et homo*), and *Epistula* 137.3.11, PL 33, 520 (*sicut in unitate personae anima unitur corpori, ut homo sit; ita in unitate personae Deus unitur homini, ut Christus sit*) (*verified*, LEDGER I08e-3). O omits *ita … est* (139.15).
 
-[^7]: **T/S.** The four ways of making man (from no man, from a man alone, from man and woman, from a woman alone) are Anselm's, *Cur Deus homo* II.8 (LEDGER I08e-4, to be checked). *Iusticie per se stantis in quatuor* (139.22), the print, with O; A B C read *persone stantis in quarto*, "for the completion of the person standing in the fourth [place]". O reads *utri* for *viri* (139.18); O omits *secundo … homine*, and C reads *secundo ex femina ex homine* (139.19–20).
+[^7]: **T/S.** The four ways of making man (from no man, from a man alone, from man and woman, from a woman alone) are Anselm's, *Cur Deus homo* II.8 (Schmitt II, 104.3–6; PL 158, 406B): *Quatuor modis potest deus hominem facere … aut de femina sine viro, quod nondum fecit* (*verified*, LEDGER I08e-4). *Iusticie per se stantis in quatuor* (139.22), the print, with O; A B C read *persone stantis in quarto*, "for the completion of the person standing in the fourth [place]". O reads *utri* for *viri* (139.18); O omits *secundo … homine*, and C reads *secundo ex femina ex homine* (139.19–20).
 
-[^8]: **S.** Animals generated from putrefaction as well as from seed: Aristotle, *Historia animalium* V.1, 539a and *De generatione animalium* III.11 (LEDGER I08e-5, to be checked).
+[^8]: **S.** Animals generated from putrefaction as well as from seed: Aristotle, *Historia animalium* V.1, 539a and *De generatione animalium* III.11, 762a8–15; *HA* V.1 also has such creatures generated male and female (*verified*, LEDGER I08e-5).
 
 [^9]: **C.** *Potenciam obediencialem*: the potency sense of the CONTEXTUAL row: the creature's passive capacity to receive whatever God works in it beyond its nature. A B C read *sicut* for *sic* (139.30).
 
@@ -65,7 +65,7 @@ And the third say that no one after the first parent can be produced unless he i
 
 [^14]: **S.** The Commentator's testimony is the one cited at 137 (Averroes against Avicenna on the generation of animals from earth; LEDGER I08d-4). *Presumptive vel invide sepius* (140.25), the print; O *p̃supue ve inde septus*.
 
-[^15]: **C/S.** Two ways the supporter could cloak the saying, both hanging on *posset fingere*: that Averroes spoke of Avicenna's man from earth, which would be of another species (Avicenna, *De diluviis*; LEDGER I08e-6, to be checked); or that nature takes such pains over man that only a rational supposit can produce his body. The second has no main verb in the print; "[brings it about]" is supplied. "Forms are given according to the disposition of matter" is the Avicennian maxim (LEDGER I08e-7, to be checked).
+[^15]: **C/S.** Two ways the supporter could cloak the saying, both hanging on *posset fingere*: that Averroes spoke of Avicenna's man from earth, which would be of another species (Avicenna, *De diluviis*, ed. Alonso Alonso 1949, 307–308, as reported by Loconsole 2023; cf. Thomas, *ST* I q. 71 ad 1; Avicenna's Latin not read here; LEDGER I08e-6, untraced); or that nature takes such pains over man that only a rational supposit can produce his body. The second has no main verb in the print; "[brings it about]" is supplied. "Forms are given according to the disposition of matter" is a schools' maxim on Avicenna's teaching that agents only dispose matter and the giver of forms (*dator formarum*) gives each form to matter so disposed; the wording is not traced in Avicenna (LEDGER I08e-7, untraced).
 
 [^16]: **C.** *Per species triplices*: construed as printed, "through threefold species"; what the three are is not said. *Parientis*: the woman giving birth.
 
@@ -73,7 +73,7 @@ And the third say that no one after the first parent can be produced unless he i
 
 [^18]: **T.** Harris daggers the passage *et multo magis … a corpore* (141.26–29) and notes *hic locus corruptus videtur* "this place seems corrupt" (141 n. 13). It is translated as printed. A B C omit *elementum* and read *universi* "of the universe" for *universali*; A C omit *est*; O omits *sicut*. A's *hominem* (141.26) is supplied in the margin by another hand.
 
-[^19]: **S/C.** Five and six are "circular" because their powers end in the same figure (25, 36, 125, 216: Boethius, *De institutione arithmetica* II; LEDGER I08e-8, to be checked). The fifth way closes the circle: every soul is made by God, by whom it is in the end remade. A B C read *ergo* for *quinto* (142.3). *Catholicum* (141.31) is taken as the subject of *sustinere*, "for a catholic"; it could be a third predicate, "philosophical, easy [and] catholic".
+[^19]: **S/C.** Five and six are "circular" because their powers end in the same figure (25, 36, 125, 216: Boethius, *De institutione arithmetica* II.30, PL 63, 1137B–C, numbers *cyclici vel sphaerici* because *in proprii semper principii reversione formantur*; *verified*, LEDGER I08e-8). The fifth way closes the circle: every soul is made by God, by whom it is in the end remade. A B C read *ergo* for *quinto* (142.3). *Catholicum* (141.31) is taken as the subject of *sustinere*, "for a catholic"; it could be a third predicate, "philosophical, easy [and] catholic".
 
 [^20]: **T.** *Illam* (142.8), the print, with O, where Harris asks whether *ullam* "any" is meant; A B C read *secundam* "the second [perfection]".
 

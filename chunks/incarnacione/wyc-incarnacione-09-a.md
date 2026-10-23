@@ -104,19 +104,19 @@ These being supposed, it remains, third, to dispose of the [evidences]{g:evidenc
 
 [^5]: **T.** *Et mixtis* (143.20), the print, with O; A B C read *in mixtis*, "elements in mixed bodies, integrally composing the mixed body itself", which gives the likelier sense of confusion. C omits *mixtum*.
 
-[^6]: **S.** Anselm, *Epistola de incarnatione Verbi*, "c. 7" in Wyclif's division (LEDGER I09a-1, to be checked, with the chapter of the modern division). The inner quotation follows the *Quicunque vult*, vv. 15–16 (LEDGER I09a-2, to be checked). A B C omit *enim*, B *et non … Deus* (144.4–6).
+[^6]: **S.** Anselm, *Epistola de incarnatione Verbi*, "c. 7" in Wyclif's division, which is c. 11 in Schmitt (II, 28.23–29.1) and c. VI in Migne (PL 158, 278B–C). Wyclif's chapter numbers for this work run one above Migne's (his "6" is Migne's V) (*verified*, LEDGER I09a-1). The inner quotation follows the *Quicunque vult*, vv. 15–16, PL 88, 585B: *Ita Deus Pater, Deus Filius, Deus Spiritus sanctus; et tamen non tres dii, sed unus Deus* (*verified*, LEDGER I09a-2). A B C omit *enim*, B *et non … Deus* (144.4–6).
 
 [^7]: **C.** *Alius … alius* (masculine: another one, a person) against *aliud … aliud* (neuter: another thing, a nature): the formula on which the paragraph turns.
 
-[^8]: **S.** The formula "one thing and another, not one and another" (*aliud et aliud, non alius et alius*) goes back to Gregory of Nazianzus, *Ep.* 101 (to Cledonius), and stands in the Latin fathers Wyclif names (LEDGER I09a-3, to be checked). O reads *et alia sit humanitas* (144.23).
+[^8]: **S.** The formula "one thing and another, not one and another" (*aliud et aliud, non alius et alius*) goes back to Gregory of Nazianzus, *Ep.* 101 (to Cledonius), known in Latin, e.g. in Rusticus, *Contra Acephalos*, PL 67, 1226C (*Non alius vero et alius: absit … illic enim alius et alius … non aliud vero et aliud*). Wyclif's wording is Anselm's, just quoted (*non alius deus, alius homo … quamvis aliud sit deus, aliud homo*); the Augustine and Jerome he names are not checked (*verified*, LEDGER I09a-3). O reads *et alia sit humanitas* (144.23).
 
 [^9]: **C.** *Res communes*: common things, the universals as realities outside the mind; the first root is the moderns' denial of them. A B C read *Pro quo* for *Pro 2°* (144.25).
 
-[^10]: **G/S.** *Sacramenta*: "sacraments" in the Augustinian sense, "mysteries" (1 Tim 3:16), beside *misterium* in the same sentence. Anselm, *De incarnatione Verbi* 1, on the dialecticians who cannot understand universal substance (LEDGER I09a-4, to be checked). A B C omit *vel forma*; A reads *videtur* for *Verbi* (144.31–33).
+[^10]: **G/S.** *Sacramenta*: "sacraments" in the Augustinian sense, "mysteries" (1 Tim 3:16), beside *misterium* in the same sentence. Anselm, *De incarnatione Verbi* 1, on the dialecticians who cannot understand universal substance: who does not grasp *quomodo plures homines in specie sint unus homo* cannot grasp three persons one God, nor a man assumed *non personam* (Schmitt II, 10; PL 158, 265A–C, Migne's c. II; *verified*, LEDGER I09a-4). A B C omit *vel forma*; A reads *videtur* for *Verbi* (144.31–33).
 
-[^11]: **S.** "For living things, to live is to be": Aristotle, *De anima* II.4, 415b13 (LEDGER I09a-5, to be checked). A B C omit *eius* (145.6).
+[^11]: **S.** "For living things, to live is to be": Aristotle, *De anima* II.4, 415b13, where the soul is the essence of the living body, *vivere viventibus est esse* (*verified*, LEDGER I09a-5). A B C omit *eius* (145.6).
 
-[^12]: **S.** Anselm, *De incarnatione Verbi* "7" (LEDGER I09a-6, to be checked). O reads *nec* for *ut* (145.17).
+[^12]: **S.** Anselm, *De incarnatione Verbi* "7" (Schmitt c. 11, II, 29.3–4; PL 158, 278C, Migne's c. VI), where *homo* signifies *natura tantum quae communis est omnibus hominibus*. The formula that every universal form is the same as its supposits is Wyclif's, as Harris notes (on 145.19), not Anselm's words (*verified*, LEDGER I09a-6). O reads *nec* for *ut* (145.17).
 
 [^13]: **C.** *Lux luminis*: *lux*, light at its source, against *lumen*, the light it gives off; the moderns' essence is to being as light to its radiance. A B C read *et lucere* (145.33). O reads *impossibile* (145.27), which would invert the moderns' first thesis.
 
@@ -124,7 +124,7 @@ These being supposed, it remains, third, to dispose of the [evidences]{g:evidenc
 
 [^15]: **C.** *A Deo* is taken as the agent, "approved by God"; it could mean "a deduction from [the term] 'God'". The objection's step: the humanity is "something", and the Word took something new.
 
-[^16]: **S.** Anselm, *De incarnatione Verbi*, beginning of "c. 7" in Wyclif's division (LEDGER I09a-7, to be checked).
+[^16]: **S.** Anselm, *De incarnatione Verbi*, beginning of "c. 7" in Wyclif's division, which is the opening of Schmitt's c. 11 (II, 28.14–22; PL 158, 278B, Migne's c. VI): *homo assumptus persona est, quia omnis homo individuus esse persona cognoscitur*. Anselm says only *quidam*; the label "Nestorians" is Wyclif's (*verified*, LEDGER I09a-7).
 
 ## Transcription notes
 

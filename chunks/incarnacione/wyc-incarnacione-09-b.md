@@ -57,7 +57,7 @@ Second, [as a main head]{g:principaliter}, [it is objected, by appeal to]{g:obic
 
 [^1]: **C.** *Antecedente existente necessario*: the antecedent ("the Word made himself to be a man") is necessarily true once the incarnation is supposed, while the consequent ("the Word made himself to be a person") is impossible; so the form of the objection's inference fails. O reads *tamen* for *tantum* (146.29).
 
-[^2]: **C/S.** *Principiare* (147.4): to be the principle of, active, not the GLOSSARY's passive *principiari*. *De quanto*: "inasmuch as". The whole Trinity works the union, the Word alone assumes (cf. the Lombard, *Sent.* III d. 1; LEDGER I09b-1, to be checked). O reads *vincit*, corrected in the margin by another hand to *univit* (147.6).
+[^2]: **C/S.** *Principiare* (147.4): to be the principle of, active, not the GLOSSARY's passive *principiari*. *De quanto*: "inasmuch as". The whole Trinity works the union, the Word alone assumes (cf. the Lombard, *Sent.* III d. 1 c. 4, PL 192, 758–759: *Trinitas ergo carnis assumptionem fecit, sed Verbo, non Patri vel Spiritui sancto*; *verified*, LEDGER I09b-1). O reads *vincit*, corrected in the margin by another hand to *univit* (147.6).
 
 [^3]: **C.** In the second degree *ipsum* (neuter) is the uniting principle, the divine nature; in the third, *sibi ipsi* is the person, the Word. O adds *causa* after *activa* (147.6); C reads *facit* for *fecit*, O *creata* for *creatam* (147.12).
 
@@ -77,7 +77,7 @@ Second, [as a main head]{g:principaliter}, [it is objected, by appeal to]{g:obic
 
 [^11]: **T.** *Fit* "becomes", with M (and O's *tit*, a slip for the same word), against the print's *sit* (149.22): Wyclif's own parallel, *Christus fit aliquid licet prius fuit aliquid*, needs "becomes". As printed: "as what is whitened is, as such, coloured". C reads *sit ut sit*. A B C vary at *ad illud aliquid quod* (149.21): A *ab illo quod*, corrected in the margin to *ob illud*; B *ab illo quod*.
 
-[^12]: **S.** God is called Lord only from the time there was a creature to serve him: Augustine, *De Trinitate* V.16.17, the relation that comes to God in time without change in him (LEDGER I09b-2, to be checked). O reads *donum* "gift" for *dominium* (150.4).
+[^12]: **S.** God is called Lord only from the time there was a creature to serve him: Augustine, *De Trinitate* V.16.17, the relation that comes to God in time without change in him, PL 42, 921–922: *si dominus non dicitur, nisi cum habere incipit servum, etiam ista appellatio relativa ex tempore est Deo* (*verified*, LEDGER I09b-2). O reads *donum* "gift" for *dominium* (150.4).
 
 [^13]: **S.** Phil 2:7, "taking the form of a servant". A B C read *fecerat* for *fecerit* (150.9).
 
