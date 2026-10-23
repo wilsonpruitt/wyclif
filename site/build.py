@@ -33,6 +33,16 @@ Wyclif first settles what power is and in how many senses the word is said, then
 vicar of Christ, papal election, the “caesarean” pope made by the endowment, and Antichrist, answering Richard FitzRalph
 as he goes. The Latin of Johann Loserth’s edition (1907), with a new English translation and notes:
 {chapters} chapters in {parts} parts, and the medieval summary that came down with the work, about {words:,} words of English.'''),
+    'incarnacione': dict(n=61, editor='Harris', name='De benedicta incarnacione', year='c. 1363–67', offset=39,
+                     plate='https://archive.org/details/latinworks03wycl/page/n{leaf}/mode/1up',
+                     title_re=r'^\*De benedicta incarnacione\*,\s*(?:chapter \d+,\s*part \d+|prologue)\s*[:.]\s*',
+                     sub='On the Blessed Incarnation',
+                     lede='''John Wyclif’s treatise on the incarnation, an early work of the schools and the nearest of his surviving
+writings to his lectures on the third book of the <i>Sentences</i>. Wyclif asks whether, and in what sense, the humanity the
+Word assumed <i>is</i> Christ, and so whether Christ is a creature; answers from the fathers that it is; and sets the
+“modern doctors”, Scotus and Thomas among them, beside the ancients until he can bring them into accord. The Latin of
+Edward Harris’s edition (1886), with a new English translation and notes: a prologue and {chapters} chapters in {parts}
+parts, about {words:,} words of English.'''),
 }
 WORK = WOUT = CHUNKS = PLATE = EDITOR = TITLE_RE = None
 LEAF_OFFSET = 0
@@ -93,7 +103,12 @@ def scrub(t):
     t = re.sub(r',? by the coordinator\b', '', t)
     t = re.sub(r'\s*\((?:\d{4}-\d\d-\d\d, )?`?tokenfix\.tsv`?\)', '', t)
     t = re.sub(r'[;,]?\s*\b(?:see |cf\. )?LEDGER [A-Za-z]\d\d[a-z]-\d+(?:,\s*[A-Za-z]\d\d[a-z]-\d+)*', '', t)
+    t = re.sub(r'[;,]?\s*\b(?:see |cf\. )?(?:LEDGER )?I(?:prol|\d\d[a-z])-\d+(?:,\s*I(?:prol|\d\d[a-z])-\d+)*', '', t)  # De incarn. ids
     t = re.sub(r'\s*\(tokenfix\)', '', t)
+    t = re.sub(r'\s*\(Opus coordinator\)', '', t)
+    t = re.sub(r'(?:;|,) coordinator\)', ')', t)
+    t = re.sub(r'\s*\[AGREE\]', '', t)
+    t = t.replace('print = bt', 'print as transcribed')
     t = re.sub(r', S[23] audit \d{4}-\d\d-\d\d', '', t)
     t = re.sub(r'\s*\(\d{4}-\d\d-\d\d(?:, tokenfix\.tsv)?\)', '', t)
     t = re.sub(r';?\s*ruled \d{4}-\d\d-\d\d', '', t, flags=re.I)
@@ -207,16 +222,22 @@ def speeches(para, current):
 
 
 # ------------------------------------------------------------------ chunks
+def cparts(cid):
+    """(chapter, part) of a chunk id or its tail: '12-c' -> ('12', 'c'); 'comp-a' -> ('comp', 'a'); 'prol' -> ('prol', 'a')."""
+    n = re.sub(rf'^wyc-{WORK}-', '', cid)
+    return ('prol', 'a') if n == 'prol' else tuple(n.split('-')[-2:])
+
+
 def order_key(f):
     n = re.search(rf'wyc-{WORK}-(\w+(?:-\w)?)\.md', f).group(1)
-    if WORK != 'dialogus':                                          # 01-a … 23-l; comp-a, comp-b last
-        ch, part = n.split('-')
-        return (999 if ch == 'comp' else int(ch), part)
+    if WORK != 'dialogus':                                          # prol first; 01-a … 23-l; comp-a, comp-b last
+        ch, part = cparts(n)
+        return (-1 if ch == 'prol' else 999 if ch == 'comp' else int(ch), part)
     return (1, n) if n.startswith('epil') else (0, int(n))
 
 
 def parse(path):
-    raw = open(path).read()
+    raw = re.sub(r'\n?<!--.*?-->[ \t]*', '', open(path).read(), flags=re.S)   # working comments stay in the chunk
     fm, body = {}, raw
     if raw.startswith('---'):
         _, front, body = raw.split('---', 2)
@@ -244,7 +265,9 @@ def parse(path):
 def slug(cid):
     n = cid.split(f'wyc-{WORK}-')[1]
     if WORK != 'dialogus':
-        ch, part = n.split('-')
+        ch, part = cparts(n)
+        if ch == 'prol':
+            return 'prologus'
         return f'compendium/{part}' if ch == 'comp' else f'cap/{int(ch)}/{part}'
     return f'epilogus/{n[-1]}' if n.startswith('epil') else f'cap/{int(n)}'
 
@@ -264,7 +287,7 @@ def page(title, body, depth, desc='', canonical=''):
 {FONTS}<link rel="icon" href="{up}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{up}style.css?v={ASSET_V}"><script defer src="/_vercel/insights/script.js"></script></head>
 <body>
 <header class="top"><a class="home" href="{up}">Wyclif’s Latin works</a>
-<nav><a href="{up}ecclesia/"><i>De ecclesia</i></a><a href="{up}dialogus/"><i>Dialogus</i></a><a href="{up}potestate-pape/"><i>De potestate pape</i></a><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
+<nav><a href="{up}ecclesia/"><i>De ecclesia</i></a><a href="{up}dialogus/"><i>Dialogus</i></a><a href="{up}potestate-pape/"><i>De potestate pape</i></a><a href="{up}incarnacione/"><i>De incarnacione</i></a><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
 <main>{body}</main>
 <footer><p>Latin: the Wyclif Society edition (1883–1922), public domain. English, notes and encoding: Wroot Press, <a href="{up}rights/">CC BY-NC 4.0</a>. A working draft.</p></footer>
 <script src="{up}site.js?v={ASSET_V}" defer></script>
@@ -315,7 +338,9 @@ def build():
 def label(c):
     n = c['fm']['chunk_id'].split('-')[-1]
     if WORK != 'dialogus':
-        ch, part = c['fm']['chunk_id'].split('-')[-2:]
+        ch, part = cparts(c['fm']['chunk_id'])
+        if ch == 'prol':
+            return 'Prologue'
         return f'Compendium, part {ord(part) - 96}' if ch == 'comp' else f'Chapter {int(ch)}, part {ord(part) - 96}'
     if 'epil' in c['fm']['chunk_id']:
         return 'Epilogue, part ' + ('one' if n == 'a' else 'two')
@@ -470,19 +495,19 @@ and in a dozen chapters none at all; Truth answers at length. After the third ch
 def render_work_ecclesia(chunks):
     chapters = {}
     for c in chunks:
-        ch = c['fm']['chunk_id'].split('-')[-2]
-        chapters.setdefault('Compendium' if ch == 'comp' else int(ch), []).append(c)
+        ch = cparts(c['fm']['chunk_id'])[0]
+        chapters.setdefault('Prologue' if ch == 'prol' else 'Compendium' if ch == 'comp' else int(ch), []).append(c)
     toc, words = [], 0
     for ch, cs in chapters.items():
         p0 = int(re.match(r'(\d+)', cs[0]['fm']['pages']).group(1))
         p1 = int(re.search(r'(\d+)\.\d+$', cs[-1]['fm']['pages']).group(1))
         words += sum(sum(c['words'].values()) for c in cs)
-        toc.append(f'<h3>{ch if ch == "Compendium" else f"Chapter {ch}"}<span class="range"> · Loserth pp. {p0}–{p1}</span></h3><ol class="toc">' + ''.join(
-            f'<li><a href="{c["slug"]}/"><span class="toc-n">Part {ord(c["fm"]["chunk_id"][-1]) - 96}</span> '
+        toc.append(f'<h3>{ch if isinstance(ch, str) else f"Chapter {ch}"}<span class="range"> · {EDITOR} pp. {p0}–{p1}</span></h3><ol class="toc">' + ''.join(
+            f'<li><a href="{c["slug"]}/"><span class="toc-n">Part {ord(cparts(c["fm"]["chunk_id"])[1]) - 96}</span> '
             f'<span>{html.escape(short_title(c))}</span></a></li>' for c in cs) + '</ol>')
     w = WORKS[WORK]
-    nch = sum(1 for k in chapters if k != 'Compendium')
-    lede = w['lede'].format(chapters=nch, parts=sum(len(v) for k, v in chapters.items() if k != 'Compendium'), words=words // 1000 * 1000)
+    nch = sum(1 for k in chapters if not isinstance(k, str))
+    lede = w['lede'].format(chapters=nch, parts=sum(len(v) for k, v in chapters.items() if not isinstance(k, str)), words=words // 1000 * 1000)
     body = f'''<section class="hero">
 <h1 class="title"><span class="t-la">{w['name']}</span><span class="t-sub">{w['sub']}</span></h1>
 <p class="lede">{lede}</p>
@@ -490,7 +515,7 @@ def render_work_ecclesia(chunks):
 <section class="contents"><h2>Contents</h2>{"".join(toc)}</section>'''
     os.makedirs(WOUT, exist_ok=True)
     open(os.path.join(WOUT, 'index.html'), 'w').write(page(f'{w["name"]}: Latin and English · Wyclif', body, 1,
-        f'John Wyclif’s {w["name"]} ({w["year"]}): the Latin of Loserth’s edition with a new English translation and notes.', f'{WORK}/'))
+        f'John Wyclif’s {w["name"]} ({w["year"]}): the Latin of {w["editor"]}’s edition with a new English translation and notes.', f'{WORK}/'))
 
 
 # Display titles for the shelf, from the title pages (catalog/volumes.json keeps the working notes).
@@ -505,11 +530,11 @@ SHELF_TITLES = {
     'civ-dom-3b': 'De civili dominio III, part 2', 'misc-phil-2': 'Miscellanea philosophica II', 'veritate': 'De veritate sacrae scripturae I–III',
     'potestate-pape': 'De potestate pape', 'ente-excerpta': 'De ente librorum duorum', 'opera-minora': 'Opera minora', 'mandatis': 'De mandatis divinis',
 }
-READ_NOW = {'dialogus': 'dialogus/', 'ecclesia': 'ecclesia/', 'potestate-pape': 'potestate-pape/'}
+READ_NOW = {'dialogus': 'dialogus/', 'ecclesia': 'ecclesia/', 'potestate-pape': 'potestate-pape/', 'incarnacione': 'incarnacione/'}
 
 
 def render_home(built):
-    chunks, e_chunks, p_chunks = built['dialogus'][0], built['ecclesia'][0], built['potestate-pape'][0]
+    chunks, e_chunks, p_chunks, i_chunks = built['dialogus'][0], built['ecclesia'][0], built['potestate-pape'][0], built['incarnacione'][0]
     vols = json.load(open(os.path.join(ROOT, 'catalog', 'volumes.json')))
     leaves = {k: int(v) for k, v in json.load(open(os.path.join(ROOT, 'catalog', 'leaves.json'))).items()}
     vols.sort(key=lambda v: (int(v['year'][:4]), v['queue']))
@@ -531,16 +556,17 @@ def render_home(built):
     d_words = sum(sum(c['words'].values()) for c in chunks)
     e_words = sum(sum(c['words'].values()) for c in e_chunks)
     p_words = sum(sum(c['words'].values()) for c in p_chunks)
+    i_words = sum(sum(c['words'].values()) for c in i_chunks)
     body = f"""<section class="hero">
 <h1 class="title"><span class="t-la">Wyclif</span><span class="t-sub">The Latin works, in English</span></h1>
 <p class="lede">John Wyclif (c. 1330–1384) wrote in Latin. The Wyclif Society printed his Latin works in {len(vols)} volumes
 between 1883 and 1922, and most of them have never been translated into English in full. This site sets the Society’s
-Latin beside a new English translation, one work at a time. Three are ready to read now, below.</p>
+Latin beside a new English translation, one work at a time. Four are ready to read now, below.</p>
 <figure class="shelf" aria-label="The Wyclif Society edition as a shelf of {len(vols)} volumes">
 <div class="spines">{''.join(spines)}</div>
 <figcaption>The Society’s edition on one shelf, in order of publication, each volume as thick as it is long
 (about {round(total, -3):,} scanned pages in all). The dark spines can be read here now: <a href="ecclesia/"><i>De ecclesia</i></a>
-(Loserth, 1886), the <a href="dialogus/"><i>Dialogus</i></a> (Pollard, 1886) and <a href="potestate-pape/"><i>De potestate pape</i></a> (Loserth, 1907).</figcaption>
+(Loserth, 1886), the <a href="dialogus/"><i>Dialogus</i></a> (Pollard, 1886), <a href="incarnacione/"><i>De benedicta incarnacione</i></a> (Harris, 1886) and <a href="potestate-pape/"><i>De potestate pape</i></a> (Loserth, 1907).</figcaption>
 </figure></section>
 <section class="now"><h2>Read now</h2>
 <div class="now-cards">
@@ -553,6 +579,9 @@ Latin beside a new English translation, one work at a time. Three are ready to r
 <a class="work-card" href="dialogus/"><span class="wc-t"><i>Dialogus</i></span><span class="wc-s">The Mirror of the Church Militant</span>
 <span class="wc-d">Truth and Falsehood argue over whether the church should own property. Written in 1379;
 36 chapters and an Epilogue, about {d_words // 1000 * 1000:,} words of English.</span></a>
+<a class="work-card" href="incarnacione/"><span class="wc-t"><i>De benedicta incarnacione</i></span><span class="wc-s">On the Blessed Incarnation</span>
+<span class="wc-d">Whether the humanity the Word assumed is Christ, and so whether Christ is a creature. An early work of the schools;
+a prologue and 13 chapters, about {i_words // 1000 * 1000:,} words of English.</span></a>
 </div></section>
 <section class="catalogue"><h2>The Wyclif Society edition</h2>
 <table class="vols"><thead><tr><th>Year</th><th>Volume</th><th>Editor</th><th>On this site</th></tr></thead><tbody>{''.join(rows)}</tbody></table>

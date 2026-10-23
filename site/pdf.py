@@ -76,15 +76,16 @@ def chapter_key(c):
     cid = c['fm']['chunk_id']
     if B.WORK == 'dialogus':
         return 'Epilogue' if 'epil' in cid else f'Chapter {int(cid.split("-")[-1])}'
-    ch = cid.split('-')[-2]
-    return 'Compendium' if ch == 'comp' else f'Chapter {int(ch)}'
+    ch = B.cparts(cid)[0]
+    return 'Prologue' if ch == 'prol' else 'Compendium' if ch == 'comp' else f'Chapter {int(ch)}'
 
 
 def part_label(c):
     if B.WORK == 'dialogus':
         cid = c['fm']['chunk_id']
         return ('Part ' + ('one' if cid.endswith('a') else 'two')) if 'epil' in cid else ''
-    return 'Part ' + str(ord(c['fm']['chunk_id'][-1]) - 96)
+    ch, part = B.cparts(c['fm']['chunk_id'])
+    return '' if ch == 'prol' else 'Part ' + str(ord(part) - 96)
 
 
 def groups(chunks):
@@ -229,6 +230,8 @@ FRONT = r'''
   set page(header: none, footer: none)
   v(18%)
   align(center)[
+    #set par(justify: false)
+    #set text(hyphenate: false)
     #text(size: 30pt, fill: russet, font: ("Libre Caslon Display", "EB Garamond"))[#la]
     #v(0.3em)
     #text(size: 13pt, style: "italic")[#sub]
@@ -262,10 +265,10 @@ def build_typst(work, edition):
         lede = ('John Wyclif’s dialogue between Truth and Falsehood on whether the church should own property, '
                 'written in 1379. The Latin of Alfred Pollard’s edition, with a new English translation and notes.')
     else:
-        nch = len({chapter_key(c) for c in chunks if chapter_key(c) != 'Compendium'})
-        lede = re.sub(r'<[^>]+>', '', w['lede']).replace('\n', ' ').format(chapters=nch, parts=len(chunks), words=0)
+        nch = len({chapter_key(c) for c in chunks if chapter_key(c) not in ('Compendium', 'Prologue')})
+        lede = re.sub(r'<[^>]+>', '', w['lede']).replace('\n', ' ').format(chapters=nch, parts=sum(1 for c in chunks if chapter_key(c) not in ('Compendium', 'Prologue')), words=0)
         lede = re.sub(r'\s*about 0 words of English\.', '', lede)
-    year_ed = {'dialogus': '1886', 'ecclesia': '1886', 'potestate-pape': '1907'}[work]
+    year_ed = {'dialogus': '1886', 'ecclesia': '1886', 'potestate-pape': '1907', 'incarnacione': '1886'}[work]
     foot = edition == 'english'
     title = f'{name}: ' + ('Latin and English' if edition == 'bilingual' else 'English')
     out = [PREAMBLE, (BILINGUAL if edition == 'bilingual' else ENGLISH).replace('__TITLE__', title).replace('__SHORT__', name), FRONT]
@@ -290,9 +293,10 @@ wyclif.wrootpress.com, and corrections are welcome.
 ''')
     page_line = (lambda c: '')
     for key, cs in groups(chunks):
-        out.append(f'\n= {esc(key)}' + (f': {esc(heading_text(cs[0]))}' if len(cs) == 1 and work == 'dialogus' else '') + '\n')
+        single = len(cs) == 1 and not part_label(cs[0])             # a Dialogus chapter, a prologue
+        out.append(f'\n= {esc(key)}' + (f': {esc(heading_text(cs[0]))}' if single else '') + '\n')
         for c in cs:
-            if not (len(cs) == 1 and work == 'dialogus'):
+            if not single:
                 out.append(f'== {esc(part_label(c))}: {esc(heading_text(c))}\n')
             out.append('#counter(footnote).update(0)\n' if foot else '')
             pages = c['fm']['pages']

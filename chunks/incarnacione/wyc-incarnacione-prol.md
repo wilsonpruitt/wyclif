@@ -23,9 +23,9 @@ status: translated
 no word of pope, endowment or friars. Harris (preface §II) follows Shirley in placing it before 1367, in
 the first years of Wyclif's doctorate (c. 1363–67), since its position on the eucharist is the first of the
 three stages Woodford describes, and since five of the "heresies" said to have been noticed only when
-Wyclif became doctor are maintained here [verify]. It cross-refers to the *De universalibus*, and its
-opening presents it as the sequel to a *De anima* (1.3) "tasted beforehand". A medieval catalogue of Oriel
-College calls it Wyclif's work *super sententias* [verify], and in the Oriel manuscript it stands among
+Wyclif became doctor are maintained here. It cross-refers to the *De universalibus*, and its
+opening presents it as the sequel to a *De anima* (1.3) "tasted beforehand". When Oriel College bought
+its manuscript in 1454, the treasurer entered it as Wyclif *super sententias*, and in that manuscript it stands among
 commentaries on the Lombard: it is the surviving text nearest to Wyclif's lectures on the third book
 of the *Sentences*.
 
@@ -38,7 +38,7 @@ argument with the illustrations and authorities left out. Harris's text is eclec
 chosen in each case and the rejected readings of A, B, C, O set at the foot of the page, keyed by
 figures that stand in the text; he keeps the manuscripts' spelling "even when manifestly incorrect".
 The thirteen chapters are Wyclif's own division (1.14 below); the paragraphs are Harris's. Our copy-text
-is Harris's printed text, established by transcription and read against the plates. Harris prints a
+is Harris's printed text, established by transcription and read against the plates. Where the manuscripts agree against the print, we follow them and give both readings in a note: all of A B C O, or O with any of A B C (A B C are one recension, so the three alone count as one witness), or a single manuscript backed by the text Wyclif quotes or by an argument that fails without its reading. Harris's own emendations against every manuscript are set aside on the same terms. Elsewhere the print stands. Harris prints a
 running English abstract of the treatise down the margin of every page: it is the editor's, not the
 text's, and is not reproduced here. At the head of each chapter he repeats, in square brackets, the
 prologue's sentence for that chapter, followed by his own English summary; the Latin sentence is
@@ -52,7 +52,7 @@ them, and subject to change as a man; and sets beside this the teachings of the 
 
 **Where it is answered.** Harris notes that five of the propositions later listed among Wyclif's first
 "heresies" (*Fasciculi zizaniorum*, p. 2) are maintained in this treatise, among them that Christ is first
-matter and so the most abject of creatures (p. 25) [verify]. A direct answer to the treatise has not been
+matter and so the most abject of creatures (p. 25). A direct answer to the treatise has not been
 traced.
 
 ## ¶1 · 1.3–1.13
