@@ -3,15 +3,16 @@
 *Read this first in a new session, then `WORKFLOW.md` (stages 7–10), this volume's `CARD.md` and `WAVE-PROMPTS.md`
 (with its "Notes from waves" at the end). Translation started 2026-10-22 on Wilson's "Opus go".*
 
-## ⏸ PAUSED 2026-10-22 (Wilson: pause after wave 11 and its ledger, push, new session) — 36/61 chunks translated (prol + chs 1–8, pp. 1–138)
+## ▶ 2026-10-23 session: waves 12–19 run — 60/61 translated; 06-e (skipped in wave 6, like 08-e in wave 11) being translated
 
-- **Translated:** prol, 01-a … 08-d (36 chunks), every one through the per-wave checks: lint 0, connectives
-  (waves 1–11: 357 checked, 5 fixed: three minor premisses "but" → "now", two *non autem* → "but not"), ledger closed for all rows Iprol … I08d (waves 1–11), glossary conformed.
-- **Next (corrected 2026-10-23: 08-e was still a draft, chapter 8 was NOT done):** wave 12 = 08-e 09-a 09-b (running
-  2026-10-23); then 09-c 09-d 09-e, 10-a 10-b 10-c, 10-d 10-e 10-f, 10-g 11-a 11-b, 11-c 11-d 12-a, 12-b 12-c 12-d,
-  13-a 13-b 13-c 13-d (8 waves after 12). `.venv/bin/python scripts/w3/brief.py incarnacione <ids>` → one Opus agent
-  per brief with the one-line prompt plus the standing addenda (this file's § Prompt). Two agents can overlap (a
-  translator + the previous wave's ledger); the coordinator applies results between them.
+- **Translated:** every chunk but 06-e (in hand 2026-10-23). Waves 12–18 fully checked (lint, glossary, ledger closed,
+  connectives); wave 19 (13-a … 13-d) ledger running; connectives for waves 18–19 extracted (`_connectives/body-18.md`,
+  51 occurrences, chunks 12-b … 13-d) — run § B prompt with W=18, then `apply.py 18`. 06-e then needs its own ledger
+  (rows from its report → `_verify/rows-20.md`) and a connective pass (`extract.py 20 06-e`).
+- **Then stage 9 close-out:** four-class review of the longest/densest chunks (11-a 1256w, 13-a 1188w, 06-e 1233w,
+  10-a, 09-a; 13-c has 25 notes), the line-marker plate check below, the headnote sentence on the manuscripts rule,
+  PLAN cost row. Then stage 10 site (`site/build.py`, `site/pdf.py incarnacione both`); deploy = Wilson's OK.
+
 - **Per wave (coordinator):** (1) status/`[ENGLISH]`/Latin-unchanged check + lint; (2) scars: read on the plate
   (`/tmp` crop at y ≈ 0.125 + (line−1)·0.0205 of the leaf height); only split/glued words and lost hyphens are
   transcription errors (fix `text/incarnacione/bt/pNNN.txt` → `bplus.py` → shift any `bplus_decisions.tsv` pos the

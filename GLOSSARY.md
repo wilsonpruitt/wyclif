@@ -414,7 +414,7 @@ otherwise.
 | conversari | live one's life (among men) | Beside *conversacio*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 89.25). |
 | esse intelligibile | intelligible being | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 99.23). |
 | faccio | making | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 100.6). |
-| extraneare | estrange | *Affeccio extraneandi* "an affection of estrangement". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 98.16). |
+| extraneare / extraneacio (supposicionis) | estrange / estrangement (of supposition) | *Affeccio extraneandi* "an affection of estrangement". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 98.16). |
 | ministerialiter | ministerially | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 100.17). |
 | mobile (noun) / primum mobile | a movable / the first movable | Against the adjective *mobilis*; ch. 7 turns on it. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 107, 116). |
 | immobilis / immobilitas | immovable / immovability | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 7). |
@@ -529,6 +529,10 @@ otherwise.
 | bonum de genere | good in its kind | Moral goodness by the kind of act. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 228.16). |
 | mixtim (bare) | in a mixed way | Beside *predicacio mixtim*. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 230.21). |
 | signum reduplicatum | the reduplicated sign | The reduplicative word (*secundum quod*, *in quantum*). Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 230.23). |
+| supposicio | supposition | Of a term (supposition theory) or of a premiss laid down (cf. *supponitur* "it is supposed"); the English word serves both, C note where it matters. Kept apart from *suppositacio* "suppositation". Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 102.8). |
+| univocus | univocal | Beside *univoce*, *univocare*. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 102.13). |
+| lex proximitatis | the law of neighbourhood | The duty to love one's neighbour (*proximus*). Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 101.29). |
+| negacio preposita toti | a negation placed before the whole | The negation governing a whole proposition. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 103.21). |
 | Magister | the Master | Peter Lombard. Ruled 2026-10-22 (Wilson; *Incarn.* 3.24). |
 | declarare / ostendere | make clear / show | Kept apart (both in one sentence, prol 2.5–7). Ruled 2026-10-22 (Wilson). |
 | epilogus / epilogare | recapitulation / recapitulate | Ruled 2026-10-22 (Wilson; *Incarn.* 3.25, prol 2.14). |
