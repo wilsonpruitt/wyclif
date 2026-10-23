@@ -8,11 +8,11 @@
 - Waves 12–19 + 06-e this session (06-e and 08-e had been skipped by the earlier wave lists; both done). Ledger closed for
   every row I08e … I13d + I06e (RESULTS-12 … -20); connectives checked for all (RESULTS-12, -14, -16, -18, -20); lint 0.
   Cost this session ≈3.3M Opus (9 translators ≈1.6M, 9 ledgers ≈1.3M, 4 connective passes ≈0.4M).
-- **Stage 9 close-out DONE 2026-10-23** (except the headnote sentence, drafted and waiting on Wilson's wording OK):
+- **Stage 9 close-out DONE 2026-10-23** (headnote sentence in, approved by Wilson):
   four-class review of 11-a, 06-e, 13-a, 13-c, 10-a, 09-a (`_review/REVIEW-*.md`, 58 rows, 2 errors; all applied
   but 13-c row 8, a note the chunk's density does not need; 13-c row 6 put as its own T note at *ut qui*); line
-  markers closed (below); GLOSSARY *ypostaticus*; PLAN cost row. **Next = stage 10:** `site/build.py`,
-  `site/pdf.py incarnacione both`; deploy = Wilson's per-deploy OK.
+  markers closed (below); GLOSSARY *ypostaticus*; PLAN cost row. **Stage 10 DONE and LIVE 2026-10-23** (pushed ba09ad10;
+  prod deploy wyclif-lzl535q75; /incarnacione/, pages and both PDFs return 200).
 - Left from the reviews: LEDGER I11a-1 (Scotus "reports and rejects" what Wyclif calls the Doctor's proofs,
   186.18–20) wants a second look; 06-e 103.29 *eciam* is O's alone (borderline T note); `italics:` is `none` in
   every chunk of every volume (a placeholder), though 163.6–7 and 227.5 are italic in the print.
