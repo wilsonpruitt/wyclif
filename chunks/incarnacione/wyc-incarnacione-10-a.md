@@ -80,7 +80,7 @@ Again, according to what is said in *De universalibus*, every humanity is "a hum
 
 [^5]: **C/T.** A relation depends on its extreme, the term it is toward; so a temporal suppositation would depend on the humanity it belongs to. O reads *nulli nature* "to no nature" for *nulli alii creature* (161.9).
 
-[^6]: **S/T.** Scotus, on *Sentences* III, d. 1, q. 1, on the threefold dependence (LEDGER I10a-1, to be checked); Wyclif's "question, article 3" is given as printed. B omits *dare* (161.21); O omits *enim* (161.23) and *Christi* (161.25).
+[^6]: **S/T.** Scotus, *Ordinatio* III d. 1 q. 1, third article, n. 9 (Wadding VII.1, 16–17): *distinguendum est inter dependentiam actualem, potentialem, et aptitudinalem*; a created person has the negation of actual and aptitudinal dependence, never of the potential, since no created nature is incapable of being assumed by the Word (LEDGER I10a-1, verified). Wyclif's "question, article 3" is q. 1, art. 3. B omits *dare* (161.21); O omits *enim* (161.23) and *Christi* (161.25).
 
 [^7]: **C/T.** *Potencia* in Aristotle's sense, potency against act. The foot notes that every manuscript abbreviates *persone* (161.27), and that the abbreviation can also mean *per se*: "not to be of itself a superior nature". O reads *vel* for *Nichil* (161.27).
 
@@ -96,13 +96,13 @@ Again, according to what is said in *De universalibus*, every humanity is "a hum
 
 [^13]: **T.** A B C read *supponitur* for *suppositatur* (163.7); O reads *in* for *non* (163.8). *Ipso facto non homine vel persona* is an ablative absolute.
 
-[^14]: **S.** Augustine, *De Trinitate* VII, that "person" is said of a thing in respect of itself, not relatively (LEDGER I10a-2, to be checked; Wyclif's "chapter 9").
+[^14]: **S.** Augustine, *De Trinitate* VII.6.11 (PL 42, 943): *ad se quippe dicitur persona, non ad Filium vel Spiritum sanctum* (LEDGER I10a-2, verified; Wyclif's "chapter 9" is not the received chapter).
 
 [^15]: **G/T.** *Passio* here is the category against action: what is acted on is so by its being-acted-on, as a movable by motion. A B C omit *inest* (163.14) and read *denominant* (163.15, 17, 25); B adds *et* before *Cum* (163.19).
 
 [^16]: **T.** *Homo nobiscum univoce et in sua racione* (163.26–27) is the print with O; A B C read *homo unitate in sua racione* "a man by unity in his account", A B with a space of eight letters. The argument turns on *univoce*, and the print stands. O reads *unde* for *videlicet* (163.28). Christ's brothers: Heb. 2:17.
 
-[^17]: **S/T.** Wyclif's own *De universalibus*: the humanity as the supposit's being a man (LEDGER I10a-3, to be checked). Peter is the stock case of an existing man whose nature the Word is supposed to assume.
+[^17]: **S/T.** Wyclif's own *De universalibus* c. 8 (ed. Dziewicki, *Miscellanea philosophica* II, 49): *Est humanitas in me … cum sit me esse hominem*, the humanity as the supposit's being a man (LEDGER I10a-3, verified). Peter is the stock case of an existing man whose nature the Word is supposed to assume.
 
 [^18]: **C/S/T.** *Pro assumpto*: the logician's premiss, not the assumption of a nature. Phil. 2:7; B omits *servi* (164.7). A B C add *et* before *Pro* (164.6) and read *esse hominis* "the being of a man" for *esset hominis* (164.8); B reads *quo* for *isto* (164.8).
 
