@@ -109,28 +109,28 @@ the more.
 The fifth chapter, supposing that [the Word]{g:verbum} did not [lay aside]{g:dimittere} the humanity for the three days, proves
 that he could not lay aside the [nature]{g:natura} that he [assumed]{g:assumere} either.
 
-## ¶8 · 2.5–2.8
+## ¶8 · 2.6–2.9
 
 > [p. 2] Sextum capitulum ostendit quod Christus sit univoce homo cum aliis hominibus;² et respondendo objectibus³ declarat quod Christus est, secundum multorum doctorum⁴ testimonia,⁵ creatura.
 
 The sixth chapter shows that Christ is [univocally]{g:univoce} a man with other men, and in replying
 to [objections]{g:objectum} makes clear that Christ is, according to the testimonies of many doctors, a creature.
 
-## ¶9 · 2.9–2.11
+## ¶9 · 2.10–2.12
 
 > [p. 2] Septimum capitulum declarando Christi mobilitatem explanat sensum scripture multis ambiguum,⁶ quomodo sapiencia summe mobilis⁷ sit habitu inventa ut homo.
 
 The seventh chapter, by making clear Christ's mobility, explains the sense of scripture, ambiguous to
 many, how Wisdom, mobile in the highest degree, was "in habit found as a man".[^5]
 
-## ¶10 · 2.12–2.13
+## ¶10 · 2.13–2.14
 
 > [p. 2] Capitulum octavum obicit tripliciter contra ydemptitatem specificam⁸ Christi cum aliis et⁹ dissolvit.
 
 The eighth chapter objects in three ways against the [identity of species]{g:ydemptitas-specifica} of Christ with others, and
 resolves the objections.
 
-## ¶11 · 2.14–2.17
+## ¶11 · 2.15–2.17
 
 > [p. 2] Capitulum nonum epilogat posicionem de humanitate; et,¹⁰ narrando tres radices causantes modernorum discrepancias, dissolvit tres objectus eorum per¹¹ ordinem.
 

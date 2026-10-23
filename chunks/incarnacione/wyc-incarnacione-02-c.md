@@ -5,7 +5,7 @@ work_en: On the Blessed Incarnation
 volume_slug: incarnacione
 editor: Edward Harris
 year: 1886
-pages: "21.23–24.31"
+pages: "21.23–24.32"
 divisions: "cap. 2 (heading 'Cap. II.' at 13.0); part 3 of 4, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: B+ (blind transcription, checked against Fordham and the vote)
 witnesses: [fordham, johanniswyclift01wyclgoog, johanniswyclift03wyclgoog, johanniswycliftr00wycl, johanniswycliftr06wycl, latinworks03wycl, tractatusdebened00wycl]
@@ -17,13 +17,13 @@ status: translated
 
 # *De benedicta incarnacione*, chapter 2, part 3: the third Arian error, Christ not truly a man; the thief in paradise and the descent into hell
 
-## ¶1 · 21.23–22.2
+## ¶1 · 21.23–22.3
 
 > [p. 21] Tercio antem stat opinio Arrii in his que ex predictis erroribus sequuntur¹³: ut puta¹⁴ quod Christus nedum¹⁵ est univoce homo cum aliis sed non est homo simpliciter, cum non potest esse homo si non sit anima intellectiva; et per consequens non est passus¹⁶ mortuus aut sepultus, et sic de quibuscunque predicatis humanitatem Christi concernentibus.¹⁷ Quamvis enim dici possit quod angelus, coniunctus nature corporee tanquam motrix, sit homo; verumtamen est alterius speciei quam totus vel completus homo, id est, [p. 22] natura integra ex corpore et anima composita: homo enim est racione spiritus eiusdem speciei cum angelis et non racione nature corporee.
 
 And third, the [opinion]{g:opinio} of Arius stands in the things that follow from the aforesaid errors:[^1] as, for example, that Christ, let alone being [univocally]{g:univoce} a man with others, is not a man [without qualification]{g:simpliciter}, since he cannot be a man if he is not an intellective soul; and consequently he did not suffer, die, or was buried, and so of whatever predicates concern [the humanity]{g:humanitas} of Christ.[^2] For although it could be said that an angel, joined to a bodily [nature]{g:natura} as its mover, is a man, nevertheless it is of another species than the whole or complete man, that is, [22] the integral nature composed of body and soul: for [such a] man is, by reason of the spirit, of the same species with the angels, and not by reason of the bodily nature.[^3]
 
-## ¶2 · 22.3–24.3
+## ¶2 · 22.4–24.3
 
 > [p. 22] Et per hoc patet quod quidam minus intelligentes Augustinum putant ipsum contradicere sibi ipsi, quando dicit quod anima non completus aut totus¹ homo: nam² verum dicit ad sensum³ expositum. Unde Epistola 40 ad Dardanum solvendo questionem de dicto Salvatoris⁴ Luc. 23 quo⁵ promisit latroni quod foret secum illo die in paradiso; 'antequam, inquit, sciatur utrum secundum deitatem⁶ vel⁷ secundum humanitatem intelligatur promissio Veritatis, oportet videre quomodo sit loquendum de homine. Non, inquit Augustinus, sicut quidam heretici dicunt, Verbum Dei⁸ et carnem sine anima humana⁹ suscepit, sic quod Verbum esset carni pro anima; vel Verbum Dei carnem et animam sine mente, ut Verbum Dei esset anime¹⁰ pro mente. Sed accipis, inquit ad Dardanum, hominem Christum; sicut¹¹ superius aisti quod Christum Deum non crederes nisi perfectum hominem credidisses. Profecto, inquit, cum dicis hominem, perfectam totam illic naturam humanam vis intelligere. Non est¹² autem homo perfectus si vel anima carni vel anime ipsi mens¹³ humana defuerit.'¹⁴ Et illam naturam complete ex anima et corpore compositam vocat super Joh. Ome. 47¹⁵ totum hominem: quam¹⁶ notum est ex dictis De Anima distingui tam a corpore quam anima¹⁷ licet omnia ista tria sint eadem persona hominis. Sic ergo¹⁸ intelligendus est Augustinus quandocunque videtur dicere quod corpus vel anima non est homo; id est, non est¹⁹ tota vel completa natura ex corpore et anima composita. Sed pro solucione Dardani questionis videtur Augustino catholicum quod promissio facta latroni intelligatur secundum [p. 23] humanitatem Christi:¹ sed cum corpus Christi¹ sepultum sit solum in orto, ut patet Ioh. 19,² relinquitur quod sue anime in parasceue erant simul; quia modicum felicitatis fuisset animam latronis fuisse cum solo corpore Christi mortuo in sepulcro. Et cum vera mors fuit in Christi corpore, cum aliter non fuisset vera resurreccio; querendum est—quo devenit anima³ Christi in illo triduo? Quod cum evangelium non reserat, supplet⁴ beatus Petrus Actuum 2° probans ex illo Psalmi 15 dicto de Christo ‘quoniam non⁵ derelinques animam meam in inferno, nec dabis sanctum tuum videre corrupcionem,’ quod anima Christi descendit in illo triduo ad limbum patrum, quem Veritas Luc. 16. vocat ‘sinum Abrahe,’ ubi patres veteris testamenti feliciter quieverunt.⁶ Quamvis enim dictum psalmiste sit negativum, impertinenter tamen menti prophetice diceretur, nisi intenderet Messiam secundum mentem visitare inferos et statim sine media incarceracione corpori reuniri.⁶ Et hinc fundatus est de Christo articulus fidei, quod ‘descendit ad inferos.’ Cum ergo paradisus generale nomen est ubicunque feliciter⁷ vivitur, quid obest animam latronis fuisse cum anima Christi in regione quiescencium congaudendo et non in regione inferiori dolencium,⁸ inter quas est ‘magnum chaos’ secundum veritatem evangelicam interceptum?⁹ Redeundo¹⁰ ergo ad propositum patet ex dictis quantum differt ista posicio ab heresi Arriana. Ideo est michi verisimile quod doctores moderni¹¹ cum non ydemptificarent que minus intelligunt,¹² locuntur michi temptative, yronice, vel iocose. Yronice quidem, quia Arrius negavit Verbum Dei esse idem substancialiter Deo Patri, sed creatum esse secundum supremam substanciam, que est Christus. Ego autem dico [p. 24] quod Christus absolute necessario¹ est eadem deitas que est Pater,² nec posse secundum supremam naturam, que est Christus, creari vel fieri.
 
@@ -35,19 +35,19 @@ And by this it is clear that certain [people], understanding Augustine too littl
 
 And second, Arius said that Christ has no soul but purely flesh, that [created]{g:creatus} spirit supplying the place of the soul, joined to the body not [hypostatically]{g:ypostatice} but as its mover.[^12] But I say that Christ not only has a soul, but is a soul, and could not be joined hypostatically to the flesh except by means of the soul.
 
-## ¶4 · 24.9–24.13
+## ¶4 · 24.9–24.14
 
 > [p. 24] 3° ubi posuit⁵ Christum non esse hominem nisi equivoce, nec proprie passum⁶ esse, mortuum, et sic de aliis que fides evangelica de Christo predicat. Ego autem⁷ dico Christum esse⁸ verissime, completissime, et univoce hominem cum quolibet fratre suo; et vere de virtute sermonis conversatum esse in terris, ut canit processus evangelicus.
 
 Third, where he held that Christ is not a man except [equivocally]{g:equivoce}, nor properly suffered, died, and so of the other things that the gospel faith predicates of Christ. But I say that Christ is most truly, most completely, and univocally a man with every brother of his; and that truly, [in the proper sense of the words]{g:de-virtute-sermonis}, he conversed on earth, as [the course]{g:processus} of the gospel sings.[^13]
 
-## ¶5 · 24.14–24.21
+## ¶5 · 24.15–24.22
 
 > [p. 24] Et sic, ubi Arrius peccavit in deitate Christi negando eum verum Deum⁹ eundem cum Patre; ubi eciam peccavit in humanitate Christi negando ipsum esse verum hominem; ego utrumque¹⁰ pleno corde confiteor non confundendo naturas nec¹¹ distinguendo personas in Christo. Et patet quod non, quia dixit Christum esse creaturam, censetur hereticus¹²; sed, quia dixit Christum esse puram¹³ creaturam meliorem homine; et non hominem passum abiectum et ab hominibus reprobatum.
 
 And so, where Arius sinned in the Godhead of Christ, denying him [to be] true God, the same with the Father, and where he also sinned in the humanity of Christ, denying him to be true man, I confess both with a full heart, not confounding the natures nor dividing the persons in Christ.[^14] And it is clear that it is not because he said "Christ is a [creature]{g:creatura}" that he is judged a heretic, but because he said "Christ is a pure creature better than man", and not a man who suffered, cast down and rejected by men.[^15]
 
-## ¶6 · 24.22–24.31
+## ¶6 · 24.23–24.32
 
 > [p. 24] Et utinam nostri loquentes attenderent ad regulam Augustini ‘quid propter quid de Christo dicitur,’ allegando complete scripturam vel determinaciones ecclesie non truncate. Ut primo libro contra Maximinianum ca° 11. ‘Audi, inquit, Maximiniane, auctoritatem synodice¹⁴ locucionis: Si quis ex nichilo Filium dicit non ex Deo Patre, anathema sit.’ Quis ergo color, si dico—Christus est creatura—sed et Arrius dixit Christum esse creaturam, quod coincido in heresim Arrianam? Vere non plus quam sequitur, si uterque nostrum dicat Christum esse aliquid¹⁵ sive Deum.
 
@@ -72,7 +72,7 @@ And would that our speakers attended to Augustine's rule, "what is said of Chris
 [^15]: **C.** The propositions are given as quoted. *Abiectum et ab hominibus reprobatum*: cf. 1 Pet. 2:4 "rejected indeed by men". B reorders the clause (*esse Christum censetur creaturam hereticus*); O *pure*.
 [^16]: **C.** *determinaciones ecclesie*: the church's rulings, not the logician's *determinacio* (a qualifying addition), and so untagged. Augustine's rule is the one cited from the Pascentius letters (21).
 [^17]: **S.** Not Augustine's words: in the *Collatio cum Maximino* 15.13 (PL 42, 730) it is Maximinus the Arian who says to Augustine *audi auctoritatem synodicae lectionis*. The synod is Ariminum (359), not Nicaea: *Si quis ex nihilo Filium dicit, et non ex Deo Patre, anathema sit* (*verified*, LEDGER I02c-5). Wyclif turns the address round (*Audi … Maximiniane*); his first book is the *Collatio*, as in chapter 2, part 2, note 9. Augustine refuses Ariminum's authority in *Contra Maximinum* II.14.3 (PL 42, 772).
-[^18]: **C.** *color*: a plausible ground (the period sense). The *quod* clause states what the "colour" would be for: that from the shared words Wyclif falls into Arius's heresy. C reads *aliud* for *aliquid* (24.31).
+[^18]: **C.** *color*: a plausible ground (the period sense). The *quod* clause states what the "colour" would be for: that from the shared words Wyclif falls into Arius's heresy. C reads *aliud* for *aliquid* (24.32).
 
 ## Transcription notes
 

@@ -35,10 +35,11 @@
 
 ## Open for Wilson / later
 
-- **Line markers in `bt/`** (found 2026-10-23): on p. 204 and p. 220 the `NN|` markers for 20/25/30 sat one line late (fixed on
-  the plate; 12-a citations corrected). Pages whose marker offsets change by one within the page, not yet checked on the plate:
-  p. 2, 16, 22, 24, 32, 47, 75, 116. A late marker makes translators cite page.line one too low. Close-out: check each plate
-  margin, fix the marker, then grep the chunk notes for that page's citations.
+- **Line markers in `bt/`: CLOSED 2026-10-23.** All 8 suspect pages checked on the plate. p. 2, 16, 22, 24, 32, 116 had
+  markers one line late (and the `.tok.jsonl` `ln` one low); moved to where the plate prints them, `ln` recomputed, chunk
+  section ranges / `pages:` and 5 note citations corrected (02-c, 03-a, 03-b). p. 47 and 75 already matched the plate.
+  Rule: a marker sits where Harris prints the figure, even where Harris miscounts (p. 16 prints 30 on the 29th line;
+  p. 47 and 75 likewise irregular). Margin-reference lists were row-based and already right.
 
 - Untraced rows waiting on outside books: Grosseteste *Hexaemeron* (Dales–Gieben 1982) I06a-5, I08b-5; Wyclif's
   own *De Trinitate* (Breck 1962) I01b-9; Cowton (I04c-1); a few *Physics* / commentary numberings.

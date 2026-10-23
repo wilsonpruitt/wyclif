@@ -5,7 +5,7 @@ work_en: On the Blessed Incarnation
 volume_slug: incarnacione
 editor: Edward Harris
 year: 1886
-pages: "32.24–36.14"
+pages: "32.25–36.14"
 divisions: "cap. 3 (heading 'Cap. III.' at 28.0); part 2 of 5, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: B+ (blind transcription, checked against Fordham and the vote)
 witnesses: [fordham, johanniswyclift01wyclgoog, johanniswyclift03wyclgoog, johanniswycliftr00wycl, johanniswycliftr06wycl, latinworks03wycl, tractatusdebened00wycl]
@@ -17,7 +17,7 @@ status: translated
 
 # *De benedicta incarnacione*, chapter 3, part 2: the threefold descent and the despoiling of hell
 
-## ¶1 · 32.24–33.6
+## ¶1 · 32.25–33.6
 
 > [p. 32] Unde videtur michi scripturas insolubiles appropriate¹² tribuere persone Christi descensum¹³ ad inferos et spoliacionem fidelium de potencia inimici. Nam Psalmo 67 dicitur ad litteram¹⁴ de Christo dividente spolia ‘Ascendisti¹⁴ in altum’ sed prius ‘cepisti captivitatem,’ et 3°. ‘dedisti dona hominibus.’ Cui¹⁵ sensui alludit Apostolus ad Ephes. 4. [p. 33] ‘Ascendens,¹ inquit, Christus in altum,² captivam duxit captivitatem.’ Et sequitur: ‘quod autem ascendit, quid³ est, nisi quia descendit primum ad partes inferiores terre?’ Et ut ostenderet nobis quod eadem sit persona, que hec cuncta perficiat, subiungit: ‘qui descendit ipse est et qui ascendit super omnes celos ut impleret omnia.’
 
@@ -67,8 +67,8 @@ Again, according to those who speak thus, [it follows]{g:sequitur} that Christ w
 
 ## Notes
 
-[^1]: **C.** 32.24 *scripturas insolubiles*: "the scriptures, which cannot be loosed" (cf. John 10:35, *non potest solvi scriptura*), not the logicians' *insolubilia*.
-[^2]: **C.** 32.26 *potencia inimici*: the enemy's might, so "power", not "potency".
+[^1]: **C.** 32.25 *scripturas insolubiles*: "the scriptures, which cannot be loosed" (cf. John 10:35, *non potest solvi scriptura*), not the logicians' *insolubilia*.
+[^2]: **C.** 32.27 *potencia inimici*: the enemy's might, so "power", not "potency".
 [^3]: **S.** Ps. 67:19 (Hebrew 68:18): the Vulgate has *accepisti dona in hominibus* (DR "thou hast received gifts in men"); Wyclif's *dedisti dona hominibus* follows Eph. 4:8 *dedit dona hominibus*.
 [^4]: **S.** Eph. 4:8–10. Wyclif adds *Christus*; Harris prints *Ascendens* with O and the Vulgate, A B C *ascendit*. In 4:9 he lacks the Vulgate's *et* ("also") and reads *ad partes inferiores* for *in inferiores partes*. The words quoted in the next paragraph, *ipse et non alius ascendit*, paraphrase 4:10.
 [^5]: **C.** 33.20 *proporcionaliter descendit tripliciter*: the three descents answer to the three regions (cf. Phil. 2:10, quoted at 35.3–5). *Repetens omagium* is the lord's claim on his tenants, with *sesinam* above.
