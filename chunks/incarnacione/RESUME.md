@@ -3,15 +3,18 @@
 *Read this first in a new session, then `WORKFLOW.md` (stages 7–10), this volume's `CARD.md` and `WAVE-PROMPTS.md`
 (with its "Notes from waves" at the end). Translation started 2026-10-22 on Wilson's "Opus go".*
 
-## ▶ 2026-10-23 session: waves 12–19 run — 60/61 translated; 06-e (skipped in wave 6, like 08-e in wave 11) being translated
+## ✅ TRANSLATION DONE 2026-10-23 — 61/61 chunks, every one through the per-wave checks
 
-- **Translated:** every chunk but 06-e (in hand 2026-10-23). Waves 12–18 fully checked (lint, glossary, ledger closed,
-  connectives); wave 19 (13-a … 13-d) ledger running; connectives for waves 18–19 extracted (`_connectives/body-18.md`,
-  51 occurrences, chunks 12-b … 13-d) — run § B prompt with W=18, then `apply.py 18`. 06-e then needs its own ledger
-  (rows from its report → `_verify/rows-20.md`) and a connective pass (`extract.py 20 06-e`).
-- **Then stage 9 close-out:** four-class review of the longest/densest chunks (11-a 1256w, 13-a 1188w, 06-e 1233w,
-  10-a, 09-a; 13-c has 25 notes), the line-marker plate check below, the headnote sentence on the manuscripts rule,
-  PLAN cost row. Then stage 10 site (`site/build.py`, `site/pdf.py incarnacione both`); deploy = Wilson's OK.
+- Waves 12–19 + 06-e this session (06-e and 08-e had been skipped by the earlier wave lists; both done). Ledger closed for
+  every row I08e … I13d + I06e (RESULTS-12 … -20); connectives checked for all (RESULTS-12, -14, -16, -18, -20); lint 0.
+  Cost this session ≈3.3M Opus (9 translators ≈1.6M, 9 ledgers ≈1.3M, 4 connective passes ≈0.4M).
+- **Next = stage 9 close-out (needs Wilson's model + go):** four-class review of the longest/densest chunks (11-a 1256w,
+  06-e 1233w, 13-a 1188w, 13-c 25 notes, 10-a, 09-a; the review prompt and format are `_review/REVIEW-01a.md`); the
+  line-marker plate check below; the headnote sentence on the manuscripts rule (prol); PLAN cost row. Then stage 10
+  site (`site/build.py`, `site/pdf.py incarnacione both`); deploy = Wilson's per-deploy OK.
+- Recurring patterns worth knowing at review: Wyclif's Anselm *De inc. Verbi* numbers run one above Migne's; he counts
+  Thomas's *Scriptum* III d. 1 articles serially ("q. 8 et 9" = q. 2 a. 4–5); his "De Spiritu Sancto III" for Ambrose
+  is the Lombard's mislabel of *De incarn. dom. sacr.*; his *Enchiridion* chapter numbers are not consistent.
 
 - **Per wave (coordinator):** (1) status/`[ENGLISH]`/Latin-unchanged check + lint; (2) scars: read on the plate
   (`/tmp` crop at y ≈ 0.125 + (line−1)·0.0205 of the leaf height); only split/glued words and lost hyphens are
