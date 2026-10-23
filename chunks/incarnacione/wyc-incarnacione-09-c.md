@@ -49,7 +49,7 @@ Third, [as a main head]{g:principaliter}, it is argued by deducing many [absurdi
 
 ## Notes
 
-[^1]: **S/T.** *In materia De Trinitate*: Harris italicises *De Trinitate* as a title; it may be the topic of the Trinity or Wyclif's own *De Trinitate* (LEDGER I09c-1, to be checked). O reads *quod* for *sicut* (150.25).
+[^1]: **S/T.** *In materia De Trinitate*: Harris italicises *De Trinitate* as a title; but the phrase names the topic, the doctrine of the Trinity, as *in materia de incarnacione* does at 153.10 (LEDGER I09c-1, verified). O reads *quod* for *sicut* (150.25).
 
 [^2]: **T.** "Yet", without "and": A C O omit *et* before *tamen* (150.30), against the print's *et tamen*; agreement across the families outranks the print. A B C read *distinguitur* for *distinguatur* (150.29).
 
@@ -57,25 +57,25 @@ Third, [as a main head]{g:principaliter}, it is argued by deducing many [absurdi
 
 [^4]: **C.** *Assumptum* is the logician's premiss, not the assumption of a nature: the objection's premiss (the Word assumed the humanity, not a person, 150.19–20) is true; the minor that would make it infer a distinction excluding mutual predication is denied.
 
-[^5]: **S/T.** Anselm, *Epistola de incarnatione Verbi* (LEDGER I09c-2, to be checked). *Singulus hominum* "each one of men" (151.20) is the print; A B C read an abbreviated *sing…s*, O *singulis*. *Predicacio secundum personam* is set beside the ruled *predicacio secundum essenciam*.
+[^5]: **S/T.** Anselm, *Epistola de incarnatione Verbi*, c. 7 in Wyclif's numbering (Schmitt c. 11; PL 158, c. VI, 278B–D): *in Deo una natura est plures personae*, and the person has the *collectionem … proprietatum, quibus homo communis sit singulus* (LEDGER I09c-2, verified). *Singulus hominum* "each one of men" (151.20) is the print; A B C read an abbreviated *sing…s*, O *singulis*. *Predicacio secundum personam* is set beside the ruled *predicacio secundum essenciam*.
 
-[^6]: **S/C.** The *Quicumque* (Athanasian Creed), v. 37 (LEDGER I09c-3, to be checked, with Augustine's use of the analogy). *Saperet illis* "it would savour to them", i.e. they would grasp it; Wyclif plays on *sapuerunt in logica* (152.3). A B C omit *illud* (151.29); O reads *et* for *quod* (151.30).
+[^6]: **S/C.** The *Quicumque* (Athanasian Creed), v. 37 (PL 88, 586B). Augustine uses the likeness at *In Iohannis evangelium* tr. 78.3 (PL 35, 1836), *Epistula* 137.3.11 (PL 33, 520) and *Enchiridion* 11.36 (LEDGER I09c-3, verified). *Saperet illis* "it would savour to them", i.e. they would grasp it; Wyclif plays on *sapuerunt in logica* (152.3). A B C omit *illud* (151.29); O reads *et* for *quod* (151.30).
 
 [^7]: **T.** "Therefore" with C (*ergo*) and O (*igitur*), against the print's *autem* (151.32, with A B): agreement across the families. As printed: "And the turning aside …".
 
-[^8]: **S/T.** That the Word assumed man (*hominem*) in Augustine, Jerome and Anselm (LEDGER I09c-4, to be checked). A's text was erased and corrected in the margin to *de vi vocis* "by the force of the words" (152.1).
+[^8]: **S/T.** That the Word assumed man (*hominem*): Augustine, *Enchiridion* 11.36 (*suscepit hominem*) and *De Trinitate* XIII.18.23; Anselm, *De incarnatione Verbi* (PL 158, 275C, 278B). For Jerome the phrase is found in the *Breviarium in Psalmos* (PL 26, 877C), which went under his name (LEDGER I09c-4, verified). A's text was erased and corrected in the margin to *de vi vocis* "by the force of the words" (152.1).
 
-[^9]: **C/S.** *Simpliciter* here is the supposition term (simple supposition, the term standing for the common nature), set against *personaliter* (personal supposition), not "without qualification". Anselm's naming of the singular humanity "Jesus Christ" (LEDGER I09c-5, to be checked).
+[^9]: **C/S.** *Simpliciter* here is the supposition term (simple supposition, the term standing for the common nature), set against *personaliter* (personal supposition), not "without qualification". Anselm names the singular assumed man *Jesus*: *Verbum, et illum assumptum hominem, id est Jesum* (*De incarnatione Verbi*, PL 158, 279B, c. VI = Wyclif's 7). Wyclif takes this as a name of the singular humanity (LEDGER I09c-5, verified).
 
-[^10]: **S/T.** "Man" signifies *quale quid*, a substance of a kind: Aristotle, *Categories* 5, 3b13–21, and Anselm, *De grammatico* (LEDGER I09c-6, to be checked). *Prius … quam* "before … rather than". O omits *quam … assumpserat* (152.21).
+[^10]: **S/T.** "Man" signifies *quale quid*, a substance of a kind: Aristotle, *Categories* 5, 3b13–21, and Anselm, *De grammatico* c. 19 (PL 158, 578B–C), where *homo* signifies *ut unum substantiam et qualitates* and is *non qualitas, sed quale* (LEDGER I09c-6, verified). *Prius … quam* "before … rather than". O omits *quam … assumpserat* (152.21).
 
 [^11]: **C.** *Habitudo* here in its "respect" sense: predication under a relation, as of a universal. *Per se*: predication of the essence itself. O reads *queretur* (152.24); A B C read *multicubi* for *multibi* "in many places" (152.26), the same word.
 
 [^12]: **T/C.** The categories in turn: quality, quantity, action, being-acted-on, position (*sedet*), having (*ditatur* "is enriched"). C O read *dicatur* "is said" for *ditatur* (153.2); it fits no category in the list, and the print is kept.
 
-[^13]: **S/T.** Aristotle's argument that what is said of the abstract would make man whiteness (LEDGER I09c-7, to be checked). *Naturam humanum* (153.8) is the print's form for *humanam*.
+[^13]: **S/T.** Aristotle's argument, *Metaphysics* VII.6, 1031a19–28: if an accidental unity were the same as its essence, the essence of man and of white man would be the same. Wyclif's conclusion that man would be whiteness is his own application (LEDGER I09c-7, verified in sense). *Naturam humanum* (153.8) is the print's form for *humanam*.
 
-[^14]: **S/T.** Augustine, *Tractatus in Iohannem* 19 (LEDGER I09c-8, to be checked); *Enchiridion* 12.38, with 10.35 for *paulo ante* (LEDGER I09c-9, to be checked). O reads *totum* for *tota* (153.16), *non* for *enim* (153.17), omits *scilicet* (153.20).
+[^14]: **S/T.** Augustine, *Tractatus in Iohannem* 119.1 (PL 35, 1950; Wyclif's "19" probably drops a C): *quod Maria pepererat, pendebat in cruce*, cf. tr. 8.9 (PL 35, 1455), *genuisti infirmitatem meam … cum ipsa infirmitas pendebit in cruce*. Wyclif's sentence paraphrases this and puts *humanitas* for Augustine's *infirmitas* (LEDGER I09c-8, verified); *Enchiridion* 12.38 (PL 40, 251), where the *paulo ante* is earlier in the same section: *utraque substantia, divina scilicet atque humana, Filius est unicus Dei Patris* (LEDGER I09c-9, verified). O reads *totum* for *tota* (153.16), *non* for *enim* (153.17), omits *scilicet* (153.20).
 
 [^15]: **T.** "Only", with C O, which read *solum* (153.29); Harris brackets it as corrupted from the next line's *cum solum* and would omit it, an emendation against every manuscript that has the clause (A B omit *cum … homo*, 153.29–30). O reads *quod homo est quod* for *quod homo; hoc est* (153.23), *coicantibus* for *communicacionibus* (153.26–27), *transit* for *trahit* (153.30); A B C read *simul nature sunt cum illis* (153.32).
 

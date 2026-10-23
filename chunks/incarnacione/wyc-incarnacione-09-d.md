@@ -59,7 +59,7 @@ As to the last, about identity, it is evident to me that numerous [evidences]{g:
 
 [^5]: **C.** *Color*: a plausible ground. The predicates "is created, is assumed, suffers, dies" are received by Christ as to the humanity, not by the divine nature.
 
-[^6]: **S/T.** The cleric is Roscelin of Compiègne, against whom Anselm wrote the *Epistola de incarnatione Verbi* (LEDGER I09d-1, to be checked). A B add *Nestorius* after *devius*, C *n.* (155.19), a reader's gloss; A B C read *sophistice* for *sophismate* (155.19). O garbles *et per consequens … persone* (155.22–23).
+[^6]: **S/T.** The cleric is Roscelin of Compiègne, against whom Anselm wrote the *Epistola de incarnatione Verbi* (c. 1, PL 158, 262A, *a quodam clerico*; named in Anselm's *Ep.* II.41, PL 158, 1192D, *Roscelinus clericus*), as Harris notes (LEDGER I09d-1, verified). A B add *Nestorius* after *devius*, C *n.* (155.19), a reader's gloss; A B C read *sophistice* for *sophismate* (155.19). O garbles *et per consequens … persone* (155.22–23).
 
 [^7]: **C/T.** *Cuius racio est nasci* is taken of the sonship: being born is its account, and belongs to the person by reason of the humanity. A B C omit *simpliciter* (156.3) and *plus* (156.5); B omits *in Christo* (156.6); O omits *Christi … per se* (156.9).
 
@@ -71,11 +71,11 @@ As to the last, about identity, it is evident to me that numerous [evidences]{g:
 
 [^11]: **S/C.** Luke 2:48. *Filius perdicionis*: John 17:12, "the son of perdition"; adoption presupposes one who could have been lost, which Christ could not. *Potencia* is the capacity in the Aristotelian sense. B omits *ut patet* (157.2).
 
-[^12]: **S/T.** Rom 1:4 (DR "Who was predestinated the Son of God in power"). Augustine, *De praedestinatione sanctorum* 15.31, as the Lombard recites it, *Sent.* III (LEDGER I09d-2, to be checked, with the distinction). A B read *illa quidem creata naturalis ordinata est eternaliter esse filius dei ut*, C *illa ordinata est eternaliter esse dei filius* (157.9–10); O omits *3°* (157.11).
+[^12]: **S/T.** Rom 1:4 (DR "Who was predestinated the Son of God in power"). Augustine, *De praedestinatione sanctorum* 15.31 (PL 44, 982), recited by the Lombard at *Sent.* III d. 7 (PL 192, 774). Wyclif's d. 6 is where the Lombard recites *Enchiridion* 11.36, *ex quo homo esse coepit, non aliud coepit esse homo quam Dei Filius* (PL 192, 768) (LEDGER I09d-2, verified). A B read *illa quidem creata naturalis ordinata est eternaliter esse filius dei ut*, C *illa ordinata est eternaliter esse dei filius* (157.9–10); O omits *3°* (157.11).
 
 [^13]: **T.** C O omit *et negatur … non fuit* (157.13–14), by eye-skip from *non fuit* to *non fuit*: without it *licet ille sit Christus* qualifies nothing, so the print stands. A B read *negetur*.
 
-[^14]: **S/T.** A creed transmitted under Augustine's name (LEDGER I09d-3, to be checked). A B C read *dominum* for *hominem* (157.17).
+[^14]: **S/T.** A creed transmitted under Augustine's name: Ps.-Augustine, *Sermo* 233 (*De fide catholica*), PL 39, 2176, cited by the Lombard as Augustine *in Expositione Symboli* (*Sent.* III d. 5, PL 192, 767), whence Wyclif's title (LEDGER I09d-3, verified). A B C read *dominum* for *hominem* (157.17).
 
 [^15]: **T.** "Other than", *quam* with A B C (157.19), against the print's *quem*, which O has only as a later marginal addition in another hand; as printed: "that the sense which the words purport is another". A B C omit *et* (157.20).
 
@@ -83,7 +83,7 @@ As to the last, about identity, it is evident to me that numerous [evidences]{g:
 
 [^17]: **T.** *Sic duplex fuit* (158.2): A B C *sic duplex sit*, O *sicut duplex fuit*. O omits *nec* (158.4); A B C read *sed est ordo nature inter* (158.5–6); O omits *esse* (158.9).
 
-[^18]: **C/T.** *Natura prope nichil*: a nature next to nothing, as prime matter (LEDGER I09d-4, to be checked, for Augustine's *prope nihil*). *Quidlibet* (158.12): A has *quid libet* by another hand on an erasure, B *quelibet*, C *quilibet*; O reads *natura prope nichil fieri posset* (158.12–13). C omits *hodie* (158.11).
+[^18]: **C/T.** *Natura prope nichil*: a nature next to nothing, as prime matter as Augustine calls formless matter *informe prope nihil* (*Confessiones* XII.6.6, PL 32, 828; cf. XII.8.8, XII.19.28) (LEDGER I09d-4, verified). *Quidlibet* (158.12): A has *quid libet* by another hand on an erasure, B *quelibet*, C *quilibet*; O reads *natura prope nichil fieri posset* (158.12–13). C omits *hodie* (158.11).
 
 [^19]: **T.** "Natural", *naturali* with C O (158.21), against the print's *racionali* (A B): agreement across the families. As printed, "not in a rational proportion", the mathematician's ratio between commensurable quantities. B omits *personarum* (158.17).
 
