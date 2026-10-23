@@ -342,7 +342,7 @@ otherwise.
 | immediate | without intermediary | The scholastic sense, ⛔ not "at once". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 30.30). |
 | humanitus | humanly | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* passim). |
 | spoliare / spoliacio | despoil / despoiling | Of hell. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 31–32). |
-| suscipere (of the soul, the nature) | take up | Kept apart from *assumere* "assume". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 31). |
+| suscipere / suscepcio (of the soul, the nature) | take up / taking-up | Kept apart from *assumere* "assume". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 31). |
 | suppositum | supposit | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 34.24). |
 | individuum | individual | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 35.7). |
 | machina (*mundi*) | frame | "The frame of the world". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 35.1). |
@@ -481,6 +481,16 @@ otherwise.
 | reduplicativa | reduplicative [proposition] | Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 170.6). |
 | racio substancialis | substantial account | As *racio individui* "account". Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 170.21). |
 | doctores signorum | the doctors of signs | The logicians who reason from terms, not things. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 170.26). |
+| sensibilis (in the definition of animal) | sentient | *Substancia animata sensibilis*: able to sense. Elsewhere the §D row "perceptible" holds; G note at first use. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 177). |
+| ydemptitas numeralis | numerical identity | Beside *ydemptitas specifica* "identity of species". Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 172). |
+| suppositalis | of a supposit | Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 176). |
+| fruicio | fruition | The enjoyment of God in beatitude. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 177). |
+| accidens absolutum | absolute accident | Quantity and quality, against relative accidents. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 176). |
+| augmentacio | augmentation | Growth in quantity (Aristotle's motion of increase). Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 180). |
+| risibilis / risibilitas | risible / risibility | The proper attribute of man. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 181). |
+| beatificabilitas | beatifiability | Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 181). |
+| passionaliter | as an attribute | Beside *passio* (the proper attribute). Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 181). |
+| mocio / motus (paired) | motion (*mocio*) / movement (*motus*) | Only where Wyclif pairs them; otherwise "motion". Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 180). |
 | Magister | the Master | Peter Lombard. Ruled 2026-10-22 (Wilson; *Incarn.* 3.24). |
 | declarare / ostendere | make clear / show | Kept apart (both in one sentence, prol 2.5–7). Ruled 2026-10-22 (Wilson). |
 | epilogus / epilogare | recapitulation / recapitulate | Ruled 2026-10-22 (Wilson; *Incarn.* 3.25, prol 2.14). |
@@ -600,7 +610,7 @@ otherwise.
 | signabile | signifiable; assignable | CONTEXTUAL. The logical noun (*omne signabile*, what can be signified) is "signifiable" (*Eccl.* 17, 398.29). As an adjective on a degree, instant or step (*in quocumque gradu/profectu signabili*) it is "assignable", any one could name (*Pot. pape* 11-j, 11-k). Ruled 2026-10-02; extended 2026-10-12 (close-out R3). |
 | adequata ecclesia | the adequate church | C note at use. Ruled 2026-10-02 (*Eccl.* 17, 393). |
 | denominacio; denominare | naming; to name | The argument turns on it. Ruled 2026-10-02 (*Eccl.* 17, 391.17, 398.2). |
-| dotes (docium) beatorum | the dowries of the blessed | Ruled 2026-10-02 (*Eccl.* 17, 396.6). |
+| dotes (docium) beatorum; dotes corporis | the dowries of the blessed; the dowries of the body | Ruled 2026-10-02 (*Eccl.* 17, 396.6). |
 | christianus in figura / in effectu / in fructu | Christian in figure / in effect / in fruit | Ruled 2026-10-02 (*Eccl.* 17, 397–398). |
 | Jesuani | Jesuans | Ruled 2026-10-02 (*Eccl.* 17, 400.11). |
 | diffinicio | definition | Beside *descripcio* (also "definition", frozen row governs): where the two stand together a C note gives the Latin. Ruled 2026-10-02 (*Eccl.* 17, 403.25). |
