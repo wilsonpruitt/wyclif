@@ -5,17 +5,17 @@ work_en: On the Blessed Incarnation
 volume_slug: incarnacione
 editor: Edward Harris
 year: 1886
-pages: "216.0–220.22"
+pages: "216.0–220.23"
 divisions: "cap. 13 (heading 'Cap. XIII.' at 216.0); part 1 of 4, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: B+ (blind transcription, checked against Fordham and the vote)
 witnesses: [fordham, johanniswyclift01wyclgoog, johanniswyclift03wyclgoog, johanniswycliftr00wycl, johanniswycliftr06wycl, latinworks03wycl, tractatusdebened00wycl]
 check: "1188 words; 1187 confirmed by Fordham or the vote; 1 runs stood by rule (both witnesses garbled); 0 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks03wycl, leaves n255–n259 (printed p. = leaf − 39)"
-status: draft
+status: translated
 ---
 
-# *De benedicta incarnacione*, chapter 13, part 1: [TITLE]
+# *De benedicta incarnacione*, chapter 13, part 1: if he assumed every humanity: one man, or many men?
 
 ## ¶1 · 216.0–216.0
 
@@ -24,57 +24,88 @@ status: draft
 
 > [p. 216] [Confirmat aliorum sentencias quod, si omnes humanitates assumeret, tunc nec foret unus homo nec multi homines, sed et unicus atque multi; et sic concordat modernorum sentencias cum antiquis. Assuming, as proved in the last chapter (p. 203), the truth of the dictum of St. Thomas that if Christ assumed many humanities, He would be many men: the modern view is supported that He assumed all humanities, and was thereby both THE ONE MAN and also many men; and thus opinions are reconciled and the unity of truth established.]
 
-[ENGLISH]
+[It confirms the [teachings]{g:sentencia} of others, that if he [assumed]{g:assumere} all [humanities]{g:humanitas}, then he would be neither one man nor many men, but both a single [man] and many; and so it brings the teachings of [the moderns]{g:moderni} into agreement with those of the ancients.]
 
 ## ¶2 · 216.8–216.12
 
 > [p. 216] Habito quod Christus assumendo multas humanitates foret consequenter multi homines, ut sentenciat sanctus Thomas; probatur quod, si omnes humanitates assumeret, foret unicus homo tantum, ut recentissimi scribentes asserunt satis vere.
 
-[ENGLISH]
+Given that Christ, by assuming many humanities, would consequently be many men, as Saint Thomas [pronounces]{g:sentenciare},[^1] it is proved that, if he assumed all humanities, he would be a single man only, as the most recent writers assert, truly enough.
 
 ## ¶3 · 216.13–217.9
 
 > [p. 216] Nam hoc posito, omnis homo foret omnis homo; ergo foret solummodo unus homo. Antecedens patet per exponentes, cum homo Christus sit omnis homo; ut patet per conversionem, omnis homo est Christus. Nam si in tali casu non omnis homo sit Christus, cum nulla natura assumpta sit homo, ut dicunt concorditer; sequitur quod aliqua¹ persona de specie humana non sit Christus, et illam personam oportet in casu posito dicere Verbum Dei. Sed constat quod illa [p. 217] est Christus; cum ergo Verbum sit omnis homo, quod quidem Verbum est aliquis homo; sequitur quod aliquis homo sit omnis homo; et tamen¹ nichil est homo nisi illud Verbum; sequitur ex posicione² quod omnis homo sit omnis homo. Quo habito³ probo quod repugnat huic multos homines esse. Nam si duo homines sunt, tunc⁴ duo homines sunt⁴ duo homines, et per consequens sunt duo homines differentes, et sic unus illorum non est reliquus; consequens contra datum, cum omnis homo sit omnis homo.
 
-[ENGLISH]
+For, this posited, every man would be every man; therefore there would be only one man. The [antecedent]{g:antecedens} is clear through the [exponents]{g:exponentes},[^2] since the man Christ is every man; as is clear by [conversion]{g:conversio}: every man is Christ. For if in such a case not every man is Christ, since no assumed [nature]{g:natura} is a man, as they say with one accord, [it follows]{g:sequitur} that some [person]{g:persona} of the human species is not Christ, and that person must, in the case posited, be called the [Word]{g:verbum} of God. Now it is evident that that [person] [217] is Christ; since, therefore, the Word is every man, which Word indeed is some man, it follows that some man is every man; and yet nothing is a man except that Word; it follows from the [position]{g:posicio}[^3] that every man is every man. This had, I prove that it [is incompatible]{g:repugnare} with this that there be many men. For if there are two men, then two men are two men, and consequently they are two different men, and so one of them is not the other; the [consequent]{g:consequens} is against what was granted, since every man is every man.
 
 ## ¶4 · 217.10–217.25
 
 > [p. 217] Item si Verbum in tali casu sit multi homines⁵ propter multitudinem formarum, quas predicatum significat; tunc forme ille sive nature plurificate essent Verbum; consequens impossibile sic dicenti; et consequencia ex hoc deducitur⁶ quod predicatum nunquam dicitur pluraliter de subiecto nisi quodlibet illorum pluraliter significatorum per predicatum vere dicatur⁷ de subiecto; ut natura divina non est multe persone, nisi quelibet illarum personarum sit deitas.⁸ Cum ergo pluralitas in casu posito⁹ sit solummodo¹⁰ in naturis, que non sunt homines: videtur¹¹ quod alienum sit concedere Verbum esse multos homines¹¹ propter illarum naturarum multitudinem, quarum¹² nulla est homo; ut Petrus non est multa accidencia, licet sit album et musicum, quia tunc esset¹³ multe substancie accidentate, et per consequens multi homines, et per idem infinite substancie; et patet prima consequencia¹⁴ eo quod Petrus est precise¹⁵ substancia.
 
-[ENGLISH]
+Again, if the Word in such a case is many men by reason of the multitude of forms which the predicate signifies, then those forms or natures, multiplied, would be the Word; a consequent impossible for one who speaks so; and the [inference]{g:consequencia} is derived from this: that a predicate is never said in the plural of a [subject]{g:subiectum} unless each of the things signified in the plural by the predicate is truly said of the subject; as the divine nature is not many persons unless each of those persons is the [Godhead]{g:deitas}. Since, therefore, the plurality in the case posited is only in natures, which are not men, it seems that it is out of place to grant "the Word is many men" by reason of the multitude of those natures, none of which is a man;[^4] as Peter is not many [accidents]{g:accidens}, although he is white and musical, because then he would be many substances [subject to accidents]{g:accidentatus}, and consequently many men, and by the same token infinitely many substances; and the first inference is clear from the fact that Peter is precisely substance.[^5]
 
 ## ¶5 · 217.26–218.12
 
 > [p. 217] Item si Verbum ad multitudinem¹⁶ humanitatum sit multi homines, et omnis homo est individuum; tunc est multa individua, et per consequens multe persone; quod est impossibile. Et consequencia sic probatur. Si Christus est multi homines, et per se homo est substancia; tunc est multe substancie¹⁷ individue racionalis nature non aliene [p. 218] suppositate¹; et per consequens multe persone; quod foret absurdissimum, quod Deus esset mille persone, ut puta totus populus Christianus; cum ista posicio negat hominem communem. Minus ergo colorate una persona speciei humane² foret communicata tot hominibus quot foret omnis et singuli eorundem, quam quod natura specifica foret unum quodque eius suppositum, quia ibi maneret suppositorum distinccio cum ydemptitate nature specifice. Hic autem est idem singularis homo omnium hominum quilibet; et per consequens omnis homo est³ omnis homo; persona ergo que communicatur tot substanciis ydemptitate⁴ non foret incommunicabilis existencie.
 
-[ENGLISH]
+Again, if the Word, by reason of the multitude of humanities, is many men, and every man is an [individual]{g:individuum}, then he is many individuals, and consequently many persons; which is impossible. And the inference is proved thus. If Christ is many men, and a man is [of itself]{g:per-se} a substance, then he is many individual substances of a rational nature not [supposited]{g:suppositari} to another,[^6] [218] and consequently many persons; which would be most absurd, that God should be a thousand persons, for example the whole Christian people; since this position denies the [common man]{g:homo-communis}.[^7] [With less colour]{g:colorate}, then, would one person of the human species be communicated to as many men as it would be, all and each of them, than that the [nature of the species]{g:natura-specifica} should be each one of its [supposits]{g:suppositum}; because there the distinction of supposits would remain together with the identity of the nature of the species. But here the same singular man is each one of all men; and consequently every man is every man; the person, therefore, that is communicated to so many substances by identity would not be of [incommunicable existence]{g:incommunicabilis-existencia}.[^8]
 
 ## ¶6 · 218.13–218.22
 
 > [p. 218] Item si in casu posito Verbum sit multi homines differentes, ut puta Iesus, Petrus, Paulus; tunc illi homines differunt potissime per sua principia intrinseca, scilicet per corpus et animam; sed non in hoc differunt homines; ergo non restat in eis principium differendi. Minor probatur eo quod omnis homo habet omne corpus humanum vel animam suam partem, et per consequens per appropriatas habitaciones talium non est dare distinccionem hominum. Antecedens patet per Doctorem: concedit⁵ enim⁵ quod Iesus est Petrus, et tamen illi non sunt unus homo, sed duo homines.
 
-[ENGLISH]
+Again, if in the case posited the Word is many different men, for example Jesus, Peter, Paul, then those men differ most of all by their intrinsic principles, namely by body and soul; now men do not differ in this; therefore no principle of differing remains in them. The minor is proved from the fact that every man has every human body or soul as his part, and consequently by the appropriated [habitations]{g:habitacio} of such things [one may not posit]{g:est-dare} a distinction of men. The antecedent is clear through the Doctor: for he grants that Jesus is Peter, and yet those are not one man, but two men.[^9]
 
 ## ¶7 · 218.23–218.32
 
 > [p. 218] Ex prima parte sequitur quod Iesus habet corpus et animam Petri tanquam suas partes, et per idem omnem partem qualitativam hominis. Sicut⁶ enim conceditur ex posicione⁷ quod homo Christus Iesus⁸ creavit stellas, quia Verbum, quod est Iesus Christus,⁹ sic fecit; et ita de quibuscunque predicatis personalibus, que Verbo conveniunt, cum homo concretum sit terminus personalis; ita concedi debet quod iste idem homo componitur ex corpore Petri et eius anima, sicut Verbum, quod est iste homo, ex eis¹⁰ componitur.¹¹
 
-[ENGLISH]
+From the first part it follows that Jesus has the body and soul of Peter as his parts, and by the same token every [qualitative part]{g:pars-qualitativa} of a man. For just as it is granted from the position that the man Christ Jesus created the stars, because the Word, which is Jesus Christ, did so; and so of any personal predicates whatever that [agree]{g:convenire} with the Word, since the [concrete]{g:concretum} "man" is a personal term; so it must be granted that this same man is composed of the body of Peter and his soul, just as the Word, which is this man, is composed of them.[^10]
 
 ## ¶8 · 219.1–219.33
 
 > [p. 219] Quoad 2ᵈᵃᵐ partem non video colorem in dicto, nisi per homines appropriate intelligat humanitates; et tunc foret proposicio sibi impossibilis; vel aliter concedat quod Verbum est omnes illi homines; et per consequens, Iesus est Paulus, cum hec nomina personalitatem¹ significant. Sed iste homo non est iste homo, cum tale subiectum cum persona Verbi connotat individuacionem, ab isto corpore et ista anima non personaliter sed simpliciter. Sed tunc videtur concedendum quod iste homo non potest istam naturam dimittere vel aliud corpus et aliam animam assumere; nec quod ille homo fuit, antequam fuit homo; et per consequens non creavit mundum, nec est Deus; et per consequens Verbum non est isti multi homines sicut prius, cum non sit eorum personalis assumpcio; cum tunc persona eterna foret quilibet eorundem. Et perirent tales sillogismi in quocunque modo —omne Verbum divinum est Iesus; omnis homo compositus ex corpore Petri et eius anima est Verbum divinum; ergo omnis homo compositus ex corpore Petri et eius anima est Iesus—. Et sic arguendo in 2ᵈᵒ modo prime figure— nullus homo compositus ex corpore Iesu et eius anima est² homo Petrus; sed omne Verbum divinum est homo compositus ex corpore Iesu et eius anima²; ergo nullum Verbum divinum est homo Petrus—et sic de ceteris quibuslibet sillogismis. Nec tollit³ ista responsio raciones predictas quin, si⁴ Verbum sit multi homines, tunc est multe substancie vel nature, et sic multe persone; et per consequens simpliciter creatura; quod negat posicio. Nam Deus in casu isto est mille⁵ res et quelibet earundem, et per consequens quelibet earundem⁶ mille verum est Deus; et cum non eternaliter essent Deus, sequitur quod⁷ inceperant esse Deus; ex quo sequitur quod⁷ sunt creature; et sic Deus esset multe creature et quelibet earundem; quod non sapit,⁸ nisi concedatur humanitatem esse⁹ Christum.⁹
 
-[ENGLISH]
+As to the second part, I see no [colour]{g:color}[^11] in the saying, unless by "men" he understands, by appropriation, the humanities; and then the [proposition]{g:proposicio} would be impossible for him; or else let him grant that the Word is all those men; and consequently Jesus is Paul, since these names signify [personality]{g:personalitas}. But this man is not that man, since such a subject, with the person of the Word, connotes individuation from this body and this soul, not in the personal but in the simple way.[^12] But then it seems it must be granted that this man cannot [lay aside]{g:dimittere} this nature or assume another body and another soul; nor that that man was before he was a man; and consequently he did not create the world, nor is he God; and consequently the Word is not those many men as before, since there is no personal assumption of them; since then the eternal person would be each one of them. And such syllogisms would perish in any mood whatever: "every divine Word is Jesus; every man composed of the body of Peter and his soul is the divine Word; therefore every man composed of the body of Peter and his soul is Jesus". And so, arguing in the second mood of the first figure:[^13] "no man composed of the body of Jesus and his soul is the man Peter; but every divine Word is a man composed of the body of Jesus and his soul; therefore no divine Word is the man Peter"; and so of all other syllogisms whatever. Nor does this reply so remove the foregoing arguments but that, if the Word is many men, then he is many substances or natures, and so many persons; and consequently a [creature]{g:creatura} [without qualification]{g:simpliciter}; which the position denies. For God in this case is a thousand things and each of them, and consequently each of those thousand truly is God; and since they would not eternally be God, it follows that they began to be God; from which it follows that they are creatures; and so God would be many creatures and each of them; which makes no sense, unless it is granted "the humanity is Christ".[^14]
 
-## ¶9 · 220.1–220.22
+## ¶9 · 220.1–220.23
 
 > [p. 220] Item si Christus in tali casu sit multi homines, tunc dimittendo paulative naturas assumptas multi homines per ordinem desinerent esse Christus; quia dimittendo naturam Petri non remaneret ille homo; quia sic per assumpcionem paulativam non fieret multi homines, sed remaneret precise idem homo. Concesso ergo consequente videtur primo quod aliquid desinit esse Christus, quia aliquis homo, et per consequens natura¹ creata¹ est Christus. Patet deduccio querendo sollicite, quid est illud quod desinit esse Christus. Nam si omnis homo, qui nunc est Christus eternaliter fuit Christus, tunc non multi homines sed solum Deus est Christus. Concesso ergo quod per dimissiones huiusmodi paulativas alique res, quia aliqui homines, desinerent² esse Christus; tunc palam sequitur quod multe substancie create forent Christus, cum quelibet illarum rerum, que desinerent esse Christus, non foret natura vel substancia divina, sed alia: et cum non ad dimissionem huiusmodi consequitur alicuius rei corrupcio; sequitur cum veris quod ille res, que desinerent² esse Christus, remanerent non-Christus; et non superest que foret talis res derelicta, nisi foret assumpta humanitas; ergo relinquitur³ concedendum quod humanitas assumpta foret Christus; et hoc videtur michi sequi formaliter si Christus ex unione ypostatica sit multi homines.
 
-[ENGLISH]
+Again, if Christ in such a case is many men, then, by his laying aside the assumed natures little by little, many men would cease in order to be Christ; because by laying aside the nature of Peter that man would not remain; because so, by assumption little by little, he would not become many men, but would remain precisely the same man.[^15] The consequent, then, being granted, it seems first that something ceases to be Christ, because some man [does], and consequently a created nature is Christ. The [deduction]{g:deduccio} is clear by asking carefully what that is which ceases to be Christ. For if every man who now is Christ was eternally Christ, then not many men but God alone is Christ. Granted, then, that by such [layings-aside]{g:dimissio} little by little some things, because some men, would cease to be Christ, then it plainly follows that many created substances would be Christ, since each of those things which would cease to be Christ would not be the divine nature or substance, but another: and since on a laying-aside of this kind the corruption of no thing follows, it follows, with true [premisses], that those things which would cease to be Christ would remain non-Christ; and nothing is left that would be such a thing left behind, unless it were the assumed humanity; therefore it remains to be granted that the assumed humanity would be Christ; and this seems to me to follow formally if Christ by the hypostatic [union]{g:unio} is many men.
 
 ## Notes
 
+[^1]: **S.** Thomas's "many men": *Scriptum super Sententiis* III d. 1 q. 2 a. 5, argued in chapter 12 (not *Summa theologiae* III q. 3 a. 7, which concludes "one man"; cf. LEDGER Iprol-3; LEDGER I13a-1, to be checked). "The most recent writers": the *moderni*, unnamed.
+
+[^2]: **C.** "Through the exponents": the propositions into which a proposition is resolved in exposition; here the universal "every man is every man" is expounded by its singulars, each of which is the man Christ. "By conversion": "the man Christ is every man" converted gives "every man is Christ".
+
+[^3]: **T.** "From the position": *ex posicione* (217.4, again 218.25–26), with O; A B C read *expositorie* "expositorily" in both places, the expository syllogism, whose singular middle term (*Verbum*) would fit the argument as well. A B C are one family; the print stands. O reads *quod* for *tamen* (217.3).
+
+[^4]: **T.** C and O omit *videtur … homines* (217.19–20), which leaves the *cum*-clause without a main verb; the print, with A B, is kept. A B C omit *posito* and read *solum* for *solummodo* (217.18).
+
+[^5]: **T.** "Precisely": *precise* (217.25); O omits the word and leaves a gap of three letters, and Harris asks whether *per se* "of itself" should be read. A B C read *est* "he is" for *esset* (217.23) and *conclusio* for *consequencia* (217.25).
+
+[^6]: **S.** "Individual substance of a rational nature": Boethius's definition of person (*Contra Eutychen* 3), with the scholastic proviso "not supposited to another", which excludes the assumed humanity (LEDGER I13a-2, to be checked). O omits *substancie* (217.31); B reads *supponente* for *suppositate* (218.1).
+
+[^7]: **C.** "The common man": the universal man, the common thing the realist posits (*res communis*); the position under attack denies it, so nothing common is left in which many men could be one but the person itself.
+
+[^8]: **S.** "Incommunicable existence": Richard of St Victor's definition of a divine person, *divine nature incommunicabilis existencia* (*De Trinitate* IV.22; LEDGER I13a-3, to be checked). A B C omit *humane* (218.4); O omits *est* (218.10).
+
+[^9]: **C.** "The Doctor": unnamed; the proponent of the position examined (that Christ, assuming all humanities, would be a single man), who grants "Jesus is Peter" yet "two men" (LEDGER I13a-4, unidentified). The "first part" and "second part" (218.23, 219.1) are these two clauses of his. C omits *concedit enim* (218.21).
+
+[^10]: **T.** "From the position": *ex posicione* (218.25–26); A B C *expositorie*, as at 217.4 (note 3). A B read *sic* for *Sicut* (218.25); O omits *Iesus* and *Christus* (218.26–27) and *ex eis*, and repeats *ex corpore Petri et eius anima sicut verbum quod est ille homo* after *componitur* (218.31–32).
+
+[^11]: **C.** "Colour": a plausible ground (GLOSSARY *color*).
+
+[^12]: **C.** "Not in the personal but in the simple way": *non personaliter sed simpliciter* (219.7–8), the pair of supposition (personal against simple, as at 224.20–26), not *simpliciter / secundum quid*: the subject connotes the individuation of a nature from this body and this soul, not of the person. "This man is not that man": *iste homo non est iste homo*, the reply Wyclif puts in the defender's mouth.
+
+[^13]: **C.** The first syllogism is in the first mood of the first figure (Barbara); the second mood is Celarent, with a universal negative major. Both are valid in form, and both fail on the position, whose premisses are all true of the one Word.
+
+[^14]: **T.** "Which makes no sense": *quod non sapit*; O *capit* (219.32). A B C read *multe* for *mille* (219.28); O omits *inceperant … quod* (219.30–31) and reads *humanitas esse Christus* (219.33), with the same sense.
+
+[^15]: **C.** The second *quia* gives the ground of the first by symmetry: if laying aside Peter's nature left the same man, then assuming natures one by one would likewise never make him many men. B reads *nulla creatura* for *natura creata* (220.8), "no creature is Christ"; O *desiverint* (220.13, 220.19); B C *derelinquitur* (220.21).
+
 ## Transcription notes
 
+- None.

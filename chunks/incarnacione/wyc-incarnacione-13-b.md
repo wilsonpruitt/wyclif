@@ -5,49 +5,71 @@ work_en: On the Blessed Incarnation
 volume_slug: incarnacione
 editor: Edward Harris
 year: 1886
-pages: "220.23–223.16"
+pages: "220.24–223.16"
 divisions: "cap. 13 (heading 'Cap. XIII.' at 216.0); part 2 of 4, split at the editor's ¶ (CONVENTIONS §1)"
 latin_source: B+ (blind transcription, checked against Fordham and the vote)
 witnesses: [fordham, johanniswyclift01wyclgoog, johanniswyclift03wyclgoog, johanniswycliftr00wycl, johanniswycliftr06wycl, latinworks03wycl, tractatusdebened00wycl]
 check: "741 words; 741 confirmed by Fordham or the vote; 0 runs stood by rule (both witnesses garbled); 0 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks03wycl, leaves n259–n262 (printed p. = leaf − 39)"
-status: draft
+status: translated
 ---
 
-# *De benedicta incarnacione*, chapter 13, part 2: [TITLE]
+# *De benedicta incarnacione*, chapter 13, part 2: the three teachings agree; why neither the Father nor the Holy Spirit can assume a humanity
 
-## ¶1 · 220.23–221.3
+## ¶1 · 220.24–221.3
 
 > [p. 220] Propter tales evidencias dicit Doctor Subtilis super 3° Sentenciarum Distinccione prima Questione 3ᵃ quod, si Christus multas humanitates assumpserit, non esset multi homines nec unicus homo; sed et istud⁴ debet catholicus concedere tanquam sequens. Nam Christus non esset unicus homo, si multas humanitates assumpserit iuxta⁵ proximo capitulo declarata; nec esset multi homines iuxta proxime replicata; ergo conclusio. Certum est tamen quod esset homo, si sic esset. Nam si essent multe uniones ypostatice humanitatum ad Verbum, tunc aliqua humanitas foret ypostatice copulata; et omnis talis unio ponit secundum [p. 221] communicacionem ydiomatum Verbum esse hominem; ergo hoc posito Deus foret unus homo, et per idem multi homines.
 
-[ENGLISH]
+Because of such [evidences]{g:evidencia} the [Subtle Doctor]{g:doctor-subtilis} says, on the third [book] of the *Sentences*, distinction 1, question 3, that if Christ had [assumed]{g:assumere} many [humanities]{g:humanitas}, he would be neither many men nor a single man;[^1] and this too the catholic ought to grant, as following. For Christ would not be a single man, if he had assumed many humanities, according to what was made clear in the last chapter; nor would he be many men, according to what has just been rehearsed; therefore the [conclusion]{g:conclusio}. Yet it is certain that he would be a man, if it were so. For if there were many hypostatic [unions]{g:unio} of humanities to the [Word]{g:verbum}, then some humanity would be [hypostatically]{g:ypostatice} joined; and every such union posits, according to the [221] [communication of idioms]{g:communicacio-ydiomatum}, "the Word is a man"; therefore, this posited, God would be one man, and by the same token many men.
 
 ## ¶2 · 221.4–221.17
 
 > [p. 221] Item impossibile est Deum esse hominem postquam non fuit homo, nisi per novam ypostaticam unionem. Sed, dimissis omnibus humanitatibus assumptis usque ad unam, foret Verbum homo sine nova ypostatica unione: ergo per ante erat stante ista unione continue idem homo. Si enim Verbum omnem humanitatem assumeret, non exinde periret sed perficeretur species humana, ut patet ex dictis; sed cum non posset¹ esse species hominis sine individuo hominis, quia destructis primis² substanciis² impossibile est aliquod aliorum remanere; sequitur quod illo posito foret homo aliquis singularis nullus si non Christus; ergo illo posito Christus foret unus homo. Quod ego non verto in dubium; sed credo quod ex Spiritu sancto diversificate sunt iste tres sentencie per locum a sufficienti divisione.
 
-[ENGLISH]
+Again, it is impossible for God to be a man after he was not a man, except through a new hypostatic union. Now, all the assumed humanities being [laid aside]{g:dimittere} down to one, the Word would be a man without a new hypostatic union: therefore beforehand, while that union stood, he was continuously the same man. For if the Word assumed every humanity, the human species would not thereby perish but be perfected, as is clear from what has been said; now since there could not be a species of man without an [individual]{g:individuum} of man, because when the [first substances]{g:substancia-prima} are destroyed it is impossible for any of the others to remain,[^2] it follows that, this posited, there would be no singular man if not Christ; therefore, this posited, Christ would be one man. Which I do not call into doubt; but I believe that by the Holy Spirit these three [teachings]{g:sentencia} have been made diverse by the topic from sufficient [division]{g:locus-a-divisione}.[^3]
 
 ## ¶3 · 221.18–221.26
 
 > [p. 221] Quarum prima, ut sanctus Thomas cum suis sequacibus, dicit, quod Christus assumendo multas humanitates foret multi homines consequenter: 2ᵈᵃ opinio modernorum loquencium dicit quod Christus ·hoc posito foret solummodo solus homo: 3ᵃ Doctoris subtilis dicit quod hoc posito nec foret multi homines nec unicus homo tantum. Et quamlibet illarum sentenciarum credo esse absolute necessariam, cum Verbum nullam humanitatem potest assumere preter Dominum Iesum Christum.
 
-[ENGLISH]
+Of which the first, as Saint Thomas with his followers, says that Christ, by assuming many humanities, would consequently be many men; the second, the [opinion]{g:opinio} of the [modern speakers]{g:moderni-loquentes}, says that Christ, this posited, would be only the one sole man; the third, of the Subtle Doctor, says that, this posited, he would be neither many men nor a single man only. And each of those teachings I believe to be absolutely necessary, since the Word can assume no humanity besides the Lord Jesus Christ.[^4]
 
 ## ¶4 · 221.27–222.12
 
 > [p. 221] Ideo opposito posito est quidlibet formaliter inferendum. Et patet concordancia doctorum in infringibili³ stipite veritatis; et per idem plane sequitur quod non multe persone divine possunt eandem humanitatem assumere eo quod tunc essent idem homo ad ydemptitatem humanitatis, ut dicit prima sentencia; essent eciam multi homines propter multitudinem personarum, quarum quelibet foret homo, ut dicit 2ᵈᵃ sentencia; essent 3° nec unicus nec multi, ut dicit [p. 222] 3ᵃ sentencia, eo quod denominaciones multiplicantur vel ydemptificantur ex multiplicacione vel ydemptificacione formarum; cum omnis forma sit essenciam vel personam in aliquo formaliter se habere; multe ergo humanitates forent multas personas esse homines, et una humanitas foret essenciam esse unum hominem. Sed certum est, si multe¹ persone divine sunt¹ unus homo, sunt et una persona, et sic eadem creata substancia, et per consequens persona eadem foret quelibet persona divina; et sic foret nedum confusio personarum, sed persona illa communis creata et assumpta foret cuilibet persone divine ydemptificata; quod esse non potest.
 
-[ENGLISH]
+Therefore, the opposite being posited, anything whatever is to be inferred formally. And the agreement of the doctors is clear in the unbreakable stock of truth;[^5] and by the same token it plainly follows that many divine [persons]{g:persona} cannot assume the same humanity, because then they would be the same man by the identity of the humanity, as the first teaching says; they would also be many men by reason of the multitude of persons, each of which would be a man, as the second teaching says; thirdly, they would be neither one nor many, as [222] the third teaching says, because [namings]{g:denominacio} are multiplied or [identified]{g:ydemptificare} from the multiplication or identification of forms; since every form is an essence's or person's being formally disposed in some respect;[^6] many humanities, then, would be many persons' being men, and one humanity would be an essence's being one man. Now it is certain that, if many divine persons are one man, they are also one person, and so the same created substance, and consequently the same person would be each divine person; and so there would be [not only]{g:nedum} a confusion of persons, but that common person, created and assumed, would be identified with each divine person; which cannot be.
 
 ## ¶5 · 222.13–223.16
 
 > [p. 222] Et per idem nec Pater nec Spiritus sanctus potest humanitatem assumere; quia non eandem quam Verbum, ut patet ex dictis; nec alias separatas, quia deficit principium iniciantis,² mittentis, vel principiantis Patrem incarnandum. Quamvis enim tota Trinitas incarnavit Verbum et misit Spiritum sanctum, hoc tamen solum³ originaliter fit ex Patre, ‘qui sic dilexit mundum, ut Filium suum unigenitum daret,’ Ioh⁴ 3°; cum sic⁴ fuissent tres Filii Dei; et, cum non adoptivi, omnes fuissent filii naturales; quod esse non potest. Et 3° Deus foret triplex substancia, quia tres persone hominum; et de lege evangelica quilibet subiectus et obediens cuilibet; et in casu Pater in divinis filius vel nepos naturalis Filii vel Spiritus sancti, et sic sibi⁵ obediens tanquam superiori, ut Abraham offerebat Melchisedech ad Heb. 7°. Ymo, quantumcunque extraneas cognaciones assumpserint, forent plus convenientes quam cognati aliqui vel germani; cum omnes sint eadem essencia singularissima, eadem latria adorandi. Et sicut in divinitate nullus reliquo plus colendus sit, sic⁶ secundum humanitatem nullus honore alteri⁷ preponendus; et per consequens non foret eorum facilis cohabitacio propter repugnanciam maioritatis in [p. 223] susceptis hominibus, et occasionem date opinionis, quis altero sit melior; cum in doctrina, conversacione, et merito differrent ab invicem, sicut in personalitate et humanitate assumptis secundum quotlibet condiciones individuantes. Que si appareant nobis non sequi vel non esse inconveniencia plus quam Verbum esse hominem, tamen satis est quod sanctis appareat hoc non posse essencie¹ divine competere, nec ex scripturis vel racionibus edoceri sic posse fieri. Ad quid ergo sollicitaremur aggravantes fidem circa illud quod absolute necessarium est non esse? Non,² ymo si problema³ de possibilitate⁴ talium⁵ non fuerit nichil venturum,⁵ ego non vagarer circa conclusiones, que illo posito sequerentur; sed pie dubitarem possibilitatem casuum; nec admitterem casus huiusmodi cum suis sequentibus, nisi aliunde michi fuerint evidentes, ne forte sustinerem repugnans fidei arroganter, pertinaciter, vel aliter viciose.
 
-[ENGLISH]
+And by the same token neither the Father nor the Holy Spirit can assume a humanity: not the same one as the Word, as is clear from what has been said; nor other, separate ones, because there is lacking the principle of one initiating, sending, or [being the principle]{g:principiare} of the Father to be incarnated.[^7] For although the whole Trinity incarnated the Word and sent the Holy Spirit, yet this is done originally from the Father alone, "who so loved the world, as to give his only begotten Son", John 3[:16]; since in that way there would have been three Sons of God; and, since not adoptive, all would have been natural sons; which cannot be. And thirdly, God would be a threefold substance, because three persons of men; and by the gospel law each would be subject and obedient to each; and in the case [posited] the Father, [among the divine]{g:in-divinis} [persons], would be the natural son or grandson of the Son or of the Holy Spirit, and so obedient to him as to a superior, as Abraham made offering to Melchisedech, Hebrews 7.[^8] Indeed, however foreign the kinships they assumed, they would be more at one than any kinsmen or brothers, since all are the same most singular essence, to be adored with the same [latria]{g:latria}.[^9] And just as in the [divinity]{g:divinitas} none is to be worshipped more than another, so [as to the humanity]{g:secundum-humanitatem} none is to be preferred to another in honour; and consequently their [joint dwelling]{g:cohabitacio} would not be easy, because of the [incompatibility]{g:repugnancia} of [greatness]{g:majoritas} in the [223] men [taken up]{g:suscipere}, and the occasion given for the opinion, which of them is better than the other; since in [doctrine]{g:doctrina}, [manner of life]{g:conversacio}, and merit they would differ from one another, as in the [personality]{g:personalitas} and humanity assumed, according to any number of individuating conditions. And if these things appear to us not to follow, or not to be [absurdities]{g:inconveniencia}[^10] more than "the Word is a man", yet it is enough that it appears to [the saints]{g:sancti} that this cannot befit the divine essence, nor be taught from the scriptures or from reasons that it can be done so. To what end, then, should we trouble ourselves, burdening the faith about that which it is absolutely necessary should not be? No; indeed, if the problem of the possibility of such things were not [one about] nothing to come,[^11] I would not wander about the conclusions which would follow on that supposition; but I would piously doubt the possibility of the cases; nor would I admit cases of this kind with their consequences, unless they were evident to me from elsewhere, lest perhaps I should maintain something [incompatible]{g:repugnare} with the faith arrogantly, obstinately, or otherwise viciously.
 
 ## Notes
+
+[^1]: **S.** Scotus, *In III Sent.* (*Ordinatio*) d. 1 q. 3: a supposit with several humanities would be neither many men nor one man (LEDGER I13b-1, to be checked). "Made clear in the last chapter": chapter 12, from p. 203. A B C read *idem* for *istud* (220.27); C omits *iuxta* (220.29).
+
+[^2]: **S.** Aristotle, *Categories* 5 (2b5–6): if the first substances did not exist, none of the other things could exist (LEDGER I13b-2, to be checked). O reads *principiis* for *primis substanciis* (221.12) and *possit* for *posset* (221.11).
+
+[^3]: **G.** "The topic from sufficient division" (GLOSSARY *locus … a divisione*): a division that exhausts the cases (many men, one man, neither), of which the three teachings of the next paragraph are the members.
+
+[^4]: **C.** "Absolutely necessary": each teaching is a conditional whose antecedent (another humanity assumed) is impossible, so each is necessary; and from the impossible anything follows (221.27). "The modern speakers": *moderni loquentes*. The print has a stray point before *hoc* (221.21).
+
+[^5]: **T.** "Unbreakable": *infringibili* (221.28); O *singulari* "singular".
+
+[^6]: **C.** *Cum omnis forma sit essenciam vel personam in aliquo formaliter se habere* (222.3–4): a form is the fact that an essence or person stands so in some respect; hence "many humanities would be many persons' being men". B writes *multe … sunt* twice (222.6–7).
+
+[^7]: **C.** The Father is from no principle, so there is none to initiate, send, or originate his incarnation, as the Father sends the Son. O omits *iniciantis* (222.16); B omits *solum* (222.18); O omits *Ioh 3° cum sic* (222.20).
+
+[^8]: **S.** Hebrews 7:1–7: Abraham gives tithes to Melchisedech, and "that which is less is blessed by the better" (7:7). O reads *eis* for *sibi* (222.25).
+
+[^9]: **G.** *Latria*: the worship owed to God alone (GLOSSARY *dulia / latria*). A B C add *nec* before *secundum humanitatem* (222.31); O reads *alterius* (222.32).
+
+[^10]: **C.** "Absurdities": *inconveniencia*, in the sense of argument (GLOSSARY, CONTEXTUAL). O reads *decencie* "decency" for *essencie* (223.7).
+
+[^11]: **T/C.** 223.10–11, doubtful. The print, with O: *si problema de possibilitate talium non fuerit nichil venturum*, perhaps "if the question were not an idle one" (about what will never come to pass). A B C read *talium fuerint mihi neutram*, perhaps for *neutrum*: "if the problem of the possibility of such things were neutral to me" (doubtful either way), which suits "I would piously doubt the possibility". A B C are one family; the print stands. A B C omit *Non* (223.10).
 
 ## Transcription notes
 

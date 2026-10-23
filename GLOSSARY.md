@@ -382,7 +382,7 @@ otherwise.
 | per se / per accidens | of itself / by accident | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 68–72). |
 | comprehensor | comprehensor | The blessed, against *viator*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
 | arraliter | by way of earnest | As a pledge (*arra*). Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
-| locus a sufficienti similitudine / a divisione | the topic from sufficient likeness / from division | As *locus a simili*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
+| locus a sufficienti similitudine / a (sufficienti) divisione | the topic from sufficient likeness / from (sufficient) division | As *locus a simili*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
 | pretericio | being past | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
 | solvere / solucio (of the union) | loose / loosing | Except inside a Douay quotation (John 10:35 "cannot be broken"). Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
 | adnichilare / adnichilacio | annihilate / annihilation | Wyclif's *De adnichilacione*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 76). |
@@ -520,6 +520,15 @@ otherwise.
 | imposicio primaria | primary imposition | Of a term's first assignment to signify. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 214). |
 | assertibile | assertible | The thing a proposition asserts. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 215). |
 | superioritas / inferioritas terminorum | superiority / inferiority of terms | Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 215). |
+| exponentes | the exponents | The propositions into which a proposition is resolved (expounded). Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 216.14). |
+| homo communis | the common man | The universal man, with *res communis*; not "the ordinary man". Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 218.3). |
+| incommunicabilis existencia | incommunicable existence | Richard of St Victor's definition of person. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 218.11). |
+| moderni loquentes | the modern speakers | Beside *moderniores loquentes*. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 221.20). |
+| congruencia | fittingness | The reasons of fittingness for the Son's incarnation. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 225.6). |
+| temperancia (of a complexion) | temperance | The medical balance of qualities; with *complexio*. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 226.16). |
+| bonum de genere | good in its kind | Moral goodness by the kind of act. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 228.16). |
+| mixtim (bare) | in a mixed way | Beside *predicacio mixtim*. Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 230.21). |
+| signum reduplicatum | the reduplicated sign | The reduplicative word (*secundum quod*, *in quantum*). Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 230.23). |
 | Magister | the Master | Peter Lombard. Ruled 2026-10-22 (Wilson; *Incarn.* 3.24). |
 | declarare / ostendere | make clear / show | Kept apart (both in one sentence, prol 2.5–7). Ruled 2026-10-22 (Wilson). |
 | epilogus / epilogare | recapitulation / recapitulate | Ruled 2026-10-22 (Wilson; *Incarn.* 3.25, prol 2.14). |

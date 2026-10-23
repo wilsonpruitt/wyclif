@@ -150,8 +150,8 @@
 {"t": "vera", "leaf": 267, "row": 20, "ln": 19, "para": false, "head": false, "arg": false, "foot": false, "wi": 146, "pos": 149}
 {"t": "sentencia:", "leaf": 267, "row": 20, "ln": 19, "para": false, "head": false, "arg": false, "foot": false, "wi": 147, "pos": 150}
 {"t": "quodlibet", "leaf": 267, "row": 20, "ln": 19, "para": false, "head": false, "arg": false, "foot": false, "wi": 148, "pos": 151}
-{"t": "enim", "leaf": 267, "row": 20, "ln": 19, "para": false, "head": false, "arg": false, "foot": false, "wi": 149, "pos": 152}
-{"t": "4", "leaf": 267, "row": 20, "ln": 19, "para": false, "head": false, "arg": false, "foot": true, "wi": 149, "pos": 153}
+{"t": "4", "leaf": 267, "row": 20, "ln": 19, "para": false, "head": false, "arg": false, "foot": true, "wi": 148, "pos": 152}
+{"t": "enim", "leaf": 267, "row": 20, "ln": 19, "para": false, "head": false, "arg": false, "foot": false, "wi": 149, "pos": 153}
 {"t": "impossibile", "leaf": 267, "row": 21, "ln": 20, "para": false, "head": false, "arg": false, "foot": false, "wi": 150, "pos": 154}
 {"t": "disperiret,", "leaf": 267, "row": 21, "ln": 20, "para": false, "head": false, "arg": false, "foot": false, "wi": 151, "pos": 155}
 {"t": "5", "leaf": 267, "row": 21, "ln": 20, "para": false, "head": false, "arg": false, "foot": true, "wi": 151, "pos": 156}
@@ -196,8 +196,8 @@
 {"t": "non", "leaf": 267, "row": 26, "ln": 25, "para": false, "head": false, "arg": false, "foot": false, "wi": 190, "pos": 195}
 {"t": "sit", "leaf": 267, "row": 27, "ln": 26, "para": false, "head": false, "arg": false, "foot": false, "wi": 191, "pos": 196}
 {"t": "sibi", "leaf": 267, "row": 27, "ln": 26, "para": false, "head": false, "arg": false, "foot": false, "wi": 192, "pos": 197}
-{"t": "impossibile.", "leaf": 267, "row": 27, "ln": 26, "para": false, "head": false, "arg": false, "foot": false, "wi": 193, "pos": 198}
-{"t": "6", "leaf": 267, "row": 27, "ln": 26, "para": false, "head": false, "arg": false, "foot": true, "wi": 193, "pos": 199}
+{"t": "6", "leaf": 267, "row": 27, "ln": 26, "para": false, "head": false, "arg": false, "foot": true, "wi": 192, "pos": 198}
+{"t": "impossibile.", "leaf": 267, "row": 27, "ln": 26, "para": false, "head": false, "arg": false, "foot": false, "wi": 193, "pos": 199}
 {"t": "Hic", "leaf": 267, "row": 28, "ln": 27, "para": true, "head": false, "arg": false, "foot": false, "wi": 194, "pos": 200}
 {"t": "videtur", "leaf": 267, "row": 28, "ln": 27, "para": false, "head": false, "arg": false, "foot": false, "wi": 195, "pos": 201}
 {"t": "michi", "leaf": 267, "row": 28, "ln": 27, "para": false, "head": false, "arg": false, "foot": false, "wi": 196, "pos": 202}
