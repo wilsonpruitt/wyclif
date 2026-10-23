@@ -76,7 +76,7 @@ Again, if Christ in such a case is many men, then, by his laying aside the assum
 
 ## Notes
 
-[^1]: **S.** Thomas's "many men": *Scriptum super Sententiis* III d. 1 q. 2 a. 5, argued in chapter 12 (not *Summa theologiae* III q. 3 a. 7, which concludes "one man"; cf. LEDGER Iprol-3; LEDGER I13a-1, to be checked). "The most recent writers": the *moderni*, unnamed.
+[^1]: **S.** Thomas's "many men": *Scriptum super Sententiis* III d. 1 q. 2 a. 5, argued in chapter 12 (not *Summa theologiae* III q. 3 a. 7, which concludes "one man"; cf. LEDGER Iprol-3). In ad 2 and ad 3 Thomas says such a person would be called *duo homines* and *plures homines, et non unus homo* (*verified*, LEDGER I13a-1). "The most recent writers": the *moderni*, unnamed.
 
 [^2]: **C.** "Through the exponents": the propositions into which a proposition is resolved in exposition; here the universal "every man is every man" is expounded by its singulars, each of which is the man Christ. "By conversion": "the man Christ is every man" converted gives "every man is Christ".
 
@@ -86,13 +86,13 @@ Again, if Christ in such a case is many men, then, by his laying aside the assum
 
 [^5]: **T.** "Precisely": *precise* (217.25); O omits the word and leaves a gap of three letters, and Harris asks whether *per se* "of itself" should be read. A B C read *est* "he is" for *esset* (217.23) and *conclusio* for *consequencia* (217.25).
 
-[^6]: **S.** "Individual substance of a rational nature": Boethius's definition of person (*Contra Eutychen* 3), with the scholastic proviso "not supposited to another", which excludes the assumed humanity (LEDGER I13a-2, to be checked). O omits *substancie* (217.31); B reads *supponente* for *suppositate* (218.1).
+[^6]: **S.** "Individual substance of a rational nature": Boethius's definition of person (*Contra Eutychen* 3), with the scholastic proviso "not supposited to another", which excludes the assumed humanity. Boethius, PL 64, 1343D: *Persona est naturae rationalis individua substantia*; the proviso is not his (*verified*, LEDGER I13a-2). O omits *substancie* (217.31); B reads *supponente* for *suppositate* (218.1).
 
 [^7]: **C.** "The common man": the universal man, the common thing the realist posits (*res communis*); the position under attack denies it, so nothing common is left in which many men could be one but the person itself.
 
-[^8]: **S.** "Incommunicable existence": Richard of St Victor's definition of a divine person, *divine nature incommunicabilis existencia* (*De Trinitate* IV.22; LEDGER I13a-3, to be checked). A B C omit *humane* (218.4); O omits *est* (218.10).
+[^8]: **S.** "Incommunicable existence": Richard of St Victor's definition of a divine person, *divine nature incommunicabilis existencia* (*De Trinitate* IV.22, PL 196, 945C–D, where it is said of the divine person only; *verified*, LEDGER I13a-3). A B C omit *humane* (218.4); O omits *est* (218.10).
 
-[^9]: **C.** "The Doctor": unnamed; the proponent of the position examined (that Christ, assuming all humanities, would be a single man), who grants "Jesus is Peter" yet "two men" (LEDGER I13a-4, unidentified). The "first part" and "second part" (218.23, 219.1) are these two clauses of his. C omits *concedit enim* (218.21).
+[^9]: **C.** "The Doctor": Thomas, as Harris saw (Notes on 218.21: *Doctorem, apparently Aquinas*), who holds that several assumed humanities make several men: *Scriptum super Sententiis* III d. 1 q. 2 a. 5 ad 2, *haec est vera: Petrus est Jesus; et tamen Petrus et Jesus non sunt unus homo, sed duo homines* (*verified*, LEDGER I13a-4). The "first part" and "second part" (218.23, 219.1) are these two clauses of his. C omits *concedit enim* (218.21).
 
 [^10]: **T.** "From the position": *ex posicione* (218.25–26); A B C *expositorie*, as at 217.4 (note 3). A B read *sic* for *Sicut* (218.25); O omits *Iesus* and *Christus* (218.26–27) and *ex eis*, and repeats *ex corpore Petri et eius anima sicut verbum quod est ille homo* after *componitur* (218.31–32).
 

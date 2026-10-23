@@ -49,9 +49,9 @@ And by the same token neither the Father nor the Holy Spirit can assume a humani
 
 ## Notes
 
-[^1]: **S.** Scotus, *In III Sent.* (*Ordinatio*) d. 1 q. 3: a supposit with several humanities would be neither many men nor one man (LEDGER I13b-1, to be checked). "Made clear in the last chapter": chapter 12, from p. 203. A B C read *idem* for *istud* (220.27); C omits *iuxta* (220.29).
+[^1]: **S.** Scotus, *In III Sent.* (*Ordinatio*) d. 1 q. 3, ad 1 (Wadding VII.1, 44–45): *dicitur, quod nec esset unus homo, nec plures*. In the *Ordinatio* this is an answer Scotus reports (Lychetus gives it to Richard of Middleton) and rejects, before answering by his analogy of one spirator and two spirantes; one reading recorded by Lychetus makes it Scotus's own, and Wyclif follows that reading (*verified*, LEDGER I13b-1). "Made clear in the last chapter": chapter 12, from p. 203. A B C read *idem* for *istud* (220.27); C omits *iuxta* (220.29).
 
-[^2]: **S.** Aristotle, *Categories* 5 (2b5–6): if the first substances did not exist, none of the other things could exist (LEDGER I13b-2, to be checked). O reads *principiis* for *primis substanciis* (221.12) and *possit* for *posset* (221.11).
+[^2]: **S.** Aristotle, *Categories* 5 (2b5–6): if the first substances did not exist, none of the other things could exist. Boethius's Latin is *Non existentibus ergo primis substantiis impossibile est esse aliquid aliorum* (PL 64, 184D); Wyclif's *destructis … remanere* is the schools' form of it (*verified*, LEDGER I13b-2). O reads *principiis* for *primis substanciis* (221.12) and *possit* for *posset* (221.11).
 
 [^3]: **G.** "The topic from sufficient division" (GLOSSARY *locus … a divisione*): a division that exhausts the cases (many men, one man, neither), of which the three teachings of the next paragraph are the members.
 

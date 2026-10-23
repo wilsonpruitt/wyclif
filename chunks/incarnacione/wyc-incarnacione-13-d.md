@@ -93,7 +93,7 @@ From what has been said, then, it is clear in some measure how holy scripture, w
 
 [^4]: **T.** "Indeed": *quidem*, with all the manuscripts, against the print's *enim* "for", which Harris supplied (228.19: *pro quidem in omn. codd. inventum enim supposui*). A B C read *quod* for *quodlibet*; the print, with O, is kept there. A B C read *disparet* for *disperiret* (228.20).
 
-[^5]: **S.** Thomas, *Scriptum super Sententiis* III d. 1 q. 2 a. 3, counted serially as "question 7", with a. 4–5 "the two following": whether the Father or the Holy Spirit could have been incarnate, whether several persons could assume one nature, whether one person could assume two (LEDGER I13d-1, to be checked).
+[^5]: **S.** Thomas, *Scriptum super Sententiis* III d. 1 q. 2 a. 3, counted serially as "question 7", with a. 4–5 "the two following": whether the Father or the Holy Spirit could have been incarnate, whether several persons could assume one nature, whether one person could assume two. D. 1 q. 1 has four articles, so q. 2 a. 3 is the seventh. The quotation is a. 3 s. c. 1, *sicut dicit Anselmus, omnis necessitas et impossibilitas Deo est subjecta* (Anselm, *Cur Deus homo* II.17, PL 158, 421C); the second and third arguments are s. c. 2 and 3, and the arguments at 229.14–29 are a. 4 s. c. 1 and 2 (*verified*, LEDGER I13d-1).
 
 [^6]: **T.** "For him": *sibi*; A B C omit it (228.26).
 
@@ -103,7 +103,7 @@ From what has been said, then, it is clear in some measure how holy scripture, w
 
 [^9]: **T.** "Of dignity": *dignitatis*; A B C *dignitas* "is a dignity" (229.10).
 
-[^10]: **S/C.** "With this saint": Thomas, who grants the Father could have been incarnate, and (230.1–2) that three persons so incarnate would be one man (LEDGER I13d-2, to be checked). The last words are in Harris's italics, as a formula, and are quoted here; *ordinata / absoluta* is the pair of God's ordained and absolute power.
+[^10]: **S/C.** "With this saint": Thomas, who grants the Father could have been incarnate, and (230.1–2) that three persons so incarnate would be one man: *Scriptum* III d. 1 q. 2 a. 3 co., *pater potuit carnem assumere … loquendo de potentia absoluta*, and a. 4 ad 6, *dicerentur tres unus homo* (*verified*, LEDGER I13d-2). The last words are in Harris's italics, as a formula, and are quoted here; *ordinata / absoluta* is the pair of God's ordained and absolute power.
 
 [^11]: **T.** "More qualified": *habilior*, the print's reading; A B C read *humilior* "humbler", and O has *hîlior*, an abbreviation that may stand for either (229.20). With O doubtful the manuscripts do not agree across the families, and the print stands. O reads *in* before *illa* (229.18), *assumpsit* (229.19), and omits *humanitas a qualibet* (229.22).
 
@@ -111,11 +111,11 @@ From what has been said, then, it is clear in some measure how holy scripture, w
 
 [^13]: **C.** The case yields both "three persons would be one man" (as Thomas grants) and, by what has been said, "it would not be so"; hence the case is impossible. A B C read *queritur* (229.31); A B *possunt* (229.32); O *in* for *et* (230.2).
 
-[^14]: **S.** Scotus, *In III Sent.* (*Ordinatio*) d. 1, on whether several persons can assume one nature (LEDGER I13d-3, to be checked).
+[^14]: **S.** Scotus, *In III Sent.* (*Ordinatio*) d. 1 q. 2, *Utrum tres personae possint assumere eandem naturam numero*: the opening arguments *quod sic* (Wadding VII.1, 34–35), which Scotus answers under *Ad argumenta principalia* (*verified*, LEDGER I13d-3).
 
 [^15]: **T.** "Another flesh": *aliam*, with C O, against the print's *aliquam* "any flesh" (230.6). "The topic from likeness": *locus a simili*.
 
-[^16]: **S/T.** "The *De anima*": Harris italicizes the words as a title; whether Aristotle's or a treatise of Wyclif's is not determined (LEDGER I13d-4, to be checked). C reads *unierit*, O *vineret* for *uniret* (230.15).
+[^16]: **S/T.** "The *De anima*": Harris italicizes the words as a title; Harris's Notes on 1.3 count this place among the references to Wyclif's own unprinted *De anima* (*It is referred to infra, pp. 7, 22, 44, 203, 230*; LEDGER I13d-4, editor). C reads *unierit*, O *vineret* for *uniret* (230.15).
 
 [^17]: **T.** "As it signifies": *ut dicit*, with all the manuscripts, against the print's *ut dicat* "so as to signify" (231.1), Harris's emendation. B omits *causam*; O omits *aliqua … et* (230.20) and *ut dicat* (230.24), and reads *in* for *et* (230.26) and *divinitas sint / sit* for *deitas fuit* (230.27, 230.29); C omits *vel … causa* (230.30–31).
 

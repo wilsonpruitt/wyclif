@@ -63,7 +63,7 @@ But perhaps, beyond the [objections]{g:instancia} made above, the possibility of
 
 [^1]: **C.** "By conversion": the proposition "the divine substance is three created substances" converted gives "three created substances [three creatures] are the divine substance". C reads *sint* "they are" for *sit* (223.22).
 
-[^2]: **C/S.** "The greatest natural defect": *peccatum … naturale*, a fault of nature (the "sin" of nature in Aristotle, *Physics* II.8, the monster), not a moral sin: each of the three would lack a head of his own, since the one body is all three (LEDGER I13c-1, to be checked). O reads *unicum* for *unum* (224.9).
+[^2]: **C/S.** "The greatest natural defect": *peccatum … naturale*, a fault of nature (the "sin" of nature in Aristotle, *Physics* II.8, the monster), not a moral sin: each of the three would lack a head of his own, since the one body is all three (there monsters are failures, ἁμαρτήματα, of nature's purposive effort; *verified*, LEDGER I13c-1). O reads *unicum* for *unum* (224.9).
 
 [^3]: **C.** "An absurdity": *inconveniens*, in the sense of argument (GLOSSARY, CONTEXTUAL). A B C read *plurificaretur* (224.12) and *univoce* "univocally" for *unite* (224.14).
 
@@ -75,7 +75,7 @@ But perhaps, beyond the [objections]{g:instancia} made above, the possibility of
 
 [^7]: **T.** "For attaining the end": *ad finem attingendum* (224.31), with A B; C *ad finem a…* with a gap, O *ad finem aliquem* "for some end"; O also *necessarium* (224.31).
 
-[^8]: **S.** The doctors' reasons why the Son rather than the Father or the Spirit was incarnate: cf. Anselm, *De incarnatione Verbi* c. 10 (Schmitt; PL 158, c. V; c. 6 in Wyclif's numbering), on the image, the confusion of sons and the Father as "grandson"; Peter Lombard, *Sent.* III d. 1; Thomas, *Summa theologiae* III q. 3 a. 8 (LEDGER I13c-2, to be checked). "Fittingness": *congruencia*; A B C *convenienciam* "agreement" (225.6).
+[^8]: **S.** The doctors' reasons why the Son rather than the Father or the Spirit was incarnate: cf. Anselm, *De incarnatione Verbi* c. 10 (Schmitt; PL 158, c. V; c. 6 in Wyclif's numbering), on the image, the confusion of sons and the Father as "grandson"; Peter Lombard, *Sent.* III d. 1; Thomas, *Summa theologiae* III q. 3 a. 8; closest to Wyclif's list is Thomas, *Scriptum* III d. 1 q. 2 a. 2 co., *quod filius est, quod verbum est, quod imago, quod media in Trinitate persona*; Lombard's place is d. 1 c. 2, PL 192, 757 (*ne alius in divinitate esset Filius, alius in humanitate*) (*verified*, LEDGER I13c-2). "Fittingness": *congruencia*; A B C *convenienciam* "agreement" (225.6).
 
 [^9]: **C/T.** 225.8–10: the sentence changes construction after *Patris* (*per quod … per eandem ymaginem debuit reformari*); the subject of *debuit reformari* is man. O omits *quia Verbum*.
 
@@ -93,11 +93,11 @@ But perhaps, beyond the [objections]{g:instancia} made above, the possibility of
 
 [^16]: **C/T.** "Might": *potencia*, given the Douay word of Luke 1:51 so that the verse answers to the devil's "power and might" (*virtutem et potenciam*); *virtus* is "power" throughout, as in "the power of God". B omits *potenciam … et* (226.11–12); A B C read *datam* "the given [power]" for *dantem* (226.12). A B read *homo autem*, C *ut autem*, O *ut qui* (226.8).
 
-[^17]: **S.** Augustine, *De doctrina christiana* I.5.5, "in the Father unity, in the Son equality, in the Holy Spirit the concord of unity and equality" (LEDGER I13c-3, to be checked).
+[^17]: **S.** Augustine, *De doctrina christiana* I.5.5, "in the Father unity, in the Son equality, in the Holy Spirit the concord of unity and equality" (PL 34, 21; *verified*, LEDGER I13c-3).
 
 [^18]: **S.** "The judgement given to the Son": John 5:22, "hath given all judgment to the Son". "The sin against the Holy Spirit": Matthew 12:32. C reads *peccatum* for *Spiritum* (226.19).
 
-[^19]: **T/S.** "Is to be brought back through precisely the term of equality": *est per precise equalitatis terminum … reducenda*, with O, against the print's *est precise equalitatis terminus* (226.22), which leaves *reducenda* without construction. "Beauty, and form": *species* appropriated to the Son, as in Hilary's triad quoted by Augustine, *De Trinitate* VI.10.11 (LEDGER I13c-4, to be checked).
+[^19]: **T/S.** "Is to be brought back through precisely the term of equality": *est per precise equalitatis terminum … reducenda*, with O, against the print's *est precise equalitatis terminus* (226.22), which leaves *reducenda* without construction. "Beauty, and form": *species* appropriated to the Son, as in Hilary's triad quoted by Augustine, *De Trinitate* VI.10.11 (PL 42, 931: *species in Imagine*, which Augustine glosses *propter pulchritudinem, ubi jam est … prima aequalitas*; *verified*, LEDGER I13c-4).
 
 [^20]: **G.** *Sacramentum*: in the Augustinian sense, "mystery" (1 Timothy 3:16).
 
@@ -105,9 +105,9 @@ But perhaps, beyond the [objections]{g:instancia} made above, the possibility of
 
 [^22]: **C.** "Sects": the three schools of opinion (Thomas's, the moderns', the Subtle Doctor's), GLOSSARY *secta*. B reads *natura* for *persona* (226.32); for *quotlibet* (227.1) A has *t* over an erasure by another hand, B *quidlibet*, C *quodlibet*.
 
-[^23]: **S.** "If God should will": Harris italicizes the words as Anselm's formula; the passage is not identified (cf. *Cur Deus homo* and *De incarnatione Verbi*; LEDGER I13c-5, to be checked).
+[^23]: **S.** "If God should will": Harris italicizes the words as Anselm's formula; Anselm's way of speaking is *Cur Deus homo* II.10 (PL 158, 409A), *Possumus itaque dicere de Christo, quia potuit mentiri, si subaudiatur, si vellet*: a possibility granted only under the condition of a will; Thomas uses the same *sub conditione, scilicet si vellet* on this question (*Scriptum* III d. 1 q. 2 a. 3 co.) (*verified* in sense, LEDGER I13c-5).
 
-[^24]: **T/S.** "Question ...": the number is wanting in all the manuscripts, and Harris prints points. Thomas, *Scriptum super Sententiis* III d. 6, on the first opinion (the assumed man) (LEDGER I13c-6, to be checked).
+[^24]: **T/S.** "Question ...": the number is wanting in all the manuscripts, and Harris prints points. Thomas, *Scriptum super Sententiis* III d. 6 q. 1 a. 2 co., on the first opinion (the assumed man): *non est haeretica … immo impossibile est … et ideo non sustinetur* (*verified*, LEDGER I13c-6).
 
 [^25]: **C.** *Quia eadem persona* (227.29): *quia* here introduces the second case, in the sense of *quod* "that", parallel to *quod quelibet* and *quod multe*.
 
