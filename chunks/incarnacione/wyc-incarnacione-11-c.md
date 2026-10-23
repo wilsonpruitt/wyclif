@@ -12,72 +12,103 @@ witnesses: [fordham, johanniswyclift01wyclgoog, johanniswyclift03wyclgoog, johan
 check: "1045 words; 1045 confirmed by Fordham or the vote; 0 runs stood by rule (both witnesses garbled); 0 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks03wycl, leaves n232–n236 (printed p. = leaf − 39)"
-status: draft
+status: translated
 ---
 
-# *De benedicta incarnacione*, chapter 11, part 3: [TITLE]
+# *De benedicta incarnacione*, chapter 11, part 3: the laying-aside of the nature; the moderns' sophisms, first to eighth
 
 ## ¶1 · 193.32–194.6
 
 > [p. 193] Quantum ad dimissionem nature assumpte patet ex dictis quod Verbum non potest illam dimittere licet contingentissime possit illa⁴ natura Verbo deesse cum sit contingens [p. 194] ad utrumlibet Verbum esse hominem vel fuisse. Movent autem ad negandum dimissionem nature assumpte, hoc est ad dereliccionem illius¹ personalitatis non nature¹ ipsius Verbi Dei, argumenta facta superius 5° ca°; et omnia que monent² quod humanitas sit idem personaliter Verbo Dei, ut tactum est 10° ca°.
 
-[ENGLISH]
+As to the [laying-aside]{g:dimissio} of the assumed [nature]{g:natura}, it is clear from what has been said that the [Word]{g:verbum} cannot [lay it aside]{g:dimittere}, although that nature can most contingently be lacking to the Word, since "the Word is a man", or "was one", is [194] [contingent either way]{g:contingens-ad-utrumlibet}.[^1] And what moves [one] to deny the laying-aside of the assumed nature, that is, the abandoning of that [personality]{g:personalitas}, not nature, of the Word of God himself, are the arguments made above in chapter 5, and everything that urges that the [humanity]{g:humanitas} is personally the same as the Word of God, as was touched on in chapter 10.[^2]
 
 ## ¶2 · 194.7–194.10
 
 > [p. 194] Et ita de assumpcione multarum humanitatum vel simul vel successive; aut quod alia persona eandem naturam assumat. Et placet michi quod ex hoc pereunt modernorum doctorum vocata subtilia et gloriosa sophismata.
 
-[ENGLISH]
+And so [it is] with the [assumption]{g:assumpcio} of many humanities, either at once or successively, or that another person should [assume]{g:assumere} the same nature. And I am pleased that from this the [so-called]{g:vocatus} subtle and glorious [sophisms]{g:sophisma} of the [modern doctors]{g:moderni-doctores} perish.[^3]
 
 ## ¶3 · 194.11–194.20
 
 > [p. 194] Primo, posito quod Verbum omnem naturam humanam a mundi exordio assumpsisset que continue viveret assumpta; tunc species humana non salvaretur per successionem suorum individuorum; quia vel tantum unum foret individuum in specie humana, quod foret totum genus hominum³ et faceret quidquid operatum esset⁴ ab homine vel si essent multa individua, tamen posito illo⁵ essent nature humane non homines;⁶ et sic omne suppositum nature⁷ humane⁷ foret prius naturaliter quam sua species, a qua tamen non caperet quiditatem.
 
-[ENGLISH]
+First, suppose that the Word had assumed every human nature from the beginning of the world, which lived on continually as assumed: then the human species would not be preserved through the succession of its [individuals]{g:individuum}; for either there would be only one individual in the human species, which would be the whole race of men and would do whatever had been done by a man; or, if there were many individuals, yet on that supposition they would be human natures, not men; and so every [supposit]{g:suppositum} of human nature would be naturally prior to its species, from which, however, it would not take its [quiddity]{g:quiditas}.[^4]
 
 ## ¶4 · 194.21–194.29
 
 > [p. 194] 2do dicitur⁸ quod potest, quociens libuerit, fieri mutacio a contradictorio in contradictorium sine mutacione aut generacione aut corrupcione veritatis pertinentis. Ut posito quod in qualibet istarum parcium proporcionalium imparium huius hore⁹ omnis humanitas dimittatur et quelibet permaneat¹⁰ cum omnibus positivis¹¹ continue reassumpta; quod est impossibile, cum negacio non potest incipere; ymo unio, que est relacio tercii modi, non potest terminare mutacionem nisi in aliquo proprie¹² fiat motus.
 
-[ENGLISH]
+Secondly, it is said that, as often as one pleases, a change can be made from contradictory to contradictory without change or generation or corruption of any truth that pertains. As, suppose that in each of the odd [proportional parts]{g:partes-proporcionales} of this hour every humanity is laid aside, and each remains, with all its positive [features], continually re-assumed: which is impossible, since a negation cannot begin; indeed, [union]{g:unio}, which is a relation of the third mode, cannot terminate a change unless there is properly motion in something.[^5]
 
 ## ¶5 · 194.30–195.8
 
 > [p. 194] 3° dicitur consequenter quod in fine illius hore fient quotlibet homines, et tamen non fiet aliquid¹³ nec alicuiusmodi positivum,¹³ posito quod quotlibet nature iam assumpte [p. 195] dimittantur immote primo in fine hore. Unde subducta omni mutacione preter talem alternam dimissionem et reassumpcionem foret tempus et motus mirabilis successivus. Nec negabunt quin Deus potest, subducto alio¹ motu quocunque,² alternare mutaciones huiusmodi, cum dependeant solum a volucione libera Dei; et indubie, cum una foret prius quam reliqua, nedum natura sed tempore foret continua³ successio temporalis.
 
-[ENGLISH]
+Thirdly, it is said in consequence that at the end of that hour any number of men will come to be, and yet there will not come to be anything, nor anything positive of any kind, on the supposition that any number of natures now assumed [195] are laid aside, without being moved, first at the end of the hour. Hence, with every change taken away except such alternate laying-aside and re-assumption, there would be time and a wondrous [successive]{g:successivum} motion. Nor will they deny that God can, with any other motion whatever taken away, alternate changes of this kind, since they depend only on the free volition of God; and without doubt, since one would be prior to the other [not only]{g:nedum} by nature but in time, there would be a continuous temporal succession.[^6]
 
 ## ¶6 · 195.9–195.17
 
 > [p. 195] 4to conceditur de possibili quod iam non est nisi unicus homo, et infiniti homines ante finem illius hore adnichilabuntur, nec citra generabitur aliquid⁴ positivum, et tamen in fine erunt infiniti homines, posito quod Deus ex omnipotencia sua creet infinitas humanitates in domo illa, quarum infinitum parva sit aliqua, et totidem⁵ creet Rome, et assumat omnes illas usque ad finem⁶ hore in qua⁶ adnichilet omnes Rome et dimittat omnes Oxonie aliter non mutatas.
 
-[ENGLISH]
+Fourthly, it is granted as possible that now there is only a single man, and infinitely many men will be [annihilated]{g:adnichilare} before the end of that hour, nor will anything positive be generated in the meantime, and yet at the end there will be infinitely many men: on the supposition that God of his omnipotence creates infinitely many humanities in that house, of which some one is infinitely small, and creates as many at Rome, and assumes all of them up to the end of the hour, in which he annihilates all those at Rome and lays aside all those at Oxford, not otherwise changed.[^7]
 
 ## ¶7 · 195.18–195.27
 
 > [p. 195] 5to concedunt in casu quod⁷ in ista hora generabuntur vel fient infiniti homines et nichil illorum generabitur vel fiet ab aliquo, sed nec Deus sciet quando aliquis illorum hominum erit, ut divisa⁸ ista hora in suas partes proporcionales minores versus ultimum instans et quod in cuiuslibet illarum parcium prima medietate Deus dimittat unam, et in secunda reassumat reliquam dimittendo, servando in eis omnia positiva: tunc patet conclusio, cum nunquam erit ita⁹ quod isti homines sunt, et per consequens non erit aliquid de numero istorum hominum.
 
-[ENGLISH]
+Fifthly, they grant in a case that in this hour infinitely many men will be generated or come to be, and none of them will be generated or made by anyone, and not even God will know when any of those men will be: as, this hour being divided into its proportional parts, smaller toward the last instant, and [supposing] that in the first half of each of those parts God lays aside one [humanity], and in the second re-assumes [it], laying aside the other, keeping in them all their positive [features]: then the conclusion is clear, since it will never be so that "these men are", and consequently there will be nothing of the number of these men.[^8]
 
 ## ¶8 · 195.28–196.11
 
 > [p. 195] 6to concedunt quod in casu sex filii fuerint in b instanti geniti de Maria, in quo instanti non genuit nisi unum, et tamen non potest esse¹⁰ in b instanti nec alium filium nisi Iesum suum unigenitum genuisse, posito quod b fuit instans in quo genuit Iesum et quod post assumpcionem¹¹ multiplicata illa humanitate ad sex loca maneat assumpta a [p. 196] Trinitate in tribus locis et in aliis tribus maneat non assumpta: et tunc patet quod sex homines communicant in corpore Christi quod fuit genitum de Maria; ergo sex homines fuerunt ab ea geniti; et patet quod¹ residuum, illi quidem sex homines, forent genus Dei, quia tres persone divine et alie tres creature, hi² homines et illi³ non-homines, hi² filii et illi³ non-filii; et per consequens beata virgo nunquam genuit hos filios, et per idem nunquam fecit ut esset mater eorum; sicut nec corpus pro mensura, qua incepit esse multi homines, incepit secundum aliquid gigni vel esse filius, cum sola negacio non facit filium.
 
-[ENGLISH]
+Sixthly, they grant that in a case six sons were begotten of Mary at instant b, at which instant she begot only one; and yet it cannot be that at instant b she begot any other son than Jesus, her only-begotten: on the supposition that b was the instant at which she begot Jesus, and that after the assumption, that humanity being multiplied to six places, it remains assumed by the [196] Trinity in three places and in the other three remains not assumed. And then it is clear that six men share in the body of Christ which was begotten of Mary; therefore six men were begotten by her; and it is clear that the remainder, namely those six men, would be the race of God, for three [are] divine persons and the other three creatures, these men and those not-men, these sons and those not-sons;[^9] and consequently the blessed Virgin never begot these sons, and by the same token never brought it about that she was their mother; just as neither did the body, for the measure at which it began to be many men, begin in any respect to be begotten or to be a son, since a negation alone does not make a son.[^10]
 
 ## ¶9 · 196.12–196.30
 
 > [p. 196] 7° concedunt quod stat infinita loca in b instanti repleri per⁴ istum hominem, qui nec est nec generatur nec generabitur: sed iste idem homo continue usque ad b instans distabit a quolibet illorum nec movebitur nec multiplicabitur ad aliquem⁵ eorum vel e contra, cum tamen ad situm tanquam⁶ ad per se terminum erit⁶ motus, posito quod Pater in divinis incipiat assumere naturam humanam glorificatam in celo; et cum hoc, posito quod in b ultimo instanti illius hore infinitas humanitates assumeret,⁷ que manebunt perpetuo⁸ fixe ad modum coree⁹ disposite: et patet conclusio. Nam Deus Pater non potest generari divinitus nec generaretur humanitus nisi ad generacionem nature pro tempore quo assumeretur, quod non competit seni vel beato. Sicut ergo Filius adquirit loca¹⁰ movendo humanitus, ita Pater adquirens et replens corporee¹¹ illa loca quodammodo moveretur. Sed quomodo moveretur aliquid adquirendo locum, qualitatem, et quantitatem in se subiective, si secundum nullam naturam nec secundum subiectum motus primo motum taliter moveretur?
 
-[ENGLISH]
+Seventhly, they grant that it can stand that infinitely many places are filled at instant b by this man, who neither is nor is generated nor will be generated; but this same man will continually, up to instant b, be distant from each of them, and will neither be moved nor multiplied to any of them, nor the converse, although there will yet be motion to place as to its terminus [of itself]{g:per-se}: on the supposition that the Father [among the divine]{g:in-divinis} [persons] begins to assume human nature glorified in heaven; and with this, on the supposition that at b, the last instant of that hour, he assumed infinitely many humanities, which will remain perpetually fixed, arranged in the manner of a ring-dance: and the conclusion is clear. For God the Father cannot be generated divinely, nor would he be generated [humanly]{g:humanitus} except at the generation of the nature for the time at which it was assumed, which does not befit [one] old or blessed. As, then, the Son acquires places by moving humanly, so the Father, acquiring and filling those places bodily, would in a way be moved. But how would anything be moved by acquiring place, quality, and quantity in itself as [subject]{g:subiectum}, if it were moved in this way as to no nature, nor as to the subject of motion first moved?[^11]
 
 ## ¶10 · 196.31–197.29
 
 > [p. 196] 8° concedunt de possibili quod Petrus in infinitum [p. 197] remittetur¹ inmerito² et nunquam intendetur³ quousque fuerit infinitum Deo carior quam est modo; Paulus autem per idem tempus in infinitum intendetur³ inmerito et tamen⁴ in eodem fine temporis⁵ sine suo demerito erit Deo quantumlibet minus⁶ carus; ex quo videtur quod apud Deum sit excepcio personarum; posito quod Petrus per istam horam remittetur usque ad non gradum meriti exclusive et in fine assumatur a Verbo ypostatice; Paulus autem per idem tempus assumptus continue mereatur et in fine dimittatur: tunc patet conclusio, petito hoc notorio principio quod non est possibile Deum tantum diligere naturam hominis non assumptam sicut naturam propriam quam assumit: tunc posito quod infinitum bonus sit aliquis homo non assumptus, adhuc melior et Deo carior est quecunque humanitas quam assumit. Et revera⁷ talia videntur michi dissona: scilicet quod homo Petrus demereatur continue, quousque fuerit infinitum Deo carus; et Paulus continue mereatur, quousque decidat a summa amicicia Dei sui; cum sceleratissimus peccator contingentissime, ut asserunt, potest assumi⁸; et cum ignorare poterit assumpcionem propriam, non est evidencia dans fidem quin quelibet creatura ypostatice unibilis sit assumpta. Et tunc non video quomodo quis convinceretur ex ydololatria vel cognosceret quiditatem aliquam creature. Concedunt enim quod Deus potest esse lapis et speciei abiectissime creature, potest esse dampnatus, quod est perfeccius. Sed procul a fidelibus ista ludicra venenosa. Unde Augustinus 83 Vet.⁹ et Nov. Test.⁹ Questionum questione 5ª dicit quod nullum animal irracionale potest esse beatum, et multo evidencius nulla inanimata substancia.
 
-[ENGLISH]
+Eighthly, they grant as possible that Peter will be [197] [remitted]{g:remitti} in merit to infinity and never [intensified]{g:intendi} until he is infinitely dearer to God than he is now; and Paul through the same time will be intensified in merit to infinity, and yet at the same end of the time, without demerit of his own, will be as much less dear to God as you please; from which it seems that with God there is exception of persons:[^12] on the supposition that Peter through this hour is remitted down to no degree of merit, exclusively, and at the end is assumed by the Word [hypostatically]{g:ypostatice}; and Paul, assumed through the same time, continually merits and at the end is laid aside. Then the conclusion is clear, granting this well-known principle: that it is not possible that God should love a nature of man not assumed as much as the nature, his own, which he assumes.[^13] Then, supposing that some man not assumed is infinitely good, still better and dearer to God is any humanity whatever which he assumes. And in truth such things seem to me discordant: namely that the man Peter demerits continually until he is infinitely dear to God, and Paul continually merits until he falls from the highest friendship of his God; since the most wicked sinner can, most contingently, as they assert, be assumed; and since he could be ignorant of his own assumption, there is no [evidence]{g:evidencia} giving faith against any creature whatever that can be hypostatically united being assumed.[^14] And then I do not see how anyone would be convicted of idolatry, or would know the quiddity of any creature. For they grant that God can be a stone, and [of] the species of the most abject creature, [and] can be damned, which is more perfect.[^15] But far from the faithful be these poisonous games. Hence Augustine, in the Eighty-three Questions of the Old and New Testament, question 5, says that no irrational animal can be blessed, and much more evidently no inanimate substance.[^16]
 
 ## Notes
 
-## Transcription notes
+[^1]: **C.** "Can be lacking" (*deesse*) against "cannot lay it aside" (*dimittere*): the nature might never have been the Word's, since "the Word is a man" is contingent either way; but once assumed it is not laid aside. *Verbum esse hominem vel fuisse* is rendered as the quoted proposition.
 
+[^2]: **C/T.** "Of that personality, not nature": the laying-aside would be the abandoning of the personal union, not of the Word's nature. The print here follows O; A B C omit *illius personalitatis non nature* (194.3), giving "the abandoning of the Word of God himself", and O omits *ipsius*. "Urges": *monent*, with O; A B C read *movent* "move" (194.5), as at the head of the sentence. Chapters 5 and 10 are this treatise's (LEDGER I11c-1).
+
+[^3]: **C.** "And so with": the same grounds settle the chapter's next questions, many humanities assumed and one nature assumed by another person. The eight consequences that follow (the ninth and tenth in the next part) are those the moderns grant from these possibilities, each with the case (*posito quod*) that makes it true.
+
+[^4]: **C/T.** "Preserved": *salvaretur*, the species kept in being by the succession of its individuals. On the moderns' terms an assumed nature is not a man, and the Word with all the humanities is one man: hence the two horns. A B C omit *non homines* "not men" (194.17–18); the print follows O, and the second horn needs it. O reads *humanum* for *hominum* (194.15) and for *nature humane* (194.18).
+
+[^5]: **C/S.** "Any truth that pertains": no reality bearing on the case changes, yet "every humanity is assumed" and "it is not assumed" alternate. "Which is impossible" is Wyclif's verdict: a negation cannot begin of itself, and a relation of the third mode, the non-mutual relation of the measurable to its measure (Aristotle, *Metaphysics* V.15, 1021a26–b3; LEDGER I11c-2, to be checked), comes only with a change in one of its terms. O omits *huius hore* (194.25).
+
+[^6]: **C.** "Men will come to be": on the moderns' terms a nature laid aside is at once a man of its own, so new men are without anything positive being made. Wyclif presses the case: alternations of assumption with no other change would give time and successive motion with nothing moved. O reads *aliquid nec alicuius positivi*, A B C *aliud nec alicuiusmodi positivum* (194.31–32).
+
+[^7]: **C/T.** "That house … at Oxford": the house where the case is put, at Oxford, set against Rome. The case turns on the moderns' terms: humanities are not men while assumed and are men when laid aside, so men begin and cease with nothing positive generated. O reads *finem in quo* for *finem hore in qua* (195.15); C *cottidie* for *totidem* (195.14).
+
+[^8]: **C.** "Re-assumes [it], laying aside the other": *reassumat reliquam dimittendo*; the words can also be construed "re-assumes the other, laying [the first] aside". Either way no humanity stays laid aside through any whole part, so there is no instant at which "these men are", and none at which God could know them to be. O reads *dimissa* for *divisa* (195.21).
+
+[^9]: **C/T.** "Share in the body": *communicant in corpore*; the six (three where the body is assumed by the three persons, three where it is not) have the one body born of Mary. "These men and those not-men, these sons and those not-sons": A B C read *hic* "here" for *hi*, A C *ibi* "there" for *illi* (196.6–7; B *illi*), "here men and there not-men", which fits the six places; O abbreviates both words. The print is kept. O reads *ascensionem* "ascension" for *assumpcionem* (195.32).
+
+[^10]: **C.** "For the measure": *pro mensura*, at the instant (the measure of duration) at which the body, multiplied, began to be many men. Nothing positive came to be in it then: only the not-being-assumed of three of the six, and "a negation alone does not make a son".
+
+[^11]: **C/T.** "Who neither is nor is generated": the Father as man, who is not generated, since he begins to assume a humanity already grown and glorified ("old or blessed", *seni vel beato*, of that nature); yet he fills the places as the Son fills them by moving. "Ring-dance": *coree*, in all the codices; Harris asks whether *chorea* is meant (196.21). A B leave a gap of eight letters in *tanquam … erit*, C reads *tanquam ad per se erit* (196.17); A B C read *in* for *per* (196.12); O omits *loca* (196.25).
+
+[^12]: **S/C/T.** "Exception of persons": *excepcio personarum*, after Rom. 2:11, "there is no respect of persons with God" (Vulgate *acceptio*). "Remitted … intensified in merit": *remittetur inmerito … intendetur inmerito* (197.1, 197.3), the schools' remission and intension of a quality, here of merit. The case below ("remitted down to no degree of merit") requires *inmerito*, one word in the print, to be read *in merito*; the adverb "undeservedly" does not fit it. O reads *merito* at the first (197.1); A B C omit *tamen* (197.3); A B read *nimis* for *minus* (197.5).
+
+[^13]: **C.** "Granting": *petito*, the principle asked for and granted as a postulate, not the begging of the question. Peter, assumed at the end, is dearer to God than any unassumed man however good; Paul, laid aside, is less dear than he was while assumed, with no change in their merit.
+
+[^14]: **C/T.** "Giving faith against": *non est evidencia dans fidem quin … sit assumpta*, there is no evidence to make it of faith that any given creature is not assumed. A B C omit *revera* "in truth" (197.15); O reads *sumi* for *assumi* (197.19).
+
+[^15]: **C.** "Which is more perfect": ironic; a damned man is at least a rational creature, and so above a stone.
+
+[^16]: **S/T.** Whether an irrational animal can be blessed is question 5 of Augustine's *De diversis quaestionibus LXXXIII* (PL 40, 12; LEDGER I11c-3, to be checked). The words "of the Old and New Testament" (*Vet. et Nov. Test.*) stand in O and the print and are lacking in A B C (197.27); they bring in the title of the pseudo-Augustinian *Quaestiones Veteris et Novi Testamenti*. The print is translated.
+
+## Transcription notes

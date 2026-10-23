@@ -31,6 +31,11 @@
 
 ## Open for Wilson / later
 
+- **Line markers in `bt/`** (found 2026-10-23): on p. 204 and p. 220 the `NN|` markers for 20/25/30 sat one line late (fixed on
+  the plate; 12-a citations corrected). Pages whose marker offsets change by one within the page, not yet checked on the plate:
+  p. 2, 16, 22, 24, 32, 47, 75, 116. A late marker makes translators cite page.line one too low. Close-out: check each plate
+  margin, fix the marker, then grep the chunk notes for that page's citations.
+
 - Untraced rows waiting on outside books: Grosseteste *Hexaemeron* (Dales–Gieben 1982) I06a-5, I08b-5; Wyclif's
   own *De Trinitate* (Breck 1962) I01b-9; Cowton (I04c-1); a few *Physics* / commentary numberings.
 - The headnote (prol) predates the manuscripts-outrank-Harris rule: one sentence saying the edition follows the
