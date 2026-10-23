@@ -43,13 +43,13 @@ This granted, it seems in many ways that Christ's humanity is a man, and so the 
 
 [^3]: **S/T.** Rom. 8:34 ("who also maketh intercession for us"; cf. Heb. 7:25); Phil. 2:8 ("becoming obedient"). A B C read *quod* for *cum* (180.9) and *predicavit vel meruit* "preached or merited" for *predicat, vel ambulat* (180.13); O *quam* for *qua* (180.11).
 
-[^4]: **S/T.** Aristotle, *Posterior Analytics* I.2 (72a29), the axiom *propter quod unumquodque tale, et illud magis* (LEDGER I10f-1, to be checked); Wyclif has no *tale*. *Physics* V.1, the part moved first and the whole by accident (LEDGER I10f-2, to be checked). *Sentencia*: the teaching of the book. O reads *causaliter* "causally" for *taliter* (180.19); B *innate*, C omits *sunt* (180.15); A B C read *unica per* without *nisi* (180.16).
+[^4]: **S/T.** Aristotle, *Posterior Analytics* I.2 (72a29–30), the axiom *propter quod unumquodque tale, et illud magis*, the cause of an attribute's inherence inhering more than the attribute (LEDGER I10f-1, verified); Wyclif has no *tale*. *Physics* V.1 (224a21–26): the body is healed because the eye or the chest is; Aristotle calls this change in respect of a part, which he distinguishes from change by accident (LEDGER I10f-2, verified). *Sentencia*: the teaching of the book. O reads *causaliter* "causally" for *taliter* (180.19); B *innate*, C omits *sunt* (180.15); A B C read *unica per* without *nisi* (180.16).
 
-[^5]: **S/T.** *Physics* V.4, the unity of a motion from subject, time and that in which it is (LEDGER I10f-3, to be checked). O reads *indîatur* (180.31).
+[^5]: **S/T.** *Physics* V.4 (227b21–29), a motion one without qualification by the oneness of that in which, the time, and the thing moved (LEDGER I10f-3, verified). O reads *indîatur* (180.31).
 
 [^6]: **C/T.** *Post* "afterwards" (181.7) is doubtful; A B C, which omit the passage from *Si enim* to *hoc foret*, have *prius* in what they keep (*patet quod si naturaliter prius insit verbo hoc foret*, 181.6–8). O omits *infuerit* (181.6), reads *in esse* for *inest* (181.7) and *particulariter* for *parcialiter* (181.11).
 
-[^7]: **S/T.** Augustine, that the soul understands and senses before the composite (LEDGER I10f-4, to be checked). O omits *Et indubie* (181.13).
+[^7]: **S/T.** Augustine, that the soul understands and senses before the composite: place not found; compare *De Genesi ad litteram* III.5.7 (PL 34, 282), *sentire non est corporis, sed animae per corpus* (LEDGER I10f-4, untraced). O omits *Et indubie* (181.13).
 
 [^8]: **G/T.** The four dowries of the glorified body. B omits *quatuor* (181.23); O reads *humana* for *humanitus* (181.26).
 

@@ -53,7 +53,7 @@ This is confirmed. Christ's soul, body and their union, with their consequents, 
 
 [^5]: **C/T.** The parenthesis gives the absurdity of a second man in Christ: the Word would carry a person assumed to his person but not into unity of person, and the two would carry out the redemption together. A B C read *positas* "posited" for *positivas* (176.28).
 
-[^6]: **C/S/T.** *Assumptum*: the logician's assumption, the antecedent "Christ's humanity has … namings that can belong only to a man". Augustine and Grosseteste (*Lincolniensis*, Robert Grosseteste, bishop of Lincoln), cited above (LEDGER I10e-1, to be checked). O omits *sit … humanitas* (177.1–3), the eye passing between the two *humanitas*; A B C omit *substancia* (177.3) and read *sic* for *hoc* (177.4).
+[^6]: **C/S/T.** *Assumptum*: the logician's assumption, the antecedent "Christ's humanity has … namings that can belong only to a man". Augustine and Grosseteste (*Lincolniensis*, Robert Grosseteste, bishop of Lincoln), cited above at 127–128: Augustine, *De Trinitate* XV.7.11 (PL 42, 1065), *Homo est substantia rationalis constans ex anima et corpore*, and Grosseteste, *Hexaemeron*, sixth day, *creatura racionalis, facta ad ymaginem conditoris* (LEDGER I10e-1, verified; Grosseteste's wording unchecked, see I08b-5). O omits *sit … humanitas* (177.1–3), the eye passing between the two *humanitas*; A B C omit *substancia* (177.3) and read *sic* for *hoc* (177.4).
 
 [^7]: **C/T.** The moderns' negation, the constituent of the person (161–162): if a man is a man only with a negation added, he is a man by the negation, not formally by humanity. A B C read *facta* "the negation made" for *ficta* (177.5); B *compositum*, O *componitur* without *sit* (177.11); O *secundum* for *sed* (177.17).
 
