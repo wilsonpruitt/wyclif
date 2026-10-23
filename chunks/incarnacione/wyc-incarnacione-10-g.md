@@ -33,7 +33,7 @@ Such are the many [evidences]{g:evidencia} from which it ought to be believed—
 
 [^1]: **C/T.** *Passio* (183.2) is here the suffering, the Passion, not the attribute of the logicians' *subiectum / passio*; "as Christ [did]": *ut Christus* may also be read "as being Christ". *Posicio anime*: the laying-down of the soul, i.e. of life (John 10:15, 17–18), not the logical "position". O reads *ipsum* for *Ipsa* (183.1), A B C *ipâ*; A B C omit *per* (183.4) and *enim* (183.6); A C read *tantum tante* (183.7).
 
-[^2]: **G/S/T.** *Latria*: the worship due to God alone; *dulia*: the veneration due to a creature; *yperdulia* "hyperdulia": the higher veneration of a creature above the rest. The Master: Peter Lombard, *Sent.* III; the adoration of Christ's humanity with Augustine's testimony stands in modern editions at d. 9 c. 1, not d. 8 (LEDGER I10g-1, to be checked). B reads *Christus debet diligere humanitatem tantum quantum* (183.8–9); O omits *3°* and A adds *hoc* (183.11); O omits *tantum dulia … debet* (183.14–15).
+[^2]: **G/S/T.** *Latria*: the worship due to God alone; *dulia*: the veneration due to a creature; *yperdulia* "hyperdulia": the higher veneration of a creature above the rest. The Master: Peter Lombard, *Sent.* III; the adoration of Christ's humanity with Augustine's testimony stands at d. 9 c. 1–2 (PL 192, 775–776), not d. 8, which asks whether the divine nature is born of the Virgin (LEDGER I10g-1, verified). B reads *Christus debet diligere humanitatem tantum quantum* (183.8–9); O omits *3°* and A adds *hoc* (183.11); O omits *tantum dulia … debet* (183.14–15).
 
 [^3]: **C/T.** Latria goes to whatever is God, not to the abstract Godhead only: so the humanity, if it is the Word, is adored with latria in its own right. O omits *latria … adorari* (183.19–20); B reads *Christus sit* for *foret Christus* (183.24).
 
@@ -45,7 +45,7 @@ Such are the many [evidences]{g:evidencia} from which it ought to be believed—
 
 [^7]: **S/C/T.** Titus 3:4: DR "the goodness and kindness of God our Saviour"; Wyclif reads *humanitas* as the humanity, and the English keeps "humanity" because the argument turns on it. A B C omit *multe evidencie* (184.15); A C read *cum autem et humanitas apparuerit*, B *cum autem et apparuerit* (184.17–18), against the Vulgate.
 
-[^8]: **S.** Baruch 3:38 (DR), without *Post haec*. Jer. 31:22: the Vulgate has *femina circumdabit virum*, DR "A woman shall compass a man"; Wyclif puts it in the past. Augustine, *De vera religione* (LEDGER I10g-2, to be checked). *Mas* "male" and *vir* name the sex, against the bare *homo*.
+[^8]: **S.** Baruch 3:38 (DR), without *Post haec*. Jer. 31:22: the Vulgate has *femina circumdabit virum*, DR "A woman shall compass a man"; Wyclif puts it in the past. Augustine, *De vera religione* 16.30 (PL 34, 135): *ne quis forte sexus a suo Creatore se contemptum putaret, virum suscepit, natus ex femina* (LEDGER I10g-2, verified). *Mas* "male" and *vir* name the sex, against the bare *homo*.
 
 ## Transcription notes
 

@@ -59,7 +59,7 @@ And if it is asked about its first subject, the answer is that the soul is the f
 
 [^2]: **G/T.** *Passio* in the list of categories is being-acted-on, against *accio*. "Speaking univocally": *univocando*, taking "accident" in one sense for all nine categories. A B C read *sic* for *sicut* (190.11); O *cuiuscunque* for *cuiusmodi* (190.11–12).
 
-[^3]: **S/T.** Thomas Aquinas, that in the sacrament the other accidents have quantity as their subject (*Summa theologiae* III q. 77 a. 2; LEDGER I11b-1, to be checked). "It is the substance's being quantified": quantity is no thing other than the substance so disposed. C omits *magna* (190.20).
+[^3]: **S/T.** Thomas Aquinas, that in the sacrament the other accidents have quantity as their subject (*Summa theologiae* III q. 77 a. 2: *accidentia alia … esse sicut in subiecto in quantitate dimensiva*; LEDGER I11b-1, verified). "It is the substance's being quantified": quantity is no thing other than the substance so disposed. C omits *magna* (190.20).
 
 [^4]: **C/T.** "Ceases to be a what": *desinit esse quid*, ceases to be a quiddity, a "what" in the category of substance, while the essence remains. "The bread [that was] before": *est panis ante transsubstanciacionem*; A B C add *cum* after *panis* (190.27). A B read *comitanter*, C *comicantus*, for *concomitanter* (190.32).
 
@@ -75,19 +75,19 @@ And if it is asked about its first subject, the answer is that the soul is the f
 
 [^10]: **C/T.** "And the same in number": it is one and the same wonder, that the two natures are one person and that God is a man. A B C read *p°les poterint*, i.e. *possibiles poterint* (191.27).
 
-[^11]: **S/T.** The created trinity of the soul: Augustine, *De Trinitate* IX–X, where the triad is memory, understanding and will (LEDGER I11b-2, to be checked); Wyclif names reason in place of understanding. B reads *putant* for *possunt* (192.6).
+[^11]: **S/T.** The created trinity of the soul: Augustine, *De Trinitate* X.11.18 (PL 42, 983), where the triad is memory, understanding and will, *memoria, intelligentia, voluntas* (Book IX has *mens, notitia, amor*) (LEDGER I11b-2, verified); Wyclif names reason in place of understanding. B reads *putant* for *possunt* (192.6).
 
 [^12]: **C.** "Both the one made pleasing and that which itself makes pleasing": *tam gratificatum quam ipsum gratificans*, the subject of grace and the grace; grace that makes pleasing (*gracia gratificans*) presupposes a subject to be made pleasing.
 
-[^13]: **S/T.** Augustine, *Enchiridion* 11.36, that the human nature merited nothing before it was assumed into the unity of the person (LEDGER I11b-3, to be checked). O omits *et* (192.17) and *formaliter* (192.25); A has *natura* in an erasure by another hand, B reads *ullam*, C *nulla* (192.26); O *posterius* (192.26); A C read *per instanti*, B *pro instanti* (192.30).
+[^13]: **S/T.** Augustine, *Enchiridion* 11.36, that the human nature merited nothing before it was assumed into the unity of the person (PL 40, 250: *quibus mereretur iste homo una fieri persona cum Deo?*; Harris's index has the same place; LEDGER I11b-3, verified). O omits *et* (192.17) and *formaliter* (192.25); A has *natura* in an erasure by another hand, B reads *ullam*, C *nulla* (192.26); O *posterius* (192.26); A C read *per instanti*, B *pro instanti* (192.30).
 
-[^14]: **S.** Harris leaves the chapter blank. The words, with *homo … Deo* where Wyclif has *Deus … homini*, are Augustine's *De Trinitate* XIII.19.24, not *The City of God* (LEDGER I11b-4, to be checked).
+[^14]: **S.** Harris's index gives *De civitate Dei* X.29, which has the thought (*Gratia Dei non potuit gratius commendari*) but not the words. The words, with *homo … Deo* where Wyclif has *Deus … homini*, are Augustine's *De Trinitate* XIII.19.24 (PL 42, 1033: *In rebus enim per tempus ortis, illa summa gratia est, quod homo in unitate personae conjunctus est Deo*). *Nullis precedentibus meritis* and *copulatur* come from *Enchiridion* 12.40 (LEDGER I11b-4, verified).
 
-[^15]: **S/T.** Augustine, *Enchiridion* 12.40, the grace made "in a way natural" to that man (LEDGER I11b-5, to be checked). C reads *efficaciter* for *efficienter* (193.9); O omits *temporis … prioritate* (193.11–12).
+[^15]: **S/T.** Augustine, *Enchiridion* 12.40, the grace made "in a way natural" to that man (PL 40, 252: *fieret quodam modo ipsa gratia illi homini naturalis*; LEDGER I11b-5, verified). C reads *efficaciter* for *efficienter* (193.9); O omits *temporis … prioritate* (193.11–12).
 
 [^16]: **T/C.** "Cognitive": O reads *9gniti^m*, which Harris takes as *cognitivum*, against the print's *cognitum* "known" (193.22). The argument needs it: each particle of the definition excludes one case, "naturally" the Holy Spirit (proceeding by will), "from its like in nature" the worm, and only "cognitive" the inanimate thing, which a known thing would not exclude. The English follows O (Harris's expansion, with his query).
 
-[^17]: **S.** Augustine, *Enchiridion* 12.39, that what is born of a man, as hair or worms, is not his son, and the Holy Spirit is not the Son though from the Father (LEDGER I11b-6, to be checked).
+[^17]: **S.** Augustine, *Enchiridion* 12.39, that what is born of a man, as hair or worms, is not his son (PL 40, 252: *capillum, pediculum, lumbricum, quorum nihil est filius*). Augustine's point there is that Christ, born of the Spirit, is not the Spirit's son, so Wyclif's 'the Holy Spirit is not the Son of the Father' is his own application (LEDGER I11b-6, verified).
 
 ## Transcription notes
 

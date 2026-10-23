@@ -94,7 +94,7 @@ Fourthly, this is confirmed from this: that God can make an accident be of itsel
 
 ## Notes
 
-[^1]: **S/T.** Duns Scotus, *Ordinatio* III d. 1 q. 1, on whether a created nature can be united to the Word, with its two respects of an accident to its subject and its arguments for the possibility (LEDGER I11a-1, to be checked); the passage quoted is given in Wyclif's words. A B read *insuper est* for *Superest* (185.2); A B C *huic sentencie contraria in verbis* (185.2–3).
+[^1]: **S/T.** Duns Scotus, *Ordinatio* III d. 1 q. 1, on whether a created nature can be united to the Word, with its two respects of an accident to its subject and its arguments for the possibility: the two respects are at n. 3 (Wadding VII.1, p. 6), and the arguments that singularity precedes personality and that an accident exists of itself in the Eucharist are reasons Scotus reports and rejects in the third article, n. 7 (p. 10) (LEDGER I11a-1, verified); the passage quoted is given in Wyclif's words. A B read *insuper est* for *Superest* (185.2); A B C *huic sentencie contraria in verbis* (185.2–3).
 
 [^2]: **C.** *Habitudo* in the "respect" sense throughout the chapter: the relation under which accident and subject, nature and Word, stand. *Racio* here (185.7, 185.13, 185.21) is the aspect under which the relation holds.
 
@@ -118,13 +118,13 @@ Fourthly, this is confirmed from this: that God can make an accident be of itsel
 
 [^12]: **C.** "For that prior [moment]": *pro illo priori*, the prior instant of nature, not of time. "Make that nature a person": *personare*, the active beside *personari* "be made a person".
 
-[^13]: **C/T.** "[To]": O adds *ad* (188.31), *presupponeretur … ad assumpcionem*, which the sense needs; the print is kept and the word supplied from O. "Personation": the constituting of a created person. The definition of person as an individual of rational nature is Boethius's (*Contra Eutychen* 3; LEDGER I11a-3, to be checked).
+[^13]: **C/T.** "[To]": O adds *ad* (188.31), *presupponeretur … ad assumpcionem*, which the sense needs; the print is kept and the word supplied from O. "Personation": the constituting of a created person. The definition of person as an individual of rational nature is Boethius's (*Contra Eutychen* 3, PL 64, 1343D: *Persona est naturae rationalis individua substantia*; LEDGER I11a-3, verified).
 
 [^14]: **T.** A B C omit *e contra … Christus* (189.1–2); A B C read *individuum* for *suppositum* (189.6); O *possit* for *potest* (189.9).
 
 [^15]: **C.** "And in consequence this person [could]": the sense is that this person, the Word, would then be another man.
 
-[^16]: **S/C/T.** Anselm, *De incarnatione Verbi* c. 7 in Wyclif's numbering (Schmitt c. 11; PL 158, c. VI), on what makes the person of Christ this individual (LEDGER I11a-2, to be checked). "Colour": a plausible ground. C omits *nisi*, O *ut* (189.21).
+[^16]: **S/C/T.** Anselm, *De incarnatione Verbi* c. 7 in Wyclif's numbering (Schmitt c. 11; PL 158, c. VI), on what makes the person of Christ this individual: the *collectio proprietatum, quibus homo communis fit singulus*, which in Jesus is the same as the Word's (PL 158, 278D–279A; LEDGER I11a-2, verified). "Colour": a plausible ground. C omits *nisi*, O *ut* (189.21).
 
 [^17]: **T.** O reads *illi unio quam ille hoc* (189.27).
 
