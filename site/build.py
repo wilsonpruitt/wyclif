@@ -284,7 +284,7 @@ def page(title, body, depth, desc='', canonical=''):
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(title)}</title><meta name="description" content="{html.escape(desc)}">
 {f'<link rel="canonical" href="{SITE}/{canonical}">' if canonical is not None else ''}
-{FONTS}<link rel="icon" href="{up}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{up}style.css?v={ASSET_V}"><script defer src="/_vercel/insights/script.js"></script></head>
+{FONTS}<link rel="icon" href="{up}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{up}style.css?v={ASSET_V}"><script defer src="/_vercel/insights/script.js"></script><script defer src="https://wrootpress.com/shelves.js"></script></head>
 <body>
 <header class="top"><a class="home" href="{up}">Wyclif’s Latin works</a>
 <nav><a href="{up}ecclesia/"><i>De ecclesia</i></a><a href="{up}dialogus/"><i>Dialogus</i></a><a href="{up}potestate-pape/"><i>De potestate pape</i></a><a href="{up}incarnacione/"><i>De incarnacione</i></a><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
