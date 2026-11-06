@@ -38,15 +38,44 @@
 - **Cost, stages 1–6:** agents ≈3.96M (Sonnet) + coordinator (Opus). The ≈2.3M in the 2026-10-12 scope did not
   price the transcription.
 
-## ▶ Next: stage 7, after Wilson's "which model, and go?"
+## ✅ Stage 7, first chunk: `prol-a` translated 2026-11-06 (Opus agent, 113K; commit 3a58d352, local)
 
-1. **First chunk** `prol-a` (the compendium + the volume headnote): `brief.py eucharistia prol-a` is built
-   (`_briefs/eucharistia-prol-a-prol-a.md`, ≈16K). Translate (Opus), then the **four-class review in a fresh
-   session** (Fable, as *De incarn.*: this volume's term set — *sacramentaliter / realiter / figurative /
-   ydemptice*, *accidens sine subiecto*, *remanencia* — is GLOSSARY work that compounds). Card changes land
-   before the rest run.
-2. Then the waves (3 chunks per brief, Opus), with the stage-8 per-wave checks (ledger K-rows, connectives,
-   glossary conform). Estimate for translation + close-out, re-measured on *De incarn.* / *De pot. pape*: ≈16–18M.
+795 Latin words, 20 notes (dense: the compendium is all references), lint clean, 1 Cor 10:16 bible.py-checked.
+Headnote has 4 `[verify]` (date c. 1379–80; Oxford 1381 / Blackfriars 1382; Bohemian reception; no complete
+English translation). Ledger **Kprola-1…10** appended (to-verify; Gratian D. 2 cc. 27, 42, 49 and X 3.41.6 → Friedberg).
+Agent's open points, for the reviewer and the coordinator:
+- **To rule before ch. 2:** *solvit / dissolvit* (answer / resolve? the compendium alternates them);
+  *predicacio ydemptica / tropica* (identical / tropical predication — the treatise's key pair).
+- Other glossary proposals: *hostia* host · *panis* bread · *substancia* substance · *accidens sine subiecto* accident
+  without a subject · *figurative* figuratively · *sacramentaliter* sacramentally · *invisibiliter* invisibly ·
+  *fingere* (miracles) feign · *esus corporalis / spiritualis* bodily / spiritual eating · *novella ecclesia* the
+  newer church (per *novelli*) · *confeccio* consecration.
+- Latin: 2.4–5 *.Beringarii*, *.Jeronimi* — stray stop, probably an OCR scar (plate p. 2 = n73; fix by tokenfix +
+  relatin while NO agent runs). 1.24–2.5 whether the three decrees resolve the objections or ground them (C n. 8).
+  3.22 print *varietate* kept vs ABCD *vanitate* (T n. 16). 4.20 whose *sanctitas* (C n. 19). Apparatus scars:
+  p. 3 l. 22 "ARGQ" ≈ ABCD, p. 1 "1>" ≈ D.
+
+## ▶ Next: the four-class review of `prol-a`, in a FRESH session (Fable)
+
+Paste this as the session's prompt:
+
+> In ~/wyclif, do the first-chunk four-class review of *De eucharistia* `prol-a` (WORKFLOW stage 6/7, PLAN M5).
+> Read `chunks/eucharistia/RESUME.md` (the "Stage 7, first chunk" section), `chunks/eucharistia/CARD.md` whole,
+> CONVENTIONS §§6–9, 12, 14, and use `chunks/incarnacione/_review/REVIEW-01a.md` as your model for method and
+> format (its header and table: # | page.line | Latin | current English | class | severity | proposed English |
+> reason; exact strings for find/replace). Review `chunks/eucharistia/wyc-eucharistia-prol-a.md` sentence by
+> sentence against Loserth's Latin (the `>` blocks) and the headnote; grep GLOSSARY.md per term. Account for every
+> connective. Read a plate (`scripts/plate.sh`; leaf = page + 71) only where the brief's apparatus OCR is broken
+> or the RESUME names a doubt (2.4–5). Do not re-verify sources. Do NOT edit the chunk. Write
+> `chunks/eucharistia/_review/REVIEW-prol-a.md`, then a second section: **GLOSSARY rulings proposed** for this
+> volume's term set (*sacramentaliter / realiter / figurative / ydemptice*, *predicacio ydemptica / tropica*,
+> *accidens sine subiecto*, *remanencia*, *solvere / dissolvere*, and the agent's other proposals in RESUME),
+> each with rendering, reason, and the GLOSSARY §; and **CARD changes proposed** before the waves run.
+> Then stop and report: counts by class and severity, and the rulings Wilson must make.
+
+After the review: the coordinator applies rows, lands GLOSSARY + CARD changes (card leaves DRAFT), fixes the
+2.4–5 scar, then the waves (3 chunks per brief, Opus) with the stage-8 per-wave checks. Estimate for translation +
+close-out, re-measured on *De incarn.* / *De pot. pape*: ≈16–18M — its own "which model, and go?".
 
 ## Open (non-blocking)
 
