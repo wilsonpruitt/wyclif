@@ -24,7 +24,10 @@ apparatus at the page foot.
   keeps its hyphen (`incommuni-`), and the next line starts with the rest (`cantes:`). The same applies at
   the page foot: end the page with `consideran-` if that is what it prints.
 - **Line numbers:** where the print has a line number in the margin (5, 10, 15 …), start that line with
-  `N| ` (`5| videntur inperitis contraria ;`).
+  `N| ` (`5| videntur inperitis contraria ;`). ⚠ The number belongs to the line its baseline is **level
+  with**, wherever it stands (left or right margin); count the lines from the top to check: 5 is the fifth
+  printed line (a heading line counts if the print counts it). *De eucharistia*, 2026-11-06: on 41 pages with
+  the numbers in the right margin every marker was put one line late.
 - **Heading lines** start with `# ` (`# Cap. I.`). **The editor's argument/summary lines** (bracketed,
   usually italic, in the column above the body) start with `> `.
 - **Paragraphs:** a line that begins a new paragraph (indented in print) starts with `¶`. The first line on a
