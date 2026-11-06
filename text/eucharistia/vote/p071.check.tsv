@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+11	R3	latinworks13wycl=conficere | iohanniswyclifd01losegoog=conicere | iohanniswyclifde12wycl=conficere		3	plate
+20	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=hod | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+23	R2	latinworks13wycl=nouitate | iohanniswyclifd00losegoog=nouicaic | iohanniswyclifd01losegoog=nouitate | iohanniswyclifde12wycl=nouitate		4	accept
+24	R2	latinworks13wycl=tali | iohanniswyclifd00losegoog=lall | iohanniswyclifd01losegoog=tali | iohanniswyclifde12wycl=tali		4	accept
+28	R2	latinworks13wycl=fides | iohanniswyclifd00losegoog=fides | iohanniswyclifd01losegoog=ndes | iohanniswyclifde12wycl=hues		4	accept
+34	R2	latinworks13wycl=efficax | iohanniswyclifd00losegoog=efficax | iohanniswyclifd01losegoog=efncax | iohanniswyclifde12wycl=etneax		4	accept
+38	R2	latinworks13wycl=noc | iohanniswyclifd00losegoog=hoc | iohanniswyclifd01losegoog=hoc | iohanniswyclifde12wycl=hoc		4	accept
+41	R2	latinworks13wycl=quodlibet | iohanniswyclifd00losegoog=qitodlibct | iohanniswyclifd01losegoog=quodlibet | iohanniswyclifde12wycl=quodlibet		4	accept
+48	R2	latinworks13wycl=sacramento | iohanniswyclifd00losegoog=sacramcmo | iohanniswyclifd01losegoog=sacramento | iohanniswyclifde12wycl=sacramento		4	accept
+56	R3a	latinworks13wycl=assumptum | iohanniswyclifd00losegoog=assumpturn | iohanniswyclifd01losegoog=assumptum | iohanniswyclifde12wycl=assumptura		4	accept
+99	R2	latinworks13wycl=patet | iohanniswyclifd00losegoog=pucet | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=patet		4	accept
+104	R2	latinworks13wycl=de | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=de | iohanniswyclifde12wycl=de		4	accept
+109	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+116	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+119	R2	latinworks13wycl=hoc | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=hoc | iohanniswyclifde12wycl=hoc		4	accept
+128	R2	latinworks13wycl=in | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+151	R5a	latinworks13wycl=loyci | iohanniswyclifd00losegoog=loyci | iohanniswyclifd01losegoog=loyci | iohanniswyclifde12wycl=loyci		4	accept
+162	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+169	R2	latinworks13wycl=patet | iohanniswyclifd00losegoog=patcl | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=patet		4	accept
+183	R2	latinworks13wycl=doctorum | iohanniswyclifd00losegoog=doclorura | iohanniswyclifd01losegoog=doctorum | iohanniswyclifde12wycl=doctorum		4	accept
+186	R3a	latinworks13wycl=antiqui | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=antiqui | iohanniswyclifde12wycl=antiqui		4	accept
+193	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+201	R2	latinworks13wycl=surtecit | iohanniswyclifd00losegoog=itecit | iohanniswyclifd01losegoog=suttecit | iohanniswyclifde12wycl=suffecit		4	accept
+208	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=30esl | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+211	R5a	latinworks13wycl=accidentatam | iohanniswyclifd00losegoog=accidentatam | iohanniswyclifd01losegoog=accidentatam | iohanniswyclifde12wycl=accidentatam		4	accept
+212	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+217	R3a	latinworks13wycl=quod | iohanniswyclifd00losegoog=quoi | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+225	R5	latinworks13wycl=cxiu | iohanniswyclifd01losegoog=cxiu | iohanniswyclifde12wycl=cxiu		3	plate
+226	THIN	latinworks13wycl=episcopornm		1	plate

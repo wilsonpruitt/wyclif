@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=de		1	accept
+1	INS?	pane illo edat et de calice bibat manifestum inquam uidetur quod loquiturde	2	4	plate
+4	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+9	R4	latinworks13wycl=patiis | iohanniswyclifd00losegoog=pants | iohanniswyclifd01losegoog=pants | iohanniswyclifde12wycl=panis		4	plate
+10	NW	latinworks13wycl=quem | iohanniswyclifd00losegoog=quern | iohanniswyclifd01losegoog=quern | iohanniswyclifde12wycl=quern		4	plate
+20	R2	latinworks13wycl=panem | iohanniswyclifd00losegoog=panem | iohanniswyclifd01losegoog=panem | iohanniswyclifde12wycl=pattern		4	accept
+25	R3	latinworks13wycl=panem | iohanniswyclifd00losegoog=partem | iohanniswyclifd01losegoog=panem | iohanniswyclifde12wycl=pattern		4	plate
+26	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=uel | iohanniswyclifd01losegoog=pel | iohanniswyclifde12wycl=uel		4	accept
+44	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+63	NW	latinworks13wycl=quem | iohanniswyclifd00losegoog=quern | iohanniswyclifd01losegoog=quern | iohanniswyclifde12wycl=quern		4	plate
+75	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+87	R3a	latinworks13wycl=facit | iohanniswyclifd00losegoog=facil | iohanniswyclifd01losegoog=facit | iohanniswyclifde12wycl=facit		4	accept
+98	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ec | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+120	R2	latinworks13wycl=debemus | iohanniswyclifd00losegoog=debcraus | iohanniswyclifd01losegoog=deberaus | iohanniswyclifde12wycl=debemus		4	accept
+126	R2	latinworks13wycl=modum | iohanniswyclifd00losegoog=raodum | iohanniswyclifd01losegoog=modum | iohanniswyclifde12wycl=modum		4	accept
+152	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+158	NW	latinworks13wycl=quem | iohanniswyclifd00losegoog=quern | iohanniswyclifd01losegoog=quern | iohanniswyclifde12wycl=quern		4	plate
+170	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+173	R4	latinworks13wycl=i | iohanniswyclifd00losegoog=iiilli | iohanniswyclifd01losegoog=asilli | iohanniswyclifde12wycl=2illi		4	plate
+174	DEL	latinworks13wycl=lli | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	accept
+188	R3a	latinworks13wycl=docent | iohanniswyclifd00losegoog=decent | iohanniswyclifd01losegoog=docent | iohanniswyclifde12wycl=docent		4	accept
+202	R5	latinworks13wycl=glossare | iohanniswyclifd01losegoog=glossare | iohanniswyclifde12wycl=glossare		3	plate

@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=est | iohanniswyclifde12wycl=est		2	accept
+1	EDGE	latinworks13wycl=miraculo | iohanniswyclifde12wycl=miraculo		2	accept
+2	EDGE	latinworks13wycl=christi | iohanniswyclifde12wycl=christi		2	accept
+17	R3	latinworks13wycl=pape | iohanniswyclifd01losegoog=pane | iohanniswyclifde12wycl=pane		3	plate
+35	R5	latinworks13wycl=etcumdubiis | iohanniswyclifd01losegoog=etcumdubiis | iohanniswyclifde12wycl=etcumdubiis		3	plate
+39	R2	latinworks13wycl=omnes | iohanniswyclifd01losegoog=omnes | iohanniswyclifde12wycl=oranes		3	accept
+57	R2	latinworks13wycl=sicut | iohanniswyclifd01losegoog=ucut | iohanniswyclifde12wycl=sicut		3	accept
+74	R5	latinworks13wycl=fundabili | iohanniswyclifd01losegoog=fundabili | iohanniswyclifde12wycl=fundabili		3	plate
+77	R5	latinworks13wycl=defensibili | iohanniswyclifd01losegoog=defensibili | iohanniswyclifde12wycl=defensibili		3	plate
+82	R2	latinworks13wycl=fatue | iohanniswyclifd01losegoog=fiitue | iohanniswyclifde12wycl=fatue		3	accept
+92	R2	latinworks13wycl=duos | iohanniswyclifd01losegoog=iquenies | iohanniswyclifde12wycl=duos		3	accept
+93	R2	latinworks13wycl=muenies | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=inuenies		3	accept
+105	R3	latinworks13wycl=ad | iohanniswyclifd01losegoog=adi | iohanniswyclifde12wycl=adi		3	plate
+107	R3	latinworks13wycl=ignorancie | iohanniswyclifd01losegoog=ignorande | iohanniswyclifde12wycl=ignorancie		3	plate
+130	R4	latinworks13wycl=hii | iohanniswyclifd01losegoog=hi | iohanniswyclifde12wycl=hii		3	plate
+138	R5	latinworks13wycl=hii | iohanniswyclifd01losegoog=hii | iohanniswyclifde12wycl=hii		3	plate
+146	R6	latinworks13wycl=that | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=that		3	plate
+195	R5	latinworks13wycl=eukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		3	plate
+204	R5	latinworks13wycl=eukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		3	plate
+213	R4a	latinworks13wycl=hic | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		3	accept
+214	R3	latinworks13wycl=modo | iohanniswyclifd01losegoog=mode | iohanniswyclifde12wycl=modo		3	plate

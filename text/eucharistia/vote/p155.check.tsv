@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=quam		1	accept
+1	EDGE	latinworks13wycl=fictum		1	accept
+9	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=cc | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+14	R2	latinworks13wycl=eadem | iohanniswyclifd00losegoog=eadetn | iohanniswyclifd01losegoog=eadem | iohanniswyclifde12wycl=eadem		4	accept
+17	R2	latinworks13wycl=calicem | iohanniswyclifd00losegoog=cttliceni | iohanniswyclifd01losegoog=calicem | iohanniswyclifde12wycl=calicem		4	accept
+33	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+59	R4a	latinworks13wycl=derendentes | iohanniswyclifd00losegoog=defendcntes | iohanniswyclifd01losegoog=defendentes | iohanniswyclifde12wycl=derendentes		4	accept
+64	R3a	latinworks13wycl=torent | iohanniswyclifd00losegoog=forcnt | iohanniswyclifd01losegoog=forent | iohanniswyclifde12wycl=torent		4	accept
+69	R2	latinworks13wycl=multa | iohanniswyclifd00losegoog=raulta | iohanniswyclifd01losegoog=multa | iohanniswyclifde12wycl=multa		4	accept
+74	R3a	latinworks13wycl=tota | iohanniswyclifd00losegoog=iota | iohanniswyclifd01losegoog=tota | iohanniswyclifde12wycl=tota		4	accept
+86	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ul | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+93	R3a	latinworks13wycl=editis | iohanniswyclifd00losegoog=edicis | iohanniswyclifd01losegoog=editis | iohanniswyclifde12wycl=editis		4	accept
+107	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+133	R2	latinworks13wycl=hcetbeing | iohanniswyclifd00losegoog=licet | iohanniswyclifd01losegoog=licet | iohanniswyclifde12wycl=licet		4	accept
+163	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+194	R3a	latinworks13wycl=opposito | iohanniswyclifd00losegoog=opposite | iohanniswyclifd01losegoog=opposito | iohanniswyclifde12wycl=opposito		4	accept
+221	R5a	latinworks13wycl=defamant | iohanniswyclifd00losegoog=defamant | iohanniswyclifd01losegoog=defamant | iohanniswyclifde12wycl=defamant		4	accept

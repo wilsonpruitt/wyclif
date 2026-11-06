@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+15	R2	latinworks13wycl=totum | iohanniswyclifd00losegoog=loium | iohanniswyclifd01losegoog=totum | iohanniswyclifde12wycl=totum		4	accept
+27	R4	latinworks13wycl=udolatrie | iohanniswyclifd00losegoog=ydolatrie | iohanniswyclifd01losegoog=ydolatrie | iohanniswyclifde12wycl=udolatrie		4	plate
+43	R2	latinworks13wycl=ita | iohanniswyclifd00losegoog=iia | iohanniswyclifd01losegoog=ita | iohanniswyclifde12wycl=ita		4	accept
+65	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+66	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+70	R2	latinworks13wycl=foret | iohanniswyclifd00losegoog=iorec | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=foret		4	accept
+103	R5a	latinworks13wycl=quidditatem | iohanniswyclifd00losegoog=quidditatem | iohanniswyclifd01losegoog=quidditatem | iohanniswyclifde12wycl=quidditatem		4	accept
+119	R3a	latinworks13wycl=secta | iohanniswyclifd00losegoog=secia | iohanniswyclifd01losegoog=secta | iohanniswyclifde12wycl=secta		4	accept
+126	R5a	latinworks13wycl=fantasiaret | iohanniswyclifd00losegoog=fantasiaret | iohanniswyclifd01losegoog=fantasiaret | iohanniswyclifde12wycl=fantasiaret		4	accept
+160	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+175	R5a	latinworks13wycl=ydolatrandi | iohanniswyclifd00losegoog=ydolatrandi | iohanniswyclifd01losegoog=ydolatrandi | iohanniswyclifde12wycl=ydolatrandi		4	accept
+208	R3a	latinworks13wycl=uen | iohanniswyclifd00losegoog=ueri | iohanniswyclifd01losegoog=ueri | iohanniswyclifde12wycl=ueri		4	accept
+210	R2	latinworks13wycl=cnnsti | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+211	R4	latinworks13wycl=sienincarent | iohanniswyclifd00losegoog=signifiocarent | iohanniswyclifd01losegoog=significarcnt | iohanniswyclifde12wycl=signincarent		4	plate
+216	R3a	latinworks13wycl=tidelem | iohanniswyclifd00losegoog=fidelem | iohanniswyclifd01losegoog=fidelem | iohanniswyclifde12wycl=ndelem		4	accept
+217	R5a	latinworks13wycl=loycum | iohanniswyclifd00losegoog=loycum | iohanniswyclifd01losegoog=loycum | iohanniswyclifde12wycl=loycum		4	accept
+228	EDGE	latinworks13wycl=illa		1	accept
+229	EDGE	latinworks13wycl=accidencia		1	accept

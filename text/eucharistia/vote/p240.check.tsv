@@ -1,0 +1,35 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=suam		1	accept
+1	EDGE	latinworks13wycl=naturalem		1	accept
+2	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+19	R5a	latinworks13wycl=indiuidualem | iohanniswyclifd00losegoog=iadiutdualem | iohanniswyclifd01losegoog=indiuiduaiem | iohanniswyclifde12wycl=indiuidualem		4	accept
+42	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=ei | iohanniswyclifde12wycl=et		4	accept
+52	R3a	latinworks13wycl=diei | iohanniswyclifd00losegoog=diei | iohanniswyclifd01losegoog=dici | iohanniswyclifde12wycl=diei		4	accept
+56	R3a	latinworks13wycl=figura | iohanniswyclifd00losegoog=ligura | iohanniswyclifd01losegoog=figure | iohanniswyclifde12wycl=figura		4	accept
+57	R2	latinworks13wycl=hominis | iohanniswyclifd00losegoog=homlais | iohanniswyclifd01losegoog=hominis | iohanniswyclifde12wycl=hominis		4	accept
+63	R3a	latinworks13wycl=illis | iohanniswyclifd00losegoog=illis | iohanniswyclifd01losegoog=luis | iohanniswyclifde12wycl=illis		4	accept
+66	R2	latinworks13wycl=implicantur | iohanniswyclifd00losegoog=impliio | iohanniswyclifd01losegoog=implicanlur | iohanniswyclifde12wycl=implicantur		4	accept
+73	R3a	latinworks13wycl=ille | iohanniswyclifd00losegoog=lue | iohanniswyclifd01losegoog=ille | iohanniswyclifde12wycl=ille		4	accept
+74	R4	latinworks13wycl=presuppotiunt | iohanniswyclifd00losegoog=presupponuni | iohanniswyclifd01losegoog=presuppoiiunt | iohanniswyclifde12wycl=presupponunt		4	plate
+75	R4a	latinworks13wycl=differenciam | iohanniswyclifd00losegoog=ditferenciam | iohanniswyclifd01losegoog=difterenciam | iohanniswyclifde12wycl=difterenciam		4	accept
+79	R2	latinworks13wycl=nam | iohanniswyclifd00losegoog=oam | iohanniswyclifd01losegoog=nam | iohanniswyclifde12wycl=nam		4	accept
+82	NW	latinworks13wycl=tnangulo | iohanniswyclifd00losegoog=iriangulo | iohanniswyclifd01losegoog=tnangulo | iohanniswyclifde12wycl=tnangulo		4	plate
+96	R2	latinworks13wycl=applicetur | iohanniswyclifd00losegoog=applicetur | iohanniswyclifd01losegoog=appliif | iohanniswyclifde12wycl=applicetur		4	accept
+108	R2	latinworks13wycl=fiat | iohanniswyclifd00losegoog=6at | iohanniswyclifd01losegoog=fiat | iohanniswyclifde12wycl=fiat		4	accept
+121	R3a	latinworks13wycl=quadratum | iohanniswyclifd00losegoog=quadratura | iohanniswyclifd01losegoog=quadralum | iohanniswyclifde12wycl=quadratum		4	accept
+122	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=e | iohanniswyclifde12wycl=et		4	accept
+144	R5a	latinworks13wycl=punctalem | iohanniswyclifd00losegoog=punctalem | iohanniswyclifd01losegoog=punctalem | iohanniswyclifde12wycl=punctalem		4	accept
+153	R3a	latinworks13wycl=residuo | iohanniswyclifd00losegoog=residuo | iohanniswyclifd01losegoog=residue | iohanniswyclifde12wycl=residuo		4	accept
+157	R3a	latinworks13wycl=deficiet | iohanniswyclifd00losegoog=deliciet | iohanniswyclifd01losegoog=deficict | iohanniswyclifde12wycl=deficiet		4	accept
+160	R3a	latinworks13wycl=figura | iohanniswyclifd00losegoog=rura | iohanniswyclifd01losegoog=figura | iohanniswyclifde12wycl=figura		4	accept
+171	R3a	latinworks13wycl=nisi | iohanniswyclifd00losegoog=nisi | iohanniswyclifd01losegoog=uisi | iohanniswyclifde12wycl=nisi		4	accept
+172	R3a	latinworks13wycl=per | iohanniswyclifd00losegoog=per | iohanniswyclifd01losegoog=peras | iohanniswyclifde12wycl=per		4	accept
+173	R3a	latinworks13wycl=quantitatem | iohanniswyclifd00losegoog=as | iohanniswyclifd01losegoog=quantitatem | iohanniswyclifde12wycl=quantitatem		4	accept
+176	R3a	latinworks13wycl=totam | iohanniswyclifd00losegoog=lotam | iohanniswyclifd01losegoog=totam | iohanniswyclifde12wycl=totam		4	accept
+188	NW	latinworks13wycl=sicur | iohanniswyclifd00losegoog=sicur | iohanniswyclifd01losegoog=sicur | iohanniswyclifde12wycl=sicur		4	plate
+189	R3a	latinworks13wycl=tot | iohanniswyclifd00losegoog=tul | iohanniswyclifd01losegoog=tot | iohanniswyclifde12wycl=tot		4	accept
+194	R2	latinworks13wycl=quantitas | iohanniswyclifd00losegoog=quanlitas | iohanniswyclifd01losegoog=quan | iohanniswyclifde12wycl=quantitas		4	accept
+200	R3a	latinworks13wycl=foret | iohanniswyclifd00losegoog=foret | iohanniswyclifd01losegoog=toret | iohanniswyclifde12wycl=foret		4	accept
+202	R3a	latinworks13wycl=sed | iohanniswyclifd00losegoog=sed | iohanniswyclifd01losegoog=ted | iohanniswyclifde12wycl=sed		4	accept
+215	R2	latinworks13wycl=omnem | iohanniswyclifd00losegoog=omnera | iohanniswyclifd01losegoog=omnem | iohanniswyclifde12wycl=omnem		4	accept
+216	R2	latinworks13wycl=situm | iohanniswyclifd00losegoog=siiura | iohanniswyclifd01losegoog=situm | iohanniswyclifde12wycl=situm		4	accept

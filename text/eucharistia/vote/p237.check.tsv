@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=cbrpus		1	plate
+7	R2	latinworks13wycl=locum | iohanniswyclifd00losegoog=toctiin | iohanniswyclifd01losegoog=locum | iohanniswyclifde12wycl=locum		4	accept
+11	R4	latinworks13wycl=replicatur | iohanniswyclifd00losegoog=replicaiur | iohanniswyclifd01losegoog=replicaiur | iohanniswyclifde12wycl=replicatur		4	plate
+26	R2	latinworks13wycl=semel | iohanniswyclifd00losegoog=kernel | iohanniswyclifd01losegoog=iemel | iohanniswyclifde12wycl=semel		4	accept
+31	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	accept
+33	R3a	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicut | iohanniswyclifd01losegoog=sicui | iohanniswyclifde12wycl=sicut		4	accept
+39	R2	latinworks13wycl=fuisti | iohanniswyclifd00losegoog=fuisti | iohanniswyclifd01losegoog=fuisd | iohanniswyclifde12wycl=fuisti		4	accept
+41	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	accept
+43	R5a	latinworks13wycl=loyci | iohanniswyclifd00losegoog=loyci | iohanniswyclifd01losegoog=loyci | iohanniswyclifde12wycl=loyci		4	accept
+46	R3a	latinworks13wycl=semel | iohanniswyclifd00losegoog=seme | iohanniswyclifd01losegoog=semel | iohanniswyclifde12wycl=semel		4	accept
+65	R5a	latinworks13wycl=infinicies | iohanniswyclifd00losegoog=infiiiicies | iohanniswyclifd01losegoog=infinicies | iohanniswyclifde12wycl=infinicies		4	accept
+72	R5a	latinworks13wycl=infinicies | iohanniswyclifd00losegoog=infinictes | iohanniswyclifd01losegoog=infinicies | iohanniswyclifde12wycl=infinicies		4	accept
+88	R3a	latinworks13wycl=namque | iohanniswyclifd00losegoog=naraque | iohanniswyclifd01losegoog=namque | iohanniswyclifde12wycl=namque		4	accept
+107	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+111	R2	latinworks13wycl=autem | iohanniswyclifd00losegoog=autera | iohanniswyclifd01losegoog=aulem | iohanniswyclifde12wycl=autem		4	accept
+139	R5a	latinworks13wycl=infinicies | iohanniswyclifd00losegoog=ionicies | iohanniswyclifd01losegoog=infinicies | iohanniswyclifde12wycl=infiniciesearn		4	accept
+140	R2	latinworks13wycl=eam | iohanniswyclifd00losegoog=earn | iohanniswyclifd01losegoog=cam | iohanniswyclifde12wycl=∅		4	accept
+145	R3a	latinworks13wycl=omnis | iohanniswyclifd00losegoog=omnis | iohanniswyclifd01losegoog=omnia | iohanniswyclifde12wycl=omnis		4	accept
+148	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sii | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+182	R5a	latinworks13wycl=infinicies | iohanniswyclifd00losegoog=intinicies | iohanniswyclifd01losegoog=infinicies | iohanniswyclifde12wycl=infinicies		4	accept
+184	R2	latinworks13wycl=extraheret | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=extraheret | iohanniswyclifde12wycl=extraheret		4	accept
+199	R2	latinworks13wycl=soremissum | iohanniswyclifd00losegoog=remissum | iohanniswyclifd01losegoog=ioremiuum | iohanniswyclifde12wycl=remissum		4	accept

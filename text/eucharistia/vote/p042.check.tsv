@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=didicit | iohanniswyclifde12wycl=didicit		2	accept
+3	R5	latinworks13wycl=pronitate | iohanniswyclifd01losegoog=pronitate | iohanniswyclifde12wycl=pronitate		3	plate
+16	R2	latinworks13wycl=quod | iohanniswyclifd00losegoog=iiuod | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+23	R2	latinworks13wycl=fecisset | iohanniswyclifd00losegoog=fecisset | iohanniswyclifd01losegoog=fedsiet | iohanniswyclifde12wycl=fecisset		4	accept
+24	R3	latinworks13wycl=eum | iohanniswyclifd00losegoog=cum | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=eura		4	plate
+40	R3a	latinworks13wycl=sed | iohanniswyclifd00losegoog=sei | iohanniswyclifd01losegoog=sed | iohanniswyclifde12wycl=sed		4	accept
+55	R3a	latinworks13wycl=rudem | iohanniswyclifd00losegoog=rudera | iohanniswyclifd01losegoog=fudcm | iohanniswyclifde12wycl=rudem		4	accept
+63	R2	latinworks13wycl=literaliter | iohanniswyclifd00losegoog=litentliter | iohanniswyclifd01losegoog=literuliter | iohanniswyclifde12wycl=literaliter		4	accept
+66	R4	latinworks13wycl=fiiem | iohanniswyclifd00losegoog=fidem | iohanniswyclifd01losegoog=fiiem | iohanniswyclifde12wycl=fidem		4	plate
+67	R2	latinworks13wycl=ascendant | iohanniswyclifd00losegoog=aceiidaut | iohanniswyclifd01losegoog=ascendant | iohanniswyclifde12wycl=ascendant		4	accept
+82	R5a	latinworks13wycl=adam | iohanniswyclifd00losegoog=adam | iohanniswyclifd01losegoog=adam | iohanniswyclifde12wycl=adam		4	accept
+91	R5a	latinworks13wycl=kaym | iohanniswyclifd00losegoog=kaym | iohanniswyclifd01losegoog=kaym | iohanniswyclifde12wycl=kaym		4	accept
+103	R3a	latinworks13wycl=septimam | iohanniswyclifd00losegoog=septimum | iohanniswyclifd01losegoog=septimam | iohanniswyclifde12wycl=septimam		4	accept
+106	R3a	latinworks13wycl=filios | iohanniswyclifd00losegoog=fiiios | iohanniswyclifd01losegoog=alios | iohanniswyclifde12wycl=filios		4	accept
+112	R3a	latinworks13wycl=filii | iohanniswyclifd00losegoog=lilii | iohanniswyclifd01losegoog=filii | iohanniswyclifde12wycl=filii		4	accept
+117	R5a	latinworks13wycl=kaym | iohanniswyclifd00losegoog=kaym | iohanniswyclifd01losegoog=kaym | iohanniswyclifde12wycl=kaym		4	accept
+154	R5a	latinworks13wycl=brutalitas | iohanniswyclifd00losegoog=brutalitas | iohanniswyclifd01losegoog=brutalitas | iohanniswyclifde12wycl=brutalitas		4	accept
+159	R5a	latinworks13wycl=methodius | iohanniswyclifd00losegoog=methodius | iohanniswyclifd01losegoog=methodius | iohanniswyclifde12wycl=methodius		4	accept
+164	R2	latinworks13wycl=an | iohanniswyclifd00losegoog=n | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=an		4	accept
+170	R4a	latinworks13wycl=quem | iohanniswyclifd00losegoog=quern | iohanniswyclifd01losegoog=qucui | iohanniswyclifde12wycl=quern		4	accept
+186	R3a	latinworks13wycl=conuerti | iohanniswyclifd00losegoog=conuerti | iohanniswyclifd01losegoog=conuert | iohanniswyclifde12wycl=conuerti		4	accept
+201	EDGE	latinworks13wycl=spiritus		1	accept

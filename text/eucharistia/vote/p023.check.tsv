@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=corpus | iohanniswyclifd00losegoog=corpus		2	accept
+1	EDGE	latinworks13wycl=dominicum | iohanniswyclifd00losegoog=dominicum		2	accept
+10	R5a	latinworks13wycl=imbibitum | iohanniswyclifd00losegoog=imbibituni | iohanniswyclifd01losegoog=imbibitum | iohanniswyclifde12wycl=imbibitum		4	accept
+16	R3a	latinworks13wycl=corpore | iohanniswyclifd00losegoog=corpore | iohanniswyclifd01losegoog=corpora | iohanniswyclifde12wycl=corpore		4	accept
+18	R4	latinworks13wycl=gum | iohanniswyclifd00losegoog=cum | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=gum		4	plate
+43	R3a	latinworks13wycl=ii | iohanniswyclifd00losegoog=ii | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=ii		4	accept
+46	R4a	latinworks13wycl=augustini | iohanniswyclifd00losegoog=augustim | iohanniswyclifd01losegoog=augustmi | iohanniswyclifde12wycl=augustmi		4	accept
+51	R2	latinworks13wycl=sub | iohanniswyclifd00losegoog=stib | iohanniswyclifd01losegoog=sub | iohanniswyclifde12wycl=sub		4	accept
+56	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=qiiam | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+63	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=oiristi | iohanniswyclifde12wycl=christi		4	accept
+72	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+99	R2	latinworks13wycl=noh | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+137	R3a	latinworks13wycl=recitatum | iohanniswyclifd00losegoog=recitaturo | iohanniswyclifd01losegoog=recitatum | iohanniswyclifde12wycl=recitatum		4	accept
+160	NW	latinworks13wycl=corpoialibus | iohanniswyclifd00losegoog=corpoialibus | iohanniswyclifd01losegoog=corpoialibus | iohanniswyclifde12wycl=corpoialibus		4	plate
+161	R5a	latinworks13wycl=comesturi | iohanniswyclifd00losegoog=comesturi | iohanniswyclifd01losegoog=comesturi | iohanniswyclifde12wycl=comesturi		4	accept
+173	R3a	latinworks13wycl=inmobile | iohanniswyclifd00losegoog=inmobile | iohanniswyclifd01losegoog=inmobile | iohanniswyclifde12wycl=immobile		4	accept
+174	NW	latinworks13wycl=donee | iohanniswyclifd00losegoog=donee | iohanniswyclifd01losegoog=donee | iohanniswyclifde12wycl=donee		4	plate
+176	R6a	latinworks13wycl=iiniatur | iohanniswyclifd00losegoog=iiniatur | iohanniswyclifd01losegoog=iiniatur | iohanniswyclifde12wycl=finiatur		4	accept
+192	R5a	latinworks13wycl=hiis | iohanniswyclifd00losegoog=hiis | iohanniswyclifd01losegoog=hiis | iohanniswyclifde12wycl=hiis		4	accept
+198	R2	latinworks13wycl=xon | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept

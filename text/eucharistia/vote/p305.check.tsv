@@ -1,0 +1,7 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=sine | iohanniswyclifde12wycl=sine		2	accept
+1	EDGE	latinworks13wycl=contradiccionis | iohanniswyclifde12wycl=contradiccionis		2	accept
+52	R4	latinworks13wycl=sophisticacio | iohanniswyclifd00losegoog=sophisticacioy | iohanniswyclifd01losegoog=sophisticacioy | iohanniswyclifde12wycl=sophisticacio		4	plate
+82	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+97	DEL	latinworks13wycl=f | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	accept
+176	R5a	latinworks13wycl=existenciam | iohanniswyclifd00losegoog=existenciam | iohanniswyclifd01losegoog=23existenciam | iohanniswyclifde12wycl=existenciam		4	accept

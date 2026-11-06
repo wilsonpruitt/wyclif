@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=autem		1	accept
+1	EDGE	latinworks13wycl=sunt		1	accept
+2	THIN	latinworks13wycl=lste		1	plate
+10	R5a	latinworks13wycl=hiis | iohanniswyclifd00losegoog=hiis | iohanniswyclifd01losegoog=hits | iohanniswyclifde12wycl=hiis		4	accept
+17	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=esi | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+18	R2	latinworks13wycl=autem | iohanniswyclifd00losegoog=autetd | iohanniswyclifd01losegoog=autem | iohanniswyclifde12wycl=autem		4	accept
+23	R5a	latinworks13wycl=intuitiua | iohanniswyclifd00losegoog=intui3tiua | iohanniswyclifd01losegoog=intuitiua | iohanniswyclifde12wycl=intuitiua		4	accept
+24	R5a	latinworks13wycl=abstractiua | iohanniswyclifd00losegoog=abstractiua | iohanniswyclifd01losegoog=abstractiua | iohanniswyclifde12wycl=abstractiua		4	accept
+27	R2	latinworks13wycl=pnraa | iohanniswyclifd00losegoog=prima | iohanniswyclifd01losegoog=prima | iohanniswyclifde12wycl=prima		4	accept
+31	R3	latinworks13wycl=beati | iohanniswyclifd00losegoog=beat | iohanniswyclifd01losegoog=beat | iohanniswyclifde12wycl=beati		4	plate
+32	R2	latinworks13wycl=ln | iohanniswyclifd00losegoog=in | iohanniswyclifd01losegoog=n | iohanniswyclifde12wycl=in		4	accept
+77	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+88	R3a	latinworks13wycl=sufficienti | iohanniswyclifd00losegoog=suflicienti | iohanniswyclifd01losegoog=sufficient | iohanniswyclifde12wycl=sufficienti		4	accept
+99	R5a	latinworks13wycl=abstractiua | iohanniswyclifd00losegoog=abstractiua | iohanniswyclifd01losegoog=abstractiua | iohanniswyclifde12wycl=abstractiua		4	accept
+100	R2	latinworks13wycl=quia | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=quia | iohanniswyclifde12wycl=quia		4	accept
+116	R5a	latinworks13wycl=rom | iohanniswyclifd00losegoog=rom | iohanniswyclifd01losegoog=rom | iohanniswyclifde12wycl=rom		4	accept
+117	R3	latinworks13wycl=1 | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=i | iohanniswyclifde12wycl=1		4	plate
+124	R4	latinworks13wycl=actuale | iohanniswyclifd00losegoog=actuate | iohanniswyclifd01losegoog=actuate | iohanniswyclifde12wycl=actuale		4	plate
+134	R3a	latinworks13wycl=instanti | iohanniswyclifd00losegoog=insianti | iohanniswyclifd01losegoog=instant | iohanniswyclifde12wycl=instanti		4	accept
+143	R2	latinworks13wycl=meritum | iohanniswyclifd00losegoog=raerilum | iohanniswyclifd01losegoog=meritum | iohanniswyclifde12wycl=meritum		4	accept
+148	R3	latinworks13wycl=mota | iohanniswyclifd00losegoog=moia | iohanniswyclifd01losegoog=mora | iohanniswyclifde12wycl=mota		4	plate
+178	R3a	latinworks13wycl=loquitur | iohanniswyclifd00losegoog=loquitur | iohanniswyclifd01losegoog=quitur | iohanniswyclifde12wycl=loquitur		4	accept
+181	R2	latinworks13wycl=gor | iohanniswyclifd00losegoog=cor | iohanniswyclifd01losegoog=cor | iohanniswyclifde12wycl=cor		4	accept
+182	R2	latinworks13wycl=xiii | iohanniswyclifd00losegoog=xlll | iohanniswyclifd01losegoog=xiii | iohanniswyclifde12wycl=xiii		4	accept
+193	R5a	latinworks13wycl=adfaciem | iohanniswyclifd00losegoog=adfaciem | iohanniswyclifd01losegoog=adfaciem | iohanniswyclifde12wycl=adfaciem		4	accept
+199	NW	latinworks13wycl=tam | iohanniswyclifd00losegoog=tarn | iohanniswyclifd01losegoog=tarn | iohanniswyclifde12wycl=tarn		4	plate
+202	R2	latinworks13wycl=mali | iohanniswyclifd00losegoog=raali | iohanniswyclifd01losegoog=mali | iohanniswyclifde12wycl=mali		4	accept
+205	R3	latinworks13wycl=micio | iohanniswyclifd00losegoog=initio | iohanniswyclifd01losegoog=inicio | iohanniswyclifde12wycl=inicio		4	plate
+223	R2	latinworks13wycl=oportet | iohanniswyclifd00losegoog=oporlci | iohanniswyclifd01losegoog=oportet | iohanniswyclifde12wycl=oportet		4	accept
+233	R3a	latinworks13wycl=modis | iohanniswyclifd00losegoog=modia | iohanniswyclifd01losegoog=modis | iohanniswyclifde12wycl=modis		4	accept

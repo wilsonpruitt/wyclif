@@ -1,0 +1,39 @@
+pos	rule	forms	support	voters	resolution
+4	EDGE	latinworks13wycl=signum | iohanniswyclifde12wycl=signum		2	accept
+5	EDGE	latinworks13wycl=sacramentaliter | iohanniswyclifde12wycl=sacramentaliter		2	accept
+6	EDGE	latinworks13wycl=ipsum | iohanniswyclifde12wycl=ipsum		2	accept
+7	THIN	latinworks13wycl=signifkans | iohanniswyclifde12wycl=significans		2	plate
+22	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=et		4	accept
+23	R2	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicut | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=sicut		4	accept
+24	R2	latinworks13wycl=sophista | iohanniswyclifd00losegoog=sophista | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=sophista		4	accept
+25	R2	latinworks13wycl=replicat | iohanniswyclifd00losegoog=replkat | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=replicat		4	accept
+26	R2	latinworks13wycl=corpus | iohanniswyclifd00losegoog=corpus | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=corpus		4	accept
+27	R2	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=ghristi		4	accept
+31	R2	latinworks13wycl=extensum | iohanniswyclifd00losegoog=extensum | iohanniswyclifd01losegoog=eiciensum | iohanniswyclifde12wycl=extensum		4	accept
+37	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=in | iohanniswyclifd01losegoog=ia | iohanniswyclifde12wycl=in		4	accept
+40	R5a	latinworks13wycl=substanciato | iohanniswyclifd00losegoog=substaociato | iohanniswyclifd01losegoog=subsiaacialo | iohanniswyclifde12wycl=substanciato		4	accept
+48	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=sfd | iohanniswyclifd01losegoog=sed | iohanniswyclifde12wycl=sed		4	accept
+73	R2	latinworks13wycl=altari | iohanniswyclifd00losegoog=altari | iohanniswyclifd01losegoog=uliari | iohanniswyclifde12wycl=altari		4	accept
+95	R5a	latinworks13wycl=intricacio | iohanniswyclifd00losegoog=intricacio | iohanniswyclifd01losegoog=intricacio | iohanniswyclifde12wycl=intricacio		4	accept
+97	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+105	R5a	latinworks13wycl=sylogismus | iohanniswyclifd00losegoog=sylogismus | iohanniswyclifd01losegoog=sylogismus | iohanniswyclifde12wycl=sylogismus		4	accept
+106	R5a	latinworks13wycl=expositorius | iohanniswyclifd00losegoog=expositorius | iohanniswyclifd01losegoog=expositorius | iohanniswyclifde12wycl=expositorius		4	accept
+116	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+137	R2	latinworks13wycl=personaliter | iohanniswyclifd00losegoog=perso | iohanniswyclifd01losegoog=penonaliter | iohanniswyclifde12wycl=personaliter		4	accept
+147	R3a	latinworks13wycl=sedet | iohanniswyclifd00losegoog=sedet | iohanniswyclifd01losegoog=ledet | iohanniswyclifde12wycl=sedet		4	accept
+150	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=in | iohanniswyclifd01losegoog=io | iohanniswyclifde12wycl=in		4	accept
+156	R5a	latinworks13wycl=equiuocant | iohanniswyclifd00losegoog=equiuocant | iohanniswyclifd01losegoog=equiuocant | iohanniswyclifde12wycl=equiuocant		4	accept
+164	R4	latinworks13wycl=chrisli | iohanniswyclifd00losegoog=chrisli | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	plate
+165	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=est | iohanniswyclifd01losegoog=eat | iohanniswyclifde12wycl=est		4	accept
+170	R3a	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicut | iohanniswyclifd01losegoog=licut | iohanniswyclifde12wycl=sicut		4	accept
+180	R4	latinworks13wycl=etitapanem | iohanniswyclifd00losegoog=etiiapanem | iohanniswyclifd01losegoog=etiiapanem | iohanniswyclifde12wycl=etitapanem		4	plate
+181	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+186	R2	latinworks13wycl=argumentum | iohanniswyclifd00losegoog=argumentum | iohanniswyclifd01losegoog=ugumeutum | iohanniswyclifde12wycl=argumentum		4	accept
+190	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=in | iohanniswyclifd01losegoog=io | iohanniswyclifde12wycl=in		4	accept
+206	THIN	latinworks13wycl=sensiim | iohanniswyclifde12wycl=sensum		2	plate
+207	EDGE	latinworks13wycl=katholicum | iohanniswyclifde12wycl=katholicum		2	accept
+208	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+209	EDGE	latinworks13wycl=possunt | iohanniswyclifde12wycl=possunt		2	accept
+210	EDGE	latinworks13wycl=licite | iohanniswyclifde12wycl=licite		2	accept
+211	EDGE	latinworks13wycl=ac | iohanniswyclifde12wycl=ac		2	accept
+212	EDGE	latinworks13wycl=meritorie | iohanniswyclifde12wycl=meritorie		2	accept

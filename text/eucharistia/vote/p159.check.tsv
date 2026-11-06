@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=quoad | iohanniswyclifde12wycl=quoad		2	accept
+1	EDGE	latinworks13wycl=uirtutes | iohanniswyclifde12wycl=uirtutes		2	accept
+12	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christ | iohanniswyclifde12wycl=christi		4	accept
+36	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sic | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+38	R5a	latinworks13wycl=odiens | iohanniswyclifd00losegoog=odiens | iohanniswyclifd01losegoog=odiens | iohanniswyclifde12wycl=odiens		4	accept
+68	R3	latinworks13wycl=iudicium | iohanniswyclifd00losegoog=indicium | iohanniswyclifd01losegoog=iudicium | iohanniswyclifde12wycl=indicium		4	plate
+84	R2	latinworks13wycl=erigatur | iohanniswyclifd00losegoog=engaiur | iohanniswyclifd01losegoog=erigatur | iohanniswyclifde12wycl=erigatur		4	accept
+116	R5a	latinworks13wycl=liii | iohanniswyclifd00losegoog=liii | iohanniswyclifd01losegoog=liii | iohanniswyclifde12wycl=liii		4	accept
+117	R2	latinworks13wycl=quidquid | iohanniswyclifd00losegoog=quidquid | iohanniswyclifd01losegoog=quidquid | iohanniswyclifde12wycl=quiriquid		4	accept
+146	R5a	latinworks13wycl=hiis | iohanniswyclifd00losegoog=hiis | iohanniswyclifd01losegoog=hiis | iohanniswyclifde12wycl=hiis		4	accept
+159	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+164	R3a	latinworks13wycl=crucem | iohanniswyclifd00losegoog=em | iohanniswyclifd01losegoog=crucem | iohanniswyclifde12wycl=crucem		4	accept
+204	R3a	latinworks13wycl=uite | iohanniswyclifd00losegoog=uite | iohanniswyclifd01losegoog=uite | iohanniswyclifde12wycl=rite		4	accept

@@ -1,0 +1,35 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=errant		1	accept
+1	EDGE	latinworks13wycl=tanquam		1	accept
+2	THIN	latinworks13wycl=udolatre		1	plate
+3	EDGE	latinworks13wycl=false		1	accept
+4	THIN	latinworks13wycl=senctendo		1	plate
+5	EDGE	latinworks13wycl=de | iohanniswyclifd00losegoog=de		2	accept
+6	THIN	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukaristia		2	plate
+11	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=iii | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+12	R4	latinworks13wycl=deum | iohanniswyclifd00losegoog=deura | iohanniswyclifd01losegoog=deum | iohanniswyclifde12wycl=deura		4	plate
+23	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=ncc | iohanniswyclifde12wycl=nee		4	accept
+29	R4	latinworks13wycl=accusat | iohanniswyclifd00losegoog=accusal | iohanniswyclifd01losegoog=accusal | iohanniswyclifde12wycl=accusat		4	plate
+31	R5a	latinworks13wycl=radorantem | iohanniswyclifd00losegoog=sadorantem | iohanniswyclifd01losegoog=sadorantem | iohanniswyclifde12wycl=adorantern		4	accept
+36	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=esl | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+41	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+48	R3a	latinworks13wycl=manifeste | iohanniswyclifd00losegoog=manifeste | iohanniswyclifd01losegoog=manifesto | iohanniswyclifde12wycl=manifeste		4	accept
+52	R3a	latinworks13wycl=precipua | iohanniswyclifd00losegoog=precipui | iohanniswyclifd01losegoog=precipua | iohanniswyclifde12wycl=precipua		4	accept
+64	R2	latinworks13wycl=uiarum | iohanniswyclifd00losegoog=uiannii | iohanniswyclifd01losegoog=uiarum | iohanniswyclifde12wycl=uiarum		4	accept
+99	R2	latinworks13wycl=uinum | iohanniswyclifd00losegoog=uinura | iohanniswyclifd01losegoog=uinum | iohanniswyclifde12wycl=uinum		4	accept
+125	R5a	latinworks13wycl=condempnant | iohanniswyclifd00losegoog=condempnant | iohanniswyclifd01losegoog=condempnant | iohanniswyclifde12wycl=condempnant		4	accept
+140	R6a	latinworks13wycl=reringarius | iohanniswyclifd00losegoog=iieringarius | iohanniswyclifd01losegoog=reringarius | iohanniswyclifde12wycl=bering		4	accept
+143	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+150	R5a	latinworks13wycl=hereticare | iohanniswyclifd00losegoog=hereticare | iohanniswyclifd01losegoog=hereticare | iohanniswyclifde12wycl=hereticare		4	accept
+153	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=sed | iohanniswyclifd01losegoog=std | iohanniswyclifde12wycl=sed		4	accept
+162	R3a	latinworks13wycl=possunt | iohanniswyclifd00losegoog=possum | iohanniswyclifd01losegoog=possunt | iohanniswyclifde12wycl=possunt		4	accept
+175	R2	latinworks13wycl=moribus | iohanniswyclifd00losegoog=moribus | iohanniswyclifd01losegoog=23monbus | iohanniswyclifde12wycl=moribus		4	accept
+200	R3a	latinworks13wycl=celebrare | iohanniswyclifd00losegoog=celebrate | iohanniswyclifd01losegoog=celebrare | iohanniswyclifde12wycl=celebrare		4	accept
+201	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+217	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=sed | iohanniswyclifd01losegoog=std | iohanniswyclifde12wycl=sed		4	accept
+221	R2	latinworks13wycl=cum | iohanniswyclifd00losegoog=cum | iohanniswyclifd01losegoog=nis | iohanniswyclifde12wycl=cum		4	accept
+222	R2	latinworks13wycl=nnis | iohanniswyclifd00losegoog=finis | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=hnis		4	accept
+227	R2	latinworks13wycl=lnnstus | iohanniswyclifd00losegoog=christus | iohanniswyclifd01losegoog=chnstus | iohanniswyclifde12wycl=christus		4	accept
+228	R4a	latinworks13wycl=mhabitet | iohanniswyclifd00losegoog=inhabitetcnmi | iohanniswyclifd01losegoog=mhabitet | iohanniswyclifde12wycl=inhabitet		4	accept
+234	THIN	latinworks13wycl=laucus		1	plate
+235	EDGE	latinworks13wycl=memorans		1	accept

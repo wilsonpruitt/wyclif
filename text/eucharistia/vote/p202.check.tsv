@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+16	R6a	latinworks13wycl=naiura | iohanniswyclifd00losegoog=naiura | iohanniswyclifd01losegoog=naiura | iohanniswyclifde12wycl=natura		4	accept
+19	R4	latinworks13wycl=dispositum | iohanniswyclifd00losegoog=disposiium | iohanniswyclifd01losegoog=disposiium | iohanniswyclifde12wycl=dispositum		4	plate
+24	R6a	latinworks13wycl=informatiuam | iohanniswyclifd00losegoog=iniormaiiuacn | iohanniswyclifd01losegoog=informatiuam | iohanniswyclifde12wycl=informatiuam		4	accept
+30	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+47	R2	latinworks13wycl=dirterencia | iohanniswyclifd00losegoog=ditfcrenda | iohanniswyclifd01losegoog=ditferencia | iohanniswyclifde12wycl=differencia		4	accept
+60	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+65	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+72	R4	latinworks13wycl=tormosam | iohanniswyclifd00losegoog=formosaro | iohanniswyclifd01losegoog=formosem | iohanniswyclifde12wycl=iormosam		4	plate
+83	R3a	latinworks13wycl=substancia | iohanniswyclifd00losegoog=substanda | iohanniswyclifd01losegoog=substancia | iohanniswyclifde12wycl=substancia		4	accept
+87	R6a	latinworks13wycl=sitistaquod | iohanniswyclifd00losegoog=sitistaquod | iohanniswyclifd01losegoog=sil | iohanniswyclifde12wycl=sitistaquod		4	accept
+99	R3a	latinworks13wycl=formalem | iohanniswyclifd00losegoog=formalem | iohanniswyclifd01losegoog=ormalem | iohanniswyclifde12wycl=formalem		4	accept
+108	R4	latinworks13wycl=tantum | iohanniswyclifd00losegoog=lantum | iohanniswyclifd01losegoog=lantum | iohanniswyclifde12wycl=tantum		4	plate
+123	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=lam | iohanniswyclifd01losegoog=tarn | iohanniswyclifde12wycl=tam		4	accept
+132	R2	latinworks13wycl=eadem | iohanniswyclifd00losegoog=eadem | iohanniswyclifd01losegoog=eadera | iohanniswyclifde12wycl=eadem		4	accept
+136	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+142	R2	latinworks13wycl=tactam | iohanniswyclifd00losegoog=tactam | iohanniswyclifd01losegoog=taciaro | iohanniswyclifde12wycl=tactam		4	accept
+154	R3	latinworks13wycl=fiat | iohanniswyclifd00losegoog=6at | iohanniswyclifd01losegoog=fiat | iohanniswyclifde12wycl=flat		4	plate
+167	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+171	R2	latinworks13wycl=sit | iohanniswyclifd00losegoog=sit | iohanniswyclifd01losegoog=tit | iohanniswyclifde12wycl=sit		4	accept
+190	R2	latinworks13wycl=quantitas | iohanniswyclifd00losegoog=quantiias | iohanniswyclifd01losegoog=quan | iohanniswyclifde12wycl=quantitas		4	accept
+205	R3a	latinworks13wycl=panis | iohanniswyclifd00losegoog=panis | iohanniswyclifd01losegoog=pauis | iohanniswyclifde12wycl=panis		4	accept
+206	R2	latinworks13wycl=ulterius | iohanniswyclifd00losegoog=3a | iohanniswyclifd01losegoog=ulterius | iohanniswyclifde12wycl=ulterius		4	accept
+216	EDGE	latinworks13wycl=subiectiua | iohanniswyclifde12wycl=subiectiua		2	accept

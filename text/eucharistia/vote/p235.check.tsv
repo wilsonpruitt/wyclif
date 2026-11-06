@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+6	R5a	latinworks13wycl=concomitanter | iohanniswyclifd00losegoog=concomitanter | iohanniswyclifd01losegoog=concoraitanter | iohanniswyclifde12wycl=concomitanter		4	accept
+10	R5a	latinworks13wycl=demultiplicare | iohanniswyclifd00losegoog=demultiplicare | iohanniswyclifd01losegoog=demultiplicarey | iohanniswyclifde12wycl=demultiplicare		4	accept
+18	R2	latinworks13wycl=uno | iohanniswyclifd00losegoog=uiiolocornultiplicetur | iohanniswyclifd01losegoog=uno | iohanniswyclifde12wycl=uno		4	accept
+19	R2	latinworks13wycl=loco | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=loco | iohanniswyclifde12wycl=loco		4	accept
+20	R2	latinworks13wycl=multiplicetur | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=multiplicetur | iohanniswyclifde12wycl=multiplicetur		4	accept
+40	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymino | iohanniswyclifd01losegoog=ymmo | iohanniswyclifde12wycl=ymrao		4	accept
+47	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+77	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+105	R6a	latinworks13wycl=diuersis | iohanniswyclifd00losegoog=idiuersis | iohanniswyclifd01losegoog=i3diuersis | iohanniswyclifde12wycl=idiuersis		4	accept
+107	R2	latinworks13wycl=eidem | iohanniswyclifd00losegoog=eidera | iohanniswyclifd01losegoog=eidem | iohanniswyclifde12wycl=eidem		4	accept
+118	R5a	latinworks13wycl=petrus | iohanniswyclifd00losegoog=petrus | iohanniswyclifd01losegoog=petrus | iohanniswyclifde12wycl=petrus		4	accept
+141	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+142	R2	latinworks13wycl=denominaciones | iohanniswyclifd00losegoog=deooniiaaclones | iohanniswyclifd01losegoog=denominaciones | iohanniswyclifde12wycl=denominaciones		4	accept
+161	R5a	latinworks13wycl=coextendere | iohanniswyclifd00losegoog=coextenderc | iohanniswyclifd01losegoog=coextendere | iohanniswyclifde12wycl=coextendere		4	accept
+181	R5a	latinworks13wycl=petrus | iohanniswyclifd00losegoog=petrus | iohanniswyclifd01losegoog=petrus | iohanniswyclifde12wycl=petrus		4	accept
+182	R4a	latinworks13wycl=hic | iohanniswyclifd00losegoog=bic | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+206	R3	latinworks13wycl=predicato | iohanniswyclifd00losegoog=predicate | iohanniswyclifd01losegoog=predicate | iohanniswyclifde12wycl=predicato		4	plate
+210	R6a	latinworks13wycl=affirmatiuam | iohanniswyclifd00losegoog=soaffirmaiiuam | iohanniswyclifd01losegoog=soaffirmatiuam | iohanniswyclifde12wycl=soaffirmatiuam		4	accept
+212	R3a	latinworks13wycl=predicato | iohanniswyclifd00losegoog=predicato | iohanniswyclifd01losegoog=predicate | iohanniswyclifde12wycl=predicato		4	accept
+213	R3a	latinworks13wycl=infinito | iohanniswyclifd00losegoog=infinito | iohanniswyclifd01losegoog=infinite | iohanniswyclifde12wycl=infinito		4	accept
+219	R3	latinworks13wycl=finito | iohanniswyclifd00losegoog=finito | iohanniswyclifde12wycl=finite		3	plate

@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=item		1	accept
+1	EDGE	latinworks13wycl=secundum		1	accept
+2	THIN	latinworks13wycl=falsiraphos		1	plate
+3	EDGE	latinworks13wycl=substancia | iohanniswyclifd01losegoog=substancia		2	accept
+4	EDGE	latinworks13wycl=potest | iohanniswyclifd01losegoog=potest		2	accept
+5	EDGE	latinworks13wycl=manere | iohanniswyclifd01losegoog=manere		2	accept
+6	EDGE	latinworks13wycl=quanta | iohanniswyclifd01losegoog=quanta		2	accept
+7	THIN	latinworks13wycl=sme | iohanniswyclifd01losegoog=sine		2	plate
+15	R4	latinworks13wycl=nec | iohanniswyclifd00losegoog=dec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+22	R3a	latinworks13wycl=senciendum | iohanniswyclifd00losegoog=senciendam | iohanniswyclifd01losegoog=senciendum | iohanniswyclifde12wycl=senciendum		4	accept
+36	R3a	latinworks13wycl=ergo | iohanniswyclifd00losegoog=ereo | iohanniswyclifd01losegoog=ergo | iohanniswyclifde12wycl=ergo		4	accept
+45	NW	latinworks13wycl=matenales | iohanniswyclifd00losegoog=matenales | iohanniswyclifd01losegoog=materiales | iohanniswyclifde12wycl=matenales		4	plate
+66	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+67	R4	latinworks13wycl=ecclesier | iohanniswyclifd00losegoog=ecclesier | iohanniswyclifd01losegoog=ecclesie | iohanniswyclifde12wycl=ecclesie		4	plate
+75	R3	latinworks13wycl=peto | iohanniswyclifd00losegoog=p | iohanniswyclifd01losegoog=po | iohanniswyclifde12wycl=peto		4	plate
+89	R3a	latinworks13wycl=motus | iohanniswyclifd00losegoog=mutus | iohanniswyclifd01losegoog=motus | iohanniswyclifde12wycl=motus		4	accept
+116	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+143	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+152	R2	latinworks13wycl=si | iohanniswyclifd00losegoog=si | iohanniswyclifd01losegoog=si | iohanniswyclifde12wycl=∅		4	accept
+197	R3a	latinworks13wycl=saluari | iohanniswyclifd00losegoog=saiuari | iohanniswyclifd01losegoog=sal | iohanniswyclifde12wycl=saluari		4	accept
+200	R6a	latinworks13wycl=nguratum | iohanniswyclifd00losegoog=figuratum | iohanniswyclifd01losegoog=nguratum | iohanniswyclifde12wycl=nguratum		4	accept
+241	R3a	latinworks13wycl=poterit | iohanniswyclifd00losegoog=potent | iohanniswyclifd01losegoog=poterit | iohanniswyclifde12wycl=poterit		4	accept

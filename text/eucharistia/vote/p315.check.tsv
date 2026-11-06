@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=est		1	accept
+1	THIN	latinworks13wycl=merabrum		1	plate
+23	R3a	latinworks13wycl=altaris | iohanniswyclifd00losegoog=altaris | iohanniswyclifd01losegoog=altaris | iohanniswyclifde12wycl=altans		4	accept
+29	R4a	latinworks13wycl=scnptura | iohanniswyclifd00losegoog=scriptura | iohanniswyclifd01losegoog=scnptura | iohanniswyclifde12wycl=senptura		4	accept
+30	R2	latinworks13wycl=chnstus | iohanniswyclifd00losegoog=christus | iohanniswyclifd01losegoog=christus | iohanniswyclifde12wycl=ghnstus		4	accept
+42	R5a	latinworks13wycl=math | iohanniswyclifd00losegoog=math | iohanniswyclifd01losegoog=math | iohanniswyclifde12wycl=math		4	accept
+122	THIN	latinworks13wycl=dicunt | iohanniswyclifde12wycl=dicunt		2	plate
+123	THIN	latinworks13wycl=simpliciter | iohanniswyclifde12wycl=simpliciter		2	plate
+124	THIN	latinworks13wycl=nec | iohanniswyclifde12wycl=nee		2	plate
+137	R5a	latinworks13wycl=glossatores | iohanniswyclifd00losegoog=glossatores | iohanniswyclifd01losegoog=glossatores | iohanniswyclifde12wycl=glossatores		4	accept
+142	R2	latinworks13wycl=nouam | iohanniswyclifd00losegoog=nouam | iohanniswyclifd01losegoog=nouam | iohanniswyclifde12wycl=nouara		4	accept
+143	R4a	latinworks13wycl=fidern | iohanniswyclifd00losegoog=fidem | iohanniswyclifd01losegoog=aofidem | iohanniswyclifde12wycl=fidern		4	accept
+154	R4	latinworks13wycl=iiius | iohanniswyclifd00losegoog=iii | iohanniswyclifd01losegoog=iii | iohanniswyclifde12wycl=iiius		4	plate
+221	R5a	latinworks13wycl=iesus | iohanniswyclifd00losegoog=iesus | iohanniswyclifd01losegoog=iesus | iohanniswyclifde12wycl=iesus		4	accept
+222	R4	latinworks13wycl=noster | iohanniswyclifd00losegoog=sonoster | iohanniswyclifd01losegoog=noster | iohanniswyclifde12wycl=sonoster		4	plate
+233	R5a	latinworks13wycl=euangelisacio | iohanniswyclifd00losegoog=euangelisacio | iohanniswyclifd01losegoog=euangelisacio | iohanniswyclifde12wycl=euangelisacio		4	accept

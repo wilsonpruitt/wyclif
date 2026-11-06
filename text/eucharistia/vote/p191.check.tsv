@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+1	EDGE	latinworks13wycl=signato | iohanniswyclifde12wycl=signato		2	accept
+15	R4	latinworks13wycl=udemptifkando | iohanniswyclifd01losegoog=yderoptincandoy | iohanniswyclifde12wycl=udemptihcando		3	plate
+18	R3	latinworks13wycl=sinatum | iohanniswyclifd01losegoog=signatura | iohanniswyclifde12wycl=signatum		3	plate
+27	R4	latinworks13wycl=ydemptihcando | iohanniswyclifd01losegoog=ydemptificando | iohanniswyclifde12wycl=udemptihcando		3	plate
+29	R3	latinworks13wycl=quoa | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		3	plate
+33	R2	latinworks13wycl=motu | iohanniswyclifd01losegoog=motu | iohanniswyclifde12wycl=raotu		3	accept
+40	R5a	latinworks13wycl=ydemptincatur | iohanniswyclifd00losegoog=ydemptificaiur | iohanniswyclifd01losegoog=ydemptincatur | iohanniswyclifde12wycl=ydemptincatur		4	accept
+41	R3a	latinworks13wycl=unum | iohanniswyclifd00losegoog=unum | iohanniswyclifd01losegoog=udum | iohanniswyclifde12wycl=unum		4	accept
+42	R3a	latinworks13wycl=alteri | iohanniswyclifd00losegoog=alter | iohanniswyclifd01losegoog=alteriy | iohanniswyclifde12wycl=alteri		4	accept
+55	R2	latinworks13wycl=motu | iohanniswyclifd00losegoog=niotli | iohanniswyclifd01losegoog=motu | iohanniswyclifde12wycl=motu		4	accept
+68	R5a	latinworks13wycl=udemptificacioni | iohanniswyclifd00losegoog=yderaplificacioni | iohanniswyclifd01losegoog=ydemptificacioni | iohanniswyclifde12wycl=ydemptificacioni		4	accept
+85	R5a	latinworks13wycl=udemptificet | iohanniswyclifd00losegoog=ydcmpiificet | iohanniswyclifd01losegoog=ydemptificet | iohanniswyclifde12wycl=ydemptificet		4	accept
+88	R4	latinworks13wycl=asiuo | iohanniswyclifd00losegoog=asliio | iohanniswyclifd01losegoog=asioo | iohanniswyclifde12wycl=asuio		4	plate
+89	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=tcl | iohanniswyclifd01losegoog=uel | iohanniswyclifde12wycl=uel		4	accept
+102	R5a	latinworks13wycl=udemptihcacionem | iohanniswyclifd00losegoog=ydemptificacionem | iohanniswyclifd01losegoog=ydemptificacionem | iohanniswyclifde12wycl=udemptincacionem		4	accept
+116	R3a	latinworks13wycl=nomo | iohanniswyclifd00losegoog=homo | iohanniswyclifd01losegoog=homo | iohanniswyclifde12wycl=homo		4	accept
+129	R4a	latinworks13wycl=ydemptihcatur | iohanniswyclifd00losegoog=ydemptificatur | iohanniswyclifd01losegoog=ydemptincatur | iohanniswyclifde12wycl=ydemptincatur		4	accept
+181	R5a	latinworks13wycl=udemptificatum | iohanniswyclifd00losegoog=yderaplificatum | iohanniswyclifd01losegoog=ydemptificatum | iohanniswyclifde12wycl=ydemptificatum		4	accept
+197	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+204	R4a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifde12wycl=hie		3	accept
+211	R5a	latinworks13wycl=udemptificacionis | iohanniswyclifd00losegoog=ydemptificacionis | iohanniswyclifd01losegoog=ydemptificacionis | iohanniswyclifde12wycl=ydemptificacionis		4	accept
+224	EDGE	latinworks13wycl=proprie		1	accept

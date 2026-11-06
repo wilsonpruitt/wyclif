@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+10	THIN	latinworks13wycl=xi | iohanniswyclifd01losegoog=xi		2	plate
+11	THIN	latinworks13wycl=u | iohanniswyclifd01losegoog=u		2	plate
+12	THIN	latinworks13wycl=9 | iohanniswyclifd01losegoog=9		2	plate
+14	R5	latinworks13wycl=philippe | iohanniswyclifd01losegoog=philippe | iohanniswyclifde12wycl=philippe		3	plate
+18	R3	latinworks13wycl=uidet | iohanniswyclifd01losegoog=ridet | iohanniswyclifde12wycl=uidet		3	plate
+27	R5	latinworks13wycl=abstractiua | iohanniswyclifd01losegoog=abscraciiua | iohanniswyclifde12wycl=abstractiua		3	plate
+46	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+91	R3	latinworks13wycl=illi | iohanniswyclifd01losegoog=iii | iohanniswyclifde12wycl=i		3	plate
+97	R3	latinworks13wycl=et | iohanniswyclifd01losegoog=e | iohanniswyclifde12wycl=et		3	plate
+112	R5	latinworks13wycl=loycam | iohanniswyclifd01losegoog=loycam | iohanniswyclifde12wycl=loycam		3	plate
+139	R3	latinworks13wycl=ghristi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		3	plate
+141	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+149	R3	latinworks13wycl=ghristi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		3	plate
+158	R5	latinworks13wycl=glosandi | iohanniswyclifd01losegoog=glosandi | iohanniswyclifde12wycl=glosandi		3	plate
+170	R5	latinworks13wycl=loycam | iohanniswyclifd01losegoog=loycam | iohanniswyclifde12wycl=loycam		3	plate
+178	R4a	latinworks13wycl=perit | iohanniswyclifd01losegoog=pcrit | iohanniswyclifde12wycl=pcrit		3	accept
+192	R4	latinworks13wycl=etcorpus | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=etcorpus		3	plate
+200	THIN	latinworks13wycl=sensibilis | iohanniswyclifde12wycl=sensibilis		2	plate
+201	THIN	latinworks13wycl=quolibet | iohanniswyclifde12wycl=quohbet		2	plate
+202	THIN	latinworks13wycl=quinque | iohanniswyclifde12wycl=quinque		2	plate
+214	THIN	latinworks13wycl=that | iohanniswyclifde12wycl=∅		2	plate
+215	THIN	latinworks13wycl=tercio | iohanniswyclifde12wycl=tercio		2	plate
+216	THIN	latinworks13wycl=replicatur | iohanniswyclifde12wycl=replicatur		2	plate
+227	R2	latinworks13wycl=suum | iohanniswyclifd01losegoog=mum | iohanniswyclifde12wycl=suum		3	accept
+236	THIN	latinworks13wycl=mdumentum		1	plate
+237	EDGE	latinworks13wycl=uel		1	accept

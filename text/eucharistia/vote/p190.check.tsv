@@ -1,0 +1,38 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=sentencia | iohanniswyclifde12wycl=sentencia		2	accept
+1	THIN	latinworks13wycl=ydemptificacionis | iohanniswyclifde12wycl=ydemptificacionis		2	plate
+2	EDGE	latinworks13wycl=sacramenti | iohanniswyclifde12wycl=sacramenti		2	accept
+12	R2	latinworks13wycl=uinum | iohanniswyclifd01losegoog=uinuni | iohanniswyclifde12wycl=uinura		3	accept
+13	R2	latinworks13wycl=nent | iohanniswyclifd01losegoog=ficnt | iohanniswyclifde12wycl=nent		3	accept
+14	R5	latinworks13wycl=ydemptifice | iohanniswyclifd01losegoog=ydemptifice | iohanniswyclifde12wycl=ydemptifice		3	plate
+16	R3	latinworks13wycl=ghristi | iohanniswyclifd01losegoog=chrisli | iohanniswyclifde12wycl=christi		3	plate
+20	R2	latinworks13wycl=recitat | iohanniswyclifd00losegoog=recilal | iohanniswyclifd01losegoog=recital | iohanniswyclifde12wycl=recitat		4	accept
+24	R2	latinworks13wycl=iu | iohanniswyclifd00losegoog=w | iohanniswyclifd01losegoog=iu | iohanniswyclifde12wycl=iu		4	accept
+26	R3	latinworks13wycl=xia | iohanniswyclifd00losegoog=xi | iohanniswyclifd01losegoog=xl | iohanniswyclifde12wycl=xia		4	plate
+27	R4	latinworks13wycl=capitulo | iohanniswyclifd00losegoog=capilulo | iohanniswyclifd01losegoog=capilulo | iohanniswyclifde12wycl=capitulo		4	plate
+36	R2	latinworks13wycl=multas | iohanniswyclifd00losegoog=inullas | iohanniswyclifd01losegoog=tnullas | iohanniswyclifde12wycl=multas		4	accept
+51	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+54	R2	latinworks13wycl=fient | iohanniswyclifd00losegoog=6ent | iohanniswyclifd01losegoog=fient | iohanniswyclifde12wycl=fient		4	accept
+58	R2	latinworks13wycl=erunt | iohanniswyclifd00losegoog=cnint | iohanniswyclifd01losegoog=erunt | iohanniswyclifde12wycl=erunt		4	accept
+64	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=chrisli | iohanniswyclifde12wycl=christi		4	accept
+65	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=cl | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+69	R3a	latinworks13wycl=fient | iohanniswyclifd00losegoog=lient | iohanniswyclifd01losegoog=fieni | iohanniswyclifde12wycl=fient		4	accept
+75	INS?	si	2	4	plate
+75	R3a	latinworks13wycl=enim | iohanniswyclifd00losegoog=si | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+77	R5a	latinworks13wycl=idemptice | iohanniswyclifd00losegoog=idemptice | iohanniswyclifd01losegoog=idemptice | iohanniswyclifde12wycl=idemptice		4	accept
+89	R3a	latinworks13wycl=partes | iohanniswyclifd00losegoog=partes | iohanniswyclifd01losegoog=paries | iohanniswyclifde12wycl=partes		4	accept
+90	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+124	R2	latinworks13wycl=uinum | iohanniswyclifd00losegoog=uinura | iohanniswyclifd01losegoog=uinum | iohanniswyclifde12wycl=uinum		4	accept
+128	R2	latinworks13wycl=lhristi | iohanniswyclifd00losegoog=chnsti | iohanniswyclifd01losegoog=cnnsti | iohanniswyclifde12wycl=christi		4	accept
+130	R2	latinworks13wycl=nne | iohanniswyclifd00losegoog=fine | iohanniswyclifd01losegoog=one | iohanniswyclifde12wycl=fine		4	accept
+135	R2	latinworks13wycl=uinum | iohanniswyclifd00losegoog=umura | iohanniswyclifd01losegoog=uinum | iohanniswyclifde12wycl=uinum		4	accept
+172	R2	latinworks13wycl=conuersum | iohanniswyclifd00losegoog=conuersum | iohanniswyclifd01losegoog=conuenurn | iohanniswyclifde12wycl=conuersum		4	accept
+178	R2	latinworks13wycl=materia | iohanniswyclifd00losegoog=materia | iohanniswyclifd01losegoog=mstcria | iohanniswyclifde12wycl=materia		4	accept
+189	R3a	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=eue | iohanniswyclifde12wycl=esse		4	accept
+206	R3a	latinworks13wycl=item | iohanniswyclifd00losegoog=hem | iohanniswyclifd01losegoog=item | iohanniswyclifde12wycl=item		4	accept
+208	R2	latinworks13wycl=erit | iohanniswyclifd00losegoog=eril | iohanniswyclifd01losegoog=cht | iohanniswyclifde12wycl=erit		4	accept
+211	R5a	latinworks13wycl=indiuidualis | iohanniswyclifd00losegoog=indiuidualis | iohanniswyclifd01losegoog=indiuidualis | iohanniswyclifde12wycl=indiuidualis		4	accept
+219	R2	latinworks13wycl=motum | iohanniswyclifd00losegoog=motum | iohanniswyclifd01losegoog=raotum | iohanniswyclifde12wycl=motum		4	accept
+227	GAP	ve! utrumqucj et sigDalo illo quod acquireiur	2	4	plate
+227	EDGE	latinworks13wycl=uel | iohanniswyclifde12wycl=uel		2	accept
+228	EDGE	latinworks13wycl=utrumque | iohanniswyclifde12wycl=utrumque		2	accept

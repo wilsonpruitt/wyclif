@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+5	R3	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifde12wycl=et		3	plate
+22	R4	latinworks13wycl=infinicies | iohanniswyclifd00losegoog=inttnicles | iohanniswyclifde12wycl=infinicies		3	plate
+35	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymmo | iohanniswyclifde12wycl=ymrao		3	accept
+51	R5	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifde12wycl=b		3	plate
+61	R4	latinworks13wycl=can | iohanniswyclifd00losegoog=in | iohanniswyclifde12wycl=can		3	plate
+72	R2	latinworks13wycl=sufficiunt | iohanniswyclifd00losegoog=sufficiunt | iohanniswyclifde12wycl=sulnciunt		3	accept
+81	R2	latinworks13wycl=n | iohanniswyclifd00losegoog=in | iohanniswyclifde12wycl=in		3	accept
+82	R3	latinworks13wycl=stis | iohanniswyclifd00losegoog=istis | iohanniswyclifde12wycl=istis		3	plate
+83	R3	latinworks13wycl=necessitat | iohanniswyclifd00losegoog=necessitati | iohanniswyclifde12wycl=necessitati		3	plate
+85	R3	latinworks13wycl=aci | iohanniswyclifd00losegoog=ad | iohanniswyclifde12wycl=ad		3	plate
+114	R2	latinworks13wycl=omni | iohanniswyclifd00losegoog=orani | iohanniswyclifde12wycl=omni		3	accept
+137	R3	latinworks13wycl=fidem | iohanniswyclifd00losegoog=idem | iohanniswyclifde12wycl=fidem		3	plate
+143	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifde12wycl=et		3	accept
+178	R5	latinworks13wycl=presupponunt | iohanniswyclifd00losegoog=presupponunt | iohanniswyclifde12wycl=presupponunt		3	plate
+212	EDGE	latinworks13wycl=nullam | iohanniswyclifde12wycl=nullam		2	accept
+213	EDGE	latinworks13wycl=affirmacionem | iohanniswyclifde12wycl=affirmacionem		2	accept
+214	EDGE	latinworks13wycl=cognoscunt | iohanniswyclifde12wycl=cognoscunt		2	accept

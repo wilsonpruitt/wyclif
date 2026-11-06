@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=unumquodque | iohanniswyclifde12wycl=unumquodque		2	accept
+27	R3a	latinworks13wycl=dicta | iohanniswyclifd00losegoog=dicia | iohanniswyclifd01losegoog=dicta | iohanniswyclifde12wycl=dicta		4	accept
+28	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+32	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ci | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+37	R2	latinworks13wycl=oportet | iohanniswyclifd00losegoog=oporiel | iohanniswyclifd01losegoog=oportet | iohanniswyclifde12wycl=oportet		4	accept
+38	R3a	latinworks13wycl=eciam | iohanniswyclifd00losegoog=eciam | iohanniswyclifd01losegoog=edam | iohanniswyclifde12wycl=eciam		4	accept
+40	NW	latinworks13wycl=prehabere | iohanniswyclifd00losegoog=prehabere | iohanniswyclifd01losegoog=prebabere | iohanniswyclifde12wycl=prehabere		4	plate
+68	R2	latinworks13wycl=generalissimum | iohanniswyclifd00losegoog=gcneralissiraura | iohanniswyclifd01losegoog=geoeralissimum | iohanniswyclifde12wycl=generalissimum		4	accept
+79	R3a	latinworks13wycl=recitatas | iohanniswyclifd00losegoog=recitatus | iohanniswyclifd01losegoog=redtatas | iohanniswyclifde12wycl=recitatas		4	accept
+89	R2	latinworks13wycl=sacramentum | iohanniswyclifd00losegoog=sacramentum | iohanniswyclifd01losegoog=saera | iohanniswyclifde12wycl=sacramentum		4	accept
+105	R2	latinworks13wycl=quod | iohanniswyclifd00losegoog=quui | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+106	R5a	latinworks13wycl=equiuocant | iohanniswyclifd00losegoog=equiuocant | iohanniswyclifd01losegoog=equiuocant | iohanniswyclifde12wycl=equiuocant		4	accept
+108	NW	latinworks13wycl=prcnomine | iohanniswyclifd00losegoog=prcnomine | iohanniswyclifd01losegoog=pronomine | iohanniswyclifde12wycl=prcnomine		4	plate
+119	R4	latinworks13wycl=quam | iohanniswyclifd00losegoog=quara | iohanniswyclifd01losegoog=quara | iohanniswyclifde12wycl=quam		4	plate
+129	R5a	latinworks13wycl=equiuocant | iohanniswyclifd00losegoog=equiuocant | iohanniswyclifd01losegoog=equiuocant | iohanniswyclifde12wycl=equiuocant		4	accept
+135	R3a	latinworks13wycl=demonstrato | iohanniswyclifd00losegoog=demonstralo | iohanniswyclifd01losegoog=demonstrate | iohanniswyclifde12wycl=demonstrato		4	accept
+139	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sit | iohanniswyclifd01losegoog=sito | iohanniswyclifde12wycl=sit		4	accept
+148	R2	latinworks13wycl=consecracione | iohanniswyclifd00losegoog=consccracione | iohanniswyclifd01losegoog=consccfacioncy | iohanniswyclifde12wycl=consecracione		4	accept
+150	R2	latinworks13wycl=ila | iohanniswyclifd00losegoog=11 | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=11		4	accept
+159	R5a	latinworks13wycl=ponderositas | iohanniswyclifd00losegoog=ponderositas | iohanniswyclifd01losegoog=ponderositas | iohanniswyclifde12wycl=ponderositas		4	accept
+166	R3a	latinworks13wycl=tres | iohanniswyclifd00losegoog=ires | iohanniswyclifd01losegoog=tres | iohanniswyclifde12wycl=tres		4	accept
+170	R2	latinworks13wycl=sacramentum | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=sacramentura | iohanniswyclifde12wycl=sacramentum		4	accept
+182	R5	latinworks13wycl=equiuocant | iohanniswyclifd01losegoog=equiuocant | iohanniswyclifde12wycl=equiuocant		3	plate

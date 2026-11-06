@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=non | iohanniswyclifd00losegoog=non		2	accept
+5	R4	latinworks13wycl=ummo | iohanniswyclifd00losegoog=ymmo | iohanniswyclifd01losegoog=ymmo | iohanniswyclifde12wycl=ummo		4	plate
+11	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+38	R3a	latinworks13wycl=uniuersalia | iohanniswyclifd00losegoog=uniuersalis | iohanniswyclifd01losegoog=uniuersalia | iohanniswyclifde12wycl=uniuersalia		4	accept
+50	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+67	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=lam | iohanniswyclifd01losegoog=tam | iohanniswyclifde12wycl=tam		4	accept
+72	R6a	latinworks13wycl=denceret | iohanniswyclifd00losegoog=deficerei | iohanniswyclifd01losegoog=denceret | iohanniswyclifde12wycl=denceret		4	accept
+78	R3a	latinworks13wycl=ambulat | iohanniswyclifd00losegoog=ambulat | iohanniswyclifd01losegoog=ambulaty | iohanniswyclifde12wycl=ambulat		4	accept
+101	R5a	latinworks13wycl=ydemptificatum | iohanniswyclifd00losegoog=ydemptificatum | iohanniswyclifd01losegoog=ydemptificatum | iohanniswyclifde12wycl=udemptificatum		4	accept
+103	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=christ | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=chnsu		4	accept
+129	R5a	latinworks13wycl=specificaretur | iohanniswyclifd00losegoog=specificaretur | iohanniswyclifd01losegoog=speciiicaretur | iohanniswyclifde12wycl=specificaretur		4	accept
+158	R5a	latinworks13wycl=irracionabilius | iohanniswyclifd00losegoog=irraclonabilius | iohanniswyclifd01losegoog=irracionabilius | iohanniswyclifde12wycl=irracionabilius		4	accept
+163	R3a	latinworks13wycl=opinioni | iohanniswyclifd00losegoog=opinion | iohanniswyclifd01losegoog=opinioni | iohanniswyclifde12wycl=opinioni		4	accept
+170	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+193	R5a	latinworks13wycl=ydemptificacionem | iohanniswyclifd00losegoog=ydempiificacionem | iohanniswyclifd01losegoog=ydemptificacionem | iohanniswyclifde12wycl=ydemptificacionem		4	accept
+205	THIN	latinworks13wycl=lndiuiduum		1	plate
+206	EDGE	latinworks13wycl=speciei		1	accept
+207	THIN	latinworks13wycl=ydemptificat		1	plate

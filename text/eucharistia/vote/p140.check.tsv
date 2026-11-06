@@ -1,0 +1,41 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=sancto		1	accept
+1	EDGE	latinworks13wycl=thome		1	accept
+2	EDGE	latinworks13wycl=imposite		1	accept
+3	EDGE	latinworks13wycl=sunt | iohanniswyclifde12wycl=sunt		2	accept
+4	EDGE	latinworks13wycl=fedati | iohanniswyclifde12wycl=fedati		2	accept
+5	EDGE	latinworks13wycl=heretica | iohanniswyclifde12wycl=heretica		2	accept
+6	EDGE	latinworks13wycl=prauitate | iohanniswyclifde12wycl=prauitate		2	accept
+7	EDGE	latinworks13wycl=quia | iohanniswyclifde12wycl=quia		2	accept
+8	EDGE	latinworks13wycl=tamen | iohanniswyclifde12wycl=tamen		2	accept
+9	EDGE	latinworks13wycl=receperunt | iohanniswyclifde12wycl=receperunt		2	accept
+10	EDGE	latinworks13wycl=istum | iohanniswyclifde12wycl=istum		2	accept
+11	EDGE	latinworks13wycl=ordinem | iohanniswyclifde12wycl=ordinem		2	accept
+12	EDGE	latinworks13wycl=sanctum | iohanniswyclifde12wycl=sanctum		2	accept
+13	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+14	EDGE	latinworks13wycl=pium | iohanniswyclifde12wycl=pium		2	accept
+15	EDGE	latinworks13wycl=quamuis | iohanniswyclifde12wycl=quamuis		2	accept
+16	EDGE	latinworks13wycl=habeant | iohanniswyclifde12wycl=habeant		2	accept
+22	R5	latinworks13wycl=thomam | iohanniswyclifd01losegoog=thomam | iohanniswyclifde12wycl=thomam		3	plate
+56	R4	latinworks13wycl=on | iohanniswyclifd01losegoog=of | iohanniswyclifde12wycl=on		3	plate
+65	R5	latinworks13wycl=temerana | iohanniswyclifd01losegoog=temerana | iohanniswyclifde12wycl=temerana		3	plate
+68	R5	latinworks13wycl=hst | iohanniswyclifd01losegoog=bst | iohanniswyclifde12wycl=bst		3	plate
+70	R5	latinworks13wycl=temerana | iohanniswyclifd01losegoog=temcraria | iohanniswyclifde12wycl=temerana		3	plate
+73	R2	latinworks13wycl=ut | iohanniswyclifd01losegoog=ul | iohanniswyclifde12wycl=ut		3	accept
+75	R4a	latinworks13wycl=ndei | iohanniswyclifd01losegoog=fidei | iohanniswyclifde12wycl=ndei		3	accept
+77	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+124	R3	latinworks13wycl=augustinus | iohanniswyclifd01losegoog=augustmus | iohanniswyclifde12wycl=augustinus		3	plate
+126	R3	latinworks13wycl=alii | iohanniswyclifd01losegoog=ahi | iohanniswyclifde12wycl=alu		3	plate
+130	R4	latinworks13wycl=regulanter | iohanniswyclifd01losegoog=reeularitcr | iohanniswyclifde12wycl=regulanter		3	plate
+135	R3	latinworks13wycl=panis | iohanniswyclifd01losegoog=nanis | iohanniswyclifde12wycl=panis		3	plate
+142	R2	latinworks13wycl=que | iohanniswyclifd01losegoog=cue | iohanniswyclifde12wycl=que		3	accept
+144	R4	latinworks13wycl=loret | iohanniswyclifd01losegoog=forel | iohanniswyclifde12wycl=ioret		3	plate
+146	R5	latinworks13wycl=sollempnisare | iohanniswyclifd01losegoog=sollempnisare | iohanniswyclifde12wycl=sollempnisare		3	plate
+147	R2	latinworks13wycl=noc | iohanniswyclifd01losegoog=hoc | iohanniswyclifde12wycl=hoc		3	accept
+149	R2	latinworks13wycl=auctoritate | iohanniswyclifd01losegoog=aiictoriiatc | iohanniswyclifde12wycl=auctontate		3	accept
+155	R5	latinworks13wycl=romane | iohanniswyclifd01losegoog=romaoe | iohanniswyclifde12wycl=romane		3	plate
+157	THIN	latinworks13wycl=tempore | iohanniswyclifde12wycl=tempore		2	plate
+158	THIN	latinworks13wycl=nicholai | iohanniswyclifde12wycl=nicholai		2	plate
+159	THIN	latinworks13wycl=ii1 | iohanniswyclifde12wycl=ii1		2	plate
+160	THIN	latinworks13wycl=decreuit | iohanniswyclifde12wycl=decreuit		2	plate
+161	THIN	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	plate

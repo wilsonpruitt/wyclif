@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=similiter | iohanniswyclifde12wycl=similiter		2	accept
+5	R5a	latinworks13wycl=quantificacio | iohanniswyclifd00losegoog=quantificacio | iohanniswyclifd01losegoog=quantificacio | iohanniswyclifde12wycl=quantificacio		4	accept
+12	R4	latinworks13wycl=quantitas | iohanniswyclifd00losegoog=quantilas | iohanniswyclifd01losegoog=quantilas | iohanniswyclifde12wycl=quantitas		4	plate
+16	R2	latinworks13wycl=sua | iohanniswyclifd00losegoog=sua | iohanniswyclifd01losegoog=nforraacio | iohanniswyclifde12wycl=sua		4	accept
+17	R2	latinworks13wycl=informacio | iohanniswyclifd00losegoog=informacio | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=informacio		4	accept
+33	R4	latinworks13wycl=subiecto | iohanniswyclifd00losegoog=subiecio | iohanniswyclifd01losegoog=subiecio | iohanniswyclifde12wycl=subiecto		4	plate
+49	NW	latinworks13wycl=louca | iohanniswyclifd00losegoog=loyca | iohanniswyclifd01losegoog=louca | iohanniswyclifde12wycl=louca		4	plate
+54	R5a	latinworks13wycl=quantificacio | iohanniswyclifd00losegoog=quantificaeio | iohanniswyclifd01losegoog=quantificacio | iohanniswyclifde12wycl=quantificacio		4	accept
+62	R4	latinworks13wycl=motus | iohanniswyclifd00losegoog=raotus | iohanniswyclifd01losegoog=raotus | iohanniswyclifde12wycl=motus		4	plate
+80	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=ghristi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+84	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+90	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ul | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+102	R2	latinworks13wycl=fine | iohanniswyclifd00losegoog=5ne | iohanniswyclifd01losegoog=fine | iohanniswyclifde12wycl=fine		4	accept
+145	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+166	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=13 | iohanniswyclifd01losegoog=3et | iohanniswyclifde12wycl=et		4	accept
+189	R2	latinworks13wycl=sacramentaliter | iohanniswyclifd00losegoog=sacramcntaliter | iohanniswyclifd01losegoog=sacrameniaiiier | iohanniswyclifde12wycl=sacramentaliter		4	accept
+226	EDGE	latinworks13wycl=nec		1	accept
+227	EDGE	latinworks13wycl=aliquid		1	accept

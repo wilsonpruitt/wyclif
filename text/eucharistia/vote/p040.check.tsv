@@ -1,0 +1,15 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=patripassianorum | iohanniswyclifde12wycl=patripassianorum		2	plate
+1	EDGE	latinworks13wycl=quos | iohanniswyclifde12wycl=quos		2	accept
+2	EDGE	latinworks13wycl=augustinus | iohanniswyclifde12wycl=augustinus		2	accept
+3	EDGE	latinworks13wycl=recitat | iohanniswyclifde12wycl=recitat		2	accept
+37	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymmo | iohanniswyclifd01losegoog=inimo | iohanniswyclifde12wycl=ymmo		4	accept
+66	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ec | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+69	R3a	latinworks13wycl=omnis | iohanniswyclifd00losegoog=omnis | iohanniswyclifd01losegoog=omnia | iohanniswyclifde12wycl=omnis		4	accept
+71	R3a	latinworks13wycl=foret | iohanniswyclifd00losegoog=toret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=foret		4	accept
+105	R2	latinworks13wycl=creatura | iohanniswyclifd00losegoog=creatura | iohanniswyclifd01losegoog=creatunii | iohanniswyclifde12wycl=creatura		4	accept
+109	DEL	latinworks13wycl=6 | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	accept
+122	R3a	latinworks13wycl=hominem | iohanniswyclifd00losegoog=hominum | iohanniswyclifd01losegoog=hominem | iohanniswyclifde12wycl=hominem		4	accept
+162	R3a	latinworks13wycl=2 | iohanniswyclifd00losegoog=a | iohanniswyclifd01losegoog=2 | iohanniswyclifde12wycl=2		4	accept
+180	NW	latinworks13wycl=parificari | iohanniswyclifd00losegoog=pariticari | iohanniswyclifd01losegoog=parificari | iohanniswyclifde12wycl=parificari		4	plate
+185	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate

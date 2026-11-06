@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=experti | iohanniswyclifde12wycl=experti		2	accept
+1	EDGE	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	accept
+2	EDGE	latinworks13wycl=sacerdotes | iohanniswyclifde12wycl=sacerdotes		2	accept
+3	EDGE	latinworks13wycl=antichristi | iohanniswyclifde12wycl=antichristi		2	accept
+9	R5	latinworks13wycl=persecuntur | iohanniswyclifd01losegoog=persecuntur | iohanniswyclifde12wycl=persecuntur		3	plate
+11	R2	latinworks13wycl=faciem | iohanniswyclifd01losegoog=facieniy | iohanniswyclifde12wycl=faciem		3	accept
+48	NW	latinworks13wycl=communions | iohanniswyclifd00losegoog=communions | iohanniswyclifd01losegoog=communions | iohanniswyclifde12wycl=communions		4	plate
+56	R3a	latinworks13wycl=anglicane | iohanniswyclifd00losegoog=anglicane | iohanniswyclifd01losegoog=anglicane | iohanniswyclifde12wycl=anghcane		4	accept
+87	R2	latinworks13wycl=poterat | iohanniswyclifd00losegoog=poieral | iohanniswyclifd01losegoog=poterat | iohanniswyclifde12wycl=poterat		4	accept
+106	R3a	latinworks13wycl=defendi | iohanniswyclifd00losegoog=defendi | iohanniswyclifd01losegoog=defendt | iohanniswyclifde12wycl=defendi		4	accept
+122	R4	latinworks13wycl=multiplicandi | iohanniswyclifd00losegoog=multiplicand | iohanniswyclifd01losegoog=multiplicand | iohanniswyclifde12wycl=multiplicandi		4	plate
+131	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+137	R3a	latinworks13wycl=peccatum | iohanniswyclifd00losegoog=peccaturo | iohanniswyclifd01losegoog=peccatum | iohanniswyclifde12wycl=peccatum		4	accept
+156	R4	latinworks13wycl=iia | iohanniswyclifd00losegoog=ii | iohanniswyclifd01losegoog=ii | iohanniswyclifde12wycl=iia		4	plate
+168	NW	latinworks13wycl=edificiis | iohanniswyclifd00losegoog=edibciis | iohanniswyclifd01losegoog=edificiis | iohanniswyclifde12wycl=edificiis		4	plate
+179	R2	latinworks13wycl=gum | iohanniswyclifd00losegoog=cum | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		4	accept
+183	R2	latinworks13wycl=maius | iohanniswyclifd00losegoog=raaius | iohanniswyclifd01losegoog=mains | iohanniswyclifde12wycl=maius		4	accept
+188	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+195	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+226	R5a	latinworks13wycl=ydolatrando | iohanniswyclifd00losegoog=ydolatrando | iohanniswyclifd01losegoog=ydolatrando | iohanniswyclifde12wycl=ydolatrando		4	accept

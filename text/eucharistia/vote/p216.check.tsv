@@ -1,0 +1,37 @@
+pos	rule	forms	support	voters	resolution
+4	R2	latinworks13wycl=sit | iohanniswyclifd01losegoog=tit | iohanniswyclifde12wycl=sit		3	accept
+5	R3	latinworks13wycl=racionale | iohanniswyclifd01losegoog=racioitae | iohanniswyclifde12wycl=rationale		3	plate
+9	R3	latinworks13wycl=in | iohanniswyclifd01losegoog=id | iohanniswyclifde12wycl=in		3	plate
+20	R2	latinworks13wycl=quod | iohanniswyclifd00losegoog=iiuod | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+24	R4	latinworks13wycl=lllud | iohanniswyclifd00losegoog=iilud | iohanniswyclifd01losegoog=iuud | iohanniswyclifde12wycl=ulud		4	plate
+25	R6a	latinworks13wycl=of | iohanniswyclifd00losegoog=of | iohanniswyclifd01losegoog=of | iohanniswyclifde12wycl=∅		4	accept
+30	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=ec | iohanniswyclifde12wycl=et		4	accept
+39	R2	latinworks13wycl=diinmtiue | iohanniswyclifd00losegoog=difrnitiue | iohanniswyclifd01losegoog=diffinitiue | iohanniswyclifde12wycl=dimmtiue		4	accept
+44	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sic | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+45	R4	latinworks13wycl=lbi | iohanniswyclifd00losegoog=ibi | iohanniswyclifd01losegoog=idi | iohanniswyclifde12wycl=lbi		4	plate
+51	R2	latinworks13wycl=lbi | iohanniswyclifd00losegoog=ibi | iohanniswyclifd01losegoog=ibi | iohanniswyclifde12wycl=idi		4	accept
+53	R3a	latinworks13wycl=uerius | iohanniswyclifd00losegoog=uerius | iohanniswyclifd01losegoog=uenus | iohanniswyclifde12wycl=uerius		4	accept
+55	R4a	latinworks13wycl=sacramentahter | iohanniswyclifd00losegoog=sacramentaliter | iohanniswyclifd01losegoog=sacramcntaliter | iohanniswyclifde12wycl=sacramentahter		4	accept
+62	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+66	R2	latinworks13wycl=faciat | iohanniswyclifd00losegoog=facial | iohanniswyclifd01losegoog=fskiat | iohanniswyclifde12wycl=faciat		4	accept
+73	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ec | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+91	R4	latinworks13wycl=mxta | iohanniswyclifd00losegoog=luitta | iohanniswyclifd01losegoog=iuxta | iohanniswyclifde12wycl=mxta		4	plate
+92	R4	latinworks13wycl=ndem | iohanniswyclifd00losegoog=hdcoi | iohanniswyclifd01losegoog=fidem | iohanniswyclifde12wycl=ndem		4	plate
+94	R4a	latinworks13wycl=luxta | iohanniswyclifd00losegoog=luxta | iohanniswyclifd01losegoog=iuzta | iohanniswyclifde12wycl=iuxta		4	accept
+102	R3a	latinworks13wycl=fiet | iohanniswyclifd00losegoog=fiet | iohanniswyclifd01losegoog=net | iohanniswyclifde12wycl=fiet		4	accept
+104	R4a	latinworks13wycl=chnsti | iohanniswyclifd00losegoog=cbristi | iohanniswyclifd01losegoog=chnsti | iohanniswyclifde12wycl=christi		4	accept
+107	R2	latinworks13wycl=consequens | iohanniswyclifd00losegoog=consequens | iohanniswyclifd01losegoog=conscqucus | iohanniswyclifde12wycl=consequens		4	accept
+108	R3a	latinworks13wycl=fiet | iohanniswyclifd00losegoog=fiet | iohanniswyclifd01losegoog=fict | iohanniswyclifde12wycl=net		4	accept
+110	R3a	latinworks13wycl=cum | iohanniswyclifd00losegoog=cura | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		4	accept
+112	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+113	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=eti | iohanniswyclifde12wycl=et		4	accept
+116	R5a	latinworks13wycl=ydcmptincabitur | iohanniswyclifd00losegoog=ydemptificabitur | iohanniswyclifd01losegoog=ydemptificalntur | iohanniswyclifde12wycl=ydemptificabitur		4	accept
+132	R5a	latinworks13wycl=ydemptificacionem | iohanniswyclifd00losegoog=ydemptificacionem | iohanniswyclifd01losegoog=ydemptificacionem | iohanniswyclifde12wycl=ydemptificacionem		4	accept
+135	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+136	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+168	R4a	latinworks13wycl=ydemptificacione | iohanniswyclifd00losegoog=ydemptificaclone | iohanniswyclifd01losegoog=ydemptincacione | iohanniswyclifde12wycl=ydemptincacione		4	accept
+171	R5a	latinworks13wycl=inpanacione | iohanniswyclifd00losegoog=inpanacione | iohanniswyclifd01losegoog=inpanacione | iohanniswyclifde12wycl=inpanacione		4	accept
+188	R3a	latinworks13wycl=orta | iohanniswyclifd00losegoog=orta | iohanniswyclifd01losegoog=orca | iohanniswyclifde12wycl=orta		4	accept
+196	R5a	latinworks13wycl=multiplicior | iohanniswyclifd00losegoog=muliiphcior | iohanniswyclifd01losegoog=multiplicior | iohanniswyclifde12wycl=multiplicior		4	accept
+220	R5a	latinworks13wycl=theoreumate | iohanniswyclifd00losegoog=iheoreumaie | iohanniswyclifd01losegoog=theoreumate | iohanniswyclifde12wycl=theoreumate		4	accept
+228	EDGE	latinworks13wycl=katholica | iohanniswyclifde12wycl=katholica		2	accept

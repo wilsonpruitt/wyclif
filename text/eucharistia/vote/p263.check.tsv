@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+13	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=eat | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+14	R2	latinworks13wycl=ita | iohanniswyclifd00losegoog=iia | iohanniswyclifd01losegoog=ita | iohanniswyclifde12wycl=ita		4	accept
+25	R3a	latinworks13wycl=totum | iohanniswyclifd00losegoog=lotum | iohanniswyclifd01losegoog=totum | iohanniswyclifde12wycl=totum		4	accept
+41	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+54	R2	latinworks13wycl=infinitum | iohanniswyclifd00losegoog=infinititn | iohanniswyclifd01losegoog=infinitum | iohanniswyclifde12wycl=infinitum		4	accept
+96	R3a	latinworks13wycl=patet | iohanniswyclifd00losegoog=palet | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=patet		4	accept
+102	R2	latinworks13wycl=omnis | iohanniswyclifd00losegoog=oranis | iohanniswyclifd01losegoog=omnis | iohanniswyclifde12wycl=omnis		4	accept
+150	R3	latinworks13wycl=etpatet | iohanniswyclifd00losegoog=etpatet | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	plate
+151	R3	latinworks13wycl=confusio | iohanniswyclifd00losegoog=confusio | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=patet		4	plate
+152	R2	latinworks13wycl=respondendi | iohanniswyclifd00losegoog=respondendi | iohanniswyclifd01losegoog=confusiorespondendiy | iohanniswyclifde12wycl=confusiorespondendi		4	accept
+176	R4a	latinworks13wycl=sophiste | iohanniswyclifd00losegoog=sophisie | iohanniswyclifd01losegoog=sopbiste | iohanniswyclifde12wycl=sopbiste		4	accept
+181	R5a	latinworks13wycl=giratiuas | iohanniswyclifd00losegoog=giratiuas | iohanniswyclifd01losegoog=giratiuas | iohanniswyclifde12wycl=giratiuas		4	accept
+189	R2	latinworks13wycl=infinitum | iohanniswyclifd00losegoog=inbnicum | iohanniswyclifd01losegoog=infinitum | iohanniswyclifde12wycl=infinitum		4	accept
+203	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+238	THIN	latinworks13wycl=giratiuam		1	plate

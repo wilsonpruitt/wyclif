@@ -1,0 +1,40 @@
+pos	rule	forms	support	voters	resolution
+13	R2	latinworks13wycl=ens | iohanniswyclifd01losegoog=cds | iohanniswyclifde12wycl=ens		3	accept
+15	R2	latinworks13wycl=sit | iohanniswyclifd01losegoog=stc | iohanniswyclifde12wycl=sit		3	accept
+21	R4	latinworks13wycl=poteritper | iohanniswyclifd01losegoog=poteritper | iohanniswyclifde12wycl=potent		3	plate
+23	EDGE	latinworks13wycl=esse | iohanniswyclifde12wycl=esse		2	accept
+24	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+25	EDGE	latinworks13wycl=ex | iohanniswyclifde12wycl=ex		2	accept
+49	R5a	latinworks13wycl=quidditas | iohanniswyclifd00losegoog=quiiditat | iohanniswyclifd01losegoog=quidditas | iohanniswyclifde12wycl=quidditas		4	accept
+50	R2	latinworks13wycl=nature | iohanniswyclifd00losegoog=aalure | iohanniswyclifd01losegoog=nature | iohanniswyclifde12wycl=nature		4	accept
+53	R2	latinworks13wycl=uerumptamen | iohanniswyclifd00losegoog=tcrumpianihi | iohanniswyclifd01losegoog=ueruroptamen | iohanniswyclifde12wycl=ueruraptaraen		4	accept
+56	R3a	latinworks13wycl=potest | iohanniswyclifd00losegoog=potui | iohanniswyclifd01losegoog=potest | iohanniswyclifde12wycl=potest		4	accept
+57	R2	latinworks13wycl=dupliciter | iohanniswyclifd00losegoog=duplidler | iohanniswyclifd01losegoog=dupliciter | iohanniswyclifde12wycl=dupliciter		4	accept
+58	R2	latinworks13wycl=scilicet | iohanniswyclifd00losegoog=sdlicct | iohanniswyclifd01losegoog=sdlicet | iohanniswyclifde12wycl=scilicet		4	accept
+59	R2	latinworks13wycl=neutraliter | iohanniswyclifd00losegoog=dcatraiiicf | iohanniswyclifd01losegoog=neutraliter | iohanniswyclifde12wycl=neutraliter		4	accept
+60	R3a	latinworks13wycl=uel | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=uel | iohanniswyclifde12wycl=uel		4	accept
+65	R2	latinworks13wycl=altaris | iohanniswyclifd00losegoog=aitarit | iohanniswyclifd01losegoog=altaris | iohanniswyclifde12wycl=altaris		4	accept
+67	R2	latinworks13wycl=accidens | iohanniswyclifd00losegoog=acddcns | iohanniswyclifd01losegoog=accidens | iohanniswyclifde12wycl=accidens		4	accept
+68	R3a	latinworks13wycl=sed | iohanniswyclifd00losegoog=ed | iohanniswyclifd01losegoog=sed | iohanniswyclifde12wycl=sed		4	accept
+74	R2	latinworks13wycl=accidit | iohanniswyclifd00losegoog=acciiii | iohanniswyclifd01losegoog=accidit | iohanniswyclifde12wycl=accidit		4	accept
+75	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+76	R3a	latinworks13wycl=deus | iohanniswyclifd00losegoog=deui | iohanniswyclifd01losegoog=deus | iohanniswyclifde12wycl=deus		4	accept
+84	R2	latinworks13wycl=omnis | iohanniswyclifd00losegoog=omnis | iohanniswyclifd01losegoog=omnis | iohanniswyclifde12wycl=oranis		4	accept
+85	R2	latinworks13wycl=creatura | iohanniswyclifd00losegoog=crcatnni | iohanniswyclifd01losegoog=creatura | iohanniswyclifde12wycl=creatura		4	accept
+87	R2	latinworks13wycl=inest | iohanniswyclifd00losegoog=toen | iohanniswyclifd01losegoog=inest | iohanniswyclifde12wycl=inest		4	accept
+90	R2	latinworks13wycl=remanet | iohanniswyclifd00losegoog=renunct | iohanniswyclifd01losegoog=remanet | iohanniswyclifde12wycl=reraanet		4	accept
+92	R2	latinworks13wycl=accidente | iohanniswyclifd00losegoog=acddeute | iohanniswyclifd01losegoog=accidente | iohanniswyclifde12wycl=accidente		4	accept
+96	R2	latinworks13wycl=quedam | iohanniswyclifd00losegoog=qatdatn | iohanniswyclifd01losegoog=quedam | iohanniswyclifde12wycl=quedam		4	accept
+97	R2	latinworks13wycl=naturalitas | iohanniswyclifd00losegoog=nainralilas | iohanniswyclifd01losegoog=naturaiitas | iohanniswyclifde12wycl=naturalitas		4	accept
+104	R5a	latinworks13wycl=accidentalitas | iohanniswyclifd00losegoog=accidcntaliias | iohanniswyclifd01losegoog=accidentalitas | iohanniswyclifde12wycl=accidentalitas		4	accept
+107	R2	latinworks13wycl=potest | iohanniswyclifd00losegoog=polesi | iohanniswyclifd01losegoog=potest | iohanniswyclifde12wycl=potest		4	accept
+109	R2	latinworks13wycl=substancie | iohanniswyclifd00losegoog=sabftaade | iohanniswyclifd01losegoog=substancie | iohanniswyclifde12wycl=substancie		4	accept
+131	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=nt | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+137	R3a	latinworks13wycl=qui | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=qui | iohanniswyclifde12wycl=qui		4	accept
+146	R3a	latinworks13wycl=se | iohanniswyclifd00losegoog=te | iohanniswyclifd01losegoog=se | iohanniswyclifde12wycl=se		4	accept
+147	R2	latinworks13wycl=existat | iohanniswyclifd00losegoog=ciisiat | iohanniswyclifd01losegoog=existat | iohanniswyclifde12wycl=existat		4	accept
+163	R2	latinworks13wycl=ille | iohanniswyclifd00losegoog=ille | iohanniswyclifd01losegoog=illcy | iohanniswyclifde12wycl=ille		4	accept
+166	R3a	latinworks13wycl=facere | iohanniswyclifd00losegoog=facere | iohanniswyclifd01losegoog=facere | iohanniswyclifde12wycl=iacere		4	accept
+174	R5a	latinworks13wycl=actuaciones | iohanniswyclifd00losegoog=actuaciones | iohanniswyclifd01losegoog=actuaciones | iohanniswyclifde12wycl=actuaciones		4	accept
+185	R5a	latinworks13wycl=actuaciones | iohanniswyclifd00losegoog=actuaciones | iohanniswyclifd01losegoog=actuaciones | iohanniswyclifde12wycl=actuaciones		4	accept
+205	R2	latinworks13wycl=ego | iohanniswyclifd00losegoog=ego | iohanniswyclifd01losegoog=eeo | iohanniswyclifde12wycl=ego		4	accept

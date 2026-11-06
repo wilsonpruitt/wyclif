@@ -1,0 +1,57 @@
+pos	rule	forms	support	voters	resolution
+5	INS?	uindicte domini	2	4	plate
+5	R3a	latinworks13wycl=effugatus | iohanniswyclifd00losegoog=effugatus | iohanniswyclifd01losegoog=uindicte | iohanniswyclifde12wycl=effugatus		4	accept
+6	R2	latinworks13wycl=omnes | iohanniswyclifd00losegoog=oranes | iohanniswyclifd01losegoog=omnes | iohanniswyclifde12wycl=omnes		4	accept
+9	R3a	latinworks13wycl=uersancium | iohanniswyclifd00losegoog=ct | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+10	INS	omnium aduersancium	3	4	accept
+12	GAP	et cum fides non	3	4	plate
+16	R2	latinworks13wycl=bantur | iohanniswyclifd00losegoog=paiet | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=patet		4	accept
+17	INS?	quod nutriebantur	2	4	plate
+21	INS?	postmodum sunt	2	4	plate
+23	R2	latinworks13wycl=totum | iohanniswyclifd00losegoog=totum | iohanniswyclifd01losegoog=totum | iohanniswyclifde12wycl=to		4	accept
+27	INS?	per ambulacionem	2	4	plate
+32	INS?	sic quod	2	4	plate
+32	R3a	latinworks13wycl=nichil | iohanniswyclifd00losegoog=sic | iohanniswyclifd01losegoog=nichil | iohanniswyclifde12wycl=nichil		4	accept
+36	R5	latinworks13wycl=egypto | iohanniswyclifd01losegoog=egypto | iohanniswyclifde12wycl=egypto		3	plate
+37	R3	latinworks13wycl=futura | iohanniswyclifd01losegoog=quin | iohanniswyclifde12wycl=futura		3	plate
+41	GAP	sua ad patriam.	3	4	plate
+47	GAP	fluente de petra	3	4	plate
+53	GAP	Exodi XVII^, 6),	2	4	plate
+58	INS?	subtilitatem	2	4	plate
+59	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept
+60	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=christ | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=ghristi		4	accept
+63	INS	iudaicus christum	3	4	accept
+68	R2	latinworks13wycl=gacionis | iohanniswyclifd01losegoog=secutum | iohanniswyclifde12wycl=secutum		3	accept
+69	INS?	fuit obiurgacionis	2	4	plate
+72	INS?	predicta ita	2	4	plate
+75	GAP	quod Christum sic	3	4	plate
+78	R2	latinworks13wycl=petra | iohanniswyclifd00losegoog=pclra | iohanniswyclifd01losegoog=petra | iohanniswyclifde12wycl=petra		4	accept
+80	INS?	erat christus	2	4	plate
+82	R2	latinworks13wycl=illapetra | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+83	INS	petra	3	4	accept
+85	INS?	figurauit notandum	2	4	plate
+85	R3a	latinworks13wycl=tamen | iohanniswyclifd00losegoog=figurauit | iohanniswyclifd01losegoog=tamen | iohanniswyclifde12wycl=tamen		4	accept
+90	INS?	dupliciter sane	2	4	plate
+90	R3a	latinworks13wycl=intelligi | iohanniswyclifd00losegoog=dupliciter | iohanniswyclifd01losegoog=intelligi | iohanniswyclifde12wycl=intelligi		4	accept
+95	INS?	figurauit huius	2	4	plate
+99	INS?	sensum figure	2	4	plate
+103	GAP	utrobique erit sensus	2	4	plate
+111	R3	latinworks13wycl=byssinum | iohanniswyclifd00losegoog=apoc | iohanniswyclifd01losegoog=byssinum | iohanniswyclifde12wycl=apoc		4	plate
+112	GAP	XIX", 8; Bj'ssinum	2	4	plate
+114	GAP	sunt sanctorum, ut	3	4	plate
+119	INS?	exemplum est illud	2	4	plate
+122	R3	latinworks13wycl=25 | iohanniswyclifd00losegoog=a | iohanniswyclifd01losegoog=23 | iohanniswyclifde12wycl=25		4	plate
+123	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+126	INS?	testamentum est	2	4	plate
+131	GAP	vinum in calice	3	4	plate
+134	GAP	sanguis vituli fuit	2	4	plate
+134	R3a	latinworks13wycl=signum | iohanniswyclifd00losegoog=sanguis | iohanniswyclifd01losegoog=signum | iohanniswyclifde12wycl=signum		4	accept
+136	R3a	latinworks13wycl=ueteris | iohanniswyclifd00losegoog=ueleris | iohanniswyclifd01losegoog=ueteris | iohanniswyclifde12wycl=ueteris		4	accept
+137	GAP	testamenti, ut patet	3	4	plate
+137	R5a	latinworks13wycl=exod | iohanniswyclifd00losegoog=exod | iohanniswyclifd01losegoog=exod | iohanniswyclifde12wycl=exod		4	accept
+142	INS	sanctos ecclesie	3	4	accept
+148	GAP	intelligere per panem	3	4	plate
+153	INS?	et sanguinem	2	4	plate
+154	R3	latinworks13wycl=ia | iohanniswyclifd00losegoog=i | iohanniswyclifde12wycl=ia		3	plate
+159	INS	apostolus quomodo	3	4	accept
+159	R5a	latinworks13wycl=corinthi | iohanniswyclifd00losegoog=corinthi | iohanniswyclifd01losegoog=corinthi | iohanniswyclifde12wycl=corinthi		4	accept

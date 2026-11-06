@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=ct | iohanniswyclifde12wycl=ct		2	plate
+15	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+22	R3a	latinworks13wycl=dicet | iohanniswyclifd00losegoog=dice | iohanniswyclifd01losegoog=sdicet | iohanniswyclifde12wycl=dicet		4	accept
+29	R3a	latinworks13wycl=scripturam | iohanniswyclifd00losegoog=scrip | iohanniswyclifd01losegoog=scripturam | iohanniswyclifde12wycl=scripturam		4	accept
+35	R2	latinworks13wycl=sensum | iohanniswyclifd00losegoog=sensuiti | iohanniswyclifd01losegoog=sensum | iohanniswyclifde12wycl=sensum		4	accept
+39	R3	latinworks13wycl=uentate | iohanniswyclifd00losegoog=uerilale | iohanniswyclifd01losegoog=ueritate | iohanniswyclifde12wycl=uentate		4	plate
+52	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sic | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+66	R5a	latinworks13wycl=loyca | iohanniswyclifd00losegoog=loyca | iohanniswyclifd01losegoog=loyca | iohanniswyclifde12wycl=loyca		4	accept
+68	R3a	latinworks13wycl=fide | iohanniswyclifd00losegoog=tide | iohanniswyclifd01losegoog=fide | iohanniswyclifde12wycl=ride		4	accept
+73	R5a	latinworks13wycl=baptisabant | iohanniswyclifd00losegoog=baptisabant | iohanniswyclifd01losegoog=baptisabant | iohanniswyclifde12wycl=baptisabant		4	accept
+77	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept
+85	R5a	latinworks13wycl=baptisabant | iohanniswyclifd00losegoog=baptisabant | iohanniswyclifd01losegoog=baptisabant | iohanniswyclifde12wycl=baptisabant		4	accept
+103	R3	latinworks13wycl=multi | iohanniswyclifd00losegoog=mulli | iohanniswyclifd01losegoog=ntulh | iohanniswyclifde12wycl=multi		4	plate
+120	R3a	latinworks13wycl=ioh | iohanniswyclifd00losegoog=ioh | iohanniswyclifd01losegoog=iob | iohanniswyclifde12wycl=ioh		4	accept
+131	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+147	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+150	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+162	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=don | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+174	R2	latinworks13wycl=modum | iohanniswyclifd00losegoog=modum | iohanniswyclifd01losegoog=moduro | iohanniswyclifde12wycl=modum		4	accept
+196	R5a	latinworks13wycl=ydemptificetur | iohanniswyclifd00losegoog=ydempti6cetur | iohanniswyclifd01losegoog=ydemptificetur | iohanniswyclifde12wycl=ydemptificetur		4	accept

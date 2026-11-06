@@ -1,0 +1,35 @@
+pos	rule	forms	support	voters	resolution
+6	R4	latinworks13wycl=penitencie | iohanniswyclifd00losegoog=penilencie | iohanniswyclifd01losegoog=penilencie | iohanniswyclifde12wycl=penitencie		4	plate
+12	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+13	R2	latinworks13wycl=primo | iohanniswyclifd00losegoog=primo | iohanniswyclifd01losegoog=prirao | iohanniswyclifde12wycl=primo		4	accept
+15	R4	latinworks13wycl=est | iohanniswyclifd00losegoog=esl | iohanniswyclifd01losegoog=esl | iohanniswyclifde12wycl=est		4	plate
+18	R2	latinworks13wycl=quod | iohanniswyclifd00losegoog=quod | iohanniswyclifd01losegoog=ciuod | iohanniswyclifde12wycl=quod		4	accept
+20	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=esrmod | iohanniswyclifd01losegoog=esl | iohanniswyclifde12wycl=est		4	accept
+23	R2	latinworks13wycl=necessitate | iohanniswyclifd00losegoog=oecessiiale | iohanniswyclifd01losegoog=necessitate | iohanniswyclifde12wycl=necessitate		4	accept
+27	R4	latinworks13wycl=beatincandus | iohanniswyclifd01losegoog=beati3ficandus | iohanniswyclifde12wycl=beatihcandus		3	plate
+29	R3a	latinworks13wycl=dum | iohanniswyclifd00losegoog=dura | iohanniswyclifd01losegoog=dum | iohanniswyclifde12wycl=dum		4	accept
+31	R2	latinworks13wycl=attigent | iohanniswyclifd00losegoog=attigerii | iohanniswyclifd01losegoog=anlgerit | iohanniswyclifde12wycl=attigent		4	accept
+32	R4a	latinworks13wycl=connteatur | iohanniswyclifd00losegoog=contiteatur | iohanniswyclifd01losegoog=confiteatur | iohanniswyclifde12wycl=connteatur		4	accept
+37	R5a	latinworks13wycl=commisserat | iohanniswyclifd00losegoog=commisserat | iohanniswyclifd01losegoog=commisscrat | iohanniswyclifde12wycl=commisserat		4	accept
+45	R2	latinworks13wycl=edita | iohanniswyclifd00losegoog=cdita | iohanniswyclifd01losegoog=cdiia | iohanniswyclifde12wycl=edita		4	accept
+46	R3a	latinworks13wycl=multi | iohanniswyclifd00losegoog=inulti | iohanniswyclifd01losegoog=multi | iohanniswyclifde12wycl=multi		4	accept
+58	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+60	R2	latinworks13wycl=uidetur | iohanniswyclifd00losegoog=uidetur | iohanniswyclifd01losegoog=uidcturspiritum | iohanniswyclifde12wycl=uidetur		4	accept
+61	R2	latinworks13wycl=spiritum | iohanniswyclifd00losegoog=spiritum | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=spiritum		4	accept
+65	R3a	latinworks13wycl=tam | iohanniswyclifd00losegoog=iam | iohanniswyclifd01losegoog=tam | iohanniswyclifde12wycl=tam		4	accept
+67	R5a	latinworks13wycl=obmisisse | iohanniswyclifd00losegoog=obmisisse | iohanniswyclifd01losegoog=obraisisse | iohanniswyclifde12wycl=obmisisse		4	accept
+70	R3a	latinworks13wycl=11 | iohanniswyclifd00losegoog=11 | iohanniswyclifd01losegoog=ii | iohanniswyclifde12wycl=11		4	accept
+74	R5a	latinworks13wycl=petrum | iohanniswyclifd00losegoog=peirum | iohanniswyclifd01losegoog=petrum | iohanniswyclifde12wycl=petrum		4	accept
+95	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=ncc | iohanniswyclifde12wycl=nee		4	accept
+96	R3a	latinworks13wycl=ghristus | iohanniswyclifd00losegoog=christus | iohanniswyclifd01losegoog=christus | iohanniswyclifde12wycl=christus		4	accept
+97	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+99	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+109	R2	latinworks13wycl=fuit | iohanniswyclifd00losegoog=fuit | iohanniswyclifd01losegoog=fiiii | iohanniswyclifde12wycl=fuit		4	accept
+131	R6a	latinworks13wycl=iiium | iohanniswyclifd00losegoog=111 | iohanniswyclifd01losegoog=iii | iohanniswyclifde12wycl=iiium		4	accept
+137	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+150	HEAD	CAPITULUM SECUNDUM.			plate
+165	R2	latinworks13wycl=multi | iohanniswyclifd00losegoog=raulti | iohanniswyclifd01losegoog=multi | iohanniswyclifde12wycl=multi		4	accept
+176	R2	latinworks13wycl=poterit | iohanniswyclifd00losegoog=poieril | iohanniswyclifd01losegoog=poterit | iohanniswyclifde12wycl=poterit		4	accept
+187	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sit | iohanniswyclifd01losegoog=lit | iohanniswyclifde12wycl=sit		4	accept
+194	EDGE	latinworks13wycl=hominum | iohanniswyclifde12wycl=hominum		2	accept
+195	EDGE	latinworks13wycl=concedendum | iohanniswyclifde12wycl=concedendum		2	accept

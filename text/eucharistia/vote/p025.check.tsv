@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+3	R2	latinworks13wycl=exhinc | iohanniswyclifd00losegoog=exhinc | iohanniswyclifd01losegoog=exbiiic | iohanniswyclifde12wycl=exhinc		4	accept
+13	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+32	R3a	latinworks13wycl=nudo | iohanniswyclifd00losegoog=nude | iohanniswyclifd01losegoog=nudo | iohanniswyclifde12wycl=nudo		4	accept
+39	R3a	latinworks13wycl=modo | iohanniswyclifd00losegoog=modo | iohanniswyclifd01losegoog=mode | iohanniswyclifde12wycl=modo		4	accept
+78	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+95	R5a	latinworks13wycl=ingloriiicatos | iohanniswyclifd00losegoog=inglorificatos | iohanniswyclifd01losegoog=inglorificatos | iohanniswyclifde12wycl=inglorificatos		4	accept
+108	R3a	latinworks13wycl=qiiod | iohanniswyclifd00losegoog=quod | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+109	R3a	latinworks13wycl=iit | iohanniswyclifd00losegoog=iit | iohanniswyclifd01losegoog=iit | iohanniswyclifde12wycl=fit		4	accept
+112	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=qiristi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+124	R5a	latinworks13wycl=beringarius | iohanniswyclifd00losegoog=beringarius | iohanniswyclifd01losegoog=beringarius | iohanniswyclifde12wycl=beringarius		4	accept
+138	R3a	latinworks13wycl=fidei | iohanniswyclifd00losegoog=fidei | iohanniswyclifd01losegoog=fidet | iohanniswyclifde12wycl=fidei		4	accept
+140	R5a	latinworks13wycl=hiis | iohanniswyclifd00losegoog=hiis | iohanniswyclifd01losegoog=hiis | iohanniswyclifde12wycl=hiis		4	accept
+145	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+154	R4a	latinworks13wycl=proiiteor | iohanniswyclifd00losegoog=proiiteor | iohanniswyclifd01losegoog=prqfiteor | iohanniswyclifde12wycl=profiteor		4	accept
+160	R2	latinworks13wycl=iidem | iohanniswyclifd00losegoog=iidem | iohanniswyclifd01losegoog=iidem | iohanniswyclifde12wycl=∅		4	accept
+168	R5a	latinworks13wycl=nicholaus | iohanniswyclifd00losegoog=nicholaus | iohanniswyclifd01losegoog=nicholaus | iohanniswyclifde12wycl=nicholaus		4	accept
+172	R5a	latinworks13wycl=sinodus | iohanniswyclifd00losegoog=sinodus | iohanniswyclifd01losegoog=sinodus | iohanniswyclifde12wycl=sinodus		4	accept
+180	THIN	latinworks13wycl=firmauit | iohanniswyclifde12wycl=firmauit		2	plate
+181	THIN	latinworks13wycl=scilicet | iohanniswyclifde12wycl=scilicet		2	plate
+190	R2	latinworks13wycl=consecracionem | iohanniswyclifd00losegoog=con | iohanniswyclifd01losegoog=consecracionem | iohanniswyclifde12wycl=consecracionem		4	accept
+196	R4	latinworks13wycl=oouerum | iohanniswyclifd00losegoog=uerum | iohanniswyclifd01losegoog=uerum | iohanniswyclifde12wycl=oouerum		4	plate
+202	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept

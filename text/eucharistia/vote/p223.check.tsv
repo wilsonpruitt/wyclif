@@ -1,0 +1,28 @@
+pos	rule	forms	support	voters	resolution
+6	R3a	latinworks13wycl=ideo | iohanniswyclifd00losegoog=ideo | iohanniswyclifd01losegoog=meo | iohanniswyclifde12wycl=ideo		4	accept
+15	R3a	latinworks13wycl=fingunt | iohanniswyclifd00losegoog=tingunt | iohanniswyclifd01losegoog=fingunt | iohanniswyclifde12wycl=fingunt		4	accept
+20	R5a	latinworks13wycl=auinonica | iohanniswyclifd00losegoog=auinonica | iohanniswyclifd01losegoog=auinonica | iohanniswyclifde12wycl=auinonica		4	accept
+30	R4	latinworks13wycl=ut | iohanniswyclifd01losegoog=u | iohanniswyclifde12wycl=un		3	plate
+34	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	accept
+37	R4	latinworks13wycl=romam | iohanniswyclifd00losegoog=komam | iohanniswyclifd01losegoog=komam | iohanniswyclifde12wycl=romam		4	plate
+39	R2	latinworks13wycl=suam | iohanniswyclifd00losegoog=suara | iohanniswyclifd01losegoog=suam | iohanniswyclifde12wycl=suam		4	accept
+40	R5a	latinworks13wycl=diocesim | iohanniswyclifd00losegoog=diocesim | iohanniswyclifd01losegoog=diocesim | iohanniswyclifde12wycl=diocesim		4	accept
+42	R5a	latinworks13wycl=cronicat | iohanniswyclifd00losegoog=cronicat | iohanniswyclifd01losegoog=cronicat | iohanniswyclifde12wycl=cronicat		4	accept
+43	R5a	latinworks13wycl=cistrensis | iohanniswyclifd00losegoog=cistrensis | iohanniswyclifd01losegoog=ciitrensis | iohanniswyclifde12wycl=cistrensis		4	accept
+52	R2	latinworks13wycl=generacio | iohanniswyclifd00losegoog=generacio | iohanniswyclifd01losegoog=gcnerscto | iohanniswyclifde12wycl=generacio		4	accept
+57	R2	latinworks13wycl=fide | iohanniswyclifd00losegoog=fide | iohanniswyclifd01losegoog=6de | iohanniswyclifde12wycl=fide		4	accept
+59	R2	latinworks13wycl=quidditate | iohanniswyclifd00losegoog=quidditalethhostie | iohanniswyclifd01losegoog=quidditatethe | iohanniswyclifde12wycl=quidditate		4	accept
+60	R2	latinworks13wycl=hostie | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=hostie | iohanniswyclifde12wycl=hostie		4	accept
+63	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+73	R5a	latinworks13wycl=auinonica | iohanniswyclifd00losegoog=auinonica | iohanniswyclifd01losegoog=auinoaica | iohanniswyclifde12wycl=auinonica		4	accept
+80	R4	latinworks13wycl=enim | iohanniswyclifd00losegoog=enira | iohanniswyclifd01losegoog=enira | iohanniswyclifde12wycl=enim		4	plate
+85	R5a	latinworks13wycl=petrus | iohanniswyclifd00losegoog=petrus | iohanniswyclifd01losegoog=petrus | iohanniswyclifde12wycl=petrus		4	accept
+102	R3	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=1 | iohanniswyclifde12wycl=hie		4	plate
+108	NW	latinworks13wycl=contratas | iohanniswyclifd00losegoog=conlratas | iohanniswyclifd01losegoog=contratas | iohanniswyclifde12wycl=contratas		4	plate
+110	R2	latinworks13wycl=tamquam | iohanniswyclifd00losegoog=tamquam | iohanniswyclifd01losegoog=lamquatn | iohanniswyclifde12wycl=tamquam		4	accept
+116	R2	latinworks13wycl=notaret | iohanniswyclifd00losegoog=notarei | iohanniswyclifd01losegoog=nolarct | iohanniswyclifde12wycl=notaret		4	accept
+150	R5a	latinworks13wycl=necessitarent | iohanniswyclifd00losegoog=necessitarent | iohanniswyclifd01losegoog=necessitarent | iohanniswyclifde12wycl=necessitarent		4	accept
+158	NW	latinworks13wycl=tam | iohanniswyclifd00losegoog=tarn | iohanniswyclifd01losegoog=tarn | iohanniswyclifde12wycl=tarn		4	plate
+199	R3a	latinworks13wycl=defamata | iohanniswyclifd00losegoog=dcfamata | iohanniswyclifd01losegoog=defamati | iohanniswyclifde12wycl=defamata		4	accept
+204	R6a	latinworks13wycl=protunc | iohanniswyclifd00losegoog=soprotunc | iohanniswyclifd01losegoog=soprotunc | iohanniswyclifde12wycl=soprotunc		4	accept
+205	R2	latinworks13wycl=faciant | iohanniswyclifd00losegoog=faclant | iohanniswyclifd01losegoog=ficiidt | iohanniswyclifde12wycl=faciant		4	accept

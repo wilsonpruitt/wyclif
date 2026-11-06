@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=sacramentum | iohanniswyclifd01losegoog=sacramentum		2	accept
+4	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisli | iohanniswyclifd01losegoog=qiristi | iohanniswyclifde12wycl=christi		4	accept
+18	R3a	latinworks13wycl=carnis | iohanniswyclifd00losegoog=canus | iohanniswyclifd01losegoog=carnis | iohanniswyclifde12wycl=carnis		4	accept
+21	R3a	latinworks13wycl=fit | iohanniswyclifd00losegoog=fit | iohanniswyclifd01losegoog=fit | iohanniswyclifde12wycl=iit		4	accept
+24	R3	latinworks13wycl=uocatur | iohanniswyclifd00losegoog=uacatur | iohanniswyclifd01losegoog=uacatur | iohanniswyclifde12wycl=uocatur		4	plate
+31	R2	latinworks13wycl=rei | iohanniswyclifd00losegoog=ret | iohanniswyclifd01losegoog=rei | iohanniswyclifde12wycl=rei		4	accept
+42	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=a | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+43	R2	latinworks13wycl=isto | iohanniswyclifd00losegoog=uto | iohanniswyclifd01losegoog=isto | iohanniswyclifde12wycl=isto		4	accept
+44	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=cl | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+48	R3a	latinworks13wycl=uellem | iohanniswyclifd00losegoog=uellem | iohanniswyclifd01losegoog=uellem | iohanniswyclifde12wycl=uellera		4	accept
+69	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+75	R2	latinworks13wycl=quis | iohanniswyclifd00losegoog=quu | iohanniswyclifd01losegoog=quis | iohanniswyclifde12wycl=quis		4	accept
+85	R5a	latinworks13wycl=glossatorum | iohanniswyclifd00losegoog=glossatorum | iohanniswyclifd01losegoog=glossatorum | iohanniswyclifde12wycl=glossatorum		4	accept
+90	R5a	latinworks13wycl=nicholai | iohanniswyclifd00losegoog=nicholai | iohanniswyclifd01losegoog=nicholai | iohanniswyclifde12wycl=nicholai		4	accept
+91	R3	latinworks13wycl=ii1 | iohanniswyclifd00losegoog=ii | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=ii1		4	plate
+93	R5a	latinworks13wycl=beringarius | iohanniswyclifd00losegoog=bentigarius | iohanniswyclifd01losegoog=beringariusy | iohanniswyclifde12wycl=beringarius		4	accept
+119	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept
+138	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sil | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+157	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+169	R5a	latinworks13wycl=beringarii | iohanniswyclifd00losegoog=beringarii | iohanniswyclifd01losegoog=beringarii | iohanniswyclifde12wycl=beringarii		4	accept
+185	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sic | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+188	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+194	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=sed | iohanniswyclifd01losegoog=std | iohanniswyclifde12wycl=sed		4	accept

@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=quasi | iohanniswyclifd00losegoog=quasi		2	accept
+1	EDGE	latinworks13wycl=per | iohanniswyclifd00losegoog=per		2	accept
+2	EDGE	latinworks13wycl=totum | iohanniswyclifd00losegoog=totum		2	accept
+9	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=editn | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+22	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ec | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+26	R2	latinworks13wycl=diffinicio | iohanniswyclifd00losegoog=difdntcio | iohanniswyclifd01losegoog=diffinicio | iohanniswyclifde12wycl=diffinicio		4	accept
+40	R5a	latinworks13wycl=romana | iohanniswyclifd00losegoog=romana | iohanniswyclifd01losegoog=romana | iohanniswyclifde12wycl=romana		4	accept
+47	R2	latinworks13wycl=habent | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=habent | iohanniswyclifde12wycl=habent		4	accept
+48	R2	latinworks13wycl=diuersum | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=diuersum | iohanniswyclifde12wycl=diuersum		4	accept
+49	R2	latinworks13wycl=modum | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=modum | iohanniswyclifde12wycl=modum		4	accept
+56	R5a	latinworks13wycl=sonacione | iohanniswyclifd00losegoog=sonacione | iohanniswyclifd01losegoog=sonacione | iohanniswyclifde12wycl=sonacione		4	accept
+58	R3a	latinworks13wycl=littere | iohanniswyclifd00losegoog=liitere | iohanniswyclifd01losegoog=latere | iohanniswyclifde12wycl=littere		4	accept
+59	R4	latinworks13wycl=l | iohanniswyclifd00losegoog=c | iohanniswyclifd01losegoog=c | iohanniswyclifde12wycl=l		4	plate
+63	R5a	latinworks13wycl=organisantes | iohanniswyclifd00losegoog=organisantes | iohanniswyclifd01losegoog=organisantes | iohanniswyclifde12wycl=organisantes		4	accept
+76	R2	latinworks13wycl=omnem | iohanniswyclifd00losegoog=omnem | iohanniswyclifd01losegoog=omnem | iohanniswyclifde12wycl=oranera		4	accept
+108	R3a	latinworks13wycl=satis | iohanniswyclifd00losegoog=salis | iohanniswyclifd01losegoog=satis | iohanniswyclifde12wycl=satis		4	accept
+119	R3a	latinworks13wycl=panis | iohanniswyclifd00losegoog=panis | iohanniswyclifd01losegoog=pauis | iohanniswyclifde12wycl=panis		4	accept
+144	R2	latinworks13wycl=lstam | iohanniswyclifd00losegoog=istana | iohanniswyclifd01losegoog=istam | iohanniswyclifde12wycl=istam		4	accept
+154	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=cl | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+155	R2	latinworks13wycl=usu | iohanniswyclifd00losegoog=itsu | iohanniswyclifd01losegoog=usu | iohanniswyclifde12wycl=usu		4	accept
+179	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=nod | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+193	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept

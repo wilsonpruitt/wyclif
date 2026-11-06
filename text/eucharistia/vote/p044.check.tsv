@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=secundo		1	accept
+1	EDGE	latinworks13wycl=premittit		1	accept
+2	EDGE	latinworks13wycl=eternam | iohanniswyclifd00losegoog=eternam		2	accept
+13	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=est | iohanniswyclifd01losegoog=esc | iohanniswyclifde12wycl=est		4	accept
+18	R2	latinworks13wycl=secundum | iohanniswyclifd00losegoog=secundum | iohanniswyclifd01losegoog=secuoduin | iohanniswyclifde12wycl=secundum		4	accept
+20	R2	latinworks13wycl=diuinam | iohanniswyclifd00losegoog=diuinam | iohanniswyclifd01losegoog=dtuinan | iohanniswyclifde12wycl=diuinam		4	accept
+21	R3a	latinworks13wycl=etsi | iohanniswyclifd00losegoog=etsi | iohanniswyclifd01losegoog=eui | iohanniswyclifde12wycl=etsi		4	accept
+25	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=ncc		4	accept
+47	R2	latinworks13wycl=modum | iohanniswyclifd00losegoog=modura | iohanniswyclifd01losegoog=modum | iohanniswyclifde12wycl=modum		4	accept
+51	R5a	latinworks13wycl=inusu | iohanniswyclifd00losegoog=tnusu | iohanniswyclifd01losegoog=inusu | iohanniswyclifde12wycl=inusu		4	accept
+58	R2	latinworks13wycl=delebo | iohanniswyclifd00losegoog=delebo | iohanniswyclifd01losegoog=deldfo | iohanniswyclifde12wycl=delebo		4	accept
+61	NW	latinworks13wycl=quem | iohanniswyclifd00losegoog=quern | iohanniswyclifd01losegoog=quern | iohanniswyclifde12wycl=quern		4	plate
+64	R2	latinworks13wycl=facie | iohanniswyclifd00losegoog=facie | iohanniswyclifd01losegoog=faeit | iohanniswyclifde12wycl=facie		4	accept
+68	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enira | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+71	THIN	latinworks13wycl=appropriatcness | iohanniswyclifd01losegoog=∅		2	plate
+72	THIN	latinworks13wycl=as | iohanniswyclifd01losegoog=∅		2	plate
+73	THIN	latinworks13wycl=terram | iohanniswyclifd01losegoog=∅		2	plate
+75	R3a	latinworks13wycl=aerem | iohanniswyclifd00losegoog=uerem | iohanniswyclifd01losegoog=aerem | iohanniswyclifde12wycl=aerem		4	accept
+77	R5a	latinworks13wycl=indisnosuit | iohanniswyclifd00losegoog=indisposuir | iohanniswyclifd01losegoog=indisposuit | iohanniswyclifde12wycl=indisnosuit		4	accept
+96	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+101	R3a	latinworks13wycl=puniti | iohanniswyclifd00losegoog=punit | iohanniswyclifd01losegoog=puniti | iohanniswyclifde12wycl=puniti		4	accept
+102	R3a	latinworks13wycl=demeritum | iohanniswyclifd00losegoog=demeritura | iohanniswyclifd01losegoog=demeritum | iohanniswyclifde12wycl=demeritum		4	accept
+106	R5a	latinworks13wycl=preternaturaliter | iohanniswyclifd00losegoog=pretcrnaturaliter | iohanniswyclifd01losegoog=preternaturaliter | iohanniswyclifde12wycl=preternaturaliter		4	accept
+109	R2	latinworks13wycl=eorum | iohanniswyclifd00losegoog=eorura | iohanniswyclifd01losegoog=eorum | iohanniswyclifde12wycl=eorum		4	accept
+114	NW	latinworks13wycl=exalaciones | iohanniswyclifd00losegoog=exalaciones | iohanniswyclifd01losegoog=exalaciones | iohanniswyclifde12wycl=exalaciones		4	plate
+118	R5a	latinworks13wycl=indisponentes | iohanniswyclifd00losegoog=indisponentes | iohanniswyclifd01losegoog=indisponentes | iohanniswyclifde12wycl=indisponentes		4	accept
+141	R3a	latinworks13wycl=unde | iohanniswyclifd00losegoog=unda | iohanniswyclifd01losegoog=unde | iohanniswyclifde12wycl=unde		4	accept
+154	INS?	primum	2	4	plate
+156	R5a	latinworks13wycl=etrepleta | iohanniswyclifd00losegoog=etrepleta | iohanniswyclifd01losegoog=etrepleta | iohanniswyclifde12wycl=etrepleta		4	accept
+157	R5a	latinworks13wycl=estiniquitate | iohanniswyclifd00losegoog=estiniquitate | iohanniswyclifd01losegoog=estiniquitate | iohanniswyclifde12wycl=estiniquitate		4	accept
+180	R5a	latinworks13wycl=inprouisionem | iohanniswyclifd00losegoog=inprouisionem | iohanniswyclifd01losegoog=inprouisionem | iohanniswyclifde12wycl=inprouisionem		4	accept
+198	R3a	latinworks13wycl=psalmi | iohanniswyclifd00losegoog=psalm | iohanniswyclifd01losegoog=psalmi | iohanniswyclifde12wycl=psalmi		4	accept
+206	EDGE	latinworks13wycl=meio		1	accept

@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=affeccionis | iohanniswyclifde12wycl=affeccionis		2	accept
+1	EDGE	latinworks13wycl=angelice | iohanniswyclifde12wycl=angelice		2	accept
+43	R2	latinworks13wycl=tempus | iohanniswyclifd00losegoog=traipus | iohanniswyclifd01losegoog=tempus | iohanniswyclifde12wycl=tempus		4	accept
+44	R3a	latinworks13wycl=uel | iohanniswyclifd00losegoog=ue | iohanniswyclifd01losegoog=uel | iohanniswyclifde12wycl=uel		4	accept
+45	R3a	latinworks13wycl=instans | iohanniswyclifd00losegoog=instant | iohanniswyclifd01losegoog=instans | iohanniswyclifde12wycl=instans		4	accept
+56	R2	latinworks13wycl=affeccionem | iohanniswyclifd00losegoog=ascccioaem | iohanniswyclifd01losegoog=affeccionem | iohanniswyclifde12wycl=affeccionem		4	accept
+57	R2	latinworks13wycl=suam | iohanniswyclifd00losegoog=sttam | iohanniswyclifd01losegoog=suara | iohanniswyclifde12wycl=suam		4	accept
+58	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=ia | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+59	R2	latinworks13wycl=futurum | iohanniswyclifd00losegoog=fuiunim | iohanniswyclifd01losegoog=futuruni | iohanniswyclifde12wycl=futurum		4	accept
+63	R2	latinworks13wycl=duarum | iohanniswyclifd00losegoog=duanim | iohanniswyclifd01losegoog=dnarum | iohanniswyclifde12wycl=duarum		4	accept
+68	R3a	latinworks13wycl=haberet | iohanniswyclifd00losegoog=habere | iohanniswyclifd01losegoog=haberet | iohanniswyclifde12wycl=haberet		4	accept
+71	R2	latinworks13wycl=mensurantem | iohanniswyclifd00losegoog=raeosurantein | iohanniswyclifd01losegoog=mensurantem | iohanniswyclifde12wycl=mensurantem		4	accept
+74	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+76	R2	latinworks13wycl=mensurantem | iohanniswyclifd00losegoog=measuraoiem | iohanniswyclifd01losegoog=mensoraniem | iohanniswyclifde12wycl=mensurantem		4	accept
+78	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=n | iohanniswyclifde12wycl=et		4	accept
+86	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=td | iohanniswyclifd01losegoog=uel | iohanniswyclifde12wycl=uel		4	accept
+89	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+98	R3a	latinworks13wycl=equale | iohanniswyclifd00losegoog=equate | iohanniswyclifd01losegoog=equale | iohanniswyclifde12wycl=equale		4	accept
+102	R2	latinworks13wycl=ita | iohanniswyclifd00losegoog=iia | iohanniswyclifd01losegoog=ita | iohanniswyclifde12wycl=ita		4	accept
+109	R3a	latinworks13wycl=ex | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=ex | iohanniswyclifde12wycl=ex		4	accept
+116	R4	latinworks13wycl=coei | iohanniswyclifd01losegoog=coequari | iohanniswyclifde12wycl=coei		3	plate
+117	R6	latinworks13wycl=quari | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=quari		3	plate
+139	R4	latinworks13wycl=perpetuo | iohanniswyclifd00losegoog=perpeiuo | iohanniswyclifd01losegoog=perpeiuo | iohanniswyclifde12wycl=perpetuo		4	plate
+140	R3a	latinworks13wycl=siue | iohanniswyclifd00losegoog=sic | iohanniswyclifd01losegoog=siue | iohanniswyclifde12wycl=siue		4	accept
+149	R3a	latinworks13wycl=euo | iohanniswyclifd00losegoog=ero | iohanniswyclifd01losegoog=euo | iohanniswyclifde12wycl=euo		4	accept
+158	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=eft | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+160	R3a	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicui | iohanniswyclifd01losegoog=sicut | iohanniswyclifde12wycl=sicut		4	accept
+172	R3a	latinworks13wycl=prius | iohanniswyclifd00losegoog=prius | iohanniswyclifd01losegoog=priui | iohanniswyclifde12wycl=prius		4	accept
+204	R2	latinworks13wycl=motus | iohanniswyclifd00losegoog=raotus | iohanniswyclifd01losegoog=motus | iohanniswyclifde12wycl=motus		4	accept
+221	R3a	latinworks13wycl=motum | iohanniswyclifd00losegoog=motum | iohanniswyclifd01losegoog=motura | iohanniswyclifde12wycl=motum		4	accept
+227	R2	latinworks13wycl=ipsum | iohanniswyclifd00losegoog=ipsura | iohanniswyclifd01losegoog=ipsum | iohanniswyclifde12wycl=ipsum		4	accept
+233	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=ncc | iohanniswyclifde12wycl=nee		4	accept

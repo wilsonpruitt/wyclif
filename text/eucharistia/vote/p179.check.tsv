@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+20	R4	latinworks13wycl=mortali | iohanniswyclifd00losegoog=mortal | iohanniswyclifd01losegoog=mortal | iohanniswyclifde12wycl=mortali		4	plate
+22	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=ia | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+31	R3a	latinworks13wycl=deuoto | iohanniswyclifd00losegoog=deuito | iohanniswyclifd01losegoog=deuoto | iohanniswyclifde12wycl=deuoto		4	accept
+33	R3a	latinworks13wycl=faciendi | iohanniswyclifd00losegoog=laciendi | iohanniswyclifd01losegoog=faciendi | iohanniswyclifde12wycl=faciendi		4	accept
+58	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=oquara | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+63	R2	latinworks13wycl=tollere | iohanniswyclifd00losegoog=louere | iohanniswyclifd01losegoog=tollere | iohanniswyclifde12wycl=tollere		4	accept
+78	R5a	latinworks13wycl=efficienciam | iohanniswyclifd00losegoog=efficienciam | iohanniswyclifd01losegoog=efficienciam | iohanniswyclifde12wycl=efficienciam		4	accept
+93	R5a	latinworks13wycl=efncaciorem | iohanniswyclifd00losegoog=efiicaciorem | iohanniswyclifd01losegoog=efncaciorem | iohanniswyclifde12wycl=efneaciorem		4	accept
+94	NW	latinworks13wycl=influenciam | iohanniswyclifd00losegoog=influenciam | iohanniswyclifd01losegoog=influenciam | iohanniswyclifde12wycl=influenciam		4	plate
+96	R5a	latinworks13wycl=5copiosius | iohanniswyclifd00losegoog=5copiosius | iohanniswyclifd01losegoog=i3coposius | iohanniswyclifde12wycl=icopiosius		4	accept
+100	R5a	latinworks13wycl=uirtuales | iohanniswyclifd00losegoog=uirtuales | iohanniswyclifd01losegoog=uirtuales | iohanniswyclifde12wycl=uirtuales		4	accept
+153	R3a	latinworks13wycl=non | iohanniswyclifd00losegoog=eon | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+160	R5a	latinworks13wycl=sanatiua | iohanniswyclifd00losegoog=sanatiua | iohanniswyclifd01losegoog=sanatiua | iohanniswyclifde12wycl=sanatiua		4	accept
+182	R5a	latinworks13wycl=assimilatiua | iohanniswyclifd00losegoog=assimilatiua | iohanniswyclifd01losegoog=assimilatiua | iohanniswyclifde12wycl=assimilatiua		4	accept
+202	R5a	latinworks13wycl=plectoratum | iohanniswyclifd00losegoog=plectoratum | iohanniswyclifd01losegoog=plectoratum | iohanniswyclifde12wycl=plectoratum		4	accept
+229	EDGE	latinworks13wycl=signum | iohanniswyclifd01losegoog=signum		2	accept
+230	THIN	latinworks13wycl=rehquias | iohanniswyclifd01losegoog=rehquias		2	plate
+231	EDGE	latinworks13wycl=sanctorum | iohanniswyclifd01losegoog=sanctorum		2	accept
+232	EDGE	latinworks13wycl=et | iohanniswyclifd01losegoog=et		2	accept
+233	THIN	latinworks13wycl=peregnnaciones		1	plate
+234	EDGE	latinworks13wycl=pro		1	accept

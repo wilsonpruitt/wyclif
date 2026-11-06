@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=peccauerunt | iohanniswyclifde12wycl=peccauerunt		2	accept
+1	EDGE	latinworks13wycl=sed | iohanniswyclifde12wycl=sed		2	accept
+2	EDGE	latinworks13wycl=sancciores | iohanniswyclifde12wycl=sancciores		2	accept
+3	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+4	EDGE	latinworks13wycl=antiquiores | iohanniswyclifde12wycl=antiquiores		2	accept
+5	EDGE	latinworks13wycl=tenuerunt | iohanniswyclifde12wycl=tenuerunt		2	accept
+57	R5a	latinworks13wycl=nicholai | iohanniswyclifd00losegoog=nicholai | iohanniswyclifd01losegoog=nicholai | iohanniswyclifde12wycl=nicholai		4	accept
+58	R4	latinworks13wycl=ii1 | iohanniswyclifd00losegoog=ii | iohanniswyclifd01losegoog=ii | iohanniswyclifde12wycl=ii1		4	plate
+63	R5a	latinworks13wycl=mlix | iohanniswyclifd00losegoog=mlix | iohanniswyclifd01losegoog=mlix | iohanniswyclifde12wycl=mlix		4	accept
+78	R2	latinworks13wycl=sentenciam | iohanniswyclifd01losegoog=senof | iohanniswyclifde12wycl=sentenciam		3	accept
+83	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=gt | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=bt		4	accept
+88	R4a	latinworks13wycl=reprehensons | iohanniswyclifd00losegoog=reprehensoris | iohanniswyclifd01losegoog=reprchensoris | iohanniswyclifde12wycl=reprehensons		4	accept
+92	R3	latinworks13wycl=llli | iohanniswyclifd00losegoog=illi | iohanniswyclifd01losegoog=lui | iohanniswyclifde12wycl=1ii1		4	plate
+103	R4	latinworks13wycl=patrum | iohanniswyclifd00losegoog=palrum | iohanniswyclifd01losegoog=palrum | iohanniswyclifde12wycl=patrum		4	plate
+133	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	accept
+135	R5a	latinworks13wycl=sentenciantes | iohanniswyclifd00losegoog=sentenciantes | iohanniswyclifd01losegoog=scntenciantes | iohanniswyclifde12wycl=sentenciantes		4	accept
+153	R3a	latinworks13wycl=m | iohanniswyclifd00losegoog=io | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+159	R3a	latinworks13wycl=quod | iohanniswyclifd00losegoog=quoi | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+172	R2	latinworks13wycl=antiquorum | iohanniswyclifd00losegoog=antiquorum | iohanniswyclifd01losegoog=amiquonim | iohanniswyclifde12wycl=antiquorum		4	accept
+177	R5a	latinworks13wycl=lanfrancus | iohanniswyclifd00losegoog=lanfrancus | iohanniswyclifd01losegoog=lanfrancus | iohanniswyclifde12wycl=lanfrancus		4	accept
+182	R5a	latinworks13wycl=beringarium | iohanniswyclifd00losegoog=beringarium | iohanniswyclifd01losegoog=beringarium | iohanniswyclifde12wycl=beringarium		4	accept

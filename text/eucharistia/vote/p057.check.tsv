@@ -1,0 +1,28 @@
+pos	rule	forms	support	voters	resolution
+3	R2	latinworks13wycl=aliquid | iohanniswyclifd00losegoog=altguid | iohanniswyclifd01losegoog=aliquid | iohanniswyclifde12wycl=aliquid		4	accept
+6	R2	latinworks13wycl=multis | iohanniswyclifd00losegoog=muuu | iohanniswyclifd01losegoog=multis | iohanniswyclifde12wycl=multis		4	accept
+11	R2	latinworks13wycl=panis | iohanniswyclifd00losegoog=panu | iohanniswyclifd01losegoog=pants | iohanniswyclifde12wycl=panis		4	accept
+15	R3a	latinworks13wycl=muliis | iohanniswyclifd00losegoog=multi | iohanniswyclifd01losegoog=multis | iohanniswyclifde12wycl=multis		4	accept
+21	R2	latinworks13wycl=aduersarios | iohanniswyclifd00losegoog=uduersarioa | iohanniswyclifd01losegoog=aduersarios | iohanniswyclifde12wycl=aduersariesistud		4	accept
+22	R2	latinworks13wycl=istud | iohanniswyclifd00losegoog=istud | iohanniswyclifd01losegoog=istud | iohanniswyclifde12wycl=∅		4	accept
+23	R2	latinworks13wycl=foret | iohanniswyclifd00losegoog=ford | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=foret		4	accept
+28	R2	latinworks13wycl=panem | iohanniswyclifd00losegoog=paneiq | iohanniswyclifd01losegoog=panem | iohanniswyclifde12wycl=panem		4	accept
+35	R2	latinworks13wycl=ideo | iohanniswyclifd00losegoog=ridco | iohanniswyclifd01losegoog=ideo | iohanniswyclifde12wycl=ideo		4	accept
+36	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=noa | iohanniswyclifd01losegoog=qon | iohanniswyclifde12wycl=non		4	accept
+44	R2	latinworks13wycl=ignorant | iohanniswyclifd00losegoog=ignoidt | iohanniswyclifd01losegoog=ignorant | iohanniswyclifde12wycl=ignorant		4	accept
+52	R2	latinworks13wycl=deus | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=deus | iohanniswyclifde12wycl=deus		4	accept
+57	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=lam | iohanniswyclifd01losegoog=tam | iohanniswyclifde12wycl=tarn		4	accept
+63	R2	latinworks13wycl=magnifice | iohanniswyclifd00losegoog=niagnificc | iohanniswyclifd01losegoog=magnince | iohanniswyclifde12wycl=magnifice		4	accept
+70	R2	latinworks13wycl=honorifico | iohanniswyclifd00losegoog=hononlico | iohanniswyclifd01losegoog=honorifico | iohanniswyclifde12wycl=honorifico		4	accept
+113	R3a	latinworks13wycl=iudicant | iohanniswyclifd00losegoog=ludicant | iohanniswyclifd01losegoog=indicant | iohanniswyclifde12wycl=iudicant		4	accept
+140	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=tsst | iohanniswyclifde12wycl=esse		4	accept
+161	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=lam | iohanniswyclifd01losegoog=tam | iohanniswyclifde12wycl=tam		4	accept
+189	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+195	R2	latinworks13wycl=signis | iohanniswyclifd00losegoog=aignts | iohanniswyclifd01losegoog=signts | iohanniswyclifde12wycl=signis		4	accept
+198	NW	latinworks13wycl=uentatem | iohanniswyclifd00losegoog=ueritatem | iohanniswyclifd01losegoog=uentatem | iohanniswyclifde12wycl=uentatem		4	plate
+200	R6a	latinworks13wycl=sacraomenti | iohanniswyclifd00losegoog=sacrasomenlii | iohanniswyclifd01losegoog=sacraomenti | iohanniswyclifde12wycl=sacramenti		4	accept
+201	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+206	THIN	latinworks13wycl=iuit | iohanniswyclifde12wycl=fuit		2	plate
+207	EDGE	latinworks13wycl=uel | iohanniswyclifde12wycl=uel		2	accept
+208	THIN	latinworks13wycl=ent | iohanniswyclifde12wycl=ent		2	plate
+209	EDGE	latinworks13wycl=corpus | iohanniswyclifde12wycl=corpus		2	accept

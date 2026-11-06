@@ -39,6 +39,15 @@ META = {  # per volume: what the scaffold cannot derive
                          # Harris's margin is a running English abstract of the whole treatise (~21,500 words),
                          # not short notes: NOT reproduced (Wilson, 2026-10-21); the headnote says so once
                          sidenotes=False),
+    'eucharistia': dict(work_la='Tractatus de eucharistia', work_en='On the Eucharist',
+                        short='De euch.', editor='Johann Loserth', year=1892, label='De eucharistia',
+                        pilot='pilots/wyc-ecclesia-01a.md',
+                        # pp. 1-10 are the medieval compendium of the chapters, under 'Prologus', before Cap. I
+                        prologue=True,
+                        # the volume's second work restarts at Cap. I (p. 329; its title page is p. 327)
+                        parts=[(327, 'pen', 'De eucharistia et penitencia')],
+                        # the Questio ad fratres after the Explicit of De penitencia (pp. 347-348; p. 345 is its title)
+                        extra_heads=[(347, 'Questio ad fratres de sacramento altaris', 'quest', 'Questio ad fratres')]),
 }
 TO_SUP = str.maketrans('0123456789', '⁰¹²³⁴⁵⁶⁷⁸⁹')
 MS_MARK = re.compile(r'^[A-D][¹1l]?\s*\.?\s*\d{1,3}\s*[a-d]\s*\.?$|^\d{2,3}\s*[a-d]?\s*\.$')
@@ -121,8 +130,16 @@ def main(slug, force=False):
         _, body = chapters.pop(0)
         lead = ' '.join(x['t'] for x in itertools.takewhile(lambda x: x['head'], toks))
         units.append(('prol', 'prologue', f"prologus (heading '{lead}' at {toks[0]['page']}.{toks[0]['ln']})", (lead, toks[0]), body))
-    for n, (head, body) in enumerate(chapters, 1):
-        units.append((f'{n:02d}', f'chapter {n}',
+    # a second work bound in the volume restarts the chapter count under its own id prefix (De euch.: De penitencia)
+    parts_from = sorted(meta.get('parts', []))      # (first page, id prefix, label)
+    n, cur_part = 0, None
+    for head, body in chapters:
+        pg0 = (head[1] if head else body[0])['page']
+        part = next((p for p in reversed(parts_from) if pg0 >= p[0]), None)
+        n = 1 if part != cur_part else n + 1
+        cur_part = part
+        pre, plab = (part[1], part[2] + ', chapter') if part else ('', 'chapter')
+        units.append((f'{pre}{n:02d}', f'{plab} {n}',
                       f"cap. {n}" + (f" (heading '{head[0]}' at {head[1]['page']}.{head[1]['ln']})" if head else ' (unheaded in print)'),
                       head, body))
 

@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=posset | iohanniswyclifde12wycl=posset		2	accept
+1	EDGE	latinworks13wycl=ecclesia | iohanniswyclifde12wycl=ecclesia		2	accept
+2	EDGE	latinworks13wycl=onerari | iohanniswyclifde12wycl=onerari		2	accept
+3	EDGE	latinworks13wycl=mille | iohanniswyclifde12wycl=mille		2	accept
+4	EDGE	latinworks13wycl=fallaciis | iohanniswyclifde12wycl=fallaciis		2	accept
+5	THIN	latinworks13wycl=tanqnara | iohanniswyclifde12wycl=tanquam		2	plate
+6	EDGE	latinworks13wycl=fide | iohanniswyclifde12wycl=fide		2	accept
+26	R2	latinworks13wycl=firmiter | iohanniswyclifd00losegoog=finitiler | iohanniswyclifd01losegoog=firmiter | iohanniswyclifde12wycl=firmiter		4	accept
+28	R3a	latinworks13wycl=fine | iohanniswyclifd00losegoog=fine | iohanniswyclifd01losegoog=fine | iohanniswyclifde12wycl=tine		4	accept
+33	R4	latinworks13wycl=cxiiicim | iohanniswyclifd00losegoog=cxili | iohanniswyclifd01losegoog=cxiii | iohanniswyclifde12wycl=cxilicim		4	plate
+36	R2	latinworks13wycl=contigit | iohanniswyclifd00losegoog=contigit | iohanniswyclifd01losegoog=coii5 | iohanniswyclifde12wycl=contigit		4	accept
+49	R3a	latinworks13wycl=dixi | iohanniswyclifd00losegoog=dixi | iohanniswyclifd01losegoog=fixi | iohanniswyclifde12wycl=dixi		4	accept
+73	R4	latinworks13wycl=on | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=on		4	plate
+83	R2	latinworks13wycl=nichil | iohanniswyclifd00losegoog=nichil | iohanniswyclifd01losegoog=ntchil | iohanniswyclifde12wycl=menu		4	accept
+96	R2	latinworks13wycl=fidem | iohanniswyclifd00losegoog=fidera | iohanniswyclifd01losegoog=fidem | iohanniswyclifde12wycl=fidem		4	accept
+107	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enira | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+108	NW	latinworks13wycl=legistas | iohanniswyclifd00losegoog=icgistas | iohanniswyclifd01losegoog=legistas | iohanniswyclifde12wycl=legistas		4	plate
+123	NW	latinworks13wycl=legiste | iohanniswyclifd00losegoog=legisle | iohanniswyclifd01losegoog=legiste | iohanniswyclifde12wycl=legiste		4	plate
+124	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+133	R5a	latinworks13wycl=anichilacione | iohanniswyclifd00losegoog=anichilacione | iohanniswyclifd01losegoog=anicbiladone | iohanniswyclifde12wycl=anichilacione		4	accept
+147	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+152	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+178	R5a	latinworks13wycl=babiioniam | iohanniswyclifd00losegoog=babiloniam | iohanniswyclifd01losegoog=babiloniam | iohanniswyclifde12wycl=babiloniam		4	accept

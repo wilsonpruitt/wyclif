@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=uel | iohanniswyclifde12wycl=uel		2	accept
+1	EDGE	latinworks13wycl=uirtualiter | iohanniswyclifde12wycl=uirtualiter		2	accept
+3	R2	latinworks13wycl=omnem | iohanniswyclifd00losegoog=omnem | iohanniswyclifde12wycl=oranera		3	accept
+5	R3a	latinworks13wycl=hostie | iohanniswyclifd00losegoog=illius | iohanniswyclifd01losegoog=hostie | iohanniswyclifde12wycl=hostie		4	accept
+7	R3a	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicui | iohanniswyclifd01losegoog=sicut | iohanniswyclifde12wycl=sicut		4	accept
+10	R2	latinworks13wycl=in | iohanniswyclifd00losegoog=tn | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+12	DEL	latinworks13wycl=thc | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	accept
+20	R2	latinworks13wycl=rrangunus | iohanniswyclifd00losegoog=frangimus | iohanniswyclifd01losegoog=frangimus | iohanniswyclifde12wycl=frangimus		4	accept
+22	R3	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=cnnsti | iohanniswyclifde12wycl=christi		4	plate
+23	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=er | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+48	R3a	latinworks13wycl=falsum | iohanniswyclifd00losegoog=fauum | iohanniswyclifd01losegoog=falsum | iohanniswyclifde12wycl=falsum		4	accept
+69	R2	latinworks13wycl=uitrum | iohanniswyclifd00losegoog=uiirura | iohanniswyclifd01losegoog=uitrum | iohanniswyclifde12wycl=uitrum		4	accept
+82	R2	latinworks13wycl=demiim | iohanniswyclifd00losegoog=demum | iohanniswyclifd01losegoog=demum | iohanniswyclifde12wycl=demum		4	accept
+93	R2	latinworks13wycl=toto | iohanniswyclifd00losegoog=tola | iohanniswyclifd01losegoog=toto | iohanniswyclifde12wycl=toto		4	accept
+117	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+141	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+148	R6	latinworks13wycl=not | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=not		4	plate
+158	R2	latinworks13wycl=hosna | iohanniswyclifd00losegoog=hostia | iohanniswyclifd01losegoog=hostia | iohanniswyclifde12wycl=hostia		4	accept
+159	R3a	latinworks13wycl=consecrata | iohanniswyclifd00losegoog=consecrato | iohanniswyclifd01losegoog=cousecrata | iohanniswyclifde12wycl=consecrata		4	accept
+168	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate

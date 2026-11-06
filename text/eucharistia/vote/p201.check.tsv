@@ -1,0 +1,26 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=corpus | iohanniswyclifde12wycl=corpus		2	accept
+1	EDGE	latinworks13wycl=christi | iohanniswyclifde12wycl=christi		2	accept
+8	R2	latinworks13wycl=noc | iohanniswyclifd01losegoog=hoc | iohanniswyclifde12wycl=hoc		3	accept
+9	R3	latinworks13wycl=sinum | iohanniswyclifd01losegoog=signum | iohanniswyclifde12wycl=signum		3	plate
+12	R4a	latinworks13wycl=chnsti | iohanniswyclifd01losegoog=chnsti | iohanniswyclifde12wycl=christi		3	accept
+19	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+38	R3a	latinworks13wycl=sint | iohanniswyclifd00losegoog=sini | iohanniswyclifd01losegoog=sint | iohanniswyclifde12wycl=sint		4	accept
+68	R3a	latinworks13wycl=de | iohanniswyclifd00losegoog=ode | iohanniswyclifd01losegoog=de | iohanniswyclifde12wycl=de		4	accept
+76	R5a	latinworks13wycl=accomodant | iohanniswyclifd00losegoog=accomodant | iohanniswyclifd01losegoog=accomodant | iohanniswyclifde12wycl=accomodant		4	accept
+89	R5a	latinworks13wycl=accomodat | iohanniswyclifd00losegoog=accomodat | iohanniswyclifd01losegoog=accomodat | iohanniswyclifde12wycl=accomodat		4	accept
+102	R5a	latinworks13wycl=intuitiua | iohanniswyclifd00losegoog=intuitiua | iohanniswyclifd01losegoog=intuitiua | iohanniswyclifde12wycl=intuitiua		4	accept
+103	R5a	latinworks13wycl=abstractiua | iohanniswyclifd00losegoog=abstractiua | iohanniswyclifd01losegoog=abstractiua | iohanniswyclifde12wycl=abstractiua		4	accept
+110	R2	latinworks13wycl=animam | iohanniswyclifd00losegoog=aniiiiam | iohanniswyclifd01losegoog=animam | iohanniswyclifde12wycl=animam		4	accept
+116	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+121	R5a	latinworks13wycl=aduocatrix | iohanniswyclifd00losegoog=aduocatrix | iohanniswyclifd01losegoog=aduocatrix | iohanniswyclifde12wycl=aduocatrix		4	accept
+127	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+152	R3a	latinworks13wycl=possunt | iohanniswyclifd00losegoog=possum | iohanniswyclifd01losegoog=possunt | iohanniswyclifde12wycl=possunt		4	accept
+153	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+154	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=esi | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+186	R3a	latinworks13wycl=ille | iohanniswyclifd00losegoog=ile | iohanniswyclifd01losegoog=ille | iohanniswyclifde12wycl=ille		4	accept
+210	R4a	latinworks13wycl=matenahs | iohanniswyclifd00losegoog=materialis | iohanniswyclifd01losegoog=materiahs | iohanniswyclifde12wycl=materiahs		4	accept
+212	R3	latinworks13wycl=roret | iohanniswyclifd00losegoog=foret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=toret		4	plate
+213	R3	latinworks13wycl=de | iohanniswyclifd00losegoog=ode | iohanniswyclifd01losegoog=bode | iohanniswyclifde12wycl=de		4	plate
+219	R5a	latinworks13wycl=beatificabilis | iohanniswyclifd00losegoog=beatificabilis | iohanniswyclifd01losegoog=beatificabilis | iohanniswyclifde12wycl=beatificabilis		4	accept
+221	R5a	latinworks13wycl=obedienciali | iohanniswyclifd00losegoog=obedienciali | iohanniswyclifd01losegoog=obedienciali | iohanniswyclifde12wycl=obedienciali		4	accept

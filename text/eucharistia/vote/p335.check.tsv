@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+18	R5a	latinworks13wycl=tradicionepapequi | iohanniswyclifd00losegoog=tradicionepapequi | iohanniswyclifd01losegoog=tradicionepapequi | iohanniswyclifde12wycl=tradicionepapequi		4	accept
+19	R5a	latinworks13wycl=estpatronusprime | iohanniswyclifd00losegoog=estpatronusprime | iohanniswyclifd01losegoog=estpatronusprime | iohanniswyclifde12wycl=estpatronusnrimesecte		4	accept
+20	R2	latinworks13wycl=secte | iohanniswyclifd00losegoog=secte | iohanniswyclifd01losegoog=secte | iohanniswyclifde12wycl=∅		4	accept
+24	R3a	latinworks13wycl=christianus | iohanniswyclifd00losegoog=chrislianus | iohanniswyclifd01losegoog=christianus | iohanniswyclifde12wycl=chnstianus		4	accept
+30	R4a	latinworks13wycl=confiteatur | iohanniswyclifd00losegoog=coniiteatur | iohanniswyclifd01losegoog=connteatur | iohanniswyclifde12wycl=connteatur		4	accept
+54	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+89	R3a	latinworks13wycl=generalis | iohanniswyclifd00losegoog=generatis | iohanniswyclifd01losegoog=generalis | iohanniswyclifde12wycl=generalis		4	accept
+91	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+113	R4a	latinworks13wycl=tundabilis | iohanniswyclifd00losegoog=fundabllis | iohanniswyclifd01losegoog=fundabilis | iohanniswyclifde12wycl=tundabilis		4	accept
+116	R3	latinworks13wycl=nec | iohanniswyclifd00losegoog=net | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+120	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+123	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=sed | iohanniswyclifd01losegoog=std | iohanniswyclifde12wycl=sed		4	accept
+129	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+133	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+135	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+138	R2	latinworks13wycl=uidetur | iohanniswyclifd00losegoog=uicleiur | iohanniswyclifd01losegoog=uidetur | iohanniswyclifde12wycl=uidetur		4	accept
+140	R4	latinworks13wycl=iacobuf | iohanniswyclifd00losegoog=iacobuf | iohanniswyclifd01losegoog=iacobu | iohanniswyclifde12wycl=iacobu		4	plate
+143	R2	latinworks13wycl=confitemini | iohanniswyclifd00losegoog=coitfitemini | iohanniswyclifd01losegoog=confltemtm | iohanniswyclifde12wycl=confitemini		4	accept
+154	R3a	latinworks13wycl=peccata | iohanniswyclifd00losegoog=peccati | iohanniswyclifd01losegoog=peccata | iohanniswyclifde12wycl=peccata		4	accept
+188	R4	latinworks13wycl=confessi | iohanniswyclifd00losegoog=confess | iohanniswyclifd01losegoog=confess | iohanniswyclifde12wycl=confessi		4	plate
+198	R5a	latinworks13wycl=sophisticacio | iohanniswyclifd00losegoog=sophisticacio | iohanniswyclifd01losegoog=sophisticacio | iohanniswyclifde12wycl=sophisticacio		4	accept
+204	R3a	latinworks13wycl=multi | iohanniswyclifd00losegoog=mulli | iohanniswyclifd01losegoog=multi | iohanniswyclifde12wycl=multi		4	accept
+209	R3	latinworks13wycl=discreto | iohanniswyclifd00losegoog=discrete | iohanniswyclifd01losegoog=discrete | iohanniswyclifde12wycl=discreto		4	plate

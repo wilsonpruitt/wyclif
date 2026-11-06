@@ -1,0 +1,13 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=fideliter | iohanniswyclifde12wycl=fideliter		2	accept
+1	EDGE	latinworks13wycl=reddere | iohanniswyclifde12wycl=reddere		2	accept
+6	R2	latinworks13wycl=mundo | iohanniswyclifd00losegoog=mundo | iohanniswyclifd01losegoog=mundo | iohanniswyclifde12wycl=raundo		4	accept
+8	NW	latinworks13wycl=defendcre | iohanniswyclifd00losegoog=defendcrc | iohanniswyclifd01losegoog=defendcre | iohanniswyclifde12wycl=delendcre		4	plate
+26	NW	latinworks13wycl=saltem | iohanniswyclifd00losegoog=saltenn | iohanniswyclifd01losegoog=saltern | iohanniswyclifde12wycl=saltern		4	plate
+88	R3a	latinworks13wycl=conuerti | iohanniswyclifd00losegoog=conuert | iohanniswyclifd01losegoog=conuerti | iohanniswyclifde12wycl=conuerti		4	accept
+102	R3a	latinworks13wycl=conuerti | iohanniswyclifd00losegoog=conuert | iohanniswyclifd01losegoog=conuerti | iohanniswyclifde12wycl=conuerti		4	accept
+135	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=ht | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+152	R5a	latinworks13wycl=hiis | iohanniswyclifd00losegoog=hiis | iohanniswyclifd01losegoog=hiis | iohanniswyclifde12wycl=hiis		4	accept
+194	R5a	latinworks13wycl=uirtutas | iohanniswyclifd00losegoog=uirtutas | iohanniswyclifd01losegoog=uirtutas | iohanniswyclifde12wycl=uirtutas		4	accept
+195	HEAD	CAPITULUM SEPTIMUM.			plate
+213	R2	latinworks13wycl=nimis | iohanniswyclifd00losegoog=nimis | iohanniswyclifd01losegoog=nirais | iohanniswyclifde12wycl=nimis		4	accept

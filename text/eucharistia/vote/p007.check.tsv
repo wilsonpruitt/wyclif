@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=capitulum | iohanniswyclifd01losegoog=capitulum		2	accept
+10	R3	latinworks13wycl=et | iohanniswyclifd01losegoog=ec | iohanniswyclifde12wycl=et		3	plate
+16	R5a	latinworks13wycl=idemptificacione | iohanniswyclifd00losegoog=idemptiticacione | iohanniswyclifd01losegoog=idemptificacione | iohanniswyclifde12wycl=idemptificacione		4	accept
+22	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=e | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+30	R2	latinworks13wycl=sacramentum | iohanniswyclifd00losegoog=sacrumciilum | iohanniswyclifd01losegoog=sacramentum | iohanniswyclifde12wycl=sacramentum		4	accept
+31	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+41	R3a	latinworks13wycl=illud | iohanniswyclifd00losegoog=illud | iohanniswyclifd01losegoog=illudy | iohanniswyclifde12wycl=illud		4	accept
+69	R2	latinworks13wycl=uidetur | iohanniswyclifd00losegoog=uidciur | iohanniswyclifd01losegoog=uidetur | iohanniswyclifde12wycl=uidetur		4	accept
+74	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+87	R3a	latinworks13wycl=obiectum | iohanniswyclifd00losegoog=obiectura | iohanniswyclifd01losegoog=obiectum | iohanniswyclifde12wycl=obiectum		4	accept
+90	R2	latinworks13wycl=ydemptificacione | iohanniswyclifd00losegoog=ydenipliticacione | iohanniswyclifd01losegoog=ydemptificacione | iohanniswyclifde12wycl=ydemptificacione		4	accept
+95	R3a	latinworks13wycl=fit | iohanniswyclifd00losegoog=lit | iohanniswyclifd01losegoog=fit | iohanniswyclifde12wycl=fit		4	accept
+120	R2	latinworks13wycl=quartum | iohanniswyclifd00losegoog=quarlura | iohanniswyclifd01losegoog=quartum | iohanniswyclifde12wycl=quartum		4	accept
+123	R5a	latinworks13wycl=inpanacione | iohanniswyclifd00losegoog=inpauacione | iohanniswyclifd01losegoog=inpanacione | iohanniswyclifde12wycl=inpanacione		4	accept
+133	R2	latinworks13wycl=uie | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=uie | iohanniswyclifde12wycl=uie		4	accept
+140	R3a	latinworks13wycl=sinistre | iohanniswyclifd00losegoog=sinistra | iohanniswyclifd01losegoog=sinistre | iohanniswyclifde12wycl=sinistre		4	accept
+141	NW	latinworks13wycl=glosantur | iohanniswyclifd00losegoog=glosantur | iohanniswyclifd01losegoog=glosantur | iohanniswyclifde12wycl=glosantur		4	plate
+159	R5a	latinworks13wycl=inpanacione | iohanniswyclifd00losegoog=inpanacione | iohanniswyclifd01losegoog=inpanacione | iohanniswyclifde12wycl=inpanacione		4	accept
+166	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+186	R5a	latinworks13wycl=quidditas | iohanniswyclifd00losegoog=quidditas | iohanniswyclifd01losegoog=quidditas | iohanniswyclifde12wycl=quidditas		4	accept
+192	R5a	latinworks13wycl=quidditas | iohanniswyclifd00losegoog=quidditas | iohanniswyclifd01losegoog=quidditas | iohanniswyclifde12wycl=quidditas		4	accept
+202	R5a	latinworks13wycl=difficultata | iohanniswyclifd00losegoog=difficultala | iohanniswyclifd01losegoog=difficultata | iohanniswyclifde12wycl=difficultata		4	accept
+217	R5a	latinworks13wycl=inpanacionem | iohanniswyclifd00losegoog=inpanacioneiq | iohanniswyclifd01losegoog=inpanacionem | iohanniswyclifde12wycl=inpanacionem		4	accept

@@ -1,0 +1,10 @@
+pos	rule	forms	support	voters	resolution
+0	R5	latinworks13wycl=tracrando | iohanniswyclifd00losegoog=tracrando | iohanniswyclifd01losegoog=tracrando		3	plate
+2	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+9	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ci | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+17	R3	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=cbristi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=ghristi		4	plate
+50	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christ | iohanniswyclifde12wycl=ghristi		4	accept
+52	R2	latinworks13wycl=sanuinem | iohanniswyclifd00losegoog=sanguinem | iohanniswyclifd01losegoog=sanguinem | iohanniswyclifde12wycl=sanguiueai		4	accept
+62	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=ghristi		4	accept
+107	R3a	latinworks13wycl=eis | iohanniswyclifd00losegoog=eis | iohanniswyclifd01losegoog=cis | iohanniswyclifde12wycl=eis		4	accept
+163	EDGE	latinworks13wycl=spiritualiter | iohanniswyclifde12wycl=spiritualiter		2	accept

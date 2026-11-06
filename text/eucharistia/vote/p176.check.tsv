@@ -1,0 +1,38 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=maculatus | iohanniswyclifde12wycl=maculatus		2	accept
+1	EDGE	latinworks13wycl=licet | iohanniswyclifde12wycl=licet		2	accept
+2	EDGE	latinworks13wycl=oporteat | iohanniswyclifde12wycl=oporteat		2	accept
+9	THIN	latinworks13wycl=xhi		1	plate
+10	THIN	latinworks13wycl=hic		1	plate
+12	R3	latinworks13wycl=multa | iohanniswyclifd01losegoog=mulla | iohanniswyclifde12wycl=multa		3	plate
+16	R5	latinworks13wycl=indisponunt | iohanniswyclifd01losegoog=indisponunt | iohanniswyclifde12wycl=indisponunt		3	plate
+19	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+24	R4	latinworks13wycl=comraunicet | iohanniswyclifd01losegoog=comraunicet | iohanniswyclifde12wycl=communicet		3	plate
+25	R3	latinworks13wycl=cura | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		3	plate
+42	R5	latinworks13wycl=indisponunt | iohanniswyclifd01losegoog=indisponunt | iohanniswyclifde12wycl=indisponunt		3	plate
+52	R3	latinworks13wycl=sit | iohanniswyclifd01losegoog=sil | iohanniswyclifde12wycl=sit		3	plate
+61	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+88	R3	latinworks13wycl=uin | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ui1		3	plate
+119	R5	latinworks13wycl=ant | iohanniswyclifd01losegoog=ant | iohanniswyclifde12wycl=ant		3	plate
+125	R2	latinworks13wycl=multi | iohanniswyclifd01losegoog=muui | iohanniswyclifde12wycl=multi		3	accept
+130	R2	latinworks13wycl=uirtutem | iohanniswyclifd01losegoog=uirtutcra | iohanniswyclifde12wycl=uirtutem		3	accept
+134	R2	latinworks13wycl=ita | iohanniswyclifd01losegoog=iia | iohanniswyclifde12wycl=ita		3	accept
+156	R3	latinworks13wycl=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=ghristi		3	plate
+166	THIN	latinworks13wycl=exprimuntur | iohanniswyclifd01losegoog=exprimuntur		2	plate
+167	THIN	latinworks13wycl=in | iohanniswyclifd01losegoog=in		2	plate
+168	THIN	latinworks13wycl=illo | iohanniswyclifd01losegoog=illo		2	plate
+169	THIN	latinworks13wycl=masno | iohanniswyclifd01losegoog=magno		2	plate
+171	THIN	latinworks13wycl=christi | iohanniswyclifde12wycl=christi		2	plate
+172	THIN	latinworks13wycl=post | iohanniswyclifde12wycl=post		2	plate
+173	THIN	latinworks13wycl=dacionem | iohanniswyclifde12wycl=daconem		2	plate
+174	THIN	latinworks13wycl=huius | iohanniswyclifde12wycl=nums		2	plate
+175	THIN	latinworks13wycl=sacramenti | iohanniswyclifde12wycl=sacramenti		2	plate
+192	R2	latinworks13wycl=xiii | iohanniswyclifd01losegoog=kill | iohanniswyclifde12wycl=xiii		3	accept
+193	R2	latinworks13wycl=34 | iohanniswyclifd01losegoog=34 | iohanniswyclifde12wycl=3q		3	accept
+206	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+216	EDGE	latinworks13wycl=xi | iohanniswyclifde12wycl=xi		2	accept
+217	THIN	latinworks13wycl=u | iohanniswyclifde12wycl=u		2	plate
+218	EDGE	latinworks13wycl=21 | iohanniswyclifde12wycl=21		2	accept
+219	EDGE	latinworks13wycl=explicat | iohanniswyclifde12wycl=explicat		2	accept
+220	EDGE	latinworks13wycl=hanc | iohanniswyclifde12wycl=hanc		2	accept
+221	EDGE	latinworks13wycl=dileccionem | iohanniswyclifde12wycl=dileccionem		2	accept

@@ -1,0 +1,28 @@
+pos	rule	forms	support	voters	resolution
+7	R2	latinworks13wycl=asserunt | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=asserunt		3	accept
+21	R3	latinworks13wycl=asserit | iohanniswyclifd01losegoog=assent | iohanniswyclifde12wycl=assent		3	plate
+37	R2	latinworks13wycl=ptene | iohanniswyclifd01losegoog=plane | iohanniswyclifde12wycl=plane		3	accept
+53	R5	latinworks13wycl=fiendas | iohanniswyclifd01losegoog=fiendas | iohanniswyclifde12wycl=fiendas		3	plate
+58	R5	latinworks13wycl=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		3	plate
+72	HEAD	CAPITULUM SEXTUM.			plate
+82	R3	latinworks13wycl=tactum | iohanniswyclifd01losegoog=actum | iohanniswyclifde12wycl=tactum		3	plate
+86	R3	latinworks13wycl=chnstianus | iohanniswyclifd01losegoog=christianus | iohanniswyclifde12wycl=christianus		3	plate
+94	THIN	latinworks13wycl=sacramentum | iohanniswyclifde12wycl=sacramentum		2	plate
+95	THIN	latinworks13wycl=iste | iohanniswyclifde12wycl=iste		2	plate
+96	THIN	latinworks13wycl=enim | iohanniswyclifde12wycl=enim		2	plate
+97	THIN	latinworks13wycl=foret | iohanniswyclifde12wycl=foret		2	plate
+101	R4	latinworks13wycl=istius | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=stms		3	plate
+105	R5	latinworks13wycl=conficiencium | iohanniswyclifd01losegoog=conficienciuni | iohanniswyclifde12wycl=conficiencium		3	plate
+137	R3	latinworks13wycl=suam | iohanniswyclifd01losegoog=suar | iohanniswyclifde12wycl=suam		3	plate
+154	THIN	latinworks13wycl=capitis | iohanniswyclifd01losegoog=capitis		2	plate
+155	THIN	latinworks13wycl=sui | iohanniswyclifd01losegoog=sui		2	plate
+156	THIN	latinworks13wycl=ghristi | iohanniswyclifd01losegoog=christi		2	plate
+166	R5	latinworks13wycl=u | iohanniswyclifd01losegoog=u | iohanniswyclifde12wycl=u		3	plate
+170	R2	latinworks13wycl=non | iohanniswyclifd01losegoog=nottib | iohanniswyclifde12wycl=non		3	accept
+181	R5	latinworks13wycl=aimis | iohanniswyclifd01losegoog=aimis | iohanniswyclifde12wycl=aimis		3	plate
+187	R2	latinworks13wycl=disposicio | iohanniswyclifd01losegoog=diiposido | iohanniswyclifde12wycl=disposicio		3	accept
+194	R5	latinworks13wycl=uirtuosi | iohanniswyclifd01losegoog=uirtuosi | iohanniswyclifde12wycl=uirtuosi		3	plate
+206	R3	latinworks13wycl=hec | iohanniswyclifd01losegoog=bee | iohanniswyclifde12wycl=hec		3	plate
+212	EDGE	latinworks13wycl=accipiendum | iohanniswyclifde12wycl=accipiendum		2	accept
+213	EDGE	latinworks13wycl=corpus | iohanniswyclifde12wycl=corpus		2	accept
+214	EDGE	latinworks13wycl=dominicum | iohanniswyclifde12wycl=dominicum		2	accept

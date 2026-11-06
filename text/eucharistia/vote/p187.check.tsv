@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=reuera | iohanniswyclifd00losegoog=reuera		2	accept
+1	THIN	latinworks13wycl=glossantes | iohanniswyclifd00losegoog=glossantes		2	plate
+10	R2	latinworks13wycl=uinum | iohanniswyclifd00losegoog=uinum | iohanniswyclifd01losegoog=uinuni | iohanniswyclifde12wycl=uinura		4	accept
+11	R3a	latinworks13wycl=sunt | iohanniswyclifd00losegoog=sum | iohanniswyclifd01losegoog=sunt | iohanniswyclifde12wycl=sunt		4	accept
+17	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+22	R2	latinworks13wycl=sic | iohanniswyclifd00losegoog=iic | iohanniswyclifd01losegoog=sic | iohanniswyclifde12wycl=sic		4	accept
+28	R5a	latinworks13wycl=rabanus | iohanniswyclifd00losegoog=rabaiius | iohanniswyclifd01losegoog=rabanus | iohanniswyclifde12wycl=rabanus		4	accept
+34	R5a	latinworks13wycl=u | iohanniswyclifd00losegoog=u | iohanniswyclifd01losegoog=u | iohanniswyclifde12wycl=u		4	accept
+36	R2	latinworks13wycl=xi | iohanniswyclifd00losegoog=xi | iohanniswyclifd01losegoog=x | iohanniswyclifde12wycl=xi		4	accept
+49	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+53	R2	latinworks13wycl=loquitur | iohanniswyclifd00losegoog=loquiliir | iohanniswyclifd01losegoog=loquitur | iohanniswyclifde12wycl=loquitur		4	accept
+64	R2	latinworks13wycl=uirtute | iohanniswyclifd00losegoog=uirlule | iohanniswyclifd01losegoog=uirtute | iohanniswyclifde12wycl=uirtute		4	accept
+73	R4a	latinworks13wycl=confirmat | iohanniswyclifd00losegoog=confirntat | iohanniswyclifd01losegoog=coniirmat | iohanniswyclifde12wycl=coniirmat		4	accept
+86	R3	latinworks13wycl=carney | iohanniswyclifd00losegoog=carne | iohanniswyclifd01losegoog=carne | iohanniswyclifde12wycl=came		4	plate
+101	R2	latinworks13wycl=5in | iohanniswyclifd00losegoog=liin | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+140	R2	latinworks13wycl=magnus | iohanniswyclifd00losegoog=miiguus | iohanniswyclifd01losegoog=magnus | iohanniswyclifde12wycl=magnus		4	accept
+179	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+184	R3a	latinworks13wycl=allegatum | iohanniswyclifd00losegoog=allegatura | iohanniswyclifd01losegoog=allegatum | iohanniswyclifde12wycl=allegatum		4	accept
+193	R4	latinworks13wycl=iia | iohanniswyclifd00losegoog=ii | iohanniswyclifd01losegoog=ii | iohanniswyclifde12wycl=iia		4	plate

@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=eius | iohanniswyclifde12wycl=eius		2	accept
+1	EDGE	latinworks13wycl=contradiccionem | iohanniswyclifde12wycl=contradiccionem		2	accept
+2	EDGE	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	accept
+3	EDGE	latinworks13wycl=non | iohanniswyclifde12wycl=non		2	accept
+10	GAP	si intelligerent eiut contradiccionem quod non panit et vinum re* inanent post confecncionem	2	4	plate
+11	R2	latinworks13wycl=sacramentum | iohanniswyclifd00losegoog=sacramentum | iohanniswyclifd01losegoog=sacnunentum | iohanniswyclifde12wycl=sacramentum		4	accept
+18	R3a	latinworks13wycl=panis | iohanniswyclifd00losegoog=panis | iohanniswyclifd01losegoog=pauis | iohanniswyclifde12wycl=panis		4	accept
+21	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=noo | iohanniswyclifde12wycl=non		4	accept
+28	R2	latinworks13wycl=accidencia | iohanniswyclifd00losegoog=accidencia | iohanniswyclifd01losegoog=acddeoda | iohanniswyclifde12wycl=accidencia		4	accept
+38	NW	latinworks13wycl=glosare | iohanniswyclifd00losegoog=glosare | iohanniswyclifd01losegoog=glosare | iohanniswyclifde12wycl=glosare		4	plate
+50	R5a	latinworks13wycl=glosator | iohanniswyclifd00losegoog=glosator | iohanniswyclifd01losegoog=glosator | iohanniswyclifde12wycl=glosator		4	accept
+64	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+75	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+77	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=tnt | iohanniswyclifde12wycl=esse		4	accept
+111	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+146	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+157	R3a	latinworks13wycl=sensum | iohanniswyclifd00losegoog=sensum | iohanniswyclifd01losegoog=tensum | iohanniswyclifde12wycl=sensum		4	accept
+160	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=cnira | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+184	R3	latinworks13wycl=et | iohanniswyclifd00losegoog=er | iohanniswyclifd01losegoog=er | iohanniswyclifde12wycl=et		4	plate
+194	R5a	latinworks13wycl=ydempticam | iohanniswyclifd00losegoog=yderapticam | iohanniswyclifd01losegoog=ydempticam | iohanniswyclifde12wycl=ydempticam		4	accept
+207	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymmo | iohanniswyclifd01losegoog=yromo | iohanniswyclifde12wycl=ummo		4	accept
+215	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ul | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+217	R3a	latinworks13wycl=ioh | iohanniswyclifd00losegoog=ioh | iohanniswyclifd01losegoog=iob | iohanniswyclifde12wycl=ioh		4	accept

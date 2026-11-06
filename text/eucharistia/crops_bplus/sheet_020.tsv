@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+20.1	208	164	SUB	bt=IVᵒ | fordham= | vote=iu
+20.2	210	143	SUB	bt=IIᵒ, | fordham= | vote=ii
+20.3	211	159	SUB	bt=Christi | fordham= | vote=lhnsti
+20.4	211	165	SUB	bt=sufficeret | fordham= | vote=surnceret
+20.5	211	217	SUB	bt=Vᵗᵒ, | fordham= | vote=ut
+20.6	212	192	BT-ONLY	bt=corpus | fordham= | vote=
+20.7	213	2	SUB	bt=Christi | fordham= | vote=ghristi
+20.8	213	125	SUB	bt=XIᵒ, | fordham= | vote=xi

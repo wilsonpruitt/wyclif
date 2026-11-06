@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+11	R3a	latinworks13wycl=sunt | iohanniswyclifd00losegoog=sum | iohanniswyclifd01losegoog=sunt | iohanniswyclifde12wycl=sunt		4	accept
+15	R5a	latinworks13wycl=martha | iohanniswyclifd00losegoog=martha | iohanniswyclifd01losegoog=martha | iohanniswyclifde12wycl=martha		4	accept
+17	R5a	latinworks13wycl=complexionatis | iohanniswyclifd00losegoog=compiexionatis | iohanniswyclifd01losegoog=complexionatis | iohanniswyclifde12wycl=complexionatis		4	accept
+28	R3a	latinworks13wycl=quod | iohanniswyclifd00losegoog=quoi | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+34	R5a	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=b | iohanniswyclifde12wycl=b		4	accept
+53	R5a	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=b | iohanniswyclifde12wycl=b		4	accept
+66	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=itiut | iohanniswyclifd01losegoog=tout | iohanniswyclifde12wycl=ut		4	accept
+72	R5a	latinworks13wycl=sensitiuis | iohanniswyclifd00losegoog=sensiliuis | iohanniswyclifd01losegoog=sensitiuis | iohanniswyclifde12wycl=sensitiuis		4	accept
+84	R5a	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=b | iohanniswyclifde12wycl=b		4	accept
+85	R2	latinworks13wycl=habent | iohanniswyclifd00losegoog=babeni | iohanniswyclifd01losegoog=habent | iohanniswyclifde12wycl=habent		4	accept
+97	R3a	latinworks13wycl=possunt | iohanniswyclifd00losegoog=possum | iohanniswyclifd01losegoog=possunt | iohanniswyclifde12wycl=possunt		4	accept
+105	R3a	latinworks13wycl=patet | iohanniswyclifd00losegoog=palet | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=patet		4	accept
+118	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=ncc | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+120	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=ncc | iohanniswyclifd01losegoog=ncc | iohanniswyclifde12wycl=nee		4	accept
+121	R5a	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=b | iohanniswyclifde12wycl=b		4	accept
+146	R3a	latinworks13wycl=cum | iohanniswyclifd00losegoog=locum | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		4	accept
+150	R5a	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=b | iohanniswyclifde12wycl=b		4	accept
+176	R5a	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=b | iohanniswyclifde12wycl=b		4	accept
+196	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+198	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+199	R5a	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=b | iohanniswyclifde12wycl=b		4	accept
+202	R2	latinworks13wycl=animatum | iohanniswyclifd00losegoog=aniniatuni | iohanniswyclifd01losegoog=animatum | iohanniswyclifde12wycl=animatum		4	accept
+226	R3a	latinworks13wycl=cum | iohanniswyclifd00losegoog=cura | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		4	accept
+248	R5a	latinworks13wycl=repatitur | iohanniswyclifd00losegoog=repatitur | iohanniswyclifd01losegoog=repatitur | iohanniswyclifde12wycl=repatitur		4	accept
+251	EDGE	latinworks13wycl=nec		1	accept
+252	EDGE	latinworks13wycl=a		1	accept
+253	EDGE	latinworks13wycl=nec		1	accept
+254	THIN	latinworks13wycl=b		1	plate
+255	EDGE	latinworks13wycl=potest		1	accept

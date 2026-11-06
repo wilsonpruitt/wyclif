@@ -1,0 +1,32 @@
+pos	rule	forms	support	voters	resolution
+15	R2	latinworks13wycl=confessores | iohanniswyclifd00losegoog=confc5sqres | iohanniswyclifd01losegoog=confcssorcs | iohanniswyclifde12wycl=contessores		4	accept
+17	R2	latinworks13wycl=nedum | iohanniswyclifd00losegoog=nedura | iohanniswyclifd01losegoog=nedum | iohanniswyclifde12wycl=nedum		4	accept
+26	R2	latinworks13wycl=media | iohanniswyclifd00losegoog=media | iohanniswyclifd01losegoog=mediti | iohanniswyclifde12wycl=media		4	accept
+32	R3a	latinworks13wycl=equiualens | iohanniswyclifd00losegoog=cquiualens | iohanniswyclifd01losegoog=equiualent | iohanniswyclifde12wycl=equiualens		4	accept
+35	R2	latinworks13wycl=futurum | iohanniswyclifd00losegoog=fucurum | iohanniswyclifd01losegoog=fucuruci | iohanniswyclifde12wycl=futurum		4	accept
+48	R2	latinworks13wycl=primo | iohanniswyclifd00losegoog=primo | iohanniswyclifd01losegoog=pritno | iohanniswyclifde12wycl=primo		4	accept
+51	R2	latinworks13wycl=notati | iohanniswyclifd00losegoog=notati | iohanniswyclifd01losegoog=olati | iohanniswyclifde12wycl=notati		4	accept
+53	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+55	R2	latinworks13wycl=mittuntur | iohanniswyclifd00losegoog=mittuntur | iohanniswyclifd01losegoog=miiiuatur | iohanniswyclifde12wycl=mittuntur		4	accept
+56	R3a	latinworks13wycl=bulle | iohanniswyclifd00losegoog=bulle | iohanniswyclifd01losegoog=buue | iohanniswyclifde12wycl=bulle		4	accept
+99	R3a	latinworks13wycl=laxatur | iohanniswyclifd00losegoog=luxatur | iohanniswyclifd01losegoog=laxatur | iohanniswyclifde12wycl=laxatur		4	accept
+102	R4	latinworks13wycl=quem | iohanniswyclifd00losegoog=quera | iohanniswyclifd01losegoog=quera | iohanniswyclifde12wycl=quem		4	plate
+108	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=kt | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+117	R2	latinworks13wycl=pontificis | iohanniswyclifd00losegoog=manpontircis | iohanniswyclifd01losegoog=pontilicls | iohanniswyclifde12wycl=pontificis		4	accept
+126	R2	latinworks13wycl=ista | iohanniswyclifd00losegoog=isia | iohanniswyclifd01losegoog=isln | iohanniswyclifde12wycl=ista		4	accept
+140	R4	latinworks13wycl=cognitum | iohanniswyclifd00losegoog=cognilum | iohanniswyclifd01losegoog=cognilum | iohanniswyclifde12wycl=cognitum		4	plate
+147	R3	latinworks13wycl=atque | iohanniswyclifd00losegoog=alque | iohanniswyclifd01losegoog=aiquc | iohanniswyclifde12wycl=atque		4	plate
+153	R3	latinworks13wycl=facere | iohanniswyclifd00losegoog=tacere | iohanniswyclifd01losegoog=facere | iohanniswyclifde12wycl=lacere		4	plate
+159	R3a	latinworks13wycl=mihi | iohanniswyclifd00losegoog=mihi | iohanniswyclifd01losegoog=mihi | iohanniswyclifde12wycl=mini		4	accept
+162	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=ei | iohanniswyclifde12wycl=et		4	accept
+163	R5a	latinworks13wycl=securabo | iohanniswyclifd00losegoog=securabo | iohanniswyclifd01losegoog=sccurabo | iohanniswyclifde12wycl=securabo		4	accept
+171	R3a	latinworks13wycl=reuera | iohanniswyclifd00losegoog=reuera | iohanniswyclifd01losegoog=reuen | iohanniswyclifde12wycl=reuera		4	accept
+173	R3	latinworks13wycl=in | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=ia | iohanniswyclifde12wycl=in		4	plate
+175	R4	latinworks13wycl=eucaristie | iohanniswyclifd00losegoog=eucarislie | iohanniswyclifd01losegoog=eucarislie | iohanniswyclifde12wycl=eucaristie		4	plate
+182	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+188	R4	latinworks13wycl=istam | iohanniswyclifd00losegoog=iitam | iohanniswyclifd01losegoog=iitam | iohanniswyclifde12wycl=istam		4	plate
+193	R3	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=chrisii | iohanniswyclifde12wycl=christi		4	plate
+201	HEAD	CAPITULUM SEXTUM.			plate
+210	R2	latinworks13wycl=the | iohanniswyclifd00losegoog=que | iohanniswyclifd01losegoog=que | iohanniswyclifde12wycl=que		4	accept
+227	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+228	R5a	latinworks13wycl=intoxicante | iohanniswyclifd00losegoog=intoxicante | iohanniswyclifd01losegoog=intoxicante | iohanniswyclifde12wycl=intoxicante		4	accept

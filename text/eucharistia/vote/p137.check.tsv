@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=exemplificat | iohanniswyclifde12wycl=exemplificat		2	accept
+12	R2	latinworks13wycl=sanctorum | iohanniswyclifd00losegoog=sadciomm | iohanniswyclifd01losegoog=sanctorum | iohanniswyclifde12wycl=sanctorum		4	accept
+24	R3a	latinworks13wycl=tota | iohanniswyclifd00losegoog=iota | iohanniswyclifd01losegoog=tota | iohanniswyclifde12wycl=tota		4	accept
+47	R2	latinworks13wycl=multi | iohanniswyclifd00losegoog=raulti | iohanniswyclifd01losegoog=multi | iohanniswyclifde12wycl=multi		4	accept
+54	R3a	latinworks13wycl=ergo | iohanniswyclifd00losegoog=ereo | iohanniswyclifd01losegoog=ergo | iohanniswyclifde12wycl=ergo		4	accept
+57	R3a	latinworks13wycl=toret | iohanniswyclifd00losegoog=foret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=foret		4	accept
+59	R3a	latinworks13wycl=istam | iohanniswyclifd00losegoog=istum | iohanniswyclifd01losegoog=istam | iohanniswyclifde12wycl=istam		4	accept
+78	R3a	latinworks13wycl=xia | iohanniswyclifd00losegoog=xl | iohanniswyclifd01losegoog=xi | iohanniswyclifde12wycl=xi		4	accept
+80	R3a	latinworks13wycl=primo | iohanniswyclifd00losegoog=prime | iohanniswyclifd01losegoog=primo | iohanniswyclifde12wycl=primo		4	accept
+87	R4	latinworks13wycl=panis | iohanniswyclifd00losegoog=panis | iohanniswyclifd01losegoog=pants | iohanniswyclifde12wycl=pants		4	plate
+95	R3a	latinworks13wycl=inpossibilis | iohanniswyclifd00losegoog=inpossibili | iohanniswyclifd01losegoog=inpossibilis | iohanniswyclifde12wycl=inpossibilis		4	accept
+99	R3a	latinworks13wycl=qnidem | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=quidem | iohanniswyclifde12wycl=quidem		4	accept
+104	R2	latinworks13wycl=huic | iohanniswyclifd00losegoog=hutc | iohanniswyclifd01losegoog=huic | iohanniswyclifde12wycl=hide		4	accept
+111	R4	latinworks13wycl=substancia | iohanniswyclifd00losegoog=subslancia | iohanniswyclifde12wycl=subslancia		3	plate
+118	NW	latinworks13wycl=signiiicacionem | iohanniswyclifd00losegoog=signiiicadonem | iohanniswyclifd01losegoog=significacionein | iohanniswyclifde12wycl=signiiicacionem		4	plate
+128	NW	latinworks13wycl=signiiicarent | iohanniswyclifd00losegoog=signiiicarent | iohanniswyclifd01losegoog=signiiicarent | iohanniswyclifde12wycl=significarent		4	plate
+129	R2	latinworks13wycl=magis | iohanniswyclifd00losegoog=magis | iohanniswyclifd01losegoog=tttagis | iohanniswyclifde12wycl=magis		4	accept
+140	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=tton | iohanniswyclifde12wycl=non		4	accept
+157	R2	latinworks13wycl=nunc | iohanniswyclifd00losegoog=nunc | iohanniswyclifd01losegoog=nuttcf | iohanniswyclifde12wycl=nunc		4	accept
+160	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=tton | iohanniswyclifde12wycl=non		4	accept
+170	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=tton | iohanniswyclifde12wycl=non		4	accept
+175	R2	latinworks13wycl=miraculum | iohanniswyclifd00losegoog=iimiraculumiieri | iohanniswyclifd01losegoog=ittiraculutn | iohanniswyclifde12wycl=miraculum		4	accept
+176	R2	latinworks13wycl=fieri | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=fieri | iohanniswyclifde12wycl=fieri		4	accept
+179	R2	latinworks13wycl=animal | iohanniswyclifd00losegoog=animal | iohanniswyclifd01losegoog=anitttal | iohanniswyclifde12wycl=animal		4	accept
+180	R2	latinworks13wycl=racionale | iohanniswyclifd00losegoog=racionale | iohanniswyclifd01losegoog=raciottalc | iohanniswyclifde12wycl=racionale		4	accept
+183	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=tton | iohanniswyclifde12wycl=non		4	accept
+189	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=oiristi | iohanniswyclifde12wycl=christi		4	accept
+190	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=tton | iohanniswyclifde12wycl=non		4	accept
+195	R2	latinworks13wycl=nunc | iohanniswyclifd00losegoog=nunc | iohanniswyclifd01losegoog=nuttc | iohanniswyclifde12wycl=nunc		4	accept
+196	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=qiiam | iohanniswyclifd01losegoog=quatti | iohanniswyclifde12wycl=quam		4	accept
+197	R2	latinworks13wycl=prius | iohanniswyclifd00losegoog=prius | iohanniswyclifd01losegoog=prittsy | iohanniswyclifde12wycl=prius		4	accept
+198	R2	latinworks13wycl=nisi | iohanniswyclifd00losegoog=nisi | iohanniswyclifd01losegoog=ttisi | iohanniswyclifde12wycl=nisi		4	accept
+200	R2	latinworks13wycl=mutacio | iohanniswyclifd00losegoog=mutacio | iohanniswyclifd01losegoog=tntitacio | iohanniswyclifde12wycl=mutacio		4	accept

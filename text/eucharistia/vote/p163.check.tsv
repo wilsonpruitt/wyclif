@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=quocl		1	plate
+33	R3a	latinworks13wycl=patet | iohanniswyclifd00losegoog=pacet | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=patet		4	accept
+36	R3	latinworks13wycl=iudicium | iohanniswyclifd00losegoog=iudicium | iohanniswyclifd01losegoog=indicium | iohanniswyclifde12wycl=indicium		4	plate
+45	R5a	latinworks13wycl=sollempnem | iohanniswyclifd00losegoog=sollempnem | iohanniswyclifd01losegoog=souempnem | iohanniswyclifde12wycl=sollempnem		4	accept
+46	R2	latinworks13wycl=memoriam | iohanniswyclifd00losegoog=raeraoriam | iohanniswyclifd01losegoog=memoriam | iohanniswyclifde12wycl=memoriam		4	accept
+55	R3a	latinworks13wycl=de | iohanniswyclifd00losegoog=da | iohanniswyclifd01losegoog=de | iohanniswyclifde12wycl=de		4	accept
+57	R3a	latinworks13wycl=distinccione | iohanniswyclifd00losegoog=distinccioue | iohanniswyclifd01losegoog=distinccione | iohanniswyclifde12wycl=distinccione		4	accept
+58	R3a	latinworks13wycl=ii | iohanniswyclifd00losegoog=ii | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=ii		4	accept
+65	R2	latinworks13wycl=sumus | iohanniswyclifd00losegoog=sutnus | iohanniswyclifd01losegoog=sumus | iohanniswyclifde12wycl=sumus		4	accept
+72	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+79	R3a	latinworks13wycl=oblata | iohanniswyclifd00losegoog=oblatu | iohanniswyclifd01losegoog=oblata | iohanniswyclifde12wycl=oblata		4	accept
+87	R3	latinworks13wycl=fides | iohanniswyclifd01losegoog=fides | iohanniswyclifde12wycl=rides		3	plate
+137	R6a	latinworks13wycl=disoputacio | iohanniswyclifd00losegoog=disoputacio | iohanniswyclifd01losegoog=disputacio | iohanniswyclifde12wycl=dissoputacio		4	accept
+149	R3a	latinworks13wycl=possessione | iohanniswyclifd00losegoog=possessione | iohanniswyclifd01losegoog=possessionem | iohanniswyclifde12wycl=possessione		4	accept
+153	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+155	R3a	latinworks13wycl=prosperitatis | iohanniswyclifd00losegoog=prosperi | iohanniswyclifd01losegoog=prosperitatis | iohanniswyclifde12wycl=prosperitatis		4	accept
+158	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ec | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+181	R3a	latinworks13wycl=fingimus | iohanniswyclifd00losegoog=fingimus | iohanniswyclifd01losegoog=angimus | iohanniswyclifde12wycl=fingimus		4	accept
+185	R3	latinworks13wycl=illum | iohanniswyclifd00losegoog=luum | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	plate

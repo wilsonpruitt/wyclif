@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=seculares		1	accept
+1	EDGE	latinworks13wycl=ut		1	accept
+2	THIN	latinworks13wycl=dirtuse		1	plate
+3	EDGE	latinworks13wycl=exposui		1	accept
+4	EDGE	latinworks13wycl=in		1	accept
+5	EDGE	latinworks13wycl=tractatu		1	accept
+9	R3	latinworks13wycl=uito | iohanniswyclifd00losegoog=ui | iohanniswyclifde12wycl=uit		3	plate
+18	R3	latinworks13wycl=clero | iohanniswyclifd00losegoog=ciero | iohanniswyclifde12wycl=clero		3	plate
+31	R2	latinworks13wycl=questione | iohanniswyclifd00losegoog=queistioiie | iohanniswyclifd01losegoog=qucisiionc | iohanniswyclifde12wycl=questione		4	accept
+32	R2	latinworks13wycl=prima | iohanniswyclifd00losegoog=umn | iohanniswyclifd01losegoog=prima | iohanniswyclifde12wycl=prima		4	accept
+42	R5a	latinworks13wycl=uiii | iohanniswyclifd00losegoog=uih | iohanniswyclifd01losegoog=ulil | iohanniswyclifde12wycl=uiii		4	accept
+58	R3a	latinworks13wycl=uiri | iohanniswyclifd00losegoog=uiri | iohanniswyclifd01losegoog=piri | iohanniswyclifde12wycl=uiri		4	accept
+65	R2	latinworks13wycl=ne | iohanniswyclifd00losegoog=lone | iohanniswyclifd01losegoog=ne | iohanniswyclifde12wycl=ne		4	accept
+74	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enim | iohanniswyclifd01losegoog=etiim | iohanniswyclifde12wycl=enim		4	accept
+76	R2	latinworks13wycl=filius | iohanniswyclifd00losegoog=iilius | iohanniswyclifd01losegoog=ftuus | iohanniswyclifde12wycl=filius		4	accept
+88	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+97	R5a	latinworks13wycl=petrus | iohanniswyclifd00losegoog=petrus | iohanniswyclifd01losegoog=pstrus | iohanniswyclifde12wycl=petrus		4	accept
+101	R6a	latinworks13wycl=iidelibus | iohanniswyclifd00losegoog=fidelibus | iohanniswyclifd01losegoog=iidelibus | iohanniswyclifde12wycl=iidelibus		4	accept
+103	R3	latinworks13wycl=estote | iohanniswyclifd00losegoog=estate | iohanniswyclifd01losegoog=estate | iohanniswyclifde12wycl=estote		4	plate
+112	R5a	latinworks13wycl=coniraria | iohanniswyclifd00losegoog=coniraria | iohanniswyclifd01losegoog=coiiiraria | iohanniswyclifde12wycl=coniraria		4	accept
+124	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=quain | iohanniswyclifd01losegoog=quara | iohanniswyclifde12wycl=quam		4	accept
+128	R2	latinworks13wycl=primum | iohanniswyclifd00losegoog=prirauna | iohanniswyclifd01losegoog=primum | iohanniswyclifde12wycl=primum		4	accept
+139	R3	latinworks13wycl=matth | iohanniswyclifd00losegoog=malth | iohanniswyclifd01losegoog=maith | iohanniswyclifde12wycl=matth		4	plate
+142	R3a	latinworks13wycl=inquit | iohanniswyclifd00losegoog=inquit | iohanniswyclifd01losegoog=inqui | iohanniswyclifde12wycl=inquit		4	accept
+168	R5a	latinworks13wycl=petrum | iohanniswyclifd00losegoog=pelrum | iohanniswyclifd01losegoog=petrum | iohanniswyclifde12wycl=petrum		4	accept
+169	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+178	R2	latinworks13wycl=illud | iohanniswyclifd00losegoog=illud | iohanniswyclifd01losegoog=illiid | iohanniswyclifde12wycl=illud		4	accept
+180	R3a	latinworks13wycl=notissimum | iohanniswyclifd00losegoog=noi | iohanniswyclifd01losegoog=notissimum | iohanniswyclifde12wycl=notissimum		4	accept
+186	R5a	latinworks13wycl=petrum | iohanniswyclifd00losegoog=petrum | iohanniswyclifd01losegoog=petrum | iohanniswyclifde12wycl=petrum		4	accept
+187	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept

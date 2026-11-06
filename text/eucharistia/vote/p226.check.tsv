@@ -1,0 +1,32 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=o | iohanniswyclifde12wycl=o		2	accept
+1	EDGE	latinworks13wycl=quam | iohanniswyclifde12wycl=quam		2	accept
+2	EDGE	latinworks13wycl=detestanda | iohanniswyclifde12wycl=detestanda		2	accept
+10	R4a	latinworks13wycl=contradictonum | iohanniswyclifd00losegoog=contradictoriura | iohanniswyclifd01losegoog=contradictorium | iohanniswyclifde12wycl=contradictonum		4	accept
+11	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+22	R3a	latinworks13wycl=recoleret | iohanniswyclifd00losegoog=rccoleret | iohanniswyclifd01losegoog=recolerer | iohanniswyclifde12wycl=recoleret		4	accept
+25	R2	latinworks13wycl=textu | iohanniswyclifd00losegoog=lexeu | iohanniswyclifd01losegoog=leiiu | iohanniswyclifde12wycl=textu		4	accept
+28	R2	latinworks13wycl=dicit | iohanniswyclifd00losegoog=dicit | iohanniswyclifd01losegoog=dtcil | iohanniswyclifde12wycl=dicit		4	accept
+55	R3	latinworks13wycl=suo | iohanniswyclifd00losegoog=sua | iohanniswyclifd01losegoog=sua | iohanniswyclifde12wycl=suo		4	plate
+63	R4a	latinworks13wycl=hic | iohanniswyclifd00losegoog=bic | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+66	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=est | iohanniswyclifd01losegoog=esi | iohanniswyclifde12wycl=est		4	accept
+70	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=oirisli | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+74	R3a	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=noti | iohanniswyclifde12wycl=non		4	accept
+89	R3	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisli | iohanniswyclifd01losegoog=chrisii | iohanniswyclifde12wycl=christi		4	plate
+95	R2	latinworks13wycl=sacramentaliter | iohanniswyclifd00losegoog=sacramenialiter | iohanniswyclifd01losegoog=sacramenluliicr | iohanniswyclifde12wycl=sacramentaliter		4	accept
+99	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=chrisii | iohanniswyclifde12wycl=christi		4	accept
+100	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+112	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=lara | iohanniswyclifd01losegoog=cam | iohanniswyclifde12wycl=tam		4	accept
+123	R4	latinworks13wycl=beatus | iohanniswyclifd00losegoog=beaius | iohanniswyclifd01losegoog=beaius | iohanniswyclifde12wycl=beatus		4	plate
+148	R5a	latinworks13wycl=glossator | iohanniswyclifd00losegoog=glossator | iohanniswyclifd01losegoog=glossator | iohanniswyclifde12wycl=glossator		4	accept
+156	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sil | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+158	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=qirisu | iohanniswyclifde12wycl=christi		4	accept
+166	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+169	R5a	latinworks13wycl=glossator | iohanniswyclifd00losegoog=glossator | iohanniswyclifd01losegoog=glosiator | iohanniswyclifde12wycl=glossator		4	accept
+173	R2	latinworks13wycl=insaniuisset | iohanniswyclifd00losegoog=insaniuisset | iohanniswyclifd01losegoog=iosaaiuitser | iohanniswyclifde12wycl=insaniuisset		4	accept
+175	R2	latinworks13wycl=fuisset | iohanniswyclifd00losegoog=tuissct | iohanniswyclifd01losegoog=tutsset | iohanniswyclifde12wycl=fuisset		4	accept
+178	R5a	latinworks13wycl=glossatores | iohanniswyclifd00losegoog=glossatores | iohanniswyclifd01losegoog=glostatores | iohanniswyclifde12wycl=glossatores		4	accept
+181	R2	latinworks13wycl=signum | iohanniswyclifd00losegoog=signum | iohanniswyclifd01losegoog=ligduin | iohanniswyclifde12wycl=signum		4	accept
+183	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ci | iohanniswyclifd01losegoog=ct | iohanniswyclifde12wycl=et		4	accept
+186	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=id | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+212	R5	latinworks13wycl=berengarius | iohanniswyclifd01losegoog=berengarius | iohanniswyclifde12wycl=berengarius		3	plate

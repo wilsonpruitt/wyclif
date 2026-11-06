@@ -1,0 +1,45 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=inforrnet		1	plate
+1	EDGE	latinworks13wycl=reliquam		1	accept
+2	EDGE	latinworks13wycl=necesse | iohanniswyclifde12wycl=necesse		2	accept
+3	EDGE	latinworks13wycl=habet | iohanniswyclifde12wycl=habet		2	accept
+4	EDGE	latinworks13wycl=hec | iohanniswyclifde12wycl=hec		2	accept
+5	EDGE	latinworks13wycl=uia | iohanniswyclifde12wycl=uia		2	accept
+6	EDGE	latinworks13wycl=dicere | iohanniswyclifde12wycl=dicere		2	accept
+7	THIN	latinworks13wycl=quomodo | iohanniswyclifde12wycl=quoraodo		2	plate
+13	R3	latinworks13wycl=est | iohanniswyclifd01losegoog=esi | iohanniswyclifde12wycl=est		3	plate
+27	THIN	latinworks13wycl=propterea | iohanniswyclifde12wycl=propterea		2	plate
+28	THIN	latinworks13wycl=qualificat | iohanniswyclifde12wycl=qualificat		2	plate
+29	THIN	latinworks13wycl=suum | iohanniswyclifde12wycl=suum		2	plate
+30	THIN	latinworks13wycl=principium | iohanniswyclifde12wycl=principium		2	plate
+31	THIN	latinworks13wycl=quia | iohanniswyclifde12wycl=quia		2	plate
+32	THIN	latinworks13wycl=sic | iohanniswyclifde12wycl=sic		2	plate
+33	THIN	latinworks13wycl=omnis | iohanniswyclifde12wycl=omnis		2	plate
+34	THIN	latinworks13wycl=qualitas | iohanniswyclifde12wycl=qualitas		2	plate
+35	THIN	latinworks13wycl=quatificaret | iohanniswyclifde12wycl=qualificaret		2	plate
+48	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+53	R2	latinworks13wycl=aut | iohanniswyclifd01losegoog=auc | iohanniswyclifde12wycl=aut		3	accept
+54	R2	latinworks13wycl=quantitas | iohanniswyclifd01losegoog=qubdtilas | iohanniswyclifde12wycl=quantitas		3	accept
+67	R2	latinworks13wycl=potest | iohanniswyclifd01losegoog=polesi | iohanniswyclifde12wycl=potest		3	accept
+70	R4a	latinworks13wycl=tum | iohanniswyclifd01losegoog=turn | iohanniswyclifde12wycl=turn		3	accept
+74	THIN	latinworks13wycl=tum | iohanniswyclifd01losegoog=turn		2	plate
+75	THIN	latinworks13wycl=eciam | iohanniswyclifd01losegoog=eciam		2	plate
+76	THIN	latinworks13wycl=quia | iohanniswyclifd01losegoog=quia		2	plate
+94	DEL	latinworks13wycl=this | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		3	accept
+96	R3	latinworks13wycl=ergo | iohanniswyclifd01losegoog=ergo | iohanniswyclifde12wycl=ereo		3	plate
+100	DEL	latinworks13wycl=t | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		3	accept
+113	R5	latinworks13wycl=ponderositas | iohanniswyclifd01losegoog=pondcrositas | iohanniswyclifde12wycl=ponderositas		3	plate
+126	R4	latinworks13wycl=similibus | iohanniswyclifd01losegoog=similibusl | iohanniswyclifde12wycl=similibusl		3	plate
+134	R4	latinworks13wycl=lnnnita | iohanniswyclifd01losegoog=intimta | iohanniswyclifde12wycl=innnita		3	plate
+140	R3	latinworks13wycl=ergo | iohanniswyclifd01losegoog=ereo | iohanniswyclifde12wycl=ergo		3	plate
+141	R3	latinworks13wycl=foret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=roret		3	plate
+147	R5	latinworks13wycl=accidentahs | iohanniswyclifd01losegoog=accidcntalis | iohanniswyclifde12wycl=accidentahs		3	plate
+149	R4	latinworks13wycl=maniteste | iohanniswyclifd01losegoog=raaniteste | iohanniswyclifde12wycl=manireste		3	plate
+150	R2	latinworks13wycl=repugnat | iohanniswyclifd01losegoog=repiignal | iohanniswyclifde12wycl=repugnat		3	accept
+164	R3	latinworks13wycl=sonat | iohanniswyclifd01losegoog=tonat | iohanniswyclifde12wycl=sonat		3	plate
+186	R3	latinworks13wycl=talia | iohanniswyclifd01losegoog=talis | iohanniswyclifde12wycl=talia		3	plate
+198	R5	latinworks13wycl=azimo | iohanniswyclifd01losegoog=azimo | iohanniswyclifde12wycl=azimo		3	plate
+207	R5	latinworks13wycl=azimum | iohanniswyclifd01losegoog=azimum | iohanniswyclifde12wycl=azimum		3	plate
+228	EDGE	latinworks13wycl=multiplicaui | iohanniswyclifde12wycl=multiplicaui		2	accept
+229	EDGE	latinworks13wycl=argumenta | iohanniswyclifde12wycl=argumenta		2	accept
+230	EDGE	latinworks13wycl=que | iohanniswyclifde12wycl=que		2	accept

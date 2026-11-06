@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=subito | iohanniswyclifd01losegoog=subito		2	accept
+17	R2	latinworks13wycl=familian | iohanniswyclifd00losegoog=familiari | iohanniswyclifd01losegoog=familiari | iohanniswyclifde12wycl=tamuiari		4	accept
+26	R2	latinworks13wycl=finxit | iohanniswyclifd01losegoog=finxit | iohanniswyclifde12wycl=∅		3	accept
+39	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=uc | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+48	R3a	latinworks13wycl=consequencias | iohanniswyclifd00losegoog=coiisequencias | iohanniswyclifd01losegoog=consequendas | iohanniswyclifde12wycl=consequencias		4	accept
+56	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+63	R5a	latinworks13wycl=sompniator | iohanniswyclifd00losegoog=sompnialor | iohanniswyclifd01losegoog=sompniator | iohanniswyclifde12wycl=sompniator		4	accept
+79	R2	latinworks13wycl=experimento | iohanniswyclifd00losegoog=cxpcrimenio | iohanniswyclifd01losegoog=experimento | iohanniswyclifde12wycl=experimento		4	accept
+104	R5a	latinworks13wycl=ydolatra | iohanniswyclifd00losegoog=ydolatra | iohanniswyclifd01losegoog=ydolatra | iohanniswyclifde12wycl=ydolatra		4	accept
+117	NW	latinworks13wycl=uespertiliones | iohanniswyclifd00losegoog=uesperiiliones | iohanniswyclifd01losegoog=uespertiliones | iohanniswyclifde12wycl=uespertiliones		4	plate
+127	R5a	latinworks13wycl=sensaciones | iohanniswyclifd00losegoog=sensaciones | iohanniswyclifd01losegoog=sensaciones | iohanniswyclifde12wycl=sensaciones		4	accept
+140	R2	latinworks13wycl=nichil | iohanniswyclifd00losegoog=nichil | iohanniswyclifd01losegoog=nichil | iohanniswyclifde12wycl=menu		4	accept
+175	R5a	latinworks13wycl=perspectiuorum | iohanniswyclifd00losegoog=perspectiuorum | iohanniswyclifd01losegoog=perspectiuorum | iohanniswyclifde12wycl=perspectiuorum		4	accept
+187	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+191	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+199	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept

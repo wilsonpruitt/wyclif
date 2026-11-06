@@ -1,0 +1,37 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+1	EDGE	latinworks13wycl=redeat | iohanniswyclifde12wycl=redeat		2	accept
+2	EDGE	latinworks13wycl=eadem | iohanniswyclifde12wycl=eadem		2	accept
+3	EDGE	latinworks13wycl=materia | iohanniswyclifde12wycl=materia		2	accept
+4	EDGE	latinworks13wycl=patet | iohanniswyclifde12wycl=patet		2	accept
+5	EDGE	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	accept
+6	THIN	latinworks13wycl=diu | iohanniswyclifde12wycl=dm		2	plate
+7	THIN	latinworks13wycl=ent | iohanniswyclifde12wycl=erit		2	plate
+8	EDGE	latinworks13wycl=antequam | iohanniswyclifde12wycl=antequam		2	accept
+12	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=at | iohanniswyclifde12wycl=ut		4	accept
+21	R5a	latinworks13wycl=anichilabitur | iohanniswyclifd00losegoog=anichilabitur | iohanniswyclifd01losegoog=anicbtlabitur | iohanniswyclifde12wycl=anichilabitur		4	accept
+28	R3	latinworks13wycl=cum | iohanniswyclifd00losegoog=cura | iohanniswyclifd01losegoog=ctmi | iohanniswyclifde12wycl=cum		4	plate
+29	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=noil | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+65	R3a	latinworks13wycl=substancia | iohanniswyclifd00losegoog=subslancia | iohanniswyclifd01losegoog=substanda | iohanniswyclifde12wycl=substancia		4	accept
+68	R3a	latinworks13wycl=ex | iohanniswyclifd00losegoog=e | iohanniswyclifd01losegoog=ex | iohanniswyclifde12wycl=ex		4	accept
+73	DEL	latinworks13wycl=u | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	accept
+76	R5a	latinworks13wycl=sollempnizet | iohanniswyclifd00losegoog=souempnizet | iohanniswyclifd01losegoog=sollempnizet | iohanniswyclifde12wycl=sollempnizet		4	accept
+77	R3a	latinworks13wycl=hec | iohanniswyclifd00losegoog=hec | iohanniswyclifd01losegoog=bee | iohanniswyclifde12wycl=hec		4	accept
+80	R3a	latinworks13wycl=substancias | iohanniswyclifd00losegoog=substancias | iohanniswyclifd01losegoog=substandas | iohanniswyclifde12wycl=substancias		4	accept
+90	R3a	latinworks13wycl=disposicione | iohanniswyclifd00losegoog=dispositione | iohanniswyclifd01losegoog=disposicione | iohanniswyclifde12wycl=disposicione		4	accept
+99	R3a	latinworks13wycl=natura | iohanniswyclifd00losegoog=natura | iohanniswyclifd01losegoog=nature | iohanniswyclifde12wycl=natura		4	accept
+112	R5a	latinworks13wycl=actuet | iohanniswyclifd00losegoog=actuet | iohanniswyclifd01losegoog=actuet | iohanniswyclifde12wycl=actuet		4	accept
+149	INS	idem	3	4	accept
+154	R4	latinworks13wycl=t | iohanniswyclifd00losegoog=inihetiosiicreature | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	plate
+155	R2	latinworks13wycl=creature | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=creature | iohanniswyclifde12wycl=creature		4	accept
+162	R3	latinworks13wycl=generato | iohanniswyclifd00losegoog=generate | iohanniswyclifd01losegoog=geiicrato | iohanniswyclifde12wycl=generato		4	plate
+177	R2	latinworks13wycl=ex | iohanniswyclifd00losegoog=ex | iohanniswyclifd01losegoog=tx | iohanniswyclifde12wycl=ex		4	accept
+178	R3a	latinworks13wycl=tibi | iohanniswyclifd00losegoog=libi | iohanniswyclifd01losegoog=tibi | iohanniswyclifde12wycl=tibi		4	accept
+183	INS	facta	3	4	accept
+185	R2	latinworks13wycl=motu | iohanniswyclifd00losegoog=raotu | iohanniswyclifd01losegoog=motu | iohanniswyclifde12wycl=motu		4	accept
+187	R2	latinworks13wycl=talia | iohanniswyclifd00losegoog=lalia | iohanniswyclifd01losegoog=talia | iohanniswyclifde12wycl=tana		4	accept
+189	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymrao | iohanniswyclifd01losegoog=ymmo | iohanniswyclifde12wycl=ymmo		4	accept
+194	R3a	latinworks13wycl=instanti | iohanniswyclifd00losegoog=instanti | iohanniswyclifd01losegoog=instant | iohanniswyclifde12wycl=instanti		4	accept
+200	R3a	latinworks13wycl=creatur | iohanniswyclifd00losegoog=creatur | iohanniswyclifd01losegoog=creator | iohanniswyclifde12wycl=creatur		4	accept
+214	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+219	EDGE	latinworks13wycl=perdite | iohanniswyclifde12wycl=perdite		2	accept

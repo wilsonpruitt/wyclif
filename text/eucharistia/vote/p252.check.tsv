@@ -1,0 +1,26 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=mundo		1	accept
+9	R2	latinworks13wycl=fuit | iohanniswyclifd00losegoog=fuit | iohanniswyclifd01losegoog=full | iohanniswyclifde12wycl=fuit		4	accept
+14	R2	latinworks13wycl=instancia | iohanniswyclifd00losegoog=instandohimmediata | iohanniswyclifd01losegoog=instancia | iohanniswyclifde12wycl=instancia		4	accept
+15	R2	latinworks13wycl=immediata | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=imraedtata | iohanniswyclifde12wycl=iramediata		4	accept
+25	R2	latinworks13wycl=in | iohanniswyclifd00losegoog=iq | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+31	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+37	NW	latinworks13wycl=contiguacio | iohanniswyclifd00losegoog=contiguacio | iohanniswyclifd01losegoog=contiguacio | iohanniswyclifde12wycl=contiguacio		4	plate
+43	R2	latinworks13wycl=eodem | iohanniswyclifd00losegoog=eodera | iohanniswyclifd01losegoog=eodem | iohanniswyclifde12wycl=eodem		4	accept
+53	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ul | iohanniswyclifd01losegoog=ot | iohanniswyclifde12wycl=ut		4	accept
+54	R3	latinworks13wycl=concessum | iohanniswyclifd00losegoog=concessura | iohanniswyclifd01losegoog=conccssuni | iohanniswyclifde12wycl=concessum		4	plate
+62	R3a	latinworks13wycl=motu | iohanniswyclifd00losegoog=molu | iohanniswyclifd01losegoog=motu | iohanniswyclifde12wycl=motu		4	accept
+63	R3a	latinworks13wycl=continuo | iohanniswyclifd00losegoog=coniinuo | iohanniswyclifd01losegoog=continue | iohanniswyclifde12wycl=continuo		4	accept
+74	R3a	latinworks13wycl=cum | iohanniswyclifd00losegoog=cum | iohanniswyclifd01losegoog=cura | iohanniswyclifde12wycl=cum		4	accept
+86	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ul | iohanniswyclifde12wycl=ut		4	accept
+90	NW	latinworks13wycl=saltem | iohanniswyclifd00losegoog=saltern | iohanniswyclifd01losegoog=saltern | iohanniswyclifde12wycl=saltern		4	plate
+99	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sit | iohanniswyclifd01losegoog=sii | iohanniswyclifde12wycl=sit		4	accept
+110	R3a	latinworks13wycl=iuxta | iohanniswyclifd00losegoog=iusta | iohanniswyclifd01losegoog=iuxta | iohanniswyclifde12wycl=iuxta		4	accept
+120	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=don | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+123	R3a	latinworks13wycl=continuo | iohanniswyclifd00losegoog=cootinuo | iohanniswyclifd01losegoog=continue | iohanniswyclifde12wycl=continuo		4	accept
+146	R3	latinworks13wycl=accidit | iohanniswyclifd00losegoog=occidit | iohanniswyclifd01losegoog=occidit | iohanniswyclifde12wycl=accidit		4	plate
+148	R2	latinworks13wycl=tollit | iohanniswyclifd00losegoog=touit | iohanniswyclifd01losegoog=touil | iohanniswyclifde12wycl=tollit		4	accept
+151	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+159	R3a	latinworks13wycl=signato | iohanniswyclifd00losegoog=signato | iohanniswyclifd01losegoog=lignato | iohanniswyclifde12wycl=signato		4	accept
+175	R5a	latinworks13wycl=immediacionem | iohanniswyclifd00losegoog=immediacionem | iohanniswyclifd01losegoog=immediacionem | iohanniswyclifde12wycl=immediacionem		4	accept
+216	R5	latinworks13wycl=fienda | iohanniswyclifd01losegoog=fienda | iohanniswyclifde12wycl=fienda		3	plate

@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=terram		1	accept
+1	EDGE	latinworks13wycl=mortuum		1	accept
+2	EDGE	latinworks13wycl=est		1	accept
+3	THIN	latinworks13wycl=arterens		1	plate
+4	EDGE	latinworks13wycl=multum | iohanniswyclifd01losegoog=multum		2	accept
+10	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=ncc | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+19	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sil | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+29	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enim | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enira		4	accept
+33	R3a	latinworks13wycl=graciam | iohanniswyclifd00losegoog=graciani | iohanniswyclifd01losegoog=graciam | iohanniswyclifde12wycl=graciam		4	accept
+60	R6a	latinworks13wycl=sicquodin | iohanniswyclifd00losegoog=osic | iohanniswyclifd01losegoog=sicquodin | iohanniswyclifde12wycl=sicquodin		4	accept
+66	R2	latinworks13wycl=ex | iohanniswyclifd00losegoog=ck | iohanniswyclifd01losegoog=ex | iohanniswyclifde12wycl=ex		4	accept
+74	R2	latinworks13wycl=quidem | iohanniswyclifd00losegoog=qiiideni | iohanniswyclifd01losegoog=quidem | iohanniswyclifde12wycl=quidem		4	accept
+80	R5a	latinworks13wycl=inpastans | iohanniswyclifd00losegoog=inpastans | iohanniswyclifd01losegoog=inpastans | iohanniswyclifde12wycl=inpastans		4	accept
+93	R3a	latinworks13wycl=panis | iohanniswyclifd00losegoog=panis | iohanniswyclifd01losegoog=nanis | iohanniswyclifde12wycl=panis		4	accept
+97	R4	latinworks13wycl=tnbulacioms | iohanniswyclifd00losegoog=iribulacionis | iohanniswyclifd01losegoog=tnbuiacionis | iohanniswyclifde12wycl=tnbulacionis		4	plate
+101	R3	latinworks13wycl=cantatis | iohanniswyclifd00losegoog=caritaiis | iohanniswyclifd01losegoog=caritatis | iohanniswyclifde12wycl=cantatis		4	plate
+105	R2	latinworks13wycl=deum | iohanniswyclifd00losegoog=duni | iohanniswyclifd01losegoog=deum | iohanniswyclifde12wycl=deum		4	accept
+108	R3a	latinworks13wycl=consumate | iohanniswyclifd00losegoog=consu | iohanniswyclifd01losegoog=codsumate | iohanniswyclifde12wycl=consumate		4	accept
+109	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+115	R3a	latinworks13wycl=finaliter | iohanniswyclifd00losegoog=lini | iohanniswyclifd01losegoog=finaliter | iohanniswyclifde12wycl=finaliter		4	accept
+126	R5a	latinworks13wycl=x | iohanniswyclifd00losegoog=x | iohanniswyclifd01losegoog=x | iohanniswyclifde12wycl=x		4	accept
+127	R2	latinworks13wycl=17 | iohanniswyclifd00losegoog=lyl | iohanniswyclifd01losegoog=17 | iohanniswyclifde12wycl=17		4	accept
+131	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=e | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+132	R2	latinworks13wycl=unum | iohanniswyclifd00losegoog=uitiim | iohanniswyclifd01losegoog=unum | iohanniswyclifde12wycl=unum		4	accept
+137	R2	latinworks13wycl=omnes | iohanniswyclifd00losegoog=ontnes | iohanniswyclifd01losegoog=omnes | iohanniswyclifde12wycl=omnes		4	accept
+139	R3a	latinworks13wycl=uno | iohanniswyclifd00losegoog=una | iohanniswyclifd01losegoog=uno | iohanniswyclifde12wycl=uno		4	accept
+144	R2	latinworks13wycl=calice | iohanniswyclifd00losegoog=cawce | iohanniswyclifd01losegoog=calice | iohanniswyclifde12wycl=calice		4	accept
+156	R4a	latinworks13wycl=mentonam | iohanniswyclifd00losegoog=nieritoriam | iohanniswyclifd01losegoog=meritoriam | iohanniswyclifde12wycl=mentonam		4	accept
+180	NW	latinworks13wycl=generanciam | iohanniswyclifd00losegoog=generanciam | iohanniswyclifd01losegoog=generanciam | iohanniswyclifde12wycl=generanciam		4	plate
+184	NW	latinworks13wycl=consumans | iohanniswyclifd00losegoog=consumans | iohanniswyclifd01losegoog=consumans | iohanniswyclifde12wycl=consumans		4	plate
+187	R3a	latinworks13wycl=uitam | iohanniswyclifd00losegoog=uilam | iohanniswyclifd01losegoog=uitam | iohanniswyclifde12wycl=uitam		4	accept
+201	R2	latinworks13wycl=hunc | iohanniswyclifd00losegoog=obunc | iohanniswyclifd01losegoog=hunc | iohanniswyclifde12wycl=hunc		4	accept

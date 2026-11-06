@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=petrus | iohanniswyclifde12wycl=petrus		2	plate
+2	R5	latinworks13wycl=coream | iohanniswyclifd00losegoog=coream | iohanniswyclifde12wycl=coream		3	plate
+28	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=ec | iohanniswyclifde12wycl=et		4	accept
+32	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=quara | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+33	R2	latinworks13wycl=potest | iohanniswyclifd00losegoog=potest | iohanniswyclifd01losegoog=poicst | iohanniswyclifde12wycl=potest		4	accept
+38	R2	latinworks13wycl=potest | iohanniswyclifd00losegoog=potest | iohanniswyclifd01losegoog=poieic | iohanniswyclifde12wycl=potest		4	accept
+41	R5a	latinworks13wycl=qualificata | iohanniswyclifd00losegoog=qualificata | iohanniswyclifd01losegoog=qualificata | iohanniswyclifde12wycl=qualificata		4	accept
+62	R2	latinworks13wycl=omni | iohanniswyclifd00losegoog=orani | iohanniswyclifd01losegoog=omni | iohanniswyclifde12wycl=omni		4	accept
+66	R3a	latinworks13wycl=fit | iohanniswyclifd00losegoog=fit | iohanniswyclifd01losegoog=it | iohanniswyclifde12wycl=fit		4	accept
+82	R2	latinworks13wycl=motum | iohanniswyclifd00losegoog=raotum | iohanniswyclifd01losegoog=molutn | iohanniswyclifde12wycl=motum		4	accept
+100	R2	latinworks13wycl=primo | iohanniswyclifd00losegoog=pritro | iohanniswyclifd01losegoog=primo | iohanniswyclifde12wycl=primo		4	accept
+105	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=ron | iohanniswyclifde12wycl=non		4	accept
+125	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+144	R2	latinworks13wycl=motus | iohanniswyclifd00losegoog=raotus | iohanniswyclifd01losegoog=motus | iohanniswyclifde12wycl=motus		4	accept
+148	R5a	latinworks13wycl=indiuiduaretur | iohanniswyclifd00losegoog=indiuiduaretur | iohanniswyclifd01losegoog=indluiduaretur | iohanniswyclifde12wycl=indiuiduaretur		4	accept
+150	R2	latinworks13wycl=a | iohanniswyclifd00losegoog=a | iohanniswyclifd01losegoog=a | iohanniswyclifde12wycl=∅		4	accept
+151	R3	latinworks13wycl=motu | iohanniswyclifd00losegoog=molu | iohanniswyclifd01losegoog=moiu | iohanniswyclifde12wycl=motu		4	plate
+156	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+168	R5a	latinworks13wycl=fantasiatur | iohanniswyclifd00losegoog=fantasiatur | iohanniswyclifd01losegoog=fantasiatur | iohanniswyclifde12wycl=fantasiatur		4	accept
+180	R4	latinworks13wycl=quolibet | iohanniswyclifd00losegoog=asquolibet | iohanniswyclifd01losegoog=asquolibet | iohanniswyclifde12wycl=quolibet		4	plate
+197	R3a	latinworks13wycl=durat | iohanniswyclifd00losegoog=durat | iohanniswyclifd01losegoog=durai | iohanniswyclifde12wycl=durat		4	accept

@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+5.1	36	166	SUB	bt=Byssinum | fordham= | vote=bissinum
+5.2	36	177	BT-ONLY	bt=exemplum est illud | fordham= | vote=
+5.3	36	187	BT-ONLY	bt=testamentum est | fordham= | vote=
+5.4	36	230	BT-ONLY	bt=et sanguinem. | fordham= | vote=
+5.5	36	233	SUB	bt=Iª | fordham= | vote=ia
+5.6	36	244	BT-ONLY	bt=cenam dominicam | fordham= | vote=
+5.7	37	85	SUB	bt=nocte | fordham= | vote=node
+5.8	37	92	SUB	bt=fregit | fordham= | vote=regit

@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+12	R2	latinworks13wycl=tangit | iohanniswyclifd00losegoog=langii | iohanniswyclifd01losegoog=tangit | iohanniswyclifde12wycl=tangit		4	accept
+13	R2	latinworks13wycl=fidem | iohanniswyclifd00losegoog=fiilem | iohanniswyclifd01losegoog=fidem | iohanniswyclifde12wycl=fidem		4	accept
+15	R3a	latinworks13wycl=quam | iohanniswyclifd00losegoog=quum | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+27	R2	latinworks13wycl=sectarum | iohanniswyclifd00losegoog=seclarlini | iohanniswyclifd01losegoog=sectarum | iohanniswyclifde12wycl=sectarum		4	accept
+30	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=e | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+32	R2	latinworks13wycl=cum | iohanniswyclifd00losegoog=ciiin | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		4	accept
+33	R3a	latinworks13wycl=ergo | iohanniswyclifd00losegoog=ero | iohanniswyclifd01losegoog=ergo | iohanniswyclifde12wycl=ergo		4	accept
+34	R2	latinworks13wycl=fides | iohanniswyclifd00losegoog=lidcs | iohanniswyclifd01losegoog=fides | iohanniswyclifde12wycl=fides		4	accept
+54	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+71	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=kt | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+78	R2	latinworks13wycl=thoma | iohanniswyclifd00losegoog=tliomatiit | iohanniswyclifd01losegoog=thoma | iohanniswyclifde12wycl=thoma		4	accept
+83	R5a	latinworks13wycl=pseudofratres | iohanniswyclifd00losegoog=nseudofratres | iohanniswyclifd01losegoog=pseudofratres | iohanniswyclifde12wycl=pseudorratres		4	accept
+89	NW	latinworks13wycl=plunmum | iohanniswyclifd00losegoog=plunraum | iohanniswyclifd01losegoog=plurimum | iohanniswyclifde12wycl=plunmum		4	plate
+97	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=tsst | iohanniswyclifde12wycl=esse		4	accept
+121	R3a	latinworks13wycl=fidem | iohanniswyclifd00losegoog=iidem | iohanniswyclifd01losegoog=fidem | iohanniswyclifde12wycl=fidem		4	accept
+145	R5a	latinworks13wycl=sufficienciores | iohanniswyclifd00losegoog=sufficienciores | iohanniswyclifd01losegoog=sufficienciores | iohanniswyclifde12wycl=sufficienciores		4	accept
+157	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+181	R5a	latinworks13wycl=impanacione | iohanniswyclifd00losegoog=impanacione | iohanniswyclifd01losegoog=impanacione | iohanniswyclifde12wycl=impanacione		4	accept
+194	R2	latinworks13wycl=sancti | iohanniswyclifd00losegoog=iosancli | iohanniswyclifd01losegoog=sosancti | iohanniswyclifde12wycl=sancti		4	accept
+197	R2	latinworks13wycl=statim | iohanniswyclifd00losegoog=siaiim | iohanniswyclifd01losegoog=statim | iohanniswyclifde12wycl=statim		4	accept
+215	EDGE	latinworks13wycl=sentencie | iohanniswyclifde12wycl=sentencie		2	accept

@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+18	R3a	latinworks13wycl=atque | iohanniswyclifd00losegoog=aique | iohanniswyclifd01losegoog=atque | iohanniswyclifde12wycl=atque		4	accept
+21	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+22	R5a	latinworks13wycl=sacramentalem | iohanniswyclifd00losegoog=sacramenlalem | iohanniswyclifd01losegoog=sacramentalem | iohanniswyclifde12wycl=sacramentalem		4	accept
+26	R3	latinworks13wycl=unde | iohanniswyclifd00losegoog=unat | iohanniswyclifd01losegoog=tinde | iohanniswyclifde12wycl=unde		4	plate
+33	R3a	latinworks13wycl=quod | iohanniswyclifd00losegoog=quoi | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+34	R3a	latinworks13wycl=ghristus | iohanniswyclifd00losegoog=christus | iohanniswyclifd01losegoog=chnstus | iohanniswyclifde12wycl=christus		4	accept
+46	R2	latinworks13wycl=sentenciam | iohanniswyclifd00losegoog=sentenciam | iohanniswyclifd01losegoog=setiteiiciam | iohanniswyclifde12wycl=sentenciam		4	accept
+48	R3a	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=tue | iohanniswyclifde12wycl=esse		4	accept
+59	R2	latinworks13wycl=meum | iohanniswyclifd00losegoog=meiim | iohanniswyclifd01losegoog=meum | iohanniswyclifde12wycl=meum		4	accept
+62	R3	latinworks13wycl=illa | iohanniswyclifd00losegoog=iila | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	plate
+72	R3	latinworks13wycl=illi | iohanniswyclifd00losegoog=uli | iohanniswyclifd01losegoog=i | iohanniswyclifde12wycl=i		4	plate
+73	INS?	hi	2	4	plate
+104	R6	latinworks13wycl=the | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=the		4	plate
+113	R2	latinworks13wycl=potest | iohanniswyclifd00losegoog=conhcere | iohanniswyclifd01losegoog=potest | iohanniswyclifde12wycl=potest		4	accept
+114	R2	latinworks13wycl=conncere | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=conficere | iohanniswyclifde12wycl=conficere		4	accept
+124	R3a	latinworks13wycl=conreccio | iohanniswyclifd00losegoog=confeccio | iohanniswyclifd01losegoog=confeccio | iohanniswyclifde12wycl=confeccio		4	accept
+129	R2	latinworks13wycl=in | iohanniswyclifd00losegoog=in | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=iq		4	accept
+132	R5a	latinworks13wycl=azimis | iohanniswyclifd00losegoog=azimis | iohanniswyclifd01losegoog=azimis | iohanniswyclifde12wycl=azimis		4	accept
+144	R3a	latinworks13wycl=omne | iohanniswyclifd00losegoog=omne | iohanniswyclifd01losegoog=omne | iohanniswyclifde12wycl=orane		4	accept
+145	R2	latinworks13wycl=uinum | iohanniswyclifd00losegoog=uinura | iohanniswyclifd01losegoog=uinum | iohanniswyclifde12wycl=uinum		4	accept
+211	R3a	latinworks13wycl=conficiendi | iohanniswyclifd00losegoog=conliciendi | iohanniswyclifd01losegoog=conficiendi | iohanniswyclifde12wycl=conficiendi		4	accept
+220	R5a	latinworks13wycl=loyci | iohanniswyclifd00losegoog=loyci | iohanniswyclifd01losegoog=loyci | iohanniswyclifde12wycl=loyci		4	accept
+223	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymmo | iohanniswyclifd01losegoog=ymrao | iohanniswyclifde12wycl=ymmo		4	accept

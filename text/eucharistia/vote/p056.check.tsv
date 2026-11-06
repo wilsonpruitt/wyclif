@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+3	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=eniro | iohanniswyclifde12wycl=enim		3	accept
+6	R2	latinworks13wycl=uertitur | iohanniswyclifd00losegoog=ueniiur | iohanniswyclifde12wycl=uertitur		3	accept
+19	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+20	R5	latinworks13wycl=anichilatum | iohanniswyclifd00losegoog=anichilatucn | iohanniswyclifde12wycl=anichilatum		3	plate
+27	R2	latinworks13wycl=suunr | iohanniswyclifd00losegoog=suum | iohanniswyclifd01losegoog=suum | iohanniswyclifde12wycl=suum		4	accept
+28	R2	latinworks13wycl=nam | iohanniswyclifd00losegoog=aara | iohanniswyclifd01losegoog=nam | iohanniswyclifde12wycl=nam		4	accept
+37	R5a	latinworks13wycl=uersionem | iohanniswyclifd00losegoog=uersioncms | iohanniswyclifd01losegoog=uersionem | iohanniswyclifde12wycl=uersionem		4	accept
+44	NW	latinworks13wycl=quem | iohanniswyclifd00losegoog=quern | iohanniswyclifd01losegoog=quern | iohanniswyclifde12wycl=quern		4	plate
+65	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+67	R5a	latinworks13wycl=anichilacione | iohanniswyclifd00losegoog=anichilacione | iohanniswyclifd01losegoog=anicbilacioney | iohanniswyclifde12wycl=anichilacione		4	accept
+73	R5a	latinworks13wycl=anichilacio | iohanniswyclifd00losegoog=anichtlacio | iohanniswyclifd01losegoog=anichilaeio | iohanniswyclifde12wycl=anichilacio		4	accept
+77	R2	latinworks13wycl=conuersionem | iohanniswyclifd00losegoog=conuersionera | iohanniswyclifd01losegoog=cooenaonem | iohanniswyclifde12wycl=conuersionem		4	accept
+86	R2	latinworks13wycl=prima | iohanniswyclifd00losegoog=prima | iohanniswyclifd01losegoog=prinu | iohanniswyclifde12wycl=prima		4	accept
+97	NW	latinworks13wycl=desicione | iohanniswyclifd00losegoog=desicione | iohanniswyclifd01losegoog=desicione | iohanniswyclifde12wycl=desicione		4	plate
+99	R5a	latinworks13wycl=anichilata | iohanniswyclifd00losegoog=anichilata | iohanniswyclifd01losegoog=aniehilata | iohanniswyclifde12wycl=anichilata		4	accept
+103	R4a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=bic | iohanniswyclifde12wycl=hie		4	accept
+112	R2	latinworks13wycl=redit | iohanniswyclifd00losegoog=redit | iohanniswyclifd01losegoog=recut | iohanniswyclifde12wycl=redit		4	accept
+117	R3a	latinworks13wycl=talia | iohanniswyclifd00losegoog=talis | iohanniswyclifd01losegoog=talia | iohanniswyclifde12wycl=talia		4	accept
+126	R3a	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=uou | iohanniswyclifde12wycl=non		4	accept
+129	R2	latinworks13wycl=instans | iohanniswyclifd00losegoog=instans | iohanniswyclifd01losegoog=mstaos | iohanniswyclifde12wycl=instans		4	accept
+132	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+149	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+157	R2	latinworks13wycl=fecit | iohanniswyclifd00losegoog=fccii | iohanniswyclifd01losegoog=fecic | iohanniswyclifde12wycl=fecit		4	accept
+169	R3a	latinworks13wycl=antiqua | iohanniswyclifd00losegoog=antique | iohanniswyclifd01losegoog=antiqua | iohanniswyclifde12wycl=antiqua		4	accept
+184	R3	latinworks13wycl=ioh | iohanniswyclifd00losegoog=iob | iohanniswyclifd01losegoog=iob | iohanniswyclifde12wycl=ioh		4	plate
+186	R4	latinworks13wycl=xxuia | iohanniswyclifd00losegoog=xxui | iohanniswyclifd01losegoog=xxuiy | iohanniswyclifde12wycl=xxuia		4	plate
+189	R3	latinworks13wycl=ioh | iohanniswyclifd00losegoog=iob | iohanniswyclifd01losegoog=iob | iohanniswyclifde12wycl=ioh		4	plate
+199	R3	latinworks13wycl=meus | iohanniswyclifd00losegoog=mens | iohanniswyclifd01losegoog=mens | iohanniswyclifde12wycl=meus		4	plate
+200	R3a	latinworks13wycl=uere | iohanniswyclifd00losegoog=yere | iohanniswyclifd01losegoog=uere | iohanniswyclifde12wycl=uere		4	accept
+208	EDGE	latinworks13wycl=commendauit | iohanniswyclifde12wycl=commendauit		2	accept
+209	EDGE	latinworks13wycl=nobis | iohanniswyclifde12wycl=nobis		2	accept
+210	EDGE	latinworks13wycl=hoc | iohanniswyclifde12wycl=hoc		2	accept
+211	EDGE	latinworks13wycl=sacramentum		1	accept

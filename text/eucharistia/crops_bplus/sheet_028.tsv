@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+28.1	307	146	SUB	bt=movetur | fordham= | vote=mouelur
+28.2	313	64	SUB	bt=fidelium | fordham= | vote=infidelium
+28.3	316	198	SUB	bt=XIᵒ, | fordham= | vote=xi
+28.4	318	140	SUB	bt=XIIᵒ, | fordham= | vote=xli
+28.5	318	221	SUB	bt=Tres | fordham= | vote=ires
+28.6	319	45	SUB	bt=Christi, | fordham= | vote=ghristi
+28.7	321	156	SUB	bt=IIᵃ, | fordham= | vote=ii
+28.8	322	37	BT-ONLY	bt=5 | fordham= | vote=

@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+18	R5a	latinworks13wycl=glossatores | iohanniswyclifd00losegoog=glossaiores | iohanniswyclifd01losegoog=glossatores | iohanniswyclifde12wycl=glossatores		4	accept
+26	R2	latinworks13wycl=uinum | iohanniswyclifd00losegoog=uinum | iohanniswyclifd01losegoog=uinum | iohanniswyclifde12wycl=uinura		4	accept
+62	R2	latinworks13wycl=testatur | iohanniswyclifd00losegoog=tcstaliir | iohanniswyclifd01losegoog=testatur | iohanniswyclifde12wycl=testatur		4	accept
+70	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+82	R3a	latinworks13wycl=nant | iohanniswyclifd00losegoog=fiant | iohanniswyclifd01losegoog=nant | iohanniswyclifde12wycl=nant		4	accept
+86	R3a	latinworks13wycl=augustinus | iohanniswyclifd00losegoog=augustinus | iohanniswyclifd01losegoog=augustmus | iohanniswyclifde12wycl=augustinus		4	accept
+90	R3	latinworks13wycl=hen | iohanniswyclifd00losegoog=fieri | iohanniswyclifd01losegoog=neri | iohanniswyclifde12wycl=hen		4	plate
+99	R2	latinworks13wycl=dictis | iohanniswyclifd00losegoog=ifidiciis | iohanniswyclifd01losegoog=dictis | iohanniswyclifde12wycl=dictis		4	accept
+106	R2	latinworks13wycl=tanquam | iohanniswyclifd00losegoog=lanquaui | iohanniswyclifd01losegoog=tanquam | iohanniswyclifde12wycl=tanquam		4	accept
+130	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=ncc | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+137	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+140	R4	latinworks13wycl=iia | iohanniswyclifd00losegoog=if | iohanniswyclifd01losegoog=ii | iohanniswyclifde12wycl=iia		4	plate
+142	R3	latinworks13wycl=11 | iohanniswyclifd00losegoog=ii | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=ii		4	plate
+147	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=eat | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+149	R2	latinworks13wycl=ipsum | iohanniswyclifd00losegoog=ipmm | iohanniswyclifd01losegoog=ipsunt | iohanniswyclifde12wycl=ipsnm		4	accept
+151	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=iinn | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+170	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=tsstt | iohanniswyclifde12wycl=esse		4	accept
+183	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=quara | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+205	R5a	latinworks13wycl=ydemptificacionis | iohanniswyclifd00losegoog=ydemptificacionis | iohanniswyclifd01losegoog=ydemptificacionis | iohanniswyclifde12wycl=udemptificacionis		4	accept
+209	EDGE	latinworks13wycl=differenciarum | iohanniswyclifd01losegoog=differenciarum		2	accept

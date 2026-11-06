@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=fugiendi | iohanniswyclifd00losegoog=fugiendi		2	accept
+1	EDGE	latinworks13wycl=et | iohanniswyclifd00losegoog=et		2	accept
+2	EDGE	latinworks13wycl=finaliter | iohanniswyclifd00losegoog=finaliter		2	accept
+23	R4a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie		3	accept
+26	R2	latinworks13wycl=istam | iohanniswyclifd00losegoog=istara | iohanniswyclifd01losegoog=istam | iohanniswyclifde12wycl=istam		4	accept
+27	R2	latinworks13wycl=moderatam | iohanniswyclifd00losegoog=modcratara | iohanniswyclifd01losegoog=modcratam | iohanniswyclifde12wycl=moderatam		4	accept
+34	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=lhnsti		4	accept
+40	R5a	latinworks13wycl=nutntiua | iohanniswyclifd00losegoog=nutntiua | iohanniswyclifd01losegoog=nutntiua | iohanniswyclifde12wycl=nutntiua		4	accept
+42	R5a	latinworks13wycl=edincatona | iohanniswyclifd00losegoog=edincatoria | iohanniswyclifd01losegoog=edincatona | iohanniswyclifde12wycl=edincatona		4	accept
+100	R5a	latinworks13wycl=defuerinr | iohanniswyclifd00losegoog=defuerinf | iohanniswyclifd01losegoog=defucrinr | iohanniswyclifde12wycl=defuerinr		4	accept
+128	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+137	R5a	latinworks13wycl=dissimilantur | iohanniswyclifd00losegoog=dissimilantur | iohanniswyclifd01losegoog=dissimilantur | iohanniswyclifde12wycl=dissimilantur		4	accept
+236	EDGE	latinworks13wycl=sicut		1	accept

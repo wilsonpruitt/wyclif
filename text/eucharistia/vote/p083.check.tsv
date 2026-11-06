@@ -1,0 +1,38 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=multas | iohanniswyclifde12wycl=multas		2	accept
+7	R2	latinworks13wycl=signati | iohanniswyclifd00losegoog=tigaati | iohanniswyclifd01losegoog=signati | iohanniswyclifde12wycl=signati		4	accept
+15	R2	latinworks13wycl=dicimus | iohanniswyclifd00losegoog=dtclmus | iohanniswyclifd01losegoog=dicimus | iohanniswyclifde12wycl=diciraus		4	accept
+18	R2	latinworks13wycl=cbristi | iohanniswyclifd00losegoog=ctirlsli | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+31	R2	latinworks13wycl=dicimus | iohanniswyclifd00losegoog=ditlmus | iohanniswyclifd01losegoog=dicimus | iohanniswyclifde12wycl=dicimus		4	accept
+38	R3a	latinworks13wycl=species | iohanniswyclifd00losegoog=spes | iohanniswyclifd01losegoog=species | iohanniswyclifde12wycl=species		4	accept
+41	R2	latinworks13wycl=multiplicatur | iohanniswyclifd00losegoog=muuipiiralur | iohanniswyclifd01losegoog=multiphcatur | iohanniswyclifde12wycl=multiplicatur		4	accept
+44	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+46	R3a	latinworks13wycl=michi | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=michi | iohanniswyclifde12wycl=michi		4	accept
+56	HEAD	CAPITULUM QUARTUM.			plate
+62	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=quara | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+74	R5a	latinworks13wycl=dimensionale | iohanniswyclifd00losegoog=dimensionale | iohanniswyclifd01losegoog=dimensionale | iohanniswyclifde12wycl=dimensionale		4	accept
+76	R3a	latinworks13wycl=sacramentale | iohanniswyclifd00losegoog=sacra | iohanniswyclifd01losegoog=sacramentale | iohanniswyclifde12wycl=sacramentale		4	accept
+79	R3	latinworks13wycl=ulis | iohanniswyclifd00losegoog=illis | iohanniswyclifd01losegoog=luis | iohanniswyclifde12wycl=1		4	plate
+87	R4	latinworks13wycl=cnnstus | iohanniswyclifd00losegoog=lachristus | iohanniswyclifd01losegoog=icnristus | iohanniswyclifde12wycl=iiuhnstus		4	plate
+114	R5a	latinworks13wycl=math | iohanniswyclifd00losegoog=math | iohanniswyclifd01losegoog=math | iohanniswyclifde12wycl=math		4	accept
+115	R2	latinworks13wycl=xi | iohanniswyclifd00losegoog=xi | iohanniswyclifd01losegoog=xp | iohanniswyclifde12wycl=xi		4	accept
+120	R5	latinworks13wycl=math | iohanniswyclifd01losegoog=math | iohanniswyclifde12wycl=math		3	plate
+121	R2	latinworks13wycl=xlil | iohanniswyclifd01losegoog=xn | iohanniswyclifde12wycl=xiii		3	accept
+122	R3	latinworks13wycl=37 | iohanniswyclifd01losegoog=37 | iohanniswyclifde12wycl=7		3	plate
+129	R2	latinworks13wycl=ofilius | iohanniswyclifd00losegoog=laiitius | iohanniswyclifd01losegoog=laiilius | iohanniswyclifde12wycl=filius		4	accept
+131	R3a	latinworks13wycl=ager | iohanniswyclifd00losegoog=aer | iohanniswyclifd01losegoog=ager | iohanniswyclifde12wycl=ager		4	accept
+138	THIN	latinworks13wycl=sunt | iohanniswyclifde12wycl=sunt		2	plate
+139	THIN	latinworks13wycl=filii | iohanniswyclifde12wycl=filii		2	plate
+140	THIN	latinworks13wycl=regni | iohanniswyclifde12wycl=regni		2	plate
+141	THIN	latinworks13wycl=iania | iohanniswyclifde12wycl=iania		2	plate
+143	R6a	latinworks13wycl=sunt | iohanniswyclifd00losegoog=suntfilti | iohanniswyclifd01losegoog=suntiilii | iohanniswyclifde12wycl=suntiilii		4	accept
+144	DEL	latinworks13wycl=filii | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	accept
+180	R5a	latinworks13wycl=math | iohanniswyclifd00losegoog=math | iohanniswyclifd01losegoog=math | iohanniswyclifde12wycl=math		4	accept
+183	R5a	latinworks13wycl=marci | iohanniswyclifd00losegoog=marci | iohanniswyclifd01losegoog=marci | iohanniswyclifde12wycl=marci		4	accept
+185	R3a	latinworks13wycl=22 | iohanniswyclifd00losegoog=12 | iohanniswyclifd01losegoog=22 | iohanniswyclifde12wycl=22		4	accept
+186	R6a	latinworks13wycl=lucexxii0 | iohanniswyclifd00losegoog=lucexxii | iohanniswyclifd01losegoog=lucexxii | iohanniswyclifde12wycl=luce		4	accept
+187	R2	latinworks13wycl=19 | iohanniswyclifd00losegoog=iq | iohanniswyclifd01losegoog=19 | iohanniswyclifde12wycl=19		4	accept
+189	R3	latinworks13wycl=ia | iohanniswyclifd00losegoog=1 | iohanniswyclifd01losegoog=lcorxi24 | iohanniswyclifde12wycl=ia		4	plate
+190	R2	latinworks13wycl=cor | iohanniswyclifd00losegoog=cor | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=cor		4	accept
+191	R2	latinworks13wycl=xi | iohanniswyclifd00losegoog=xi | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=xi		4	accept
+192	R2	latinworks13wycl=24 | iohanniswyclifd00losegoog=24 | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=24		4	accept

@@ -1,0 +1,44 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+1	EDGE	latinworks13wycl=sanguini | iohanniswyclifde12wycl=sanguini		2	accept
+2	EDGE	latinworks13wycl=uidetur | iohanniswyclifde12wycl=uidetur		2	accept
+3	EDGE	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	accept
+4	EDGE	latinworks13wycl=panis | iohanniswyclifde12wycl=panis		2	accept
+5	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+6	EDGE	latinworks13wycl=uinum | iohanniswyclifde12wycl=uinum		2	accept
+7	EDGE	latinworks13wycl=ydemptificatur | iohanniswyclifde12wycl=ydemptificatur		2	accept
+8	EDGE	latinworks13wycl=corpori | iohanniswyclifde12wycl=corpori		2	accept
+9	THIN	latinworks13wycl=ghristi | iohanniswyclifde12wycl=christi		2	plate
+10	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+16	R5	latinworks13wycl=ydemptificare | iohanniswyclifd01losegoog=ydemptificare | iohanniswyclifde12wycl=ydemptificare		3	plate
+32	R2	latinworks13wycl=tam | iohanniswyclifd01losegoog=lam | iohanniswyclifde12wycl=tam		3	accept
+38	R3	latinworks13wycl=uini | iohanniswyclifd01losegoog=uici | iohanniswyclifde12wycl=uini		3	plate
+47	R5	latinworks13wycl=inpanacio | iohanniswyclifd01losegoog=inpanacio | iohanniswyclifde12wycl=inpanacio		3	plate
+48	R3	latinworks13wycl=sicut | iohanniswyclifd01losegoog=sicui | iohanniswyclifde12wycl=sicut		3	plate
+52	R5	latinworks13wycl=diciturtotam | iohanniswyclifd01losegoog=diciturtoiam | iohanniswyclifde12wycl=diciturtotam		3	plate
+70	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+96	THIN	latinworks13wycl=uidetur | iohanniswyclifde12wycl=uidetur		2	plate
+97	THIN	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	plate
+98	THIN	latinworks13wycl=integre | iohanniswyclifde12wycl=integre		2	plate
+99	THIN	latinworks13wycl=suppositum | iohanniswyclifde12wycl=suppositum		2	plate
+104	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+138	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+140	R5	latinworks13wycl=inpanans | iohanniswyclifd01losegoog=inpanans | iohanniswyclifde12wycl=inpanans		3	plate
+154	R5	latinworks13wycl=quidditas | iohanniswyclifd01losegoog=quidditas | iohanniswyclifde12wycl=quidditas		3	plate
+157	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+173	R6	latinworks13wycl=says | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=says		3	plate
+180	R5	latinworks13wycl=sompniandum | iohanniswyclifd01losegoog=sompniandum | iohanniswyclifde12wycl=sompniandum		3	plate
+182	R3	latinworks13wycl=in | iohanniswyclifd01losegoog=io | iohanniswyclifde12wycl=in		3	plate
+183	R2	latinworks13wycl=ista | iohanniswyclifd01losegoog=isu | iohanniswyclifde12wycl=ista		3	accept
+185	R2	latinworks13wycl=ne | iohanniswyclifd01losegoog=oe | iohanniswyclifde12wycl=ne		3	accept
+186	R5	latinworks13wycl=ydolatra | iohanniswyclifd01losegoog=ydolatra | iohanniswyclifde12wycl=ydolatra		3	plate
+188	R4	latinworks13wycl=immolet2d | iohanniswyclifd01losegoog=immoletss | iohanniswyclifde12wycl=mimolet		3	plate
+190	R3	latinworks13wycl=mendacn | iohanniswyclifd01losegoog=mendacii | iohanniswyclifde12wycl=mendacii		3	plate
+194	R5	latinworks13wycl=x | iohanniswyclifd01losegoog=x | iohanniswyclifde12wycl=x		3	plate
+196	R3	latinworks13wycl=mcipiens | iohanniswyclifd01losegoog=incipient | iohanniswyclifde12wycl=incipiens		3	plate
+197	R6	latinworks13wycl=requirements | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=requirements		3	plate
+199	R2	latinworks13wycl=de | iohanniswyclifd01losegoog=d | iohanniswyclifde12wycl=de		3	accept
+212	R5	latinworks13wycl=inpanacio | iohanniswyclifd01losegoog=inpanacio | iohanniswyclifde12wycl=inpanacio		3	plate
+213	R2	latinworks13wycl=non | iohanniswyclifd01losegoog=nod | iohanniswyclifde12wycl=non		3	accept
+223	R3	latinworks13wycl=dante | iohanniswyclifd01losegoog=dame | iohanniswyclifde12wycl=dante		3	plate
+233	R5	latinworks13wycl=inpanacionem | iohanniswyclifd01losegoog=inpanacionem | iohanniswyclifde12wycl=inpanacionem		3	plate

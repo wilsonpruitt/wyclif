@@ -1,0 +1,56 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=intelligi		1	accept
+1	EDGE	latinworks13wycl=et | iohanniswyclifd00losegoog=et		2	accept
+2	INS?	operando penetrentur sed quia ualde difficile est ut	2	4	plate
+2	EDGE	latinworks13wycl=omne | iohanniswyclifd00losegoog=omne		2	accept
+3	EDGE	latinworks13wycl=eius | iohanniswyclifd00losegoog=eius		2	accept
+4	THIN	latinworks13wycl=misterium | iohanniswyclifd00losegoog=mitterium		2	plate
+5	EDGE	latinworks13wycl=penetrari | iohanniswyclifd00losegoog=penetrari		2	accept
+6	THIN	latinworks13wycl=recte | iohanniswyclifd00losegoog=recle		2	plate
+7	THIN	latinworks13wycl=subiungitur | iohanniswyclifd00losegoog=fubiuagitur		2	plate
+27	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifde12wycl=et		3	accept
+30	R2	latinworks13wycl=possunius | iohanniswyclifd00losegoog=tuperbe | iohanniswyclifde12wycl=possumus		3	accept
+31	R2	latinworks13wycl=potestati | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=potestati		3	accept
+32	R2	latinworks13wycl=sancti | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=sancti		3	accept
+33	R2	latinworks13wycl=spiritus | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=spiritus		3	accept
+34	R2	latinworks13wycl=humiliter | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=humiliters		3	accept
+35	R2	latinworks13wycl=reseruaiiius | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=reseruamus		3	accept
+36	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=ut		3	accept
+37	R2	latinworks13wycl=iion | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=non		3	accept
+38	R2	latinworks13wycl=superbe | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=superbe		3	accept
+41	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=w | iohanniswyclifde12wycl=uel		3	accept
+43	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=iul | iohanniswyclifde12wycl=uel		3	accept
+47	R2	latinworks13wycl=intelligit | iohanniswyclifd00losegoog=inuhigit | iohanniswyclifd01losegoog=intelligit | iohanniswyclifde12wycl=intelligit		4	accept
+54	R3a	latinworks13wycl=sancto | iohanniswyclifd00losegoog=sancio | iohanniswyclifd01losegoog=sancto | iohanniswyclifde12wycl=sancto		4	accept
+57	R2	latinworks13wycl=igitur | iohanniswyclifd00losegoog=igiliir | iohanniswyclifd01losegoog=igilur | iohanniswyclifde12wycl=igitur		4	accept
+61	NW	latinworks13wycl=pasca | iohanniswyclifd00losegoog=pasca | iohanniswyclifd01losegoog=pasca | iohanniswyclifde12wycl=pasca		4	plate
+74	R2	latinworks13wycl=illiun | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+78	R2	latinworks13wycl=qiiid | iohanniswyclifd00losegoog=quid | iohanniswyclifd01losegoog=quid | iohanniswyclifde12wycl=quid		4	accept
+85	R3a	latinworks13wycl=unde | iohanniswyclifd00losegoog=inde | iohanniswyclifd01losegoog=unde | iohanniswyclifde12wycl=unde		4	accept
+92	R2	latinworks13wycl=meos | iohanniswyclifd00losegoog=meot | iohanniswyclifd01losegoog=mean | iohanniswyclifde12wycl=meos		4	accept
+100	R2	latinworks13wycl=eos | iohanniswyclifd00losegoog=eot | iohanniswyclifd01losegoog=eos | iohanniswyclifde12wycl=eos		4	accept
+109	R2	latinworks13wycl=huiiiano | iohanniswyclifd00losegoog=kumano | iohanniswyclifd01losegoog=huniano | iohanniswyclifde12wycl=humano		4	accept
+111	R2	latinworks13wycl=iiiaxwie | iohanniswyclifd00losegoog=maxime | iohanniswyclifd01losegoog=maxime | iohanniswyclifde12wycl=maxime		4	accept
+113	R3a	latinworks13wycl=luxuriam | iohanniswyclifd00losegoog=luxuriam | iohanniswyclifd01losegoog=luuuriam | iohanniswyclifde12wycl=luxuriant		4	accept
+119	R3a	latinworks13wycl=dicitur | iohanniswyclifd00losegoog=dicitur | iohanniswyclifd01losegoog=dtcitur | iohanniswyclifde12wycl=dicitur		4	accept
+120	R2	latinworks13wycl=potestas | iohanniswyclifd00losegoog=ieslas | iohanniswyclifd01losegoog=fbtestas | iohanniswyclifde12wycl=potestas		4	accept
+123	R2	latinworks13wycl=luiiibis | iohanniswyclifd00losegoog=lumbis | iohanniswyclifd01losegoog=iumbis | iohanniswyclifde12wycl=lumbis		4	accept
+127	NW	latinworks13wycl=pasca | iohanniswyclifd00losegoog=pasca | iohanniswyclifd01losegoog=pasca | iohanniswyclifde12wycl=pasca		4	plate
+133	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ul | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+135	R5a	latinworks13wycl=sollempnitatem | iohanniswyclifd00losegoog=souempnitatem | iohanniswyclifd01losegoog=souempnitalem | iohanniswyclifde12wycl=sollempnitatem		4	accept
+141	R2	latinworks13wycl=iam | iohanniswyclifd00losegoog=iain | iohanniswyclifd01losegoog=iam | iohanniswyclifde12wycl=ham		4	accept
+157	R4	latinworks13wycl=solleiiipiiitas | iohanniswyclifd00losegoog=sollempniias | iohanniswyclifd01losegoog=sollempnilas | iohanniswyclifde12wycl=sollempnitas		4	plate
+166	R4	latinworks13wycl=quibusdam | iohanniswyclifd00losegoog=quibutdam | iohanniswyclifd01losegoog=quibutdam | iohanniswyclifde12wycl=quibusdam		4	plate
+174	R2	latinworks13wycl=ducit | iohanniswyclifd00losegoog=dual | iohanniswyclifd01losegoog=dftcit | iohanniswyclifde12wycl=ducit		4	accept
+180	R3	latinworks13wycl=iiiulta | iohanniswyclifd00losegoog=multa | iohanniswyclifd01losegoog=mulla | iohanniswyclifde12wycl=mult		4	plate
+182	R3a	latinworks13wycl=coiitinencium | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=eontineneium | iohanniswyclifde12wycl=continencium		4	accept
+184	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+188	R2	latinworks13wycl=habebitis | iohanniswyclifd00losegoog=habebitis | iohanniswyclifd01losegoog=kabebith | iohanniswyclifde12wycl=habebitis		4	accept
+192	R2	latinworks13wycl=eteiiini | iohanniswyclifd00losegoog=etenim | iohanniswyclifde12wycl=etenim		3	accept
+199	R3	latinworks13wycl=uero | iohanniswyclifd00losegoog=uera | iohanniswyclifde12wycl=uero		3	plate
+201	R2	latinworks13wycl=tiisi | iohanniswyclifd00losegoog=nisi | iohanniswyclifde12wycl=nisi		3	accept
+205	THIN	latinworks13wycl=calceaiiieiita		1	plate
+206	THIN	latinworks13wycl=auteiu		1	plate
+207	EDGE	latinworks13wycl=pedes		1	accept
+208	THIN	latinworks13wycl=inuiiiunt		1	plate
+209	EDGE	latinworks13wycl=que		1	accept

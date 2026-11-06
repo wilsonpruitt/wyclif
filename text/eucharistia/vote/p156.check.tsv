@@ -1,0 +1,26 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=cum | iohanniswyclifde12wycl=cum		2	accept
+1	EDGE	latinworks13wycl=ipsi | iohanniswyclifde12wycl=ipsi		2	accept
+2	EDGE	latinworks13wycl=sint | iohanniswyclifde12wycl=sint		2	accept
+3	THIN	latinworks13wycl=raanifeste | iohanniswyclifde12wycl=manifeste		2	plate
+4	EDGE	latinworks13wycl=heretici | iohanniswyclifde12wycl=heretici		2	accept
+29	R3	latinworks13wycl=obligat | iohanniswyclifd01losegoog=obligai | iohanniswyclifde12wycl=obligat		3	plate
+38	R2	latinworks13wycl=katholicum | iohanniswyclifd01losegoog=kaihoileum | iohanniswyclifde12wycl=katholicum		3	accept
+43	R3	latinworks13wycl=et | iohanniswyclifd01losegoog=ci | iohanniswyclifde12wycl=et		3	plate
+81	R5	latinworks13wycl=auinonica | iohanniswyclifd01losegoog=auinonica | iohanniswyclifde12wycl=auinonica		3	plate
+97	R5	latinworks13wycl=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		3	plate
+129	R2	latinworks13wycl=manifeste | iohanniswyclifd01losegoog=manifcsic | iohanniswyclifde12wycl=manifeste		3	accept
+145	R5	latinworks13wycl=romana | iohanniswyclifd01losegoog=romana | iohanniswyclifde12wycl=romana		3	plate
+147	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+156	R2	latinworks13wycl=sentenciam | iohanniswyclifd01losegoog=scntcnctam | iohanniswyclifde12wycl=sentenciam		3	accept
+166	R2	latinworks13wycl=tam | iohanniswyclifd01losegoog=um | iohanniswyclifde12wycl=tarn		3	accept
+167	R2	latinworks13wycl=infirma | iohanniswyclifd01losegoog=iofinna | iohanniswyclifde12wycl=infirma		3	accept
+172	R3	latinworks13wycl=scit | iohanniswyclifd01losegoog=cit | iohanniswyclifde12wycl=scit		3	plate
+185	R5	latinworks13wycl=hereticandura | iohanniswyclifd01losegoog=hereticandum | iohanniswyclifde12wycl=hereticandum		3	plate
+191	THIN	latinworks13wycl=noraine | iohanniswyclifd01losegoog=nomine		2	plate
+192	THIN	latinworks13wycl=communls | iohanniswyclifd01losegoog=communis		2	plate
+193	THIN	latinworks13wycl=doctoris | iohanniswyclifd01losegoog=doctoris		2	plate
+218	THIN	latinworks13wycl=curiara | iohanniswyclifde12wycl=curiam		2	plate
+219	EDGE	latinworks13wycl=mendaciter | iohanniswyclifde12wycl=mendaciter		2	accept
+220	EDGE	latinworks13wycl=procurando | iohanniswyclifde12wycl=procurando		2	accept
+221	THIN	latinworks13wycl=katholicacionem | iohanniswyclifde12wycl=katholicacionem		2	plate

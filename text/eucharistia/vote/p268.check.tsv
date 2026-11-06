@@ -1,0 +1,29 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=corruptibiles		1	accept
+1	EDGE	latinworks13wycl=et		1	accept
+2	THIN	latinworks13wycl=lta		1	plate
+6	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+30	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=ei | iohanniswyclifde12wycl=et		4	accept
+42	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+43	R2	latinworks13wycl=ita | iohanniswyclifd00losegoog=ila | iohanniswyclifd01losegoog=ita | iohanniswyclifde12wycl=ita		4	accept
+52	R5a	latinworks13wycl=quandalitas | iohanniswyclifd00losegoog=quandaliias | iohanniswyclifd01losegoog=quandalitas | iohanniswyclifde12wycl=quandalitas		4	accept
+56	R3	latinworks13wycl=est | iohanniswyclifd00losegoog=esi | iohanniswyclifd01losegoog=es | iohanniswyclifde12wycl=est		4	plate
+58	R4	latinworks13wycl=ista | iohanniswyclifd00losegoog=isia | iohanniswyclifd01losegoog=isia | iohanniswyclifde12wycl=ista		4	plate
+60	R4	latinworks13wycl=hic | iohanniswyclifd00losegoog=hit | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+68	R4	latinworks13wycl=tactam | iohanniswyclifd00losegoog=lactam | iohanniswyclifd01losegoog=lactam | iohanniswyclifde12wycl=tactam		4	plate
+74	R3a	latinworks13wycl=sentencia | iohanniswyclifd00losegoog=sene | iohanniswyclifd01losegoog=sentencia | iohanniswyclifde12wycl=sentencia		4	accept
+80	R3a	latinworks13wycl=sit | iohanniswyclifd00losegoog=sit | iohanniswyclifd01losegoog=sil | iohanniswyclifde12wycl=sit		4	accept
+84	R5a	latinworks13wycl=situaliter | iohanniswyclifd00losegoog=situaliter | iohanniswyclifd01losegoog=silualiter | iohanniswyclifde12wycl=situaliter		4	accept
+91	R4	latinworks13wycl=tam | iohanniswyclifd00losegoog=lam | iohanniswyclifd01losegoog=lam | iohanniswyclifde12wycl=tam		4	plate
+94	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+99	R3a	latinworks13wycl=docet | iohanniswyclifd00losegoog=ducet | iohanniswyclifd01losegoog=docet | iohanniswyclifde12wycl=docet		4	accept
+104	R3a	latinworks13wycl=ueritas | iohanniswyclifd00losegoog=ueritas | iohanniswyclifd01losegoog=uentas | iohanniswyclifde12wycl=ueritas		4	accept
+108	R4	latinworks13wycl=autem | iohanniswyclifd00losegoog=auiem | iohanniswyclifd01losegoog=auiem | iohanniswyclifde12wycl=autem		4	plate
+119	R3a	latinworks13wycl=multa | iohanniswyclifd00losegoog=multa | iohanniswyclifd01losegoog=mulla | iohanniswyclifde12wycl=multa		4	accept
+157	R3	latinworks13wycl=partes | iohanniswyclifd00losegoog=paries | iohanniswyclifd01losegoog=panes | iohanniswyclifde12wycl=partes		4	plate
+164	R2	latinworks13wycl=sic | iohanniswyclifd00losegoog=sic | iohanniswyclifd01losegoog=uc | iohanniswyclifde12wycl=sic		4	accept
+169	R3a	latinworks13wycl=uel | iohanniswyclifd00losegoog=ue | iohanniswyclifd01losegoog=uel | iohanniswyclifde12wycl=uel		4	accept
+175	R3a	latinworks13wycl=unum | iohanniswyclifd00losegoog=udum | iohanniswyclifd01losegoog=unum | iohanniswyclifde12wycl=unum		4	accept
+190	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+201	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=eut | iohanniswyclifde12wycl=esse		4	accept
+212	R3a	latinworks13wycl=per | iohanniswyclifd00losegoog=peri | iohanniswyclifd01losegoog=per | iohanniswyclifde12wycl=per		4	accept

@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+11	R6a	latinworks13wycl=eukanstie | iohanniswyclifd00losegoog=eukanstie | iohanniswyclifd01losegoog=eukanstie | iohanniswyclifde12wycl=eukaristie		4	accept
+17	R5	latinworks13wycl=eukanstie | iohanniswyclifd00losegoog=eukanstie | iohanniswyclifd01losegoog=eukanstie		3	plate
+18	R4	latinworks13wycl=antichnstus | iohanniswyclifd00losegoog=antichristuspaulatiue | iohanniswyclifd01losegoog=antichristuspaulatiue		3	plate
+19	DEL	latinworks13wycl=paulatiue | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅		3	accept
+25	NW	latinworks13wycl=eam | iohanniswyclifd00losegoog=earn | iohanniswyclifd01losegoog=earn | iohanniswyclifde12wycl=earn		4	plate
+27	R2	latinworks13wycl=htiius | iohanniswyclifd00losegoog=huius | iohanniswyclifd01losegoog=huius | iohanniswyclifde12wycl=huius		4	accept
+30	R3a	latinworks13wycl=inorantem | iohanniswyclifd00losegoog=ignorantem | iohanniswyclifd01losegoog=ignorantem | iohanniswyclifde12wycl=ignorantem		4	accept
+32	R2	latinworks13wycl=eciam | iohanniswyclifd00losegoog=eciam | iohanniswyclifd01losegoog=eciam | iohanniswyclifde12wycl=cciara		4	accept
+40	R4	latinworks13wycl=tuerit | iohanniswyclifd00losegoog=merit | iohanniswyclifd01losegoog=fuerit | iohanniswyclifde12wycl=merit		4	plate
+41	R4a	latinworks13wycl=connciendo | iohanniswyclifd00losegoog=connciendo | iohanniswyclifd01losegoog=conficiendo | iohanniswyclifde12wycl=conhciendo		4	accept
+42	NW	latinworks13wycl=tacit | iohanniswyclifd00losegoog=tacit | iohanniswyclifd01losegoog=facit | iohanniswyclifde12wycl=tacit		4	plate
+43	NW	latinworks13wycl=regulanter | iohanniswyclifd00losegoog=regulanter | iohanniswyclifd01losegoog=regulariter | iohanniswyclifde12wycl=regulanter		4	plate
+54	R2	latinworks13wycl=mhnita | iohanniswyclifd00losegoog=infinita | iohanniswyclifd01losegoog=infinita | iohanniswyclifde12wycl=lnnnita		4	accept
+59	R5a	latinworks13wycl=imperceptibile | iohanniswyclifd00losegoog=imperceptibile | iohanniswyclifd01losegoog=imperceptibile | iohanniswyclifde12wycl=imperceptibile		4	accept
+62	R5a	latinworks13wycl=imperceptibile | iohanniswyclifd00losegoog=imperceptibile | iohanniswyclifd01losegoog=imperceptibile | iohanniswyclifde12wycl=imperceptible		4	accept

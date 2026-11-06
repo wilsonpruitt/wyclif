@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=nec | iohanniswyclifde12wycl=nec		2	accept
+20	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+25	R2	latinworks13wycl=ita | iohanniswyclifd01losegoog=iiaquod | iohanniswyclifde12wycl=ita		3	accept
+26	R2	latinworks13wycl=quod | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=quod		3	accept
+36	R3	latinworks13wycl=quin | iohanniswyclifd01losegoog=quia | iohanniswyclifde12wycl=quin		3	plate
+62	R2	latinworks13wycl=pars | iohanniswyclifd01losegoog=pan | iohanniswyclifde12wycl=pars		3	accept
+98	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+100	R2	latinworks13wycl=permanens | iohanniswyclifd01losegoog=perraaneps | iohanniswyclifde12wycl=permanens		3	accept
+115	R3	latinworks13wycl=in | iohanniswyclifd01losegoog=io | iohanniswyclifde12wycl=in		3	plate
+186	R3	latinworks13wycl=se | iohanniswyclifd01losegoog=le | iohanniswyclifde12wycl=se		3	plate
+217	R2	latinworks13wycl=fuerit | iohanniswyclifd01losegoog=fuerit | iohanniswyclifde12wycl=merit		3	accept
+232	R2	latinworks13wycl=ymmo | iohanniswyclifd01losegoog=ymmo | iohanniswyclifde12wycl=yrarao		3	accept
+255	EDGE	latinworks13wycl=possibilitatem | iohanniswyclifde12wycl=possibilitatem		2	accept
+256	EDGE	latinworks13wycl=assumpti | iohanniswyclifde12wycl=assumpti		2	accept
+257	EDGE	latinworks13wycl=nec | iohanniswyclifde12wycl=nec		2	accept

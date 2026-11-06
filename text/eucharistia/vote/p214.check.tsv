@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=intellectus | iohanniswyclifde12wycl=intellectus		2	accept
+7	R4	latinworks13wycl=sensitiuo | iohanniswyclifd01losegoog=seoaitiuo | iohanniswyclifde12wycl=sensitiue		3	plate
+9	R3	latinworks13wycl=secus | iohanniswyclifd01losegoog=secas | iohanniswyclifde12wycl=secus		3	plate
+11	R3	latinworks13wycl=de | iohanniswyclifd01losegoog=da | iohanniswyclifde12wycl=de		3	plate
+13	R2	latinworks13wycl=hominis | iohanniswyclifd01losegoog=bomioisi | iohanniswyclifde12wycl=hominis		3	accept
+23	R2	latinworks13wycl=sic | iohanniswyclifd01losegoog=nc | iohanniswyclifde12wycl=sic		3	accept
+40	R4a	latinworks13wycl=lllo | iohanniswyclifd01losegoog=illo | iohanniswyclifde12wycl=lllo		3	accept
+45	R3	latinworks13wycl=lnnsti | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=lhnsti		3	plate
+58	R3	latinworks13wycl=lhnsti | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		3	plate
+59	R4	latinworks13wycl=inec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	plate
+72	R2	latinworks13wycl=mentis | iohanniswyclifd01losegoog=mends | iohanniswyclifde12wycl=mentis		3	accept
+77	THIN	latinworks13wycl=scripturagenes | iohanniswyclifde12wycl=scripturagenes		2	plate
+78	THIN	latinworks13wycl=xuiii | iohanniswyclifde12wycl=xuiii		2	plate
+83	R5	latinworks13wycl=abraham | iohanniswyclifd01losegoog=abraham | iohanniswyclifde12wycl=abraham		3	plate
+85	R3	latinworks13wycl=oculos | iohanniswyclifd01losegoog=oculas | iohanniswyclifde12wycl=oculos		3	plate
+86	R2	latinworks13wycl=apparuerunt | iohanniswyclifd01losegoog=appamemni | iohanniswyclifde12wycl=apparuerunt		3	accept
+88	R3	latinworks13wycl=tres | iohanniswyclifd01losegoog=ires | iohanniswyclifde12wycl=tres		3	plate
+111	R3	latinworks13wycl=xxii | iohanniswyclifd01losegoog=xxi | iohanniswyclifde12wycl=xxii		3	plate
+115	R2	latinworks13wycl=asina | iohanniswyclifd01losegoog=auna | iohanniswyclifde12wycl=asina		3	accept
+140	R5	latinworks13wycl=iudic | iohanniswyclifd01losegoog=iudic | iohanniswyclifde12wycl=iudic		3	plate
+145	R5	latinworks13wycl=sampsonis | iohanniswyclifd01losegoog=sampsonis | iohanniswyclifde12wycl=sampsonis		3	plate
+152	R4a	latinworks13wycl=quem | iohanniswyclifd01losegoog=quern | iohanniswyclifde12wycl=quern		3	accept
+158	R5	latinworks13wycl=math | iohanniswyclifd01losegoog=math | iohanniswyclifde12wycl=math		3	plate
+160	INS	3	2	3	accept
+175	R5	latinworks13wycl=marc | iohanniswyclifd01losegoog=marc | iohanniswyclifde12wycl=marc		3	plate
+176	R2	latinworks13wycl=xui | iohanniswyclifd01losegoog=xup | iohanniswyclifde12wycl=xui		3	accept
+188	R2	latinworks13wycl=reuolutum | iohanniswyclifd01losegoog=reuolutum | iohanniswyclifde12wycl=reuolutionlapidem		3	accept
+189	R2	latinworks13wycl=lapidem | iohanniswyclifd01losegoog=lapidem | iohanniswyclifde12wycl=∅		3	accept
+196	R5	latinworks13wycl=pertum | iohanniswyclifd01losegoog=pertum | iohanniswyclifde12wycl=pertum		3	plate
+199	R4a	latinworks13wycl=hic | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		3	accept
+220	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+221	R2	latinworks13wycl=argumentuiii | iohanniswyclifd01losegoog=argumeruri | iohanniswyclifde12wycl=argumentum		3	accept

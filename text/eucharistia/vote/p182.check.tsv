@@ -1,0 +1,37 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=scarioth | iohanniswyclifde12wycl=scarioth		2	accept
+1	EDGE	latinworks13wycl=qui | iohanniswyclifde12wycl=qui		2	accept
+2	EDGE	latinworks13wycl=habuit | iohanniswyclifde12wycl=habuit		2	accept
+3	EDGE	latinworks13wycl=ipsum | iohanniswyclifde12wycl=ipsum		2	accept
+4	EDGE	latinworks13wycl=in | iohanniswyclifde12wycl=in		2	accept
+5	EDGE	latinworks13wycl=uigilanti | iohanniswyclifde12wycl=uigilanti		2	accept
+6	EDGE	latinworks13wycl=memoria | iohanniswyclifde12wycl=memoria		2	accept
+7	EDGE	latinworks13wycl=ad | iohanniswyclifde12wycl=ad		2	accept
+8	EDGE	latinworks13wycl=prodendum | iohanniswyclifde12wycl=prodendum		2	accept
+14	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=cc | iohanniswyclifde12wycl=et		4	accept
+20	R2	latinworks13wycl=tacent | iohanniswyclifd00losegoog=taccnt | iohanniswyclifd01losegoog=lacenc | iohanniswyclifde12wycl=tacent		4	accept
+21	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=u | iohanniswyclifd01losegoog=uel | iohanniswyclifde12wycl=uel		4	accept
+22	R2	latinworks13wycl=excitant | iohanniswyclifd00losegoog=citaiil | iohanniswyclifd01losegoog=excitant | iohanniswyclifde12wycl=excitant		4	accept
+30	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+33	R5a	latinworks13wycl=katholicas | iohanniswyclifd00losegoog=katholicas | iohanniswyclifd01losegoog=katholicas | iohanniswyclifde12wycl=katholicas		4	accept
+38	R3a	latinworks13wycl=diuisionis | iohanniswyclifd00losegoog=diutslonis | iohanniswyclifd01losegoog=diui | iohanniswyclifde12wycl=diuisionis		4	accept
+57	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=e | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+67	R3a	latinworks13wycl=causa | iohanniswyclifd00losegoog=nausa | iohanniswyclifd01losegoog=causa | iohanniswyclifde12wycl=causa		4	accept
+73	R2	latinworks13wycl=quod | iohanniswyclifd00losegoog=quui | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+74	R3a	latinworks13wycl=pedagogus | iohanniswyclifd00losegoog=pedagogue | iohanniswyclifd01losegoog=pedagogus | iohanniswyclifde12wycl=pedagogus		4	accept
+114	R2	latinworks13wycl=pastorem | iohanniswyclifd00losegoog=pastoreni | iohanniswyclifd01losegoog=pasiorera | iohanniswyclifde12wycl=pastorem		4	accept
+117	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=nod | iohanniswyclifde12wycl=non		4	accept
+123	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+135	R2	latinworks13wycl=suam | iohanniswyclifd00losegoog=suara | iohanniswyclifd01losegoog=suam | iohanniswyclifde12wycl=suam		4	accept
+144	R2	latinworks13wycl=foret | iohanniswyclifd00losegoog=foret | iohanniswyclifd01losegoog=forcl | iohanniswyclifde12wycl=foret		4	accept
+154	R4	latinworks13wycl=ymaoines | iohanniswyclifd00losegoog=ymugines | iohanniswyclifd01losegoog=ymacines | iohanniswyclifde12wycl=y		4	plate
+155	R4	latinworks13wycl=aun | iohanniswyclifd00losegoog=auri | iohanniswyclifd01losegoog=bun | iohanniswyclifde12wycl=aun		4	plate
+156	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+160	R2	latinworks13wycl=generaliter | iohanniswyclifd00losegoog=generaliler | iohanniswyclifd01losegoog=ecncraliier | iohanniswyclifde12wycl=generaliter		4	accept
+161	R5a	latinworks13wycl=quidditatem | iohanniswyclifd00losegoog=quidditatcm | iohanniswyclifd01losegoog=quidditatem | iohanniswyclifde12wycl=quidditatem		4	accept
+163	R3a	latinworks13wycl=altans | iohanniswyclifd00losegoog=altaris | iohanniswyclifd01losegoog=altaris | iohanniswyclifde12wycl=altaris		4	accept
+185	R5a	latinworks13wycl=odiente | iohanniswyclifd00losegoog=odiente | iohanniswyclifd01losegoog=odiente | iohanniswyclifde12wycl=odiente		4	accept
+202	R5a	latinworks13wycl=quidditatem | iohanniswyclifd00losegoog=quidditatem | iohanniswyclifd01losegoog=quidditatem | iohanniswyclifde12wycl=quidditatem		4	accept
+206	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=et		3	accept
+207	R5	latinworks13wycl=quidditatem | iohanniswyclifd01losegoog=quidditatem | iohanniswyclifde12wycl=quidditatem		3	plate
+210	EDGE	latinworks13wycl=penitus | iohanniswyclifde12wycl=penitus		2	accept

@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=reliquam | iohanniswyclifd00losegoog=reliquam		2	accept
+7	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymrao | iohanniswyclifde12wycl=ymmo		3	accept
+21	R3a	latinworks13wycl=angelus | iohanniswyclifd00losegoog=angelas | iohanniswyclifd01losegoog=engelus | iohanniswyclifde12wycl=angelus		4	accept
+45	R4	latinworks13wycl=temporis | iohanniswyclifd00losegoog=tenaporis | iohanniswyclifd01losegoog=tenaporis | iohanniswyclifde12wycl=temporis		4	plate
+58	R2	latinworks13wycl=tempus | iohanniswyclifd00losegoog=erapus | iohanniswyclifd01losegoog=tempus | iohanniswyclifde12wycl=tempus		4	accept
+59	R3a	latinworks13wycl=discretum | iohanniswyclifd00losegoog=discretum | iohanniswyclifd01losegoog=discretura | iohanniswyclifde12wycl=discretum		4	accept
+64	R5a	latinworks13wycl=uolicionem | iohanniswyclifd00losegoog=uolicionem | iohanniswyclifd01losegoog=uolicionem | iohanniswyclifde12wycl=uolicionem		4	accept
+76	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ec | iohanniswyclifd01losegoog=ct | iohanniswyclifde12wycl=et		4	accept
+77	R2	latinworks13wycl=ita | iohanniswyclifd00losegoog=iia | iohanniswyclifd01losegoog=ita | iohanniswyclifde12wycl=ita		4	accept
+78	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	accept
+98	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ul | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+100	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=cl | iohanniswyclifde12wycl=et		4	accept
+122	R2	latinworks13wycl=siniul | iohanniswyclifd00losegoog=simul | iohanniswyclifd01losegoog=siraul | iohanniswyclifde12wycl=simul		4	accept
+137	R3	latinworks13wycl=motum | iohanniswyclifd00losegoog=molum | iohanniswyclifd01losegoog=moium | iohanniswyclifde12wycl=motura		4	plate
+155	R3a	latinworks13wycl=mutandum | iohanniswyclifd00losegoog=murandum | iohanniswyclifd01losegoog=mutandum | iohanniswyclifde12wycl=mutandum		4	accept
+172	R2	latinworks13wycl=uerbo | iohanniswyclifd00losegoog=uerbo | iohanniswyclifd01losegoog=tcrbo | iohanniswyclifde12wycl=uerbo		4	accept
+180	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+203	R3a	latinworks13wycl=uno | iohanniswyclifd00losegoog=uno | iohanniswyclifd01losegoog=udo | iohanniswyclifde12wycl=uno		4	accept
+211	R5	latinworks13wycl=oin | iohanniswyclifd00losegoog=oin | iohanniswyclifd01losegoog=oin		3	plate

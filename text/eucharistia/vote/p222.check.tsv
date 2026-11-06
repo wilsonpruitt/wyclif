@@ -1,0 +1,25 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=supra		1	accept
+1	THIN	latinworks13wycl=pnmum		1	plate
+2	EDGE	latinworks13wycl=est		1	accept
+3	THIN	latinworks13wycl=transsubstanciacio		1	plate
+4	THIN	latinworks13wycl=m		1	plate
+13	R2	latinworks13wycl=secundum | iohanniswyclifd01losegoog=bccuadum | iohanniswyclifde12wycl=secundum		3	accept
+22	R3	latinworks13wycl=neri | iohanniswyclifd01losegoog=hen | iohanniswyclifde12wycl=fieri		3	plate
+23	R4a	latinworks13wycl=ahud | iohanniswyclifd01losegoog=ahud | iohanniswyclifde12wycl=aliud		3	accept
+24	R4	latinworks13wycl=ilt | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=ht		3	plate
+27	R5	latinworks13wycl=mpanacio | iohanniswyclifd01losegoog=inpanacio | iohanniswyclifde12wycl=inpanacio		3	plate
+33	THIN	latinworks13wycl=rieri | iohanniswyclifde12wycl=hen		2	plate
+34	THIN	latinworks13wycl=suppositum | iohanniswyclifde12wycl=suppositum		2	plate
+35	THIN	latinworks13wycl=sed | iohanniswyclifde12wycl=sed		2	plate
+36	THIN	latinworks13wycl=naturam | iohanniswyclifde12wycl=naturam		2	plate
+48	R5	latinworks13wycl=transsubstanciato | iohanniswyclifd01losegoog=transsubstanciaio | iohanniswyclifde12wycl=transsubstanciato		3	plate
+49	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+52	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+55	R3	latinworks13wycl=totum | iohanniswyclifd01losegoog=lotum | iohanniswyclifde12wycl=totum		3	plate
+79	R5	latinworks13wycl=ydemptificacionis | iohanniswyclifd01losegoog=ydemptificacionis | iohanniswyclifde12wycl=ydemptificacionis		3	plate
+82	R3	latinworks13wycl=ghristi | iohanniswyclifd01losegoog=christ | iohanniswyclifde12wycl=christi		3	plate
+87	R2	latinworks13wycl=dicit | iohanniswyclifd01losegoog=dlcil | iohanniswyclifde12wycl=dicit		3	accept
+149	R5	latinworks13wycl=auinonicam | iohanniswyclifd01losegoog=auinonicam | iohanniswyclifde12wycl=auinonicam		3	plate
+169	R2	latinworks13wycl=dampnatus | iohanniswyclifd01losegoog=dainpaatus | iohanniswyclifde12wycl=dampnatus		3	accept
+200	R5	latinworks13wycl=defamandus | iohanniswyclifd01losegoog=defaraandus | iohanniswyclifde12wycl=defamandus		3	plate

@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+18	R2	latinworks13wycl=sensum | iohanniswyclifd01losegoog=scqsum | iohanniswyclifde12wycl=sensum		3	accept
+21	R5a	latinworks13wycl=glossare | iohanniswyclifd00losegoog=glossare | iohanniswyclifd01losegoog=glossare | iohanniswyclifde12wycl=glossare		4	accept
+36	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+73	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+103	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=lam | iohanniswyclifd01losegoog=tarn | iohanniswyclifde12wycl=tam		4	accept
+124	R3a	latinworks13wycl=accidentis | iohanniswyclifd00losegoog=accidentia | iohanniswyclifd01losegoog=accidentis | iohanniswyclifde12wycl=accidentis		4	accept
+149	R2	latinworks13wycl=manet | iohanniswyclifd00losegoog=raanet | iohanniswyclifd01losegoog=manet | iohanniswyclifde12wycl=manet		4	accept
+183	R4	latinworks13wycl=sentenciam | iohanniswyclifd00losegoog=5senenciam | iohanniswyclifd01losegoog=23sentenciam | iohanniswyclifde12wycl=23sentenciam		4	plate
+188	R2	latinworks13wycl=tamen | iohanniswyclifd00losegoog=taraen | iohanniswyclifd01losegoog=tamen | iohanniswyclifde12wycl=tamen		4	accept
+199	R3a	latinworks13wycl=fidem | iohanniswyclifd00losegoog=fidem | iohanniswyclifd01losegoog=idem | iohanniswyclifde12wycl=fidem		4	accept
+200	R3a	latinworks13wycl=miror | iohanniswyclifd00losegoog=miror | iohanniswyclifd01losegoog=minor | iohanniswyclifde12wycl=miror		4	accept
+201	R2	latinworks13wycl=multum | iohanniswyclifd00losegoog=muuum | iohanniswyclifd01losegoog=multum | iohanniswyclifde12wycl=multum		4	accept
+210	R5a	latinworks13wycl=auinonicus | iohanniswyclifd00losegoog=auinonicus | iohanniswyclifd01losegoog=auinonicus | iohanniswyclifde12wycl=auinonicus		4	accept
+219	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+231	EDGE	latinworks13wycl=nec		1	accept

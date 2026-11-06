@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=contrarium | iohanniswyclifde12wycl=contrarium		2	accept
+13	R5a	latinworks13wycl=epikeyam | iohanniswyclifd00losegoog=epikeyam | iohanniswyclifd01losegoog=epikeyam | iohanniswyclifde12wycl=epikeyam		4	accept
+15	R2	latinworks13wycl=co | iohanniswyclifd00losegoog=loco | iohanniswyclifd01losegoog=loco | iohanniswyclifde12wycl=loco		4	accept
+64	R2	latinworks13wycl=replent | iohanniswyclifd00losegoog=replcnl | iohanniswyclifd01losegoog=replent | iohanniswyclifde12wycl=replent		4	accept
+103	R2	latinworks13wycl=sen15 | iohanniswyclifd00losegoog=scntenciam | iohanniswyclifd01losegoog=sen | iohanniswyclifde12wycl=sentenciam		4	accept
+104	R6	latinworks13wycl=tenciam | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=tenciam | iohanniswyclifde12wycl=∅		4	plate
+121	R3a	latinworks13wycl=discreto | iohanniswyclifd00losegoog=discrete | iohanniswyclifd01losegoog=discreto | iohanniswyclifde12wycl=discreto		4	accept
+165	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+172	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+175	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukarisiia | iohanniswyclifd01losegoog=eukarisiia | iohanniswyclifde12wycl=eukaristia		4	accept
+189	R3a	latinworks13wycl=ecclesie | iohanniswyclifd00losegoog=ecclesie | iohanniswyclifd01losegoog=ecclcsie | iohanniswyclifde12wycl=ecclesie		4	accept
+202	R2	latinworks13wycl=ix | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=ix		4	accept
+214	R5	latinworks13wycl=iiius | iohanniswyclifd01losegoog=iii | iohanniswyclifde12wycl=iiius		3	plate

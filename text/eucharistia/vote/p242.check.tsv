@@ -1,0 +1,38 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=unum | iohanniswyclifde12wycl=unum		2	accept
+10	R3a	latinworks13wycl=speciei | iohanniswyclifd00losegoog=speciei | iohanniswyclifd01losegoog=specie | iohanniswyclifde12wycl=speciei		4	accept
+12	R5a	latinworks13wycl=componibilibus | iohanniswyclifd00losegoog=componibtlibus | iohanniswyclifd01losegoog=componibilibus | iohanniswyclifde12wycl=componibilibus		4	accept
+17	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+22	R2	latinworks13wycl=utrum | iohanniswyclifd00losegoog=utrum | iohanniswyclifd01losegoog=utrucn | iohanniswyclifde12wycl=utrum		4	accept
+28	R3	latinworks13wycl=utrum | iohanniswyclifd00losegoog=uirum | iohanniswyclifd01losegoog=utram | iohanniswyclifde12wycl=utrum		4	plate
+49	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=io | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+51	R2	latinworks13wycl=mundo | iohanniswyclifd00losegoog=mundo | iohanniswyclifd01losegoog=mutido | iohanniswyclifde12wycl=mundo		4	accept
+57	R2	latinworks13wycl=omnis | iohanniswyclifd00losegoog=oranis | iohanniswyclifd01losegoog=oinnis | iohanniswyclifde12wycl=omnis		4	accept
+63	R2	latinworks13wycl=uertiginosus | iohanniswyclifd00losegoog=uertigii | iohanniswyclifd01losegoog=uertiginosus | iohanniswyclifde12wycl=uertiginosus		4	accept
+79	R4	latinworks13wycl=altaris | iohanniswyclifd00losegoog=allaris | iohanniswyclifd01losegoog=allaris | iohanniswyclifde12wycl=altaris		4	plate
+81	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enim | iohanniswyclifd01losegoog=enira | iohanniswyclifde12wycl=enim		4	accept
+82	NW	latinworks13wycl=nnget | iohanniswyclifd00losegoog=inget | iohanniswyclifd01losegoog=fiuget | iohanniswyclifde12wycl=nnget		4	plate
+97	R2	latinworks13wycl=ultra | iohanniswyclifd00losegoog=ultra | iohanniswyclifd01losegoog=uhra | iohanniswyclifde12wycl=ultra		4	accept
+98	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=uel | iohanniswyclifd01losegoog=uet | iohanniswyclifde12wycl=uel		4	accept
+111	R3	latinworks13wycl=modo | iohanniswyclifd00losegoog=mode | iohanniswyclifd01losegoog=mode | iohanniswyclifde12wycl=modo		4	plate
+137	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+141	R3a	latinworks13wycl=foret | iohanniswyclifd00losegoog=toret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=foret		4	accept
+146	R3	latinworks13wycl=substancia | iohanniswyclifd00losegoog=substancie | iohanniswyclifd01losegoog=substantia | iohanniswyclifde12wycl=substancia		4	plate
+153	R3a	latinworks13wycl=totum | iohanniswyclifd00losegoog=lotum | iohanniswyclifd01losegoog=totum | iohanniswyclifde12wycl=totum		4	accept
+163	R2	latinworks13wycl=infinitum | iohanniswyclifd00losegoog=infinitum | iohanniswyclifd01losegoog=infiaituin | iohanniswyclifde12wycl=infinitum		4	accept
+168	R3	latinworks13wycl=lineas | iohanniswyclifd00losegoog=tineas | iohanniswyclifd01losegoog=lineai | iohanniswyclifde12wycl=lineas		4	plate
+169	R5a	latinworks13wycl=giratiuas | iohanniswyclifd00losegoog=giratiuas | iohanniswyclifd01losegoog=giratiuas | iohanniswyclifde12wycl=giratiuas		4	accept
+172	R5a	latinworks13wycl=columpnari | iohanniswyclifd00losegoog=columpnari | iohanniswyclifd01losegoog=columpnari | iohanniswyclifde12wycl=columpnari		4	accept
+174	R2	latinworks13wycl=demum | iohanniswyclifd00losegoog=demum | iohanniswyclifd01losegoog=demutn | iohanniswyclifde12wycl=demum		4	accept
+176	R3a	latinworks13wycl=partem | iohanniswyclifd00losegoog=partem | iohanniswyclifd01losegoog=panem | iohanniswyclifde12wycl=partem		4	accept
+193	R3a	latinworks13wycl=cum | iohanniswyclifd00losegoog=cura | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		4	accept
+195	R5a	latinworks13wycl=situato | iohanniswyclifd00losegoog=situato | iohanniswyclifd01losegoog=situato | iohanniswyclifde12wycl=situato		4	accept
+205	R5a	latinworks13wycl=sor | iohanniswyclifd00losegoog=sor | iohanniswyclifd01losegoog=sor | iohanniswyclifde12wycl=sor		4	accept
+210	R2	latinworks13wycl=extremo | iohanniswyclifd00losegoog=exiremo | iohanniswyclifd01losegoog=exircmo | iohanniswyclifde12wycl=extremo		4	accept
+214	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enira | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+223	R3a	latinworks13wycl=manibus | iohanniswyclifd00losegoog=inanibus | iohanniswyclifd01losegoog=manibus | iohanniswyclifde12wycl=manibus		4	accept
+225	R3a	latinworks13wycl=fixis | iohanniswyclifd00losegoog=fixis | iohanniswyclifd01losegoog=fisis | iohanniswyclifde12wycl=fixis		4	accept
+229	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+237	R5a	latinworks13wycl=columpnare | iohanniswyclifd00losegoog=columpnare | iohanniswyclifd01losegoog=columpnare | iohanniswyclifde12wycl=columpnare		4	accept
+242	R5	latinworks13wycl=circumgiretur | iohanniswyclifd01losegoog=circumgiretur | iohanniswyclifde12wycl=circumgiretur		3	plate
+243	EDGE	latinworks13wycl=proporcionaliter | iohanniswyclifde12wycl=proporcionaliter		2	accept

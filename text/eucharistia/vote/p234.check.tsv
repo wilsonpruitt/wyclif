@@ -1,0 +1,67 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=et		1	accept
+1	EDGE	latinworks13wycl=hic		1	accept
+2	EDGE	latinworks13wycl=eliciunt | iohanniswyclifde12wycl=eliciunt		2	accept
+3	EDGE	latinworks13wycl=quidam | iohanniswyclifde12wycl=quidam		2	accept
+4	EDGE	latinworks13wycl=conclusiones | iohanniswyclifde12wycl=conclusiones		2	accept
+5	THIN	latinworks13wycl=rnirabiles | iohanniswyclifde12wycl=rairabiles		2	plate
+6	EDGE	latinworks13wycl=ut | iohanniswyclifde12wycl=ut		2	accept
+7	EDGE	latinworks13wycl=puta | iohanniswyclifde12wycl=puta		2	accept
+8	EDGE	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	accept
+9	THIN	latinworks13wycl=petrus | iohanniswyclifde12wycl=petrus		2	plate
+12	R5	latinworks13wycl=coream | iohanniswyclifd01losegoog=coream | iohanniswyclifde12wycl=coream		3	plate
+19	R2	latinworks13wycl=occiuit | iohanniswyclifd01losegoog=occiiitseipsumquantuncunque | iohanniswyclifde12wycl=occidit		3	accept
+20	R2	latinworks13wycl=se | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=se		3	accept
+21	R2	latinworks13wycl=rpsum | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=ipsum		3	accept
+22	R2	latinworks13wycl=quantuncunque | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=quantuncunque		3	accept
+32	EDGE	latinworks13wycl=contrarias | iohanniswyclifde12wycl=contrarias		2	accept
+33	EDGE	latinworks13wycl=nam | iohanniswyclifde12wycl=nam		2	accept
+34	THIN	latinworks13wycl=petrus | iohanniswyclifde12wycl=petrus		2	plate
+39	R3a	latinworks13wycl=constitueret | iohanniswyclifd00losegoog=foret | iohanniswyclifd01losegoog=consiituerei | iohanniswyclifde12wycl=constitueret		4	accept
+40	NW	latinworks13wycl=coream | iohanniswyclifd00losegoog=coream | iohanniswyclifd01losegoog=coream | iohanniswyclifde12wycl=coream		4	plate
+42	R2	latinworks13wycl=exercitum | iohanniswyclifd00losegoog=exercitdin | iohanniswyclifd01losegoog=eiercitum | iohanniswyclifde12wycl=exercitum		4	accept
+43	R2	latinworks13wycl=plus | iohanniswyclifd00losegoog=plot | iohanniswyclifd01losegoog=plus | iohanniswyclifde12wycl=plus		4	accept
+44	R2	latinworks13wycl=unicordem | iohanniswyclifd00losegoog=uokordem | iohanniswyclifd01losegoog=unicordem | iohanniswyclifde12wycl=unicordem		4	accept
+45	R3	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=ei | iohanniswyclifde12wycl=et		4	plate
+46	R2	latinworks13wycl=tantum | iohanniswyclifd00losegoog=untum | iohanniswyclifd01losegoog=laniura | iohanniswyclifde12wycl=tantum		4	accept
+48	R2	latinworks13wycl=tot | iohanniswyclifd00losegoog=tot | iohanniswyclifd01losegoog=lot | iohanniswyclifde12wycl=tot		4	accept
+52	R2	latinworks13wycl=moueretur | iohanniswyclifd00losegoog=moucrelar | iohanniswyclifd01losegoog=mouerelur | iohanniswyclifde12wycl=moueretur		4	accept
+53	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+54	R2	latinworks13wycl=constancius | iohanniswyclifd00losegoog=consundas | iohanniswyclifd01losegoog=conslancius | iohanniswyclifde12wycl=constancius		4	accept
+55	R3a	latinworks13wycl=iuuaret | iohanniswyclifd00losegoog=lauaret | iohanniswyclifd01losegoog=iuuaret | iohanniswyclifde12wycl=iuuaret		4	accept
+56	R2	latinworks13wycl=se | iohanniswyclifd00losegoog=k | iohanniswyclifd01losegoog=se | iohanniswyclifde12wycl=se		4	accept
+57	R2	latinworks13wycl=ipsum | iohanniswyclifd00losegoog=tpium | iohanniswyclifd01losegoog=ipsum | iohanniswyclifde12wycl=ipsum		4	accept
+65	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=noq | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+75	R3a	latinworks13wycl=ex | iohanniswyclifd00losegoog=ex | iohanniswyclifd01losegoog=ei | iohanniswyclifde12wycl=ex		4	accept
+77	R6a	latinworks13wycl=sensacionis | iohanniswyclifd00losegoog=leiuadonis | iohanniswyclifd01losegoog=sensacionis | iohanniswyclifde12wycl=sensacionis		4	accept
+78	R2	latinworks13wycl=uidetur | iohanniswyclifd00losegoog=uidclor | iohanniswyclifd01losegoog=uidetur | iohanniswyclifde12wycl=uidetur		4	accept
+80	R2	latinworks13wycl=stat | iohanniswyclifd00losegoog=hal | iohanniswyclifd01losegoog=stac | iohanniswyclifde12wycl=stat		4	accept
+81	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=io | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+84	R5a	latinworks13wycl=petrum | iohanniswyclifd00losegoog=petruro | iohanniswyclifd01losegoog=pctrum | iohanniswyclifde12wycl=petrum		4	accept
+86	R2	latinworks13wycl=se | iohanniswyclifd00losegoog=c | iohanniswyclifd01losegoog=sc | iohanniswyclifde12wycl=se		4	accept
+89	R2	latinworks13wycl=atrociter | iohanniswyclifd00losegoog=atrodlcr | iohanniswyclifd01losegoog=alrociter | iohanniswyclifde12wycl=atrociter		4	accept
+90	R2	latinworks13wycl=nam | iohanniswyclifd00losegoog=dam | iohanniswyclifd01losegoog=nam | iohanniswyclifde12wycl=nam		4	accept
+93	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=aoa | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+99	R3a	latinworks13wycl=se | iohanniswyclifd00losegoog=te | iohanniswyclifd01losegoog=se | iohanniswyclifde12wycl=se		4	accept
+100	R2	latinworks13wycl=ipsum | iohanniswyclifd00losegoog=ipiumi | iohanniswyclifd01losegoog=ipsum | iohanniswyclifde12wycl=ipsum		4	accept
+108	R2	latinworks13wycl=homine | iohanniswyclifd00losegoog=bomioe | iohanniswyclifd01losegoog=homine | iohanniswyclifde12wycl=homine		4	accept
+114	R3a	latinworks13wycl=secundum | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=secundum | iohanniswyclifde12wycl=secundum		4	accept
+132	NW	latinworks13wycl=uisiuus | iohanniswyclifd00losegoog=uisirus | iohanniswyclifd01losegoog=uisiuus | iohanniswyclifde12wycl=uisiuus		4	plate
+139	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+141	R3a	latinworks13wycl=se | iohanniswyclifd00losegoog=te | iohanniswyclifd01losegoog=sc | iohanniswyclifde12wycl=se		4	accept
+148	R2	latinworks13wycl=eliciunt | iohanniswyclifd00losegoog=cliciuui | iohanniswyclifde12wycl=eliciunt		3	accept
+159	R2	latinworks13wycl=mirabiles | iohanniswyclifd00losegoog=rotrdbilcs | iohanniswyclifd01losegoog=mirdbiles | iohanniswyclifde12wycl=mirabiles		4	accept
+165	R2	latinworks13wycl=tollit | iohanniswyclifd00losegoog=lolllt | iohanniswyclifd01losegoog=tollit | iohanniswyclifde12wycl=tollit		4	accept
+169	R2	latinworks13wycl=motus | iohanniswyclifd00losegoog=moms | iohanniswyclifd01losegoog=moius | iohanniswyclifde12wycl=motus		4	accept
+172	R3a	latinworks13wycl=uel | iohanniswyclifd00losegoog=uel | iohanniswyclifd01losegoog=ue | iohanniswyclifde12wycl=uel		4	accept
+176	R6a	latinworks13wycl=petrus | iohanniswyclifd00losegoog=petrus | iohanniswyclifd01losegoog=peinis | iohanniswyclifde12wycl=petrus		4	accept
+186	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+187	R2	latinworks13wycl=sic | iohanniswyclifd00losegoog=lie | iohanniswyclifd01losegoog=sic | iohanniswyclifde12wycl=sic		4	accept
+192	DEL	latinworks13wycl=lead | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	accept
+201	R5a	latinworks13wycl=petrus | iohanniswyclifd00losegoog=petrus | iohanniswyclifd01losegoog=petrus | iohanniswyclifde12wycl=petrus		4	accept
+207	R2	latinworks13wycl=a | iohanniswyclifd00losegoog=sc | iohanniswyclifd01losegoog=a | iohanniswyclifde12wycl=a		4	accept
+208	R2	latinworks13wycl=se | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=se | iohanniswyclifde12wycl=se		4	accept
+217	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=oon | iohanniswyclifde12wycl=non		4	accept
+223	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et3i | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+230	R2	latinworks13wycl=indiuiduantur | iohanniswyclifd00losegoog=indiuiduantur | iohanniswyclifd01losegoog=iudiui | iohanniswyclifde12wycl=indiuiduantur		4	accept
+233	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept

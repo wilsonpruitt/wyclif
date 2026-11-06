@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+7	R5a	latinworks13wycl=lanfrancum | iohanniswyclifd00losegoog=lantrancum | iohanniswyclifd01losegoog=lanfrancum | iohanniswyclifde12wycl=lanfrancum		4	accept
+9	R5a	latinworks13wycl=wimundum | iohanniswyclifd00losegoog=wimunttum | iohanniswyclifd01losegoog=wimundum | iohanniswyclifde12wycl=wimundum		4	accept
+15	NW	latinworks13wycl=contrana | iohanniswyclifd00losegoog=contraria | iohanniswyclifd01losegoog=contrana | iohanniswyclifde12wycl=contrana		4	plate
+21	R5a	latinworks13wycl=ephesina | iohanniswyclifd00losegoog=ephesina | iohanniswyclifd01losegoog=ephesina | iohanniswyclifde12wycl=ephesina		4	accept
+98	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+103	R2	latinworks13wycl=penam | iohanniswyclifd00losegoog=penam | iohanniswyclifd01losegoog=penara | iohanniswyclifde12wycl=penam		4	accept
+140	R6a	latinworks13wycl=prounde | iohanniswyclifd00losegoog=prounde | iohanniswyclifd01losegoog=prorumpere | iohanniswyclifde12wycl=prounde		4	accept
+144	R5a	latinworks13wycl=lanfrancum | iohanniswyclifd00losegoog=lanfrancum | iohanniswyclifd01losegoog=lanfrancum | iohanniswyclifde12wycl=lanfrancum		4	accept
+154	R3a	latinworks13wycl=istas | iohanniswyclifd00losegoog=ss | iohanniswyclifd01losegoog=istas | iohanniswyclifde12wycl=istas		4	accept
+204	EDGE	latinworks13wycl=sacramento | iohanniswyclifde12wycl=sacramento		2	accept

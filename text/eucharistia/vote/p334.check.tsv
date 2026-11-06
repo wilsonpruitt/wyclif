@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	CAPITULUM TERCIUM.			plate
+3	R2	latinworks13wycl=rimandum | iohanniswyclifd01losegoog=hmanduid | iohanniswyclifde12wycl=riniandum		3	accept
+8	THIN	latinworks13wycl=condere | iohanniswyclifde12wycl=condcre		2	plate
+9	THIN	latinworks13wycl=tales | iohanniswyclifde12wycl=tales		2	plate
+10	THIN	latinworks13wycl=leges | iohanniswyclifde12wycl=leges		2	plate
+12	R2	latinworks13wycl=uidetur | iohanniswyclifd01losegoog=uidceuf | iohanniswyclifde12wycl=uidetur		3	accept
+38	R3	latinworks13wycl=ideo | iohanniswyclifd01losegoog=o | iohanniswyclifde12wycl=ideo		3	plate
+52	R3	latinworks13wycl=cum | iohanniswyclifd01losegoog=cuna | iohanniswyclifde12wycl=cum		3	plate
+97	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+101	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+104	R3	latinworks13wycl=filii | iohanniswyclifd01losegoog=lilii | iohanniswyclifde12wycl=filii		3	plate
+115	R3	latinworks13wycl=aln | iohanniswyclifd01losegoog=alii | iohanniswyclifde12wycl=alu		3	plate
+132	R2	latinworks13wycl=habet | iohanniswyclifd01losegoog=nabcl | iohanniswyclifde12wycl=habet		3	accept
+157	R3	latinworks13wycl=ex | iohanniswyclifd01losegoog=ei | iohanniswyclifde12wycl=ex		3	plate
+161	R2	latinworks13wycl=nullo | iohanniswyclifd01losegoog=niillo | iohanniswyclifde12wycl=nullo		3	accept
+185	R3	latinworks13wycl=dicitur | iohanniswyclifd01losegoog=dtcitur | iohanniswyclifde12wycl=dicitur		3	plate
+212	EDGE	latinworks13wycl=stante | iohanniswyclifde12wycl=stante		2	accept

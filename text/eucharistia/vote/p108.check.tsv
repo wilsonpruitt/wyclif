@@ -1,0 +1,25 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=uinum | iohanniswyclifde12wycl=uinum		2	accept
+9	R5	latinworks13wycl=lllud | iohanniswyclifd01losegoog=luud | iohanniswyclifde12wycl=lllud		3	plate
+11	THIN	latinworks13wycl=i | iohanniswyclifde12wycl=hgo		2	plate
+12	THIN	latinworks13wycl=ibgo | iohanniswyclifde12wycl=∅		2	plate
+13	THIN	latinworks13wycl=benngarius | iohanniswyclifde12wycl=benngarius		2	plate
+18	R3	latinworks13wycl=iuit | iohanniswyclifd01losegoog=fuit | iohanniswyclifde12wycl=tuit		3	plate
+21	R4a	latinworks13wycl=connrmata | iohanniswyclifd01losegoog=confirmata | iohanniswyclifde12wycl=connrmata		3	accept
+25	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+34	R5a	latinworks13wycl=auinonice | iohanniswyclifd00losegoog=auinonice | iohanniswyclifd01losegoog=auinonice | iohanniswyclifde12wycl=auinonice		4	accept
+39	R2	latinworks13wycl=ex | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=ex | iohanniswyclifde12wycl=ex		4	accept
+40	R2	latinworks13wycl=istis | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=istis | iohanniswyclifde12wycl=istis		4	accept
+43	R2	latinworks13wycl=textus | iohanniswyclifd00losegoog=lexlus | iohanniswyclifd01losegoog=textus | iohanniswyclifde12wycl=textus		4	accept
+45	R2	latinworks13wycl=ecclesie | iohanniswyclifd00losegoog=ecdusie | iohanniswyclifd01losegoog=ecdesie | iohanniswyclifde12wycl=ecclesie		4	accept
+58	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+71	R2	latinworks13wycl=presumerent | iohanniswyclifd00losegoog=dociorspresumerenl | iohanniswyclifd01losegoog=presumerent | iohanniswyclifde12wycl=presumerent		4	accept
+86	R2	latinworks13wycl=homo | iohanniswyclifd00losegoog=liotqo | iohanniswyclifd01losegoog=homo | iohanniswyclifde12wycl=homo		4	accept
+91	R2	latinworks13wycl=in | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+93	R2	latinworks13wycl=noticiam | iohanniswyclifd00losegoog=noliciani | iohanniswyclifd01losegoog=uoticiam | iohanniswyclifde12wycl=noticiam		4	accept
+136	R3a	latinworks13wycl=sequencia | iohanniswyclifd00losegoog=sequencia | iohanniswyclifd01losegoog=sequenda | iohanniswyclifde12wycl=sequencia		4	accept
+167	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=ggi | iohanniswyclifd01losegoog=sed | iohanniswyclifde12wycl=sed		4	accept
+168	R2	latinworks13wycl=redeundo | iohanniswyclifd00losegoog=redcundo | iohanniswyclifd01losegoog=fcdcundo | iohanniswyclifde12wycl=redeundo		4	accept
+174	R3a	latinworks13wycl=conficere | iohanniswyclifd00losegoog=conficere | iohanniswyclifd01losegoog=coniicere | iohanniswyclifde12wycl=conficere		4	accept
+188	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+190	R2	latinworks13wycl=dimittendo | iohanniswyclifd00losegoog=dimiti | iohanniswyclifd01losegoog=dimittendo | iohanniswyclifde12wycl=dimittendo		4	accept

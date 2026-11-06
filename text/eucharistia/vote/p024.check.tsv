@@ -1,0 +1,39 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=estis | iohanniswyclifde12wycl=estis		2	accept
+1	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+2	EDGE	latinworks13wycl=bibituri | iohanniswyclifde12wycl=bibituri		2	accept
+3	EDGE	latinworks13wycl=illum		1	accept
+4	THIN	latinworks13wycl=sanguhiem		1	plate
+5	EDGE	latinworks13wycl=que		1	accept
+6	THIN	latinworks13wycl=m		1	plate
+7	EDGE	latinworks13wycl=effusuri | iohanniswyclifde12wycl=effusuri		2	accept
+8	EDGE	latinworks13wycl=sunt | iohanniswyclifde12wycl=sunt		2	accept
+9	THIN	latinworks13wycl=hli | iohanniswyclifde12wycl=illi		2	plate
+10	EDGE	latinworks13wycl=qui | iohanniswyclifde12wycl=qui		2	accept
+11	EDGE	latinworks13wycl=me | iohanniswyclifde12wycl=me		2	accept
+12	THIN	latinworks13wycl=crucifigent | iohanniswyclifde12wycl=cruciiigent		2	plate
+13	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+14	EDGE	latinworks13wycl=post | iohanniswyclifde12wycl=post		2	accept
+15	EDGE	latinworks13wycl=detegens | iohanniswyclifde12wycl=detegens		2	accept
+16	EDGE	latinworks13wycl=equiuocacionem | iohanniswyclifde12wycl=equiuocacionem		2	accept
+46	R3	latinworks13wycl=legum | iohanniswyclifd00losegoog=tegum | iohanniswyclifd01losegoog=legutn | iohanniswyclifde12wycl=legum		4	plate
+56	R3a	latinworks13wycl=eis | iohanniswyclifd00losegoog=cis | iohanniswyclifd01losegoog=eis | iohanniswyclifde12wycl=eis		4	accept
+60	R2	latinworks13wycl=informari | iohanniswyclifd00losegoog=inforraart | iohanniswyclifd01losegoog=informari | iohanniswyclifde12wycl=informari		4	accept
+69	R3	latinworks13wycl=nam | iohanniswyclifd00losegoog=dam | iohanniswyclifd01losegoog=naui | iohanniswyclifde12wycl=nam		4	plate
+74	R3	latinworks13wycl=ii | iohanniswyclifd00losegoog=11 | iohanniswyclifd01losegoog=ii | iohanniswyclifde12wycl=11		4	plate
+77	R3	latinworks13wycl=siper | iohanniswyclifd00losegoog=papa | iohanniswyclifd01losegoog=papa		3	plate
+82	R4	latinworks13wycl=stillauerii | iohanniswyclifd00losegoog=slillauent | iohanniswyclifd01losegoog=sttllaucrit | iohanniswyclifde12wycl=stilinuent		4	plate
+84	R4	latinworks13wycl=terrtwl | iohanniswyclifd00losegoog=terrain | iohanniswyclifd01losegoog=terram | iohanniswyclifde12wycl=terrain		4	plate
+85	R2	latinworks13wycl=ungm | iohanniswyclifd00losegoog=lingua | iohanniswyclifd01losegoog=lingua | iohanniswyclifde12wycl=lingua		4	accept
+107	R3a	latinworks13wycl=multe | iohanniswyclifd00losegoog=mulle | iohanniswyclifd01losegoog=multe | iohanniswyclifde12wycl=multe		4	accept
+120	R5a	latinworks13wycl=fluxibile | iohanniswyclifd00losegoog=fluxibilc | iohanniswyclifd01losegoog=fluxibile | iohanniswyclifde12wycl=fluxibile		4	accept
+124	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=esc | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+127	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+128	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+131	R2	latinworks13wycl=muha | iohanniswyclifd00losegoog=niulia | iohanniswyclifd01losegoog=mulia | iohanniswyclifde12wycl=multa		4	accept
+138	R2	latinworks13wycl=sensum | iohanniswyclifd00losegoog=cnsum | iohanniswyclifd01losegoog=sensum | iohanniswyclifde12wycl=sensum		4	accept
+164	R5a	latinworks13wycl=loycus | iohanniswyclifd00losegoog=loycus | iohanniswyclifd01losegoog=loycus | iohanniswyclifde12wycl=loycus		4	accept
+202	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=sed | iohanniswyclifd01losegoog=std | iohanniswyclifde12wycl=sed		4	accept
+215	R3a	latinworks13wycl=absit | iohanniswyclifd00losegoog=sit | iohanniswyclifd01losegoog=absit | iohanniswyclifde12wycl=absit		4	accept
+220	EDGE	latinworks13wycl=effusionem | iohanniswyclifde12wycl=effusionem		2	accept
+221	EDGE	latinworks13wycl=huiusmodi | iohanniswyclifde12wycl=huiusmodi		2	accept

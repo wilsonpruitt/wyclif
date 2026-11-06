@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=quis | iohanniswyclifde12wycl=quis		2	accept
+1	EDGE	latinworks13wycl=rimatur | iohanniswyclifde12wycl=rimatur		2	accept
+2	EDGE	latinworks13wycl=ueritatem | iohanniswyclifde12wycl=ueritatem		2	accept
+10	R3a	latinworks13wycl=eum | iohanniswyclifd00losegoog=eum | iohanniswyclifd01losegoog=eum | iohanniswyclifde12wycl=euro		4	accept
+13	R2	latinworks13wycl=tantum | iohanniswyclifd00losegoog=tantum | iohanniswyclifd01losegoog=tarhum | iohanniswyclifde12wycl=tantum		4	accept
+23	R2	latinworks13wycl=sacramentum | iohanniswyclifd00losegoog=tacramenluro | iohanniswyclifd01losegoog=sacramentum | iohanniswyclifde12wycl=sacramentum		4	accept
+39	R5a	latinworks13wycl=uiii | iohanniswyclifd00losegoog=uiii | iohanniswyclifd01losegoog=uiii | iohanniswyclifde12wycl=uiii		4	accept
+41	R3	latinworks13wycl=ia | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=1 | iohanniswyclifde12wycl=ia		4	plate
+47	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=ciirisi | iohanniswyclifde12wycl=christi		4	accept
+48	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	accept
+50	R3a	latinworks13wycl=illis | iohanniswyclifd00losegoog=illis | iohanniswyclifd01losegoog=illis | iohanniswyclifde12wycl=illi		4	accept
+51	R2	latinworks13wycl=accidentibus | iohanniswyclifd00losegoog=accideiuibus | iohanniswyclifd01losegoog=accideiitibus | iohanniswyclifde12wycl=s		4	accept
+68	R3a	latinworks13wycl=tota | iohanniswyclifd00losegoog=lota | iohanniswyclifd01losegoog=tola | iohanniswyclifde12wycl=tota		4	accept
+75	R3a	latinworks13wycl=ghristus | iohanniswyclifd00losegoog=ctiristus | iohanniswyclifd01losegoog=chrisius | iohanniswyclifde12wycl=christus		4	accept
+82	R3a	latinworks13wycl=tui | iohanniswyclifd00losegoog=lui | iohanniswyclifd01losegoog=tui | iohanniswyclifde12wycl=tui		4	accept
+86	R3a	latinworks13wycl=contentum | iohanniswyclifd00losegoog=coutentum | iohanniswyclifd01losegoog=contentum | iohanniswyclifde12wycl=contentum		4	accept
+88	R3a	latinworks13wycl=illis | iohanniswyclifd00losegoog=luis | iohanniswyclifd01losegoog=illis | iohanniswyclifde12wycl=illis		4	accept
+92	R2	latinworks13wycl=suum | iohanniswyclifd00losegoog=suum | iohanniswyclifd01losegoog=suura | iohanniswyclifde12wycl=suum		4	accept
+102	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=cbristi | iohanniswyclifde12wycl=christi		4	accept
+108	R5a	latinworks13wycl=scoti | iohanniswyclifd00losegoog=scoti | iohanniswyclifd01losegoog=seoti | iohanniswyclifde12wycl=scoti		4	accept
+111	R3a	latinworks13wycl=significat | iohanniswyclifd00losegoog=significat | iohanniswyclifd01losegoog=significai | iohanniswyclifde12wycl=significat		4	accept
+140	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=u | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+151	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=ec | iohanniswyclifde12wycl=et		4	accept
+154	R5a	latinworks13wycl=hereticare | iohanniswyclifd00losegoog=hereticare | iohanniswyclifd01losegoog=hereticarc | iohanniswyclifde12wycl=hereticare		4	accept
+160	R3a	latinworks13wycl=nimis | iohanniswyclifd00losegoog=dimis | iohanniswyclifd01losegoog=nimis | iohanniswyclifde12wycl=nimis		4	accept
+162	R2	latinworks13wycl=multi | iohanniswyclifd00losegoog=multi | iohanniswyclifd01losegoog=muhi | iohanniswyclifde12wycl=multi		4	accept
+164	R3	latinworks13wycl=erant | iohanniswyclifd00losegoog=erani | iohanniswyclifd01losegoog=cram | iohanniswyclifde12wycl=erant		4	plate
+195	R2	latinworks13wycl=alium | iohanniswyclifd00losegoog=aliura | iohanniswyclifd01losegoog=alium | iohanniswyclifde12wycl=alium		4	accept
+207	R5a	latinworks13wycl=iii | iohanniswyclifd00losegoog=iii | iohanniswyclifd01losegoog=iii | iohanniswyclifde12wycl=iii		4	accept
+210	R4	latinworks13wycl=itaque | iohanniswyclifd00losegoog=iiaque | iohanniswyclifd01losegoog=iiaque | iohanniswyclifde12wycl=itaque		4	plate

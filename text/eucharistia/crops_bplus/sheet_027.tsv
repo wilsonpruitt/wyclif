@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+27.1	299	50	SUB	bt=Christi | fordham= | vote=ghristi
+27.2	302	194	SUB	bt=partes | fordham= | vote=paries
+27.3	303	104	BT-ONLY	bt=capituli. | fordham= | vote=
+27.4	304	20	BT-ONLY	bt=ydemptice | fordham= | vote=
+27.5	304	28	SUB	bt=Christi | fordham= | vote=ghristi
+27.6	304	181	SUB	bt=et ita panem illum | fordham= | vote=etitapanem ilium
+27.7	307	21	SUB	bt=pertingere | fordham= | vote=pertinsere
+27.8	307	131	SUB	bt=arguitur | fordham= | vote=areuitur

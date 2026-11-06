@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+8.1	57	200	SUB	bt=sacramenti; | fordham= | vote=sacraomenti
+8.2	58	58	SUB	bt=IVᵒ, | fordham= | vote=iu
+8.3	58	60	SUB	bt=XIᵃ, | fordham= | vote=xi
+8.4	58	62	SUB	bt=IIᵒ | fordham= | vote=ii
+8.5	58	100	SUB	bt=IVᵒ | fordham= | vote=iu
+8.6	59	137	SUB	bt=succederet | fordham= | vote=sosuccederet
+8.7	62	67	SUB	bt=subreperant, | fordham= | vote=subrepserant
+8.8	66	33	BT-ONLY	bt=bipartita. | fordham= | vote=

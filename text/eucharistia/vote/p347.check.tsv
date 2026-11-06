@@ -1,0 +1,12 @@
+pos	rule	forms	support	voters	resolution
+0	HEAD	altaris.			plate
+3	R3a	latinworks13wycl=natura | iohanniswyclifd00losegoog=natura | iohanniswyclifd01losegoog=datura | iohanniswyclifde12wycl=natura		4	accept
+17	R6a	latinworks13wycl=ocu | iohanniswyclifd00losegoog=oculo | iohanniswyclifd01losegoog=ocu | iohanniswyclifde12wycl=ocu		4	accept
+33	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christiy | iohanniswyclifde12wycl=christi		4	accept
+39	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+45	INS?	testimonio	2	4	plate
+85	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+88	R5a	latinworks13wycl=trutannici | iohanniswyclifd00losegoog=trutannici | iohanniswyclifd01losegoog=trutannici | iohanniswyclifde12wycl=trutannici		4	accept
+98	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+110	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+166	R5a	latinworks13wycl=unums | iohanniswyclifd00losegoog=unums | iohanniswyclifd01losegoog=unums | iohanniswyclifde12wycl=unums		4	accept

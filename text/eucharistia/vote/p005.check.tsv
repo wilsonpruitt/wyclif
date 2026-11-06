@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=alii | iohanniswyclifde12wycl=alii		2	accept
+1	EDGE	latinworks13wycl=doctores | iohanniswyclifde12wycl=doctores		2	accept
+2	EDGE	latinworks13wycl=prouecciores | iohanniswyclifde12wycl=prouecciores		2	accept
+4	R5	latinworks13wycl=petrus | iohanniswyclifd00losegoog=petrus | iohanniswyclifde12wycl=petrus		3	plate
+5	R5a	latinworks13wycl=lombardus | iohanniswyclifd00losegoog=lombardus | iohanniswyclifd01losegoog=lombardus | iohanniswyclifde12wycl=lombardus		4	accept
+10	R3a	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=11011		4	accept
+11	R4	latinworks13wycl=repugnat | iohanniswyclifd00losegoog=repugnac | iohanniswyclifd01losegoog=repugnac | iohanniswyclifde12wycl=repugnat		4	plate
+27	R3	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=set | iohanniswyclifde12wycl=et		4	plate
+30	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukarislia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+34	R2	latinworks13wycl=uinum | iohanniswyclifd00losegoog=uinuni | iohanniswyclifd01losegoog=uinum | iohanniswyclifde12wycl=uinura		4	accept
+40	R5a	latinworks13wycl=anshelmum | iohanniswyclifd00losegoog=anshelmum | iohanniswyclifd01losegoog=anshelmum | iohanniswyclifde12wycl=anshelmum		4	accept
+69	R2	latinworks13wycl=potenciam | iohanniswyclifd00losegoog=polenciara | iohanniswyclifd01losegoog=potenciani | iohanniswyclifde12wycl=potenciam		4	accept
+71	R2	latinworks13wycl=hostiam | iohanniswyclifd00losegoog=hosiiam | iohanniswyclifd01losegoog=hosttan | iohanniswyclifde12wycl=hostiam		4	accept
+73	R2	latinworks13wycl=magis | iohanniswyclifd00losegoog=tnagis | iohanniswyclifd01losegoog=magis | iohanniswyclifde12wycl=magis		4	accept
+76	R3a	latinworks13wycl=modo | iohanniswyclifd00losegoog=mode | iohanniswyclifd01losegoog=modo | iohanniswyclifde12wycl=modo		4	accept
+93	R3a	latinworks13wycl=multi | iohanniswyclifd00losegoog=mulli | iohanniswyclifd01losegoog=multi | iohanniswyclifde12wycl=multi		4	accept
+97	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=iu | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+101	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+102	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+105	R5a	latinworks13wycl=thomam | iohanniswyclifd00losegoog=thomani | iohanniswyclifd01losegoog=thomam | iohanniswyclifde12wycl=thomara		4	accept
+121	R2	latinworks13wycl=tollit | iohanniswyclifd00losegoog=lollii | iohanniswyclifd01losegoog=tollit | iohanniswyclifde12wycl=tollit		4	accept
+135	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=loeukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+141	R3a	latinworks13wycl=multe | iohanniswyclifd00losegoog=muue | iohanniswyclifd01losegoog=multe | iohanniswyclifde12wycl=multe		4	accept
+168	R5a	latinworks13wycl=nicholai | iohanniswyclifd00losegoog=nicholai | iohanniswyclifd01losegoog=nicholai | iohanniswyclifde12wycl=nicholai		4	accept
+169	R3	latinworks13wycl=ii1 | iohanniswyclifd00losegoog=ii | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=ii1		4	plate
+170	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+173	R6a	latinworks13wycl=iii11 | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=iii | iohanniswyclifde12wycl=iii		4	accept
+187	NW	latinworks13wycl=incompetenciam | iohanniswyclifd00losegoog=incompetenciam | iohanniswyclifd01losegoog=incompetenciam | iohanniswyclifde12wycl=incompetenciam		4	plate
+208	NW	latinworks13wycl=hereticantem | iohanniswyclifd00losegoog=hereticantem | iohanniswyclifd01losegoog=hereticantem | iohanniswyclifde12wycl=hereticantem		4	plate

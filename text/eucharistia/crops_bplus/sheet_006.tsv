@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+6.1	38	0	SUB	bt=et | fordham= | vote=ei
+6.2	39	120	SUB	bt=sancti | fordham= | vote=sancli
+6.3	40	110	BT-ONLY	bt=6 | fordham= | vote=
+6.4	41	109	SUB	bt=IVᵒ | fordham= | vote=iu
+6.5	41	204	SUB	bt=VIᵒ, | fordham= | vote=ui
+6.6	44	75	SUB	bt=indisposuit | fordham= | vote=indisnosuit
+6.7	44	152	BT-ONLY	bt=primum | fordham= | vote=
+6.8	44	207	SUB	bt=me, | fordham= | vote=meio

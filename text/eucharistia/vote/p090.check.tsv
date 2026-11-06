@@ -1,0 +1,42 @@
+pos	rule	forms	support	voters	resolution
+9	R2	latinworks13wycl=historiam | iohanniswyclifd00losegoog=hisconam | iohanniswyclifd01losegoog=historiam | iohanniswyclifde12wycl=historiam		4	accept
+15	R2	latinworks13wycl=demonstrari | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=demonstrari | iohanniswyclifde12wycl=demonstrari		4	accept
+18	R6a	latinworks13wycl=panisille | iohanniswyclifd00losegoog=panisille | iohanniswyclifd01losegoog=panis | iohanniswyclifde12wycl=panisille		4	accept
+19	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=sett | iohanniswyclifd01losegoog=sed | iohanniswyclifde12wycl=sed		4	accept
+22	R2	latinworks13wycl=formam | iohanniswyclifd00losegoog=foritiam | iohanniswyclifd01losegoog=formam | iohanniswyclifde12wycl=formam		4	accept
+24	R2	latinworks13wycl=declarat | iohanniswyclifd00losegoog=dcdarac | iohanniswyclifd01losegoog=dedarat | iohanniswyclifde12wycl=declarat		4	accept
+26	R5a	latinworks13wycl=armachanus | iohanniswyclifd00losegoog=armachanus | iohanniswyclifd01losegoog=armachanus | iohanniswyclifde12wycl=armachanus		4	accept
+27	R2	latinworks13wycl=ix | iohanniswyclifd00losegoog=ix | iohanniswyclifd01losegoog=ix | iohanniswyclifde12wycl=1x		4	accept
+51	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ul | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+52	R5a	latinworks13wycl=mattheus | iohanniswyclifd00losegoog=matlheus | iohanniswyclifd01losegoog=mattheus | iohanniswyclifde12wycl=mattheus		4	accept
+54	R5a	latinworks13wycl=hebraico | iohanniswyclifd00losegoog=hebraico | iohanniswyclifd01losegoog=hebraico | iohanniswyclifde12wycl=hebraico		4	accept
+55	R5a	latinworks13wycl=marcus | iohanniswyclifd00losegoog=marcus | iohanniswyclifd01losegoog=marcus | iohanniswyclifde12wycl=marcus		4	accept
+57	R5a	latinworks13wycl=ytalico | iohanniswyclifd00losegoog=ytalico | iohanniswyclifd01losegoog=ytaiico | iohanniswyclifde12wycl=ytalico		4	accept
+58	R5a	latinworks13wycl=lucas | iohanniswyclifd00losegoog=lucas | iohanniswyclifd01losegoog=lucas | iohanniswyclifde12wycl=lucas		4	accept
+80	NW	latinworks13wycl=contratis | iohanniswyclifd00losegoog=codtratis | iohanniswyclifd01losegoog=contratis | iohanniswyclifde12wycl=contratis		4	plate
+88	R5a	latinworks13wycl=anglico | iohanniswyclifd00losegoog=anglico | iohanniswyclifd01losegoog=anglico | iohanniswyclifde12wycl=anglico		4	accept
+91	R3a	latinworks13wycl=linguis | iohanniswyclifd00losegoog=imguis | iohanniswyclifd01losegoog=unguis | iohanniswyclifde12wycl=linguis		4	accept
+101	R2	latinworks13wycl=latinum | iohanniswyclifd00losegoog=lanoura | iohanniswyclifd01losegoog=latmum | iohanniswyclifde12wycl=latinum		4	accept
+108	R2	latinworks13wycl=gentem | iohanniswyclifd00losegoog=geritcm | iohanniswyclifd01losegoog=gen | iohanniswyclifde12wycl=gentem		4	accept
+110	R2	latinworks13wycl=tempus | iohanniswyclifd00losegoog=tcrapus | iohanniswyclifd01losegoog=tempus | iohanniswyclifde12wycl=tempus		4	accept
+159	R3	latinworks13wycl=n | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=hi		3	plate
+161	R5	latinworks13wycl=romana | iohanniswyclifd01losegoog=romaua | iohanniswyclifde12wycl=romana		3	plate
+163	R2	latinworks13wycl=habet | iohanniswyclifd00losegoog=hubel | iohanniswyclifd01losegoog=habet | iohanniswyclifde12wycl=habet		4	accept
+164	R2	latinworks13wycl=fidem | iohanniswyclifd00losegoog=fidcni | iohanniswyclifd01losegoog=fidcm | iohanniswyclifde12wycl=fidem		4	accept
+168	R3	latinworks13wycl=non | iohanniswyclifd00losegoog=nod | iohanniswyclifd01losegoog=uou | iohanniswyclifde12wycl=non		4	plate
+198	R5a	latinworks13wycl=mattheus | iohanniswyclifd00losegoog=maitheus | iohanniswyclifd01losegoog=mattheus | iohanniswyclifde12wycl=mattheus		4	accept
+206	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+211	R2	latinworks13wycl=noui | iohanniswyclifd00losegoog=itofi | iohanniswyclifd01losegoog=noui | iohanniswyclifde12wycl=noui		4	accept
+216	R2	latinworks13wycl=effundetur | iohanniswyclifd00losegoog=effunsa | iohanniswyclifd01losegoog=effundetur | iohanniswyclifde12wycl=effundetur		4	accept
+217	R2	latinworks13wycl=in | iohanniswyclifd00losegoog=deturiti | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+220	R5a	latinworks13wycl=lucas | iohanniswyclifd00losegoog=lucas | iohanniswyclifd01losegoog=lucas | iohanniswyclifde12wycl=lucas		4	accept
+222	R3	latinworks13wycl=xxii | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=xxi | iohanniswyclifde12wycl=xxii		4	plate
+223	R3	latinworks13wycl=20 | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=1 | iohanniswyclifde12wycl=∅		4	plate
+226	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+232	R3a	latinworks13wycl=meo | iohanniswyclifd00losegoog=meo | iohanniswyclifd01losegoog=uieo | iohanniswyclifde12wycl=meo		4	accept
+236	EDGE	latinworks13wycl=uobis | iohanniswyclifde12wycl=uobis		2	accept
+237	EDGE	latinworks13wycl=fundetur | iohanniswyclifde12wycl=fundetur		2	accept
+238	THIN	latinworks13wycl=marcus | iohanniswyclifde12wycl=marcus		2	plate
+239	EDGE	latinworks13wycl=uero | iohanniswyclifde12wycl=uero		2	accept
+240	EDGE	latinworks13wycl=xiu | iohanniswyclifde12wycl=xiu		2	accept
+241	EDGE	latinworks13wycl=24 | iohanniswyclifde12wycl=24		2	accept

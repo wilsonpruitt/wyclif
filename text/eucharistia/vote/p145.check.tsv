@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=nutriendo		1	accept
+7	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=noo | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+13	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=e | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+14	R2	latinworks13wycl=ita | iohanniswyclifd00losegoog=ila | iohanniswyclifd01losegoog=ita | iohanniswyclifde12wycl=ita		4	accept
+16	R3a	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicui | iohanniswyclifd01losegoog=sicut | iohanniswyclifde12wycl=sicut		4	accept
+25	R2	latinworks13wycl=tantum | iohanniswyclifd00losegoog=cantuin | iohanniswyclifd01losegoog=tantum | iohanniswyclifde12wycl=tantuni		4	accept
+34	R5	latinworks13wycl=transaccidencia | iohanniswyclifd01losegoog=transaccidencia | iohanniswyclifde12wycl=transaccidencia		3	plate
+62	R2	latinworks13wycl=experiencia | iohanniswyclifd00losegoog=ckpcriencia | iohanniswyclifd01losegoog=experiencia | iohanniswyclifde12wycl=experiencia		4	accept
+78	R4	latinworks13wycl=stulticias | iohanniswyclifd00losegoog=siulticias | iohanniswyclifd01losegoog=siulticias | iohanniswyclifde12wycl=stulticias		4	plate
+83	R2	latinworks13wycl=tantum | iohanniswyclifd00losegoog=taiilum | iohanniswyclifd01losegoog=tantum | iohanniswyclifde12wycl=tantum		4	accept
+132	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+144	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=quara | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+186	R3a	latinworks13wycl=uini | iohanniswyclifd00losegoog=uini | iohanniswyclifd01losegoog=uini | iohanniswyclifde12wycl=uilli		4	accept
+193	R3a	latinworks13wycl=illum | iohanniswyclifd00losegoog=ilium | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		4	accept
+205	R4	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukarislia | iohanniswyclifd01losegoog=cukaristia | iohanniswyclifde12wycl=eukanstia		4	plate

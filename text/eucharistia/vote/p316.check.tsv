@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=fallaciam | iohanniswyclifde12wycl=fallaciam		2	accept
+2	R5	latinworks13wycl=gibbonensis | iohanniswyclifd01losegoog=gibbonensis | iohanniswyclifde12wycl=gibbonensis		3	plate
+11	R3	latinworks13wycl=secta | iohanniswyclifd01losegoog=secla | iohanniswyclifde12wycl=secta		3	plate
+13	R3	latinworks13wycl=tanta | iohanniswyclifd01losegoog=lama | iohanniswyclifde12wycl=tanta		3	plate
+24	R3	latinworks13wycl=determinat | iohanniswyclifd01losegoog=determinat | iohanniswyclifde12wycl=determinate		3	plate
+35	R3	latinworks13wycl=uicario | iohanniswyclifd01losegoog=uicano | iohanniswyclifde12wycl=uicario		3	plate
+36	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=eih | iohanniswyclifde12wycl=et		3	accept
+49	R5	latinworks13wycl=archipresbiter | iohanniswyclifd01losegoog=archipresbtter | iohanniswyclifde12wycl=archipresbiter		3	plate
+58	R5	latinworks13wycl=of | iohanniswyclifd01losegoog=of | iohanniswyclifde12wycl=of		3	plate
+62	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eakaiistia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+63	R2	latinworks13wycl=sit | iohanniswyclifd00losegoog=sl | iohanniswyclifd01losegoog=sir | iohanniswyclifde12wycl=sit		4	accept
+64	R2	latinworks13wycl=latria | iohanniswyclifd00losegoog=htna | iohanniswyclifd01losegoog=latria | iohanniswyclifde12wycl=latria		4	accept
+65	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=rel | iohanniswyclifd01losegoog=uel | iohanniswyclifde12wycl=uel		4	accept
+66	R2	latinworks13wycl=dulia | iohanniswyclifd00losegoog=dsla | iohanniswyclifd01losegoog=dulia | iohanniswyclifde12wycl=dulia		4	accept
+67	R2	latinworks13wycl=adoranda | iohanniswyclifd00losegoog=donndy | iohanniswyclifd01losegoog=adoranda | iohanniswyclifde12wycl=adoranda		4	accept
+69	R2	latinworks13wycl=uidetur | iohanniswyclifd00losegoog=ridetcr | iohanniswyclifd01losegoog=uidetur | iohanniswyclifde12wycl=uidetur		4	accept
+73	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=xxa | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+74	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=sst | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+75	R2	latinworks13wycl=adoranda | iohanniswyclifd00losegoog=adocaikia | iohanniswyclifd01losegoog=adoranda | iohanniswyclifde12wycl=adoranda		4	accept
+77	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ot | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+78	R2	latinworks13wycl=ymago | iohanniswyclifd00losegoog=ymago | iohanniswyclifd01losegoog=ypiago | iohanniswyclifde12wycl=ymago		4	accept
+80	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+82	R3	latinworks13wycl=ut | iohanniswyclifd00losegoog=o | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	plate
+85	R3	latinworks13wycl=ut | iohanniswyclifd00losegoog=nt | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	plate
+92	R3	latinworks13wycl=ut | iohanniswyclifd00losegoog=ot | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	plate
+103	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=nod | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+145	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+154	R2	latinworks13wycl=inferiori | iohanniswyclifd00losegoog=inferiori | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=inferiori		4	accept
+159	R3a	latinworks13wycl=omnis | iohanniswyclifd00losegoog=omnis | iohanniswyclifd01losegoog=omnia | iohanniswyclifde12wycl=omnis		4	accept
+181	R5a	latinworks13wycl=originatus | iohanniswyclifd00losegoog=originatus | iohanniswyclifd01losegoog=originatus | iohanniswyclifde12wycl=originatus		4	accept
+198	R3a	latinworks13wycl=xi | iohanniswyclifd00losegoog=xi | iohanniswyclifd01losegoog=xl | iohanniswyclifde12wycl=xi		4	accept
+206	R2	latinworks13wycl=omnem | iohanniswyclifd00losegoog=omnem | iohanniswyclifd01losegoog=omnem | iohanniswyclifde12wycl=oranem		4	accept

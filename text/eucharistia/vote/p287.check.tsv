@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+16	R2	latinworks13wycl=quanto | iohanniswyclifd00losegoog=qusnio | iohanniswyclifd01losegoog=quanto | iohanniswyclifde12wycl=quanto		4	accept
+28	R2	latinworks13wycl=pnus | iohanniswyclifd00losegoog=prius | iohanniswyclifd01losegoog=prius | iohanniswyclifde12wycl=nnus		4	accept
+51	R2	latinworks13wycl=autem | iohanniswyclifd00losegoog=autera | iohanniswyclifd01losegoog=autem | iohanniswyclifde12wycl=autem		4	accept
+104	R2	latinworks13wycl=istam | iohanniswyclifd00losegoog=istara | iohanniswyclifd01losegoog=istam | iohanniswyclifde12wycl=istam		4	accept
+142	NW	latinworks13wycl=porizoma | iohanniswyclifd00losegoog=porizoma | iohanniswyclifd01losegoog=porizoma | iohanniswyclifde12wycl=porizoma		4	plate
+173	R3a	latinworks13wycl=facta | iohanniswyclifd00losegoog=facia | iohanniswyclifd01losegoog=facta | iohanniswyclifde12wycl=facta		4	accept
+178	R2	latinworks13wycl=doctorum | iohanniswyclifd00losegoog=doclorura | iohanniswyclifd01losegoog=doctorum | iohanniswyclifde12wycl=doctorum		4	accept
+194	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+211	R2	latinworks13wycl=admittere | iohanniswyclifd00losegoog=admittere | iohanniswyclifd01losegoog=adniitterc | iohanniswyclifde12wycl=admittere		4	accept
+226	EDGE	latinworks13wycl=practicis | iohanniswyclifde12wycl=practicis		2	accept

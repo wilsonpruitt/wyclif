@@ -1,0 +1,36 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=ymmoiare | iohanniswyclifd01losegoog=ymmoiare		2	plate
+15	R3	latinworks13wycl=iii | iohanniswyclifd00losegoog=hi | iohanniswyclifd01losegoog=111 | iohanniswyclifde12wycl=iii		4	plate
+16	R3a	latinworks13wycl=i | iohanniswyclifd00losegoog=5 | iohanniswyclifd01losegoog=i | iohanniswyclifde12wycl=i		4	accept
+18	R4	latinworks13wycl=autem | iohanniswyclifd00losegoog=autera | iohanniswyclifd01losegoog=autcm | iohanniswyclifde12wycl=autera		4	plate
+22	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=quara | iohanniswyclifd01losegoog=quacn | iohanniswyclifde12wycl=quam		4	accept
+29	R3a	latinworks13wycl=habet | iohanniswyclifd00losegoog=babel | iohanniswyclifd01losegoog=habet | iohanniswyclifde12wycl=habet		4	accept
+35	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=er | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+50	THIN	latinworks13wycl=triplisciicet		1	plate
+51	THIN	latinworks13wycl=iaudatiue		1	plate
+61	R3a	latinworks13wycl=patet | iohanniswyclifd00losegoog=palet | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=patet		4	accept
+73	R3a	latinworks13wycl=ghristus | iohanniswyclifd00losegoog=ghristus | iohanniswyclifd01losegoog=christus | iohanniswyclifde12wycl=ghristus		4	accept
+77	INS	effectiue	3	4	accept
+90	R4	latinworks13wycl=dederunt | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=ucl | iohanniswyclifde12wycl=∅		4	plate
+91	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=uel | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=uel		4	accept
+98	INS	dederunt	3	4	accept
+100	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+111	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+118	R3a	latinworks13wycl=facerer | iohanniswyclifd00losegoog=facerc | iohanniswyclifd01losegoog=facere | iohanniswyclifde12wycl=facere		4	accept
+119	R2	latinworks13wycl=quantum | iohanniswyclifd00losegoog=qubutum | iohanniswyclifd01losegoog=quantum | iohanniswyclifde12wycl=quantum		4	accept
+128	R2	latinworks13wycl=sacrificare | iohanniswyclifd00losegoog=sacrificare | iohanniswyclifd01losegoog=sacrificare | iohanniswyclifde12wycl=saenncare		4	accept
+133	R3a	latinworks13wycl=accione | iohanniswyclifd00losegoog=acetone | iohanniswyclifd01losegoog=accione | iohanniswyclifde12wycl=accione		4	accept
+139	R3a	latinworks13wycl=interpellet | iohanniswyclifd00losegoog=inter | iohanniswyclifd01losegoog=interpellet | iohanniswyclifde12wycl=interpellet		4	accept
+146	R2	latinworks13wycl=quantum | iohanniswyclifd00losegoog=quantum | iohanniswyclifd01losegoog=quhhtum | iohanniswyclifde12wycl=quantum		4	accept
+184	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+209	EDGE	latinworks13wycl=5		1	accept
+210	THIN	latinworks13wycl=acde		1	plate
+211	EDGE	latinworks13wycl=et		1	accept
+212	EDGE	latinworks13wycl=deest		1	accept
+213	EDGE	latinworks13wycl=10		1	accept
+214	EDGE	latinworks13wycl=dicium		1	accept
+215	THIN	latinworks13wycl=d		1	plate
+216	THIN	latinworks13wycl=dak		1	plate
+217	EDGE	latinworks13wycl=e		1	accept
+218	THIN	latinworks13wycl=dedh		1	plate
+219	THIN	latinworks13wycl=deante		1	plate

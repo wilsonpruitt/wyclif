@@ -1,0 +1,28 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=inmittatur | iohanniswyclifd01losegoog=inmittatur		2	accept
+1	EDGE	latinworks13wycl=in | iohanniswyclifd01losegoog=in		2	accept
+2	EDGE	latinworks13wycl=calicem | iohanniswyclifd01losegoog=calicem		2	accept
+3	EDGE	latinworks13wycl=illud | iohanniswyclifd01losegoog=illud		2	accept
+8	R3	latinworks13wycl=nec | iohanniswyclifd00losegoog=sed | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=sed		4	plate
+28	R3a	latinworks13wycl=accidencia | iohanniswyclifd00losegoog=accidencia | iohanniswyclifd01losegoog=accidencia | iohanniswyclifde12wycl=accidentia		4	accept
+43	R3a	latinworks13wycl=accidencia | iohanniswyclifd00losegoog=accidencia | iohanniswyclifd01losegoog=accidencia | iohanniswyclifde12wycl=accidentia		4	accept
+49	R3a	latinworks13wycl=accidencia | iohanniswyclifd00losegoog=accidencia | iohanniswyclifd01losegoog=accidencia | iohanniswyclifde12wycl=accidentia		4	accept
+56	R2	latinworks13wycl=uirtus | iohanniswyclifd00losegoog=rirlns | iohanniswyclifd01losegoog=uirtus | iohanniswyclifde12wycl=uirtus		4	accept
+64	R2	latinworks13wycl=illam | iohanniswyclifd00losegoog=illatn | iohanniswyclifd01losegoog=illam | iohanniswyclifde12wycl=illam		4	accept
+105	R3a	latinworks13wycl=ergo | iohanniswyclifd00losegoog=ergo | iohanniswyclifd01losegoog=ereo | iohanniswyclifde12wycl=ergo		4	accept
+116	R5a	latinworks13wycl=insorbeat | iohanniswyclifd00losegoog=insorbeat | iohanniswyclifd01losegoog=insorbeat | iohanniswyclifde12wycl=insorbeat		4	accept
+128	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+135	R5a	latinworks13wycl=fluxibile | iohanniswyclifd00losegoog=lluxibile | iohanniswyclifd01losegoog=fluxibilei | iohanniswyclifde12wycl=fluxibile		4	accept
+138	R3	latinworks13wycl=nec | iohanniswyclifd00losegoog=io | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+147	R3a	latinworks13wycl=lateris | iohanniswyclifd00losegoog=uteris | iohanniswyclifd01losegoog=lateris | iohanniswyclifde12wycl=lateris		4	accept
+149	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+157	R2	latinworks13wycl=elementum | iohanniswyclifd00losegoog=eleraenlum | iohanniswyclifd01losegoog=elementum | iohanniswyclifde12wycl=elementum		4	accept
+206	R3a	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=nou | iohanniswyclifde12wycl=non		4	accept
+211	THIN	latinworks13wycl=assimilan | iohanniswyclifd01losegoog=assimilari		2	plate
+212	THIN	latinworks13wycl=uino | iohanniswyclifd01losegoog=umo		2	plate
+213	EDGE	latinworks13wycl=nec | iohanniswyclifd01losegoog=nec		2	accept
+214	EDGE	latinworks13wycl=facta | iohanniswyclifd01losegoog=facta		2	accept
+215	EDGE	latinworks13wycl=assimilacione | iohanniswyclifd01losegoog=assimilacione		2	accept
+216	THIN	latinworks13wycl=oportetquod		1	plate
+217	THIN	latinworks13wycl=sitad		1	plate
+218	EDGE	latinworks13wycl=omnem		1	accept

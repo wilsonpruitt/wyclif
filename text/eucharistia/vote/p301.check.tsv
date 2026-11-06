@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+6	R3	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christ | iohanniswyclifd01losegoog=chnsli | iohanniswyclifde12wycl=christi		4	plate
+7	R4	latinworks13wycl=intercepta | iohanniswyclifd00losegoog=intercepla | iohanniswyclifd01losegoog=intercepla | iohanniswyclifde12wycl=intercepta		4	plate
+21	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=schrisii | iohanniswyclifd01losegoog=schristi | iohanniswyclifde12wycl=christi		4	accept
+31	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+40	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+42	R5a	latinworks13wycl=septipedale | iohanniswyclifd00losegoog=septipedale | iohanniswyclifd01losegoog=septipedale | iohanniswyclifde12wycl=septipedale		4	accept
+46	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=u | iohanniswyclifde12wycl=ut		4	accept
+47	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=in | iohanniswyclifd01losegoog=io | iohanniswyclifde12wycl=in		4	accept
+50	R4a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifde12wycl=hie		3	accept
+54	R4	latinworks13wycl=qualitas | iohanniswyclifd00losegoog=qualiias | iohanniswyclifd01losegoog=qualiias | iohanniswyclifde12wycl=qualitas		4	plate
+64	R3a	latinworks13wycl=substancia | iohanniswyclifd00losegoog=substantia | iohanniswyclifd01losegoog=substancia | iohanniswyclifde12wycl=substancia		4	accept
+66	R5a	latinworks13wycl=qualificata | iohanniswyclifd00losegoog=qualificata | iohanniswyclifd01losegoog=qualificata | iohanniswyclifde12wycl=qualificata		4	accept
+99	R3a	latinworks13wycl=cum | iohanniswyclifd00losegoog=cura | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		4	accept
+101	R5a	latinworks13wycl=perspectiuorum | iohanniswyclifd00losegoog=perspeciiuorura | iohanniswyclifd01losegoog=perspectiuorum | iohanniswyclifde12wycl=perspectiuorum		4	accept
+122	R2	latinworks13wycl=omnem | iohanniswyclifd00losegoog=omnera | iohanniswyclifd01losegoog=omnem | iohanniswyclifde12wycl=omnem		4	accept
+125	R5a	latinworks13wycl=mukephi | iohanniswyclifd00losegoog=mukephi | iohanniswyclifd01losegoog=mukephi | iohanniswyclifde12wycl=mukephi		4	accept
+128	R5a	latinworks13wycl=uitilonem | iohanniswyclifd00losegoog=uitilonera | iohanniswyclifd01losegoog=uitilonem | iohanniswyclifde12wycl=uitilonem		4	accept
+154	R2	latinworks13wycl=oculo | iohanniswyclifd00losegoog=ociilo | iohanniswyclifd01losegoog=oculo | iohanniswyclifde12wycl=oculo		4	accept
+155	R4	latinworks13wycl=corporali | iohanniswyclifd00losegoog=corporal | iohanniswyclifd01losegoog=corporal | iohanniswyclifde12wycl=corporali		4	plate
+180	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=esl | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+181	R3	latinworks13wycl=nos | iohanniswyclifd00losegoog=noi | iohanniswyclifd01losegoog=nos | iohanniswyclifde12wycl=tios		4	plate
+182	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+184	R4	latinworks13wycl=creditur | iohanniswyclifd00losegoog=crediiur | iohanniswyclifd01losegoog=crediiur | iohanniswyclifde12wycl=creditur		4	plate
+189	R5a	latinworks13wycl=dotium | iohanniswyclifd00losegoog=dotium | iohanniswyclifd01losegoog=dotium | iohanniswyclifde12wycl=dotium		4	accept
+204	R3	latinworks13wycl=predicanti | iohanniswyclifd00losegoog=predicant | iohanniswyclifd01losegoog=predicant | iohanniswyclifde12wycl=predicanti		4	plate
+207	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+209	R4	latinworks13wycl=septipedale | iohanniswyclifd00losegoog=septisopedale | iohanniswyclifd01losegoog=septipedale | iohanniswyclifde12wycl=septisopedale		4	plate
+214	EDGE	latinworks13wycl=nec		1	accept
+215	EDGE	latinworks13wycl=dubium		1	accept
+216	EDGE	latinworks13wycl=quin		1	accept

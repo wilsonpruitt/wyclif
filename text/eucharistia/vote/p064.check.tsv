@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=is		1	accept
+1	EDGE	latinworks13wycl=item		1	accept
+2	EDGE	latinworks13wycl=omne		1	accept
+4	R5	latinworks13wycl=predicamentale | iohanniswyclifd00losegoog=predicamentale | iohanniswyclifde12wycl=predicamentale		3	plate
+11	R4a	latinworks13wycl=ahquod | iohanniswyclifd00losegoog=aliquod | iohanniswyclifde12wycl=ahquod		3	accept
+18	R2	latinworks13wycl=septem | iohanniswyclifd00losegoog=sepiera | iohanniswyclifde12wycl=septem		3	accept
+20	R2	latinworks13wycl=noo | iohanniswyclifd00losegoog=non | iohanniswyclifde12wycl=non		3	accept
+23	R2	latinworks13wycl=nisi | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=nisi		3	accept
+28	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+30	R3	latinworks13wycl=assumptum | iohanniswyclifd00losegoog=assumptura | iohanniswyclifde12wycl=assumptum		3	plate
+36	R4	latinworks13wycl=rac | iohanniswyclifd00losegoog=racios | iohanniswyclifd01losegoog=racios | iohanniswyclifde12wycl=racio		4	plate
+45	R2	latinworks13wycl=cognosceretur | iohanniswyclifd00losegoog=cognosceretur | iohanniswyclifd01losegoog=eog | iohanniswyclifde12wycl=cognosceretur		4	accept
+50	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=uel | iohanniswyclifd01losegoog=tel | iohanniswyclifde12wycl=uel		4	accept
+54	R3a	latinworks13wycl=substancia | iohanniswyclifd00losegoog=substancia | iohanniswyclifd01losegoog=substanda | iohanniswyclifde12wycl=substancia		4	accept
+65	R3a	latinworks13wycl=accidentis | iohanniswyclifd00losegoog=accidentia | iohanniswyclifd01losegoog=acddentis | iohanniswyclifde12wycl=accidentis		4	accept
+68	R3a	latinworks13wycl=substancie | iohanniswyclifd00losegoog=substancie | iohanniswyclifd01losegoog=substande | iohanniswyclifde12wycl=substancie		4	accept
+74	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+79	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=esse		4	accept
+80	DEL	latinworks13wycl=and | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	accept
+86	R2	latinworks13wycl=linitas | iohanniswyclifd00losegoog=linitas | iohanniswyclifd01losegoog=unites | iohanniswyclifde12wycl=linitas		4	accept
+87	R2	latinworks13wycl=substancie | iohanniswyclifd00losegoog=substancie | iohanniswyclifd01losegoog=sobstsnde | iohanniswyclifde12wycl=substancie		4	accept
+91	R2	latinworks13wycl=informacionem | iohanniswyclifd00losegoog=informacionem | iohanniswyclifd01losegoog=infidnnadonem | iohanniswyclifde12wycl=informacionem		4	accept
+103	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+117	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+127	R2	latinworks13wycl=accidencium | iohanniswyclifd00losegoog=accidencium | iohanniswyclifd01losegoog=acddendum | iohanniswyclifde12wycl=accidencium		4	accept
+129	R3	latinworks13wycl=suspendi | iohanniswyclifd00losegoog=suspend | iohanniswyclifd01losegoog=suspendi | iohanniswyclifde12wycl=suspend		4	plate
+145	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=etso | iohanniswyclifde12wycl=et		4	accept
+165	R5a	latinworks13wycl=quidditas | iohanniswyclifd00losegoog=quidditas | iohanniswyclifd01losegoog=quidditas | iohanniswyclifde12wycl=quidditas		4	accept
+175	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+181	R2	latinworks13wycl=se | iohanniswyclifd00losegoog=ses | iohanniswyclifd01losegoog=sess | iohanniswyclifde12wycl=se		4	accept
+203	R2	latinworks13wycl=linita | iohanniswyclifd00losegoog=linita | iohanniswyclifd01losegoog=units | iohanniswyclifde12wycl=linita		4	accept
+206	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept

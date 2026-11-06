@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+9	R3a	latinworks13wycl=subiectum | iohanniswyclifd00losegoog=bubiectum | iohanniswyclifd01losegoog=subiectam | iohanniswyclifde12wycl=subiectum		4	accept
+11	NW	latinworks13wycl=consecuntur | iohanniswyclifd00losegoog=consecuncur | iohanniswyclifd01losegoog=consecuotur | iohanniswyclifde12wycl=consecuntur		4	plate
+16	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=∅		4	accept
+40	NW	latinworks13wycl=consecuntur | iohanniswyclifd00losegoog=consecuntur | iohanniswyclifd01losegoog=consecuntur | iohanniswyclifde12wycl=consecuntur		4	plate
+46	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=uel | iohanniswyclifd01losegoog=td | iohanniswyclifde12wycl=uel		4	accept
+57	R2	latinworks13wycl=mollicies | iohanniswyclifd00losegoog=molltcies | iohanniswyclifd01losegoog=mouictes | iohanniswyclifde12wycl=mollicies		4	accept
+78	R2	latinworks13wycl=uel | iohanniswyclifd00losegoog=uel | iohanniswyclifd01losegoog=tel | iohanniswyclifde12wycl=uel		4	accept
+80	R2	latinworks13wycl=lnconsistencies | iohanniswyclifd00losegoog=mirantur | iohanniswyclifd01losegoog=mitsntur | iohanniswyclifde12wycl=mirantur		4	accept
+81	INS	tercio	3	4	accept
+86	R2	latinworks13wycl=continuacionem | iohanniswyclifd01losegoog=contiguadoncm | iohanniswyclifde12wycl=contmuacinem		3	accept
+87	R4	latinworks13wycl=contieuacionem | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=contiguacionem		3	plate
+89	R3a	latinworks13wycl=substancia | iohanniswyclifd00losegoog=substancia | iohanniswyclifd01losegoog=substanda | iohanniswyclifde12wycl=substancia		4	accept
+91	R3a	latinworks13wycl=quafitates | iohanniswyclifd00losegoog=qualitaies | iohanniswyclifd01losegoog=41 | iohanniswyclifde12wycl=qualitates		4	accept
+92	R3a	latinworks13wycl=que | iohanniswyclifd00losegoog=que | iohanniswyclifd01losegoog=4 | iohanniswyclifde12wycl=que		4	accept
+100	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=hoh | iohanniswyclifde12wycl=non		4	accept
+105	R3	latinworks13wycl=contradictor | iohanniswyclifd00losegoog=conlradictorio | iohanniswyclifd01losegoog=contradictorio | iohanniswyclifde12wycl=contradictor		4	plate
+111	R2	latinworks13wycl=corrupcione | iohanniswyclifd00losegoog=corrupcione | iohanniswyclifd01losegoog=comipdone | iohanniswyclifde12wycl=corrupcione		4	accept
+113	R2	latinworks13wycl=rei | iohanniswyclifd00losegoog=rei | iohanniswyclifd01losegoog=rd | iohanniswyclifde12wycl=rei		4	accept
+117	R2	latinworks13wycl=sic | iohanniswyclifd00losegoog=sic | iohanniswyclifd01losegoog=fie | iohanniswyclifde12wycl=sic		4	accept
+131	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=t9tt | iohanniswyclifde12wycl=esse		4	accept
+143	NW	latinworks13wycl=contiguacione | iohanniswyclifd00losegoog=contiguacione | iohanniswyclifd01losegoog=contiguacione | iohanniswyclifde12wycl=contiguacione		4	plate
+155	R5a	latinworks13wycl=b | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=b | iohanniswyclifde12wycl=b		4	accept
+184	R5a	latinworks13wycl=inmediacione | iohanniswyclifd00losegoog=inmediacione | iohanniswyclifd01losegoog=inmediacione | iohanniswyclifde12wycl=inmediacione		4	accept
+185	R5a	latinworks13wycl=continuabilium | iohanniswyclifd00losegoog=continuabilium | iohanniswyclifd01losegoog=continuabilium | iohanniswyclifde12wycl=continuabilium		4	accept
+187	NW	latinworks13wycl=contiguacio | iohanniswyclifd00losegoog=contiguacio | iohanniswyclifd01losegoog=contiguacio | iohanniswyclifde12wycl=contiguacio		4	plate
+194	R3	latinworks13wycl=poterit | iohanniswyclifd00losegoog=potent | iohanniswyclifd01losegoog=potent | iohanniswyclifde12wycl=poterit		4	plate
+197	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=essci | iohanniswyclifde12wycl=esse		4	accept
+213	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+217	R5a	latinworks13wycl=anichilacio | iohanniswyclifd00losegoog=anichilacio | iohanniswyclifd01losegoog=anichilacio | iohanniswyclifde12wycl=anichilacio		4	accept
+218	R5a	latinworks13wycl=transsubstanciacio | iohanniswyclifd00losegoog=transsubstanciacio | iohanniswyclifd01losegoog=transsubstanciado | iohanniswyclifde12wycl=transsubstanciacio		4	accept

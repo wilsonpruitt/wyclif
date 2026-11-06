@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=domino | iohanniswyclifde12wycl=domino		2	accept
+1	EDGE	latinworks13wycl=est | iohanniswyclifde12wycl=est		2	accept
+2	EDGE	latinworks13wycl=ingratus | iohanniswyclifde12wycl=ingratus		2	accept
+3	EDGE	latinworks13wycl=et | iohanniswyclifde12wycl=et		2	accept
+4	EDGE	latinworks13wycl=per | iohanniswyclifde12wycl=per		2	accept
+5	EDGE	latinworks13wycl=consequens | iohanniswyclifde12wycl=consequens		2	accept
+6	EDGE	latinworks13wycl=non | iohanniswyclifde12wycl=non		2	accept
+10	R3	latinworks13wycl=autem | iohanniswyclifd00losegoog=a | iohanniswyclifde12wycl=autera		3	plate
+12	R2	latinworks13wycl=dileccionem | iohanniswyclifd00losegoog=lilcccioncm | iohanniswyclifd01losegoog=dileccionem | iohanniswyclifde12wycl=dileccionem		4	accept
+13	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=seii | iohanniswyclifd01losegoog=sed | iohanniswyclifde12wycl=sed		4	accept
+16	R2	latinworks13wycl=profitemur | iohanniswyclifd00losegoog=profile | iohanniswyclifd01losegoog=profilemur | iohanniswyclifde12wycl=profitemur		4	accept
+22	R2	latinworks13wycl=quod | iohanniswyclifd00losegoog=ihiod | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+27	R5	latinworks13wycl=summousque | iohanniswyclifd01losegoog=summousque | iohanniswyclifde12wycl=summousque		3	plate
+30	R2	latinworks13wycl=statim | iohanniswyclifd00losegoog=sialira | iohanniswyclifde12wycl=statim		3	accept
+35	R3a	latinworks13wycl=carnem | iohanniswyclifd00losegoog=carnem | iohanniswyclifd01losegoog=carnem | iohanniswyclifde12wycl=camera		4	accept
+45	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+52	R2	latinworks13wycl=inquam | iohanniswyclifd00losegoog=inquam | iohanniswyclifd01losegoog=inuarn | iohanniswyclifde12wycl=inquam		4	accept
+65	R3	latinworks13wycl=ue | iohanniswyclifd01losegoog=uel | iohanniswyclifde12wycl=uel		3	plate
+74	R2	latinworks13wycl=istud | iohanniswyclifd00losegoog=istud | iohanniswyclifd01losegoog=istiid | iohanniswyclifde12wycl=istud		4	accept
+117	R4	latinworks13wycl=sentencie | iohanniswyclifd00losegoog=seniencie | iohanniswyclifd01losegoog=seniencie | iohanniswyclifde12wycl=sentencie		4	plate
+144	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+151	R4	latinworks13wycl=sanguinem | iohanniswyclifd00losegoog=sanguinera | iohanniswyclifd01losegoog=sanguinera | iohanniswyclifde12wycl=sanguinem		4	plate
+152	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept
+161	R2	latinworks13wycl=occuparentur | iohanniswyclifd00losegoog=occuparentur | iohanniswyclifd01losegoog=occtipkrenlur | iohanniswyclifde12wycl=occuparentur		4	accept
+174	R3a	latinworks13wycl=eis | iohanniswyclifd00losegoog=cis | iohanniswyclifd01losegoog=eis | iohanniswyclifde12wycl=eis		4	accept
+176	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+207	R3a	latinworks13wycl=quem | iohanniswyclifd00losegoog=quem | iohanniswyclifd01losegoog=quein | iohanniswyclifde12wycl=quern		4	accept
+221	R3a	latinworks13wycl=foret | iohanniswyclifd00losegoog=toret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=foret		4	accept
+222	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=lam | iohanniswyclifd01losegoog=tam | iohanniswyclifde12wycl=tam		4	accept

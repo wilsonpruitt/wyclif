@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+7	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+30	R3a	latinworks13wycl=ideo | iohanniswyclifd00losegoog=ideo | iohanniswyclifd01losegoog=idee | iohanniswyclifde12wycl=ideo		4	accept
+39	R3a	latinworks13wycl=absolucionibus | iohanniswyclifd00losegoog=absolu | iohanniswyclifd01losegoog=absolucionibus | iohanniswyclifde12wycl=absolucionibus		4	accept
+41	R2	latinworks13wycl=euangelium | iohanniswyclifd00losegoog=euangcllutii | iohanniswyclifd01losegoog=euangelium | iohanniswyclifde12wycl=euangelium		4	accept
+45	R2	latinworks13wycl=tamen | iohanniswyclifd00losegoog=laroen | iohanniswyclifd01losegoog=tameo | iohanniswyclifde12wycl=tamen		4	accept
+52	R3	latinworks13wycl=deliquer | iohanniswyclifd00losegoog=dcliqygrii | iohanniswyclifd01losegoog=deliqt | iohanniswyclifde12wycl=deliquerit		4	plate
+53	R3	latinworks13wycl=um | iohanniswyclifd00losegoog=iu | iohanniswyclifd01losegoog=dum | iohanniswyclifde12wycl=dura		4	plate
+54	R2	latinworks13wycl=tamen | iohanniswyclifd00losegoog=taraen | iohanniswyclifd01losegoog=tamen | iohanniswyclifde12wycl=tamen		4	accept
+55	R3a	latinworks13wycl=deo | iohanniswyclifd00losegoog=deo | iohanniswyclifd01losegoog=deo | iohanniswyclifde12wycl=eo		4	accept
+64	R3a	latinworks13wycl=poterit | iohanniswyclifd00losegoog=potcrit | iohanniswyclifd01losegoog=potent | iohanniswyclifde12wycl=poterit		4	accept
+72	R3	latinworks13wycl=potent | iohanniswyclifd01losegoog=potent | iohanniswyclifde12wycl=poterit		3	plate
+82	R3a	latinworks13wycl=lege | iohanniswyclifd00losegoog=ice | iohanniswyclifd01losegoog=lege | iohanniswyclifde12wycl=lege		4	accept
+92	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=ncc | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+106	R2	latinworks13wycl=bonum | iohanniswyclifd00losegoog=bonum | iohanniswyclifd01losegoog=bonura | iohanniswyclifde12wycl=bonum		4	accept
+112	R6a	latinworks13wycl=infertmalum | iohanniswyclifd00losegoog=intcrt | iohanniswyclifd01losegoog=infertmalum | iohanniswyclifde12wycl=infertmalum		4	accept
+126	HEAD	CAPITULUM QUINTUM.			plate
+128	R2	latinworks13wycl=uidetur | iohanniswyclifd00losegoog=uidelur | iohanniswyclifd01losegoog=uidctup | iohanniswyclifde12wycl=uidetur		4	accept
+134	R2	latinworks13wycl=ex | iohanniswyclifd00losegoog=c | iohanniswyclifd01losegoog=ex | iohanniswyclifde12wycl=ex		4	accept
+160	R5a	latinworks13wycl=iesum | iohanniswyclifd00losegoog=iesum | iohanniswyclifd01losegoog=iesum | iohanniswyclifde12wycl=iesum		4	accept
+187	R4a	latinworks13wycl=coniidit | iohanniswyclifd00losegoog=coniidit | iohanniswyclifd01losegoog=cotifidit | iohanniswyclifde12wycl=confidit		4	accept
+203	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+211	THIN	latinworks13wycl=hortac | iohanniswyclifde12wycl=hortac		2	plate

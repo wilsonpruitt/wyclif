@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=tam		1	accept
+1	EDGE	latinworks13wycl=sacramentum		1	accept
+11	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+31	R4	latinworks13wycl=subscripsi | iohanniswyclifd00losegoog=ssubscripsi | iohanniswyclifd01losegoog=ssubscripsi | iohanniswyclifde12wycl=subscripsi		4	plate
+42	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept
+43	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=oiristi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+45	R5a	latinworks13wycl=beringario | iohanniswyclifd00losegoog=beringario | iohanniswyclifd01losegoog=beringario | iohanniswyclifde12wycl=beringario		4	accept
+46	R5a	latinworks13wycl=rome | iohanniswyclifd00losegoog=rome | iohanniswyclifd01losegoog=rome | iohanniswyclifde12wycl=rome		4	accept
+49	R4	latinworks13wycl=i4cim | iohanniswyclifd00losegoog=14 | iohanniswyclifd01losegoog=14 | iohanniswyclifde12wycl=i4cim		4	plate
+66	R2	latinworks13wycl=suam | iohanniswyclifd00losegoog=suara | iohanniswyclifd01losegoog=suam | iohanniswyclifde12wycl=suam		4	accept
+85	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+94	R5a	latinworks13wycl=nicholaus | iohanniswyclifd00losegoog=nicholaus | iohanniswyclifd01losegoog=nicholatts | iohanniswyclifde12wycl=nicholaus		4	accept
+97	R5a	latinworks13wycl=italie | iohanniswyclifd00losegoog=italic | iohanniswyclifd01losegoog=italie | iohanniswyclifde12wycl=italie		4	accept
+98	R5a	latinworks13wycl=germanie | iohanniswyclifd00losegoog=germanie | iohanniswyclifd01losegoog=germauie | iohanniswyclifde12wycl=germanie		4	accept
+99	R5a	latinworks13wycl=gallie | iohanniswyclifd00losegoog=gallic | iohanniswyclifd01losegoog=gallic | iohanniswyclifde12wycl=gallie		4	accept
+104	R5a	latinworks13wycl=bfama | iohanniswyclifd00losegoog=bfama | iohanniswyclifd01losegoog=fifama | iohanniswyclifde12wycl=bfama		4	accept
+126	R2	latinworks13wycl=ex | iohanniswyclifd00losegoog=ex | iohanniswyclifd01losegoog=kx | iohanniswyclifde12wycl=ex		4	accept
+136	R5a	latinworks13wycl=beringarii | iohanniswyclifd00losegoog=beringarii | iohanniswyclifd01losegoog=beringarii | iohanniswyclifde12wycl=beringarii		4	accept
+163	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+186	R5a	latinworks13wycl=nicholaus | iohanniswyclifd00losegoog=nicholaus | iohanniswyclifd01losegoog=nicholaus | iohanniswyclifde12wycl=nicholaus		4	accept
+190	R5a	latinworks13wycl=sinodus | iohanniswyclifd00losegoog=sinodus | iohanniswyclifd01losegoog=sinodus | iohanniswyclifde12wycl=sinodus		4	accept

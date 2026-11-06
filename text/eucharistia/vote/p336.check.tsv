@@ -1,0 +1,38 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=de | iohanniswyclifde12wycl=de		2	accept
+1	EDGE	latinworks13wycl=peccato | iohanniswyclifde12wycl=peccato		2	accept
+2	EDGE	latinworks13wycl=preterito | iohanniswyclifde12wycl=preterito		2	accept
+12	R2	latinworks13wycl=tales | iohanniswyclifd00losegoog=laics | iohanniswyclifde12wycl=tales		3	accept
+19	R5	latinworks13wycl=sicconcedo | iohanniswyclifd01losegoog=sicconcedo | iohanniswyclifde12wycl=sicconcedo		3	plate
+25	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymrno | iohanniswyclifd01losegoog=ymrao | iohanniswyclifde12wycl=ymmo		4	accept
+27	R2	latinworks13wycl=conrlteri | iohanniswyclifd00losegoog=coofiler | iohanniswyclifd01losegoog=conlitcri | iohanniswyclifde12wycl=confiteri		4	accept
+33	R2	latinworks13wycl=deus | iohanniswyclifd00losegoog=dcdi | iohanniswyclifd01losegoog=deus | iohanniswyclifde12wycl=deus		4	accept
+34	R2	latinworks13wycl=limitat | iohanniswyclifd00losegoog=liioital | iohanniswyclifd01losegoog=ilmitac | iohanniswyclifde12wycl=limitat		4	accept
+36	R2	latinworks13wycl=absit | iohanniswyclifd00losegoog=absit | iohanniswyclifd01losegoog=abiii | iohanniswyclifde12wycl=absit		4	accept
+37	R3a	latinworks13wycl=ex | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=ex | iohanniswyclifde12wycl=ex		4	accept
+41	THIN	latinworks13wycl=racionabile | iohanniswyclifde12wycl=racionabile		2	plate
+42	THIN	latinworks13wycl=as | iohanniswyclifde12wycl=∅		2	plate
+43	THIN	latinworks13wycl=est | iohanniswyclifde12wycl=est		2	plate
+45	R3a	latinworks13wycl=nominem | iohanniswyclifd00losegoog=hominem | iohanniswyclifd01losegoog=homincm | iohanniswyclifde12wycl=hominem		4	accept
+46	R2	latinworks13wycl=connten | iohanniswyclifd00losegoog=confiteri | iohanniswyclifd01losegoog=confiteri | iohanniswyclifde12wycl=conhten		4	accept
+53	NW	latinworks13wycl=propno | iohanniswyclifd00losegoog=proprlo | iohanniswyclifd01losegoog=propno | iohanniswyclifde12wycl=propno		4	plate
+55	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+64	R3a	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicui | iohanniswyclifd01losegoog=stcut | iohanniswyclifde12wycl=sicut		4	accept
+66	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=est | iohanniswyclifd01losegoog=eat | iohanniswyclifde12wycl=est		4	accept
+67	R3a	latinworks13wycl=nomini | iohanniswyclifd00losegoog=homini | iohanniswyclifd01losegoog=homini | iohanniswyclifde12wycl=homini		4	accept
+74	R2	latinworks13wycl=msanum | iohanniswyclifd00losegoog=iniafyi | iohanniswyclifd01losegoog=insanum | iohanniswyclifde12wycl=insanum		4	accept
+75	R3a	latinworks13wycl=foret | iohanniswyclifd00losegoog=foret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=toret		4	accept
+102	R2	latinworks13wycl=debent | iohanniswyclifd00losegoog=debent | iohanniswyclifd01losegoog=dcbeni | iohanniswyclifde12wycl=debent		4	accept
+106	R2	latinworks13wycl=nimia | iohanniswyclifd00losegoog=nimia | iohanniswyclifd01losegoog=niraia | iohanniswyclifde12wycl=nimia		4	accept
+116	HEAD	CAPITULUM QUARTUM.			plate
+118	R4	latinworks13wycl=that | iohanniswyclifd00losegoog=supercst | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	plate
+119	R2	latinworks13wycl=superest | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=superest | iohanniswyclifde12wycl=superest		4	accept
+126	R4	latinworks13wycl=quod | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=l0l | iohanniswyclifde12wycl=∅		4	plate
+127	R2	latinworks13wycl=ista | iohanniswyclifd00losegoog=ista | iohanniswyclifd01losegoog=sla | iohanniswyclifde12wycl=ista		4	accept
+138	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=tam | iohanniswyclifd01losegoog=tarao | iohanniswyclifde12wycl=tarn		4	accept
+139	R2	latinworks13wycl=proficit | iohanniswyclifd00losegoog=pfiii | iohanniswyclifd01losegoog=proficit | iohanniswyclifde12wycl=proficit		4	accept
+141	R3a	latinworks13wycl=officit | iohanniswyclifd00losegoog=ofiicit | iohanniswyclifd01losegoog=officii | iohanniswyclifde12wycl=officit		4	accept
+144	R3a	latinworks13wycl=uidendum | iohanniswyclifd00losegoog=uidendi | iohanniswyclifd01losegoog=uidendum | iohanniswyclifde12wycl=uidendum		4	accept
+151	R2	latinworks13wycl=concesserat | iohanniswyclifd00losegoog=concesserat | iohanniswyclifd01losegoog=concessenil | iohanniswyclifde12wycl=concesserat		4	accept
+175	R2	latinworks13wycl=ad | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=ad | iohanniswyclifde12wycl=ad		4	accept
+204	R3a	latinworks13wycl=quin | iohanniswyclifd00losegoog=quin | iohanniswyclifd01losegoog=quia | iohanniswyclifde12wycl=quin		4	accept

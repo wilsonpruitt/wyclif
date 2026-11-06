@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+22	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+26	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=sed | iohanniswyclifd01losegoog=std | iohanniswyclifde12wycl=sed		4	accept
+27	R4	latinworks13wycl=missam | iohanniswyclifd00losegoog=raissam | iohanniswyclifd01losegoog=missam | iohanniswyclifde12wycl=raissam		4	plate
+32	R2	latinworks13wycl=ymmo | iohanniswyclifd00losegoog=ymmo | iohanniswyclifd01losegoog=symmo | iohanniswyclifde12wycl=ymrao		4	accept
+58	R3a	latinworks13wycl=dicere | iohanniswyclifd00losegoog=dicere | iohanniswyclifd01losegoog=digere | iohanniswyclifde12wycl=dicere		4	accept
+64	R2	latinworks13wycl=bonitatem | iohanniswyclifd00losegoog=bonilatera | iohanniswyclifd01losegoog=bonitatem | iohanniswyclifde12wycl=bonitatem		4	accept
+75	R2	latinworks13wycl=missa | iohanniswyclifd00losegoog=raissa | iohanniswyclifd01losegoog=missa | iohanniswyclifde12wycl=missa		4	accept
+79	R3a	latinworks13wycl=paritate | iohanniswyclifd00losegoog=paritare | iohanniswyclifd01losegoog=paritate | iohanniswyclifde12wycl=paritate		4	accept
+94	R3a	latinworks13wycl=ltaque | iohanniswyclifd00losegoog=iraque | iohanniswyclifd01losegoog=itaque | iohanniswyclifde12wycl=itaque		4	accept
+95	R2	latinworks13wycl=llla | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=lua | iohanniswyclifde12wycl=ilia		4	accept
+97	R6a	latinworks13wycl=signincat | iohanniswyclifd00losegoog=significat | iohanniswyclifd01losegoog=signincat | iohanniswyclifde12wycl=signincat		4	accept
+133	NW	latinworks13wycl=muha | iohanniswyclifd00losegoog=mulia | iohanniswyclifd01losegoog=muha | iohanniswyclifde12wycl=multa		4	plate
+144	R2	latinworks13wycl=ideo | iohanniswyclifd00losegoog=zoideo | iohanniswyclifd01losegoog=soideoy | iohanniswyclifde12wycl=ideo		4	accept
+147	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=esl | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+215	R6a	latinworks13wycl=onaturalem | iohanniswyclifd00losegoog=naturalem | iohanniswyclifd01losegoog=sonaturalem | iohanniswyclifde12wycl=sonaturalem		4	accept
+220	R2	latinworks13wycl=tn | iohanniswyclifd00losegoog=m | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+228	R4	latinworks13wycl=moralem | iohanniswyclifd00losegoog=moralera | iohanniswyclifd01losegoog=moralera | iohanniswyclifde12wycl=moralem		4	plate
+239	R3a	latinworks13wycl=meritum | iohanniswyclifd00losegoog=merituro | iohanniswyclifd01losegoog=meritum | iohanniswyclifde12wycl=meritum		4	accept

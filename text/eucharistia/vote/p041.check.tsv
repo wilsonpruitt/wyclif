@@ -1,0 +1,11 @@
+pos	rule	forms	support	voters	resolution
+7	R3a	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=nun		4	accept
+9	R2	latinworks13wycl=numerus | iohanniswyclifd00losegoog=niimerus | iohanniswyclifd01losegoog=numenis | iohanniswyclifde12wycl=nuraerus		4	accept
+34	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+59	R5a	latinworks13wycl=manicheos | iohanniswyclifd00losegoog=manicheos | iohanniswyclifd01losegoog=manicheos | iohanniswyclifde12wycl=manicheos		4	accept
+73	R2	latinworks13wycl=a | iohanniswyclifd00losegoog=a | iohanniswyclifd01losegoog=a | iohanniswyclifde12wycl=∅		4	accept
+130	R2	latinworks13wycl=nec | iohanniswyclifd00losegoog=dec | iohanniswyclifd01losegoog=nec | iohanniswyclifde12wycl=nec		4	accept
+145	R5a	latinworks13wycl=beringarii | iohanniswyclifd00losegoog=beringarii | iohanniswyclifd01losegoog=beringarii | iohanniswyclifde12wycl=beringarii		4	accept
+156	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+181	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+204	R3a	latinworks13wycl=ul | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=yi | iohanniswyclifde12wycl=ui		4	accept

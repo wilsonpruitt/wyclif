@@ -1,0 +1,34 @@
+pos	rule	forms	support	voters	resolution
+7	R3	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=chrisli | iohanniswyclifde12wycl=christi		4	plate
+10	R3a	latinworks13wycl=unde | iohanniswyclifd00losegoog=uade | iohanniswyclifd01losegoog=unde | iohanniswyclifde12wycl=unde		4	accept
+13	THIN	latinworks13wycl=ghristus | iohanniswyclifde12wycl=ghristus		2	plate
+14	THIN	latinworks13wycl=matth | iohanniswyclifde12wycl=matth		2	plate
+15	THIN	latinworks13wycl=xxui | iohanniswyclifde12wycl=xxui		2	plate
+21	R4	latinworks13wycl=remurmurant | iohanniswyclifd00losegoog=reraurmurant | iohanniswyclifd01losegoog=reraurmurant | iohanniswyclifde12wycl=remurmurant		4	plate
+26	R5a	latinworks13wycl=paplardos | iohanniswyclifd00losegoog=paplardoi | iohanniswyclifd01losegoog=paplardos | iohanniswyclifde12wycl=paplardos		4	accept
+33	R2	latinworks13wycl=pauperibus | iohanniswyclifd00losegoog=pau5 | iohanniswyclifd01losegoog=pauperibus | iohanniswyclifde12wycl=pauperibus		4	accept
+37	THIN	latinworks13wycl=estis | iohanniswyclifde12wycl=estis		2	plate
+38	THIN	latinworks13wycl=huicmulieri | iohanniswyclifde12wycl=huicmulieri		2	plate
+41	R2	latinworks13wycl=bonum | iohanniswyclifd00losegoog=bonum | iohanniswyclifd01losegoog=bonum | iohanniswyclifde12wycl=bomim		4	accept
+57	R2	latinworks13wycl=toto | iohanniswyclifd00losegoog=toto | iohanniswyclifd01losegoog=lolo | iohanniswyclifde12wycl=toto		4	accept
+71	R3	latinworks13wycl=dominum | iohanniswyclifd00losegoog=doniidum | iohanniswyclifd01losegoog=dorainum | iohanniswyclifde12wycl=dominam		4	plate
+72	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=in | iohanniswyclifd01losegoog=ia | iohanniswyclifde12wycl=in		4	accept
+92	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept
+93	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+94	R2	latinworks13wycl=nam | iohanniswyclifd00losegoog=qam | iohanniswyclifd01losegoog=nam | iohanniswyclifde12wycl=nam		4	accept
+108	NW	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	plate
+111	R2	latinworks13wycl=oportet | iohanniswyclifd00losegoog=oponei | iohanniswyclifd01losegoog=oportet | iohanniswyclifde12wycl=oportet		4	accept
+130	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christ | iohanniswyclifde12wycl=christi		4	accept
+138	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+139	R3	latinworks13wycl=hec | iohanniswyclifd00losegoog=bee | iohanniswyclifd01losegoog=bee | iohanniswyclifde12wycl=hec		4	plate
+143	R4	latinworks13wycl=dicunt | iohanniswyclifd00losegoog=dicuni | iohanniswyclifd01losegoog=dicuni | iohanniswyclifde12wycl=dicunt		4	plate
+147	R3	latinworks13wycl=consec20 | iohanniswyclifd00losegoog=consecat | iohanniswyclifd01losegoog=consecrandi | iohanniswyclifde12wycl=consec20		4	plate
+148	NW	latinworks13wycl=randi | iohanniswyclifd00losegoog=randi | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=randi		4	plate
+165	R5a	latinworks13wycl=despectiua | iohanniswyclifd00losegoog=despectiua | iohanniswyclifd01losegoog=despecliua | iohanniswyclifde12wycl=despectiua		4	accept
+170	R2	latinworks13wycl=infusio | iohanniswyclifd00losegoog=infusio | iohanniswyclifd01losegoog=iofuiio | iohanniswyclifde12wycl=infusio		4	accept
+183	R3a	latinworks13wycl=pro | iohanniswyclifd00losegoog=po | iohanniswyclifd01losegoog=pro | iohanniswyclifde12wycl=pro		4	accept
+197	R3a	latinworks13wycl=propositum | iohanniswyclifd00losegoog=propositum | iohanniswyclifd01losegoog=propositura | iohanniswyclifde12wycl=propositum		4	accept
+227	R3a	latinworks13wycl=malo | iohanniswyclifd00losegoog=mato | iohanniswyclifd01losegoog=malo | iohanniswyclifde12wycl=malo		4	accept
+233	EDGE	latinworks13wycl=datur | iohanniswyclifde12wycl=datur		2	accept
+234	EDGE	latinworks13wycl=bonum | iohanniswyclifde12wycl=bonum		2	accept
+235	EDGE	latinworks13wycl=perseuerancie | iohanniswyclifde12wycl=perseuerancie		2	accept

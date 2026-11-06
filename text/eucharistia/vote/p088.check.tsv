@@ -1,0 +1,19 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=hec | iohanniswyclifde12wycl=hec		2	accept
+26	R4	latinworks13wycl=xii | iohanniswyclifd00losegoog=xip | iohanniswyclifde12wycl=∅		3	plate
+36	R3	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifde12wycl=christi		3	plate
+40	R2	latinworks13wycl=potum | iohanniswyclifd00losegoog=potiim | iohanniswyclifde12wycl=potum		3	accept
+42	R2	latinworks13wycl=biberunt | iohanniswyclifd00losegoog=biberiinl | iohanniswyclifde12wycl=biberunt		3	accept
+50	R2	latinworks13wycl=petra | iohanniswyclifd00losegoog=aulem | iohanniswyclifde12wycl=petra		3	accept
+51	R2	latinworks13wycl=autem | iohanniswyclifd00losegoog=∅ | iohanniswyclifde12wycl=autem		3	accept
+60	R5	latinworks13wycl=exod | iohanniswyclifd00losegoog=exod | iohanniswyclifde12wycl=exod		3	plate
+63	R3	latinworks13wycl=christus | iohanniswyclifd00losegoog=christus | iohanniswyclifde12wycl=ghristus		3	plate
+64	R5	latinworks13wycl=iohui0 | iohanniswyclifd00losegoog=iohui | iohanniswyclifde12wycl=iohui0		3	plate
+65	R3	latinworks13wycl=50 | iohanniswyclifd00losegoog=5 | iohanniswyclifde12wycl=59		3	plate
+69	R2	latinworks13wycl=sacramenti | iohanniswyclifd00losegoog=n | iohanniswyclifde12wycl=sacramenti		3	accept
+76	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=now | iohanniswyclifde12wycl=non		3	accept
+83	R4	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifde12wycl=el		3	plate
+108	R3	latinworks13wycl=illi | iohanniswyclifd00losegoog=ili | iohanniswyclifde12wycl=illi		3	plate
+152	R2	latinworks13wycl=multi | iohanniswyclifd00losegoog=nauiti | iohanniswyclifde12wycl=multi		3	accept
+170	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifde12wycl=et		3	accept
+204	EDGE	latinworks13wycl=sacramento | iohanniswyclifde12wycl=sacramento		2	accept

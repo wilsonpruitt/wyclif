@@ -1,0 +1,20 @@
+pos	rule	forms	support	voters	resolution
+20	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+40	R3a	latinworks13wycl=multis | iohanniswyclifd00losegoog=mullis | iohanniswyclifd01losegoog=multis | iohanniswyclifde12wycl=multis		4	accept
+50	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=esl | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+100	R2	latinworks13wycl=fit | iohanniswyclifd00losegoog=6t | iohanniswyclifd01losegoog=fit | iohanniswyclifde12wycl=fit		4	accept
+105	R3a	latinworks13wycl=tercios | iohanniswyclifd00losegoog=tercio | iohanniswyclifd01losegoog=tercio | iohanniswyclifde12wycl=tercio		4	accept
+127	R3a	latinworks13wycl=tres | iohanniswyclifd00losegoog=ires | iohanniswyclifd01losegoog=tres | iohanniswyclifde12wycl=tres		4	accept
+132	R6a	latinworks13wycl=111 | iohanniswyclifd00losegoog=iii | iohanniswyclifd01losegoog=iii | iohanniswyclifde12wycl=iii		4	accept
+140	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+142	R3a	latinworks13wycl=ex | iohanniswyclifd00losegoog=ex | iohanniswyclifd01losegoog=exi | iohanniswyclifde12wycl=ex		4	accept
+146	R5a	latinworks13wycl=beringarii | iohanniswyclifd00losegoog=beringarii | iohanniswyclifd01losegoog=beringariiy | iohanniswyclifde12wycl=beringarii		4	accept
+169	R2	latinworks13wycl=ualet | iohanniswyclifd00losegoog=uulei | iohanniswyclifd01losegoog=uuiet | iohanniswyclifde12wycl=ualet		4	accept
+177	R4	latinworks13wycl=u | iohanniswyclifd00losegoog=capituluni | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	plate
+178	R2	latinworks13wycl=capitulum | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=capitulum | iohanniswyclifde12wycl=capitulum		4	accept
+196	R2	latinworks13wycl=ita | iohanniswyclifd00losegoog=iia | iohanniswyclifd01losegoog=ita | iohanniswyclifde12wycl=ita		4	accept
+200	R5a	latinworks13wycl=scotum | iohanniswyclifd00losegoog=scotum | iohanniswyclifd01losegoog=scotum | iohanniswyclifde12wycl=scotum		4	accept
+201	R5a	latinworks13wycl=henricum | iohanniswyclifd00losegoog=henricum | iohanniswyclifd01losegoog=henricum | iohanniswyclifde12wycl=henricum		4	accept
+204	R5a	latinworks13wycl=armachanum | iohanniswyclifd00losegoog=armachanum | iohanniswyclifd01losegoog=armachanum | iohanniswyclifde12wycl=armachanum		4	accept
+212	R6a	latinworks13wycl=beringarius | iohanniswyclifd00losegoog=beringariua | iohanniswyclifd01losegoog=beringariua | iohanniswyclifde12wycl=beringarhts		4	accept
+215	R3a	latinworks13wycl=abrogatum | iohanniswyclifd00losegoog=abrogatura | iohanniswyclifd01losegoog=abrogatum | iohanniswyclifde12wycl=abrogatum		4	accept

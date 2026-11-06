@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=quandoque		1	accept
+1	EDGE	latinworks13wycl=autem | iohanniswyclifde12wycl=autem		2	accept
+2	EDGE	latinworks13wycl=sumitur | iohanniswyclifde12wycl=sumitur		2	accept
+19	R3	latinworks13wycl=pretenta | iohanniswyclifd01losegoog=pretcriia | iohanniswyclifde12wycl=preterita		3	plate
+37	R2	latinworks13wycl=noticia | iohanniswyclifd01losegoog=floiicia | iohanniswyclifde12wycl=noticia		3	accept
+43	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+48	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+51	R2	latinworks13wycl=patet | iohanniswyclifd01losegoog=paiec | iohanniswyclifde12wycl=patet		3	accept
+61	DEL	latinworks13wycl=distinctions | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		3	accept
+128	R4	latinworks13wycl=man | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=man		3	plate
+129	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=et		3	accept
+145	R3	latinworks13wycl=11 | iohanniswyclifd01losegoog=h | iohanniswyclifde12wycl=ii		3	plate
+147	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+150	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+153	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+177	R2	latinworks13wycl=quamuis | iohanniswyclifd01losegoog=quamm | iohanniswyclifde12wycl=quarnuis		3	accept
+180	R3	latinworks13wycl=clare | iohanniswyclifd01losegoog=dare | iohanniswyclifde12wycl=clare		3	plate
+183	R2	latinworks13wycl=essenciam | iohanniswyclifd01losegoog=easendam | iohanniswyclifde12wycl=essenciam		3	accept
+189	R3	latinworks13wycl=uisibilitatis | iohanniswyclifd01losegoog=uisias | iohanniswyclifde12wycl=uisibilitatis		3	plate
+210	R5	latinworks13wycl=manassen | iohanniswyclifd01losegoog=manassen | iohanniswyclifde12wycl=manassen		3	plate
+214	R5	latinworks13wycl=isaiam | iohanniswyclifd01losegoog=iiaiam | iohanniswyclifde12wycl=isaiam		3	plate

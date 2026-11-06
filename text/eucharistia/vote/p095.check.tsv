@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+3	R2	latinworks13wycl=eciam | iohanniswyclifd00losegoog=eciiim | iohanniswyclifd01losegoog=eciam | iohanniswyclifde12wycl=eciam		4	accept
+7	R3a	latinworks13wycl=sacerdos | iohanniswyclifd00losegoog=sacerdo | iohanniswyclifd01losegoog=sacerdos | iohanniswyclifde12wycl=sacerdos		4	accept
+12	R2	latinworks13wycl=nonam | iohanniswyclifd00losegoog=nonam | iohanniswyclifd01losegoog=nonatn | iohanniswyclifde12wycl=nonam		4	accept
+27	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=bmm | iohanniswyclifd01losegoog=stamclericus | iohanniswyclifde12wycl=tam		4	accept
+28	R2	latinworks13wycl=clericus | iohanniswyclifd00losegoog=ctericus | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=clericus		4	accept
+32	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+42	R3a	latinworks13wycl=haberet | iohanniswyclifd00losegoog=habere | iohanniswyclifd01losegoog=haberet | iohanniswyclifde12wycl=haberet		4	accept
+51	R5a	latinworks13wycl=mattheus | iohanniswyclifd00losegoog=mattheus | iohanniswyclifd01losegoog=mattheus | iohanniswyclifde12wycl=mattheus		4	accept
+53	R5a	latinworks13wycl=marcus | iohanniswyclifd00losegoog=marcus | iohanniswyclifd01losegoog=marcus | iohanniswyclifde12wycl=marcus		4	accept
+56	R2	latinworks13wycl=christus | iohanniswyclifd00losegoog=christus | iohanniswyclifd01losegoog=chnstus | iohanniswyclifde12wycl=lhnstus		4	accept
+60	R4	latinworks13wycl=ofregit | iohanniswyclifd00losegoog=infregil | iohanniswyclifd01losegoog=to | iohanniswyclifde12wycl=ofregit		4	plate
+63	R4	latinworks13wycl=acapite | iohanniswyclifd00losegoog=accipitc | iohanniswyclifd01losegoog=acctptte | iohanniswyclifde12wycl=acapite		4	plate
+64	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+92	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+117	R5a	latinworks13wycl=mattheus | iohanniswyclifd00losegoog=mattheus | iohanniswyclifd01losegoog=mattheus | iohanniswyclifde12wycl=mattheus		4	accept
+119	R5a	latinworks13wycl=marcus | iohanniswyclifd00losegoog=marcus | iohanniswyclifd01losegoog=marcus | iohanniswyclifde12wycl=marcus		4	accept
+122	R5a	latinworks13wycl=lucas | iohanniswyclifd00losegoog=ucas | iohanniswyclifd01losegoog=lucas | iohanniswyclifde12wycl=lucas		4	accept
+127	R2	latinworks13wycl=egit | iohanniswyclifd00losegoog=socgit | iohanniswyclifd01losegoog=egit | iohanniswyclifde12wycl=egit		4	accept
+130	R2	latinworks13wycl=agens | iohanniswyclifd00losegoog=agcna | iohanniswyclifd01losegoog=agens | iohanniswyclifde12wycl=agens		4	accept
+131	R3	latinworks13wycl=fregit | iohanniswyclifd00losegoog=regit | iohanniswyclifd01losegoog=regit | iohanniswyclifde12wycl=fregit		4	plate
+173	R2	latinworks13wycl=eum | iohanniswyclifd00losegoog=eura | iohanniswyclifd01losegoog=eum | iohanniswyclifde12wycl=eum		4	accept
+190	R3a	latinworks13wycl=poterit | iohanniswyclifd00losegoog=potent | iohanniswyclifd01losegoog=poterit | iohanniswyclifde12wycl=poterit		4	accept
+192	NW	latinworks13wycl=quem | iohanniswyclifd00losegoog=quern | iohanniswyclifd01losegoog=quern | iohanniswyclifde12wycl=quern		4	plate

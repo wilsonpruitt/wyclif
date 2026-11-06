@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=distinccionem		1	accept
+1	THIN	latinworks13wycl=sacrarnentorum		1	plate
+2	EDGE	latinworks13wycl=tamen | iohanniswyclifde12wycl=tamen		2	accept
+12	R5	latinworks13wycl=matthaeus | iohanniswyclifd00losegoog=matthaeus | iohanniswyclifde12wycl=matthaeus		3	plate
+13	R5	latinworks13wycl=marcus | iohanniswyclifd00losegoog=marcus | iohanniswyclifde12wycl=marcus		3	plate
+14	R5	latinworks13wycl=lucas | iohanniswyclifd00losegoog=lucas | iohanniswyclifde12wycl=lucas		3	plate
+21	R2	latinworks13wycl=panem | iohanniswyclifd00losegoog=pinein | iohanniswyclifde12wycl=panem		3	accept
+45	R2	latinworks13wycl=efncaciam | iohanniswyclifd00losegoog=efficaciam | iohanniswyclifde12wycl=etncaciam		3	accept
+81	R2	latinworks13wycl=augustus | iohanniswyclifd00losegoog=augustus | iohanniswyclifd01losegoog=attgnstos | iohanniswyclifde12wycl=augustus		4	accept
+89	R3a	latinworks13wycl=suis | iohanniswyclifd00losegoog=suis | iohanniswyclifd01losegoog=sub | iohanniswyclifde12wycl=suis		4	accept
+98	R2	latinworks13wycl=sollempniter | iohanniswyclifd00losegoog=sollempniter | iohanniswyclifd01losegoog=souempaicer | iohanniswyclifde12wycl=sollempniter		4	accept
+103	R3a	latinworks13wycl=patet | iohanniswyclifd00losegoog=patet | iohanniswyclifd01losegoog=pate | iohanniswyclifde12wycl=patet		4	accept
+120	R3a	latinworks13wycl=antiqua | iohanniswyclifd00losegoog=antiqiia | iohanniswyclifd01losegoog=antique | iohanniswyclifde12wycl=antiqua		4	accept
+122	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enira | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+127	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+132	NW	latinworks13wycl=superrlue | iohanniswyclifd00losegoog=superrtue | iohanniswyclifd01losegoog=superflue | iohanniswyclifde12wycl=superrlue		4	plate
+134	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=ncc | iohanniswyclifde12wycl=nee		4	accept
+137	R3	latinworks13wycl=quin | iohanniswyclifd00losegoog=quia | iohanniswyclifd01losegoog=quiu | iohanniswyclifde12wycl=quin		4	plate
+158	R4	latinworks13wycl=commemoraaonem | iohanniswyclifd00losegoog=commemoracionem | iohanniswyclifd01losegoog=commemoraaonem | iohanniswyclifde12wycl=commemoracionem		4	plate
+159	R3	latinworks13wycl=curn | iohanniswyclifd00losegoog=cura | iohanniswyclifd01losegoog=cum | iohanniswyclifde12wycl=cum		4	plate
+161	R2	latinworks13wycl=gufe | iohanniswyclifd00losegoog=figure | iohanniswyclifd01losegoog=gg | iohanniswyclifde12wycl=figure		4	accept
+171	R2	latinworks13wycl=salutem | iohanniswyclifd00losegoog=saiutera | iohanniswyclifd01losegoog=salutem | iohanniswyclifde12wycl=salutem		4	accept
+176	R5a	latinworks13wycl=x | iohanniswyclifd00losegoog=x | iohanniswyclifd01losegoog=x | iohanniswyclifde12wycl=x		4	accept
+190	R2	latinworks13wycl=consonum | iohanniswyclifd00losegoog=consonura | iohanniswyclifd01losegoog=coosonura | iohanniswyclifde12wycl=consonum		4	accept
+221	R2	latinworks13wycl=conrirmant | iohanniswyclifd00losegoog=coutirmant | iohanniswyclifd01losegoog=confirmant | iohanniswyclifde12wycl=continuantfacta		4	accept
+222	R2	latinworks13wycl=facta | iohanniswyclifd00losegoog=facta | iohanniswyclifd01losegoog=facta | iohanniswyclifde12wycl=∅		4	accept

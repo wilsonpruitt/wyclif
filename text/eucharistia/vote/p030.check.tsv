@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=slt		1	plate
+21	R2	latinworks13wycl=sacramentum | iohanniswyclifd00losegoog=sacramedura | iohanniswyclifd01losegoog=sacramentum | iohanniswyclifde12wycl=sacramentum		4	accept
+37	R5a	latinworks13wycl=scoti | iohanniswyclifd00losegoog=scoti | iohanniswyclifd01losegoog=scoti | iohanniswyclifde12wycl=scoti		4	accept
+46	R4	latinworks13wycl=sacramentum | iohanniswyclifd00losegoog=sacramentura | iohanniswyclifd01losegoog=sacramentum | iohanniswyclifde12wycl=sacramentura		4	plate
+62	R2	latinworks13wycl=ipsum | iohanniswyclifd00losegoog=ipsum | iohanniswyclifd01losegoog=ipsura | iohanniswyclifde12wycl=ipsum		4	accept
+85	NW	latinworks13wycl=aiii | iohanniswyclifd00losegoog=aiii | iohanniswyclifd01losegoog=ahi | iohanniswyclifde12wycl=aiii		4	plate
+90	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ui | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+101	R2	latinworks13wycl=aggregatum | iohanniswyclifd00losegoog=afigregalura | iohanniswyclifd01losegoog=aggregatum | iohanniswyclifde12wycl=aggregatum		4	accept
+105	R5a	latinworks13wycl=beringarii | iohanniswyclifd00losegoog=beringarii | iohanniswyclifd01losegoog=beringarii | iohanniswyclifde12wycl=beringarii		4	accept
+117	R5a	latinworks13wycl=sollempni | iohanniswyclifd00losegoog=sollempni | iohanniswyclifd01losegoog=sollempni | iohanniswyclifde12wycl=sollempni		4	accept
+119	R5a	latinworks13wycl=beringarn | iohanniswyclifd00losegoog=beringarii | iohanniswyclifd01losegoog=bcringarii | iohanniswyclifde12wycl=beringarii		4	accept
+125	R2	latinworks13wycl=2 | iohanniswyclifd00losegoog=2 | iohanniswyclifd01losegoog=2 | iohanniswyclifde12wycl=2a		4	accept
+127	R5a	latinworks13wycl=beringarius | iohanniswyclifd00losegoog=bcringarias | iohanniswyclifd01losegoog=ucringarius | iohanniswyclifde12wycl=beringarius		4	accept
+141	R2	latinworks13wycl=nam | iohanniswyclifd00losegoog=numn | iohanniswyclifd01losegoog=nam | iohanniswyclifde12wycl=nam		4	accept
+150	R5a	latinworks13wycl=hiis | iohanniswyclifd00losegoog=hiis | iohanniswyclifd01losegoog=hiis | iohanniswyclifde12wycl=hiis		4	accept
+154	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+155	R3a	latinworks13wycl=uinum | iohanniswyclifd00losegoog=tinum | iohanniswyclifd01losegoog=uinum | iohanniswyclifde12wycl=uinum		4	accept
+159	R5a	latinworks13wycl=ponunturpost | iohanniswyclifd00losegoog=ponunturpost | iohanniswyclifd01losegoog=ponunturpost | iohanniswyclifde12wycl=ponunturpost		4	accept
+172	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept
+185	R6a	latinworks13wycl=etfrangi | iohanniswyclifd00losegoog=etfrangi | iohanniswyclifd01losegoog=etfrangi | iohanniswyclifde12wycl=∅		4	accept
+187	R3	latinworks13wycl=fidelium | iohanniswyclifd00losegoog=fidelium | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=frangi		4	plate
+193	R3a	latinworks13wycl=ille | iohanniswyclifd00losegoog=ille | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=ille		4	accept

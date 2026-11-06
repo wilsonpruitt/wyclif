@@ -1,0 +1,29 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=ysaie		1	accept
+1	EDGE	latinworks13wycl=1		1	accept
+2	EDGE	latinworks13wycl=i		1	accept
+3	EDGE	latinworks13wycl=i		1	accept
+4	THIN	latinworks13wycl=qiio		1	plate
+5	EDGE	latinworks13wycl=mihi | iohanniswyclifde12wycl=mihi		2	accept
+6	EDGE	latinworks13wycl=multitudinem | iohanniswyclifde12wycl=multitudinem		2	accept
+7	EDGE	latinworks13wycl=uictimarum | iohanniswyclifde12wycl=uictimarum		2	accept
+8	EDGE	latinworks13wycl=uestrarum | iohanniswyclifde12wycl=uestrarum		2	accept
+18	R3	latinworks13wycl=meos | iohanniswyclifd01losegoog=meas | iohanniswyclifde12wycl=mens		3	plate
+23	THIN	latinworks13wycl=multiplicaueriti | iohanniswyclifde12wycl=multiplicaueriti		2	plate
+24	THIN	latinworks13wycl=s | iohanniswyclifde12wycl=s		2	plate
+25	THIN	latinworks13wycl=oracionem | iohanniswyclifde12wycl=oracionem		2	plate
+42	R3	latinworks13wycl=et | iohanniswyclifd01losegoog=ec | iohanniswyclifde12wycl=et		3	plate
+50	R2	latinworks13wycl=uinum | iohanniswyclifd01losegoog=tiduni | iohanniswyclifde12wycl=uinum		3	accept
+63	R3	latinworks13wycl=ghristus | iohanniswyclifd01losegoog=christus | iohanniswyclifde12wycl=christus		3	plate
+69	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+73	R2	latinworks13wycl=est | iohanniswyclifd01losegoog=cmt | iohanniswyclifde12wycl=est		3	accept
+85	R5	latinworks13wycl=x | iohanniswyclifd01losegoog=x | iohanniswyclifde12wycl=x		3	plate
+100	R2	latinworks13wycl=cui | iohanniswyclifd01losegoog=cut | iohanniswyclifde12wycl=cui		3	accept
+107	R3	latinworks13wycl=et | iohanniswyclifd01losegoog=ei | iohanniswyclifde12wycl=et		3	plate
+117	R4	latinworks13wycl=unus | iohanniswyclifd01losegoog=wins | iohanniswyclifde12wycl=units		3	plate
+145	R4a	latinworks13wycl=hic | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		3	accept
+151	R5	latinworks13wycl=ydemptica | iohanniswyclifd01losegoog=ydemptica | iohanniswyclifde12wycl=ydemptica		3	plate
+152	R3	latinworks13wycl=dum | iohanniswyclifd01losegoog=dum | iohanniswyclifde12wycl=dura		3	plate
+154	R2	latinworks13wycl=panem | iohanniswyclifd01losegoog=panera | iohanniswyclifde12wycl=panem		3	accept
+191	R5	latinworks13wycl=hiis | iohanniswyclifd01losegoog=hiis | iohanniswyclifde12wycl=hiis		3	plate
+213	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate

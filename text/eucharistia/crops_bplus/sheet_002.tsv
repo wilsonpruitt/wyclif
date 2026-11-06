@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+2.1	28	74	SUB	bt=Christus | fordham= | vote=ghristus
+2.2	31	75	BT-ONLY	bt=tamquam | fordham= | vote=
+2.3	31	106	SUB	bt=fama | fordham= | vote=bfama
+2.4	31	158	SUB	bt=fuerat | fordham= | vote=luerat
+2.5	33	192	BT-ONLY	bt=Math. XXVIº, | fordham= | vote=
+2.6	33	199	SUB	bt=Iª | fordham= | vote=ia
+2.7	34	3	SUB	bt=ubi | fordham= | vote=obi
+2.8	34	39	SUB	bt=fregit | fordham= | vote=regit

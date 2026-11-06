@@ -1,0 +1,25 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=sequelam | iohanniswyclifde12wycl=sequelam		2	accept
+1	EDGE	latinworks13wycl=christi | iohanniswyclifde12wycl=christi		2	accept
+2	EDGE	latinworks13wycl=magis | iohanniswyclifde12wycl=magis		2	accept
+3	EDGE	latinworks13wycl=contempnimus | iohanniswyclifde12wycl=contempnimus		2	accept
+17	R2	latinworks13wycl=temporalium | iohanniswyclifd01losegoog=tcmporaiiuni | iohanniswyclifde12wycl=teraporalium		3	accept
+21	R2	latinworks13wycl=ubi | iohanniswyclifd01losegoog=iibi | iohanniswyclifde12wycl=ubi		3	accept
+31	R2	latinworks13wycl=unus | iohanniswyclifd01losegoog=uuus | iohanniswyclifde12wycl=wins		3	accept
+67	THIN	latinworks13wycl=tantumquod | iohanniswyclifde12wycl=tantumquod		2	plate
+68	THIN	latinworks13wycl=ut | iohanniswyclifde12wycl=ut		2	plate
+69	THIN	latinworks13wycl=periuri | iohanniswyclifde12wycl=periuri		2	plate
+79	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+105	R2	latinworks13wycl=ubi | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=ubi		3	accept
+111	R2	latinworks13wycl=ut | iohanniswyclifd01losegoog=ul | iohanniswyclifde12wycl=ut		3	accept
+122	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+128	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		3	accept
+136	R3	latinworks13wycl=eos | iohanniswyclifd01losegoog=cos | iohanniswyclifde12wycl=eos		3	plate
+138	R5	latinworks13wycl=inhabilitant | iohanniswyclifd01losegoog=inhabilitant | iohanniswyclifde12wycl=inhabilitant		3	plate
+151	R3	latinworks13wycl=ecclesie | iohanniswyclifd01losegoog=ecclcsie | iohanniswyclifde12wycl=ecclesie		3	plate
+166	R2	latinworks13wycl=cnnsto | iohanniswyclifd01losegoog=christo | iohanniswyclifde12wycl=christo		3	accept
+169	R2	latinworks13wycl=legis | iohanniswyclifd01losegoog=iceis | iohanniswyclifde12wycl=legis		3	accept
+176	R5	latinworks13wycl=obmittimus | iohanniswyclifd01losegoog=obmiinmus | iohanniswyclifde12wycl=obmittimus		3	plate
+191	R2	latinworks13wycl=tantum | iohanniswyclifd01losegoog=tamumquod | iohanniswyclifde12wycl=tantum		3	accept
+192	R2	latinworks13wycl=quod | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=quod		3	accept
+199	R2	latinworks13wycl=sic | iohanniswyclifd01losegoog=itc | iohanniswyclifde12wycl=sic		3	accept

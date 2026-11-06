@@ -1,0 +1,21 @@
+pos	rule	forms	support	voters	resolution
+10	R2	latinworks13wycl=si | iohanniswyclifd00losegoog=si | iohanniswyclifd01losegoog=n | iohanniswyclifde12wycl=si		4	accept
+15	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+19	R2	latinworks13wycl=generaliter | iohanniswyclifd00losegoog=generaliter | iohanniswyclifd01losegoog=gcnenditer | iohanniswyclifde12wycl=generaliter		4	accept
+44	R2	latinworks13wycl=experimentum | iohanniswyclifd00losegoog=expenmcntura | iohanniswyclifd01losegoog=experimentum | iohanniswyclifde12wycl=expenmentum		4	accept
+66	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enira | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+77	R3a	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=nou | iohanniswyclifde12wycl=non		4	accept
+95	R3	latinworks13wycl=christianus | iohanniswyclifd00losegoog=chnstianus | iohanniswyclifd01losegoog=cbri | iohanniswyclifde12wycl=christianus		4	plate
+138	R6a	latinworks13wycl=the | iohanniswyclifd00losegoog=the | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=the		4	accept
+148	R2	latinworks13wycl=cui | iohanniswyclifd00losegoog=gui | iohanniswyclifd01losegoog=cui | iohanniswyclifde12wycl=cui		4	accept
+149	R4	latinworks13wycl=luutur | iohanniswyclifd00losegoog=imituf | iohanniswyclifd01losegoog=iinitur | iohanniswyclifde12wycl=hnitur		4	plate
+152	R3	latinworks13wycl=illa | iohanniswyclifd00losegoog=lua | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	plate
+156	R3	latinworks13wycl=roret | iohanniswyclifd00losegoog=foret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=toret		4	plate
+160	R3	latinworks13wycl=1ii0 | iohanniswyclifd00losegoog=illo | iohanniswyclifd01losegoog=luo | iohanniswyclifde12wycl=illo		4	plate
+165	R5a	latinworks13wycl=anichilaret | iohanniswyclifd00losegoog=oiiiuanichilaret | iohanniswyclifd01losegoog=anichilaret | iohanniswyclifde12wycl=anichilaret		4	accept
+171	R4a	latinworks13wycl=omnino | iohanniswyclifd00losegoog=omnmo | iohanniswyclifd01losegoog=omnmo | iohanniswyclifde12wycl=ommno		4	accept
+172	R4a	latinworks13wycl=mmotam | iohanniswyclifd00losegoog=inmoiam | iohanniswyclifd01losegoog=mmotam | iohanniswyclifde12wycl=inmotam		4	accept
+185	R5a	latinworks13wycl=pedalitatem | iohanniswyclifd00losegoog=pedaliiatem | iohanniswyclifd01losegoog=pedaliratem | iohanniswyclifde12wycl=pedalitatem		4	accept
+188	R3	latinworks13wycl=illa | iohanniswyclifd00losegoog=tlla | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	plate
+195	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+203	R2	latinworks13wycl=istam | iohanniswyclifd00losegoog=istara | iohanniswyclifd01losegoog=istam | iohanniswyclifde12wycl=istam		4	accept

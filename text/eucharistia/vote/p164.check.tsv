@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+7	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ui | iohanniswyclifde12wycl=ut		4	accept
+12	R3a	latinworks13wycl=certum | iohanniswyclifd00losegoog=cercum | iohanniswyclifd01losegoog=cerium | iohanniswyclifde12wycl=certuru		4	accept
+13	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=esi | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+25	R5	latinworks13wycl=unitatoriam | iohanniswyclifd00losegoog=unitatoriam | iohanniswyclifde12wycl=unitatoriam		3	plate
+26	R5a	latinworks13wycl=iesu | iohanniswyclifd00losegoog=iesu | iohanniswyclifd01losegoog=iesu | iohanniswyclifde12wycl=iesu		4	accept
+28	R3a	latinworks13wycl=patet | iohanniswyclifd00losegoog=patet | iohanniswyclifd01losegoog=patet | iohanniswyclifde12wycl=natet		4	accept
+29	R3a	latinworks13wycl=ex | iohanniswyclifd00losegoog=ex | iohanniswyclifd01losegoog=e | iohanniswyclifde12wycl=ex		4	accept
+34	R3a	latinworks13wycl=constituitur | iohanniswyclifd00losegoog=constiiuitur | iohanniswyclifd01losegoog=const | iohanniswyclifde12wycl=constituitur		4	accept
+50	R5	latinworks13wycl=exod | iohanniswyclifd01losegoog=exodxiiy | iohanniswyclifde12wycl=exod		3	plate
+51	R2	latinworks13wycl=xii | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=xii		3	accept
+52	R2	latinworks13wycl=7 | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=7		3	accept
+61	R4	latinworks13wycl=i4cini | iohanniswyclifd01losegoog=obscruentur | iohanniswyclifde12wycl=i4cim		3	plate
+62	R2	latinworks13wycl=obseruentur | iohanniswyclifd00losegoog=obseruentur | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=obseruentur		4	accept
+75	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=nnn | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept
+76	R2	latinworks13wycl=iam | iohanniswyclifd00losegoog=tarn | iohanniswyclifd01losegoog=iam | iohanniswyclifde12wycl=iam		4	accept
+77	R2	latinworks13wycl=audiendo | iohanniswyclifd00losegoog=aiidiendo | iohanniswyclifd01losegoog=audieiiio | iohanniswyclifde12wycl=audiendo		4	accept
+85	NW	latinworks13wycl=postem | iohanniswyclifd00losegoog=postern | iohanniswyclifd01losegoog=postern | iohanniswyclifde12wycl=postern		4	plate
+92	R2	latinworks13wycl=sed | iohanniswyclifd00losegoog=serf | iohanniswyclifd01losegoog=sed | iohanniswyclifde12wycl=sed		4	accept
+102	R3a	latinworks13wycl=poste | iohanniswyclifd00losegoog=paste | iohanniswyclifd01losegoog=paste | iohanniswyclifde12wycl=paste		4	accept
+105	R2	latinworks13wycl=positus | iohanniswyclifd00losegoog=pnsilus | iohanniswyclifd01losegoog=posilus | iohanniswyclifde12wycl=positus		4	accept
+119	R3	latinworks13wycl=intenta | iohanniswyclifd00losegoog=iiitenla | iohanniswyclifd01losegoog=interna | iohanniswyclifde12wycl=intenta		4	plate
+137	R3a	latinworks13wycl=poste | iohanniswyclifd00losegoog=paste | iohanniswyclifd01losegoog=poste | iohanniswyclifde12wycl=poste		4	accept
+147	R2	latinworks13wycl=qiiid | iohanniswyclifd00losegoog=quid | iohanniswyclifd01losegoog=quid | iohanniswyclifde12wycl=quid		4	accept
+149	R4	latinworks13wycl=spiritualiter | iohanniswyclifd00losegoog=spiritualiler | iohanniswyclifd01losegoog=spiritualiler | iohanniswyclifde12wycl=spiritualiter		4	plate
+151	R2	latinworks13wycl=nisi | iohanniswyclifd00losegoog=nisi | iohanniswyclifd01losegoog=nisi | iohanniswyclifde12wycl=tiisi		4	accept
+159	R3a	latinworks13wycl=habitamus | iohanniswyclifd00losegoog=halitamus | iohanniswyclifd01losegoog=habitamus | iohanniswyclifde12wycl=habitamus		4	accept
+184	R4	latinworks13wycl=ponit | iohanniswyclifd00losegoog=ponil | iohanniswyclifd01losegoog=ponil | iohanniswyclifde12wycl=ponit		4	plate
+186	R2	latinworks13wycl=certe | iohanniswyclifd00losegoog=eerie | iohanniswyclifd01losegoog=certe | iohanniswyclifde12wycl=certe		4	accept
+209	R4	latinworks13wycl=fronte | iohanniswyclifd00losegoog=fronte | iohanniswyclifd01losegoog=f | iohanniswyclifde12wycl=f		4	plate
+210	INS?	route	2	4	plate

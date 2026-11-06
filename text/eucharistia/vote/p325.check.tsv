@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=clero		1	accept
+1	EDGE	latinworks13wycl=accidencia | iohanniswyclifd00losegoog=accidencia		2	accept
+12	R3a	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicui | iohanniswyclifd01losegoog=sicut | iohanniswyclifde12wycl=sicut		4	accept
+18	R3	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=chnsli | iohanniswyclifd01losegoog=christ | iohanniswyclifde12wycl=christi		4	plate
+44	R3a	latinworks13wycl=deus | iohanniswyclifd00losegoog=detis | iohanniswyclifd01losegoog=deus | iohanniswyclifde12wycl=deus		4	accept
+52	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+65	R3	latinworks13wycl=lieri | iohanniswyclifd00losegoog=heri | iohanniswyclifd01losegoog=fieri | iohanniswyclifde12wycl=fieri		4	plate
+79	R2	latinworks13wycl=magis | iohanniswyclifd00losegoog=roagis | iohanniswyclifd01losegoog=magis | iohanniswyclifde12wycl=magis		4	accept
+83	R2	latinworks13wycl=bella | iohanniswyclifd00losegoog=bdia | iohanniswyclifd01losegoog=bella | iohanniswyclifde12wycl=bella		4	accept
+107	R2	latinworks13wycl=putridum | iohanniswyclifd00losegoog=puiriduni | iohanniswyclifd01losegoog=putridum | iohanniswyclifde12wycl=putridum		4	accept
+127	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+129	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+140	R2	latinworks13wycl=uita | iohanniswyclifd00losegoog=ouitaeldoclrina | iohanniswyclifd01losegoog=uita | iohanniswyclifde12wycl=uita		4	accept
+141	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+142	R2	latinworks13wycl=doctrina | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=doctrina | iohanniswyclifde12wycl=doctrina		4	accept
+151	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+201	R3a	latinworks13wycl=filii | iohanniswyclifd00losegoog=alii | iohanniswyclifd01losegoog=iilii | iohanniswyclifde12wycl=filii		4	accept

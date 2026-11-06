@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+6	R2	latinworks13wycl=qiiia | iohanniswyclifd00losegoog=quia | iohanniswyclifde12wycl=quia		3	accept
+8	R3	latinworks13wycl=est | iohanniswyclifd00losegoog=eat | iohanniswyclifde12wycl=est		3	plate
+11	R2	latinworks13wycl=panem | iohanniswyclifd00losegoog=panetn | iohanniswyclifde12wycl=panem		3	accept
+12	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifde12wycl=et		3	accept
+13	R2	latinworks13wycl=uinum | iohanniswyclifd00losegoog=uhtuin | iohanniswyclifde12wycl=uinum		3	accept
+23	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+28	R5	latinworks13wycl=glossat | iohanniswyclifd00losegoog=glossat | iohanniswyclifde12wycl=glossat		3	plate
+31	R2	latinworks13wycl=inquit | iohanniswyclifd00losegoog=inquit | iohanniswyclifd01losegoog=ioqutt | iohanniswyclifde12wycl=inquit		4	accept
+33	R3a	latinworks13wycl=uerbum | iohanniswyclifd00losegoog=yerbum | iohanniswyclifd01losegoog=perbum | iohanniswyclifde12wycl=uerbum		4	accept
+34	R2	latinworks13wycl=damasceni | iohanniswyclifd00losegoog=damasceni | iohanniswyclifd01losegoog=danuttcetd | iohanniswyclifde12wycl=damasceni		4	accept
+42	R2	latinworks13wycl=christi | iohanniswyclifd00losegoog=clirisli | iohanniswyclifd01losegoog=chrish | iohanniswyclifde12wycl=christi		4	accept
+49	R2	latinworks13wycl=ista | iohanniswyclifd00losegoog=ista | iohanniswyclifd01losegoog=isu | iohanniswyclifde12wycl=ista		4	accept
+59	R2	latinworks13wycl=maculauit | iohanniswyclifd00losegoog=raacuiauit | iohanniswyclifd01losegoog=maculaiat | iohanniswyclifde12wycl=maculauit		4	accept
+63	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=at | iohanniswyclifde12wycl=ut		4	accept
+70	R3	latinworks13wycl=iia | iohanniswyclifd00losegoog=i | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=iia		4	plate
+85	R4	latinworks13wycl=iua | iohanniswyclifd00losegoog=iu | iohanniswyclifd01losegoog=iu | iohanniswyclifde12wycl=iua		4	plate
+95	R4	latinworks13wycl=panis | iohanniswyclifd00losegoog=pants | iohanniswyclifd01losegoog=pants | iohanniswyclifde12wycl=panis		4	plate
+97	R2	latinworks13wycl=consecracionem | iohanniswyclifd00losegoog=con | iohanniswyclifd01losegoog=consecracionem | iohanniswyclifde12wycl=consecracionem		4	accept
+104	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=esl | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+111	R3a	latinworks13wycl=primo | iohanniswyclifd00losegoog=prima | iohanniswyclifd01losegoog=primo | iohanniswyclifde12wycl=primo		4	accept
+112	R4	latinworks13wycl=fuit | iohanniswyclifd00losegoog=uit | iohanniswyclifd01losegoog=uit | iohanniswyclifde12wycl=fuit		4	plate
+118	R2	latinworks13wycl=ubi | iohanniswyclifd00losegoog=ubi | iohanniswyclifd01losegoog=ubt | iohanniswyclifde12wycl=ubi		4	accept
+123	R2	latinworks13wycl=illo | iohanniswyclifd00losegoog=illo | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=illo		4	accept
+146	R2	latinworks13wycl=nichil | iohanniswyclifd00losegoog=nichil | iohanniswyclifd01losegoog=niclul | iohanniswyclifde12wycl=nichil		4	accept
+157	R4	latinworks13wycl=istam | iohanniswyclifd00losegoog=islam | iohanniswyclifd01losegoog=islam | iohanniswyclifde12wycl=istam		4	plate
+170	R2	latinworks13wycl=rigida | iohanniswyclifd00losegoog=isrigida | iohanniswyclifd01losegoog=asngida | iohanniswyclifde12wycl=ngida		4	accept

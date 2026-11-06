@@ -1,0 +1,35 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=foret | iohanniswyclifde12wycl=foret		2	accept
+1	EDGE	latinworks13wycl=situs | iohanniswyclifde12wycl=situs		2	accept
+2	EDGE	latinworks13wycl=acquisicio | iohanniswyclifde12wycl=acquisicio		2	accept
+3	EDGE	latinworks13wycl=uel | iohanniswyclifde12wycl=uel		2	accept
+4	EDGE	latinworks13wycl=duo | iohanniswyclifde12wycl=duo		2	accept
+5	EDGE	latinworks13wycl=instancia | iohanniswyclifde12wycl=instancia		2	accept
+6	EDGE	latinworks13wycl=inmediata | iohanniswyclifde12wycl=inmediata		2	accept
+7	EDGE	latinworks13wycl=uel | iohanniswyclifde12wycl=uel		2	accept
+8	EDGE	latinworks13wycl=indiuisibile | iohanniswyclifde12wycl=indiuisibile		2	accept
+9	EDGE	latinworks13wycl=moueretur | iohanniswyclifde12wycl=moueretur		2	accept
+10	EDGE	latinworks13wycl=in | iohanniswyclifde12wycl=in		2	accept
+14	R2	latinworks13wycl=ficticias | iohanniswyclifd01losegoog=6ciicias | iohanniswyclifde12wycl=ficticias		3	accept
+27	R4	latinworks13wycl=summe | iohanniswyclifd01losegoog=sumnic | iohanniswyclifde12wycl=surarae		3	plate
+31	R3	latinworks13wycl=certum | iohanniswyclifd01losegoog=cerium | iohanniswyclifde12wycl=certum		3	plate
+36	R2	latinworks13wycl=est | iohanniswyclifd01losegoog=esl | iohanniswyclifde12wycl=est		3	accept
+89	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+107	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+110	R5	latinworks13wycl=pictacia | iohanniswyclifd01losegoog=pictaciai | iohanniswyclifde12wycl=pictacia		3	plate
+115	R3	latinworks13wycl=panis | iohanniswyclifd01losegoog=pania | iohanniswyclifde12wycl=panis		3	plate
+119	R3	latinworks13wycl=ghristi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		3	plate
+139	R3	latinworks13wycl=est | iohanniswyclifd01losegoog=es | iohanniswyclifde12wycl=est		3	plate
+144	R2	latinworks13wycl=est | iohanniswyclifd01losegoog=esl | iohanniswyclifde12wycl=est		3	accept
+148	R5	latinworks13wycl=musitaui | iohanniswyclifd01losegoog=musitaui | iohanniswyclifde12wycl=musitaui		3	plate
+164	THIN	latinworks13wycl=pseudofratribus | iohanniswyclifde12wycl=pseudofratribus		2	plate
+165	THIN	latinworks13wycl=finxit | iohanniswyclifde12wycl=finxit		2	plate
+166	THIN	latinworks13wycl=istam | iohanniswyclifde12wycl=istam		2	plate
+167	THIN	latinworks13wycl=demenciam | iohanniswyclifde12wycl=demenciam		2	plate
+176	R2	latinworks13wycl=falsis | iohanniswyclifd01losegoog=ahis | iohanniswyclifde12wycl=falsis		3	accept
+193	R5	latinworks13wycl=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		3	plate
+202	R2	latinworks13wycl=sentenciam | iohanniswyclifd01losegoog=semenctani | iohanniswyclifde12wycl=sentenciam		3	accept
+206	EDGE	latinworks13wycl=sentenciarum | iohanniswyclifde12wycl=sentenciarum		2	accept
+207	EDGE	latinworks13wycl=distinccione | iohanniswyclifde12wycl=distinccione		2	accept
+208	THIN	latinworks13wycl=xia | iohanniswyclifde12wycl=xia		2	plate
+209	EDGE	latinworks13wycl=imponitur | iohanniswyclifde12wycl=imponitur		2	accept

@@ -1,0 +1,25 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=uirtute | iohanniswyclifd01losegoog=uirtute		2	accept
+1	EDGE	latinworks13wycl=uerborum | iohanniswyclifd01losegoog=uerborum		2	accept
+17	R5	latinworks13wycl=melioratus | iohanniswyclifd01losegoog=melioratus | iohanniswyclifde12wycl=melioratus		3	plate
+28	R5	latinworks13wycl=anagogicum | iohanniswyclifd01losegoog=anagogicum | iohanniswyclifde12wycl=anagogicum		3	plate
+51	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+52	R5	latinworks13wycl=epistolatus | iohanniswyclifd01losegoog=epistolatus | iohanniswyclifde12wycl=epistolatus		3	plate
+59	R5	latinworks13wycl=azimis | iohanniswyclifd01losegoog=azimis | iohanniswyclifde12wycl=azimis		3	plate
+87	R4a	latinworks13wycl=dampnificet | iohanniswyclifd01losegoog=dampnincet | iohanniswyclifde12wycl=dampnincet		3	accept
+94	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+103	R5	latinworks13wycl=bonificacioni | iohanniswyclifd01losegoog=bonificacioni | iohanniswyclifde12wycl=bonificacioni		3	plate
+110	R4a	latinworks13wycl=tum | iohanniswyclifd01losegoog=turn | iohanniswyclifde12wycl=turn		3	accept
+119	R2	latinworks13wycl=in | iohanniswyclifd01losegoog=ip | iohanniswyclifde12wycl=in		3	accept
+122	R5	latinworks13wycl=essendo | iohanniswyclifd01losegoog=essendo | iohanniswyclifde12wycl=essendo		3	plate
+168	THIN	latinworks13wycl=fidelis | iohanniswyclifde12wycl=fidelis		2	plate
+169	THIN	latinworks13wycl=colligere | iohanniswyclifde12wycl=colligere		2	plate
+170	THIN	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	plate
+171	THIN	latinworks13wycl=sacramentum | iohanniswyclifde12wycl=sacramentum		2	plate
+172	THIN	latinworks13wycl=eukaristie | iohanniswyclifde12wycl=eukaristie		2	plate
+173	THIN	latinworks13wycl=sit | iohanniswyclifde12wycl=sit		2	plate
+174	THIN	latinworks13wycl=realiter | iohanniswyclifde12wycl=realiter		2	plate
+187	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+201	EDGE	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	accept
+202	EDGE	latinworks13wycl=autem | iohanniswyclifde12wycl=autem		2	accept
+203	EDGE	latinworks13wycl=aggregatum | iohanniswyclifde12wycl=aggregatum		2	accept

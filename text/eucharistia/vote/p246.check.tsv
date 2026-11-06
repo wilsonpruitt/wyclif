@@ -1,0 +1,30 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=differencia | iohanniswyclifde12wycl=differencia		2	accept
+10	R2	latinworks13wycl=ab | iohanniswyclifd00losegoog=b | iohanniswyclifd01losegoog=ab | iohanniswyclifde12wycl=ab		4	accept
+19	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=uc | iohanniswyclifde12wycl=ut		4	accept
+23	R5a	latinworks13wycl=cicionis | iohanniswyclifd00losegoog=cicionii | iohanniswyclifd01losegoog=cicionis | iohanniswyclifde12wycl=cicionis		4	accept
+28	R3a	latinworks13wycl=utroque | iohanniswyclifd00losegoog=uiroque | iohanniswyclifd01losegoog=utroquc | iohanniswyclifde12wycl=utroque		4	accept
+31	R2	latinworks13wycl=sancti | iohanniswyclifd00losegoog=sincd | iohanniswyclifd01losegoog=sancti | iohanniswyclifde12wycl=sancti		4	accept
+42	R3	latinworks13wycl=sit | iohanniswyclifd00losegoog=sil | iohanniswyclifd01losegoog=sic | iohanniswyclifde12wycl=sit		4	plate
+45	R2	latinworks13wycl=nla | iohanniswyclifd00losegoog=lua | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+56	R2	latinworks13wycl=sensus | iohanniswyclifd00losegoog=sentm | iohanniswyclifd01losegoog=sensus | iohanniswyclifde12wycl=sensus		4	accept
+61	R4	latinworks13wycl=ydemptincacione | iohanniswyclifd00losegoog=yderoptificacionecorporis | iohanniswyclifd01losegoog=ydemptincacionc		3	plate
+62	R2	latinworks13wycl=corporis | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=corporis		3	accept
+65	R4	latinworks13wycl=spiritui | iohanniswyclifd00losegoog=spirilui | iohanniswyclifd01losegoog=spirilui | iohanniswyclifde12wycl=spiritui		4	plate
+68	R3a	latinworks13wycl=aptari | iohanniswyclifd00losegoog=spuria | iohanniswyclifd01losegoog=aptari | iohanniswyclifde12wycl=aptari		4	accept
+75	R3	latinworks13wycl=illa | iohanniswyclifd00losegoog=iua | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	plate
+78	R4	latinworks13wycl=ministrare | iohanniswyclifd00losegoog=minislrare | iohanniswyclifd01losegoog=minislrare | iohanniswyclifde12wycl=ministrare		4	plate
+82	R2	latinworks13wycl=diuersa | iohanniswyclifd00losegoog=diuetei | iohanniswyclifd01losegoog=diucrsa | iohanniswyclifde12wycl=diuersa		4	accept
+90	R2	latinworks13wycl=est | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=est | iohanniswyclifde12wycl=est		4	accept
+131	R2	latinworks13wycl=stat | iohanniswyclifd00losegoog=sist | iohanniswyclifd01losegoog=stat | iohanniswyclifde12wycl=stat		4	accept
+142	R2	latinworks13wycl=sit | iohanniswyclifd00losegoog=ax | iohanniswyclifd01losegoog=sit | iohanniswyclifde12wycl=sit		4	accept
+150	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+151	R2	latinworks13wycl=tam | iohanniswyclifd00losegoog=lam | iohanniswyclifd01losegoog=tarn | iohanniswyclifde12wycl=tam		4	accept
+169	R2	latinworks13wycl=instancia | iohanniswyclifd00losegoog=instancia | iohanniswyclifd01losegoog=ioslaacia | iohanniswyclifde12wycl=instancia		4	accept
+184	R5a	latinworks13wycl=dimensionali | iohanniswyclifd00losegoog=dimensionali | iohanniswyclifd01losegoog=dimensionali | iohanniswyclifde12wycl=dimensionali		4	accept
+185	R4	latinworks13wycl=faciat | iohanniswyclifd00losegoog=facial | iohanniswyclifd01losegoog=facial | iohanniswyclifde12wycl=faciat		4	plate
+186	R2	latinworks13wycl=ergo | iohanniswyclifd00losegoog=ergo | iohanniswyclifd01losegoog=eio | iohanniswyclifde12wycl=ergo		4	accept
+207	R3a	latinworks13wycl=possunt | iohanniswyclifd00losegoog=possum | iohanniswyclifd01losegoog=possunt | iohanniswyclifde12wycl=possunt		4	accept
+209	R3a	latinworks13wycl=distendi | iohanniswyclifd00losegoog=distend | iohanniswyclifd01losegoog=distendi | iohanniswyclifde12wycl=distendi		4	accept
+212	NW	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	plate
+218	R2	latinworks13wycl=inmobili | iohanniswyclifd00losegoog=ioroobili | iohanniswyclifd01losegoog=inmobili | iohanniswyclifde12wycl=inmobili		4	accept

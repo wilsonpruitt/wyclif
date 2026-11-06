@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+4	R5	latinworks13wycl=amiccione | iohanniswyclifd01losegoog=amiccione | iohanniswyclifde12wycl=amiccione		3	plate
+8	R3	latinworks13wycl=qiiod | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		3	plate
+24	R3a	latinworks13wycl=motu | iohanniswyclifd00losegoog=molu | iohanniswyclifd01losegoog=motu | iohanniswyclifde12wycl=motu		4	accept
+28	R4	latinworks13wycl=uiimo | iohanniswyclifd00losegoog=uii | iohanniswyclifd01losegoog=uii | iohanniswyclifde12wycl=uiimo		4	plate
+47	R2	latinworks13wycl=transsubstanciacionem | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=transsubstanciacionem | iohanniswyclifde12wycl=transsubstanciacionem		4	accept
+56	R3a	latinworks13wycl=toret | iohanniswyclifd00losegoog=foret | iohanniswyclifd01losegoog=foret | iohanniswyclifde12wycl=foret		4	accept
+88	R3a	latinworks13wycl=uero | iohanniswyclifd00losegoog=uera | iohanniswyclifd01losegoog=uero | iohanniswyclifde12wycl=uero		4	accept
+102	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+131	R2	latinworks13wycl=loca | iohanniswyclifd00losegoog=loca | iohanniswyclifd01losegoog=loca | iohanniswyclifde12wycl=ca		4	accept
+164	THIN	latinworks13wycl=nec		1	plate
+165	THIN	latinworks13wycl=ualetdicere		1	plate
+169	R3a	latinworks13wycl=motum | iohanniswyclifd00losegoog=molum | iohanniswyclifd01losegoog=motum | iohanniswyclifde12wycl=motum		4	accept
+183	R3a	latinworks13wycl=fingi | iohanniswyclifd00losegoog=tingi | iohanniswyclifd01losegoog=fingi | iohanniswyclifde12wycl=frngi		4	accept
+202	R3a	latinworks13wycl=tum | iohanniswyclifd00losegoog=cum | iohanniswyclifd01losegoog=tum | iohanniswyclifde12wycl=turn		4	accept
+219	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=noo | iohanniswyclifd01losegoog=non | iohanniswyclifde12wycl=non		4	accept

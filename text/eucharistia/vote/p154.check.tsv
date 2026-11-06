@@ -1,0 +1,18 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=sed | iohanniswyclifde12wycl=sed		2	accept
+1	EDGE	latinworks13wycl=tercio | iohanniswyclifde12wycl=tercio		2	accept
+2	EDGE	latinworks13wycl=replicatur | iohanniswyclifde12wycl=replicatur		2	accept
+53	R4a	latinworks13wycl=hic | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		3	accept
+59	R5	latinworks13wycl=tan | iohanniswyclifd01losegoog=taa | iohanniswyclifde12wycl=tan		3	plate
+69	R3	latinworks13wycl=uinum | iohanniswyclifd01losegoog=uiuum | iohanniswyclifde12wycl=uinum		3	plate
+79	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+83	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+85	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+87	R5	latinworks13wycl=fasciculum | iohanniswyclifd01losegoog=faseieulum | iohanniswyclifde12wycl=fasciculum		3	plate
+108	R3	latinworks13wycl=illum | iohanniswyclifd01losegoog=ilium | iohanniswyclifde12wycl=ilium		3	plate
+136	R4	latinworks13wycl=iia | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=iia		3	plate
+137	R3	latinworks13wycl=panis | iohanniswyclifd01losegoog=partis | iohanniswyclifde12wycl=panis		3	plate
+161	R5	latinworks13wycl=x | iohanniswyclifd01losegoog=x | iohanniswyclifde12wycl=x		3	plate
+166	R4a	latinworks13wycl=quem | iohanniswyclifd01losegoog=quern | iohanniswyclifde12wycl=quern		3	accept
+174	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+194	DEL	latinworks13wycl=not | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		3	accept

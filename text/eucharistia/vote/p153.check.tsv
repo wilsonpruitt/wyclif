@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=ulterius | iohanniswyclifd01losegoog=ulterius		2	accept
+11	R3a	latinworks13wycl=scripturis | iohanniswyclifd00losegoog=scripturis | iohanniswyclifd01losegoog=scripturis | iohanniswyclifde12wycl=scriptaris		4	accept
+30	R5a	latinworks13wycl=glossatur | iohanniswyclifd00losegoog=glossatur | iohanniswyclifd01losegoog=glossatur | iohanniswyclifde12wycl=glossatur		4	accept
+48	R5a	latinworks13wycl=conuersiua | iohanniswyclifd00losegoog=conuersiua | iohanniswyclifd01losegoog=conuersiua | iohanniswyclifde12wycl=conuersiua		4	accept
+67	R3	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	plate
+74	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=tiuam | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+77	R6a	latinworks13wycl=hic | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		4	accept
+86	R3a	latinworks13wycl=utrum | iohanniswyclifd00losegoog=uirum | iohanniswyclifd01losegoog=utrum | iohanniswyclifde12wycl=utrum		4	accept
+87	R3a	latinworks13wycl=ex | iohanniswyclifd00losegoog=ei | iohanniswyclifd01losegoog=ex | iohanniswyclifde12wycl=ex		4	accept
+107	R3a	latinworks13wycl=locucionem | iohanniswyclifd00losegoog=locucionem | iohanniswyclifd01losegoog=locucionem | iohanniswyclifde12wycl=cucionem		4	accept
+147	R2	latinworks13wycl=quam | iohanniswyclifd00losegoog=quara | iohanniswyclifd01losegoog=quam | iohanniswyclifde12wycl=quam		4	accept
+158	R5a	latinworks13wycl=miraculosissime | iohanniswyclifd00losegoog=mirairulosissime | iohanniswyclifd01losegoog=miraculosissime | iohanniswyclifde12wycl=miraculosissime		4	accept
+159	R5a	latinworks13wycl=conuersiua | iohanniswyclifd00losegoog=conuersiua | iohanniswyclifd01losegoog=conuersiua | iohanniswyclifde12wycl=conuersiua		4	accept
+160	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+176	R5a	latinworks13wycl=quidditas | iohanniswyclifd00losegoog=quidditas | iohanniswyclifd01losegoog=quidditas | iohanniswyclifde12wycl=quidditas		4	accept
+192	R3a	latinworks13wycl=illa | iohanniswyclifd00losegoog=ilia | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		4	accept
+225	EDGE	latinworks13wycl=accipit | iohanniswyclifde12wycl=accipit		2	accept
+226	EDGE	latinworks13wycl=sed | iohanniswyclifde12wycl=sed		2	accept
+227	EDGE	latinworks13wycl=tropice | iohanniswyclifde12wycl=tropice		2	accept
+228	EDGE	latinworks13wycl=predicacionem | iohanniswyclifde12wycl=predicacionem		2	accept
+229	EDGE	latinworks13wycl=corporis | iohanniswyclifde12wycl=corporis		2	accept

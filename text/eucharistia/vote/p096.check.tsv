@@ -1,0 +1,14 @@
+pos	rule	forms	support	voters	resolution
+14	NW	latinworks13wycl=distancius | iohanniswyclifd00losegoog=distancius | iohanniswyclifd01losegoog=distancius | iohanniswyclifde12wycl=distancius		4	plate
+22	R3a	latinworks13wycl=locum | iohanniswyclifd00losegoog=locum | iohanniswyclifd01losegoog=locum | iohanniswyclifde12wycl=cum		4	accept
+28	R3a	latinworks13wycl=dispari | iohanniswyclifd00losegoog=dispari | iohanniswyclifd01losegoog=dispart | iohanniswyclifde12wycl=dispari		4	accept
+55	R5a	latinworks13wycl=uii | iohanniswyclifd00losegoog=uii | iohanniswyclifd01losegoog=uii | iohanniswyclifde12wycl=uii		4	accept
+70	R2	latinworks13wycl=tnplex | iohanniswyclifd00losegoog=irlpiex | iohanniswyclifd01losegoog=triplex | iohanniswyclifde12wycl=triplex		4	accept
+80	R5a	latinworks13wycl=sanctitantum | iohanniswyclifd00losegoog=sanctiuntum | iohanniswyclifd01losegoog=sanctitantum | iohanniswyclifde12wycl=sanctitantum		4	accept
+93	R5a	latinworks13wycl=similime | iohanniswyclifd00losegoog=similimc | iohanniswyclifd01losegoog=similime | iohanniswyclifde12wycl=similime		4	accept
+98	R2	latinworks13wycl=fuit | iohanniswyclifd00losegoog=iii | iohanniswyclifd01losegoog=fuit | iohanniswyclifde12wycl=fuit		4	accept
+124	R3a	latinworks13wycl=decenti | iohanniswyclifd00losegoog=decenti | iohanniswyclifd01losegoog=decent | iohanniswyclifde12wycl=decenti		4	accept
+169	R3a	latinworks13wycl=sentencia | iohanniswyclifd00losegoog=semencia | iohanniswyclifd01losegoog=sentencia | iohanniswyclifde12wycl=sentencia		4	accept
+179	R3a	latinworks13wycl=quin | iohanniswyclifd00losegoog=quia | iohanniswyclifd01losegoog=quin | iohanniswyclifde12wycl=quin		4	accept
+195	NW	latinworks13wycl=tam | iohanniswyclifd00losegoog=tarn | iohanniswyclifd01losegoog=tarn | iohanniswyclifde12wycl=tarn		4	plate
+208	EDGE	latinworks13wycl=quod | iohanniswyclifde12wycl=quod		2	accept

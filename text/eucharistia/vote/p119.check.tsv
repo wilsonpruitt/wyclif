@@ -1,0 +1,22 @@
+pos	rule	forms	support	voters	resolution
+14	NW	latinworks13wycl=aput | iohanniswyclifd00losegoog=aput | iohanniswyclifd01losegoog=aput | iohanniswyclifde12wycl=aput		4	plate
+16	R2	latinworks13wycl=fidelem | iohanniswyclifd00losegoog=6ddem | iohanniswyclifd01losegoog=fidelem | iohanniswyclifde12wycl=fidelem		4	accept
+25	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=c | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+35	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=tsst | iohanniswyclifde12wycl=esse		4	accept
+50	R3a	latinworks13wycl=11 | iohanniswyclifd00losegoog=11 | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=ii		4	accept
+52	R2	latinworks13wycl=dominus | iohanniswyclifd00losegoog=doraidus | iohanniswyclifd01losegoog=dominus | iohanniswyclifde12wycl=dominus		4	accept
+53	R5a	latinworks13wycl=armachanus | iohanniswyclifd00losegoog=armachanus | iohanniswyclifd01losegoog=armachanus | iohanniswyclifde12wycl=armachanus		4	accept
+58	R3a	latinworks13wycl=dici | iohanniswyclifd00losegoog=did | iohanniswyclifd01losegoog=dici | iohanniswyclifde12wycl=dici		4	accept
+71	R2	latinworks13wycl=ndeii | iohanniswyclifd00losegoog=fideli | iohanniswyclifd01losegoog=ndeli | iohanniswyclifde12wycl=rideli		4	accept
+79	R2	latinworks13wycl=kathohcam | iohanniswyclifd00losegoog=kuthohcani | iohanniswyclifd01losegoog=katnolicam | iohanniswyclifde12wycl=katholicam		4	accept
+86	R3a	latinworks13wycl=et | iohanniswyclifd00losegoog=er | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+100	R4	latinworks13wycl=oneratur | iohanniswyclifd00losegoog=i30neratur | iohanniswyclifd01losegoog=i30neratur | iohanniswyclifde12wycl=oneratur		4	plate
+106	R5a	latinworks13wycl=eukaristia | iohanniswyclifd00losegoog=eukaristia | iohanniswyclifd01losegoog=eukaristia | iohanniswyclifde12wycl=eukaristia		4	accept
+162	R5a	latinworks13wycl=specificaretur | iohanniswyclifd00losegoog=specificaretur | iohanniswyclifd01losegoog=specificaretur | iohanniswyclifde12wycl=specificaretur		4	accept
+168	THIN	latinworks13wycl=communissimum | iohanniswyclifde12wycl=communissirnum		2	plate
+169	THIN	latinworks13wycl=necessariissimum | iohanniswyclifde12wycl=necessariissimum		2	plate
+170	THIN	latinworks13wycl=atque | iohanniswyclifde12wycl=atque		2	plate
+187	R5a	latinworks13wycl=etgrauiores | iohanniswyclifd00losegoog=etgrauiores | iohanniswyclifd01losegoog=etgrauiores | iohanniswyclifde12wycl=etgrauiores		4	accept
+196	R3a	latinworks13wycl=figuratiua | iohanniswyclifd00losegoog=figuratiue | iohanniswyclifd01losegoog=figuratiua | iohanniswyclifde12wycl=figuratiua		4	accept
+202	R3a	latinworks13wycl=sacramentum | iohanniswyclifd00losegoog=30 | iohanniswyclifd01losegoog=sacramentum | iohanniswyclifde12wycl=sacramentum		4	accept
+211	R4	latinworks13wycl=xa | iohanniswyclifd01losegoog=x | iohanniswyclifde12wycl=xa		3	plate

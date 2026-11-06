@@ -1,0 +1,9 @@
+n	page	pos	rule	forms
+16.1	164	102	SUB	bt=poste | fordham= | vote=paste
+16.2	166	27	SUB	bt=vero | fordham= | vote=uera
+16.3	167	188	SUB	bt=nocte | fordham= | vote=node
+16.4	169	180	BT-ONLY	bt=amamus. | fordham= | vote=
+16.5	173	70	SUB	bt=per se esse. Nec | fordham= | vote=nee
+16.6	173	143	SUB	bt=IIᵃ | fordham= | vote=ii
+16.7	174	42	SUB	bt=11: | fordham= | vote=1 i
+16.8	176	89	SUB	bt=VIᵗⁱ | fordham= | vote=ui

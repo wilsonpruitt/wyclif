@@ -1,0 +1,27 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=mutato		1	accept
+1	EDGE	latinworks13wycl=nomine		1	accept
+2	THIN	latinworks13wycl=ct		1	plate
+8	R2	latinworks13wycl=autem | iohanniswyclifd00losegoog=butem | iohanniswyclifd01losegoog=autcni | iohanniswyclifde12wycl=autem		4	accept
+12	R5a	latinworks13wycl=transsubstanciare | iohanniswyclifd00losegoog=iranssubstaociare | iohanniswyclifd01losegoog=transsubstanciare | iohanniswyclifde12wycl=transsubstanciare		4	accept
+24	R3	latinworks13wycl=ii | iohanniswyclifd00losegoog=11 | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=ii		4	plate
+32	R3a	latinworks13wycl=substancia | iohanniswyclifd00losegoog=substancia | iohanniswyclifd01losegoog=subslaiicia | iohanniswyclifde12wycl=substantia		4	accept
+54	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=at		4	accept
+58	R2	latinworks13wycl=non | iohanniswyclifd00losegoog=non | iohanniswyclifd01losegoog=iton | iohanniswyclifde12wycl=non		4	accept
+76	R5a	latinworks13wycl=transubstanciacionem | iohanniswyclifd00losegoog=transubstanciacionem | iohanniswyclifd01losegoog=transubsianciacionem | iohanniswyclifde12wycl=transubstanciacionem		4	accept
+85	R3	latinworks13wycl=patet | iohanniswyclifd00losegoog=paiec | iohanniswyclifd01losegoog=palet | iohanniswyclifde12wycl=patet		4	plate
+98	R2	latinworks13wycl=fidei | iohanniswyclifd00losegoog=iicidei | iohanniswyclifd01losegoog=lefidei | iohanniswyclifde12wycl=fliei		4	accept
+107	R3a	latinworks13wycl=magis | iohanniswyclifd00losegoog=maeis | iohanniswyclifd01losegoog=magis | iohanniswyclifde12wycl=magis		4	accept
+114	R5a	latinworks13wycl=katholicas | iohanniswyclifd00losegoog=katholicas | iohanniswyclifd01losegoog=katholicas | iohanniswyclifde12wycl=katholicas		4	accept
+116	R5a	latinworks13wycl=exclusiuas | iohanniswyclifd00losegoog=cxclusiuas | iohanniswyclifd01losegoog=exclusiuas | iohanniswyclifde12wycl=exclusiuas		4	accept
+128	R4	latinworks13wycl=ponunt | iohanniswyclifd00losegoog=ponuni | iohanniswyclifd01losegoog=ponuni | iohanniswyclifde12wycl=ponunt		4	plate
+131	R4	latinworks13wycl=subiecto | iohanniswyclifd00losegoog=subiecio | iohanniswyclifd01losegoog=subiecio | iohanniswyclifde12wycl=subiecto		4	plate
+134	R4	latinworks13wycl=possint | iohanniswyclifd00losegoog=possini | iohanniswyclifd01losegoog=possini | iohanniswyclifde12wycl=possint		4	plate
+148	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+156	R2	latinworks13wycl=fiet | iohanniswyclifd00losegoog=fiet | iohanniswyclifd01losegoog=fiet | iohanniswyclifde12wycl=met		4	accept
+159	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=el | iohanniswyclifde12wycl=et		4	accept
+168	R3a	latinworks13wycl=narrat | iohanniswyclifd00losegoog=narrai | iohanniswyclifd01losegoog=narrat | iohanniswyclifde12wycl=narrat		4	accept
+169	R2	latinworks13wycl=ueritatem | iohanniswyclifd00losegoog=ueriiatera | iohanniswyclifd01losegoog=ueritatera | iohanniswyclifde12wycl=ueritatem		4	accept
+179	R2	latinworks13wycl=suum | iohanniswyclifd00losegoog=suura | iohanniswyclifd01losegoog=fuum | iohanniswyclifde12wycl=suum		4	accept
+188	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=chrisii | iohanniswyclifde12wycl=christi		4	accept
+213	EDGE	latinworks13wycl=inpossibile | iohanniswyclifde12wycl=inpossibile		2	accept

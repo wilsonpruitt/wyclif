@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=posterius		1	accept
+1	EDGE	latinworks13wycl=differencia		1	accept
+2	EDGE	latinworks13wycl=tamen | iohanniswyclifde12wycl=tamen		2	accept
+10	R5a	latinworks13wycl=tropologicus | iohanniswyclifd00losegoog=tropologicus | iohanniswyclifd01losegoog=tropologicus | iohanniswyclifde12wycl=tropologicus		4	accept
+12	R3a	latinworks13wycl=moralis | iohanniswyclifd00losegoog=monilis | iohanniswyclifd01losegoog=moralis | iohanniswyclifde12wycl=moralis		4	accept
+42	R6a	latinworks13wycl=ot | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=of | iohanniswyclifde12wycl=of		4	accept
+52	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=in | iohanniswyclifd01losegoog=iti | iohanniswyclifde12wycl=in		4	accept
+53	R2	latinworks13wycl=regno | iohanniswyclifd00losegoog=muiido | iohanniswyclifd01losegoog=regno | iohanniswyclifde12wycl=regno		4	accept
+54	R2	latinworks13wycl=scihcet | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=scilicet | iohanniswyclifde12wycl=scilicet		4	accept
+55	R6a	latinworks13wycl=situale | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=situale | iohanniswyclifde12wycl=situale		4	accept
+56	R6a	latinworks13wycl=intencionale | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=intenciodaie | iohanniswyclifde12wycl=intencionale		4	accept
+57	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+58	R2	latinworks13wycl=potenciale | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=potenciale | iohanniswyclifde12wycl=potenciale		4	accept
+59	R2	latinworks13wycl=correspondenter | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=correspondeuter | iohanniswyclifde12wycl=correspondenter		4	accept
+60	R2	latinworks13wycl=uidetur | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=uidetur | iohanniswyclifde12wycl=uidetur		4	accept
+61	R2	latinworks13wycl=chnstum | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=christum | iohanniswyclifde12wycl=christum		4	accept
+62	R2	latinworks13wycl=habere | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=habere | iohanniswyclifde12wycl=habere		4	accept
+63	R2	latinworks13wycl=humanitus | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=humanitus | iohanniswyclifde12wycl=humanitus		4	accept
+64	R4a	latinworks13wycl=m | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=m		4	accept
+65	R2	latinworks13wycl=mundo | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=muudo | iohanniswyclifde12wycl=mundo		4	accept
+76	R4	latinworks13wycl=dextram | iohanniswyclifd00losegoog=dtxtram | iohanniswyclifd01losegoog=dextram | iohanniswyclifde12wycl=dtxtram		4	plate
+80	R5a	latinworks13wycl=situalem | iohanniswyclifd00losegoog=situalera | iohanniswyclifd01losegoog=situalem | iohanniswyclifde12wycl=situalem		4	accept
+83	R5a	latinworks13wycl=situatur | iohanniswyclifd00losegoog=situatur | iohanniswyclifd01losegoog=situatur | iohanniswyclifde12wycl=situatur		4	accept
+87	R2	latinworks13wycl=dirtunditur | iohanniswyclifd00losegoog=dmundilur | iohanniswyclifd01losegoog=diffunditur | iohanniswyclifde12wycl=dirlunditur		4	accept
+118	R5a	latinworks13wycl=situale | iohanniswyclifd00losegoog=situale | iohanniswyclifd01losegoog=situale | iohanniswyclifde12wycl=situale		4	accept
+120	R5a	latinworks13wycl=dimensionale | iohanniswyclifd00losegoog=dimensionale | iohanniswyclifd01losegoog=dimensionale | iohanniswyclifde12wycl=dimensionale		4	accept
+122	R2	latinworks13wycl=totum | iohanniswyclifd00losegoog=lolum | iohanniswyclifd01losegoog=totum | iohanniswyclifde12wycl=totum		4	accept
+153	R2	latinworks13wycl=tantum | iohanniswyclifd00losegoog=lantuni | iohanniswyclifd01losegoog=tantum | iohanniswyclifde12wycl=tantum		4	accept
+163	R5a	latinworks13wycl=intencionale | iohanniswyclifd00losegoog=intencionale | iohanniswyclifd01losegoog=intencionale | iohanniswyclifde12wycl=intencionale		4	accept
+169	R2	latinworks13wycl=pascuntur | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=pascuntur | iohanniswyclifde12wycl=pascuntur		4	accept
+177	R3a	latinworks13wycl=christi | iohanniswyclifd00losegoog=chrisii | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+188	R3a	latinworks13wycl=limites | iohanniswyclifd00losegoog=imites | iohanniswyclifd01losegoog=limites | iohanniswyclifde12wycl=limites		4	accept

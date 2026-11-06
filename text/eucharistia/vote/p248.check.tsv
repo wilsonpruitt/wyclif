@@ -1,0 +1,33 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=difficultas | iohanniswyclifde12wycl=difficultas		2	accept
+1	EDGE	latinworks13wycl=quomodo | iohanniswyclifde12wycl=quomodo		2	accept
+2	EDGE	latinworks13wycl=fit | iohanniswyclifde12wycl=fit		2	accept
+10	R3	latinworks13wycl=in | iohanniswyclifd01losegoog=ia | iohanniswyclifde12wycl=in		3	plate
+22	R2	latinworks13wycl=composite | iohanniswyclifd01losegoog=coinpostcc | iohanniswyclifde12wycl=composite		3	accept
+23	R2	latinworks13wycl=ymmo | iohanniswyclifd01losegoog=ytnrao | iohanniswyclifde12wycl=ymmo		3	accept
+27	R5	latinworks13wycl=uegetatiuam | iohanniswyclifd01losegoog=uegetaiiuara | iohanniswyclifde12wycl=uegetatiuam		3	plate
+33	R5	latinworks13wycl=subordinetur | iohanniswyclifd01losegoog=subordinetur | iohanniswyclifde12wycl=subordinetur		3	plate
+36	R4a	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		3	accept
+39	R3	latinworks13wycl=illa | iohanniswyclifd01losegoog=ilia | iohanniswyclifde12wycl=ilia		3	plate
+50	R3	latinworks13wycl=sit | iohanniswyclifd01losegoog=sil | iohanniswyclifde12wycl=sit		3	plate
+61	R5	latinworks13wycl=quidditatem | iohanniswyclifd01losegoog=quidditatem | iohanniswyclifde12wycl=quidditatem		3	plate
+66	R5	latinworks13wycl=quidditatem | iohanniswyclifd01losegoog=quidditatem | iohanniswyclifde12wycl=quidditatem		3	plate
+110	R5	latinworks13wycl=uegetatiua | iohanniswyclifd01losegoog=uegetaliua | iohanniswyclifde12wycl=uegetatiua		3	plate
+129	R3	latinworks13wycl=et | iohanniswyclifd01losegoog=ei | iohanniswyclifde12wycl=et		3	plate
+137	R3	latinworks13wycl=elementis | iohanniswyclifd01losegoog=dementis | iohanniswyclifde12wycl=elementis		3	plate
+138	R2	latinworks13wycl=et | iohanniswyclifd01losegoog=cc | iohanniswyclifde12wycl=et		3	accept
+146	R4a	latinworks13wycl=hic | iohanniswyclifd01losegoog=hie | iohanniswyclifde12wycl=hie		3	accept
+153	R3	latinworks13wycl=ghristi | iohanniswyclifd01losegoog=chrlsti | iohanniswyclifde12wycl=christi		3	plate
+154	R5	latinworks13wycl=math | iohanniswyclifd01losegoog=math | iohanniswyclifde12wycl=math		3	plate
+156	R2	latinworks13wycl=patet | iohanniswyclifd01losegoog=paiei | iohanniswyclifde12wycl=patet		3	accept
+158	R2	latinworks13wycl=exsufflandi | iohanniswyclifd01losegoog=cxtuftlaqdi | iohanniswyclifde12wycl=exsufflandi		3	accept
+159	R3	latinworks13wycl=sunt | iohanniswyclifd01losegoog=sum | iohanniswyclifde12wycl=sunt		3	plate
+164	R5	latinworks13wycl=iesum | iohanniswyclifd01losegoog=iesum | iohanniswyclifde12wycl=iesum		3	plate
+178	R3	latinworks13wycl=sensum | iohanniswyclifd01losegoog=senium | iohanniswyclifde12wycl=sensum		3	plate
+181	R3	latinworks13wycl=hec | iohanniswyclifd01losegoog=bee | iohanniswyclifde12wycl=hec		3	plate
+186	R2	latinworks13wycl=subseruiunt | iohanniswyclifd01losegoog=subieruiuqi | iohanniswyclifde12wycl=subseruiunt		3	accept
+221	EDGE	latinworks13wycl=consequenter | iohanniswyclifde12wycl=consequenter		2	accept
+222	EDGE	latinworks13wycl=septem | iohanniswyclifde12wycl=septem		2	accept
+223	EDGE	latinworks13wycl=que | iohanniswyclifde12wycl=que		2	accept
+224	EDGE	latinworks13wycl=coinquinant | iohanniswyclifde12wycl=coinquinant		2	accept
+225	EDGE	latinworks13wycl=hominem | iohanniswyclifde12wycl=hominem		2	accept

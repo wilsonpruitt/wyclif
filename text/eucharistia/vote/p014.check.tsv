@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=illa		1	accept
+12	R3	latinworks13wycl=ille | iohanniswyclifd00losegoog=hie | iohanniswyclifd01losegoog=lue | iohanniswyclifde12wycl=ille		4	plate
+20	R5a	latinworks13wycl=fidemde | iohanniswyclifd00losegoog=fidemde | iohanniswyclifd01losegoog=fidemde | iohanniswyclifde12wycl=fidemde		4	accept
+24	R6a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+47	R2	latinworks13wycl=tamquam | iohanniswyclifd00losegoog=laraquam | iohanniswyclifd01losegoog=tamquam | iohanniswyclifde12wycl=tamquam		4	accept
+79	R2	latinworks13wycl=telum | iohanniswyclifd00losegoog=lelum | iohanniswyclifd01losegoog=telura | iohanniswyclifde12wycl=telum		4	accept
+81	R3	latinworks13wycl=carne | iohanniswyclifd00losegoog=came | iohanniswyclifd01losegoog=came | iohanniswyclifde12wycl=carne		4	plate
+131	R6	latinworks13wycl=not | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=not		4	plate
+142	R6a	latinworks13wycl=kom | iohanniswyclifd00losegoog=rom | iohanniswyclifd01losegoog=rom | iohanniswyclifde12wycl=rom		4	accept
+143	R2	latinworks13wycl=111 | iohanniswyclifd00losegoog=111 | iohanniswyclifd01losegoog=iip | iohanniswyclifde12wycl=111		4	accept
+145	R2	latinworks13wycl=absit | iohanniswyclifd00losegoog=absit | iohanniswyclifd01losegoog=aostt | iohanniswyclifde12wycl=absit		4	accept
+146	R3a	latinworks13wycl=ut | iohanniswyclifd00losegoog=ut | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=lit		4	accept
+147	R3	latinworks13wycl=faciamus | iohanniswyclifd00losegoog=iaciamus | iohanniswyclifde12wycl=faciamus		3	plate
+155	R2	latinworks13wycl=ndehs | iohanniswyclifd00losegoog=tidehs | iohanniswyclifd01losegoog=fidelis | iohanniswyclifde12wycl=fidehs		4	accept
+184	R3a	latinworks13wycl=ghristi | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+200	R2	latinworks13wycl=tantum | iohanniswyclifd00losegoog=lantum | iohanniswyclifd01losegoog=tantum | iohanniswyclifde12wycl=tan		4	accept

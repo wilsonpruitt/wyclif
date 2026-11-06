@@ -1,0 +1,23 @@
+pos	rule	forms	support	voters	resolution
+0	THIN	latinworks13wycl=ud		1	plate
+1	EDGE	latinworks13wycl=consecrat | iohanniswyclifde12wycl=consecrat		2	accept
+2	EDGE	latinworks13wycl=cotidie | iohanniswyclifde12wycl=cotidie		2	accept
+3	EDGE	latinworks13wycl=corpus | iohanniswyclifde12wycl=corpus		2	accept
+4	THIN	latinworks13wycl=christi | iohanniswyclifde12wycl=ghristi		2	plate
+5	EDGE	latinworks13wycl=nam | iohanniswyclifde12wycl=nam		2	accept
+6	EDGE	latinworks13wycl=deus | iohanniswyclifde12wycl=deus		2	accept
+7	EDGE	latinworks13wycl=noster | iohanniswyclifde12wycl=noster		2	accept
+8	EDGE	latinworks13wycl=non | iohanniswyclifde12wycl=non		2	accept
+62	R3a	latinworks13wycl=satis | iohanniswyclifd00losegoog=salis | iohanniswyclifd01losegoog=satis | iohanniswyclifde12wycl=satis		4	accept
+73	THIN	latinworks13wycl=congt		1	plate
+74	THIN	latinworks13wycl=conficit | iohanniswyclifd00losegoog=conficit		2	plate
+79	R2	latinworks13wycl=conofchristsbodysecrata | iohanniswyclifd00losegoog=consecrala | iohanniswyclifd01losegoog=conet | iohanniswyclifde12wycl=consecrata		4	accept
+80	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=et | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=et		4	accept
+99	R5a	latinworks13wycl=ministeriale | iohanniswyclifd00losegoog=ministeriale | iohanniswyclifd01losegoog=ministeriale | iohanniswyclifde12wycl=ministeriale		4	accept
+125	R2	latinworks13wycl=sic | iohanniswyclifd00losegoog=stc | iohanniswyclifd01losegoog=sic | iohanniswyclifde12wycl=sic		4	accept
+138	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=ncc | iohanniswyclifd01losegoog=nee | iohanniswyclifde12wycl=nee		4	accept
+162	R3a	latinworks13wycl=tamen | iohanniswyclifd00losegoog=tamcn | iohanniswyclifd01losegoog=tamen | iohanniswyclifde12wycl=tame		4	accept
+174	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+181	R2	latinworks13wycl=fa25 | iohanniswyclifd00losegoog=facieodo | iohanniswyclifd01losegoog=fan | iohanniswyclifde12wycl=faciendo		4	accept
+182	R2	latinworks13wycl=ciendo | iohanniswyclifd00losegoog=∅ | iohanniswyclifd01losegoog=ciendo | iohanniswyclifde12wycl=∅		4	accept
+205	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept

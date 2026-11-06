@@ -1,0 +1,16 @@
+pos	rule	forms	support	voters	resolution
+8	R4	latinworks13wycl=inferius | iohanniswyclifd00losegoog=inferiusy | iohanniswyclifd01losegoog=inferiusy | iohanniswyclifde12wycl=inferius		4	plate
+28	R4	latinworks13wycl=iia | iohanniswyclifd00losegoog=11 | iohanniswyclifd01losegoog=11 | iohanniswyclifde12wycl=iia		4	plate
+39	R2	latinworks13wycl=aliud | iohanniswyclifd00losegoog=aliud | iohanniswyclifd01losegoog=aliud | iohanniswyclifde12wycl=aliiid		4	accept
+62	R4	latinworks13wycl=confirmatur | iohanniswyclifd00losegoog=confirraatur | iohanniswyclifd01losegoog=confirraatur | iohanniswyclifde12wycl=confirmatur		4	plate
+71	R2	latinworks13wycl=qiii | iohanniswyclifd00losegoog=qui | iohanniswyclifd01losegoog=qui | iohanniswyclifde12wycl=qui		4	accept
+88	R2	latinworks13wycl=oculi | iohanniswyclifd00losegoog=ocidi | iohanniswyclifd01losegoog=oculi | iohanniswyclifde12wycl=oculi		4	accept
+122	R3a	latinworks13wycl=fructum | iohanniswyclifd00losegoog=fructum | iohanniswyclifd01losegoog=ructum | iohanniswyclifde12wycl=fructum		4	accept
+140	R5a	latinworks13wycl=hilarii | iohanniswyclifd00losegoog=hilarii | iohanniswyclifd01losegoog=hiiarii | iohanniswyclifde12wycl=hilarii		4	accept
+174	R3	latinworks13wycl=similia | iohanniswyclifd00losegoog=sssimilia | iohanniswyclifd01losegoog=assimilia | iohanniswyclifde12wycl=similia		4	plate
+185	R5a	latinworks13wycl=beringarius | iohanniswyclifd00losegoog=beringarius | iohanniswyclifd01losegoog=beringarius | iohanniswyclifde12wycl=beringarius		4	accept
+188	R5a	latinworks13wycl=adtestimonium | iohanniswyclifd00losegoog=adtestimonium | iohanniswyclifd01losegoog=adtestimonium | iohanniswyclifde12wycl=adtestimonium		4	accept
+191	R5a	latinworks13wycl=marc | iohanniswyclifd00losegoog=marc | iohanniswyclifd01losegoog=marc | iohanniswyclifde12wycl=marc		4	accept
+193	R5a	latinworks13wycl=luc | iohanniswyclifd00losegoog=luc | iohanniswyclifd01losegoog=luc | iohanniswyclifde12wycl=luc		4	accept
+196	R2	latinworks13wycl=ia | iohanniswyclifd00losegoog=u | iohanniswyclifde12wycl=ia		3	accept
+201	EDGE	latinworks13wycl=11 | iohanniswyclifd00losegoog=11		2	accept

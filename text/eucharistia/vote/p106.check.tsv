@@ -1,0 +1,24 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=huiusmodi | iohanniswyclifd01losegoog=huiusmodi		2	accept
+1	EDGE	latinworks13wycl=in | iohanniswyclifd01losegoog=in		2	accept
+2	EDGE	latinworks13wycl=concreto | iohanniswyclifd01losegoog=concreto		2	accept
+3	THIN	latinworks13wycl=nec | iohanniswyclifd01losegoog=nee		2	plate
+15	R3a	latinworks13wycl=iniecto | iohanniswyclifd00losegoog=inlecto | iohanniswyclifd01losegoog=iniectoy | iohanniswyclifde12wycl=iniecto		4	accept
+23	R3a	latinworks13wycl=uasi | iohanniswyclifd00losegoog=uasi | iohanniswyclifd01losegoog=uast | iohanniswyclifde12wycl=uasi		4	accept
+46	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+58	R5a	latinworks13wycl=hii | iohanniswyclifd00losegoog=hii | iohanniswyclifd01losegoog=hii | iohanniswyclifde12wycl=hii		4	accept
+66	R2	latinworks13wycl=esse | iohanniswyclifd00losegoog=esse | iohanniswyclifd01losegoog=cut | iohanniswyclifde12wycl=esse		4	accept
+97	NW	latinworks13wycl=tam | iohanniswyclifd00losegoog=tarn | iohanniswyclifd01losegoog=tarn | iohanniswyclifde12wycl=tarn		4	plate
+124	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee		3	accept
+126	R4a	latinworks13wycl=nec | iohanniswyclifd00losegoog=nee | iohanniswyclifd01losegoog=nee		3	accept
+130	R3a	latinworks13wycl=eucharistie | iohanniswyclifd00losegoog=euchariscie | iohanniswyclifd01losegoog=eucharistie | iohanniswyclifde12wycl=eueharistie		4	accept
+148	R4	latinworks13wycl=tiie | iohanniswyclifd00losegoog=c | iohanniswyclifd01losegoog=∅ | iohanniswyclifde12wycl=∅		4	plate
+153	R5a	latinworks13wycl=auinonicam | iohanniswyclifd00losegoog=auinonicam | iohanniswyclifd01losegoog=auinonicam | iohanniswyclifde12wycl=auinonicam		4	accept
+167	R2	latinworks13wycl=ut | iohanniswyclifd00losegoog=uc | iohanniswyclifd01losegoog=ut | iohanniswyclifde12wycl=ut		4	accept
+175	R3a	latinworks13wycl=tractare | iohanniswyclifd00losegoog=tractate | iohanniswyclifd01losegoog=tractare | iohanniswyclifde12wycl=tractare		4	accept
+185	R5a	latinworks13wycl=auinonicus | iohanniswyclifd00losegoog=auinonicusi | iohanniswyclifd01losegoog=auinonicusas | iohanniswyclifde12wycl=auinonicus		4	accept
+200	R5a	latinworks13wycl=romane | iohanniswyclifd00losegoog=romane | iohanniswyclifd01losegoog=romane | iohanniswyclifde12wycl=romane		4	accept
+203	R5a	latinworks13wycl=beringarii | iohanniswyclifd00losegoog=beringarii | iohanniswyclifd01losegoog=beringarii | iohanniswyclifde12wycl=beringarii		4	accept
+215	R3a	latinworks13wycl=magistrale | iohanniswyclifd00losegoog=magiscrale | iohanniswyclifd01losegoog=magistraie | iohanniswyclifde12wycl=magistrate		4	accept
+232	EDGE	latinworks13wycl=sentenciarum | iohanniswyclifde12wycl=sentenciarum		2	accept
+233	EDGE	latinworks13wycl=credendum | iohanniswyclifde12wycl=credendum		2	accept

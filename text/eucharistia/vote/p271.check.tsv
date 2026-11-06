@@ -1,0 +1,17 @@
+pos	rule	forms	support	voters	resolution
+5	R3a	latinworks13wycl=adequata | iohanniswyclifd00losegoog=adequata | iohanniswyclifd01losegoog=adequita | iohanniswyclifde12wycl=adequata		4	accept
+6	R3a	latinworks13wycl=est | iohanniswyclifd00losegoog=est | iohanniswyclifd01losegoog=esi | iohanniswyclifde12wycl=est		4	accept
+7	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enint | iohanniswyclifd01losegoog=ciiim | iohanniswyclifde12wycl=enim		4	accept
+13	R3a	latinworks13wycl=partem | iohanniswyclifd00losegoog=panem | iohanniswyclifd01losegoog=partem | iohanniswyclifde12wycl=partem		4	accept
+21	R3a	latinworks13wycl=sicut | iohanniswyclifd00losegoog=sicut | iohanniswyclifd01losegoog=sicui | iohanniswyclifde12wycl=sicut		4	accept
+55	R3a	latinworks13wycl=aut | iohanniswyclifd00losegoog=out | iohanniswyclifd01losegoog=aut | iohanniswyclifde12wycl=aut		4	accept
+62	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+64	R2	latinworks13wycl=patet | iohanniswyclifd00losegoog=patet | iohanniswyclifd01losegoog=palel | iohanniswyclifde12wycl=patet		4	accept
+95	R3a	latinworks13wycl=dicunt | iohanniswyclifd00losegoog=dicant | iohanniswyclifd01losegoog=dicunt | iohanniswyclifde12wycl=dicunt		4	accept
+156	R2	latinworks13wycl=ista | iohanniswyclifd00losegoog=3ristai | iohanniswyclifd01losegoog=oista | iohanniswyclifde12wycl=ista		4	accept
+167	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+189	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+213	R3	latinworks13wycl=sum | iohanniswyclifd00losegoog=sura | iohanniswyclifd01losegoog=sura | iohanniswyclifde12wycl=sum		4	plate
+235	R3a	latinworks13wycl=ecclesie | iohanniswyclifd00losegoog=ecclesie | iohanniswyclifd01losegoog=ecclcsie | iohanniswyclifde12wycl=ecclesie		4	accept
+258	R2	latinworks13wycl=enim | iohanniswyclifd00losegoog=enira | iohanniswyclifd01losegoog=enim | iohanniswyclifde12wycl=enim		4	accept
+266	EDGE	latinworks13wycl=fidem | iohanniswyclifde12wycl=fidem		2	accept

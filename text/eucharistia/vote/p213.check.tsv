@@ -1,0 +1,31 @@
+pos	rule	forms	support	voters	resolution
+0	EDGE	latinworks13wycl=armatura		1	accept
+1	EDGE	latinworks13wycl=corporis		1	accept
+2	EDGE	latinworks13wycl=ghristi		1	accept
+6	R3a	latinworks13wycl=in | iohanniswyclifd00losegoog=id | iohanniswyclifd01losegoog=in | iohanniswyclifde12wycl=in		4	accept
+9	R2	latinworks13wycl=quod | iohanniswyclifd00losegoog=iiuod | iohanniswyclifd01losegoog=quod | iohanniswyclifde12wycl=quod		4	accept
+11	R3a	latinworks13wycl=lhnsti | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=cbristi | iohanniswyclifde12wycl=christi		4	accept
+21	R3a	latinworks13wycl=deus | iohanniswyclifd00losegoog=deus | iohanniswyclifd01losegoog=deus | iohanniswyclifde12wycl=dens		4	accept
+24	R3a	latinworks13wycl=carne | iohanniswyclifd00losegoog=came | iohanniswyclifd01losegoog=came | iohanniswyclifde12wycl=came		4	accept
+34	R3a	latinworks13wycl=uideri | iohanniswyclifd00losegoog=uiden | iohanniswyclifd01losegoog=uideri | iohanniswyclifde12wycl=uideri		4	accept
+39	R5a	latinworks13wycl=collinitas | iohanniswyclifd00losegoog=couinitas | iohanniswyclifd01losegoog=couinitas | iohanniswyclifde12wycl=collinitas		4	accept
+70	R5a	latinworks13wycl=accidentari | iohanniswyclifd00losegoog=accidcntari | iohanniswyclifd01losegoog=accidentari | iohanniswyclifde12wycl=accidental		4	accept
+90	R2	latinworks13wycl=lnnsti | iohanniswyclifd00losegoog=christi | iohanniswyclifd01losegoog=christi | iohanniswyclifde12wycl=christi		4	accept
+108	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+111	THIN	latinworks13wycl=augustinunn		1	plate
+112	THIN	latinworks13wycl=patet		1	plate
+113	THIN	latinworks13wycl=quod		1	plate
+118	R4	latinworks13wycl=omnem | iohanniswyclifd00losegoog=omnera | iohanniswyclifd01losegoog=omnem | iohanniswyclifde12wycl=omnera		4	plate
+120	R5a	latinworks13wycl=intuitiuam | iohanniswyclifd00losegoog=intuitiuam | iohanniswyclifd01losegoog=intuitiuam | iohanniswyclifde12wycl=intuitiuam		4	accept
+124	R5a	latinworks13wycl=rom | iohanniswyclifd00losegoog=rom | iohanniswyclifd01losegoog=rom | iohanniswyclifde12wycl=rom		4	accept
+148	R3a	latinworks13wycl=carne | iohanniswyclifd00losegoog=carne | iohanniswyclifd01losegoog=came | iohanniswyclifde12wycl=carne		4	accept
+161	THIN	latinworks13wycl=aneelo | iohanniswyclifd01losegoog=angelo		2	plate
+162	THIN	latinworks13wycl=addandum | iohanniswyclifd01losegoog=addandum		2	plate
+163	THIN	latinworks13wycl=cn | iohanniswyclifd01losegoog=officium		2	plate
+164	THIN	latinworks13wycl=i | iohanniswyclifd01losegoog=∅		2	plate
+165	THIN	latinworks13wycl=1 | iohanniswyclifd01losegoog=∅		2	plate
+166	THIN	latinworks13wycl=i | iohanniswyclifd01losegoog=∅		2	plate
+167	THIN	latinworks13wycl=2toincium | iohanniswyclifd01losegoog=∅		2	plate
+188	R2	latinworks13wycl=terminatis | iohanniswyclifd00losegoog=icrminaiis | iohanniswyclifd01losegoog=terminatis | iohanniswyclifde12wycl=terminatis		4	accept
+195	R2	latinworks13wycl=et | iohanniswyclifd00losegoog=el | iohanniswyclifd01losegoog=et | iohanniswyclifde12wycl=et		4	accept
+206	R3a	latinworks13wycl=deum | iohanniswyclifd00losegoog=3deum | iohanniswyclifd01losegoog=deum | iohanniswyclifde12wycl=odeum		4	accept
