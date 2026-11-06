@@ -99,4 +99,4 @@ Not counted: 11b (plate, transcription), the process items.
 - **b1** *solvere / dissolvere*: both "resolve" (recommended). prol-a: "answers" → "resolves" at 1.7, 2.5, 2.25, 3.21; drop n. 1's last sentence.
 - **b3** the 13 mode adverbs: rows as listed.
 - **b14** *sentencia*: a separate row *sentencia (verborum, scripture)* "sense"; row 22 applies ("the sense", the first of its two C notes).
-- All three are in GLOSSARY with the delegated rows of (b) (27 rows, §§A–D), logged in CONVENTIONS. Rows 20 (`{g:esse}`) and 22 now resolve by their rows. Not yet applied: the review's rows to the chunk, the 2.4–5 bt fix, CARD changes (c).
+- All three are in GLOSSARY with the delegated rows of (b) (38 new rows, 15 from these rulings, 23 delegated, §§A–D), logged in CONVENTIONS. Rows 20 (`{g:esse}`) and 22 now resolve by their rows. Not yet applied: the review's rows to the chunk, the 2.4–5 bt fix, CARD changes (c).
