@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "263.14–267.22"
 divisions: "cap. 8 (heading 'CAPITULUM OCTAVUM.' at 232.0); part 9 of 10, split at the editor's ¶ (CONVENTIONS §1)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "1005 words; 993 confirmed by Fordham or the vote; 12 runs stood by rule (both witnesses garbled); 0 read on the plate (see Transcription notes)"
+check: "1005 words; 993 confirmed by the vote; 12 runs stood by rule; 0 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n334–n338 (printed p. = leaf − 71)"
 status: draft

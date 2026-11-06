@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "213.21–217.22"
 divisions: "cap. 7 (heading 'CAPITULUM SEPTIMUM.' at 189.0); part 7 of 11, split at the editor's ¶ (CONVENTIONS §1)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "951 words; 928 confirmed by Fordham or the vote; 19 runs stood by rule (both witnesses garbled); 4 read on the plate (see Transcription notes)"
+check: "951 words; 928 confirmed by the vote; 19 runs stood by rule; 4 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n284–n288 (printed p. = leaf − 71)"
 status: draft

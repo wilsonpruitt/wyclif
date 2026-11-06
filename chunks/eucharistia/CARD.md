@@ -2,7 +2,7 @@
 
 This card replaces reading CONVENTIONS, the pilot and Thakkar in full: it is their working core.
 Adapted from `chunks/potestate-pape/CARD.md` (Loserth's other volume) with the B+ lessons of
-`chunks/incarnacione/CARD.md` (2026-11-06; **DRAFT until the first-chunk review**). Read it, then `GLOSSARY.md`,
+`chunks/incarnacione/CARD.md` (2026-11-06; **reviewed 2026-11-06** on `prol-a`: `_review/REVIEW-prol-a.md`). Read it, then `GLOSSARY.md`,
 then your scaffold (or your brief, which carries all three). Consult CONVENTIONS.md only when the card sends
 you there. Work in `~/wyclif`. Wyclif is approached with **daggers drawn**: the most recent English
 versions were "worse than useless" because of four error classes (below). Your English must survive
@@ -74,6 +74,11 @@ set `status: translated`; lint; report.
   manuscripts-outrank-the-print rule is Harris's volumes only): translate it, his own emendations
   included, unless it will not construe; a manuscript reading is chosen only then, or where the source
   Wyclif quotes, read this session, agrees with it. Every departure gets a T note giving both readings.
+- **The compendia (`prol-a … prol-c`) summarise chapters whose Latin is already established** in this
+  directory. Where the compendium's ellipsis leaves a construal open (whose argument, which *per* phrase is a
+  ground and which a means), grep the chapter's `>` blocks, follow them, and cite the page in the **C** note:
+  that is construal, not source verification, and one call. (`prol-a` 2.1–5: the three decrees are the
+  objections' grounds, ch. 1 pp. 24, 25, 28.)
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is
   implicit). Supplied words in `[brackets]`, sparingly, ⛔ never in italics. **Quotations** in quotation
   marks. Your brief carries Loserth's **italic runs** per page where the scan's OCR gives them (rough;
@@ -89,7 +94,10 @@ set `status: translated`; lint; report.
   *per*: GLOSSARY) · *dicitur* "it is said" (in an answer: "the answer is") · *respondetur* "the reply is"
   · *conclusio* "conclusion" · *antecedens / consequens* "antecedent / consequent" · *consequencia*
   "inference", ⛔ never "consequence" · *patet* "it is clear" · *supponitur* "it is supposed" ·
-  *probatur* "proof:" or "it is proved" · *confirmatur* "this is confirmed".
+  *probatur* "proof:" or "it is proved" · *confirmatur* "this is confirmed" · *solvit / dissolvit* (an objection) "resolves", both (never "answers", which belongs to *respondetur / dicitur*).
+- **A source note says only what the Latin says about the source** (who narrates, which book, which work)
+  and leaves the rest to the ledger: never supply a story the Latin rules out (*narratum a beato Gregorio*:
+  Gregory narrates).
 - **Citation formulae:** *ubi supra* "in the place cited above" (⛔ never a claim about where a passage
   stands), *ut supra* "as above", *infra* "below". *Utrobique* "on both sides / in both places".
 
@@ -106,18 +114,26 @@ set `status: translated`; lint; report.
    eucharist)" · *figura / figuratum* "figure / thing figured" · *res sacramenti* "reality of the
    sacrament" · *sacramentalia* "sacramentals" · *quantus* "quantified" · *per se / per accidens* "of
    itself / by accident" · *sensibile commune* "common sensible" · *ecclesia* church (**lower-case**) ·
-   *caritas* charity · *sentencia* teaching · *ex fide* as faith teaches.
-   ⚠ **This volume's own terms are the vocabulary of the eucharistic controversy**, and most have no row
-   yet. Render consistently within your brief and PROPOSE the row (the coordinator rules between briefs).
-   Expect: *sacramentum* (the sign) and *corpus Christi*; *hostia* (consecrated) "host"; *panis* "bread";
-   *remanencia* (of the bread) "remaining"; *accidens sine subiecto* "accident without a subject";
-   *quantitas / qualitas*; *substancia*; *materialis*; the modes of being — *sacramentaliter, realiter,
-   vere, spiritualiter, virtualiter, figurative, tropice, ydemptice, dimensionaliter, substancialiter*
-   (⛔ keep each adverb distinct and in its place; never merge two in one English word); *esse sacramentale*;
-   *consecracio*; *ydemptificacio*; *signum* (the "sect of the signs", *secta signorum*); *conversio*;
-   *fractio* (of the host); *manducacio* (*corporalis / spiritualis*); *confessio auricularis*,
-   *penitencia*, *absolucio*, *claves*. *Ego Berengarius* stays as the decree's title (Wyclif's spelling
-   *Beringarius* in the Latin; "Berengar" for the man in the English).
+   *caritas* charity · *sentencia* teaching (and *sentencia verborum* "sense", a separate row) · *ex fide* as faith teaches ·
+   *opinio* opinion · *novelli* the newer [doctors] · *sancti* the saints · *concludere* infer ("conclude" only where a
+   conclusion is literally drawn) · *deduccio* deduction · *maneries* kind · *principaliter* as a main head ·
+   *sensibilis* perceptible · *declarare / ostendere* make clear / show · *ecclesia* is tagged at its first
+   occurrence in every chunk.
+   **This volume's vocabulary is now ruled (2026-11-06, `prol-a` review):** *sacramentum* (the eucharist) ·
+   *hostia* host · *panis / vinum* bread / wine · *calix* chalice · *corpus Christi / Domini* kept apart ·
+   *remanencia* the remaining · *accidens sine subiecto* · *substancia · quantitas · qualitas* · *esse /
+   esse sacramentale* being / sacramental being · *esus / manducacio* eating · *confeccio* consecration ·
+   *secta signorum* · *novella / antiqua ecclesia* · *predicacio ydemptica / tropica* identical / tropical
+   predication. **The mode adverbs, one word each, never merged, each tagged at first occurrence:**
+   *sacramentaliter* sacramentally · *realiter* really (never "actually") · *vere* truly (never "really") ·
+   *spiritualiter* spiritually · *virtualiter* virtually · *figurative* figuratively · *tropice* tropically ·
+   *ydemptice* identically · *invisibiliter* invisibly · *sensibiliter* perceptibly · *corporaliter* bodily ·
+   *substancialiter* substantially · *dimensionaliter* dimensionally. A term still missing a row (*ydemptificacio*,
+   *conversio*, *fractio*, *confessio auricularis*, *absolucio*, *claves* …): render it sensibly, untagged, and
+   propose it. *Ego Berengarius* stays as the decree's title (Wyclif's spelling *Beringarius* in the Latin;
+   "Berengar" for the man in the English). In ch. 1, *res sacramenti* "reality of the sacrament" is a ruled
+   row: the compendium's *de rebus huius sacramenti* (1.3) is the three-membered distinction the chapter sets
+   out, so keep its *res* consistent with that row.
 2. **Connectives carry the argument.** ⛔ Never omit one, never turn one into filler.
 
    | Latin | English | Never |
@@ -172,7 +188,9 @@ are Wyclif's, the verse numbers Loserth's (the headnote says so once).
 - `[^n]` from 1, the marker placed in the same edit as its note, each opening with a type letter **with a
   full stop** (`**C.**`; the site strips only that form): **T** text · **C** construal · **G** glossary
   (passage-specific only; otherwise a tag) · **S** source · **R** reception/context (a manuscript's
-  marginal note Loserth prints; Hus's or the Hussites' reuse where Loserth notes it).
+  marginal note Loserth prints; Hus's or the Hussites' reuse where Loserth notes it). A note that does two
+  jobs takes the combined code (`**S/T.**`, `**C/S.**`; lint accepts it). The first occurrence of a CONTEXTUAL
+  row in each chunk (*sentencia*, *inconveniens*) always gets its **C** note.
 - **Density: about one note per 70–100 Latin words**, fewer where the text is plain. Short, factual,
   says what the Latin does and stops. No modern theology, no evaluation, ⛔ no judgement on whose
   eucharistic doctrine is right.
@@ -193,9 +211,15 @@ are Wyclif's, the verse numbers Loserth's (the headnote says so once).
 `pilots/wyc-ecclesia-01a.md` (De ecclesia pp. 1–5) is a reviewed model of register and note style: read
 it for that only (it predates some GLOSSARY rulings; **GLOSSARY governs**). **The first chunk, `prol-a`** (the compendium), carries
 the `## Headnote` for the whole volume; `pen01` carries a short headnote for *De penitencia* and `quest` one for the
-*Questio* (date, sigla, Loserth's remarks on the text). The headnote (CONVENTIONS §12 order: occasion, text, the work's move, where it is answered; date,
+*Questio* (date, sigla, Loserth's remarks on the text). The headnote ⛔ is **not** the card's thesis paragraph: "The move" is how the compendium *builds* the case, chapter by chapter, and names no adversary the chunk does not name; the date is given as Loserth's evidence plus the modern dating, each `[verify]`. The headnote (CONVENTIONS §12 order: occasion, text, the work's move, where it is answered; date,
 editor, the two works and their sigla, the compendium, the *Questio*), each unverified claim marked
 `[verify]`.
+
+## Transcription notes
+
+The variant list is either complete against the page-foot apparatus or headed "selected"; none that affects the
+English may be left out. Plate readings and fixes to the Latin (stray stops that were ink flecks) are recorded
+there.
 
 ## Side-notes
 

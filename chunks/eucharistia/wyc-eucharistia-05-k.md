@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "155.16–158.10"
 divisions: "cap. 5 (heading 'CAPITULUM QUINTUM.' at 115.0); part 11 of 11, split at the editor's ¶ (CONVENTIONS §1)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "635 words; 623 confirmed by Fordham or the vote; 12 runs stood by rule (both witnesses garbled); 0 read on the plate (see Transcription notes)"
+check: "635 words; 623 confirmed by the vote; 12 runs stood by rule; 0 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n226–n229 (printed p. = leaf − 71)"
 status: draft

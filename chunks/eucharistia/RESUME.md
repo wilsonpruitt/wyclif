@@ -55,27 +55,23 @@ Agent's open points, for the reviewer and the coordinator:
   3.22 print *varietate* kept vs ABCD *vanitate* (T n. 16). 4.20 whose *sanctitas* (C n. 19). Apparatus scars:
   p. 3 l. 22 "ARGQ" ≈ ABCD, p. 1 "1>" ≈ D.
 
-## ▶ Next: the four-class review of `prol-a`, in a FRESH session (Fable)
+## ✅ First-chunk review DONE and applied 2026-11-06 (Fable review, Sonnet coordinator close-out)
 
-Paste this as the session's prompt:
+`_review/REVIEW-prol-a.md`: 1 error, 9 weak, 16 style (+ the plate read). All rows applied to `prol-a` (26 rows;
+notes renumbered, a new C note 1 on *sentencia*); 2.4–5 stops removed from `bt/p002.txt` (ink flecks on n0073),
+full vote re-run (same counts, queue 0) + `relatin.py` (dry run 0). Wilson's rulings: *solvere / dissolvere* both
+"resolve"; the 13 mode adverbs one row each; *sentencia (verborum)* "sense" a separate row. 38 new GLOSSARY
+rows (15 + 23 delegated), logged in CONVENTIONS. CARD updated (reviewed, not DRAFT). Scaffold front matter:
+Fordham wording removed from all 93 chunks and from `chapters.py` (conditional on slug). Ledger Kprola-1
+reworded, note numbers +1.
 
-> In ~/wyclif, do the first-chunk four-class review of *De eucharistia* `prol-a` (WORKFLOW stage 6/7, PLAN M5).
-> Read `chunks/eucharistia/RESUME.md` (the "Stage 7, first chunk" section), `chunks/eucharistia/CARD.md` whole,
-> CONVENTIONS §§6–9, 12, 14, and use `chunks/incarnacione/_review/REVIEW-01a.md` as your model for method and
-> format (its header and table: # | page.line | Latin | current English | class | severity | proposed English |
-> reason; exact strings for find/replace). Review `chunks/eucharistia/wyc-eucharistia-prol-a.md` sentence by
-> sentence against Loserth's Latin (the `>` blocks) and the headnote; grep GLOSSARY.md per term. Account for every
-> connective. Read a plate (`scripts/plate.sh`; leaf = page + 71) only where the brief's apparatus OCR is broken
-> or the RESUME names a doubt (2.4–5). Do not re-verify sources. Do NOT edit the chunk. Write
-> `chunks/eucharistia/_review/REVIEW-prol-a.md`, then a second section: **GLOSSARY rulings proposed** for this
-> volume's term set (*sacramentaliter / realiter / figurative / ydemptice*, *predicacio ydemptica / tropica*,
-> *accidens sine subiecto*, *remanencia*, *solvere / dissolvere*, and the agent's other proposals in RESUME),
-> each with rendering, reason, and the GLOSSARY §; and **CARD changes proposed** before the waves run.
-> Then stop and report: counts by class and severity, and the rulings Wilson must make.
-
-After the review: the coordinator applies rows, lands GLOSSARY + CARD changes (card leaves DRAFT), fixes the
-2.4–5 scar, then the waves (3 chunks per brief, Opus) with the stage-8 per-wave checks. Estimate for translation +
-close-out, re-measured on *De incarn.* / *De pot. pape*: ≈16–18M — its own "which model, and go?".
+⬜ Still open before the waves:
+- **Headnote "Occasion"** now states Loserth's evidence and the modern dating as two `[verify]`s; reading Loserth
+  Introd. §4 (plates, pp. ~XL–XLV) would settle one date. `prol-a` is `translated`, not `done`, until then.
+- Italics front-matter field: `italics: none` while `italics.tsv` has p. 2 "panem et calicem;" (likely the
+  compendium's own 2.24). Look when building briefs.
+- **The waves** (3 chunks per brief, Opus, stage-8 per-wave checks): ≈16–18M, its own "which model, and go?".
+  `prol-b`, `prol-c` first, then `01-a…`.
 
 ## Open (non-blocking)
 

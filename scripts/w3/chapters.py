@@ -224,9 +224,10 @@ def main(slug, force=False):
         leaves = sorted({t['leaf'] for t in body})
         if bplus:
             stood = sum(1 for pg, (a, b) in rng.items() for p in byrule.get(pg, []) if a <= p <= b)
-            source = 'latin_source: B+ (blind transcription, checked against Fordham and the vote)'
-            check = (f'check: "{words} words; {words - stood - len(plate)} confirmed by Fordham or the vote; {stood} runs stood by '
-                     f'rule (both witnesses garbled); {len(plate)} read on the plate (see Transcription notes)"')
+            fordham = slug not in ('eucharistia',)   # volumes with no Fordham witness: the vote alone
+            source = f'latin_source: B+ (blind transcription, checked against {"Fordham and " if fordham else ""}the vote)'
+            check = (f'check: "{words} words; {words - stood - len(plate)} confirmed by {"Fordham or " if fordham else ""}the vote; {stood} runs stood by '
+                     f'rule{" (both witnesses garbled)" if fordham else ""}; {len(plate)} read on the plate (see Transcription notes)"')
         else:
             source = 'latin_source: three-witness'
             check = (f'check: "{words} words; {words - settled - len(plate)} unanimous or majority-real; {settled} settled by vote '

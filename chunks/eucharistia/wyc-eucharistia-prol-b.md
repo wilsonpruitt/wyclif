@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "4.26–8.29"
 divisions: "prologus (heading 'PROLOGUS.' at 1.0); part 2 of 3, split at the editor's ¶ (CONVENTIONS §1)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "880 words; 875 confirmed by Fordham or the vote; 3 runs stood by rule (both witnesses garbled); 2 read on the plate (see Transcription notes)"
+check: "880 words; 875 confirmed by the vote; 3 runs stood by rule; 2 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n75–n79 (printed p. = leaf − 71)"
 status: draft

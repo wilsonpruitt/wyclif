@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "44.1–48.22"
 divisions: "cap. 2 (heading 'CAPITULUM SECUNDUM.' at 29.0); part 5 of 7, split at the editor's ¶ (CONVENTIONS §1)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "1026 words; 998 confirmed by Fordham or the vote; 21 runs stood by rule (both witnesses garbled); 7 read on the plate (see Transcription notes)"
+check: "1026 words; 998 confirmed by the vote; 21 runs stood by rule; 7 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n115–n119 (printed p. = leaf − 71)"
 status: draft

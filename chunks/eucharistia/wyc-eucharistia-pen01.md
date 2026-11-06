@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "329.2–331.22"
 divisions: "cap. 1 (heading 'CAPITULUM PRIMUM.' at 329.0)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "525 words; 511 confirmed by Fordham or the vote; 13 runs stood by rule (both witnesses garbled); 1 read on the plate (see Transcription notes)"
+check: "525 words; 511 confirmed by the vote; 13 runs stood by rule; 1 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n400–n402 (printed p. = leaf − 71)"
 status: draft

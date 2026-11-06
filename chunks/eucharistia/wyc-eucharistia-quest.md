@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "347.3–348.4"
 divisions: "Questio ad fratres (heading 'Questio ad fratres de sacramento altaris' above 347.3, read on the plate)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "217 words; 212 confirmed by Fordham or the vote; 4 runs stood by rule (both witnesses garbled); 1 read on the plate (see Transcription notes)"
+check: "217 words; 212 confirmed by the vote; 4 runs stood by rule; 1 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n418–n419 (printed p. = leaf − 71)"
 status: draft

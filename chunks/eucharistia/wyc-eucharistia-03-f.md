@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "73.19–77.28"
 divisions: "cap. 3 (heading 'CAPITULUM TERTIUM.' at 53.0); part 6 of 8, split at the editor's ¶ (CONVENTIONS §1)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "938 words; 919 confirmed by Fordham or the vote; 14 runs stood by rule (both witnesses garbled); 5 read on the plate (see Transcription notes)"
+check: "938 words; 919 confirmed by the vote; 14 runs stood by rule; 5 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n144–n148 (printed p. = leaf − 71)"
 status: draft

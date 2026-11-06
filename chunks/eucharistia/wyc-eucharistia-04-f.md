@@ -7,9 +7,9 @@ editor: Johann Loserth
 year: 1892
 pages: "102.29–106.20"
 divisions: "cap. 4 (heading 'CAPITULUM QUARTUM.' at 83.0); part 6 of 9, split at the editor's ¶ (CONVENTIONS §1)"
-latin_source: B+ (blind transcription, checked against Fordham and the vote)
+latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
-check: "865 words; 853 confirmed by Fordham or the vote; 9 runs stood by rule (both witnesses garbled); 3 read on the plate (see Transcription notes)"
+check: "865 words; 853 confirmed by the vote; 9 runs stood by rule; 3 read on the plate (see Transcription notes)"
 italics: none
 plates: "archive.org latinworks13wycl, leaves n173–n177 (printed p. = leaf − 71)"
 status: draft
