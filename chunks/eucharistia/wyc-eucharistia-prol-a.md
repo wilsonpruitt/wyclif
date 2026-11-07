@@ -211,7 +211,7 @@ as much as [that] of a devout one.
     communion of the blood of Christ? And the bread which we break, is it not the partaking of the
     body of the Lord?" The manuscripts give the chapter only (*Cor. X*); the verse is Loserth's.
 
-[^13]: **S.** Bernard, cited in ch. 2 (39.17–20) as the sermon *De exaltacione sancte crucis*, inc. *De virga Jesse*: *Manus ille que fundaverunt celos extense sunt in cruce*; Loserth (39.19) takes it rather for the sermon *De duobus discipulis euntibus in Emaus* (*Opp.*, p. 1555); not found in PL 182–185 (LEDGER
+[^13]: **S.** Bernard, cited in ch. 2 (39.17–20) as the sermon *De exaltacione sancte crucis*, inc. *De virga Jesse*: *Manus ille que fundaverunt celos extense sunt in cruce*; Loserth (39.19) takes it rather for the sermon *De duobus discipulis euntibus in Emaus* (*Opp.*, p. 1555); the sentence is in fact in a sermon of that title and incipit printed among Peter Damian's (*Sermo* 47, PL 144, 761C–766B; at 763D *Manus illae, quae fundaverunt coelos, extensae sunt in cruce*), not in Bernard's works (LEDGER
     Kprola-5).
 
 [^14]: **S/T.** The chapter only, as printed (D reads *Gen. d°*, p. 2 n. to l. 30); the verse in view is Gen. 6:6 (*tactus dolore cordis intrinsecus*; ch. 2, 40.16 and 41.28), so
