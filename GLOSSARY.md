@@ -98,6 +98,11 @@ otherwise.
 | conversio (eucharistic) | conversion | Of bread into the body; kept apart from *conversio* of a proposition. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 48.15). |
 | decretalis | decretal | Kept apart from *decretum* "decree". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 71.31). |
 | principaliter; principalitas (of the body's presence) | principally; principality | Of the body of Christ alone being in the sacrament as its principal; not the compendium's *principaliter* "as a main head". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 75.5–26). |
+| transaccidentacio | transaccidentation | Wyclif's coinage beside *transsubstanciacio*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 81.27). |
+| transinferioracio; transsubieccio | transinferioration; transsubjection | Coinages in the same series. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 82.3). |
+| baptiste signorum | baptizers of the signs | Not "Baptists". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 81.29). |
+| concomitanter | concomitantly | Of the body present with the blood by concomitance; cf. *gracia concomitancie*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 81.23–25). |
+| divinitus | divinely | The pair of *humanitus* "humanly". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 84.19). |
 
 ## B. Lordship, law, office
 
@@ -622,6 +627,10 @@ otherwise.
 | pedalitas | foot-length | *pedalis* "foot-long". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 66.27). |
 | veritas predicamentalis | truth of the categories | As *accidens predicamentale* "accident of the categories". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 69.2). |
 | calculatorius | calculatory | As *casus calculatorii*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 76.22). |
+| convincere; conviccio | prove conclusively; conclusive proof | Of an argument that compels assent; "convince" never; of a witness or liar shown guilty, "convict" (*Euch.* 01-c). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 78.10, 79.10–12, 85.27). |
+| armatura | armament | Both weapon and armour. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 78.6). |
+| extense loquendo | speaking in an extended sense | Cf. *large / stricte loquendo*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 82.15). |
+| esse situale / intencionale / potenciale | situal / intentional / potential being | The modes of the body's being. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 84.8 ff.). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1029,7 +1038,7 @@ otherwise.
 | nimis | exceedingly | Medieval intensive (= *valde*); "too much" only where excess is the point. Ruled 2026-10-12 (close-out R2; *Pot. pape* 169.2). |
 | sentire (the sacrament, the body) | perceive | "sense". As *sensibilis* "perceptible". Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.10, 1.17). |
 | postponere | set aside | "put after". Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.8). |
-| singulariter | alone, only | "singularly". Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.14). |
+| singulariter | CONTEXTUAL: alone, only / in a singular way | "singularly" never; "in a singular way" where "alone" will not construe (*Euch.* 85.28, coordinator 2026-11-07). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.14). |
 | fingere (a miracle) | feign | "imagine". Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.11, 1.14). |
 | recitare | recite | To report, rehearse. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.4, 3.10, 4.18). |
 | narrare | relate | Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.9). |
