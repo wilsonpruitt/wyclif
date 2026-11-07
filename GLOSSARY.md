@@ -96,6 +96,8 @@ otherwise.
 | peregrinacio | pilgrimage | The church's way to the *patria*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 36.9). |
 | canoniste | canonists | Beside *decretiste* "decretists". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 41.3). |
 | conversio (eucharistic) | conversion | Of bread into the body; kept apart from *conversio* of a proposition. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 48.15). |
+| decretalis | decretal | Kept apart from *decretum* "decree". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 71.31). |
+| principaliter; principalitas (of the body's presence) | principally; principality | Of the body of Christ alone being in the sacrament as its principal; not the compendium's *principaliter* "as a main head". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 75.5–26). |
 
 ## B. Lordship, law, office
 
@@ -616,6 +618,10 @@ otherwise.
 | accidens predicamentale | accident of the categories | Kept apart from the predicable *accidens*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 64.1). |
 | revera | in truth | Kept apart from *vere* "truly". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 63.4). |
 | irregulariter | irregularly | Against the rule of nature; kept apart from *irregularitas* (canonical). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 55.11, 56.15). |
+| contiguacio | contiguity | Beside *continuacio* (of bodies) "continuation". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 68.12). |
+| pedalitas | foot-length | *pedalis* "foot-long". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 66.27). |
+| veritas predicamentalis | truth of the categories | As *accidens predicamentale* "accident of the categories". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 69.2). |
+| calculatorius | calculatory | As *casus calculatorii*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 76.22). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1030,3 +1036,4 @@ otherwise.
 | feria | day of the week | *feria septima* "the seventh day of the week". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 39.5). |
 | cognacio (family) | kindred | Seth's line apart from Cain's; kept apart from *cognacio* "kinship" (with Christ). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 42.14). |
 | pius pater | loving father | *pius* of a father: not "pious". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 42.27). |
+| ex tibi dubio; ex sibi dubio | for all you know; for all he knows | Idiom: not "from doubt". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 66.15, 70.25). |

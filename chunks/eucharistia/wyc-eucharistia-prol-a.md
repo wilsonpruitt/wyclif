@@ -151,7 +151,7 @@ And it resolves [this], relating a threefold cause why the Holy Spirit varied th
 evangelists, and why mention of the testament is made in the blessing of the chalice alone.
 And third, it objects by appeal to this: that a layman seems able to consecrate; on which matter it
 distinguishes concerning "can", explains the teaching of blessed Ambrose, and, descending to the
-three [opinions]{g:opinio} that the church recites in the third [book] of the Decretals,[^19] inveighs against them and prefers the
+three [opinions]{g:opinio} that the church recites in the third [book] of the [Decretals]{g:decretalis},[^19] inveighs against them and prefers the
 teaching of the Roman church from the holiness and the act of Berengar;[^20] and, returning, it
 makes clear how one must know beforehand the question "what it is" concerning the host, before the two other
 questions are known,[^21] and so it shows that the mass or host of a reprobate priest is not worth

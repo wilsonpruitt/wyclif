@@ -84,3 +84,12 @@ reworded, note numbers +1.
 - Loserth notes Hus's and the Hussites' reuse in his Introd. §3 (pp. ~XXXV–LX): R notes where the apparatus
   marks it.
 - The *Questio*'s remainder is Hus's (*De tribus dubiis*, 1412): not in this volume, not ours.
+
+## Waves (stage 7–8), from 2026-11-07
+
+Waves 1–6 done (prol-b … 03-f; 21 of 93 chunks), each followed by connectives + ledger checks; see git log and
+CONVENTIONS for the per-wave GLOSSARY rulings. Tooling: `WAVE-PROMPTS.md`, `_connectives/`, `_verify/` (apply.py
+warns on unparsed note changes). ⚠ For stage 10 (site): several GLOSSARY keys are shared by two rows of different
+sense (*continuacio*, *sentencia*, *cognacio*, *conficere*, *species*): the hover may show the wrong row. Fix in the
+site build (key on the row whose sense the chunk note names) or split keys before deploying.
+
