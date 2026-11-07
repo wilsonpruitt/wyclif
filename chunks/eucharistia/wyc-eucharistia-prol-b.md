@@ -56,9 +56,9 @@ The eighth chapter, expounding and [limiting]{g:limitare} the sense of [multitud
 
 [^3]: **C.** *Sentencia* (CONTEXTUAL) is here and throughout the chunk the position taught, "teaching": the view the compendium defends (the bread remains, sacramentally the body).
 
-[^4]: **T/S.** Loserth's apparatus (5.4, 5.9) says *quid* would better be *quod*; we translate the print *quid* ("what is inferred … : that"), which construes. D reads *sacramentaliter confectum* (5.5–6). The Lombard (*Sent.* IV) and Bonaventure (*In IV Sent.*) are not located further in the Latin; to be checked (LEDGER Kprolb-3).
+[^4]: **T/S.** Loserth's apparatus (5.4, 5.9) says *quid* would better be *quod*; we translate the print *quid* ("what is inferred … : that"), which construes. D reads *sacramentaliter confectum* (5.5–6). The Lombard is *Sent.* IV d. 10 c. 1 (*Sunt item alii precedencium insaniam transcendentes*, quoted at 119.30–120.11); Bonaventure is named at 120.14 with Thomas as recording that view as heresy in commenting the Lombard (i.e. *In IV Sent.* d. 10), and at 135.3; his locus is not checked (LEDGER Kprolb-3).
 
-[^5]: **C/S.** *Ista via … quam modo sompniat*: the subject of *sompniat* is unexpressed ("it"): either the opponents' way (pressed to its consequence, a host more glorious than they now dream) or the way opened by Augustine on quantity set against what the sect dreams. We keep the Latin's ambiguity. *Potencia* (CONTEXTUAL): of God, "power". Anselm and Augustine, to be checked (LEDGER Kprolb-4, Kprolb-5).
+[^5]: **C/S.** *Ista via … quam modo sompniat*: the subject of *sompniat* is unexpressed ("it"): either the opponents' way (pressed to its consequence, a host more glorious than they now dream) or the way opened by Augustine on quantity set against what the sect dreams. We keep the Latin's ambiguity. *Potencia* (CONTEXTUAL): of God, "power". Anselm: the *De corpore Christi* letter (130.4–19; Loserth: *Ep.* IV.107) and *De veritate* 13 (131.23–26); Augustine on quantity is *De Trinitate* V.10.11 (133.1–11) (LEDGER Kprolb-4, Kprolb-5).
 
 [^6]: **T.** *Quarto*: no *tercio* precedes in the print; ABC read *Tercio obicitur* (5.13). We translate the print.
 
@@ -66,9 +66,9 @@ The eighth chapter, expounding and [limiting]{g:limitare} the sense of [multitud
 
 [^8]: **C.** *Corrupte*: "corrupted" may mean that Thomas's text has been tampered with or that the teachings are in error; the Latin does not decide. *Probabiliter*: argued with probability, not demonstrated.
 
-[^9]: **C/S.** *Substancia sacramenti*: the substance of the sacrament, i.e. of the sign (the bread); *benediccio*, "blessing", is the consecration. *Colorat*: gives a plausible construction to the agreement of the two texts with this teaching. Nicholas II's decree is *Ego Berengarius*; Innocent III's decretal is presumably *Firmiter* (Lateran IV c. 1; X 1.1.1, modern form ours); to be checked (LEDGER Kprolb-7).
+[^9]: **C/S.** *Substancia sacramenti*: the substance of the sacrament, i.e. of the sign (the bread); *benediccio*, "blessing", is the consecration. *Colorat*: gives a plausible construction to the agreement of the two texts with this teaching. Nicholas II's decree is *Ego Berengarius*; Innocent III's decretal is *Firmiter* (Lateran IV c. 1; X 1.1.1, modern form ours), the decretal *loquens de transsubstanciacione* of 141.11–29 (LEDGER Kprolb-7).
 
-[^10]: **S/C.** Gregory's exposition of the paschal lamb (Exod. 12) is presumably *Hom. in Evang.* 22, to be checked (LEDGER Kprolb-8). *Quod … prodesset*: the relative most likely takes up the fourteen acts; *memorando* may instead mean that the faithful profit by recalling them at the sacrament. AB read *monstrabiliter*, A in the margin *mirabiliter* (6.10–11).
+[^10]: **S/C.** Gregory's exposition of the paschal lamb (Exod. 12) is *Hom. in Evang.* 22 (Wyclif *Omelia XII*, quoted at 164.8–20) (LEDGER Kprolb-8). *Quod … prodesset*: the relative most likely takes up the fourteen acts; *memorando* may instead mean that the faithful profit by recalling them at the sacrament. AB read *monstrabiliter*, A in the margin *mirabiliter* (6.10–11).
 
 [^11]: **C.** *Legendis*: the legends, the lessons read in the office. The proposition is kept as quoted; ABDE read *canetur* "will be sung" (6.14).
 
@@ -76,7 +76,7 @@ The eighth chapter, expounding and [limiting]{g:limitare} the sense of [multitud
 
 [^13]: **C.** *Declarative concedit*: grants it by way of explanation, i.e. with a qualification. *Prenosticat opiniones … criminum et virtutum*: as printed, the variation "foretokens opinions of" crimes and virtues, i.e. of what men will hold about them; E reads *et criminum* and omits *virtutum* (6.26).
 
-[^14]: **S/C.** Rabanus (Maurus) is not located in the Latin; to be checked (LEDGER Kprolb-9). *Illas*: feminine, the opinions. *Usus ecclesie Anglicane*: the use (liturgical custom) of the English church.
+[^14]: **S/C.** Rabanus (Maurus), *De universo* V.11 (Wyclif *De naturis rerum* V.11), quoted at 187.5–11 (LEDGER Kprolb-9). *Illas*: feminine, the opinions. *Usus ecclesie Anglicane*: the use (liturgical custom) of the English church.
 
 [^15]: **T/C.** The MSS read *septempliciter secundo arguit*; *et arguit* is Loserth's correction ("Correxi", 7.2–3), which we translate. *Arguit pro ydemptificacione*: it sets out arguments for identification, which it then resolves. B omits *primo — ydemptificacione* (7.3–4).
 
@@ -84,7 +84,7 @@ The eighth chapter, expounding and [limiting]{g:limitare} the sense of [multitud
 
 [^17]: **C.** The fourth head resolves the third objection for identification (the first being of individuals, the second of quality). The unexpressed subject of *non sufficit* is likeliest *virtus sacramenti*. *Fit* is "becomes", the Latin's verb. AB omit *facere* (7.16).
 
-[^18]: **C/S/T.** *Ut allegant*: the subject is scripture and the holy doctors; ABCD read *allegat*, "as it [the chapter] alleges" (7.24). Augustine's saying "the bread is the body of Christ" is not located in the Latin; to be checked (LEDGER Kprolb-10).
+[^18]: **C/S/T.** *Ut allegant*: the subject is scripture and the holy doctors; ABCD read *allegat*, "as it [the chapter] alleges" (7.24). Augustine's saying "the bread is the body of Christ" is the chapter's *Non omnis panis sed accipiens benediccionem Christi fit corpus Christi* (227.10–17), from his Easter sermon (Loserth: *Sermo* 234), as in Gratian, *De cons.* D. 2 c. 61 (LEDGER Kprolb-10).
 
 [^19]: **C.** *Inconveniens* (CONTEXTUAL): here an absurdity in argument. *Sed* brings the minor premiss of the third proof ("now"). *Difficultata*: burdened, made difficult. D reads *ydemptifice* (7.27) and *inconveniens* (7.29–30).
 
@@ -96,7 +96,7 @@ The eighth chapter, expounding and [limiting]{g:limitare} the sense of [multitud
 
 [^23]: **S.** Matt. 15:17. Wyclif's *Omne quod intrat in os* has the Vulgate's words in another order (*omne quod in os intrat*); the Douay–Rheims wording is given.
 
-[^24]: **T/S/C.** *Moralis* (8.23): ABCD read *mobilis*, "of mobile (changeable) temporal nature", which gives the three measures (God's, the angel's, the time of changeable nature); we translate the print and flag it. *Doctor Communis*: Thomas; his discrete angelic time is presumably *ST* I q. 53 a. 3, to be checked (LEDGER Kprolb-12). *Quiete*: "calmly", as printed.
+[^24]: **T/S/C.** *Moralis* (8.23): ABCD read *mobilis*, "of mobile (changeable) temporal nature", which gives the three measures (God's, the angel's, the time of changeable nature); we translate the print and flag it. *Doctor Communis*: Thomas; his discrete angelic time is quoted from *In II Sent.* d. 2 q. 1 a. 1 ad 4 (255.4–18) and from his commentary on *II Sent.* d. 3 (250.28–251.10); *ST* I q. 53 a. 3 is a parallel (LEDGER Kprolb-12). *Quiete*: "calmly", as printed.
 
 [^25]: **C.** *Describendo*: "defining" (cf. *descripcio* "definition"). *De quanto*: "so far as"; the subject of *se fundat* is the church, and "[it is to be believed]" is supplied from *credi debet*. ABC read *ex scriptura efficaciter*, D *efficaciter de scriptura* (8.29).
 

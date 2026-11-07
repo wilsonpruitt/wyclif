@@ -29,19 +29,19 @@ The ninth chapter argues in many ways against what has been said: first, on the 
 
 ## Notes
 
-[^1]: **S/C.** Innocent III's definition is presumably *Firmiter* (Lateran IV, 1215, c. 1); the number "one thousand three hundred and fifteen" is the Latin's, and both are to be checked (LEDGER Kprolc-1). The plural *diffinierunt* takes Innocent with the council as its subject (AC *qui diffiniunt*, B *qui diffinierunt*, 9.1). *Sentencia* (CONTEXTUAL): the position taught, "teaching", here the opponents' (*hodiernam*, "today's").
+[^1]: **S/C.** Innocent III's definition is *Firmiter* (Lateran IV, 1215, c. 1); the number "one thousand three hundred and fifteen" is the Latin's, and recurs in ch. 9 (272.17–19, *mille CCC et XV prelati*); *Firmiter* is X 1.1.1, whose *transsubstantiatis pane in corpus* is the definition in view (LEDGER Kprolc-1). The plural *diffinierunt* takes Innocent with the council as its subject (AC *qui diffiniunt*, B *qui diffinierunt*, 9.1). *Sentencia* (CONTEXTUAL): the position taught, "teaching", here the opponents' (*hodiernam*, "today's").
 
-[^2]: **C/S.** *Dampnacio* (CONTEXTUAL): "condemnation", of a teaching; the decree of Nicholas (*Ego Berengarius*, *De cons.* D. 2 c. 42, modern form ours) stands with Innocent's definition against the same teaching. *Pocius*: "the weightier", of more account. To be checked (LEDGER Kprolc-2).
+[^2]: **C/S.** *Dampnacio* (CONTEXTUAL): "condemnation", of a teaching; the decree of Nicholas (*Ego Berengarius*, *De cons.* D. 2 c. 42, modern form ours) stands with Innocent's definition against the same teaching. *Pocius*: "the weightier", of more account. So named in ch. 9 (279.11–15) (LEDGER Kprolc-2).
 
-[^3]: **S.** Augustine against the Donatists is not located in the Latin; to be checked (LEDGER Kprolc-3). C has *ex fide* in the margin in another hand (9.13).
+[^3]: **S.** Augustine against the Donatists: ch. 9 (280.17–282.6) appeals to his ground that the church is not to be burdened beyond scripture; Loserth (282.4) gives *De baptismo* II.3 (*Quis autem nesciat sanctam Scripturam canonicam … omnibus posterioribus episcoporum litteris ita praeponi*) and *Contra Faustum* XIII.5 (LEDGER Kprolc-3). C has *ex fide* in the margin in another hand (9.13).
 
-[^4]: **C/S.** *Gradus credendi hominibus*: the degrees in which belief is given to men. *Accidentis*: the accident without a subject. Lanfranc's three evidences (presumably from his *De corpore et sanguine Domini*) are to be checked (LEDGER Kprolc-4).
+[^4]: **C/S.** *Gradus credendi hominibus*: the degrees in which belief is given to men. *Accidentis*: the accident without a subject. Lanfranc's three evidences (283.27–284.2) are from his *De corpore et sanguine Domini*: the first two (the manna; foretelling the future more divine than narrating the past) are c. 22, the third the decrees he alleges (LEDGER Kprolc-4).
 
 [^5]: **C.** *Et quid figurat quod …*: likeliest "what it figures (betokens) that the worshippers of signs contend …"; or *quid figurat* ends the clause on scripture ("what [the bread] figures"), with *quod* opening a new statement. *Ex lege propria*: by its own law, the canon law. B *vacari*, D *vocari* (10.1).
 
 [^6]: **C/T.** *Respondet solvendo tres obiectus narrat*: two finite verbs with no *et*; we construe the second as the content of the reply. A word may have been lost (10.5–6). *Claritas*: "clarity", the dowry of the glorified body (with agility, subtlety and impassibility), its radiance. B omits *per loca — esse* (10.6–8).
 
-[^7]: **T/S.** *Cognacio Christi cum membris suis* is Loserth's emendation; the manuscripts read *cognacio Christi et vino* (M: *viam*) *Christi*, and he cites the passage in chapter 9 it summarises (*Ista quidem cognacio …*, 314.21–22), where the kinship is with those who do the Father's will (Matt 12:50) (10.11–12). A reads *inanis miraculum*, B *maius periculum*, B *cognicio*. Damascene's saying is presumably *De fide orthodoxa* IV.13, to be checked (LEDGER Kprolc-5).
+[^7]: **T/S.** *Cognacio Christi cum membris suis* is Loserth's emendation; the manuscripts read *cognacio Christi et vino* (M: *viam*) *Christi*, and he cites the passage in chapter 9 it summarises (*Ista quidem cognacio …*, 314.21–22), where the kinship is with those who do the Father's will (Matt 12:50) (10.11–12). A reads *inanis miraculum*, B *maius periculum*, B *cognicio*. Damascene's saying is *De fide orthodoxa* IV.13 (Wyclif *III Sentenciarum*, 310.7–16; Loserth corrects) (LEDGER Kprolc-5).
 
 [^8]: **C.** *In manu eorum mortua*: "in their dead hand", the mortmain of land held by the church. *Communicare*: to share (BD *communicari*, 10.14).
 

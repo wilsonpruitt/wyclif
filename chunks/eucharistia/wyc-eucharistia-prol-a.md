@@ -179,25 +179,25 @@ as much as [that] of a devout one.
     the presence of the body.
 
 [^4]: **S.** A miracle that Gregory himself relates (*narratum a beato Gregorio*), presumably in the
-    *Dialogues* (bk. IV treats the mass); which one, ch. 1 will show (LEDGER Kprola-1).
+    *Dialogues* (bk. IV treats the mass); but ch. 1 says only *ut narrat beatus Gregorius* (20.6) and names no miracle; Loserth compares the Maurist notes on Gregory's *Liber sacramentorum* (*Opp.* III, 563), so the *Dialogues* are not established (LEDGER Kprola-1).
 
 [^5]: **C.** *Inconveniens* here in its argumentative sense, "absurdity" (the *reductio*), as in
     *deduccionem ad inconveniens* at 3.18.
 
 [^6]: **S.** Gratian, *De cons.* D. 2 c. 27 (*Si per negligenciam aliquid de sanguine stillaverit*),
-    whose words stand in Loserth's italics a few pages on; to be checked (LEDGER Kprola-2).
+    quoted under Pius's name in ch. 1 (24.10–16; Friedberg, c. 27 *Ex decreto Papae Pii*) (LEDGER Kprola-2).
 
-[^7]: **S.** *Ego Berengarius*, Gratian, *De cons.* D. 2 c. 42 (modern form ours); to be checked
+[^7]: **S.** *Ego Berengarius*, Gratian, *De cons.* D. 2 c. 42 (modern form ours), quoted in ch. 1 (25.19–26.7)
     (LEDGER Kprola-3).
 
-[^8]: **S.** Probably Gratian, *De cons.* D. 2 c. 49 (*Dupliciter*), under Jerome's name; to be
-    checked (LEDGER Kprola-4).
+[^8]: **S.** Gratian, D. 95 c. 6 (*Ecce ego dico*), under Jerome's name, quoted in ch. 1 (27.1–7); not *De cons.* D. 2 c. 49
+    (LEDGER Kprola-4).
 
 [^9]: **C.** *Dissolvit, primo per decretum pape … tercio per decretum Jeronimi*: the three *per*
     phrases name the grounds of the three objections just raised *per leges ecclesie* (1.22–23), not
     the means of resolving them. Chapter 1 argues *contra* from Pius's decree on the spilt blood (p. 24,
     *Sed contra ista arguitur per easdem leges ecclesie; nam … dicit Pius papa: Si per negligenciam …*),
-    then from *Ego Berengarius* (p. 25) and from Jerome (p. 28), and resolves them by the twofold kind
+    then from *Ego Berengarius* (p. 25) and from Jerome (27.1–7), and resolves them by the twofold kind
     of predicating. Loserth's punctuation allows either reading; the English follows the chapter.
 
 [^10]: **G.** *Quidditas*, "quiddity": what a thing is. The second chapter's question is what the
@@ -211,17 +211,17 @@ as much as [that] of a devout one.
     communion of the blood of Christ? And the bread which we break, is it not the partaking of the
     body of the Lord?" The manuscripts give the chapter only (*Cor. X*); the verse is Loserth's.
 
-[^13]: **S.** Bernard; the passage is not identified here; to be checked in ch. 2 (LEDGER
+[^13]: **S.** Bernard, cited in ch. 2 (39.17–20) as the sermon *De exaltacione sancte crucis*, inc. *De virga Jesse*: *Manus ille que fundaverunt celos extense sunt in cruce*; Loserth (39.19) takes it rather for the sermon *De duobus discipulis euntibus in Emaus* (*Opp.*, p. 1555); not found in PL 182–185 (LEDGER
     Kprola-5).
 
-[^14]: **S/T.** The chapter only, as printed (D reads *Gen. d°*, p. 2 n. to l. 30); the verse in view is to be
+[^14]: **S/T.** The chapter only, as printed (D reads *Gen. d°*, p. 2 n. to l. 30); the verse in view is Gen. 6:6 (*tactus dolore cordis intrinsecus*; ch. 2, 40.16 and 41.28), so
     identified in ch. 2 (LEDGER Kprola-6). ABCE read *ostendunt* for *ostendit*.
 
-[^15]: **S.** Augustine, places not given in the compendium; to be identified in ch. 3 (LEDGER
+[^15]: **S.** Augustine; ch. 3 (72.4–73.4) gives three places: *De quantitate animae* 4, *Soliloquia* II.13.23 (Wyclif II.12) and *Ep.* 187.6.18 to Dardanus (Wyclif *Ep.* XL) (LEDGER
     Kprola-7).
 
 [^16]: **C/S.** *Arguendo doctores novellos*: *arguere* with an accusative is "to argue against,
-    convict". Hugh of St Victor, presumably *De sacramentis* II.8; to be checked (LEDGER Kprola-8).
+    convict". Hugh of St Victor, *De sacramentis* II.8.9, quoted in ch. 3 (73.29–74.20) (LEDGER Kprola-8).
 
 [^17]: **T.** *varietate* as printed (E, by Loserth's silence, with it); ABCD read *vanitate*, "from this vanity" (3.22). The print
     construes (the variety of the doctors' opinions) and stands.
@@ -230,15 +230,14 @@ as much as [that] of a devout one.
     not a position taught (cf. 1.2, n. 1); the row *sentencia (verborum)* "sense".
 
 [^19]: **S.** *Decretales* III, i.e. X 3.41.6 (*Cum Marthe*, Innocent III), which recites three
-    opinions on the water mixed with the wine in the chalice; Loserth's italics a few pages on
-    quote it. Modern form ours; to be checked (LEDGER Kprola-9).
+    opinions on the water mixed with the wine in the chalice. Modern form ours; ch. 4 quotes it at 103.10–104.12 (LEDGER Kprola-9).
 
 [^20]: **C.** *Ex sanctitate et facto Beringarii*: the holiness may be the Roman church's rather
     than Berengar's (from [its] holiness and from the act of Berengar). The English keeps the
     print's order and leaves the reference open. E reads *Romane curie*.
 
 [^21]: **S.** The order of knowing of Aristotle, *Posterior Analytics* II.1 (the question "what it
-    is" before the others), which Wyclif applies at the opening of *De ecclesia*; to be checked
+    is" before the others), which ch. 4 cites by name (109.27–110.5, *ut patet IIº Posteriorum in principio*)
     (LEDGER Kprola-10).
 
 ## Transcription notes

@@ -110,7 +110,7 @@ Third, they object on the ground that the priestly [power]{g:potestas} would thu
 
 ## Notes
 
-[^1]: **S/C.** *Dixi sepe populo*: Wyclif's own preaching. Loserth compares *Trialogus* IV.2, p. 248 (LEDGER K01a-1). The three members (sacrament only; sacrament and reality; reality only) are the schoolmen's division, presumably from the Lombard, *Sent.* IV d. 8, to be checked (LEDGER K01a-2). *Hoc* is neuter: it takes up the third member, not *unio* (feminine). ABE read *et verum* (11.8), ABCE *et unionem* (11.10).
+[^1]: **S/C.** *Dixi sepe populo*: Wyclif's own preaching. Loserth compares *Trialogus* IV.2, p. 248 (LEDGER K01a-1). The three members (sacrament only; sacrament and reality; reality only) are the schoolmen's division, from the Lombard, *Sent.* IV d. 8 c. 4 (LEDGER K01a-2). *Hoc* is neuter: it takes up the third member, not *unio* (feminine). ABE read *et verum* (11.8), ABCE *et unionem* (11.10).
 
 [^2]: **C.** *Quia corpus Christi quod est Deus*: the clause has no verb (the plate confirms the stop after *Christi*); "[it can eat]" is supplied from *comedere*. It may be the objectors' compressed syllogism or a word lost at the paragraph's end.
 
@@ -118,7 +118,7 @@ Third, they object on the ground that the priestly [power]{g:potestas} would thu
 
 [^4]: **C.** *Ipsum* is neuter, the body of Christ. The three mode adverbs are kept apart, joined as the Latin joins them (*sacramentaliter, spiritualiter vel virtualiter*); *totum*, "whole", is the predicate. CE read *ideo sicut* (11.20–21).
 
-[^5]: **S/C.** The sequence *Lauda Sion* of Thomas Aquinas (Loserth: Daniel, *Thes. hymnol.* II, 98) (LEDGER K01a-3); the stanzas quoted at 13.15–17, 13.22–24 and 15.5–7 are from the same sequence, to be checked (LEDGER K01a-4). *Sentencia* (CONTEXTUAL): "teaching", what the chant teaches; "sense" (the meaning of its words) is the alternative, and Wyclif says *sensus cantus* at 13.15. AE read *fragmentis*, B *quanto* (12.16–17).
+[^5]: **S/C.** The sequence *Lauda Sion* of Thomas Aquinas (Loserth: Daniel, *Thes. hymnol.* II, 98) (LEDGER K01a-3); the stanzas quoted at 13.15–17, 13.22–24 and 15.5–7 are from the same sequence (the stanzas *Quod non capis*, *Nulla rei fit scissura* and *Sub diversis speciebus*) (LEDGER K01a-4). *Sentencia* (CONTEXTUAL): "teaching", what the chant teaches; "sense" (the meaning of its words) is the alternative, and Wyclif says *sensus cantus* at 13.15. AE read *fragmentis*, B *quanto* (12.16–17).
 
 [^6]: **C.** *Ex sophismate veritatis*: the senses would be deceived by a sophism made by the truth itself, if what they see broken were not broken; the construal is ours. *Minus vere*: "less truly", which may be the medieval litotes for "not truly". *Quid* is the question-word "what", which asks the substance. C has *manifestum — frangitur* in the margin in another hand (12.21–22).
 
