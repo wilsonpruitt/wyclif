@@ -81,6 +81,13 @@ otherwise.
 | calix | chalice | The Douay word (1 Cor. 10:16). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 2.3). |
 | corpus Christi / corpus Domini | the body of Christ / the body of the Lord | Kept apart as the Latin alternates them. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.6, 1.10). |
 | novella ecclesia / antiqua ecclesia | the newer church / the ancient church | The pair of 3.3; cf. *novelli*. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 3.3). |
+| cultores accidencium / signorum | worshippers of accidents / of signs | Wyclif's name for the defenders of the accident without a subject. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 6.15, prol-c 10.2). |
+| inpanacio | impanation | The bread and the body united in one; the fourth objection of ch. 7. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 7.18). |
+| cognacio (Christi cum membris) | kinship | With those who do the Father's will (Matt 12:50; 314.21–22). Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-c 10.11). |
+| claritas (of the glorified body) | clarity | The dowry of the glorified body (with agility, subtlety, impassibility); not "brightness". Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-c). |
+| sumpcio | reception | Of the sacrament; *sumere* "receive". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 01-a 13.2). |
+| missantes | mass-priests | Priests hired to say masses; pejorative. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 01-a 15.25). |
+| pontifex (a Christian bishop, unqualified) | pontiff | As the Old Testament row; where the referent (a bishop) matters, an R note. *pontifices ydolorum* "pontiffs of idols". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 01-a 14.29, 15.17). |
 
 ## B. Lordship, law, office
 
@@ -187,6 +194,7 @@ otherwise.
 | autenticus / autenticacio | authentic / authentication | The key term of *Eccl.* 13. Ruled 2026-10-02. |
 | leges ecclesie | the laws of the church | Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.20, 1.23). |
 | decretum; decreta | decree; the decrees | Gratian (*in decretis*). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 2.14, 3.24). |
+| epikeya | epikeia | Equity in applying a law to place and time; kept as the term. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 8.2). |
 
 ## C. Logic, disputation, metaphysics
 
@@ -570,6 +578,10 @@ otherwise.
 | esus / manducacio (corporalis / spiritualis) | (bodily / spiritual) eating | Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.5). |
 | secta signorum | the sect of the signs | Beside *doctores signorum*. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a, card). |
 | confeccio | consecration (of the eucharist) | The noun of *conficere*, which already shares "consecrate" with *consecrare*. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.4). |
+| incompetens; incompetencia | unfitting; unfittingness | Not "incompetent". Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 5.17, 5.26). |
+| locucio tropica | tropical speech | With *predicacio tropica* "tropical predication". Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 4.26). |
+| Doctor Communis | the Common Doctor | Thomas; with *Doctor Subtilis*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 8.16). |
+| multitudo (of one body) | multitude | Of one body's being many (ch. 8); the plain "multitude" of persons needs no row. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 8.4). |
 
 ## D. False friends and ordinary words that mislead
 
