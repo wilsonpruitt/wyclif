@@ -107,6 +107,7 @@ otherwise.
 | dies artificialis | the artificial day | Sunrise to sunset, against the natural day. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 95.2). |
 | consecracio | consecration | The noun of *consecrare*; see *confeccio*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 99–100). |
 | curia Avinonica | the Avignon curia | Beside *curia romana*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 107). |
+| commenta scripture | commentaries on scripture | Kept apart from *commentum (mendacii)* "fabrication". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 116.28). |
 
 ## B. Lordship, law, office
 
@@ -648,6 +649,13 @@ otherwise.
 | essencialiter | essentially | A mode adverb, one word. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-g). |
 | noticia confusa / distincta | indistinct / distinct knowledge | As *confuse / confusus* "indistinct(ly)". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-g). |
 | opinative | as an opinion | Kept apart from *opinio* "opinion" (noun). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-g). |
+| ponderositas; ponderosum | heaviness; heavy | The abstract against the concrete: *hostia est ponderositas sed non est ponderosum*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-a p. 10, 110.24). |
+| bonitas naturalis / moralis | natural / moral goodness | Of the host. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 113.29). |
+| suscipere magis et minus | admit of more and less | Aristotle's test of a quality. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 113.32). |
+| locucio effectiva | effective speech | The words of institution that do what they say. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 115.10). |
+| relacio ydemptitatis | relation of identity | The grammatical relative of identity. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 116.6). |
+| analogum | analogous term | Beside *analogicari*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 118.25). |
+| questio si est / quid est | the question whether it is / what it is | *Post. An.* II.1. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 119.18). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1064,3 +1072,4 @@ otherwise.
 | pius pater | loving father | *pius* of a father: not "pious". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 42.27). |
 | ex tibi dubio; ex sibi dubio | for all you know; for all he knows | Idiom: not "from doubt". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 66.15, 70.25). |
 | plaga | region | Of the earth; not "wound" or "plague". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 92.14). |
+| denarius (the coin) | penny | Kept apart from the number *denarius* "the ten". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 114.20). |
