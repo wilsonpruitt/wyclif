@@ -39,7 +39,7 @@ Thirdly, the same is confirmed by this, that in his first revocation he had [dec
 
 > [p. 32] Ex quibus colligitur quod altera istarum ecclesiarum erravit in fide vel equivocavit in loyca vel significacione, vel tercio quod in tempore successit credendi varietas, sic quod illud quod tunc fuit articulus fidei iam est falsum.
 
-From which it is gathered that one or the other of these churches erred in faith, or equivocated in logic or [signification]{g:significacio}, or thirdly that in time a variety of believing followed, so that what was then an article of faith is now false.[^13]
+From which it is gathered that one or the other of these churches erred in faith, or equivocated in [logic]{g:loyca} or [signification]{g:significacio}, or thirdly that in time a variety of believing followed, so that what was then an article of faith is now false.[^13]
 
 ## ¶5 · 32.10–32.15
 

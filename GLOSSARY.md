@@ -94,6 +94,8 @@ otherwise.
 | sacer; sacrare | sacred; hallow | Kept apart from *sanctus / sanctificare* "holy / sanctify" and from *consecrare*; *consecrare* is "to hallow together" in the grammarians' etymology. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 27–28). |
 | sacramentum tantum | a sacrament only | The *sacramentum tantum* of the Lombard's three (IV d. 8 c. 4). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 29.23). |
 | peregrinacio | pilgrimage | The church's way to the *patria*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 36.9). |
+| canoniste | canonists | Beside *decretiste* "decretists". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 41.3). |
+| conversio (eucharistic) | conversion | Of bread into the body; kept apart from *conversio* of a proposition. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 48.15). |
 
 ## B. Lordship, law, office
 
@@ -598,6 +600,12 @@ otherwise.
 | inprecative | by way of imprecation | The third mode beside *laudative / effective*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 28.8). |
 | sentire (an opinion: sensit quod) | hold | Of a doctor's or church's opinion; the "perceive" row is the sacrament sensed. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 30.30, 31.18). |
 | predicacio figurativa | figurative predication | A synonym of *predicacio tropica*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 35.18). |
+| loyca (of speaking about the sacrament) | logic | The manner of speaking, as against the teaching (*sentencia*); the argument of ch. 2 turns on it. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 38.28, 47). |
+| mixtum; mixta | mixed body; mixed bodies | The compounds of the elements. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 42.23, 44.10). |
+| veraciter | verily | Kept apart from *vere* "truly"; *Firmiter*'s word. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 48.3). |
+| describere | define | The verb of *descripcio* "definition". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 48.9). |
+| expositorie (of preaching scripture) | by way of exposition | Not the logicians' *expositorie* "expositorily" of the expository syllogism. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 46.4). |
+| elicere | elicit | Of an act of will or judgement. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 44.5). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1009,3 +1017,6 @@ otherwise.
 | fingere (a miracle) | feign | "imagine". Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.11, 1.14). |
 | recitare | recite | To report, rehearse. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.4, 3.10, 4.18). |
 | narrare | relate | Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.9). |
+| feria | day of the week | *feria septima* "the seventh day of the week". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 39.5). |
+| cognacio (family) | kindred | Seth's line apart from Cain's; kept apart from *cognacio* "kinship" (with Christ). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 42.14). |
+| pius pater | loving father | *pius* of a father: not "pious". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 42.27). |

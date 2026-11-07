@@ -105,7 +105,7 @@ resolves [this], noting a distinction between [identical and tropical predicatio
 expounds the text of the Apostle, 1 Cor. 10:16,[^12] making clear that he calls this sacrament
 "bread" and "chalice"; second, it objects by appeal to this: that it seems the body of Christ ought
 now to be called bread and wine, since holy scripture speaks so. And it resolves, putting forward
-first an example from the logic of blessed Bernard, who grants that "the hands by which God formed
+first an example from the [logic]{g:loyca} of blessed Bernard, who grants that "the hands by which God formed
 heaven and earth were crucified".[^13] Second, it [shows]{g:ostendere} from scripture, Gen. 6,[^14] that it is not
 lawful for us to draw out such conclusions; and, expounding scripture, it teaches according to what
 measure the sayings of the doctors ought to be granted, and how one is to speak in the perilous [3]
