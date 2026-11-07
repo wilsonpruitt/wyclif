@@ -105,6 +105,8 @@ otherwise.
 | divinitus | divinely | The pair of *humanitus* "humanly". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 84.19). |
 | accepcio personarum | respect of persons | The Douay phrase. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 92.15). |
 | dies artificialis | the artificial day | Sunrise to sunset, against the natural day. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 95.2). |
+| consecracio | consecration | The noun of *consecrare*; see *confeccio*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 99–100). |
+| curia Avinonica | the Avignon curia | Beside *curia romana*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 107). |
 
 ## B. Lordship, law, office
 
@@ -413,7 +415,7 @@ otherwise.
 | dampnificare / dampnificacio | damage / damaging | Kept apart from *dampnum* "loss" and *dampnari* "be damned"; the argument of 65–68 turns on it. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 65). |
 | peiorare / peioracio | make worse / worsening | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 65–68). |
 | illacio (*mali*) | bringing-on | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 66). |
-| per se / per accidens | of itself / by accident | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 68–72). |
+| per se / per accidens | CONTEXTUAL: of itself / by accident; (spatial) apart, by itself | The spatial sense (a thing set apart, *Euch.* 104.16–17) gets a G note. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 68–72). |
 | comprehensor | comprehensor | The blessed, against *viator*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
 | arraliter | by way of earnest | As a pledge (*arra*). Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
 | locus a sufficienti similitudine / a (sufficienti) divisione | the topic from sufficient likeness / from (sufficient) division | As *locus a simili*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
@@ -594,7 +596,7 @@ otherwise.
 | esse; esse sacramentale | being; sacramental being | The bare *esse* of the modes of being. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 3.28, 3.30). |
 | esus / manducacio (corporalis / spiritualis) | (bodily / spiritual) eating | Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.5). |
 | secta signorum | the sect of the signs | Beside *doctores signorum*. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a, card). |
-| confeccio | consecration (of the eucharist) | The noun of *conficere*, which already shares "consecrate" with *consecrare*. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.4). |
+| confeccio | consecration (of the eucharist) | The noun of *conficere*, which already shares "consecrate" with *consecrare*. Where set against *consecracio* (as the verbs at 16.10), "confecting", following Wilson's "confect" (2026-11-07). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.4). |
 | incompetens; incompetencia | unfitting; unfittingness | Not "incompetent". Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 5.17, 5.26). |
 | locucio tropica | tropical speech | With *predicacio tropica* "tropical predication". Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 4.26). |
 | Doctor Communis | the Common Doctor | Thomas; with *Doctor Subtilis*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 8.16). |
@@ -639,6 +641,13 @@ otherwise.
 | quintimembris | fivefold | Cf. *trimembris*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 91.11). |
 | methonomatice | metonymically | Beside *autonomatice* "by antonomasia". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 97.19). |
 | organisare | form (sounds) with the organs | Of speech. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 92.9). |
+| insensibiliter | imperceptibly | Beside *insensibilis*; the opposite of *sensibiliter* "perceptibly". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-e). |
+| locus a maiori | the topic from the greater | The dialectical topic. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-e). |
+| tropus | trope | Beside *tropice* "tropically". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-e). |
+| pertinenter | fittingly | Kept apart from *convenienter*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-e, 04-f). |
+| essencialiter | essentially | A mode adverb, one word. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-g). |
+| noticia confusa / distincta | indistinct / distinct knowledge | As *confuse / confusus* "indistinct(ly)". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-g). |
+| opinative | as an opinion | Kept apart from *opinio* "opinion" (noun). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 04-g). |
 
 ## D. False friends and ordinary words that mislead
 
