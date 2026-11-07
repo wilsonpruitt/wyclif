@@ -45,7 +45,7 @@ And others, overcome by reason, say that this is blasphemous, a thing not to be 
 
 > [p. 112] Sed veritas novit si cupiditas honoris et lucri a laycis sit in causa huius blasphemie. Sed nec istis obstat sed consonat et expedit devotis celebrare frequenter, cum ille sit valde indispositus, cui non ex celebracione plus et devocius imprimitur memoria Christi et per consequens ut oracio sua prosit ecclesie; quod si deest expedit quod talis tunc non conficiat.
 
-But the truth knows whether greed for honour and gain from the laity is the cause of this blasphemy. But it does not stand against these things, rather it accords with them, that it is expedient for the devout to celebrate often, since that man is very [unfit]{g:indispositus} in whom the memory of Christ is not, from celebrating, imprinted more and more devoutly, and in consequence so that his prayer may profit the [church]{g:ecclesia}; and if this is lacking, it is expedient that such a one should not then consecrate.
+But the truth knows whether greed for honour and gain from the laity is the cause of this blasphemy. But it does not stand against these things but accords with them, that it is expedient for the devout to celebrate often, since that man is very [unfit]{g:indispositus} in whom the memory of Christ is not, from celebrating, imprinted more and more devoutly, and in consequence so that his prayer may profit the [church]{g:ecclesia}; and if this is lacking, it is expedient that such a one should not then consecrate.
 
 ## ¶6 · 112.19–112.30
 
