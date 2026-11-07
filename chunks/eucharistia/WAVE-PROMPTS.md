@@ -60,3 +60,6 @@ Rows: `chunks/eucharistia/_verify/rows-{W}.md` (the wave's to-verify / editor ro
 - Ledger agents: Wyclif often takes his fathers **through Scotus (Ord. IV d. 8–13 for the eucharist) and
   Bonaventure / Thomas on IV Sent.**; Gratian *De cons.* D. 2 is the eucharist distinction (Friedberg I).
 - A bt fix that removes or adds a token shifts B+ positions on that page: re-run bplus.py (queue must be 0).
+- (2026-11-07, wave 3) Tell the ledger agent: **no plain `"` inside a quoted old/new phrase** — write `\"` or use
+  typographic quotes / italics. RESULTS-3 had two (`OCR "LXXVf"`) that apply.py skipped silently; it now prints
+  `WARN … not parsed` — apply those by hand.

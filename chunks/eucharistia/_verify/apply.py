@@ -15,6 +15,8 @@ for r in rows:
     assert m, rid
     new = f'| {rid} | {m.group(1)} | {m.group(2)} | {stat} | {how.replace("|", "/")} (see `{res}`) |'
     L = L[:m.start()] + new + L[m.end():]
+    want = chg.count(' → '); got = sum(len(re.findall(r'"((?:[^"\\]|\\.)*)" → "((?:[^"\\]|\\.)*)"', cm.group(2))) for cm in re.finditer(r'((?:\d\d-[a-z]|prol-[a-c]|pen\d\d|quest)) n\d+: ((?:"(?:[^"\\]|\\.)*" → "(?:[^"\\]|\\.)*"(?: and )?)+)', chg))
+    if want != got: print(f'WARN {rid}: {want - got} note change(s) not parsed (unescaped quotes?) — apply by hand')
     for cm in re.finditer(r'((?:\d\d-[a-z]|prol-[a-c]|pen\d\d|quest)) n\d+: ((?:"(?:[^"\\]|\\.)*" → "(?:[^"\\]|\\.)*"(?: and )?)+)', chg):
         f = f'chunks/eucharistia/wyc-eucharistia-{cm.group(1)}.md'
         s = open(f).read()

@@ -87,7 +87,7 @@ Thirdly, it is confirmed from the saying of Hilary in the same distinction, wher
 
 [^1]: **C.** *Sentencia* (CONTEXTUAL): the position taught, "teaching", throughout this chunk; the *communis sentencia* is that of ch. 1.
 
-[^2]: **S.** Thomas: the dimensive quantity of the bread as the subject of the remaining accidents. Loserth refers to *ST* III q. 77 (OCR "LXXVf", read as 77) and *In IV Sent.* d. 10 q. 1 a. 2; to be checked (LEDGER K02a-1).
+[^2]: **S.** Thomas: the dimensive quantity of the bread as the subject of the remaining accidents. The place is *ST* III q. 77 a. 2 (*accidentia … esse sicut in subiecto in quantitate dimensiva panis vel vini remanente*), with *In IV Sent.* d. 12 q. 1 a. 1 qc. 3; Loserth's references (plate: *ST* III q. 76; *In IV Sent.* d. 10 q. 1 a. 2) do not treat it (LEDGER K02a-1).
 
 [^3]: **S.** Scotus's argument from rarefaction and condensation; Loserth: Duns Scotus, *De Eucharistia* (Lyon 1639), scholium III (LEDGER K02a-2).
 
@@ -101,7 +101,7 @@ Thirdly, it is confirmed from the saying of Hilary in the same distinction, wher
 
 [^8]: **C.** *Sensit*: "held", the sense of opinion; not the row *sentire* "perceive", which is of the sacrament perceived. So *sensit* at 31.18 and *sane sensit* at 32.20.
 
-[^9]: **T/S.** The notary's sentence breaks off at *factam*; it continues in the *Misit papa Nicholaus* clause quoted at 31.13 (Loserth: "Cetera infra sequuntur"). ABC read *sponte scripsi*. The number *centum 14ᶜⁱᵐ* (114) is the print's; to be checked against the canon (LEDGER K02a-4).
+[^9]: **T/S.** The notary's sentence breaks off at *factam*; it continues in the *Misit papa Nicholaus* clause quoted at 31.13 (Loserth: "Cetera infra sequuntur"). ABC read *sponte scripsi*. The number *centum 14ᶜⁱᵐ* (114) is the print's; the canon reads *CXIII* (113; Ivo's *Decretum* CXX), Friedberg, *De cons.* D. 2 c. 42; Wyclif's 114 recurs at 32.24 (LEDGER K02a-4).
 
 [^10]: **C.** *Sine vituperio*: the synod would not have let Berengar's revocation and reproof stand uncensured "in these words" unless it approved the faith they state. ABC read *et concepcionem* for *et correpcionem* (31.9).
 
@@ -111,13 +111,13 @@ Thirdly, it is confirmed from the saying of Hilary in the same distinction, wher
 
 [^13]: **C.** *Altera istarum ecclesiarum*: one of the two, the ancient church of Nicholas II and the present church. The three options (error in faith, equivocation, a change of faith in time) are taken in reverse in 32.10–15.
 
-[^14]: **S/R.** Nicholas II's Roman synod (1059), where Berengar swore the oath, "according to the chronicles"; to be checked (LEDGER K02a-5). *Eo qui composuit decretales*: Wyclif names no one; the *Liber Extra* is Gregory IX's (promulgated 1234), compiled by Raymond of Peñafort; to be checked (LEDGER K02a-6).
+[^14]: **S/R.** Nicholas II's Roman synod (1059), where Berengar swore the oath, "according to the chronicles"; Friedberg on c. 42: *Ex Concilio Romano hab. a. 1059* (LEDGER K02a-5). *Eo qui composuit decretales*: Wyclif names no one; the *Liber Extra* is Gregory IX's (promulgated 1234), compiled by Raymond of Peñafort; promulgated by the bull *Rex pacificus*, 5 Sept. 1234 (LEDGER K02a-6).
 
 [^15]: **C.** *Sue sentencie*: the reflexive refers to Nicholas with the synod; rendered "their".
 
 [^16]: **S.** *De cons.* D. 2 c. 74 (*Omnia quecunque*), under Ambrose's name; Loserth's reference (OCR "LXXTV"), the form ours, with *De apostasia* p. 64 (LEDGER K02a-7).
 
-[^17]: **S/C.** *De cons.* D. 2 c. 58 (*Qui manducant*), under Augustine's name; Loserth's reference, the form ours (LEDGER K02a-8). From Augustine, *Sermo* 272, to be checked (LEDGER K02a-9). *Instruenda* agrees with *fides*: faith that is to be instructed. AD read *quod autem panis*; ABC *Ideo ista* (33.14).
+[^17]: **S/C.** *De cons.* D. 2 c. 58 (*Qui manducant*), under Augustine's name; Loserth's reference, the form ours (LEDGER K02a-8). The words quoted are Augustine, *Sermo* 272 (PL 38, 1246–1247); the canon's opening *Qui manducant* is *Sermo* 131.1 (LEDGER K02a-9). *Instruenda* agrees with *fides*: faith that is to be instructed. AD read *quod autem panis*; ABC *Ideo ista* (33.14).
 
 [^18]: **S/T.** *De cons.* D. 2 c. 79, under Hilary's name; Loserth's reference, the form ours (LEDGER K02a-10). Loserth notes "Recte: videtur … creditur" (33.23–24), the singular verbs of the canon; the print's plurals are translated.
 

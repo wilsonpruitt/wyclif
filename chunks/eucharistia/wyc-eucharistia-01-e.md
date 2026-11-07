@@ -78,9 +78,9 @@ And although all Christians are bound to know this teaching, yet especially theo
 
 [^4]: **S.** The ordinary gloss on *De cons.* D. 2 c. 42 (*ad vocem* "Panem"): bread "that is, the species of bread and wine", which is "a sacrament only"; Loserth's reference (LEDGER K01e-2).
 
-[^5]: **C/S.** *Species et similitudo earum rerum vocabula sunt que ante fuerant*: the species and likeness keep the names of the things they were. Loserth refers the Gregory text to *De cons.* D. 2 c. 34 (OCR "XXXIV"), the form ours (LEDGER K01e-3).
+[^5]: **C/S.** *Species et similitudo earum rerum vocabula sunt que ante fuerant*: the species and likeness keep the names of the things they were. The Gregory text, with the prayer it quotes, is *De cons.* D. 2 c. 34, inscribed *Gregorius in omelia paschali* (Loserth; Friedberg), the form ours (LEDGER K01e-3).
 
-[^6]: **S.** The postcommunion of the Ember Saturday of September, as Loserth gives it (LEDGER K01e-4).
+[^6]: **S.** The postcommunion of the Ember Saturday of September, as Loserth gives it: *Perficiant in nobis, Domine, quaesumus, tua sacramenta quod continent: ut, quae nunc specie gerimus, rerum veritate capiamus*; Wyclif's *sub specie panis et vini* expands the prayer's *specie* (LEDGER K01e-4).
 
 [^7]: **T.** *In fidelitate*, two words in the print. Read as one (*infidelitate*) it would give "worse than pagans in unbelief"; the print is translated and the doubt left open.
 
@@ -102,7 +102,7 @@ And although all Christians are bound to know this teaching, yet especially theo
 
 [^16]: **C.** *Inprecative*: praying a blessing upon another, the old sense of "imprecation", not cursing. ABDE read *imprecacione* (28.8).
 
-[^17]: **S.** *In cathalogo sanctorum* is not identified by Loserth. The Benedicite (Dan. 3:57, "All ye works of the Lord, bless the Lord") fits *omnis creatura benedicit Dominum*; to be checked (LEDGER K01e-6).
+[^17]: **S.** *In cathalogo sanctorum* is not identified by Loserth. The Benedicite (Dan. 3:57, "All ye works of the Lord, bless the Lord") fits *omnis creatura benedicit Dominum*; a conjecture: no source is traced, and Wyclif elsewhere (*De civili dominio* II) uses *cathalogus sanctorum* for the roll of the saints (LEDGER K01e-6).
 
 [^18]: **T.** After *effective* the print breaks off; Loserth: "hic aliquot verba excidisse apparet" (some words seem to have fallen out). The third member is left unexplained. C omits *talem* in the next clause; A corrects *tamen* to *talem*.
 
