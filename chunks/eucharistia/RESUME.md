@@ -92,4 +92,4 @@ CONVENTIONS for the per-wave GLOSSARY rulings. Tooling: `WAVE-PROMPTS.md`, `_con
 warns on unparsed note changes). ⚠ For stage 10 (site): several GLOSSARY keys are shared by two rows of different
 sense (*continuacio*, *sentencia*, *cognacio*, *conficere*, *species*): the hover may show the wrong row. Fix in the
 site build (key on the row whose sense the chunk note names) or split keys before deploying.
-
+- For the headnote / close-out: in ch. 3 (03-d, K03d-1/4) Wyclif turns Ockham's own parsimony argument (*De sacramento altaris* c. 28) against him on quantity; worth a sentence in "Where it is answered" or a chapter headnote.

@@ -86,17 +86,17 @@ And as to quality, he writes in *Soliloquies* II, chapter 12:[^11] "It does not 
 [^1]: **T.** *Alimentum* (69.30) is the print, after A; BCDE read *alienatum*, "until it is altered". Heat acting on the species until they nourish is the case of the host digested.
 [^2]: **C.** *Transfert ad contraria nomina ministrorum ecclesie*: the church gives the names of its ministers to men who are their contraries; a name given in solemn use does not make the thing so. Loserth's side-note reads the passage as a matter of language, not of change in things.
 [^3]: **C.** *Manente ... disposicione ... vel variancia* (70.13–14) is taken as "whether the disposition remains or varies"; ABCE read *variari*, which gives the same sense. C corrected *diffinicione* (D, A, B) to *disposicione*.
-[^4]: **S.** The worm generated from the consecrated species is a case put in Thomas, *ST* III q. 77 a. 5 (LEDGER K03e-1, to be checked). The Latin names only "solemn doctors".
+[^4]: **S.** The worm generated from the consecrated species is a case put in Thomas, *ST* III q. 77 a. 5 (s. c. *vermes, si putrefiant*). In the co. the quantity takes the role of matter *non quidem novo miraculo, sed ex vi miraculi prius facti*, which Wyclif's *sine novo miraculo … per idem miraculum* answers (LEDGER K03e-1). The Latin names only "solemn doctors".
 [^5]: **C.** *Ex tibi dubio*: "for all you know", as *ex sibi dubio* (66.15). D has *ex tali* in the margin.
 [^6]: **S.** "The abomination of desolation": Matt. 24:15, Dan. 9:27 (Douay). Wyclif uses the phrase without the rest of the verse.
-[^7]: **C.** The six scriptural places on the sacrament are those set out earlier in the treatise (LEDGER K03e-2, to be checked: which six).
+[^7]: **C.** The six scriptural places on the sacrament are those set out earlier in the treatise (Matt. 26, Mark 14, Luke 22, 1 Cor. 11, Acts 2 and John 6, ch. 2, 33–34) (LEDGER K03e-2).
 [^8]: **C.** The construal of the last clause is doubtful: it is taken as the logicians' own consequence, which turns their objection against them (every creature is an accident to God, and God is no subject in which it inheres). It could also be Wyclif's reduction of their position.
-[^9]: **S.** The decretal is probably *Firmiter credimus* (Lateran IV, *X* 1.1.1, our modern form), and the decree of the pope with the bishops *Ego Berengarius* (*De cons.* D. 2 c. 42), where Gratian has Nicholas II with 113 bishops (LEDGER K03e-3, K03e-4, to be checked). Wyclif's count is 114.
+[^9]: **S.** The decretal is (as at 141.11–29, where Wyclif names Innocent III) *Firmiter credimus* (Lateran IV, *X* 1.1.1, our modern form), and the decree of the pope with the bishops *Ego Berengarius* (*De cons.* D. 2 c. 42), where Gratian has Nicholas II with 113 bishops (LEDGER K03e-3, K03e-4). Wyclif's count is 114.
 [^10]: **S.** Augustine, *De quantitate animae* c. 4, Loserth's reference *Opp.* I, p. 404 (LEDGER K03e-5).
-[^11]: **S/T.** Augustine, *Soliloquia* II c. 12, Loserth's reference *Opp.* I, p. 378; the manuscripts read *XIII*, corrected by Loserth to *XII*. The second quotation (*Et sequitur*) he places in c. 13 (LEDGER K03e-6, K03e-7).
+[^11]: **S/T.** Augustine, *Soliloquia* II c. 12, II.12.22 (PL 32, 895–896), Loserth's reference *Opp.* I, p. 378; the manuscripts read *XIII*, corrected by Loserth to *XII*. The second quotation (*Et sequitur*) he places in c. 13 (LEDGER K03e-6, K03e-7).
 [^12]: **T.** *Quia non possum* (72.21) is the print, translated; Loserth notes *recte: quare non possum*, "wherefore I cannot", which is Augustine's text as he gives it.
-[^13]: **S.** Augustine to Dardanus, Wyclif's Epistle 40; Loserth's reference *Opp.* II, p. 682. It is Ep. 187 in the modern numbering (LEDGER K03e-8, to be checked).
-[^14]: **S/T.** The *De Trinitate* references are as printed and partly garbled (ABC *De Trinitate et IX*; E *et VI Trinitate*); Loserth refers to *Opp.* VIII, p. 833 ff., and for *De moribus ecclesiae* c. 6 to *Opp.* I, pp. 690–691 (LEDGER K03e-9, K03e-10).
+[^13]: **S.** Augustine to Dardanus, Wyclif's Epistle 40; Loserth's reference *Opp.* II, p. 682. It is Ep. 187 in the modern numbering (187.6.18, PL 33, 838) (LEDGER K03e-8).
+[^14]: **S/T.** The *De Trinitate* references are as printed and partly garbled (ABC *De Trinitate et IX*; E *et VI Trinitate*); Loserth refers to *Opp.* VIII, p. 833 ff., which is *De Trin.* V (at 133.1 Wyclif cites *V*ᵗᵒ *de Trinitate IX*º *et XIII*º, there V.10.11, LEDGER Kprolb-5), and for *De moribus ecclesiae* c. 6 to *Opp.* I, pp. 690–691: I.6.9 (PL 32, 1314–1315), virtue as the soul's *qualitatem, quae nisi in anima esse non potest* (LEDGER K03e-9, K03e-10).
 
 ## Transcription notes
 

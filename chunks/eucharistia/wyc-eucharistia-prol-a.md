@@ -217,7 +217,7 @@ as much as [that] of a devout one.
 [^14]: **S/T.** The chapter only, as printed (D reads *Gen. d°*, p. 2 n. to l. 30); the verse in view is Gen. 6:6 (*tactus dolore cordis intrinsecus*; ch. 2, 40.16 and 41.28), so
     identified in ch. 2 (LEDGER Kprola-6). ABCE read *ostendunt* for *ostendit*.
 
-[^15]: **S.** Augustine; ch. 3 (72.4–73.4) gives three places: *De quantitate animae* 4, *Soliloquia* II.13.23 (Wyclif II.12) and *Ep.* 187.6.18 to Dardanus (Wyclif *Ep.* XL) (LEDGER
+[^15]: **S.** Augustine; ch. 3 (72.4–73.4) gives three places: *De quantitate animae* 4, *Soliloquia* II.12.22–13.23 (Wyclif II.12 and 13) and *Ep.* 187.6.18 to Dardanus (Wyclif *Ep.* XL) (LEDGER
     Kprola-7).
 
 [^16]: **C/S.** *Arguendo doctores novellos*: *arguere* with an accusative is "to argue against,

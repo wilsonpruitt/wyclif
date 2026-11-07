@@ -57,8 +57,8 @@ So, then, the sayings of weighty persons of the [church]{g:ecclesia} can be brou
 
 ## Notes
 
-[^1]: **S/T.** Loserth: *Scil. Thomae Aquinatis*. The gloss is on Augustine's memory, understanding and will (*De Trinitate* X); Thomas makes the powers distinct from the soul's essence, probably *ST* I q. 77 a. 1 ad 1 (LEDGER K03f-1, to be checked). The print *non sunt essencia anime inseparabiles qualitates* (73.27–28) lacks a connective; "[but]" is supplied.
-[^2]: **S.** Hugh of St Victor, *De sacramentis* II p. 8 c. 9; Loserth's reference: ed. Mainz 1617, p. 463 (LEDGER K03f-2; the PL column to be checked).
+[^1]: **S/T.** Loserth: *Scil. Thomae Aquinatis*. The gloss is on Augustine's memory, understanding and will (*De Trinitate* X); Thomas makes the powers distinct from the soul's essence, *ST* I q. 77 a. 1 ad 1 (Augustine *loquitur de mente secundum quod noscit se et amat se*), with ad 5: the power, not being the essence, *est in secunda specie qualitatis* (LEDGER K03f-1). The print *non sunt essencia anime inseparabiles qualitates* (73.27–28) lacks a connective; "[but]" is supplied.
+[^2]: **S.** Hugh of St Victor, *De sacramentis* II p. 8 c. 9; Loserth's reference: ed. Mainz 1617, p. 463 (PL 176, 468) (LEDGER K03f-2).
 [^3]: **T.** *Accidit* (74.10) is the print; the manuscripts read *accedit*, as the next clause does, rendered "comes". Loserth notes that Hugh's text reads *ut per id quod accedit, id ad quod accedit maius fiat*, "so that ... becomes greater"; the print's *cum illo ... unum fiat* is translated.
 [^4]: **C.** Hugh's two errors: those who trust sight say only bread is there; those who trust faith say the visible species inhere in the body of Christ. *Tale esse quod creditur* is taken as "that what is believed is such as is seen".
 [^5]: **C/G.** *Principaliter* here means "as the principal thing", the standing that the bread yields to the body; not the row *principaliter* "as a main head" (the compendium's divisions). "Principally" and "principality" are used for the family through the paragraph.
