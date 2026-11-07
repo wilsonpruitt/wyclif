@@ -91,6 +91,9 @@ otherwise.
 | tegumentum | covering | The sacrament as the body's sign or covering. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 16.11). |
 | fractio; fractura (of the host) | breaking | *Lauda Sion* *signi tantum fit fractura*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 01-a 13; 21.31). |
 | species (of bread and wine) | species | The sacramental species; kept as the term, not "appearance". Distinct from the logical *species*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 01-a 13.15; 23.8). |
+| sacer; sacrare | sacred; hallow | Kept apart from *sanctus / sanctificare* "holy / sanctify" and from *consecrare*; *consecrare* is "to hallow together" in the grammarians' etymology. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 27–28). |
+| sacramentum tantum | a sacrament only | The *sacramentum tantum* of the Lombard's three (IV d. 8 c. 4). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 29.23). |
+| peregrinacio | pilgrimage | The church's way to the *patria*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 36.9). |
 
 ## B. Lordship, law, office
 
@@ -591,6 +594,10 @@ otherwise.
 | figurare | figure | Both senses: to prefigure (the lamb figured Christ) and to shape (*figurare Deum nostrum*), which Wyclif plays on; one English word keeps the pun. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-c 10; 21.29). |
 | conus (of the visual cone) | apex | The point of the visual triangle in the eye. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 20.21). |
 | supponere pro | stand for | Supposition; with *supposicio*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 24.27). |
+| sensualiter | sensually | Berengar's oath word (*Ego Berengarius*); kept apart from *sensibiliter* "perceptibly". A mode adverb, one word. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 26.1, 30.24). |
+| inprecative | by way of imprecation | The third mode beside *laudative / effective*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 28.8). |
+| sentire (an opinion: sensit quod) | hold | Of a doctor's or church's opinion; the "perceive" row is the sacrament sensed. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 30.30, 31.18). |
+| predicacio figurativa | figurative predication | A synonym of *predicacio tropica*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 35.18). |
 
 ## D. False friends and ordinary words that mislead
 
