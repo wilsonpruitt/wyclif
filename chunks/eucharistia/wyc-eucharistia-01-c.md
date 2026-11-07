@@ -65,13 +65,13 @@ And in like manner [it is objected]{g:obicitur} about hearing: for if we hear th
 
 [^3]: **C.** *Fisso pectore cum corde infirmi*: ablative absolute, "the breast, with the sick man's heart, being split", the host passing into the ventricle; *cum corde* could instead go with *surrepsit* ("crept, with the heart, into …"), which makes less sense. The manuscripts are rough here (19.28: ABC *fissa peccatoris*, D *pectoris cum*, E *fisso peccatori*). *Ingressum est* (neuter, of the feminine *hostia*) is translated as it stands.
 
-[^4]: **S.** Gregory relates a miracle about the consecrated host; the text names no work. Loserth (20.9): *Notae et observ. in Librum Sacramentorum S. Gregorii*, Nota 972, *Opp.* III, 563 (plate); to be checked (LEDGER K01c-1).
+[^4]: **S.** Gregory relates a miracle about the consecrated host; the text names no work. Loserth (20.9): *Notae et observ. in Librum Sacramentorum S. Gregorii*, Nota 972, *Opp.* III, 563 (plate n0091); not checked further, and the chapter names no miracle (LEDGER K01c-1).
 
 [^5]: **C.** *Signa* here are the miracles taken as signs, and *cultus signorum* is the worship of them; Wyclif's word also points at his name for his adversaries, *cultores signorum*.
 
 [^6]: **S.** Isa. 2:20, "moles and bats", the idols cast away (Vulgate *talpas et vespertiliones*); an allusion.
 
-[^7]: **S.** The visual triangle (*conus*, the apex, in the eye; the base in the object) is the perspectivists' doctrine; the claim that no bodily eye, glorified or Christ's own, sees Christ's body in the sacrament is attributed to "the saints" unnamed; Thomas, *ST* III q. 76 a. 7, holds it; to be checked (LEDGER K01c-2).
+[^7]: **S.** The visual triangle (*conus*, the apex, in the eye; the base in the object) is the perspectivists' doctrine; the claim that no bodily eye, glorified or Christ's own, sees Christ's body in the sacrament is attributed to "the saints" unnamed; Thomas, *ST* III q. 76 a. 7, holds it for every bodily eye, glorified included, but grants in ad 2 that Christ's own eye sees himself under the sacrament, though not the mode of his being there (LEDGER K01c-2).
 
 [^8]: **S.** Acts 7:55 has "standing on the right hand of God" (Vulgate *a dextris Dei*); *virtutis Dei*, "of the power of God", is from Luke 22:69, where the Son of man is "sitting". Wyclif's question, standing or sitting, sets the two verses side by side.
 

@@ -58,11 +58,11 @@ And many labour under this equivocation. Hence God forbid that a catholic believ
 
 [^4]: **S.** Gratian, *De cons.* D. 2 c. 41, under Augustine's name (Loserth: *Decreti Tertia Pars, De Consecratione, dist.* II *cap.* XLI; the modern form is ours) (LEDGER K01d-1).
 
-[^5]: **S.** *De cons.* D. 2 c. 43, under Ambrose's name (Loserth: *dist.* II *cap.* XLIII; modern form ours) (LEDGER K01d-2). The placing of *inquit* after *Similitudinem* is the print's; the words given to the objector, "Perhaps you say", are the canon's.
+[^5]: **S.** *De cons.* D. 2 c. 43, under Ambrose's name (Loserth: *dist.* II *cap.* XLIII; modern form ours; really *De sacramentis* VI.1.2, per Friedberg) (LEDGER K01d-2). The placing of *inquit* after *Similitudinem* is the print's; the words given to the objector, "Perhaps you say", are the canon's.
 
 [^6]: **C/S.** Three authorities are counted: Augustine c. 41, Ambrose c. 43, and *tercio* Augustine's canon *Prima quidem*, *De cons.* D. 2 c. 44 (Loserth; modern form ours) (LEDGER K01d-3). John 6:67 is cited, not quoted (DR "After this, many of his disciples went back"). The last clause (*sed spiritualiter per idem non videret …*) is compressed: "but [it is to be understood] spiritually; by the same token [the believer] would not see …", the subject of *videret* left unexpressed.
 
-[^7]: **S.** *De cons.* D. 2 c. 45 (Loserth, line 29, "cap. XLV", plate), under Augustine's name; the words are from his *Enarr. in Ps.* 98; to be checked (LEDGER K01d-4).
+[^7]: **S.** *De cons.* D. 2 c. 45 (Loserth, line 29, "cap. XLV", plate), under Augustine's name; the words are from his *Enarr. in Ps.* 98.9 (PL 37, 1265), except *ipsum quidem et non ipsum, ipsum invisibiliter, non ipsum visibiliter*, which the canon adds (inscribed *ad Irenaeum*) (LEDGER K01d-4).
 
 [^8]: **S.** *De cons.* D. 2 c. 27, under the name of Pope Pius (Loserth: *dist.* II *cap.* XXVII; modern form ours) (LEDGER K01d-5).
 
@@ -76,7 +76,7 @@ And many labour under this equivocation. Hence God forbid that a catholic believ
 
 [^13]: **C.** *Inconvenientibus*: CONTEXTUAL; "absurdities", the unfitting consequences in argument. ABE read *inquientibus* (25.15).
 
-[^14]: **S.** Wyclif's form of the line. Loserth gives the hymn's reading as *Fitque sanguis Christi merum, etsi sensus deficit* (Daniel, *Thesaurus hymnologicus* I, 245), the *Pange lingua* attributed to Thomas; to be checked (LEDGER K01d-6).
+[^14]: **S.** Wyclif's form of the line. Loserth gives the hymn's reading as *Fitque sanguis Christi merum, etsi sensus deficit* (Daniel, *Thesaurus hymnologicus* I, 245), the *Pange lingua* attributed to Thomas, stanza 4 (*Verbum caro, panem verum*) (LEDGER K01d-6).
 
 ## Transcription notes
 

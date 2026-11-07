@@ -92,15 +92,15 @@ Secondly, it is dreamed that there were many [saints]{g:sancti} who held that th
 
 [^8]: **T.** Printed *tribulatis*, agreeing with *peccatoribus*. BDE read *tribulatos* (and A before correction), agreeing with *carnem … et sanguinem*: "the flesh and blood of Christ, so variously afflicted for sinners". The print construes and is translated.
 
-[^9]: **S.** Augustine, *In Ioh. tract.* 26 (Loserth: *In Joh. Ev. Tract.* XXVI, *Opp.* III, 2, 501); to be checked (LEDGER K01b-1). The quotation has no *dentibus*; Wyclif's comment at 18.8–11 quotes the doctor as saying *premit dentibus*.
+[^9]: **S.** Augustine, *In Ioh. tract.* 26 (Loserth: *In Joh. Ev. Tract.* XXVI, *Opp.* III, 2, 501); *Tract.* 26.18 (PL 35, 1614), in the expanded medieval form (*spiritualiter … licet carnaliter et visibiliter premat …*), which the Maurists bracket as additions (LEDGER K01b-1). The quotation has no *dentibus*; Wyclif's comment at 18.8–11 quotes the doctor as saying *premit dentibus*.
 
 [^10]: **S.** Ps. 15:10 (Loserth), Vulgate *nec dabis sanctum tuum videre corruptionem*, "nor wilt thou give thy holy one to see corruption"; Wyclif recasts it as a clause of God's ordinance.
 
 [^11]: **G.** *Prescitus*: those God foreknows will be damned, Wyclif's technical term; not "the reprobate".
 
-[^12]: **S/T.** Wyclif's "doctor" says *premit dentibus*, which the quotation at 17.27 lacks; the form he is reading is to be checked (LEDGER K01b-2). ABC omit *corpus Christi … dentibus* (18.10–11), an eye-skip that loses the contrast.
+[^12]: **S/T.** Wyclif's "doctor" says *premit dentibus*, which the quotation at 17.27 lacks; the fuller form, with *dentibus*, is the medieval text of *Tract.* 26.18 as in ps.-Bede and Alcuin on John (PL 92, 719A; PL 100, 836A, *dentibus* bracketed), so the omission at 17.27 is in Wyclif's copy or the print (LEDGER K01b-2). ABC omit *corpus Christi … dentibus* (18.10–11), an eye-skip that loses the contrast.
 
-[^13]: **S.** Wyclif names Augustine without a work. The thought that the one eaten changes the eater into himself is in Augustine, *Conf.* VII.10; to be checked (LEDGER K01b-3).
+[^13]: **S.** Wyclif names Augustine without a work. The thought that the one eaten changes the eater into himself is in Augustine, *Conf.* VII.10.16 (*nec tu me in te mutabis … sed tu mutaberis in me*; PL 32, 742), the likeliest source (LEDGER K01b-3).
 
 [^14]: **C.** *Sentencia*: CONTEXTUAL; here "teaching", the position just set out.
 
