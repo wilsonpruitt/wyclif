@@ -66,10 +66,16 @@ Fordham wording removed from all 93 chunks and from `chapters.py` (conditional o
 reworded, note numbers +1.
 
 ⬜ Still open before the waves:
-- **Headnote "Occasion"** now states Loserth's evidence and the modern dating as two `[verify]`s; reading Loserth
-  Introd. §4 (plates, pp. ~XL–XLV) would settle one date. `prol-a` is `translated`, not `done`, until then.
-- Italics front-matter field: `italics: none` while `italics.tsv` has p. 2 "panem et calicem;" (likely the
-  compendium's own 2.24). Look when building briefs.
+- ✅ **Headnote "Occasion"** settled 2026-11-07 from Loserth Introd. §4 (pp. LX–LXII, read in the
+  `latinworks13wycl` djvu text): "before 1382–1383", last four years of Wyclif's life, contemporary with
+  *Sermones* III (325 ≈ *Sermo* III.25), *De blasphemia* later. ⚠ His third argument (the treatise never says
+  *substancia*/*materialis* of the bread) **fails on the printed text**: *substancia panis* in Wyclif's own voice
+  at 34.19, 131.19 (≈13 hits in all); the headnote says so. Matthew (Introd. §1, *EHR* 1890) puts the Oxford
+  condemnation before Berton left office 30 May 1381. Modern c. 1379–80 stays `[verify]`. Chunks of a live
+  volume stay `status: translated` (*De incarn.* 61/61), so no status change.
+- ✅ **Italics field** settled: plate n73 confirms 2.24 *panem et calicem;* in italic (already quoted in the
+  English); `italics.tsv` p. 4 *Ego Beringarius* is 4.31 → **prol-b**. ⚠ `italics.tsv` page numbers drift (its
+  other "p. 2" rows are ch. 1 text): check against `bt/` by text, not by page.
 - **The waves** (3 chunks per brief, Opus, stage-8 per-wave checks): ≈16–18M, its own "which model, and go?".
   `prol-b`, `prol-c` first, then `01-a…`.
 

@@ -10,7 +10,7 @@ divisions: "prologus (heading 'PROLOGUS.' at 1.0); part 1 of 3, split at the edi
 latin_source: B+ (blind transcription, checked against the vote)
 witnesses: [iohanniswyclifd00losegoog, iohanniswyclifd01losegoog, iohanniswyclifde12wycl, latinworks13wycl]
 check: "795 words; 790 confirmed by the vote; 4 runs stood by rule; 1 read on the plate (see Transcription notes)"
-italics: none
+italics: "plate-read (n73): 2.24 *panem et calicem;* (1 Cor 10:16), quoted in the English; none else in 1.2–4.25 (4.31 *Ego Beringarius* falls in prol-b)"
 plates: "archive.org latinworks13wycl, leaves n72–n75 (printed p. = leaf − 71)"
 status: translated
 ---
@@ -19,10 +19,16 @@ status: translated
 
 ## Headnote
 
-**Occasion.** Loserth (Introd. §4) places it among Wyclif's late writings: it shares passages
-word for word with the *Sermones* III, and it avoids the words *substancia* and *materialis* of the
-bread, which Wyclif says in *Sermo* III.54 he has stopped using `[verify]`. Modern accounts place it
-c. 1379–80, when his denial of transubstantiation first became public at Oxford `[verify]`.
+**Occasion.** Loserth (Introd. §4, pp. LX–LXII) puts it in the last four years of Wyclif's life
+and concludes that it was written "before 1382–1383". It shares passages word for word with the
+third part of the *Sermones* (he sets 325 beside *Sermo* III.25), so he takes the two to be of one
+time; *De blasphemia*, which quotes it, is later. His third argument, that the treatise never calls
+the bread *substancia* or *materialis*, words Wyclif says in *Sermo* III.54 he has stopped using,
+does not hold for the printed text: Wyclif writes *substancia panis* in his own voice (34.19,
+131.19). For the controversy itself Loserth follows F. D. Matthew (Introd. §1, from *EHR* 1890),
+who puts the Oxford condemnation before Chancellor Berton left office on 30 May 1381 and its
+beginning perhaps in 1380. Modern accounts place the treatise c. 1379–80, when his denial of
+transubstantiation first became public at Oxford `[verify]`.
 
 **The text.** Loserth's edition (Wyclif Society, 1892) prints the treatise from five
 manuscripts (Introd. §5): **A** Vienna 3927; **B** Vienna 3932; **C** Vienna 1387, "the best of
