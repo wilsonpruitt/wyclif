@@ -84,7 +84,7 @@ Hence, although a [priest]{g:sacerdos} could consecrate in English and other bar
 
 [^3]: **S.** Print *Exodi XIIº*; the water from the rock is Exod. 17:1–7 (cf. Num. 20:8–11). Translated as printed. In 1 Cor. 10:4 Wyclif's order *spiritualem potum eundem* does not change the Douay–Rheims English.
 
-[^4]: **S/C.** John 6:59 (Douay–Rheims), from *Non sicut*: the verse's opening *Hic est panis qui de caelo descendit* is not quoted. Augustine, *In Iohannis evangelium tractatus* 26 (Loserth: *Opp.* III/2, 408; LEDGER K04b-1), is paraphrased, not quoted. *Rei sue* (ABC *rei sui*, 88.11) is the reality of the sacrament, set beside the sacrament itself as in the ruled distinction.
+[^4]: **S/C.** John 6:59 (Douay–Rheims), from *Non sicut*: the verse's opening *Hic est panis qui de caelo descendit* is not quoted. Augustine, *In Iohannis evangelium tractatus* 26 (26.11, PL 35, 1611: *numquid nos non morimur* … *murmuratores patres murmuratorum*; Loserth: *Opp.* III/2, 408; LEDGER K04b-1), is paraphrased, not quoted. *Rei sue* (ABC *rei sui*, 88.11) is the reality of the sacrament, set beside the sacrament itself as in the ruled distinction.
 
 [^5]: **T.** *Presencialiter*: C first wrote *principaliter*, which is struck, and another hand gives *presencialiter* in the margin (88.24). The opposition is of time: the fathers merited the opening only from very far off.
 
@@ -92,15 +92,15 @@ Hence, although a [priest]{g:sacerdos} could consecrate in English and other bar
 
 [^7]: **G/C.** *Sermo Dei* and *verbum Dei* are the divine titles, "Speech" and "the Word"; *ipsum facit opera* has the neuter of *verbum*, rendered "he". The spoken words (*verba vocalia*) are the instruments, of which "does the works" is said only improperly and equivocally.
 
-[^8]: **C.** The words are spoken one after another (*successiva*) and with pauses (*interpolata*); the question is the instant at which the proposition is true. The answer rests on the thesis that a continuum is composed of what is not quantified (indivisibles), which Wyclif says he has made clear elsewhere, without naming the work (LEDGER K04b-2).
+[^8]: **C.** The words are spoken one after another (*successiva*) and with pauses (*interpolata*); the question is the instant at which the proposition is true. The answer rests on the thesis that a continuum is composed of what is not quantified (indivisibles), which Wyclif says he has made clear elsewhere, without naming the work; he argues it at length, in the same words (*composicionem continui ex non quantis*), in *De logica* III, c. 9 (ed. Dziewicki III, 30–85) (LEDGER K04b-2).
 
-[^9]: **S/C.** Augustine, *In Iohannis evangelium tractatus* 13 (Loserth: *Opp.* III/2, 390; LEDGER K04b-3). *Hoc est Christus* is given as a proposition Augustine grants with any creature demonstrated. The pronoun under discussion is the neuter *hoc* of *Hoc est corpus meum*; the paragraph asks whether it demonstrates the bread (*panis*, masculine: *panis ille*, 90.3).
+[^9]: **S/C.** Augustine, *In Iohannis evangelium tractatus* 13 (Loserth: *Opp.* III/2, 390; nearest is 13.5, PL 35, 1495, *Deus tibi totum est: si esuris, panis tibi est*, where Augustine also says of the visible bread *nec panis est Deus*; LEDGER K04b-3). *Hoc est Christus* is given as a proposition Augustine grants with any creature demonstrated. The pronoun under discussion is the neuter *hoc* of *Hoc est corpus meum*; the paragraph asks whether it demonstrates the bread (*panis*, masculine: *panis ille*, 90.3).
 
 [^10]: **C.** *Singulariter* (CONTEXTUAL): "alone" will not construe (the proposition is not granted alone); "in a singular way" answers to the *singularis efficacia et significacio* just named.
 
 [^11]: **C.** *Effective*, "by way of effect", stands against *figurative*: the proposition taken as effecting what it says. *Sub habitudine accidencium*: *habitudo* in its "respect" sense, the pronoun demonstrating, in respect of the accidents, the body in heaven; "under the condition of the accidents" is the alternative.
 
-[^12]: **S/C.** *Dominus Armachanus*: Richard FitzRalph, *Summa de questionibus Armenorum*, book 9, "through many chapters", unspecified (LEDGER K04b-4). *Ytalico*: "Italic", that is, Latin. The languages are assigned to the authors as the Latin assigns them.
+[^12]: **S/C.** *Dominus Armachanus*: Richard FitzRalph, *Summa de questionibus Armenorum*, book 9, cc. 1–4 (Paris 1512, ff. 66r–67v; c. 1: *Matheus … in hebraico, Iohannes in greco, Marcus in italico*, Paul in Greek; Wyclif's *Lucas in Siro* is not FitzRalph's) (LEDGER K04b-4). *Ytalico*: "Italic", that is, Latin. The languages are assigned to the authors as the Latin assigns them.
 
 [^13]: **C.** *Facti in ipsam*: the feminine most likely takes up *consuetudinem*, the custom the sin offends; *linguam* (the approved language) is the alternative.
 

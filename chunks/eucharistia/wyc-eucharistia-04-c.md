@@ -67,19 +67,19 @@ And men assign three causes why Christ instituted this sacrament in this order: 
 
 [^4]: **S.** *Cum Marthe*, X 3.41.6, under the title *De celebratione missarum* (Loserth: *Decret. Greg. IX*, lib. III, tit. XLI, cap. VI; the modern form is ours; LEDGER K04c-1). The codices read *Misse* in the title (91.8).
 
-[^5]: **C/S.** *Tocius et omnium*: "of the whole and of all", most likely the whole narration and all four evangelists; the Latin leaves the nouns unexpressed. The book is Augustine's *De consensu evangelistarum*, under Wyclif's title *De concordia* (LEDGER K04c-2).
+[^5]: **C/S.** *Tocius et omnium*: "of the whole and of all", most likely the whole narration and all four evangelists; the Latin leaves the nouns unexpressed. The book is Augustine's *De consensu evangelistarum*, under Wyclif's title *De concordia*, cited as a whole; its rule is II.28.67 (PL 34, 1111), *nihil in cujusque verbis nos debere inspicere, nisi voluntatem* (LEDGER K04c-2).
 
-[^6]: **S/T.** Loserth: Gratian, D. 16 c. 6 (*Habeo librum*) and *De pen.* D. 1 c. 1; the modern form is ours (LEDGER K04c-3, K04c-4). *Sinodus* stands as printed after *capitulo VI*: whether it names the matter of the canon (a synod) or opens the next reference is open. *Prima* is Loserth's correction: the codices read *XXXI* (91.29).
+[^6]: **S/T.** Loserth: Gratian, D. 16 c. 6 (*Habeo librum*) and *De pen.* D. 1 c. 1; the modern form is ours (LEDGER K04c-3, K04c-4). *Sinodus* after *capitulo VI* is the canon's rubric, *Sexta synodus* (Friedberg), so it belongs to the D. 16 reference. *Prima* is Loserth's correction: the codices read *XXXI* (91.29).
 
 [^7]: **C.** *Organisantes*: those who form sounds with their organs of speech ("sounds" supplied). *Figura celestis*: the configuration of the heavens, which disposes a body; hence *complexionis et plage* below, "complexion and region". *Accepcio personarum*: the Douay "respect of persons".
 
-[^8]: **C/T.** *Doctor* is unnamed; the nearest named authority is the lord of Armagh, cited for this point at 90.5 (LEDGER K04c-5). The example *ut quod panis figurative est corpus Christi* may be Wyclif's rather than the doctor's. D *panis est figurative* (92.17).
+[^8]: **C/T.** *Doctor* is unnamed; most likely the lord of Armagh (90.5), whose *Summa* IX.4 holds *nihil exigitur nisi ille sensus in quo omnes quatuor concordant* (Paris 1512, f. 67r–v) (LEDGER K04c-5). The example *ut quod panis figurative est corpus Christi* may be Wyclif's rather than the doctor's. D *panis est figurative* (92.17).
 
 [^9]: **T/C.** 92.23–24: ABC read *Unde sensum quem*, which C corrected to *usus ecclesie*; D *Unde sensus quem*. Loserth prints *usus ecclesie*, which construes with *quam quilibet quatuor usuum*. *Colatus*: "strained", as liquid through a cloth. For *Deus scit* C has *dominus* in the margin (92.26).
 
 [^10]: **S.** Alludes to Matt. 23:24 (DR "who strain out a gnat and swallow a camel"); not quoted, since the Latin is recast. *Colant* "strain" plays on *colunt* "cultivate" just before; D reads *colunt* here too, E *orant* (93.4).
 
-[^11]: **S.** Ecclus. 19:1 (Douay–Rheims). Gregory, *Regula pastoralis* I.3 (Loserth: *Opp.* II, 4–5; LEDGER K04c-6), quoted to the editor's italics.
+[^11]: **S.** Ecclus. 19:1 (Douay–Rheims). Gregory, *Regula pastoralis* I.3 (PL 77, 16D; Loserth: *Opp.* II, 4–5; LEDGER K04c-6), quoted to the editor's italics.
 
 [^12]: **C/T.** *Conclusio est vera*: the objection's conclusion, that we ought to follow Christ and the apostles, is granted, and the following is moved from the meal to fasting from sin. *Ieiunus a crimine*: D *anime* (93.27); E *cepit* for *sumpsit*.
 

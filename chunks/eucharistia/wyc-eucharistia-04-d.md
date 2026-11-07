@@ -64,7 +64,7 @@ And it is clear, third, that it is no obstacle but is consonant, as the [decreta
 
 [^6]: **T.** *Primogeniture* is Loserth's: the codices read *progeniture* (95.25). Cf. *primogenitus* at 94.24.
 
-[^7]: **S/T.** Chrysostom (so the Latin), *Opus imperfectum in Matthaeum*, hom. 7 (Loserth: *Opp.* VI, ed. Paris. altera, 785; LEDGER K04d-1); ABCD read *Omelia XXVIII* (96.8). *Via* echoes John 14:6.
+[^7]: **S/T.** Chrysostom (so the Latin; now pseudo-Chrysostom), *Opus imperfectum in Matthaeum*, hom. 7 on Matt. 4:18–22 (PG 56, 673–676: following Christ *ad civitatem caelestem*), paraphrased; the army image opens hom. 8, which Migne notes some copies number seventh (Loserth: *Opp.* VI, ed. Paris. altera, 785; LEDGER K04d-1); ABCD read *Omelia XXVIII* (96.8). *Via* echoes John 14:6.
 
 [^8]: **C.** *Unde ait supra*: the speaker is not expressed, and *supra* points to no passage in this chapter that gives these three causes; the nearest named author is Chrysostom. Translated as printed and flagged. The subject of *potuit* and *doceret* is the Holy Spirit.
 
