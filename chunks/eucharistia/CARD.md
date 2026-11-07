@@ -104,7 +104,7 @@ set `status: translated`; lint; report.
 ## The four error classes (Thakkar) — check every sentence
 
 1. **Terms:** GLOSSARY.md governs, one term one rendering. Tag the **first occurrence in the chunk** of
-   every §A–C term: `[accident]{g:accidens}`; a multi-word key is lower case with hyphens, `{g:corpus-christi}`, `{g:a-simili}` (lint rejects spaces). The key must exist in GLOSSARY.md. A term that looks
+   every §A–C term: `[accident]{g:accidens}`; a multi-word key is lower case with hyphens, `{g:corpus-christi}`, `{g:a-simili}` (lint rejects spaces); never nest brackets inside a tag (`[form [sounds] with]{g:k}` breaks the site): tag the bare word. The key must exist in GLOSSARY.md. A term that looks
    technical but has no row: render it sensibly, untagged, and propose it in your report.
    **CONTEXTUAL** rows hold two senses English splits: choose by context and write a **C** note at the
    first occurrence in the chunk and wherever it leans to the other sense (the dikaiosune rule,
