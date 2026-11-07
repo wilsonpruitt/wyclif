@@ -89,7 +89,7 @@ Again, according to Augustine on John, Homily 26, on this text of John 6[:56], "
 
 [^10]: **S.** John 6:56. Wyclif omits the Vulgate's *enim* (DR: "For my flesh is meat indeed: and my blood is drink indeed"); we translate his Latin, keeping *vere* "truly". The chapter is Wyclif's, the verse Loserth's.
 
-[^11]: **S/T.** Augustine, *In Iohannis evangelium tractatus* 26 (Loserth: Opp. III/2, p. 500; tr. 26.17 is our form, LEDGER K03a-2). Augustine's text, per Loserth: *in eis rebus … quae ad unum aliquid rediguntur ex multis. Namque aliud in unum ex multis granis conficitur, aliud in unum ex multis acinis confluit*. *Ex multis* (57.2) is lacking in all the manuscripts; Loserth added it ("Addidi").
+[^11]: **S/T.** Augustine, *In Iohannis evangelium tractatus* 26 *Tract.* 26.17 (PL 35, 1614; Loserth: Opp. III/2, p. 500) (LEDGER K03a-2). Augustine's text, per Loserth: *in eis rebus … quae ad unum aliquid rediguntur ex multis. Namque aliud in unum ex multis granis conficitur, aliud in unum ex multis acinis confluit*. *Ex multis* (57.2) is lacking in all the manuscripts; Loserth added it ("Addidi").
 
 [^12]: **C.** *Sensibilia per accidens*: substances are perceived not of themselves but through their accidents; the *autem* brings the minor premiss to *ideo*, hence "now".
 

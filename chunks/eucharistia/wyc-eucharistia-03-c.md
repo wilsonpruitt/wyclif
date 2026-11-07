@@ -71,9 +71,9 @@ Again, since the quantity in the consecrated host is white, round and otherwise 
 
 ## Notes
 
-[^1]: **S.** Augustine, *De doctrina christiana*, cited by Wyclif as book III "at the end"; Loserth: Opp. III/1, 63, with *De baptismo contra Donatistas* (Opp. IX, 98) and Wyclif's *Trialogus* p. 240 (LEDGER K03c-1; the passage and book to be checked, LEDGER K03c-2).
+[^1]: **S.** Augustine, *De doctrina christiana*, cited by Wyclif as book III "at the end"; Loserth: Opp. III/1, 63, with *De baptismo contra Donatistas* (Opp. IX, 98) and Wyclif's *Trialogus* p. 240 (LEDGER K03c-1). The passage is at the end of book II, not III: II.42.63 (PL 34, 64), *quidquid homo extra didicerit, si noxium est, ibi damnatur; si utile est, ibi invenitur* (LEDGER K03c-2). *De baptismo* II.3.4 (PL 43, 128) sets canonical scripture above all later bishops' letters. *Trialogus* III.31 (p. 240) holds that the writings of other doctors are not to be believed *nisi de quanto in scriptura Domini sunt fundata*..
 
-[^2]: **S/T.** The decretal *Firmiter* of the Fourth Lateran Council, *X* 1.1.1 (Loserth: Decret. Greg. IX lib. I tit. I cap. I; the modern form is ours, LEDGER K03c-3). The synod with a hundred and thirteen bishops is that of *Ego Berengarius*, *De cons.* D. 2 c. 42 (Loserth's "Cf.", LEDGER K03c-4; the number of bishops to be checked, LEDGER K03c-5). *Capitulo Firmiter* is C's reading in rasura; the manuscripts otherwise have *ergo firmiter* (62.4). ABC read *concurrunt* (62.5).
+[^2]: **S/T.** The decretal *Firmiter* of the Fourth Lateran Council, *X* 1.1.1 (Loserth: Decret. Greg. IX lib. I tit. I cap. I; the modern form is ours, LEDGER K03c-3). The synod with a hundred and thirteen bishops is that of *Ego Berengarius*, *De cons.* D. 2 c. 42 (Loserth's *Cf.*, LEDGER K03c-4). The canon (§ 1) has *coram CXIII. episcopis*, Wyclif's number here, though at 31.6 and 32.24 he has 114 (LEDGER K03c-5). *Capitulo Firmiter* is C's reading in rasura; the manuscripts otherwise have *ergo firmiter* (62.4). ABC read *concurrunt* (62.5).
 
 [^3]: **C.** *Eis … illis*: "these" are the authors of the last edition of *Firmiter*, "those" the pope and bishops of the synod.
 
@@ -103,7 +103,7 @@ Again, since the quantity in the consecrated host is white, round and otherwise 
 
 [^16]: **C.** The thought experiment: God removes the outer surface of the heaven, so the remainder has a new outermost surface; two such worlds joined at one point would give two indivisibles with nothing between, which the adversaries' account of the continuum excludes. *Sicut* is loose here ("just as", "and so").
 
-[^17]: **S/C.** Thomas: the quantity of the host as subject of the other accidents (*ST* III q. 77 a. 2, from memory, to be checked, LEDGER K03c-6). *Subdita qualitati* "set under quality": underlying it as its subject, as the side-note reads it.
+[^17]: **S/C.** Thomas: the quantity of the host as subject of the other accidents (*ST* III q. 77 a. 2 co.: the other accidents are *sicut in subiecto in quantitate dimensiva*, because sense finds something quantified that is coloured and because dimensive quantity is matter's first disposition; Wyclif's third reason, from alteration, is not Thomas's) (LEDGER K03c-6). *Subdita qualitati* "set under quality": underlying it as its subject, as the side-note reads it.
 
 [^18]: **C.** *Ipsa*: the quality. A quality is not altered part by part, so what is altered must be other than the quality, namely the quantity.
 

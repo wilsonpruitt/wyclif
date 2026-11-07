@@ -61,9 +61,9 @@ But others foolishly posit "everything ceasing is converted into everything rema
 
 [^2]: **C.** The propositions are given as quoted forms, since their sense is under discussion. The third form, denied in the first list (*ex pane fiet corpus Christi*), is the one "some" admit in the second: the Latin sets the two against each other. *Ipsum noviter generari*: *ipsum* is the body of Christ.
 
-[^3]: **S.** Thomas, *In IV Sent.* d. 11 (Loserth: Opp. X, 167; the question and article are Wyclif's "art. 2", to be checked, LEDGER K03b-1), glossing Ambrose, *De sacramentis* (book IV, to be checked, LEDGER K03b-2), as received in Gratian, *De cons.* D. 2 c. 55 *Panis est in altari* (Loserth: "cap. LV"; the modern form is ours, LEDGER K03b-3).
+[^3]: **S.** Thomas, *In IV Sent.* d. 11 q. 1 a. 4 qc. 1 ad 1, which Wyclif quotes verbatim (*quod est sub speciebus panis, primo fuit panis, et postea corpus Christi*); his *articulo II°* is wrong (Loserth: Opp. X, 167) (LEDGER K03b-1), glossing Ambrose, *De sacramentis* (IV.4.14–16, PL 16, 439B–441A: *Panis iste panis est ante verba sacramentorum; ubi accesserit consecratio, de pane fit caro Christi*) (LEDGER K03b-2), as received in Gratian, *De cons.* D. 2 c. 55 *Panis est in altari* (Loserth: *cap. LV*; the modern form is ours). The canon ends with the words Thomas expounds, *quod erat panis ante consecrationem iam corpus Christi est post consecrationem* (LEDGER K03b-3).
 
-[^4]: **S.** Peter Lombard, *Sent.* IV d. 10 (Loserth: Lib. IV dist. X, ed. Col. 1676, fol. 35; Wyclif's "c. 3" to be checked, LEDGER K03b-4). The rule that signs take the names of the things signified is Augustinian; the Latin does not name its source here.
+[^4]: **S.** Peter Lombard, *Sent.* IV d. 10 (Loserth: Lib. IV dist. X, ed. Col. 1676, fol. 35; c. 3, as Wyclif says, LEDGER K03b-4). Wyclif follows its wording closely: *tropo quodam utitur hic Aug., quo solent res significantes rerum sortiri vocabula quas significant* (PL 192, 860). So the rule that signs take the names of the things signified is the Lombard's reading of Augustine.
 
 [^5]: **C.** *Expectare motum talem*: "await", that is, stand as the subject that undergoes such a motion; bread and wine cannot, on the modern view, since they do not survive the change.
 
