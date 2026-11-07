@@ -606,6 +606,16 @@ otherwise.
 | describere | define | The verb of *descripcio* "definition". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 48.9). |
 | expositorie (of preaching scripture) | by way of exposition | Not the logicians' *expositorie* "expositorily" of the expository syllogism. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 46.4). |
 | elicere | elicit | Of an act of will or judgement. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 44.5). |
+| anichilacio; anichilare | annihilation; annihilate | The key term of ch. 3. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 03-a passim). |
+| desicio | ceasing | Kept apart from *destruccio* "destruction" and *corrupcio*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 54.25, 55.21). |
+| illusio | illusion | Kept apart from *decepcio* "deception". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 57.10, 57.24). |
+| aliquitas | somethingness | Being a something (*aliquid*). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 60.27). |
+| cedere (in) | give way (into) | Of the bread passing into the body. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 58.3, 60.9). |
+| informacio; informare | informing; inform | Of a form in its subject; not "information". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 64.13). |
+| linire; linitus | smear (on); smeared | The modern doctors' accidents "smeared on" the quantity. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 64.12, 64.29). |
+| accidens predicamentale | accident of the categories | Kept apart from the predicable *accidens*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 64.1). |
+| revera | in truth | Kept apart from *vere* "truly". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 63.4). |
+| irregulariter | irregularly | Against the rule of nature; kept apart from *irregularitas* (canonical). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 55.11, 56.15). |
 
 ## D. False friends and ordinary words that mislead
 
