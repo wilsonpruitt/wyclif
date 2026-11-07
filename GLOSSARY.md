@@ -103,6 +103,8 @@ otherwise.
 | baptiste signorum | baptizers of the signs | Not "Baptists". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 81.29). |
 | concomitanter | concomitantly | Of the body present with the blood by concomitance; cf. *gracia concomitancie*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 81.23–25). |
 | divinitus | divinely | The pair of *humanitus* "humanly". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 84.19). |
+| accepcio personarum | respect of persons | The Douay phrase. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 92.15). |
+| dies artificialis | the artificial day | Sunrise to sunset, against the natural day. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 95.2). |
 
 ## B. Lordship, law, office
 
@@ -631,6 +633,12 @@ otherwise.
 | armatura | armament | Both weapon and armour. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 78.6). |
 | extense loquendo | speaking in an extended sense | Cf. *large / stricte loquendo*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 82.15). |
 | esse situale / intencionale / potenciale | situal / intentional / potential being | The modes of the body's being. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 84.8 ff.). |
+| sensus (of words) | meaning | Kept apart from *sentencia (verborum)* "sense" (Wilson's row). The bodily *sensus* and *sensus literalis / misticus* stay "sense". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 89.22, 04-c, 04-d). |
+| interpolatus; interpolacio | interrupted; interruption | Of words spoken with pauses. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 89.4, 89.18). |
+| famosius | as best known | The adverb of *famosior*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 90.15). |
+| quintimembris | fivefold | Cf. *trimembris*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 91.11). |
+| methonomatice | metonymically | Beside *autonomatice* "by antonomasia". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 97.19). |
+| organisare | form (sounds) with the organs | Of speech. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 92.9). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1046,3 +1054,4 @@ otherwise.
 | cognacio (family) | kindred | Seth's line apart from Cain's; kept apart from *cognacio* "kinship" (with Christ). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 42.14). |
 | pius pater | loving father | *pius* of a father: not "pious". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 42.27). |
 | ex tibi dubio; ex sibi dubio | for all you know; for all he knows | Idiom: not "from doubt". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 66.15, 70.25). |
+| plaga | region | Of the earth; not "wound" or "plague". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 92.14). |
