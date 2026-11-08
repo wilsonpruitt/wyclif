@@ -729,6 +729,14 @@ otherwise.
 | simultas adequacionis / inmediacionis | simultaneity of adequacy / of immediacy | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.9–10). |
 | principative | principatively | Beside *principaliter*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.21). |
 | situaliter | situally | The adverb of *esse situale*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.2). |
+| evum | aeviternity | The measure of angels, between time and eternity. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 255.9 ff.). |
+| evitas | aeveity | Kept apart from *evum* "aeviternity". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 258.20). |
+| vicissitudo | alternation | Of discrete angelic time. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 251.5, 255). |
+| mora | abiding | Kept apart from *duracio* "duration" and *diuturnitas* "length". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 257–258). |
+| punctale (noun) | punctual | A point-like thing. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 253.10). |
+| humidum cibale | the moisture of food | Beside the *humidum* rows. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 248.1). |
+| argumentum temptativum | tentative argument | Aristotle's *peirastic* argument. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 256.4). |
+| creancia | creating | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 256.18). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1157,3 +1165,4 @@ otherwise.
 | cilba; cilliba | board | Loserth's *rectius*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 231.30). |
 | corulus columpnaris | columnar hazel-rod | The illustrative stick. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 242.24). |
 | ioculacio | jesting | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.25). |
+| precavicio | precaution | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 249.10). |
