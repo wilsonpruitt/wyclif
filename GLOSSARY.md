@@ -129,6 +129,8 @@ otherwise.
 | invinacio | invination | Beside *inpanacio* "impanation". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 221.20). |
 | proditorius seductor | traitorous seducer | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 223.25). |
 | immolacio | immolation | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 225.2). |
+| glossa; glossator | gloss; glossator | The ordinary gloss on the canon law and its authors. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 07-j passim). |
+| inpanans | the impanator | The agent noun beside *inpanacio*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 228.20). |
 
 ## B. Lordship, law, office
 
@@ -715,6 +717,11 @@ otherwise.
 | diffinitive (of presence) | definitively | Of being in a place definitively, not circumscriptively. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 216.4). |
 | sensus tropicus | tropical meaning | As *sensus* (of words) "meaning". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 217.22). |
 | contentive / causaliter / subiective / obiective | by way of containing / causally / subjectively / objectively | The modes of being in the sacrament. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 219.17–22). |
+| verba adiectiva | adjectival verbs | Grammar: set against the substantive verb *est*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 230.22). |
+| multiplicacio corporis | multiplication of a body | The subject of ch. 8. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 232.5). |
+| predicatum infinitum / finitum | infinite / finite predicate | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 235.29). |
+| demultiplicare | demultiply | The reverse of *multiplicare*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 235.1). |
+| qualitas secunda | second quality | Beside *qualitas prima*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 236.11). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1139,3 +1146,5 @@ otherwise.
 | ineptus | inept | Kept apart from *indispositus* "unfit". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 188.28). |
 | exsufflare | blow out | The exorcism gesture. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 189.25). |
 | rima | chink | Wyclif's figure for a loophole. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 216.21). |
+| corea | ring-dance | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 234.2). |
+| cilba; cilliba | board | Loserth's *rectius*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 231.30). |
