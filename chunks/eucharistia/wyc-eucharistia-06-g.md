@@ -72,7 +72,7 @@ And as far as morals are concerned, we honour this sacrament little, since that 
 
 [^3]: **C.** The *protestacio*: a solemn offer to be corrected, not a defiance.
 
-[^4]: **C.** *Usus* is also the term for a church's liturgical Use; the regional spread Wyclif gives (Canterbury province, Lincoln, Wales and Ireland) suggests the play, and *libret* ("weigh down") plays on *ponderositas*. Rendered "use" throughout (LEDGER K06g-1).
+[^4]: **C.** *Usus* is also the term for a church's liturgical Use; the regional spread Wyclif gives (Canterbury province, Lincoln, Wales and Ireland) suggests the play (Lincoln and Bangor were named Uses beside Sarum, York and Hereford: BCP 1549, preface "Of the Service of the Church"), though each *usus* here is a teaching about the host, not a rite; and *libret* ("weigh down") plays on *ponderositas*. Rendered "use" throughout (LEDGER K06g-1).
 
 [^5]: **S/T.** Loserth: "more rightly" the chapter *Si per negligenciam*, *De cons.* D. 2 c. 27 (modern form ours), gloss *ad v.* *In terram*: "Say that heaviness still remains with the other accidents, and yet nothing there is heavy" (LEDGER K06g-2). The gloss has the imperative *Dic quod*; the print's *Dicit, inquit, … dicit … dicit* may answer it. At 184.6–7 ABC lack *cum sacramentum … ponderosum*, which C adds in the margin by another hand; the inference that follows is Wyclif's, not the gloss's.
 
@@ -86,7 +86,7 @@ And as far as morals are concerned, we honour this sacrament little, since that 
 
 [^10]: **C.** *In specie* is taken in the logician's sense (in kind, as a colour passes from one species of colour to another), not the sacramental species. *Exspectare intencionem et remissionem*: admit of being intensified and remitted.
 
-[^11]: **S.** Loserth: *Decretales* Gregory IX, book 3, tit. 41, cap. 4 (*Cum Marthe*), modern form ours (LEDGER K06g-3).
+[^11]: **S.** Loserth: *Decretales* Gregory IX, book 3, tit. 41, cap. 4 (*Cum Marthe*), modern form ours; the chapter is in fact *X* 3.41.6, as Loserth himself gives it at 171.16. There the added water *vini saporem assumit* (Friedberg II, 640): the decretal speaks of flavour where Wyclif speaks of colour (LEDGER K06g-3).
 
 [^12]: **C.** *Afficiunt qualitati quam faciunt* is compressed: they are attached to the quality that each makes the sacrament to be. D reads *afficiuntur* (186.14).
 

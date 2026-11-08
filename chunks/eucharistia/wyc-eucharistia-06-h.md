@@ -43,9 +43,9 @@ From these things it is believed [with probability]{g:probabiliter} that the [bi
 
 [^3]: **C.** *Sentencia* (CONTEXTUAL): "teaching", the position taught, here and throughout the chunk.
 
-[^4]: **S.** Wyclif's ascription to Rabanus of a book *De corpore et sanguine Domini*; which work he means is to be checked (LEDGER K06h-2). The second quotation (*Maluit enim Dominus …*) is from the same chapter of *De universo* (LEDGER K06h-3).
+[^4]: **S.** Wyclif's ascription to Rabanus of a book *De corpore et sanguine Domini*; which work he means is not certain; the likeliest is the chapter *De sacramento corporis et sanguinis Domini* of Rabanus's *De clericorum institutione* (I.31, PL 107, 316B–321C), which carries the same teaching and the same *Maluit* sentence; cf. *Rabanus De Sacramento Altaris* at 292.5 (LEDGER K06h-2). The second quotation (*Maluit enim Dominus …*) is from the same chapter of *De universo* (V.11, PL 111, 135B), which reads *in pastum eorum redigi* where the print has *in partem*; Wyclif's gloss *rediguntur in partem hominis* shows his text read *partem* (LEDGER K06h-3).
 
-[^5]: **S.** Loserth: Augustine in *De cons.* D. 2 c. 60 (*Corpus*), modern form ours (LEDGER K06h-4); John Damascene, *De fide orthodoxa* IV.13 (LEDGER K06h-5).
+[^5]: **S.** Loserth: Augustine in *De cons.* D. 2 c. 60 (*Corpus et sanguinem Christi dicimus illud, quod ex fructibus terrae acceptum … rite sumimus*, from *De Trinitate* III.4), modern form ours (LEDGER K06h-4); John Damascene, *De fide orthodoxa* IV.13 (LEDGER K06h-5).
 
 [^6]: **S.** Deut. 32:17 (Vulgate *novi recentesque venerunt*; DR "that were newly come up"), said there of new gods; Wyclif's *novos recentesque qui venerunt* is translated, with the Vulgate's sense.
 
