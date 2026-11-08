@@ -21,7 +21,7 @@ status: translated
 
 > [p. 29] Premissa ista communi sentencia de isto venerabili sacramento restat scrutari quid ipsum sit realiter. In qua materia sunt tres vie: prima videtur esse sentencia sancti Thome cum suis sequacibus quod Eukaristia [p. 30] sit magnitudo de genere quantitatis, quia cum oportet ipsum esse accidens, quantitas autem est primum accidens post genus substancie, oportet illud sacramentum sensibile esse quantitatem continuam permanentem qua panis perante formaliter fuit quantus.
 
-This common [teaching]{g:sentencia}[^1] about this venerable [sacrament]{g:sacramentum} having been set out first, it remains to scrutinize what it is [really]{g:realiter}. In this matter there are three ways: the first seems to be the teaching of St Thomas with his followers, that the eucharist [30] is a magnitude of the genus of [quantity]{g:quantitas}, because, since it must be an [accident]{g:accidens}, and quantity is the first accident after the genus of [substance]{g:substancia}, that [perceptible]{g:sensibilis} sacrament must be the continuous permanent quantity by which the [bread]{g:panis} was before formally [quantified]{g:quantus}.[^2]
+This common [teaching]{g:sentencia}[^1] about this venerable [sacrament]{g:sacramentum} having been set out first, it remains to scrutinize what it is [really]{g:realiter}. In this matter there are three ways: the first seems to be the teaching of St Thomas with his followers, that the Eucharist [30] is a magnitude of the genus of [quantity]{g:quantitas}, because, since it must be an [accident]{g:accidens}, and quantity is the first accident after the genus of [substance]{g:substancia}, that [perceptible]{g:sensibilis} sacrament must be the continuous permanent quantity by which the [bread]{g:panis} was before formally [quantified]{g:quantus}.[^2]
 
 ## ¶2 · 30.6–31.20
 
@@ -33,7 +33,7 @@ The second [opinion]{g:opinio} seems to be that of Scotus, who disproves the pri
 
 > [p. 31] Tercio confirmatur idem per hoc quod in prima revocacione sua protestatus fuerat sub hiis verbis: Consencio autem sancte Romane ecclesie et apostolice sedi, et ore ac corde profiteor de sacramentis dominice mense eandem fidem me tenere quam dominus et venerabilis papa Nicholaus et hec sancta sinodus auctoritate evangelica et apostolica tenendam tradidit michique confirmavit. Et post confitetur sentenciam supradictam. Ex quibus colligitur quod sentenciam [p. 32] illam receperat a papa et sinodo confitendam; et patet quod olim fuit sensus ecclesie, ut de articulo fidei quod panis et vinum remanent post consecracionem Eukaristie sicut ante.
 
-Thirdly, the same is confirmed by this, that in his first revocation he had [declared solemnly]{g:protestari} in these words: "And I consent to the holy Roman church and the apostolic see, and with mouth and heart I profess that I hold, concerning the sacraments of the Lord's table, the same faith which the lord and venerable [pope]{g:papa} Nicholas and this holy synod have delivered to be held by evangelical and apostolic [authority]{g:auctoritas} and have confirmed to me."[^12] And afterwards he confesses the teaching mentioned above. From which it is gathered that he had received that teaching [32] from the pope and the synod, to be confessed; and it is clear that it was once the mind of the church, as of an [article of faith]{g:articulus-fidei}, that the bread and wine remain after the consecration of the eucharist as before.
+Thirdly, the same is confirmed by this, that in his first revocation he had [declared solemnly]{g:protestari} in these words: "And I consent to the holy Roman church and the apostolic see, and with mouth and heart I profess that I hold, concerning the sacraments of the Lord's table, the same faith which the lord and venerable [pope]{g:papa} Nicholas and this holy synod have delivered to be held by evangelical and apostolic [authority]{g:auctoritas} and have confirmed to me."[^12] And afterwards he confesses the teaching mentioned above. From which it is gathered that he had received that teaching [32] from the pope and the synod, to be confessed; and it is clear that it was once the mind of the church, as of an [article of faith]{g:articulus-fidei}, that the bread and wine remain after the consecration of the Eucharist as before.
 
 ## ¶4 · 32.5–32.9
 
@@ -45,7 +45,7 @@ From which it is gathered that one or the other of these churches erred in faith
 
 > [p. 32] Sed constat quoad hoc tercium, quod equa racione verum foret quod panis et vinum remanent post consecracionem in Eukaristia, sicut umquam fuit verum vel credendum; ideo cum equivocacio in materia fidei non excusat, videtur quod altera ecclesia erravit.
 
-Now it is evident as to this third [way], that by equal reason it would be true that the bread and wine remain after the consecration in the eucharist, as ever it was true or to be believed; therefore, since [equivocation]{g:equivocacio} in a matter of faith does not excuse, it seems that one or the other church erred.
+Now it is evident as to this third [way], that by equal reason it would be true that the bread and wine remain after the consecration in the Eucharist, as ever it was true or to be believed; therefore, since [equivocation]{g:equivocacio} in a matter of faith does not excuse, it seems that one or the other church erred.
 
 ## ¶6 · 32.16–32.32
 

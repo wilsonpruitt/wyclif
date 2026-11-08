@@ -68,7 +68,7 @@ Again, the faith of scripture would perish, since it could be denied that a reve
 [^10]: **T/C.** *Ponit enim esse* (79.16) is the print: the adversary posits it as the case. C reads *potuit enim*, "for it could have been", and D *est*. *Non foret talis homo* is taken as "such a man would not be [a man]", by the conclusion at 77.24–28 that neither A nor B is an animate substance.
 [^11]: **C/T.** *Licet nature* (79.26): on this view the revelation would be granted only to the compound of spirit and accident that bears the name "man" equivocally. D reads *sed*, "but to a nature".
 [^12]: **T.** *Perfectam* (80.1) agrees with nothing in the sentence; ABCD read *perfecta*, with *natura*. The English is the same either way.
-[^13]: **C.** *Noticie humane instabili ... deficere*: *deficere* with the dative, "to fail" human knowledge. The sacrament is taken as the eucharist, in which the senses perceive bread.
+[^13]: **C.** *Noticie humane instabili ... deficere*: *deficere* with the dative, "to fail" human knowledge. The sacrament is taken as the Eucharist, in which the senses perceive bread.
 
 ## Transcription notes
 

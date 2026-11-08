@@ -45,7 +45,7 @@ But how far God efficaciously helps the [worshipper]{g:cultor} on account of suc
 
 > [p. 180] Sed tercio obicitur per hoc quod iuxta dicta omnes pertinaciter dogmatisantes inpossibile in hoc sacramento sunt expresse heretici, omnes heretici sunt [p. 181] fugiendi et finaliter occidendi: ergo tota ista secta in scola eukaristie est taliter castiganda, quod si fieret, foret nimis magna perturbacio in ecclesia.
 
-But thirdly [it is objected, by appeal to]{g:obicitur-per} this: that according to what has been said, all who [pertinaciously]{g:pertinaciter} [teach as dogma]{g:dogmatisare} the impossible in this sacrament are expressly heretics; all heretics are [181] to be shunned and finally to be killed: therefore this whole [sect]{g:secta} in the school of the eucharist is to be chastised in such a way; and if this were done, there would be an exceedingly great disturbance in the church.[^9]
+But thirdly [it is objected, by appeal to]{g:obicitur-per} this: that according to what has been said, all who [pertinaciously]{g:pertinaciter} [teach as dogma]{g:dogmatisare} the impossible in this sacrament are expressly heretics; all heretics are [181] to be shunned and finally to be killed: therefore this whole [sect]{g:secta} in the school of the Eucharist is to be chastised in such a way; and if this were done, there would be an exceedingly great disturbance in the church.[^9]
 
 ## ¶6 · 181.4–182.8
 

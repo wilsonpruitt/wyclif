@@ -66,18 +66,18 @@ question `[verify]`. No complete English translation is known to us `[verify]`.
 
 > [p. 1] Sentencia tractatus de Eukaristia in compendio sic habetur: Capitulum primum premittens distinccionem trimembrem de rebus huius sacramenti solvit tria argumenta paganica. Secundo recitat tria argumenta fidelium et dissolvit. Et ponendo distinccionem inter esum corporalem et spiritualem obicit quod homo videt corpus Christi in sacramento oculo corporali, et solvit. Secundo obicitur per hoc quod multi sancti doctores crediderant quod sensierunt corpus Domini in Eukaristia; et solvendo narrat quomodo finguntur miracula et quomodo populus ex ignorancia consequencie facte de miraculis est seductus. Tercio obiciendo per hoc miraculum narratum a beato Gregorio dicit quod per hoc non docetur quod hostia sit corpus Christi nec quod ille de quo fingitur miraculum propterea fuit sanctus. Et probat tripliciter quod homo non videt corpus Christi in Eukaristia oculo corporali et discurrit per alios sensus deducendo ad inconveniens, concesso quod corpus Domini sacramentaliter senciatur. Ulterius probat quadrupliciter ex testimonio sanctorum et legum ecclesie quomodo corpus Domini manet invisibiliter in hostia consecrata. Finaliter obicit contra hoc tripliciter per leges ecclesie quod corpus [p. 2] Domini est ibi sensibile. Et dissolvit, primo per decretum pape quomodo agendum est effuso sanguine de calice, secundo per confessionem Beringarii, et tercio per decretum Jeronimi; et solvit per duplicem maneriem predicandi.
 
-The [teaching]{g:sentencia}[^1] of the treatise on the eucharist is held in compendium thus. The first
+The [teaching]{g:sentencia}[^1] of the treatise on the Eucharist is held in compendium thus. The first
 chapter, premising a three-membered distinction concerning the things of this sacrament,
 resolves three pagan arguments. Second, it recites three arguments of the faithful and resolves
 them.[^2] And, laying down a distinction between bodily and spiritual eating, it objects that a man
 sees the body of Christ in the sacrament with the bodily eye, and resolves. Second, [it is objected,
 by appeal to]{g:obicitur-per} this: that many holy doctors had believed that they perceived the
-body of the Lord in the eucharist; and in resolving it relates how miracles are feigned, and how
+body of the Lord in the Eucharist; and in resolving it relates how miracles are feigned, and how
 the people have been led astray through ignorance of the [inference]{g:consequencia}[^3] drawn from
 miracles. Third, objecting by appeal to the miracle related by blessed Gregory,[^4] it says that
 this does not teach that the host is the body of Christ, nor that he of whom the miracle is feigned
 was holy on that account. And it proves in three ways that a man does not see the body of Christ in
-the eucharist with the bodily eye, and runs through the other senses, deducing [the argument] to an
+the Eucharist with the bodily eye, and runs through the other senses, deducing [the argument] to an
 [absurdity]{g:inconveniens},[^5] granted that the body of the Lord is perceived sacramentally. Further
 it proves in four ways, from the testimony of [the saints]{g:sancti} and of the laws of the [church]{g:ecclesia},
 how the body of the Lord remains invisibly in the consecrated host. Finally it objects against this
@@ -109,7 +109,7 @@ first an example from the [logic]{g:loyca} of blessed Bernard, who grants that "
 heaven and earth were crucified".[^13] Second, it [shows]{g:ostendere} from scripture, Gen. 6,[^14] that it is not
 lawful for us to draw out such conclusions; and, expounding scripture, it teaches according to what
 measure the sayings of the doctors ought to be granted, and how one is to speak in the perilous [3]
-matter of the eucharist. Third and last, it objects that the newer church posits
+matter of the Eucharist. Third and last, it objects that the newer church posits
 [transubstantiation]{g:transsubstanciacio}, and the ancient church, equally or more
 [authentic]{g:autenticus}, denies it. And it pursues at length [the question] of the name of transubstantiation, and
 makes clear which church is rather to be believed.
@@ -142,7 +142,7 @@ unlike the being that he has in the other sacraments, and how this sacrament exc
 three different ways. Second, [as a main head]{g:principaliter}, raising three doubts, it pursues
 the first, [4] which asks about the truth of the sacramental words: when the proposition is true,
 and why it ought not to be granted that "every creature is Christ", and how no form of words is
-necessarily required for the consecration of the eucharist, and how the four evangelists vary, and
+necessarily required for the consecration of the Eucharist, and how the four evangelists vary, and
 how the church in many places gives a fifth way of varying, and how, the rites being set aside, one
 is to attend to the sense.[^18] Third, as a main head, it objects in three ways and resolves
 [the objections]: first, how we do not follow Christ in consecrating and taking the host while

@@ -75,7 +75,7 @@ otherwise.
 | membrum | member | The card's key ruling, now a row (with *caput*). Ruled 2026-10-02. |
 | vicarius Christi | vicar of Christ | The card's ruling, now a row. Ruled 2026-10-02. |
 | elemosinans | almsgiver | The participle of *elemosinare*: the donor. Ruled 2026-10-02 (*Eccl.* 13). |
-| sacramentum (the eucharist); sacramentum altaris | sacrament; the sacrament of the altar | The plain sense, against the Augustinian row (*Incarn.*). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.3, 3.30). |
+| sacramentum (the Eucharist); sacramentum altaris | sacrament; the sacrament of the altar | The plain sense, against the Augustinian row (*Incarn.*). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.3, 3.30). |
 | hostia; hostia consecrata | host; consecrated host | Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.11, 1.22). |
 | panis / vinum | bread / wine | Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 2.8). |
 | calix | chalice | The Douay word (1 Cor. 10:16). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 2.3). |
@@ -124,7 +124,7 @@ otherwise.
 | suscepcio (sacramenti) | receiving | Of the sacrament; kept apart from *accepcio* "reception" and from *suscepcio* of the nature "taking-up". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 179.20–23). |
 | usus (ecclesie) | use | A church's customary practice or way of speaking, and by play its liturgical Use. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 183.25 ff.). |
 | sanctificacio | sanctification | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 189.6). |
-| eukaristia | the Eucharist | PROVISIONAL capital (Wilson to rule; the volume has ~110 *Eucharist*, 36 *eucharist* in the English, not yet conformed); kept apart from *sacramentum (altaris)*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 196.29). |
+| eukaristia | the Eucharist | Capital as the sacrament's name; the adjective *eucharistic* lower case. Ruled 2026-11-07 (Wilson, "i agree"; conformed through the volume); kept apart from *sacramentum (altaris)*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 196.29). |
 | secta signorum | the sect of the signs | Wyclif's name for the *moderni*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 220.13). |
 | invinacio | invination | Beside *inpanacio* "impanation". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 221.20). |
 | proditorius seductor | traitorous seducer | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 223.25). |
@@ -979,7 +979,7 @@ otherwise.
 | gentilitas | paganism | Kept apart from *infidelitas* "heathenism, unbelief". Ruled 2026-10-07 (*Pot. pape* 29.26). |
 | pseudochristus | false christ | Matt. 24:24 (DR "false Christs"). Ruled 2026-10-07 (*Pot. pape* 28.32). |
 | Ardmacanus; dominus Ardmacanus | Armachanus; the lord of Armagh | Richard FitzRalph. The bare name stays "Armachanus" (as in *De ecclesia*); with *dominus* "the lord of Armagh" (card). Ruled 2026-10-07. |
-| conficere | to consecrate (the eucharist) | Of the priest at the altar; otherwise "to make up, compose". Ruled 2026-10-07 (*Pot. pape* 11.20). Beside *consecrare* (*consecrat et conficit*) "confect", so the pair stays two. Ruled 2026-11-07 (Wilson, "confect works"; *Euch.* 16.10). |
+| conficere | to consecrate (the Eucharist) | Of the priest at the altar; otherwise "to make up, compose". Ruled 2026-10-07 (*Pot. pape* 11.20). Beside *consecrare* (*consecrat et conficit*) "confect", so the pair stays two. Ruled 2026-11-07 (Wilson, "confect works"; *Euch.* 16.10). |
 | licencia | licence | Permission granted; never "power". Wyclif usually sets it against *potestas*, but can also identify the two where power is defined as a grant (*illa licencia est potestas*, *Pot. pape* 21.29): render "licence" either way and let the argument show which. Ruled 2026-10-07 (*Pot. pape* 41.21); qualified 2026-10-12 (close-out R1).|
 | primatus | primacy | Peter's and the pope's; *preeminencia* stays "preeminence". Ruled 2026-10-07 (*Pot. pape* ch. 3). |
 | primitas | firstness | Being first in order, as against *primatus*. Ruled 2026-10-07 (*Pot. pape* ch. 3). |
