@@ -53,16 +53,16 @@ And the [sacrament of the altar]{g:sacramentum-altaris} can be called, as I have
 ## Notes
 
 [^1]: **C.** *Qualitas prima*: a primary quality of the elements (hot, cold, wet, dry), from which colour was held to result; if anything were informed by whiteness, it would be that.
-[^2]: **S/T.** Averroes on heaviness as substantial form or the form nearest to it; place not given (to be checked, LEDGER K07c-1). ABCD *Averrois*; D *principans*; E *ut homo* for *et homo*. *Colorate* here is literal "coloured", not the GLOSSARY *colorate* "with colour enough".
-[^3]: **S.** Colour as light incorporated in the diaphanous: the Aristotelian definition (*De sensu* 3, 439b; to be checked, LEDGER K07c-2).
+[^2]: **S/T.** Averroes on heaviness as substantial form or the form nearest to it; place not found (LEDGER K07c-1). ABCD *Averrois*; D *principans*; E *ut homo* for *et homo*. *Colorate* here is literal "coloured", not the GLOSSARY *colorate* "with colour enough".
+[^3]: **S.** Colour as light incorporated in the diaphanous: the formula found in Grosseteste (*De colore*: *color est lux incorporata perspicuo*; cited from secondary sources, not read here at first hand), resting on Aristotle, *De sensu* 3, where light is the colour of the transparent (439a) and colour the limit of the transparent in a bounded body (439b) (LEDGER K07c-2).
 [^4]: **C.** *Non est color*: "it is no colour", no plausible ground (GLOSSARY *color*), here in a passage on colour proper.
-[^5]: **S/T.** The ordinary gloss on Gratian, *De cons.* D. 2; Loserth refers back to p. 184 (LEDGER K07c-3, editor; the canon to be checked). C reads *neque ponderositas*, "nor heaviness" (198.15–16), which would deny both; the print is translated.
+[^5]: **S/T.** The ordinary gloss on Gratian, *De cons.* D. 2; Loserth refers back to p. 184 (LEDGER K07c-3, editor): the canon is c. 27 *Si per negligenciam*, the gloss at the word *In terram* (Loserth 184 n. 1). C reads *neque ponderositas*, "nor heaviness" (198.15–16), which would deny both; the print is translated.
 [^6]: **C.** *Conficere* "consecrate" (GLOSSARY): whether the sacrament was consecrated in leavened or unleavened bread is one more of its varying accidents.
 [^7]: **C/T.** *Et non huius*: Loserth notes *huiusmodi* is better, "and not such"; the clause *quia secundum alias partes …* has no verb of its own and is taken as "because [it is so] according to other parts". Words may be lost (see the Latin doubts).
 [^8]: **C.** *Figura* is shape here, not the sacramental figure of the GLOSSARY row; *potencia anime* a power of the soul (*potencia*, CONTEXTUAL row: "power"). The point is that an accident cannot be the object of worship.
 [^9]: **C/T.** *Omnia … ipsum dicunt*: all things "speak" God, as signs of him (cf. *dicere* "signify", GLOSSARY, of a term). ABCD read *alia magis* (C has *aliqua* in the margin); D *sacramenta* for *sacra*.
 [^10]: **C.** *Corpus* here is the body of the bread that the presbyter blesses, not the body of Christ. ABD *vocare*; ABC *ritu* for *rite*.
-[^11]: **S.** Augustine on an accident's not being able to be of itself; place not given (to be checked, LEDGER K07c-4).
+[^11]: **S.** Augustine on an accident's not being able to be of itself; place not given; most likely *Soliloquia* II.13.23 (PL 32, 896), *ut id quod non esset nisi in ipso esset, etiam cum ipsum non fuerit possit esse*, one of the three places Wyclif gives in ch. 3 (72.4–73.4) (LEDGER K07c-4).
 [^12]: **C/G.** *Ad sensum equivocum et tropicum*: the predication *panis est corpus Christi* holds in an equivocal and tropical meaning (cf. *predicacio tropica* "tropical predication"), not identically. D reads *dominus* for *Deus* (199.30).
 
 ## Transcription notes

@@ -122,9 +122,9 @@ Again, since that sacrament is visible, it is either whiteness or white; now it 
 [^14]: **G.** *Ydemptitas generalis, specialis et numeralis*: identity of genus, of species (cf. *ydemptitas specifica* "identity of species") and numerical identity (*ydemptitas numeralis*).
 [^15]: **C/T.** *Corpus Christi negatur fore ille panis*: the identification may make the bread the body, but the body is not said to become that bread. ABCD omit *fore* after *videtur* (196.12); D reads *ydemptifice* at 196.11.
 [^16]: **C.** *Baptisare terminos*: to give terms new names, as at a christening; cf. the "baptizers of the signs" (*baptiste signorum*, 81.29).
-[^17]: **S.** Wyclif's *De universalibus* (*Tractatus de universalibus*); place not given (LEDGER K07b-1).
+[^17]: **S.** Wyclif's *De universalibus* (*Tractatus de universalibus*); *Miscellanea philosophica* II, ed. Dziewicki (1905); place not found, but cf. c. 16 (105), the same neuter/masculine distinction: *equus non est unus cum deo … sed equus est unum cum deo* (LEDGER K07b-1).
 [^18]: **C.** The minor is "each of these is Christ" (196.32–197.1): it is proved from Berengar's oath that the body is perceptible in the sacrament and is the sacrament.
-[^19]: **S/G.** The oath *Ego Berengarius* (Rome, 1059), Gratian *De cons.* D. 2 c. 42 (to be checked, LEDGER K07b-2). *Protestacio* takes its row "declaration"; here it is Berengar's sworn confession, not Wyclif's offer to retract. ABC read *et protestacione* (197.4).
+[^19]: **S/G.** The oath *Ego Berengarius* (Rome, 1059), Gratian *De cons.* D. 2 c. 42 (LEDGER K07b-2). *Protestacio* takes its row "declaration"; here it is Berengar's sworn confession, not Wyclif's offer to retract. ABC read *et protestacione* (197.4).
 [^20]: **C.** *Per exspiracionem*: by breathing out, i.e. evaporation of the consecrated wine or the drying of the host; D *per exspisacionem*.
 [^21]: **C.** *Virtus* in the sense of a faculty, "power" (GLOSSARY): the abstracting power that discerns whiteness in the abstract after sense has seen the white thing.
 
