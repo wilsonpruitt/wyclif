@@ -66,6 +66,8 @@ def lint(path, gkeys):
         k = re.sub(r'\s+', '-', raw.strip().lower())
         if k not in gkeys and k.split('-')[0] not in gkeys:
             errs.append(f'glossary tag {{g:{k}}} has no GLOSSARY row')
+    for m in re.finditer(r'\[([^\]\[{}]*\[[^\]{}]*\][^\]\[{}]*)\]\{g:', text):  # site cannot render a bracket inside a tag
+        errs.append(f'nested brackets inside a glossary tag: {m.group(0)[:60]!r} (tag the bare word; page markers outside)')
     if fm.get('status', '').strip().split()[0:1] in (['done'], ['publish']) and '[verify' in s:
         errs.append('status is done/publish but a [verify] is open')
     # scaffold placeholders (chapters.py) must all be gone once a chunk leaves `draft`
