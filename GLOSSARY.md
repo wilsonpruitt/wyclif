@@ -108,6 +108,9 @@ otherwise.
 | consecracio | consecration | The noun of *consecrare*; see *confeccio*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 99–100). |
 | curia Avinonica | the Avignon curia | Beside *curia romana*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 107). |
 | commenta scripture | commentaries on scripture | Kept apart from *commentum (mendacii)* "fabrication". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 116.28). |
+| verba sacramentalia conversiva | sacramental words that convert | The *moderni*'s words of consecration as effecting conversion. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 121.1). |
+| concomitancia | concomitance | With *concomitanter*, *gracia concomitancie*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 121.27). |
+| provecciores doctores | more advanced doctors | Beside *moderni doctores*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 130.3). |
 
 ## B. Lordship, law, office
 
@@ -656,6 +659,11 @@ otherwise.
 | relacio ydemptitatis | relation of identity | The grammatical relative of identity. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 116.6). |
 | analogum | analogous term | Beside *analogicari*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 118.25). |
 | questio si est / quid est | the question whether it is / what it is | *Post. An.* II.1. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 119.18). |
+| coefficiencia | co-efficiency | Joint causation. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 121.29). |
+| dogmatisare | teach as dogma | Of the *moderni*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 120.13, 124.2). |
+| universitas sua (God's) | his universe | Beside *universitas creaturarum* "the totality of creatures". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 124.31, 129.16). |
+| bonificacio | bettering | Of the bread made better, not destroyed. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 129.14). |
+| mistice | mystically | A mode adverb, one word; kept apart from *figurative*, *tropice*, *sacramentaliter*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 128.24). |
 
 ## D. False friends and ordinary words that mislead
 
