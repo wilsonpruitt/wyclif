@@ -121,6 +121,9 @@ otherwise.
 | nominacio (baptismatis) | naming (of our baptism) | Wyclif's figure for the name the faithful bear. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 172.21). |
 | paplardus | paplard | A hypocrite (OF *papelard*); kept as the word. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 178.4). |
 | cultor; cultus (sacramenti) | worshipper; worship (of the sacrament) | Beside *cultus Dei* "worship of God" and *cultores accidencium*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 177.3–9). |
+| suscepcio (sacramenti) | receiving | Of the sacrament; kept apart from *accepcio* "reception" and from *suscepcio* of the nature "taking-up". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 179.20–23). |
+| usus (ecclesie) | use | A church's customary practice or way of speaking, and by play its liturgical Use. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 183.25 ff.). |
+| sanctificacio | sanctification | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 189.6). |
 
 ## B. Lordship, law, office
 
@@ -694,6 +697,8 @@ otherwise.
 | signum nature | instant of nature | The scholastic priority without time; kept apart from *signa* "signs". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.9). |
 | inpastare | knead | The grains kneaded into one bread. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.12). |
 | generancia | begetting | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.25). |
+| ponderacio | weighing | Beside *ponderositas* "heaviness". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 183.17). |
+| cifra | cipher | A sign standing for nothing by itself. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 188.29). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1113,3 +1118,7 @@ otherwise.
 | denarius (the coin) | penny | Kept apart from the number *denarius* "the ten". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 114.20). |
 | pictacia | patchwork | BCD *pictancia*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 150.15). |
 | adopcio (positus in adopcione) | choice | The root sense *adoptare* "choose"; not "adoption". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 175.27, 176.17). |
+| cordatus | stout-hearted | Not "wise" (C note where it leans). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 180.6). |
+| pertinaciter | pertinaciously | Keeps "obstinate" for *protervus*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 180.29). |
+| ineptus | inept | Kept apart from *indispositus* "unfit". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 188.28). |
+| exsufflare | blow out | The exorcism gesture. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 189.25). |
