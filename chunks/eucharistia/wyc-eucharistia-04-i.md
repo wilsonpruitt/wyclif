@@ -34,7 +34,7 @@ Let the catholic, I say, distinguish between the natural goodness of the [host]{
 
 [^2]: **C.** *Per se* (CONTEXTUAL): "of itself", the logical sense, not the spatial "apart". *Ipse* in the next clause is the man (Iscariot, the wicked presbyter), set against the inanimate thing.
 
-[^3]: **T/C/S.** The manuscripts read *super ista* for *sed ista* (114.15), "beyond these [it] has efficacy and goodness"; Loserth's *sed ista* is translated, with *ista* the sacrament's goodness beyond its nature. At 114.19 *super aliis* is C's correction; ABE read *sed aliis*, D *sed et aliis*. The "laws that seem contrary" are not named (LEDGER K04i-1).
+[^3]: **T/C/S.** The manuscripts read *super ista* for *sed ista* (114.15), "beyond these [it] has efficacy and goodness"; Loserth's *sed ista* is translated, with *ista* the sacrament's goodness beyond its nature. At 114.19 *super aliis* is C's correction; ABE read *sed aliis*, D *sed et aliis*. The "laws that seem contrary" are not named; presumably Gratian C. 1 q. 1 c. 77 (also *De cons.* D. 2 c. 72 § 2), *nihil a bono maius, nihil a malo minus perficitur sacerdote*, against the canons forbidding the mass of a fornicating priest (D. 32 cc. 5–6) (LEDGER K04i-1).
 
 [^4]: **C.** *Sicut enim … et …* has no main clause; it is taken as "as … so too", the unjust man's injury answering the just man's profit. *Sibi* is the world. ABCD read *a quo* for *a qua* (114.23).
 

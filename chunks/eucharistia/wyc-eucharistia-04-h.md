@@ -81,11 +81,11 @@ From which it seems that [not only]{g:nedum} the mass but the host is better in 
 
 ## Notes
 
-[^1]: **S/T.** Loserth notes that the sentence does not stand in the chapter named, and refers to *De cons.* D. 2 c. 30; the right chapter, as C reads (over an erasure, another hand), is *Si per negligenciam*, c. 27, with the ordinary gloss at the word *In terram* (modern form ours). D and E read *Sacerdotum* (LEDGER K04h-1).
+[^1]: **S/T.** Loserth notes that the sentence does not stand in the chapter named, and refers to *De cons.* D. 2 c. 30; the right chapter, as C reads (over an erasure, another hand), is *Si per negligenciam*, c. 27, with the ordinary gloss at the word *In terram* (modern form ours), which Loserth quotes at 183.1: *Dic quod ponderositas adhuc manet cum accidentibus aliis, et tamen nihil est ibi ponderosum*. D and E read *Sacerdotum* (LEDGER K04h-1).
 
 [^2]: **C.** The abstract *ponderositas* "heaviness" against the concrete *ponderosum* "heavy [thing]": the gloss gives the host the quality and denies that it is the thing that has it. The next sentence turns on the concrete term.
 
-[^3]: **C/S.** *Ad quod arguunt*: they bring arguments bearing on the remaining of the bread, without disproving it; "the false side" is the side Wyclif holds false. The canonists who recite the remaining among the opinions are not named here (LEDGER K04h-2).
+[^3]: **C/S.** *Ad quod arguunt*: they bring arguments bearing on the remaining of the bread, without disproving it; "the false side" is the side Wyclif holds false. The canonists who recite the remaining among the opinions are not named here; they are the ordinary glosses cited at 107.22–108.1, e.g. that on *X* 3.41.6 *Cum Marthe* at *transubstantiatis*: *Tertia dicit quod remanet substantia panis et vini et sub eadem specie est corpus Christi* (Rome 1582) (LEDGER K04h-2).
 
 [^4]: **C.** *Sentencia* (CONTEXTUAL): the position taught, that the bread remains; "teaching", not a judicial sentence. *Ego Berengarius* is *De cons.* D. 2 c. 42 (modern form ours) (LEDGER K04h-3).
 
@@ -101,7 +101,7 @@ From which it seems that [not only]{g:nedum} the mass but the host is better in 
 
 [^10]: **C/S.** *Mittendi*: a play on *missa* and *mittere* "send". *Post et ante*: before and after the consecration, which the presbyter does not make. *In suo nomine congregantur* recalls Matt. 18:20 ("gathered together in my name, there am I in the midst of them"). D reads *mens equivocatur*; ABCD *in de quidditate*.
 
-[^11]: **S/T.** The decrees are not named; the best-known is the canon *Nullus missam audiat presbyteri quem scit concubinam indubitanter habere* (Gratian D. 32 c. 5; modern form ours) (LEDGER K04h-4). At 113.15 E reads *sacerdotis* for *facientis*; at 113.20 ABCE read *inquit* for *inquam*.
+[^11]: **S/T.** The decrees are not named; the best-known is the canon *Nullus missam audiat presbyteri quem scit concubinam indubitanter habere* (Gratian D. 32 c. 5, Nicholas II, repeated by Alexander II in c. 6; modern form ours) (LEDGER K04h-4). At 113.15 E reads *sacerdotis* for *facientis*; at 113.20 ABCE read *inquit* for *inquam*.
 
 ## Transcription notes
 
