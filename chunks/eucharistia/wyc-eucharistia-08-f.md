@@ -51,7 +51,7 @@ As to the laws of men, it is clear that it has now so far favoured them that it 
 
 > [p. 254] Quantum ad leges ecclesie, patet quod contradicit decreto Nicholai IIⁱ de eukaristia. Sed de indulgenciis sine fundamento scripture vel causa concedit quod episcopus Avinonicus potest meritum supererogatum capere a beatis, ad votum distribuere discolis sine fine. Quis ergo crederet tali viro in isto triplici devio et similibus tanquam testi?
 
-As to the [laws of the church]{g:leges-ecclesie}, it is clear that it contradicts the decree of Nicholas II on [the Eucharist]{g:eukaristia}.[^11] And on [indulgences]{g:indulgencie}, without foundation of scripture or cause, it concedes that the bishop of Avignon[^12] can take [supererogated]{g:supererogare} merit from the blessed [and] distribute it at will to the [froward]{g:discoli} without end. Who then would believe such a man as a witness, in this threefold straying and the like?
+As to the [laws of the church]{g:leges-ecclesie}, it is clear that it contradicts the decree of Nicholas II on [the Eucharist]{g:eukaristia}.[^11] But on [indulgences]{g:indulgencie}, without foundation of scripture or cause, it concedes that the bishop of Avignon[^12] can take [supererogated]{g:supererogare} merit from the blessed [and] distribute it at will to the [froward]{g:discoli} without end. Who then would believe such a man as a witness, in this threefold straying and the like?
 
 ## ¶7 · 255.1–255.23
 
