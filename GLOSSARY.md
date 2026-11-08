@@ -737,6 +737,13 @@ otherwise.
 | humidum cibale | the moisture of food | Beside the *humidum* rows. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 248.1). |
 | argumentum temptativum | tentative argument | Aristotle's *peirastic* argument. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 256.4). |
 | creancia | creating | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 256.18). |
+| intuicio | intuition | Beside *visio intuitiva*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 259.20). |
+| quando (the category) | the when | Beside *ubi* "where". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 260.23). |
+| quandalitas | whenness | The abstract of *quando*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 268.6). |
+| eviternitas | eviternity | Kept apart from *evum* "aeviternity" and *evitas* "aeveity". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 266.19). |
+| punctalitas | punctuality | Beside *punctale*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 269.25). |
+| linea girativa | spiral line | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 263.24). |
+| diuturnitas | length | Of duration; apart from *duracio* and *mora*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 263.17). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1166,3 +1173,5 @@ otherwise.
 | corulus columpnaris | columnar hazel-rod | The illustrative stick. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 242.24). |
 | ioculacio | jesting | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.25). |
 | precavicio | precaution | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 249.10). |
+| sollempnior (of doctors) | more eminent | The medieval sense of *sollempnis*; not "more solemn". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 262.18). |
+| sectivagus | sect-roving | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 266.5). |

@@ -2143,3 +2143,17 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | K08g-1 | eucharistia-08-g / n5 | Thomas *In IV Sent.* d. 11 q. 1 a. 3 (Wyclif's *forma panis* not in Loserth's quotation) | verified | 2026-11-07. Read in snp4011: *In IV Sent.* d. 11 q. 1 a. 3 qc. 2, ad 2 in the Parma numbering (Loserth's "Solutio"). Loserth's quoted words are there. The same reply ends *in toto tempore praecedenti erat panis, praeter ultimum instans, in quo est corpus Christi*. So the first instant of the body is Thomas's. Only *forma panis* is Wyclif's: Thomas says *panis*. (see `chunks/eucharistia/_verify/RESULTS-22.md`) |
 | K08g-2 | eucharistia-08-g / n7 | in everlasting things being and being possible do not differ (*Phys.* III.4 203b30?) | verified | 2026-11-07. *Phys.* III.4, 203b30, read in the Hardie–Gaye translation: "for in the case of eternal things what may be must be" (ἐνδέχεσθαι γὰρ ἢ εἶναι οὐδὲν διαφέρει ἐν τοῖς ἀϊδίοις). The Greek was not read on Perseus. (see `chunks/eucharistia/_verify/RESULTS-22.md`) |
 | K08g-3 | eucharistia-08-g / n12 | Scotus against discrete angelic time (*Ord.* II d. 2 p. 1 q. 4?) | verified | 2026-11-07. Scotus, *Ordinatio* II d. 2 p. 1 q. 4, n. 158, against Henry's discrete time: *Videtur enim concedere magnam multitudinem temporum … quilibet angelus habeat suum tempus discretum … immo sequitur quod in quolibet angelo erunt duo tempora discreta*, for intellection and for volition. N. 159 adds that the "nows" of discrete time would differ in species for intellections of different species. Both are Wyclif's *simul forent multa tempora … distincta in specie*. Read in the Logic Museum transcription of the Vatican text; Wadding was not consulted. (see `chunks/eucharistia/_verify/RESULTS-22.md`) |
+| K08h-1 | eucharistia-08-h / n1 | *in verbo / in proprio genere* = Augustine's morning and evening knowledge, *De Gen. ad litt.* IV | to-verify | PL 34 |
+| K08h-2 | eucharistia-08-h / n8 | time follows the first movable: *Phys.* IV.14 223b18–21, with Averroes | to-verify | check |
+| K08h-3 | eucharistia-08-h / n10 | Aristotle and Averroes deny a beginning of time: *Phys.* VIII.1 | to-verify | check |
+| K08h-4 | eucharistia-08-h / n12 | Augustine *Conf.*, *Opp.* I p. 210 | editor | Loserth 261.13 |
+| K08h-5 | eucharistia-08-h / n12 | the potter's wheel at *Conf.* XI.23.29, not XII as Wyclif | to-verify | PL 32 |
+| K08h-6 | eucharistia-08-h / n13 | nothing is where it was not unless moved or converted into: cf. *ST* III q. 75 a. 2 | to-verify | as Kprolb-6 |
+| K08i-1 | eucharistia-08-i / n9 | definition of accident: *Cat.* 2, 1a24–25 | to-verify | check |
+| K08i-2 | eucharistia-08-i / n13 | Boethius *Consol.* V pr. 6 | editor | Loserth 266.7 |
+| K08i-3 | eucharistia-08-i / n13 | Boethius has *tota simul et perfecta possessio*; Wyclif lacks *et perfecta* | to-verify | PL 63 |
+| K08i-4 | eucharistia-08-i / n17 | time the number of motion by before and after: *Phys.* IV.11 219b1–2 | to-verify | as K08f-1 |
+| K08i-5 | eucharistia-08-i / n19 | *quando est quod ex adiacentia temporis relinquitur*: *Liber sex principiorum* c. 4 | to-verify | check |
+| K08j-1 | eucharistia-08-j / n9 | place as the first immovable: *Phys.* IV.4 212a20–21 | to-verify | check |
+| K08j-2 | eucharistia-08-j / n10 | Loserth italicises *Et sic videmus dominum nostrum in omni vicissitudine creature*; no source given | to-verify | find the source |
+| K08j-3 | eucharistia-08-j / n13 | *sicut dictum est de rege*: an earlier passage of the treatise | to-verify | locate |
