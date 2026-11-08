@@ -94,25 +94,25 @@ Hence some call impanation that by which the bread becomes the flesh of Christ, 
 [^4]: **C.** The rejoinder's antecedent (the bread Christ took became his body) is what the modern doctors deny; the faithful man grants the consequent in the tropical meaning and denies numerical identity. ABC omit *si* before *replicatur*; D reads *post consecracionem*.
 [^5]: **G.** *Virtus* is the bread's power (the sense of *virtus* as a faculty), not a moral virtue; Loserth's side-note says "virtue".
 [^6]: **C.** *Species lucis*: a species of light, the optical *species* by which light propagates, founded in its source; not the sacramental *species* (¶10).
-[^7]: **S.** Ambrose on the conversion of the bread into the body (*De sacramentis* IV, *De mysteriis* 9 are the likely places); to be checked (LEDGER K07h-1).
-[^8]: **S.** Thomas on the body's presence *per conversionem panis*: *ST* III q. 75 aa. 2–4 is the likely place; to be checked (LEDGER K07h-2).
+[^7]: **S.** Ambrose on the conversion of the bread into the body (*De sacramentis* IV.4.14–16, PL 16, 440–441: *ut sint quae erant, et in aliud commutentur*; cf. *De mysteriis* 9.52, PL 16, 407) (LEDGER K07h-1).
+[^8]: **S.** Thomas on the body's presence *per conversionem panis*: *ST* III q. 75 a. 2 co. (*non possit aliter corpus Christi incipere esse de novo in hoc sacramento nisi per conversionem substantiae panis in ipsum*), cf. a. 4 co. (LEDGER K07h-2).
 [^9]: **S.** "Gathered … in his name": Matt. 18:20 ("gathered together in my name"). ABE read *conversetur* for *conversis* (219.15).
 [^10]: **T.** *Non corporaliter*: C reads *corporaliter* in the text and *formaliter* in the margin (219.19).
 [^11]: **C.** *Nota fidelitas*: a known point of fidelity, i.e. of the faith held by the faithful; the bracketed word supplies what the abstract implies. D reads *ydemptificacionem* for *ydemptitatem* (219.25).
 [^12]: **C.** The pope is "created" with a new name at his enthronement and "creates" those he promotes: a change of status on the same essence, which the superiors already call more than a transubstantiation. D reads *tronisacione*.
-[^13]: **S.** Ambrose, *De paenitentia* II; Loserth: "cap. VII (?)", "very loosely quoted". To be checked (LEDGER K07h-3).
+[^13]: **S.** Ambrose, *De paenitentia* II; Loserth: "cap. VII (?)", "very loosely quoted". The words are not found in the work (II c. 7 is PL 16, 510–512, on Lazarus); the nearest is I.17.95 (PL 16, 496), where the flesh's *interitus* means *non consummatam absumptionem carnis … sed castigationem* (LEDGER K07h-3).
 [^14]: **C.** *Conversus*: the man converted to Christ, a member of him, is said to be Christ himself; the alternative construal "that Christ himself is converted" does not fit the Ambrose quoted. E reads *fit*, and *sit* in the margin (220.6).
-[^15]: **S.** Augustine, *De paenitentia*: Loserth's reference is *Opp.* V, 2, 1363 (a sermon on penance in the Maurist vol. V); the work and place are to be checked (LEDGER K07h-4).
+[^15]: **S.** Augustine, *De paenitentia*: Loserth's reference is *Opp.* V, 2, 1363 (a sermon on penance in the Maurist vol. V); it is *Sermo* 351.2.2, *De utilitate agendae poenitentiae* I (PL 39, 1537), verbatim: *nullus transit ad Christum, ut incipiat esse quod non erat, nisi eum poeniteat fuisse quod erat* (LEDGER K07h-4).
 [^16]: **G/C.** *Conveniencia* "agreement" (its row): this meaning agrees with the signists' own principles, which is how the argument runs; Loserth's side-note reads it as "more fitting". *Secta signorum*: the sect of the signs; ABC read *huius signorum*.
 [^17]: **C.** *Inconveniencium*: absurdities in argument, the CONTEXTUAL row's first sense.
 [^18]: **C.** *Quam* takes up *transsubstanciacionem*: the signists posit the change with no subject that remains through it, which Wyclif gives the bread's essence. ABCE read *subiectari*.
 [^19]: **C.** *In quinque evangelistis*: the four gospels with Paul (1 Cor. 11:24), who relates the institution. *Veritatem* is Christ.
-[^20]: **S.** The decretal is not named; Innocent III's *Cum Marthae* (X 3.41.6), cited at 223.32, is the likely one. To be checked (LEDGER K07h-5).
-[^21]: **S.** Augustine's determination that an accident cannot be without a subject is not cited by place here; to be checked (LEDGER K07h-6).
+[^20]: **S.** The decretal is not named; Innocent III's *Cum Marthae* (X 3.41.6), cited at 223.32, is the likely one: there the added wine is *accidentibus prioris vini commixtum corpori, quod sub eis latet*, and *cedit quippe natura miraculo* (Friedberg II, 640) (LEDGER K07h-5).
+[^21]: **S.** Augustine's determination that an accident cannot be without a subject is not cited by place here; it is that of ch. 3 (72.3–73.18): *De quantitate animae* 4.6, *Soliloquia* II.12.22–13.23 and *Ep.* 187.6.18 (LEDGER K07h-6).
 [^22]: **C.** *Existente* agrees with *corpore*: the bread's body is not present in the faithful man's consideration. *Ad quod* most likely takes up that act of consideration's object, Christ's body in heaven (next sentence); it may also be read of the *actus*. D reads *hostia sacramenti* at 221.9.
 [^23]: **C.** *Circumpalpitat* (from *palpare*): gropes around. *Rimam vacuam*: an empty chink, the figure of 216.21; ABDE read *vacuandum*.
 [^24]: **S/C.** John 1:14, "the Word was made flesh"; Wyclif's *caro fit Deus* turns the verse round, as the impanators' analogy needs (flesh into God, bread into flesh).
-[^25]: **S.** Prosper, *Liber sententiarum ex operibus Augustini*; the sentence is to be checked (LEDGER K07h-7).
+[^25]: **S.** Gratian's inscription of c. 48, *Augustinus in libro sententiarum Prosperi*; the sentence is not in Prosper's *Sententiae* (PL 51) but is Lanfranc's, *De corpore et sanguine Domini* 10 (PL 150, 421A: *Hoc est namque quod dicimus … sacrificium scilicet Ecclesiae duobus confici, duobus constare … sicut Christi persona … constat et conficitur Deo et homine*) (LEDGER K07h-7).
 [^26]: **S/G.** *De cons.* D. 2 c. 48 *Hoc est* (Loserth: *Decreti tertia pars*, dist. II, cap. XLVIII; the modern form is ours) (LEDGER K07h-8). *Conficitur* here is "is made up", the general sense of *conficere*, not "consecrated". ABC read *sacramentum* (221.25) and *visibile* (221.26); D omits *et*, E reads *et Deo* (221.29).
 
 ## Transcription notes

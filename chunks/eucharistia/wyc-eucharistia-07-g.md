@@ -85,7 +85,7 @@ Nor does it follow that whoever says such a meaning will say holy scripture, sin
 
 ## Notes
 
-[^1]: **S.** Augustine on God's appearing to bodily eyes "in this flesh", the case discussed in the pages before; Loserth's references at 213.3 (*Opp.* V, 34, 313; VIII, 866) stand above this chunk. The work and place are to be checked (LEDGER K07g-1).
+[^1]: **S.** Augustine on God's appearing to bodily eyes "in this flesh", the case discussed in the pages before; Loserth's references at 213.3 (*Opp.* V, 34, 313; VIII, 866) stand above this chunk. The place is *Sermo* 6.1, *De eo quod apparuit Dominus Moysi in rubo* (PL 38, 59–60): *Oculis autem corporalibus sanctorum si quando Deus voluit apparere … per creaturam visibilem atque sensibilem, quantum ista carne sentiri potest, apparuit* (LEDGER K07g-1).
 [^2]: **T/C.** *noticia sensitivo*: the adjective does not agree with *noticia* (feminine); translated as *sensitiva*, the print kept. *Visio intellectus appropriata spiritui* is the intellect's vision fitted to a spirit, which the beast lacks.
 [^3]: **C.** *De visione hominis*: the seeing of a man (the man seen), set against the seeing of an angel. *Ipse sit realiter ipsum corpus*: the man seen is really his body, so that seeing the body is seeing him; the angel is not his assumed body.
 [^4]: **S.** Wyclif names Abraham and reads *iuxta eum* where the Vulgate has *Cumque elevasset oculos … prope eum*, and stops before *de ostio tabernaculi*; translated from his Latin, the Douay wording kept where they agree.
@@ -96,10 +96,10 @@ Nor does it follow that whoever says such a meaning will say holy scripture, sin
 [^9]: **C.** *Preceperunt* is *praeceperunt*, "took beforehand, anticipated", not "commanded": the fathers met this argument in advance.
 [^10]: **C.** *Singulariter* here is grammatical number: Abraham addresses the three men as one Lord. Neither "alone" nor "in a singular way" of the CONTEXTUAL row; "in the singular" is the grammarians' sense.
 [^11]: **G.** *Figura* here is the shape of the assumed body, beside its motion and voice, not *figura* the sign of ¶9.
-[^12]: **S.** Gregory, *Homiliae in Evangelia* X (Loserth: *Opp.* I, 1468); the place in the homily is to be checked (LEDGER K07g-2).
+[^12]: **S.** Gregory, *Homiliae in Evangelia* X (Loserth: *Opp.* I, 1468); the place is *Hom.* 10.1 (PL 76, 1110C): *Judaeis, tanquam ratione utentibus, rationale animal, id est angelus, praedicare debuit*; the assumption *in unitatem persone* is Wyclif's inference, not Gregory's (LEDGER K07g-2).
 [^13]: **C.** *Racionale animal* of the angel stands so in the print; the inference turns on the angel's taking the body *in unitatem persone*, so that the body seen "would be" the angel's person. *Foret* is subjunctive: Wyclif reports the reason without asserting it.
 [^14]: **C.** *Fiet idem cum corpore Christi … sibi ydemptificabitur*: the objection's chain is "become the body", "become the same with the body", "be identified with it". Wyclif's answer (07-h ¶1) breaks the second link.
-[^15]: **T/S.** The print breaks off at *distinccione…*; A has a gap in the manuscript here and E omits *distinccione*. Loserth compares Peter Lombard, *Sent.* IV d. 21 ("Cf. … dist. XXI", read on the plate n287); whether Wyclif meant d. 21 or the conversion of the bread in d. 11 (cf. 07-i ¶1) is to be checked (LEDGER K07g-3).
+[^15]: **T/S.** The print breaks off at *distinccione…*; A has a gap in the manuscript here and E omits *distinccione*. Loserth compares Peter Lombard, *Sent.* IV d. 21 ("Cf. … dist. XXI", read on the plate n287); but d. 21 treats sins forgiven after this life and does not fit. The place is d. 11 c. 1 (PL 192, 861), where the conversion by which *haec essentialiter fiat illa* is the view *cui sensui praemissae auctoritates consentire videntur*; Loserth's XXI is probably a slip for XI (LEDGER K07g-3).
 [^16]: **C.** *Rime*: chinks, crevices (*rima*); Wyclif's figure for loopholes through which a false worship slips in, taken up at 221.11 (*per aliam rimam vacuam*) and in *rimantur* (221.31). D reads *experte sunt*.
 [^17]: **S.** The first heresy of the disciples about this sacrament: John 6:61–67, the disciples who went back (see ¶9).
 [^18]: **S.** Baptism "in the name of the Lord Jesus": Acts 8:16 (cf. 19:5); "in the name of the Trinity": Matt. 28:19. ABDE omit *Christi*.

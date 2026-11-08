@@ -100,7 +100,7 @@ But finally it is argued that it follows from what has been said that all who ob
 
 [^15]: **T.** "[Afterwards]": Loserth's apparatus proposes *Rectius: et post amiserant* (154.16), which the print *et amiserant* needs to construe; the subject is most likely the church after the *baptiste signorum* came in. D reads *subintroerunt*, *vocarunt* (154.14–16); AB omit *sacra* (154.14).
 
-[^16]: **S.** *De cons.* D. 2 c. 55 *Panis est in altari usitatus ante verba sacramentorum* (Ambrose, the source of *usitatum*), and c. 48 *Hoc est quod dicimus* (Augustine; Loserth's reference at 154.21; the form is ours; LEDGER K05j-3, K05j-4). DE read *Ambrosii* (154.16–17); E omits *eciam* (154.17), reads *quomodo panis*, omits *est* (154.18–19).
+[^16]: **S.** *De cons.* D. 2 c. 55 *Panis est in altari usitatus ante verba sacramentorum* (Ambrose, the source of *usitatum*), and c. 48 *Hoc est quod dicimus* (under Augustine's name — the text is in fact Lanfranc's, *De corpore et sanguine Domini* 10 (PL 150, 421A; LEDGER K07h-7); Loserth's reference at 154.21; the form is ours; LEDGER K05j-3, K05j-4). DE read *Ambrosii* (154.16–17); E omits *eciam* (154.17), reads *quomodo panis*, omits *est* (154.18–19).
 
 [^17]: **S.** 1 Cor. 10:16. E reads *dum intelligunt* (154.23).
 

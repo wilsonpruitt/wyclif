@@ -73,7 +73,7 @@ But on this it is to be noted that Anselm and the other [saints]{g:sancti} labou
 
 [^8]: **C/T.** *Tantum benefacit* is taken as "benefits only" by heaven and by virtual presence, so that the accidental presence adds no good to the universe; *tantum* could be "so much". *Bonificacio* "bettering", untagged. C omits *limitate* (129.19).
 
-[^9]: **S/T.** Gratian, *De cons.* D. 2 c. 48 *Hoc est* (Loserth; the form is ours), under Augustine's name (*in libro sententiarum Prosperi*): *sacrificium ecclesiae duobus confici, duobus constare … sacramento, et re sacramenti* (PL 187, 1754) (LEDGER K05d-3). *Quod autem aggregatum*: no verb is expressed; "is" is supplied. E reads *quin sine* (129.23), *anteea* (129.25); B *Sicut* (129.25); B omits *vel ut … unum* (129.27–28); ABCE vary at *ex illa … aggregatum* (129.28–30; the apparatus is cut off).
+[^9]: **S/T.** Gratian, *De cons.* D. 2 c. 48 *Hoc est* (Loserth; the form is ours), under Augustine's name (*in libro sententiarum Prosperi*) — the text is in fact Lanfranc's, *De corpore et sanguine Domini* 10 (PL 150, 421A; LEDGER K07h-7): *sacrificium ecclesiae duobus confici, duobus constare … sacramento, et re sacramenti* (PL 187, 1754) (LEDGER K05d-3). *Quod autem aggregatum*: no verb is expressed; "is" is supplied. E reads *quin sine* (129.23), *anteea* (129.25); B *Sicut* (129.25); B omits *vel ut … unum* (129.27–28); ABCE vary at *ex illa … aggregatum* (129.28–30; the apparatus is cut off).
 
 [^10]: **C.** *Tercio replicatur*: the third rejoinder of the chapter, after Scotus and the Lombard; *provecciores doctores*, "more advanced doctors", untagged. *Sentencia* (CONTEXTUAL) "teaching".
 
