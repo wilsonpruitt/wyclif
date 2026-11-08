@@ -118,6 +118,9 @@ otherwise.
 | pena talionis | penalty of retaliation | The accuser's penalty in canon law. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 156.4). |
 | corpus dominicum | the Lord's body | Kept apart from *corpus Domini* "the body of the Lord" and *corpus Christi*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 158.31, 165.3). |
 | in circulo (of the host) | in a round | The round form of the host. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.17). |
+| nominacio (baptismatis) | naming (of our baptism) | Wyclif's figure for the name the faithful bear. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 172.21). |
+| paplardus | paplard | A hypocrite (OF *papelard*); kept as the word. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 178.4). |
+| cultor; cultus (sacramenti) | worshipper; worship (of the sacrament) | Beside *cultus Dei* "worship of God" and *cultores accidencium*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 177.3–9). |
 
 ## B. Lordship, law, office
 
@@ -1109,3 +1112,4 @@ otherwise.
 | plaga | region | Of the earth; not "wound" or "plague". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 92.14). |
 | denarius (the coin) | penny | Kept apart from the number *denarius* "the ten". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 114.20). |
 | pictacia | patchwork | BCD *pictancia*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 150.15). |
+| adopcio (positus in adopcione) | choice | The root sense *adoptare* "choose"; not "adoption". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 175.27, 176.17). |
