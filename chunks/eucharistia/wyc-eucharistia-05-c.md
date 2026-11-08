@@ -69,11 +69,11 @@ Again, the holy [pope]{g:papa} Nicholas with many bishops [makes clear]{g:declar
 
 [^6]: **C/T.** Three reasons, numbered "first … and thirdly": the second is the clause on the active powers (*sicut et omnes potencie agendi*). *Potencia* (CONTEXTUAL) "powers" of acting, not potency. *Universitas sua*: God's universe, untagged. E reads *primo* (124.27); E omits *Deus non* (124.31).
 
-[^7]: **S/T.** Gratian, *De cons.* D. 2 c. 58 (Loserth; the form is ours), from Augustine (*Sermo* 272); to be checked (LEDGER K05c-1). *Testificacio sanctorum*: D reads *testimonium* (125.3). CE read *Qui manducat* (125.6); ABC *est sanguis* (125.9).
+[^7]: **S/T.** Gratian, *De cons.* D. 2 c. 58 (Loserth; the form is ours), the words quoted from Augustine, *Sermo* 272 (PL 38, 1246–1247); the canon's opening *Qui manducant* is *Sermo* 131.1 (LEDGER K05c-1). *Testificacio sanctorum*: D reads *testimonium* (125.3). CE read *Qui manducat* (125.6); ABC *est sanguis* (125.9).
 
-[^8]: **S/T.** Gratian, *De cons.* D. 2 c. 79 (Loserth; the form is ours), under Hilary's name; to be checked (LEDGER K05c-2). *Autem* is Loserth's correction: ABDE read *aut*, C omits (125.12).
+[^8]: **S/T.** Gratian, *De cons.* D. 2 c. 79 (Loserth; the form is ours), under Hilary's name (Friedberg: *dum panis et uinum extra uidetur*; Wyclif's *natura*, on which he argues at 126.29–127.1, is not in the canon) (LEDGER K05c-2). *Autem* is Loserth's correction: ABDE read *aut*, C omits (125.12).
 
-[^9]: **S/T.** *Ego Berengarius*, Gratian, *De cons.* D. 2 c. 42 (Loserth; the form is ours); Nicholas II, Rome 1059, to be checked (LEDGER K05c-3). Wyclif reports the decree's sense in indirect speech. AB omit *multis*, C adds it in the margin (125.15); E *Beringarius*, CE omit *Et* (125.19).
+[^9]: **S/T.** *Ego Berengarius*, Gratian, *De cons.* D. 2 c. 42 (Loserth; the form is ours); Nicholas II, Rome 1059 (Friedberg: *Ex Concilio Romano hab. a. 1059*) (LEDGER K05c-3). Wyclif reports the decree's sense in indirect speech. AB omit *multis*, C adds it in the margin (125.15); E *Beringarius*, CE omit *Et* (125.19).
 
 [^10]: **R/C.** The schism of 1378: Urban VI at Rome and Robert of Geneva, Clement VII, at Avignon (LEDGER K05c-4). *Diffinicio*, Urban's determination: what it was is not said. D omits *nostri* (125.20), reads *Avinonie* (125.22), omits *dignus* (125.23).
 
@@ -83,11 +83,11 @@ Again, the holy [pope]{g:papa} Nicholas with many bishops [makes clear]{g:declar
 
 [^13]: **C/T.** *Res huius sacramenti*: here Christ, as the relative *qui* shows, with the church's union with him the thing figured. ABE read *signare* "signify" for *figurare* (126.22). AB read *post consecracionem benediccionem*, C struck *consecracionem* (126.19); ACD *panem illum* (126.21).
 
-[^14]: **S/T.** The decretists' rule, of the gloss on *De cons.* D. 2: to be checked (LEDGER K05c-5). C has *regulatur* in the margin in another hand (126.25); ABCE *intelligunt* (126.27); C *substanciam vel naturam* (126.28).
+[^14]: **S/T.** The decretists' rule, of the ordinary gloss on *De cons.* D. 2; Loserth quotes it on c. 42 at *dentibus*: *omnia referas ad species ipsas* (foot 34.22); the gloss itself is not checked (LEDGER K05c-5). C has *regulatur* in the margin in another hand (126.25); ABCE *intelligunt* (126.27); C *substanciam vel naturam* (126.28).
 
-[^15]: **S/T.** Hilary: ¶4 (Loserth: "vide supra pag. 125"). Jerome: Gratian, C. 24 q. 3 c. 27 (Loserth; the form is ours) (LEDGER K05c-6). B reads *a proprietate* for *appropriate* (126.29); A *flagigat* (127.3).
+[^15]: **S/T.** Hilary: ¶4 (Loserth: "vide supra pag. 125"). Jerome: Gratian, C. 24 q. 3 c. 27 (Loserth; the form is ours), from Jerome on Gal. 5: *Quicunque … aliter scripturam intelligit, quam sensus Spiritus sancti flagitat … haereticus appellari potest* (PL 187, 1306) (LEDGER K05c-6). B reads *a proprietate* for *appropriate* (126.29); A *flagigat* (127.3).
 
-[^16]: **C/S/T.** *Sentencia* here is the sense given to words (GLOSSARY *sentencia verborum*). Augustine's quotation: ¶3. That he often asserts that an accident cannot be without a subject: to be checked (LEDGER K05c-7). D reads *auderet* "would not dare" for *oneraret* (127.10). DE *inhers* for *iners*, B omits *est* (127.4); D *ut quando* (127.4–5).
+[^16]: **C/S/T.** *Sentencia* here is the sense given to words (GLOSSARY *sentencia verborum*). Augustine's quotation: ¶3. That he often asserts that an accident cannot be without a subject: see the places of ch. 3 (72.4–73.4), *De quantitate animae* 4 (quantity) and *Soliloquia* II.13.23 and *Ep.* 187.6.18 (*Tolle ipsa corpora qualitatibus corporum, non erit ubi sint*) (LEDGER K05c-7). D reads *auderet* "would not dare" for *oneraret* (127.10). DE *inhers* for *iners*, B omits *est* (127.4); D *ut quando* (127.4–5).
 
 ## Transcription notes
 

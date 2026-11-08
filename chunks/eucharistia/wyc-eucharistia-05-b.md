@@ -67,9 +67,9 @@ Further, as to the sacramental words, it seems probable to [the lord of Armagh]{
 
 [^1]: **C/T.** *Istos recentes*: the recent doctors answered in part 1 (Scotus and the *doctores signorum*); the older persons are the Lombard and those who recite him. *Sensus scripture* "the meaning of scripture" (GLOSSARY *sensus*, of words). D reads *supra* for *super*, and *scienciores* (in the margin *ssuores*) (119.27).
 
-[^2]: **S/T.** Peter Lombard, *Sent.* IV d. 10 c. 1 (Loserth: "dist. X, on the heresy of others who say the body of Christ is not on the altar except in a sign"); the quotation is to be checked (LEDGER K05b-1). "And the rock was Christ": 1 Cor. 10:4. All the manuscripts read *mencientes* "lying" (120.2–3) for the print's *mecientes* "measuring", which is translated. ABC read *ibi corpus esse corpus Christi*, D *ibi esse corpus* (120.8–9); C omits *et … signo* (120.10); E has *verbis Domini* for *verbis Veritatis* (120.11).
+[^2]: **S/T.** Peter Lombard, *Sent.* IV d. 10 c. 1 (Loserth: "dist. X, on the heresy of others who say the body of Christ is not on the altar except in a sign"); the quotation matches PL 192, 859, whose *metientes* "measuring" supports the print (LEDGER K05b-1). "And the rock was Christ": 1 Cor. 10:4. All the manuscripts read *mencientes* "lying" (120.2–3) for the print's *mecientes* "measuring", which is translated. ABC read *ibi corpus esse corpus Christi*, D *ibi esse corpus* (120.8–9); C omits *et … signo* (120.10); E has *verbis Domini* for *verbis Veritatis* (120.11).
 
-[^3]: **S.** Thomas and Bonaventure, each on *Sent.* IV d. 10, naming this opinion a heresy: to be checked (LEDGER K05b-2).
+[^3]: **S.** Thomas and Bonaventure, each on *Sent.* IV d. 10 (q. 1 a. 1): Thomas, *contrarium dicere est haeresis*; Bonaventure calls it *error pessimus* (p. 1 a. un. q. 1) (LEDGER K05b-2).
 
 [^4]: **C/T.** *Sentencia* (CONTEXTUAL): "teaching", the position Wyclif holds, which the Lombard's text seems to condemn; *incidimus in caribdim* is the proverb of Scylla and Charybdis. *Modicam evidenciam facit assercio*: the doctors' bare assertion weighs little, so their grounds are weighed; *pro qua … faciunt*, "tell in favour of" it. ABC read *docet* for *decet* (120.19); E *Deum*.
 
@@ -79,7 +79,7 @@ Further, as to the sacramental words, it seems probable to [the lord of Armagh]{
 
 [^7]: **C/T.** "The last chapter": chapter 4. *Non obviat* (GLOSSARY *obviare* "meet"): the objection does not touch Wyclif's teaching. The two heads announced here are taken up in ¶4 and in ¶5–¶6. AB omit *dicendum est* (121.6).
 
-[^8]: **S/T.** Augustine, *Enchiridion* 52 (Loserth: Opp. VI p. 215); to be checked (LEDGER K05b-3). *Spiritualis* (genitive singular) stands after the last of the three nouns; C reads *spiritualiter*, "spiritually" (121.19). ABCD read *figura* for *figure* (121.18). D omits *ut* and *non … signo* (121.14–15).
+[^8]: **S/T.** Augustine, *Enchiridion* 53 (Wyclif's LII; Loserth: Opp. VI p. 215), PL 40, 257: *ita gestum est, ut his rebus non mystice tantum dictis, sed etiam gestis configuraretur vita christiana* (LEDGER K05b-3). *Spiritualis* (genitive singular) stands after the last of the three nouns; C reads *spiritualiter*, "spiritually" (121.19). ABCD read *figura* for *figure* (121.18). D omits *ut* and *non … signo* (121.14–15).
 
 [^9]: **G/C.** *Viantes* "those on the road": the wayfarers of this life, against the homeland, where signs cease. *Gradus*: degrees of efficacy among signs, untagged (the GLOSSARY row is of belief). D reads *figure* for *figuris* (121.22).
 
@@ -87,9 +87,9 @@ Further, as to the sacramental words, it seems probable to [the lord of Armagh]{
 
 [^11]: **S.** John 6:59; Wyclif cites 6:49, 52 (Loserth's verses). His *non morietur in eternum* stands where the Vulgate has *vivet in aeternum*, "shall live for ever"; his Latin is translated.
 
-[^12]: **S/T.** Loserth: "more correctly the sermon *De utilitate agendae paenitentiae*" (Opp. V), that is, Augustine, *Sermo* 352; to be checked (LEDGER K05b-4). 1 Cor. 10:3: "And did all eat the same spiritual food". C reads *commanducaverunt*, "ate together" (122.8).
+[^12]: **S/T.** Loserth: "more correctly the sermon *De utilitate agendae paenitentiae*" (Opp. V), that is, Augustine, *Sermo* 352.3 (PL 39, 1552: *quicumque in manna Christum intellexerunt, eumdem quem nos cibum spiritualem manducaverunt*) (LEDGER K05b-4). 1 Cor. 10:3: "And did all eat the same spiritual food". C reads *commanducaverunt*, "ate together" (122.8).
 
-[^13]: **S/T.** Richard FitzRalph (*dominus Armachanus*), *Summa de quaestionibus Armenorum* IX.5 (Loserth cites the Paris print of 1511); to be checked (LEDGER K05b-5). D reads *Ardmachano*, E *Ardmacano* (122.10); ABD *Arimenorum* (122.11).
+[^13]: **S/T.** Richard FitzRalph (*dominus Armachanus*), *Summa de quaestionibus Armenorum* IX.5 (Loserth cites the Paris print of 1511); Paris 1512, f. 67v: Christ converted *sola voluntate omnipotente* before the words, which *probabile videtur quoniam series littere omnium quatuor* so implies (LEDGER K05b-5). D reads *Ardmachano*, E *Ardmacano* (122.10); ABD *Arimenorum* (122.11).
 
 [^14]: **S.** Matt. 26:26 (Loserth's reference); Mark 14:22 has *Sumite*. Wyclif's *manducate* stands for the Vulgate's *comedite*, both "eat"; the Douay wording is kept.
 
