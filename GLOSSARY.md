@@ -432,7 +432,7 @@ otherwise.
 | proditor | the traitor | Judas. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 64.3). |
 | dampnificare / dampnificacio | damage / damaging | Kept apart from *dampnum* "loss" and *dampnari* "be damned"; the argument of 65–68 turns on it. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 65). |
 | peiorare / peioracio | make worse / worsening | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 65–68). |
-| illacio (*mali*) | bringing-on | Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 66). |
+| illacio (*mali*) | bringing-on | The logical *illacio* is a separate row, "illation". Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 66). |
 | per se / per accidens | CONTEXTUAL: of itself / by accident; (spatial) apart, by itself | The spatial sense (a thing set apart, *Euch.* 104.16–17) gets a G note. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 68–72). |
 | comprehensor | comprehensor | The blessed, against *viator*. Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
 | arraliter | by way of earnest | As a pledge (*arra*). Ruled 2026-10-22 (coordinator, delegated; *Incarn.* 5). |
@@ -704,6 +704,9 @@ otherwise.
 | universitas (bare: tota universitas) | the whole universe | Beside *universitas sua* "his universe". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 192.14). |
 | qualitas prima | first quality | Hot, cold, wet, dry. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 197.24). |
 | subiectare | be the subject of | Of a substance underlying accidents. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 199.10). |
+| illacio (logical) | illation | Kept apart from *consequencia* "inference" and from *illacio mali*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 07-f). |
+| visio corporalis / ymaginaria / intellectualis | bodily / imaginary / intellectual vision | Augustine's three kinds (*De Gen. ad litt.* XII). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 206–211). |
+| visio intuitiva / abstractiva / enigmatica | intuitive / abstractive / enigmatic vision | The schools' kinds of cognition; *enigmatica* after 1 Cor 13:12. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 206–211). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1002,7 +1005,7 @@ otherwise.
 | infundabilis; infundabiliter | without foundation | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 195–196). |
 | seniores; maiores natu | elders; the ancients | Inside a DR quotation, DR's word ("ancients", Acts 20:17). Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 200). |
 | pompare; pompacio; pompa | boast; boasting; boasting | Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 204.11). |
-| fantasticus | imaginary | Cf. *fantasia* "imagination". Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 203.4). |
+| fantasticus | CONTEXTUAL: imaginary / phantastic (of the faculty) | Cf. *fantasia* "imagination". "Phantastic" where it names the power (*estimative fantastice … organice*, *Euch.* 208.27, coordinator 2026-11-07). Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 203.4). |
 | extollencia | exaltation | Self-exaltation of the proud. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 211.5). |
 | servitus (laboris) | servitude | Kept apart from *servicium* "service". Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 211.33). |
 | capitalitas | capital standing | Rome's standing as capital; cf. *capitalis*. Ruled 2026-10-08 (coordinator, delegated; *Pot. pape* 216.1). |
