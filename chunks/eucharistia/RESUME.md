@@ -93,3 +93,29 @@ warns on unparsed note changes). ⚠ For stage 10 (site): several GLOSSARY keys 
 sense (*continuacio*, *sentencia*, *cognacio*, *conficere*, *species*): the hover may show the wrong row. Fix in the
 site build (key on the row whose sense the chunk note names) or split keys before deploying.
 - For the headnote / close-out: in ch. 3 (03-d, K03d-1/4) Wyclif turns Ockham's own parsimony argument (*De sacramento altaris* c. 28) against him on quantity; worth a sentence in "Where it is answered" or a chapter headnote.
+
+## ⏸ PAUSED 2026-11-07 after wave 23 (Wilson: "pause after the next wave")
+
+**Done:** prol-a … 08-j translated = **69 of 93 chunks**; every wave checked (connectives + ledger) through
+wave 23 once RESULTS-23 is applied (see git log). All local commits; **nothing pushed, nothing deployed.**
+
+**Restart:** the next brief is `brief.py eucharistia 09-a 09-b 09-c`, then 09-d…09-n (14 chunks, ~5 waves), then
+`pen01…pen06` and `quest` (7 chunks, ~3 waves) — **24 chunks left, ~8 waves**. Per wave: translate (Opus) →
+glossary census + Latin-checked conform → ledger rows → commit → connectives + ledger agents
+(`WAVE-PROMPTS.md`; ledger prompt must demand quoted note changes and notes-only targets) → apply → commit.
+`pen01` starts a second work (*De eucharistia et penitencia*, its own sigla A–F and headnote; see CARD).
+
+**Measured cost:** translation ≈150–190K per 3-chunk wave; connectives ≈65–80K; ledger ≈100–160K. ≈0.4M per
+wave all in; the remaining ~8 waves ≈3.3M.
+
+**Open for Wilson:**
+- *Eucharist* capitalisation: GLOSSARY row *eukaristia* is PROVISIONAL (≈110 *Eucharist* / 36 *eucharist* in the
+  English, not yet conformed).
+
+**Open for the close-out (stage 9) / site (stage 10):**
+- Shared GLOSSARY keys with two senses (*continuacio, sentencia, cognacio, conficere, species, fantasticus,
+  singulariter, per se*…): the site hover needs to pick the row the note names.
+- Headnote sentence on Wyclif answering Ockham (*De sacr. alt.* c. 28) in ch. 3.
+- Untraced rows listed in LEDGER (status `untraced`).
+- *Dialogus* and *De ecclesia* have `(LEDGER …)` in English body text (site scrub handles it; check after build).
+
