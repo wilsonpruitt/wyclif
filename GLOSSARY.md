@@ -722,6 +722,13 @@ otherwise.
 | predicatum infinitum / finitum | infinite / finite predicate | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 235.29). |
 | demultiplicare | demultiply | The reverse of *multiplicare*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 235.1). |
 | qualitas secunda | second quality | Beside *qualitas prima*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 236.11). |
+| immediatus; immediacio | immediate; immediacy | With nothing between; the adjective and noun of *immediate* "without intermediary". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 240.14, 247.6). |
+| infinicies | infinitely many times | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 237.10). |
+| dos subtilitatis | dower of subtlety | Beside *dos immortalitatis*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 243.28). |
+| non communicans (of times) | not communicating | Of times with no common part. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 241.25). |
+| simultas adequacionis / inmediacionis | simultaneity of adequacy / of immediacy | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.9–10). |
+| principative | principatively | Beside *principaliter*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.21). |
+| situaliter | situally | The adverb of *esse situale*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.2). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1148,3 +1155,5 @@ otherwise.
 | rima | chink | Wyclif's figure for a loophole. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 216.21). |
 | corea | ring-dance | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 234.2). |
 | cilba; cilliba | board | Loserth's *rectius*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 231.30). |
+| corulus columpnaris | columnar hazel-rod | The illustrative stick. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 242.24). |
+| ioculacio | jesting | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 247.25). |
