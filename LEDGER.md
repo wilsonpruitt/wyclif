@@ -2090,3 +2090,25 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | K07f-2 | eucharistia-07-f / n6 | Wyclif's *Sermone primo* = *Sermo* 6 *De eo quod apparuit Dominus* | verified | 2026-11-07. Augustine, *Sermo* 6.1, *De eo quod apparuit Dominus Moysi in rubo* (PL 38, 59): *Apparere autem per substantiam suam, sicuti est, nonnisi mundis cordibus dignatur … Oculis autem corporalibus sanctorum si quando Deus voluit apparere, non per se ipsum, sed per creaturam visibilem atque sensibilem, quantum ista carne sentiri potest, apparuit*. Wyclif gives *creaturam sensibilem*. Loserth's foot reads *Recte XVII De Diversis = Serm. VI, De eo quod apparuit Dominus, Opp. tom. V*. (see `chunks/eucharistia/_verify/RESULTS-18.md`) |
 | K07f-3 | eucharistia-07-f / n7 | Urban V's determination with his cardinals | untraced | Loserth gives no foot at 211.26–27. Two web searches (Urban V, his cardinals and the host seen *oculo corporali*; a Dominican inquisitor condemned under Urban V) found nothing. Wyclif himself points to the case at 222.23–26: *sicut tempore Urbani quinti fuit alius predicator et inquisitor pravitatis heretice dampnatus, quia voluit defendere quod homo videt corpus Christi in hostia oculo corporali*. (see `chunks/eucharistia/_verify/RESULTS-18.md`) |
 | K07f-4 | eucharistia-07-f / n13 | Augustine *Opp.* V, 34, 313; VIII, 866 | editor | Loserth's foot 213.3: *Cf. S. Augustini Opp. tom. V, 34, 313; VIII, 866 et al.* I did not check the Maurist pages. 07-f n13 matches. (see `chunks/eucharistia/_verify/RESULTS-18.md`) |
+| K07g-1 | eucharistia-07-g / n1 | Augustine: God appears to bodily eyes in this flesh (Loserth 213.3: *Opp.* V, 34, 313; VIII, 866) | to-verify | as K07f-4; identify works |
+| K07g-2 | eucharistia-07-g / n12 | Gregory *Hom. in Evang.* X (*Opp.* I, 1468) | editor | find the passage |
+| K07g-3 | eucharistia-07-g / n15 | Lombard *Sent.* IV d. 21 (plate: *dist. XXI*), or d. 11? | to-verify | read both distinctions |
+| K07h-1 | eucharistia-07-h / n7 | Ambrose on the conversion (*De sacr.* IV / *De myst.* 9) | to-verify | as K04e-7 / K05e-1 |
+| K07h-2 | eucharistia-07-h / n8 | Thomas *ST* III q. 75 aa. 2–4, presence *per conversionem* | to-verify | check |
+| K07h-3 | eucharistia-07-h / n13 | Ambrose *De paen.* II (Loserth: c. VII?) | editor | find the place |
+| K07h-4 | eucharistia-07-h / n15 | Augustine *De paenitentia*, *Opp.* V, 2, 1363 | editor | identify the sermon |
+| K07h-5 | eucharistia-07-h / n20 | the unnamed decretal = *Cum Marthe* (X 3.41.6) | to-verify | as Kprola-9 |
+| K07h-6 | eucharistia-07-h / n21 | Augustine's determination: no accident without a subject | to-verify | cf. Kprola-7 |
+| K07h-7 | eucharistia-07-h / n25 | Prosper *Liber sententiarum ex Augustino* | to-verify | PL 51 |
+| K07h-8 | eucharistia-07-h / n26 | *De cons.* D. 2 c. 48 *Hoc est* | editor | as K05d-3 |
+| K07i-1 | eucharistia-07-i / n2 | Lombard *Sent.* IV d. 11 c. 1, the three opinions | editor | as Kprolb-3 / K07a-1 |
+| K07i-2 | eucharistia-07-i / n3 | the friar preacher = John of Paris, condemned under Clement V | editor | Loserth (Werner; Natalis Alexander) |
+| K07i-3 | eucharistia-07-i / n4 | the inquisitor condemned under Urban V | to-verify | identify |
+| K07i-4 | eucharistia-07-i / n5 | Higden *Polychronicon* VII c. 34 | to-verify | cf. K05g-4 |
+| K07i-5 | eucharistia-07-i / n10 | *dictum Innocencii tercii* = *Cum Marthe* / *De sacro altaris mysterio* IV | to-verify | check |
+| K07i-6 | eucharistia-07-i / n12 | *De cons.* D. 2 c. 48 | editor | as K05d-3 |
+| K07i-7 | eucharistia-07-i / n15 | the *Panis celestis* sentence in c. 48 | to-verify | Friedberg |
+| K07i-8 | eucharistia-07-i / n16 | Glossa ord. on c. 48 ad v. *Celestis* | editor | Loserth |
+| K07i-9 | eucharistia-07-i / n17 | *sacramentum fidei fides est*: Augustine *Ep.* 98 | to-verify | as K07d-2 |
+| K07i-10 | eucharistia-07-i / n19 | *Ego Berengarius* c. 42, ascribed to Nicholas II | editor | as Kprola-3 / K02a-5 |
+| K07i-11 | eucharistia-07-i / n20 | Glossa ord. on c. 42 ad v. *Panem* | editor | Loserth |

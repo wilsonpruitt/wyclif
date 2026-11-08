@@ -125,6 +125,10 @@ otherwise.
 | usus (ecclesie) | use | A church's customary practice or way of speaking, and by play its liturgical Use. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 183.25 ff.). |
 | sanctificacio | sanctification | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 189.6). |
 | eukaristia | the Eucharist | PROVISIONAL capital (Wilson to rule; the volume has ~110 *Eucharist*, 36 *eucharist* in the English, not yet conformed); kept apart from *sacramentum (altaris)*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 196.29). |
+| secta signorum | the sect of the signs | Wyclif's name for the *moderni*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 220.13). |
+| invinacio | invination | Beside *inpanacio* "impanation". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 221.20). |
+| proditorius seductor | traitorous seducer | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 223.25). |
+| immolacio | immolation | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 225.2). |
 
 ## B. Lordship, law, office
 
@@ -707,6 +711,10 @@ otherwise.
 | illacio (logical) | illation | Kept apart from *consequencia* "inference" and from *illacio mali*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 07-f). |
 | visio corporalis / ymaginaria / intellectualis | bodily / imaginary / intellectual vision | Augustine's three kinds (*De Gen. ad litt.* XII). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 206–211). |
 | visio intuitiva / abstractiva / enigmatica | intuitive / abstractive / enigmatic vision | The schools' kinds of cognition; *enigmatica* after 1 Cor 13:12. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 206–211). |
+| locus a completa similitudine | the topic from complete likeness | Beside *locus a maiori*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 214.31). |
+| diffinitive (of presence) | definitively | Of being in a place definitively, not circumscriptively. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 216.4). |
+| sensus tropicus | tropical meaning | As *sensus* (of words) "meaning". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 217.22). |
+| contentive / causaliter / subiective / obiective | by way of containing / causally / subjectively / objectively | The modes of being in the sacrament. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 219.17–22). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1114,7 +1122,7 @@ otherwise.
 | nimis | exceedingly | Medieval intensive (= *valde*); "too much" only where excess is the point. Ruled 2026-10-12 (close-out R2; *Pot. pape* 169.2). |
 | sentire (the sacrament, the body) | perceive | "sense". As *sensibilis* "perceptible". Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.10, 1.17). |
 | postponere | set aside | "put after". Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.8). |
-| singulariter | CONTEXTUAL: alone, only / in a singular way | "singularly" never; "in a singular way" where "alone" will not construe (*Euch.* 85.28, coordinator 2026-11-07). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.14). |
+| singulariter | CONTEXTUAL: alone, only / in a singular way / in the singular (grammatical number, *Euch.* 215.15) | "singularly" never; "in a singular way" where "alone" will not construe (*Euch.* 85.28, coordinator 2026-11-07). Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 4.14). |
 | fingere (a miracle) | feign | "imagine". Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.11, 1.14). |
 | recitare | recite | To report, rehearse. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.4, 3.10, 4.18). |
 | narrare | relate | Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.9). |
@@ -1130,3 +1138,4 @@ otherwise.
 | pertinaciter | pertinaciously | Keeps "obstinate" for *protervus*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 180.29). |
 | ineptus | inept | Kept apart from *indispositus* "unfit". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 188.28). |
 | exsufflare | blow out | The exorcism gesture. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 189.25). |
+| rima | chink | Wyclif's figure for a loophole. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 216.21). |
