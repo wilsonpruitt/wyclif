@@ -114,6 +114,10 @@ otherwise.
 | pseudofrater; pseudofratres | false friar; false friars | Kept apart from *pseudomonachus* "false monk". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 139.13). |
 | ydolatrare | idolatrize | Beside *ydolatria*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 143.24). |
 | transaccidencia | transaccidents | In the *transaccidentacio* series. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 145.4). |
+| katholicacio | declaration as catholic | The noun of *catholicare*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 156.31). |
+| pena talionis | penalty of retaliation | The accuser's penalty in canon law. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 156.4). |
+| corpus dominicum | the Lord's body | Kept apart from *corpus Domini* "the body of the Lord" and *corpus Christi*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 158.31, 165.3). |
+| in circulo (of the host) | in a round | The round form of the host. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.17). |
 
 ## B. Lordship, law, office
 
@@ -684,6 +688,9 @@ otherwise.
 | fasciculus accidentis | bundle of accident | Wyclif's mockery of the accident without subject. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 154.12). |
 | yronice | ironically | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 153.4). |
 | pertinencior | more fitting | The comparative of *pertinens*; cf. *pertinenter*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 153.8). |
+| signum nature | instant of nature | The scholastic priority without time; kept apart from *signa* "signs". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.9). |
+| inpastare | knead | The grains kneaded into one bread. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.12). |
+| generancia | begetting | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.25). |
 
 ## D. False friends and ordinary words that mislead
 
