@@ -94,11 +94,11 @@ And as to Augustine, it is clear that he extends sensation to all intuitive know
 
 [^4]: **C/T.** *Excedunt* "exceed" is the print, with no variant; the sense required, "sometimes exclude clear intuition … sometimes [only] equality with the divine visibility", suggests a corruption (*excludunt*?), unresolved and translated as printed.
 
-[^5]: **S.** The tradition that Manasses had Isaiah sawn asunder, with the charge that Isaiah's "I saw the Lord" contradicted Moses' "Man shall not see me", is not named in the Latin; Loserth gives only Isa. 6:1 (LEDGER K07f-1). D *sarrare*.
+[^5]: **S.** The tradition that Manasses had Isaiah sawn asunder, with the charge that Isaiah's "I saw the Lord" contradicted Moses' "Man shall not see me", is not named in the Latin; Loserth gives only Isa. 6:1. It is the Hebrew tradition Jerome reports on Isa. 1:10 (*In Isaiam* I, PL 24, 33A: *Aiunt Hebraei ob duas causas interfectum Isaiam … quod Domino dicente ad Moysen: Non poteris videre faciem meam … iste ausus sit dicere: Vidi Dominum*); Isidore, *De ortu et obitu patrum* 38.71–72, adds the sawing; cf. Yevamot 49b (LEDGER K07f-1). D *sarrare*.
 
-[^6]: **S/T.** Wyclif's "Sermon 1"; Loserth: correctly *Sermo* XVII *De diversis* = *Sermo* VI, *De eo quod apparuit Dominus*, Opp. V (LEDGER K07f-2). Loserth stops after *sanctorum*; the sentence is read across the stop. ABCE *Sed quando*; C *Debet quando voluerit*; ABC *sentire*. "The clean of heart": Matt. 5:8.
+[^6]: **S/T.** Wyclif's "Sermon 1"; Loserth: correctly *Sermo* XVII *De diversis* = *Sermo* VI, *De eo quod apparuit Dominus*, Opp. V; PL 38, 59: *Apparere autem per substantiam suam, sicuti est, nonnisi mundis cordibus dignatur* (LEDGER K07f-2). Loserth stops after *sanctorum*; the sentence is read across the stop. ABCE *Sed quando*; C *Debet quando voluerit*; ABC *sentire*. "The clean of heart": Matt. 5:8.
 
-[^7]: **R.** Urban V (pope 1362–70) "with his cardinals": the determination is not identified in the Latin or by Loserth (LEDGER K07f-3).
+[^7]: **R.** Urban V (pope 1362–70) "with his cardinals": the determination is not identified by Loserth; it is presumably the case Wyclif tells at 222.23–26, where under Urban V a preacher and inquisitor was condemned *quia voluit defendere quod homo videt corpus Christi in hostia oculo corporali* (LEDGER K07f-3).
 
 [^8]: **S.** John 14:9: Wyclif adds *meum* ("my Father"), translated; the Vulgate has *videt et Patrem*. ABC *Philippo*.
 

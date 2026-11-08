@@ -80,15 +80,15 @@ Now the sacrament is of itself the subject both of quantity and of quality, sinc
 
 [^1]: **C.** *Limitatum est nobis*: the impersonal passive does not say who assigned it. "Tropical predication" renders *predicacione tropica*, the pair of *predicacio ydemptica*.
 
-[^2]: **S/T.** Jerome, *Ep.* 120 *ad Hedibiam*, q. 2; Loserth: *Ep. ad Hedibiam*, vol. I, 824 (LEDGER K07d-1). The print's *Helbidiam*; A and B read *Albidiam* (A's margin, B's *alias*: *Helbidiam*). The words of institution are Matt. 26:26.
+[^2]: **S/T.** Jerome, *Ep.* 120 *ad Hedibiam*, q. 2; Loserth: *Ep. ad Hedibiam*, vol. I, 824 (= PL 22, 986, verbatim: *Nos autem audiamus panem, quem fregit Dominus …*) (LEDGER K07d-1). The print's *Helbidiam*; A and B read *Albidiam* (A's margin, B's *alias*: *Helbidiam*). The words of institution are Matt. 26:26.
 
 [^3]: **C/G.** "Demonstrated by the pronoun": the *hoc* of *hoc est corpus meum* points to the bread. *Satrape*: Wyclif's word for the officials of the church courts. *Sentencia* is CONTEXTUAL; here the position taught, "teaching".
 
-[^4]: **S.** Augustine, *Ep.* 98 *ad Bonifacium* (Wyclif "letter 12"); Loserth: *Ep.* XCVIII, Opp. II, 267 (LEDGER K07d-2).
+[^4]: **S.** Augustine, *Ep.* 98 *ad Bonifacium* (Wyclif "letter 12"); Loserth: *Ep.* XCVIII, Opp. II, 267; it is *Ep.* 98.9 (PL 33, 364), quoted verbatim (LEDGER K07d-2).
 
-[^5]: **S/T.** Wyclif's "Sermon 55"; Loserth: not *Sermo* LV but LXXXIII *De diversis*, in the Maurist numbering *Sermo* 227, *In die Paschae* IV, Opp. V, 973 (LEDGER K07d-3). Loserth notes *significatur* as the correct reading for the print's *signatur* (200.27); the sense is the same. ABC omit "passes … eaten" (200.26–28), which C's margin supplies in another hand.
+[^5]: **S/T.** Wyclif's "Sermon 55"; Loserth: not *Sermo* LV but LXXXIII *De diversis*, in the Maurist numbering *Sermo* 227, *In die Paschae* IV, Opp. V, 973 (PL 38, 1101, which reads *quod significatur invisibile*) (LEDGER K07d-3). Loserth notes *significatur* as the correct reading for the print's *signatur* (200.27); the sense is the same. ABC omit "passes … eaten" (200.26–28), which C's margin supplies in another hand.
 
-[^6]: **C/T.** *Virgines quas oramus* stands in apposition to *fides, spes, karitas, felicitas*: Wyclif plays on the virgin martyrs who bear those names (Faith, Hope and Charity, and Felicity), to whom prayer is made (LEDGER K07d-4). The point: if qualities could be without a subject, the qualities themselves, not the saints, would be the ones to pray to. D reads *quam fides* ("rather than faith …").
+[^6]: **C/T.** *Virgines quas oramus* stands in apposition to *fides, spes, karitas, felicitas*: Wyclif plays on the virgin martyrs who bear those names (Faith, Hope and Charity, the virgin daughters of Sapientia in the Roman legend, e.g. Hrotsvitha, *Sapientia*, PL 137, 1045: *Passio sanctarum virginum Fidei, Spei et Charitatis*; Felicity, named in the canon of the Mass, was a martyr but no virgin), to whom prayer is made (LEDGER K07d-4). The point: if qualities could be without a subject, the qualities themselves, not the saints, would be the ones to pray to. D reads *quam fides* ("rather than faith …").
 
 [^7]: **C.** *Virtus* here is the quality just named (faith, hope, charity) imagined as an agent; "power" (the faculty) is possible, since the predicates *intuitiva, abstractiva* belong to a cognitive power.
 
@@ -100,7 +100,7 @@ Now the sacrament is of itself the subject both of quantity and of quality, sinc
 
 [^11]: **C.** *Habitudinem respectivam*: the "respect" sense of the CONTEXTUAL *habitudo*, a relation founded in the accident's foundation.
 
-[^12]: **S.** Augustine, *De Trin.* V.16; Anselm, *Monologion* (Wyclif "27"; Loserth: cap. XXVIII, ed. Maur. p. 14) (LEDGER K07d-5, K07d-6).
+[^12]: **S.** Augustine, *De Trin.* V.16.17 (PL 42, 922: *non tamen secundum accidens Dei quod ei aliquid acciderit, sed plane secundum accidens ejus ad quod dici aliquid Deus incipit relative*); Anselm, *Monologion* 25 (PL 158, 178: relations come and go *sine omni mei mutatione* and are *improprie … accidentia*); Wyclif "27", Loserth cap. XXVIII (ed. Maur. p. 14), the chapter numbered 27 in the older count, which treats God's simple being, not relation (LEDGER K07d-5, K07d-6).
 
 [^13]: **C.** *Equivoce a substancia*: quantity is called quantified in another sense than substance is called quantified.
 

@@ -127,7 +127,7 @@ And intellectual vision is threefold, namely intuitive, [abstractive]{g:abstract
 
 [^15]: **S.** Rom. 1:20, "the invisible things of him … are clearly seen, being understood by the things that are made" (Loserth's margin: Rom. I, 19, 20).
 
-[^16]: **C.** *Illam … hanc*: *illam* is the abstractive vision; *hanc* may be the same or the intuitive vision as merit's reward. The teaching that Christ alone merited from the first instant of his conception is the common one (LEDGER K07e-3).
+[^16]: **C.** *Illam … hanc*: *illam* is the abstractive vision; *hanc* may be the same or the intuitive vision as merit's reward. That Christ merited from the first instant of his conception is Thomas, *ST* III q. 34 a. 3 (*in primo instanti suae conceptionis Christus meruerit*, by the movement of his free will); that no one else can, since merit needs time, is Wyclif's report of the doctors (LEDGER K07e-3).
 
 ## Transcription notes
 
