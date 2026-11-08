@@ -2015,3 +2015,21 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | K05g-8 | eucharistia-05-g / n17 | decretals equal to the canons (D. 19 c. 1?) | verified | 2026-11-07. Gratian D. 19 c. 1 (Nicholas I, PL 187, 104B–105B): *Decretales epistolae vim auctoritatis habent … si vetus novumque testamentum recipienda sunt … restat … quod decretales epistolae … sunt recipiendae*. D. 19 c. 6 (PL 187, 108A), from Augustine, *De doctr. chr.* II.8, has the rubric *Inter canonicas scripturas decretales epistolae connumerantur*. That is the parity with Scripture Wyclif complains of. (see `chunks/eucharistia/_verify/RESULTS-12.md`) |
 | K05g-9 | eucharistia-05-g / n20 | the earlier place where Scotus is brought against the idolatry argument | verified | 2026-11-07. Wrong reference in the note. Loserth's *Cf. pag. 137, 17* is foot **143.27**. It belongs to *Quantum ad secundum obiectum* (the signification, Thomas at 137.17), not to *dictum est superius* at 143.4. The *superius* is 139.29–140.1 (05-g ¶1): the scandal fabricated on Thomas's text was *tempore Doctoris Subtilis … destructum*. Scotus's own text was not read. (see `chunks/eucharistia/_verify/RESULTS-12.md`) |
 | K05g-10 | eucharistia-05-g / n23 | Augustine: the three dimensions cannot be without a subject | verified | 2026-11-07. *De quant. an.* 4.6 (PL 32, 1038–1039): *utrum corpus ullum putes esse, quod non … habeat aliquam longitudinem, et latitudinem, et altitudinem? … potes cogitare ista tria non esse nisi in corporibus? E. Non intelligo quomodo alibi esse possint*. Wyclif quotes it in ch. 3 (72.3–10). (see `chunks/eucharistia/_verify/RESULTS-12.md`) |
+| K05h-1 | eucharistia-05-h / n1 | the second objection stated at 137.17 | editor | Loserth "Cf. pag. 137, 17" (cf. RESULTS-12 K05g-9) |
+| K05h-2 | eucharistia-05-h / n3 | Thomas: the remaining accidents signify bread naturally (*ST* III q. 80 a. 3 ad 3 / q. 75 a. 5?) | to-verify | check |
+| K05h-3 | eucharistia-05-h / n5 | Augustine above (manna, lamb, rock = Christ) | to-verify | the earlier page |
+| K05i-1 | eucharistia-05-i / n11 | the Subtle Doctor on multiplying one body (*Ord.* IV d. 10?) | editor | Loserth 148.30; locus to check |
+| K05i-2 | eucharistia-05-i / n14 | Augustine on quantity distinct from its subject, recited above | to-verify | locate (cf. Kprola-7) |
+| K05i-3 | eucharistia-05-i / n15 | Thomas *In III Sent.* d. 2 q. 3 a. 3 | editor | Loserth 149.21 |
+| K05i-4 | eucharistia-05-i / n18 | Augustine: quantity and quality not without a subject (*Soliloquia* II?) | to-verify | as Kprola-7 / K03e-6 |
+| K05i-5 | eucharistia-05-i / n21 | *ST* III q. 75 a. 2 | editor | Loserth 151.5 |
+| K05i-6 | eucharistia-05-i / n23 | the decree of the Roman church = *Ego Berengarius* / *Panis est* | to-verify | conjecture |
+| K05i-7 | eucharistia-05-i / n25 | Damascene *De fide orth.* IV.13 | editor | as Kprolc-5 (verified) |
+| K05i-8 | eucharistia-05-i / n25 | Thomas *In IV Sent.* d. 11 q. 1 a. 1 | editor | as Kprolb-6 (verified) |
+| K05i-9 | eucharistia-05-i / n27 | not in the Gloss on *De cons.* D. 2 (Jenson 1477) | editor | Loserth 151.10 |
+| K05i-10 | eucharistia-05-i / n29 | Ambrose = *De cons.* D. 2 c. 55; Thomas *IV Sent.* d. 11 q. 4 | editor | Loserth 151.14, 27 |
+| K05j-1 | eucharistia-05-j / n1 | *De cons.* D. 2 c. 55 *Panis est in altari* | editor | as K03b-3 |
+| K05j-2 | eucharistia-05-j / n5 | Sarum canon *Quam oblationem* | editor | Loserth 152 foot |
+| K05j-3 | eucharistia-05-j / n16 | c. 55 *panis … usitatus* the source of *usitatum* | to-verify | Friedberg |
+| K05j-4 | eucharistia-05-j / n16 | *De cons.* D. 2 c. 48 *Hoc est* | editor | as K05d-3 |
+| K05j-5 | eucharistia-05-j / n21 | the *scripta edita* unnamed | to-verify | identify |

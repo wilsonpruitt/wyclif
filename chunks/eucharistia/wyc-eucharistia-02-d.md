@@ -33,7 +33,7 @@ But thirdly [it is rejoined]{g:replicatur} against what has been said, on the gr
 
 > [p. 42] Pro quo notandum quod Moyses alloquens populum valde rudem aptavit verba secundum eorum capacitatem, ut primo literaliter consencientes per fidem ascendant ad sensum alciorem, sicut utrobique facit scriptura.
 
-For which it is to be noted that Moses, addressing a very rude people, fitted his words to their capacity, so that, first consenting literally through faith, they might ascend to a higher sense, as scripture does on both sides.[^8]
+For which it is to be noted that Moses, addressing a very rude people, fitted his words to their capacity, so that, first consenting literally through faith, they might ascend to a higher sense, as scripture does [on both sides]{g:utrobique}.[^8]
 
 ## ¶4 · 42.13–42.25
 

@@ -113,6 +113,7 @@ otherwise.
 | provecciores doctores | more advanced doctors | Beside *moderni doctores*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 130.3). |
 | pseudofrater; pseudofratres | false friar; false friars | Kept apart from *pseudomonachus* "false monk". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 139.13). |
 | ydolatrare | idolatrize | Beside *ydolatria*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 143.24). |
+| transaccidencia | transaccidents | In the *transaccidentacio* series. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 145.4). |
 
 ## B. Lordship, law, office
 
@@ -675,6 +676,14 @@ otherwise.
 | corpus mathematicum | mathematical body | The three dimensions without matter. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 142.31). |
 | fantasiare | fancy | The verb beside *fantasia* "imagination". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 143.16). |
 | insolidus | unsolid | Of the modern doctors' fantasy. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 143.20). |
+| ubi; ubicans | where; that which gives a where | The category of place and its cause. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 146.23–24). |
+| inpossibilitare | make out as impossible | Of the *moderni*'s argument. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 149.13). |
+| utrobique | on both sides | In citation formulae and argument. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 148.21). |
+| localiter | locally | A mode adverb, one word; beside *dimensionaliter*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 148.29). |
+| conversivus | converting | As *verba sacramentalia conversiva*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 153.6, 153.25). |
+| fasciculus accidentis | bundle of accident | Wyclif's mockery of the accident without subject. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 154.12). |
+| yronice | ironically | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 153.4). |
+| pertinencior | more fitting | The comparative of *pertinens*; cf. *pertinenter*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 153.8). |
 
 ## D. False friends and ordinary words that mislead
 
@@ -1092,3 +1101,4 @@ otherwise.
 | ex tibi dubio; ex sibi dubio | for all you know; for all he knows | Idiom: not "from doubt". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 66.15, 70.25). |
 | plaga | region | Of the earth; not "wound" or "plague". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 92.14). |
 | denarius (the coin) | penny | Kept apart from the number *denarius* "the ten". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 114.20). |
+| pictacia | patchwork | BCD *pictancia*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 150.15). |
