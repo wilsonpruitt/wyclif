@@ -108,9 +108,7 @@ glossary census + Latin-checked conform → ledger rows → commit → connectiv
 **Measured cost:** translation ≈150–190K per 3-chunk wave; connectives ≈65–80K; ledger ≈100–160K. ≈0.4M per
 wave all in; the remaining ~8 waves ≈3.3M.
 
-**Open for Wilson:**
-- *Eucharist* capitalisation: GLOSSARY row *eukaristia* is PROVISIONAL (≈110 *Eucharist* / 36 *eucharist* in the
-  English, not yet conformed).
+**Settled:** *Eucharist* capitalised (Wilson 2026-11-07, conformed).
 
 **Open for the close-out (stage 9) / site (stage 10):**
 - Shared GLOSSARY keys with two senses (*continuacio, sentencia, cognacio, conficere, species, fantasticus,
