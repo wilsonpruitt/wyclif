@@ -71,7 +71,7 @@ And the fourth conclusion, namely that a quantitative part is, as a possibility,
 
 ## Notes
 
-[^1]: **C.** *In proprio genere* against *in verbo*: knowing a thing in its own kind, as it is in itself, against knowing it in the Word, where past and future are present together. The pair is Augustine's evening and morning knowledge of the angels (*De Gen. ad litt.* IV; LEDGER K08h-1, to be checked).
+[^1]: **C.** *In proprio genere* against *in verbo*: knowing a thing in its own kind, as it is in itself, against knowing it in the Word, where past and future are present together. The pair is Augustine's evening and morning knowledge of the angels (*De Gen. ad litt.* IV.24 and IV.30, PL 34, 313 and 316: *in ipso Verbo Dei prius … ac deinde in ipsa creatura*; LEDGER K08h-1).
 
 [^2]: **C.** *Nec est dubium isti secte*: the sect, on its own premisses, cannot doubt the outcome of the case; the clause closing the paragraph turns this back on it, since it denies that time composed of instants is possible.
 
@@ -85,17 +85,17 @@ And the fourth conclusion, namely that a quantitative part is, as a possibility,
 
 [^7]: **C.** *Quod sic opinans dicit esse contingencium*: read as "which [case] the holder of this opinion says is among things contingent", i.e. possible. ABC read *contingentivum*. The construal is doubtful: *quod* may instead take *duracio* or *tempus* as its antecedent.
 
-[^8]: **S.** Aristotle, *Physics* IV.14 (223b18–21: the uniform circular motion of the heaven as the measure of time), with Averroes' commentary (LEDGER K08h-2, to be checked). The side-note gives Loserth's summary.
+[^8]: **S.** Aristotle, *Physics* IV.14 (223b18–21: the uniform circular motion of the heaven as the measure of time), with Averroes' commentary on the place, which was not read (LEDGER K08h-2). The side-note gives Loserth's summary.
 
 [^9]: **C.** *Sentencia* (CONTEXTUAL) is "teaching" throughout this paragraph: the position the sect, and Augustine, hold.
 
-[^10]: **C.** *Isti* are Aristotle and Averroes, who deny that God can make time begin or create the world (Aristotle, *Physics* VIII.1; LEDGER K08h-3, to be checked); *ipsi* in the clause before are the sect, who cite them.
+[^10]: **C.** *Isti* are Aristotle and Averroes, who deny that God can make time begin or create the world (Aristotle, *Physics* VIII.1, 251b14–26, where time is "uncreated" and "there must always be time"; LEDGER K08h-3); *ipsi* in the clause before are the sect, who cite them.
 
 [^11]: **S.** *Baculus arundineus*: Isa. 36:6, Egypt as "this broken staff of a reed", and 4 Kgs. 18:21, "a staff of a broken reed"; Wyclif's figure, not a quotation.
 
-[^12]: **S.** Loserth refers to "S. Augustini Opp. tom. I, pag. 210" (LEDGER K08h-4). The potter's wheel turning while the heavenly bodies stand stands in *Confessions* XI.23.29, not XII (LEDGER K08h-5, to be checked); the book number is Wyclif's. 261.13.
+[^12]: **S.** Loserth refers to "S. Augustini Opp. tom. I, pag. 210" (LEDGER K08h-4). The potter's wheel turning while the heavenly bodies stand stands in *Confessions* XI.23.29, not XII (PL 32, 820; LEDGER K08h-5); the book number is Wyclif's. 261.13.
 
-[^13]: **S.** The principle the moderns use against the remaining of the bread, as Wyclif set it out in ch. 5; cf. Thomas, *ST* III q. 75 a. 2 (LEDGER K08h-6, to be checked). 261.26: ABC lack *vel* before *moveatur*, with no change to the sense.
+[^13]: **S.** The principle the moderns use against the remaining of the bread, as Wyclif set it out in ch. 5; Thomas, *In IV Sent.* d. 11 q. 1 a. 1 qc. 1, with *ST* III q. 75 a. 2 as the parallel (LEDGER K08h-6). 261.26: ABC lack *vel* before *moveatur*, with no change to the sense.
 
 [^14]: **C.** The subject of *moveat* is left open: the Holy Spirit moving the man's body, or the man moving his own. The bodily raising to heaven alludes to the conversation "in heaven" of Phil. 3:20.
 

@@ -72,7 +72,7 @@ The third measure is time, which is the most certain measure, because [it is] th
 
 [^8]: **C.** *Vel* gives the alternative statement of the same uncertainty: either the duration of every creature is uncertain, or (on the sect's own principle) God can stretch an instant or shrink the sempiternal at will. 265.9: DE *quod eciam*; A has *quod* and a gap.
 
-[^9]: **S.** The definition of accident as what inheres in a substance: Aristotle, *Categories* 2 (1a24–25), and the scholastic *accidentis esse est inesse* (LEDGER K08i-1, to be checked). Wyclif names no work of Augustine. 265.25: ABCD *esse aliquod*.
+[^9]: **S.** The definition of accident as what inheres in a substance: Aristotle, *Categories* 2 (1a24–25), and the scholastic *accidentis esse est inesse* (LEDGER K08i-1). Wyclif names no work of Augustine. 265.25: ABCD *esse aliquod*.
 
 [^10]: **C.** *Ista quantitas … sacramentum*: on the sect's account the quantity of the host, standing of itself, is the sacrament that bears the other accidents. Kept as Wyclif states it.
 
@@ -80,7 +80,7 @@ The third measure is time, which is the most certain measure, because [it is] th
 
 [^12]: **T/C.** 266.5: *sectivagis*, "sect-roving" (on the model of *noctivagus*); ABD *sectingis*, E *secctanigis*. Translated as printed; the coinage is proposed for the glossary.
 
-[^13]: **S.** Boethius, *De consolatione* V pr. 6, which Loserth cites (LEDGER K08i-2). Boethius reads *interminabilis vitae tota simul et perfecta possessio*; Wyclif's *possessio tota simul* lacks *et perfecta* (LEDGER K08i-3, to be checked). 266.7–8: E *diffinit* for *describit*.
+[^13]: **S.** Boethius, *De consolatione* V pr. 6, which Loserth cites (LEDGER K08i-2). Boethius reads *interminabilis vitae tota simul et perfecta possessio*; Wyclif's *possessio tota simul* lacks *et perfecta* and puts *possessio* first (PL 63, 858A; LEDGER K08i-3). 266.7–8: E *diffinit* for *describit*.
 
 [^14]: **C.** *Sunt natura*: the relations, ideas and eternal truths in God are the divine nature itself, distinguished from it only by reason; *suo* attaches beginning and end to that nature.
 
@@ -88,11 +88,11 @@ The third measure is time, which is the most certain measure, because [it is] th
 
 [^16]: **T.** 267.1: AB *transsubstanciacione* for *transmutacione*; C corrected it. 266.25: C *mensurans essenciam*.
 
-[^17]: **S.** Aristotle, *Physics* IV.11 (219b1–2): time as the number of motion according to before and after (LEDGER K08i-4, to be checked).
+[^17]: **S.** Aristotle, *Physics* IV.11 (219b1–2): time as the number of motion according to before and after (LEDGER K08i-4).
 
 [^18]: **T/C.** 267.15–16: the print has *quandamlitatem*; ABC read *quandalitatem*, the form Loserth prints at 268.6, and it is translated, "whenness" (being in a when). The phrase is read as two objects of *mensurat*: the world (*ipsum*) as to succession, and each part of it as to whenness. ABC *prius et per consequens* (267.6) for *prius et posterius*.
 
-[^19]: **S.** The definition of *quando* in the *Liber sex principiorum* (c. 4: *quando est quod ex adiacentia temporis relinquitur*; LEDGER K08i-5, to be checked). 267.18: ABC *ex iacencia*.
+[^19]: **S.** The definition of *quando* in the *Liber sex principiorum* (most likely the chapter on *quando*, c. 4: *quando est quod ex adiacentia temporis relinquitur*; the text was not read here; LEDGER K08i-5). 267.18: ABC *ex iacencia*.
 
 ## Transcription notes
 

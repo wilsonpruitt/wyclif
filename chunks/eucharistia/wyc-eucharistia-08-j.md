@@ -60,15 +60,15 @@ And this is the third point in which I differ from [the moderns]{g:moderni};[^17
 
 [^8]: **C.** *Per se* (CONTEXTUAL) is "of himself", God's filling place by his own immensity, not the spatial "apart".
 
-[^9]: **S.** Aristotle, *Physics* IV.4 (212a20–21): place as "the first immovable limit of the container" (LEDGER K08j-1, to be checked).
+[^9]: **S.** Aristotle, *Physics* IV.4 (212a20–21): place as "the first immovable limit of the container" (LEDGER K08j-1).
 
-[^10]: **S.** Loserth sets the sentence in italic, as a quotation; his page foot gives no source (LEDGER K08j-2, to be checked).
+[^10]: **S.** Loserth sets the sentence in italic, as a quotation; his page foot gives no source, and none was found in the Patrologia Latina or on the web (LEDGER K08j-2).
 
 [^11]: **T/C.** 270.17: *aliam tantam aut tantam speciem quantitatis*; E reads *vel tantam*. The repeated *tantam* may be a doubling; read as "another [essence] as great, or so great a species of quantity". *Quia non est aliud nisi …*: the subject, the site's being filled, is supplied from *repletur*.
 
 [^12]: **T.** 270.21: ABCD *Loquitur* ("he speaks"); Loserth prints E's *Loquor*, which is translated. 270.22: ABCE *loycis*.
 
-[^13]: **C.** The king's spiritual being in a place where his body is not, as in his sign or his power, was set out earlier in the treatise; the passage is not located here (LEDGER K08j-3, to be checked).
+[^13]: **C.** The king's spiritual being in a place where his body is not, as in his sign or his power, was set out in ch. 4 (84.7–19), where the king has a threefold being in his realm, *situale, intencionale et potenciale* (LEDGER K08j-3).
 
 [^14]: **C.** Wyclif names neither party. *Alii admittunt hoc* is read as granting the first party's mode (present by essence, defined to the host's place), since it would be easier for God than an accident without a subject; *illos* are these second, who then owe an account of the accidents.
 
