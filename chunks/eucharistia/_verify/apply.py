@@ -16,6 +16,13 @@ for r in rows:
     new = f'| {rid} | {m.group(1)} | {m.group(2)} | {stat} | {how.replace("|", "/")} (see `{res}`) |'
     L = L[:m.start()] + new + L[m.end():]
     want = chg.count(' → '); got = sum(len(re.findall(r'"((?:[^"\\]|\\.)*)" → "((?:[^"\\]|\\.)*)"', cm.group(2))) for cm in re.finditer(r'((?:\d\d-[a-z]|prol-[a-c]|pen\d\d|quest)) n\d+: ((?:"(?:[^"\\]|\\.)*" → "(?:[^"\\]|\\.)*"(?: and )?)+)', chg))
+    if want != got and got == 0 and want == 1:
+        fm = re.match(r'((?:\d\d-[a-z]|prol-[a-c]|pen\d\d|quest)) n\d+: "?(.*?)"? → "?(.*?)"?$', chg.strip())
+        if fm:
+            fo, fn = fm.group(2).replace('\\"', '"'), fm.group(3).replace('\\"', '"')
+            ff = f'chunks/eucharistia/wyc-eucharistia-{fm.group(1)}.md'; fs = open(ff).read()
+            if fs.count(fo) == 1:
+                open(ff, 'w').write(fs.replace(fo, fn)); nch += 1; print(f'FALLBACK {rid}: applied unquoted change'); continue
     if want != got: print(f'WARN {rid}: {want - got} note change(s) not parsed (unescaped quotes?) — apply by hand')
     for cm in re.finditer(r'((?:\d\d-[a-z]|prol-[a-c]|pen\d\d|quest)) n\d+: ((?:"(?:[^"\\]|\\.)*" → "(?:[^"\\]|\\.)*"(?: and )?)+)', chg):
         f = f'chunks/eucharistia/wyc-eucharistia-{cm.group(1)}.md'
