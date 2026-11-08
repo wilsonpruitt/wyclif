@@ -70,35 +70,35 @@ As to the last [charge] imputed to the Saint,[^20] that the aforesaid teaching i
 
 [^10]: **C.** *Quare non posset* is taken as a question, though the print closes with a full stop. *Illinc*, "from there" (from its place in heaven); C reads *illic* "there" (148.29).
 
-[^11]: **S.** Loserth: the Subtle Doctor is Duns Scotus (148.30). Scotus on God's power to multiply one body in many places, to be checked, perhaps *Ord.* IV d. 10 (LEDGER K05i-1).
+[^11]: **S.** Loserth: the Subtle Doctor is Duns Scotus (148.30). Scotus on God's power to multiply one body in many places, *Ordinatio* IV d. 10 q. 2 (Vivès XVII, 190 ff.): *Deo simpliciter est possibile idem corpus simul facere in diversis locis localiter* (LEDGER K05i-1).
 
 [^12]: **C.** *Prior secta* and *secta secunda*: those who deny and those who grant a body's multiplication without motion; Wyclif's point is that the first cannot condemn the second as heretics. B reads *in manere fidei* (149.8).
 
 [^13]: **G.** *Inpossibilitare*, "make out as impossible": no row; formed like *hereticare*. E reads *Et hoc dubium* (149.11); ABCE *nitens*, ABD *nititur*, D *impossibiliter* (149.11–13).
 
-[^14]: **S.** Augustine's teaching that quantity is distinct from its subject, as Wyclif recited it above: the place in this treatise and Augustine's text are to be checked (LEDGER K05i-2). B omits *ut … subiecto* (149.18–20).
+[^14]: **S.** Augustine's teaching that quantity is distinct from its subject, as Wyclif recited it above: the place is 132–133 above, *De Trinitate* V.8 and V.10.11 (PL 42, 918), where without that distinction the creature's magnitude would make it God (LEDGER K05i-2). B omits *ut … subiecto* (149.18–20).
 
-[^15]: **T/S.** "[He holds]" supplies Loserth's gloss on *pertinaciter*, "scilicet: teneat" (149.21). Loserth refers to Thomas, *In III Sent.* d. 2 q. 3 a. 3 "and elsewhere" (149.21; LEDGER K05i-3; the form of the reference is ours). E reads *implicat* (149.24).
+[^15]: **T/S.** "[He holds]" supplies Loserth's gloss on *pertinaciter*, "scilicet: teneat" (149.21). Loserth refers to Thomas, *In III Sent.* d. 2 q. 3 a. 3 "and elsewhere" (149.21: *Cf. Dist. II, q. III, art. III, pag. 13, 14 (et alibi)*, the book supplied from the text's *super Tercium*; not matched in the Parma numbering, where d. 2 has two questions; LEDGER K05i-3). E reads *implicat* (149.24).
 
 [^16]: **C.** *Ante purgacionem*: before he is cleared of the contradiction, as one cleared by canonical purgation. D reads *nulli* for *nullibi* (149.26).
 
 [^17]: **C.** The argument runs through the absurdities of motion in a vacuum: if earth could pass through a void to its place while resting, either gaining position would itself be motion, or a void would give position, or there would be two immediate instants, or an indivisible would move successively. ACDE read *pura* for *pure* (149.28); D *vel secundo* (150.1).
 
-[^18]: **S.** Augustine that quantity and quality cannot be without a subject, to be checked, perhaps *Soliloquia* II (LEDGER K05i-4). *Dicitur* opens Wyclif's answer: their own way with Augustine, turned on their authorities. ABC read *impossibile summe* (150.4); D *quantitas et*, E omits *qualitas*, B *vel aliud* (150.6); D *allegandam*, E *alleganda*, B *opposicionem* (150.8); B *sed inquam* (150.11).
+[^18]: **S.** Augustine that quantity and quality cannot be without a subject, the places of ch. 3, 72.3–73.18: *De quantitate animae* 4.6 (PL 32, 1038–1039), *Soliloquia* II.12.22–13.23 (PL 32, 895–896) and *Ep.* 187.6.18 (PL 33, 838), where the gloss *nisi fiat miraculum* is already refused (LEDGER K05i-4). *Dicitur* opens Wyclif's answer: their own way with Augustine, turned on their authorities. ABC read *impossibile summe* (150.4); D *quantitas et*, E omits *qualitas*, B *vel aliud* (150.6); D *allegandam*, E *alleganda*, B *opposicionem* (150.8); B *sed inquam* (150.11).
 
 [^19]: **T.** *Pictacia*, "patchwork" (*pittacium*, a patch); BCD read *pictancia*, "pittance" (150.15). The print is translated. **C.** *Sentencia* "teaching", Wyclif's position.
 
 [^20]: **C.** The Saint is Thomas, to whom the opponents ascribe the argument (so *sancto Thome* at 150.31–151.1); Wyclif suspects the attribution. D reads *imposita* (150.18).
 
-[^21]: **C.** *Hoc* is neuter, *hic* masculine: if the bread remained, the argument runs, the pronoun would point to the bread and Christ would have had to say "this one is my body". Thomas, *ST* III q. 75 a. 2 (Loserth's reference at 151.5; LEDGER K05i-5).
+[^21]: **C.** *Hoc* is neuter, *hic* masculine: if the bread remained, the argument runs, the pronoun would point to the bread and Christ would have had to say "this one is my body". Thomas, *ST* III q. 75 a. 2 co. (*Sed potius esset dicendum, hic est corpus meum*) (LEDGER K05i-5); Loserth's foot at 151.5, which also names this article, belongs to the Damascene gloss below.
 
 [^22]: **S.** 2 Cor. 11:26, in the singular *periculum*: the Vulgate has *periculis in falsis fratribus*, Douay–Rheims "in perils from false brethren". The "false brethren" answer to the *pseudofratres* of the sentence. E reads *enim usitavi* (150.21); D *periclitent* (150.25).
 
-[^23]: **S.** The decree *Ego Berengarius* and *Panis est in altari* are the likely decrees of the Roman church (to be checked, LEDGER K05i-6). E reads *irregulariter* (150.26).
+[^23]: **S.** The decree of the Roman church is *Ego Berengarius* (*De cons.* D. 2 c. 42), as Wyclif names it at 117.1–3: *decreto Romane ecclesie, De Consecracione, distinccione IIa, capitulo: Ego Beringarius* (LEDGER K05i-6). E reads *irregulariter* (150.26).
 
 [^24]: **S.** *Subintroeuncium* recalls the *subintroductos falsos fratres* of Gal. 2:4. E reads *adulatores*, D *maculat* (150.28–29).
 
-[^25]: **S.** John Damascene, *De fide orthodoxa* IV.13 (PG 94.1147), as recited in Thomas, *In IV Sent.* d. 11 q. 1 a. 1; Loserth refers also to *ST* III q. 75 a. 2 and Wyclif's *De apostasia* (LEDGER K05i-7, K05i-8). E reads *recitant* (151.1).
+[^25]: **S.** John Damascene, *De fide orthodoxa* IV.13 (PG 94.1147), as recited in Thomas, *In IV Sent.* d. 11 q. 1 a. 1 qc. 1 arg. 1 and glossed at ad 1 (*verbum Damasceni intelligendum est quantum ad species*); Loserth refers also to *ST* III q. 75 a. 2 and Wyclif's *De apostasia* (LEDGER K05i-7, K05i-8). E reads *recitant* (151.1).
 
 [^26]: **S.** John 8:44, the devil, "a liar, and the father thereof".
 
@@ -106,7 +106,7 @@ As to the last [charge] imputed to the Saint,[^20] that the aforesaid teaching i
 
 [^28]: **C.** *Ista glossa* now means the gloss imputed to Thomas on *IV Sent.* d. 11, set against the same commentary's q. 4.
 
-[^29]: **S.** Ambrose as in *De cons.* D. 2 c. 55 *Panis est in altari* (Loserth's reference at 151.14, 27; the form of the reference is ours), and the commentary's question 4 and its end: to be checked in *In IV Sent.* d. 11 (LEDGER K05i-10). B reads *eiusdem* (151.20); D *nunquam*, ABC *corpus* (151.21); B *Quid ergo* (151.22).
+[^29]: **S.** Ambrose as in *De cons.* D. 2 c. 55 *Panis est in altari* (Loserth's reference at 151.14, 27; the form of the reference is ours), and the commentary's "question 4", which is Thomas, *In IV Sent.* d. 11 q. 1 a. 4, qc. 1 ad 1 (*quod est sub speciebus panis, primo fuit panis, et postea corpus Christi*) and, at its end, qc. 4 co. (*nihil panis unquam erit aliquid corporis Christi*) (LEDGER K05i-10). B reads *eiusdem* (151.20); D *nunquam*, ABC *corpus* (151.21); B *Quid ergo* (151.22).
 
 ## Transcription notes
 

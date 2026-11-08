@@ -78,7 +78,7 @@ But finally it is argued that it follows from what has been said that all who ob
 
 [^4]: **C.** *Ut ipsum sacramentaliter significat*: "as" is the likelier sense of *ut* here; it can also be read "so that it sacramentally signifies it". E reads *corpus domini* twice (152.16, 18).
 
-[^5]: **S.** The canon of the mass, *Quam oblationem*; Loserth prints the Sarum text, *Quam oblationem tu Deus omnipotens in omnibus quaesumus benedictam … facere digneris, ut nobis corpus et sanguis fiat dilectissimi Filii tui domini nostri Jesu Christi* (LEDGER K05j-2). Wyclif paraphrases (*multipliciter* for *in omnibus*, *ecclesie* for *nobis*); the quotation marks follow Loserth's italics. E reads *expectat* (152.20).
+[^5]: **S.** The canon of the mass, *Quam oblationem*; Loserth prints the Sarum text (calling it the Breviary; it is the canon of the Sarum Missal, ed. Dickinson, col. 616), *Quam oblationem tu Deus omnipotens in omnibus quaesumus benedictam … facere digneris, ut nobis corpus et sanguis fiat dilectissimi Filii tui domini nostri Jesu Christi* (LEDGER K05j-2). Wyclif paraphrases (*multipliciter* for *in omnibus*, *ecclesie* for *nobis*); the quotation marks follow Loserth's italics. E reads *expectat* (152.20).
 
 [^6]: **C.** *Ut in per se differencia*: the signs are to their religion what a differentia of itself (an essential differentia) is to a species, the mark that makes it what it is. The codices read *a primis sanctis doctoribus* (152.24), with the same sense. AB read *magis* for *magnificantes*, C corrects (152.26).
 
@@ -110,7 +110,7 @@ But finally it is argued that it follows from what has been said that all who ob
 
 [^20]: **S.** Luke 22:20; 1 Cor. 11:25, "This chalice is the new testament in my blood", in indirect speech.
 
-[^21]: **S.** The writings are not named; to be identified (LEDGER K05j-5). E reads *videtur sequi*, D *ex istis* (155.8); B *et quod* (155.10); C has *papa … religiosorum* in the lower margin in another hand (155.10–12).
+[^21]: **S.** The writings are not named, and Loserth gives no foot (LEDGER K05j-5). E reads *videtur sequi*, D *ex istis* (155.8); B *et quod* (155.10); C has *papa … religiosorum* in the lower margin in another hand (155.10–12).
 
 ## Transcription notes
 
