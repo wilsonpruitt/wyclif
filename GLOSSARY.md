@@ -124,6 +124,7 @@ otherwise.
 | suscepcio (sacramenti) | receiving | Of the sacrament; kept apart from *accepcio* "reception" and from *suscepcio* of the nature "taking-up". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 179.20–23). |
 | usus (ecclesie) | use | A church's customary practice or way of speaking, and by play its liturgical Use. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 183.25 ff.). |
 | sanctificacio | sanctification | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 189.6). |
+| eukaristia | the Eucharist | PROVISIONAL capital (Wilson to rule; the volume has ~110 *Eucharist*, 36 *eucharist* in the English, not yet conformed); kept apart from *sacramentum (altaris)*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 196.29). |
 
 ## B. Lordship, law, office
 
@@ -205,7 +206,7 @@ otherwise.
 | satrapa | satrap | Derogatory: church-court officials wielding delegated power (T. p. 378 n. 58). Keep the word; note it at first occurrence per work. |
 | vulgares | the common people | The third estate. Not "the vulgar". Pilot. |
 | iconomus (= oeconomus) | householder | *Dial.* 2.21. Pilot, with a note. |
-| protestacio; protestari | declaration; to declare solemnly | ⭐ The submission formula ("if anyone can teach me this is contrary to scripture or reason, I will humbly retract"). Penn and Lahey both inverted it (T. pp. 369, 378). Render it as a retraction offer, never as defiance. |
+| protestacio; protestari | declaration; to declare solemnly | ⭐ The submission formula ("if anyone can teach me this is contrary to scripture or reason, I will humbly retract"). Penn and Lahey both inverted it (T. pp. 369, 378). Render it as a retraction offer, never as defiance. Also of Berengar's sworn confession (*Euch.* 197.4, coordinator 2026-11-07). |
 | lex gracie | the law of grace | The new law, opposed to *lex vetus*. Ruled 2026-09-28 (*Dial.* 10.3; 7 sites). |
 | curia romana | the Roman curia | Ruled 2026-09-28 (*Dial.* 7.8; 5 sites). |
 | heretica pravitas | heretical depravity | The heresy courts' formula; keep it recognisable. Ruled 2026-09-28 (*Dial.* 7.5, 7.8). |
@@ -699,6 +700,10 @@ otherwise.
 | generancia | begetting | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 161.25). |
 | ponderacio | weighing | Beside *ponderositas* "heaviness". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 183.17). |
 | cifra | cipher | A sign standing for nothing by itself. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 188.29). |
+| ydemptifice | by identification | Kept apart from *ydemptice* "identically" (a mode adverb). Ruled 2026-11-07 (coordinator, delegated; *Euch.* 190.3). |
+| universitas (bare: tota universitas) | the whole universe | Beside *universitas sua* "his universe". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 192.14). |
+| qualitas prima | first quality | Hot, cold, wet, dry. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 197.24). |
+| subiectare | be the subject of | Of a substance underlying accidents. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 199.10). |
 
 ## D. False friends and ordinary words that mislead
 

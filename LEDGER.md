@@ -2068,3 +2068,12 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | K06h-5 | eucharistia-06-h / n5 | Damascene *De fide orth.* IV.13 | verified | 2026-11-07. As Kprolc-5 (*De fide orth.* IV.13). Loserth's foot on p. 187 reads *Joh. Damasc. De Fide orthod. lib. IV, cap. XIII*. 06-h n5 matches. (see `chunks/eucharistia/_verify/RESULTS-16.md`) |
 | K06h-6 | eucharistia-06-h / n8 | figure the fourth species of quality, *Cat.* 8 | verified | 2026-11-07. As K03d-3 (*Cat.* 8: *The fourth sort of quality is figure and the shape*). Wyclif 188.6 has *qualitas de IVta specie qualitatis*. 06-h n8 matches. (see `chunks/eucharistia/_verify/RESULTS-16.md`) |
 | K06h-7 | eucharistia-06-h / n12 | *gens Roberti* = Robert of Geneva / Clement VII | verified | 2026-11-07. As K05k-4. 187.30–31 *gens Roberti … cum suis cardinalibus* is one of the places cited there. 06-h n12 matches. (see `chunks/eucharistia/_verify/RESULTS-16.md`) |
+| K07a-1 | eucharistia-07-a / n4 | Lombard *Sent.* IV d. 11 c. 1 | editor | Loserth (Cologne 1576 fol. 352b–353a) |
+| K07a-2 | eucharistia-07-a / n4 | Thomas *Super IV Sent.* printed "dist. XL, q. I, art. I", probably d. 11 | editor | check (cf. Kprolb-6) |
+| K07a-3 | eucharistia-07-a / n15 | *in materia de incarnacione* = Wyclif's own *De incarnacione*? | to-verify | find the passage (Society vol. 3) |
+| K07b-1 | eucharistia-07-b / n17 | *in materia De Universalibus* = Wyclif's *De universalibus* | to-verify | find the passage |
+| K07b-2 | eucharistia-07-b / n19 | Berengar's last declaration = *Ego Berengarius*, c. 42 | editor | as Kprola-3 (verified) |
+| K07c-1 | eucharistia-07-c / n2 | Averroes: heaviness a substantial form, or nearest to it | to-verify | find the place |
+| K07c-2 | eucharistia-07-c / n3 | colour as light incorporated in the diaphanous: Aristotle *De sensu* 3, 439b | to-verify | check |
+| K07c-3 | eucharistia-07-c / n5 | Glossa ord. on *De cons.* D. 2 (heaviness); Loserth: vide supra p. 184 | editor | as K04h-1 / K06g-2 |
+| K07c-4 | eucharistia-07-c / n11 | Augustine: an accident cannot be of itself | to-verify | cf. Kprola-7 |
