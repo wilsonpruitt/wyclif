@@ -80,7 +80,7 @@ As to the third, the answer is, following the [teachings]{g:sentencia} of [the s
 
 [^11]: **C.** *Quodlibet sit simul cum alio contineat adequate* is taken as: whatever thing of the genus of place or time is "at once" with another in this sense contains it exactly. D reads *adequata* (247.11–12).
 
-[^12]: **C/S.** *Sentencia* in the sense "teaching" (the CONTEXTUAL row). Which of the saints Wyclif has in view is not said; Augustine's account of the loaves (*In Ioh.* tract. 24) is a candidate, to be checked (LEDGER K08d-1).
+[^12]: **C/S.** *Sentencia* in the sense "teaching" (the CONTEXTUAL row). Which of the saints Wyclif has in view is not said; Augustine's account of the loaves (*In Ioh.* tract. 24) is the likeliest: *In Ioh.* tract. 24.1 (PL 35, 1593), *unde multiplicat de paucis granis segetes, inde in manibus suis multiplicavit quinque panes*, which Thomas (*ST* III q. 44 a. 4 ad 4) reads as *additionem extraneae materiae in panes conversae*, the matter supplied and assimilated of Wyclif's answer (LEDGER K08d-1).
 
 [^13]: **S.** The feeding of the multitude from five loaves and two fishes (John 6:9; Matt. 14:20, "they did all eat, and were filled"). *Ex tanto cibo* "from so much food": the measure of the food, set against *tantum miraculum* and *tantum populum*.
 
