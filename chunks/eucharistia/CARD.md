@@ -80,7 +80,7 @@ set `status: translated`; lint; report.
   that is construal, not source verification, and one call. (`prol-a` 2.1–5: the three decrees are the
   objections' grounds, ch. 1 pp. 24, 25, 28.)
 - **English layout:** `[N]` at the same word as `[p. N]` in the Latin (the chunk's first `[p. N]` is
-  implicit). Supplied words in `[brackets]`, sparingly, ⛔ never in italics. **Quotations** in quotation
+  implicit). Supplied words in `[brackets]`, sparingly, ⛔ never in italics. **Quotations** (a quotation running on across ¶s or into the next chunk opens each ¶ with a double quote and closes only at its end; quotations inside it take single quotes) in quotation
   marks. Your brief carries Loserth's **italic runs** per page where the scan's OCR gives them (rough;
   ⚠ page numbers drift: a run not in your page's Latin belongs to a neighbouring page): they are
   the editor's judgement of where a quotation runs, not the manuscript's: follow them by default, depart
