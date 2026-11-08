@@ -27,7 +27,7 @@ Again, coming closer to the difficulty, it seems that all [bread]{g:panis} or [w
 
 > [p. 194] Sed adversarius dicit quod omnes termini sunt accidentales, cum quilibet potest esse quidlibet, et ita non sequitur quidquid erit Petrus illud nunc est, sed asinus erit Petrus, ergo asinus ipse nunc est; ut in simili non sequitur: quidquid tempore nativitatis tue fuisti illud nunc es, sed infidelis ydiota tunc fuisti, ergo infidelis ydiota nunc es; et quam accidentale est tibi esse infidelem, tam accidentale est tibi esse hominem.
 
-But the adversary says that all terms are accidental, since anyone can be anything; and so it does not follow: "whatever will be Peter, that now is; but an ass will be Peter; therefore the ass itself now is",[^3] as, in a like case, it does not follow: "whatever you were at the time of your birth, that you now are; but you were then an [unbelieving]{g:infidelis} [unlettered man]{g:ydiota}; therefore you are now an unbelieving unlettered man";[^4] and as accidental as it is to you to be an unbeliever, so accidental is it to you to be a man.
+But the adversary says that all terms are accidental, since anyone can be anything; and so it does not follow: "whatever will be Peter, that now is; now an ass will be Peter; therefore the ass itself now is",[^3] as, in a like case, it does not follow: "whatever you were at the time of your birth, that you now are; now you were then an [unbelieving]{g:infidelis} [unlettered man]{g:ydiota}; therefore you are now an unbelieving unlettered man";[^4] and as accidental as it is to you to be an unbeliever, so accidental is it to you to be a man.
 
 ## ¶3 · 194.15–194.22
 
