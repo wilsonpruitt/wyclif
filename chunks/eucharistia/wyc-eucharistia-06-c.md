@@ -40,7 +40,7 @@ status: translated
 
 ## Notes
 
-[^1]: **S.** The whole of this part continues the passage of Gregory the Great's Easter homily on Exod. 12 (*Hom. in Evang.* II.22, §§7–9 as we take it) that Wyclif quotes at length; Loserth's reference at 168.17 is "S. Gregorii l. c. pag. 1536, 1537" (LEDGER K06c-1). The quotation opened in the previous part; Gregory's words are therefore not set in quotation marks here, and only the scripture inside them is.
+[^1]: **S.** The whole of this part continues the passage of Gregory the Great's Easter homily on Exod. 12 (*Hom. in Evang.* II.22, §§8–9, PL 76, 1178D–1181B) that Wyclif quotes at length; Loserth's reference at 168.17 is "S. Gregorii l. c. pag. 1536, 1537" (LEDGER K06c-1). The quotation opened in the previous part; Gregory's words are therefore not set in quotation marks here, and only the scripture inside them is.
 [^2]: **T.** 165.28 *Dominus*: absent in all the manuscripts; C adds it in the margin over an erasure. Loserth prints it, and we translate his print.
 [^3]: **S.** Amos 4:4 and 4:5, both in the Vulgate's words (Loserth 166.1).
 [^4]: **T.** 166.10 *historiaco*: so the print, for the expected *historico*; translated as "historical".
