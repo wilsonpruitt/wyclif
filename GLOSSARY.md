@@ -82,7 +82,7 @@ otherwise.
 | corpus Christi / corpus Domini | the body of Christ / the body of the Lord | Kept apart as the Latin alternates them. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 1.6, 1.10). |
 | novella ecclesia / antiqua ecclesia | the newer church / the ancient church | The pair of 3.3; cf. *novelli*. Ruled 2026-11-06 (coordinator, delegated; *Euch.* prol-a 3.3). |
 | cultores accidencium / signorum | worshippers of accidents / of signs | Wyclif's name for the defenders of the accident without a subject. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 6.15, prol-c 10.2). |
-| inpanacio | impanation | The bread and the body united in one; the fourth objection of ch. 7. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 7.18). |
+| inpanacio; impanacio | impanation | The bread and the body united in one; the fourth objection of ch. 7. Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-b 7.18). |
 | cognacio (Christi cum membris) | kinship | With those who do the Father's will (Matt 12:50; 314.21–22). Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-c 10.11). |
 | claritas (of the glorified body) | clarity | The dowry of the glorified body (with agility, subtlety, impassibility); not "brightness". Ruled 2026-11-07 (coordinator, delegated; *Euch.* prol-c). |
 | sumpcio | reception | Of the sacrament; *sumere* "receive". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 01-a 13.2). |
@@ -111,6 +111,8 @@ otherwise.
 | verba sacramentalia conversiva | sacramental words that convert | The *moderni*'s words of consecration as effecting conversion. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 121.1). |
 | concomitancia | concomitance | With *concomitanter*, *gracia concomitancie*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 121.27). |
 | provecciores doctores | more advanced doctors | Beside *moderni doctores*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 130.3). |
+| pseudofrater; pseudofratres | false friar; false friars | Kept apart from *pseudomonachus* "false monk". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 139.13). |
+| ydolatrare | idolatrize | Beside *ydolatria*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 143.24). |
 
 ## B. Lordship, law, office
 
@@ -664,6 +666,15 @@ otherwise.
 | universitas sua (God's) | his universe | Beside *universitas creaturarum* "the totality of creatures". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 124.31, 129.16). |
 | bonificacio | bettering | Of the bread made better, not destroyed. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 129.14). |
 | mistice | mystically | A mode adverb, one word; kept apart from *figurative*, *tropice*, *sacramentaliter*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 128.24). |
+| figuracio | figuration | Beside *figura / figurare*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 131.16). |
+| neutraliter; adiective | as a neuter [noun]; as an adjective | The grammar of *accidens*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 134.7). |
+| naturalitas obediencialis | obediential naturalness | Cf. *dependencia obediencialis*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 134.15–18). |
+| actuacio | actuation | Of a form actuating matter. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 134.25). |
+| accidentalitas | accidentality | Beside *substancialitas*. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 134.13). |
+| quantitas successiva | successive quantity | Time and motion, against permanent quantity. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 134.1). |
+| corpus mathematicum | mathematical body | The three dimensions without matter. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 142.31). |
+| fantasiare | fancy | The verb beside *fantasia* "imagination". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 143.16). |
+| insolidus | unsolid | Of the modern doctors' fantasy. Ruled 2026-11-07 (coordinator, delegated; *Euch.* 143.20). |
 
 ## D. False friends and ordinary words that mislead
 
