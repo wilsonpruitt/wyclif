@@ -2213,3 +2213,19 @@ identification, carried over) · `to-verify` (from memory or secondhand; not yet
 | K09f-5 | eucharistia-09-f / n15 | Thomas, *In IV Sent.* d. 8 q. 1, l.c. p. 118 | verified | 2026-11-09. The locus needs correcting. Parma *In IV Sent.* d. 8 q. 1 is on spiritual eating. Wyclif's matter is d. 8 q. 2 a. 1 qc. 4 ad 1, which ends *Unde sensus est: hoc contentum sub his speciebus est corpus meum*. The same reply rejects a reading because the sense would be false *pro* the instants before the last, the point Wyclif turns against Thomas at 295.6–8. Loserth: *l.c. pag. 118* (foot 295.6). (see `chunks/eucharistia/_verify/RESULTS-25.md`) |
 | K09f-6 | eucharistia-09-f / n18 | C. 24 q. 3 c. 27 *Heresis* (Jerome) | verified | 2026-11-09. PL 187, C. 24 q. 3 c. 27 *Unde haeresis dicatur? Haeresis graece ab electione dicitur … Quicunque igitur aliter scripturam intelligit, quam sensus Spiritus sancti flagitat … haereticus appellari potest*. It is inscribed to Jerome, *in epistolam ad Galatas c. 5*. (see `chunks/eucharistia/_verify/RESULTS-25.md`) |
 | K09f-7 | eucharistia-09-f / n21 | *Manducate ex hoc omnes* from the canon of the mass, not Matt 26:26 | verified | 2026-11-09. bible.py: Matt. 26:26 *Accipite, et comedite*. 1 Cor. 11:24 *Accipite, et manducate* (without *ex hoc omnes*). Rabanus quotes the canon of the mass in *De sacris ordinibus* c. 19 (PL 112, 1192A): *Accipite et manducate ex hoc omnes, hoc est enim corpus meum*. (see `chunks/eucharistia/_verify/RESULTS-25.md`) |
+| K09g-1 | eucharistia-09-g / n3 | Augustine, *De haeresibus* (Loserth *Opp.* VIII 8, queried); which heresy | editor | Loserth 296 foot; identify the heresy |
+| K09g-2 | eucharistia-09-g / n6 | Jerome, *Ep.* 15 to Damasus: *hypostasis*, poison under honey | to-verify | PL 22 |
+| K09g-3 | eucharistia-09-g / n11 | *Cat.* 6: two senses of position; position the penultimate category | to-verify | check |
+| K09h-1 | eucharistia-09-h / n2 | *Liber sex principiorum* tr. II c. 5: position intrinsic | editor | Loserth 300.21; check the text |
+| K09h-2 | eucharistia-09-h / n3 | *virtus unita fortior se ipsa dispersa*: *Liber de causis* | to-verify | check |
+| K09h-3 | eucharistia-09-h / n5 | Witelo, *Perspectiva*; the figure *Mukephi* (Loserth: *Serm.* II 385) | editor | identify the term |
+| K09h-4 | eucharistia-09-h / n7 | Příbram, *Professio fidei*, in Cochlaeus, *Hist. Hussitarum* p. 540 | editor | Loserth 301.30 |
+| K09i-1 | eucharistia-09-i / n1 | *in pocioribus donis Dei* glosses the right hand of God (Augustine on the creed) | to-verify | PL 40 |
+| K09i-2 | eucharistia-09-i / n2 | Jerome: the body of Christ understood in two ways (*In Eph.*; *De cons.* D. 2) | to-verify | PL 26 / Friedberg I |
+| K09i-3 | eucharistia-09-i / n3 | the canon of the mass, *Supplices te rogamus* | to-verify | check |
+| K09i-4 | eucharistia-09-i / n4 | ps.-Augustine, *De cognitione verae vitae*, *Opp.* VI Append. p. 171 | editor | Loserth; PL 40 |
+| K09i-5 | eucharistia-09-i / n7 | *Magister* = Peter Comestor, *Hist. schol.* Gen. c. 1; the example of the king | editor | Loserth 306.6 |
+| K09i-6 | eucharistia-09-i / n8 | *De cogn. verae vitae* c. 24, p. 176 | editor | Loserth; PL 40 |
+| K09i-7 | eucharistia-09-i / n10 | *De cogn. verae vitae* c. 45, p. 182 | editor | Loserth; PL 40 |
+| K09i-8 | eucharistia-09-i / n11 | *De cogn. verae vitae* c. 42 | editor | Loserth; PL 40 |
+| K09i-9 | eucharistia-09-i / n13 | the mouse eating the host: Lombard *Sent.* IV d. 13 | to-verify | check |

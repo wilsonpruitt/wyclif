@@ -1190,3 +1190,12 @@ otherwise.
 | scandalizare (the saints) | defame | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 293.29). |
 | sensus vicarius | vicarial meaning | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 296.12). |
 | melioracio | betterment | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 293.13). |
+| tropare; tropicare | trope; take tropically | The verbs of *predicacio tropica*, beside *tropice*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 296.23–297.3). |
+| commultiplicare | co-multiply | Of the accidents multiplied with the body. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 298.13). |
+| ydolatria | idolatry | Beside *ydolatrare*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 297.25). |
+| signum vicarium | vicarial sign | Beside *sensus vicarius*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 303.14). |
+| septipedalis; septipedalitas | seven feet long; seven-foot length | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 301.7, 302.1). |
+| quantificacio | quantification | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 303.1). |
+| esse presenciale / virtuale / actuale / propinquum | presential / virtual / actual / proximate being | The modes of one thing's being. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 305.28–306.6). |
+| Magister (in historiis) | the Master [of the *Histories*] | Peter Comestor, *Historia scholastica*; apart from the *Magister* row (Lombard). Ruled 2026-11-09 (coordinator, delegated; *Euch.* 306.6). |
+| potencialiter | potentially | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 305.16). |
