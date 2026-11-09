@@ -63,7 +63,7 @@ As to the second, on the truth of the words of the sacrament, it is clear that t
 
 [^2]: **C.** *Cum illi non sunt credibiles, quia illi*: "because they are those [men]", on their own say-so; *illi* are those who call the teaching impossible. *Unum primum* has no noun: we supply "thing".
 
-[^3]: **S.** Loserth refers to Lanfranc, *Opera*, pp. 159, 163, 191, 192, and quotes: *Quod vero panis dicitur: consueto sacrorum codicum more id fit, qui res quaslibet saepe vocant nominibus illarum rerum ex quibus fiunt* ("that it is called bread comes about by the accustomed manner of the sacred books, which often call things by the names of the things from which they are made") (LEDGER K09e-1).
+[^3]: **S.** Loserth refers to Lanfranc, *Opera*, pp. 159, 163, 191, 192, and quotes: *Quod vero panis dicitur: consueto sacrorum codicum more id fit, qui res quaslibet saepe vocant nominibus illarum rerum ex quibus fiunt* ("that it is called bread comes about by the accustomed manner of the sacred books, which often call things by the names of the things from which they are made") (*De corpore et sanguine Domini* c. 20, PL 150, 438A) (LEDGER K09e-1).
 
 [^4]: **C.** *Glossare eos*: "them" taken as the adversaries, who gloss the saints' "bread" as accident ("just as they … assert of us"); Wyclif returns the gloss, reading their "accident of bread" as the bread. If *eos* are the saints, "gloss them" is only "expound them".
 
@@ -79,9 +79,9 @@ As to the second, on the truth of the words of the sacrament, it is clear that t
 
 [^10]: **C.** *Quia facere qualitates istas informare* has no governing verb: we supply "what is needed is". Virtue and grace in the place avail nothing unless they inform the bishop.
 
-[^11]: **S/T.** *Decretum* D. 20 c. 1 (modern form ours). Loserth: some words have dropped out here; the sentence does not occur in c. 1; compare the ordinary gloss on D. 20 (LEDGER K09e-2). The thought matches Gratian's preface to D. 20 (LEDGER K09e-3, to be checked).
+[^11]: **S/T.** *Decretum* D. 20 c. 1 (modern form ours). Loserth: some words have dropped out here; the sentence does not occur in c. 1; compare the ordinary gloss on D. 20 (LEDGER K09e-2). The thought is Gratian's dictum before c. 1, D. 20 d.a.c. 1 § 1: the expositors *in sacrarum quidem scripturarum expositionibus eis praeponuntur, in causis vero definiendis secundum post eos locum merentur* (LEDGER K09e-3).
 
-[^12]: **S/G.** *Decretum* C. 25 q. 1 c. 16 (modern form ours), "very loosely quoted" (Loserth) (LEDGER K09e-4). *Ius*: "right", the canons' binding force, not "law".
+[^12]: **S/G.** *Decretum* C. 25 q. 1 c. 16 (modern form ours), which Wyclif names by its incipit; the words he gives are Gratian's dictum after it, d.p.c. 16 § 1 (*Sacrosancta Romana ecclesia ius et auctoritatem sacris canonibus impertitur … seu iubendo, seu definiendo, seu aliter agendo, se decretorum dominos … esse ostendunt*), whence his *sentencia Graciani*; "very loosely quoted" (Loserth) (LEDGER K09e-4). *Ius*: "right", the canons' binding force, not "law".
 
 [^13]: **C.** *Continue parate iniusta*: "unjust in readiness", always ready to be found unjust, since every such law stands to be revoked at the pope's pleasure.
 
@@ -89,7 +89,7 @@ As to the second, on the truth of the words of the sacrament, it is clear that t
 
 [^15]: **C.** *Demonstratur*: what the demonstrative pronoun of the words of institution points to; "demonstrated" throughout. AC read *ubique nec sonat quadruplex evangelium dicta* (291.27), displacing the next clause.
 
-[^16]: **S.** Rabanus, *De sacramento altaris*: Wyclif's attribution (LEDGER K09e-5, to be checked).
+[^16]: **S.** Rabanus, *De sacramento altaris*: Wyclif's title; no work of Rabanus bears it. The matter is in his exposition of the canon of the mass, *De sacris ordinibus* c. 19, *De ordine missae* (PL 112, 1192), on *ut nobis corpus et sanguis fiat*: *Quis unquam crederet, quod panis in carnem potuisset converti … nisi ipse Salvator diceret* (LEDGER K09e-5).
 
 [^17]: **C.** *Quod orant ut fiat*: "which [thing] they pray may come about", the bread's becoming the body. D *quod fiat*.
 

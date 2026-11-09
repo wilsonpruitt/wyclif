@@ -39,15 +39,15 @@ As to the third word,[^9] it is clear that the adversaries lyingly destroy the d
 
 ## Notes
 
-[^1]: **S.** Thomas on *Sent.* IV d. 11 q. 3; Loserth refers to Thomas, *Opera* X, 174 (LEDGER K09f-1). D *questione II*. AB omit *substantivum* (292.19).
+[^1]: **S.** Thomas on *Sent.* IV d. 11 q. 3 as Wyclif numbers it, that is the Parma d. 11 q. 1 a. 3 qc. 1 (this conversion differs from all natural ones: it reaches the matter, has no subject, and its end is not changed by generation), with a. 4 on the substantive verb; Loserth refers to Thomas, *Opera* X, 174 (LEDGER K09f-1). D *questione II*. AB omit *substantivum* (292.19).
 
 [^2]: **C.** *Per Lyncolniensem*: Grosseteste, "the [bishop] of Lincoln"; the phrase does not attach plainly, and is taken as "by way of Lincoln", Thomas's account read through Grosseteste. The pause after *accidentibus* is ours: *ut sub illis accidentibus* ends Thomas's account (so 295.6–7), and the Subtle Doctor begins a new sentence.
 
-[^3]: **S.** Scotus on *Sent.* IV d. 8; Loserth: Duns Scotus, l.c., p. 80 (LEDGER K09f-2). ABC *anologum*.
+[^3]: **S.** Scotus on *Sent.* IV d. 8 q. 2 (Wadding VIII, c. 437–441; tenth and eleventh conclusions: *hoc … demonstrat singulare entis, et non per se singulare alicuius minus universalis quam ens*, though understood *pro singulari … quod est corpus Christi*); Loserth: Duns Scotus, l.c., p. 80 (LEDGER K09f-2). ABC *anologum*.
 
 [^4]: **S.** The ordinary gloss on *De cons.* D. 2 c. *Timorem* (modern form ours); Loserth quotes it: *ad hoc dico quod nichil demonstratur, nam ipsa materialiter ponitur ibidem* (LEDGER K09f-3). The quotation marks follow Loserth's italics; Wyclif's words differ from the gloss's.
 
-[^5]: **C/S.** One man, Richard FitzRalph, archbishop of Armagh (Loserth's side-note: "Fitzralph"); the print's comma after *Richardus* does not make two persons. The place in FitzRalph is not given (LEDGER K09f-4).
+[^5]: **C/S.** One man, Richard FitzRalph, archbishop of Armagh (Loserth's side-note: "Fitzralph"); the print's comma after *Richardus* does not make two persons. Wyclif gives no place; the nearest is FitzRalph, *Summa* IX.5 (Paris 1512, ff. 67v–68r), where the reading he calls *probabile* is that Christ *de illo quod dedit et fregit affirmasse videtur discipulis quod erat corpus suum* (LEDGER K09f-4).
 
 [^6]: **S.** Matt. 21:19, "and immediately the fig tree withered away" (*arefacta est*); *remansit arida* is Wyclif's. B omits *arida*.
 
@@ -67,7 +67,7 @@ As to the third word,[^9] it is clear that the adversaries lyingly destroy the d
 
 [^14]: **S/C.** John 4:22, "You adore that which you know not" (*adoratis quod nescitis*). *Tantum* taken as "so much"; or "only" ("they adore only what they know not"). DE *quod nec cognoscunt*.
 
-[^15]: **S/G.** Thomas on *Sent.* IV d. 8 q. 1; Loserth: l.c., p. 118 (LEDGER K09f-5). *Color*: a plausible ground, not a pretext. D *probacionis* for *prolacionis* (295.8).
+[^15]: **S/G.** Thomas on *Sent.* IV d. 8 q. 1 as Wyclif numbers it, that is the Parma d. 8 q. 2 a. 1 qc. 4 ad 1: *hoc contentum sub his speciebus est corpus meum*; Loserth: l.c., p. 118 (LEDGER K09f-5). *Color*: a plausible ground, not a pretext. D *probacionis* for *prolacionis* (295.8).
 
 [^16]: **C.** *Singulariter*: CONTEXTUAL row, here "in a singular way": Christ did not have in mind the accidents of each particular host.
 
@@ -79,7 +79,7 @@ As to the third word,[^9] it is clear that the adversaries lyingly destroy the d
 
 [^20]: **C.** *Verificare*: "make true", the active beside *verificari* "be true of"; *aliud* taken as the gospel's own form of words, which needs no emending.
 
-[^21]: **S.** *Manducate ex hoc omnes* is not the wording of Matt. 26:26 (*Accipite et comedite*); taken to be the canon of the mass, *Accipite et manducate ex hoc omnes* (LEDGER K09f-7, to be checked). "The fifth chapter" is Wyclif's own ch. 5.
+[^21]: **S.** *Manducate ex hoc omnes* is not the wording of Matt. 26:26 (*Accipite et comedite*); it is the canon of the mass, *Accipite et manducate ex hoc omnes, hoc est enim corpus meum*, as Rabanus quotes it, *De sacris ordinibus* c. 19 (PL 112, 1192); 1 Cor. 11:24 has *Accipite, et manducate* without *ex hoc omnes* (LEDGER K09f-7). "The fifth chapter" is Wyclif's own ch. 5.
 
 ## Transcription notes
 

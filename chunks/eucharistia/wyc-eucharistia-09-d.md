@@ -57,7 +57,7 @@ To that I have often said that this apron of the devil[^16] blinds very many; fo
 
 [^2]: **C.** *Sentencia*: "teaching", the position taught (CONTEXTUAL row); here the teaching Wyclif defends, that the sacrament is bread.
 
-[^3]: **S/C.** Loserth refers to *De cons.* D. 2 c. 80 *Necessario igitur* (modern form ours) and to Harduin, *Concil. coll.* I, 1194 (LEDGER K09d-2). Wyclif counts Ephesus the "fourth" synod (LEDGER K09d-3). The last clause has no verb (*ad inferendum proposicionem*): we supply "serves"; the proposition is the one just stated, that no decree before Lanfranc was against this teaching.
+[^3]: **S/C.** Loserth refers to *De cons.* D. 2 c. 80 *Necessario igitur* (modern form ours) and to Harduin, *Concil. coll.* I, 1194 (LEDGER K09d-2). Wyclif counts Ephesus the "fourth" synod; Gregory's list in D. 15 c. 2, cited in the next sentence, has it third, after Nicaea and Constantinople, and c. 80 is headed only *ex Symbolo Ephesino* (LEDGER K09d-3). The last clause has no verb (*ad inferendum proposicionem*): we supply "serves"; the proposition is the one just stated, that no decree before Lanfranc was against this teaching.
 
 [^4]: **S.** *Decretum* D. 15 c. 2 *Sicut sancti evangelii*: "as the four books of the holy gospel, so I confess that I receive and venerate the four councils" (Loserth's foot; modern form ours) (LEDGER K09d-4).
 
