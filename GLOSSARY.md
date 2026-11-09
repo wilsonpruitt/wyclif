@@ -1180,3 +1180,13 @@ otherwise.
 | informacio (ecclesie) | instruction | The church's teaching; apart from the *informacio* row (a form in its subject). Ruled 2026-11-09 (coordinator, delegated; *Euch.* 284.17). |
 | sollempnius (of teaching) | more eminently / more eminent | Extends the *sollempnior* row; not "more solemnly". Ruled 2026-11-09 (coordinator, delegated; *Euch.* 283.29). |
 | poletici | political [writers] | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 282.13). |
+| duodena | jury | The jury of twelve; Loserth's side-note "jury". Ruled 2026-11-09 (coordinator, delegated; *Euch.* 286–287). |
+| salubriter | wholesomely | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 285.22). |
+| porizoma | apron | Gen 3:7 (DR "aprons"). Ruled 2026-11-09 (coordinator, delegated; *Euch.* 287.20). |
+| demonstrare (of a pronoun) | demonstrate | The logician's sense: what the demonstrative pronoun (*hoc*) points out; not "prove". Records the use of chs. 2–8. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 291, 293–296). |
+| postillantes | those who write postils | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 292.4). |
+| vertibilis | turnable | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 291.6). |
+| fraccio | breaking | Of the host. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 293.22). |
+| scandalizare (the saints) | defame | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 293.29). |
+| sensus vicarius | vicarial meaning | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 296.12). |
+| melioracio | betterment | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 293.13). |
