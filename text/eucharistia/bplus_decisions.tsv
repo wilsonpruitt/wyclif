@@ -234,3 +234,4 @@ page	pos	rule	forms	reading	note
 345	3	BT-ONLY	bt=DE SACRAMENTO | fordham= | vote=	DE SACRAMENTO	print = bt
 347	0	BT-ONLY	bt=Sequitur questio ad fratres de sacramento | fordham= | vote=	Sequitur questio ad fratres de sacramento	print = bt
 347	51	BT-ONLY	bt=testimonio | fordham= | vote=	testimonio	print = bt
+276	47	SUB	bt=(ut | fordham= | vote=ux	(ut	print = bt; vote ux an OCR t/x scar (wave 24)

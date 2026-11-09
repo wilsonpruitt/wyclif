@@ -1175,3 +1175,8 @@ otherwise.
 | precavicio | precaution | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 249.10). |
 | sollempnior (of doctors) | more eminent | The medieval sense of *sollempnis*; not "more solemn". Ruled 2026-11-07 (coordinator, delegated; *Euch.* 262.18). |
 | sectivagus | sect-roving | Ruled 2026-11-07 (coordinator, delegated; *Euch.* 266.5). |
+| inpeccabilis | unable to sin | The pair of *peccabilis*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 276.17). |
+| secta signa colencium | the sect of those who worship signs | Beside *secta signorum*, *cultores signorum*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 278.11). |
+| informacio (ecclesie) | instruction | The church's teaching; apart from the *informacio* row (a form in its subject). Ruled 2026-11-09 (coordinator, delegated; *Euch.* 284.17). |
+| sollempnius (of teaching) | more eminently / more eminent | Extends the *sollempnior* row; not "more solemnly". Ruled 2026-11-09 (coordinator, delegated; *Euch.* 283.29). |
+| poletici | political [writers] | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 282.13). |
