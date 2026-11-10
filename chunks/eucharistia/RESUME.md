@@ -94,19 +94,24 @@ sense (*continuacio*, *sentencia*, *cognacio*, *conficere*, *species*): the hove
 site build (key on the row whose sense the chunk note names) or split keys before deploying.
 - For the headnote / close-out: in ch. 3 (03-d, K03d-1/4) Wyclif turns Ockham's own parsimony argument (*De sacramento altaris* c. 28) against him on quantity; worth a sentence in "Where it is answered" or a chapter headnote.
 
-## ⏸ PAUSED 2026-11-07 after wave 23 (Wilson: "pause after the next wave")
+## ✅ STAGES 7–8 DONE 2026-11-09 — all 93 chunks translated and checked
 
-**Done:** prol-a … 08-j translated = **69 of 93 chunks**; every wave checked (connectives + ledger) through
-wave 23 once RESULTS-23 is applied (see git log). All local commits; **nothing pushed, nothing deployed.**
+Waves 24–31 ran 2026-11-09 on Wilson's "opus go" (09-a … 09-n, pen01 … pen06, quest, then 02-f + 02-g).
+⚠ **02-f and 02-g had been skipped** by the 2026-11-07 wave order (wave 4 ended at 02-e, wave 5 began at 03-a);
+the pause's "69 of 93" was really 67. Found by the all-93 status check (`grep -L 'status: translated'`), done as
+wave 31. ⇒ **Lesson: run the all-chunks status check at every pause, not only at the end.**
+`lint.py chunks/eucharistia/wyc-eucharistia-*.md`: 93 chunks, 0 problems. Every wave has connectives + ledger
+applied (RESULTS-24 … RESULTS-31). Local commits, **not pushed, not deployed**.
 
-**Restart:** the next brief is `brief.py eucharistia 09-a 09-b 09-c`, then 09-d…09-n (14 chunks, ~5 waves), then
-`pen01…pen06` and `quest` (7 chunks, ~3 waves) — **24 chunks left, ~8 waves**. Per wave: translate (Opus) →
-glossary census + Latin-checked conform → ledger rows → commit → connectives + ledger agents
-(`WAVE-PROMPTS.md`; ledger prompt must demand quoted note changes and notes-only targets) → apply → commit.
-`pen01` starts a second work (*De eucharistia et penitencia*, its own sigla A–F and headnote; see CARD).
+**Measured cost (waves 24–31):** translation 128–195K per wave (8 waves ≈1.29M); connectives ≈60–72K;
+ledger 91–192K. ≈3.0M all in for 26 chunks, inside the ≈3.3M estimate.
 
-**Measured cost:** translation ≈150–190K per 3-chunk wave; connectives ≈65–80K; ledger ≈100–160K. ≈0.4M per
-wave all in; the remaining ~8 waves ≈3.3M.
+**Ledger-agent trap (wave 27):** a note change keyed on a generic phrase (*To be checked.*) fails apply.py's
+whole-file uniqueness test, and a failed run has already written earlier rows: `git checkout` the chunks and
+re-run. The ledger prompt now says "unique in the WHOLE CHUNK FILE; anchor on the note's own ledger tag".
+
+**Next: stage 9 close-out** (four-class review of the long, dense chunks; Latin doubts on the plates; PLAN cost
+row), then stage 10 (site build + CLI deploy, each a hard stop).
 
 **Settled:** *Eucharist* capitalised (Wilson 2026-11-07, conformed).
 
@@ -116,4 +121,13 @@ wave all in; the remaining ~8 waves ≈3.3M.
 - Headnote sentence on Wyclif answering Ockham (*De sacr. alt.* c. 28) in ch. 3.
 - Untraced rows listed in LEDGER (status `untraced`); e.g. K08i-5 and K09h-1 (editor) both want a clean text of the *Liber sex principiorum* (Aristoteles Latinus I.6–7 is lending-only on archive.org), K08j-2 may be Loserth's italics for emphasis only; Kpen01-1 (Wyclif's *doctor decretorum* John of God) wants a printed Glossa ordinaria to the Decretum, *De pen.* D. 5 c. 1, gloss v. *Quidam* (Basel 1512 / Venice 1600 / Lyon on archive.org); K08h-2 Averroes not read.
 - *Dialogus* and *De ecclesia* have `(LEDGER …)` in English body text (site scrub handles it; check after build).
+- Headnote `[verify]`s: the modern date c. 1379–80 (main headnote); *De penitencia* c. 1382–84 (pen01; Loserth
+  gives none). The *Questio* date was dropped (untraced; RESULTS-30).
+- Departures from the print taken by the card's variant rule, worth a close-out look: 297.27 AC *minus*,
+  305.26 ABCE *exemplares*; our bracketed supplies at 287.4 "[not]", 293.28 "[less]", 297.19 "[sense]",
+  322.24 "[should hold]" (against Loserth's *non esse ad sacerdotes*), 275.7 *Medium* omitted (perhaps Gratian's
+  inscription *Idem*). See CONVENTIONS 2026-11-09 rows.
+- K02f-4 / K02f-5: the ordinary gloss on D. 2 c. 42 and Guido de Baysio's *Rosarium* have no OCR'd print (scans to be read by eye; with Kpen01-1).
+- K09j-3: Loserth's William of Saint-Amour fails (no *De sacramento altaris* in the 1632 *Opera*); William of
+  Auxerre / de la Mare / Ware untried.
 

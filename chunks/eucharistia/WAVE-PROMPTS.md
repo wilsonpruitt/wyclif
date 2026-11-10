@@ -63,3 +63,9 @@ Rows: `chunks/eucharistia/_verify/rows-{W}.md` (the wave's to-verify / editor ro
 - (2026-11-07, wave 3) Tell the ledger agent: **no plain `"` inside a quoted old/new phrase** — write `\"` or use
   typographic quotes / italics. RESULTS-3 had two (`OCR "LXXVf"`) that apply.py skipped silently; it now prints
   `WARN … not parsed` — apply those by hand.
+- (2026-11-09, wave 27) apply.py tests the old phrase for uniqueness in the WHOLE chunk file, not the note: a
+  generic *To be checked.* fails, after earlier rows have been written. Tell the ledger agent to anchor generic
+  phrases on the note's own ledger tag (*to be checked (LEDGER K09m-2)*). A headnote change can go as
+  `quest n0: "…" → "…"` (apply.py replaces file-wide when the phrase is unique).
+- (2026-11-09) At every pause run `grep -L 'status: translated' chunks/SLUG/wyc-*.md`: 02-f and 02-g were
+  skipped by the wave order and only found at the end.
