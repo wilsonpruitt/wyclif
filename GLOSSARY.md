@@ -1219,3 +1219,12 @@ otherwise.
 | doctor decretorum | doctor of decrees | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 331). |
 | naturaliter | naturally | A mode adverb: one row, as the others (prol-a ruling). Ruled 2026-11-09 (coordinator, delegated; *Pen.* 329). |
 | illudere | delude | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 329.2). |
+| copia sacerdotis | access (to a priest) | The availability of a person; apart from *copia* "plenty". Ruled 2026-11-09 (coordinator, delegated; *Pen.* 333.4). |
+| claves | keys | The power of the keys; the compound row *claves potestatis / auctoritatis* stays. Ruled 2026-11-09 (coordinator, delegated; *Pen.* 332.10). |
+| solvere / ligare (the keys) | loose / bind | DR Matt. 16:19; apart from "resolve" (objections), "dissolve" (oaths), "loose" (the union). Ruled 2026-11-09 (coordinator, delegated; *Pen.* 332.12). |
+| auricularis; auriculariter | auricular; auricularly | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 332.21). |
+| absolvere; absolucio | absolve; absolution | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 337.22). |
+| obiectus (noun) | objection | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 332.28). |
+| confessio generalis / specialis / privata / publica | general / special / private / public confession | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 335.12). |
+| thyriaca | theriac | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 332.7). |
+| delecio | blotting out | Beside *delere* "blot out". Ruled 2026-11-09 (coordinator, delegated; *Pen.* 338.8). |
