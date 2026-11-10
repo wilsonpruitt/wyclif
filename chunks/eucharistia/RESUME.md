@@ -114,6 +114,6 @@ wave all in; the remaining ~8 waves ≈3.3M.
 - Shared GLOSSARY keys with two senses (*continuacio, sentencia, cognacio, conficere, species, fantasticus,
   singulariter, per se*…): the site hover needs to pick the row the note names.
 - Headnote sentence on Wyclif answering Ockham (*De sacr. alt.* c. 28) in ch. 3.
-- Untraced rows listed in LEDGER (status `untraced`); e.g. K08i-5 wants the Aristoteles Latinus *Liber sex principiorum*, K08j-2 may be Loserth's italics for emphasis only; K08h-2 Averroes not read.
+- Untraced rows listed in LEDGER (status `untraced`); e.g. K08i-5 and K09h-1 (editor) both want a clean text of the *Liber sex principiorum* (Aristoteles Latinus I.6–7 is lending-only on archive.org), K08j-2 may be Loserth's italics for emphasis only; K08h-2 Averroes not read.
 - *Dialogus* and *De ecclesia* have `(LEDGER …)` in English body text (site scrub handles it; check after build).
 

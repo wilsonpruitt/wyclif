@@ -45,31 +45,31 @@ But sixthly, [as a main head]{g:principaliter}, it is argued about the [motion]{
 
 ## Notes
 
-[^1]: **C/S.** "That" argument is the sophist's second rejoinder (304.8–10); *ut supra* "as above". "Understood personally" is personal supposition: the term stands for the person born of the virgin. *In pocioribus donis Dei*, "in the greater gifts of God", glosses "at the right hand of God" in the manner of Augustine's exposition of the creed (from memory, to be checked; LEDGER K09i-1). ABCE lack *paciebatur*. A reads *vocatum*, corrected to *vocatur*; C *vocatum*.
+[^1]: **C/S.** "That" argument is the sophist's second rejoinder (304.8–10); *ut supra* "as above". "Understood personally" is personal supposition: the term stands for the person born of the virgin. *In pocioribus donis Dei*, "in the greater gifts of God", glosses "at the right hand of God" after the school gloss on the session at the right hand, *id est in potioribus bonis Dei* (Lombard, *Collectanea* on Rom. 8:34, PL 191, 1452C; on Heb. 10:12, PL 192, 481D); Augustine’s own exposition of the creed has *in summa beatitudine* (*De fide et symbolo* 7.14, PL 40, 188) (LEDGER K09i-1). ABCE lack *paciebatur*. A reads *vocatum*, corrected to *vocatur*; C *vocatum*.
 
-[^2]: **S/C.** Jerome on the twofold flesh and blood of Christ (the spiritual and the crucified), from memory placed in his commentary on Ephesians and in Gratian, *De cons.* D. 2; to be checked (LEDGER K09i-2). The granted proposition keeps Wyclif's order: the first "body of Christ" is the bread on the altar, the second the person.
+[^2]: **S/C.** Jerome on the twofold flesh and blood of Christ (the spiritual and the crucified), *In Eph.* I on 1:7 (PL 26, 451A: *Dupliciter vero sanguis Christi, et caro intelligitur*), taken into Gratian as *De cons.* D. 2 c. 49 (LEDGER K09i-2). The granted proposition keeps Wyclif's order: the first "body of Christ" is the bread on the altar, the second the person.
 
-[^3]: **C/S.** *Post conversionem* is taken of the eucharistic conversion of the bread; ABC read *per conversionem*. It could instead be the logical conversion of the proposition "this bread is the body of Christ". The carrying to heaven "before the eyes of God" recalls the canon of the Mass, *Supplices te rogamus* (from memory, to be checked; LEDGER K09i-3). AB read *omne delatum*.
+[^3]: **C/S.** *Post conversionem* is taken of the eucharistic conversion of the bread; ABC read *per conversionem*. It could instead be the logical conversion of the proposition "this bread is the body of Christ". The carrying to heaven "before the eyes of God" recalls the canon of the Mass, *Supplices te rogamus* (*iube haec perferri per manus angeli tui in sublime altare tuum, in conspectu divinae maiestatis tuae*; PL 78, 27D; LEDGER K09i-3). AB read *omne delatum*.
 
-[^4]: **S/C.** Augustine, *De cognitione verae vitae* (Loserth at 305.22: *S. Augustini Opp.* VI, Appendix, p. 171; LEDGER K09i-4). *Virtus* is "power", *potencia* "potency" here, to keep the three terms apart; the order of the second list (essence, potency, power) is Wyclif's.
+[^4]: **S/C.** Ps.-Augustine, *De cognitione verae vitae* cc. 28–29 (PL 40, 1021–1022: *Dei potentia nihil est aliud quam ejus essentia … ubique essentialiter est*; Loserth at 305.22: *S. Augustini Opp.* VI, Appendix, p. 171; LEDGER K09i-4). *Virtus* is "power", *potencia* "potency" here, to keep the three terms apart; the order of the second list (essence, potency, power) is Wyclif's.
 
 [^5]: **T.** The print reads *raciones seminales* both for being in God and for being in secondary causes. ABCE read *exemplares habent in Deo* for the first, which gives the sense of the two distinct modes, and is translated ("exemplary reasons"); E also has *secundum quod*.
 
 [^6]: **C.** *Omnis homo secundus*, "every second man", is taken as every man after the first, who is in his parent before he exists; B lacks *homo*.
 
-[^7]: **G/S.** *Magister* here is not the Lombard but the Master of the *Histories*, Peter Comestor, *Historia scholastica*, Genesis c. 1, *De creatione empirei caeli* (Loserth at 306.6; LEDGER K09i-5). The example of the king is to be checked there.
+[^7]: **G/S.** *Magister* here is not the Lombard but the Master of the *Histories*, Peter Comestor, *Historia scholastica*, the opening of the work (Loserth at 306.6 gives Genesis c. 1, *De creatione empirei caeli*; LEDGER K09i-5). The example of the king is its first sentence, before c. 1 (PL 198, 1053): *Imperatoriae majestatis est, in palatio tres habere mansiones*, the world, Scripture and the just soul being God’s three.
 
-[^8]: **S/T.** *De cognitione verae vitae* c. 24 (Loserth at 306.8: p. 176; LEDGER K09i-6). The codices lack *opinetur* and read *nemo enim sordes*; *eum* (306.12) is Loserth's correction (D *solas enim*; ABCE *solas eum*). ABCE read *sic dicimus*, D *Sic Deus*, for *Sic denique*. The English follows the print.
+[^8]: **S/T.** *De cognitione verae vitae* c. 24 (PL 40, 1020; Loserth at 306.8: p. 176; LEDGER K09i-6). The codices lack *opinetur* and read *nemo enim sordes*; *eum* (306.12) is Loserth's correction (D *solas enim*; ABCE *solas eum*). ABCE read *sic dicimus*, D *Sic Deus*, for *Sic denique*. The English follows the print.
 
 [^9]: **C.** The accusative-infinitive is construed with "this saint, or anyone catholic" as subject of *habuisse*, "held … had"; *ex hoc*, "on this ground", is taken with the verb.
 
-[^10]: **S/T.** *De cognitione verae vitae* c. 45 (Loserth at 306.18: p. 182; LEDGER K09i-7). It echoes Matt. 13:43 (DR "Then shall the just shine as the sun") and 1 Cor. 15:41 (DR "For star differeth from star in glory"); "clarity" keeps the glossary's word for *claritas*. *Ultimus* and *nos* are Loserth's corrections (codd. *Ulterius*; ABCE *homines autem*, D *Hos autem*). ABC read *celici iusti*.
+[^10]: **S/T.** *De cognitione verae vitae* c. 45 (Loserth at 306.18: p. 182; c. 46 in PL 40, 1030; LEDGER K09i-7). It echoes Matt. 13:43 (DR "Then shall the just shine as the sun") and 1 Cor. 15:41 (DR "For star differeth from star in glory"); "clarity" keeps the glossary's word for *claritas*. *Ultimus* and *nos* are Loserth's corrections (codd. *Ulterius*; ABCE *homines autem*, D *Hos autem*). ABC read *celici iusti*.
 
-[^11]: **S/T.** *De cognitione verae vitae* c. 42 (Loserth at 306.27; LEDGER K09i-8), on Acts 7:55 (DR "saw the glory of God and Jesus standing on the right hand of God"). *Oculo* (307.7) is Loserth's correction of the codices' *oculus*; the codices read *nullo modo* for *ullomodo*.
+[^11]: **S/T.** *De cognitione verae vitae* c. 42 (PL 40, 1028; Loserth at 306.27; LEDGER K09i-8), on Acts 7:55 (DR "saw the glory of God and Jesus standing on the right hand of God"). *Oculo* (307.7) is Loserth's correction of the codices' *oculus*; the codices read *nullo modo* for *ullomodo*.
 
 [^12]: **S.** Levi tithed in Abraham: Heb. 7:9–10 (DR "even Levi who received tithes paid tithes in Abraham: For he was yet in the loins of his father"). "A man after his corruption begets or kills" is the logicians' stock case of an effect that comes after its cause has ceased.
 
-[^13]: **S.** The mouse that eats the host is the schools' question from the *Sentences* (the Lombard, *Sent.* IV d. 13; from memory, to be checked; LEDGER K09i-9). B lacks *et … manducatur*; A and C read *eciam a*.
+[^13]: **S.** The mouse that eats the host is the schools' question from the *Sentences* (the Lombard, *Sent.* IV d. 13 c. 1, PL 192, 868: *Quid ergo sumit mus, vel quid manducat? Deus novit hoc*; the Lombard denies that beasts take the body, while the common view Wyclif reports is the later school’s, e.g. Thomas, *ST* III q. 80 a. 3 ad 3; LEDGER K09i-9). B lacks *et … manducatur*; A and C read *eciam a*.
 
 ## Transcription notes
 

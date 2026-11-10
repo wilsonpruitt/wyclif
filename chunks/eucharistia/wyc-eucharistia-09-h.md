@@ -88,17 +88,17 @@ But secondly the sophist rejoins: "If this is extended there and this is the bod
 
 [^1]: **C.** *Staret de Deo possibili* is taken as "it would stand, as possible to God" (consistent with God's power). *Per se* is "by itself", a quantity with no subject; *sine maiori substancia*, "without a greater substance", is rendered as printed. "Which they grant as faith": the adversaries hold the accident without a subject as of faith.
 
-[^2]: **S.** Gilbert of Poitiers, *Liber sex principiorum*, tr. II c. 5, *De posicione* (Loserth at 300.21, citing the 1512 Venice *Organon*: *Sedere namque non magis est posicio quam accumbere neque minus*); that it says position is intrinsic is to be checked (LEDGER K09h-1). Linus is Peter's successor in the lists of Roman bishops; the three are an example.
+[^2]: **S.** Gilbert of Poitiers, *Liber sex principiorum*, tr. II c. 5, *De posicione* (Loserth at 300.21, citing the 1512 Venice *Organon*: *Sedere namque non magis est posicio quam accumbere neque minus*); that it says position is intrinsic is not confirmed: the text was not read, and Albert’s commentary appears to discuss whether position inheres or only assists (LEDGER K09h-1). Linus is Peter's successor in the lists of Roman bishops; the three are an example.
 
-[^3]: **S.** "Every power united is stronger than itself dispersed" is a philosophers' maxim, usually given from the *Liber de causis*; from memory, to be checked (LEDGER K09h-2). *Virtus* here is "power", a faculty of acting, not moral virtue.
+[^3]: **S.** "Every power united is stronger than itself dispersed" is a philosophers’ maxim, the school form of *Liber de causis* prop. 17 (16): *Omnis virtus unita plus est infinita quam virtus multiplicata*, which Thomas illustrates by many men hauling a ship together (LEDGER K09h-2). *Virtus* here is "power", a faculty of acting, not moral virtue.
 
 [^4]: **C.** *Sentencia* is the position the perspectivists teach ("teaching"), not a sentence. *Collacio* is taken in its sense "collection", the gathering of rays, not "conferral".
 
-[^5]: **S.** Witelo, *Perspectiva*; Loserth (301.19) refers to Wyclif's *Sermones* II, 385 for Witelo. The figure *Mukephi* is left as printed: an Arabic loanword of the optics, presumably the concave figure of the burning mirror; to be checked (LEDGER K09h-3).
+[^5]: **S.** Witelo, *Perspectiva*; Loserth (301.19) refers to Wyclif's *Sermones* II, 385 for Witelo. The figure *Mukephi* is left as printed: Witelo’s Arabic name for the parabola (*Perspectiva* I.98: *parabola, et est illa quam Arabes dicunt mukefi*); IX.43 shows that a concave mirror of parabolic section gathers all the sun’s parallel rays to one point, where fire may be kindled (LEDGER K09h-3).
 
 [^6]: **S/C.** Matt. 17:1 (DR "bringeth them up into a high mountain apart") and 17:4, where Wyclif omits *Domine* (DR "Lord, it is good for us to be here"). The "four dowries" of the glorified body are clarity, agility, subtlety, impassibility. *Sed evangelium dicit* is rendered "now": it brings the premiss closed by *ideo*. ABCD read *quod bonum*; ABC *nobis*.
 
-[^7]: **R.** Loserth (301.30) compares Jan Příbram, *Professio fidei antiquae*, in Cochlaeus, *Historia Hussitarum*, p. 540 (LEDGER K09h-4).
+[^7]: **R.** Loserth (301.30) compares Jan Příbram, who quotes this sentence verbatim among the articles of Wyclif he rejects (*quod fidelis Theologus etiam Laicus non crederet praedicanti, quod corpus Christi est septipedale*), *Professio fidei antiquae*, in Cochlaeus, *Historia Hussitarum*, p. 540 (LEDGER K09h-4).
 
 [^8]: **C.** *Os Christi* is taken as *os, oris* "the mouth", with head and feet before it; it may be *os, ossis* "the bone". *Indivisibiles quante* is construed "indivisible [yet] quantified": parts that are quantified yet have no parts, as with an accident that informs no subject.
 
