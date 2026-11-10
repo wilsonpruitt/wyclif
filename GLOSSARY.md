@@ -1228,3 +1228,12 @@ otherwise.
 | confessio generalis / specialis / privata / publica | general / special / private / public confession | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 335.12). |
 | thyriaca | theriac | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 332.7). |
 | delecio | blotting out | Beside *delere* "blot out". Ruled 2026-11-09 (coordinator, delegated; *Pen.* 338.8). |
+| mercari | trade | Beside *commercium*. Ruled 2026-11-09 (coordinator, delegated; *Pen.* 339.3). |
+| cupido; cupiditas | cupidity | Synonyms in Wyclif, as *solvere / dissolvere* (Wilson's ruling, prol-a): one rendering. Ruled 2026-11-09 (coordinator, delegated; *Pen.* 340.1–25). |
+| lubricus | prone to slip | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 339.17). |
+| figuraliter | figurally | A mode adverb, kept apart from *figurative* "figuratively". Ruled 2026-11-09 (coordinator, delegated; *Pen.* 342.17). |
+| anterioracio | putting before | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 341.27). |
+| reditus (a coming back) | return | Apart from the *reditus* "revenue(s)" row. Ruled 2026-11-09 (coordinator, delegated; *Pen.* 341.29). |
+| salutare (arguments) | greet | Ironic: to touch on in passing. Ruled 2026-11-09 (coordinator, delegated; *Pen.* 341.1). |
+| trutannicus | vagabond | A jibe at the mendicants. Ruled 2026-11-09 (coordinator, delegated; *Quest.* 347.15). |
+| infideliter | faithlessly | Ruled 2026-11-09 (coordinator, delegated; *Quest.* 347.17). |
