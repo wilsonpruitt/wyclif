@@ -1207,3 +1207,15 @@ otherwise.
 | decapuciacio | doffing of hoods | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 319.22). |
 | morosus amor | lingering love | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 317.21). |
 | pompaticus | boastful | Beside the *pompare* row. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 09-l). |
+| incastrare | lock away | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 323.4). |
+| indignificare | make unworthy | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 322.27). |
+| preponderacio | overweighting | Kept apart from *preponderancia*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 323.13). |
+| repugnancia (not logical) | demur | Of a person's resistance; the logical sense stays "incompatibility". Ruled 2026-11-09 (coordinator, delegated; *Euch.* 320.25). |
+| affectus | affection | Set against *intellectus*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 324.31). |
+| mater ecclesia | mother church | The church as mother; apart from *matrix ecclesia* (the local mother church, with its C note). Ruled 2026-11-09 (coordinator, delegated; *Euch.* 325.26). |
+| penitencia (the sacrament) | penance | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 329). |
+| contricio (penitential) | contrition | Of grain, literal "crushing" (*Euch.* 05-d, Augustine on the bread). Ruled 2026-11-09 (coordinator, delegated; *Pen.* 329–330). |
+| confessio (oris) | (oral) confession | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 330–331). |
+| doctor decretorum | doctor of decrees | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 331). |
+| naturaliter | naturally | A mode adverb: one row, as the others (prol-a ruling). Ruled 2026-11-09 (coordinator, delegated; *Pen.* 329). |
+| illudere | delude | Ruled 2026-11-09 (coordinator, delegated; *Pen.* 329.2). |
