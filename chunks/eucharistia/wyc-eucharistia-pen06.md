@@ -39,7 +39,7 @@ But those who argue thus from an imprudent likeness ought first to attend to whe
 
 > [p. 343] Et per ista dicta breviter possunt solvi similes argucie per diabolum introducte. Scimus quidem quod consuetudo istorum ypocritarum novorum ordinum remurmurat contra istam sentenciam. Sed super omnia vincit veritas racionis. Non sumus autem sic desponsati cum ista sentencia quam adhuc credimus esse catholicam quin docto contrario velimus ipsam humiliter dimittere et contrarium constancius confiteri.
 
-And by these sayings like quibbles brought in by the devil can be briefly resolved. We know indeed that the custom of these hypocrites of the new orders murmurs back against this teaching. But above all the truth of reason "conquers".[^17] Yet we are not so wedded to this teaching, which we still believe to be catholic, that, were the contrary taught us, we would not humbly lay it aside and confess the contrary more steadfastly.[^18]
+And by these sayings like quibbles brought in by the devil can be briefly resolved. We know indeed that the custom of these hypocrites of the new orders murmurs back against this teaching. But above all the truth of reason "conquers".[^17] But we are not so wedded to this teaching, which we still believe to be catholic, that, were the contrary taught us, we would not humbly lay it aside and confess the contrary more steadfastly.[^18]
 
 ## Loserth's side-notes (PD, verbatim; not our translation)
 
