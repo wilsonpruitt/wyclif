@@ -53,6 +53,10 @@ there invisibly. The second asks what the consecrated host is, sets the Roman ch
 "bread and wine", against "quantity" and "quality", and holds the decree *Ego Berengarius* (*De
 cons.* D. 2 c. 42) by distinguishing identical from tropical predication. The third argues that
 transubstantiation cannot be founded in scripture and that an accident cannot be without a subject.
+There, without naming him, Wyclif meets Ockham's teaching that substance is quantified without any
+quantity really distinct from it, and answers it with Ockham's own rule from the same chapter of *De
+sacramento altaris* (c. 28), that it is vain to do by more what can be done by fewer, and that no
+plurality is to be posited without reason or experience (67.1, 69.10–18).
 The fourth turns to the words of consecration, how they are true, who can consecrate, and the order
 in which the questions must be asked. Its adversary throughout is the "modern" doctrine of
 transubstantiation and the friars who teach it `[verify]`.

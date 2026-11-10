@@ -1,0 +1,36 @@
+# Review: *De eucharistia*, chunk prol-b (pp. 4.26–8.29)
+
+Reviewer: independent, fresh session, 2026-11-09. Method: sentence by sentence against Loserth's Latin (the `>` blocks), against `CARD.md` (read whole), CONVENTIONS §§6–9, 12, 14, and GLOSSARY.md (grepped per term). Like prol-a, the compendium has no *enim / nam / ergo / igitur / ideo / autem / vero / at / itaque / unde*. Its one *tamen* (6.24, "nevertheless") and its *quia* (8.28, "for") are right. Its *ymmo* (7.29) is "but rather", which is right. Its *sed* at 7.29 brings the minor premiss of the third proof and is rightly "now" (n. 19). The other *sed* (4.31) is not a premiss (row 2). The ordinal frame (*primo … quarto*, *principaliter*) is rendered throughout. Every T note was checked against the page-foot apparatus (`apparatus.json`, leaves 75–79), and every page.line citation was counted from `text/eucharistia/bt/p004–p008.txt`; all are correct. No plate was needed: the foot OCR is legible at every figure the notes cite. The CONTEXTUAL rows are noted at their first occurrence: *sentencia* (n. 3), *potencia* (n. 5), *inconveniens* (n. 19); the split row *virtus* is noted at n. 12. Lint is clean. Sources in the notes were not re-verified. Quotation bounds were not checked against the italics.
+
+Classes: 1 terms · 2 connectives · 3 medieval sense · 4 construal, or a note/title contradicting the text.
+
+**Exact strings.** "Current" and "proposed" are copied exactly from the file and are meant for find/replace. Each "current" string was checked with a script and occurs once in the file. No string in this review runs across a line break (⏎ is not needed).
+
+| # | page.line | Latin | current English | class | severity | proposed English | reason |
+|---|---|---|---|---|---|---|---|
+| 1 | 7.22–25 | *probat tripliciter quod sentencia ista de inpanacione est heretica, primo quia scriptura sacra et sancti doctores in verbis asserunt, ut allegant beatum Augustinum dicentem quod panis est corpus Christi* | "assert [it] in words" | 4 | error | "assert in words" | *Asserunt* has no object in the Latin. The supplied "[it]" can only take up "this teaching of impanation", which makes scripture and the doctors assert the very heresy the proof refutes. What they assert is shown by the clause that follows (Augustine's "the bread is the body of Christ"). Leave it unsupplied, or supply "[that the bread is the body of Christ]". |
+| 2 | 4.31 | *non est abrogatum. Sed post tanguntur alii doctores provecciores* | "Now afterwards [5] other," | 2 | weak | "But afterwards [5] other," | This is a narrative turn from the older doctors to "other, more advanced" ones, set against them. No premiss is brought and no *ergo* follows. Under the card, "now" is reserved for the minor premiss or a step that brings a new premiss to bear. |
+| 3 | 7.15; 8.4–5 | *declarando sensum istius*; *limitando sensum multitudinis* | (a) "in making clear the sense of this"; (b) "[limiting]{g:limitare} the sense of [multitude]{g:multitudo}" | 1 | weak | (a) "in making clear the [meaning]{g:sensus} of this"; (b) "[limiting]{g:limitare} the meaning of [multitude]{g:multitudo}" | Both are *sensus* of words: of the proposition "the bread becomes the body of Christ", and of the word *multitudo*. The ruled row "sensus (of words)" is "meaning", and "sense" is kept for the bodily *sensus* and for *sentencia (verborum)*. The first occurrence (7.15) should carry the tag. |
+| 4 | 6.5 | *habeat habitus et opera virtuosa* | "virtuous [habits]{g:habitus} and works" | 1 | style | "virtuous habits and works" | The `habitus` key resolves to "habitus (of the humanity)", the Lombard's christological opinion, or to "habitus (= possession) the having". Neither is the moral habit, so the hover gloss would mislead. Leave it untagged, or propose a row for the moral habit. |
+| 5 | 7.12 | *solvit quatuor obiectus* | "four [objections]{g:objectum} by which" | 1 | style | "four [objections]{g:obiectus} by which" | The Latin is the masculine noun *obiectus*, which has its own row ("obiectus (noun) objection", ruled 2026-11-09). The key `objectum` belongs to the *instancia; objectum* row. |
+| 6 | 5.16–17; 5.24; 7.26; 8.23–24 | *post consecracionem*; *substancia sacramenti*; *quidditas panis*; *describendo multitudinem* | (a) "remains after the consecration is"; (b) "the substance of the sacrament does not remain"; (c) "the quiddity of bread cannot"; (d) "Fourth, as a main head, defining multitude" | 1 | style | (a) "remains after the [consecration]{g:consecracio} is"; (b) "the substance of the [sacrament]{g:sacramentum} does not remain"; (c) "the [quiddity]{g:quiditas} of bread cannot"; (d) "Fourth, as a main head, [defining]{g:describere} multitude" | These are the first occurrences in the chunk of four ruled rows (*consecracio*, *sacramentum* (the Eucharist), *quiditas*, *describere*), and none is tagged. N. 25 explains "defining", but a tag is owed as well. |
+| 7 | 7.24 (n. 18) | *ut allegant*; foot "24. ABCD: *allegat*" | "**C/S/T.** *Ut allegant*: the subject is scripture and the holy doctors; ABCD read *allegat*, \"as it [the chapter] alleges\" (7.24)." | 4 (note) | weak | "**C/S/T.** *Ut allegant*: the plural has no expressed subject. It is taken with the holy doctors (scripture does not allege Augustine), or it is indefinite, \"as men allege\". ABCD read *allegat*, \"as it [the chapter] alleges\" (7.24), the compendium's usual singular." | The note states as settled a construal that hardly holds: scripture cannot "allege blessed Augustine". The print is kept under Loserth's rule, so the doubt must be stated. |
+
+**Latin doubts.**
+- 7.24 · *allegant* (print, confirmed by the foot lemma) · ABCD *allegat* fits the compendium, whose verbs are all singular with the chapter as subject (*probat … arguit … solvit*). As printed, the plural has no good subject · not a plate matter: the print is certain from the foot. The coordinator should decide whether *allegant* "will not construe", which would admit ABCD (card); otherwise row 7.
+- 5.9 · *quid Augustinus sentit* · Loserth's foot "4, 9. *quid*; *rectius*: *quod*" covers 5.9 as well as 5.4. N. 4 mentions both lines but discusses only 5.4. *Quid* construes at 5.9 ("what Augustine thinks") · no change owed; noted for completeness.
+- 8.22 · *quiete* · already ruled by the coordinator (transcription notes, 2026-11-07); not reopened.
+
+**Headnote.** None owed (prol-a carries the volume headnote).
+
+**Counts.** Class 1: 4 (weak 1, style 3). Class 2: 1 (weak 1). Class 3: 0. Class 4: 2 (error 1, weak 1). Total 7: error 1, weak 3, style 3.
+
+**Overall.** A careful compendium translation with well-placed construal notes. There is one real error: a supplied "[it]" at 7.24 that makes scripture assert impanation. The rest is a misused "now", the *sensus* row not applied, and missing or misdirected first-occurrence tags.
+
+## Applied 2026-11-09
+
+- Rows 1–7: applied, including the error row 1 ("assert in words", unsupplied: the review's first alternative).
+- Row 4: applied (tag removed); no GLOSSARY row for the moral *habitus* added (referred to the coordinator).
+- Latin doubt 7.24 (*allegant*): not a row; Latin unchanged, the print kept, row 7's note carries the doubt.
+
+Lint after application: 0 problems (93 chunks).

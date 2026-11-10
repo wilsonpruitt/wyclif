@@ -113,6 +113,16 @@ re-run. The ledger prompt now says "unique in the WHOLE CHUNK FILE; anchor on th
 **Next: stage 9 close-out** (four-class review of the long, dense chunks; Latin doubts on the plates; PLAN cost
 row), then stage 10 (site build + CLI deploy, each a hard stop).
 
+**▶ Stage 9 STARTED 2026-11-09** (Wilson "Opus go", est. ≈1.7M): four-class review of 10 chunks (07-j, 08-a,
+04-e, 06-e, 05-a, 02-e, 05-i, prol-b, 09-c, 03-c), Opus, 2 chunks per agent, 2 agents at once; prompts in
+`CLOSEOUT-PROMPTS.md`; output `_review/REVIEW-<id>.md`. Then A2 apply, plate doubts, headnote sentence, PLAN row.
+**✅ Stage 9 DONE 2026-11-09** except Wilson's OK on the headnote sentence (prol-a "The move", Ockham *De sacr. alt.*
+c. 28 at 67.1 / 69.10–18). 92 rows (2 errors, 38 weak, 52 style), all applied; lint 0; *serenitatem* kept; 2
+GLOSSARY rows; side-note 175.6 *for* (plate); PLAN cost row (volume ≈17.2M, ~49K/page); CONVENTIONS row.
+Cost ≈1.06M. **Next: stage 10** (generalized `site/build.py` already renders every work? check; add to `READ_NOW`;
+build; push + CLI deploy, each a hard stop). Stage-10 items: shared GLOSSARY keys (hover row), `(LEDGER …)` scrub,
+headnote `[verify]`s.
+
 **Settled:** *Eucharist* capitalised (Wilson 2026-11-07, conformed).
 
 **Open for the close-out (stage 9) / site (stage 10):**

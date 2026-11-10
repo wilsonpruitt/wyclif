@@ -1244,3 +1244,5 @@ otherwise.
 | infecte (loquendo) | imperfectly | C *logice* in another hand. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 51.27). |
 | concordancie (legum) | concordances | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 52.29). |
 | pulcrificare | beautify | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 52.16). |
+| actus sensibilis | act of sense | The act of the sense power (the pain felt), not a perceptible act; *sensibilis* "perceptible" stays for objects. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 234.31, close-out review). |
+| habitus (moral) | habit | The moral habit (*habitus et opera virtuosa*), kept apart from the Lombard's *habitus* and the category of having. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 6.5, close-out review). |

@@ -186,6 +186,14 @@ gates (scars, ledger, connectives) ≈8.5M Opus · close-out ≈0.9M: four-class
 declined), coordinator (8-page line-marker plate check, applying the review) ≈0.15M. **Volume ≈9.4M (~40K/page).**
 Reviewers now read plate feet themselves; budget ~125K per reviewed chunk.
 
+**MEASURED, *De eucharistia* (2026-11-06 … 11-09), 348 pp., 93 chunks, B+ Latin, no Fordham:** stages 1–6 ≈3.96M
+(Sonnet: 35 transcribers 3.35M, plate + side-notes 0.61M) · translation + per-wave gates ≈12.2M Opus over 31 waves
+(≈0.4M per 3-chunk wave all in: translation 130–195K, connectives 60–80K, ledger 90–190K; waves 1–23 from that rate,
+24–31 measured 3.0M) · close-out ≈1.06M: four-class review of the 10 densest chunks 0.84M Opus (2 per agent, ~84K/chunk,
+⅔ of the *De incarn.* rate; 92 rows: 2 errors, 38 weak, 52 style; all applied), applying them 0.12M, coordinator
+≈0.1M (2 side-note plate reads, glossary rulings, headnote sentence). **Volume ≈17.2M (~49K/page).** No ledger or
+connective backlog at close-out. Lesson: run the all-chunks status check at every pause (two chunks were skipped).
+
 ### Superseded estimate (2026-09-28)
 
 The Latin is no longer established by reading every page image. The vote settles ~99.6% of words
