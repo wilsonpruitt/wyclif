@@ -43,6 +43,16 @@ Word assumed <i>is</i> Christ, and so whether Christ is a creature; answers from
 “modern doctors”, Scotus and Thomas among them, beside the ancients until he can bring them into accord. The Latin of
 Edward Harris’s edition (1886), with a new English translation and notes: a prologue and {chapters} chapters in {parts}
 parts, about {words:,} words of English.'''),
+    'eucharistia': dict(n=93, editor='Loserth', name='De eucharistia', year='before 1383', offset=71,
+                     plate='https://archive.org/details/latinworks13wycl/page/n{leaf}/mode/1up',
+                     title_re=r'^\*De eucharistia\*,\s*(?:chapter \d+,\s*part \d+|prologue,\s*part \d+|De eucharistia et penitencia,\s*chapter \d+|Questio ad fratres)\s*[:.]\s*',
+                     sub='On the Eucharist',
+                     lede='''John Wyclif’s treatise on the sacrament of the altar, the work in which he denies that the bread and wine
+cease to be bread and wine, and which was condemned at Oxford. Wyclif asks what the consecrated host is, argues that
+transubstantiation has no ground in scripture and that an accident cannot exist without its subject, and answers the
+friars who taught the “modern” doctrine. The Latin of Johann Loserth’s edition (1892), with a new English translation
+and notes: the medieval compendium that came down with the work, {chapters} chapters in {parts} parts, and, printed
+after them, the short <i>De eucharistia et penitencia</i> and the <i>Questio ad fratres</i>; about {words:,} words of English.'''),
 }
 WORK = WOUT = CHUNKS = PLATE = EDITOR = TITLE_RE = None
 LEAF_OFFSET = 0
@@ -66,7 +76,7 @@ MOVEMENTS = [('The case from scripture', 1, 10), ('Falsehood appeals to authorit
 
 # ------------------------------------------------------------------ glossary
 def glossary():
-    rows, keys, section = [], {}, None
+    rows, keys, section, alt, first = [], {}, None, {}, {}
     for line in open(os.path.join(ROOT, 'GLOSSARY.md')):
         m = re.match(r'^## ([A-D])\. (.*)', line)
         if m:
@@ -80,18 +90,34 @@ def glossary():
         la, en, note = cells[0], cells[1], (cells[2] if len(cells) > 2 else '')
         row = {'la': la, 'en': en, 'note': scrub(note), 'section': section}
         rows.append(row)
-        for form in re.split(r'[;/,]', la):                       # same normalisation as scripts/w3/lint.py
-            form = re.sub(r'\(.*?\)', '', form).strip().lower()
-            form = re.sub(r'[^a-z ]', '', form).strip()
+        norm = lambda f: re.sub(r'[^a-z ]', '', re.sub(r'\(.*?\)', '', f).strip().lower()).strip()   # as scripts/w3/lint.py
+        forms = [norm(f) for f in re.split(r'[;/,]', la)]
+        for form in forms:
             if form:
-                keys.setdefault(form.replace(' ', '-'), row)
-                keys.setdefault(form.split()[0], row)
+                keys.setdefault(form.replace(' ', '-'), row)           # exact keys first: an earlier row's first-word key must not shadow them
+        for form in forms[1:]:                                         # "esse situale / intencionale": {g:esse-intencionale}
+            if form and ' ' not in form and ' ' in forms[0]:
+                alt.setdefault(forms[0].split()[0] + '-' + form, row)
+        for m in re.finditer(r'\(([^)]*)\)', la):                      # "sentencia (verborum, scripture)": {g:sentencia-verborum}
+            w = re.sub(r'[^a-z ]', '', m.group(1).lower()).split()
+            if w and forms[0]:
+                alt.setdefault(forms[0].replace(' ', '-') + '-' + w[0], row)
+        for form in forms:
+            if form:
+                first.setdefault(form.split()[0], row)
+    for d in (alt, first):
+        for k, r in d.items():
+            keys.setdefault(k, r)
     return rows, keys
 
 
 # ------------------------------------------------------------------ text
 def scrub(t):
     """Remove internal process references from reader-facing text (the chunks keep the record)."""
+    t = re.sub(r'[;,]?\s*\b(?:coordinator|translator)\s+\d{4}-\d\d-\d\d', '', t)           # "removed; coordinator 2026-11-07"
+    t = re.sub(r'\s*\((?:see )?LEDGERs [^)]*\)', '', t)                                   # "(LEDGERs K04g-5, K04g-6)"
+    t = re.sub(r'\bCONTEXTUAL row\b', 'glossary entry', t)
+    t = re.sub(r'\bCONTEXTUAL\b', 'context-dependent', t)
     t = re.sub(r'\s*\(LEDGER [A-Za-z0-9-]+(?:,\s*[A-Za-z0-9-]+)*\)', '', t)
     t = re.sub(r'\s*\((?:see )?LEDGER [^)]*\)', '', t)
     t = re.sub(r'\s*\((?:to be checked, |from memory, )?LEDGER [^)]*\)', '', t)
@@ -160,7 +186,7 @@ def inline(s, gl, lang='en'):
         row = gl.get(key)
         if not row:
             return text
-        tip = f'<span class="gl-tip" role="tooltip"><i>{html.escape(row["la"])}</i>: {html.escape(row["en"])}</span>'
+        tip = f'<span class="gl-tip" role="tooltip"><i>{html.escape(row["la"])}</i>: {html.escape(re.sub(r"^CONTEXTUAL:\s*", "", row["en"]))}</span>'
         return f'<span class="gl" tabindex="0">{text}{tip}</span>'
     s = re.sub(r'\[([^\]\[]+)\]\{g:([a-z-]+)\}', tag, s)
     s = re.sub(r'\[\^(\d+)\]', lambda m: f'<sup class="nref"><a id="r{m.group(1)}" href="#n{m.group(1)}">{m.group(1)}</a></sup>', s)
@@ -225,6 +251,10 @@ def speeches(para, current):
 def cparts(cid):
     """(chapter, part) of a chunk id or its tail: '12-c' -> ('12', 'c'); 'comp-a' -> ('comp', 'a'); 'prol' -> ('prol', 'a')."""
     n = re.sub(rf'^wyc-{WORK}-', '', cid)
+    if m := re.fullmatch(r'pen(\d+)', n):                           # De eucharistia: De penitencia, chapters 1-6
+        return ('pen', m.group(1))
+    if n == 'quest':
+        return ('quest', 'a')
     return ('prol', 'a') if n == 'prol' else tuple(n.split('-')[-2:])
 
 
@@ -232,7 +262,7 @@ def order_key(f):
     n = re.search(rf'wyc-{WORK}-(\w+(?:-\w)?)\.md', f).group(1)
     if WORK != 'dialogus':                                          # prol first; 01-a … 23-l; comp-a, comp-b last
         ch, part = cparts(n)
-        return (-1 if ch == 'prol' else 999 if ch == 'comp' else int(ch), part)
+        return (-1 if ch == 'prol' else 999 if ch == 'comp' else 1000 if ch == 'pen' else 1001 if ch == 'quest' else int(ch), part)
     return (1, n) if n.startswith('epil') else (0, int(n))
 
 
@@ -267,7 +297,9 @@ def slug(cid):
     if WORK != 'dialogus':
         ch, part = cparts(n)
         if ch == 'prol':
-            return 'prologus'
+            return f'prologus/{part}' if WORK == 'eucharistia' else 'prologus'
+        if ch in ('pen', 'quest'):
+            return f'penitencia/{int(part)}' if ch == 'pen' else 'questio'
         return f'compendium/{part}' if ch == 'comp' else f'cap/{int(ch)}/{part}'
     return f'epilogus/{n[-1]}' if n.startswith('epil') else f'cap/{int(n)}'
 
@@ -287,7 +319,7 @@ def page(title, body, depth, desc='', canonical=''):
 {FONTS}<link rel="icon" href="{up}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{up}style.css?v={ASSET_V}"><script defer src="/_vercel/insights/script.js"></script><script defer src="https://wrootpress.com/shelves.js"></script></head>
 <body>
 <header class="top"><a class="home" href="{up}">Wyclif’s Latin works</a>
-<nav><a href="{up}ecclesia/"><i>De ecclesia</i></a><a href="{up}dialogus/"><i>Dialogus</i></a><a href="{up}potestate-pape/"><i>De potestate pape</i></a><a href="{up}incarnacione/"><i>De incarnacione</i></a><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
+<nav><a href="{up}ecclesia/"><i>De ecclesia</i></a><a href="{up}dialogus/"><i>Dialogus</i></a><a href="{up}potestate-pape/"><i>De potestate pape</i></a><a href="{up}incarnacione/"><i>De incarnacione</i></a><a href="{up}eucharistia/"><i>De eucharistia</i></a><a href="{up}glossary/">Glossary</a><a href="{up}about/">About this edition</a><a href="{up}rights/">Rights</a></nav></header>
 <main>{body}</main>
 <footer><p>Latin: the Wyclif Society edition (1883–1922), public domain. English, notes and encoding: Wroot Press, <a href="{up}rights/">CC BY-NC 4.0</a>. A working draft.</p></footer>
 <script src="{up}site.js?v={ASSET_V}" defer></script>
@@ -340,7 +372,9 @@ def label(c):
     if WORK != 'dialogus':
         ch, part = cparts(c['fm']['chunk_id'])
         if ch == 'prol':
-            return 'Prologue'
+            return f'Prologue, part {ord(part) - 96}' if WORK == 'eucharistia' else 'Prologue'
+        if ch in ('pen', 'quest'):
+            return f'De penitencia, chapter {int(part)}' if ch == 'pen' else 'Questio ad fratres'
         return f'Compendium, part {ord(part) - 96}' if ch == 'comp' else f'Chapter {int(ch)}, part {ord(part) - 96}'
     if 'epil' in c['fm']['chunk_id']:
         return 'Epilogue, part ' + ('one' if n == 'a' else 'two')
@@ -411,7 +445,7 @@ def render_chunk(c, i, chunks, gl, page_to):
          (f'<a rel="next" href="{root}{next_["slug"]}/">{label(next_)}</a>' if next_ else '') + '</nav>'
     heading = TITLE_RE.sub('', c['title'])
     wname = WORKS[WORK]['name']
-    body = (f'<article class="chapter"><header class="ch-head"><p class="ch-n"><a href="{root}"><i>{wname}</i></a>, {label(c)[0].lower() + label(c)[1:]}</p>'
+    body = (f'<article class="chapter"><header class="ch-head"><p class="ch-n"><a href="{root}"><i>{wname}</i></a>, {label(c) if label(c)[:2] in ('De', 'Qu') else label(c)[0].lower() + label(c)[1:]}</p>'
             f'<h1>{inline(heading[0].upper() + heading[1:], gl)}</h1>'
             f'<p class="ch-pages">{EDITOR} pp. {c["fm"]["pages"]}</p></header>'
             f'<div class="cols-head" aria-hidden="true"><span></span><span>Latin</span><span>English</span></div>'
@@ -496,14 +530,18 @@ def render_work_ecclesia(chunks):
     chapters = {}
     for c in chunks:
         ch = cparts(c['fm']['chunk_id'])[0]
-        chapters.setdefault('Prologue' if ch == 'prol' else 'Compendium' if ch == 'comp' else int(ch), []).append(c)
+        chapters.setdefault('Prologue' if ch == 'prol' else 'Compendium' if ch == 'comp' else 'De eucharistia et penitencia' if ch == 'pen'
+                            else 'Questio ad fratres' if ch == 'quest' else int(ch), []).append(c)
     toc, words = [], 0
     for ch, cs in chapters.items():
         p0 = int(re.match(r'(\d+)', cs[0]['fm']['pages']).group(1))
         p1 = int(re.search(r'(\d+)\.\d+$', cs[-1]['fm']['pages']).group(1))
         words += sum(sum(c['words'].values()) for c in cs)
+        def item(c):                                                # the label inside a group: Part 2 / Chapter 3 / the single text
+            ch_, part = cparts(c['fm']['chunk_id'])
+            return f'Chapter {int(part)}' if ch_ == 'pen' else 'Text' if ch_ == 'quest' else f'Part {ord(part) - 96}'
         toc.append(f'<h3>{ch if isinstance(ch, str) else f"Chapter {ch}"}<span class="range"> · {EDITOR} pp. {p0}–{p1}</span></h3><ol class="toc">' + ''.join(
-            f'<li><a href="{c["slug"]}/"><span class="toc-n">Part {ord(cparts(c["fm"]["chunk_id"])[1]) - 96}</span> '
+            f'<li><a href="{c["slug"]}/"><span class="toc-n">{item(c)}</span> '
             f'<span>{html.escape(short_title(c))}</span></a></li>' for c in cs) + '</ol>')
     w = WORKS[WORK]
     nch = sum(1 for k in chapters if not isinstance(k, str))
@@ -530,11 +568,11 @@ SHELF_TITLES = {
     'civ-dom-3b': 'De civili dominio III, part 2', 'misc-phil-2': 'Miscellanea philosophica II', 'veritate': 'De veritate sacrae scripturae I–III',
     'potestate-pape': 'De potestate pape', 'ente-excerpta': 'De ente librorum duorum', 'opera-minora': 'Opera minora', 'mandatis': 'De mandatis divinis',
 }
-READ_NOW = {'dialogus': 'dialogus/', 'ecclesia': 'ecclesia/', 'potestate-pape': 'potestate-pape/', 'incarnacione': 'incarnacione/'}
+READ_NOW = {'dialogus': 'dialogus/', 'ecclesia': 'ecclesia/', 'potestate-pape': 'potestate-pape/', 'incarnacione': 'incarnacione/', 'eucharistia': 'eucharistia/'}
 
 
 def render_home(built):
-    chunks, e_chunks, p_chunks, i_chunks = built['dialogus'][0], built['ecclesia'][0], built['potestate-pape'][0], built['incarnacione'][0]
+    chunks, e_chunks, p_chunks, i_chunks, u_chunks = built['dialogus'][0], built['ecclesia'][0], built['potestate-pape'][0], built['incarnacione'][0], built['eucharistia'][0]
     vols = json.load(open(os.path.join(ROOT, 'catalog', 'volumes.json')))
     leaves = {k: int(v) for k, v in json.load(open(os.path.join(ROOT, 'catalog', 'leaves.json'))).items()}
     vols.sort(key=lambda v: (int(v['year'][:4]), v['queue']))
@@ -557,16 +595,17 @@ def render_home(built):
     e_words = sum(sum(c['words'].values()) for c in e_chunks)
     p_words = sum(sum(c['words'].values()) for c in p_chunks)
     i_words = sum(sum(c['words'].values()) for c in i_chunks)
+    u_words = sum(sum(c['words'].values()) for c in u_chunks)
     body = f"""<section class="hero">
 <h1 class="title"><span class="t-la">Wyclif</span><span class="t-sub">The Latin works, in English</span></h1>
 <p class="lede">John Wyclif (c. 1330–1384) wrote in Latin. The Wyclif Society printed his Latin works in {len(vols)} volumes
 between 1883 and 1922, and most of them have never been translated into English in full. This site sets the Society’s
-Latin beside a new English translation, one work at a time. Four are ready to read now, below.</p>
+Latin beside a new English translation, one work at a time. Five are ready to read now, below.</p>
 <figure class="shelf" aria-label="The Wyclif Society edition as a shelf of {len(vols)} volumes">
 <div class="spines">{''.join(spines)}</div>
 <figcaption>The Society’s edition on one shelf, in order of publication, each volume as thick as it is long
 (about {round(total, -3):,} scanned pages in all). The dark spines can be read here now: <a href="ecclesia/"><i>De ecclesia</i></a>
-(Loserth, 1886), the <a href="dialogus/"><i>Dialogus</i></a> (Pollard, 1886), <a href="incarnacione/"><i>De benedicta incarnacione</i></a> (Harris, 1886) and <a href="potestate-pape/"><i>De potestate pape</i></a> (Loserth, 1907).</figcaption>
+(Loserth, 1886), the <a href="dialogus/"><i>Dialogus</i></a> (Pollard, 1886), <a href="incarnacione/"><i>De benedicta incarnacione</i></a> (Harris, 1886), <a href="eucharistia/"><i>De eucharistia</i></a> (Loserth, 1892) and <a href="potestate-pape/"><i>De potestate pape</i></a> (Loserth, 1907).</figcaption>
 </figure></section>
 <section class="now"><h2>Read now</h2>
 <div class="now-cards">
@@ -582,6 +621,9 @@ Latin beside a new English translation, one work at a time. Four are ready to re
 <a class="work-card" href="incarnacione/"><span class="wc-t"><i>De benedicta incarnacione</i></span><span class="wc-s">On the Blessed Incarnation</span>
 <span class="wc-d">Whether the humanity the Word assumed is Christ, and so whether Christ is a creature. An early work of the schools;
 a prologue and 13 chapters, about {i_words // 1000 * 1000:,} words of English.</span></a>
+<a class="work-card" href="eucharistia/"><span class="wc-t"><i>De eucharistia</i></span><span class="wc-s">On the Eucharist</span>
+<span class="wc-d">What the consecrated host is, and why the bread does not cease to be bread: Wyclif’s denial of transubstantiation, which Oxford condemned.
+Nine chapters, with <i>De penitencia</i> and the <i>Questio</i>, about {u_words // 1000 * 1000:,} words of English.</span></a>
 </div></section>
 <section class="catalogue"><h2>The Wyclif Society edition</h2>
 <table class="vols"><thead><tr><th>Year</th><th>Volume</th><th>Editor</th><th>On this site</th></tr></thead><tbody>{''.join(rows)}</tbody></table>
