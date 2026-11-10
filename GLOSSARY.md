@@ -1199,3 +1199,11 @@ otherwise.
 | esse presenciale / virtuale / actuale / propinquum | presential / virtual / actual / proximate being | The modes of one thing's being. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 305.28–306.6). |
 | Magister (in historiis) | the Master [of the *Histories*] | Peter Comestor, *Historia scholastica*; apart from the *Magister* row (Lombard). Ruled 2026-11-09 (coordinator, delegated; *Euch.* 306.6). |
 | potencialiter | potentially | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 305.16). |
+| sentencialiter | by way of teaching | The adverb of *sentencia*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 311.11). |
+| capere; accipere (the sacrament) | take; receive | Kept apart from *manducare* "eat": the argument turns on it. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 308.22–24). |
+| evangelisacio | preaching of the gospel | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 315.31). |
+| vicarie | vicariously | Beside *sensus vicarius*, *signum vicarium*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 316.12). |
+| verbum substandi | the verb of being | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 314.23). |
+| decapuciacio | doffing of hoods | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 319.22). |
+| morosus amor | lingering love | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 317.21). |
+| pompaticus | boastful | Beside the *pompare* row. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 09-l). |
