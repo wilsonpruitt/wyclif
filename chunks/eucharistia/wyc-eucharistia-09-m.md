@@ -71,13 +71,13 @@ Gathering up, then, in sum the end intended in this treatise, it seems to me tha
 
 [^5]: **G.** *Manus mortua*, mortmain: lands held by the church, which never pass on by death or sale.
 
-[^6]: **S.** *Decretum beati Ambrosii XII, questione IIᵃ*: Gratian, C. 12 q. 2 c. 70 (Loserth: *Decr.* Sec. Pars, Causa XII, qu. II, cap. LXX; the modern form is ours), *Aurum habet ecclesia* (LEDGER K09m-1), from Ambrose, *De officiis* II.28 (LEDGER K09m-2), to be checked. Loserth's italics end at *ecclesia*; the rest is Wyclif's summary of the canon and stands unquoted.
+[^6]: **S.** *Decretum beati Ambrosii XII, questione IIᵃ*: Gratian, C. 12 q. 2 c. 70 (Loserth: *Decr.* Sec. Pars, Causa XII, qu. II, cap. LXX; the modern form is ours), *Aurum habet ecclesia* (LEDGER K09m-1), from Ambrose, *De officiis* II.28 (LEDGER K09m-2), §§137–142, PL 16, 140B–142A; Wyclif's *pro alendis pauperibus, pro redimendis captivis* follows Gratian's dictum before the canon, *pro alimonia pauperum, pro redemtione captivorum res sacras distrahi licet*. Loserth's italics end at *ecclesia*; the rest is Wyclif's summary of the canon and stands unquoted.
 
 [^7]: **C.** *Parando conservet thesaurum regni forinsecis inimicis*: the clergy keeps the kingdom's treasure ready for foreign enemies to take; *forinsecis inimicis* is a dative of advantage on both verbs. The Latin's *finis* is the purpose of the treasure.
 
-[^8]: **T/S.** *Sic vero* is Loserth's correction (322.1–2): ABC read *Sed nec*, DE *Sic nec*. Ambrose on the temple gold and Nebuchadnezzar: Loserth gives no source and refers to Wyclif, *De ecclesia* pp. 376–377 (LEDGER K09m-3); the Ambrose passage is to be checked (LEDGER K09m-4). *Ipsam* is feminine: Jerusalem.
+[^8]: **T/S.** *Sic vero* is Loserth's correction (322.1–2): ABC read *Sed nec*, DE *Sic nec*. Ambrose on the temple gold and Nebuchadnezzar: Loserth gives no source and refers to Wyclif, *De ecclesia* pp. 376–377 (LEDGER K09m-3); the passage is Ambrose, *De officiis* II.28.137 (PL 16, 140B), *An ignoramus quantum auri atque argenti de templo Domini Assyrii sustulerint?* (4 Kgs 24:13), with Joachim keeping the gold and losing it at §141; it is part of the canon *Aurum* just quoted, and the claim that the gold was the cause of the destruction is Wyclif's own (LEDGER K09m-4). *Ipsam* is feminine: Jerusalem.
 
-[^9]: **S.** Gregory, *Registrum* III.29 as Wyclif cites it; Loserth gives no reference. To be checked (LEDGER K09m-5).
+[^9]: **S.** Gregory, *Registrum* III.29 as Wyclif cites it; Loserth gives no reference. It is the letter to Queen Brunhild, Ep. XI.69 in the Maurist numbering (PL 77, 1209B): *Nam causa sunt ruinae populi sacerdotes mali*; Wyclif quotes it under the same reference, *Registro libro 3, capitulo 29 regine Francie*, in *De simonia* c. 1, p. 7 (LEDGER K09m-5).
 
 [^10]: **S.** *Avaricia que est ydolorum servitus*: Eph. 5:5 (Loserth), where the Vulgate has *avarus, quod est idolorum servitus*, Douay "covetous person (which is a serving of idols)"; Wyclif makes avarice the subject, so his Latin is translated. *Tractatu De Simonia*: Wyclif, *De simonia* p. 7 ff. (Loserth; LEDGER K09m-6). ABC read *ydolorum cultus*.
 
@@ -97,7 +97,7 @@ Gathering up, then, in sum the end intended in this treatise, it seems to me tha
 
 [^18]: **S/C.** *Pacem et veritatem diligere*: cf. Zech. 8:19, "only love ye truth and peace". *Sequendo similius*: the comparative adverb of *similis*, following him in closer likeness.
 
-[^19]: **S.** *Hoc quocienscunque feceritis, in meam memoriam facietis*: the words of the canon of the mass (LEDGER K09m-7, to be checked), not the Vulgate; cf. Luke 22:19 and 1 Cor. 11:25, "This do ye, as often as you shall drink, for the commemoration of me". D reads *commemoracionem*.
+[^19]: **S.** *Hoc quocienscunque feceritis, in meam memoriam facietis*: the canon of the mass, *Haec quotiescunque feceritis, in mei memoriam facietis* (Sarum Missal, ed. Dickinson, col. 617), which Wyclif gives with *Hoc* and the Vulgate's *meam* (LEDGER K09m-7), not the Vulgate; cf. Luke 22:19 and 1 Cor. 11:25, "This do ye, as often as you shall drink, for the commemoration of me". D reads *commemoracionem*.
 
 [^20]: **C.** *Singulariter*: not "alone", since the office is every priest's; "in a singular way", by the row's second sense.
 

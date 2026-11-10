@@ -66,9 +66,9 @@ And the sons of Antichrist fall into impossible errors about penance, since they
 
 [^10]: **S.** Acts 2:41 (three thousand) and 4:4 (five thousand); Wyclif names Paul as well.
 
-[^11]: **S/R.** *Doctor decretorum Johannes de Deo*: John of God, canonist; the work and place are to be checked (LEDGER Kpen01-1), and so is the attribution to Innocent III (LEDGER Kpen01-2). D's margin: *Confessionem auricularem instituit Innocencius III*; B's margin: *Fundata quando et a quo fuit penitencia communiter dicta*.
+[^11]: **S/R.** *Doctor decretorum Johannes de Deo*: John of God, canonist; Wyclif elsewhere calls him *glosator ordinarius* and makes the same claim (*Cruciata* c. 9, Polemical Works II p. 623), so he means the ordinary gloss on Gratian; the passage is not traced (LEDGER Kpen01-1). *Omnis utriusque sexus* is Innocent III's, issued in the Fourth Lateran Council (X 5.38.12, inscribed *Idem* [sc. Innocentius III] *in concilio generali*) (LEDGER Kpen01-2). D's margin: *Confessionem auricularem instituit Innocencius III*; B's margin: *Fundata quando et a quo fuit penitencia communiter dicta*.
 
-[^12]: **S.** *Omnis utriusque sexus*: X 5.38.12 (Loserth: *Decret. Greg.* lib. V, tit. XXXVIII, cap. XII; the modern form is ours), the Fourth Lateran Council's canon 21 (LEDGER Kpen01-3), which binds everyone *postquam ad annos discretionis pervenerit* to confess all sins *proprio sacerdoti* once a year, the words Wyclif echoes above.
+[^12]: **S.** *Omnis utriusque sexus*: X 5.38.12 (Loserth: *Decret. Greg.* lib. V, tit. XXXVIII, cap. XII; the modern form is ours), the Fourth Lateran Council's canon 21 (LEDGER Kpen01-3), which binds everyone *postquam ad annos discretionis pervenerit* to confess all sins *proprio sacerdoti* once a year, words Wyclif echoes above as *dum discrecionem attigerit confiteatur omnia peccata sua … proprio sacerdoti*.
 
 ## Transcription notes
 
