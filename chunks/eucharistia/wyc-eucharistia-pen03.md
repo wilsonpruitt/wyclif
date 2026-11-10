@@ -50,7 +50,7 @@ But it seems to many that general and public [confession]{g:confessio} is better
 
 [^4]: **S/C.** 2 Thess. 2:4, Vulgate *extollitur supra omne quod dicitur Deus* (DR "is lifted up above all that is called God"); Wyclif has *super* and names *Antichristus* as subject, where the Vulgate has the relative *qui adversatur*. *Eo quod … si volebat*: the pope makes a law that Christ could not make even if he willed it, since it would take away the freedom he granted.
 
-[^5]: **C.** *Patronus prime secte*: the pope as head of the first of the sects. The four private religions *sepedicte* and their order are not named here; that the caesarean clergy count as the first sect beside monks, canons and friars is to be checked (LEDGER Kpen03-2). DEF read *in quatuor et religionibus*; D *sepedictis hec quedam facere*; AC are reported as *extinxit*, which does not construe here.
+[^5]: **C.** *Patronus prime secte*: the pope as head of the first of the sects. The four private religions *sepedicte* and their order are not named here; in Wyclif's fixed order they are the caesarean clergy, monks, canons and friars (*De quatuor sectis novellis* c. 1, Polemical Works I p. 242: *sacerdos cesareus, monachus, canonicus atque frater*), and the caesarean priesthood *a papa et cardinalibus capitaliter capit originem* (p. 243), so the pope is patron of the first (LEDGER Kpen03-2). DEF read *in quatuor et religionibus*; D *sepedictis hec quedam facere*; AC are reported as *extinxit*, which does not construe here.
 
 [^6]: **C.** *Solucio ad dicta Augustini*: the sayings answered are those cited at 332.17 (chapter 2). The *quod*-clause gives the sayings; the *quando … tunc* clause is Wyclif's reading of them. E's margin: *Solucio ad dicta*.
 
@@ -58,7 +58,7 @@ But it seems to many that general and public [confession]{g:confessio} is better
 
 [^8]: **S.** Jas. 5:16; Wyclif omits the Vulgate's *ergo* (DR "Confess therefore your sins one to another").
 
-[^9]: **S/C.** The *Confiteor* said by the priest at the beginning of mass, in the people's hearing (Loserth, citing the *Lay Folks Mass Book*, ed. Simmons, p. 6, l. 41: "til alle tho folk he shryves him thare"; LEDGER Kpen03-3). *Ipsis existentibus quandoque solum*: read with *in missarum suarum iniciis*; BCE read *solis*, "to them alone".
+[^9]: **S/C.** The *Confiteor* said by the priest at the beginning of mass, in the people's hearing (Loserth, citing the *Lay Folks Mass Book*, ed. Simmons, p. 6, ll. 41–44 (the line quoted is l. 43): "til alle tho folk he shryves him thare"; LEDGER Kpen03-3). *Ipsis existentibus quandoque solum*: read with *in missarum suarum iniciis*; BCE read *solis*, "to them alone".
 
 [^10]: **C.** *Ut salubre est … sicut salubre est*: the comparison grants that confession, like hearing the word and eating, is wholesome; the next sentence denies that a fixed time under pain may be imposed for any of them.
 

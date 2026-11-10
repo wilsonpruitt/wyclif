@@ -59,7 +59,7 @@ And again, since this auricular and sacramental confession, by the institution o
 
 [^3]: **C/T.** *Ostensio eorum*: the showing of the crimes, the noun that follows (*ipsa crimina*). *Liganti* read on the plate. BDEF lack *et succedentibus sacerdotibus* (A has *succedentibus clavium*, without *sacerdotibus*); A lacks *solvendi*; B reads *ligandique peccata*. The keys and the power of binding and loosing: Matt. 16:19, "whatsoever thou shalt bind upon earth … whatsoever thou shalt loose on earth".
 
-[^4]: **S.** *De visitacione infirmorum*, cited as Augustine's: a work transmitted under his name, attribution and place to be checked (LEDGER Kpen02-1). *Scripta … dictorum papalium*: the genitive hangs on *scripta*, as the print stands; A reads *doctorum et doctorum*.
+[^4]: **S.** *De visitacione infirmorum*, cited as Augustine's: a work transmitted under his name, not Augustine's: an anonymous work printed as *incerti auctoris* in PL 40, 1147–1158, and assigned in a Lambeth manuscript to Baldric of Dol (preface to the PL 166 reprint); the objector's point is II.4, *Quod non sufficiat soli Deo confiteri* (PL 40, 1154), against those who will not *ostendere se sacerdotibus* (LEDGER Kpen02-1). *Scripta … dictorum papalium*: the genitive hangs on *scripta*, as the print stands; A reads *doctorum et doctorum*.
 
 [^5]: **S/T.** *Omnis utriusque sexus*: X 5.38.12 (Loserth, at 331.20: *Decret. Greg.* lib. V, tit. XXXVIII, cap. XII; the modern form is ours), the canon requiring confession *proprio sacerdoti* (LEDGER Kpen02-2). *Ipsis solis noscentibus*: the penitent and the priest alone. ABCEF lack *et* before *sibi*; D reads *auricularitate*; F *Decretum* for *decretalis*.
 

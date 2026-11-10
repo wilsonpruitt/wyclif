@@ -50,7 +50,7 @@ It remains to [resolve]{g:solvere} the other objections, which seem to sound as 
 
 [^8]: **S.** John 8:11, Vulgate *vade et iam amplius noli peccare* (DR "Go, and now sin no more"); Wyclif's infinitive *nolle amplius peccare* is translated. Acts 13:11, "thou shalt be blind, not seeing the sun for a time" (*usque ad tempus*). D reads *eciam quod*, lacking *penitenciam*.
 
-[^9]: **S/T.** *Multis testimoniis Augustini*: no place is named; Augustine's rule that the writings of later authors bind only so far as they are grounded in scripture or reason is to be checked (LEDGER Kpen04-1). *Quantam* as printed, for *quantum*.
+[^9]: **S/T.** *Multis testimoniis Augustini*: no place is named; the classic statement is Augustine to Jerome, Ep. 82.3 (also Gratian D. 9 c. 5): *Alios autem ita lego … non ideo verum putem, quia ipsi ita senserunt; sed quia mihi vel per illos auctores canonicos, vel probabili ratione … persuadere potuerunt* (LEDGER Kpen04-1). *Quantam* as printed, for *quantum*.
 
 [^10]: **T.** AEF read *nullorum* for *nullus nostrorum*; A *introductiva*; D lacks *ex* (338.13); E *delinquerit*.
 
