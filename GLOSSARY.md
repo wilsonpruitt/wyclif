@@ -891,7 +891,7 @@ otherwise.
 | gracia gratificans | grace that makes pleasing | Ruled 2026-10-02 (*Eccl.* 18, 441.8). |
 | deputacio | deputation | Ruled 2026-10-02 (*Eccl.* 19, 443.34). |
 | responsalis | the respondent | Ruled 2026-10-02 (*Eccl.* 19, 445.24). |
-| termini magistrales | masters' terms | Ruled 2026-10-02 (*Eccl.* 19, 445.23). |
+| termini magistrales | masters' terms | Singular *terminus magistralis* "masters' term" (*Euch.* 49.1). Ruled 2026-10-02 (*Eccl.* 19, 445.23). |
 | continuacio | continuity | Ruled 2026-10-02 (*Eccl.* 18, 436.19). |
 | continuacio (of bodies, the act) / discontinuacio; continuare / discontinuare | continuation / discontinuation; make continuous / make discontinuous | The making of several bodies into one continuum (*Incarn.* ch. 12), G note at first use: not "carrying on". Ruled 2026-10-23 (coordinator, delegated; *Incarn.* 204.30, 211.12). |
 | precaria | precarial grant | Wyclif defines it (*Eccl.* 453.21). Ruled 2026-10-02 (*Eccl.* 19). |
@@ -1237,3 +1237,10 @@ otherwise.
 | salutare (arguments) | greet | Ironic: to touch on in passing. Ruled 2026-11-09 (coordinator, delegated; *Pen.* 341.1). |
 | trutannicus | vagabond | A jibe at the mendicants. Ruled 2026-11-09 (coordinator, delegated; *Quest.* 347.15). |
 | infideliter | faithlessly | Ruled 2026-11-09 (coordinator, delegated; *Quest.* 347.17). |
+| famose | in the well-known way | The positive beside *famosius*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 50.24). |
+| signum materiale | material sign | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 49.13). |
+| exemplari | be modelled | Beside *exemplaria / exemplata*. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 50.15). |
+| cessio (quoad locum) | giving-way | The noun of *cedere* "give way". Ruled 2026-11-09 (coordinator, delegated; *Euch.* 52.20). |
+| infecte (loquendo) | imperfectly | C *logice* in another hand. Ruled 2026-11-09 (coordinator, delegated; *Euch.* 51.27). |
+| concordancie (legum) | concordances | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 52.29). |
+| pulcrificare | beautify | Ruled 2026-11-09 (coordinator, delegated; *Euch.* 52.16). |
